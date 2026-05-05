@@ -1,0 +1,1468 @@
+Nazda Románku, já tě úplně rád vidím, jak se máš?
+Taky, taky, hele, pohoda.
+Hele, prosím tě, začala na mě dneska ráno držkovat mikrovlnka.
+No.
+Tak jsem si říkal, jestli dneska neprobereme nějaký machine learning,
+protože určitě zatím něco bude.
+To by mohlo být, člověče, to by mohlo být.
+A mám tady zajímavýho hosta, který nám o tom řekne i víc.
+No tak výborně, tak jako vždycky.
+Podvocasem?
+Podvocasem.
+Tak jo.
+Podvocasem.
+Podvocasem.
+Krasný den, milí posluchači, vítejte u dalšího dílu IT podcastu Podvocasem,
+kterým vás i nadále budeme provázet my dva, to je Petr Polipolák.
+Dobrý den a Roman Žouker-Provazník.
+Dobrý den.
+Trošku si mě překvapil, Románku, jenom tři jména dneska.
+Dneska jenom tři jména, trošku jsem zapracoval ty feedbacky,
+který jsme dostali od našich kolegů, protože v současné chvíli,
+tak jak to nahráváme, tak to ještě nikdo mimo CN Group,
+naší milovanou domovskou společnost, neslyšel, ale rozhodili jsme to
+a máme pár feedbacků, že jsme takový rozdováděný,
+pak mám samozřejmě skvělý ohlasy z Java departmentu,
+tam to obzvlášť jako milujou.
+A jeden feedback, který mě pobavil, to byla naše milovaná Katka,
+která řekla, že jí to znělo jako rochnění nerdíků, ten druhý.
+To se mi taky moc líbilo.
+Což je jako super, protože já si vždycky představím v tom Hobbitovi
+toho krále těch podzemních skřetů s tím nerdím krkem,
+s tu tlustou beďarovitou masou pod krkem, jak si tak jako rochnějí.
+Takže ano, je pravda, že jsme si minule s Tomášem Látalem
+trošičku porochnili, ale od toho si ty lidi, se kterýma si rochníme,
+vlastně zveme, že jo?
+No od toho, proto nás to baví, takže to bylo fajn.
+Já si musím, mě se líbí tvoje představivost, já si musím zgooglit
+ten nerdí krk, abych měl představu taky, co si po tím ukázat.
+Dobré.
+Já ti někdy ten nerdí krk ukážu. Já tě provedu po firmě.
+Nemůžu se dočkat.
+Nějaký najdeme určitě.
+Jinak, když my se bavíme o našich kolegyních a kolezích,
+tak musím říct, kolega kolezích?
+Krásně jsi to řekl.
+Že jo, já jsem se zase hezky jsem to řekl.
+Tak musíme říct ještě, nebo poděkovat především,
+musíme říct, že nám hrozně pomohli a za to jim poděkovat,
+a to především.
+Jan, Lukáš, Marek, já nikdy nevím, kolik on má zase letěch křesních,
+to je strašný, ale prostě náš kamarád Lukáš nám udělal celý zvukový ubal,
+celý to intro, všechny ty džingly, takže Lukáši díky moc, je to prda.
+Moc díky, je to fakt skvělý a líbí se nám to hodně.
+A další, kdo docela dost máknul, no docela dost, je to vidět,
+to byla Míša, jak se jmenuje dál?
+Bartošová.
+Bartošová, já se to nikdy nepamatuju, prostě proč se ty holky vždycky musí vdát,
+když si zapamatuju příjmení, tak se vdá.
+Vždycky to je pravidlo, jakmile vím, jak se jmenuje příjmením, tak se vdá.
+Takže bacha holky, jakmile si vás zapamatuju, tak vás asi čekají vdavky.
+No a Míša, ta nám udělala úžasný logo, který v současnou chvíli samozřejmě už vidíte
+na vašich oblíbených streamovacích platformách.
+Je to krásný logo, ručně malovaný s Václavem, kde vlastně vysvětluje,
+proč je to porovocasem, byť jsme to v prvním díle říkali.
+No a poslední osoba, která nám strašně pomohla a do který neustále tlačíme,
+aby nám dal víc a víc peněz na vybavení, je Miki z marketingu.
+Miki, hele, moc díky.
+Prosím tě, ty mikrofony jsou super, zní to fakt úžasně.
+A já se ještě stavím pro novej mixák, jenom abys věděl.
+Díky vám všem, díky za podporu a my jdeme dál.
+Dneska to je téma pro tebe.
+Jelak, nemůžu se dočkat, čeká nás Machine Learning s Richardem Vlasem.
+Richard je hrozně zajímavý člověk, sedm let trávil, ne v Tibetu, ale v Tajsku,
+byť by se to nabízelo.
+Takže má i tento mezinárodní přesah, už tam dělal neuronky,
+takže moc se těším na dnešní rozhovor.
+Takže třeba mi i vysvětlí, co ta neuronka vlastně je.
+No, třeba i tak.
+Tak jo, paráda, jdeme pro něj.
+Jdeme na to.
+Ve studiu už s námi sedí náš dnešní host, Richard Vlas.
+Ahoj, Richarde.
+Ahoj, kluci.
+Ahoj, Richarde.
+Čau, Petře.
+Tak prosím tě, Richarde, my jsme hned ze začátku o tobě prozradili,
+děláme to u každého hosta vždycky nějakou, řekněme, mimooborovou zajímavost.
+A Polly prozradil, že ty jsi žil sedm let, ne v Tibetu, ale v Tajsku.
+Tak prosím tě, řekni mi, jak tě to tam zavlálo a co jsi tam vlastně těch sedm let dělal?
+Tak to je skvělá otázka, děkuji, že jsi to prozradil, Petře.
+Nemáš zač, Richarde.
+No tak vzniklo to tak, že vlastně já jsem tam přes jednoho kamaráda našel práci
+a mě to vždycky lákalo se tam podívat, protože mi o tom kamarádi vyprávěli
+a měl jsem tam nějaký příbuzný.
+No a nakonec se ta pracovní nabídka povedla a chtěl jsem tam zůstat jenom dva roky
+a nakonec se to natáhlo trošku nadíl, o nějakých pět let.
+No a to nejzajímavější, aspoň z mýho pohledu, je to,
+že jsem si vlastně přivez celou rodinku sem zpátky do Čech.
+Takže tam jsi vyrobil rodinku a jsem si si ji přivez?
+Takže tady se říká vyrobil...
+Tak přesně tak jsem si ji vyrobil tam a přivez jsem si ji sem.
+Jsme v IT, takže tam jsi si prostě nadeplojoval děti a přivez.
+Přesně tak.
+Tak to je hezký, tak to je paráda.
+A tam už jsi teda dělal machine learning, AI a tyhle věci?
+Ano, ano. Já vlastně původně jsem se k AI a machine learningu dostal,
+když jsem pracoval na vývoji takzvaných digital twins,
+což by se dalo přeložit jako digitální verze jakýhokoliv produktu,
+od auta po helikoptéru, ale mohlo by to být i digitální verze
+třeba...
+A tebe samýho v podstatě.
+No a my jsme se hlavně zaměřovali na automobilový průmysl
+se všemi možnými aspekty od řízení pohonných ústrojí
+až po rozpoznávání mechanických poruch na bázi zvuku a vibrací.
+Takže tak jsem se k tomu vlastně dostal před těmi pár lety.
+No a jsme rád, že ten osud tě zavolal k nám do Cienka,
+takže teďka jsi součástí machine learningového týmu tady u nás.
+Na čem děláš tady, Richarde? Co zajímavého máš teďka v rukách?
+No tak možná jeden problém.
+Projekt, který by stál za zmínku, na kterém pracujeme tady
+s našimi úžasnými kolegami v machine learning týmu
+pod vedením tady Petra Poláka, je takzvané strojové vidění vlastně,
+což by se v angličtině dalo nazvat jako computer vision.
+A já věřím, že určitě oba dva jste se s tím setkali,
+s tím strojovým viděním, protože existují různé aplikace,
+jako třeba v mobilu, kde můžeš rozpoznávat lidi,
+rozpoznávat, jestli se směj a tak dále.
+Takže to je něco, co možná, nejsem si jistý,
+ale možná už i Nokia uměla, možná ta nejnovější, si myslím.
+No a vlastně my jsme dostali takový zajímavý úkol.
+My jsme měli vzít takzvaný infračervený senzor
+a udělat z něho takzvaný chytrý senzor pomocí machine learningu.
+A možná bych měl zmínit, co to je infračervený senzor.
+To je taková malá, řekl bych, termokamera
+v porovnání asi tak velká jako 20-korunová mince.
+O trochu dražší než ta mince,
+ale stále to patří do kategorie levných senzorů.
+No a takový senzor dokáže detekovat teplné zdroje
+na bázi infračerveného světla.
+Takže naším úkolem bylo vytvořit machine learning algoritmus,
+který je schopen rozpoznat objekty a spočítat je s určitou přesností.
+Ale to se možná v dnešním době zdá jako jednoduchý úkol,
+kdybychom na to použili třeba tady Petrovou kameru z mobilu.
+Ale háček byl v tom, že ten senzor má velmi malé rozlišení.
+Čtyři pikselů, abych byl přesnej.
+Takže to byla taková první výzva, se kterou jsme se museli poprat.
+No a aby toho nebylo málo, tak další věc, co nám moc nehrála do karet,
+bylo to, že ten senzor používá velmi malou paměť,
+přibližně jeden megabyte.
+A využívá taky jeden z nejpomalejších procesorů.
+Takže to byly hezké požadavky, se kterými jsme si museli poradit.
+Tady tě zastavím, Richarde.
+Je to teda, považuješ to za klasický přístup,
+kde se machine learning,
+kde dá použít v tom smyslu, že vlastně vezmeme nějaký device,
+který je v úvozovkách hloupej a nachytříme ho machine learningem?
+Úplně přesně, jak říkáš.
+Vlastně my vezmeme něco, co není moc chytrý, neumí to moc věcí.
+Má to v tomhle případě malé rozlišení
+a my se z toho snažíme pomocí toho machine learningu
+prostě tam udělat to chytrý.
+Možná ten název chytrý se nebude všim asi líbit,
+protože jak můžeš dělat zařízení chytrý,
+ale vlastně my tomu přidáme nějakou,
+řekl bych, matematiku, která dokáže prostě tomu pomoct.
+Jasně. Mám pocit, že to je pěkný příklad,
+který ukazuje, jak machine learning funguje
+a já mám pocit, že machine learning je teďka v hrozném hypeu,
+všude se o tom čte.
+Na druhou stranu mám pocit, že ne úplně ve všech odvětvích
+se to rozjelo tak, jak možná kdekdo předpokládal.
+Jak to vidíš ty teďka vůbec tu současnou situaci na trhu?
+Máš pocit, že tohle je ta cesta nachytřování těch zařízení,
+takže v podstatě nějaké IoT projekty,
+nebo ji vidíš třeba úplně někde jinde?
+No, poprvé řečeno si myslím, že machine learning
+je určitě správná cesta skoro ve všem,
+kde budeš chtít přiníst nějakou inteligenci do toho.
+A viděl bych to asi tak, že spousta lidí se toho bojí,
+spousta lidí tomu nevěří ještě,
+hlavně na takovém tom manažerském postu,
+nebo lidi, co s tím nemají tolik zkušeností.
+A je třeba jim to tak nějak přiblížit,
+co ono to vlastně všechno...
+Všechno dneska dokáže, protože toho je mnohem víc,
+než jak to vypadá.
+Jasně.
+Hele, prosím tě, já ještě, aby jsme pro lidi,
+pro který je tohle úplně nová věc,
+což de facto jsem i já jeden z nich,
+točíme se tady kolem různých pojmů,
+jako je machine learning, jako je deep learning,
+artificial intelligence, jako i spoustu těchto pojmů
+jsou nějak zmixovaný do sebe.
+Mohl bys to, prosím tě, nějak rozlišit,
+jednoduše vysvětlit, nebo pokud to vůbec lze,
+jednoduše vysvětlit, ale nějak to rozlišit,
+aby pro člověka, který to neposlouchá,
+není bázy a není v tom úplně doma,
+aby věděl, co je co vlastně.
+Určitě.
+Jsou tam takové základní tři pojmy,
+které se používají nejčastěji.
+Šautý už si to zmiňoval.
+Je to artificial intelligence, machine learning
+a taky deep learning.
+Otázkou je vlastně, co to znamená
+a jaký je mezi nima rozdíl.
+Artificial intelligence to je takový ten,
+řekl bych, nejvíc abstraktní pojem,
+kde se snažíme vlastně
+pomocí počítače
+vytvořit inteligenci.
+Vlastně on ten název sám o sobě
+by se asi přeložil jako umělá inteligence.
+Takže to je takový ten hlavní pojem,
+který se používá
+a pod ním jsou potom schovaný ty dva další pojmy,
+což je ten machine learning a potom deep learning.
+A machine learning by se asi dal vysvětlit tak,
+že to jsou vlastně všechny ty
+matematické metody, které se používají
+na to, aby jsme udělali tu inteligenci.
+A potom je tam ještě pod tím schovaný
+pod tím machine learningem ten deep learning,
+který je, řekl bych, jedna
+speciální metoda
+pomocí neuronových sítí.
+My se vlastně, nebo ten počítač
+se snaží prostě učit nějaký různý
+paterny nebo nějaký, jak bych to nazval
+včeštně.
+Vzorce. Ano, asi tak.
+A prosím tě, co je teda neuronka?
+Ještě to je takový jako pojem, který
+jsem slyšel od svýho kolegy, který se
+tomu věnuje, nebo vím,
+že tam v Pythonu prostě
+bastlí nějaký dobroty z tohohle světa.
+A z toho furt slyším neuronka, neuronka,
+a to je zase ta neuronka. Tak co je to za mrchu, prosím tě?
+To je opravdu dobrá otázka.
+A věřím, že každý, kdo se s tím
+jednou bude zabývat, by měl mít představu,
+jak to funguje. A nejlépe vizuální
+představa funguje, aspoň u mě takhle.
+A my tady nemáme
+takový luxus, že můžeme ukazovat obrázky
+a tak dále. Jako můžeme, jo, klidně. Ale já jsem
+s tím, že posluchačům dojem z toho nebude
+valnej, ale klidně. My si to moc užijeme.
+Tak já začínám kreslit.
+Tak tady zrovna vidíte, tady to Richard krásně
+nakreslil, to je škoda. Tak teď už je mi to jasný.
+Tak zkusme to popsat slovně aspoň.
+A možná by byly dobrý dva přístupy
+na to. Asi
+jeden matematický
+a jeden vizuální.
+Já začnu s tím matematický, doufám, že tady
+všechny nezabiju s tím, ale řeknu
+to úplně jednoduše. V podstatě není to
+žádná magie, ten machine learning,
+ale je to vlastně lineární
+algebra, neboli násobení
+spoustu čísel v nějakých
+maticích. Takže
+co jsou ty čísla, nebo co jsou ty různý
+bloky nebo matice, tak
+řekl bych, že tam jsou dvě základní věci.
+Jedno jsou vstupní data, to bude
+nějakej vektor, nebo řeknu
+nějakej počet
+čísel. To může být jako vstupní
+obrázek a ten je taky reprezentovaný
+číslama. No a potom je tam taková
+obrovská matice
+s koeficientama. A ty
+koeficienty, to je vlastně to
+klíčové vlastně, kde
+ten machine learning se
+vlastně, nebo ten algoritmus
+se učí pomocí dat. Vlastně tomu
+nacpeme spoustu dat a my
+modifikujeme nebo iterujeme přes
+ty data a snažíme se
+najít ty nejlepší koeficienty
+tak, aby to rozeznalo to, co
+jim dáváme jako vstupní data. Co je
+vlastně na výstupu. My to
+vždycky vlastně popisujeme na tom
+na těch obrázcích, jako jestli
+vidím na obrázku kočku nebo
+psa, tak vlastně ty koeficienty by se
+učili, jestli tohle jsou
+já nevím, jestli tohle je, jak to říct,
+tlama, prostě psa, nebo jak to říct,
+nebo je to kočka, nebo jestli
+to je uši, nebo co to vlastně je. Takže ty koeficienty
+se to vlastně všechno naučí. Je to trošku
+teda složitější, je to, mělo by se říct,
+že to je lineární algebra
+plus nějaký nelineární funkce a pak
+je to nějaký iteranční algoritmus,
+který vlastně iteruje přes ty data,
+může přes to iterovat týden klidně,
+aby se to pořádně naučil, ale
+to je ta neuronka, jo? Ano, to je ta neuronka.
+Nebo by si si to mohl představit jako prostě nějaký,
+no jako ty neurony v podstatě
+v tom mozku, když, není to
+úplně nejsprávnější
+reprezentace, ale v podstatě by to byly
+nějaký jako uzly a v těch uzlech
+jsou tady ty čísla a ty se nějak prostě
+aktivujou podle toho, co vlastně vidí na vstupu.
+Jo, OK. Takže ono si to
+vlastně, ten obrázek si to přetransformuje
+ještě se trošku do toho
+zahrabu. Ono to v podstatě
+přetransformuje ten obrázek na různý
+prvky toho obrázku
+a řekne si, takhle asi vypadají uši
+kočky, takhle vypadají oči
+psa a na základě toho
+on vlastně nějakou pravděpodobnostní
+záležitostí řeší, že to
+odhaduje, že to je kočka nebo pes například.
+Přesně, vysvětlil jsi to v podstatě líp než já.
+Vysvětlil jsi to skvěle.
+Prosím tě, Richarde, chceme se dostat ještě
+trošku i dál pro
+některý posluchače, který třeba
+přemýšlejí nad machine learningem
+a přemýšlejí nad toolama.
+Já jsem koukal a vím, že
+pracujete ten machine learningový tým
+vlastně skoro výhradně v Pythonu.
+Máš pocit, že Python teďka totálně
+válcuje trh. Já vím, že
+dřív a i dneska se
+machine learning praktikuje v
+MATLABU, v ERKu. Máš pocit, že tyhle
+tooly do nějaké doby úplně
+zaniknou nebo vždycky si najdou
+svoje místo na tom trhu pro nějaké specifické
+věci nebo navopak máš
+pocit, že třeba Python to ještě vyhraný nemá?
+Jak to vidíš tohle?
+Já si myslím, že Python je ten hlavní
+programovací jazyk pro ty
+řekl bych datový inženýry
+a pro ty machine learning inženýry. A to si
+myslím, že asi na nějakou dobu ještě tak zůstane,
+pokud se neobjeví něco lepšího.
+Ale
+existují na trhu i jiný
+tooly, jako si například zmínil
+jeden tool od Madworks,
+od té americké firmy, žeho MATLAB,
+tak oni mají ještě jeden tool, ten se jmenuje
+Simulink a oni mají svoje
+vlastní
+algoritmy, které
+nejsou na bázi
+Pythonu, ale které oni sami
+vytvořili. A otázkou je,
+proč by někdo měl používat
+MATLAB na místo Pythonu?
+Tak to by se dalo možná
+zapovědět tím, že podle toho, v jakém
+oboru pracuješ, řeknu například, kdyby jsem
+pracoval v automobilovém průmyslu
+a chtěl bych vytvářet
+model motoru
+nebo převodovku, nebo řeknu
+obecně pohonný ústroj.
+Tak vlastně ty budeš vytvářet něco, čemu
+už jsem na začátku zmiňoval, se říká
+Digital Twin, nebo se tomu taky říká
+v angličtině Model Based
+System Engineering, což znamená,
+že vlastně ty použiješ ten MATLAB
+na to, aby si vytvořil
+ten digitální
+nebo to digitální dvojče
+toho pohonného ústrojí
+a potom
+na to můžeš v MATLABU
+aplikovat neuronové sítě
+nebo nějaký jiný algoritmus
+machine learningu. Takže tam je to
+víc spojený s tím
+engineeringem a
+prostě krásně to funguje s tím.
+Takže když jsi dělal,
+když jsi byl v této části svý kariéry,
+tak jsi místo Pythonu byl spíš v MATLABU?
+Rozumím to správně, nebo ne?
+Ono existuje spoustu takových tůlů.
+To není jen MATLAB, ale MATLAB dominuje
+tady tomu trhu. Existou i jiné
+různé
+softwary, jako třeba například, já jsem používal
+od Siemensu, Siemens
+Amesim a ten vlastně
+taky je schopnej dělat neuronky
+nebo dělat machine learning.
+Jo, jo. Takže těch existuje spoustu
+a vlastně je to specializovaný na
+řeknu třeba automobilový průmysl, na letecké a tak dále
+nebo tam, kde vlastně ty chceš dělat nějaký
+řeknu nějaký
+digitální dvojče
+a pochopitelně v Pythonu by to bylo
+mnohem víc práce vůbec něco takového vytvořit.
+Jasně. A když to vezmeš obecně,
+teďka jenom trošku navážu na to, co říkáš,
+tak kdyby jsi dneska začínal
+s machine learningem, byl úplně na začátku,
+tak šel by si
+prvotně a primárně do toho
+Pythonu nebo by si
+chtěl vyskoušet i MATLAB, aby si věděl
+o co jde? Jak by si to třeba doporučil
+začínajícím machine learning
+developerům? Já bych určitě
+začal s Pythonem. To mi přijde jako
+taková nejsnažší cesta
+z nějakých odporů,
+protože je to dostupný, pochopitelně
+je to zdarma. MATLAB není zdarma,
+když to neuvážuješ, že chodíš
+na vysokou školu, kde to mají zdarma,
+ale hlavně
+je tam nejvíc knihoven.
+A největší komunita,
+když porovnáš MATLAB vs. Python,
+tak ta komunita je úplně jiná.
+Takže těch příkladů existuje mnohem víc
+nebo nějakých těch
+case studies, kde se můžeš něco naučit
+mnohem víc v Pythonu než v tom
+MATLABU. Třeba například
+známý
+Kaggle, ta stránka,
+se spousta datasetama a
+se spousta notebookama, kde už máš
+udělané nějaké
+řešení na to.
+Je asi jeden z dobrých zdrojů,
+kde se můžeš učit.
+A co se týče nějakých těch obecných knihoven
+pro tu práci, když
+teďka skočím do Pythonu
+a budu chtít si tohle vyskoušet,
+asi kam bych měl šáhnout?
+Tak já bych asi řekl,
+že nějaký tři nebo čtyři
+knihovny by byly nejdůležitější pro tebe.
+Ta první bude asi NumPy,
+což je matematická knihovna,
+nebo knihovna na lineární
+algebra a i nelineární věci a tak dále.
+Ale pochopitelně v takový nebudeš
+dělat neuronový sítě, protože to by si
+musel opravdu programovat od začátku.
+Na to budeš potřebovat jiný
+tooly a jeden z nich je třeba Scikit Learn
+a ten druhý je TensorFlow.
+TensorFlow je velmi známej a hlavně je na neuronový
+sítě. Scikit Learn umí taky
+klasický machine learning, nějaký lineární
+regrese a mnohem
+jiný algoritmy.
+A pak je tam ještě jedna
+knihovna na zpracování dát,
+ta se jmenuje Pandas a
+v podstatě práce s nějakýma
+CSV-čkama nebo s Excelovýma
+tabulkama jako podobná práce.
+V podstatě na nějakou statistiku, distribuci dát
+a tak dále.
+Teď jsi mě přivedl k jedný myšlence. Zmínil jsi
+na klasický machine learning
+a jenom možná ještě pro diváky,
+jak bys to oddělil?
+Jako úplně v základu. Machine learning, deep learning.
+Je to vyloženě jenom o tom,
+že deep learning k tomu, aby
+byl lepší a lepší, potřebuje víc
+dát nebo mraky dát. A machine learning
+se bez toho dokáže nějak obejít?
+Nebo jak bys to popsal lépe?
+No, vlastně největší rozdíl je
+v těch metodách, jaký existují
+v tom klasickém machine learningu
+a v tom deep learningu. Vlastně deep learning
+je celý založený na těch neurálních
+sítí a tam jsou různý architektury
+od nějakých klasických
+neurálních sítí až po nějaký
+rekurentní sítě, které dokážou rozpoznat
+z textu nějaký sentiment anebo
+i dělat vlastně překlad
+nějakého textu z jednoho jazyka do druhého.
+No a potom máš scikit-learn,
+kde máš různý modely
+těch je opravdu mraky, co tam mají
+a to můžou být
+modely, na který nepotřebuješ tolik dát,
+to můžou být modely
+specializovaný na určitý úlohy,
+který na to můžeš použít, ale
+asi hlavně ty data prostě tam hrajou roli.
+Na deep learning pořád potřebuješ
+mraky a mraky data.
+A když říkáš
+modely, chápu to správně, že model
+je už nějaký přednaučenej
+set dát nebo předvytvořenej
+set dát, nebo co je vlastně model?
+Vlastně model je
+je vlastně takový
+algoritmus, do kterého ty nejdřív musíš
+ty data nadspát a on se musí naučit
+co v těch datech je v podstatě.
+Takže jak bychom si to mohli vysvětlit.
+Možná něco úplně nejzákladnějšího. Lineární
+regrese. Takže to by byla nějaká prostě
+rovnice, kde máš vstupní
+data a očekáváš
+nějaký výstup.
+Vlastně ty budeš mít
+nějaké koeficienty a zase ono se to bude
+prostě nějak učit. Ale tady budeš mít jeden koeficient
+lineární regrese, takže to ti
+bude mnohem, mnohem snažné, že kdyby jsi měl
+nějakej obrázek a učil se nějaký
+různý rozpoznávat uši
+a nosy.
+Mně se líbí, Richard řekne, začneme
+s něčím jednodušším a za druhou větou
+mu člověk přestává rozumět.
+Já jsem se úplně otevřel starý rány
+jako z matematiky z vejšky.
+Přišel profesor a řekl, začneme s něčím
+úplně primitivním a
+za deset minut prostě
+ti hlava explodovala.
+Děje se to občas, to je profesní
+deformace. A my jsme úplně
+přeskočili jednu věc, která mě zajímá
+a to je, jako Python si
+v podstatě chválil spousta
+knihoven, komunita. Jaký to má
+nevýhody? Já jsem například
+se dočet, že podpůjde jenom
+Nvidia GPU. Je to pořád pravda
+nebo vidíš tam ještě nějaký svoje osobní
+nevýhody? No tak
+nevýhodou podle
+podle mého bude
+to, že vlastně takový Python, čistě
+Python asi nedokáže
+generovat kód, který by se dal
+použít na nějaký IoT device. Tak řeknu třeba
+například tvoje hodinky, co máš, tak na to bychom
+asi kód v tom prostě neudělali, jako
+machine learning. Takže to je jakoby jedna
+nevýhoda, ale ta nevýhoda
+už se tak nějak vyřešila pomocí určitých
+knihoven, jako je to zrovna TensorFlow
+Lite, což je speciální verze pro nějaký
+řeknu production code.
+Může to být pro nějaký
+nebo prostě nějaký IoT device
+a nebo klidně
+pro mobil a tak dále. Takže to
+je jakoby tak nějak vyřešený.
+A nevýhoda možná v rychlosti
+taky, jsou prostě jazyky, které jsou
+rychlejší a když potřebuješ
+machine learning systém, který běží
+real time, tak prostě jakoby
+hodně rychle, jako třeba příklad, co by byl
+dobrý příklad, autonomní
+vozidla, tak jako budeš snímat kamerou
+a tam ti jde o milisekundy, aby si
+zabrzdil, nebo aby si se vyhnul
+nějakýmu autu. Takže to je všechno
+důležitý a prostě záleží na té
+aplikaci, kterou vlastně vyvíjíš.
+Python může být skvělej na
+prototypování, ale zase pomalej na nějaký
+takovýhle věci. Znamená to teda, že
+kdyby si dělal machine learningový
+algoritmus pro autonomní vozidlo, tak bys
+do Pythonu nešel, šel bys do něčeho jiného.
+Ono by to bylo vždycky rozdělené na dvě části.
+Ty bys začal v tom Pythonu,
+nebo klasicky se tak začíná,
+kde vlastně můžeš
+prostě vyskoušet
+všechny možné varianty, co funguje nejlíp,
+jaký model je na to nejlepší a tak dále.
+No a potom by si to
+generování toho kódu buď udělal automaticky,
+na to existují taky tooli, anebo by si to
+ručně prostě přepsal do nějakého Cčka
+nebo C++ a podle
+tvojich schopností.
+Já si ještě myslím, že vlastně u toho Pythonu
+hraje důležitou roli i jedna věc,
+protože já to vidím, když já třeba
+scháním pro na našem jako specifickém
+projektu, který je teda dotnetí, ale
+scháním tam nějaký matematický, řekněme
+knihovny, tak tím jak
+třeba ten komerční svět, ten
+enterprise, ať je to Java, ať je to dotnet, je hozený
+do jednoho směru, který je vlastně
+nevědecký, to jsou furt nějaké prostě číst
+databáze, vygenerovat do JSONu, to je furt
+na jedno prdo. Tak
+když něco takového potřebuju, tak to najdu
+vlastně jenom v Pythonu, protože zase
+spoustu věců, ať to jsou různý jako datoví
+specialisti a tohle, tak
+ty, když je ta knihovna, tak
+na Pythonu jich je 20, na dotnetu
+je možná jedna, na Java jich je třeba 3,
+ale předpokládám,
+že to platí, že u toho Pythonu, tím,
+že ta komunita je kolem něj, tak to vlastně
+i generuje, řekněme,
+tu free práci, kterou můžeš
+přepoužít, ať jsou to OSS knihovny, nebo
+něco takového, je to tak? Naprosto, přesně tak.
+A toho kódu existuje mraky.
+Třeba na GitHubu, tam se můžeš podívat,
+prostě tam najdeš v podstatě všechno,
+co by si potřeboval na ten machine learning.
+Jako ten Python je v tom úžasný, určitě.
+Jo, jo. A ještě jedna
+jedna knihovna, kterou
+jsme nezmínili, a napadá
+mě, je matplotlib. Já vím,
+že je velmi oblíbená, na druhou stranu
+my s ní máme zkušenost, konkrétně
+na tom Panasonicu, a že
+vykreslovala hrozně pomalu.
+Co bys o tom řekl a máš pocit,
+že to tak je, případně používáš nějakou jinou
+na vykreslování třeba?
+No, ono je to pravda, že ten matplotlib
+je celkem pomalej a
+já jsem nedávno to četl v dokumentaci,
+že oni doporučujou
+nevykreslovat tolik bodů, já nevím, co tím přesně
+mysleli, deset tisíc nebo sto tisíc,
+ale když to vyzkoušíš, tak ono to je tak pomalý,
+že prostě s tím počítačem nehneš.
+Takže to není řešení pro určitý vizualizace.
+Existují nějaké ekvivalenty,
+jako třeba například PyQT Graph,
+to je velmi dobrá knihovna,
+to funguje, dalo by se říct, real-time
+i na spoustu dát.
+Píšu si.
+To jsme používali taky na nějaké
+zvukové vizualizace real-time.
+No, anebo
+podle toho, jakou vizualizaci
+potřebuješ vlastně udělat,
+tak například, co by mohlo být
+zajímavé, nějaká práce s 3D datama,
+nějaká vizualizace. Jako například
+na jednom projektu jsme dělali vizualizaci
+nějakých osob
+a na to jsme zase používali Blender.
+Blender to je,
+jestli to znáte, tak to je
+prostě 3D
+program, v kterém se dají vizualizovat
+různý věci, animovat a tak dále.
+A ten je taky úplně výborný
+na tady ty věci a má Python,
+jak se to říká,
+APA,
+takže tam se krásně prostě dá
+navázat s tím koordinatorům.
+Richarde, vrátíme se trošku k tomu,
+kdyby jsi dneska začínal s AI
+a s machine learningem,
+jaký nástroje bys použil, to jsme se
+o tom už trochu bavili, co
+Kaggle, všichni
+machine learning specialisti skloňují
+Kaggle, vidíš to jako
+zajímavý doplněk nebo prostě něco, co je
+jako must, musíš s tím začít,
+je to fakt super věc, kterou bys měl na začátku použít.
+No já si myslím, že Kaggle
+je hodně dobrá
+stránka, protože
+kdybych nevěděl vůbec nic o machine learningu,
+tak už tam prostě se můžu začít učit něco
+v těch jejich kurzech, to je první věc.
+A druhá velmi důležitá
+věc pro machine learning jsou data.
+Ty vlastně musíš někde
+ty data získat, když je sám prostě někde
+nenazbíráš s nějakým senzorem, anebo
+z nějakých internetových stránek.
+A takže Kaggle
+je velmi dobrý tady v těch dvou věcech.
+A co na tom ještě výbornýho
+je to, že spousta lidí, tam je
+obrovská komunita a ty lidi
+rozpracují nějaké její řešení,
+ty se na ně můžeš podívat a
+vlastně můžeš se takhle učit. Hned od základu.
+Zajímavý,
+tak udělám takovou v suvku,
+máte něco takového třeba v F-sharpu doma, ne?
+Něco, kam vlezeš a ta komunita tam má
+nějaký připravený kódy, kam ty vlezeš
+a můžeš se od toho inspirovat třeba.
+Jako kódy obecně, jo.
+Jsou i různý, jako je třeba FS snippet,
+nebo tak nějak, kde si můžeš
+stahovat, ať to jsou malý kousky kódu,
+nebo i větší. Pak samozřejmě jsou
+připravený knihovny, ale musím říct,
+že, a to už jsme se o tom částečně
+bavili, že co se týče
+třeba machine learningu a
+knihoven pro tenhle specifický obor,
+tak obecně na dotnetu
+toho zas tak moc není.
+Je tam nějakej, myslím,
+že ten zlom flow teďka dotnet,
+nebo něco takového, že ty knihovny jako jsou,
+Microsoft do toho chce šlapat,
+ale myslím si,
+že jak to není jako
+enterprise, že kolem toho není takový ten velký
+hype, tak ani ta komunita
+kolem toho není aktivní a ani
+těch snippetů a těch kódů
+není tolik. Spíš si myslím, že třeba
+Microsoft to bude tlačit u těch lidí do toho,
+aby to používali jako service,
+jako službu s cloudů, že
+si prostě to nainstancuješ
+někde na Azureu a budeš používat
+tyhle služby už předpřipravený bez toho,
+aniž bys to vlastně musel umět.
+Což možná se dostáváme k mýmu
+dalšímu dotazu pro Richarda.
+Jak to vlastně vidíš do budoucna,
+co se týče těchto služeb?
+Protože já tak trochu vnímám, že
+třeba když my jsme začínali
+s programováním před, nevím, 20 plus lety,
+tak ještě člověk musel trošku
+něco znát o tom spotku, čili jsme se
+nevím, jak funguje počítač jako takovej,
+Fonoy, Monovo, Schema, všechny tyhle
+ty otravnosti, Assembler se musel
+dělat, fuj. Ale vlastně
+v dnešní době už to nepotřebuješ, a i ty nováčci,
+který k nám třeba přijdou ze CN University,
+tak vůbec tohleto neznají
+a jsou o to odstíněný.
+Vidíš tenhle trend takový
+tý, řekněme, jako komerci,
+analyzace, machine learningu
+a AI jako u vás?
+Jakože to nemůžu muset
+za chvilku vůbec znát matematiku?
+No, ono to v podstatě tak už je.
+Vlastně ty nemusíš
+znát moc matematiky,
+i když možná nějakej mástr nebo PhD
+v matematice neuškodí.
+Ale myslím si, že
+vlastně ty dneska dokážeš postavit jakýkoliv
+klasický model
+nebo nějaký neuronky
+se středoškolskou matematikou, bych skoro řekl.
+Protože je to jednoduchý,
+nepotřebuješ tomu rozumět tak úplně.
+Ale pochopitelně, když budeš dělat něco opravdu
+složitýho, tak ty tu matematiku musíš
+znát prostě, co zatím je.
+A dá se teda postavit na, řekněme,
+nějakých komerčních službách,
+na nějakým klasickým, jako
+machine learning nebo AI as a service.
+Dá se na tom v dnešní době už postavit
+to jenom pořád ve fáze, jako
+hrajte si, ale až to začnete myslet vážně,
+milí vývojáři, tak se stejně naučte
+matematiku zpětně.
+Já si myslím, že ty existující servizi,
+že kdyby jsi s tím dělal nějaké řešení
+pro firmu a tak dále, tak se tak
+maximálně dostaneš na takový standard
+těch firm, který to dneska používají.
+A kdyby jsi chtěl něco opravdu
+konkurenčně schopnýho, tak budeš muset
+opravdu matematice rozumět a vědět,
+jak se dělají machine learning, architektury
+a tak dále. Takže ta matematika tam
+vždycky bude, ale do určitý míry.
+No, to mě napadá, a kdyby dneska si začínal
+s novým machine learning projektem,
+ty matematice rozumíš, jsi zkušený
+machine learning vývojář,
+nechal by jsi si pomoct
+cloudem, to znamená začal by jsi
+v cloudu z jakýhokoliv důvodu, protože
+už tam je něco předpřipravenýho, nebo by jsi šel
+a šel by jsi prostě from the scratch, začal by jsi
+prostě s TensorFlow nebo s čímkoliv jiným?
+– Já si myslím,
+záleželo by to na tom,
+co přesně chceš dělat,
+to je první věc. – It depends, máme to tady.
+– Jasně, zase je to tady.
+– Ale určitě si myslím,
+že jako cloudové řešení jsou
+velmi dobrý, hlavně na
+implementaci nebo deployment.
+A to je
+strašně důležitý, protože většina těch
+machine learning projektů
+prostě stroskotá jenom díky tomu
+deploymentu, že prostě dřediny jsou schopný
+to implementovat. Pochopitelně
+cloudy to úplně změnili, tady tu naší
+machine learning hru, co se týče
+implementace. A
+dneska je to mnohem jednodušší, prostě to
+volat přes nějaký APIčka
+a nebo nějaký
+všechny možné prostě requesty.
+– Jasně, takže mám tomu rozumět tak,
+že ve chvíli, kdy to opravdu myslím vážně
+a nechci si dělat nějaké izolované řešení
+někde mimo, chci to opravdu integrovat
+s tím stávajícím řešením, tak cloud
+je jasná volba. – Myslím si, že určitě jo.
+A taky bych tomu
+mohl dodat, že cloud
+asi není úplně nejlepší na začátek,
+kdyby si začínal s machine learningem.
+To si nemyslím, že je nejlepší řešení. Ty by si nejdřív
+trochu měl tu matematiku znát a trochu, co
+vůbec ty neuronové sítě jsou a ty
+algoritmy, které se používají.
+Takže takový kegl, anebo nějaká dokumentace
+od scikit-learn by byla
+asi nejlepší parťák.
+– A dá se třeba využít
+ten cloud, řekněme, na tu
+nudnější část, kdy dochází
+k tomu počítání, k tomu, že
+o tým mluvíš, mluvil jsi o deep learningu,
+teď jsem si představil ty neuronové sítě,
+teď ten oslý můstek k těm klasickým sítím.
+Takže si říkám, že musí existovat
+nějaký způsob, když já řeknu,
+chci vytvořit ten model, chci tady, aby se
+mi to všechno učilo, počítalo,
+ale nechci mít vlastní výpočetní
+techniku na to, chtěl bych si to nějakým způsobem
+pronajmout. Funguje něco takového
+už i v cloudu, že vyloženě si pronajmu
+tu sítě jenom na to, abych
+tu svoji matematiku, že to neberu jako službu,
+ale že jenom využiju
+tu výpočetní sílu cloudu?
+Naprosto. To je dobrá otázka
+a ano. Odpověď je, že
+existuje spousta takovýchto řešení,
+nabízí to všichni AWS, nebo
+Microsoft Azure, nebo Google Cloud.
+Všichni vlastně mají tu schopnost,
+že si tam můžeš otevřít
+určitou, nebo řekl bych,
+no prostě
+použít nějakou instanci, což by byl
+nějaký počítač, nebo nějaká virtuální
+mašina a ty si tam potom můžeš
+vlastně dělat různý experimenty
+v notebookích, jako jsme zvyklí
+na lokálních počítačích v podstatě.
+Takže ta výhoda by tam asi byla to, že
+ty budeš mít velmi silnou nějakou
+virtuální mašinu, nějakou konfiguraci
+a to trénování ty jí
+v neuronový sítě vlastně ti nezabere
+tolik času, jako kdyby jsi to dělal na nějakým
+malinkým notebooku, co máme tady všichni.
+A takže ty se vlastně nestaráš vůbec celý ten management,
+jenom řekneš, potřebuji takovouhle výpočetní
+kapacitu pro ten svůj trénink
+a vylíklou jde se, žeň mi to je.
+Přesně, jak to říkáš, tak to je vlastně tam.
+A tam ty meze se tolik
+nejsou tam žádný hranice nahoru
+tolik, vlastně můžeš tam získat
+obrovskou, nevím, spoustu
+procesorů,
+obrovskou paměť a tak dále.
+Já v poslední době, tak jak
+říkám, nejsem úplně člověk,
+který by ty trendy sledoval, ale vlastně se to
+ke mně dostává čím dál tím víc z různých
+směrů. A ten poslední
+byl projekt, který se jmenuje
+GitHub Copilot, což je,
+pokud jsem to správně pochopil
+z těch samplů a z těch různých videí,
+je to de facto umělá
+inteligence, která ti má simulovat
+nějakého tvýho kámoše, tvýho buddyho,
+který v tom, jak píšeš kód,
+tak s tebou páruje a je schopný
+rozpoznat, co vlastně chceš
+a nabízí ti už ten přímo kód,
+že ti ho vlastně předgeneruje.
+Jak to vidíš,
+protože já, když se podívám na ty reakce,
+tak developři jsou
+té 50-50, nebo jsou dva
+směry, kdy jeden tvrdí, hele, tohle je
+boží, tohle je skvělý, a druhý říká,
+hele, neberte nám
+naše sušenky,
+tohle je naše práce.
+To je nějak politická diskuze.
+Bojej se, že jim to
+vlastně vezme důvod existence,
+že bude něco generovat kód za něj.
+Jak to vlastně vidíš u těchhle těch, řekněme,
+kreativnějších oborů?
+Protože samozřejmě existují
+i AI malíři, viděl jsem i
+kresby, které vlastně
+vznikaly v podstatě na základě nějakých
+neúčinných dat, ale vznikaly strojově.
+Takže co AI, machine learning
+a kreativní obory? Jak to vidíš?
+No tak já se řadím do
+té optimistické skupiny.
+Vlastně já si myslím, že tohle je úplně skvělá
+věc. I ten vlastně
+GitHub co-pilot, že ti vlastně generuje
+kód, já si myslím, že je to perfektní věc.
+Je to skvělý v tom, že
+vlastně my jako developři, a to možná
+můžete kluci potvrdit, trávíme
+i dost času na Google
+stack overflow a tak dále.
+To prostě se nedá opomenout.
+A vlastně ten
+GitHub co-pilot ti vlastně pomáhá
+v tom, že ti generuje ten kód. Otázkou je,
+jak je to přesný a tak dále.
+To je druhá věc, ale myslím si, že
+to opravdu zefektivní ve tu práci těch
+developů. Já jsem jako velkej fan
+toho. I když s tím nemám takovou zkušenost,
+než bych to používal každej den,
+ale myslím si, že to
+má velikou budoucnost. I kdyby to nemělo
+teď být nejpřesnější.
+A já jsem teďka nedávno čet studii
+právě ohledně GitHub co-pilot,
+že jeden takovej
+ze side-efektů toho, že se to celý
+učí na existujícím, dovolně
+dostupným kódu z GitHubu,
+je, že to generuje
+vlastně bezpečnostní
+chyby. Až 40%
+kódu, který vygeneruje GitHub co-pilot,
+obsahuje bezpečnostní
+chyby, které by tam prostě neměly vejt.
+Typu, nevím, nějaký špatný
+klíč, něco. Prostě nebylo přesně
+popsané, jaký, ale jsou to různý
+jako gočas, který by ses měl
+normálně vyvarovat a neměl bys je tam dát.
+Což na jednu stranu se může stát, když uděláš
+kontrolce, kontrolové ze stack
+overflow úplně stejně a nebudeš nad tím přemýšlet.
+Ale předpokládám,
+že teda to je jenom věc stupních dat, nebo
+existuje nějaký AI, který bude
+opravovat jiný AI,
+jakože učitelka nad učitelkem.
+Meta AI, jo?
+To je dobrá otázka, no.
+Když se nad tím tak zamyslíme,
+já si myslím, že to je úplně
+ve všech aplikacích vlastně
+machine learningu, že jo? Ty máš nějaký model,
+který není tak přesnej, možná
+nějaký jednoduchý příklad zase.
+Tak třeba
+Google Translate. To je založený
+na rekurentních sítích, nebo prostě
+na nějakých neurálních sítích.
+A když si vzpomneš několik let
+naspět, jak byl přesnej a třeba
+zrovna příklad čeština versus
+angličtina, jenom což jako není úplně
+nejjednodušší, ale ani ne nejtěžší,
+v porovnání třeba číňština versus angličtina,
+tak si myslím, že před těma
+roky se to nedalo tolik použít,
+jako se to dá dneska. Dneska to funguje
+řekl bych skoro perfektně, ale taky to není
+stoprocentní. Takže ty máš nějakou
+40% chybu, že to generuje něco
+špatně. Když to porovnáš s tím Google
+Translate, ten měl možná taky nějakých třeba
+30% chybu, ale zlepšil se.
+Takže já vidím tu budoucnost úplně
+stejně s tím Copilotem.
+A nazval bych to, nebo co si myslím,
+že je důležitý trpělivost.
+No možná vlastně,
+když si vezmeš, že vývojář,
+když mu dáš task, stejně tam ty chyby
+naseká a udělá to i AI,
+tak vlastně to se dá prodat. Že to je
+geniální, protože nerozpoznáš
+toho pravého vývojáře, protože
+to seká chyby
+taky. Kdyby to vlastně negenerovalo
+chyby, tak je to až podezřelý, tak to není
+žádný vývojář. No jasně. Já jsem měl
+pocit, že ještě míříš tam, že budeme
+prostě prodávat jako juniorní AI řešení,
+pak jako middle a senior.
+Kámo, ale ty jsi tady narazil zlatou žílu,
+o tom si ještě pokecáme.
+Myslím, že nejsme v prodejním oddělení teďko.
+Tohle až zjistí Hanka.
+Tak to se to chytne, to je jasný.
+No a v podstatě,
+tak jak se učí třeba, já mám doma
+Google Home, tak můžu jenom
+potvrdit, že ze začátku si to povídal jenom
+se mnou. Mýho syna malýho to úplně
+ignorovalo. A teďka, i když můj syn,
+ten se prostě naučil, hej, Google Play,
+což pustí Spotify, tak dřív ho to ignorovalo,
+teďka to normálně pustí.
+To je úplně hotové. Takže jako fakt se to
+učí postupně a zlepšuje se to
+v tom procesu, jak to přijímá ty moje informace.
+Já s tím musím jenom souhlasit, já s tím
+taky jenom zkušenost. Ono je to flexibilní hrozně,
+jak se to učí.
+Já jsem to používal hodně v Tajsku
+a vždycky, když jsem měl autem,
+tak jsem si chtěl pouštět písničky nějaký.
+A pochopitelně,
+to taky není úplně perfektní. A trvalo to tomu
+Google asi tak, než mi porozuměl, tak řekl bych
+dva nebo tři měsíce, ale pak jsme si rozuměli
+a vždycky mi pouštěl ty správný.
+Jasně, už to není tak, trvalo mi prostě rok,
+než jsem se naučil tajský, ale trvalo Google,
+než se naučil pochopit tu moji hroznou tajštinu.
+Přesně tak, no. Já jsem si vzpomněl
+ještě na jednu zajímavou věc.
+To mě tenkrát vyděsilo.
+To byl nějaký obrázek sítě,
+která naopak se neučila,
+ale zapomínala. A v každém tom
+stepu kreslila furt stejný obrázek.
+To byl nějaký Picasso nebo něco,
+že to bylo naučené na nějakých
+algoritmech Picassových obrazů. Vykreslilo to
+něco, co vypadalo velmi podobně.
+A pak spustili degeneraci
+té sítě.
+A končilo to takovýma
+abstraktníma věcma. Normálně to, kdyby jsi
+viděl někde na zdi, tak bys tam nechtěl ani
+spát, protože máš pocit, že v noci to vyskočí
+a sežere tě to. Takže třeba
+možná, to mi napadá úplně on the fly,
+že taková degenerativní
+sítě, dá se to vůbec k něčemu použít?
+Třeba k simulaci nevím, nějaký Alzheimer
+nebo k něčemu, nevím. Já přemešlím.
+Nedá se to třeba.
+Třeba to jenom generuje hnusný v obrazi.
+Ale opravdu, když to pošlu,
+to bylo fakt zajímavé. No tak to mě zajímá,
+protože to jsem teda neslyšel.
+Jenom první mě napadlo, sorry Tomáš,
+ale jakože to tam to osekává.
+Tomáš vždycky s novou verzí říkal, že to osekává
+nějakou funkcionalitu ELMu. Ty myslíš, že ELM je
+degenerativní sítě?
+Promiň to. Ale my můžeme se tady
+smát jenom Javě. Zdravíme Tomáš.
+A já přejdu na další dotaz.
+Richarde, velkým
+tématem. Já bych se kolem toho nerad točil
+dlouho, protože je to takový
+jako spíš filozofický téma, ale
+já mám z tradeu a on se mě
+furt ptá, hele, ten váš machine learning,
+to je pořád
+stokrát omenílaný téma
+a ty auta prostě
+jako sami pořád nejezdějí.
+Já ho pořád tady nevidím na té silnici.
+A jako souvisí to s etikou, to už jsme
+spolu řešili a
+kam jsme se posunuli? Jako vůbec machine learning
+a etika? Protože já mám
+pocit, že ten machine learning samotnej je
+v podstatě připravenej na ty auta,
+ale ta etika zatím je samozřejmě
+složitý téma. Je nějaký jako
+koncenzus, kde se machine
+learning komunita
+shodla, že touhle cestou půjdeme?
+Jako asi takový
+základní pravidlo, který platí,
+že by se do těch modelů neměl
+vnášet žádnej
+pokřívení nebo
+bias, nebo jak by se to řeklo v angličtině?
+Předsudky. Předsudky, no. Přesně tak.
+Takže to je
+takový základní pravidlo, že
+prostě ono to tak je,
+že když třeba trénuješ, já nevím,
+nějaký rozeznávání,
+znova toho, řeknu,
+štěkání a mňoukání kočky
+a kdyby si to prostě učil jenom mňoukat,
+tak ono to prostě, že o toho psa nikdy
+nerozpozná, jo, a tak prostě to by mohl být
+taky nějaký bias nebo nějaký prostě
+a mohlo by to být taky, jako, mohlo by to
+dojít do takových věcí, jako je
+rasismus v podstatě, že jo,
+a mnohem, mnohem jako horší věci,
+takže jakoby ta etika tam existuje,
+ale jakoby, že by byly ustanoveny
+nějaký úplně pravidla,
+já si toho nejsem úplně vědomý, no, no toho bude
+možná víc prostě v takových těch oborech,
+kde se zabývají tou umělou inteligencí
+pro nějaký možná,
+jak to říct, prostě nějaký
+healthcare nebo nějaký zdravotnictví
+věci nebo psychologie a tak dále, tam to bude
+asi trošku víc, no. Jo, ale teď mi řekni,
+no, tak je ten klasický příklad, že, že
+mně říkají, nemůžeme to dotáhnout do konce,
+protože na konci dne to auto
+se ocitne v situaci, kdy má jenom
+dvě řešení, v tom jednom řešení
+prostě musí srazit malý dítě,
+v tom druhém řešení musí srazit starou paní
+a teďka jako kdo má to rozhodnout
+algoritmus nebo my to máme vnést
+už do toho algoritmu, jak tohle bys řešil
+nebo jak to vůbec jako nad tím
+přemýšlí ta komunita? Tak Richard by přijal
+tu paní, že jo?
+No tak asi, no,
+tak asi podle preferenci, když teda
+chcete takovýhle červený humor.
+Jestli jsi spíš na starší paní nebo na děti.
+Ale určitě jako vy, tohle je
+obrovská otázka, která se diskutuje
+snad úplně všude, když se podíváš
+a je to složitý prostě, hlavně
+v tom autovolovém průmyslu, jako já na to odpověď
+každopádně je to obrovský
+a horký téma, jako jak říkáš.
+Jako a vlastně přemýšlím jenom tak jako
+dost nechme tady těch filozofických úvah, jo?
+Ale jako jak tohle může se vyřešit, jo?
+Prostě jedině toho jako tam
+model nenaučit a prostě jako ten
+člověk taky nějak zareaguje podvědomně,
+že jo? Ale nevím, jestli nám tohle bude stačit.
+Richard říkal, že tam nesmějí být žádný
+bajasy, ale otázka je,
+jestli jako takhle
+fungují lidi, jo? Jako já nechci se
+jako zastávat jakýkoliv předsudků,
+ale prostě ty předsudky máš,
+máš je nějak jako v sobě, samozřejmě
+zase můžeš brát, že je to důsledek
+nějakých jako věcí, které se ti třeba staly,
+tak si z toho udělá nějaký pattern,
+že když někdo vypadá tak či onak, tak ho máš
+nebo nemáš rád a tak dále, jo?
+Nebo že radši přijedeš starší paní a tak,
+než je teda, bych tohle
+nějak extra dělal, ale
+jestli to je jako přirozený, pak taková umělá
+inteligence, která tyhle ty věci v sobě nemá.
+Hele, to je fakt těžký a dlouhý téma,
+bych řekl, ale ten hlavní rozdíl
+je v tom, že prostě Roman Provazník nad sebou
+nemá napsáno, hele, preferoval bych
+zajít starou paní, jo? Jakože,
+ale u toho algoritmu to prostě musíš
+do toho vnést, jo? To je ten problém,
+který tam podle mě je, no.
+Jako když se bavíme o tom autonomním řízení,
+já si myslím, že skvělá věc, jako je
+ne úplně plně autonomní
+řízení, jo, který prostě převezme
+celý, všechny ty funkce a tak dále.
+Prostě takový ty prvky, jak se tomu říká
+ten ADAS, nebo ten Advanced
+Driving Assistance Systems, vlastně, že ti to
+pomáhá brzdit, že to pomáhá zatáčet
+a tak dále, protože ono se to,
+někomu to prostě vadí, to jsem si
+taky všimnul, takhle, co mám známý a kamarády,
+co s tím mají zkušenosti, ale
+ono to je taky daný tím, kde vlastně žiješ.
+Třeba můj příklad z Bangkoku,
+kde jsem žil, tam je obrovský
+provoz, tam máš prostě pět pruhů
+a vlastně tam to pořád stojí, anebo
+to tam jede pomalu. Takže co ty tam děláš? Ty si
+prostě koukáš na telefon, čteš si něco a tak dále.
+No a zapomeneš prostě na to,
+že by jsi měl brzdit, jo, i když to nejsou nějaký šílený
+rychlosti, prostě nespůsobíš nikomu
+prostě úraz, smrtelný úraz
+a tak dále, ale tady ty
+systémy ti úplně skvěle pomůžou, prostě,
+takže můžeš soustředit i na ten v podstatě
+mobil, jo, když jdeš tou desítkou, no, ale
+do nikoho nenapádáš v podstatě. Já si myslím, že
+tohle je jakoby perfektní věc a
+machine learning to umožnil, jako když
+si porovnáš, když to porovnáš před, já nevím,
+možná třiceti lety, když byl favorit, tak
+jakoby machine learning nebyl, takže to
+a mnohem víc bouraček bylo, jakoby podle
+statistik aspoň. Takže ta cesta, kterou
+se ubírá třeba Tesla, ta se ti osobně
+zamlouvá, kde už máš takovýho jako
+kamaráda na řízení a on nějak
+kterou ty vidíš jako reálnou, že to nebude úplně
+kompletně bez tebe, ale
+může to být jako velmi, velmi
+nakloněný tomu, že to bude řídit skoro samo.
+Přesně jak říkáš, oni se blíží
+té úrovně, já ani nevím, který level to je,
+ale prostě mají tam různý levly, možná, že to je
+teďkonců asi na třetím, ale oni
+pořád říkají, že
+ty jako řidič prostě musíš přebrat
+tu zodpovědnost v nějakých kritických
+prostě chvílích. Takže ono je to prostě, jak říkáš,
+tvůj pomocník, možná tvůj copilot
+a já si myslím, že je to perfektní věc,
+když s ní umíš zacházet, ale taky vidět
+podle toho, co bylo v novinách, že
+jsou lidi, který si sednou na zadní
+zradlo a prostě očekávají, že je to
+roveze domů jako šofér nebo limuzína.
+Takže to si myslím, že je zneužití
+toho systému.
+Tak já bych se to hlavně u nás nebál, protože
+na tyhle věci potřebuješ nějakou infrastrukturu
+a já třeba mám v autě
+takového toho asistenta, žeho těch hlídání pruhů
+a to auto je z toho úplně zoufalý.
+Já mám pocit, kdyby si to uvědomilo samo sebe,
+tak to narve do stromu, aby se to zabilo.
+Protože prostě, když to jede po český silnici,
+která buď nemá pruhy, nebo má
+žlutý na bílejch a
+furt mi to tahá volantem,
+to auto je naprosto nešťastný
+z toho, jak vypadá ta infrastruktura
+v takových zemích a tu nejsme rozvojová
+země, nebo zatím.
+Takže
+otázka je, jaká bude ta
+adaptace těchto systémů na to,
+že ta infrastruktura je nedokonalá.
+Je to tak, to bude ještě.
+Ono je to všechno o těch datech.
+On se někde ten systém učil a nějaký data
+mu můžou třeba chybět.
+A nebo ten algoritmus není tak dobrý,
+jak by měl být. Já vím, že je
+prostě pár společností, který
+na to nepoužívají přímo nějaký
+machine learning nebo reinforcement learning,
+ale používají na to prostě jenom nějaké pozorování
+těch pruhů. Ale někdo na to používá
+reinforcement learning, který vlastně
+svým způsobem skóruje,
+jak dobrý jsi byl a vlastně pak by to
+mělo řídit skoro bez pruhů.
+To je ta výhoda.
+Ale tam se to vlastně dostane stejně,
+jako se tam dostane ten GitHub
+Copilot. Jenomže
+u toho GitHub Copilotu nebude
+toho umrtí jako u toho
+autonomního systému.
+V případě reinforcement
+learningu jsi narazil na skvělý
+téma a to určitě půjďme probrat zase
+na nějakým dalším
+díle, protože ty jednotlivý druhy
+deep learningu nebo machine learningu,
+které dneska jsou, jsou jako ohromně zajímavý
+každej sám o sobě. Takže to určitě někdy
+probereme znova. Určitě, to se budu těšit.
+No takže jsme to probrali vlastně
+ze všech stran. Probrali jsme
+knihovny, jaká matika je zatím,
+probrali jsme rozdíly.
+Víme, že to použití je strašně doširoká,
+což jsme očekávali, protože
+od nějakého sentimentu u tweetu
+až rozpoznat pudla nebo
+koláček až po to, že to auto
+Jaká je, Richard, vlastně
+tvoje budoucnost teďka? Na co se chystáš?
+Kterým směrem třeba v té aplikaci
+těchto věcí se chystáš
+vyrazit?
+Já si myslím, že jeden ze zajímavých
+oborů je, ono je to
+celkem novej pojem, ale říká se tomu
+AIoT. A vlastně je to
+taková sloučenina AI
+a IoT. A
+vlastně ono existuje ještě jeden obor
+a říká se tomu TinyML
+a to spadá skoro do té samé kategorie.
+To AIoT
+vlastně je
+prostě machine learning nebo umělá inteligence
+na nějakým deviceu
+nebo prostě na nějakým zařízení, který může
+být ve výrobní hale a sleduje
+ten stroj, jestli všechno je
+v pořádku a tak dále. A ten může být
+buď napojený na cloud, anebo ten může
+přímo prostě ten algoritmus běžet
+na tom mikroprocesoru. Takže to si myslím,
+že je obrovská budoucnost a
+tam se bude aplikovat spoustu senzorů a tak dále
+a hlavně ten machine learning. Takže to si myslím, že je
+obrovská budoucnost tady.
+– To zní hodně zajímavé. Je to
+něco, kam můžeme zařadit i ten
+projekt s Panasonicu, kde máš nějaký
+senzor, který se snažíš nachytřit.
+Je to tenhle rank, nebo je to ještě
+zatím vidíš něco malinko jiného?
+– Naprosto, to je výborný příklad.
+Vlastně ten Panasonic, to je
+inteligentní IoT device,
+který dokáže dělat
+věci, které by nebyly možné
+bez toho machine learningu. A vlastně všechno
+se odehrává na tom malým
+prostě přístroji nebo device.
+– No tak super.
+Já doufám, že ta budoucnost
+je machine learningu nakloněná.
+Když jsem koukal na nějaké statistiky, kolik by mělo být
+pajtních vývojářů v budoucnu,
+tak to vypadá velmi slibně.
+– Jestli to nebyla nějaká machine learning predikce,
+tak jo. – Právě, právě.
+Nebo jestli to nebyla predikce firmy,
+který se to takhle hodilo. A uvidíme.
+Uvidíme, jaká bude budoucnost. Richarde,
+moc díky, že jsi na nás udělal čas.
+– Díky moc. – Bylo to fakt skvělý.
+A dozvěděli jsme se spoustu nových věcí.
+– Já si jdu dát o víkendu
+celý triatlon Terminátora.
+Každopádně, abych byl připravený na to, co nás čeká.
+– Respektivně. Myslím, že to je ideální příprava.
+– Já si jdu namontovat nějaký
+nárazníky pořádný na auto.
+Kdybych to nechtěl rozpoznat něco.
+– Je to lepší v Čechách určitě.
+– Tak jo, no a budu na tebe myslet, až pojedu
+s práce autem, který mi bude trhat volantem,
+že prostě je zatím to AI.
+– Perfektní. Jsem rád, že jsem tady něco zanechal
+a bylo to příjemný tady s vámi.
+– Super, Richard, určitě si tě rádi pozveme
+někde znova. Měj se hezky, ať se daří.
+– Budu se tě moc. – Vy taky kusit. Čau, čau.
+– Tak Románku, to byl
+Richard Vlas. Jak se ti líbil?
+– No já jsem nadšenej. Jednak je to strašně
+sympatický člověk, kterýho jsem bohužel
+viděl dneska až poprvý naživo.
+– No to je pravda. – A hlavně teda to množství
+informací, který tady zase vychrlil
+a který nám řekl,
+jako tušil jsem,
+že ne všemu budu rozumět,
+ale zároveň jsem překvapenej, kolik věcí
+dokázal podat, takže i já tomu rozumím.
+Takže, nebo mám pocit, že tomu rozumím.
+– No tak pecká.
+No a já myslím, že tohle je opět
+jeden z kandidátů na další díl, protože
+těch věcí, kterých jsme se ještě v machine learningu
+nedotkli a myslím, že bychom se dotknout
+měli a mohli, tak těch je ještě dost.
+Takže rozhodně si myslím,
+že tady Richarda nemáme naposledy.
+– No to bude trošku asi jako rabbit hole, ne?
+Celý teda obor. – Vypadá to tak.
+– No tak jo, tak my klasika.
+Dotočíme.
+Minule si polevil ty mě, to musím říct.
+Bylo to strašně nespravedlivý v tom NHL-ku,
+ale prostě Poli vyhrál
+4-3 a v poslední třetině
+a byl to hnusný gol a ještě to bylo zabagovaný.
+– Nádherný zápas to byl.
+Fakt jako musím říct, že jeden z nejlepších.
+A to je vlastně důvod, proč mě se ten druhý díl líbil
+o trošku víc, protože jsem měl
+i ten sympatický dojezd.
+– Tak to jsem zvědav,
+jaký budeš mít feeling z toho
+třetího dílu, protože mám v plánu
+ti to vrátit. No nic,
+milí posluchači, vy se to dozvíte při natáčení
+čtvrtýho, pátýho dílu,
+jak to dopadlo dneska.
+My si to jdeme všechno uzavřít,
+jdeme si dát kafe, jdeme si dát NHL-ko
+a zase někdy pod vocasem.
+– Pod vocasem. – Tak jo, čau.
+– Máš se krásně, čau.

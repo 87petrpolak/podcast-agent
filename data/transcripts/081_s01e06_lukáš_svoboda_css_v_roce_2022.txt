@@ -1,0 +1,1379 @@
+Na zdar, Poli. Na zdar, Románku.
+Tak je tady novej rok 2022, co si budem přát?
+Co si budem přát? No já bych si přál tak třeba tři další série.
+Hmm, já bych si přál, člověče, svobodu.
+Svobodu.
+Toho si přeju taky.
+No tak, tak si ho pozveme. Tak jo.
+Pod Vodcasem. Super.
+Vážení a milí posluchači, vítejte u dalšího dílu IT podcastu Pod Vodcasem.
+S vámi opět u mikrofonu sedí Petr Polipolák.
+A Roman Joker, provazník. Ahoj Románku.
+Čau, čau. Tak jak bylo?
+Bylo to super, bylo spousta volného času, takže jsem si pěkně odpočinul.
+Jo, ty jsi měl ty svátky.
+No já jsem byl, jak jsme tady měli naposledy Jardu s Davidem z Konferomatiku,
+tak jsem byl vlastně u Jardy v podcastu hned záje, asi tři dny potom.
+A tak jsme se tak jako pobavili a smáli, že my co si pamatujeme,
+konec těch devadesátek a začátek prostě milénia,
+kdy lidi si vyměňovali linky na webovkách, na svoje blogísky,
+se prolinkovávali, tak teď ta doba pokročila a navzájem už si chodíme do podcastu.
+Jasný, jasný.
+Takže to bylo tak jako vtipné, ale bylo to hezký.
+Jmenuje se to Softcraft, najdete to na Soundcloudu a společně s Kubou Kočím,
+což je taky můj bývalý kolega ještě z TOP Monks, tuším, že tam jsme se viděli,
+tak jsme si pěkně pokecali, bylo to fajn.
+Super, super. A to je taky formát podobnej, stejnej?
+Není to tak dobrý, samozřejmě. Navíc teda kluci točí na jeden mikrofon
+a to mě strašně iritovalo. Já jsem jim furt do toho nějakým způsobem šťouchal
+a říkám, kluci, já si vezmu odposlech na uši, připíchnu si sluchátka,
+nebude vám to, doufám, vadit, oni tam by úplně něčo měli.
+Pak jsem říkal, hele, to musíš tady, ten ruch odstranit a to.
+Ale oni jsou v tomhle s tom takový pankáči, oni dají jako rekord
+a hodinu deset jsme se bavili a pak dají stop a hotovo dvacet.
+Takže co se řekne, to se řekne, nic se nevystřihává,
+takže jsem musel být trošku i opatrnější, ale myslím si, že to dopadlo dobře.
+Ale tady je zase potřeba ti dát kredit, že jako ten zvuk, který my máme,
+je jako všechno tvoje zásluha, takže děkujeme Románku.
+Jo, to vůbec není začínat. To se stalo, můj kolega se v šárt týmu
+dneska ráno, říkal Petr, říkal, hele čověče, teď jsem poslouchal
+ten druhý díl a já byl úplně překvapený, jak je to kvalitně
+jako nazvučený a říkám, no a to si ještě neslyšel ten čtvrtý,
+kdy už máme jako finální audiotechniku, takže taky byl překvapený,
+že to prejzní, jako by to bylo profesionální, což nevím,
+co jim chtěl říct, ale jako dobrý.
+Snad to byla pochvala.
+Jo, asi, asi, asi, jo.
+Super, no co nás čeká dneska, Románku?
+No, vlastně dneska zakončíme první sérii.
+Možná by se slušelo říct, že my sice furt o tom mluvíme
+v takovým tom, jako, v takovým způsobem, že by to asi mělo končit,
+ale už máme v pajpě další a další lidi, takže s největší
+pravděpodobností budeme skutečně i v roce 2022,
+to se strašně blbě říká, pokračovat.
+No, ale dneska to samozřejmě musíme jako kompletně uzavřít.
+Je to tak, přichází Lukáš Svoboda.
+Ano.
+Velkej běžec, by the way.
+To já o něm vím.
+Dokonce jsme spolu byli na projektu a v Mníchově jsme někde běhali po lesích.
+Já jsem tě rozuměl, byly na projektu.
+Jo, byly.
+Ne, ne, to určitě ne.
+Ne, vy jste byly na projektu.
+Byly.
+Já jsem tě byl, to rozuměl.
+Dobře, takže to je velkej běžec, ale my ho tady nemáme kvůli běhání, že jo?
+Ne, toho rozhodně ne.
+Proč jsme si ho vlastně pozvali?
+Lukáš je odborník na CSSka.
+No, výborně.
+A zároveň je to velkej designer, nebo baví ho design, webovej, takže kolem toho se to dneska asi bude točit.
+Takže typuju CSSka, bootstrap a všechny tyhle z ty frameworky, prostě krásný plus možná naťukneme design sprint jako takový.
+Přesně tak, jak bys si řekl ty, takový ty všechny dobroty kolem toho.
+Jo, jo, dobroty. Tak jo, tak si jdeme pochutnat.
+Super.
+Ve studiu už s náma sedí Lukáš Svoboda. Ahoj Lukáši.
+Ahoj kluci. Čau, čau.
+Jak se máš dneska?
+Mám se dobře.
+Super, super, super. Lukáš, začneme trošku jako netradičně, je velkej běžec, tak kolik máš toho letos na běháno?
+Hele letos...
+Nebo respektive loni, jako teď máme začátek roku, ale ještě pořád žijeme v tom starém módu.
+Jo, jo. Hele bylo to takový bídnější, já jsem začal trošku víc jezdit na kole v tom roce, takže kiláků mám, já nevím, někam pětistovce, jako poměrně málo, ale já jsem asi dva tisíce na kole na Horským, takže jsem spokojený.
+Takže pětset máš na běhanejch?
+Jo, jo.
+Co na to říká Roman?
+No já úplně teďka přemýšlím, kdy jsem měl víc než padesát za rok, jako, ale to je hezký číslo, no.
+To je pěkný.
+Kolik tak jako běžíš vždycky na vzdálenost, jako deset kiláků nebo...
+Já většinou běhám podle toho, kolik dostanu času jako od rodiny.
+A to je kolik, teda hodina?
+No, něco ve půl hodinu, hodinou.
+Ono je potřeba pak zmínit base, protože kdyby stejný čas dostal od rodiny Roman, tak to třeba nemusí být úplně takový...
+Nemě třeba dají půl dne a já dám pět kilometrů, že jo?
+Říkaj, vyklidně běž si zaběhat, až to tak se vrátí.
+Ne, ne, ne, je to velmi asi variabilní.
+Dřív jsem rozhodně běhával jakoby víc, když jsem se zaměřoval na běhání.
+Naběhal jsem většinou kolem tisíce, jakých dvanáct tisíc kilometrů za rok.
+Ty krá...
+Ano, když jsem teda ještě býval jako mladý, nadějný běžec kolem těch dvaceti let, tak to jsem běhával někam k těm dvou tisícům za rok.
+To je masakra, to pomalu nenajdu v autě.
+To je takový jako rekurentní témat, jo?
+Furt se vracíme k tomu běhání.
+My bychom možná mohli pak udělat nějaký jako ne-IT díl, kde si pozveme nějaký opravdu jako vyběhaný běžce a trošku to jako probrat.
+Já teda nevím, co budu povídat.
+To je trošičku ten díl, který si stájí střílim do vlastního kolena.
+Můžeš se ptát.
+Ale možná se budu moc ptát na spoustu věcí, které mi nedávají smysl toho běhání.
+Jasně.
+No tak každopádně, Lukáše, jsme si nepozvali hlavně kvůli běhání, ale spíš kvůli CSS-kům a všemu, co se kolem toho točí.
+Tak Lukáši, možná začněme tím, že ty pracuješ v Cienku, dělali jsme spolu dokonce na projektu.
+A čemu se teďka věnuješ konkrétně?
+Moje ta práce je trošku rozdělená mezi dva světy.
+Věnuju se jak kódu, a to z hlediska právě toho CSS-ka, HTML a frontendu.
+Většinou v rámci nějakého JavaScriptového frameworku.
+Mám to hezky rozdělené, protože pracuji na více do projektech.
+Takže jeden projekt běží na Vue, další běží na Reactu, další běží na Angularu.
+Jeden máme, myslím, na Blazoru dokonce.
+Takže to mám opravdu velmi takovou pestroučinnost.
+A ta druhá část mé práce spočívá v designu, navrhování.
+Uživatelských rozhraní.
+To je ústý, takže ty teďka děláš na čtyřech projektech?
+Nebo je to v rámci jednoho projektu, máš víc těch stacků?
+Ne, ne, ne. Dělám většinou na nějakých dvou až třech projektech.
+Zároveň do toho občas přibyde třeba i nějaký čtvrtý, bývá to někdy dočasný.
+Málo kdy se potkají v jeden den nebo v jeden týden, ale občas to taky nastane.
+Já vím o tom, že ty teda kromě těchto věcí jsi velkej milovník a znalec CSS-ek.
+Což je teda mimochodem i důvod, proč jsme si tě primárně dneska pozvali.
+Což mně teda přijde, že ten obor neustále se vyvíjí.
+Protože já si pamatuju, když s tím člověk začal před nevím kolika už mraky let,
+tak to vypadalo úplně jinak, než to vypadá dneska.
+Přijde mi to komplexnější, to CSS-ko, ale zároveň teda,
+jako řekl bych po tom, co se stalo s flexem,
+tak mně přijdu některé věci jako geniálně jednoduchý.
+Možná úplně z globálu, kde vlastně dneska,
+ty v úzovkách blbý CSS-ka jsou.
+Já si myslím, že ty v globále blbý CSS-ka jsou zajímavý v tom,
+že po těch 20 letech tady stále jsou.
+Na rozdíl od nějakých dalších třeba jazyků, který se na webu objevili.
+A stále se vyvíjejí a za mě stále doplňují nějaké nové funkce,
+pomáhají nám budovat ten fronten tak, aby ty webové stránky se načítali rychle,
+aby to fungovalo velmi dobře v podstatě kdekoliv,
+aby to bylo přístupný pro uživatele.
+Takže v tomhle směru si myslím, že nám opravdu hodně pomáhají.
+A přijde mně, že se vyrojilo spíš hodně nástrojů okolo těch CSS-ek,
+ale to jádro samotné je stále v podstatě stejné,
+nějak zvláště nevyvíjí, nebo respektive ty základy tam stále jsou.
+A to mě vlastně úplně překvapuje, když se nad tím zamyslím
+v porovnání s jinýma stackama.
+Jak to, že ty CSS-ka to v podstatě nemění,
+a vím, že se samozřejmě někam vyvnuli, že to takhle dlouhotáno.
+Jak je to možný? Máš k tomu nějaké vysvětlení?
+Nemám.
+Jako opravdu řečeno nevím.
+Ony se samozřejmě nabalují, přicházejí nové funkce,
+přicházejí nové vlastnosti, přicházejí nějaké nové nástroje,
+layoutovací systémy typu Flexboxu, Gridu,
+které nám pomáhají trošku líp budovat ten layout.
+Ale takový to grow, jak to funguje, to víceméně je velmi podobné tomu,
+co bylo dříve, ale je to mnohem teď použitelnější,
+snadnější.
+A nejsou problémy s prohlížečema a tak dále.
+Co teďka vlastně nejvíc frčí ohledně CSS-ek kolem toho,
+ať je to třeba nějaký framework, nebo UI knihovna,
+nebo obecně třeba nějaký přístup?
+Protože myslím si, že se dá už dneska k těm CSS-kům přistupovat
+vlastně z mnoha směrů.
+Těch přístupů je víc.
+Určitě hodně frčejí nějaké zápisy v rámci JavaScriptu,
+Style Components a podobné.
+Je to možná populárně i díky tomu,
+že ty CSS-ka velmi často píšou Frontend View,
+nebo většinou to píšou Frontend vývojáři,
+který k tomu JavaScriptu mají blízko
+a kterým to vyhovuje, že vlastně v rámci toho JavaScriptu
+můžou pracovat s těma stylama.
+A druhý takový velkej možná hype v současnosti je Tailwind,
+což je docela zajímavý,
+protože my jsme s ním začínali na projektu někdy před dvěma,
+možná třema lety, kdy ještě byl v nějaké beta verzi.
+A v té době to zas tak jako na nějaké velké vítězství
+úplně nevypadalo.
+Tak zjistovaly, tuším, všeho všude tehdy dvě nějaké knihovny
+tady těch atomických CSSek, ještě společně s Tachyons.
+A mohl bys třeba to trošku vysvětlit,
+co jsou atomický CSSka, jak se třeba lišejí od těch starých?
+Nevím, jestli si vzpomínáš, Romane,
+nějaké svoje začátky, co se týkalo nějakého kodování,
+nebo tak, jestli jsi někdy v minulosti používal
+třeba nějaké svoje vlastní CSS střídy pro TextCenter,
+to v podstatě napsal si asi každej klír
+na zmizení...
+Překonce i já jsem psal, jo.
+Přesně tak.
+Když jsi dávno.
+Nějakou klír...
+Klásu?
+Klásu právě na zrušení floutu a tak dál.
+Tady to jde v podstatě ještě dál,
+kdy pro jakoukoliv CSS vlastnost
+máš svoji vlastní klásu předgenerovanou
+pomocí nějakého generátoru,
+který si můžeš trošičku ovlivnit,
+aby ti to generovalo přesně to, co potřebuješ.
+A potom už v podstatě nepíšeš téměř žádné vlastní CSSko,
+to píšiš přímo v kódu
+a to už je pak jedno v jakém kódu.
+Už píšeš přímo ty klásy za sebe
+a styluješ ten kód tak, jak potřebuješ.
+Má to výhodu v tom,
+že nemusíš přemýšlet nad názvem CSSstří,
+což někdy pro cizí lidi může znít trošku směšně,
+ale může to být problém.
+A zároveň není problém se specificitou,
+kdy nemáš problém s přebíjením
+nějakých vlastností navzájem.
+Velmi snadno se pak ten kód zpracovává
+a pracuje se s tím hezky.
+Já se přiznám, že jsem četl ten článek
+od toho autora Tailwindu,
+kde vlastně on zkouší několik způsobů,
+jak dojít k tomu,
+aby si měl hezky ostilovanou stránku
+a zpochybnuje tam celý ten koncept
+vlastně separation of concerns,
+že to úplně není pravda,
+že ve chvíli, kdy si tu klásu pojmuješ
+třeba horizontal form,
+tak už je i v tom názvu daný,
+jak by to mělo vypadat
+a už tam ta separace nikdy nebude.
+Já si třeba pamatuju,
+jak se to jmenovalo, CSS Zend,
+nebo tak jenom Zend CSS.
+Já si...
+Pamatuješ si to, taková ta stránka,
+kde vlastně si měl jenom HTML,
+a lidi k tomu uploadovali různý CSS,
+a vždycky to vypadalo Zengarden,
+nebo tak nějak se to možná...
+Něco mi to říká.
+Tak nějak se to jmenovalo.
+A vypadalo to pokaždý jinak.
+A on to tam dává jako příklad,
+že vlastně ano,
+tak by to čistě teoreticky mělo vypadat,
+ale že to tak vlastně nefunguje.
+Co ty si vlastně o tom myslíš,
+o tomhle porušení separation of concerns
+v tomhle případě?
+To je spíš oddělování komponent v rámci kódu,
+než úplně oddělování tady těch CSS stříd.
+Myslím si, že ve chvíli,
+kdy ten kód je dobře strukturovaný v rámci projektu,
+a kdy ty jednotlivé komponenty
+jsou od sebe samostatně izolovaný,
+tak vůbec není problém
+tady v těch názvech CSS stříd,
+případně v nějakém opakování a dalšíma věcima.
+Mně se u toho Tailwindu
+zase na druhou stranu docela líbí to,
+že já nemusím jít do vedlejšího failu
+a zjišťovat, kde jsem co použil,
+protože jsem si taky zkusil,
+vlastně musíme říct,
+že tak, jak vypadá dneska pod vlaca sem CZ,
+tak je to Lukášova práce
+a je to v Tailwindu a já právě proto,
+aby jsme to ještě lehce zdinamičtili,
+aby tam ty nový epizody
+přiskakovaly automaticky,
+tak se to snažím trošku zdinamičtit celý,
+tak se to učím za pochodu právě po Lukášovi.
+A je dobrý,
+že prostě nemusíš přeskakovat.
+Máš to přímo v tom kódu,
+vlastně někdo i řekl, že to je ideální na to,
+když ze Stack Overflow chceš skopírovat kus designu
+a někdo používá ten defaultní,
+nemá ten svůj konflikt předělaný,
+tak velmi jako copy-pastem
+dostaneš, dojdeš k tomu,
+že to máš skopírovaný jedna ku jedný,
+jinak takhle bys musel kopírovat toto mylko
+a ještě jako CSS.
+Jak je při tom refaktorinku,
+teda je to asi lepší, ne?
+Je to určitě lepší, pomáhá to v podstatě
+i při nějaký dlouhodobí zprávě toho kódu,
+kdy můžeme v podstatě kamkoliv sáhnout
+a na našem projektu
+máme někdy problém s tím,
+že musíme nějak upravit kousek stránky,
+aby vypadal trošičku jinak než jinde
+a ve chvíli, kdybychom to museli dělat
+pomocí klasického CSS,
+tak musíme vymyslet název,
+nějaké nové třídy, nějaký modifikátor,
+popřemýšlet nad tím, jak to udělat.
+Tady v podstatě jenom měníme CSS
+a můžeme to měnit pomocí nějakého Google Tag Manageru,
+jednoduše z nějaké třetí strany,
+v podstatě upravovat ten náš kód
+dynamicky, aniž bychom sahali přímo do CSS,
+jak šli cestou nějakých inline stylu a podobně.
+No a to se chci zeptat, jak se to teda
+liší od těch inlineů?
+Protože já můžu přijít a můžu tam napsat
+prostě klasicky jako color pink,
+tak jako dělám vždycky, když zkouším, jestli mi funguje hot reload.
+Jak se to liší?
+Inline jsou naprosto něco jiného,
+ať už co se týká
+nějaké kaskády, kdy v podstatě inline
+mají mnohem vyšší samozřejmě prioritu,
+takže je mnohem obtížnější je přebít.
+A druhá věc je samozřejmě opakovatelnost,
+protože ve chvíli,
+kdy je to opravdu CSS třída, což je CSS třída,
+tak v podstatě změnou na jednom místě
+většinou v rámci
+nějakého toho konfiguru, to v podstatě měním
+na všech místech, na rozdíl od inline stylu.
+A ještě jedna věc,
+která mě ohledně celého
+toho trošičku trápí,
+a to je to, kdy jsme se vraceli k těm začátkům,
+kdy člověk udělal CSS,
+nahrál opřese v týpku a ono tam prostě bylo,
+nalinkoval to hotovo 20,
+tak mně přijde, že na to, že to jsou,
+a omlouvám se všem kodérům, v úzovkách jenom blbý CSS,
+tak je kolem toho teďka jako
+použiju své oblíbené
+omrdesát věcí kolem.
+To máš jako
+aglifikace, minifikace,
+blblifikace, jakákoliv, nevím.
+Nepřijde ti,
+že ta komplexita strašně vyrostla na to,
+že to jsou fakt jenom jako styly?
+Já si myslím, že to je spíš jenom komplexita
+těch nástrojů okolo, že to není ta komplexita
+přímo těch CSSek.
+Pořád můžeš psát to CSSko, jak jsi zvyklý
+v klasickým samostatným
+souboru. Za mě osobně
+mně přijde, že je úplně jedno,
+jakým stylem to píšeš, jestli to píšeš tailwindem,
+jestli využiješ nějakou UI knihovnu,
+jestli to píšeš stálkomponentama, nebo tak.
+Vždycky je to stejně pořád,
+jenom jak kdyby to CSSko, to tam je
+a je už jenom jakoby o tom,
+a k tomu pak můžeš potřebovat
+nějaké další knihovny,
+minifikace, ale tady to jsou věci, které se většinou dějou
+automaticky, jsou součástí celého
+procesu, protože stejně minifikuješ třeba JavaScript
+v rámci toho projektu.
+No a znamená to, že
+tato komplexita, která
+těm pádem narostla,
+pomáhá ti to třeba, že mín kóduješ
+a víc používáš ten kód
+zvenčí, nebo jak se
+změnil ten tvůj způsob práce díky tomu?
+Já bych to možná řekl
+na tom příkladu toho Tailwindu, kdy
+namísto toho, abych já nejdřív
+šel do CSSka, vymyslel
+si nějaký CSS třídy a pak to
+doplnil do HotMLu nebo naopak,
+tak teďka já jdu přímo do nějakého toho HotMLu
+kódu a HotMLu jako ve smyslu, že to
+může být kus HotMLu kódu ve Vue projektu
+nebo tak, to je úplně jedno.
+A tam rovnou v podstatě jenom tvořím ten
+kód, rovnou s tím pracuji, v podstatě nedělám
+vůbec nic jiného, takže je to mnohem díky tomu
+rychlejší, protože rovnou jdu k jádru té věci
+a rovnou vytvářím ty dané
+komponenty. Přijde mně, že to zároveň
+hodně třeba pomáhá těm JavaScript viewářům,
+kteří velmi neradě
+chodí do CSS souboru, oni v podstatě
+to nemají rádi, takový ty složený závorky,
+jak já furt přemýšlel, co to tam je a tak.
+V tomhle směru jim jakákoliv
+nějaká UI knihovna nebo ten Tailwind výrazně
+pomáhají, protože mají nějakou dokumentaci,
+vidí tam ten kód, jak vypadá
+a jak spolu
+souvisí a mnohem
+líp se jim s tím pak pracuje.
+Hala a u nás v Cienku, co všechno
+teda vlastně používáme? Jedeme
+jako výhradně na Tailwindu nebo máme to rozházené
+nějaké? Protože viděl jsem i
+materiál UI hodně používáme, že jo?
+Hale, je to asi
+projekt od projektu úplně
+odlišný. Na některých
+projektech jedeme klasicky v SASu,
+kdy zapisujeme kód třeba pomocí
+nějaké konvence typu
+B.
+a podobně. Vím, že
+nějaké interní projekty jsou na Style Components,
+na Emotions knihovna
+a tak na tom
+mým konkrétním projektu pracujeme právě
+s Tailwindem, ale zároveň
+tam máme CMS, který
+využívá Vutify knihovnu,
+která je v podstatě taky založená na
+materiál designu. Takže je to velmi pestrý
+určitě. To máme velmi, velmi
+rozvrstené. Vždycky záleží na tom klientovi a na tom
+projektu. Hale, když tě takhle
+poslouchám, kdybys dneska začínal, nebo
+dejme tomu, že máme tedy nějaký CSS kodéry,
+který dneska začínají, co bys jim doporučil?
+Jako co by měli nastudovat,
+čím by měli začít? Jako změnilo se to
+oproti tomu, když ty jsi začínal?
+Já když jsem začínal,
+což už je opravdu
+hodně let, abych řekl pravdu,
+tak
+já bych jim spíš doporučil,
+aby se nezaměřovali úplně tolik na nějaké
+tady ty fancy věci, ale spíš se trošku
+zaměřili na to jádro. Protože mně přijde, že
+jakoby spousta lidí umí používat
+Flexbox a umí používat Grid
+a už mají nějaký
+zkušenosti z container
+queries, který budou pomalu přicházet
+a tady těma všema krásnýma věcma,
+který nás čekají a který
+se používají, ale zároveň mají
+velký třeba nedostatky, co se týká
+pochopení toho jádra,
+toho CSSka, co tam je vlastně
+na pozadí, protože tam není žádný debugger,
+který by ti řekl, tady máš chybu, protože v CSSku
+v podstatě chyba není. Ono to buď vypadá
+tak, jak chceš, anebo to vypadá jinak
+a to je
+možná takový můj záměr,
+jakoby hodně sleduju
+to, jak vysvětlovat CSSku, aby bylo
+pochopitelný, aby se dostalo
+k lidem, aby pochopili, jak funguje
+a přeskočili tady
+ty skrytý pasti. Měl jsem právě před týdnem
+interní takový
+talk na téma Z-indexu, což je
+velmi taková populární věc, se kterou
+bojuje asi každej, co se týká Z-indexu
+a snažím se právě vždycky na internetu
+hledat takový příklady, jak tady tu danou
+věc vysvětlit.
+Byl tam právě takový velmi pěkný příklad,
+že v podstatě Z-index velmi souvisí
+s tím, jak kdyby se skupováním, jak třeba v grafickém
+editoru ve Photoshopu, když si se skupuješ
+vrstvy a ty vrstvy jdou v podstatě pře sebe
+jak kdyby celé a pak už nezáleží,
+co máš uvnitř toho se skupění a tak dál.
+Takže tady to jsou věci,
+který mě jako
+v tuhle chvíli zajímají a snažím se je předávat.
+Děvčata v HTML v CSS-ku
+už nějaké asi tři roky
+a moje kurzy
+jsou čistě jenom v HTML v CSS-ku. Je to úplně
+úvodní kurz, takže chodí tam holky,
+který v podstatě s počítačem
+pracují jen tak trošku, ale kód v životě
+neviděli, takže tam opravdu
+jde o to jim to trošku předat a
+odcházejí z toho kurzu úplně nadšený, že je to nádherný.
+Jaký ty holky mají vlastně
+přístup? Protože
+vlastně tam jde člověk úplně čistý,
+což pro nás, co už jsme jako
+bajest za ty roky, podle mě jsme všichni
+bajest jako prasa, ať jde o jakoukoliv technologii,
+tak pak, jak když
+narazíš na nějakého nováčka, tak on ti úplně otevře
+oči, jak ty jsi byl zaslepený, tak měl jsi tam
+nějaký aha momenty. Určitě, určitě. Já právě
+ten kurz v podstatě dělám po každý jiný.
+Já školím většinou tak třikrát, čtyřikrát do roka
+a po každý to vždycky ještě upravuju
+právě podle nějaké zpětné vazby
+a v podstatě od toho, co jsem
+a opravdu tam holkám zdůraznuju, že to není žádná
+raketová věda, že tam není potřeba matematika,
+angličtina, nic takového, že to
+v podstatě jenom o pečlivosti a že je to zároveň
+strašně kreativní proces, což se
+samozřejmě holkám líbí, takže vždycky
+jim říkám, zkoušejte to dělat
+různě, jak vás napadne, nesledujte
+jenom jako nutně mě, zkoušejte si to
+upravovat podle sebe a je to jenom o pečlivosti
+závorky, středníky, špičatý závorky,
+složený závorky, to jim dělá
+největší problém, jinak to pochopení
+je pak v pohodě, s tím už pak vůbec
+nemají problém.
+Ale to mě napadá, ty jsi
+zároveň i UX designer,
+je to vůbec oddělitelný
+ty dvě věci, protože
+já třeba vím, jak hezký věci ty dokážeš
+vygenerovat a kdyby to třeba člověk
+v sobě neměl, tak může dělat vůbec
+CSS kodéra bez té druhé části?
+Já si myslím, že jo.
+Samozřejmě nějaká ta vizuální
+představivost tomu určitě pomáhá,
+protože CSS je hodně o té vizuální části,
+což mě baví, protože vidím ten výsledek rovnou,
+můžu si s tím hrát.
+A jako by šlo by to,
+určitě i bez toho,
+ale samozřejmě to tomu velmi pomůže.
+Většinou to pak bývá,
+na projektech právě takový ten problém,
+že říkají, Lukáši, pojď, přijď, tady nám to trošku porovnej,
+tady není zarovnaný ty tlačítka vertikálně
+a oni to prostě nevidí, ti vývojáři.
+No jasně, jasně.
+No protože prakticky pak přemýšlím,
+že takovejhle CSS koder by musel vyloženě mít
+v tom backlogu napsaný, jak to má vypadat,
+prostě v podstatě stoprocentně
+a v podstatě to jenom copy-pastnul,
+respektive předělal to do toho kódu.
+Tady trošičku pomáhají
+právě takzvané opravdu podrobné
+nějaké styleguidy, kdy
+se zaměřuje, i ten designer
+se zaměřuje čistě spíš na komponenty,
+na to poskládání a aby to mělo
+pak návaznou logiku. Pokud ten design
+je opravdu udělaný velmi dobře,
+že na sebe navazuje,
+že je logicky udělaný,
+že každý odstavek, každý nadpis
+má od sebe stejné odsazení, třeba dolu,
+tak pak ten koder to vezme,
+vidí tam ten řád
+a není problém to předat dál.
+Jak dlouho to děláš?
+Teď záleží,
+co konkrétně, nebo kdy jsem udělal
+poprvní webovou stránku,
+nebo kdy jsem se začal živit.
+No a jak dlouho ty CSS děláš?
+Hned na vášu otázku.
+Jako první webovou stránku
+myslím, že téměř přesně jsem vygeneroval
+před 22 lety, protože od té doby si píšu
+svůj osobní blog.
+Jaký mladej nebo co?
+Já přemýšlím, co jsem před 22 lety dělal.
+Tak co my jsme dělali, že to byl front page,
+homesite pětka, takovýhle
+já jsem začínal
+v Netscape nějakým generátorům
+právě testovat.
+Právě stránky, nepsal jsem přímo kód,
+ale spíš, že jsem se vždycky pak jenom podíval,
+podíval do kódu, pak jsem pokračoval právě s front pagem
+a tak. Ale učil jsem se to velmi, velmi
+kontinu. To je nádherné. Já si to užívám.
+Já si to užívám. No samozřejmě ten následný
+dotaz právě, když už to děláš tak dlouho,
+máš tendenci spíš jít
+k tomu UX designu a už ty CSS
+jako dělat míň. Co tě vlastně
+víc baví z těch dvou věcí?
+A mě možná víc baví ty CSSka.
+To je za prvý, v tom se možná
+lepší než tomu UX designu. Vždycky, když
+vidím jako výplody nějakých designerů,
+tak mě vždycky spadne brada. Vždycky si říkám, to je paráda.
+U toho CSSka
+totiž vždycky vím, jak to udělat. Podívám se
+na návrh, člověk popřemýšlí, udělá to.
+Není tam jakoby takovej problém s tím,
+že máš předcou prázdný papír
+a musíš něco jako nakreslit,
+tak by to mělo vypadat. To je vždycky nejhorší.
+Jasně, ale není to takový to,
+co ty uměleci často tvrdějí, že jo?
+Teďka, když půjdeme do té umělecké roviny,
+že se prostě inspirují z těch věcí,
+které jsou a pak jako je spíše umění
+to dobře poskládat, než se jako
+pověnovat přímo té věci.
+Určitě ano.
+No ty jsi zmínil jako inspirují se,
+to v té době, kdy jsme s tím začínali,
+tak standardní proces byl, že jsi našel
+webovku, která vypadala skvěle
+aglifikace a tak. To se vlastně
+paradoxně v době, kdy všechno
+lítalo přes modem a bylo to drahý
+a pomalý, tak se neřešila velikost
+jako celá zaseka Java skriptu a teď, když máš
+prostě gigabajty za vteřinu, tak
+každej si hraje s tím, aby tu klásu přejmenovala
+co nejkrajší. A to mě
+připomíná, já jsem právě čet
+nedávno článek od Tomáše Petříčka,
+který dělal analýzu
+toho vlastně, jak byly dřív
+modály, byly
+klasicky součástí brouzru, pak se
+to zakázalo, kvůli tomu, že to bylo
+otravné, tak se začaly dělat modály
+v CSS-kách a na té webovce a tak dále.
+A právě tam popisuje úpadek
+té určitý kreativity
+nebo i toho sdílení
+v té komunitě, že vlastně ty jsi našel něco,
+co bylo hezké a mohl jsi si to okamžitě
+vykopčit. Teď to neuděláš, protože teď to máš.
+Protože prohnaný nějakýma
+hnusama, celkově
+nemůžeš se úplně podívat, jasně, můžeš se
+podívat do
+developer tools, vidíš to, jak
+máš, ježiho, calculate, computate, děkuji,
+computate a vidíš, jak to, ale
+blbě se to kopíruje, blbě se to
+jako dělá.
+Co myslíš, Lukáši,
+jako tahle cta vlastně, ty si si pamatuješ
+tu kreativní dobu, kdy vlastně takhle to
+fungovalo, teď už to tak není.
+Já možná trošičku utiču
+z otázky, mě tady v souvislosti s tím
+napadlo právě, že jsem nedávno viděl
+srovnání, jak vypadalo UI
+webový stránky před asi deseti lety a jak
+vypadá teďka, že před deseti lety tam člověk měl
+titulek, nějaký logo a
+obsah a teďka, když otevřeš tu webovou stránku,
+tak ti vyjede kukyslišta, koncentlišta,
+vyjede ti, jestli
+chceš zapnout notifikace
+a všechny tady ty jakoby
+otravné věci ti tam začnou naskakovat
+a tak, než se vůbec dostaneš jakoby k tomu
+obsahu, k tomu, co je hlavní na té stránce.
+Do toho tě ještě možná někdo
+ukradne nějaký ten scroll hijacking.
+– Ne, ale už to není ani taková taková
+hakerská komunita, prostě, že si to
+jako sdílíš, prostě bereš si ty věci, které
+ti fungují a zase se to nabaluje.
+Nepřijde ti to vlastně chučí svým způsobem?
+– Asi ne, mně přijde,
+že třeba hodně tady to sdílení
+návrhů funguje mezi designerskou
+komunitou, kde existují různé facebookové skupiny,
+existují nějaké komunity okolo
+těch designerských nástrojů, jako je
+třeba Figma, Zeppelin a podobně, kdy
+můžeš vidět nějaký best practices
+a podobně, takže
+– Myslím, že se to přesunulo, jenom jenom.
+– Myslím, že se to trošičku třeba přesunulo, anebo pokud člověk
+hledá, tak asi určitě najde
+asi SSD, který z toho vychází stále
+jako spousta. – To ještě funguje?
+– Rozhodně, rozhodně.
+– No je to asi víc formalizovaný, ne?
+Jakože já vím, že třeba Tomáš Horáček, náš první host
+někde propagoval
+Atomic Design, co to jmenuje?
+A myslím si, že to je zrovna něco,
+co vzniklo tak nějak jako formálně,
+můžeš si to vzít, můžeš se z toho inspirovat,
+ale není to tak, že si skopíruješ nějakou webovku,
+která se ti líbí a vezmeš ji prostě do svý.
+– Jo.
+– Děkuju. – To jsou ty sácné okamžiky,
+kdy host tiše souhlasí,
+ale není to slyšet.
+Hele, já se ještě vrátím, mě zavěli
+ty Čekítas, ono to souvisí s otázkou,
+který tady máme, která je
+spíš o těch začátcích. Jaká
+věc se dělá v CSS-kách
+tradičně blbě? Jako když to vidíš,
+řekneš, ty vole, tak tohle ne, nebo třeba
+ty holky, když s tím začínají, tak
+první věc, na kterou je upozornuješ, je
+jako bacha na to. Jo, když po minutu
+syn, tak si chlupa ty špičatý
+závorky, středníky a tak dále.
+– A nevyslím si, že by se přímo něco
+konkrétně dělalo, jakoby špatně
+a na některých
+projektech může být problém právě s nějakou
+specificitou, jestli tam třeba zbytečně úplně
+zanořuje, tam člověk píše
+position relativ jenom proto, že mu
+to prostě nefunguje
+a není si jistý proč, což je
+zrovna taky jedna z vlastností, která jakoby
+není zas tak dobře vysvětlená
+a kterou spousta lidí
+v podstatě nechápe.
+Mně právě přijde, že většina lidí, kteří
+s CSS-kem pracují, tak jsou lidi, kteří
+přes to CSS-ko v podstatě nějak rychle
+prošli, nastudovali si pár nějakých
+vlastností, který používají,
+nepracují do hloubky.
+Třeba asi každý známe, já nevím,
+známe margin collapse, kdy se nám
+takzvaně
+smáčknou dva marginy,
+které jdou proti sobě, ale úplně
+nevíme přesně tu logiku, nemůžeme to
+vysvětlit. A doporučil bys
+třeba nějaký zdroj, kde se tohle
+dobře vysvětlo i na nějakých příkladech,
+že ti to vede. Já jsem
+si teďka nedávno koupil sám kurz,
+který se jmenuje CSS for
+JavaScript Developers,
+protože mě právě zaujal
+vborec, který ten blog vydává,
+Josh Komo se jmenuje, nevím,
+abych ho správně vyslovil, on to zní tak trošku
+francouzský, ale typnout bych si, že to bude
+američan. A
+má tam právě velmi krásné příklady
+toho, jak vysvětlit ty základy toho CSS,
+zrovna margin collapse krásně vysvětluje
+na příkladu takové té
+sociální distance, kterou bychom teďka tady měli
+dodržovat metr a půl, že v podstatě...
+Jsme, že já mám metr a půl
+tady od Petra, metr a půl od tebe,
+zároveň ty máš metr a půl ode mě, že to
+neznamená, že sčítáme, že bychom každý od sebe měli
+být tři metry, ale že naopak
+ten metr a půl je tam maximální, kterou bychom
+měli dodržet. Tak to je úplně právě
+stejné s tím margin collapsem, to je stejně takhle
+on vlastně počítá to odsazení.
+Lukáši,
+my jsme ještě úplně
+nevysvětlili některý pojmy, který se kolem
+CSSka furt točejí a to je
+kromě CSS jako takovýho,
+což jsou už jo, cascades, tal sheets, to si myslím,
+že většina lidí ví, ale pak
+se často žongluje z termíny jako
+sas, les, teď vlastně
+díky tobě teprve jsem narazil na post
+CSS. Tak jestli můžeš vysvětlit,
+co to znamená,
+na co se to hodí, na co se to nehodí
+a třeba i případně vlastně říct, co už je
+věc řekněme mrtvejší,
+mrtvější na frontendu,
+což jako umírá velmi rychle
+ty věci na frontendu, to víme. A co je
+naopak věc, která je živá
+and kicking a který se jako vyplatí
+věnovat. Jasně. A tady to
+jsou nástroje les, sas a post CSS
+jsou nástroje, které pomáhají psát
+CSS trošičku efektivněji a rychleji.
+Začaly se hlavně používat
+v minulosti kvůli tomu, že chyběly
+některý klíčový vlastnosti v CSS,
+který bys tam očekával a který by se ti hodili.
+Typicky proměny, protože asi bys chtěl si někde
+nadefinovat jednu barvu
+v rámci jako proměnou
+a jakýmkoliv nějakým jiným programovacím jazyce
+a to pak dál používat.
+To v CSSu problém byl
+tehdy, proto právě vznikly tady ty preprocesory
+a postprocesory,
+který
+v podstatě vzali nějaký kód,
+který se podobal tomu CSSu,
+přechroustají ho a vyplivnou z toho
+klasické validní CSSu.
+To je to, co vlastně tady ty nástroje
+dělají. Takže pomůžou ti napsat to CSSu
+nějakým efektivnějším způsobem,
+používat proměny, používat cykly,
+používat nějaké podmínky,
+které v tom CSSu máš
+a na základě toho pak vznikne
+nějakým dalším postprocessingem,
+pomocí nějakého dalšího nástroje vznikne
+klasický validní CSSu, který už se pak dá
+dál použít. Takže není to
+věc, která by šla použít nějak live,
+ale používají to vlastně vývojáři jako takový svůj
+vývojářský nástroj.
+Co se týká současnosti,
+tam už ta důležitost trošičku upadá,
+protože CSS už má své vlastní
+jakoby proměny, oni tomu říkají
+CSS properties,
+anebo variable properties,
+kdy už si můžeš definovat něco jako proměné
+v CSSu a mají spoustu výhod
+oproti těm SASovým
+proměným, protože k ním můžeš přistupovat
+i pomocí JavaScriptu externě.
+Ty CSS proměny jsou pak
+přístupný i později, takže
+můžeš si je nadefinovat v jednom projektu
+a v podstatě v dalším
+CSSu budu je můžeš začít hned dál používat.
+Jakmile jsou aktivní na té dané stránce,
+protože oni jsou v podstatě uložené jak kdyby v rootu,
+v kořenu té stránky, tak pak
+už jdou používat v podstatě kdekoliv na stránce.
+Samozřejmě v tom SASu
+jde používat takzvané
+zanořování toho CSSka, kdy ten kód
+se píše rychleji, pohodlněji.
+Díval jsem se, že i to se plánuje
+zavést CSSku někdy v budoucnu.
+Je to v rámci nějakých draftů
+CSSka, že se to chystá, takže uvidíme.
+Je možné, že tady ty nástroje,
+jakoby ta jejich důležitost postupně bude upadat.
+Asi nejpoužívanější je SAS, který takovou tu
+svoji bitvu s LESem pravděpodobně vyhrál,
+kdy LES byl poměrně hodně populární
+a jsem s ním taky začínal.
+Vypadal trošičku přístupnější, používal ho tehdy
+Bootstrap, tuším v trojce
+verzi.
+A potom přešel Bootstrap taky na SAS
+a v tuhle chvíli už je asi dominantní,
+co se týká tady těch nástrojů.
+A tak to jsou preprocesory?
+To jsou preprocesory,
+SAS ale jsou preprocesory,
+PostCSS je postprocesor.
+Já se přiznám, že tam
+zase tak moc rozdílů nevidím.
+PostCSS v podstatě používáme jenom nějaký nástroj
+někde na pozadí, který nám
+kompiluje třeba ten Tailwind, protože
+Tailwind ho jak kdyby používá.
+Ale nevyužíváme tam z něj
+nějaké další výrazné funkce.
+Ale celkově vidíš
+do budoucna
+celou důležitost těchto věcí,
+že bude mizet tím, jak bude se zvyšovat
+podpora v prohlížičích
+a jak se bude vylepšovat syntaxe CSS.
+Přesně tak, protože CSS proměné
+už jsou v podstatě široce podporované,
+dají se použít v podstatě úplně kdekoliv.
+Pokud člověk nepodporuje nějaké
+starší obskurní internet explorery,
+tak určitě to není problém.
+Používáme to naživo v podstatě na většině projektů.
+Jakou vlastnost CSS
+kdy obecně považuješ za
+nedoceněnou a málo využívanou
+při tom to tam jako je a je to úplně geniální?
+To je těžká otázka.
+Přiznám se.
+Nevím. Určitě mám rád poměrně
+dědičnost, o které se
+taky zas tak moc neví, co je vlastně, co se dědí,
+co se nedědí.
+Málo kdo třeba umí trošku pracovat
+s tou kaskádou, jak vlastně ty
+vlastnosti jdou za sebou,
+která má přednost, která nemá přednost.
+Myslím, že kdybychom dali nějakým
+frontend vývojářům nějaký
+specificity battle,
+nějaký souboj, jakoby, kdo
+vyhraje a dali bychom jim tam
+nějaké příklady CSS 3D, nevím, jestli
+by to dokázali
+jak kdyby odhadnout. No, vyhraje vykřičník
+important.
+Já jsem právě teďka ve vlaku viděl takovou
+pěknou vizualizaci, že právě tu
+specificitu přirovnávali k takové
+karetní hře, kdy vlastně se přebíjíš navzájem
+těma trůmfama a na konci tam
+byl, na konci tam právě byl Borec
+a říkal, teď mě nedostaneš, já tady mám
+trojkombinaci, prostě nesmíš
+editovat HTML, nemáš
+JavaScript a mám to všechno v
+inline style. A Borec říkal,
+ty já mám poslední kartu, to asi nedám.
+A na poslední kartě měl important.
+Tak to je hezký.
+Ještě jedna věc mě
+u těch CSSek dlouhodobě
+zaujala a to je to, co vlastně
+všechno vyřešil z mýho pohledu, zase člověka,
+který si to pamatuje relativně od začátku,
+flex.
+Flex, protože když si třeba dáte
+teďka hledat, že chcete typicky
+chci do divu vycentrovat text
+a dáš to na stack overflow,
+tak najdeš milion různých
+hnusných hacků před flexem
+a pak někdo řekne just use flex
+a máš tam asi dva ty příkazy,
+jak se to dá vlastně vyřešit.
+Takže jak ty vnímáš
+ty flex, co vlastně
+proved s CSSkama
+a s jejich používáním?
+Já si myslím, že flex udělal jednu strašně důležitou věc,
+že právě přinesl opravdu novej layoutovací
+systém do toho CSSka,
+protože dřív se pro layout používalo
+v podstatě kde co.
+Tabulky, iframey,
+float klasický,
+který měl spoustu neduhu a který taky byl
+určený k něčemu jinému, takže zatím
+se tam používaly věci, které nebyly určený
+k tvorbě přímo layoutu stránky, protože ono to dřív
+nebylo potřeba. Ty stránky byly v podstatě jednoduché,
+kopírovaly
+klasické papírové dokumenty.
+Teprve až později najednou se začaly ty stránky
+rozrůstat, ten design začal být
+opravdu trošičku jiný než
+dřív, takže začalo, člověk
+chtěl mít obsah vedle sebe, monitory najednou byly
+větší, více toho vešlo, do toho
+přišla responsivita, která
+v podstatě bez flexu taky bylo
+docela jako dobrý peklo to všechno hezky
+zarovnávat, zobrazovat a tak dále.
+Takže flex tady tomu strašně moc pomohl
+a pomohl lidem ukázat,
+že v podstatě layout lze
+tvořit jinak
+a přinesl spoustu
+nástrojů tady proto, teďka společně
+s CSS Gridem.
+Ještě úplně otevřel starý rány, já si
+pamatuju jeden projekt,
+co mi ukazoval člověk v Anglii,
+když jsem byl na výměným pobytu, jak jsme se o tom
+tady bavili před těma 20
+lety prostě někde v Anglii
+a týpek tam si dělal
+vlastní webovky nějakého vlastního
+prostě computer shopu úplně v lokálním
+prdeli světa a říkal
+podívej, jak jsem to pěkně jako vystyloval,
+vypozicoval na stránce. Já jsem se podíval
+do toho zdrojáku a on tam měl snad
+200 iframeů. Každý měl
+nastavenou nějakou šířku a výšku
+a tím to vlastně jako by dostal na té stránce
+na tu požadovanou velikost
+a pozice. Já říkám,
+jako většině se otevřel prostě 200
+malých jako brouserů, že to je pomalý jako prase.
+No jako to pozicování
+dá se dělat lecě.
+Ještě to mohu dělat přes position absolute,
+jako si to tam pěkně tak rozházet po stránce.
+A to už se vůbec nepoužívá
+teda position absolute. Jo, určitě to
+jako využiješ. V podstatě i tady ty starší věci
+float určitě mrtvej není,
+protože když chceš, aby textu ptekal
+obrázek, tak to je přesně ta vlastnost,
+kterou na to použiješ.
+Stejně jako position absolute
+určitě jsou jako místa,
+kde to je potřeba
+zobrazit
+nějakým způsobem. Vždycky záleží.
+Vždycky říkáme, vždycky záleží.
+A vždycky říkám právě
+i na tom školení právě Čekyta s holkám,
+říkám, my tady tu stejnou věc, kterou tady děláme,
+my ji můžeme udělat třema, čtyřma, pěti
+různýma způsobama. A nikdy nelze říct,
+jakoby, která je ta správná.
+Protože vždycky záleží na tom kontextu,
+vždycky záleží, jestli to chceme nějak budout
+vnůrší říct, jestli tam něco přijde další
+nebo nějaký další element. Takže se nebojte,
+že něco rozbijete nebo
+že něco uděláte špatně. Vůbec ne.
+Souvislost si s tím,
+já vím, že na tom projektu, kde se
+hodně řešíte rychlost,
+ovlivňuje to tu tvůj práci
+a to tvoje rozhodování v tom, co použiješ,
+kde použiješ. Má to nějaký vliv?
+Co se týká CSS,
+ne je zas tak moc.
+Samozřejmě velikost CSS
+nějakou vlastnost má, ale to,
+jestli tam napíšeš o tři vlastnosti víc nebo míň,
+to zas tak moc
+nezvětší tu velikost toho souboru.
+A co se týká té rychlosti, tam jsou
+mnohem větší žrouti
+na té stránce, úplně typicky
+obrázky, format
+v podstatě toho obrázku.
+Hodně se teďka právě používají i
+nové formáty obrázku typu
+WebP na stránkách,
+které opravdu výrazně hezky zmenšují
+tu velikost. Teďka nový Aviv,
+který začíná mít taky dobrou podporu.
+A samozřejmě
+Lazy Loading a tady ty další věci.
+Já se ještě vrátím k té
+responsivitě, o které
+jsem mluvil.
+Media queries už jsou docela
+dlouho v CSSku a už jsem se
+naučil nějakým způsobem používat i já.
+Nicméně teď jsem nedávno
+zaznamenal něco jako Element
+Container Queries. Prosím tě,
+co to je?
+V podstatě budou to zvané
+Content Queries, kdy
+budeš definovat velikost
+elementů na základě jeho
+rodičovského prvku. To znamená,
+řekněme, že budeš mít
+nějakou komponentu, typicky třeba karty
+úplně klasická, kdy máš nějaký obrázek,
+titulek pod tím, nějaký border
+nebo stín okolo.
+A teď si představ, že ten layout vlastně chceš
+měnit ne podle toho,
+jak je rozlišení stránky, ale podle toho, kam je vložená.
+Vřejmě může být vložená na stránce
+do nějakého boxu, který je na půl stránky,
+může být vložená do nějakého elementu,
+který je přes celou stránku.
+A to znamená, že nezáleží úplně
+tak na tom viewportu,
+na to velikosti, velikosti
+té obrazovky, ale záleží právě na tom rodičovském prvku.
+Takže ty tam v podstatě jak kdyby
+definuješ takové media, které jsi
+pro nějaké jak kdyby elementy. Takže podle toho,
+jak ten rodičovský element bude velký,
+tak budeš definovat schování
+té komponenty uvnitř.
+A dá se tohle aplikovat
+i teda na celý ten viewport, jakoby na celý to body?
+Takže třeba by vlastně
+do budoucna ty media query šly bokem
+a byly by to jenom tyhle ty parent
+query na úrovni celý stránky?
+Já si to asi úplně nemyslím.
+Myslím si, že media query s účet taky budou mít místo,
+protože v podstatě to zase tak nedává smysl,
+protože právě media query v podstatě
+dělají to pro celou stránku.
+Pro celý ten viewport.
+Takže tam si myslím, že určitě ten smysl mají.
+Že se to bude doplňovat?
+Že se to bude doplňovat, podobně třeba
+jako Flexbox, taky úplně nepřevzal
+všechno nějaké pozicování.
+Občas ti opravdu stačí dát to do
+inline bloku vedle sebe a nepotřebuješ
+to dělat nutně flexem, pokud
+jsou samozřejmě splněné nějaké další podmínky.
+Ale asi jako poslední věc,
+kterou tady mám velkou, co se týče
+CSS, tak to jsou
+jednotky, protože to je vždycky
+u mě jako
+nevím, jestli teda pixely,
+points, picast,
+centimetry nebo m,
+m, procenta.
+Je mi jasný, že když se zeptám,
+tak jak já jsem zvyklý zeptat, tak dostanu
+odpověď it depends. Úplně to k tomu směřuje.
+Ale stejně se tak jako zkusím
+zeptat.
+Na co teda ty jednotky
+jaký použít? Nebo jestli je tam
+nějaký jednoduchý pravidlo? Třeba představ si,
+že já jsem jedna z Čekítas
+a zeptám se, prosím tě,
+Lukáši, ty jednotky, co bys mi poradil?
+Co mám já nebo há udělat?
+Jasně. Na Čekítas přímo já jim
+říkám, budeme používat pixly, i když se to
+nevždycky hodí, protože je to pro holky
+samozřejmě úplně nejjednodušší
+varianta pro pochopení, protože
+je to jakoby přímý,
+není tam žádnej
+nějaká logika nad tím, ale samozřejmě
+při reální praxi
+určitě doporučuji používat
+relativní jednotky pro text.
+Ve chvíli, kdy uživatel má nastavenou nějakou
+velikost textu v rámci celého prohlížeče
+a nemyslím teďka zoomování přímo
+prohlížeče, ale nastavenou velikost textu,
+protože třeba hůř vidí, tak ve chvíli, kdyby jsi
+použil pixly, tak ten text se prostě nezvětší.
+Ten se opravdu zvětší, jenom když použiješ
+tu lupu, ale to nemusí používat
+všichni, protože ty chceš mít větší text na všech
+webových stránkách, nejenom na ty jedny.
+Takže kvůli tomu určitě používá relativní jednotky
+a ty relativní jednotky v tuhle chvíli jsou
+Emy a Remy.
+Přiznám se, že Emy jsem snad v životě nepoužil.
+To je jednotka, která mě vždycky přišla strašně divná.
+A čím se lišejí Emy a Remy?
+Lišejí se jednodušem.
+Možná nejdřív vysvětlím Rem.
+Rem je relativní jednotka, která vychází
+z velikosti písma
+na root elementu,
+což je v našem případě HTML element
+nebo HTML document celý.
+Ten má ve většině případů nastavenou velikost 16 pixlu.
+A uživatel si to právě může změnit
+v tom browseru, že si nastaví, že má třeba 20 pixlu.
+Remy se pak používají,
+že já napišu 1,5
+a v tom případě je to 24 pixlu
+velikost písma.
+A proporčně se mně všechno zvětšuje, zmenšuje.
+Takže M jednotka se
+oproti tomu liší, že vychází
+z relativní jednotky nadřazeného
+rodičovského elementu.
+Takže mám já nějaký box na stránce
+a tomu nastavím velikost písma 30 pixlu.
+A potom bych nastavil jednotku
+uvnitř na 1,5 Remu,
+tak by to bylo nějakých 45.
+Ale vždycky bys musel vědět,
+jakou máš tu velikost písma
+na tom rodičovském elementu.
+Což je takový hodně nepřehledný.
+Takže v tuhle chvíli se určitě používají
+ty Remy v podstatě napříč.
+A používají se hlavně právě pro
+velikosti textu.
+Marginy tě malo se dělat nebudeš, ne?
+Já je používám právě i pro marginy
+a odsazení, i když ne každý to dělá.
+Ono vždycky záleží, protože
+někdy chceš, aby se to jak kdyby
+odsazovalo proporčně
+i podle velikosti písma.
+Dává to určitý smysl.
+Někdy to dávat smysl nemusí.
+Takže já to používám, ale
+jsou lidé, kteří pro marginy
+klasicky používají pixely, protože
+tam je to opravdu trošičku diskutabilní,
+jestli to opravdu vždycky má být 20 pixelů mezi sebou
+anebo jestli to má být závislé na velikosti
+toho písma na tom dokumentu, to odsazování.
+Co se týká dalších jednotek,
+tam už vždycky
+na nějakou velikost,
+šířku, výšku, můžou to být
+procenta, můžou to být pixely, můžou to být remy,
+taky tam zase záleží na
+použití, protože někdy je to nějaká fixní velikost,
+někdy je to opravdu třeba polovina stránky a tak dále.
+Ok, tak děkuju, to jsem
+potřeboval slyšet, tohleto.
+Tak já jdu předělat ty webovky.
+Krásný, já mám vždycky, Lukáši,
+AI dotaz a i tady jeden mám.
+Vlastně teďka
+ve vývoji
+nebo v designu třeba
+nějakého IoT prvku, IoT produktu
+vzniká něco, co se jmenuje generativ design
+a to funguje tak,
+že já v podstatě tomu nastavím
+nějaké parametry a ono mi to potom
+na základě nějakých parametrů průžnosti
+a pevnosti vyhodí třeba
+pětset variant toho, jak ten třeba ten
+obal plastovej toho dronu může
+vypadat, tak aby to splněvalo nějaké podmínky.
+A přemýšlel jsem, jestli něco
+takového může
+anebo je na webu, jestli
+existují nějaké takovéhle generativní
+designy pro webový
+prostředí, jestli o něčem takovém víš
+a jestli máš pocit, že to je něco, kam by se
+mohla celá ta komunita
+ubírat nebo ne? Myslíš nějaká
+automatické generování
+jako by přímo layoutu stránky
+nebo obsahu? Může být jako třeba na základě
+dat, já bych si třeba představil, že
+budu mít nějaký tool, kde zadám,
+že to je e-shop, který má zhruba takový
+množství produktů, tolik jich chci zobrazovat
+na stránce a ono mi to vygeneruje
+něco, co na základě dat řekne,
+že to je nejlepší pro tu danou
+pro ty daný audience
+těch lidí. Jo, že by tam bylo
+něco jako trošku doporučení, jak kdyby
+na základě toho. V tuhle chvíli můžeš si
+stáhnout mraky různých šablon pro
+veškerý možný systémy, můžeš používat nějaký
+UI knihovny typu Bootstrap a podobně,
+kdy si v podstatě jenom
+skládáš tu stránku z nějakých už jakoby
+existujících prvků, ale
+jako přímo, že by to generovalo nějak
+tady ten obsah, možná nějaká
+CMSka, jako mají nějaké pokročilé
+funkce, kdy můžeš si jako
+vygenerovat nějakou komponentu třeba
+na základě nějakých proměných. Přiznám se, že
+nevím, tam úplně nejsem kovanej právě v CMSka,
+vždycky říkám, že jsem jeden z mála
+vývojářů, který jako nikdy pořádně nedělá s WordPressem.
+Jo. Takže nevím.
+Jinak jako obecně ten web
+trošku teďka třeba směřuje k nějaké kustomizaci
+k tomu, co uživatel podporuje.
+Existuje nová
+taková query v podstatě zavináč
+kdy můžeš se dotazovat, jestli třeba
+uživatel preferuje
+dark, tmavé téma
+a automaticky mu to přepnout. Můžeš se
+ptat, jestli uživatel podporuje nějaké pokročilejší
+animace na stránce, anebo ne.
+Protože někteří lidé třeba s nějakou
+psychickou chorobou
+tak určitě nemají rádi, když to jako moc hodně bliká.
+Jasně, jasně.
+Takže mohou si to třeba pomocí tady těch
+preferenci trošičku
+povypínat a ta stránka se tomu může
+přizpůsobovat, pokud to tak máš nastavené
+v těch CSSka. Zase nejsou milovníci
+Pokémonů.
+Tak Lukáši, blížíme se k závěru
+a tam se vždycky ptáme podobně
+a i u tebe nás to zajímá,
+kam teďka směřují tvoje kroky, co teďka
+plánuješ dělat?
+Myslíš kromě toho, že odejdu
+tady z kanceláře, budu dejné?
+No, že peš na oběd, nejspíš za nějakou hodinu,
+to jsem ani nemyslel.
+Já už jako delší dobu plánuju právě nějak
+zkusit pravidelně sepisovat třeba
+nějaký odborný blog, nebo
+zkoušet to dát nějak
+dohromady, protože opravdu mě zajímá
+takovýto téma nějakého přenášení
+těch informací a povědomí od CSSQ
+do nějaký srozumitelných form, spíš třeba
+právě pro začátečníky, anebo pro lidi,
+kteří by se k tomu chtěli vrátit a chtěli by
+získat ty informace
+a dostat se trošičku pod pokličku,
+aby pochopili, jak to vlastně funguje
+a řekli si, aha, tak takhle to je vlastně.
+Tady to je to, s čím jsem bojoval,
+co jsem vlastně nikdy neviděl. Věděl jsem,
+že to tak je, ale nikdy jsem vlastně nevěděl, proč a tak.
+Takže nějak...
+Nějaký meetup třeba, že bys založil, nebo něco takového?
+Nevím, zkouším právě pravidelně
+ve firmě, dělám
+CSS talky, kdy se právě
+bavíme pár kada do roka o CSSQ,
+snažím se tam právě přinášet nějaké takové témata
+a zároveň mě tady ty věci
+hodně i pomáhají, že já sám se jako bys
+dělávám. Vždycky říkám, že vlastně i díky tomu,
+že třeba učím Čekyta s úplným
+základům hotmailu CSS, tak já jsem si to vlastně
+musel projít a musel jsem to vlastně úplně
+dokonale pochopit a
+zjistit, jak to vysvětlit, protože díky tomu, že
+jim to jsem schopen vysvětlit, tak
+díky tomu to i výrazně líp chápu.
+To je úplně stará poučka, jestli chceš něco umět,
+tak to začni učit.
+Takže ti nedá to ego, že bys vypadal jako
+debil, tak si to opravdu musíš pochopit.
+To funguje, to funguje.
+No tak budeme ti v tom Lukáši držet palce,
+protože myslím si, že rozhodně máš co říct,
+takže konečně to nějak dát dohromady,
+sepsat či jinak dát dohromady,
+tak to rozhodně smysl dává.
+Takže budeme ti držet palec a
+díky, že jsi se sem dostavili po druhý,
+protože první to trošku
+zastavila nemoc, tak jsme rádi,
+že jsme to nakonec takhle hezky zrealizovali.
+Moc děkujem, měj se hezky,
+ať se daří a já si myslím,
+že se určitě ještě uslyšíme, protože
+CSS Talks, jdu si to dát tady do
+firmního profilu, že mě to zajímá.
+Super, super. Měj se krásně, ať se daří.
+Tak díky jo, mějte se kluci, čau čau.
+Čau.
+Poli, tak my jdeme do finále.
+A je to tak vážení, no tak nějak, ne?
+No tak nějak, hele, tak
+šestá série, šestej díl
+první série. Šestej díl, takže...
+Je to hotové, it's done. Konec.
+Konec. Konec filma. Co teď? No nic,
+tak teďka možná
+tě půjdu ještě vysykat venej čelku rychle.
+Ježišu zase. A...
+No co?
+Asi dáme druhou, ne? Nebo to ještě nebudeme
+nějak oficiálně oznamovat? Hle, já si myslím,
+že založili jsme to celý na tom,
+že když nás to bude bavit, že to budeme dělat dál,
+a nás to baví, takže jedeme dál. Tak jo, no tak...
+Tak to budeme jako oficiální oznámení.
+Je to tak. Dobře, je to tak. Tak jo, tak
+poslouchejte nás i nadále.
+Twitter pod vocasem,
+nebo www.podvocasem.cz
+Těšte se na nový věci, který tam
+pro vás i na webovkách připravujeme.
+A co nevidět, v průběhu
+ledna 2022 vykopneme
+druhou sérii. Těšíme se
+na to. Mějte se krásně a přejeme vám krásný
+nový rok 2022.
+Mějte se. Čau. Čau.

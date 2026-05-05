@@ -1,0 +1,1749 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Krásný den milí posluchači, vítejte u dalšího dílu vašeho nejoblíbenějšího IT podcastu Pod vocasem.
+No a i po páté v desáté sérii naproti mě sedí kdo jiný než Petr Polipolák.
+To je neuvěřitelný, jak to říkáš, po páté desáté.
+Naproti mě přátelé Roman, Joker, Provazník, jak to máte rádi.
+Ale po páté desáté, teď bych to spočítal, to už je fakt nálož.
+No je to nálož, já jsem nedávno ti posílal vlastně přes OSAP zprávu,
+že zrovna v ten den, co jsme řešili další natáčení tohohle dílu,
+tak zrovna to bylo přesně na den, to byly tři roky, co jsme s tímhle podcastem začali,
+takže jsme si tak jako navzájem poplácali, řekli dobrý, má to ještě smysl, jedeme dál.
+A skutečně jedeme dál, dokončujeme desátou sérii.
+Vlastně nevím, jak to bude s jedenáctou, protože když koukám na naše kalendáře,
+tak já obvykle hraju takový ten kalendářový Tetris třeba se čtyřma z pěti, z šesti lidma,
+abych to měl těžší, ale když už si ho hrajeme tady s Polim navzájem,
+tak už i to je takovej ten level těžší náročnosti.
+Je to tak, bolí to, bolí to, ale děláme to rádi, takže vždycky to nějak vymyslíme.
+Tak tyhle ranní hodiny jsou dobrý, minimálně u mě se se mnou ještě nikdo scházet moc nechce
+a když to tady dotočíme, tak já už začínám s kuskama piky.
+Ale ty odpolední už je to horší, samozřejmě.
+Tam je to horší, tam je to horší, no.
+No, Poli, co novýho?
+To je nahrávka, jo, co novýho, tak my vlastně teďka točíme nutný říct se po čtyrech týdnech,
+něco takovýho, byla tam docela přestávka, jsme měli přetočeno.
+No a já jsem se mezi tím stal po druhé odcem, takže jako...
+Tadadadá!
+Dramonovou, jasně.
+Nádhera, nádhera.
+Takže možná, že to na mě bude trošku cejtit, protože samozřejmě se starám trošku i v noci,
+byť teda jako moje žena, já to vůbec nechápu, já to vůbec nechápu, jak ty ženské to dokážou.
+Jak ona dokáže chrápat celou noc, víš?
+Česně, česně, jako já tam kojím všechno a ona prostě spí, tyvo.
+To jsou prostě ty typický ženský, prostě v noci nevstanou, prostě válejí se tam.
+No, takže prosím tě, povídej, váhy, míry, takový ty věci, no hlavně jméno, ty řekš jméno.
+Jo, jméno, jméno, jméno vím.
+Je to Polák.
+Je to Polák, je to Polák.
+Je to super.
+Jako i když srdcem Čech, tak i Polák trošku.
+A je to Vojta, Vojtěch Polák.
+Tak gratulujem, paráda, paráda, že Vojta se má k světu.
+Já jsem teda, jak jsi říkal, že to možná na tobě bude znát, tak jsem se lek, že už cítíš na sobě takový to břímě toho dvojnásobného otce.
+Jak prostě ta rodina teďka na tobě vysí.
+Ne, vůbec ne, vůbec ne, já jsem chtěl právě ti říct, že to tak nebereš, že oni stejně ty děti toho moc nesežerou zatím.
+Jo, to je pravda, to je pravda.
+A zatím teda jí jenom kus maminky vždycky a to teda jde dobře, protože rosteme neuvěřitelným způsobem.
+A jinak ne, jinak vlastně já si to užívám víc, protože tím, jak to prolínáš tím šesti letákem, tak máš zábavu vždycky trošku jinou.
+Takže zatím jsem spokojeným otcem, byť teda trošku nevyspalím.
+No, já bych řekl, že s takovou láskou a vervou, jakou Petr Poli Polák dělá nové Vojty Poli Poláky,
+tak s takovou láskou dělá i Vivio Pay Per Click kampaně, což jsou samozřejmě partneři naší série,
+kterým i tak děkujeme, kteří samozřejmě nás nadále podporují a nadále s námi jdou touto sérií,
+takže pokud chcete PPC, všechny tyhle z ty věci, který máte rádi, určitě už to znáte z ostatního,
+ostatních dílů, ale i tak je musíme zmínit a poděkovat, podívejte se na vivio.cz
+a tam zjistíte v podstatě i to, jak se dají krásně tyhle z ty věci zkombinovat.
+Hele, myslím, že to je monetizovatelný, tohle.
+Co?
+No, ty oslý musky.
+Ty oslý musky.
+Že by si prostě měl oslý musky as a service.
+Tyve, to by bylo skvělý.
+A vždycky by za tvojí dopřišel, ty by si to vymyslel.
+Hele, můžeme to zkusit, můžeme to zkusit, pokud jste nějakej,
+protože už jsou takový ty, že jo, jako ghostwritersi,
+že prostě někdo řekne, ale napiš mi tady jako šestnácku
+a napiš nějakýmu raperovi prostě jako pár bars,
+tak já bych mohl napsat nějaký takovýhle oslý musky.
+Není problém, klidně, oslý musky as a service.
+No tak prosím tě, pojďme na dnešního hosta, kdo to je?
+Přátelé, je to Jan Jiroušek a vlastně je to jeden z takových pozitivních příběhů
+v tom smyslu, že nám napsal jeho, dnes už teda bývalý spolupracovník,
+ale...
+On ho za to vyhodil, že jo?
+On ho za to vyhodil, tak to dále jde.
+A že by rád dorazil a něco nám pověděl o firmě
+a nakonec teda opustil společnost a Honza Jiroušek,
+CEO společnosti EnergoStack.
+Dneska dorazí a já si musím říct, že se teda hodně těším,
+dlouho jsme neměli IoT deal.
+No a hlavně dlouho jsme neměli možná, jestli kdy vůbec, cokoliv z Energa.
+Aha.
+Takže to jsou takový dvě novinky.
+Jo, teď tohle je díl plnej novinek.
+Novej Polák, nový Energo, jo, nová doména, prostě, nový řešení.
+Zase nový oslý můstek, prostě všechno se to tam pěkně sešlo.
+Tak jdeme na to.
+Jdeme na to.
+Ve studiu s námi sedí náš dnešní host, Honza Jiroušek.
+Ahoj Honzo.
+Ahoj.
+Ahoj Honzo, čau.
+Tak Honzo, prosím tě, slyšel jsi nějaký díl už našeho podcastu?
+Jo, jo, tak víš, jak to vždycky na začátku vykopáváme tou debilní, opakující se otázkou, jak ses dostal do IT, představ se posluchačům a tak, tak můžeš to vzít double.
+Já doufám, že dostáváte různý odpovědi, aspoň tady.
+Ano, ano, jo, jo, jo, jo.
+Jako musím říct, že tady nebyl ani jeden člověk, který by začal životní cestu Honza Jirouška.
+Ne, ne, ne.
+Takže v tomhle budeš hodně rádi.
+Dobře, no tyho životní cesta, něco takového, chtěl jsem říct, do IT jsem se dostal jednoduše, jsem prostě vystudoval informatiku a řešil jsem, co budu dělat, co je možná zajímavější, co se dělo potom.
+No určitě.
+To bylo jako, v mém případě, řekněme, že jsem v celoživotní profesii fluktuant, takže volby jsou často náhodný, většinou jdu po něčem zajímavém, takže na začátku jsem byl prostě sítěvým inženýrem,
+na začátku internetu, ještě jsem se dělal u posledních BBSek a prvních internetových sajtů v Čechách a potom jsem byl systavovým administrátorem a pracoval jsem pro jednu banku na Manhattanu dva roky třeba, takovýhle věci se mě vedly cesty v těch 90. letech, to bylo takový dobrodružný.
+Takže to bylo jako ve státech dva roky žili, no?
+No několik, no, no, no, třeba tři roky, no, no.
+To je krásná.
+A to je dávno, to je jako 2000, jsem se vrátil, no pak jsem byl zase i sítěvým inženýrem tady v český firmě, nebo v dancký firmě, kontaktel tady v Čechách a pak jsem pracoval jako IT architekt a projekťák asi 10 let v IBM, dělal jsem nejdřív jako zakázky korporátní, řekněme, hlavně v Telku a potom jsem dělal státní zakázky a potom jsem pracoval sám jako na vlastní triko pro stát,
+tak po nějakých větších státních projektech asi pět nebo osm let.
+A skončila akcí, jsem měla chytrá karanténa, to už pak nešlo dál v tom státě moc pokračovat po té kauze, nebo kauze, potom jako vypětí a teď dělám asi třetí rok tadyhle právě zase pro změnu, řekněme to IoT a energetiku, no, tak to je taková střídečka, no.
+To je slušná průdřezovka.
+To je skokan roku tohleto, tyjo.
+Mě napadlo asi 50 tisíc otázek.
+No, tak dávej, dávej.
+Tyko chytla mě hned ta Amerika, jo, protože to je dávno, ale tak přece jenom, jako jak se prace v Americe fajtí, vlastně, jo.
+Já si hlavně myslím, že teď už je to úplně jiný, tenkrát byly ty 90. leta, byly takový jako imigračně otevřený, jako pro lidi od sátě a tak, jo, prostě pro ty nový, všechno bylo nový země z východu a tak.
+A takže součástího jezdil jsem tam na stáže a já jsem vlastně pracoval dvakrát, jednou jsem byl na takový delší stáži roční jako v San Francisco, právě u jednoho sítěvýho poskytového provajdra.
+Už jsem chvíli pracoval pro OSN, což jsem zůstal známý přes ty sítěvý kontakty, co dělali sítěvý projekty po celém světě a jako pro rozvojový země a tak.
+A já jsem pro ně pracoval rok v OSN na Manhattanu, líbilo se mi tam, nelíbilo se mi OSN, to byla hrozně jako socialistická byrokracie v mojich očích, tenkrát jako strašná, tak jsem pochtěl odjít od tamta těla najít si jako práci místní jinou.
+A našel jsem si normálně nějaký pracovní výzum, H1B, tenkrát jmenovalo, a jsem si našel prostě práci jako sysadmin a skončil jsem nějaký bance na Wall Street a dva roky jsem tam dělal DNS a DHCP zprávce.
+– Protože ta banka ti přišla jako míň… – No, rozhodně byla lepší, ale taky to bylo teda drsný. Řekněme, že my teď tady, když se podíváš po těch českých korporátech a tyhle T-mobile, tak víš, takový jako německý socialismus jako s mladejma lidma, jako implementovaný, tak něco podobného bylo třeba třeba v týhle,
+v těch amerických bankách, v těch 90. letech jsem viděl, já jsem viděl tady jednu tu banku, a samozřejmě to bylo trošku víc protchnuté, jako některé části byly extrémně profesionální, třeba tam měli část, která se starala jako o broukři na burznovní bolkři a ty měli prostě SLA 5 minut na výměnu počítače, když se rozbily, a lidi, co pracovali pro ně, měli trojnásobný platy než všichni ostatní v tom IT, prostě ty měli svoje IT, které fungovalo úplně jinak, takže byly tam jako různé věci vidět,
+jako, ale celkově to fungovalo jako korporace, se kterým pak jsem se setkával, dneska setkáváme úplně běžně toho střihu, který tady jako vidíme, no.
+A pomáhá ti to teďka aktuálně to, že už znáš, jak tyhle byrokratické organizace fungují zevnitř, víš, třeba nějaký zkratky, který normálně člověk jenom...
+No pomáhá mi to, pomáhá mi to, že vždycky chci pryč, no, zkusím něco jinýho.
+Honza tady ve čtvrtém minutě začal otvírat čerstvé rány nožíků.
+Tak prosím tě, pojďme na tvůj aktuální projekt, který se jmenuje ten Energostack, říkám to zprávně.
+Energostack, to můžete jenom, no, Energostack.
+Pěkně anglicky.
+Energostack, tak co dělá Energostack, co to je?
+Tak já jinak řeknu, ono to není můj projekt, ale je to projekt jako mýho kamaráda Pavla Štorka, který je hlavní osobou od začátku už asi 12 let.
+Že se jmenoval Energomonitor, původně to Pavel zakládal s Patrikem Zandlem, to o tom se jako mluví někdy a tak,
+a to by to byla jako nějaká první fáze, je to prostě, historicky to byl úplně klasický startup, který teda v první startupová myšlenka
+jako nesplodila nějaký obrovský success, protože nebyl to jako velký sale, to původní řešení, a ani jako ta firma se neprodala nějakým způsobem,
+ale pokračovala už na takový normální firmní bázi.
+Teďka se historicky ta firma, dobře já povím co vlastně o čem byla.
+Jasně.
+Ta firma historicky.
+Byla založená na myšlence domácnostních, domácnostních produktů, který umožňují měřit ns potřeby energii a umožňují lidem se chovat racionálněji, že jo.
+Takže opravdu ten energetický monitoring specificky pro domácnosti.
+Kluci tam udělali docela velký kus práce na tom, že udělali platformu, která je jako snadno instalovatelná, vybrali věci, které do toho domácnostního prostředí jako dobře pasujou,
+snadno se instalují, dobře tam fungují, nepotřebují žádné prostě profi věci, profiprogramování, tahání drátů a podobně, to je důvod, proč šli do bezdrátů a to IoT a tak s moderníma interfejsema prostě na internetu, takže na jakýkoliv webovýma servnama.
+A tohle původní myšlenka trochu sklobala na tom, že prostě málo kdo byl ochotný dát prostě něco v řádu pěti tisíc za to, aby se seznámil se svojí domácností a choval se efektivněji, že jo.
+Má to dva aspekty, prostě lidi, ty peníze jim připadají velký a za druhý vlastně málo kdo chce jako skutečně něco pro to dělat, jako sledovat a lidi to jako nebaví dlouhodobě, chtějí automatizovaný systém, jak se ukázalo.
+Když to bylo takové poučení, tak pak se ta firma přeorientovala na víc jako B2B, řekněme, zákazníky nebo firmní zákazníky, typicky ta historie té firmy není až tak, jak by se zdálo, jako produktová, jako co vlastně vyrábíme a prodáváme, spíš jako kdo jsou naši klíčoví zákazníky.
+Takže se to taky trochu jako otočilo podle partnerů, který jsme sehnali a který kluci sehnali, jako asi největší směr byl, byl docela dlouho, asi čtyři roky, byl klíčovým partnerem, byla klíčovým partnerem belgická stavební firma, která měla nějakou inovační divizi na věci tohohle typu energie, energetika, úspory, prostředí v budovách a podobně, takže se udělali nějaký projekty jako na deseti tisíce senzorů v nějakých luxusních studentských kolejích a hotelech a podobně,
+kde se stavilo.
+Takže se to trošku otočilo i směrem právě k tomu monitoringu prostředí v těch budovách, což celkem dobře pasovalo do toho konceptu technického, co jsme měli a teď poslední dva, tři roky se to výrazně otáčí k energetice, což není nelogický, to je prostě teďka jako velký hrací pole, zajímavý, je to, co se vždycky říkalo o těch smart gridech a podobně, tak teď se to skutečně začíná dítko, nebo děje, respektive ono se to děje třeba v západní Evropě už jako deset let a u nás jako.
+Zase klasicky opožděný.
+Klasicky opožděný a zbržděný a u nás se ještě formulují o tom, jako jestli je to dobře nebo není a už to je teď vlakno, což je zase výhoda, protože víme, kam to dojde, jo, to je jako.
+Jo, jo, jo.
+Takže se můžeme podívat do Německa, může splot a víme, jak to dopadne.
+Jak to dělají na západní Evropě a víme, že tam směřujeme, že to nezvratný, no.
+Takže teďka teda, teďka je ten fokus jakoby významně energetický, on ten energetická stopa a silný energetický zaměření tam bylo vlastně od toho původního, od toho původního záměru, ale ten rozdíl, co je v tom teď, je, že, je, že se zaměřujeme i na řízení, jo.
+A jak jsem tady zmínil, že lidi neradí jako, jako skutečně si furt něco ladějí a starají se o to, ať už je to jejich spotřeba nebo jejich výroba nebo něco, tak je tady teď jako docela velkej prostor pro ty systémy, který automaticky realizujou a řídějí, řídějí energetický, malý energetický systémy, no.
+Ať už jsou to, ať už je to energetika v nějakým prostě obchodním centru vůči zákazní, vůči tenantům, těm nájemcům těch obchodů, nebo je to energetika prostě v skladovým areálu, nebo je to domácnost,
+v skladovou tajkou, no.
+Takže jste to posunuli někam, kde máte v podstatě nějaký ekosystém toho, jak řídit prostě třeba obchodní centrum, co se energeticky vůči?
+No je to spíš jinak, my máme ten systém a postupně to posunujeme těmhle směrem, je to spíš opačně, jako.
+Já počím, ještě mě to jako nesedí, že by lidem přišlo pět tisíc moc za monitoring jako spotřeby ve svým baráku, jo.
+Jako i ten barák vezmu před deseti lety, před patnácti lety nebyl za hubičku pět tisíc, to když si pamatuji, že jsme stavili před deseti lety barák,
+tak tam jednotka čehokoliv bylo padesát tisíc, ne pět tisíc.
+Že mi přijde, byla to jako fakt ta cena, nebo prostě lidi na to ještě nebyli mentálně nastavený?
+Může to být, může to být obojí, ale myslím si, že to jako v té ceně se to projeví, že jo, řeknou, je to moc drahý lidi, jo.
+Je to, takhle, ono jako existuje spousta jako jednodušších věcí, než se starat, jo, jako například vyjednat si, jít za bohem energie, dostat levnější energii, jako jo, nebo jít za někým, nebo jo, skočit někomu na lepo a pak se za deset let spálit, nebo za dva roky, nebo stejný je to, jako když byla zásadně energetická krize pro celou republiku a pro všechny biznesy,
+tak člověk by čekal, teď před válkou ruskou prostě, tak teď před dvěma lety, člověk by čekal, že se okamžitě do těch úspor a takovéhle,
+tak věcí, jako vrhne zájem, ne, všichni křičeli postropování ze strany státu a oddanění, snížení zadnitelných položek a prostě to jsou ty jednoduchých řešení, jako jo, a ty lidi jdou po těch jednoduchých řešeních, který, jako, a ono vypadá jednoduše rychle a je jednoduchý a rychlý a řízná hned tak, jako, proč by šlo slidou slidější cestou.
+Ve skutečnosti je to, jako sekvence věcí, ono je stejný s tím, že jak mluvíme teď o té třeba automatizaci nebo jaký advanced inteligenci, která vyhodnocuje senzorový data a tak, tak ono, jako, naše zkušenost těch senzorických řešení je, že jedna věc je nasadit to, podívat se na to poprvé, týden na to koukat nebo měsíc a pak udělat pár jednoduchých ručních úprav, který snížejí tu energetickou spotřebu domu nebo areálu o desítky procent, jo, malý desítky procent, ale u nějakých jako větších prostředí to může být velmi z
+a nasazovat na to nějaký umělý, nějaký fine tuningy typu řídím to takhle přesně a tak, už to stáhne jenom o dalších pět procent, že nejvyšší jsou ty, najít ty chyby jako, jo, najít ty špatně nastavený systémy, jo, tak stejně tak jako lidi jdou po těch jednoduchých průvodních opatřeních a ten detail na konci je těžší, no.
+Jo, jo, ale musím říct, že jsem nad tím přemýšlel, protože mně se stalo před dvěma rokama, že v bytě jsme, nám protejkala voda, takže jsme to neviděli a ten vodoměr to v podstatě načítal a my jsme to zjistili až za rok, takže já od té doby vlastně kontrolu každý měsíc vodoměr, elektroměr, plynoměr, aby se mi to nestalo, abych tam tu anomálii když tak objevil, takže vlastně pro mě by to bylo zajímavé i dlouhodobě, aby to monitorovalo, řeklo mi to, hele, teď se tam děje nějaký průser a proč se to děje hlavně
+hlavěc, který si nastavíš vloženě teplotu, tak třeba já jsem tam, pozor, to bylo asi 85 tisíc.
+Ty krás.
+Úplně nesmysl, takže kdyby mi někdo v tu chvíli, kdyby jsi v tu chvíli stál před barákem a řekl, hele, teď máš za pět tisíc něco, co ti to bude kontrolovat.
+Beru okamžitou.
+Tady jako jediné štěstí je, že ve spořici se tohle bere za tři dny, teda. To je jediná výhoda, že jsi to měl za tři dny zmáct.
+No, to spíš zamíní.
+Za dva, za dva. Já jsem to byl se svátým svátkem.
+No jasně, jako, no. Dneska už to nemusím řešit, že jo, jako člověk tam je milenář.
+Hele, všechny můžu říct, jiný příklad, aktuální spolupracujeme prostě teďka s jednou, s dvou velkou firmou, nemůžu to úplně jmenovat,
+která si udělala průzkum mezi zákazníkama, co by dali za maximum, co by dali za nějaké jako je senzorické řešení na průběžnou spotřebu elektřiny
+a vyšly jim peníze jako patnáctset, no, dneska.
+Takže blítím IT, že na to.
+Ano, to se myslím, jo, jo, takže, jako, já si koupím každou píčovinku, kterou vidím, protože mi přijde zajímavá důležitá žena a vždycky kouká,
+říká, ty vole, to je blázen, to je blázen, tohle fakt nepotřebujeme.
+Jo, takže asi tam to bude, ne? Nebo si, jo, každý, nevím, jo.
+Jasně, druhá věc je, že jako třeba to, co my chceme prodávat, nebo prodáváme, tak to jsou jako levné zařízení a abychom se na tom užili,
+protože taky musíme prodat jako tisíce a desítky tisíc, jako ideálně třeba tisíc měsíčně, ne, vždycky nám to daří, jako, jo, a to jsou velký čísla, no.
+Proto se možná i vrátím k tomu, co jsem říkal, že ta firma není jako primárně prostě výrobce, který má produkty, který jenom dělá marketing,
+ale je to spíš jako firma vývojová a výrobní a je hodně, my hodně se zaměřujeme i jako projektově ve smyslu, že na naší platformu,
+že naši základní, že prostě, jak jsem říkal, že jsme měli prostě velkýho partnera, co stavěl jako desetitisíce senzorů do prostě nějakých kolejí a hotelů nebo něčeho takového,
+tak prostě hledáme si takovýhle partnery, který chtějí svoje vlastní velké řešení, prodávat to jako úplně po jednotkách na volným trhu,
+my jsme, téměř máme partnery, kteří to prodávají při nějaký e-shopy, ale draho a minimálně, všechno jsou to jako větší prodeje,
+minimálně třeba skladovým areálu.
+A takovýhle zákazníkům multitenantním sítím, protože, jak by to znamenalo, prodávat jich už jako potom jako statisíce,
+jako udělat opravdu velký produkt, velkou firmu a mít něco opravdu průraznýho.
+Takže ta technologie je taková hraniční, že prostě byla by zajímavá pro domácnosti, ale vlastně se to nevyplatí dělat, aspoň ne dneska.
+Takže když se vrátím k tomu případu těch kolejí, tak vy jste dodali co?
+Samozřejmě dodali jste to zařízení, ale předpokládám, že jste,
+kolem toho dodali i celý nějaký ekosystém, možná i celý projekt, kam je umístit, jak aby to správně fungovalo,
+nebo kde vlastně to byl ten zákazník a kde jste byli vy?
+Je to tak, respektive my jsme pracovali s naším belgickým partnerem, s tou stavební firmou,
+která měla divizi, která s náma spolupracovala, která si měla lidi, co jako by jsme je školili a říkali jsme jim nějaký guideline,
+takže jako projekt, jak to skutečně bude vypadat, udělali oni, ale s našimi konzultacemi, podle našeho školení a tak,
+takže tam jsou třeba věci dosahy rádí a podobný věci a fungování těch jednotlivých věcí,
+o tom jsme byli proškolení a na místě teda už jako pracovali belgický partneři, instalace dělali a podobně,
+ale my jsme pro ně spíš jako upravovali produkty, který jsme v té době ještě třeba neměli,
+třeba příklad bylo, že chtěli takzvaný vodostop, něco, co měří vodu, zároveň ji dokáže zastavit servovalvou,
+servo, jak se to jmenuje správně česky, servoventilem.
+A řešili jsme nějaký rafinovanosti, jakože když je teplá studená, voda teče, tak se nesmí vypnout studená,
+protože by se člověk opařil a to byl jako jeden poznatek z toho kolegy.
+Jak ono spařit jako deset tisíc studentů.
+Dělali jsme právě tyhle ty zpřažený vodostopy pro ně třeba, nebo takovouhle věc,
+jo, jako by to, co bylo funkčně potřeba, takže spíš jsme byli ten vývoj na pozadí a potom teda výroba, jo.
+A oni dělali vlastně jako jednak, starali se o to zákazníka, dělali svůj byznys a dělali ten instalační a projektový práce.
+To je pro nás jako ideální schéma.
+A proto oni si jako, máme třeba web play výrobků, ale nejsme firma, co propaguje jednotlivý výrobky,
+ale spíš jako jsme firma, co rádi někomu dodáme celkový řešení, který on může pak prodávat dál.
+To je jeden aspekt. A pak ještě druhý aspekt, když to probíráme,
+že pak se taky děláme jako,
+zase téměř jakýkoliv, ale rádi děláme to, co vychází z naší platformy,
+tak děláme prostě vývojový projekty v tom elektronicko-IoT světě jakýkoliv, jo.
+Tak trošku bizarně s jiným belgickým partnerem jsme se dostali k projektu, na který máme ještě postavenou jako separátní firmu.
+A ten náš Energo se k tomu dělá jako vývoj, část vývoje.
+Tak to je výroba baterií, takového zvláštního typu, jmenuje se průtečný baterie, Redox Flow baterie.
+A prostě z Belgičany známa u nás postavili jako firmu na výrobu těchto baterií a my jsme jim dělali vývoj té baterie,
+až nepříjemně hardwareový vývoj, jako ve smyslu, že tam
+byla prostě nějaká taková instalatéřina plastová s kyselinama a tak, jako je to bylo docela dost.
+Ale samozřejmě jako hlavní změr byl, že jsme dělali vývoj
+takzvané BMSky, to znamená řídícího systému.
+Tam jsme použili nějaké PLCčka, principy průmyslové automatizace.
+A celý jsme to napustili.
+Ta celá ta věc je osenzorovaná, spousta cenzorů teploty a tlaku a různých elektrických věcí.
+A celý jsme to napojili na ten náš IoT systém a řešíme právě to dálkové řízení,
+jakoby abychom byli schopni ty baterie, které jsme někde rozmístili, tak na dálku řídit,
+monitorovat, co se v nich děje a podobně, jo.
+Takže aplikujeme to prostě na úplně různý oblasti, to, co máme.
+Rádi rozvíjeme to, co máme a jsme schopni dělat,
+hned co, v této oblasti průmyslové automatizace, řízení energetiky a dalších věcí.
+Ale já se musím zeptat, jenom úplně bokem, jo.
+Honzo, jak to děláš? Protože ty jsi jako skokan z domény do domény nebo jak se říká z vertikály do vertikály.
+Jak dlouho ti trvá, než do toho nabútuješ? Že tomu jako rozumíš?
+Protože jedna věc je IoT, jedna věc jsou tyhle, řekněme, jako technický věci.
+Ty jsi předtím dělal něco jinýho, máš nějaký trik, jak jako se v tom stát,
+ne třeba odborníkem, ale že už jsi jistý ve svých botách?
+No to jsou dva triky. Jeden trik je, že mě to baví.
+Aha, takže ano, ale to je poměrně zásadní.
+A druhý trik je, že tomu rozumí méně než to vypadá.
+Jo, takhle.
+Čiže osoba toho z nás mluví.
+My to vždycky, my na takovýhle věci většinou chodíme s Pavlem, ale to v Alešském meziříčí není.
+Vždycky jdeme ráno do Prahy a vždycky říkáme, že jako on méně mluví, ale víc tomu rozumí.
+Jo, jo, jo, takže potřebujeme, že mluvící načenec je potřeba tu.
+Ok, ok. Prosím tě, ještě se zeptám, když jsi říkal o tom začátku, tím vaším projektem prošel i Patrik Zandl v době, kdy to byl teda energomonitor.
+On tam tenkrát měl nějakou jako CTO roli, nebo jaká byla vlastně jeho role a proč, proč už podešel, jestli jsi to pověděl?
+Hele, jako měl roli formálně, nevím, ale, ale bylo to v době, kdy ta firma měla do deseti lidí, takže jako asi to je dost jedno.
+Startupík.
+Ale, ale.
+A Patrik se tam, kromě toho, že to s Pavlem opravdu jako založili, vymysleli tu myšlenku a rozvedli nějak, tak se staral zejména o marketing a pak takový praktický věci,
+jako dokumentaci a další věci a práci s zákazníkama a tak, tak on jako je, píše dobře, jo, je hodně plodnej a tak a z toho hlediska to byly jako,
+to bylo v té době, kdy se jako byla myšlenka vyvinout produkt, který bude pro masový trh, takže se na to jako hodně hodilo tohleto, no.
+Takže to byly, to byly.
+Takže to byly, to byly.
+Takže to byly, to byly.
+Takže to byly role, respektive to je role, od, po který já vidím pozůstatky ještě po deseti letech, jo.
+Ale což někdo dalšího tam v té době dělal, já přesně nevím, samozřejmě, já nechtěl bych jako mu ubrat jako na zásluhách, ale vím, že to prostě na začátku s Pavlem táhli spolu jako projekty jich boud.
+Takže to bylo.
+Hele, ještě mě napadá, jak si, jak mluvíš o tom, že vlastně máte dneska nějaký, no třeba říkáš deset tisíc prostě instalací, máte tam něco jako product management, jako zaměřujete se na to, co bude jako další produkt, nebo to vždycky jako nějakým způsobem se vyzizeluje z té spolupráce budoucí, že třeba oni přijou a řeknou, hele, ještě bychom tam otřeli tohle, řeknete OK, tak my to dovyvineme.
+Hele, je to, nemáme formální product management, jako vedeme občas o tom vnitřní intelektuální diskuze, jestli jsme spíš produktová nebo projektová firma a co to znamená a podobně, pak na to zase zapomeneme, zase jedeme, pak zase na to někdo vzpomene.
+Reálně to opravdu vychází z toho, jak jsem říkal, pracujeme na velkých projektech, no velkých zakázkách, kterýma vždycky nějaký, jsou někam zaměřený, no tak třeba s těma kolejema jsme se dostali mnohem víc,
+nebo nejvnitřního prostředí.
+Nejsme víc jako vnitřních teploměrů, právě ten monitoring té vody, to by byl jako s tím rozšířenej hodně, takže to nás vždycky někam posune a co si spíš lídáme, jako spíš na úrovni technického vedení, aby nám to drželo co nejvíc pohromadě jako jedna platforma konzistentní, logická do rozumný míry.
+A když jsem byl ve Blotronu, tak vím, že jsme tam hrozně řešili to, aby ten odbyt, byli jsme vlastně nějaký B2B, že vlastně dělali jsme chytrý okno třeba s Vekrou, když jsme se snažili dělat chytrý okno a museli jsme zásadně napočítat, kolik teda těch oken musíme prodat, aby jsme to vůbec začali dělat, tak jestli tam vedete tyhle úvahy, to za mě je vlastně ten product lomeno project management, že se jako půjdu trošku s rizikem, že se to třeba neprodá, anebo už mám jistotu toho projektu, že se to prodá.
+Hele vedeme to spíš jako, ano vedeme, ale opačným způsobem přijde nějakej zákazník, řekne, že se tohle všechno, co máte líbí a chtěl bych to rozšířit ještě o tohle, o tohle, o tohle a my s ním vedeme seriózní diskuzi, jako kolik toho koupí, no.
+Jo, jo, jo.
+A na základě toho si říkáme, jestli to má smysl jako skutečně půjít na ty zakázky vůbec jít, nebo mu to slíbit.
+Možná se pojďme podívat trošku, jak je ta firma roztrukturovaná dneska, jak máte rozdělené ty týmy, jak to vlastně funguje uvnitř té firmy, jako je to vždycky per takhle velký projekt, se postaví projektový tým, nebo jak to tam máte?
+Není to až tak dramaticky složitý, ta firma je formalá, jo, ta firma má kolem 20 lidí a to znamená, že řekněme, že to, co čemu říkáme týmový dělení, je hlavně spíš jako technologický, aby jsme, ne všechny, všechno zajímá, protože řešíme věci na mnoha vrstvách, jo.
+To jsem vlastně neřekl, že jsme ty full-stack developeři a že to v tom IoT znamená něco jiného, že to znamená jako od assembleru na jednodolarových čipech až po teoreticky umělou inteligenci.
+Kterou neděláme, jako jo.
+No jasně, s někou se ještě dostaneme, to je jasný svar, jo.
+Takže, ale zpátky k tomu týmu, to znamená, že ten tým má jako hodně vrstev technologicky a na každý jsou prostě dva, tři lidi jako nějak dedikovaný, zase to ještě rozeberu detailnějiš.
+Celkově je to tak, že máme zhruba 15 lidí ve vývoji, máme pro mě to třeba překvapivý, že jako to, čemu říkáme výroba, je překvapivě malý, že to je prostě jedna paní.
+Jo, jo, jo.
+A samozřejmě máme jakoby PCBčka, kterou si necháme osazovat a vyrábět v Číně, což protože je to rychlejší než v Rožnově, no.
+Možná vysvětlit, co jsou PCBčka?
+Plošný spoje.
+Jo, díky.
+Plošný spoje, respektive osazený plošný spoje čipama, jo.
+Čipy, kterými používáme, jsou všechny principiálně za jeden až pět dolarů, nebo něco takovýho, takže to jsou jako levné věci, že se to tak kupuje osazenýho. Není to jako procesor, který by se nasazoval do patic a stal sám o sobě jako do dardu.
+Takže no, PCBčka je základní prostě deska té elektroniky, kolem toho se vyrábí takzvaná krabička a zbytek už je u anteny a to celé sasazování dělá prostě naše Sonia, je výborná a umí přesně pájet.
+A
+s dvěma třema brigádními
+kamově, robí prostě tisíc zařízení na týden, no.
+Já jsem se chtěl z neserady zeptat, jestli ta paní má v ruce pájku a zaploul lampičku a v podstatě jsem to vnitřně trefil.
+To paní pájí výborně.
+To paní pájí výborně.
+Ne, mě překvapil ten počet, jako když se kouknu na tu produktovou řadu.
+Ne, protože je to, protože ono se to ve skutečnosti je to pak, klíčová věc je ta elektronika samozřejmě, jo, ale tam se, tam jsou jiný fáze, tam dělají kluci jako návrh té elektroniky, nějakých speciálních editorek, co to řeší a ty desky jsou teda více vrství, když ne jako se vyvrství, jsou třeba dvou vrství nebo tři vrství, takže se tomu to má nějaký editory svoje, to se vymění prostě s tím výrobcem v tuhle chvíli většinou v Číně, ale je to úplně stejný jako výrobce, kdyby byl v
+pošlou a pak se udělá to. Má to nějaký cyklus dlouhodobější samozřejmě, ale to, co vyrábíme teď, tak jako už jenom, to, co jako už máme hotový, tak máme prostě naskládaný někde ty zadání a řekneme jenom, vyrobte nám další tři, třista kusů tohohle, no, no a pak se to už jako poskládává, nejsložitější jsou zařízení, který jsou voděodolný, protože ty se musí nějakým způsobem zalévat dírky s drátkama a takovýhle věci, takže se tam ještě tak jako patlá lepidla.
+Jo, tak to je skoro nejsložitější proces, jako ty vodovoděodolný věci, no, jinak jako jsou to věci, které se mechanicky poskládají dohromady, vyzkoušejí, jsou tam nějaké programátorské stanice, které to jako vyzkouším, testerské stanice, je to raz dva, no, takové, co jsem řekl, manufaktura, no a když to potřeba udělat hodně na jednou, tak jsou tam tři brigádníci a to jde do toho, no.
+Rozdají se pájky a jedeme.
+Ne, pájky ne, pájky ne, ale zavírají krabičky, testují se na těch testerech a tak, jo, jo.
+No to je paráda, no hele.
+Takže výroba je po mě nemalá, takže jako když mluvím o firmě, tak mluvím primárně o tom vývojovým týmu, to je nejvíc lidí, stejně tak jako díky tomu, božná bohužel teda, že neděláme nějak moc přímýho biznisu a pracujeme hlavně s velkýma partnerama, tak nemáme žádný velkej sale, což periodicky litujem.
+A ani velký management, takže prostá většina lidí je prostě vývoj.
+No a ten vývoj je strukturovaný do podtýmů, ale hlavně kvůli problematice, jako technický, aby se nemuselo mluvit všichni o tom, všichni o všem, takže když to vevu ty základní vrstvy, jsou to jako hardware, elektronika, hardware, druhá vrstva, to čemu říkáme firmwareová úroveň, tam jde o nějakou, máme jako výsadvans platformu, co běží na SP32 procesorech, jako nějaké už RTOSu, FreeRTOSu,
+takže už nová jako operační systém malej a prostě environment, ve kterém se probíhají standardní upgradey a takovýhle věci, tak od tohleto prostředí se stará takzvaný firmwareový týmek a potom máme backend nebo data pipeline tým, který se stará o procesingovou platformu cloudovou, což je jako naše jádro toho softwaru, řekněme,
+a pak máme nad tím ještě aplikační tým, který dělá vizuální aplikaci, webovou frontend, frontend, backend aplikaci.
+Takže vlastně followujete ty vrstvy tak, jak jdou z podaří.
+Přesně tak. A v každý ty vrstvě máme prostě dva až tři lidi. Máme pak nějaké externí spolupracovníky na UX nebo na nějaké právě ty speciální, složitější elektronické designy, tak máme nějaké lidi, který občas vytěžíme navíc, ale tak to už jsou pár externistů.
+Takže ten tým je hlavně strukturalý podle těch technologických vrstev. Máme tam nadpoloviční většina toho týmu.
+Máme tam jako, nechci říkat deset let, ale přes pět let určitě, že ten tým je dlouhodobě hodně stabilní, ten základní.
+Takže žádný fluktuanti vlastně.
+No ne, fluktuanti.
+Jedinejte teda.
+Ještě máme se tak srovnaný, že ta elektronická úroveň a firmwareová se dělá hodně na Moravě a software nám mnohem víc fluktuje a máme tam mnohem víc Pražáků a obecně z Čech, hlavně z Prahy.
+Je to jako i věc, kde se, má to svoje kořeny, jo, není úplně náhodou, že to Pavel založil v Válecké Bezříčí, protože to je prostě, ne z obchodního, ale z technologického hlediska,
+jako i český Silicon Valley, tam to zroženo v Válecké Bezříčí a podobně, tam je historie té Tesly a tak.
+A je tam opravdu, a teď tam prostě, teď ne náhodou, tam teďka stavějí ty čipový továrny a to je primární oblast pro elektroniku,
+takže tam se najdou lokálně lidi.
+On to dělal, on to dělá, jako nechtěli studovat nic jinýho a naopak prostě ten, to nějaký webový programování, prostě ať už je to těch backendových věcí nebo aplikačních,
+tak je jako běžná věc, která je na trhu, lidi se u toho méně držejí, víc fluktuje mezi firmama, tak to si dokážete představit z běžného programátorského trhu, no.
+A to jste si stavěli celý samý komplet, řekněme i tu cloudovou vrstvu, nebo jste vzali něco, co je třeba open source?
+Samozřejmě postavený na open source, jo, třeba zmíním ty cloudový věci, tam to jede primárně za prvé jako jádrem tý sběrný platformy jsou dvě věci,
+jedna která hodně standardní věc, která se jmenuje MQTT server, co sbírá ty message, který přicházejí ze zařízení, druhá hodně standardní věc je Kafka, jo.
+Tak to je opravdová páteř jako toho systému, který je vlastně nějaká sada procesů, který zpracovávají různý typy dat různým způsobem, jo.
+No a kolem toho máme mnoho věcí.
+Máme tam mikroservisový prostředí, který je primárně ty rychlý věci jsou napsaný v Golangu, pomalejší v Pythonu a i ta appka je teda vlastně potom napsaná, ta stojí na džangu.
+Jasně.
+Jakoby backend tý aplikace, je tam nějakej postgres pod tím předpokládám, ještě máme teda hlavní databázi, máme na influxu, to je databáze těch časových řad a no v čem jedou, no a nad tím džangem pak tam je nějaký Vue.js aplikace frontendy,
+kterým málo rozumím, se přiznám.
+A džango je Ruby přemýšlím?
+Džango je Python.
+Jo Python.
+Ty programovací jazyky jsou Python na Go, no.
+Ok, ok. A běží to na čem? Běží to někde na Amazonu?
+Samo na Amazonu.
+A řešíte i tam nějakou vaši optimalizaci, tak jako třeba co se týče nákladů, nebo?
+Hele, až tak strašně ne, jenom samozřejmě standardní věci, jako bylo kompromisy mezi balancováním a dlouhodobýma rezervacema těch zdrojů a tak.
+Ale až tak dramaticky ne.
+Co spíš řešíme je právě ty naše okolní věci, ty věci implementovaný v těch mikroservisech Golangových, aby byly jako efektivní správně a tak, aby jsme si tam nedělali nějaký bloated environment.
+A to tam se podařilo, že ty hlavní processingový engine pro real-time processing, těch řad si napsali kluci sami a je hrozně efektivní, že to jako opravdu škáluje hodně dobře a tak.
+Že ty platformy dozvíme.
+Věříme, že poškáluje jakoby i stovky tisíc řízení snadno.
+Běháme tam desítky tisíc řízení řekněme teď, ale poškáloval by velmi snadno jako nahoru v tom, jak je postavená.
+A je to až takový malý luxus ze dvou stran.
+Jako jedna kdeska se ty hodně těch řekněme IoT nebo monitorovacích projektů staví méně komplexně jako z hora dolů.
+Staví se tak, že se pořídí nějaký existující senzory a něco a k tomu se spíchne jako relativně narychle nějaký processing, který je adekvátní.
+Takže druhá věc je, že v tom IoT do dneška platí, že cokoliv je pod 15 minut, se tomu říká real time.
+Tak to by si asi s hrdýma vývojáři nerozuměli.
+Ono tam má svý důvody z druhé strany, to je výdrž baterek, energetická náročnost toho vysílání, takže ono to přichází spíš ze spoda.
+Ale má to samozřejmě pak přesahy, že prostě lidi se nestyděj udělat jako processingový prostředí, který prostě jednou za pět minut běží batch zpracování dat,
+které jsou týdovy nazbíraly, tak my jedeme striktně real time postupem, že co přijde, se hned zpracovává, posílá kam a tak.
+Ale není to úplně všude ve všech platformách běžný, že ty IoT platformy jedou rychlostně, rozvíjelnostně dost na volno.
+A pak to samozřejmě plětší problém se škálováním.
+Jasně.
+Zároveň já, když jsem zákazník takovýchto věcí, tak já přece potřebuju tu informaci poměrně rychle, když záleží, co to je za věc.
+Takže takhle, ta teplota se ti, pokud ti nehoří, tak se ti asi za patnáct minut zásadně nezmění.
+Teplota ne, ale když mi třeba zrovna poteče voda, bavili jsme se o tom servu, na tom, jak se třeba vypne voda, to bych asi potřeboval, za patnáct minut už může vypuštět.
+No možná my jsme o toho úplně tady trošku…
+Takhle, my to děláme rychle, jo?
+Já vím, že jo, já vím, že jo.
+Já vím, že jo, právě, ale někdo to třeba je na těch patnáct minutách.
+Je to, já jsem, to jsem samozřejmě malinko z toho liska přehnal, každá ta, každý ty aplikace stavěj, jo, ty aplikace se stavěj prostě na míru těm požadavkům, jo?
+Ale jako pro spoustu věc, různý sběry data, tak ty dlouhý doby jakož stačej a jsou efektivní na spotřebu energií, baterií, něčeho, vysílání, cíl časy, spotřeby dat na vysílání a tak.
+Což pak mám ty otázky na ty sítě, který to hodně optimalizovali, to na to se těším.
+No mi ještě naskákaly samozřejmě otázky, co se týče toho jako cloudovýho řešení a to, jak si posíláte ty message, že jestli jste třeba časem došli k něčemu, co jste měli vyloženě na začátku špatně, museli jste to tweakovat, nebo jestli jste třeba celou tu komunikaci a celý to, jak se to dostane z toho zařízení až do cloudu, měli vyřešený dobře a teď už to jenom ladíte v úzovkách jenom na tom cloudu.
+No tak jednak máme druhou generaci prakticky všeho.
+Jo, to je zajímavý. A co jste se naučili z první generace?
+A to je druhá generaci, kterou se zhruba posledních pět let vyvíjí. Jak na úrovni řekněme toho rádiovýho světa elektronickýho, tak tam jsme dřív měli takzvaný systém pánování senzorů z gateway, že se vždycky jako vědělo, že tenhle se baví s tímhle.
+No, no, no.
+A pak jsme přišli na systém, kde se ten senzor baví s nejbližší gatewayí, protože prostě když se to má nainstalovat někam na chodbu nějakého hotelu nebo něčeho takového, tak chcete prostě nasekat to na ty pokoje, pak tam dát ty gatewaye, pak to spustit a ne všechno furt obíhat, říkat máš to, máš to, já jsem tohle, tam tohle, tak aby to bylo víc takový jako automatizovaný ten bootstrap toho, plus to má nějaký redundance možnosti a podobně.
+Tak to je třeba druhá generace, jako to našeho rádiovýho prostředí a těch senzorů.
+A tenhle požádavek, promiň, šel až na úrovni toho, že jste to museli nastavit na tom, jakoby připrogramovat firmware, nebo je to jenom třeba o tom?
+To jsou, to jsou, ne, je to firmverem, je to firmverem, ano, tohle firmverem.
+Takže tenhle požádavek šel přes vrstvu až dolů třeba.
+No určitě, ale je pravda, že ty hardwareově jsou ty zařízení vlastně stejný, zrovna těhle těch dvou funkcionality, nebo těhle tohoto srovnání,
+ale pak prakticky dozdělili se jenom v tom, že třeba na nějaké fárování potřebujete čudlíka, nějaký feedback, nějakým světým ukem, jo.
+Zatímco je to, že to může samo přijít, vysvětšit nahoru, nepotřebujete vlastně nic.
+Takže třeba se to hodilo u těch vodotěsných zařízení, kterým jsou ty čudlíky vždycky jako problém,
+buď je to jako drahý udělat jako dobře zatavený čudlík i atáka složitý, anebo to prostě je kompromis s tou vodotěsností, no.
+Tak tam prostě v tuhle chvíli mají jediný ovládací projekt, že se k tomu z jedné strany přiloží magnet a tím se probudí ten senzor,
+aby nežral baterky, když je ještě nezapojenej a pak už žije a všechno dělá automaticky.
+Takže třeba tohle je jako příklad jako poučení.
+Druhá věc, co jsme se poučili, ale opět to od firmwareu dál, je co posíláme si po těch drátech.
+Jakoby historicky jsme posílali jenom naše vlastní veličiny z našich vlastních senzorů, měli jsme nějakej systém prostě,
+řekli jsme jenom systém médií, no a prostě tím, jak děláme další další aplikace, se nám to rozšiřuje,
+zvětšujou se nám pakety a tak, tak jako přecházíme, tak třeba teď zrovna děláme v novejch senzorech,
+když začínáme přechod na formát, který se jmenuje Protobuf, což je googlovský formát pro toto,
+který je dobrý k tomu, že mu rozumí i třetí strany docela snadno, protože jsou knihovny,
+přeci jsme měli proprietární formát, když jsme ho někomu přeposlali, tak jsme museli složitě vysvětlovat
+naše vlastní pravidla zatížených našíma historickýma chybama a vývojem.
+Takže jako děla máme generace těch protokolů datových, co nám běhá uvnitř toho MQTT,
+která je jedna z těch přenosových vrstev.
+No a ten backend právě byl předělaný kompletně v posledních pěti letech.
+A ještě teda podle mě, ten backend na tom firmware někde je C++, nebo co tam používáte?
+No to je zase celá škála.
+O C++ jsem neslyšel, ale Cčko určitě.
+Třeba ty nejmenší, ty úplně koncové senzory, které jsou rádiový a bezdrátový,
+zejména proto, abychom dosáhli dlouhé životnosti baterek
+z týho vysílání, což je taková smrtelná kombinace,
+tak používají extrémně úsporné technologie.
+Takže jsou tam nějaké čipy, které se jmenují MSP od Texas Instruments,
+což jsou malý blzesůrky.
+Kluci říkají, že jsou nejlepší, protože jsou v Pershingách,
+ale v Pershingy možná už ani taky nelítají.
+Byli v Pershingách.
+A ty se programují v Assembleru.
+Takže jako úplně, a to je prostě důsledkem je extrémně,
+nejde o ten tak odsedu, to všechno stojí dolara až dva ty procesory,
+ale je to extrémně low power řešení.
+Potom má na těch stanicích, na těch gatewaych různých,
+připojených k napájení.
+Už jeden větší luxus našim standardem je právě ten FreeRTOS
+na systémech s čipem ESP32 procesorem.
+Tam se tento programovat v C,
+anebo tam kluci mají nějaký systém,
+mají nějaký skriptovací jazyk, se jmenuje LUA,
+který já osobně úplně neznám,
+a mají zabudovaný do toho interpretativní LUI
+a programují ty high level logické části,
+jako třeba překlady určitých odsečení,
+šoupám nějaké registry, tyhle, tyhle, půjde tam, tyhle sečtu.
+Teď tak píšou jako v té LUA.
+A to už je prostě takový prostředí jako operační systém
+s jazykama a procesorama.
+No a pak už jsme v tom cloudu vlastně.
+Jasně.
+Takže když se podívám na tu architekturu třeba
+v takový, na takovýhle koleji,
+tak tam mám prostě to koncový zařízení,
+to jde rádem do nějaký zběrný, do nějaký gateway,
+a ta gateway je po drátu někam připojená dál, nebo jak to je?
+My preferujeme takhle.
+Ano, my preferujeme, když je ta naša aktuální gateway,
+nebo starší gateway, je připojená po drátu,
+přidáváme k tomu už dlouho různý,
+jako bez drát, různý modemy, LTEčkové a podobné věci,
+takže teďka už děláme novou generaci té gateway,
+která bude LTEčková, respektive nebude LTEčková,
+bude mít NB-IoT a LTE-CAT-M,
+což jsou ty, řekněme, IoT level protokoly na mobilních sítích,
+jakoby s nějakýma větším dosahem a omezenýma,
+trošku jinak nastavenýma parametrama,
+menší objemy dat, menší rychlosti,
+ale větší dosah do, větší dosah signálu.
+To je teďka asi nejpopulárnější jako požadavek nebo kombinace,
+ale jinak historicky,
+ty naše IoT systémy,
+to IoT je strašně široká oblast,
+tak ty byly designovaný od jak živa do prostředí nějakých domů,
+areálů a podobně,
+prostě řekněme buildingový nebo campusový technologie,
+který se jako nehejbají,
+není to něco, že cvaknu krabičku na vagona,
+on putuje po celém světě
+a mám musím všude v mém něco vědět,
+je to vždycky nějaký lokalitě upíchnutý.
+Takže je to kombinace lokálního rádia
+s internetovým připojením,
+který je ideální,
+ideálně jako drátový,
+a drátový preferujeme už proto,
+že prostě cvaknu něco do drátu
+a on začne fungovat,
+už Wi-Fi neje složitější,
+prostě ty parametry,
+že by to všichni neuměli,
+ale musí skvěle jít nějaký interfejs,
+kam to dát a tak.
+A děláme teda,
+preferujeme drát, pak Wi-Fi,
+dáváme k tomu routery s modemama
+a budeme si řešit,
+aby to mělo teda
+vlastní mobilní konektivit,
+to je jako nejpopulárnější věc deska.
+Myslím si, že ty mobilní konektivity,
+tyhlety NB-IoT a LTE-KTM
+jsou jako vítězem toho závodu
+o tom, kdo pro IT udělá jako,
+on teda ten závod už daleka nejde
+jak důležitý jako se zdá obejít,
+ale kdo udělá jako dálkový
+vantechnologie pro to.
+Já mám pocit,
+že my jsme trošičku celý ten stack
+takovým jako záhadným způsobem
+úplně obejšli,
+protože vlastně,
+kdybych byl teďka náš,
+posluchač a nebyl už připraven,
+tak vlastně nevím,
+co všechno teďka vlastně měříte,
+co řešíte.
+Já jsem koukal samozřejmě
+na vaše webovky
+a tam vidím elektřinu,
+plyn, voda, topení,
+kvalita prostředí a komunikace.
+Aspoň to jsou takový ty,
+jako řekněme subčásti toho,
+co všechno to vaše řešení nabízí.
+Tak jestli to můžeme projet jako
+nějak postupně,
+třeba nějaký specifika toho
+z hlediska IoT,
+z hlediska celého toho řešení.
+Elektřina, první.
+Já ještě jenom řeknu,
+že jsem rád,
+že jsme to proběhli takhle,
+protože pro nás je ta platforma
+opravdu jako to jádro, jo.
+A my, já jako,
+pokud si tímhle někoho oslovit,
+jako marketingově třeba,
+já bych chtěl oslovit někoho,
+kdo má vlastní projekat
+a naše platforma by se mu hodila
+a možná půlka senzorů, co máme,
+by se mu hodila
+a něco potřebuje dodělat.
+Jasně.
+Takže pro mě je to způsob,
+jak jako tu věc předkládat, jo.
+Ne, to je super,
+já jsem spokojený.
+To je důležitý řízek, jo.
+Nicméně, když mluvíme o těch věcech,
+co už jako máme,
+tak počkej, co jsi říkal.
+Elektřina.
+Elektřina, plyn, voda, topení,
+kvalita prostředí, komunikace.
+Já to představuji od druhého konce,
+protože od těch jednodušších.
+Komunikace jsou ty gateway, jo.
+Takže to bych asi,
+bych asi jako v tuhle chvíli skončil.
+A tak, že můžou být líp připojeny k internetu
+a můžou být líp připojeny k napájení.
+Dej se do míst, kde je zásuvka,
+kde je internet, kde je Wi-Fi signál, něco.
+A ta poslední míle,
+ne, to není míle,
+ale spíš 350 metrů,
+se překlenuje tím lokálním rádiem, jo.
+Potom, potom řeknu,
+jako je to u Shakespearea,
+pak všechny ty komedie, ne.
+Tak všechny ty komedie,
+tak to jsou takový ty věci,
+jako, jako plyn, voda a podobně.
+To jsou všechny,
+to jsou jako půlzní technologie většinou.
+Nebo možná to ještě řeknu z jiného konce.
+Historicky ty klasický technologie na měření
+právě vody, elektřiny a plynu
+vycházejí z toho,
+právě z toho původního domácnostního principu,
+aby to bylo snadno instalovatelný,
+aby se ty elektrický věci tady instalovaly
+bez elektrikáře a podobně.
+Všechno jsou to nějaký druhy nepříjmejch měření, jo.
+Takže třeba naše nejstarší,
+nejúspěšnější senzor zásadně
+je na elektriku, nese OptoSense
+a má optický šidlo, který se nalepí na elektroměr
+a s ním má blikající diodku,
+která bliká tak rychle, jak se rychle
+protejká elektřina.
+Jo, jo, jo.
+Protože je to měří měřák vlastně.
+Co? Protože je to měří měřák.
+Stejně tak prostě
+všechny ty naše ostatní metry,
+vodoměry, plynoměry, tak mají vždycky formu
+s nějakým snímačem. Třeba u plynoměru
+je to zase u takových těch
+klasických, řekněme, ne domácnostních,
+ale na malý objem i ty měchový elektr plynoměry
+mají vždycky takovou vysutou hlavičku,
+kde se točí ten nono.
+A v těch hlavičkách není to až až tak jako blbý,
+ty hlavičky mají většinou ze spoda místo nějaký,
+kam se dá přicvaknout magnetický šidlo
+a ty kolečka mají na sobě
+teď nevím jakou část, kterou z těch částí,
+která s tím magnetickým šidlem
+jako si zakamarádí každý kolečko, každý oběh.
+Takže...
+Takže ty počítáš oběhy a podle toho...
+Takže se počítají vždycky.
+A druhou alternativou je, že ty sofistikovější
+zařízení umějí poddávat pulzy.
+Digitální pulzy na drátě.
+Takže
+ty děřáky jsou principiálně
+pulzní, s ní mají nějaké blikání,
+nějaké točení kolečka, něco.
+Takže my jako nevyrábíme
+plynoměr, který má měchy nebo
+rotační ortoluky.
+My prostě se interfacujeme
+s nějakým takovýmhle zařízením.
+Nejsložitější je to asi u vodoměrů, kde neexistuje
+standard podobně jako u těch plynoměrů, nebo
+jako použitelné sada standardů.
+Takže tam to prodáváme
+i s vodoměrem nějakého našeho partnera,
+české firmy Bonega.
+Anebo pracujeme s tím, že prostě
+si lidi k těm svým vodoměrom musí koupit jako
+custom hlavici, která dává
+pouzdní výstupy. Což často je
+stejně jako to naše čidlo.
+To nechají zaplatit ty výrobci.
+A tam prostě jsou takový jaký jazyčkový systémy,
+otáčecí jazyčky, ale prostě každého má jiný.
+Takže máme čidla udělané,
+ale nejsou dosti univerzální. A to, abychom řekli,
+to funguje ze všim třeba.
+Já furt kvůli tomu lezu do šachty, tak jsem si říkal, jestli tam nedáte
+něco, co mi to vždycky vyfotí jednou za týden.
+A pošle mi fotku prostě ze šachty
+toho odměru.
+Nebo bys měl teda tu naši webovou aplikaci,
+kde vidíš to počítadlo.
+Jednou nastavíš a počítám, jak ho díváš.
+No jasně.
+Takže ta základní seda
+historičtějších a zásadně
+nejoblíbenějších senzorů jsou
+takovýhle, protože říkáme, že to jsou
+retrofit řešení, že se nastaví do stávajícího
+prostředí. A i ten
+oblíbený měřák, ne úplně přesnej,
+ale dostatečnej,
+takzvaný Powersense na elektriku,
+má takzvaný CT,
+klipsnový, že prostě se kolem drátů jednotlivých fází
+se nacvakají
+CT, který vedou do
+snímače, který teda
+běří proudy, konkrétně v tomhle případě.
+Takže jednak tam máme tu strategii toho retrofitu,
+toho nasazování, nasazování
+na existující měřáky
+nebo existující prostředí, to je jedna věc.
+Má tu tu ohromnou výhodu,
+že se to dá instalovat hrozně
+amatérsky. Což je super teda.
+Pro lidi jako je pro třeba. Pro mě určitě.
+Ale je to super i pro
+firmu, co to má nainstalovat 100
+kusů a nemusí všechno elektricky zapojovat.
+Potom jsou tam
+potom jsou tam
+potom jsou tam
+potom jsou tam
+zařízení, řekněme na tu měření
+kvality prostředí nebo parametrů prostředí.
+Těch máme
+několik spíš různýma s tou sedou možností.
+Je to od nějakých teploměrů.
+Docela populární věc, kterou
+když říkáme RSN CO2, která měří
+prostě teplotu, vlhkost a CO2.
+A mají takový
+trochu pokojový provedení,
+z takových bílých plastových krabiček.
+Nenápadný někam do rohu.
+A došli jsme až k největšímu
+zařízení, který měří ještě prašnost,
+respektive mikročástice
+a měří
+i nějaké volatilní
+prvky, to jsou jako smrady
+chemické a podobně.
+A
+to už zase třeba, to už je opomněný velký
+senzor, že nějaké ty měření,
+možná bych mohl chytit jako z takovýchto senzorů.
+Já jsem říkal, že jednoduše si vyrábíme
+PCBčka s hazelými čipama,
+je to pochopitelný, ale pak tam ještě musí
+být jako často, právě třeba
+tyhle environmentální věci, nějaký skutečný senzor.
+Ty environmentální věci už nenapíchneme
+na existující senzor, na existující
+elektroměr nebo smradoměr. Jasně.
+Takže potom k tomu existují
+jakoby malý senzurky
+do elektroniky a oni se používají
+třeba v
+klimačkách a
+takovýchto věcech docela často.
+A ty mají nějaké schopnosti, ale taky
+mají energickou náročnost. Takže třeba měřit
+jako dva, je jako dražší než měřit teplotu,
+ale je to jako furt jako relativně
+nenáročný energeticky.
+Ale už měřit ty praštní řástice, což znamená, že máte
+takovouhle krabičku, jako krabička od syrek
+a v ní se už dějou věci.
+Tam se třeba něco vrtulkou
+posílá z jednoho konce na druhý
+a prosvědce se to laserem a počítají se
+jaký jako intenzity toho světla.
+A
+to jako my
+samozřejmě zkoumáme, jak to funguje, ale
+vidíme tyhle věci primárně.
+Takže těmhle věcem věříte, vy je netestujete.
+Teda předpokládám, že nemáte nějakou smraduplnou
+místnost, kam hodíte ten cenzor a vidíte
+ty teploty. No tak třeba
+jsme to dávali na komíny
+jako na komíny v našich budovách
+a tak.
+Samozřejmě se v tom testování vždycky najdou
+bizarní situace,
+kde umístit nejlepší testovací sadu
+a kde asi uniká NOx
+jako jestli díra
+do komínu
+z plynlivého kotle je to, co potřebuje
+a to nezabije.
+Takže to testování je samozřejmě někdy sranda.
+Ale ano, tyhle zařízení my si vybíráme, testujeme,
+zkoumáme, jak jsou energeticky náročné
+a řešíme zase tu assembláře
+a ovládání.
+By the way, já mám doma
+CO2 a
+hrozně mě překvapilo na začátku, teď už to vím,
+za jak krátkou dobu se vydejchá
+ta místnost. To je úplně neuvěřitelné.
+To je úplně neuvěřitelné. Tam to má být
+těch pětistech ppm do tisíce třeba.
+Člověk přijde a má tam tři tisíce
+pětset a nic nevšimne.
+Takže já jsem si to dal do místa, kde pracuju
+a v podstatě jsem v ten den
+větral snad každou tři čtvrtě hodinu.
+Takže tě to začalo buzzerovat, že se dusíš.
+No jasně, jestli nechceš umřít,
+tak otevři okno v podstatě. Tak já ho jdu otevřít.
+Už jsme se poučili,
+že jsme měli kdysi i projekt do škol
+s CO2 a dneska to je
+na všech těch elektronických tabulích a tak
+jsou zabudovaný CO2 senzory.
+Ale ten problém těch škol je, že
+je hezký, když to změřejí, ale oni nemají možnost
+to efektivně vyvětrat většinou.
+Takže je to spíš takový depresivní.
+To je blbý.
+Že to je blbý vědět.
+Co dneska děti dostanete.
+A nepustíte mít senzor.
+Nic lepšího zde nemůžete udělat.
+No tak v čase, kdy já jsem
+IoT popouštěl, a ty jsi už se toho trošku dotknul,
+to mě vždycky hrozně bavilo,
+přesně takový ten boj toho, která ta sítí to vyhraje.
+No tenkrát, tuším, že
+Vodafone tady rolloval neroubent.
+Do toho tady byla LoRa.
+Sigfox dneska, budíš mu země lehká,
+tak tady taky rolloval.
+A vlastně jsem si ještě vzpomněl, jak jsme se o tom
+tady bavili. Tenkrát měl úplně super
+produkt
+Inogy. Chytrý
+elektroměr, který vlastně byl poslaný
+na Sigfoxu. Sigfox posílal data
+vlastně tobě do apky.
+A oni tím řešili to,
+že ty jsi za to platil 30 korun, ale nemusel tam
+chodit ten pán, co tam jednou za rok chodí, kontrolovat
+ten elektroměr, jestli je všechno v pohodě.
+A vlastně si to odečítali vzdáleně.
+Budíš si dneska Sigfoxu
+země lehká, ty jsi to trošku nastřelil, tak kde jsme
+dneska? Jak ty sítě vlastně fungujou
+a jak vidíš jejich budoucnost?
+Já to možná vezmu trochu jít zeširoka tohle.
+To je rychlá odpověď na to,
+jsem rád, že už stará doba je za náma,
+byla trochu nesmyslná,
+ale...
+Ale já taky nevidím celý obrázek.
+To IoT, jednak teda jsem v tom
+jako ten diletant, diletant je dobrý slovo.
+Ten diletant, co tam prostě rok
+se tím zabývá, pak dělá chytrýho, takže
+nechci si uzurpovat vůbec
+žádné právo na pravdu tady.
+Ale fakt je, že
+tím IoT se dají nazývat
+jako tisíce věcí historicky,
+to vzniklo z nějakých kořenů,
+že budou chytrý zařízení a nejenom lidi,
+kteří budou sedět na internetu, nejenom lidi a servery,
+řekněme, jo, ale že
+i různý jako malý zařízení,
+když si na to člověk povádí z této perspektivy,
+tak prostě je rostoucí množství
+nějakých Wi-Fi enabled zařízení, jako
+když, tak já nevím, můžou to být fotovoltaický
+střídače, takovýhle věci, ale
+jsou to taky jako chytrý
+vysavače, nebo co se čmejde,
+sami se na dálku upgradeují a podobně.
+A paradoxně
+třeba, co jako konektivita vyhrává
+Wi-Fi se blbě nastavuje, protože vždycky, ne blbě,
+je dobře, ale vy že vždycky najednou musíte
+dát displej a tlačítka a
+ne, ne dej bože klávesničku,
+nebo, jo, no.
+Nebo se,
+to pak je kombinace, že se přes mobil,
+přes Bluetooth nastaví Wi-Fi, ale on to komunikuje
+Wi-Fi a takovýhle věci. Je to jako
+docela, jako sofistikovaný tu Wi-Fi
+vůžít, ale
+je nejčastější, protože prostě je to
+interfejs, který si může čínskej výrobce
+dovolit prostě do světa a bude
+vědět, že to bude lidem jako fungovat, jo.
+A nemusí řešit jiný vrstvy.
+Takže to je třeba jeden pohled na to, jako
+jeden směr toho IoT,
+když se povíme, pak je takovej směr toho
+těch pohyblivých věcí, jo.
+A to je zase úplně jinej svět,
+má to dvě dimenze, jako malý
+nějaký tagy v nějakých skladech a tak,
+to jsou jako velmi už rozvinutý
+věci, jak šly svojí cestou,
+a to není úplně IoT teda, ale
+pak jsou ty věci, jak sledování
+kontejnerů, sledování aut a podobně,
+jo. A netroufám
+si vůbec říct, co vyhrává tady v těch věcech,
+jo, ale myslím si, že to bude jakoby ten,
+že to taky bude ty mobilní sítě
+dneska už, jo. A
+nějaký roamingy a takovýhle věci, ale nevím
+v jakým je to jako tohle stavu. No a...
+Koukáte se třeba tím směrem, jakože
+na tyhle ty pohyblivé věci, to vás nezajímá?
+Ne, to je úplně jiná oblast, jako má to
+jiný, takhle, ne, že bychom to jako nedokázali
+vymyslet, ale jsou
+lidi, kteří v tom žijou jako
+roky a mají toho
+výpřipravenýho, jo. Prostě,
+prostě, říkám, že
+ten náš systém primárně takový jako statický, třeba, jo.
+A je
+zaměřený, a někdo jiný, takhle,
+jsou systémy senzorů v lese a po městě,
+který jako potřebuje mít levný
+standalone senzor, co sám vysílá třeba.
+To taky jako není přesně to, co my děláme,
+věděli bychom jak na to, jako, ale to, co my
+běžně děláme, jsou spíš ty věci,
+ty víc senzorů v jedné budově,
+které se dají s pomoci, jak efektivně,
+třeba pomocí TG2 připojit, jo.
+Takže, takže
+jsou různý směry, kterýma to jde.
+A nevím, co jako
+vede a jak rychle vede, třeba,
+v těch pohyblivých systémech, které jsou mezinárodní
+a tak, jo. A je dost možný,
+že prostě nějaký speciální satelitní verze
+něčeho LoRaWANu budou jako to
+nejlepší pro námořní dopravu příští 20 let,
+a já o tom ani nebudu vědět, jako, jo. Jasný, jasný.
+Takže nechci jako mluvit jako
+příliš univerzálně, ale
+v těch oblastech, ve kterých se pohybujeme, řekněme,
+konekty, senzorový systémy
+spíš statickýho
+lokací,
+tak
+jednoznačně prostě tam teďka
+převládá a bude převládat ty věci
+jako NBAU, TLT, CATEM.
+Je to i s tím. Nebyla to pravda ještě
+před dvěma lety, třema lety
+úplně, protože
+ten deployment
+jako v těch sítích těch operátorů trval,
+bylo jasný, že tam jde, ale trval.
+Dodneška jako na to prostě se
+nenaplnil ten příslip, že na to budou dávat
+lepší tarify například,
+ale aspoň už to jako technologicky už jenom
+funguje třeba to, že to NBAUT vleze hloub do sklepa,
+jo, vysílá, má
+malejší odezvy, je to třeba
+v podstatě Uniprotokoll paketovej,
+jo, ale
+dosáhne dál prostě třeba, jo, takže má to svoje
+technologický výhody a je
+energeticky méně náročnej
+zase na lokální spotřebu, než
+plnohodnotný LTE, jo. Takže
+ty varianty technologický výhody
+mají, myslím si, že nebudou mít i nějaký cenový,
+respektive
+můžou mít cenový pro opravdu
+velký projekt, jako když si prostě
+ČES a EON kupujou elektroměry
+elektroměry
+s chipama, se SIM-kama
+od některých z našich operátorů,
+tak samozřejmě budou mít dobrou cenu, jo,
+potom žádná, jo, a budou tam mít taky NBAUT,
+ty SIM-ky, ale pro většině
+zákazníka třeba to dneska není nějak
+dostupnější za lepších cenových podmínek, to se
+asi změní. A teďka s 5G
+rolloutem už jsou to jako zase povinný součástí
+toho 5Gčka, jestli se nepletu, jo,
+takže to bude jako víc a víc jako
+častý a ty mobilní operátoři do toho
+jako celkem šlapou, takže
+myslím, že tu vrstu, tu bitvu těch
+van technologií
+pro IoT přirozeným
+vývojem vyhrály mobilní
+sítě. Tak to vidím já,
+neříkám, že vidím celou pravdu, ale
+kusí, kusí.
+Já si pamatuji, že tam tenkrát před 6 lety,
+když se ten neuroband rozjížděl tady, tak byl
+v Čechách úplně měl nejlepší pokrytí,
+ale protože jsme byli spin-off Jablotronu,
+tak jsme potřebovali i zahraničí a tam to vůbec nebylo.
+Jo, že vlastně z nějakého důvodu Vodafone si
+tenkrát vybral Českou republiku jako takovej pilot
+a...
+No, no, no, no a začalo se tady
+hrát, tak právě jako zajímavý to slyšet
+dneska. Ono má ještě širku,
+má to jako dva aspekty. Je tam jeden
+aspekt, od kterého nás
+tohle rozhodnutí nijak neosvobozuje
+a ty předchozí technologie ho braly trochu
+víc v úvahu
+a dávali tomu nějaké
+omezení a to je nějaká balance vždycky
+mezi energetickou náročností,
+dosahem toho vysílání, frekvencí
+vysílání a množstvím dat. Jo, jo.
+A prostě,
+když chci dát nějaký senzor jako na lampy
+ve městě a chci, aby mi tam
+držel dva roky bez údržby
+a chci,
+aby měl maximálně takhle velký baterky,
+prostě třeba dva bušty, nějaký klasický,
+řekněme, jo, tak
+mě to debituje, jakým způsobem
+a jak často vysílám. Protože třeba
+takovýhle věci vysílaj jednou denně, se jdu dát
+po hodinách, jo, nebo po minutách,
+ale to vysílání
+se jednou denně. Proto
+taky jsem tady zmiňoval, že ve světě IoT často
+pod 15 minut je real time,
+jo, protože
+jako ve skutečnosti pro některý aplikace
+je prostě kvůli těmhle těm kompromisům, co je potřeba
+vzít, je, se dělá
+to, že se dělá to,
+že se vysílá jednou za 15 minut
+minimálně. My díky tomu, že
+máme ty věci vyladený jako na
+hodně blízký prostředí, na malý
+lokální rádio,
+který teda máme, náš vlastní protokol
+běhá po tom rádiu, ale běhá to na standardních prostředí
+pro volných
+frekvencí 4, 3, 3, 8, 6, 8
+MHz, tak
+tam vysíláme relativně
+často, i po pěti sekundách třeba
+a i jsme řešili sekundové
+vysílání, myslím, ale
+vysíláme
+hrozně jsme museli optimizovat ten protokol, aby to
+nežralo baterky, máme v těch
+programování to v assembleru na hrozně
+low power čipech, aby nám
+prostě vydrželi, vydrželi, a ty nám vydrží jako ty
+senzory, jet třeba
+s desetisekundovým nebo
+pětisekundovým vysíláním, jestli nepletu třeba
+až pět let jako na dvě tuškové
+baterky. Jo, to je
+ale opravdu extrém toho low poweru, co dokážeme
+největší. Takže když vidíte ty IoT
+zařízení, tak někdy jsou jako malinký,
+ale to pak znamená, že vysílají hrozně málo
+často, třeba jako jsou jako veliký a dělá to
+proto, že jako jo. A je tam těch kompromisů,
+těch kompromisů kolem ty, kolem toho
+ty frekvence vysílání, co potřebujete
+skutečně zadat a jak často, jestli
+zpětně, jestli net, jestli real time
+a jaký se k tomu použijou metody
+vysílání, jak kolik to se žere. Elektriky
+jsou jako podstatná část toho
+designu. No mně vlastně přijde, že ten
+Sigfox zrovna na tomhle prostě pochcípal.
+Přesně jak říkáš, vlastně. No on šel jenom jednou
+z těch cest, on vysílal, já to nevím kolik,
+jako sedmdesát bajtů, jako v jedné
+zprávě. Sedmdesát bajtů až po čtvrthodině.
+Po čtvrthodině nebo jako dvakrát
+denně a takové. Jo, jo, jo.
+Takže vlastně, když se to člověk takhle
+vezme, tak pak těch use case je vodosmín,
+jo. Když se na tím pak člověk zamyslí, tak to
+vlastně nikdy nepoužeš. I na tom parkovišti
+předpokládám, že možná došli, když
+si představím dneska parkoviště městský, já chci mít
+teda chytrý město, tak tam taky můžu přece nasekat
+rádio. No. A napojit to
+potom do nějaký gateway a to už je prostě
+samozřejmě, že bude napájena. Většinou to jsou
+takhle, když je to takhle, tak se to
+většinou drátuje, že jo? Jo, jo, jo. Tam běží
+nějaký prostě sériový RS485
+modbasy, takový nějaký
+sériový konexe. Jasný, jasný.
+A nebo se to dělá, nebo,
+ale jo, jsou bezdráty tohoto typu, jsou bezdráty jako
+který, jaký mešový
+rádio, který řídí lampy veřejného
+osvětlení, baví se takhle navzájem do
+řetězce jako, jo? Jo, jo, nějaký ten meš.
+No a já vlastně, a když se kouknu doma,
+já mám jako dost chytrejch věcí doma, mě to baví,
+všechno je na Wi-Fi-ně, se samozřejmě mezi
+tím, mezi sebou si povídají po rádiu,
+jdou do nějaký gateway a ta už je na Wi-Fi-nu
+a je to. My si teda o tom myslím, že to
+je, vůbec není profesionální řešení. No tak
+samozřejmě, že, ale já na tom...
+Ty, ty, má to čínský routery, je to hacknutelný
+routery. No jasně, jo. Haslou už si nepamatuješ, ale ten
+hacker ho nejde rychlejiš než ty.
+A já vždycky na to říkám, jako,
+jestli si číňák chce hacknout a rozsvícet
+mi v kuchyni, ať ať jo.
+Ať si hraj chvíli, jo.
+No tak jako...
+Jak vás poslouchám, tak takový ty tradiční bolízky,
+který se vždycky s IoT jako táhly, to znamená
+security a výdrž.
+Já bych trošku čekal, že všechno ostatní
+mám pocit, že se jako posouvá
+docela rychle, ale přeci
+jako to se neposouvají, nevím, baterie
+takovým stylem, že to, co dřív prostě byl
+problém jako týden, že to teďka
+může jet rok, nebo i ta security
+neposouvá se nějakým stylem, že už se nemusím
+bát, jestli to číňák hackne.
+Takhle, toto má dvě celkem jednoduché odpovědi.
+Ne a ne.
+Baterky se nijak zvlášť neposouvají. Představ si, jak
+když jsi viděl před deseti lety, jak vypadala
+prostě baterka z výdrží určitě
+jak vypadá teď, že jo. Tak jako ty výdrže jsou třeba
+dvojnásobný, ale ne jako desetinásobný, jo.
+Jasně, jasně.
+Bezin baterka tušková třeba, jo.
+A druhá věc je,
+že
+s tou bezpečností.
+To se samozřejmě posouvá, ale zároveň
+se to rozbíjí tím, jako když
+mluvíme třeba o systému jako děláme my.
+Protože je to jeden z důvodů, to není úplně
+hlavní, ale jsme rádi tomu, že tak je,
+že tu bezpečnost jsme schopni zajistit, protože
+ten systém máme nějakým rozhodným způsobem
+celý v rukách, že jo.
+Proto taky si ho celý prostě vyvíjíme.
+Jo. Aby jsme byli schopni ho
+modifikovat na potřeby zákazníků,
+ale aby jsme byli schopni udržet v něm
+jako bezpečnost
+ze silných bodů toho našeho řešení, co s čím říkáme
+device management, jo. Monitorem ty zařízení,
+monitorem stav jejich baterií, stav signálu,
+jak silně vysílají, takže když přestane vysílat,
+my ti můžeme říct, no on už
+vypadával prostě každej týden dvakrát
+a myslím si, že to protože se zavíjely
+dva ta garáže nebo něco takový a člověk řekne,
+no jo, my jsme tam vlastně dali nový vratel garážů,
+jsou železný a ty tam už tolik nesvítí, jo.
+Takže jako by děláme tyhlety
+funkce advance jako bezpečnost, dohled
+a tak, jsou možný,
+když máš dostatečně konzistentní systém.
+Když se všem nakupuješ
+jako 8 čínských senzorů přes Wi-Fi,
+to napojíš na home assistenta, no tak
+se nedá mluvit o nějaký konzistentní bezpečnosti.
+Jo.
+Respektive minimálně tam nejsou
+tak silný, tam jde důraz na cenu
+a ne na nějakou bezpečnost.
+Jako v korporátním IT
+na serverový straně se už jako
+se ti vyplatí bezpečnostní analytik
+nebo bezpečnostní analýze nějakého
+řešení, ale v tom domácnostním provozu ne, no.
+Takže je toto riziko furt stejný.
+Jo.
+My ho umíme řešit pro naše zákazníky,
+když jim dodáme celý systém.
+Jasně, protože to prostě celý kontrolujete.
+Protože ten systém má nějaké šifrování,
+nějaké zprávy, hesel, něco v tom má,
+ale jak do toho najdáš hromadu
+sezích komponentů, poskládáš to prostě
+takzvaně na levno, úplně, úplně na levno,
+tak ti se ulepoší, no.
+Jsou to domácnostní produkty,
+poskládání na hromadku.
+Ale tohle je pak pro vás jeden z těch zásadních selling pointů, ne?
+Vybrat si možná do jistý míry trošku dražší řešení,
+než kdyby to lepili z těch komponent,
+ale tím, že to je celý kontrolovaný
+jednou firmou, celý to řešení.
+Já si myslím, že je to jakoby,
+tak to zase lidi taky neradi viděj,
+že je to kontrolovaný jednou firmou, na který jsou
+nějakým způsobem závislí, nebo něco takovýho, že jo?
+No to jsou různý aspekty pak toho výběru.
+Jasně, ale tak jako, je to pak mírování
+s jednou firmou zase.
+Ne, jako já to spíš vidím jako i garanci
+nějaký kvality celého toho řešení a tak, no.
+Jakože prostě poskládat si to jako
+takzvaně veřejnými zakázkami, nakoupit senzory,
+gateway zvlášť, přece toho LoRa, ne?
+To má standardní gateway,
+ta kolej si tohle neléstne, prostě
+udělá to s platformou.
+Spíš ten majitel toho tý budovy,
+nebo ten domů jí staví jako
+profesionální řešení, no.
+A studenti se vám do toho nemotali, když se bavíme o security?
+Ty studenti, jestli se vám to neskoušeli do toho nějak nahackovat, ne?
+Ne, zase tak moc ne, zase tak moc ne.
+No a k těm baterkám, když se podíváš
+na elektroauta, tak máš jako odpověď, jo?
+Taky se to jako zásadně
+neposunulo vlastně o stovky
+procent, že jo? Ta baterka dneska je lepší,
+ale asi ne úplně o moc.
+No dobře, ještě
+mě napadá, co se toho světa
+IoT týče, tak teď jako hodně
+rezonuje Edge Computing, jo? Já tomu teda úplně
+moc nerozumím, ale vím, že jsme se tomu
+tady věnovali, i tým Milana Pisklý vlastně
+do toho hodně šil.
+A já si to vždycky zjednodušuju, že to je teda
+nějaký programování na tom
+Edge, na tom železe tak, abych
+mohl ty věci a tu logiku
+řešit a realizovat přímo na tom
+železe.
+Přicházíte k tomu vy nějakým způsobem?
+Přicházíme, já to
+zvednu do toho dvou konců. Jeden konec je, že o tom
+Edge Computingu nejradši mluví jako výrobci
+nějakých krabiček, jo? Jo.
+Asi trochu jako právem, ale
+prostě to je stejné jako to IoT.
+Největší boom IoT byl, když ho propagovali
+síťové firmy, ty Sigfoxy a tak.
+A cloudové firmy, které měly
+svoje IoT platformy. Každý si
+chtěl líznout kousek z těch řešení,
+který má postavit někdo jiný. Stejně tak
+jako Edge Computing je takový termín prostě,
+který jako říkají firmy,
+my stavíme malý spohlivý luxový počítačíky
+třeba, který můžete umístit někam a
+provozovat v průmyslovém prostředí, jo?
+A nebo nemusí být jenom,
+typicky je to tohle řešení, my jsme
+viděli, ale samozřejmě to můžou být i různý chytrý
+prvky na menších platformách a tak.
+A já
+to vezmu spíš, teď to, takže
+ten termín Edge Computing
+dává smysl jenom
+výrobcům těch krabic, jo?
+Mně dává smysl jiný,
+jiná věc a řeknu to jako
+na příkladu, to jsou právě ty energetický
+subsystémy nebo řízení energetických
+subsystémů. Když se to představí
+na úplně jednoduchým případu, tak mám prostě
+domácnost, která má fotovoltaiku,
+má baterii nějakou
+a má
+nějakého obchodníka s energií,
+který nabízí třeba spotový
+tarif a má třeba
+boiler, který se dá nějakým, nějakým
+lidící prvek vypínání, zapínání, ohřevo,
+boileru a může mít nabíječku
+elektrovobilů do budoucna, která
+se dá řídit tím, jak si
+nabíjí hodně nebo málo v určitý čas, jo?
+A tohleto by
+dneska se to furt ještě buduje jako dost
+takové odděleně tyhle subsystémy a jak se nastavuje
+s nějakýma fixními a konfiguračními pravidlemi
+při nutěch zařízení, zapínej se v tyhle časy a tak.
+No to jakž tak funguje, docela ne
+špatně, super věci
+to přináší už teď jako, ale dá se
+to vyladit o další 20-30% třeba
+chytrým řízením, jo? Úplně nejvíce
+a to už dneska na to jsou systémy, který
+jako se prodávají, běží
+věci jako optimalizace kolem
+těch spotových tarifů, typu, že
+rozhoduju se, sice mám v baterce, mám spotřebu,
+nesvítí sluníčko, ale teď je levnější
+spot, než bude večer, tak já
+nebudu brát z baterky, budu brát
+z baterky až večer, teď budu brát ze sítě a těma
+jenom těmahle těma úvahama
+se dá z toho systému
+domácího vytáhat třeba o 20%
+jako větší úspora, jo?
+No pak prostě řídím, prostě vyberu si,
+jestli nagřívám boiler, nebo radši nabídím auto,
+nějaký sady preferencí, pravidel,
+tyhle systémy teprve vznikají a
+jsou čím dál tím sofistikovější a budou hodně běžný.
+No a teď když máš takovýhle systém, tak ten potřebuje
+nějakou řídící jednotku, jo?
+Typicky jsou to nějaký tzv. moderní PLCčka,
+PLCčka jsou původní
+programmable logic computer, to je prostě
+koncept průmyslovýho
+počítače. Měli svoje
+jako relativně svázený, ale pro
+průmyslovou autenticaci užitečný
+systémy programovací, řekněme,
+operační. Teď je
+čím dál tím víc jich je Linuxových, takže
+se tam dělají kombinace toho, co
+uměli ty klasický systémy
+s tím, že tam normálně běží do kroví
+konenty na Linuxu a běží tam
+prostě kdo cokoliv téměř.
+A
+jsou řádově pod deset tisíc ty krabičky
+korun, takže taky to není nějaká extra velká látce,
+ale je to nějaký mozek toho
+tý domácnosti energetickýho.
+No a teď, když se bavíme o
+edge computingu zpátky,
+tak ty chceš, aby tyhle věci přeprováděly
+autonomně a ne nějak úplně
+nadálku řízeným cloudem, že jo?
+Ty chceš být nezávislý na nějakém internetu,
+aby ti doma byla teplá voda.
+Aby doma ti jako se
+řídilo jako ta, by ti jde
+o efektivitu, ale může jít i
+o řízení dalších věcí pak či dátí. Takže ty chceš,
+aby takováhle věc fungovala lokálně.
+A to není, je to jako trošku
+smarthome koncept, ale ne takovej ten fancy
+smarthome, jak jako ti rozsvětuje světla,
+když na to pomyslíš a tak, ale
+a taky to nestojí dvěstě tisíc, ale mám
+deset, že jo?
+Ale je to jako
+smarthome z hlediska řízení ty domácí energetiky,
+prostě chceš, aby fungoval nezávisle na internetu.
+Na druhou stranu, potřebuješ
+z toho internetu informace,
+za prvé to chceš nějak snadno rekonfigurovat,
+a jak jako? No tak
+v mobilní aplikace se řekne,
+že je to dost nepohodlý ve skutečnosti, jo?
+Chodit k tomu v Bluetooth něco, něco,
+nebo tak lokální Wi-Fi, nevím.
+A většinou se to pak
+řeší tím, že to je jakože kombinací tohohle
+toho lokálního enžinu,
+který spolupracuje s
+cloudovýma vrstvama, minimálně od nich bere data,
+konfiguruje se přes cloudový vrstvy,
+jo? A zároveň do toho cloudu samozřejmě
+taky bonzuje, co se tam děje, a ty si pak můžeš
+na internetový
+aplikaci prohlížet, jako a nastavovat
+a tak, a takže se to tváří jako
+vlastně trochu IoT systém,
+ale zároveň musí být plně autonomní, jo?
+A my něco podobného
+děláme s tím, s tou tzv. BMSkou,
+tý naší baterce, kterou tak pomáháme
+vyvíjet, jo? Tak tam je
+zase ta baterka, má ti svoje pravidla chování
+a něco, něco, něco, ale
+pracuješ s tím přes internet
+tý naší platformě, jo? A mezi tím
+prostě teče určitá sada dat relevantní
+do tu baterku, jinde by tekla sada
+dat relevantní pro
+tu energetickou stav
+tý domácnosti. Jo, jo, jo. No a
+když si pak vezmeš jako nějakej
+skladový areál s velkou elektrárnou
+a dvěma kontejnerovými baterkama, tak je to
+a chladírnou, který říká chlaď
+víc a chlaď míň, myslím jako závodem třeba
+chladit si, jo? Aha, aha.
+Chlaď, když je služíčko, nebo chlaď, když je nízké
+a spotová cena, nebo tak, jo?
+Tak jako je to vlastně nemlých to samý,
+akorát jde o výrazně větší prachy, který
+si tím bude ušetřit. No, jasně, jasně.
+Tak tady to už je nahrávka na tvoji
+oblíbenou, na tvoje oblíbený téma.
+Jinak, když řekneš edge computing
+v našem kontextu, tak já si představím tyhle
+řešení, jo? Jo, jo, jo. A
+nepředstavuji to ani technologicky,
+ale užitně, jo? Jo, rozumím, rozumím.
+Potřebuješ něco sofistikovanějšího řídit lokálně
+a ta věc, zároveň potřebuješ
+jako dobrý cloudový kontakty, potřebuješ
+brát data o počasí nebo něčeho. Jo, to
+propojení dává velkej smysl, no. No a
+když nad tím také přemýšlím, jako to už
+přijde mi to jako taková vyšší dívčí, hezky to
+propojit a zamyslet se nad tím a zároveň
+samozřejmě pořád algoritmizovatelná.
+A když už se budeme
+bavit o tom, jak to ještě jako ještě posunout
+někam dál, řešíte třeba nějaký jako
+AI přístupy v těch
+vašich produktech, v té vaší platformě
+a teď nemyslím samozřejmě to, co
+teďka je zprofanovaný nejvíc, Large Language Modeling,
+ale spíš takovou tu klasickou
+AI, že prostě naučíte nějakou neuronku
+něco. Jo. Jo, ale je to něco,
+kudy vedete úvahy nebo vůbec?
+Já k tomu takovou
+oblíbenou tu, že, historku,
+že já jsem ve skutečnosti
+v roce 94
+jsem
+měl státnice s umělý inteligencem
+na matematicko-fyzikální fakultě.
+Takže, když se ptáte, se správně.
+Ano, samozřejmě, samozřejmě.
+Proto my to víme. Proto si tady máme.
+Ale jinak
+asi víc z toho nedokážu dobrýho říct.
+Ne, tak jako
+chtěl jsem říct, že ten termín
+AI je jako hodně širokej. Jo, jo.
+A skrývají se pod něj různý věci a vůbec
+nechci jako hlásit k tým
+popularizačním věcem v tuhle chvíli nijak.
+Fakt je, že my to teda
+neděláme v tuhle chvíli, my
+ale jsme jako otevřený, máme
+věci v některých projektech, přes nějaké
+interfejsy. Ta naše
+web serverová platforma je hlavně na processing dat.
+Jinak ta naše uživatelská aplikace
+je relativně jednoduchá, jenom na výzávohlední
+prodížení a nastavování. A
+pracujeme s partnerama, kterým
+šifrujem, šíbujem
+ty data přes nějaké jako už IT interfejsy,
+realtime nebo dávkové, jak se s nimi
+to je už jako představitelná věc, že
+najednou máte. A ty už nad tím pak teprve si
+děláš chytristiku. Ale není to zase
+jako v tuhle chvíli to není jak moc
+rozjetý, ale myslím si,
+že je to princip dobrý.
+A je to dobrý princip třeba pro
+tyhle ty energetické řízení, zejména pro
+domácnosti a pro jednotlivý lidi. Já jsem tady
+na začátku zmiňoval, že lidi, jedna z našich
+zkušeností je, že lidi nemají úplně rádi systémy,
+o kterých se musí starat, furt něco dohledovat
+a podobně. Tak myslím si,
+že tyhle ty v uvozovkách AI metody,
+který, nemusí být žádný neuronový
+zítěz, který
+jsou cesta k tomu, jak jako
+ty věci, které
+víme, že jsou užitečný,
+zautomatizovat pro ty lidi.
+Ty lidi chtěj, ty lidi si nechtěj koupit jako
+domácnostní systém řízení, domácnostní energetiky,
+aby tam museli každý den
+šoupat šoupátkama, že dneska to chci takhle
+a zítra to chci takhle. Oni jako
+chtěj ty šoupátka, jedu na dovolenou,
+ale pak brzy zjistí, že šoupátka, jedu na dovolenou,
+dnes nebudu celý den doma a tak maximum.
+Ale jinak chtěj, aby to fungovalo co nejlíp
+jako automaticky.
+A ta automatika
+zase znamená jako samozřejmě
+mít předpovědi počasí, mít předpovědi toho trhu,
+třeba té energetiky,
+ale taky mít nějakou rozumnou
+předpověď nebo přehled o tom, jak
+ta domácnost energeticky funguje.
+Pozbírat data a jako i naučit se z nich nějaký
+profily a podle toho
+pracovat. A to je, řekněme,
+prvé k umělý inteligence v systémech, o kterých
+se tady bavíme, který je určitě užitečný,
+který zbaví lidi,
+zautomatizuje prostě provoz systému,
+který se principiálně založí na monitoringu
+a řízení relativně granulárně.
+Naučí se nějakým způsobem profily,
+chování a aplikuje.
+To je přesně ono, kam jsem mířil.
+Já mám třeba doma systém vytápění,
+kterýmu říkám v 6
+přitop.
+On v 6 začne přitápět.
+Ty mu to jako říkáš, že to není,
+že mu říkáš, že ho tak nazýváš v 6
+přitop. Já jsem přemýšlel, co to je za sofistikovaný
+klik.
+To je pokyn.
+Aby přitopil a on vlastně nepřitopil.
+On by měl přitápět v 5, nebo co, já nevím v kolik.
+To si má právě naučit on.
+Ty mu chceš říct, v kolik má být v 6.
+No přesně, přesně.
+Takže deklarativně zase. Ano, ano, ano.
+Takže jako tam jsem mířil
+a samozřejmě s tím počasem to má velký lift,
+protože i to může ovlivnit to,
+kdy bude přitápět. Já jsem dneska
+dělal celý ráno kotel, takže ani nevíš,
+no já ti pak řeknu, to je takhle.
+No nicméně, přátelé, já teda koukám
+na hodiny, my bysme tady s Honzou mohli sedět
+dalších x desítek minut, možná hodin,
+protože samozřejmě ten set těch
+otázek, kterých máme, je dlouhej a
+Honza kam se ho zeptá, že tam je schopnej
+nás zavíst ještě daleko hloubš. Nicméně
+ještě jedna věc, která mě zajímá.
+Když tě tak poslouchám, k vám
+poslat CVčko, to bych měl
+stažený půlky. Co vlastně
+u vás ten člověk všechno musí
+umět, aby vůbec měl
+tu drzos poslat CVčko?
+Takhle to ve skutečnosti vůbec nefunguje.
+Jsou doby, kdy scháníme lidi hrozně těžko.
+A my teda scháníme
+lidi, kteří mají nějakou core profesi
+a těch core profesí máme poměrně
+hodně, prostě něco je elektronik,
+něco je programátor
+nějakých hračičkových systémů, řekněme
+malých procesorů, něco je
+pak jsou standardnější věci,
+ale třeba se používáme určitý jazyky
+a tak, určitý prostředí, takže
+ve skutečnosti jádro naší poptávky vždycky
+jako je, hledáme někoho, kdo
+umí tohle, tohle. Takže jenom po tom jednom stacku,
+žádný full stack,
+unicorn, nic takového? Ne moc, rozhodně ne.
+Ne, že bychom chtěli celý stack, ale co
+říkáme, jako když se snažíme
+ty lidi navnadit a profilovat,
+tak jako říkáme,
+myslím, že náš standardní zán má
+své věci, jako typu, máš
+doma kurník, kde se dvířka
+otevírají
+prostě pře LTE
+řízeným jako
+cenzorem,
+sleduješ videokamerou
+jako videokamerou růst
+rostlin na balkóně, pak si možná
+člověk pro nás. Takže
+jinými slovy, jako je v tom kus
+určitě jednou z atributů,
+a to vítáme i u lidí, co jenom vyložuje
+programovou aplikaci nebo něco,
+je nějaký takovýhle hračičkovství,
+jako hrať, a spousta
+našich kluků má jako domácnostní projekty
+po straně jako různý, který si
+budují nějaký malý mešový
+sítě nezávislý na mobilních
+operátorech a jsou letecký modelátoři
+a radiomatéři a takovýhle věci.
+A taky jsou horolesci třeba.
+Takže tam musí být ta láska prostě.
+Takže je tam, jako je tam,
+dobrým prvkem
+je prostě nějaká
+láska.
+Nějaká náklonnost
+k těmhletěm elektronickým
+hračičkám. – Jsi se tomu tak zasmál, tomu slovu láska?
+– No, tady je to
+napsaný láska. – No, taky víš, tak.
+IoT a láska musí zvítězit.
+– Ale
+druhá věc je teda, že uvidíme
+vždycky nějaké přesahy, no, jako ve smyslu,
+že
+když někdo programuje
+sice ty interfejsy grafový, jako,
+tak je hrozně dobrý, když
+má představu nějakou základní o tom, jaké
+omezení vznikají už na tý hardwareovým stvě,
+co jde a nejde poslat a proč mu to
+musí vypořádávat, nebo no, spíš
+jako třeba jak jsou srovnalý časový řady a
+něco přijde se spožděním a pak se zasekne
+komunikace a přichylí to
+hromadu dát najednou a jo, takže
+a s těmihle věcmi se musí vyrovnávat člověk
+až pod to, co
+kreslí ty grafy a musí tam nějak označovat
+mezery jako čárou dlouhou nebo
+univýmyšlenou nebo tečkama a něco,
+tak jako se skrz ten stack si
+vysvětlujeme jako, co je příčinou, jo.
+Takže je tam určitá jako,
+určitě to jako je hodně komplexní,
+víceurovňová firma,
+tak je tam výhodný
+lidi, který jako, který jako
+do toho mají zájem o víc
+vrstev, není to čistě mechanická
+práce jednoho typu, takže jsme malá
+firma, takže člověk jako přičuchne ke všemu trochu,
+nebo ke všemu blízko,
+no a už jsem zmínil
+prostě to elektronický řečičko s tým,
+máme rádi. – Jasný.
+No a kde vidíš obecně Energostack zapárat,
+kam teďka směřujete, co je teďka
+víc jako hot věc do budoucna, kam
+ty teďka poběžíš a vrneš se do toho?
+– Tak teďka, teďka
+úplně nejvíc žijeme právě tím
+projektem
+vývoje BMS-ky baterie,
+IoT-napojený BMS-ky baterie,
+a
+hodně zvažujeme, nebo
+směřujeme postupně
+právě k tímto energetickému řízení
+nějakých energetických subsystémů,
+to je hodně nová oblast,
+už tím samozřejmě několik jako i startupů
+a tak, a několik docela zajímavých řešení existuje,
+ale ta oblast je jako velká, široká,
+a
+myslím si, že nás ještě dlouho
+čeká čas, že tam, kam nás zavane
+jako dobrá příležitost, tam nás zavane
+a jsme schopni jako dělat
+cokoliv a vyvinout se k kterýmkoliv směrem,
+takže netroufám si úplně říct,
+kam se
+pohneme technologicky,
+no rád bych, abychom
+vyrostli konečně jednou a vydělali
+a měli ty důchody a placenty,
+když stát to nedělá,
+tak aspoň my, abychom se vydělali, no.
+No hezky, hezky, no tak firma, víme, kam se posuneš,
+kam se posuneš, Honzo,
+teď můžeme tě někde teďka v blízké
+budoucnosti slyšet, vidět na nějaký
+akci, kde něco budeš povídat? No my jsme si dali
+závazek, že se budeme snažit, jako, protože
+jsme v tom hrozně málo aktivní, v takovémhle praktickém
+marketingu, jako,
+ale ještě jsi výborný anilante.
+OK, OK. No a co se týče
+tvýho skokanství, tak teď mi přijde, že docela
+jako nemáš, jako, že by ti nesvrběly nohy,
+že bys chtěl skákat někam jinam zase. Ne, teď ještě,
+ještě furt jsem do toho, ne, jsem,
+jsem to ani nepochopil celý. Ještě to není nuda prostě.
+Na tož, na tož, aby mě to tolik štvalo,
+no. OK, super, tak
+my ti přejeme, ať se samozřejmě primárně
+tobě daří, ať jsi spokojený,
+ať se daří energosteku,
+no a doufám, že třeba za
+pár let si tady jako
+popovídáme s čerstým důchodcem,
+který ve svém mladém věku už
+nepotřebuje vůbec jako nic dělat. Jo, takhle to myslíš,
+to je hodně pozitivní pohled.
+Já jsem chtěl říct, že to bude
+nejdřív za patnáct let, ale. Jo, jo, jo.
+Ale mladým, co už mám
+vyděláno. Mladým perspektivní důchodči, no.
+Ale tak.
+Budem ti držet palce, Honzo. Děkuji. Budem ti držet palce, ať se daří
+energosteku tobě, a
+budeme tě sledovat. Moc díky.
+Ahoj. Čau.
+Tak to byl energostek, a
+Honza Jiroušek, takové ten
+naše tradiční, tyjo, to bylo zase úplně
+jiný, ale tady, tady vlastně bylo,
+jako vždycky, samozřejmě jako vždycky,
+to je jiný, ale tím, že se IoT
+nevinujeme nějak zásadně, protože
+tomu ani jeden úplně moc
+nerozumíme, tak tohle bylo zase
+úplně jiný pohled, jiný použití,
+a hrozně jim fandím, protože
+ty chytrý domácnosti, jak jsem říkal, já jsem se dneska
+ráno ty mordoval prostě
+s kotlem, protože mám venkovní čídlo na
+ráku, na kotli mám nastavenou
+topnou křivku, a kolik chci mít
+teplotu. A ty vlastně musíš
+ladit několik věcí, jako musíš ladit
+vlastně tu křivku, a musíš ladit, kolik
+chceš na tom, a teď mám,
+teď mám ještě chytrý teploměr,
+takže teď přemýšlím, jak to dát jako
+celý dohromady, no ve finále to skončí,
+že si z toho teploměru
+vyexportuju všechny ty teploty,
+dám mu, kolik mám křivku, tak pošlu
+mu ten graf a nechám si prostě čit GPT,
+ať mi poradí, jako mám správně nastavit, jako to je
+asi jediná cesta. – A to, tak to jsi
+vlastně narazil na to, co říkal Honza
+na konci, jo, to je přesně to, kam ten business
+půjde, a ty to nechceš řešit, ty chceš, aby jsi
+to vyřešil. – No jasně, já potřebuji, aby mi žena
+nepsala, že jí je zima, že jo, to je
+jako, to je můj, jako end state.
+– To je docela dobrý claim, ty jo. Tak přátelé,
+doufám, že vás to bavilo, protože mě to bavilo, až jsem se
+toho docela jako ponořil v určitých chvílích,
+tak doufám, že to, že to bylo
+pořád srozumitelný. To IoT
+já mám pořád tak jako u srdíčka, jak jsme dělali
+ten jeden zase úspěšný startup,
+a, a tenkrát to
+bylo fakt jako oživů, jako takový jako
+pro mě přínosný v tom, že to bylo úplně něco jinýho,
+co než jsem do té doby dělal,
+a asi bylo to jenom to blaze dáno. Takže
+doufám, že vás to bavilo tak, jako mě. – A já
+doufám, že vás to bavilo tak, jako to třeba bavilo holky
+z Vivia, který podle mě si museli šušňat,
+protože jestli
+něco naprosto nesouvisí s pay per click
+kampaněma, tak je to IoT,
+a i tak si to ty holky užili, což
+jsme rádi, díky moc za support,
+posíláme kudosky do
+vivio.cz, no a
+co mi dál, my to vlastně budeme končit
+úplně něčím jiným opět, protože
+my samozřejmě máme každý díl úplně jiný,
+ale bude to úplně z jinýho světa, já jsem
+sliboval, že v této sérii konečně
+po letech doslova,
+tady budeme mít zástupky
+jiného pohlaví v IT,
+těším se na to, myslím si, že
+ona je ještě teďka stále někde ve Vietnamu,
+takže je dost možný, že
+to celé budeme posouvat, nevím,
+ale držte nám palce, ať za 14 dní
+vyjde poslední díl desáté série,
+a my pomalu a jistě pak už poběžíme
+na Vánoce a uvidíme, jestli to vykopneme
+po novým roce a co a jak, protože
+předpokládám, že asi do Vánocu šest jineme,
+šest dílů, co jo? – Šest, nejen otázka,
+jestli nerozjedeme, no to se pobavíme se.
+– Jestli si to nerozdojíme. – Jestli si to nerozdojíme,
+a pak máme možná nějaký
+drobný ještě plán jiný, ale to ještě
+posluchačům řekneme. – Tak to
+i sám jsem překvapený, jaký mám jiný plán.
+No tak jo, tak přátelé, mějte se krásně,
+užívejte si
+konec nebo půlku listopadu vlastně,
+nebo teprve začátek vlastně, že mám
+v hlavě body, ale to… – Tak jsme v půlce
+listopadu v podstatě, teďka když se to pouští, no
+a přátelé, hlavně se nezblázněte z té předvánoční
+skepse, že musíte
+schránět dárky, dám vám
+super radu prostě… – Nic nekupujte.
+– …dopředu, anebo to nekupujte, jo. My jsme
+začali dopředu vždycky, letos to teda bylo
+složitější s novorozenětem, jestli
+je to správně listopadem říkám, ale dává
+to smysl, takže užívejte si to, užívejte
+si to, to dlouhodobí. – Tak to byla
+myšlenka dne Petra Poláka.
+– To bylo rozplyzlý. – To bylo z pondělí občas, ale
+tak… – A co, tak jsme prostě
+autentický. – Jsme to my, jsme to my.
+– Tak nás máte rádi, možná.
+– Možná, tak jo. – Tak čau. – Čau.

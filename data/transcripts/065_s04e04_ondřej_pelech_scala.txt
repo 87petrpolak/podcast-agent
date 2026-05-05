@@ -1,0 +1,2295 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Vážené dámy, vážení pánové, je tu další díl našeho podcastu Pod vocasem
+a naproti mě už sedí vysmátý Roman Joker provazník. Ahoj.
+Ahoj a naproti mě kdo jiný než Petr Polipolák.
+Ahoj a dobrý den, dobré ráno přátelé.
+Tak jaká?
+Super, super, já jsem nadšenej dneska, ty se smějš, protože hned jsem přišel
+hned jsem přišel v náladě, protože my máme tady u kanclu takový pěkný parkování,
+kde jsou to takový ty plošiny.
+Parklifty se tomu říká.
+Parklifty, výborně. Jsou dvě pod sebou a kolega, který přijel ze Slovenska,
+se kterým dneska jdu na jednu takovou konferenci, tak zaparkoval obráceně.
+Takže já jako ještě rozespalej, že jo, to tahám nahoru, ten lift, že jo.
+A nejenom cítím, jak se mu tam nahoře, jak se to jmenuje,
+už se mu tam tlačí ta střecha na tu střechu té garáže, že jo.
+Už se to tam začal lysovat trošku, tak zastavím, říkám, a sakra, no.
+Takže zastavil jsem ve chvíli, kdy tam byl jako propad,
+abych já mohl zaparkovat do toho spodního, tak tam byl propad třeba deset čísek.
+Aha, to dám.
+Tak jsem tam sjel a najednou tch, rána, že jo.
+Tak jsem přišel na nějaký kus plastu, tam kouká z toho mýho auta,
+říkám, tyva, tak super, super, takže tím zdravím Matěje Fázíka,
+jako jsem rád, že jsi přijel a prosím tě, připarkuj to obráceně.
+Prostě ten gol je v tom, že tam máš couvat, nemáš tam nic popředu tady v těch liftech.
+Tak snad se to Matěj naučí.
+Já růfám.
+On se trošku rozvášnil, se omlouvám.
+Trošku, ne, v pohodě, trošku blbý je, že nemáš, jak Matějovi dát bídu,
+protože kdo zná Matěje, tak ten má asi čtyři metry a dvěstě padesát kilo svalů,
+ale fakt svalů ten nemá ani tuk navíc, jo, takže tomu maximálně ze spore
+uděláš takový to štědekovský koťátko nahoru a řekneš prostě,
+hele, tak už neparkuji.
+Hele, já jsem přesně takhle probíhal a tam moje geneze kolem toho,
+já jsem napsal prostě fakt rozlobenou zprávu do prčiců si to,
+pak jsem to přepsal a říkám, Matěj, prosím tě, ještě před tou konferencí to přeparkuji,
+protože takhle ti to někdo opravdu zničí to auto.
+No je prostě důležitý vždycky tu zprávu upravit podle toho, komu poletí, takže.
+Ano, ano, rozmyslel jsem se.
+Ale dost o mě, co ty, Dománku, jak se máš?
+Já dobrý, já jsem měl včera trošku takový výčetky, poslouchal jsem náš poslední díl
+a musím vysmrknout omluvu našemu hostovi, protože my jsme to podělali oba.
+On je to rychtecký, ne rychecký a my jsme řekli dvakrát rychecký.
+A já jsem si říkal, buďme chlapi, buďme se k tomu postavit čelem,
+uznejme, že jsme se dvakrát přeřekli.
+Ono to tam úplně není slyšet, ale já jsem se na to zaměřil
+a nemohl jsem to z toho ucha dostat.
+Takže jsem si řekl, omlouvám se, Luky, sorry, příští oběd je na mě.
+Byla to chyba, špatně jsme to vyslovili.
+Samozřejmě to je rychtecký, ne rychecký.
+Takže včera jsem si ještě drbal hlavu, říkal, ty to já už jako nesedituju.
+Navíc, když už to bylo prostě v Eteru, nebo na Spotify.
+Jo, jo, jo, ty jsi kouzelník, ale tohle nebude.
+Ne, ne, ne, tohle už fakt nedám pryč.
+Takže jsem si řekl, musíme se k tomu postavit čelem a musíme se omluvit.
+Ok, ok, tak tím se ti omluváme, Lukáši, a omluvím se ti i napřímo,
+až dorazím na to laté s tou labutí, nebo se čím se říká, že nás tam čeká.
+No a teďka jdeme na našeho dnešního hosta, kterým je Ondra Pelech,
+což je velký skalista, což neznamená, že jezdí ve Škode Skala,
+to je po Praze a machruje, krásný auto má,
+ale je to člověk, který se jmenuje funkcionálnímu programování a jazyku Skala,
+takže nám něco řekne trošičku o tomhle jazyku, protože, jak jsme řekli minule,
+na závěr, máme trošku dluh, co se týče tohle jazyka.
+Ano, a doháníme to, jak můžeme, takže já se dneska ohromně těším,
+protože Skala je zajímavá i pro data, takže jsem zvědavej, co se dozvíme.
+Tak si najdeš to svoje. Tak jdeme pro něj.
+Do čtvrtého dílu čtvrté série podcastů Podvoca jsem dorazil Ondra Pelech.
+Ahoj Ondro. Ahoj, ahoj kluci. Ahoj Ondro, ahoj.
+A my jsme hned na začátek o tobě prozradili, že ty jsi velký skalista,
+a že to nemá nic společného se škodou Skala, že jsi skalista v tom smyslu,
+co se týče funkcionálního jazyka. Než se dostaneme ke Skale jako takový,
+řekni nám na začátek něco o sobě. Co děláš, jak dlouho se věnuješ vývoji,
+jestli se vůbec věnuješ ještě vývoji, protože to je tady typický,
+někoho pozveš na vývoj a on řekne, že už to nedělám, kluci.
+Takže, co dělá Ondra?
+Věnuju, stále se věnuju vývoji. Jsem programátor pořád a co bych vám o tom řekl,
+no baví mě funkcionální programování, proto tady asi taky dneska jsem.
+A konkrétně to dělám ve Skale. Už skoro dělám ve Skale nějaký, co to je,
+přestěry, roky. Takže vlastně relativně krátce jsou lidi, co skoro udělají
+mnohem, mnohem díl. Já jsem do toho naskočil relativně nedávno
+a předtím jsem dělal F-shard, takže já jsem se jako věnoval
+funkcionálním programováním ještě jako díl než Skale.
+Tak potom si o tom taky třeba můžeme popovírat.
+No výborně. A co děláš teďka? Kde programuješ?
+Tak, programuju v Chili Piper, což je americký startup.
+Tam jsem, ale teďkom taky čerstvě, tam jsem nastoupil teprve od září.
+Chili Piper je startup z Ameriky, založilo teda dva evropaní,
+ale oni žijou v New Yorku, jsou tu manželé.
+A založili startup, který vyrábí nástroje,
+pro obchodníky, abychom už zjednodušovali jejich práci.
+A pro mě se to jako neúplně jednoduše vysvětluje,
+protože jsem tam krátce a hlavně jak já nejsem jako obchodňák, jo.
+Tak jako já jsem programátor, takže tomu biznesu ještě pořád úplně nerozumím.
+Ale já to chápu tak, že když je nějaká trošku alespoň větší firma,
+ta má tým obchodníků a ty furt potřebujou komunikovat se svýma zákazníkama,
+řešit si, kdo s kým jakým, jaký zkousky si udělá a tak dále.
+Tak dobře, když jsou to jeden, dva lidi, můžou to nějak třeba udělat přes spreadsheet,
+třeba přes sekce a něco takového, ale kdyby to byl větší tým,
+tak k tomu by měli muggle eyes, no a potom nastoupí ty nástroje,
+to je několik produktů od Chili Piper, od naší firmy a to jim to zjednoduší.
+Pomůžou jim rozdělovat ty příchozí požadavky na kontakt
+od potenciálních zákazníků, plánovat si ty zkousky s nimi a říct jich životní cyklus, no a tak dále.
+Ale úplně to chápu, protože ve startupu jsme použili něco, čemu jsme říkali HubSpot,
+a byli jsme tři, tři jsme prodávali a už tomu byl hrozný bordel,
+protože prostě, aby to s tím zákazníkem odsejpalo, tak to opravdu jako ušetří práci
+a je jako sefektivní ten lifecycle kolem toho salesu úplně neuvařitelně,
+takže pokud je to tam, tak to je ono.
+Jestli jsem to správně pochopil, tak HubSpot a Salesforce jsou nějaký věci,
+do kterých se Chili Piper a jejich produkty tak jako nějak zaintegrujou, nasajou
+a potom jakoby přidávají přidanou funkcionalitu a HubSpot je něco podobně jako Salesforce,
+jestli jsem to správně pochopil.
+Jako takhle já tomu rozumím taky, že na té mojí úrovni rozlišení to tak je.
+Ale není to úplně přímá konkurence, je to spíš něco, nad čem to stavíte dál, chápu to?
+Přesně tak, je to něco navíc. Konkurence Chili Piper by bylo spíš něco jako Calendly.
+Mhm, OK.
+OK, OK, OK.
+Kolik vás je?
+Hele, teď nějakých cirka dvěstě.
+Dvěstě, a to je všechno v Praze?
+Aha, to je docela zajímavý. Chili Piper je distribuovaná firma, plně distribuovaná, všechno je na dálku.
+Takže já jsem tady v Praze, pak je tady se mnou v Praze ještě jeden kolega a pak je zbytek lidí po celém světě.
+Je to trošku rozdělený, takže management, obchodňáci, tohle toto je ve Spojených státech, v tom jsou i ty zakladatelé.
+No a potom engineering, to je po celém světě, v Evropě, jak v západní, tak ve východní, dokonce i v Jižní Americe.
+Mhm.
+Takže rozumím tomu správně, že kancly nemáte vůbec žádný, nebo máte nějaký body, na kterých se třeba jednou za čtvrt roku někde sletíte a vidíte se?
+Nebo nějaký coworking, nebo něco?
+Asi kdo jak si to zařídí, já myslím, že v Americe nějaký kancly má nějaký takový, tak nechci si vymýšlet, ale jako tady po Evropě žádný oficiální kancly nejsou.
+Já třeba dělám z domova, já jsem si myslel, že mě to vyhovuje, už takhle dělám od covidu.
+A není to tak, že jste se scházeli třeba každý čtvrt rok, ale co každý rok, nějaká firmní slezina, teďko třeba pojedeme do Maroka, tak se na to těším.
+Ani ne, skoro za týden, na začátku listopadu.
+Tady jsem se chtěl zeptat, jestli jsi se vůbec se svýma kolegama někdy viděl, takže to se stýkáte minimálně jednou za rok?
+Minimálně jednou za rok, pro mě to bude poprvé, ale to mě právě na té firmě zaujalo, protože to je docela cool, že i když je to distribuována firma, tak je záležité na té kultuře, aby se ty lidi mohli potkávat.
+Takže je to tak, že když si koupíš letenku nebo jízdenku na vlak někam za svým kolegou do jeho města, třeba do Kraková, do Varšavy, nevím, do Berlína nebo někde všude se koupíš, tak to si koupíš teda z vlastní kapsy dobře.
+Ale pak oni ti tam zaplatí ubytování, stravný, pivný.
+Takže na tohle jsou jako zařízený.
+Kde máš nejdál kolegu, kdyby jsi chtěl někam podívat, aby to stálo za to?
+Já myslím, že je v Jižní Amerika a Spojené státy.
+Takže v tu chvíli prostě platíš letenku tam a zpátky zbytek gratis.
+Nemáš někoho nabalit třeba? To by bylo dobrý.
+No, to by bylo dobrý jako přemluvit vlastně, to bych mohl zkusit.
+Chtěl jsem říct Sri Lanku, ale ty jsou tam teďka úplně tak v řití, tam je to peklo, to je konec.
+Tam to je před restartem v kompletu.
+To vypadá tak.
+Takže tam nikoho nemáte takhle výrazně na východ.
+Myslím, že v Ázii, v Ázii ne, teď se nechci vymýšlet.
+Ale jo, je to hele Evropa, engineering, taky Jižní Amerika, no a Amerika, tam hlavně ty obchodějáci, menažeři a tak.
+No, já se pamatuju, že ty předtím dělal v Avastu.
+Je to tak.
+A tam jsi byl docela dlouho, ne?
+Nevím, jestli třeba půl roku je dlouho.
+Pro nikoho, jo.
+V IT to už jsou možná dva cykly.
+No, bacha, bacha na to, protože jako v Avastu, tam jste se potkali s lidmi, který jsou tam třeba přes deset let.
+To je zakladatelo, ne?
+Ne, ne, ne, ne.
+Dobrý den, pane Vlček.
+Ten jako Avast, Avast je vlastně možná jako celá starý, možná ještě starší.
+To je co, konec osmdesátých let?
+Já se myslím, jak je taková ta stránka o těch unikornech.
+No, no, no.
+Jak rychle se stala nějaká firma Unicor a tam byla třeba G.com, který byly za rok.
+Byli na miliardový evaluaci dolarek.
+Tak úplně nejpomalejší unicorn ever byl Avast.
+Protože právě ho vzali od těch úplných začátků, těch devadesátkách nebo kdy.
+Do té doby, než měli tu evaluaci.
+Takže ta jich čára je strašně dlouhá v porovnání s tím, jak vyhají povary.
+To je vůbec jako zajímavý příběh.
+Jak bylo v tom, v Avastu?
+Hele, jako já jsem tam byl třeba půl roku.
+Já jsem nastoupal začátek 2019 a pak nastoupil covid.
+Takže jako já jsem tam byl něco přes rok.
+Pak byl covid a to už jsem byl jenom doma.
+Takže jsem třeba nestěhnul jako nasát.
+Ale já mám pocit, že jsem ještě z těch chytnul.
+Takový ten poslední záchvěk toho původního Avastu.
+Protože to asi víte, protože to není žádný tajemství.
+Avast vlastně...
+Koupil AVG, ne?
+Nebo nějak se spojili nějakým způsobem.
+A narovinu prostě je to Avast, kdo koupil to AVG.
+Ale ono se tomu říkalo, že to byla taková spojení si a fůze.
+Ale je tam jasný, kdo koupoval koho.
+Něco podobného stalo v Avastu, že jo?
+Stalo se to, že Avast byl koupenej Nortonem.
+Říkám to správně. Norton, Norton.
+To jsem vůbec nevěděl.
+To jsem vůbec nevěděl.
+To jsem vůbec nevěděl.
+Fakt?
+Je to... Já nechci říkat, že to je nějaký konec toho příběhu,
+ale nějaká důležitá fáze toho Avastu,
+jako toho vlastně nakonec celosvětového českého úspěchu
+v informačních technologiích,
+tak jako minimálně část toho příběhu končí a začíná nová kapitola.
+Už to není jenom jako česká firma,
+která prostě takhle prolítla do světa.
+Teď to koupil Norton.
+Tak se to takhle bude fůzovat, ale teď já už to nejsem.
+A proč ty jsi odešel vlastně?
+Bylo to jako v souvislosti s covidem,
+nebo změna kultury, nebo čili Piper ti tak dostal tím,
+co nabízel, že si prostě změnil dres?
+Hele, nakonec tyhle ty věci,
+nikdy nemá jednu jedinou příčinu,
+ale jo, je to kombinace všech těch věcí, co jsi zmínil.
+Čili Piper byla jako fakt úžasná příležitost
+být jako v mladý, relativně rostoucí, dynamický firmě,
+že spousta příležitostí je hodně zajímavý,
+věci, skvělý lidi a tak dále.
+V Avastu právě jak se blížila ta fůze,
+tak jsem si říkal, hele, třeba to někde bude ještě lepší.
+Jo, jo, ok. Zajímavý.
+No a ještě teda trošičku se zastavím v tom Avastu.
+Co se týče toho texteku, byl stejný jako je v Čili Piperu,
+nebo musel jsi třeba měnit nějaké svoje návyky, měnit, nevím, textek?
+Hele, Avast jako není tak malinká firma,
+aby tam byl jenom jeden tým, jeden textek a tak dále,
+ale to, co jsem dělal v Avastu,
+tak tam jsem dělal moje skalu, funkcionální skalu.
+Vlastně stejný textek, jako dělám teďko.
+V tomhle to bylo stejný.
+Ale jako jinak, jako spoustu jiných týmů,
+tam dělá úplně jiný technologie a tak dále.
+A ještě se zeptám, když jsi měřil, nebo respektive,
+když jsi byděl v Avastu, předpokládám,
+že občas si do toho ofisu zavítal.
+Jaká je ta změna tohodle, jakože v podstatě denu, denně doma?
+Ten přechod na ten remote.
+Hele, já jsem se to vlastně dřív hrozně bál.
+Nebo bál, tak vlastně, nebo dřív jsem si,
+ještě předtím, než byl covid, tak jsem si říkal,
+hele, to by nebylo pro mě, já jsem rád, že můžu tady
+prostě vždycky každý den zejít do kanclu,
+uvidět se s těmi lidmi a tak dále.
+Ale pak jako nastal covid a to nebylo jako,
+kdo chce, co chce, prostě to bylo nařízené.
+Prostě kanceláře se zavřely a všichni byli na dálku,
+jako by povinně vlastně.
+A tak jsem jako najednou zjistil,
+že mě to vlastně vyhovuje, že to jako,
+jako i na týd, a já jsem nebyl nějak jako super daleko
+od toho pankráce, kde Avast sídlí.
+Ale i tak prostě, že už, kolik už šetřím na dopravě
+a že si potom jako ten den můžu spořádat jako úplně jinak,
+jak mi jako vyhovuje.
+Takže jako by to jsem zjistil, že vlastně je pro mě dobrý.
+No a potom, když jsem jako si říkal,
+jestli neskusit jako třeba, jak to vypadá jinde,
+jinou práci, tak jako jsem zjistil,
+že se mi tím otevřela tak obrovská,
+jako by příležitostí, takový o velký okno,
+že to bylo jako dobrý, no.
+Mě jako, hele, možná to není pro každýho,
+ale já jsem zjistil, že pro mě to je fajn.
+Super, super.
+A funguje Chili Piper tím klasickým způsobem,
+že teď jsme tady měli svobodnou firmu, minulej díl,
+že máš nějakého nadřízenýho,
+ten předpokládám si s tebou jenom volá,
+jinak to nejde.
+A jak tohle funguje, ten kontakt s tím nadřízeným?
+Je to za tebe, z tvýho pohledu je to úplně v pohodě?
+Jo, jo, tam jako, jasně, když se chodí do kanclu,
+tak stejně prostě spoustu věcí se řeší přes třeba něco jako Slack,
+stejně děláš pull requesty a musíš ty věci řešit tam
+a pak prostě potkáte se a když třeba zrovna někdo je doma,
+tak taky na tom mítinku potká se pět lidí v kanceláři
+a dva jsou ještě třeba na dálku, nevím, jestli to takhle máte,
+tak tady prostě to je bez kanceláře a prostě všichni jsou na dálku.
+Jednou za den se potkáme, že takový jako stand-up.
+Synchronizační schůbska, no.
+– Jasný, no je pravda, že jako už od dobu covidu,
+ještě těmto uzavřem tohle téma, my si děláme takový ty coffee breaky virtuální,
+pořád, jo, jako s určitou skupinou lidí to nefungovalo,
+ale s určitou to funguje a máme to vlastně pořád už,
+jako dobře, jestli to, co je dneska, můžeme považovat po covidu,
+tak to normálně funguje dál a dáváme si kafíčka na dálku.
+– Možná, než tohle téma úplně opustíme, já bych se zeptal na poslední věc
+a to jsou tooly, který používáte pro takovýhle způsob práce,
+protože samozřejmě trošičku se to liší od toho denodenního,
+kdy spoustujících řešíš face-to-face maximálně přes e-mail,
+předpokládám, že nějaký Slacky nebo co jedete?
+– No jasně, používáme Slack, GitHub používáme,
+a tak to jednou si používáte GitHub, GitLab nebo tak, jo.
+A to používá stejně firma, i když jako dělá,
+to třeba v Avastu, to jsme používali, že jo, GitLab,
+potom GitHub, Slack, i před covidem,
+i když všichni byli v kanceláři, jo.
+– Ok, ok.
+– Vlastně, že to až těch, mě to nepříslo,
+ale vlastně zase až tak jako obrovská změna, jo,
+v něčem je, jako to nechci popírat,
+ale jako ty tooly už stejně jsou,
+vlastně to není taková revoluce,
+jak by někdo možná mohl čekat,
+než se možná lidi přemysleli před tím covidem,
+stejně jako já třeba.
+– A voláte si na Zoom, když je to americká firma,
+nebo Zoomy? – Jo, jo.
+– A nebo jeden kolega, prostě mu nefunguje dobře Zoom
+na počítači, tak prostě jsme přešli na Hangouts,
+nebo jak se to dneska jmenuje, od Google.
+– Oni se neuvěřitelně posunuli,
+jako covid naučil i ty špatný videokonferenční tooly
+prostě být dobrý, jo, jakože prostě Google,
+podle mě, se neuvěřitelně zve.
+– No tak vem si, že nám rostly asi o čtyři tisíce procent,
+nebo něco takového, vyrost Zoom, že na jednou,
+i lidi, který v životě nevolali,
+na jednou to měl jedinej způsob, jak vidět vnoučata, že jo?
+– Jo, to je pravda, to je pravda.
+– No naučilo nás to všechny hosti, no.
+– No, to je pravda, to je pravda.
+Tak posuňme se dál.
+Samozřejmě jedna z věcí, kterou jsme s tebou
+chtěli řešit, je Skala.
+Tak možná nám na začátku řekni,
+co vlastně Skala za jazyk je.
+– Skala je takovej zvláštní, divnej,
+bizarní jazyk a je to prostě tím,
+že to je jazyk z budoucnosti.
+– To je prostě, jako kdyby jste, já nevím,
+prostě žili v roce 1900 a nedou prostě
+s někdo strojem času dostal na zpátek
+do téhle doby, anebo dneska k nám se se dostal
+prostě člověk z roku 2100,
+tak takhle to podle mě působí.
+– Jo, že Metaverse, jako Karel Janeček,
+přesně tam taky jde Metaverse.
+– Prostě ten největší skalista.
+– Myslíte, že jezdí ve Skale?
+– Já to bych si natypnul.
+– No a čím je to teda tak zvláštní?
+Pojď mi to prodat.
+– Jo, hle, je to,
+je to jazyk, který dohromady kombinuje
+objektový programování a objekty
+a funkcionální programování.
+A dělá to stylem, že vlastně ukazuje,
+že v tom vlastně není rozdíl.
+Že vlastně, že v tom jako mezi tím
+není žádný teoretický rozdíl,
+jsou to jenom nějaké zvyklosti,
+které do té doby platily
+a vlastně ukazuje, že jako stírá mezi tím
+jako jakýkoliv hranice.
+A to je na něm zajímavé, na tom jazyku.
+A vlastně, a ten stroj času je v tom taky,
+že já tam vidím totiž v tom vývoji
+těch programovacích jazyků takovou jako,
+není to úplně chaos.
+Prostě někam se to posouvá
+podobným společným směrem.
+Jasně, některé jazyky se posouvají rychlejc,
+některé pomalejc, ale je tam jakási
+jakoby společný posun, pohyb a konvergence.
+A vlastně to, kam ty všechny jazyky
+tak nějak konvergujou, je tam, kde je ta skala.
+Nebo podobným směrem, kterým se posouvá i skala.
+Tak to je mi na tom zajímavé,
+že i kdybych chtěl si to prodat,
+tak i kdybych nemohl prodat to,
+že ty ve skale třeba nebudeš nikdy programovat,
+ale tak když se ji naučíš,
+tak už ty věci, které se naučíš,
+budeš moct aplikovat už dneska,
+anebo za pár let brzo
+v jiných programovacích jazycích.
+Tak to je na tom docela cool.
+Takže skala, říkáš, se už předvyvinula
+oproti ostatním jazykům, jestli to chápu správně.
+Je to vlastně evoluční skok v jazycích,
+tak jak ty to vidíš.
+Jo, jo, jo, je to přesně.
+Když se ti nechce čekat na moderní featurey,
+nebo featurey, které by si chtěl mít
+v nějakým jiném jazyce,
+tak prostě ve skale už tyhle featurey
+třeba budeš mít.
+No a je teda víc funkcionální,
+nebo víc objektová, nebo jak to je?
+Jasně.
+Já jsem to začal tím,
+že vlastně skala tyhle rozdíly,
+nebo ukazuje, že tohleto dílení
+vlastně jako,
+jako neexistuje.
+Ale jako, ok, ok, zkusím to vysvětlit.
+Ta skala,
+jako kdybych to vzal jako
+teoreticky, tak na rozdíl od jiných
+v progonacích jazyků,
+jako je Haskell, Scheme,
+a nevím, F-sharp třeba,
+tak nemůžu říct, že by byla
+jako fundamentálně založená lambda kalkulu.
+Tak jako čistě technicky,
+hodně tady dělám uvozovky do vzduchu,
+tak čistě technicky jako není
+funkcionální jazyk, protože není založená lambda kalkulu.
+A to je taková jen technická definice,
+protože vlastně to není na tom důležité.
+Ona je totiž teoreticky založená
+na takovém vlastně objektovém
+programování. Dokonce na to
+Martin Odelský, autorska,
+ne profesor, ne akademik,
+tak on se těmi progonacími jazykama
+zabírá i takhle hodně teoreticky.
+Tak on na to má vlastní, ne lambda kalkulus,
+ale něco, čemu říká DOT,
+Dependent Object
+Types,
+a DOT kalkulus.
+Tak to je prostě něco jiného, než lambda kalkulus.
+Ale potom, když se nad tímhletím
+jakoby
+kalkulem postaví, jako se všema
+těm syntetickým cukrem a dalšíma
+featurem a postaví ten jakouž skalé
+jako takový praktický jazyk pro inženýry,
+tak jako
+klidně o tom můžeme říkat, že to je funkcionální jazyk.
+Takže, co to znamená? Tak funkcionální,
+tak jako
+to, co tam člověk,
+co zná funkcionální programování, to tam najde.
+To znamená, používají se funkce, ty se skládají
+dohromady, lidi se
+snaží vyhejbat tomu,
+aby dělali side efekty, aby měli nějaký
+globální stav, nebo
+měnitelný stav a tak dále.
+Používá si
+typový systém, skládá po mně mocnej typový
+systém, takže jako, když
+uděláš postup component a dáš je dohromady,
+tak ten kompilátor ti zkontroluje,
+že to jako sedí dohromady a pak to v runtimeu
+nebude dělat divný věci, špatný.
+Takže třeba
+product types, union types, tam máte
+pattern matching,
+exausive pattern matching, takže on ti to
+i vynadá, když si na něco
+zapomněl. Tak to tam je taky.
+Přesně, tohle všechno tam je.
+A takže potom se
+oprávně říká, že
+skla, že to je ten funkcionální programovací jazyk.
+A nemůžu to těm lidem
+rozporovat. A ty jsi to trošku nakous,
+možná bychom ještě se mohli trošičku
+povolit o historii toho jazyka. Jak dlouho
+tady skala je, ty jsi řek
+jméno toho autora, ale když ho zopakuješ, myslím si,
+že se tím nic neskazíš.
+Jo, jo, tak skalu
+vyrobil, vymyslel Martin Odersky,
+což je profesor
+informatik, dělá
+ve Švýcarsku
+v Lozán, myslím, že v Lozán se jmenuje,
+na EPFL.
+A skalu
+vyrobil někdy
+většice.
+Jak se to řekne v českém? Vytvořil.
+Já nevím, já jsem vytvořil.
+Vyrobil.
+Zůstávám u té automobilky.
+Takže ji vyrobil.
+Já jsem inžiný, já o tom všem
+říkám.
+To je krásný, pověď.
+Takže odí
+vytvořil v roce 2014,
+ale to není až tak.
+A on ji právě
+vytvořil jako takový
+trik, nebo takový
+nebyl to zase nějaký důkaz jejich,
+vždycky, když tyhle lidi chtějí něco dokázat.
+Matematický důkaz,
+že to, co tvrdím, je pravda a vznikne nový jazyk.
+Nebylo to nějaký side effect?
+Do teďka nevím, jestli chtěl něco dokázat,
+nebo chtěl někoho spíš oblafnout.
+A teď je, koho chtěl oblafnout.
+Protože on mohl chtít
+udělat takového trojického koně.
+Že vlastně udělal něco, co bude vypadat
+trochu jako Java. A bude to mít
+ty věci, co Javisti znájí,
+prostě třídy, něco jako
+interfejsy, objekty a tak dále.
+Ale vlastně takhle jim tam propašuje,
+jako toho trojického koně, to funkcionální programování.
+To je jedna věc, koho mohl takhle oblafnout.
+A nebo,
+vlastně úplně stejně, to mohl vzít
+z té druhé strany, protože, jak jsem říkal,
+Skala stírá rozdíl mezi
+objektovým a funkcionálním programováním.
+Z druhé strany, koho mohl chtít oblafnout,
+ty funkcionální programová trvy.
+Ty lidi, co prostě
+mají ten svůj haskel, nebo s kým,
+a teď jako,
+nebo,
+a těm tam teda dát, jako vlastně,
+a to víte, že tady máte patrmačík,
+máte tady prostě algebraický datový typy.
+A pak je tady objektíček.
+A pak tady najednou tam jako
+propašuje, jak ty věci, jako
+je třída, objekt, jako
+interfejsy.
+A vlastně jako najednou jim tam jako vpašuje
+takhle.
+Vlastně objektový
+programování.
+A oni vlastně najednou zjistili, že dělají
+jako objektový programování. A teď se
+jako vlastně dostávám k tomu, proč jsem říkal, že jako
+není v tom rozdíl a jako
+co to ale znamená teda objektový programování.
+Potom
+to je taková jako zajímavá
+historická věc, že
+to objektový
+programování jako tradiční, prostě C++,
+Java,
+a ta historie, ze kterých
+tyhle jazyky vycházejí, tak prostě a
+funkcionální programování a o to akademické prostředí,
+tak nějak jako jsou,
+jdou tak trochu jako vedle sebe a
+není tam tak živá komunikace. Takže
+ono se vlastně stalo to, že
+se používají třeba různý termíny
+pro stejnou věc.
+A to, čemu
+jako by
+jakoby v mainstreamové
+software inženýři říkali objektový
+programování a tak dále, tak
+v akademické sféře nebo v tom funkcionálním
+programování, tak tomu se říká třeba moduly.
+Modulový systém. Jsou
+jazyky, ze kterých
+skala vychází, jsou starší než skala,
+které jsou velmi,
+třeba možná ne každý o tojch
+jazycích slyšel, ale jsou tak vlivní, že ovlivňují
+jako doteďka ty jazyky, že si
+doteďka z těchto jazyků
+mainstreamové jazyky berou feature a tak.
+To je třeba ML, jako
+standard ML, OCaml.
+A ty právě jako to
+objektový programování mají
+v sobě, ale neříkají tomu objektový programování,
+ani oni tomu říkají modulový systém, modulový
+programování. Takže
+tohle je jakoby ta jedna
+část, nebo jedna noha, na který
+ta skala stojí,
+že
+tohle je ta jedna z těch
+tradicí, že ona vlastně dává dohromady
+jak to
+funkcionální programování,
+to je to klasické, že funkce, typový systém,
+pattern matching, LGBT,
+a dává to ještě dohromady s tím
+modulovým systémem,
+což je jako velmi sofistikované a dobrý
+věc. A není to jen kvůli teoretickým důvodům.
+Já jsem software engineer a to je pro nás software engineer
+jako velmi důležitá věc. Modularita,
+kvůli udržitelnosti, aby se to
+mohlo dál vyvíjet ten kód a tak dále.
+Takže dává dohromady funkcionální,
+ten modulový systém, říká, ale
+pomerová to téma termínem z toho mainstreamu,
+takže tomu říká třída, objekt,
+trade, můžeme říkat tomu říkají
+interface a tak dále.
+A to by ještě nestačilo, jo.
+Ale protože tohle třeba už udělali
+ty programovací jazyky jako Standard NML,
+OCaml, ty mají tohle to taky,
+mají funkcionální i ten modulový systém.
+Ale co skala dělá dohromady, že ona
+vlastně jako v těch jazycích
+jako je Standard NML nebo OCaml,
+tak tam jsou to jako oddělený světy.
+Tam je jako by to funkcionální
+a pak je tam ten
+modulový systém, který to nějak jako
+zaboluje do nějakých krabiček a ty se pak jde dohromady skládat.
+Ale jsou to jako skoro dva rozdílné jazyky,
+oddělený od sebe. Ta skala
+ta udělala ještě takové jako by,
+jako twist, že ona
+tohleto PS jako spojila dohromady.
+Takže vlastně
+v jednom jazyce
+má člověk úplně všechno a nejsou to ani
+dva oddělený jazyky jako
+u těch jiných jazyků jako OCaml a Standard NML.
+Ale prostě v jednom jazyce má člověk
+funkcionální, je modulový
+systém a říká tomu,
+poběnovává to těma mainstreamovýma
+termínama.
+A teď, jak na tím přemýšlím,
+tak ty už samozřejmě
+se v tom nějakou dobu pohybuješ a vlastně dokážeš
+využít těch výhod, o kterých tady mluvíš.
+A teď, když si představím nějakého juniora,
+který by chtěl třeba začít funkcionálně programovat
+a do toho mu tam ještě pořád
+je nabízeno OOP,
+není nakonec vlastně z toho
+zmatenější a zároveň neinklinuje
+zpátky k tomu OOP.
+Jako jestli není lepší si pro juniora vybrat
+F-sharp, kdy prostě nemáš na výběr,
+jestli to vlastně není lepší cesta pro něj.
+No tak tam máš taky trošku na výběr,
+taky maličko, ale není ta syntaxe
+nebo ty featurey nejsou tak rich,
+aby se z tom ztratil.
+Ale třeba, když jsi F-sharpový programátor,
+tak vidíš tam, že v F-sharpu to jsou to
+jako oddělený světy. Že máš jakový ten normální
+F-sharp bez těch tříd a pak jsou tam
+třídy interfejsy. Jsou a nejsou,
+protože ne, že bych tady chtěl opět
+tlačit F-sharp, ale...
+To tlačí, máme F-sharp rád.
+Ne, tam jde o to, že tam se
+v F-sharpu se taky vlastně...
+Core teďka v poslední době marketuje jako multiparadigmatický,
+to znamená, že to je jedno, že se vybereš,
+co potřebuješ, pokud děláš
+interop se C-sharpem, který je celý objektový,
+tak samozřejmě naskočíš
+na tenhle ten trend a akorát tam nenápadně
+právě taky strčíš ty funkce. Takže chápu
+třeba, co se ti líbí na té skale, jo, ale
+co jsem třeba, a možná to vlastně
+doplním ten poliho dotaz,
+co jsem o skale slyšel
+právě od kamaráda, který dělal
+Favastu, tak říkal, že
+jejich tým má ten problém,
+že jedna část to píše
+jako Javu
+bez středníků a druhá to píše
+jako Haskell. A problém
+skaly mi řek je, že oba dva přístupy,
+obě dvě syntaxe de facto,
+nebo ty styly,
+jsou správný,
+protože jazyk je umožňuje, ale nejsou
+úplně kompatibilní mezi tím, jak ty týmy fungujou.
+Takže třeba tam jsem slyšel, že
+u skaly tehle s tím problém může nastat.
+A tím spíš si dokážu představit
+nováčka, který se v tom rychle utopí.
+Není tam třeba takovýhle problém?
+Teď je to trošku jako návodná otázka, ale zaslech jsem tohle.
+Ale jo, jo, jo, to se ptáš jako dobře
+a musím přiznat, že vlastně
+v tomhle tom ten problém je. A třeba nevěděl bych
+to až tak vlastně úplně o nováčka. Když jsi úplně
+nováček, tak třeba,
+nechci to řeknout,
+nechci, aby to vyznělo špatně, ale třeba
+řeknu tomu zlozvyk, tak omluvám se,
+že nikomu nerozem, tak prostě
+nemáš se co odnaučovat,
+ať už tu budeme říkat zlozvyk nebo ne. Prostě když jsi
+nepopsanej list, tak
+nemusíš se nic odnaučovat
+a prostě naučit se to nějak. A já si myslím,
+že skala má v sobě nějaké,
+tak ano, skala je hodně
+jako beznázorový
+jazyk, jak to říct, unopinient.
+Takže
+může,
+takže prostě
+ano, Fortranoví programátoři jsou
+prostě schopní a půjde to jim
+programovat Fortranu i ve skle.
+Jo? Takže tohle
+ten jako... Správný Fortranista
+napíše Fortran v jakýkoliv jazyce.
+Včetně skaly. A tamu to půjde
+velmi dobře, protože skala prostě nebude
+házet tolik klacků pod ne. Prostě tam je spousta
+věcí možných. Ale to neznamená,
+že jakoby všechny jsou si rovní, všechny
+jakoby způsoby. A já
+tam jako cítím, a to je možná jenom moje
+nějaký jenom přesvědčení, nastavení
+v hlavě. Já vidím, že existuje něco jako
+idiomatická skala.
+A to já se teda snažím dělat.
+Ale jo, jo, když je potom jako tým lidí
+a některý jsou jako naučený dělat věci
+takhle a druhý zase jinak. A prostě
+ještě třeba každý používá jakoby
+úplně jinou rodinu knihoven. A to už
+se dostáváme jako dál, než je jako jenom věc jazyka.
+To už je potom jakoby ty kultury a těch
+jakoby ekosystémů nebo akysystémů
+a rodin knihoven, kteří spolu mají dobrou
+intrapolitu, ale mezi sebou už potom ty
+dvě rodiny třeba nejdou dohromady, tak
+tohle je existující problém
+a je to tak. Tak to potom
+může být problém a
+další věc... A to řešíte jak teda? Jako, že ti do toho skáču?
+No prostě já jsem šel do firmy, protože
+jsem si ji vybral podle toho, že jako
+dělají tu skalu tak, jak se mně líbí.
+Takže ty jsi na začátku viděl, jak
+v Chili Piperu dělají skalu.
+Ano. A řekl, to je ten styl, to je ten
+směr z těch N směrů skaly, který
+mi vyhovuje a proto já jdu k vám jako jeden z těch
+důvodů. No, jo, jo, jo.
+Protože hale, skala se, tam existuje
+jako, to je takovej velkej
+jako tent je
+šapito. Ano, je to
+šapito, šapito je velkej stán.
+Ve smyslu, tam je jakoby spousta
+více, nejenom jedna kultura, ale
+víc kultur, jak se ten jazyk používá.
+Tak jeden z nich je prostě, že tu lidi používají
+nebo jí dejtá na Spark. Jo?
+A to je jakoby hodně specifický způsob
+použití a je to hodně jiný než všecko
+ostatní. Pak jsou tam lidi, který
+používají skalu jako
+takovej prostě fakt dobrý
+Python, který je rychlý a má
+i typový systém, takže prostě neřeší
+tam člověk nesmyslné chyby.
+To je zase takový jako
+po měně, užší skupina lidí,
+ale prostě má to svoje knihovny,
+svoje způsoby používání
+toho jazyka a zase
+je to jiný než v ostatní. Zase jiný roh kula tého
+šepitu. Ano, ano, ano. Přesně, tam jsou
+takovýhle a pak jsou tam jakoby nejenom
+jedna, ale dvě jako
+skupiny lidí nebo skupiny, ano,
+jsou to komunity, mají svoje knihovny,
+který jsou zaměřené jako funkcionální programování.
+Fakt jako funkcionální ve smyslu jako v Haskellu,
+prostě čistě funkcionální, nedělají se side-effekty
+a tak dále.
+A nejenom jedna a dvě takovýhle
+skupiny. Okolo knihovny
+ZIOD, což jsou knihovny,
+knihovna pro asynchronní programování
+a side-effekty.
+A druhá je
+type level.
+A i když jsou jakoby
+zaměření na čistě
+funkcionální programování, tak se ukazuje, že to
+jde taky dělat, jako nejenom jedním způsobem,
+takže tam jsou takhle dvě různý
+komunity na funkcionální programování ve skale.
+A pak jsou tam ještě lidi,
+který třeba ve skale dělají aktory.
+Aktory programování. A to zase
+taky se dělá jinak, než jako čistě funkcionálně
+a je to taky něco jiné, než jenom
+Python nebo Spark.
+Ale je to teda
+důležité.
+Je to dobře, že to je takhle do šířky?
+Protože to vypadá, že ty jsi jeden z těch lidí,
+já jsem říkal, jeden z mála lidí, který jsem potkal,
+který jsou úplně nadšený
+toho, jak je to do šířky. Je to dobře?
+No.
+Já chápu, jako třeba někdo řekne,
+ale proč teda?
+Já třeba osobně
+mě moc nebaví,
+to je to, co mě už baví nebo nebaví,
+mě by nebavilo asi dělat
+ty big data. Prostě tam
+se potom ztrácí výhoda té skaly.
+Když to používáš ze skaly,
+jo, jako by skale je super nástroj na to
+udělat takový, jako by super jazyk
+na to udělat takový jako robustní,
+populární nástroj jako je Spark. A dokonce většina lidí
+už dneska ani nepoužívá ze skaly. Lidi to
+programují v Pythonu. Ale vevnitř potom dole
+to je napsané ve skale.
+Ale mimochodem skalu si vybrali,
+protože doteďka to je jedinej
+programovací jazyk na JVM,
+který má pattern matching,
+a dokonce i exhaustive, jo.
+To doteďka jako ještě jiný nemá
+a to už dělali před lety, tak fakt neměli
+na JVM nic jinýho.
+Dobře, zpátky k tomu. Mě by třeba moc nebavilo
+používat jako Spark,
+protože tam jako by to se pak vlastně,
+protože nakonec člověk stejně píše jenom
+SQL a ztrácí se tam
+výhoda té skaly, že má typový systém, který
+ohlídá, že tam člověk neudělá nějaké hloupé chyby.
+Takže tady
+na tomhle jako kusu šapy to tam bych
+neřekl, že jsem doma. Pak to
+používání skaly jako by lepšího
+Pythonu. Rozumím těm výhodám,
+jako by fakt, jako by by
+hodně jako se snažím dát
+na argumenty o jednoduchosti a tak dále,
+ale taky to není moje srdční zvláště,
+já jsem doma v tom funkcionálním programování.
+Takže tam je to tvoje srdíčko. Tam je to, přesně,
+tam je to moje srdíčko.
+Ale jestli to chápu správně, tak celkově
+tu šířku
+těch možností, jak vlastně psát
+validní skalu, tak to ty považuješ
+za výhodu, protože si každej
+v tom najde to svoje.
+Ani bych, a dokonce
+víš, že bych to takhle ani nefungoval.
+Dobře, tak jak se snažím dostat, jestli to je
+jako dobře nebo špatně.
+Dobře nebo špatně. Že to je tak do šířky.
+Protože říkám, kdykoliv jsem se s někým potkal,
+tak říkal, mám to rád, ale
+a teď zmínil tu šířku toho jazyka
+jako jeden z těch problémů, třeba co se týče
+právě
+nabutování juniorů, dohodnout se
+v týmu a tak dále. A s tebe vlastně
+cítím teďka úplně opačný směr, že tobě to
+přijde jako super, takže já to chci jenom
+pochopit. No asi mi to, tak možná
+tam je maličký nedoporozumí, já vlastně
+taky jako neříkám, že to je super. Já prostě
+taky mám jako svůj
+představu, jak by se skala měla psát, je to ten
+funkcionální způsob. Takže by jsi ji sesekal de facto.
+Ale nevím, jak bych to dělal jako
+sesekáváním, protože, hele, OK,
+tak co by bylo proti tomu
+funkcionálnímu právě. Tak ve skale se dá
+psát val, jméno proměný
+a potom ten výraz
+a nebo var. A potom je to ta
+proměna v tom smyslu jako v
+imperativním programování, že to je nějak jako
+přiřaditelná věc.
+Prostě je to
+spíš něco jako paměťová buňka, která se dá
+měnit, jo. A jako
+to skoro nikdo nepoužívá. Je to hrozně výjimečný,
+ale chápu, že to v tom jazyce je,
+protože třeba děláš něco strašně low level
+a potřebuješ to fakt jako výkon
+a chceš to ještě pořád psát ve skale,
+tak máš tu možnost. Ale jinak jako
+tohle normálně neprochází přes review, protože
+to normálně nikdo nedělá.
+Dobře. Obdobná další věc je
+prostě ve skale, protože to běží na
+JVM anebo i třeba na JavaScriptu,
+tak je tam nul.
+A ta kultura je ale taková,
+že to nikdo nepoužívá normálně.
+Tak není to potom ve skutečnosti jako
+problém, protože to používá
+jenom třeba pár lidí v parkinou
+a kde to jsou ty nejnižší, nejvýslovlé
+věci kvůli výkonu,
+ale jinak všichni používají option.
+– To jsem se chtěl zeptat, když ustal na kous.
+Takže normálně klasický option, bind map,
+všechny ty listy. Super.
+A ještě se teda zeptám na tu imutabilitu,
+protože ty jsi to taky trošku na kous.
+Je to teda přes, řekněme,
+klíčový slova, takže val je jako value,
+čili neměná, var je jako variable,
+čili měná. Když si
+přiředím nějakou funkci do něčeho,
+což samozřejmě předpokládám můžu,
+tak taky prostě všechno to je imutabilní.
+Občané první kategorie jsou funkce.
+Jo, jo.
+Ta kultura, dokonce i v těch
+jako
+lepší Python komunitě,
+i ty lidi, co dělají
+aktory a tak,
+já si myslím, že tam taky se nepoužívá běžně var,
+že nepoužívají lidi běžně nul.
+To je něco, takže to je něco,
+co je dokonce společného nejen pro ty hardcore,
+jako funkcionální nerdy, jako jsem já.
+– Ale teďka zrovna sledují diskuzi, kdy se
+v C-sharpu,
+nevím, to je už kolikátý verzi, se baví o tom,
+že by právě zavolal,
+vedli taky nějaký jako val k tomu varu.
+A mně to přijde, a to zase chci slyšet
+tvůj názor, to můj osobní, a mně to přijde
+strašně blízko, jako syntakticky.
+Val a var je jenom
+rozdíl v jednom písmenku.
+Kdyby to bylo konst, jako to má třeba
+JavaScript, nebo let,
+jako to má F-sharp a ostatní jazyky,
+nebylo by tam víc do očí
+býcí, když to je tím
+mutabilním způsobem, že var versus let,
+no tak to vidím na první dobrou, ale
+val, var, znáš to,
+máš foto osmičku
+černý pozadí, protože jsi samozřejmě hipster
+a v půlnoci uděláš půl request
+a projde ti to. Třeba
+proč je tam val, proč tam nejsou nějaké
+lepší klíčový slova?
+Hle, co ti budu povídat, tak kdybych
+já ten jazyk navrhoval dneska,
+což, ale
+hle,
+asi bych, jako, já bych
+to samozřejmě udělal, jako tak, že ten
+var bude vypadat jako syntakticky
+úplně jinak, bude se to třeba používat
+třeba commutable, nebo něco.
+No, no, a že třeba, když tam
+budeš do toho přiřazovat, tak to nebude jednom jako rovnítko,
+ale bude to dvojtečka rovnítko, no, takový,
+aby to bylo jako hodně jiný. Dokonce, mimochodem,
+do Skaly 3, což je ta nejnovější verze
+jazyka, tak
+Martin Odelsky něco takového navrhoval,
+ale prostě byl
+tam proti tomu jaký protitlák a nakonec
+se to neprosadilo, protože
+zas by to byla nějaká další změna v tom jazyce
+a tak lidi jako nemají rádi, že jo,
+když prostě... No, breaking change je.
+No, byla by to přesně breaking change
+a tak to nakonec neprošlo, ale ano,
+bylo by lepší, když by to bylo
+oddělené, ale v praxi
+to není vlastně až takový problém, protože to
+skoro nikdo vůbec nikdy nepoužívá.
+My jsme se krásně rozdováděli,
+co se týče syntaxe Skaly.
+Je tam ještě něco, co by si k tomu přihodil,
+než se vrhneme na další
+aspekty a detaily tohohle velice zajímavého jazyka?
+Jo, jo, ale tam
+právě jak ta Skala je, nebo
+aspoň může působit jako unopinated,
+že to jako, co chcá na každý, to může psát.
+Tak to potom má takový jako druhotný
+efekt na ty lidi, já tím to
+i na sobě, že vlastně jako
+je to tlačí k tomu si vytvořit svůj vlastně
+jako podnoženost Skaly, nebo svůj vlastní styl
+Skaly, který psát a vlastně takový jakoby
+hodně velkou disciplínu. Jo, vlastně jako
+disciplína je to slovo, že
+lidi to potom
+tlačí k tomu, aby měli svou vlastní disciplínu
+a když jako si ty lidi
+jako udělají tu disciplínu v týmu,
+tak je super a bude to fungovat skvěle,
+jsou dohodný, požíváme tyhle knihovny,
+tenhle způsob, tuhletu prostě jednu, dvě
+featurey vůbec jako předstíráme, že neexistuje
+a takhle to jedou, ale pak je
+třeba problém, když se jakoby tyhle
+ty jako dva silný disciplíny jakoby
+potkájí a najednou jako
+to prostě je potom, aby z toho nebyl konflikt,
+protože
+ty knihovny se jako vůbec nejsou
+intraporabilní, nebo jako lidi, aby se potom
+jakoby dva týmy, když se dají dohromady, aby se lidi
+nezhádali, ale
+jako dohromady se samozřejmě
+potom jako dá, ale jako
+tohle je docela zajímavý fenomen, který prostě v jiných jazycích
+řešit nemusí, myslím
+nevím
+třeba Fešarpu, mi přišlo, že
+tam fakt jako je jedna komunita,
+jeden jakoby z takýho
+ven, prostě jeden způsob požívání,
+jeden styl, přesně tam je to hodně unifikovaný,
+ale skala není jediná, která má
+tohle problém,
+třeba o C++ jsem slyšel,
+že fakt jako tam jsou jakoby ty
+jakoby ta komunita,
+která je obrovitánská v porovnání se skalou,
+tak je taky rozdělená
+na prostě nějaký tábory a jsou lidi
+a knihovny a týmy,
+který jako prostě nepoužívají
+výjimky C++, protože
+mají k tomu nějaký své důvody,
+já jsem už dlouhou dobu C++ programátor,
+tak nechci zabývat do detailů, ale
+nějaká podnožená jazyka a nějaké věci
+jako by neexistovaly pro ně,
+a pak zase někdo je jako jo.
+Takže jako skala není jediná, který má tohle problém,
+možná třeba
+v Pythonu, nevím, taky se Python používá úplně jinak,
+když se dělají big data a jinak
+používají lidi Python, když dělají mikroservisy.
+Ale C Sharp má úplně stejný problém.
+Úplně stejný problém. Tím, jak se tam furt
+rubou nový a nový věci, který vůbec
+neodpovídají tomu,
+ty ideje toho jazyka, tak to začíná
+opravdu být s každou verzií Pace,
+jak s kočičkou vařili Megadort
+pro všechny vývojáře a teď je to čím dál tím horší.
+Když se mluví o konvergenci,
+tak to je taková nerdice, ale božel takhle vypadá
+potom ve skutečném světě a taky to má dopady.
+Ale tak jako co? Co to máš dělat?
+Jsi C Sharp programátor, tak
+přijdeš na F Sharp, je to dost jiný,
+divnej jazyk, ale vlastně chceš
+ty nový featurey a hlavně ty autoři.
+Ty autoři toho C Sharpu
+nechtějí, aby mu jel vlak a snaží se
+ty lidi, co chtějí víc feature, tak si podchytit,
+ale zároveň si jako neodcizit jako ty staré
+fanoušky. Je to zajímavý
+proces. My to teda neuvidíme,
+kam to dojde v roce 2100,
+ale bylo by možná zajímavý, jestli se to kolapsne
+nebo bude C
+C Sharp New, něco takový,
+rozumíš, nějaká nová verze, která
+totálně udělá breaking change, až se znovu
+třeba to bylo super. Ale Fortran, možná i Kobol
+se do teďka vyvíje. Jako Fortran, podle mě,
+nechci si úplně vymýšlet,
+ale prostě to je jazyk, který má další
+nový a další a další standardy, přivádí tam
+featurey. Já nevím, možná prostě,
+když frčilo objektový programování, tak tam možná přidali
+objektový programování od 90.
+V 2100 se budou bavit dva vývojáře.
+Jeden řekne, hele, jsi šel si o Closure, ty vole.
+Closure je sračka, vole.
+Jo, ty to chceš vrátit, vole.
+Zdravíme, zdravíme.
+Ale ještě mi zajímá jedna věc.
+Jak je to ve skale
+s nějakýma custom operátorama?
+Protože vím, že některé jazyky jsou tím
+tak zasiflený, že se to pak pro ty
+nováčky strašně blbě čte. A i v Sharpu
+jsme dělali tuhle chybu, že jsme třeba
+si můžeš udělat custom operátor
+a když to přeženeš, tak to vypadá,
+že se ti prostě proběhla kočka
+po klávesnici a ne jako validní kód.
+Takže jak je to ve skale?
+Tak já začnu od toho, jak je to v tom jazyku jako takovým.
+Ten jazyk jako takovej
+vlastně nezná nic jako operátory.
+Prostě všechno jsou to, jak jsem říkal, založené na
+jenom na tom objektovém principu.
+Všechno jsou to objekty, které mají metody
+a ty metody třeba můžou mít někdy
+název jako jenom znaky.
+A dokonce
+tak to je jedna věc.
+Druhá věc je, že skala umožňuje
+nepsat
+tečku u metody, když ji voláš
+a závorky. To umožňuje.
+Takže potom, když tohle dáš dohromady
+a máš metodu, která se jmenuje jako podle
+jenom nějaký znaky a opomeneš
+tam napsat tečku a závorky, tak vlastně
+to tomu vypadá jako operátor.
+Ale to není až tak zajímavá část
+té odpovědi, protože zajímavější je,
+jak potom se k tomu staví
+ta komunita, ta kultura na tom jazyku
+postavená a hele,
+ono to asi bylo v minulosti jinak.
+Možná v minulosti fakt jako
+tu skalu všichni měli
+nějaký
+mindrák jako v Javě,
+nic takového nebylo, takže si to jako rozhodli se
+na tom jako vyřádit, že jako teď si to teda
+užijeme a všechno budou jenom prostě znakový
+operátory. Tak to asi
+jako se hodně používalo ve skale dřív.
+A říkám, já ji používám relativně nedávno,
+až od roku 2018, takže já jsem tohle asi úplně nezažil.
+A dneska prostě se to
+používá výjimečně. Prostě na pár věcí,
+jestli to je nějaký plusko, plus, plus,
+na spojování nějakých třeba seznamů,
+o pár věcí,
+ale jinak většinou se používají
+metody jako pomenovaný písmenkama,
+případně s číslem třeba.
+A
+potom ještě,
+na to jako zareagovali
+i autoři,
+týskali, hlavně Martina Odelsky, a prostě říká,
+hle, ta skala,
+a to se netýká těch operátorů, ale říká,
+hle, je to trochu problém, že to je taková
+cohtana, ten jazyk by měl být trošku víc
+opinionated, a nějaký jako by konvence,
+který se třeba vytvořil za těch několik let,
+nějaký konvence, tak trošku víc zakodifikovat
+toho jazyka, no a
+teď doufám, že si nevymýšlím, tak teď nevím,
+jestli to jak už povinný ve skale 3,
+nebo to tam jenom jako doporučovaný.
+Prostě je možnost anotovat metodu
+a řekne se, tato metoda je
+prostě symbol, jakoby
+symbolická a tím pádem
+se volá bez tečka,
+bez závorek, takže to vypadá jako operátor
+a naopak zase, když je něco
+normální metoda, normálně pojmenová, tak tam
+ta tečka a závorky být mají.
+Takže takhle si to můžeš ovlivnit.
+Ok, a ještě ty jsi mluvil
+o těch verzích,
+nebo zmiňoval jsi verzi 3,
+tam bylo nějaké jako
+mrzení mezi druhou a třetí verzi, ne?
+Nebo jak to tam bylo?
+Hele, je to tak, že
+skala 3 je jakoby poměrně
+významná změna v tom jazyku.
+Jako furt je to skala, prostě ta esence
+toho propojování objektování
+objektovýho funkcionálního a metaprogramování,
+která jako vždycky byla
+v jádru té skaly, tak to tam je pořád.
+Ale na rozdíl od té skaly 2,
+ta skala 3 stojí na těch jako na tom
+teoretickém kalkulu, který jsem zmiňoval na začátku.
+A třeba kvůli tomu, že
+ukázali v tom svým kalkulu,
+ukázali, že některé věci nejsou
+sound, že by mohly
+výjít chyba, tak třeba některé věci
+jako z toho jazyka, ale z toho typového
+systému, jaký feature byste řekli,
+tady tohle prostě nejsme skupní
+teoreticky ohlídat, že to je všecko teoreticky
+korektní, tak třeba tuhle feature
+prostě smažeme už a tam jako nebude.
+Počkej, takže tam byla trojka, byla
+breaking change, tam některé věci se opravdu
+jako nebylo to zpětně kompatibilní s dvojkou
+ve 100%.
+Jo, jo, jo, jsou prostě
+jako programy a featurey,
+které ve dvojce jsou a šly z kompila
+ve dvojce a to nejenom
+v nějaký, to k tomu se pak dostanou,
+ale prostě ve dvojce to šlo, fungovalo a prostě ve dvojce
+to není, prostě zrušili to.
+To je super.
+Jo, je to dobré, že mají koule prostě
+to je ta pozitivní stránka
+poučit se schyb,
+prostě věci, které nefungují nebo jsou špatný, odříznout.
+To je boží.
+To je úplně boží, já jsem úplně nadšenej, protože
+tu komunitu naučíš na to,
+že třeba ve čtyřce
+spoustu věcí z trojky půjde pryč, který se
+neověřil jako dobrý.
+To je podle mě super. Nebo co myslíš?
+No, bacha bys to se nepřechválil,
+aby si ti to o tom nesplnil.
+Pozor na to, co si přeješ, protože to má
+odvártelnou stránku.
+To se netýká přechodu jenom mezi
+dvojkou a trojkou, protože
+skala
+prostě skala je jako divočejší.
+Tam se break and change
+ty break and change dějou
+často.
+A třeba
+skala začala jako jazyk, který
+se kumpluje do JVM bytecode,
+který běží na JVM. Dneska už to běží
+třeba na JavaScriptu, dokonce
+experimentální, jako by skala
+která, jako skala native,
+která se překládá do LPLC, LLVM
+do nativního kodu.
+Můžeme třeba se k tomu vrátit později, ale co jsem
+chtěl říct, úplně na JVM se to
+kumpluje do
+JVM bytecode. No, ale
+jak ta skala je mnohem
+mocnější, košetější než
+JVM.
+Tak prostě tyhle ty
+featurey skompilovat dolů do toho JVM bytecode, který byl
+původně designován jenom pro tu JVM, že jo?
+JVM je to jedna ku jedný prostě. JVM konstrukt
+jako v jazyku, často to bývá, že
+prostě má obdobu v tom bytecode. Ale
+u té skaly, jak je komplikovanější,
+tak jako destilovat, jakoby
+skompilovat to dolů do toho JVM
+bytecode jde a dokonce to jde
+i více způsobů. A teď který
+způsob je ten lepší. A
+vracím se k tomu, skala, vývojáři
+nebo jako autoři skaly jsou ochotní
+učit se ze své chyby. A to znamená,
+že prostě mezi verzií
+2.10 a 2.11 skaly se to
+kompiluje jinak. Takže knihovna, která byla skompilovaná
+skalou 2.10, prostě
+už nejde použít ze skaly 2.11. A zase
+skala 11 a skala 2.12.
+A skala 2.12 a skala 2.13.
+V té praxi to musí být hrozný bordel.
+No co si myslíš, že to je bordel? Teď jsem teda překvapen,
+protože já jsem myslel, že to je jenom mezi major verzem
+a typům. No já jsem právě.
+Braking a minor je feature
+a fix je jenom bug fix.
+Ale ani náhodou.
+Já jsem koukal na ondru výraze.
+Ten trik je v tom,
+že si budou mít co žrát.
+No to jsi říkal
+o C++ programátorech, ne? Že ty to udělali tak,
+aby prostě nepřišli oprávnit. Zpátky
+ke skale. No hele,
+tam je ten trik v tom, že prostě jak
+definuješ, co je major verze. Existuje totiž
+něco jiného. Existuje...
+To je výborný.
+Neexistuje jenom semver.
+Existuje něco, co se mu se v Haskellu
+říká package versioning policy.
+PvP, což je takový jedinej způsob
+pomenování verzi. A tam to existuje.
+Jo, semver je prostě máš. Major.minor.patch.
+OK, to se dneska...
+To je mainstream, to se dneska používá.
+A skala 3 už to dneska používá taky.
+Ale
+skala 2 používala ten PvP,
+package versioning policy. A tam je to
+jinak. Tam je to epoch.major.minor.
+Možná tečka něco dalšího.
+Takže verze 2 byla
+pouhá epocha. A ta verze
+11, 12, 13,
+to jsou ty major verze. Takže když ty se zvedaj,
+tak to jsou ty break and change.
+Takhle, no. OK.
+A potom, když se z toho vyrobí to Jarko,
+což je pro programátory
+v podstatě obdoba assembly.
+Když se to jako skompilují
+a když se dohromady do nějakého artefaktu,
+tak na tom
+mavenu, což je to maven central,
+to je ten repozitář, ten jeden velký,
+co většina lidí používá.
+Tak tam potom se to,
+musí rozlišit. Ty Jarka, který byly skompilní
+se skolu 2.11, 2.12 a 2.13
+a 3,
+tak prostě jsou jiný. Ten bytecode je prostě trochu jiný.
+Není to spolukompatibilní. Takže se to potom dělá tak,
+že tam je jako jméno té knihovny,
+pak je tam možná i verze, nebo takhle,
+u toho jména knihovny je ještě
+na tom potržítko a verze té skaly,
+která byla skompilovaná. Takže je tam prostě,
+nevím, kec, potržítko,
+2.12. A pak je tam ještě kec, úplně jiný Jarko.
+A jenom se toto jmenuje
+kec zase, ale potržítko 2.13.
+Aha, tak to je pak slušná matice.
+Oje, to je matice.
+To máš matici.
+A to já si zažívám, protože já pomáhám
+udržovat nějaké knihovny, takže to máš matici.
+Verze skaly,
+platformu,
+na kterou to děláš, a pak ještě
+můžeš, byly doby,
+kdy lidi dělali cross-kompilace
+pro různý verze skaly JS,
+že byla ještě skala JS0,
+a skala JS1.
+Umí to být komplikovaný.
+Jsme to prodali, to je dobrý.
+Ale zase jako který
+jiný jazyk vám umožňuje
+takhle kompilovat
+na javu, na javascript,
+do native,
+a ještě máte koulé poučit se z vlastních hip.
+Jo, drží tě to pořád ve střehu,
+to je dobrý.
+Nevím, jestli tohle je dobrý
+jako self-pitch pro jako self-projectioniství,
+ale jako je život.
+Skala není dokonálá, má to své,
+ale dobrá věc je, že byla ještě poučení z chyb.
+Jak jsem říkal, skala 3 je velká změna.
+Nejenom v tom, že to záleží na nějakém
+teoretickém kalkulu, ale
+prostě ve skale 3
+to udělali tak,
+že zaprvé používají ten semver,
+takže všechno, co už ve skale 3,
+tak bude kompatibilní se skalou 3.
+Žádný tyhle šílenosti, že se furt budou muset
+cross-kompilovat kvůli nějaký
+nový verzi kompilátorů.
+To je dobře.
+A mimochodem dělají to takovým způsobem.
+Oni to dělají tak, že oni...
+Dřív to bylo tak, že tu skalu
+prostě vzali, skalu,
+ten celá komplikovaný, velkej,
+košatý jazyk a zkompiloval to do toho
+Java větkodu. A nebylo tam nic mezi tím.
+Prostě jenom komplikovaný jazyk a vylezl z toho
+nějaký baťkot javový.
+A oni teďka dělají to,
+že oni vezmou ten
+javu,
+teda vezmou skalu,
+tak, jak to napsal programátor,
+a udělají tam nějaký transformaci,
+v smyslu, že
+všechny jména rezolvujou,
+u všeho odvodí ty typy,
+aby to bylo
+přesně takhle
+popsané. Ale
+tuhletu formu potom,
+takového jakoby mezi jazyka,
+potom se realizují
+a přibylají to k tomu Jarku. Takže tam jako v tom
+Jarku je nejenom ten
+vygenerový javový baťko, který si potom můžeš pustit
+už jako takový hotový na JVM,
+ale máš tam k tomu i takový
+vlastně ten původní skalový
+zdroják, ale není to úplně
+původní skalový zdroják, je to nějaký přepracovaný,
+udělají se tam nějaký post-processing
+ve smyslu inferiority typy,
+rezolvují se všechny jména
+a implicity,
+které kde se jako posílají a tak dále.
+A když tohle už
+jako potom má ten kompilátor
+k dispozici, tak když by potom chtěli dělat nějakou
+breaking change, ve smyslu, že
+budou jako by generovat potom trochu jiný baťko,
+tak můžou udělat to, že transparentně
+pro toho uživatele, ve smyslu uživatele jako
+programátora, třeba budou
+generovat jiný baťkot, ale
+ten původní autor té knihovny už nemusí
+dělat tu cross-kompilaci do nový verze.
+Prostě oni vezmou ten,
+říkají tomu tasted,
+typed abstract syntax trees,
+vlastně takovou
+intermediate representation,
+takovou mezireprezentaci toho jazyka
+a s tý potom, když až
+na to dojde, až prostě bude potřeba udělat
+nějakou breaking change, tak vezmou tuhletu formu,
+která už bude v každém novém Jarku.
+A udělají to transparentně.
+Takže jako vlastně...
+Takže to je něco jako na dotnetu, máš IL-ko,
+do kterého se kompiluje C-sharp?
+I obdoba IL-ka je ten javobitekot.
+To je jako rovnávní jabek
+s jabkama. Já nevím,
+jestli...
+Takže, jak by, hle,
+v dotnetu pro C-sharp existuje
+roslin, to je ten kompilátor.
+Tak když by se vzal roslin
+a ten zkompilovaný C-sharp,
+nebo ten sparsovaný,
+který prošel typovou
+kontrolou, ten C-sharp se nějak vzal
+a tenhle ten strom,
+ten syntetický strom
+s těma všema typama a tak dále
+se serizoval. Přebyl se k té
+assembly.
+A pak, když by vyšla nová verze C-sharpu
+a chtěli by tam udělat break-in change,
+tak prostě umožním to zase transparentně
+pro uživatel programátora
+překompilovat už do toho hloblohového bytecodu,
+ale
+jiným způsobem.
+Ještě než skočíme na poliho milované ML,
+a AI a tyhle z ty dobrůtky,
+tak prosím tě, ve skale
+ty jsi říkal, že se dá psát jakokoliv,
+cokoliv, jaký je vlastně praktický použití?
+Předpokládám tím, že ten na JVM-ce
+tak nějaký interop s Javou je úplně bez problému, ne?
+Jo, jako Javý...
+Takhle. Javý knihovny
+ze skaly se používají velmi jednoduše,
+ale teda počítejte s tím, že pokud jste
+rozmazlený skalofunkcionálním programováním,
+tak musíte se vrátit zase nohama na zem.
+Ty Javový knihovny rádi házejí výjimky,
+vrací vám nul,
+takže tyhle průdata tam je.
+Ale když tohle ošetříte, tak používání Javových knihoven
+funguje dobře, velmi jednoduše
+a je to jako velká výhoda té skaly.
+Vlastně nikdy se asi nerozšířila.
+Protože jako Java je ta jedna z nejpopulárnějších
+platformem.
+Prostě pro všechno, co potřebujete,
+tak minimálně aspoň tu Javovou knihovnu
+najdete a můžete ji z té skaly použít.
+Tak to je fajn.
+A používání z Javy
+skalu taky jde,
+ale je to komplikovanější, snad nikdy jsem to nedělal.
+Kulitěm typům hlavně ne, když vystříčíš ven.
+Prostě ta skala, jak je
+komplikovanější, tak prostě z té Javy
+se to používá jako...
+No ale někdy jsem to dělal, tak o tom nechci moc mluvit,
+nevím přesně detail, jak to funguje.
+A dělají se nějaký special wrapy?
+Protože třeba v některých jiných jazycích jsem si všim,
+že když je objektový
+ten model pod tím
+a ty ho chceš vystavit vlastně funkcionálně,
+třeba nějaký typy navíc, tak si uděláš nějaký typický
+wraper nad nějakou zajímavou knihovnou.
+Dělá se to taky? Jsou skalový wrapery nad
+javovskýma populárníma knihovnama?
+Jo, jo, jo, ale tam
+ano, ano, jsou.
+Já nevím prostě.
+Přesně, máš knihovnu pro komunikaci s redisem,
+tak buď budeš velký hrdina,
+napíšte celý ve skale od začátku
+anebo prostě už použiješ etablovanou
+stabilní javovou knihovnu.
+A tam se to dělá hodně právě z důvodu,
+jak jsem zmiňoval, že je to
+šapito a tam jsou potom ty dva funkcionální
+kempy, podkempy,
+tak tam se to
+dělá právě kvůli tomu
+asynchronnímu programování,
+respektive čistě funkcionálnímu
+programování, protože ty javový
+knihovny dělají prostě side effecty a tak dále.
+A existuje
+pro skalů
+právě nejeden, ale dva
+takzvané
+funkcionální efektový systémy.
+To znamená,
+když bych to chtěl prodat
+někdo, kdo není
+srdca pro čistě funkcionální
+programování, tak bych mu řekl,
+ale to je super knihová
+pro dělání asynchronního programování.
+Ale zase,
+jsem takový trošku záludnej, protože já se
+zároveň, ale takhle
+podcouvám
+takovýho trošku koně na to čisté funkcionální programování.
+Protože potom najednou zjistíš, že
+ty si myslíš, že děláš asynchronní programování,
+ale ty vlastně najednou děláš
+čistě funkcionální programování, tak jako to dělají
+třeba lidi v Haskellu. Dokonce se to taky
+v jední knihovně jmenuje I.O.
+To je ten Z.I.O., ne?
+To je Z.I.O. anebo Cats Effect I.O.
+A tohle to tam takhle
+jak jde, ale to je docela vtipný.
+Protože dneska už si všichni,
+víš, to prostě si pamatuju,
+protože já jsem začínal s Haskelem,
+že Haskell to je jenom teoretický,
+to nikdy nemůže nikdo používat a čistě funkcionální
+programování, to je akademická, jenom zajímá
+intelektuální záležitost. A to I.O. je v tom
+komplikovaný, v tom Haskellu, prostě to
+není tak jako to normální programování, to je jako
+komplikovaný programování. Ale dneska, dneska
+všichni prostě jedou v těch futureách.
+Jo, async, await.
+Takže, jo, a třeba v C-Sharpu,
+že jo, tak tam máš,
+že ti to
+vrací task, že jo.
+Že nemáš funkci z intu do intu,
+ale máš to funkci z intu do
+tasku intu, jo.
+A na jedno vlastně zjišťuješ,
+že děláš něco velmi podobného jako ty Haskelový
+programátoři. Jenom ty tomu neřekli task,
+ty tomu říkají a jo. Jo, ale
+C-Sharpu a
+nevím, TypeScriptu a podobného zjišťuješ
+ty tomu, ty to děláš jako kvůli tomu asynchronnímu
+programování.
+Haskell si to dělá kvůli jako čistotě a čistějšímu funkcionálnímu
+programování. No a ve sklele,
+jak se, jaký strany se na to podíváš, jo.
+Prostě můžeš to
+prodat jako asynchronní programování, aby se
+jako efektivně užíval
+ten omezený počet vláken, který máš.
+Ano, nebo si to budeš říkat,
+to děláme funkcionální programování, čistě funkcionální
+na zdar. A vlastně je to stejná věc.
+Co se týče
+typu nějakých aplikací, třeba
+dá se dělat vyloženě ve skle, nebo
+dělá se ve skle nějaký, řekněme, full stack,
+že si napíšu server, napíšu
+si klienta, tady to skompiluju
+do Jarka, tady to skompiluju prostě
+do Javascriptu. Funguje
+takovejhle trend i na skle?
+Hele, skle se dá kompilovat,
+nejtradičnější použití je kompilování
+do JVM. Existuje potom už
+poměrně matcher, jakoby
+stabilní
+kompilování do Javascriptu, jmenuje se to
+skle.js
+skle.js. Já jsem to tady
+nikdy nepoužil, skle.js, tak o tom
+nemůžu moc mluvit, bohužel. Je to takový velkej
+sen právě, že bych si zkusil naprogramovat
+aplikaci a celou ve skle a prostě
+domenovej model si udělal prostě
+v jednom jazyce a měl ty, nevím,
+encodery, decodery, přesně
+ve stejném validaci v jeden jazyk.
+Víc platform,
+ale já jsem vždycky psal jenom
+back-endy a píšu tomu jenom back-endy, ale ano,
+některý lidi to taky dělají
+a pak ještě dokonce se to dá
+kompilovat jako do věloženě nativního kódu
+jenom. A to je jako experimentální,
+to je jako, jenom pokud by vás bavilo
+jako věloženě experimentální věci, ale jakoby
+skala na JVM,
+skala na Javascriptu, to je považené
+za stabilní a tablovanou věc.
+A mobilní vývoj a tyhle věci?
+To je takový smutný
+bolovej příběh, protože
+hele, skala...
+Uviděli, jak se zatváří?
+My jsme měli začít točit, protože
+tvůj jako facial expression
+prostě...
+Vidím, jak tě to bolí, no, tak pověď.
+Tak povědej. No, hele,
+skala se překládá do JVM.
+Co je dneska nejpopulárnější platforma
+na mobily?
+No, Android. To se taky jako tam vyskutuje
+JVM, jako ta meziverstva,
+že jo. Ale
+historický vývoj takový, že
+jak je ten Android jako divná Java,
+tak
+prostě to tam
+teďko nefunguje, nebo to nefunguje
+dobře a jednoduše. Jo, hlavně, že jo.
+Jedna věc je, že Google razí
+kotlin a vlastně snaží se
+přestírat víc, čím dál tím víc,
+prostě, že Java neexistuje
+a obzvláštne jakoby ty nový verze
+Javy s těma novýma featurema. Jo, takže
+já teď nechci si úplně vymyslet,
+já jsem pro Android nikdy neprogramoval,
+ale nevím, jestli vůbec jako na Androidu
+existují všecky feature,
+co jsou v Javě 8. 8 podotýkám,
+to znamená Java, která vyšla coho 2014,
+tak nevím, jestli všecky feature
+tam jako by jsou. A právě
+Java 8 je taková
+jako by ta nejnižší
+verze Javy, kterou
+jako by Skala potřebuje. Takže
+prostě Skala předpokládá, že všecky feature z Javy
+8 jsou k dispozici,
+no a když nejsou jako na Androidu, tak
+prostě jsou s tím problémy. Ale jsou na to
+hacky, jak to, že prostě jsem viděl
+nějaký projekty na GitHubu, kde prostě lidi používají
+Skalu
+a prostě překládají to
+Gradlem, což je teda byt...
+Jo, když děláš Android, tak používáš Kotlin
+a Gradle, tak teda používají Gradle
+a pokompilují Gradlem Skalu.
+Asi je to nějak jde, ale
+prostě hele, by bylo to,
+že poslední Skala, která normálně,
+aspoň trochu normálně fungovala
+na Androidu, je Skala 2.11. No to je
+strašně stará historie už.
+No, ale
+existují v oble zličky.
+Jedna z nich je,
+že
+jak už jsem změňoval, že Skala se dá
+přiložit do JavaScriptu. Takže existuje
+React Native například, takže ty si
+napíšiš aplikaci mobilní ve Skale,
+přiloží se to do JavaScriptu a přes
+React Native to poběží a dokonce
+nejenom na Androidu, ale i na ostatních platformách.
+Tak to je jedna možnost.
+Říkám, já jsem to ještě neskoušel, ale
+nějaké lidi to používají.
+A nebo
+existuje
+další možnost, že se vykašleš
+na Google a to, jak on dělá
+tu Javu ne-Javu
+a vlastně spíš Kotlin radši.
+A prostě vezmeš Javu takovou, jaká je
+a pomocí GraalVM
+ji přiložíš prostě do
+nativního kódu.
+A ten GraalVM pracuje na úrovni toho
+Javu byte kódu. Takže to můžeš vzít z klavy program,
+to si přiloží do Javu byte kódu a ten potom
+se přiloží do nativního kódu a to potom
+jako poběží jako nativní aplikace na Androidu
+a nebo potom na
+iOS a tak dále. A existuje
+proto nějaká knihovna, která se jmenuje Gluon,
+která tohle možňuje,
+že to používáš ze skaly.
+Ono si myslí Gluon, že to funguje jako na Javě,
+ale to je ten trik.
+Já jsem skalista, takže můžu použít jakoukoliv
+Javu knihovnu, včetně třeba Gluonu
+a pak si takhle můžu programovat Javu
+aplikaci pro mobily.
+Pecká, pecká. Já myslím, Poli, teď je
+asi tvůj čas. No, teď máme teda frontend,
+dali jsme si mobily a co ty data?
+Takže pojďme do té části šapy toho,
+která se jmenuje Big Data.
+No to byl možná ten první
+nebo největší úspěch kaly,
+že, jak jsem říkal,
+vlastně, když autoři z Parkouru
+přemýšleli asi v patnácti, co budou
+dělat a v čem to naprogramují,
+tak zjistili, že
+jedinej jako jazyk
+na JVM, který má pattern matching, myslím,
+že do teďka, ale to se brzo zmíní,
+ta Java se používá,
+posouvá směrem k ML
+a vlastně ke skale.
+Ale do teďka nemá pattern matching.
+A skala ho má.
+A oni to potřebovali, no. Prostě, když
+přesně psali,
+ten optimalizátor těch
+dotazů, tak, hele, já už se taky moc
+nepamatuju, ale
+pattern matching, mocná feature a potřebovali
+tuhle feature, no tak zvolili skalu.
+A najednou se ukázalo, že skala je dobrý jazyk
+na takhle napsání
+takového robustního systému pro
+distribuované počítání
+a byl to velký úspěch.
+já vlastně tomu
+by kdy ta světa moc nerozuměl.
+Už je to dlouho, co jsem se ho
+jenom trochu dotknul.
+Ale tam prostě skala
+uspěla, nevím, jak je to dneska,
+ale jako je zajímavý, že
+jo, oni sice použili
+skalu na to programování, ale pak zjistili, že vlastně
+ty lidi to z té skaly, ne, až tak rádi programují.
+Dneska snad každý používá,
+skoro každý používá ten
+Spark, ne ze skaly, ani ne
+z Javy, ale z Pythonu.
+No to je právě to, co jsem se chtěl zeptat, no.
+Vlastně kolik těch, dneska,
+když budu junior, jestli
+půjdu prostě do Sparku přes
+skalu, nebo přes Python, a
+velmi pravděpodobně bych tam šel přes Python, no.
+No, a taky to souvisí s tím, že
+takový ty typický lidi, co
+dělají s velkýma datama, jestli to třeba data scientist,
+nějaký statistikové, nebo tyhle ty
+lidi, co dělají analýzy, tak třeba už jsou
+naučený s tím Pythonem pracovat, protože jinak
+prostě jako, ale tomu AI
+a machine learning světě, kde jsou právě
+velký data, tak tam
+králově Python.
+A prostě, ne, že by to, jakoby, že
+ty machine learning věci se psaly v Pythonu, že jo, ale prostě
+Python se etabloval jako
+super lepidlo, ve kterém se lepí ty
+C++-ové a Fortranové knihovny,
+protože to museli fakt rychle, tam každý
+procentíčko jako výkuna je potřeba.
+Takže jo, jo, napište
+se to v tom, jakoby, třeba ošklivém,
+nízkourovňovém Fortranu
+někdy i, asi většinou C++
+dneska. Ale pak se to
+používá z toho, jakoby, hezčího,
+pohodlnějšího
+Pythonu. A co skala
+teda, pokud, já předpokládám, že občas
+narazíš i ty třeba na nějaký, nebo nevím,
+na nějaký machine learningový AI
+implementace,
+který se je potřeba tam zakomponovat, jak
+je na tom skala s těma dle knihovnama, nebo jak
+s tím pracuješ, jak k tomu přistupuješ?
+Hele, vím o tom, že třeba, že
+Spark má, jo, tak jak jsem
+mluvil o Sparku, tak on má nejen, jakoby, to
+nějaký vůbec, jako,
+na tom, jakoby, na těm základních
+věcech ve Sparku, tak v podstatě vybourovali potom
+další věci, včetně streamování
+a práce s grafama a další věci, co na tom jako
+Sparku postavili ty
+autoři, Databricks se jmenují,
+myslím, tak, tak
+je prostě AI
+a machine learning věci, ale
+v životě jsem to nepoužil, bohužel
+moc o tom nevím.
+Če je vlastně, aspoň co já
+vím, tak skalu my tady používáme na Big Data
+právě, takže vlastně pro mě byly ty
+ostatní světy, nebo ty části toho tvýho
+šapitola nový, no. Ale
+já si myslím, že to, že prostě tohleto souvisí,
+ani ne tak s tou skalu jako takovou, ale jak jsem říkal,
+ale co kraluje tomu
+machine learning světě, jsou
+jasně používání jakoby spajtnové obálky,
+ale potom všechno napsané z C++.
+A
+prostě ta interoperabilita, a to už není od
+skaly, to je od JVM a od Javie,
+ta interoperabilita mezi JVM světem
+a tím světem je komplikovaná.
+Jo, ale není to úplně jednoduché. Prostě
+v obalit jako C++
+knihovny je mnohem jednodušší spajtnu
+než z Javy. Takže
+ale to teda autoři Javy ví,
+budou to měnit, prostě existuje projekt
+Panama,
+která prostě se bude snažit
+udělat tohle mnohem jednodušší, protože Java taky
+nechce, aby ji všichni jakoby snědlili jako v oběd,
+nebo jak se tomu říká, prostě aby ji
+jako ulít vlák,
+nebo ujel včelí, nebo jak se to...
+Ale
+takže tohle to se změní,
+prostě ta interoperabilita mezi
+natím kódem a JVM kódem bude za pár let
+snad třeba jednodušší, a skala z toho potom bude
+moc taky těžit, ale ta situace dneska
+není tak jednoduchá, no a když
+všechno nechce plus plus, tak to lidi radši
+půjde to spát.
+Takže jsme si prosvištěli
+skalu, řekl bych, od syntaxe
+přes použití,
+balíčkování, verze,
+jak to použít. Myslím si, že jsme to vzali sakum prdům.
+Poslední věc, která mě zajímá, je
+reálnej stav
+lidí teďka na trhu. Vem si, že
+vývojáři nejsou na nic.
+Nejsou na nic, to není, že by hodnotili jejich
+kvalitu. To bych řekl,
+jsou na nic.
+Ale nejsou prostě k dispozici.
+Jak to vidíš spůlem, kdyby jsi třeba ty
+teďka řekl, potřebuji si rozšířit tým,
+potřebuji tady mít dalších deset
+skalistů.
+Může třeba to, že rovnou nabídneš
+jazyk, skalu
+přitáhnout některý vývojáře spíš,
+než kdyby jsi řekl, scháním na Javu, protože
+to samozřejmě nabízí každý druhej?
+To je zajímavá teze. Možná i funguje, ale
+to je zajímavé. Ty jsi jako promluvil jako vlastně
+beroucí týmu, že ty budeš
+scháňovat lidi. Já jsem
+nedávno byl právě na tom druhém
+konci toho provazu
+a mě až úplně překvapilo,
+jak velká poptávka
+po skale je, po skalových
+programátorech. A to nejen po obecně
+skalových programátorech, jako třeba na
+Spark a tak dále, ale i v tom
+relativně malém
+bazénku, tý čistě
+funkcionální skaly. Protože mě to
+dosud mě to překvapilo. Takže
+dobře pro mě,
+možná hůříš trošku pro ty
+lidi, co scháňují skalových programátory,
+ale... Dobře, takže
+z pohledu developera situace je růžová.
+Každá druhá firma nabízí
+to, že k ní můžeš jít dělat skalu, když to
+přeženu. Každá druhá. Já jsem
+právě musel trošku podvádět,
+že jsem hledal
+na tom mezinárodním pracovním trhu. To je
+úplně jiný svět. Tady v Praze
+třeba skala
+se hodně používá do teďka
+v Avastu. Avast je stále
+největší
+zaměstnavatel skalových
+programátorů. Tam je největší
+skalová komunita ve Avastu asi pořád.
+Používá se
+v pár dalších firmách.
+Já trošku z toho
+vyloučuju ten Spark a ty
+big data v skalových programátorům, protože
+je hodně jiný než všechno ostatní.
+No a možná teda, ty jsi
+na to narazil, jak máš pocit, že ty půly jsou velký
+v rámci toho šapito,
+teda funkcionální programování versus
+ty big data. Protože já jsem měl pocit
+celou dobu, jak jsi o tom mluvil,
+že ty big data jsou spíš jako na
+ústupu, ale teď teda spíš mnímám, že
+to tak není. Jak to teda vidíš? A možná oboje,
+pravda. Možná prostě jsou na ústupu,
+ale pořád je to ten největší. Prostě fakt jako
+dneska, když bys jako vzal
+všechno na plantě, podíval se, který z nich
+dělají skalu, tak asi možná většina,
+možná drtivá většina stále z nich dělá
+tu skalu pro big data.
+Ale ten, jako tato skupina lidí
+se asi zmenšuje. A přelivá
+se teda do těch day-to-day
+business aplikací. Do těch prostě
+přesně do těch
+jakoby back-endů.
+Sklána toho je fakt jako dobrá, prostě na takovou
+obyčejnou, nudnou, back-endovou
+práci. Takový chroustání
+a píček. Jo, jo, jo.
+A to teda se nevymyslel já,
+to vymyslel Scott Washington, což je takový
+populizátor F-sharpu, vracíme se k těm jiným
+funkcionálním jazykům. Prostě ten říkal, F-sharp
+je takový jako super jazyk, když chcete dělat ty
+nudný line of business, jako
+businessový aplikace.
+Všechno je na to super, bude to
+zábava. A sklána je v tom velmi
+původná, v tom jako prostě je to tež.
+No a to jsi mi nahrál, to jsi mi nahrál.
+A není to teda vlastně
+jako počase nuda, protože
+já třeba jsem si prošel úplně tím
+stavem, kdy tam nemáš
+moc co řešit, tak se začneš tak jako
+sparchantěle nudit a přemýšlíš, co
+bys jako rozbil, nebo kdyby jsi přepsal
+nějakou věc. Protože víš,
+že to tak máš, sháníš tam
+nějaký tak jako... Challenge. Challenge,
+rush, nebo prostě něco, aby se to bylo
+kurvo něco... Že máš ty vrtochy.
+A víš, co jsi dělal, máš vrtochy. A vzdežívat ty featurey
+a vymýšlet nespisly. A prostě když hasíš celý den
+v produkci, tak je jasný, že nemáš čas na vrtochy.
+Ale když ono to jako napíše, že ono to
+funguje, tak dva dny čekáš,
+tři dny čekáš, říkáš tyvej, to je
+nuda, co budu dělat. Nemáš to podobně?
+Že jako z vrtochů takhle tam vymýšlíš
+nějaký kraviny? Hele,
+možná já osobně
+ne, ale chápu, pokud by jako někoho
+po dlouhé době mohlo představovat. Prostě
+mně se na té skále líbí fakt, že tam je jako super,
+prostě jak je tam ty LGBTI
+typy patenteřů. Jako skála je
+fakt dobrá na doménové modelování. Tam si
+fakt můžeš jako sandalizovat tu
+doménu, poradit si s někým, kdo třeba tady
+rozumí nějakého doménové experta a pak to
+fakt dá se tam hezky naprogramovat,
+jako by namodelovat.
+No jasně no, tak toto je jedna
+část a pak tam můžeš teda sekat jako
+servery jeden za druhým.
+Tak jsou věci, které to třeba umí
+automatizovat, že prostě mít to, aby si
+furt bušil stejný kód, tak třeba to
+napíšeš nevím, OpenAPI,
+aby si splnil ten interface,
+nebo gRPC, protokol buffers.
+No a z toho už se potom generuje
+velká část kódu, který pak třeba nemusíš psát.
+A dává ti to zase víc času, který
+můžeš soustředit na tu
+business doménu, na tu doménu
+na to doménové modelování, kde jakoby
+to je asi ta nejsilnější stránka Skaly.
+Ok. A ještě se možná zeptám
+jinak, jako teď si představ, že jsem
+startupista,
+majitel a teď chci nakodovat nový
+řešení a rozhoduji se mezi
+a teď si vymyslím F-sharpem a Skalou.
+Jsou dvě super volby.
+Musíš vybrat něco horšího. Jasně, ale přijde pan Ondřej
+a já řeknu, pane Ondřej, tak proč bych
+měl vzít tu Skalu, jaký je ten důvod?
+Užijí to peníze, nebo budu veselější potom, nebo?
+No, hele,
+tak já jsem ve startupu,
+který prostě jakoby je postaven na Skale,
+takže jde to, jde to.
+A
+jak to říct, no,
+tak nemůžu tady jako říct, že
+prostě každý startup by měl používat jenom Skalu,
+to se jako nedá říct ani o žádném jazyku
+a jsou prostě lidi, kteří jsou napak v tom velmi
+konzervativně, říkají, helejte,
+to je úplně jako použit ten nejmenstvímovější
+jazyk. Kašlete na to, jestli to je jako
+jazyk, který se nějakým jazykovým
+nerdům, jako je tady pan Pelech, jako
+líbí, nebo ne. Prostě vy potřebujete
+pro vás nejdůležitější prostě nabírat, nabírat lidi a nechcete
+jako čekat, aniž si je jako
+zaškolíte. A jedno, jestli je školíte,
+jako, i kdyby to byl jenom jakoby
+jeden nebo dva měsíce, prostě
+potřebujete růst a růst a růst a
+vy prostě máte řešit biznes a prachy a
+ne, to je nějaký jako jazyk, jestli má
+ještě svoje výhody v tom, že se v tom dá
+psát a že to umí udělat kombinace
+jako vývoje, které je rychlé a zároveň
+jako ta kvalita by, doufejme,
+byla měla jako lepší, protože třeba ten typový
+systém ošetří
+nějaké jako chyby, že se novou potom dí v produkci
+a tím pádem programátoři budou
+mít i času ne jako řešit prostě nesmyslný
+chyby na produkci, ale naopak dělat,
+budovat ty hodnoty,
+no, a
+no, a jak má ten modulový
+systém, tak
+umožňuje jakoby dlouhodobou udržitelný
+jakoby vývoj ty codebase, takže jako
+nezjistíte za tři roky, že tam máte
+totální bordel a musí se to všechno přepsat
+znova teoreticky, teda aspoň by to
+v té skale tak mělo být, že to jako umožní
+dlouhodobý, dlouhodobý vývoj
+právě kvůli těm modulům, oddělování,
+moduloritě. Takže, Poli, abych ti
+odpověděl, pokud chceš stavět
+startup na skalé, co už tam máš
+v ceně je, že nebudeš mít
+velký technologický dluh, takže až zjistíš
+za tři roky, že jsi vyrost a že to celý musíš
+přepsat, protože to je napsaný
+nevím, v relsech, musíš
+to hodit do go, třeba tak
+tak to nebudeš posledně dělat.
+Ale zase vám nechci lhát, protože jako
+bohužel, taky jsem viděl prostě strašně
+zprasený jako skalový codebase, ale
+bohužel, no.
+Prostě skala
+samo o sobě nezachrání nic, ale
+třeba složenete jako šikovný
+chytrých lidí, který si to ještě
+nevím, že budu vrátit, ale
+že si o tom užiju spoustu zábavy.
+Ale prosím tě, ještě než se úplně dneska rozloučíme,
+protože jsme se úplně krásně rozkecali,
+já myslím, že to možná bude
+možná úplně nejdalší díl, to byla jízda.
+Prosím tě Ondro, řekni mi,
+jak to vypadá s meetupama, dejme tomu,
+že to poslouchá někdo, kdo to má rád,
+nebo jsi mu to prodal, říká
+ty jo, to je dobrý, tak chci potkat lidi jako je Ondra,
+chci se s ním pobavit, chci, aby mi řekl třeba,
+jestli hireuji u nich a tak dále.
+Máte teďka nějaký
+meetup, nebo nějaké
+srazy, nebo něco takového?
+Jo, jo, máme meetup.
+To je zase zajímavé,
+protože Skala
+jako taková, je vlastně jako relativně
+používaný jazyk oproti
+třeba, nevím, myslím, že je oproti
+Closure, nebo oproti F-sharpu,
+používanejší jazyk, ale vlastně
+možná paradoxně, minimálně tady
+v Praze,
+ta F-sharková komunita tady žije
+úplně bujárým životem,
+to je jako, to je docela úspěch,
+to je dobrý, lidi,
+co dělají ty dynamicky typovaný jazyky,
+jako Closure a tak dále, tak prostě
+existuje prák Lambda meetup a ten
+jako je, má dlouhou
+tradici a hodně navštěvovaný.
+Zdravíme, Dana.
+Zdravíme, zdravíme.
+Lidi okolo Skaly,
+i když je možná v Praze nejvíc, tak já nevím, čím to je.
+Možná je to tím, že si to odběrou v práci a
+musí potom jakoby si to kompenzovat,
+nedostatek Skaly na meetup, jak já nevím, ale...
+A vás nic nedělá?
+Ale jo, ale...
+Ano, hele, takže...
+Přeci tebe, kdybych měl největší komunitu ve firmě, tak to dojím jako
+svým. Hele jo, prostě
+a vás byl jakoby
+místo, kde se právě konal,
+když to ještě bylo Skala Enthusiasts,
+tak dostáváme se k tomu, co teda
+existuje pro Skalu.
+Existoval dlouhodobu
+meetup Skala Enthusiasts, to bylo ještě,
+než se tam vůbec Skalu dělal.
+Tak se to přetavilo do Functional JVM
+Meetup, to pořádal
+Avast, a to byl
+pokus o to, jak udělat trošku širší
+deštník, aby se
+tam vlezla nejenom Skala, ale třeba Kotlin,
+Closure, nebo prostě další
+moderní jazyky, nebo
+vývoj moderní Javy, který je mimochodem taky velmi zajímavý.
+Tak, aby
+se rozšířily témata, prostě skupina lidí,
+které by to mohlo zjebat, kterým můžou něco říct.
+A to je meetup, který
+jsem teďkon
+nevávno před několika měsíci znovu
+uživil po covidu.
+A to je právě meetup, na který bych vás chtěl
+pozvat, protože máme
+teďko další setkání,
+a to je, koukám tedy do kolendáře,
+to bude
+v listopadu, a bude
+to v pátek,
+bude to v pátek,
+mám já to tady v kolendáře?
+Aha, je to
+v pátek 11. listopadu
+od 18.30, ale
+to je jedno, jestli to si takhle
+nezapíšete do kolendáře, protože to najdete na
+meetupu, na meetup.com. Functional JV
+je meetup, podle toho se to dá
+najít, a
+jsme prostě skupina
+lidí, který baví, většinou
+to jsou skalisti, občas se tam
+objeví někdo z klubu, nebo člověk, který
+ho zajímá skala, nebo funkce
+Ale toho zaženete zpátky, že jo?
+Nahopak, my se snažíme lidi
+přitahovat, zaháčkovávat,
+a nahopak lidi, co třeba dělat, jenom
+Tak se objeví občas někdo z klubu.
+My ho zapudíme tedy.
+A snažíme se prostě prodat.
+Takže jeden... počkej, to je na
+sv. Martina. 11.11.
+Takže husa bude. Takže bude husa, bude
+mladý víno. Bude snižit. Bude snižit
+samozřejmě, protože to se děje
+poslední dobou v republice často.
+A odkolika kde?
+Bude to poslední dobu, jak už děláme
+běžně, ve Skoutském institutu
+na Kampě.
+Takže přes řeku Národního divadla.
+Super. A
+od 18.30. No výborně.
+Tak jo, tak to se budeme těšit.
+Tak to je ta blízká budoucnost.
+A když se podíváme na tu...
+A Románek už se směje.
+Co plánuješ do budoucna? Ondro, ty,
+když se na to podíváme, tak jako obšírněji. Jaký jsou tvé
+plány? Kam míříš?
+Kam já mířím? Tyjo...
+To je otázka. Tak za kolegou do
+Jižní Ameriky, ne? Ano, mířím. Tak to je jedna z těch věcí.
+V blízké době mířím do Marka.
+Pak třeba do té Jižní Ameriky, spodívat se
+za šlefem. Ten je v Brazílii.
+A...
+Tak doufám, že se
+při výjemném etapu, tak to bych byl rád, kdyby se nám
+podařilo udržet. Protože
+já... Hele, když tady
+prostě může být F-sharpová živá komunita,
+a... Tak ona teďka
+zas tak živá není, jako ty mě tady úplně bodáš
+od cítlivého místa, ale to je...
+Já myslím, že F-sharpisti si nemají
+vůbec za co stydět. To je jako...
+To je skvělý, co se tady podařilo
+F-sharpové komunitě vybudovat. Na severu
+od nás v Polsku, z nějakého důvodu,
+nevím vůbec proč. To by bylo zajímavé,
+by bylo možná zjistit, jako co se tam stalo.
+Polsko je skalová
+super velmoc. Tam je jako na hlavu
+podle mě úplně nejvíc skalových programátorů na celém
+světě. A když to prostě můžou v Polsku
+jakoby mít takhle život... Tak my takhle...
+Jezdíš na Lambda Days?
+Kam, prosím? Na Lambda Days, jestli jezdíš.
+Do Polska. Nebyl jsem tam nikdy.
+My jezdíme pravidelně do Krakova, je to
+prda. Takže doporučuji příští rok.
+Teď to přesunuli díky covidu na léto.
+A Krakow v létě je ještě lepší.
+Mám tam pár kolegů
+v Krakově, tak možná dostanou jít
+proplacený celok, stravný, pivný.
+To už se asi nevím,
+ale to bych měl jet. Paráda, paráda.
+No Ondra, super. Bylo to
+opravdu pro mě hrozně
+přínosný, protože já jsem si
+uvědomil, co vlastně skala všechno je
+a co trošku málo, co není.
+Takže moc díky, moc díky za to.
+Díky, měj se hezky. Ať se daří. Já moc děkuji
+za pozvání. Mějte se, díky. Čau.
+Čau.
+Tak jsme se konečně dozvěděli něco o skale. Ondra Pelech
+byl nažvejknutej informacema.
+My jsme ho tady ty jak v moštárně
+úplně to z něj kapalo
+na všechny strany. To je jedno z našich. Já musím říct, že to je
+možná jeden z dílů, kde jsem se nejvíc naučil.
+Jo? No jako o tom programovacím
+jazyce jako takovým, protože
+jako malinko mi to přijde.
+Fakt jak jsi to zmínil, když Pejsek a Kočička
+vařili, v podstatě já nevím, co to vařili,
+doort nebo co to dělali. A nebo
+jak když já jsem dělal startup, jo? Dospodobně
+aktivity. Prostě tak teďka
+bysme mohli dělat pro ty nemocnice a pak to zase
+budeme dělat támhle pro malé firmy a pro velké firmy.
+Snažíš se vyhovět jako více komunitám
+v podstatě v rámci jedné věci.
+Sám jsem zvědavý, jak to dopadne a jestli
+nějaká z těch částí jako umře,
+nebo jestli pojedou takhle paralelně
+furt dál. Já to budu každopádně
+sledovat i nadále, protože jsme se s klukama
+dohodli, že v prosinci
+budeme se všema cloužeristama,
+skalistama a jinýma
+functional JVM-istama,
+že budeme na pivo.
+A popřemejšíme, jak spojit
+ty pomyslné streamy
+ala Ghostbusters, jak
+skřížit paprsky pro 2023,
+co se týče funkcionálních komunit.
+Takže já ti řeknu, když se dozvou nějaké
+novinky, jakým směrem se to
+vrhlo, ale každopádně fakt
+zajímavý.
+Rozhodně, rozhodně a
+vlastně mě to ještě přinutilo, inspirovalo se
+podívat víc na tu Big Data část,
+která vlastně mi, nějak jsem se s ní
+ještě pořád nepotkal, nikde s nikým
+a vlastně neděláme v tom nic v týmý části
+oddělení, takže
+to se určitě chci podívat víc do detailů.
+To byl kurce nadšený.
+Na hrb další věci se mají naučit.
+Ne, ne, ne, začnu číst jenom já,
+ty už by mě zabili teď.
+No tak jo přátelé, mějte se krásně,
+snad vás to bavilo a my se na vás
+budeme těšit zase za dva týdny. Čau.
+Čau, čau.

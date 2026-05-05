@@ -1,0 +1,2579 @@
+Pod vocasem.
+Pod vocasem.
+Pod vocasem.
+Pod vocasem.
+Krásný den, milí posluchači,
+vítejte u dalšího dílu vašeho nejoblíbenějšího
+IT podcastu Pod vocasem.
+No a samozřejmě by to nebyl podvocasí díl,
+kdyby naproti mě neseděl kdo jiný než
+fantastický, úžasný Petr Polipolák.
+Roman Joker provazník
+na druhé straně přátelé a vypadá úplně
+stejně fantasticky, jak se snažil popsat mě.
+Až takhle myslíš, jo? Jo, jo, určitě.
+Dobře, děkuji, děkuji, jsi strašně hodný. Já to vlastně říkám
+proto, aby ty jsi mi vrátil zpátky tu
+pochvalu. Jo, takže zjiště to děláš.
+No fakt zjištěš, Maria, tak znáš mě, já nedělám nic nezjiště.
+Ale děláš to chytře,
+ty vole. Není to poznat, viď?
+Ne, vůbec, vůbec ne, vůbec ne.
+Vypadáš ještě k tomu energicky
+na to, že je 7 hodin na 10 minut ráno,
+tak vypadáš fantasticky. Tak to je zajímavý,
+že to říkáš, protože dneska ráno
+vlastně jsem, že jo, vstal, šel jsem do koupelny,
+pozdravil jsem svoji čtenáctiletou
+dceru, ona na mě tak divně koukala, říkám
+se na mě čumí, tak se vyčešním
+si zuby, že jo, dám se nějak do
+pohody, odjedu a v metu si říkám
+ty vole, ona má dneska narozeniny.
+Tak já ji
+píšu přes vosám, říkám jeho miláčku,
+promiň, samozřejmě znáš tatínka,
+prostě já jsem jako ráno dement,
+takže mně to nedošlo.
+Tak až přijdem, tak já ti poblhou přeju o to.
+A to je skvělý, jak v tom věku,
+už prostě ve čtrnácti letech, už tě to dítě
+jako akceptuje, jaký seš, prostě už
+ani se ti nesnaží jako změnit nebo říct,
+že děláš dobře i špatně. Tak řekne,
+já vím, tati, já jsem si to myslel a takhle
+to bylo i minulej rok.
+Takže prostě jako já ráno,
+skutečně první hodinu, jak vždycky říkám,
+ať stávám, kdy stávám, probouzím se v deset.
+Takže prostě první hodinu minimálně
+jsem jako naprosto retardovaný
+a jednou za rok to vždycky odnese dcera,
+která teda čeká, že ráno stanu a začnu
+samozřejmě gratulovat, já na ní koukám,
+co na mě jak blbě čumí a jdu domů.
+Nové level rodičovství,
+tam ještě nejsem, tak to přijde,
+mám se na co těšit.
+A tak ty máš zase dva kluky, tam to bude jiný.
+Ty budou vám čekat, až jim dáš prachy, ty holky
+ty chtějí takový spíš jako, že poblahopřát
+a obejmout a tak, ty to budeš mít.
+Myslím si, že kluci to budou mít jinak trošku.
+No, tak uvidíme.
+Prosím tě, ještě jsem se chtěl zeptat na jednu věc.
+Jak teďka u vás ve spořce
+rezonujou AI agenti?
+Protože já to teďka slyším všude kolem sebe,
+to je samý AI agent, AI agent.
+Vlastně jsme to řešili
+i na našem firmním
+samitu před 14 dny
+a říkal jsem si, zeptám se tady
+odborníka nejpovolenějšího kolem sebe,
+Petra Poliho Poláka, který určitě v tomhle leží.
+U nás rezonují agenti
+a AI takovým způsobem,
+že my jedeme úplně všechno.
+Fakt, ta firma se toho položila takovým způsobem,
+že opravdu děláme
+agenta z jakýhokoliv kousku,
+kde by to mohlo dávat smysl.
+A někde to
+nefunguje úplně třeba tak dobře,
+ale někde jo. I třeba my máme takovýho svýho
+teďka. Je to
+furt spíš jako chatbot než agent,
+ale měříme tím směrem.
+Takže jo, snažíme se mít hlavu otevřenou
+a je to na začátku.
+Co je tady v cyklu míčku?
+No my samozřejmě taky to okopáváme.
+My taky na to koukáme, kde by se to dalo použít.
+Samozřejmě děláme si nějaký proof of concepty,
+ale říkal jsem si, jestli se pán tebe
+jakým směrem se vydat.
+Ale jako nejsem tam úplně
+v detailu teďka, kde se co děje.
+Ale možná stojí za to, přátelé,
+kdybyste měli někoho, kdo by stál
+za to, aby nám přišel o tom popovídat.
+Tak to by stálo za to,
+si to s ním tady probrat.
+To by bylo zajímavé, to je pravda.
+Možná naši posluchači skutečně, pokud zrovna teďka ležíte
+v tomhle tom a máte k tomu co říct,
+to je to aktuální téma, tak my bychom si vás rádi poslechli.
+No super, a já to rovnou vystřelím
+na LinkedIn, protože
+hodně z vás
+už nám posílá zajímavé typy na hosty,
+za což moc děkujeme.
+Já jsem si říkal, že vlastně stojí za toto
+ještě nabůstovat, aby jsme se podívali,
+jak ten rybníček ještě třeba
+neznáme tady s Románkem.
+Tak jo, takže vy nám určitě napište,
+samozřejmě tak, aby jsme měli větší dosah,
+k tomu se dají použít třeba e-paper
+v kampaně, takže
+třeba nám použijou holky s vyvějatím,
+aby jsme tenhle dosah rozšířili
+a měli jsme vás jako zdroj
+zajímavých hostů a zajímavých témat,
+samozřejmě nejen EI agenti, ale to mě tak napadlo.
+Takže jo, takže
+víme, jak vás oslovit,
+víme, jak nám dáte vědět zpátky,
+holky z vyvějatí vědějí, jak to celý dá dohromady,
+no a co my vlastně víme o dnešním hostu?
+O dnešním hostu, no tak samozřejmě
+je to další člověk z dílníčky
+Aleše Holaná, tímto Aleše znova zdravíme,
+je to host číslo 3 na doporučení vodněj.
+Tam má jakou to várnu, ne?
+On je úplně nemořitelný.
+Aleš, takhle chceš žít
+po tom, co máš tu většinu část
+kariéry úspěšně za sebou,
+tak si jezdíš ve Ferrari
+na Monze někde v Itálii,
+to je jedna jeho záleba,
+a pak pomáháš těm startupům,
+který ti přijdou, že dávají smysl
+a pochopil jsem, že nějakým způsobem
+je propojený i tady se startupem
+Smartguide a už se dostáváme
+k dnešnímu hostovi, k Filipu Kinskýmu,
+který za chvilku dorazí,
+ale to už se zeptáme jeho, jak jsou napojený Aleše.
+Já myslím, že vzhledem, když tak koukám na ten čas,
+tak on už tam někde jste pojený.
+On už tam možná mrzne.
+No tak jo, tak jdeme pro něj.
+Jdeme pro něj.
+Ve studiu s námi sedí náš dnešní host,
+Filip Kinský, ahoj Filipe.
+Ahoj, ahoj.
+Ahoj Filipe, čau.
+Tak Filipe, prosím tě, ty si prej cestou
+jsem už nějaký díl slyšel,
+takže víš, jak to vždycky vykopáváme,
+že taková ta obligátní otázka,
+aby posluchači vůbec věděli,
+s kým mají co do činění,
+tak prosím tě představ se posluchačům,
+kdo jsi, co děláš,
+a ideálně i, jaká byla tvá cesta do IT,
+to máme vždycky rádi.
+Jasně, jasně.
+Ahoj všichni, ahoj posluchači,
+díky za pozvání
+a asi bych i rovnou poděkoval Alešovi Holanovi
+za propojení, myslím, že to je super.
+A taková paní Kolombová tohohle.
+To je ono, já tady ještě jenom poznamenám,
+že Aleš je vlastně mentor
+startupu, o kterém se budeme bavit,
+což neznamená, že ten startup je odsouzený k failu.
+Ono se to posouvá,
+i ty mentoři se zlepšují.
+Poli, poli, tady je jedno pravidlo,
+které rozhoduje o tom, jestli startup přežije.
+Byl u toho Polák? Ano, ne.
+Pokud ne, ten startup má velký šance
+na to se udržet.
+Tyvo, tak to je dobrý, ale.
+To je dobrý, tak to bych mohl pomoct hodně startupům,
+že bych se tam nepověděl.
+Byli by rádi, určitě.
+Dobře.
+Mohlo by to být drahý, ale nám na to smysl.
+Přesně, přesně.
+Tak to jsem ti do toho skočil.
+Dobrý, tak já možná, vlastně co dělám,
+jsem CTO Smartguidu,
+takže vlastně zodpovídám za všechny technické věci,
+ale možná bych se teda vrátil k tomu,
+kde jsem začal,
+což mi přijde taky docela vtipná,
+taková náhoda,
+že vlastně můj táta kdysi dávno
+pracoval tady pod volcásem kousek.
+Tady přes ulicu.
+A já jsem vlastně za něm docházel,
+docházel jako do práce,
+což bylo vlastně,
+jakož už jsem taky, mám nějakej věk,
+takže to bylo takový jako zajímavý období
+na podzim 89,
+prostě kdy on tady pracoval přes ulici
+a já jsem za ním chodil vlastně do práce hrát,
+hrát na nějakých jako šílených komunistických kompech,
+že jo.
+A byla tam jako fakt pro mě první,
+první kontakt vlastně s tím IT,
+s těma počítačema,
+ve stylu, že přijdeš,
+přijdeš takhle do té místnosti,
+tam je přes celou místnostem počítač
+a táta mě tam driloval
+vlastně v simulátoru při stání na měsíc,
+což byl nějaký robotron přes místnost.
+Já to si pamatuju.
+Jako je tady vlastně tahle, jo.
+Teďka se tam dávaly takový ty diskety,
+ty jako jak se říká velká disketa,
+tak to bylo ještě větší prostě.
+Byly taky osmi palcovky nebo něco, ne?
+Já vůbec nevím.
+Já nevím, než jenom.
+Byly malý, tři a půlky, ne?
+Byly pěta čtvrtky a pak byly ještě.
+A ty už nevím.
+A ty si pamatuju, a tak ty jsi mladší.
+To byl takový jako gramodesky vlastně.
+Těch mladších mě úplně rozhodilo.
+Osmdesátej, devátej, už jsi si jako hrál
+jako s počítačem a kolik tě je, prosím tě?
+44, mě.
+Vypadá mladší, viď?
+Klame tě len, klame tě len.
+Asi jak cestuje, no tak něco.
+No tak tomu se dostaneme.
+No a to bylo vtipný vlastně,
+že jednak teda takhle člověk jako začal, začal prostě.
+To jsem měl jako štěstí, že to podle mě byl
+jako úplný konec těchto sálových srán,
+kde vlastně si teda jako přistal tady v tý místnosti
+a nebo nepřistal právě vlastně,
+jako tam byl uprostřed nějaký display zelenej
+a vlastně člověk tam jako měl přistát na měsíci,
+takže jsi tam ladil nějaký souřadnice
+a vždycky se zrozbil o ten měsíc.
+To byl vždycky ten konec
+a vlastně to byl v podstatě jako říjen listopad 89,
+takže vždycky táta dal ty instrukce,
+jak tady prokličkovat Václavákem
+a s nikým se nebavit
+a pak vlastně se to rychle překlopilo do toho,
+že táta už začal pak pořizovat domů,
+že má nějaké vybavení,
+takže nějaké 286, 386,
+kde jsme s bráchou ze Segrou
+hráli nějaký supergamesky
+a občas mě tam táta jako trochu zkusil
+posunout nějaký basic
+ale to úplně jako se nesetkalo s úspěchem,
+takže vlastně co se týče programování,
+tak to jsem se chytil až nějak jako na Gimplu,
+kde jsme měli docela dobrýho učitele
+a vlastně jeli jsme v Paskalu
+a tam jsem nějak zjistil,
+že mi to vlastně jako docela jde,
+že na to mám ten mozek jako správně vykřivený
+vlastně tím správným IT stylem
+a vlastně začalo,
+překlopilo mě to do takového módu,
+že mě strašně začalo bavit se jako učit,
+vlastně a vlastně hodně jsem se do toho ponořil
+a potom v podstatě přišli po Paskalu
+nějaký Delphi, jestli znáte na tyhle ty šílený,
+šílený srandy z dnešního pohledu,
+to byla fakt jako velká bolest,
+ty věci, co se tam...
+Mělo od Portlandu, ne?
+Ty jen editory a tyhle...
+Jo, jo, jo, ale bylo to vlastně nad Paskalem,
+že jo, ale vizuální,
+takže člověk jel takový něco jako v inform si
+a vlastně v Paskalu s takovýma jako fakt...
+A objektový to bylo vlastně,
+to OOP do Paskalu.
+Jo, už to bylo objektový,
+už to bylo takový,
+že se s tím jako dalo nějak jako pracovat,
+já vlastně nejsem nějaký úplně hardcore
+jako developer v Assembleru
+nebo v Cčku nebo něčem,
+takže tohle to pro mě už bylo takový,
+že jsem mohl být efektivní vlastně,
+že já jsem chtěl jako rychle vidět nějaký výsledek.
+No a potom vlastně důležitá věc nějaká pro mě byla,
+že vlastně jsem dostal první nějaký takový křeftíček
+ještě na tom Gimplu,
+který byl o tom vlastně moje máma měla nějaký svůj biznis,
+takový jako docela z hlediska IT úplně mimo věc,
+jako veterinární laboratoř,
+ale vlastně oni tam jako jeli,
+že jo celou dobu tady do těch 90. let
+v tom papírovým módu,
+takže vlastně dneska by se to dalo krásně nazvat,
+že jsem tam provedl jako digitální transformaci
+v 17 letech nebo takhle,
+ale vlastně to byl první křest,
+první křest,
+první zadání bylo ve stylu,
+hele, my tady máme tyhle jako brutální tlustý knihy
+a když někdo přijde tak jako
+a ptá se, co ten jeho Alík prostě má za tu nemocného něco,
+tak oni to tam zašli horečně listovat
+a teď zjistili, že uklízečka prostě tu knihu někam...
+Že uklízečka Alíka zabila.
+De facto.
+Takže vlastně se jako vymysleli,
+že sami tohle je problém,
+prostě chcem si koupit nějaký počítače,
+něco nám s tím udělají,
+tak jsem jim s tím něco udělal
+a vlastně to tam docela jako spokojně fungovalo,
+hodně jsem se na tom naučil,
+to byl právě ten jako drive se si vlastně,
+že jo, musel jsem se sám donutit,
+jako pochopit vlastně ten
+mikrobiznis,
+jako neříkal bych tomu úplně,
+úplně biznis, jako z toho
+tady velkýho IT hlediska.
+No počkej, já nevím,
+jestli někdo z vás chodí k veterináři,
+ale já vždycky jsme tam to odcházím
+s tou účtenkou.
+Hoši, to je kurva biznis,
+takže sorry.
+Jo, já jsem spíš hlediska,
+který komplexivní,
+a oni vlastně jako nedělali
+tady tyhle ty
+úplně ty koncový věci,
+oni dělali spíš ty vyšetření,
+takže spousta nějakých čísel, hodnoty v krvi,
+co tam měřili, já nevím co.
+Takže na tom jsem se jako hodně naučil,
+to byly vlastně nějaký
+právě delfy na začátku úplně,
+ještě vlastně nebyly ty databáze
+ani úplně tak jako vychytaný jako
+teďka, takže to byl jako si pamatuju
+paradox jako databáze, což byl fakt
+paradox, protože to
+jako
+tak
+, mělo velký problémy,
+když se k tomu třeba připojili jako víc jak jedna
+connection, prostě víc jak jako
+jeden uživatel, tak samček
+dokázal jako zničit tu databázi a podobně,
+takže mě to
+potom jako donutilo i to nějak jako
+vyrilísovat
+jako verzi číslo dva, která už byla
+byla jako o pár let později
+na
+Firebase se to jmenovalo,
+taková jako databáze, která už byla
+vlastně asi open source
+nevím teďka jistě,
+ale vlastně už fungovala jako fakt dobře
+a bylo to zajímavý, no, takže
+to mě, to mě nějak donutilo
+se hodně, hodně jako rozhejbat v tom
+IT a vlastně jsem tam potkal i
+nějakou fermičku, která jim tam
+dělala jako IT infrastrukturu
+a oni vlastně
+chtěli se rozhejbat právě
+tím softwarovým směrem a v podstatě
+mě tam jako na místě nahajerovali
+Jako na té veterině, jo?
+Jo, jo, na té veterině
+jsem tam ladil tady nějaký
+nějaký Firebase,
+něčím, a teda, sorry, Firebase
+Firebase se to jmenovalo, teďka si nejsem
+Je to možný, je to možný
+No právě, právě
+Ale nevadí, no
+Ale je to vtipný
+Firebird, jo, jo
+Je to vtipný představ si, že z druhé strany o tom vyprávě
+říká, ale našli jsme super kluka, našli jsme ho
+teda na veterině, ale to je jako
+bedná
+Takže tam je, tak to pokračovalo
+Takže vlastně takhle jsem se dostal
+do nějaký takový jako malýho biznesu
+kde pořád jsem jako se pohyboval
+tím stylem, že je tam člověk jako
+v pár lidech
+a vlastně
+mě ho hodně jako formoval, že jsem byl strašně
+blízko tomu biznesu, že to nebylo jako
+hele, tady máme nějaké zadání, potřebujeme
+tadyhle formulář, kde něco
+jako vložíš a ono se něco někam uloží
+ale vlastně jsem musel
+to vymýšlet tak, aby to
+fungovalo pro ty koncový lidi vlastně, že jo
+a dělat se na nějakou službu smysluplnou
+tam jsme se dostali do
+nebo oni už byli jako
+napojení na
+prostě firmy typu Vitana
+a potom dělali
+Heineken a Kraftfuz
+a podobně, dělali vlastně objednávkový
+systémy
+a vlastně když já jsem tam přicházel, tak tam
+byl jeden týpek, který dělal na tohleto
+na Palm OS, což nevím, jestli
+si znáte, takový
+předchůdci smartphonů vlastně
+takže oni ty týpci objednávali
+ty tatranky
+a nevím co, po těch jako supermarketech
+a bušili to tady do těch strojů
+A to měl i stylus, ne?
+Jo, jo, mělo, mělo, oni pak jako
+přišli i s nějakým modelem
+tyjo, teď jsem zapomněl, jak se to jmenovalo
+nějak VODT, což měl v sobě už jako
+simkartu a telefon vlastně
+a už to byl vlastně tak trochu jako
+smartfon, který to pak nějak zemřelo
+ta firma, takže
+takže to jako nezvítězilo v tom boji, že jo
+ale vlastně já jsem tam o tom dostal jako za úkol
+protože přišla
+nová věc
+v podstatě Pocket PC se to jmenovalo
+jsem o tom Windows Phone, že jo, takže
+takže oni na to nikoho neměli a teď jako
+viděli, že to je nějaká příležitost
+jak to rozhejbat, protože
+jsem se ukázal s tím
+Palm OS jako naprosto
+neproduktivním, že to bylo jako Cčku
+brutální a hardcore
+takže když tam jako chceš
+zapsat znaky, přečíst znaky
+a spleteš si nějakou adresu v paměti
+tak se to celý
+celý nepovede, že jo
+takže vlastně já jsem tam jako
+byl postavený před problémem
+hele tady máme
+Pocket PCčka
+a nevíme jak to udělat
+a udělej nám tady objednávkový systém
+na tomhle a tam vlastně
+jsem měl jako veliký štěstí, že
+jsem byl vždycky takový
+trochu jako na tu efektivitu
+že nechci se úplně plácat
+v tom Cčku nebo v něčem, chci něco
+v čem budu jako hodně produktivní
+a tam vlastně začínal dotnet, jo
+takže vlastně tam byl napřed jako nějakej
+dotnet jako jedna
+což byl porod jako docela
+pak bylo nějak relativně rychlé
+už nás si to Romane Palmateš líp než já
+nějak 1.1 nebo
+no ona tam byla ještě nějaká meziverze, ale oni vlastně
+udělali takovou jako zajímavou věc, kterou kvůli
+té svojí platformě právě
+udělali, byl nějakej dotnet
+kompakt framework, tomu říkali
+což běhalo na těhletěch jako
+Pocket PCčkách a vlastně už to bylo
+jako docela dospělý
+už se v tom dalo jako
+poměrně rychle jako iterovat, rychle vyvíjet
+takže vlastně na tom
+jsem to nějak uchodil
+a vlastně to bylo docela dobrý, byla to jako taková
+sranda, jak jsem říkal, že to bylo blízko toho biznesu
+tak tam člověk opravdu jako občas musel
+zajet do nějaký
+jako párkrát jsem byl ve Vitaně ve fabrice
+a podobný věci, když jsem něco
+něco podělal, něco špatně
+vyrýsoval, tak tam zazvonil prostě
+na zvonek týpek u nás prostě
+prostě ten v obchodě, že jo
+a říkal si stěžovat, takže to bylo takový
+přísný
+je tam furt skážu ty asociace
+jako z veteriny do Vitany
+jo, jo
+to napíšeš potom na linkáč
+z veteriny do Vitany
+co nevím
+tak já jsem z té veteriny, my dneska neděláme polívky
+ale vlastně tam jsem se dostal k tomu dotnetu
+což je tady naše asi společná
+nějaká technologie, takže
+to myslím, že je super, u toho jsem v podstatě
+doteď
+ten dotnet vlastně, já jsem začínal
+takhle v těch dřevních dobách dotnetu
+takže to bylo takový
+hrubý, vlastně tam byla i taková
+nešťastná doba toho Balmara
+a podobných týpků, kdy se to snažil
+jako držet
+nějakej closed source a dělat
+kolem toho tyhle ty nepříjemnosti, což
+naštěstí pominulo, jo
+ale tehdy vlastně
+jsem měl docela štěstí v tom, že
+se objevilo nějaký
+hnutí alt.net, nevím jestli jste
+jo, jo, jo, jo, vím
+tak to bylo docela super, že tam byly strašně zajímavý
+strašně schopný lidi, který
+potom skončili z části
+v Microsoftu a takhle vlastně
+Hamilton, Verissimo
+a Oren, Ejny
+a takhle
+takovýhle nějaký
+lidi, který vlastně
+dělali jako věci typu Enhybrnate
+ale dělali i vlastně
+nějaký předchuce, MVCčka
+a Castle Monorail se to jmenovalo
+myslím a na tom vlastně já jsem
+dělal první nějaký webový věci
+protože tam byla i nějaká potřeba dělat
+jako nějaký webíčky, kde se dělali nějaký
+jako admin rozhranička a takhle
+a vlastně
+zase jsem si musel vymyslet, s čem to teda
+jako budu páchat a teďka jako tam byly ty
+webformsy,
+že jo vlastně, což
+jako tak jako smrdělo nějakýma divnýma
+věcma. Nechme ViewState spát, prosím.
+Přesně. To je strašně.
+Jako zpětně, zpětně viděl
+a jsem docela překvapenej, že jsem byl schopnej
+jako se dobře
+rozhodnout a vlastně si říct,
+že tady ten open source-ovej projektíček
+bude lepší nápad než ten mainstream,
+který byl tady od těch ViewState
+jako peklech a vlastně právě jsem
+objevil ten Castle Monorail a tyhle
+tyhle lidi, který do toho
+docela jako hodně šlapali a jeli hodně
+do toho open source-ů. A to už byla venku
+Nancy? Nebo ještě nebyla?
+To neznám. Vlastně to je nějaká alternativa.
+To byl jakoby alternativní framework
+ala prostě pro ASP.net
+jako v době, kdy třeba dotne pak přišel s takovýma
+těma, jakoby
+takovou tou kratší cestou, jak zapisovat,
+prostě udělat restový API, jako přes ty
+routy a tak dále, že jsi nemusel mít kontrolery
+a takže jsi měl v podstatě jenom Lambdy, která
+tě na nějakou cestu ti rovnou vracela,
+nějakej HTTP handler,
+tak vlastně
+Nancy to měla, myslím, jako
+velmi, velmi... NancyFX, ne? Jo, NancyFX.
+To bylo vlastně možná o trochu
+později seště tady to, a to mě
+teda minulo, protože jsem jako vlastně nepotřeboval
+dělat jako APIs,
+vlastně jsem potřeboval jako dělat webíčky,
+no ale to mě vlastně
+jako hodně, hodně naspruměroval i na
+test-driven development a takhle, takže
+tam jsem vlastně
+docela jako rychle, rychle
+pochopil vlastně
+ty přínosy, prodělal nějaký
+ten aha moment
+a to bylo vlastně jako super,
+to mě jako hodně, hodně
+namotivovalo, naposouvalo, zase jsem se
+spoustu toho naučil
+a vlastně takhle
+spáchal nějaký tyhle
+webíčky, adminy pro tyhle
+ty firmy, pro ty objednávkový systémy
+a další podobné
+věci. No a jak jsme se dostali
+teda ke smartguidu?
+No já jsem tam měl ještě jednou takovou
+mezi, mezi, mezi čas, protože já jsem
+vlastně potom jako začal přemlouvat trochu
+toho šéfa tady té mikrofirmy, ať to
+trochu jako rozjedem, ať jako
+proto vypadalo jako docela, že on je
+jako schopnej se bavit jako s těma velkýma
+firmama, že bychom z toho mohli udělat nějaký
+takový softwarový studio trochu, ale on
+se toho zalék na základě
+nějakých svojich předchozích biznisových
+zkušeností, nechtěl už jak úplně
+jít do rizika, takže. To byl nějaký
+Polák, ale není negrad se podívat.
+No není, není, to je jasný,
+jako to víme.
+Takže já mu jako
+rozumím, ale vlastně mě to
+vlastně trochu jako demotivovalo a řekl jsem si
+hele tyjo, já jsem tady jako
+zasekanej jako v malý firmě,
+určitě to všechno dělám špatně,
+to byl vlastně můj takový mindset, jako
+že bych měl jít jako někam se to pořádně jako
+naučit. Na vyučenou, někam do velkých. Někam jako
+do vyučenou, aby protože oni, já to určitě
+prostě jak se to sám takhle učím, nebo prostě
+jsem tam měl jednoho, dva partiáky nějaký,
+tak jsme sami v tom jako se nějak potáceli
+a měl jsem dojem, že to děláme
+jako docela jako špatně, nebo
+že určitě ve velkých firmách je to úplně
+o level jinde. Takže jsem
+začal koukat právě jinde
+a to byl právě i tady ten
+rozhovor, že jsem byl tady kdysi na pohovoru,
+tak to bylo tady v té době.
+Potom mě nakonec ulovili
+vlastně
+z Unicornu, velkou firmy,
+do tady jako z Pořice
+na projekt.
+Takže jsem se vlastně...
+Přesunul úplně.
+Jsete malej, že jo?
+Jako z mikrofirmičky do makrofirmičky,
+že jo? A prodělal ten jako
+kulturní šok, kde jsem vlastně
+během prvního týdne zjistil, že jsem se
+teda těl sakra jako úplně strašně
+jako plec.
+Jako kulturně
+se splet nebo se splet v tom, že to dělají
+jako výrazně líp, než vy jste tady?
+No, tak jako ty kulturní šoky tam byly
+taky samozřejmě, že jo, ten korporát, jako to funguje
+trošku jako jinak, nemůžeš
+si dělat úplně, co tě napadne
+a tak, jo, ale
+jako najednouček zjistil, že jsme to vlastně dělali
+jako strašně dobře v tý malý firmě.
+Jako test driven development, tam
+jako nikdo v tý spořici nebo tady
+jako neslyšel
+a vlastně
+prostě to bylo trochu jako
+trochu lečba šokem a velký
+jako pain. Naštěstí se mi tam
+podařilo, ale nějak jako vlastně
+přesvědčit ty
+velitele toho projektu
+vlastně
+že jsem schopnej jim pomoct, jako to zlepšit
+vlastně, jo, a vlastně
+dostal jsem se tam do nějakýho
+do nějaký pozice vlastně jako týmlída
+toho projektu, nebo nech tam
+pak bylo víc a nějakýho jako software
+architekta a takhle a vlastně dali
+mi nějaký prostor, za což
+jsem vlastně docela jako
+obdivuju trošku zpětně a jsem
+samozřejmě vděčnej,
+že jsem vlastně mohl se snažit
+to tam jako zlepšovat, což jako byla
+teda jako velký, velký utrpení,
+ale vlastně velký odpor,
+který tam byl v některých místech,
+ale něco se jako povedlo, takže
+vlastně částečně se tam povedly
+nějaký jako vylepšeníčka změny
+jako dobrým směrem i typu
+jako continuous integration a takovýhle věci,
+který tam vůbec nebylo. To tam nebylo.
+Jako něco tam bylo
+v nějakých team foundation services,
+ale vlastně
+jako nebylo upřímně
+a vlastně tam
+to bylo opravdu jako...
+V inform si, to je fesko.
+Ty tady otevíraj, jsi přišel s nožíkem
+otevírat starý rány.
+Takže takhle potom vlastně...
+Tohle bylo v jakém roce?
+To bylo nějak 2011, 2012
+třeba, jako jsem to měl nějak...
+A začal, takže tam jsem vydržel
+nějaký třeba, teď nevím jestli
+dva roky možná
+a pak vlastně
+v rámci toho Unicornu tak nějak
+jako přetáhli na nějaký
+jako nový projekt, který tam dělali na energetice
+a teďka s tím mají docela jako
+velký úspěchy v zahraničí, jako
+se jim podářilo odsiťkat.
+Já jsem koukal na LinkedInu,
+že tohoto prodávají
+i na Blízkém východě
+a podobně, jako nějaký soudský haráby,
+vlastně systém na řízení
+vlastně energetických bůrs
+a vlastně těch přetoků v rámci
+těch různých sítí a takovýhle jako srandy
+docela jako komplikovaní.
+A u toho jsi stál u tohle projektu?
+Jako na nějaký mikročásti,
+protože to je obrovský jako komplexní projekt,
+takže já jsem tam vlastně stál
+jako jsem vlastně si tam mohl
+stavit takový týmeček na v podstatě frontend.
+Tady na tím, což jako není úplně
+frontend, jako něco, čím bych
+úplně se cítil
+jako nejsilnější upřímně,
+ale vlastně tam jako nikoho na to
+jako neměli a byla to nějaká
+další jako taková zajímavá výzva,
+něco se zase naučit, takže
+tam jsme vlastně,
+tam bylo trošku jako smůla, že to bylo
+v takový době, kdy vlastně Angular byl
+v nějakým jako
+prvotních verzích, který jako fungovaly
+a ten React ještě jako nebyl úplně
+zavedený, takže jsme to jako
+splodili nad Angularem, což
+mělo nějaký jako porodní
+bolesti, protože nějaká ta jednička
+nebo co to tehdy bylo, už si tady nepamatuju
+a tak to měla
+jako různý performance, že jo, problémy strašný
+jako na tom klientovi a tak, ale
+ale vlastně se podařilo z toho vybruslit
+a vlastně
+mám za to, že to funguje pořád ještě
+ten frontend,
+že to pořád jede na tomhle,
+takže asi dobrý
+a v podstatě pak už moje dráha
+nějakým stylem pokrašovala do
+Smartguide, no. No, výborně, musím
+teda říct, tohle, ne, tohle je
+tohle je, já myslím, že možná
+jenom ještě tady jako pan Polák
+senior, ten byl trošku delší, to jsme tohle dobu
+byli ještě jako v chemopetrově, ale
+jinak jako seš tak druhý
+nevůbec, to je skvělý a to je hrozně
+rád poslouchám, že se líbí
+a to je skvělý, když máš někoho, kdo už má za sebou
+jako takovouhle cestu, že ti vždycky
+provede tím hřbitovem těch technologií
+že to už si zapomněl, že si v tom kdy dělal
+že si to kdy uměl, že se s tím musel jako
+prokousat, takže... Ale jak to jako geneze
+a tam ten mix těch všech technologií, tak to
+asi vedlo úplně, a ještě k tomu
+ta propojenost s tím biznisem, jak jsi to popisoval, to úplně
+vlastně vedlo k nějakému startupu, kde budeš
+dělat nějakou technickou roli, ne, to je jako
+jak ty z toho vlastně, jak jsi tam k tomu došel
+Jo, tak vlastně
+je to takový, jako že by člověk pro to
+má nějaký dobrý predispozice, si myslím
+tímhletím, než kdyby byl takový ten
+že jo, klasický vývojář, který je
+zavřený v tom jako mikrovýseků
+toho problému, že jo
+ale v podstatě to bylo o tom, že
+jako z tehdejší přítelkyní
+současnou ženou, jsme hodně
+cestovali prostě, že jo, takže to bylo
+takový, taková naša náplň, jsme měli takový jako
+pravidlo, že každý rok aspoň na měsíc někam
+jako vjet, takže takhle jsme
+to praktikovali jako docela dlouho
+než přišli děti
+tím se nám to trochu
+napůl nabouralo, napůl ne
+ale vlastně jako tady potom jako
+ještě napůl nabouralo
+takže ty jezdíš každý rok sám na měsíc
+samozřejmě
+tak teďka třeba chystáme trip do Ázie
+jako s dětma na měsíc, takže
+už vlastně jsme v tom zpátky
+tak trochu, takže od kolika je to zase
+použitelný?
+Ptám se pro kamaráda, jo?
+Tak ono záleží
+jako co chceš, že my jsme si praktikovali
+třeba jako 3 plus
+týdny jako roadstripy po Evropě
+což je taky dost jako zajímavý
+a vlastně si čeku, že třeba přes Balkán
+roadstrip úplně jako úžasná věc
+což bylo vlastně na měsíc, co jsme dávali
+s dětma, když byli jako
+hodně malí, že dcera tý byly snad
+tři, ale jako
+s těma dětma se dá, my jsme byli, když jsme měli
+první dítě, tak jsme byli
+bylo synovi vlastně rok a půl, tak jsme byli na měsíc
+jako fázi taky, takže
+ono se tím dá tak jako probruslit
+ale spíš člověk jako nemá opět
+tu energii na to
+se hecnout a s těma úplně
+malýma dětma jet do tý Aziény
+nebo takhle jako dál, teď vlastně už mám děti
+kterým je jedenáct a osm
+takže to už je takový, že
+si z toho i něco odnesou
+no a
+no takže pojďme k tomu zpáškují
+jo vlastně
+proč jsme tady vlastně
+takže jak je to
+proč jsi to cestování, vlastně jeden kamarád mě
+seznámil s mým současným
+partiákem, CEO Smartguide
+Honzo Doležalem
+který vlastně taky jako hodně cestoval
+a on vlastně je
+biznisovej člověk a přišel
+s takovou ekologickou myšlenkou, která
+mě trápila taky, ale že by mě to vyprovokovalo
+udělat jako startup
+na to jsem neměl úplně morál
+sám, ale on přišel
+jako s myšlenkou takovou ekologickou
+hele prostě tady cestujeme a furt jako
+jezdíme s tou kilovou knížkou
+toho Lonely Planetu a když je
+jdeš jako do té Indie, tak jako opravdu
+je to už jako velký oprůst, protože ta knížka
+snad má i víc než kilo a prostě
+tam už jedeš stylem, že půlku té knížky
+utrhneš, protože tam jako nepojedeš
+tak to necháš doma
+a vlastně jako proč tohle děláš
+když máš jako smartphone jako v kapse
+takže to byla naše
+to byla naše jako původní vlastně vize
+na který jsme si
+vlastně i s x lidma
+jako potvrdili, že to fakt je jako
+problém, který jako není vyřešený
+a podle mě bohužel jako není vyřešený
+dosud, protože máš jako
+Google mapy, máš jako TripAdvisor
+máš jako spoustu věcí, který
+vlastně ti nějak jako pomůžou v tom cestování
+ale vlastně
+zpětně, zpětně když si to člověk jako uvědomí
+tu knížku, teď jsem ji měl zase nedávno
+v ruce, tak ten UX, co tam někdo
+jako spáchal, je úplně jako
+absurdně dokonalej, tam jako někdo strávil
+jako vlastně teď už
+asi desítky let na tom jako
+pilování toho UXu na papíře
+vlastně a jako
+je to docela výzva, podle mě to je jako
+pořád i přenýst do digitálu
+teďka ty data, teďka
+by to bylo všechno up to date, aby se
+mohl všude prokliknout, že jo
+a tak, takže to byla vlastně
+naše vize a
+říkám trošku jako byla, protože
+vlastně my jsme to založili
+před covidem, což bylo
+jako super časování samozřejmě, že jo
+na Travel Startup, takže jsme se
+málem tady přiblížili
+tady v polácký cestě
+jsem rád, že už je to termín
+všechno
+takže jsme vlastně nějak začali
+něco jsme vyprodukovali, já jsem napřed začal
+teda sám vlastně spáchal jsem nějaký
+MVPčko, na kterým jsme si potvrdili
+tehdy na vlastně
+Ankorvat v Kamboči, že
+vlastně ten průvodce
+kterým je od začátku jako
+jedeme na GPS
+jako triggering
+tomu říkáme, to znamená
+nějak to sleduje tvojí polohu a když přijdeš
+na to zajímavé místo, tak ti to začne vyprávět
+je tam nějaký audioguide
+a na tom jsme si vlastně
+i otestovali, že to lidi
+prostě reálně kupujou, je o to
+vlastně zájem
+a tím jsme potom jako si řekli
+OK, tak to jdem rozjet jako pořádně
+potom se já jsem na tom strávil asi takhle
+půl roku na tom MVPčku
+takže jsme
+uvedli to do nějakého takového stavu
+kdy už
+jsme tam měli toho kontentu
+toho těch destinací jako víc
+a pak přišel ten COVID, který
+nás donutil vlastně
+se zamyslet,
+jak to udělat,
+když vlastně ten cestovní ruch jako není
+a vlastně nás to navedlo
+na docela dobrou cestu
+v podstatě B2Bčka,
+kdy mi vlastně Smartguide
+teďka, ono to jako zvenku asi působí
+furt jako, že je to hlavně pro ty
+koncoví cestovatele
+a vlastně pořád trochu jako je,
+ale vlastně ten začátek pro nás
+je ten biznis, to B2Bčko,
+který dělá v tom cestovním ruchu
+ať jsou to nějaký
+jako muzea nebo
+povbasist
+nebo nějaký lodičky někde, který
+potřebují provádět i turisty,
+oni vlastně i přestankovici
+si sami jako uvědomili,
+ten cestovní ruch je strašně, že jo,
+z kost na těle jede furt jako na papíru,
+na PDFkách, když jako mají
+digital, tak jsou to PDFka
+nebo byly
+a oni se tam začali dostávat jako do těch
+problémů, že už je to dotlačilo do toho digitálu
+vlastně ten COVID
+a my jsme jim v tom začali vlastně pomáhat, že jo,
+takže tady třeba v Praze jezdí,
+když ho ponapol v basiteckách
+se Smartguidem, dřív jako měli každej
+autobus na jiný jazyk,
+protože díky Smartguidu mají jeden autobus,
+kde mají 16 jazyků
+a vlastně tam nemusí mít
+z toho člověka, který jim to jako vykládá.
+A to funguje, že oni teda mají
+jako smartfony, mají tam připojený sluchátka
+a ono jim to je Smartguide,
+jim dělá toho průvodce.
+Přesně, tam je vlastně ten obsah, my to budeme
+jako prostě jednu platformu,
+globální platformu, takže jedna
+apka, kde jsou všechny průvodce
+a ty biznesy.
+Díky tomu je to pro ně samozřejmě jako
+řádově levnější než
+to, co pořád ještě spousta
+hlavně teda polostátních různých
+biznesů za různý dotace a podobně
+praktikuje, že si nechají vyvinout
+od agentury X jako mobilní
+apku s průvodcem a ona
+jako s další verzií Androidu nebo něčeho
+zemře prostě a má
+jako dvě hvězdičky na storu a 400
+žení, že jo.
+Takže
+zákazníkem jsou
+ty města, jo? Zákazníkem jsou
+města a firmy
+v turistickým ruchu, všechny takovýhle
+věci, takže my máme od tady těhletěch
+jako biznesů
+jako vyloženě super privátních
+přes muzea, indoor
+podporujeme nějakým stylem,
+tak máme ale i celý
+města nebo máme i
+celý země v některých
+případech, jo?
+Takže
+je to takhle jako na
+kombinovaný, no?
+Ty jsi vzmiňoval vlastně i ty indoor
+zákazníky, tak tam to asi není přes GPS-ku,
+jak tam řešíte technicky?
+Jasně, no, to je právě taková
+sranda, že my toho jsme
+postupně museli vztřebat jako technicky
+docela hodně,
+takže my jsme postupně dodělali
+vlastně
+díky nějakýmu dílu, který máme
+na super zajímavém místě ve Švýcarsku,
+Jungfraujoch se to jmenuje, taková
+Jungfraujoch, je vlastně jehora
+Jungfrau, nevím, jestli znáte,
+prostě čtyřisícovka a
+vlastně tam vyjdeš vláčkem do, nevím,
+3500 do nějakého sedla, tam se můžeš
+kochat jako na ledovci a mají tam
+nějaké věci. To jsem tady slyšel, oni dokonce
+mají akcie, ty si můžeš koupit akcie toho vláčku,
+jestli to je ono, jestli to je ten
+snahý vláček. Prosím tě,
+ty si vykupuj hlavně akcie vláčku, ať ty lidi
+ještě dojedou. Až se dojedou.
+Počkej, tak to snad ne,
+ty vole. Tady je to,
+ale to nebudu asi odbočovat jako do té lokace.
+Ta lokace je super, ale oni vlastně právě
+přišli s tím, že by rádi
+tohleto měli i v tom indooru,
+i to, že tě to jako upozorní,
+někam si přišel. A samozřejmě na to je
+technologie přes Bluetooth Beacons,
+se to jmenuje. Takže někam
+nalepíš nějakou malou Bluetooth potvoru
+na baterku nebo na elektriku
+a ona to pípá
+nějaký IDčka, a ty si
+přes to jako pochopíš, co teda máš
+jako hrát. Takže tady na tom
+jsme to postavili,
+ale není to
+jako
+jediný, protože samozřejmě ty
+Bluetooth Beacony nejsou úplně
+jako super jednoduchý na tu
+instalaci a podobně, takže ono
+nám stačí
+i vlastně třeba, nevím,
+QR kódy. Prostě tady třeba v Praze máme
+klamgalasů v palác, kde to mají
+docela jako hezky
+udělaný, než tak jako doporučuju.
+Tam mají super, super audio,
+nahraní opravdu profi od
+herců a podobně, že to má fakt jako
+super příběh a tam to mají
+udělaný přes QR kódy, takže přijdeš, tam
+do nový místnosti, tam je nějaká tabulka,
+naskenuješ a jedeš.
+To je vlastně, teď to trošku odpověděl
+na otázku, kterou jsem chtěl vysknout, a sice
+jak to vlastně škálujete,
+ale když máte novýho zákazníka, tak on si
+sám namluvá to audio, jo?
+To je různý, my vlastně
+máme nějaký content team, který
+udělá jako cokoliv,
+kdo řekne někdo, někdo je
+v modu, my nabíříme i, my jedeme
+vlastně s těma B2Bčkama na nějakým freemiu
+v podstatě, takže máme
+otevřený content management systém, kam se může
+každý zaregistrovat
+a jít si dělat jako guida
+pro cokoliv,
+ať je to indoor, outdoor
+a foodie, turka
+nebo prostě muzeum.
+Potom tam máme nějakou monetizaci,
+nějakou pseudoreklamu, kterou
+mu tu experience
+nejupé poškozujeme,
+ale prostě ho trošku to B2Bčko
+nutíme do toho, aby si u nás zaplatil
+nějakou subscriptionu nebo nějaký služby
+a
+my jsme mu dali jako skutečně profi
+freemiový produkt bez reklam
+a podobně.
+Jsem odbočil o to audia
+a omlouvám se, teďka je to o tom,
+že vlastně někdo,
+některý ty biznesy mají třeba
+jako vyloženě už svoje lidi, svoje nějaký
+studia a jsou skupní si to sami
+nahrát, to byl tady třeba příklad toho
+klamgalasovýho páce, kde
+prostě mají svoje nějaký herce nebo
+agentůrku nebo něco takovýho
+a vlastně doručejí to.
+A vy jim teda dáte platformu, přes kterou
+oni to pak doručejí, nastavují. Přesně, oni to tam
+naklikají, takhle jako náš nějakej
+content team to jenom zreviduje, že tam
+není něco jako závadního
+reklama z prostřárny
+nebo něco a pošle to
+do produkce a vlastně hotovo.
+Takže za jako pár hodin
+to můžeš mít, ale vlastně
+to, či my se to snažíme samozřejmě
+posouvat, je nějaká automatizace,
+potažmo i nějaký
+AI věci, automatický
+překlady, textu z píče
+a podobně, takže
+vlastně jsme schopní
+teďka vlastně jako udělat to,
+že prostě nějaký
+městečko, který chce guida, tak my
+a nechtí na tom strávit čas,
+tak my jsme vlastně udělali mašinky, který
+ti vlastně, když
+to zrychlíme jako GPTčko,
+když o tom něco ví, tak vlastně
+jako uděláme content
+přes AI,
+klikneš po druhý,
+máš 30 jazyků,
+máš tam jako textu z píč,
+audio a klikneš
+po třetí v hodzovkách a je to v produkci
+vlastně, takže
+takovýhle jsou jako
+varianty vlastně, jo, třeba jako
+hodně často se využívá ten textu z píč,
+který je vlastně pro ty biznesy
+takovej,
+není to dokonalý samozřejmě, že jo, ta experience
+pro toho uživatela není úplně
+skvělá, ale vlastně je jako dost
+dobrá good enough, aby
+to používali a když je to nějaký
+biznes, který mu to fakt jede,
+nebo mají svoje lidi, tak se tam
+řeší to human audio.
+Mě zaujala jedna věc, ty si říkal,
+že vlastně řešíte to, když nemáš
+úplně přístup na GPS-ku,
+nemáš prostě viditelnou oblohu, jsi někde
+v podzemí, stejně to funguje díky těm bíknům
+nebo díky těm QR-kám, jak řešíte to,
+že jsem někde v nějaký řiti světa a nemám
+přístup k internetu, dá se to nějak
+tohle i obejít?
+Jasný, tak dá se to obejít, jedna z těch našich
+propozice, my vždycky si říkáme,
+že už to nikdo asi nebude ani chtít,
+ale že je to takový divný, že to vůbec nabízíme,
+ale to staho ani do offlineu vlastně,
+takže ty máš nějakou destinaci,
+třeba paradoxně to naše první místo,
+na kterém jsme začínali vyšívat
+ten Ankorat v té Kamboži, byl přesně,
+tam byla jako velká síla tady
+v té propozici na ten offline, takže
+seš někde na hotelu nebo v kavárně
+nebo někde na Wi-Fi-ně, stáhneš
+si to a pak už jedeš vlastně
+v offlineu. Takže poptávka
+potom stále je? Paradoxně
+potom stále ta poptávka je a ono
+vlastně i tím indorem,
+že třeba, já nevím, teď jsme dělali
+kasemata tady na Vyšehradě
+nebo i jiný lokace, tam prostě ten
+internet fakt jako není a oni tam tu Wi-Fi-nu
+nenatáhnou, že jo, proč by to dělali, takže
+tam ten offline pořád
+vlastně kraluje, jako no. Tak super.
+Takže ten business model, jasně,
+tady máš prostě B2B, máte
+nějaký podmínky, za který to teda dáváte
+tomu konkrétnímu zákazníkovi.
+Já jsem ještě přemýšlel,
+že to můžete mít i docela zajímavý
+data. Přemýšleli jste
+třeba, jak monetizovat ty data?
+Já bych se možná ještě trochu jenom
+k tomu biznisu vrátil, abych to upřesnil,
+protože ono, vlastně ta naše vize
+je, my jsme pořád trošku jako zůstali
+u té B2C vize a vlastně my tam pořád
+dlouhodobě vidíme to, že
+vlastně ta monetizace
+těch B2C-ček bude jako daleko
+zajímavější, jako volevl
+větší peníze, než
+jdou z těch B2B-ček a teďka ty B2B-čka
+nám slouží jako
+akvizice uživatelů zadarmo
+a vlastně ta naše vize je
+tím stěnem pokračovat a vlastně
+budovat i tu B2C monetizaci.
+A
+teď teda se vrátí...
+Dneska za to ten custom neplatí, ale
+jako by myslel ten koncák.
+Hele, platí,
+my totiž máme dva druhy těch uživatelů,
+to je taková naše specialita
+i jako komplikace vlastně poměrně značná,
+že máme jako nějaký
+B2B akvírovaný
+uživatelé, který samozřejmě
+mají všechny funkce odemčený,
+protože si ten B2B zákazník
+nám zaplatil, tak my vlastně pro toho,
+pro tu destinaci, pro to muzeum
+nebo cokoliv vlastně odemkneme všechny funkce,
+ale když by si šel přímo
+ze storu, ne přes to B2Bčko,
+taková ta čistá B2C
+akvizice a řek si,
+hele, chci je do Paříže, tak tam máme nějaký
+jako freemium, nějakou subscriptionu
+a už je tam vlastně nějaká
+B2Cčková monetizace, takže vlastně
+takže buď tam jsem jako individuálně
+a nebo zrovna jsem naštívil muzeum,
+který s váma má nějaký partnership
+a ty mi to jako zaplatili.
+Přesně, my to taky vlastně prezentujeme,
+že vlastně je to nějakej sponsor, který to
+za tebe zaplatil.
+Jasně. No a já jsem se ptal
+na ty data, jestli ty data jsou
+jako monetizovatelný podstatně.
+Takhle, to je jedna z tý naší
+B2B propozice je právě
+i ta datová analytika, protože
+samozřejmě ty biznesy
+dosud byly
+a jako ze znační části jsou
+jako strašně slepý, protože jim tam někdo chodí
+a oni pořádně nevědí, kdo to jako je.
+A teďka díky smartguidů vlastně
+oni začínají do toho vidět.
+Takže my sbíráme
+poměrně, jako hodně dat,
+každý kliknutí samozřejmě, jak už to bývá
+teďka v tý dnešní době,
+v tý apce je vlastně
+sbíraný do nějakých Firebase analytics,
+BigQueryy a podobně.
+Anonymizovaný, jo.
+Takže
+na těhletěch datech my stavíme
+nějaký dashboardy,
+který vlastně jsou součástí té naší
+B2B subscriptiony,
+který si můžou ty naši partneři
+zaplatit a potom mají přístup do
+vlastně nějakého analytického dashboardu
+pro tu svoji destinaci vlastně.
+Takže já jako třeba provozovatel
+muzea poznám, že tady
+v téhleté části se mi zracujou
+jako geronti a tady neopak jako mladí
+chodí tady na to interaktivní.
+To by bylo ještě jako, to je o tom,
+že jsem říkal, že je to nějak anonymizovaný,
+takže mi tam jako tady ten level teďka
+nemáme, ale určitě tam jako zjistíš
+různý věci třeba jako v tom Jungfraujoch
+a jak jsme se tam bavili o těch Bluetooth bíknech,
+tak tam třeba jako řešili, že
+vyloženě v té analytice viděli, že
+na některý místa jim chodí ty lidi a na některý
+místa jim nechodí ty lidi
+nebo jim chodí mým a co s tím
+teda jako uděláme a nějak to tam jako řešili
+a vlastně jim to umožnilo
+toho jo. A nebo
+třeba i vidí, že tam prostě jezdí
+oni jsou zrovna Jungfraujoch
+jako poměrně
+poměrně
+profesionální, zdaťný, takže oni jako docela
+hodně vidí do těch návštěvníků svejch,
+ale jsou jiný destinace, kde
+nejsou takhle daleko a tam pořádně ani nevědí,
+který třeba národy tam kolik
+jezdí a teďka jako třeba tam mají
+nějakou, třeba hele nám tam jezdí
+italové a my tam jako nemáme vůbec
+vlastně nic jako v italštině, že jo,
+tak s tím něco uděláme a to jsou jako
+podněty, který vlastně ta naše
+analytika jim tam jako přináší
+A součástí ty analytiky
+tady, když vlezu na Smartguide
+na stránky, tak tam je hned heatmapa
+tak to je vlastně součást
+Heatmapa je na bázi právě těch GPS-ek vlastně
+a je to vlastně součástí toho
+je to nějaká už jako prémiovější
+analytika řekněme, ale vlastně
+když děláme s nějakýma těma
+městama, kde vlastně ta propozice
+máme několik jako vertikál
+na který cílíme
+tady ta heatmapová věcička je
+důležitá právě pro ty městečka
+a
+protože oni často řeší takový ten
+overturismus a tyhle ty problémy
+a my vlastně i díky
+týhletý analytice
+a díky dalším věcím
+jako třeba personalizace, o kterých se můžeme
+můžeme ještě bavit
+vlastně jim umožníme třeba řešit ten overturismus
+protože oni vidí, hele tady nám lezou nějaký lidi
+a my bychom chtěli, aby nechodili
+jenom na ten Karlův most, že jo, nebo k tý
+Eiffelovce, tak třeba jako uděláme nějaký
+zajímavý obsah na, nevím, Žižkově
+prostě, jo
+no to trošku tam
+my jsme tam měli připravenou otázku na udržitelnost
+cestování, kterou jsi zmiňoval někde na
+LinkedInu, je to to, co říkáš, ten
+overturismus, nebo za tímhle
+slovem, nebo slovem většinou
+jo, je to v podstatě o tom primárně
+ten overturismus, ta
+přehnaná koncentrace na
+lidí na jednom místě, protože
+ono je to i z hlediska nějaký
+dostupnosti těch informací a toho,
+že dneska cestuješ
+jo, jsme zpátky
+trochu v tom lounitanec stylu, že prostě
+jdeš, napíšeš top ten places
+jako v Paříži nebo něco, že jo
+a všichni jedou na těch top ten places, což je
+jako blbý, že jo, prostě
+takže my vlastně
+se snažíme nějakým způsobem tohle řešit
+vlastně jsme asi před, jo, nevím
+rokem a půl, nebo kdy, možná dvěma
+vlastně udělali nějaký
+srandičky
+na bázi machine learningu
+který vlastně řešej
+jako personalizaci a doporučování
+míst na základě tvýho jako
+interes profilu, takže
+my máme nějak jako vlastně
+tím machine learning modelem, který jsme si
+vlastně postavili, jestli klasifikujeme
+ty místa, jestli je to prostě
+kostelíček nebo prostě
+supermoderní nějaká věc a podobně
+a vlastně v té apce
+nějakým způsobem podobným jako
+klasifikujeme ty
+uživatele v podstatě, nebo bude se tam
+nějakej ten user interest profile a vlastně potom
+jsme schopní přes
+vlastně takový
+ty klasický algoritmy
+prostě podobnost vektorů
+prostě a tak jako doporučovat ty
+místa, který někomu jako vyhovujou
+takže když máš ty děti, jezdíš
+s dětma někde
+koukáš jako po zoo a podobně
+přijedeš prostě někam jinam, tak ti to
+doporučuje parky, zoo a podobně
+místo. A chcete po těch lidech,
+aby i třeba lajkovali, jak se jim líbil
+ten konkrétní site
+nebo je to jenom
+vložení na tom, že se tam vyskytli a na základě
+toho jim to doporučujete.
+Teď jsme v nějakým takovým
+UXovým, řekněme začátku
+tady v tom, myslím, že tam máme jako hodně
+prostoru to zlepšovat, teď vyloženě
+je to na bázi toho používání
+takže když si ve Smartguidu hodně prohlížíš
+jako muzea, tak si tě zaškatulkujeme
+jako muzejního člověka
+ale jako
+vidíme tam jasný
+možnosti, jak na tomhle pracovat dál
+máme tam i nějaké možnosti
+jako lajkování
+rozlišujeme, když třeba prostě já nevím
+si pustíš už audio o tom místě
+zabereme jako ještě další
+že tě to fakt hodně zaujalo
+když to zalajkuješ, tak to ještě víc zaujalo
+takže to bude pohled
+na bíze bordeli, když budeš někde
+jak jsi na to přišel?
+co chtěl vědět, jak na to zareagovat?
+není to pravda
+to byl taky blbej por
+prosím tě, mě ještě zajímá
+samozřejmě i tím, jak ty to celý popisuješ
+zní to velmi komplexně
+a moje otázka je na snadě
+kdybych se chtěl dostat do škody
+té technické šťávičky, si můžeš vysvětlit
+na čem je to teda postavný
+protože prakticky to má několik částí
+určitě zatím bude nějaký mohutnej backend
+ten mě velmi zajímá
+a pak jsme se bavili o mobilních aplikacích
+to je taková ta druhá část
+a třetí část, kterou vidím poměrně komplexně
+teď zvenku, kdybych mě oprav
+jsou ty geodata
+a vůbec ty mapový podklady a všechny tyhle věci
+které se týkají času a prostoru
+někde uloženým v databázi
+takže vyber si klidně z kterého cípu
+to chceš vzít, ale
+Jasný, možná začneme z toho backendu
+to je takový přirozený začátek
+ten musí být, my jsme v podstatě
+napřed začali, my jsme jeli
+hrubě, agilně MVP stylem
+takže my jsme začali bez backendu, jsme měli nějaký
+cloudovej folder, kde byly
+nějaký JSON faily
+až takhle, jo, to bylo
+prostě hodně startupových přístupů
+přesně hodně startupových přístupů
+tak myslím, že vlastně dobrý
+ale tak postupně přece jenom
+nějaká potřeba toho
+backendu se vyskytla, takže teď máme
+robustní backend, je to postavený na dotnetu
+na AWS
+běžíme v podstatě
+vlastně
+za to, že i to by je blízký téma
+Domain Driven Design a CQRS
+a já už jsem zmiňoval, to je
+Driven Development a tak, takže tyhle
+A proč jste na AWS, proč nejste na Azure?
+Bych čekal, že vám bude blíž jako na dotnetu
+No tak jako z mýho dotnet
+z pohledu je to vlastně jedno
+my jsme chvíli i byli
+na Azure, ale vlastně
+u těch startupů je to takový, kde dostaneš
+ty kredity a ty sledy, tak tam
+tam jdeš a vlastně
+To jste v Dockeru předpokladám
+Jo jasný, takže pro nás je vlastně poměrně
+nebo se vždycky řekne poměrně jednoduchý
+ale ta práce tam nějaká je, že to
+zmigrovat do těch alternativních služeb
+ale jako ano, no
+jedeme na Dockeru, nějaká
+postgre, databázička
+redisy, message queues
+teď
+nenapadá se dalšího na ten
+machine learning, tam používáme nějaký
+SageMaker věci
+a tak, lambdičky
+nějaký pomocný a
+pěkně
+Používáte nějaký mass transit?
+Nebo jak vlastně používáte? Já s
+AVSkem z dotnetu tolik nemám
+jako zkušenosti, takže jestli se tam používá
+nějaká obecná knihovna třeba pro ten message
+queuing, nebo jestli tam bylo, že jdeš pro nějakých
+nativních SDKček?
+Jo, my používáme takovou jako šikovnou
+minimalistickou věc, jmenuje se to Ribas
+Ribas dotnetí, věcička, která
+vlastně, mně přijde, že těch knihoven je víc
+ten NServiceBus, asi
+ten mass transit taky jsem slyšel
+tak oni většinou jako umožňují ten podvozek
+jako vyměňovat, tak jako ono je to
+je to abstrakce, podobný, přesně
+tak, no, takže
+tohle používáme nad nějakým tým
+SQS, FavSku
+a funguje to dobře
+Takže to je ten backend? Přesně tak
+Ještě tady jenom zeptám, ty jsi zmínil teda
+Postgre, AVS, ale mluvil jsi i o BigQuery
+Je to tak
+To už se možná posluhováme do té
+apky, takže my máme vlastně apku napsanou
+v React Native
+používáme tam jako Firebaseový
+věci, Firebase Analytics a vlastně
+aby člověk mohl nějak
+jako dobře vidět do těch dát, tak ono
+sice Firebase Analytics, Google Analytics
+má nějaký user interface
+kterým se můžeš dívat na ty data, ale vlastně
+když s tím chceš fakt něco jako dělat
+tak skončíš vlastně v něčem
+jako oni mají tu BigQuery
+což je vlastně
+že jo, ta taková jako
+velkou databáze a
+na tyhle ty data, takže nám tam
+jako proudí teď nějaký
+vlastně, já mám takový
+jdem, že jako giga dvě jako dat
+za den vlastně, tady od
+těch uživatelů, který nějak
+procesujeme a vlastně
+přes tu BigQuery nad tím stavíme
+v Looker Studio od Google
+nějaký dashboardy, který
+vlastně buď jsou interní
+pro naši vlastní potřebu, anebo
+jsou vlastně, jak jsme se už bavili pro ty biznesy
+aby oni věděli, co jim tam
+chodí za lidi
+ty jsi zmiňoval
+React Native
+jsem trošku překvapen, že vlastně třeba
+jste nešli do nějakých nativních věcí, ale na druhou stranu
+tím, jak jsi popisoval, že jste začínali
+startupově s těma filama, tak vlastně možná
+ono to dává smysl spíš
+vzít něco, co rychle funguje
+a jet dál, nebo proč jste nešli
+třeba přímo do nějakýho jako native
+jako native androida, jo
+no tak to je samozřejmě o těch
+kapacitách, že jo, a i o tom
+i když je nějaká velká firma, která má
+jako ty kapacity, tak pořád
+je můžeš nějak jako koncentrovat na to
+aby jsi spíš jako budoval nový a nový
+featurey, než jako budoval paralelně dvě
+codebases
+to jako za mě, když už člověk musí dělat
+tu mobilní appku, což je samo o sobě takový
+jako téma, že vlastně není dobrý nápad
+dělat mobilní appku, když to tak
+jako řeknu, protože ty webový věci
+jsou samozřejmě jako daleko
+míní complexity a daleko daleko
+jednodušší na zprávu a tak, nás do toho
+vlastně nutí nějaký ty
+funkce, ať už
+jsou to prostě tady ty
+GPS věci, jako na webu trochu
+fungujou, ale vlastně když tam
+člověk chce dělat nějaký tech geofencing
+a podobně, tak to už je jako
+obtížnější, bluetooth beacony
+a podobně, to už jako na tom
+může člověk zapomenout skoro úplně
+nebo nějaký augmented reality
+co děláme, ale to na webu taky trochu je
+takže
+vlastně bylo to na začátku kvůli těm kapacitám
+já jsem jako od začátku věděl, že jako
+nechci mít dvě codebases, protože
+z toho se jako
+zblázníš, potřebuješ na to taky jako
+hodně kapacit, aby jsi to
+udržel, takže z tohohle důvodu
+no. A jak vám funguje
+React Native? Jste s ním jako obecně spokojený, nebo třeba
+přemýšlíte o flatru, nebo
+ale to určitě jako nepřemýšlíme
+že jako už neněkam jinam
+to by byla
+jako ta naše další cesta, pokud půjdem někam
+tak to bude web, jako rozhodně
+to je jako jasný
+a takže my jsme s ním
+v podstatě jsme s ním jako spokojení, rozhodně nám to
+jako brutálně šetří práci
+jsou tam samozřejmě nějaký
+nějaký věci, který vyžadují pořád ten nativní
+vývoj, protože tam máš samozřejmě možnost
+když děláš nějaký
+speciálicky typu ty bluetooth bíkny třeba
+tak vlastně tam máme nějaký kusy
+nativního kódů
+který tyhle ty problémy
+jako řešejí, ale jako
+nevím, 98% toho kódu
+je podle mě jako v TypeScriptu
+a v React Native, takže
+Co se týče těch mapovejch
+podkladů a vůbec těchto dat, je tam
+nějaká specifická věc
+kterou by stálo za to jako vypíchnout
+nějaké, já nevím, třeba je ukládáte
+jinak, nebo je to prostě opravdu jako vy v Postgres
+a vy s tím pracujete jako
+se standardníma, prostě řekněme, řádkama
+Ty, ty, ty, jestli ti jde vyloženě
+o mapový podklady, tak to je vlastně už
+dneska, dneska komodita vlastně
+takže my používáme Mapbox, což je
+prostě globální
+firmá i prostě věci typu
+nevím, že třeba Strava používá
+Mapbox prostě, takže to je firma, která
+se zabývá těma mapama
+a vlastně takže to
+hostuje, dělá ty komponenty pro ty
+webový apky, mobilní apky, pro všechno
+takže my používáme
+Mapbox, taháme si ty mapy od nich
+jsme schopní
+zobrazit i jiný mapový podklady, občas
+někdo chce jako ukázat jinou mapu
+protože samozřejmě, nevím
+tady český turistický značky
+nebo nějaký speciální místa
+vlastně
+nejsou v těch mapových podkladech
+třeba dost detailní a tak, ale jinak
+my jsme vlastně s tím jako docela spokojení
+je to teda na základu
+OpenStreetMap
+takže je to právě pro ten náš use case
+docela vhodný, protože jsou tam ty
+chodecký trasy dobře vidět, což třeba
+na Google Mapách je
+trošku jako problém, jako v řadě
+míst, jako není vlastně
+nic jako v Google Mapách
+Já jsem možná blbě vyjádřil, já jsem myslel především
+jako by Geospatial Data, tak jak vy to máte
+uložený, to znamená jako GPSky
+Jasně, takže jedna strana
+je vlastně ta mobilní apka
+a ta
+analytika, kde to prostě jede do tý
+BigQuery, a druhá strana
+ten backend, ten náš v podstatě
+content, jak máme uložený
+nebo jak s tím pracujeme, je
+v podstatě ten Postgres, používáme
+teďka i PostGIS, to znamená
+na nějaký Geospatial
+dotazy
+a podobně, tam máme ten PostGIS, což je
+docela jako super věc za mě
+ten Postgres, který je
+velice dobře rozšiřitelný těma
+těma exchange na mažečech, jako nemusí
+do něčeho úplně zase jako novýho
+mít jako čtyři různý
+databáze
+na tyhle ty různý use cases, teď jsme
+začali používat i vlastně
+vektorovou extensionu nad Postgresem
+právě na ty
+různý vektorový data
+a ty recommendation
+věci, který se snaží najít jako
+podobnost těch vektorů, tak super
+co všechno člověk spáchá na s tím Postgresem
+ale... A taková rozšiřená
+funkcionalitu Postgresu, že to jako umí
+teďka s těma datama prasovat nativně
+No, on ti tam přidá třeba novej datovej typ
+jo, typicky
+nový datový typy, nějaký nový funkce
+nový operátory, takže už třeba nemáš
+jako větší než menší než
+ale prostě když chceš podobnost vektorů
+tak je tam nějaký
+divný šipičky
+nebo řekneš perimetru prostě 200 metrů
+přesně tak, no no, tak to je ten
+Postgres zase, že jo, takže
+to funguje super, oni tam mají
+ty indexy vlastně, že jo
+a právě tyhle ty extensiony
+vybudovaný, takže je to rychlý, ty dotazy
+a jako taky to občas
+drhne ten Postgres, jako má taky
+jako svoje slušní neduhy
+a náš
+oblíbený neduch teďka, na který jsme
+narazili je, že prostě
+záleží na pořadí joinů, to jsem třeba jako
+se tím jako nepotkal, ale prostě
+napíšeš
+joiny prostě jedním způsobem
+ono je to brutálně pomalý, jede to
+fullscany a nepoužije to
+indexy, že jo, prohodíš prostě
+tři joiny nějak, jako a najednou to jede krásně
+Tak to ti možná doporučujeme předchozí díl
+s Jirkou Marešem, který byl jenom o SQL
+byť teda bylo to, hodně bylo jako
+Oracle related, ale stejně bylo to
+jenom o SQL a myslím si, že Jirka Mareš
+kdyby tady seděl teďka s námi, tak určitě
+jako bych přikyvoval, řekal jo jo
+to jsou ty tradiční bolístky prostě
+toho, jak napíšejí dotaz. To je výhoda těch
+zase si přiřeju polivčíčku
+třeba Snowflake a podobných jako
+sasovek databázových
+protože ty už to řešíš za tebe, oni vlastně
+jedou taky ten right hand, že vlastně
+ta nejrobustnější
+tabulka má být vpravo a pak jako
+joinuješ, joinuješ prostě zleva
+prostě lehčí je lehčí, ale dělá to sama, takže
+ty si to můžeš naděnovat jak chceš a neřešíš to přesně jak říkáš
+že ten postgres to zrovna neřeší
+a musíš nad tím přemýšlet
+No, tak jako dobrý, tam zase
+platíš za ty byty možná, ne, nebo aspoň
+v BigQuery to takhle je, takže tam pošle k dotaz
+Ty jsi přišel ze startupu
+JoSvěta, Poli dělá ve firmě, která
+neví co s penězma, takže jo, to musíš
+na to koukat takhle. My máme tenhle benefit peníze
+no
+Jo, to je náš produkt, prosím
+Vy cestujete, my máme peníze
+Tak
+Tak to můžeme si ukončit
+Já myslím, že děkujeme
+To je statement, který si jdem
+jako kvoutník
+No, nicméně, aby jsme se vrátili
+k polívčičce tady, no úplně
+tam bestřílí to AI, tak
+my jsme se o tom trošku bavili
+a
+kde vlastně dneska všude to AI
+využíváte, nebo
+machine learning, a kde třeba to plánujete
+protože tam se
+vyskytuje několik míst, o kterých si
+dneska mluvil, kde jsem si říkal, hele, tady to přece
+dává smysl
+No, tak jako jejich tam spoustu
+my už teda jsme v tom
+docela ponořený, někdy prostě
+já nevím, dva roky zpátky, že jo
+když to GPTčko začalo být takový
+jakože už to začaly
+na to lidi hodně naskakovat, že jo
+od té zimy dva roky zpátky
+tak my jsme začali experimentovat
+právě s tím obsahem, že jo
+protože to je samozřejmě jako mocná
+věc, která má nasátej
+celý internet, takže když se šikovně
+zeptáš a dáš si pozor, aby to
+nebullshitovalo, což je jako problém
+tak ti to řekne cokoliv
+o jakýmkoliv místě na světě, že jo
+což do té doby byl jako problém, že
+ty informace byly
+vždycky jako někde na papíře nebo
+u někoho v hlavě, že jo, ale sežeň to prostě
+tady v té škále, takže to nám umožnilo to brutálně
+jako škálovat a
+vlastně v kombinaci s těma
+my jsme hodně na ten audio guiding
+takže s těma textu speech a
+jako další věcí,
+kterou jako hodně používáme DPL
+vlastně na ty automatický překlady
+to umožnilo nám z toho
+poskládat takový stroječek, který
+je vyložený tady těma toolama
+a tím GPTčkem
+v podstatě tam řekneš, že
+chci novýho průvodce pro nevím
+město, který ještě nemáme, klikneš
+a je to tam, takže
+to je vlastně jedna část
+a pak jsou tam další části, no, pak samozřejmě
+teď vlastně jsme nějakou dobu
+dělali
+na takovým jako
+prototypu
+chatbotu vlastně mít jako ve
+Smartguidu jako chatbota, který
+bude napojený na ty
+naše data a vlastně
+to promixuje
+tak trochu jako ten chat s tím
+UXem, který už tam máme
+v podstatě jsme to i
+na chvíli release-li takový polone
+hotový na nějakou jako
+user-based částečnou, nějakou vymezenou,
+abychom nazbírali nějaký feedback a vlastně
+jsme zjistili, co jsme si trošku
+mysleli, že tam bude
+velkej zájem o vlastně plánování
+a nějakých itinerářů
+a tribů a podobně, takže jako hodně
+těch diskuzí, co jsme potom v tom chatu
+viděli, směřovalo na tohle téma,
+takže teďka vlastně pracujeme
+pracujeme na takový jako kombinaci
+já jsem už zmiňoval tu personalizaci
+a teď to vlastně všechno
+a dáváme
+dohromady do nějakého
+plánovače, který chceme i
+integrovat s tím
+chatem, kde vlastně
+ti to zpersonalizuje,
+doporučí
+ty místa
+a budeš se moc jako o tom pokecat, jako v tom
+chatu, ale pak jako přejít do toho, co
+teďka vlastně v těch
+GPT chatech a podobných
+chatech jako zatím chybí,
+pořád to tam ještě neudělali,
+což je vlastně UX jako nad mapou
+a nad tím kontentem
+a
+takhle vlastně, že jo.
+Já vlastně přemýšlím tě, že to vlastně může být
+docela hrozba, že jo, pro vás, jo,
+jako AI samotný, samozřejmě v té kvalitě,
+jak jsi popisoval, ne 100%, není to
+autentický, že jo, tak dále,
+ale vlastně bavili jsme se o tom tady na začátku,
+AI agenti, že jo, když vznikne nějaký agent,
+ty jo, vytvoř mi tady prostě,
+nevím, co mám vidět prostě v Paríži
+a on to jako vypálí ještě vlastně
+s textem, možná časem i s mapama,
+tak to může být takový jako horší
+konkurence, ale za sakra jiný peníze
+při výrobě.
+Jasně, je to jako
+nějaká hrozba, ale my jsme tam zase
+jako v takový docela dobrý pozici
+a z několika důvodů
+jednak už jako máme
+ty uživatelé,
+jako jsme schopní s nima, už pracujeme
+s nima díl, takže už ten profil tam nějak
+je vybudovaný a tak, něco už o nich víme.
+Další věc
+je vlastně ten obsah, jo, protože my pracujeme
+s těma různýma místa,
+s těma, který vlastně
+jdou hodně po tom oficiálním
+kontentu, po tom, aby to bylo
+skutečně správně ten obsah, protože
+jako ono je velice jednoduchý
+z toho, z těch
+lelemek dostat pořád jako
+kontent, který jako není úplně
+dobře, nebo to zmixuje. Sám se stalo,
+že prostě nám to o nějakým
+mostku na nějaký francouzský
+vesnici prostě vyprávělo
+příběh o Karlovém mostu prostě.
+A teď jako...
+Jo, takže tam jsou jako takovýhle
+komplikace a vlastně
+i tím, že my pracujeme i s těma
+biznesama, tak oni v podstatě
+jako trvají
+na tom a dává to z jejich strany smysl,
+aby měli kontrolu nad tím obsahem,
+aby jako my jim takhle jako můžeme pomoct,
+že jim jako třeba nastřelíme
+ten prvotní jako obsah takhle
+přes LLMK,
+ale oni nad tím chtějí mít kontrolu,
+chtějí jako mít stoprocentní jistotu,
+že tam nevyprávíme nesmysly
+o tady historii nějakých míst
+a podobně. Takže
+tam pořád vlastně
+chybí i, protože oni ty
+hrozby tam byly jako vždycky, vždycky byly
+Google mapy a podobně, a Čech si furt říkal,
+ježiš, to by nás Google mohl
+zejtra jako sejmout, že jo, ale
+nejsou tam ty příběhy,
+nejsou tam ty oficiální
+obsahy a tak.
+Já přemešlím trošku ještě, jak vás poslouchám
+nad jinou hrozbou a to je ta, že vlastně
+bytě to teda taková, teďka v tuhle chvíli
+se oblová poslouchačům, skvělá akademická debata,
+ale tak, jak se lidi
+zvykají víc a víc na to, že vlastně
+komunikujou s chatbotama, komunikujou
+s tím chatgpt a vlastně ty informace
+zadávají a konzumují ve formě rozhovorů,
+tak jestli to dlouhodobě nebude
+třeba jako
+hrozba pro mobilní
+aplikace, jako první věc,
+ty, který budou jakoby nechatový,
+jo, samozřejmě určitý druh jako
+interakce, byť, já nevím, když třeba je
+aplikace pro, nevím, editaci videa,
+audio, tak tam je to velmi specifický, ale pro
+takový ty standardní věci, ve chvíli,
+kdy mi chatgpt naučí se
+mi správně dávat třeba mapový podklady
+zpátky, tak já už nebudu muset
+vůbec jako vyskočit z takovýhle aplikace
+a možná i ty tvůrci těch
+custom aplikací budou muset de facto
+skončit tuto, že každej bude mít
+svýho chatbota, který bude ale se mnou
+komunikovat stejným stylem, víš, takový to
+uživatelský jako chování,
+jestli se jako nemění časem.
+Ne, to je jako, ještě pro mě, já teď jsem
+zrovna na to poslouchal takový rozhovor a
+tam vlastně, myslím, že
+oblíbený Petr Mára
+tam s někým ještě se o tom bavili a vám právě
+říkal, že to bude jako možná
+jako jediná cesta, jak ty budeš přes to
+posílat peníze, proč by si lezl do banky, ty řekneš
+pošle mi z mýho účtu ze spořky
+prostě 800 korun tady Romanovi,
+protože prostě tady výborně připravil
+kabely. Děkuji, jsem se vydělal na svět.
+A vlastně
+jako ta komunikace může touhle cestou jít, no a nevím,
+co myslíš Filipe? No jako
+rozhodně, jo, a podle mě to ještě
+možná o kousek
+dál, že vlastně, ty jsi teď popisoval
+jako, že v tom GPTčku teda jako všechno
+bude nebo takhle, myslím, že teď co jsem
+koukal, jsem to nějak
+jako technicky zkoumal,
+je to o nějakých těch agentech,
+který vlastně
+spácháš na ten svůj biznis
+níž prostě
+téma nějakého agenta,
+který si s tebou umí pokecat na té
+nevím, cestování nebo
+zpráva osobních financí nebo já nevím
+cokoliv. A vlastně
+bude mít rozhraní do Whatsappu,
+do prostě Xka nebo já nevím
+do čeho všeho, to už jako na tohleto
+existují krásné knihovničky, který
+to vlastně za tebe vyřešejí
+tady ty interfejsy a ty do toho
+dopůjíš tu svoji doménu v podstatě
+a toho kecálka
+a je to přesně
+o tom, co říkal tady Roman,
+že vlastně
+mně připadá, že to směřuje do toho, že
+nebudou potřeba ty custom appky, že vlastně
+každej bude moct jako mít takovýhle
+chatbota, který
+bude na těch hlavních komunikačních platformách,
+že ani jako nebudeš mít jako, proč bys
+měl mít jako GPTčko jako další appku
+vedle toho jako
+Gemini jako další appku a takhle, že jo?
+Ale vlastně můžeš
+mít nějaký ten, teď nevím jestli
+zvítězí Whatsapp nebo něco jinýho,
+ale vlastně tam můžeš mít toho bota,
+který...
+No vlastně, když se nad tím
+pozastavím, jako jak nad tím přemýšlí Apple,
+tak vlastně teď vyjel z Apple Intelligence,
+a to je vlastně trošku ono, že vlastně já se
+s ním povídám na jednom místě, bohužel
+tady se v Evropské unii je složitý,
+ale...
+Dokážeš to jako vohnout,
+ale zároveň to pracuje jenom s anglickým jazykem.
+Ale já se můžu zeptat, hele, kdy mi to letí?
+A on prostě už se podívá,
+protože ví, že si to nikde s někým řešil
+a ti to řekne, stejně jako
+mu řekneš prostě cokoliv. Prostě umí to
+propojit tu rodinu těch nástrojů, jenom
+Appleovských zatím, jo, ale vlastně to je taková
+předzvěz toho, o čem se bavíme, podle mě.
+Skončíme, jak v tom filmu, viděl jsi to Ona,
+myslím, že se to jmenuje, her,
+doufám, že říkám správně ten název.
+Myslím, že tam hraje Joachim Phoenix,
+a je to, je tam Scarlett Johansson
+mluví tu umělou inteligenci,
+a je to teda film o tom, že ten člověk se do ní de facto zamiluje.
+A jako prožívá prostě jako
+intimní, víc samozřejmě nefyzický vztah
+jako s umělou inteligencí. Možná byste se na to mohl podívat.
+Je to velmi jako, před těma
+deseti, no patnácti lety, nebo dvaceti, kdy to natočili,
+to byla taková ta utopie. To je jak, když se
+koukáš teďka na Black Mirror, na první sérii,
+a zjistíš, že 95% už se stalo.
+Takže jako doporučuju,
+doporučuju možná takhle za pětdeset
+let budeme mít svoje
+jako sekretářky, který budeme milovat
+a zároveň ze nás budou všechno dělat a budou to algoritmy.
+Jo, jo, jo. No a to možná
+změní i to cestování, no?
+No, ale vlastně pořád já tam jako vidím ten
+prostor pro Smartguide, tam pořád za mě je.
+Jenom jako vlastně. My jsme tě netěli vyšachovat.
+I pro tyhle
+ty tvůrce jako těch jako x různých
+apek nebo tak, jako jenom vlastně to budou muset
+poskytovat jako v jiném
+user interfaceu API nebo jako.
+Jo, ten proces může být jiný, ale jako
+souhlasím s tebou, že by
+jako jste to mohli vyhrát na tom příběhu,
+na té autenticitě. Konec konců
+jako o tom si můžeme povídat a mě tady s Románkem
+a podcastováním, že jo.
+To bylo taky o tom, že to bylo o nějaký značce.
+My jsme nenahraditelní. Já jsem si to, taky jsem
+chtěl, abys to řekl. Ne, ale opravdu.
+Já si myslím, že ty lidi, který dělají
+osobní takovej ten jako
+custom obsah, teď jsem někde čet nějakou predikci,
+že se vrátí i blogování.
+Že lidi budou tak zahálený tím,
+jako zaplavený tím, že všechno z ní
+vypadá, je napsaný, vygenerovaný.
+Já už teďka poznám i aj obrázek na první dobrou.
+Video taky poznáš. Je to prostě,
+nemá to tu duši.
+A s tím textem a s tím jako
+i s tím audiem, to podle mě poznáš,
+že to jako někdo udělal
+zase s tím práci. Vrátí se to zpátky,
+tak třeba teďka si můžeš koupit, nevím, v Ikea
+stolek a když půjdeš do firmy,
+která ho dělají ručně, tak bude desetkrát
+dražší, ale někdo si to radši koupí,
+protože chce mít něco, co prošlo lidskýma rukama
+a ne výrobní linkou.
+Takže možná třeba první krok
+bude to blogování. A to jsme se teďka dostali
+úplně od Smartguidu, takže možná uděláme
+nějakou filozofickou, filozofický díl
+tady spoliv. Nicméně já se chci ještě
+zeptat Filipa, ty jako
+CTOčko z toho, co poslouchám,
+ty musíš mít obrovský záběr.
+Co je teďka jako největší challenge,
+se kterým se aktuálně
+ve Smartguidu potýkáš?
+Je to technickýho rázu, nebo
+je to jenom pak prostě nevím, týmovýho,
+nebo procesního? A možná i uveď, kolik
+vlastně vás ve Smartguidu dneska je?
+Jasný, my jsme pořád poměrně malí,
+je nás plus minus patnáct
+jako ekvivalentů full time
+a s tím, že
+řádově, a teď možná
+spadnete ze židla, dvě třetiny jsou jako
+sales marketing a vlastně
+v tom produktovém týmu je nás strašně málo.
+Pět lidí je vás ten stack, co jsi říkal, jo?
+Jo, jo, v podstatě tři.
+Proto je to úspěšný startup,
+protože nezapomněli na to, že určuje sales,
+takže jo. No jo, no,
+to je pravda, to je pravda.
+Takže vlastně to je jako slušná challenge,
+to musím říct, že je i něco, na co jsem
+jako docela hrdý, že se nám jako daří
+v takovémhle jako malém
+týmečku produktovým to
+jako už jsme něco dosáhli a docela
+to jako pořád posouváme
+a je to vlastně
+jako z hlediska
+já nevím, na těch backendech, že jo,
+ty availability, ty srandy a
+takhle, jako my teďka poskytujeme věci
+přes vlastně celou země kvůli,
+protože máme partnery třeba i v Fázii,
+v Jižní Americe, a ne jenom
+tady ty paláce
+v Praze, co jsem říkal, jo.
+Takže tam už vlastně i hraje roli
+ta dostupnost jako přes ty zóny,
+že už se jako nemůžeš říct, tak tam prostě
+ve dvě ráno ty servly na hodinu
+jako nepojedou, ono to jako nebude vadit,
+ale to jako už jako nemůžeš, takže.
+Takže řešíte i CDNky a tyhle ty věci, ne?
+Jo, jasně, ale tak to už je
+jako vlastně strašně jednoduchý teďka s těma
+cloudama, takže to je
+dobrý, no.
+Vlastně, když se zpratím zpátky k té
+otázce, co je ta největší
+challenge, tak jednak
+je to ta organizační challenge, to vůbec
+nějak jako celý udržet pohromadě
+a vlastně posouvat se
+dál, zároveň jako
+podporovat ten biznisovej tým,
+který vlastně
+každej den potřebuje něco
+pomoct jako vymyslet, nebo poradit
+a takhle.
+A pak jsou tam samozřejmě technikály,
+mám teďka úplně super, super takový
+projektiček v rámci Smartguidu,
+který se nám rozjíždí, máme teď jako
+partnera v Číně,
+což je takový jako
+docela triky
+téma.
+No a teď právě
+challenge největší mých posledních, jako
+fakt, nevím, sedmi dnů je
+jako nějaký research a
+prvotní nějaký přípravy na
+ty
+technický stránky,
+aby nám to fungovalo dobře v Číně, protože v Číně
+jako věděl jsem, že je tam
+Great Firewall of China, kde se
+jako musí dát bacha, věci typu
+Firebase tam jako prostě neprojdou
+a podobně,
+protože to jsou Google servery a Google je nepřítel
+čínskýho lidu.
+AVSko
+naštěstí je na tom líp, ale zase jsou tam ty
+latence, že jo, který nejsou
+úplně srandovní, ale třeba
+já nevím, jestli jste věděli, že
+v Číně na ty GPS věci,
+jsem si říkal Latitude, Longitude, to je pohoda,
+ale v Číně mají svoje, jo.
+V Číně mají svůj standard pro
+souřadnice, které
+asi z těch komunisticko-militantních
+důvodů prostě mají nějaký svůj
+algoritmus, kterým ty souřadnice
+polonahodile v rámci celého toho
+území posouvají někde třeba o 300 metrů.
+No asi, abys nebyl schopený
+zaměřit cíle jako...
+Přesně, asi z takových důvodů, jo.
+Takže vlastně teď jako
+poslední dny jako docela
+mi padá čelist tady z těch
+věcí a vlastně...
+Takže vlastně
+asi to smrdí tím, že různý mapový
+věci, který teď máme
+v apkách, tak vlastně
+budeme nahrazovat za čínský
+alternativy. Ale já jsem teda někde
+slyšel, že i standardní GPSka
+je záměrně nepřesná
+pro civilní obyvatelstvo. Někde jsem
+to slyšel, možná to je kec, jo, ale
+že armáda, která pracuje s mapovýma
+podkladama a která používá technologie, tak to je
+velmi, velmi,
+velmi přesná, když potřebuji něco
+zacílit, opravdu jako člověka nějakýho někde
+v davu. Ale ty, když máš
+aplikaci, která tě prostě naviguje vejs,
+tak ona pracuje vlastně taky
+si všimneš, když si jíždíš z dálnice kolikrát
+a máš prostě výhled krásnej,
+ona tě kolikrát netrefí, protože
+když je těch možností mnoho,
+protože třeba je tam, já nevím,
+v rámci metrů několik, je tam
+jakoby vyložené zkreslení a ty aplikace
+s tím musí pracovat, nebo je to tak, ne?
+Ty s tím pracuješ.
+Já myslím, že se to v průběhu času
+snížilo, ta nepřesnost, jakože teďka
+to je, já nevím, jestli pět
+metrů nebo něco, prostě tak nějak jako
+standard, ale pořád to tam
+myslím je, to, co říkáš.
+Já se představuju v té Číně, jak přijdeš na to náměstí
+klidu a tam ti vyskočí ve smartguidu, zde se
+rozhodně nikdy nic nestalo.
+Ne, tak to my tam máme domluvený,
+jakože máme právo veta, že by se to
+objevili nějaký
+úplný šílenosti, tak to
+prostě stáhneme.
+A ještě se vrátím k tomu, ty jsi říkal, že
+Google nepřítel, AWS,
+že to je lepší, ale že tam jsou latence.
+To jsi myslel jak?
+No vlastně, tak ono, už když máš
+jako servery v Americe, což my teďka
+upřímně máme, máme
+jako v americkém regionu v AWS,
+jako neřešíme, prostě backend, APIs,
+abychom měli napříč
+země koulí, což je další nějaká
+komplexita, který se zatím
+vyhejbáme, že jo, kvůli nějaký
+pracnosti, tak vlastně
+z té Číny je to ještě horší v tom,
+že to jde přes tadyhle nějakou
+filtrační infrastrukturu,
+která třeba
+i v nějaký časy dne je zahlcená,
+protože přesto tam jede prostě
+ten nějaký miliardový
+prostě lid,
+kde půlka těch lidí stejně používá nějaký
+VPNky, aby se dostali
+na YouTube
+a podobně.
+A zas teďka mají ti to pro sebe,
+takže to je zase jako...
+No teď už zase nemají, ne?
+No mají ho pro sebe Číny, teďka ne?
+Jakože ho používají jenom oni.
+No ne, Donald jim to protáhá.
+No, Donald jim to protáhá teďka nějakou exekucí,
+takže zase to používají, ale jenom to protáhá
+na 75 dní a pak se to bude rozhodovat znovu.
+Je vtipný, až tohle půjde ven, kdo ví, jak to bude.
+No, to přesně, jako Donald, abych se
+nepouštěl, protože to je jako, kdybychom
+se bavili, kolik je venku stupňů.
+Je to tak, je to tak.
+Takže jako ta čínská challenge, to je jedna,
+a to je taková, taková jako náročná,
+náročná věcička bokem vlastně,
+ale pak jako zajímavá, zajímavá věc,
+na který teď jako děláme, a která má
+jako velký potenciál, je ten plánováš
+v podstatě, my už máme dlouho takovou vizi, že
+o tobě něco ví ten smartguide,
+a ty teď přijedeš do novýho města
+a řekneš, hele, mám teď jako víkend,
+tak mi to tady ukáž, a ona ti to prostě
+vymyslí.
+Super. A ty budeš spokojený.
+No tak čas se nám nachyluje,
+tak musíme jít na závěrečný blok
+otázek, který vždycky startujeme
+pol jeho nejoblíbenější, poli pohoďte.
+Já jsem tam pozazna vklínil ještě jednu dneska.
+Otázku. Já jsem si všimnul.
+Trošku mě to tam šťouhlo do očička.
+No ano, my jsme se o tom už malinko bavili,
+ale vlastně tak děláš cestovatelský
+startup, cestovatelskou apku,
+tak jak ty sám cestuješ, tak
+ty jsi to trošku nastřelil, takže každej
+rok, jeden měsíc máš
+prostě ještě dneska vybukovaný, jsi schopnej
+to ve startupu vůbec dodržet?
+No jako ten měsíc už tam nebyl,
+poslední roky to byly spíš tři
+týdny, ale snažili jsme se ty tři týdny
+vůbec, protože za mě jako když
+cestuješ takový ty klasický dovolenky
+na týden, na dva týdny, tak se nestihneš
+dostat do toho
+explojerskýho módu, mě vždycky
+strašně bavil jako to, že fakt seš
+někde v totálním kulturním šoku
+a prostě přepneš se úplně
+mimo, zapomeneš jako na tu
+práci a na ty
+věci a užíváš si to,
+takže... Tak když já přijedu do
+Karlína, to je velmi podobně.
+Je to šoky. Je to kulturní šok.
+Já bych včera šokovnej, tam lidi
+chodili v botách. Já jsem jako
+třeba byl strašně nadsšenej, nadsšenej
+doporučuji hodně jako roadtrip přes
+Balkánu vlastně,
+kde vlastně Makedonie
+prostě takový jako
+taková země, kde už jsem si zase řekl, už zase
+cestuju super ve čtyři ráno
+prostě Allah Akbar. To už je prostě
+něco, co mě strašně baví
+a už si člověk řekne, tyjo, už je to
+exotika. Fakt, jo. Jakože zvolávají
+ve čtyři ráno. No, tam jsou ty mešity,
+takže oni vlastně
+do mešit prostě
+tyhle časy už jako jedou
+a ty teď prostě tě to zbudí samozřejmě,
+ale mě to vždycky úplně
+nabudí, že prostě už...
+Že seš jako mimo...
+Prostě ta exotika.
+No a takže já jsem se chtěl
+jako zeptat, abych vzavřel tady tu cestovatelskou
+sekci. Co bys
+doporučil? Jako co tě zaujalo
+a třeba není tak jako na první
+dobrou známí? Je to tam, řekl bys
+tu Makedonie, nebo bys tam bytách něco jinýho?
+Jo, jako myslíš jako ze všech
+cest nějakých. Ze všech. Jako jo, to je
+jako hodně a záleží, kdo má
+jaký kontext. Já jsem hodně jako na horolezení
+a na takovýhle praktiky, takže
+já jsem byl několikrát v Himalajích
+jako v Nepálu a v Indii.
+Takže to za mě vlastně
+třeba ta severní Indie,
+Ladak, je taková
+oblast, kde vlastně jsou
+jako hory šest tisíc plus metrů
+a je to zároveň
+jako nesturistikovaní
+ještě poměrně.
+Můžeš si tam dát, mě vždycky baví
+jako treky, teďka hodně s dětma
+docela praktikujeme, kde prostě
+vyrazíš třeba na týden
+prostě s baťohem, se stanem, že jo.
+A tady v těch lokacích,
+kterých už je jako málo po světě,
+seš jako mimo civilizaci,
+nejsou tam lidi, prostě
+seš fakt v tý
+rycí přírodě vlastně, ještě v mém případě
+já jsem úchyl na ty hory,
+takže to je úplně jako mega.
+Tě nemáš strach, jakože s dětma,
+že když se nám něco stane, že seš daleko
+od doktorů, daleko od... A tak to jsme nebyli
+takhle v Indii, jako s dětma jsme zatím
+absolvovali nějaký tady po Evropě
+Pireneje, Dolomity, taky tyhle ty treky
+jako prostě ze stanama a tak
+a to samozřejmě
+tam jako není.
+A jsem si vzpomněl na Honzu Černýho, jak ne s Hanku, jako se zlomenou
+v džungli a měli
+jako relokaci rychle zpátky.
+Měli v Kambodži zrovna, jsem myslel, že byli ho tam někde.
+Takový blázený jsem.
+No a máš tam něco vysněnýho, co si říkáš,
+to bych chtěl.
+A ještě jsem nebyl.
+No tak určitě se chci vrátit na nějaké místa,
+jako do Himalají, nebo třeba
+jako Hindukůž, Pakistán
+a pak jako Patagonie třeba.
+Tak to jsou jako nějaké místa, kde jsem ještě
+nebyl a kde bych
+rozhodně chtěl jako i třeba
+si něco hýt,
+vylíst trochu, ale to už jsou jako
+jiný ty, jiný dimenze.
+No tak hezký, tak budeme ti přátit,
+si ti to povede, ať
+s těma dětma zrealizuješ co nejdřív.
+Ještě na závěr se zeptáme, samozřejmě
+klasicky, ale je tady ještě jedna taková,
+to se mě tam je povědět vždycky, jestli hajrujete.
+Je tam teďka nějaká
+otevřená pozice, byť teda samozřejmě v tom
+oklešněném týmu chápu, že brousíte ty diamanty,
+který tam máte, ale...
+Jo, diamanty máme skvělý, to rozhodně.
+Vlastně teďka
+vlastně rejzujeme
+series A, abychom vlastně pronikli
+na další trhy, kde nějak
+trochu působíme biznisově,
+ale potřebujeme jako vlastně naškálovat
+ten salesovej tým
+a s tím i ten produktovej tým,
+takže teď hned jako nehajrujem,
+ale vlastně třeba
+koncem jara nebo takhle to bude
+aktuální, takže když by byl
+nějakej
+dotnet back-end
+člověk, nebo
+react native člověk, nebo vlastně
+i webový nadšenec,
+kterýmu by to dávalo smysl, tak
+ať se ozve, můžeme zůstat v nějakém kontaktu
+a... ale bude to chvíli trvat.
+No skvělý. Takže počkáme, až investoři
+přitopějí a začneme to
+ukrátit. No přesně, přesně.
+A i vy, jestli jste slyšeli dobře
+a zaujal vás Smartguide, tak samozřejmě to
+pro vás může být zajímavý. No, nicméně,
+Filipe, co tě čeká? Co tě čeká?
+Jaký jsou tvoje plány? A
+jestli tě můžou posluchači někde slyšet nebo vidět,
+tak to klidně odpromuj.
+Jasně, co se týče nějakých
+takovýchhle veřejně viditelných
+akcí, tak to musím přiznat, že na to
+mi nezbývá čas a energie, možná jsem
+i na to moc velkej introvert.
+To nevypadá všechno. Takže
+to úplně není
+něco, kde bych se
+propagoval a byl vidět.
+A z hlediska toho, co nás čeká
+ve Smart Guide, to jsem v podstatě nějak
+asi nastínil.
+Takže musíte, milí
+posluchači, poslouchat. Podvoca jsem, abyste
+ty nejlepší lidi aspoň slyšeli na Spotify
+a na Apple Podcastech.
+Přesně tak. Přesně tak.
+Ne každej vyleze vždycky z kuží na trh.
+Takže o to víc jsme rádi, že jsi nás
+navštívil, že jsi za náma dorazil.
+My ti, Filipe, přejeme jenom to dobré, pokud
+se chystáš teďka na nějakou cestu,
+tak hodně štěstí a užij si to.
+Pokud máš před sebou další
+problém na vyřešení technický, tak
+ať to klapne, ať to
+fixnete. No a ať se daří
+a třeba za pár let, až už budete
+mít po exitu a přijedeš
+s tím Ferrari stejně jako člověk, který
+tě doporučil, tak
+pokecáme, jak se ti to všechno daří.
+Díky moc. Jo, děkuji moc za pozvání.
+Super. Díky moc. Nejse fajn, ať se daří. Čau.
+Nejse. Čau. Čau.
+Tak to byl Filip Kínský
+ze startupu Smartguy, který nás
+protáhl de facto po světových památkách.
+Měli jsme to od
+švýcarských hor až po
+pralesy. Bylo to velmi zajímavé povídání.
+Líbí se mi, jak má ten člověk zase takovej
+ten typicko startupovej
+CTO-ovskej přesah, že
+tu databáze, tu
+AVS-ko, tu dotnet, jako tu
+React Native, jako super. Úplně nadupanej
+a Aleši, děkujeme
+za takový hosta. Díky, díky.
+Dokonce jsme se tady bavili,
+že musíme i toho Aleše pozvat. Určitě.
+A tu paní Kolombovou musíme odhalit.
+Já si myslím, už to rovnou začni dohadovat.
+Dvanáctou sérii bychom měli Alešem
+vykopnout. Měli bychom ho představit
+jako tu paní Kolombovou
+provodcacího podcastu, která nám sem posílá
+ty skvělý hosty a probrat
+s ním třeba to, co jsme i řešili
+tady s Filipem, jestli jsi z toho
+všim. Několikrát jsi to naznačil,
+možná to i pro tebe
+zpětně k té tvý startupové kariéře.
+Oni mají dvě třetiny lidí,
+kteří dělají sales a produkt.
+A pak tam mají těch pár lidí, kteří dělají
+teda vyloženě ten engineering a
+stavějí tu platformu.
+To je možná ta cesta.
+No jak to má vypadat, taký startup,
+když jediný, kdo tam prodává, je Polák, který to neumí.
+No, tak to dopadlo, jak to mělo.
+Hele, jako víš co, jsou prostě
+jako firmy úspěšný
+a jsou firmy, který
+ještě nenahajrovali Poláka.
+Ale ne, to jsi nemohl
+vidět v té době.
+Ne, já si fakt myslím, já jsem taky měl
+jeden startup, který taky samozřejmě schořel,
+to je úplně normální, to je podle mě základ.
+A každej, kdo je trošku
+technický, tak na to zapomíná,
+že to není to důležitý.
+Že to opravdu, jako
+já to nerad přátelé říkám,
+není to žádné jako tady pravdičkování,
+klidně si to statisticky zjistíte,
+je vlastně úplně jedno,
+jestli to děláte v PH, v dotnetu,
+v Javě, vlastně ani nezáleží,
+jak moc hezky je to napsané, jestli je to
+domen driven design, nebo jestli jste to zbastlili
+prostě se strejdou po víkendech.
+Ten člověk, který vyleze ven a jde to
+prodat, tak bohužel rozhoduje o tom, jestli
+jako schoříte jak papír,
+nebo ne.
+Ale je dobrá cesta, jak se propagovat
+a to jsou pay-per-click kampaně.
+Mě tak napadlo.
+A samozřejmě bylo by dobrý, kdyby
+v tomhle případě jste šli za
+našimi partnerkami vivio.cz
+a ty vám s tímhle s tím pomůžou právě,
+třeba byste pak takhle neschořili.
+Co dobrý můžete k nám dělat?
+Ne, úplně geniální. Vlastně my jsme tenkrát vivio nepoužili
+a to byl ten problém.
+To je ono, to je ono.
+Neudělejte stejnou chybu,
+vydejte se na vivio.cz a tam zjistíte,
+co všechno ty holky zvládnou.
+No tak já myslím, že to máme dneska komplet.
+Nádhera.
+Série je rozjetá.
+V dalším pokračování se můžete těšit.
+Nevím, jestli to bude hned příště nebo přes příště.
+To ještě uvidíme, jak to se řadíme.
+Protože teďka už přetáčíme do foroty,
+ale budeme mít někoho z herního designu.
+Zase budeme mít zpátky
+moje oblíbený téma, což je prostě
+herní biznis. Těším se na to,
+vy se taky těšte. No a za 14 dní
+zase podvod za sebe. Těšíme se, mějte se krásně,
+užívejte si zimy. Čau.
+Čau.

@@ -1,0 +1,3230 @@
+Pod vocasem.
+Pod vocasem.
+Pod vocasem.
+Pod vocasem.
+Krásný den, milí posluchači,
+vítejte u třetího dílu desáté série
+vašeho nejoblíbenějšího podcastu
+Pod vocasem. No a samozřejmě
+co by to byl podvocasí podcast
+bez mého milého kolegy, který právě doběhl
+v docela pěkným koskovaným
+gíru ze spořice Petr Polipolák.
+Čau. Moc děkuji za pochvalu
+a taky koukám, co má tady Roman
+Joker pro vás dník. Talk to
+code to me. To je tričko
+z toho, z NDCčka, víš, tam jsi mohl
+jako udělat, nechat udělat kastomizovaný
+vlastní, tak jsem si dal tady
+talk code to me. Talk code,
+sorry, já jsem to blbě přečetl. Jo, jo, jo.
+No, jak se máš, Románku?
+Mám se dobře, čvěče, včera jsem byl na obědě
+s Tomášem Petříčkem a Tomášem
+Grošupem, jak byly oba dva u nás,
+vlastně za F-Sharp a za F-Sharp Compiler
+tým, společně ještě s dalšíma klukama
+z Microsoftího
+compiler týmu tady z Prahy
+a bylo to úplně super.
+Jak jsem se vlastně dlouho
+nebavil s někým vyloženě
+o ryze technických tématech,
+protože v práci už se k tomu k tolik
+jako nedostanu, tak jsme se bavili
+prostě o designu jazyků
+a o kompilerech
+a tak a bylo to hrozně, hrozně příjemný
+zase skočit do týhle z tý bublinky,
+bylo to fajn. No věřím, jak se vlastně daří
+F-Sharpu takhle všeobecně?
+– Hele, já bych řekl, že je dobrý. Já bych řekl, že samozřejmě
+tím, jak ten C-Sharp neustál
+jako ty různý featurey do sebe
+absorbuje, tak
+tak jako předehřívá tu audience
+na tý C-Sharpový straně, která
+v jednu chvíli vždycky udělá to, co
+jsme udělali my, že řekne
+ty a proč to jako celý napsat vlastně jako
+jednodušit, nenechat si jenom té runtime a nenechat si
+všechny ty věci kolem, celý ten tooling,
+ale prostě psát to jako
+rychlej a lépe. No ale zároveň jsme se
+i bavili právě o tom, že ten C-Sharp
+jak se jako vyvíjí,
+tak vlastně chudáci, ty noví, který do toho
+teďka naskakujou, tak už mají třeba opravdu jako
+osm způsobů, jak
+jako definovat abstrakce, jak
+napsat jednu věc, nadefinovat
+v tom jazyku jako osmi způsoby.
+A právě Tomáš Pětříček říkal, že jeden jeho kolega, který
+učí na MatFizu
+nějaký programování nebo nějaký design jazyku,
+nevím přesně, myslím, že přímo C-Sharp,
+tak že už má problém, který
+z těch osmi způsobů vlastně říct, že je
+ten defaultní a učit to ty noví studenty,
+že to mají jako opravdu těžký.
+A když se ptali vyloženě těch lidí
+z language designu, z Microsoftu,
+který způsob mají použít,
+tak sami řekli, že vlastně úplně nevěděj,
+protože je to pro ně taky oříšek,
+protože každý ten způsob přináší něco.
+Takže myslím si, že
+je to vlastně jako zajímavý problém
+a myslím si, že ve finále
+pro nás F-Sharpisty, já se pořád ještě
+byť už teda nepíšu den o den někoho odpořád
+jako za toho F-Sharpistu považu,
+tak si myslím, že vlastně ve finále tohle je jenom dobře,
+protože nám to, jako jak jsem říkal,
+předehřeje ty správný programátory,
+aby třeba přeskočili ještě trošičku
+na ten druhej břeh.
+No úplně tomu rozumím, úplně tomu rozumím.
+A jak říkáš, několik možností, jak to udělat,
+tak my teďka ve spořici se hodně bavíme tím,
+že děláme development framework,
+já jsem o tom trošku mluvil na LinkedInu,
+a vlastně děláme různý paterny,
+podle kterých by potom měli vařit vlastně ostatní dataři.
+Je zajímavý, jak vlastně včera jsem se o tom bavil
+právě s jednou hlavní vývojářkou u nás,
+jak vlastně ty paterny koncipovat,
+aby to bylo co nejvíc univerzální,
+a jak to vlastně nikdy úplně nejde,
+protože stejně tam potřebuješ nějaké věci,
+které někdo konkrétní potřebuje upravit.
+No, to jsou to zajímavé diskuze.
+Takže C-Sharp v podstatě bereš jako takový obchodák F-Sharpu.
+Tak, tak, tak, ve finále si myslím, že to tak bude.
+Hezky, hezky taky.
+No, my dneska máme velmi zajímavé hosta,
+a on vůbec nebude o C-Sharpu ani o F-Sharpu.
+Je to, řekl bych, legenda frontendového vývoje,
+Ricky Friedrich, který vlastně je to host,
+kterého nám doporučil jeden z posluchačů na Twitteru,
+a my samozřejmě naše posluchače posloucháme.
+Už je to v tom názvu, že?
+Chytrý.
+Chytrý.
+A Rickyho jsme si pozvali, já jsem s Rickym kdysi dávno dělal,
+takže samozřejmě my se známe i osobně,
+a je to jako výborný člověk, odborník, naslovovzatej,
+opravdu borec, co se týče frontendu.
+A to si řekneme za chvíli,
+protože já si myslím, že on už tam stepuje,
+nicméně ještě než na ní naběhnu,
+naběhneme do Vivia,
+protože holčiny, který dělají pay-per-click kampaně,
+víš, jak jsem se to naučil?
+Krásně, krásně jsem to vytvrnil.
+Takže dělají pay-per-click kampaně,
+Google se znám, Facebook, Instagram, LinkedIn,
+možná vám udělají nějaký TikTok, vím já.
+Každopádně holky jsou nadšený z toho, jak je propagujeme.
+Dostali jsme nějaký zprávy, že jako přesně takhle si to představovali,
+že takhle by to partnerství mělo vypadat,
+takže my děkujeme Viviu, podívejte se na vivio.cz
+nebo na podvodcasem.cz, už je oficiální partnership přímo na stránkách,
+takže tam to úplně vám svítí do ksichtu
+a na jejich stránkách samozřejmě zjistíte, co dělají, co dělají a co nedělají.
+Přesně, a máme další posluchače, holky nás začaly poslouchat,
+mě mají ten začátek si pustili, moc se jim to líbilo.
+Ne, to si je teď dokonce, to je důležité.
+Přesně, přesně.
+No tak jo, tak jdem pro Rikyho.
+Do studia dorazil náš dnešní host, Riky Fridrich, ahoj Riky.
+Nazdar.
+Ahoj Riky.
+A já musím říct, že hned na začátek, aby posluchači byli,
+teda si myslím, že posluchači samozřejmě už ví, o koho se jedná,
+jenom aby věděli, ty, kteří náhodou neví, co to je za člověka,
+tak ta SMSka, kterou mi řekl, že čeká před KFC na Václaváku,
+že si ho mám vyzvednout, to bylo, nechcem tě strašit,
+ale na Václaváku před KFC na těba stryhne nějaký divný týpek.
+To je typický prostě Riky, se kterým jsme se říkali,
+jsme se naposledy viděli, když jsme byli na Lucy Kayovi.
+Kde on to byl?
+No bylo to ještě před tým, než masturboval před kolegyňami.
+Ano, nebo možná během toho.
+Nicméně bylo to, myslím si, že to bylo v kongresáku, že jo?
+Jo, jo.
+No Riky, kdyby náhodou tě někdo neznal,
+prosím tě, představ se posluchačům a řekni nám takovou tu obligátní cestu do IT,
+jak jsi se vlastně dostal.
+Tak jo, ahoj, volám se Riky Friedrich.
+Možná mě poznáte jako vczbkk z internetu,
+nikto jiný takový debilný nick nepoužívá,
+takže jak si to vygooglíte, najděte určitě mě.
+Když jsem se narodil, měl jsem přibližně 0 rokov
+a když jsem měl 15 rokov,
+tak jsem absolutně netušil, čeho bych chcel být.
+A jeden kamarád za mnou přišel,
+ten už vtedy študoval na vysokej škole
+a hovoril mi, jo, ukážem ti teda jednu úplně super věc.
+My jsme se teda učili v škole HTML-ko
+a pomocou toho se dají urobit webové stránky.
+A já jsem se pětal, čo to jsou ti webové stránky.
+Věděl jsem, že existuje internet,
+ale neval jsem k tomu prístup.
+A on ho věděl, že na internete tam všechno možné najdeš.
+Tak mi ukázal úplné základy.
+A já se pamětám, že vtedy ještě mi hovoril,
+no, tu napíšeš nějaký text
+a keď chceš písat na nový řadok,
+tak můžeš použít buď BR alebo P.
+A já mu hovorím, OK, a jaký je mezi tým rozdíl?
+A on hovoril, to je prakticky to jisté,
+akorát to Pčko urobí takovou většinu medze.
+A to byl základ HTML-ka, čo jsem se dozvěděl.
+A nevím, proč, hned na prvou dobru
+prostě mi to zoplo v hlave.
+Pčko, no, preplov v mozgu.
+A povedal jsem si, to je cool, to chcem robit.
+Ale vtedy ještě absolutně nebyly žádné zdroje,
+alebo, jako keď jsem přišel do knihkupectva,
+nějaké knihy o webovém vývoji neexistovaly.
+Študovat se to vtedy ještě poriadně nedalo.
+A to byl který rok, by the way?
+Jo, to bylo...
+Konec 2000 nebo ještě dřív?
+To bylo dávno ještě predtým.
+To bylo nějak 1995.
+Fakt jako úplně archaické doby.
+A takže vlastně moje prvé učebnice HTML-ka byly,
+já jsem dal oskenovat celý svůj disk,
+či tam nenájdem nějaké HTML-sůbory,
+do kterých bych se mohl pozrět.
+A našel jsem, co to bylo za hru,
+myslím, že Quake,
+mal manuál napísaný v HTML-ku.
+Tak je to HTML-ko vygenerované o frontpagi, myslím.
+Jo, úplně nějaké šialenosti.
+Muselo být krása číst, jako frontpagi.
+A já jsem se pozral do toho
+a snažil jsem se obšlehnout nějaké finty
+a pochopit, jak to funguje.
+Pamětám se na ten okamih,
+keď mi zoplo, že v tabuňke
+tr je row a td je bunka.
+A úplně, já tam můžem napísat tabuňku.
+Tak jsem přitom furt seděl.
+No a tak nějak mi to zostalo,
+stále mě to nepustilo.
+Potom se pamětám, že jsem byl na vysokej škole
+a mama se mě pýtala,
+protože už trebalo urobiť rozhodnutě,
+co bude můj synáčík robit.
+A tak se pýtala,
+co budeš robit, jakou kariéru,
+jakou profesiu. A já se mi hrdopoval,
+já budem webdesigner.
+A ona na mě pozrala takým pohledem,
+jako OK, ještě máš dva roky,
+do vtedy něco vymyslíš.
+Něco, co tě uživí třeba.
+Myslím, že
+nejlutuje ani ona, ani já,
+že mi to vyšlo.
+No a ty jsi vlastně, jak jsem říkal,
+když jsme tě uváděli, když jsi tady ještě byl,
+tak vlastně do jistý míry, řekl bych,
+jedna z legend frontendovýho vývoje.
+Protože seš v tom strašných let
+a přednášíš
+a obecně tvoje jméno na tom frontendu
+rezonuje. Nicméně
+nikdy jsem tě neviděl se skočit na tu
+backendovou stranu. Neláká tě to,
+nebo je to málo interaktivní?
+Pokud potřebujeme napísat něčeho
+na backendě, tak to napíšem.
+Já nevím,
+jako svojho času jsem robil
+Acidlog, co byla
+blogová platforma, bylo to na
+jak se vtedy to volalo?
+Lamp?
+Apache?
+MySQL?
+Takže to jsem
+komplet celé robil sám, takže
+pokud něčeho potřebujeme napísat na backende,
+tak si to urobím. Teraz, chvála Bohu,
+existuje Node, takže když něčeho
+potřebujeme, tak si to můžeme napísat v JavaScript.
+Ale uprímně
+také to
+šmrdlání s databázami
+a podobně, to mě nikdy
+nebavilo, takže
+vím to na té úrovni, že se vím
+pobavit s backendákmi, čo od nich potřebujeme.
+Jaké rozhraně potřebujeme
+pro ten frontend, ale
+velmi jim do toho zasahovat nechcem.
+A je to daný tím, že máš rád ten frontend?
+Jak vidíš tu práci?
+Já mám rád frontend,
+já mám rád věci, které jsou v
+brouseri, protože já jsem vlastně
+začínal jako HTML,
+coder, já jsem v podstatě
+začínal ještě předtím, než bylo
+CSS.
+Když jsem objavil CSS,
+to jsem si vtedy prečítal nějaký článok na
+A List Apart.
+A ten tam popisoval,
+že můžem nastavit štýly
+a nemusím všade písat taky ten
+font, atribut.
+To je cool, to chcem.
+A hned jsem to začal zkušat.
+Takže já jsem vzýšel z těchto
+věcí a potom
+jsem
+dost dlho, dost intenzívně
+zasahoval do
+UX záležitostí.
+Jsme ladili nějaké
+uživatelské rozhraně.
+Takže
+vlastně z toho, na čem
+jsem stále pracoval, tak já jsem
+jako frontendiák,
+ale fakt jako
+s tím velkým presahom
+ještě jako do tých, já nevím,
+jakoby soft častí toho frontendu,
+do toho designu a UX.
+A
+ten backend, ten tam vidím,
+ten poznám, ale
+nejmi zďaleka tak blízky,
+jako ten opačný pohul.
+Když jsme se vydělali na posledy,
+tak vlastně v době, kdy jsme oba dva dělali,
+ale krátce v Top Monks, ty jsi nakonec
+za tu dobu skončil, pokud vím
+správně, v Outreachi.
+A koukal jsem, že máš na LinkedInu
+Staff Software Engineer. Možná poprvé v tom tvým
+životopise, tam máš
+něco, co smrdí lidma.
+Ne, to není to to.
+Ani jedno
+z toho, čo jsi povedal, neje pravda.
+Tak to uvědomíš.
+To, čo
+teda zrobím, je jako čistá kóderina.
+To nemá s ľuďmi nic spoločné.
+A jako s ľuďmi pracujeme,
+s dalšími kolegami vývojármi.
+Ale v minulosti už jsem za svoju kariéru
+byl několikrát dotlačený
+do nějakých
+podobných team leaderských
+pozící, alebo jsem robil
+produkťáka home page centra.
+Takže těto věci
+jsem si zkusil. Ale v Outreachi
+to neděláš, tam je to čistá kóderina.
+V Outreachi ne, jako uprímně stále
+mi to vydržalo pár rokov,
+ale potom jsem se chtěl vrátit k té kóderině.
+Máť ruky ponorené
+do kódu je mi blížší.
+Než do lidí.
+Než do lidí, no.
+Dobře, pojďme k tomu frontendu.
+Samozřejmě, teď, že to děláš
+takovou dobu, tak už seš schopnej
+vyčuchat nějaký trendy,
+podívat se na to už s nějakým odstupem.
+Když se podíváš, řekněme, za posledních 20 let,
+kam vlastně ten frontend se jako posunul?
+A ještě jako pototázka,
+jestli si myslíš, že to z tvýho pohledu,
+a nechce, aby jsme tady měli nějaké boomerské nadávání,
+ale jestli to jde obecně z tvýho pohledu správným směrem?
+Jo, to je
+velmi dobrá otázka.
+A presně jak jsi povedal,
+já mám trošičku jinou perspektivu,
+než jako mladý vývojári.
+Protože jsem toho zažil
+strašně velká a vidím tě trendy.
+A
+jsou
+dve veci,
+albo dva také trendy.
+Jeden je,
+že se na
+JavaScript můžeš pozrět
+jako na vývoj člověka
+od nějakého batolěťa, kedy na začátku
+byl používaný na úplně primitivné
+věci. Já nevím, se robili rollovery
+na obrázkoch, když si
+ukázal myšov na obrázok,
+tak se ti zobrazil
+jiný obrázok a to bylo
+mind-blowing.
+A postupně
+prešel do validace
+formulárov, blablabla, až nezrobí
+nějaké aplikace.
+Takže začal jako nějaké batolě, které
+toho vela nevědělo a
+nikto od něho nič nečakal.
+Potom si prešel pubertov, to byl
+takový ten divoký rozvoj, kdy
+každé dva týždne vznikl
+nový framework, který nahradil všetky
+předchádzající frameworky a
+fakt to bylo jako prekotné a šialené.
+A
+teraz si myslím, že se JavaScript
+dostává do také té fázy
+mladé dospělosti,
+kdy už
+nachádza svoje město, už od něho
+seriózne firmy
+očakávají, že bude
+pracovat a že bude spoďahlivý,
+ale ještě to neje
+takový ten
+middle-aged chlapík,
+který
+už rutinně robí nějaké
+věci v nějaké korporácii.
+Takže vlastně
+teraz JavaScript velmi zoseriózněl
+a mě osobně se páčí,
+jak to teraz funguje.
+A druhý pohled, kterým
+se na vývoj JavaScriptu můžeme pozrět,
+je, že je to celé jedna velká
+sinusoida. Stále to chodí hore-dole, hore-dole,
+ty trendy se opakují, jak se
+hovorí, čo je dnes in, bude zajtra out
+a pozajtra retro, tak to je
+přesně ono. A v podstatě
+na začátku
+ten
+JavaScript byl jen nějak
+vložený do stránky a
+v podstatě nic se od něho neočakávalo.
+A
+potom
+lidi přišli na to, protože
+připojení k internetu a podobně bylo velmi
+pomalé,
+takže začali
+využívat JavaScript na to, že
+generovali nějaký obsah tým JavaScriptem.
+Nevím, či si pamatáte na tu dobu, kdy
+každá stránka
+byl vlastně ten obsah,
+ten střed, a potom tam byly dva
+súbory, jeden byl header.js
+a druhý byl footer.js a v tom byl document
+write, který vypísal tu hlavičku
+a petičku. A ono
+se to používalo na to, že
+ty JavaScripty se nakešovaly,
+takže keď se naťahovala ta
+stránka, tak ty JavaScripty
+se vzaly z cache, naťahol se vlastně
+jiba obsah.
+To byl takový ten prvý framework,
+který generoval obsah cez document
+write, bylo to příšerné.
+No a potom prostě se
+připojení k internetu zrychlilo
+a lidé si povedali
+ježiš JavaScript, to je jako úplná blbost,
+to musíme dát někam úplně na okraji,
+takže zase ta sinusoid ašla dole,
+všechno se generovalo na servery,
+no ale potom si lidé uvědomili, no ale my bychom
+chceli na té stránke nějakou interaktivní,
+tu a podobně, tak se začal robit
+progressive enhancement a zase ten JavaScript
+tam pribůdal a potom jsme se ho zase
+zbavovali, protože CSSko začalo
+robit věci, které dokázal
+předtím jiba JavaScript, tak zase jsme se
+zbavovali JavaScriptu, no a potom někdo
+přišel s tím, že budeme robit single page aplikácie,
+takže zase prostě tam robíme
+JavaScript, takže furt je ta
+sinusoid a hore dole, hore dole a osobně
+si myslím, že teraz se zase vracíme do toho,
+že se toho JavaScriptu zbavujeme, že si lidé
+uvědomují, že jakoby
+jeho príliš, že dokážeme
+to, co robíme JavaScriptom,
+robit jinými prostředkami,
+lebo ono je to stále tak, že ten JavaScript
+jako by
+prešlapává cestičku, alebo umožňuje
+funkcionality, které nesou
+normálnými prostředkami možné,
+tak prostě na to použijeme JavaScript,
+ale potom se to ochytnou štandardy
+a povedějí, je, tak my bychom
+to dokázali urobit nějak
+jinak, typicky
+já nevím, CSSko, kedy si se
+robili rollovery obrázkou
+JavaScriptom, CSSko přišlo s
+hover selektorom,
+zrazu to nebylo treba.
+Teraz
+například se začaly robit animácie
+JavaScriptom, protože to nebylo možné,
+CSSko přišlo s tím, že se budou
+robit animácie na straně CSSka
+a je to lepší, je to výkonnější.
+JavaScript si našel,
+co tam potom
+bylo,
+já nevím, že se
+budou generovat tě single page
+aplikácie, protože, já nevím,
+přechody mezi stránkami jsou okamžité
+a podobně. Teraz
+přišly, jak se volají,
+page transitions,
+které vlastně zase to nahradí a zase
+JavaScript kvůli tomu budeme vyhazovat.
+Takže je to
+sinusoidá a je celkom
+sranda pozorovat, jak vlastně
+ty mladí vývojáry, oni vidí
+jen nějaký kus té sinusoidy
+a si myslí, že ok, teraz to stůpá,
+tak to půjde do nekonečná
+a je furt krotím, hej, hej, kľud, daj tomu
+dva, tři roky, jo, zase ten,
+JavaScript budeme vyhazovat, jo.
+Alebo když do toho nastupí a když to klesá,
+tak si hoví, ježiš, to je taková, ten JavaScript
+to je taková okrajová vec, já bych
+si k tomu mal přibrat ten backend, mal bych
+som být full stack vývojář, já hovím, daj
+tomu dva, tři roky, zase ten JavaScript
+vystrelí.
+A to, jak tě slyším, a mluvíš
+o těch sinusoidách a o tom, co předevčídem,
+nebo pozitří už bude retro,
+tak nutíš ty vlastně mladý vývojáře
+do toho, aby nad tím takhle přemýšleli,
+a jde to vůbec, jako připravit se tím kódem na to,
+že prostě jednoho dne to budeš muset změnit,
+a aby si tu iteraci měl co nejkračší,
+tak aby si ten kód psal nějakým způsobem
+takhle dopředně.
+Je to vůbec možný?
+Jako, když si jsem se o to snažil, už jsem to vzdál,
+protože to nejde,
+protože pokud to člověk nezažije,
+tak to nepochopí.
+Já fakt velmi bolestivo jsem
+se dopracoval k tomu, že
+a
+jako já
+mal
+jsem období, když jsem si připadal
+jako Nostradamus. Věděl jsem přesně,
+aké problémy prýdou,
+a věděl jsem, jak to
+opřed vyřešit,
+ale byl jsem v strašném konflikte
+s lidmi, s produktovými manažermi
+a podobně, kteří mi
+nadávali, že tam hledám problémy,
+které tam nesou, a to přece bude v pohodě,
+a len to urob a tak.
+A když jsem se tomu bránil,
+když jsem to chcel pofixovat,
+tak z toho byly fakt konflikty,
+a když se mi to podarilo presadit,
+a vlastně jsem predišel tomu problému,
+tak oni mi potom hovorili,
+vidíš, vidíš, žádný problém,
+jako si Jančilu plně zbytočně.
+Takže jsem se naučil
+prostě zaťat zuby,
+nechat to hovno někde spadnit,
+potom to vyčistím
+a bude.
+Lidé se musí poučit z vlastných chýb,
+jinak to nejde.
+A jak teda ty sleduješ tu listu sinusů
+a ten vývoj, tak vlastně i třeba to teďka,
+co se děje kolem HTMX,
+což mě docela baví sledovat
+celý ten vibe kolem toho,
+zase se říká, pojďme od JavaScriptu,
+pojďme zpátky generovat všechno na serveru,
+což jsme zase zpátky, když jsme tady měli
+Honzu Kuchaře v prvním díle,
+zase zpátky u PH v roku 2000,
+všechno posílám ze serveru
+a maximálně tam dám trošičku JavaScriptu.
+Takže to vidíš, že to je zase
+součást nějakého vývoje.
+Jo, jo, jo, teraz jsme zase na té
+zostupné časti tej sinusoidy,
+kedy se zase z JavaScriptu
+a z klienta presuváme věc na server.
+A
+já osobně si myslím,
+že je to dobré,
+protože to, jak se teraz používá
+JavaScript, to úplně si myslím,
+že to preháňáme.
+Těch single page aplikací a podobně
+si myslím, že to je na konci
+svojej životnosti, že už jsme dosiahli
+všetky ty absurdity,
+které bylo možné dosáhnout.
+A teraz zase jdeme
+zpět na server, ale
+dajte tomu dva, tři roky.
+Zase někdo objaví
+progressive enhancement.
+Jedna z takových ještě tradičních, když si řekne
+frontend, tak všichni říkají, no to je, tam je to všechno
+se žene strašně dopředu a všechno se jako
+zeslužitňuje. To bývávalo
+jednodušší, já jsem skopíroval JavaScript
+prostě přes F-týbko a bylo to
+hotový a teďka tady mám prostě
+lintery a transpilery
+a prostě aglifikace a všechny tyhle
+ty věci. Jak to vidíš ty? Je to,
+je ten tooling kolem toho odůvodnitelný
+nebo je to součástí zase
+týhle z tý křivky?
+No,
+je toho
+je to hrozně velá,
+čo potrebuješ v současnosti
+k tomu, aby si urobil nějaký
+seriózný JavaScriptový projekt.
+Myslím si, že z velké
+míry je to pozostatok tej
+éry, tej puberty toho JavaScriptu,
+kedy každou chvíli vznikaly
+nové nástroje a kdy vlastně
+JavaScript se nevyvíjal, alebo ten
+ekosystém se nevyvíjal dostatočně rýchlo
+alebo ještě i
+tak. Požiadavky
+na JavaScript stůpaly
+rýchlejšie než schopnost
+JavaScriptu natývně
+pokryť tě požiadavky,
+takže právě vznikaly nějaké
+transpillery, babely a podobně,
+začaly vznikat webpacky
+a balíčkovače a
+podobné věci, takže jsme se dostali
+do absurdného stavu, kedy
+rozbehnout JavaScript,
+JavaScriptový projekt znamená
+dva dní sedět a šmrdlat nějaké
+konfiguráky a rozbehnout
+nebo rozběhat nějakou automatizáciu.
+Každopádně
+to dospěvání
+toho JavaScriptu, ten
+jako prechod do nějaké produktivné
+fázy, zo sebou nesije to,
+že už se ten ekosystém
+trošičku prečistil,
+například
+pokěl bysom
+v současné době rozběhal nový projekt
+a necielil na nějaké archaické
+prehliadače, Exploreru jsme
+dávno so Slavou zbavili,
+a současné
+brousery, ta jich adopčná kryvka je
+extrémně rychlá. Já nevím,
+či si pamatáte doby, kdy
+vlastně jsme používali Internet Explorer 6,
+který byl desať roků starý brouser
+a nikdo už ho nikdy nemohl
+zaktualizovat, a já se pamatám
+na ten okamih, keď
+Firefox,
+já už ani nevím, v které verzi to bylo,
+ale zavědli jako automatické
+updaty, že vlastně uživatel
+nemusel
+povědat, chcem si teda stíhnout
+novou verziu Firefoxu, ale ten
+Firefox mu povedal, hej, mám pro teba novou verziu,
+len klikni OK a máš ji nainstalovanou.
+A lidé se proti tomu
+bůrili, to bylo úplně
+jako, to byl shitstorm,
+protože, co ono mi to má,
+co stěhovat do mojho počítača,
+něco, co já jsem si sám nepovedal,
+ale já jsem pozral na ty grafy,
+na ty kryvky, a hovoril jsem si,
+tyjo, stačilo
+4 až 5 měsíců
+a jsme na nové verzi Firefoxu,
+to je závratná rychlost.
+Tak v současnosti vyjde nový
+platform a do dvoch týždňů
+všetci jsou, nebo z 90%
+jsou na té nové verzi.
+Takže jakoby,
+když dnes vznikne nějaké
+nové apy, nebo podpora
+něčeho nového, tak stačí
+počkat pár měsíců a
+fakt můžeme používat nejaktuálnější JavaScript.
+Takže Babely a podobné věci,
+to už bych v současnosti
+do nových projektov ani zbytočně
+nedával.
+Jedna věc, která
+tam furt straší, je
+Webpack.
+Je několiko pokusů ho nahradit,
+Turbopack a podobně,
+ale Webpack je také monštrum,
+že to už podle mě
+dožije a
+nič ho reálně nenahradí.
+A co Vid.js, nebo jak se to čte?
+Vid.js?
+Vid.js je dobrý pokus,
+je to fajn.
+Takže je daleko víc lightweight.
+Je to lightweight, je to opinionated,
+ale
+uprímně v momente, kedy
+ten projekt překročí určitou měru
+komplexity, tak tam prostě
+ten Webpack dáš.
+Začneš si růčo konfigurovat
+nějaké věci, protože tam budeš
+mít nějaké špeciálné edge cases.
+Toho se velmi nezbavíme.
+Každopádně je takový
+trend, že se ty věci standardizují.
+Vznikají jasné výťazy,
+které začínají používat
+všichni a vďaka tomu
+mohou vznikat různé
+opinionated balíčky,
+které se do toho projektu narvou
+a všichni jsou v pohodě.
+Nějaké bezpraktice.
+Já například se pamatám,
+když jsem začínal,
+tak strašně dlouho byly
+šílené diskusie
+Tubby vs. Medzery.
+Jasně.
+Každý rok,
+v každé jedné práci, v každém jednom týmě,
+každý rok pravidelně se někdo
+pohádal Tubby vs.
+Medzery a
+byla okolo toho hrozná diskusia
+a nakonec se všichni dohodli,
+OK, tak teď budeme používat Tubby
+a nikdo to nedodržával.
+A rok neskôr si říkali,
+OK, tak budeme používat
+Medzery a dohodli se na tom
+a dva týždny jim to vydržalo
+a potom to někdo nevydržal
+a zase to přestali dodržávat.
+A všichni ty diskusie,
+a to nejsou jen Tubby vs. Medzery,
+to jsou i věci typu,
+budeme závorky písat na nový
+riadok nebo ne a podobně.
+A potom přišel
+ESLint, který
+byl schopný naformatovat
+ten kód podle nějakých pravidel
+alebo kričal na těch
+vývojářů, ať to nedodržávali.
+A to se trošku zlepšilo.
+Ale ty hádky
+okolo toho, co budeme používat,
+se přesunuly do hádok
+okolo toho, jak nakonfigurujeme
+ESLint. Takže furt to tam bylo.
+No a potom přišel
+Pritiér, který zavědol
+něco jako nějaký štandard,
+byl velmi silně opinionated,
+zavědol nějaké
+pravidlá.
+A ne je velmi možné
+ho konfigurovat do detailu.
+No jako něco se tam dá, ale
+je to zbytočně komplikované.
+Takže se všichni změřili s tím,
+že používají ten
+Pritiérový štandard.
+A úprimně je to úplně jedno,
+protože já osobně ten svůj
+píšem prasácky tak, jak jsem zvyknutý.
+Středníky, nestředníky
+a tabi medzery.
+V momente, kdy to uložím, tak mi to
+automaticky preformátuje ten kód
+na ten Pritiérový
+a já to vlastně nerieším.
+Takže
+vďaka tomu, že všetky také
+ty nástroje,
+které v podstatě
+vyhrali
+a preniesli tu svoju
+opinionated opinion
+do mainstreamu,
+no tak hold se používají
+a všetci jsou s tím změřeni
+a už to nerieší.
+Co v podstatě zjednodušilo
+ten Javascriptový ekosystém.
+A co vidím
+teraz jako celkom zaujímavý trend,
+protože se začal masivně používat
+TypeScript. Všade je TypeScript,
+všetci všade tlačí TypeScript.
+Takže okolo toho jsou
+šialené diskusie,
+ale potom se můžeme pobavit
+o tom, jak se snaží dostat TypeScript
+do situace.
+To je těž
+dobrý shitstorm,
+ale
+vlastně jak v každém projekte
+teraz je
+podpora TypeScriptu,
+tak prostě tam musí být ten TSC,
+nějaký kompilátor, nějaký checker,
+potom se vymýšlejí
+nějaké ESBuildy a podobně,
+které v podstatě kompilují TypeScript
+jednoducho tím, že vyhodí jeho syntax
+a to, co zostane je čistý JavaScript.
+Nič nekontrolují, takže je to rychle.
+Takže
+jak je všade TypeScript,
+tak začínají vznikat
+projekty,
+já nevím, Dino například,
+které natývně podporují
+TypeScript. A zase je to
+takové vyvážené, že
+já, když si ten TypeScript do projektu
+zavedím manuálně, tak mám plnou
+kontrolu nad tím, jakou verziu
+používám a jak je nakonfigurovaný a nevím co.
+Ale zase na druhé straně, jak použijeme
+Dino, tak prostě
+TypeScript funguje a nemusím to vůbec
+řešit. Takže to si myslím,
+že je cesta, kterou
+to zase dopadne, že
+už jsem dokonce viděl nějaké
+návrhy, aby
+Node.js natývně
+podporoval TypeScript.
+Ty už jsi do toho vlastně
+skočil, do týmý otázky, kterou jsem tady měl
+připravenou. A to je, v čem vlastně Riky
+vyvíjí. Protože ty jsi celou dobu říkal
+JavaScript, ty jsi skočil do TypeScriptu.
+Je to teda tak, že stále jsi
+v tom Vanilla.js a
+TypeScript jako řekněme
+respektuješ, když musíš. Anebo už
+seš právě na tý moudní vlně,
+že teda využíváš ty feature, který
+přines TypeScript.
+No, to záleží.
+Moje oblíbená odpověď.
+Úprimně, kedysi
+jsem byl silně
+opinionated a hovoril jsem, tato knižnice
+je nejlepší a měli bychom ji používat.
+Tento framework
+je nejlepší, měli bychom ji používat.
+Ale teda jsem se dostal
+do stavu už před dávnými
+rokmi. Prostě čokoľvek
+chcete používat, to budeme používat.
+Je to vlastně úplně jedno.
+Přizpůsobím se, já nevím,
+já si tam ty středníky budem písat,
+ať jich tam nechcete.
+Při těch rýchlych vyhodích, hotovo,
+nemáme se na čem hádat.
+Já nevím, já jsem třeba
+velký fanda Vuečka.
+Vue mi vyhovuje.
+Ale teda
+když jsem nastupoval do Outreach, oni používají
+React, no tak prostě jsem se naučil
+React a je to jo.
+A chcou používat TypeScript,
+OK, tak jsem se naučil TypeScript.
+Já osobně
+nesu zas až tak velký fanda
+TypeScriptu, ale
+prečo ne, jako
+chcete ho používat, fajn.
+Ne je to na mě, aby
+jsem teraz išel prepisovat
+existující projekt,
+jen proto, aby jsem si tam
+přesadil svoje.
+No ale když něco děláš třeba sám,
+tak jdeš Vanilla Javascript?
+Já jsem nastupoval podle tebe, nejseš součástí
+Outreach, jseš prostě Riky
+Incorporated. Jo, jo, ono to velmi
+záleží od toho, čo je to za projekt.
+A
+keď robím něčo
+jako fakt velké,
+alebo o čem si myslím, že
+to vyrastě, tak tam hodím ten
+TypeScript, jo, fajn.
+Ono to občas pomůže.
+A pokal, ale
+finta je v tom, že já vlastně
+robím spoustu drobných
+projektov, velmi často jsou to rozšíreně a
+pro prehliadače a podobně,
+kde
+chcem
+ten
+chcem mít ten workflow, co najjednoduchší.
+Protože čím víc kroků tam je,
+tím víc musím,
+nevím, kliknout hore-dole,
+něco spušťat, když
+chci zaktualizovat to, co vidím.
+Takže například,
+když píšu nějaké ty rozšírení,
+tak to píšu přímo v Javascriptu.
+Kvůli tomu tam nemusím mít vůbec
+nič, žádnou kompiláciu
+ani nic podobné.
+Můžem si být jistý, že ten
+Javascript, který napíšem,
+bude interpretovaný správně,
+protože když robím ty rozšíreně,
+jsou pro Chrome, ten má velmi
+jasně dané svoje
+APIčka, svoje schopnosti,
+takže nemusím, já nevím,
+myslet na staré browsery, nebo
+jiné browsery, když píšu něco pro Chrome,
+tak nemusím podporovat,
+nevím, Safari vymýšlance.
+Takže tam je to
+úplně jasné, tam můžem písat čistý
+Javascript. Každopádně
+je celkom užitočné
+mít tam ty typové definicie
+a
+mně osobně
+velmi vyhovuje JSDoc.
+Nevím proč, prostě je to
+čistý Javascript, jsou to
+komentáře v tom Javascripte,
+netřeba nic kompilovat, transpilovat.
+Celkově,
+jako mi vyhovuje, že do toho JSDocu,
+on tím, že vlastně je na dokumentáciu
+a ty typové definicie
+tam má, tak jako
+přidruženou výrobu, tak mi
+fakt vyhovuje, že si tam můžem písat
+poznámky. Nielen, že
+tento parametr je tohto typu, ale
+aj, co zamýšlám
+urobit s tím parametrom, alebo
+prečo si ho tam posílám a podobně, co
+u tých velkých projektov mně osobně
+fakt pomáhá.
+A já vlastně nepotřebujem
+žádný tooling okolo
+toho, ktory by mi to nějak kompiloval
+a upozorňoval na chyby,
+protože používám IDEčko,
+které to má v sebe zabudované. Takže
+vlastně napíšem
+JSDocovu dokumentáciu k nějaké
+funkci a mám
+to syntax highlightované,
+já nevím, prekliky fungují,
+nějaké tooltipy a podobně.
+Pokud tam napíšem nějakou typovou
+chybu, tak tam mám ty červené
+vlnouky, které mě na to
+upozorní. Takže vlastně mám
+full service, jako kdybychom používal
+JavaScript, akorát, že používám syntax,
+kterou vůbec neje treba nějak
+kompilovat. Jaký IDEčko používáš?
+WebStorm. Jo, takže
+JetBrains. Jo, jo, JetBrains.
+Je ještě nějaký jinej jazyk, který se
+transpiluje do JavaScriptu, který
+tě třeba jako v průběhu tvý
+kariéry zaujal? Ano, CoffeeScript,
+ReasonML si pamatuji jednu chvíli, nebo
+my dokonce používáme Elm, tady jeden projekt,
+tak kluci to mají hodně rádi.
+No, já jsem svojho času
+velmi intenzivně používal
+CoffeeScript, protože mi neskutočně vyhovoval.
+To bylo ještě v době, kdy
+bylo to v takových těch ranných fázách,
+kdy ještě Babel a podobné
+věci nebyly celkom aktuálné.
+Takže jedna věc, s kterou CoffeeScript
+pomáhal, byly takové ty kompatibility
+s starými explorermi
+a podobně, ale
+to nebyl ten hlavní důvod, proč
+se mi CoffeeScript páčil.
+Já jsem v té době robil v centre
+a to bylo tak jako
+to bylo
+taková liaheň,
+takové doupě,
+džungistov, pajtnistov,
+Honza Král, Jakub Vysoký,
+Ondra Kohout.
+To fakt byly úžasné časy.
+A tam se vtedy všechno písalo
+v pajtně. A oni mě celkem nakazili
+tím, mně se velmi páčí
+to štrukturování kódu
+přes Whitespace.
+A CoffeeScript byl vlastně
+přesně to. Jakoby JavaScript
+bez zbytočných zátvorík
+nešlo přes pisk.
+Čo spoustě lidí nešlo
+přes pisk.
+Hejterů bylo velká,
+ale mně osobně to sedělo.
+Mně se to čítalo dobře,
+já jsem se v tom dobře orientoval.
+Takže já jsem CoffeeScript používal
+velmi dlouho.
+Ale potom se JavaScript přesunul
+do toho, že se začaly používat moduly,
+importy a podobné věci.
+Co bylo v CoffeeScripte komplikované,
+takže ho všichni prekonvertovali,
+vyrefaktorovali preč.
+A máme skvělou zprávu,
+urobili jsme CoffeeScript dvojku,
+která má podporu pro tuto syntax.
+A všichni jako OK,
+ale už to nebudeme vrátit.
+Takže CoffeeScript chcípal.
+A to bylo vlastně
+jediné náračí
+JavaScriptu, které jsem historicky používal.
+Potom jsem se vrátil k nativnému
+JavaScriptu a teď
+buď JavaScript, alebo TypeScript.
+A já myslím, že ReasonML měl
+taky Whitespace, že šel
+s tím stylem, tuším. To nevím.
+Ten jsem nikdy nepoužíval.
+Já se samozřejmě musím zeptat,
+protože když se bojíme o frontendu,
+tak je tady jedna nesmrtelná legenda,
+kterou nikdo nikdy nezabije. A to je jQuery.
+Ano.
+Jak se Riky zubí,
+což posluchači samozřejmě nemůžou vidět.
+Co si Riky myslí
+o legendárním jQuery?
+JQuery je mým
+a já si z toho robím stále srandu
+a stále to změňujem.
+Dokonce jsem na jedných frontendistoch
+alebo stále se snažím.
+do těch
+svojich ukážok nějak zakomponovat
+v jQuery.
+Takže například na
+jednom meetupe frontendistov jsem ukazoval,
+jako přidávat závislosti do
+NPM projektu. A chcel jsem
+ukázat, že je možné tam dát
+dvě verzie jedného
+a té jisté knižnice naraz.
+Akorát to třeba trošičku pohackovat s tím
+pomenovaním. A přesně jsem to ukazoval
+na projekte, do kterého jsem dával
+jQuery dvojku a jQuery trojku.
+Přičom ten projekt to vůbec
+nepoužíval, ale jQuery tam musí být.
+A čím víc jQuery,
+tím víc
+JavaScriptu.
+Takže já si z toho robím prdel.
+Je to mým.
+Úprimně jQuery je skvělá
+knižnica. Fakt jako úžasná.
+Svojího času velmi pomohla.
+V časoch Internet Exploreru
+zrovnávala
+rozdíly mezi browsery.
+Umožňovala písat CSS,
+selektory, které nebyly
+podporované, které dokonce
+vlastně až
+teraz dostáváme do CSS.
+Takže svojího
+času fakt to byla úžasná věc.
+Ale ta knižnica
+splnila svoji historickou povinnost.
+Prešlapala cestičku,
+ukázala nějaké cesty.
+Nativná podpora
+v CSSu, v Javascriptě
+vlastně nahradila jQuery.
+Takže v současné době ne je absolutně
+žádný problém ho dávat do nového
+projektu. Samozřejmě
+existuje milion
+starých projektov, na které
+už nikdo nikdy nešáhne.
+Akorát to jedného dňa vypne.
+Tam nemá zmysel to vyrefaktorovat.
+Prostě kým to funguje, tak to funguje.
+Hotovo jo. Ale
+fakt například nevidím zmysel v tom
+robit nové verzie jQuery.
+Já jsem nedávno to i sdílel
+na sociálních sieťách, jako hurá sláva.
+Vyhlásili, že bude jQuery
+čtyrka. Ok, ale
+na co?
+Jako, já nevím, ofixujte
+nějaké bezpečnostné děry v starej verzii,
+kterou už nikdo
+nikdy nevyrefaktoruje, ale
+na co? Jasně.
+Když se bavíme o těchto různých knihovnách,
+frameworkcích, tak vlastně ty jsi řekl, že máš rád
+výčko. Když se podívám na
+ten trh, tak to už jeho. To máš React,
+Angular, VJS, možná Svelte.
+Ty máš nejradši výčko, ale jak to vidíš třeba
+s ohledem nějakého market share,
+jako v válcu je to React,
+nebo je tady prostor
+i pro ostatní, pro nové ještě? No, jasné.
+React to válcuje.
+Já osobně mám rád výčko,
+protože jsem s ním
+nějakou dobu pracoval a fakt mi
+vyhovovalo.
+Páčí se mi ta filozofia
+výčka. Je to
+podle mě velmi dobrá
+kombinácia toho,
+že vychádza
+vývojárom v ústrety,
+dává jim nástroje,
+jako jednoducho můžou urobit také
+najčastější věci,
+ale zároveň jim dává
+spoustu priestoru na to,
+aby si všechno napísali sami.
+V Reacte
+například, tam
+mě trošku irituje, že na všechno
+musí být hrozně velké
+takového kódu
+okolo toho, neexistují
+nějaké zkratky,
+use state a podobné věci,
+prop drilldowny
+a podobné věci.
+Takže hooky ti nesedly vůbec?
+Hooky jsou v pohodě,
+používám jich,
+ale ve Vue spousta věcí,
+které se dělají přes hooky
+nebo v Reacte,
+přes nějaké zložité
+konstrukce,
+jsou fakt jednoduché.
+Chcem přidat nějaký event,
+tak tam napíšem ten zavináč
+názvu eventu
+jako atribut
+a nemusím komplikovaně
+písat handlery a podobné věci.
+Takže v tom Vue
+fakt se mi páčí,
+jak je to organizované
+a jak to vychádza
+vývojárom v ústrety.
+React samozřejmě všetko valcuje,
+protože byl první,
+takže všichni naskakují na React
+a tam potom zafunguje
+takový efekt jako
+já jsem vývojár, naučil jsem se něco nové,
+naučil jsem se React
+a teď mi někdo hovorí,
+že existuje nějaký lepší framework,
+kde bych se musel naučit něco nové,
+ale já už jsem zvyknutý na ten React.
+Tak keď se pozrám na ten framework,
+tak budem hledat chyby,
+které bych mohl kritizovat,
+ale nebudem se na to pozrát
+takovým otvoreným pohledem,
+jako toto je dobré, toto je zlé,
+pojďme z toho vyzobat to dobré.
+Takže jako
+já osobně
+vím o spůstě Reactistů,
+kteří jsou fakt fanatickí Reactisti
+a nadávají na všechno ostatní.
+Já osobně si myslím, že je to kvůli tomu,
+že je to
+ten strach z neznáma.
+Obvykle to funguje tak,
+že vznikne nějaký nový framework,
+protože to je taková ta
+typická reakce, někdo něco urobí
+a všichni si říkají,
+OK, to je fajn, to je super, to budeme používat,
+ale někdo si říká,
+já bych to dokázal urobit lepší.
+A urobí to lepší.
+A zase se někdo pozri na to a říká,
+OK, OK, to je sice fajn
+a rieší to nějaké problémy,
+ale on to dokázal urobit ještě lepší.
+Tak to urobí ještě lepší.
+A mně se celkom páčí,
+jak to bylo v době,
+kdy vznikaly nové frameworky a tak,
+tak
+oni se navzájem vykrádali.
+Dali si nějaký čas, že OK,
+vy jste přišli s něčím novým,
+tak uvidíme, či se to chytne,
+či tam nebudou nějaké problémy.
+A o půl roka prehlásili,
+no tak my jsme připravili novou feature,
+a vlastně je to vykradnutá feature
+z toho jiného frameworku,
+jiné syntaxy.
+Takže já stále, když jsem viděl
+nějaký nový framework,
+tak jsem se těšil, jojojo,
+to bude super, až vykradnu toto,
+to bude super, až vykradnu tato.
+No, se to trošičku zběhá.
+React má problém v tom,
+že tím, jak byl první,
+tak on jako by prešlapával cestičku,
+takže tam je několiko problematických
+věcí, kterých už neje celkom možné
+se zbavit.
+A tím, že ho používá tak obrovská
+masa lidí, tak je celkom těžké
+a to urobí rýchlo.
+A i když například, já osobně si myslím,
+že prechod z dvojky na trojku v učku
+celkom zlomilo ves, že tam to jako
+ztratilo kontinuitu.
+To byl celkom průser.
+Jo, ale jakoby ten React,
+jo, je to ten tanker,
+ktory si to šině tým oceánom
+a občas měrně uhne
+o pár stupňů v hlavu, alebo v pravu,
+ale s tím už nikto...
+Nikdo nic neurobí, no.
+No ty jsi mi totiž zmínil jednu věc
+na svých sociálních sítích,
+na které se těšíš, nebo vypadá to,
+že by měli přijít do Javascriptu Signals
+a že to bude znamenat jako velkej dopad
+právě na stávající ekosystém těch
+frameworků a knihoven. Tak bych tě poprosil,
+jestli bys za prvé posluchačům vysvětlil,
+co teda to jsou Signals, co to řeší
+a co by to teda znamenalo
+pro tenhle ten velkej tanker,
+který teďka jako nerušeně jede vodama.
+Signály podle mě budou velká věc
+a já o tom teda budem mít
+na Frontconě. Můžeme urobit trošku provoz?
+No samozřejmě, samozřejmě, pojď.
+9.10. Frontcon, pozrite na
+Frontcon.cz, bude to super akce
+a budem tam hovorit do detailů
+o signáloch. Teď přemečím, že se to stihneme
+do 90. vyrýsovat. Okamžitě jsem začal,
+okamžitě zaučám se, kdy vylezet
+tento díl. Ok, tak
+přišli jste o skvělou přednášku.
+Přišli jste o úžasnou přednášku
+Ježíš, to byla pecká. Na Frontconě.
+Hlavně to, jak říkal, o těch signálech, to jsem líbil.
+Každopádně,
+já nevím, keď tak si to pozrite zo záznamu,
+tam to budem ukazovat víc do detailů,
+ale zhruba, co jsou signály.
+Velký problém
+v současnosti v Javascriptě
+je,
+že vlastně
+vznikly tzv. reaktivné frameworky,
+všetci očekávají, že máme
+nějaké hodnoty, nějaké data, a
+když se ti data zmení, tak
+na to ten Javascript má nějak zareagovat,
+a updatovat UI.
+A třeba, až se ten uživatel něco napíše
+do formuláru,
+my tu s tím něco urobíme,
+a zase to někde vykreslíme nějak jinak,
+a prostě potřebujeme reagovat
+na zmeny v datách.
+A
+v Javascriptě neexistuje nějaký jednoduchý
+způsob, jak to urobí.
+To je důvod,
+proč třeba až v Reactě
+je ten useState,
+a ten má seter,
+vrací pole, kde je 0,
+kde je seter,
+ta getter a prvá položka je seter,
+a třeba to volat,
+a je to kvůli tomu, že vlastně
+v tom getteri a seteri ten React má
+něco, co stále zareaguje,
+a pově si, aha, tak ty jsi zmenil
+hodnotu, tak já tu teda spustím
+nějakou kaskádu věcí,
+které zaktualizují UIčko.
+A keď vyšlo
+v UIčko 3,
+tak tam zavědli věc,
+já jsem to ukazoval na jednom meetupe frontendistů,
+a,
+to vypadalo úžasné jako reakce,
+a na to bylo OK, o čem to vlastně hovoríš,
+ale oni zavědli to,
+že
+začali používat objekty
+na to, aby ukladali
+hodnoty,
+protože objekty můžou mít seteri a getteri.
+Jasně.
+Takže vlastně, když mám objekt
+a na všech jeho propertích nastavím getteri a seteri,
+tak tím zajistím to,
+že můžeme reagovat,
+když se ta hodnota zmení.
+Trošku problém je v tom,
+že pokud používáš primitivné hodnoty,
+a ne objekty,
+tak ty primitivné hodnoty nemůžou mít getteri a seteri,
+nebo primitivné hodnoty jako
+stringy, čísla, buliny.
+Takže u Vue to vyřešili tak,
+že existuje
+jiný mechanismus na zabalení
+objektových dát
+do těch getterů a seterů,
+a na zabalení primitivních dát
+do těch getterů a seterů.
+Takže vlastně z těch primitivních dát
+to urobí nějaký objekt,
+který má property value,
+protože stále nemůžeme povídat,
+ne jim rovná se něco,
+ale ne jim value rovná se něco.
+Co je trošičku problematické,
+když chceš nějakou hodnotu zmenit
+z primitiva na objekt,
+tak je to zložitější refactoring,
+ale fajn,
+funguje to, je to super.
+Podobné mechaniky
+mají různé
+další frameworky,
+Svelte má něco své,
+Angular má něco své,
+všichni si to říkají.
+A takhle
+přišel návrh na novou špecifikaci
+v TC39,
+to je Technical Committee 39,
+je to jako součas
+V3 konzorcia,
+které standardizuje věci.
+Myslím, že momentálně je to zatím
+v fáze 1,
+to znamená, že ještě
+na tom pracu, ještě to špecifikuju,
+protože
+a myslím si, že to tam ještě nějaký čas
+zůstane, protože všichni si uvědomují,
+že toto je fakt velká věc,
+a bude to mít velký dopad,
+tak to chcou urobit poriadně.
+Aby to nedopadlo tak, že
+se bude robit signál z 2.0.
+V podstatě,
+co to znamená, je to nějaký
+mechanismus, který bude fungovat natývně
+v Javascripte,
+kterému povím,
+toto je nějaká
+hodnota,
+na kterou chcem někde reagovat,
+má nějaké mechanizmy,
+které nám vytvárají
+takzvané computed hodnoty,
+což znamená,
+jak mám premennu name,
+first name a last name,
+tak mám nějakou computed hodnotu full name,
+která spájá ty věci dohromady.
+A když se first name
+nebo last name zmení,
+tak toto se zaktualizuje
+a vyšle to nějaký signál.
+Finta je v tom, že ty vlastně
+nechceš při každé změně reagovat
+na úplně všechno,
+to by spustilo šílenou kaskádu,
+takže je tam velká mechanizma
+na pozadí, které to optimalizují,
+která zmena bude mít dopad,
+na které hodnoty a vlastně...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+na míru tomu, aby se toho pěkně chytali web komponenty.
+Čiže jako technologia, která už hrozně dlouho je,
+že už o rok to prerazí a stále to neprerazí.
+Ale já nevím, myslím, že v roku 2018 tak nějak už to bylo.
+Jako se to standardizovalo, ta podpora v současných browseroch
+je celkom dobrá, mají tam Shadow DOM,
+co je podle mě úplně úžasná věc.
+Takže jako ty webové komponenty už teraz podle mě jsou fakt na té hrane,
+že začnou dávat zmysel.
+A já si myslím, že v kombináci,
+alebo takto, ty web komponenty jsou standardnou současťou DOMu
+a signály budou standardnou současťou JavaScriptu.
+Takže keď se dají dohromady, tak to dá reaktivitu,
+dá to templatování, takže vlastně budeme mít
+jako JSX z Reactu a budeme mít tu reaktivitu z Reactu.
+Takže čo vlastně bude robit React?
+A v tom je právě ta revolucie,
+že to, co robíte současné frameworky, nahradíme natývnými vecami.
+Samozřejmě, že ty frameworky budou s otrvačností existovat hrozně dlouho,
+samozřejmě, že budou vycházet nové verzie,
+ale já osobně si myslím,
+fakt jsme na hraně toho, že React se dostane do podobné pozice jako jQuery.
+To jsem se chtěl zeptat, jestli prošlete cestu a upadne.
+To bude přesně ono, splnil svoji historickou povinnost,
+přišel s reaktivitou, s nějakým templatovaním,
+urobili jsme natývnou implementaci, fajn, necháme ho dožít,
+nikdy se ho nezbavíme, miliony webov na něm budou bežat,
+o 20 roků si nebudem srandu s jQuery, ale s Reactu,
+ale stále tam někde na pozadí bude.
+A otázka je, a to si myslím, že bude velmi zaujímavé sledovat,
+co bude to nové, co budou frameworky,
+co bude Javascript riešit a okolo čeho budou vznikat nějaké knižnice a frameworky.
+A už se na to fakt těším.
+To jsme krásně popsali, Signals, a co by to znamenalo?
+Já se na to docela těším, protože pak sledovat celý ten shitstorm
+kolem toho, že React už je deprecated, to bude sranda,
+dělat popcorn, core pro mě, který vlastně frontendu se primárně nevěnuje.
+Já osobně si myslím, že jak jsem popisoval Javascript
+jako vývoj člověka, od batoľaťace z pubertáka do člověka v produktivním věku,
+tak to si myslím, že to bude taková celkom slušná krýza středního věku,
+že si Javascript koupí koženou bundu a motorku a začne balit mladé babenky.
+Když se ještě bavíme o Javascriptu jako takovým,
+možná bys mohl posluchačům vysvětlit, co je hlavní myšlenka s designem toho jazyka,
+protože on je tady s náma strašně dlouho a já mám třeba pocit,
+že to schytává kolikrát strašně nefér, že má spoustu feature,
+které nejsou třeba úplně správně pochopené, viz, prototype a řekni mi věci,
+jak se tam řeší inheritance, jak se řeší vůbec nějaké tyhle věci.
+A pak je jednoduché říct, ten jazyk je debilní,
+ale vlastně za prvé je tady strašně dlouho,
+což který jazyk může říct, že tady žije s námi takovejch let
+a jako poskytuje takovou vlastně i business value a byl vzniknul přeci z nějakého důvodu,
+s nějakou myšlenkou zatím, takže jak to vidíš ty?
+No, toto je otázka, kterou občas dostanem a lidé tak nějak očakávají,
+že já jako milovník Javascriptu budem ten Javascript obhajovat a tak,
+ale jako uprímně, Javascript mně je nejlepší jazyk,
+kde...
+...ne je ani v top ten.
+Javascript dominuje, ale ne je to kvůli tomu, že by to byl dobrý, kvalitný jazyk,
+Javascript dominuje kvůli tomu, že vyhrává kontumačně,
+protože keď chceš něco skriptovat v browseri, tak musíš použít Javascript,
+protože to nič nepodporuje.
+Byl nějaký pokus s Vezm, ale to nějak, nevím, nějak to vyšumelo.
+Jako dá se to použít, ale nikdo to nepoužívá.
+Takže vlastně Javascript vyhrál kontumačně,
+protože nemá konkurenta, nemá alternativu.
+A dostali jsme se do stavu, kdy si lidé povedali,
+OK, tak musím něco používat na straně back-endu,
+tam mám na výběr zo spousty jazykov,
+na front-ende musím používat Javascript,
+protože mám na výběr z jedného jazyka.
+Co, kdybychom to nějak zjednotili?
+Tak vznikl Node.js.
+Když vznikl Node.js, tak všichni, jako si myslím,
+si hovorili, že to je totálná absurdita,
+kdo bude používat Javascript na straně serveru?
+No, ukázalo se, že všichni.
+Takže to byla taková zlatá horučka,
+kdy všichni naskakovali na Javascript.
+Já se pamětám, že kamarádi mi volali,
+kteří se dovtedy vysmíjevali Javascriptu,
+že já si tam šmrdlám nějaké rollovery.
+Já říkám, prosím tě, neukázal by jsi mi nějaké základy?
+Samozřejmě, že jo.
+A...
+Jako Javascript začal běžet všade,
+ale nad čím intenzivnější věci se Javascript používal,
+tím více ukazovaly jeho různé slabiny.
+On prostě neje efektivný.
+Jako ten Javascript neje typový jazyk,
+takže nikdy v něm nenapíšete tak výkonný kód,
+jako, já nevím,
+teda se všetko prepisuje do Rustu,
+alebo do Go.
+Takže po tom prvotném ošiali
+přišlo vystřiezvení a vlastně i celý Javascript,
+to je ekosystém,
+už se teda prepisuje.
+Do něčeho jiného,
+než do Javascriptu.
+Čo já osobně si myslím,
+že je dobré,
+protože jako Javascript je fajn v brousery,
+ale jako na nějaké seriózné věci...
+Takže si myslíš,
+že vlastně patří jenom do brousery.
+Obřevem si,
+že v Javascriptu můžeš mít,
+já nevím,
+Cloudflare Worker,
+Serverless,
+v Electronu si uděláš prostě desktop aplikaci,
+samozřejmě React Native,
+zase jako do mobilu to strčíš,
+Node.js na serveru.
+Takže kam teda patří Javascript?
+Ale jako...
+No, ty jsi teda změnil celkom zaujímavou věc.
+Trošičku asi odskočíme,
+ale původně Javascript bežal
+iba v prehliadačoch.
+Prostě bylo něco v E8,
+nevím, jak se to volá teraz,
+co interpretoval Javascript v prehliadačoch.
+No, ale jak byl ten dopyt po tom,
+aby Javascript bežal úplně všade,
+tak začaly vznikat nové enginy.
+Nějaké firmy si začaly písat
+svoje vlastné,
+Javascriptové enginy,
+na kterých beží právě ty workery
+na serverless hostingoch a nevím co.
+A je to celkom sranda,
+protože jak původně bylo
+několiko těch enginů,
+Explorer měl něco,
+Chrome měl něco,
+Firefox měl něco,
+teda se to všechno zjednotilo
+do toho Chromia
+a zase se to začalo třeštit.
+Takže teda vzniká spousta enginů
+Javascriptových,
+které vlastně robí to jisté,
+ale jsou optimalizované
+pro něco jiné
+a mají drobné nějaké rozdíly
+a obmedzení.
+Takže já nevím,
+některé APIčka Javascriptové
+nesou přístupné úplně všade.
+Už se to fakt začíná fragmentovat.
+Každopádně já osobně si myslím,
+že všichni ti interpreteři Javascriptu
+nevznikali kvůli tomu,
+že by to byl dobrý nápad,
+ale kvůli tomu,
+že to zákazníci požadují,
+a očakávají,
+tak prostě ty tvorcovia
+vymýšlejí efektivnější způsob,
+jak jim to poskytnout.
+Ale rozhodně to neje
+nejlepší možnost
+jako něco spoušťat.
+Takže takový doběh té módy,
+řekněme full stacku,
+že mám jeden jazyk
+a jsem schopný s ním pokryt
+co nejvíc platformem,
+co nejvíc časem.
+Jo, ten polymorfismus a tak.
+Já osobně si myslím,
+že časem,
+teraz jak Javascript trošičku
+ustupí víc do toho natývna,
+tak si myslím,
+že se ukáže,
+že i na straně serveru
+může běžet něco jiné
+a že je to efektivnější.
+A já osobně si myslím,
+že taková jako další
+celkom velká vlna bude,
+že Javascript bude
+jen kompilační target
+pro různé jiné jazyky.
+Už teraz je možné písat kód
+v nějakém jiném jazyku,
+nechat z toho vygenerovat Javascript.
+A já si myslím,
+že se to trošičku preklopí.
+Firmy nebo projekty,
+které budou chtít
+mít polymorfní kód,
+tak to budou písat v něčem jinom,
+já nevím, v Rustě, v Go,
+co pobeží natývně na tom
+jich servery
+a tu Javascriptovou část
+si nechají vygenerovat
+z toho Rustového
+nebo Go kódu.
+No což je vlastně to třeba,
+co děláme s Fablem.
+Ty se napíšeš vlastně
+část ve Fsharpu
+a tam to bylo přes,
+původně přes Babel,
+teď už je to nějak
+deep ti z toho udělat
+ten syntax tree
+a z toho vygenerovat
+vlastně Javascript.
+Takže výsledek byl JS file,
+ale ty jsi celou dobu pracoval
+i debagoval prostě v rámci
+jinýho jazyka,
+jinýho ekosystému
+a v podstatě assembler pro web
+jako de facto.
+Ano, to si myslím,
+že je jako jedna z budoucností
+Javascriptu,
+prostě písat kód
+budeš v něčem jinom.
+Každopádně,
+abysom se vrátil
+původně k té otázce,
+kterou jsem odběhal
+přes čtyři relopinky.
+Javascript původně vznikol
+jako jednoduchý skriptovací jazyk
+pre web,
+pre webové stránky.
+V podstatě na preklápaní obrázků
+a validaci formulářů
+a to bylo asi tak všechno,
+co od něj původně očekávali.
+Ale tím,
+že všichni se zbláznili do toho,
+že budeme dělat webové aplikace,
+což jako nehovorím,
+že je zlá věc,
+je to skvělá věc,
+ale zrazu od,
+najprve od prehliadačů
+byly nové očekávání.
+To je důvod,
+proč Internet Explorer
+vlastně musel chcipnout
+a proč na něj všichni nadávali.
+Urobím ještě jeden loping.
+Internet Explorer 6,
+v dobe, kedy vznikl,
+byl nejlepší browser.
+V dobe, kedy vznikl.
+V dobe, kedy vznikl,
+byla úplně jiná situace.
+Málo kdo si to ještě pamatá,
+ale vtedy se běžně připájalo modemům.
+Načítání stránů bylo strašně pomalé,
+takže IE 6
+byl browser,
+který byl optimalizovaný na to,
+aby z nějakého fragmentu HTML kódu,
+prostě mám natáhnutou polovicu stránky,
+aby už něco byl schopný zobrazit,
+aby ten účet,
+užívatel už mohl čítat nějaký článok
+a to, že nějaký sidebar
+alebo petička
+se dotiahnul až potom
+v tom tabuňkovém layoutě,
+tak to optimalizovali na to,
+aby ten layout té stránky,
+když se to dotiahne,
+aby príliš neskákal.
+Takže tam byly optimalizácie pro to.
+A když jste se připájali cez modem,
+tak Internet Explorer 6
+byl šebský.
+To bylo fakt úžasné v té době.
+Ty jsi nám se...
+Já úplně se vám...
+Mě naskočilo v hlavě
+AstalavistaBox.sk.
+Já jako...
+Přísahám Bohu,
+já jsem tu adresu neměl v hlavě
+tyhle 20 let.
+A jak to Riky řekl,
+tak už mají to takhle udělat.
+Tak to se hospodil,
+nevím, že prinašám zpět
+dávné traumy.
+Ale ten Explorer 6
+byl úžasný,
+ale potom
+přišly webové aplikácie,
+přišel Gmail,
+všetci to začali kopírovat
+a zrazu byly jiné požadavky
+jak na browser,
+tak na JavaScript.
+Takže ta ES-beďka
+so svými obmedzeniami
+už jako nestačila
+a byly velké tlaky na to,
+aby vzniklo něco jiné.
+Vznikla ES6
+a teraz vlastně každý rok
+prichádzají nějaké vylepšení.
+A ten JavaScript
+nebo ten vývoj JavaScriptu
+už je tak nějak normalizovaný
+a podle mě,
+jak to funguje dnes,
+je to super.
+Nějaké velké zemetrasení
+už tam nesou.
+Takže ten JavaScript
+se zmenil,
+prispůsobil se
+současným očekáváním,
+nastavily se
+ty správné procesy.
+Já osobně jsem
+velmi spokojený s tím,
+jak to funguje teraz.
+Tak super.
+Ještě jedna věc,
+kterou já tady mám
+jako velký téma,
+jsou CSSka.
+My jsme se jich na začátku dotkli,
+ale vlastně tak,
+jak se vyvíjel JavaScript
+a to, jak vlastně vznikají
+webový stránky,
+tak ruku v ruce s tím
+vlastně jde i vývoj CSSek.
+Já si samozřejmě
+taky pamatuju ty robiny,
+když je to byl font tag,
+pak se člověk naučil
+nějaký základní CSSka,
+obarvil stránku, hurá celý,
+je to žlutý, že jo,
+to je nádhera.
+No a vlastně teďka,
+když jsem to podíval,
+tak mám pocit,
+že spoustu lidí už zase
+od těch CSSek,
+nebo spoustu lidí,
+je to jenom moje dojmologie,
+jakoby odchází,
+že jsou tady věci jako Tailwind,
+jsou tady věci,
+kdy zase jsem odstíněnej
+od toho,
+jak to vlastně je vevnitř,
+a že už používám
+nějaký větší úrovně abstrakce,
+abych dosáhl to,
+co jsem před 20 lety
+jako dosahoval velmi těžko.
+Jak to vidíš ty, ten vývojů?
+No, CSSka v současné době
+jsou úžasné.
+Fakt.
+Ako, keby mi někdo ukázal věci,
+které se v CSSku
+robí v současnosti,
+keby to ukázali
+můjmu mladšemu já
+před 15 rokmi,
+instantní orgazmus,
+jako 10 minut
+bychom křičali z okna,
+a fakt,
+jako bychom byli nadšeni.
+A CSSko původně,
+když vzniklo původně CSSko,
+tak to v podstatě,
+jak jsi hovoril,
+mělo nahradit
+ty fontagy,
+které byly úplně všade.
+Bylo to úžasné.
+A já mám takový pocit,
+že postupně,
+jako to CSSko
+nějakou dobu
+preběralo to,
+co robil Javascript.
+Jako Javascript
+najprve robil
+ty rollovery obrázkou,
+CSSko přišlo s hoverom,
+Javascript potom
+robil animácie,
+CSSko přišlo s nativnými
+animáciami,
+které běží
+a přímo na železe,
+jsou velmi efektivnější,
+je fakt super.
+A teraz Javascript
+začal
+robit věci,
+které už CSSko
+až tak nedokáže.
+Takže CSSko
+si začalo hledat
+vlastné cestičky
+a začali tam
+implementovat věci,
+které vývojárom
+hrozně dlouho chýbaly.
+Najprve různé
+způsoby,
+jako formátovat obsah
+nebo jako formátovat layout,
+protože,
+já nevím,
+či vám to něco hovorí,
+ale kdysi se všechno
+robilo
+přes floaty
+a negativné marginy
+a bylo to hack na hacku
+na hacku na hacku
+a bylo to fakt
+úplně šialené.
+Využívali nějaké
+syntaktické hacky.
+V tom CSSku a tak.
+Já si pamatuji,
+pak byl nějaký grid 960
+nebo tak nějak byl grid cesta?
+Jo, jo, jo,
+960 pixelové gridy,
+no to bylo všade.
+A vlastně do toho CSSka
+přidali najprve flex,
+co je úžasná věc.
+To je jako...
+Flex milují,
+protože jsem poprvé
+pochopil, jak to pozicovat.
+Jo, jako já jsem byl,
+já jsem byl zvyknutý
+všetko robit
+cestě floaty,
+poznal jsem všetky
+ty hacky
+a když přišel flex,
+tak jsem hovoril OK,
+máme hotovo.
+Pomocou toho
+urobíme všetko.
+A potom přišel grid,
+který vlastně je flex,
+flex je 1D
+a grid je 2D.
+Takže jako všetko,
+na čem můžeš použít flex,
+tak můžeš urobit
+i pomocou gridu,
+ale já nad tím stále
+uvažujeme,
+jako flex je 1D
+a grid je 2D
+a je to úžasné,
+jako dá se pomocou toho
+urobit úplně všetko,
+jak jsou také
+ty joky,
+jakože CSS je na hovno,
+protože neví vycentrovat věci,
+jako v CSS-ku
+natýmně
+teda vycentrujem všetko,
+akokoliv, kamkoliv.
+To je úplně úžasné.
+Takže to je jedna věc,
+která v CSS-ku
+pribudla
+a druhá věc,
+alebo posledná věc,
+kterou CSS-ko vykradlo
+z JavaScriptu
+alebo prebralo to,
+co robil JavaScript,
+jsou premenné.
+V JavaScriptě
+velmi dlouho
+všetci používali CSS in JS,
+různé knižnice,
+prostě písali se CSS-ka
+jako JavaScriptové objekty
+alebo ještě předtím
+byly kde nějaké lesy, sasy
+a podobné věci.
+To jsem se chtěl zeptat,
+kde je sas a lesy.
+No, ale oni mají spoustu
+celkom zaujímavých feature,
+ale úprimně 90 % z toho
+jsou premenné.
+To byl hlavní důvod,
+pardon,
+proč je to používat.
+Tych zvyšných 10 %
+byly prefixované
+CSS-kové properties,
+které to jeden čas byla moda,
+že se nepísalo,
+já nevím, display něčo,
+ale pomlčka MS,
+pomlčka display něčo
+a se to optimalizovalo
+úplně v browseri.
+To už jsme se naštěstě zbavili.
+Takže ty prefixy vyšumely
+a ty premenné,
+to je fakt to,
+na co se používal JavaScript
+při písání CSS.
+A teď máme nativní podporu
+premenných,
+v CSS-ku.
+Takže v současné době,
+pokud vyloženě si to nevyžaduje
+nějaký ten JavaScriptový framework,
+který používám v tom projekte,
+tak neje důvod písat CSS-ka
+v JavaScriptě.
+A dokonce se tam robí
+i věci typu,
+že si urobím media query,
+či uživatel má v systému
+nastavený darkmode
+nebo lightmode
+a podle toho mu
+přizpůsobím
+ty premenné,
+které ovplyvňují všechno
+v tom CSS-ku
+a můžeme dělat
+teaming a nějaké farebné schémy.
+Bez toho, aby
+ten uživatel vůbec
+si musel něco prepínat.
+To je úžasné.
+A já myslím, že ještě
+teďka nedávno
+přibyly, snad
+jestli říkám správně,
+mě opravíš
+container queries,
+že bylo možné
+vlastně,
+tak jako media query
+jsou na úrovni
+celého dokumentu, ne?
+To jsou právě
+těch věcí,
+z kterých bych
+dostal ten orgazmus,
+kdyby mi to někdo ukázal
+před 15 rokmi.
+Jednak jsou to
+containery,
+které dokážu
+jako
+zapuzdriť
+ty CSSka tak,
+aby nepretěkaly
+někam jinam,
+co mimochodom
+těž rěší
+Shadow DOM,
+jak jsem změňoval
+z účastných web komponent,
+tak to je
+přesně ono.
+A druhá
+věc
+jsou
+akoby
+parent selektory,
+že já dokážem
+napísat selektor,
+který
+robí
+něco
+na základě
+toho,
+co obsahují
+nějaké
+jeho děti.
+Ako dokážem,
+protože doteraz
+bylo možné
+v CSS
+formatovat
+děti
+na základě
+nějakých
+vlastností
+parentů.
+Teraz je možné
+z toho
+parent selektoru
+se pozrět
+na děti
+a na základě
+toho
+urobit
+nějaké
+pravidla.
+Takže
+já můžu
+říct,
+OK,
+tento div
+bude zelený,
+ale
+jak ten div
+obsahuje
+já nevím
+pčko
+alebo obkaz,
+tak bude žltý.
+Co doteraz
+nebylo možné
+a teraz
+zrazu
+je možné.
+Doteraz
+to nebylo možné
+kvůli
+performance
+hlavně,
+ale
+nedávno
+vymysleli
+nějaký
+algoritmus
+a nějaký
+efektivní
+způsob,
+jak to tam
+zakomponovat.
+Takže
+ten mokrý sen
+frontendňákou
+zpred 20.
+rokov
+se nám
+teda splnil.
+A
+píšeš
+to
+pořád
+v CSS-kách
+nebo
+jsi
+právě
+naskočil
+na takový
+ty
+jako
+tailwindí
+a jiný
+windí
+záležitosti?
+No,
+teraz
+teraz
+budem
+ten
+old man,
+ktorý
+kričí
+na
+obláčiky.
+Protože
+keď
+přišel
+tailwind,
+tak
+jsem
+se
+na to
+pozrel
+a
+protože
+všichni
+řekli,
+jo,
+toto
+je
+budoucnost
+CSS-ka,
+to je
+úžasné,
+všichni
+to
+teda
+musí
+používat,
+tak
+já
+jsem
+se
+na to
+pozrel
+a
+řekl
+jsem
+si,
+OK,
+je
+tam
+nějaký
+sypaný
+čaj,
+je
+tam
+milion
+tried,
+nějaké
+utility
+triedy,
+jako
+OK,
+fajn,
+tak
+se
+pozriem,
+čo
+ti
+utility
+triedy
+robí,
+a
+ti
+utility
+triedy
+byly
+jen
+namapované
+CSS
+vlastnosti,
+takže
+jsem
+na to
+pozrel
+a
+řekl
+jsem
+si,
+jako
+vtf.
+Jsme
+zpátky u
+inlineu.
+Prečo
+jako
+rovno
+nenapíšem
+ti
+CSS-ka
+jako
+CSS-ka,
+prečo
+to
+robím
+skrz
+ti
+utility
+triedy,
+které
+jsou
+jako
+nějaký
+tech
+vytvořené
+v
+Tailwindu.
+Zapasil
+jsem
+s tím
+půl
+dňa,
+ale
+fakt
+zapasil.
+Nebyl
+jsem
+schopný
+dohledat
+věci
+v dokumentaci,
+věci,
+které
+jsem
+chtěl
+urobit.
+Fakt
+nebyl
+jsem
+schopný
+to urobit
+nějak
+efektivně,
+ztrácal
+jsem
+se v
+tom,
+bylo
+to
+komplikované,
+tak jsem
+se
+naštval.
+Hovoril
+jsem si,
+jsem
+idiot,
+alebo
+čo,
+zkusím
+cssku
+a za
+20 minut
+jsem to
+měl
+hotové.
+A já
+teď
+nevím
+posudit,
+či
+je to
+tím,
+že
+cssko
+ovládám
+fakt
+dobré,
+alebo
+či
+je to
+tím,
+že
+Tailwind
+je
+fakt
+na
+hovno,
+ale
+ozaj
+jako
+tu
+jsem
+nebyl
+schopný
+urobit
+nič
+a
+tu
+jsem
+to
+měl
+plusknutím
+prstu.
+Takže
+Tailwind
+nějak
+mi
+nesadol
+a potom
+mi ještě
+někdo
+hovoril,
+no
+ale
+jako
+no
+keď
+jsi
+zvyknutý
+písatě
+cssk
+jako
+že
+to
+nemáš
+jako
+ten
+ten
+zoznam
+tých
+utility
+tried,
+tak
+tam
+můžeš
+mít
+nějakou
+že
+se
+volá
+apply
+funkce
+a tak
+nějak.
+Jo,
+že
+si
+to
+vlastně
+schrneš
+do nějaký
+že
+to
+urobí
+nějakou
+triedu,
+která
+obsahuje
+tě
+ty
+utility
+triedy.
+A
+tak jsem
+se na to
+pozrel
+a v
+dokumentáci
+jako
+velký
+nápis
+toto
+je
+hack,
+nepoužívajte
+to,
+Tailwind
+ne je
+zamýšlený
+být
+použitý
+týmto
+způsobom.
+No,
+tak
+to mi
+nějak
+jako
+nepriráslo
+k srdcu.
+Dokonce
+jsem
+viděl
+nedávno
+nějaký
+článok,
+kde
+nějaký
+mladý
+vývojár,
+úplně
+nadšený,
+písal
+toto
+je
+desať
+Tailwindových
+tried,
+které
+robí
+úžasné
+věci
+a které
+byste
+měli
+poznat.
+A já
+jsem se
+na to
+pozral
+a fakt
+to bylo
+jako
+každá
+jedna
+trieda.
+Když
+se
+pozrěš
+do
+zdroje
+jako
+Tailwindu,
+tak
+je to
+jedna
+CSS
+vlastnost.
+Jo,
+jako
+já
+nevím,
+reset
+all
+nebo
+něco
+také.
+Zuzi ho
+říkal,
+jako
+to
+jsou
+CSS
+properties,
+to
+ne,
+načo
+z toho
+robí
+utility
+triedy.
+Nevím,
+nevím,
+nesedí
+mi to,
+nerozumím
+tomu,
+nevidím
+v tom
+význam,
+nedokážem
+se v tom
+orientovat.
+Tailwind
+mi
+absolutně
+nesadol.
+Já
+to fakt
+vidím
+jako
+návrat
+k tým
+font
+elementům,
+kde
+se
+ručo
+vypisovali
+font
+velkosti
+a podobně.
+Ale
+zase
+na druhé
+straně,
+já
+to asi
+chápem,
+protože
+já
+to
+vidím
+i v
+jiných
+oblastiach,
+jsou
+prostě
+mladí
+vývojáry,
+kteří
+ještě
+jen
+naskakují
+do
+toho
+vlaku
+webového
+vývoja
+a nemají
+ten
+kontext,
+nemají
+ty
+historické
+zkoušenosti.
+Já
+vím
+písat
+CSS,
+takže
+když
+se
+pozrím
+na
+Tailwind,
+tak mi
+to
+připadá
+jako
+zbytočný
+medzikrok
+mezi
+tím,
+v čem
+to
+dokážeme
+napísat
+efektivně
+a co
+to ve
+skutečnosti
+stejně
+vygeneruje.
+Ale
+oni to
+nevidí,
+oni nemají
+tu
+historickou
+zkoušenost.
+Oni
+vidí
+Tailwind.
+Jo,
+to je
+super.
+A
+potom
+jim
+někdo
+poví,
+ale
+to
+můžeš
+napísat
+i
+v
+CSSku.
+A
+oni,
+jo,
+to
+CSSku
+má
+nějakou
+divnou
+syntax,
+protože
+už
+jsou
+zvyknutí
+na
+Tailwind.
+A
+já
+například
+robím
+dost
+veľa
+pohovorů
+s
+kandidátmi
+a
+vidím
+to
+často
+a
+vidím
+to
+už
+dlhé
+roky,
+že
+jsou
+vývojáry,
+kteří
+si
+hovoria,
+já
+jsem,
+nehovoria,
+že
+jsou
+frontendoví
+vývojáry,
+hovoria,
+že
+jsou
+reaktiví
+vývojáry.
+Já
+jim dám
+nějaké
+zadanie
+a
+oni
+na
+mě
+pozerají
+jako,
+jo,
+čo
+po nich
+chcem.
+A
+jim
+hovorím,
+no,
+ale
+tu
+máte
+v
+CV-čku
+napísané,
+že
+jste
+jako
+frontendoví
+vývojáry.
+A
+oni,
+no,
+a
+já
+všetko
+píšem
+v
+reakte.
+Tak
+to
+napíš
+v
+reakte
+a
+oni
+to
+v tom
+reakte
+dají
+dohromady,
+ale
+jako
+by
+nevědí
+a
+Javascript,
+jo.
+Rozumím.
+Alebo
+si
+myslí,
+že
+ten
+vývojový
+jazyk,
+který
+používají
+reakt
+a trošku
+nechápu,
+že to
+je vlastně
+Javascript
+a že
+ten
+reakt
+je
+jen
+framework
+nad
+ním.
+Alebo
+dokonce
+vidím
+věci,
+a to
+je fakt
+jako
+velmi
+častá
+věc,
+že
+jim dám
+zadání
+urobit
+nějaký
+jednoduchý
+formulár
+a
+mají
+tam
+vybrat,
+já
+nevím,
+jednu
+položku
+z
+pětich,
+jo.
+A
+prvá
+reakce
+velmi
+často
+je,
+že
+je
+zvyknutý
+to
+cest
+formik
+nebo
+nějakou
+podobnou
+knižnicu.
+Tak
+já
+mu
+říkám,
+fajn
+použít
+těch
+formik,
+jako
+důležité,
+abyste
+to
+urobili,
+ne,
+jako
+aby to
+bylo
+v čistém
+Javascripte,
+v pohodě.
+Ale
+potom
+narazí
+já
+na to,
+že
+třeba
+začnu
+tě
+inputy
+písat
+jako
+nějaké
+divy,
+na které
+dávají
+onclick
+eventy
+ten stav,
+jako,
+že
+keď
+zaškrtním
+tento,
+tak musím
+odškrtnout
+všetky
+ostatné
+a podobně.
+Jo,
+a v tom
+reakte
+urobí
+já
+nějaké
+šialené
+komponenty
+a naviažu
+to na
+formik
+a prostě
+něčo
+urobí
+a já
+si
+ho
+pítám,
+a nebolo
+by jednoduše
+použít
+radiobatny
+a oni
+jako,
+co to
+je?
+Jo,
+oni
+prostě
+vůbec
+nevědí,
+že
+existují
+nějaké
+HTML elementy,
+které
+to natývně
+všetko
+vyřeší
+a za nich,
+které tam
+mají
+porěšené
+accessibility
+a všetky
+jako
+edge case
+a tak
+a vlastně
+mají tu
+funkčnost
+hotovou.
+Oni to
+nedokážou.
+Oni
+jsou zvyknutí
+na to,
+že tam
+mají ten
+framework,
+že tam
+mají ten
+formik,
+že tam
+mají
+materiál
+UI,
+že tam
+mají
+React
+a ty
+natývné
+věci
+nepoznají.
+Takže
+já
+osobně
+myslím, že
+Tailwind
+je úspěšný
+právě
+kvůli tomu,
+že tyto
+vývojáry
+jako je
+to prvá
+věc, kterou
+se naučí a
+to jim
+potom na celý
+život dává
+zmysel.
+A cítíš tam nějaký
+trend, že se
+tohle posouvá
+směrem, že ty
+lidi právě
+naskakují na ty
+vlny? Ty jsi o tom
+trošku mluvil u toho
+Reactu, že ty lidi
+prostě znají React
+a pak přijde
+něco nového a oni
+prostě to
+radši budou hanit,
+než aby se na to
+podívali a mám
+pocit, že ty
+jsi takový ten člověk,
+co se rád
+jako kouká na ty
+věci a zkouší je.
+Máš pocit, že tohle
+se zlepšuje nebo zhoršuje
+s tím lidem?
+Ale jako já
+jsem ten člověk, který
+se pozera na tě natývné
+věci kvůli tomu, že
+jsem na nich vyrástol
+a jsem na nich
+zvyknutý, takže
+proto mě to zaujíma.
+A já například stále
+rozmýšlím nad tým, jak
+by to ze mnou dopadlo,
+keby jsem chtěl s webovým
+vývojům začat
+teraz, protože je to
+natoľko komplexné, tam
+to tak velá.
+Jo, jako já
+já nesom nějak zvlášť chytrý,
+já len to robím už tak
+dávno a začal jsem v dobe,
+kedy to bylo fakt jednoduché
+a postupně rok za rokom
+jsem nabaňoval nové
+věci, jak v tom ekosystéme
+přibůdali. Vůbec si nevím
+představit, jaké to musí
+být pro vývojárov, kteří
+začínají teraz.
+A co bys teda jako
+doporučil?
+Teraz to asi uvidím v praxi,
+lebo můj syn začal chodit
+na IT gymnázium,
+takže jako začíná programovat
+a mu ukazujeme nějaké
+věci a je celkom zaujímavé
+vnímat, jak on vidí
+věci,
+přičom je tým celkom
+nepolíbený. Je hrozně
+vtipný, že Riky tady mluví
+o věci, kterou my jsme
+spolu řešili na začátku,
+kdy jsme se bavili o tom
+vývoji toho jazyka C Sharp,
+jak vlastně přibývají
+nové a nové feature, jak
+pro člověka, který začne
+sobě udělat jedna věc,
+která dřív šla jedním
+způsobem a bylo to prostě
+jako takhle se to má dělat
+a teďka ty nový vlastně
+nevědějí, co mají dělat
+a starý nevědějí, co mají
+ty mladý učit na těch
+vysokých školách vlastně
+ohledně toho jazyka. Takže
+úplně stejný to teda ty
+vidíš v rámci toho.
+Jo, já například vidím,
+keď se bavím s nějakými
+juniornějšími vývojármi,
+tak oni všetky cykly
+rěší se s array, map, for each,
+reduce, jo, toto je jich
+způsob, jak iterují nad datami
+a já jim ukážem for cyklus,
+klasicky for loop prostě a
+ani ne taky ten for in
+alebo for off, ale for let i
+rovná se jedna i plus plus,
+jo, klasicky loop a oni na to
+pozerají, ty bláho old man,
+to je zložité, to je
+komplikované a jim hovorím,
+no jo, ale ty můžeš urobit
+early return z toho, jo,
+nemusíš to nechat zbehnout
+celé a keď porovnáš performance,
+tak ten starý for loop je furt
+efektivnější než, než tě
+mapy a tak, ale potom se
+pristihnem při tom, že si
+povím, OK, jako ono, já nevím,
+třeba tu performance, kterou
+v těch loopoch já rěším,
+ta se prejaví při 10 000
+položkách, zatímco oni potrebují
+preiterovat se s 10 itemů
+v menu, tam je to úplně jedno.
+Jo, jasně, jasně. No takže,
+když si teda představím toho
+patnáctiletýho Rickyho, který
+stojí na sklonku 2025, jo, co
+bys mu teda doporučil, co má
+teda teďka dělat? Protože
+ano, za našich časů to bylo
+jednoduchý, skopíroval ses někdy
+Javascript, podíval ses dovnitř,
+zjistil ses, funguje, udělal
+si to stejný s HTMLkem, obarvil
+si z toho prostě přes fontek
+a hurá, hotovo a máme, já
+jsem webovej vývojář. Dneska
+jsme úplně v jiném levelu,
+ale jako kompletně. Co teda
+ten mladý, novej člověk, co bys
+mu doporučil, co má, s čím
+má začít teda? Já ti dám
+šalamunskou odpověď. It depends.
+Rob to, čo tě baví. Protože
+jak tě to bude bavit, tak
+pritom zostaneš a všetky
+ty ostatné věci můžeš objavit,
+naštudovat potom a prilepit to
+na ty svoje schopnosti. Čo
+je důležité, je, jak tě to
+baví, tak pritom zostaneš,
+udrží tě to, jo, bude tě to
+motivovat nad tím sedět. Ale
+čo je důležité, nezatvárat si,
+nedávat si klapky na oči, jako
+já nevím, teda jsem se naučil
+React a Tailwind, tak to je to
+jediné správné. Ne, pozri se
+na jiné věci a neber to tak,
+že v tom hledáš chyby. Samozřejmě,
+že tam najdeš nějaké chyby,
+ale hledaj tam věci, které tě
+můžou inspirovat. Věci, které
+můžeš vykradnout, které můžeš
+prebrat, jo. Když si jedného
+dňa povíš, já bych to dokázal
+urobit lepšie, tak aby si mal
+dostatok inspirácie, s ktorej
+můžeš čerpat, jak to reálně
+urobit lepšie. Já si myslím,
+že to bylo úplně skvělý slovo,
+de facto na závěr. Prosím tě,
+Rik, ještě nech se rozloučíme.
+Poslední věc, ty děláš svoje
+kurzy, klidně si tady udělej
+reklamu, my víme teda, že
+teďka budeš mít brzo přednášku,
+nebo jsi měl, podle toho, kdy to
+vydelisujeme, o signálech v
+Javascriptu, nicméně ty neustále
+seš k dispozici, pokud někdo
+potřebuje nějaký kurz si zaplatit
+u tebe, je to tak? No, pokud někdo
+bude chcet kurz, tak klidně mu to
+urobím, klidně mu to zorganizujem,
+jako, teraz na to velmi nemám čas,
+takže je to také utlmené, ale
+jak někdo bude mít záujem, klidně
+mu přijdem dávat rozumy. Takže
+webovka je? Fczbkk.com. Já jsem
+to chtěl slyšet od něj, to je
+skvělý. Fczbkk.com? No. To je
+dobrý. Jako hlavně, jak na mě
+narazíte někde na nějaké konferenci
+na Webexp, alebo na Frontkone,
+alebo na čomukoliv jinom,
+přijďte za mnou, povědcte
+nazdar, pokecáme, jo. Velmi,
+velmi rád se bavím s lidmi o
+zaujímavých věcích. Super, super.
+Já myslím, že to bylo úplně
+skvělý, že lidi, kteří si tě
+vyžádali, by the way, jak jsem
+říkal přes Twitter, říkali,
+pozvěte Rikyho, ten má vždycky
+co říct. Obidva já v rátaně
+mojej mami, kteří si mami žádali.
+Já myslím, že budou všichni
+spokojený, protože tohle bylo
+fantastický. Já ti hrozně moc
+děkuju, jsem strašně rád, že
+jsem tě zase po letech viděl,
+ať se ti daří, no a zase někdy.
+Děkujeme za pozvání. Měj se
+hezky. Díky, čau. Když jsme
+říkali legenda českého frontendového
+vývoje, tak jsme rozhodně
+nepřeháněli a myslím si, že
+to byl další fantastický díl
+tohle skvělého podcastu. Co
+myslíš? Úplně stoprocentně a
+já jsem zjemně jsem mnohem
+víc v high levelu, než vy dva
+a stejně jsem si to užil,
+protože Riky má jako taký
+přednes, že vlastně je to jak
+pohádka. Jo, jo. Připodobně ty
+věci prostě k pubertákovi a
+podobně, tak já si myslím, že
+si pošmákne každej. Já myslím,
+že i holky z Vivia si pošmákly,
+protože spoustu těch věcí se
+jim podle mě určitě hodí na
+ty jejich pay per click kampaně,
+čemu se tle víš. Ty vole, to byl
+tak krásný oslý můstek, ne? Ne,
+to si líbí vždycky, jak ten oslý
+můstek tam pošleš. A holky z Vivia
+budou mi určitě radost. Já si myslím,
+že budou úplně nadšený. Tady i kluci,
+je tam jeden kluk, co já vím,
+takže. A není mu nějak jako
+trapně, že si s ní furt děláme
+prde, jo? Ne, určitě ne. Dobrý,
+tak jo. Takže zdravíme do Vivia,
+no a samozřejmě bylo to skvělý.
+Riky byl skvělej. Já se obávám
+teda, že akorát teďka to posloucháte
+v době, kdy už je po té jeho přednášce,
+ale opravdu doporučuju, sledujte
+ho na Twitteru, na LinkedInu. Má
+velmi zajímavý názory, velmi zajímavě
+ty trendy sleduje a vyjadřuje se k
+ním. A já osobně se třeba fakt
+těším na to, co se stane za těch
+pár let, až se tam dostanou ty signály
+do Javascriptu. Co to vlastně v tom
+ekosystému udělá, protože možná
+fakt vidím toho Rikyho, jak tam
+sedí teďka s tím podvocasním hrnečkem,
+který jsme mu dali. Prostě pije z toho
+ten, dává si to kafíčko a sleduje
+prostě, jak je všechno v troskách,
+v plamenech. A on to předpovídal
+jako Nostradamusa, věděl to. Ale skvělý,
+že ty věci, ještě se k tomu vrátím,
+jako nemá dogmaticky, že není
+úplně prostě, jako že by to prostě
+razil, ale že je otevřený těm
+novým věcem, to je úplně skvělý. Bylo
+to super. Já jsem si to strašně
+užil. Těším se na dalšího hosta
+v této sérii. Konečně, konečně,
+přátelé, budeme mít taky nějakou
+zajímavou ženu. Ono taky sehnat
+ženskou prostě do podcastu, je to
+těžký, jo. Není to tak, že my bysme
+tady jeli nějakou sosič party,
+ale přátelé, prostě ty ženský
+nejsou. My chodíme, taháme je za
+ruku, ono teda. Většinou to není
+úplně legální, ale prostě jako
+snažíme se jim natáhnout a prostě
+nejde to. Takže vypadá to, že i
+v této sérii se nám podaří zase
+po letech, doslova po letech tady
+mít zástupce nižného pohlaví s
+IT, těším se na to. No a samozřejmě
+za 14 dní poslouchejte náš podcast,
+vyjde nový díl, stále všechno tak,
+jak to máte rádi. No a my běžíme
+ty do spořice a já ke svým strojům.
+Běžím, běžím. Tak jo, mějte se.
+Mějte se krásně, čau. Čau.

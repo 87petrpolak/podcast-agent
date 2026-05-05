@@ -1,0 +1,1722 @@
+Vítejte, je tady třetí díl třetí série podcastu Pod vocasem.
+Opět tu s vámi ve studiu sedí vaši oblíbení Petr Polipolák.
+A na druhé straně je Roman Joker provazník a je to třetí, třetí, jak si řek,
+takže dneska jsme si nepozvali Indru Šídla, tomu by se líbilo.
+Je dobrý, že umíme oba skvěle řet. Jak se máš, Románku?
+No, mám se dobře, těším se na naší první nalejvárničku,
+která bude už za tři dny v Bratci Králové, což samozřejmě tak, jak to bývá,
+když přetáčíme tak v době, kdy tohle je v éteru, tak už je to akce historická.
+Nicméně pořád ještě jsou milí posluchači před vámi dvě akce,
+které budou ve Zlíně a následující den v Bratislavě 11. května a pak 12. května.
+Krása. Tak přátelé, to si nenechte ujít, protože tam, kde je Románek,
+tak to stojí za to. A ještě jsem se chtěl zeptat, teda dneska je 29. čtvrtý,
+takže včera skončila Extraliga, my dva jako fokijoví fanoušci to nesmíme opomenout.
+Jak se ti to líbilo, Románku?
+Hele, je to bolest. Je to bolest. Já jako spartňanskej fanoušek jsem si to protrpěl
+až do úplného konce. Včera jsem si po dvou třetinách řekl, že si půjdu lehnout,
+že to nebudu dokoukávat, pak mi to nedalo, pak to snížili na 2-1, říkám,
+takže by přeci jenom... No a nakonec jsem si to samozřejmě protrpěl až úplně
+do hořkého konce. Třinci gratuluju, byly bohužel, myslím si, výrazně lepší.
+No a my, spartňanskí fanoušci, čekáme na titul další rok, no, to se bude být.
+Já jsem si říkal, tak naštěstí jsi se s nikým nepsadil, že Sparta ten titul vyhraje.
+A já vím, kam jí říš. Ano, milí posluchači, samozřejmě, jak to tak bývá,
+s Petrem Polákem jsme se v jednu chvíli oba dva v dobré náladě vsadili o to, kdo vyhraje.
+Musím říct, že já jsem vlastně měl daleko tu sásku jako frajerštější,
+protože já jsem vsázel, že prostě vyhraje Sparta. Když to boli v době,
+kdy ještě ani Sparta nebyla ve finále, tak jsem vsázel, že Sparta nevyhraje,
+což je na ty šance pro tebe to vyhrát jako daleko příznivější.
+Je to pravda, je to pravda. Takže ty si zasloužíš poplácat po rameni a já jsem vyhrál vodku.
+Ty jsi vyhrál všechno. Všichni jsme spokojení.
+Řekl bych všichni, ale minimálně ty a třinec, to je teďka velmi happy.
+Tak jo, tak jdeme na dnešního hosta.
+No jasně, už se těším. Dneska to bude Vojta Mádr a co nám Vojta Mádr přinese?
+Vojta Mádr je strašně fajn kluk, kromě toho, že v současné chvíli udržuje dva podcasty,
+k čemuž se dostaneme, tak je to i, řekl bych, kolega z dotnet community,
+je to speaker, je to MVP, je velmi aktivní a v současné chvíli i funguje na pozici CTO jednoho startupu,
+ale zase bych mu nerad vypálil lidník tím, že ti to všechno tady řeknu,
+takže bych byl pro, aby jsme spíš pro něj došli.
+On teď kouká na koně, tak se jdem za ním podívat.
+Tak jo.
+Obvykle říkám, že ve studiu s námi sedí náš dnešní host,
+ale teď jsme se rozlíde a zjistili jsme, že vlastně to není studio,
+jsou to tady trosky projekťácké, scrammasterské kanceláře,
+ale my jim tak pompézně říkáme studiu, takže ve studiu s námi sedí náš dnešní host,
+Vojta Mádr, čau.
+Čau všichni a čau posluchači.
+Čau, čau.
+No tak Vojto, já jsem strašně rád, že tě po dlouhé době vidím,
+protože my jsme se naposledy viděli, my jsme si byli na nějaký sraz dotnutých speakerů
+český komunity někde v nějakém pivovaru v Holešovicích,
+co si tak jako pamatuju, kdy jsme právě spolu kecali jednak o tom,
+že ty chystáš další podcast,
+kromě svýho tradičního, tak je o tom, že jsi byl v té době relativně čerstvej na tvý pozici.
+Tak prosím tě, co je novýho?
+Furt je něco novýho, tak jak jsi zmiňoval, dělám teď dva podcasty,
+do toho jsem CTO, do toho pomáhám v meetupech,
+možná budeme dělat konferenci, je toho hodně.
+Tak prosím tě, dáme to úplně od začátku.
+Řekni mi, jak ses vlastně dostal k té svý pozici,
+na který seš teď, možná vlastně řekni, co děláš, kde děláš
+a jaká tam vedla ta tvoje kariérní cesta.
+Super, tak já teďka dělám momentálně CTO,
+technického ředitele nebo prostě člověka, který řeší všechno v IT
+ve startupu Motion Lab.
+A ta cesta, no, já jsem, bych možná řekl to trošku jinak.
+Řekni to, jak chceš.
+Já jsem se mě přijel docela zajímavý, že jsem vlastně v tom IT skončil,
+protože já jsem jako z čistě humanitní rodiny,
+třeba moje sestřička je doktorka historie a táta je geograf,
+takže a vždycky se baví doma u počítače jich,
+tak to je vždycky sděšení, vždycky máma si,
+máma je správnička, vždycky počítače má splný s pirátama,
+tak ty piráti to změní, ty počítače, takže mě vždycky bavili,
+jako kromě toho, že mě baví tyhle ty věci, co dělají naši,
+jako v historii, tak do toho jsem vždycky,
+miloval počítačový hry, takže takový typický jsem asi v šesti letech
+viděl warmseeky u svýho bratránka a v tu chvíli wow, to musím dělat,
+tak jsem nějak teda se zepřel všem celé rodině,
+šel jsem teda na průmyslovku a tam jsem začal první jako kodit,
+nejříští Turbo Pascal, pak právě jsem měl osvědčenou učitelku,
+která dělala v C-Sharpu, takže jsme si hráli v Vizola Studio 2005,
+to bylo dobrý peklo, no a pak nějak jako přes vysokou školu,
+spíš multimediální věci, tak mi kamarád řekl,
+že mám dělat do IT, tak jsem řekl OK, tak půjď dělat do IT
+a vzad mi jako Android developera a tím, že jsem uměl nějak ten dotnet,
+tak jsem narazil na platformu Zamarin a druhá firma mě někde přetáhla,
+že pojď to dělat, on to tady nikdo v republice nedělal,
+tak a skončil jsem vlastně po všem možných startupech jsem chodil
+a skončil jsem vlastně tady u vás jako CTO.
+No tak vidíš, tak to je krásná cesta, je hezký, že Vojta to postavil tak,
+že vlastně jeho kariérní top je, že je u nás v podcastu.
+To je docela příjemný.
+Ta cesta skončila v podcastu.
+Prosím tě ještě teda k tomu, no tě zahra zaujalo,
+že ty seš z humanitní rodiny a úplně se jsi jako takhle odpojil,
+nechtějí tě vydědit nebo něco, nebo jsou teďka pyšný,
+že mají doma technického ředitele, nebo by maminka radši,
+kdyby jsi furt byl v paragrafech?
+Maminka mi vždycky říká takový typický, uživí tě to,
+a když tě vyhodí z práce, vemou tě někde,
+a já jí furt neustále říkám, no my jako v IT furt chybí hodně lidí,
+a chybět ještě bude, ale stejně to dostane vždycky každej týden znova,
+takže to a táta ten se myslí, že rozdíl mezi mnou a Elonem Muskem
+není zas tak velkej, takže to je vždycky příjemný se s ním bavit.
+Ale to je super, když se humanitní rodina ptá ITáka,
+jestli ho to uživí, to je super, protože většinou ty memy
+jsou úplně obráceny směrem. No tak jo, hele, ty jsi opřel o ten Zamarini,
+já tady samozřejmě mám jako sérii otázek, nicméně já se tě právě
+se Zamarinem mám spojenýho úplně od začátku, protože ty seš vlastně
+díky té technologii MVP, je to tak? Jo. Jo, a pořád to platí,
+teda pořád seš MVP, pořád se tomu nějakým způsobem věnuješ,
+nebo už si to zahodil a už se věnuješ vyloženě tomu
+té kariérní cestě toho CTO?
+No, furt mě nevyhodili, takže furt jsem MVP-ík a je to tak napůl,
+protože ono to MVP je hodně, o tom děláš prostě aktivity,
+když děláš aktivity, jenom pro diváky, aby věděli, co to vůbec MVP je,
+to je nějaký titul od Microsoftu, jmenuje se to
+Most Valuable Professional. Myslím, že jo, aha.
+Most Valuable Professional, ano. A je to o tom, že vlastně propagujete
+Microsoftní technologie, nejste zaměstnanec ani Microsoftu,
+nebo nemám s nima nějak maximálně podepsané NDAčku,
+že mi řeknou, že dotne 7.
+a co bev dotne 7. o měsíc dřív, než vám to řeknou na buildu,
+ale je to taková komunita, kde když děláte aktivity,
+tak se do té komunity dostanete, v podstatě to nejvíc,
+co můžete dostat, trošku nám zazdíl COVID, což je MVP Summit,
+kde přijedete a můžete se vědět s tíma produktovýma týmama
+z toho Microsoftu, co teďka je spíš upozaděný,
+nebo spíš teď to je online, což není prostě ono,
+ale musíte dělat hodně těch aktivit,
+a je tam těžký se dostat, pak to udržení,
+prostě děláte furt přednášky, podcasty a tak dále,
+a každej rok vám vyhodnotí, jestli to má smysl s váma, nebo ne.
+Takže pořád se věnuješ za Marinu, pořád to sleduješ,
+pořád občas si napíšeš nějakou apku, chápu to správně.
+No, sleduju to, apky teďka nepíšu,
+protože, to si řekneme dál v Motion Labu,
+zatím jsme tam nenašli příležitost tomu napsat apku,
+ale furt na mnou chodí lidi a ptají se,
+že mám to používat, co mám používat,
+proč tam ten za Marin má patnáct technologií a tak dále.
+No, to já tady mám vlastně, jednu z mých dotazů je,
+jak na tom vlastně za Marin v letošním roce je,
+protože když se podívám na to, že bych chtěl na dotnetu
+psát mobilní apku, tak to máš MyUI,
+to máš za Marin Force, Uno Platform,
+to máš prostě strašně moc ještě další,
+dneska mi zase vyskočil Avalony a myslím UI,
+je taky možnost, jak to psát.
+Tak prosím tě, jak na tom teda za Marin je,
+ještě třeba v porovnání s těma ostatníma věcma,
+které se objevují jak houby po dešti?
+Já bych se možná posunul v okroh zpět.
+Stejně jak ty říkáš, že tady je 150 frameworků,
+tak si vemte tak dotnet, je hrozný bordel.
+Tak máme tady dotnet framework,
+nedávno jsem se bavil s nějakým juniorem,
+který mi řekl, tak ten dotnet budou zavírat.
+Tak asi myslel právě ten dotnet framework.
+Takže ono vlastně, ten vývoj toho za Marinu
+je v podstatě velmi podobný jako dotnetu.
+Měli jsme nějaký za Marin,
+měli jsme teda ten dotnet framework,
+kde vlastně ty mobilní apky vůbec nebyly možný,
+prostě bylo přesně spojený s Windowsama
+a končilo začínat toho Windowsu.
+A pak jako parta tady frejerů si řekla,
+uděláme to na portovatém dotnet na Linux
+a právě díky tomu projektu vlastně vznikl vůbec za Marin
+a nějaká vůbec myšlenka,
+že by mohli dotnet na mobilních těch technologiích.
+Pak Microsoft vlastně koupil za Marin
+jako ten startup s tím Monem
+a teď to jako spojil dohromady
+s tím dotnet corem,
+který se začal vyvět,
+protože už zase mu nevyhovoval ten dotnet framework.
+A ono podobné, jak teďka říkáš na tom za Marin,
+tak přesně tak,
+protože vysloveně ze za Marinu vylezli,
+klasicky si mohl psát jako nativní aplikace v dotnetu za Marinu,
+že si používal klasicky UI z Androidu, iOSu
+a myslel tam tu sdílenou logiku
+a pak oni udělali teda za Marin forms,
+který byly, řekněme,
+můžete udělat tu jednotnou apku v rámci zamlu,
+vypadalo to podobně jako v tom,
+tam VPFK a podobně.
+Jasně.
+A to je vlastně celý tím,
+na jakou vznikly ty za Marin forms.
+Jsem, že problém byl ten,
+že ty za Marin forms byly,
+vyvíjely se docela pomalu,
+proto vznikly prostě takový side projekty
+jako typu právě Unoplatform nebo Avalonia
+a ještě byl jeden problém,
+který jsem nezmínil důležitý,
+že za Marin forms má úplně jiný zaml
+než všechny ty ostatní zamly.
+Takže když si vzmete právě Unoplatform nebo Avalonia,
+tak všechny ty zamly jsou úplně jiný.
+Ano, protože zaml to je další taková
+Microsoftní specialitka.
+Jo, jo.
+A ten za Marin forms s tím,
+jak teďka je máme dotnet 6 a dotnet 7,
+tak oni řekli, že konečně to musíme teda
+nějak zrevidovat, protože tady ty side projekty
+nás přijídějí, takže to přepsali do něčeho
+co jmenuje dotnet Maui,
+který v podstatě jsou jenom přepsané
+za Marin forms konečně do dotnet Česky.
+Konečně to má to dotnet SDK,
+dá se to spustit před příkazovou řádku,
+takže více méně je to jenom taková evoluce.
+A to si myslím, že v současným době
+za mě by to furt byla jaká
+preferovaná vrstva, protože víte, že tady
+stojí Microsoft a prostě Microsoft asi
+to za týden nezařízne, protože
+tady už do toho investoval hrozně moc.
+Pak ta UNO platform, ta vychází zase
+z nějakého WinUI 3,
+která,
+který vlastně kopíruje
+UVPčkový aplikace, ty Windowsový
+nový aplikace, tak tam je
+vlastně ten rozdíl mezi ZAML Informs
+a UNO platform je
+ten ZAML, protože ZAML Informs má jiný ZAML
+než se ten WinUI 3
+a potom ta Avalonia, ta má zase
+podle mě původní VPF-kovej ZAML.
+Jo. No tak to si mi točkem
+on strana nepomoh, abych pravdu řekl, protože
+já jsem si říkal, že
+konečně budu vidět, když to budu chtít zkusit,
+kterým snědem se dát a teď si mi ten výjížd
+tak jako roztáh do šířky.
+Takže jednoduchá
+odpověď, po čem mám teďka skočit. Potřebuji si
+napsat debilně jednoduchou aplikaci, ale
+chci si ji zkusit na dotnetu.
+Furt se bavíme o mobilní aplikaci.
+Jo, jo, samozřejmě, samozřejmě, samozřejmě.
+Mobilní apka.
+To je otázka za milion, ale já bych šáhl
+potom dotnet Maui, protože jsme se konečně
+dočkali, že by dotnet Maui měla být
+release kandidát teďka, takže já bych
+asi šáhl potom dotnet Maui.
+Nicméně, pokud
+jako píšeš
+VPF-ový apky a líbí se ti, tak bych asi
+šáhl pro Unot platform tu
+Avaloniu. Tým nemám úplně zkušenosti,
+ale myslím, že ta jako za tím stojí
+jako nejmenší subjekt z těch
+tří, tak tam bych se spíš bál.
+Ok, dobrá, no tak jo.
+Tohle máme vyřešený, já už teda
+vím po čem skočit a teďka, když
+tebe tady mám jako odborníka, MVP-ka
+za tyhle technologie,
+máš už nějakou zkušenost z toho, že
+opravdu si takovou aplikaci dostal až
+do produkce? Protože my samozřejmě, tak
+hrajeme si den o denně, děláme ty apky jenom, aby jsme
+si něco vyzkoušeli, ale další věc
+je strčit to nějakému zákazníkovi, aby
+opravdu den o denně s tím pracoval. Jak to máš?
+Sám za sebe jsem
+v životě si žádnou apku nevydal,
+ale samozřejmě pro všechny firmy, co jsem
+dělal, tak jsem dělal několik už
+dohromady minimálně 20 plus
+apek jsem měl ve sporu a jakože
+fakt, který se podle mě doufám používají do dnes.
+Takže jo, hodně
+jsou to korporátní apky,
+protože jak ten dotnet
+víc méně furt má
+korporátní technologie, asi
+moc fendci startupů s dotnetem
+nenajdete, tak
+tak
+typicky jsem třeba dělal pro
+jednu nejmenovanýho prodejce aut
+a tam to měli interní systém dotnetu
+a právě tomu dělali mobilní apky, tak
+byla absolutně jasná volba, napsali v tom
+prostě asi 6 apek, jsem to dělal
+s tím vývojářem, to bylo super.
+Nebo jsme dělali apku, která měla
+sdílený systém napsaný
+v dotnetu a my jsme k tomu psali vlastně tu mobilní
+apku jako UI a to bylo pro
+třeba dělání, ovládání PKR-em.
+To bylo takový zajímavý.
+Pak jsme dělali velkej
+auditní systém pro
+si řeknu pro firmu
+Honeywell, to jsme dělali na Zamarinu
+s tím, že tam se
+celá synchronizace s Azurem, vlastně mi napsal
+někdo jiný, my jsme zase řešili to UI,
+takže na tyhle
+hlavně ty interní
+apky pro, řekněme to B2B
+je to super. Psal jsem mi jednu
+velkou B2C v jednom startupu, který
+momentálně už neexistuje v likvidaci.
+Startup.
+Tak tam jsme
+přesali.
+Přesali i velkou B2C
+apku na konference
+a tam to taky fungovalo.
+Samozřejmě, jasně
+věřím, že spoustu
+menších agentůr vám vysvětlí,
+že ty nativní apky se spustí
+o 0,002 sekundy
+rychleji, tak to uznávám.
+Zamarin není možná nejpomalejší
+teďka z těch multiplatformních technologií,
+i když ty tam nemám v srovnání s tím AUI,
+ale když se dostatek
+udělat prototyp, tak i přežijete
+i tu apku na B2C, která je pro
+více userů.
+A ty jsi už zmiňoval, že to nepoužíváte
+v Motion Labu. Jaký je ten důvod?
+Protože jsi říkal, že jste tam nenašli case,
+tak co je ten case, kde se ten
+zamarin může použít?
+Právě jako pro mě,
+kdybych teďka dělal, jako je to cokoliv,
+ideálně, když máte dotnetovej tým.
+Mám dotnetovej tým, nemám
+žádnej reactivní tým,
+mám fakt tam dotnětáře, ještě ideálně
+si píšu v Blazoru
+web, tak si myslím,
+že zamarin je jako úplně jasná volba, protože je tam
+prostě schánět
+spoustu, třeba mám kamaráda, který
+píše pedale v zamarinu a tam fakt
+dělají v dotnetu úplně všechno a
+ten to prostě syká jak batěst cvičky
+ty zamly.
+Asi, můžu říct, kde
+bych asi zamarin nedoporučoval,
+jako pokud byste dělali nějakou
+velkou, jako třeba
+nějakou velkovýkonovou apku
+typu, já nevím,
+třeba Facebook nebo něco takovýho
+tak tam bych asi
+vám to nedoporučil spíš, protože
+tam jde hodně o ten výkon a hlavně
+zamarinu se kolikrát může stát,
+že tam chybí třeba nějaký security apíčka,
+protože to tam někdo nedopsal,
+ta technologie je vlastně
+jenom v rychlosti postavená, takže
+vy tam provoláváte
+v podstatě přes dotnet apy
+těch nativních platform
+a je možný, že ten tým se prostě nedostal
+k nějakým security věcem a tak dále,
+tak tam bych byl jako opatrnější
+po případě, jestli to budete muset
+dopsat sami.
+No ale jak tak poslouchám, tak ty zkušenosti
+se tak jako zatvářely, jsem se ptal
+na tu produkci a máme za sebou desítky
+apek ve skutečnosti, tak to je
+super. Já si pamatuju, že jsem kdysi,
+ale to už je opravdu hodně dávno,
+viděli přednášku, kudy nějaký člověk,
+Čech to byl, to si pamatuju,
+ukazoval
+aplikaci napsanou právě
+mobilní zamarinu a chlubil se
+tím, že snad přes 90% toho
+kódu bylo vlastně všert, že to bylo
+společný pro všechny platformy
+a pak akorát měl ty ten
+různý vrstvičky, kde měl teda Androidí,
+kde měl Appleovskou,
+kde měl v té době myslím, že i Windows Phone
+a ukazoval, že vlastně
+těch zbývajících 10% je
+pro každej ten specifický
+viewport nebo pro každou tu specifickou
+prostě ten device. Je to tak ve skutečnosti,
+když se podíváš zpátky na těch svojich
+x desítek apek, co jsou
+ve storu a ještě žijou, nebo to je
+jenom takovej jako reklamní tríček.
+Zajímá mě opravdu zkušenost
+člověka, který má ty ruce
+špinavý od toho zproduce.
+Já jsem teďka
+měl o tom taky zajímavou debatu
+a to asi ta odpoví.
+Může to tak
+bejt, ale
+otázka je, kdo ti
+to bude designovat v appku.
+A teď jsou dva takový druhy lidí
+obecně v mobilních appkách. Jední říkají,
+appka by měla vypadat na Androidu
+a jsou úplně stejně, měla by se chovat stejně
+a prostě tak to je.
+Druhý říkají,
+přece jako máme Android, má
+material design,
+cupretino design je na iOS
+a prostě musí to bejt vypadat jinak.
+A teď já jsem viděl desítky
+dotazníků, co se ptal za Marine Team,
+že máme to teda udělat
+stejný všude, anebo to má
+bejt jako nativní na tom a nativní na tom.
+A vždycky podle mě vyhrálo
+všichni angeták, že prostě
+důležitý je, aby to vypadalo
+prostě perfektně jako na Androidu,
+a iOSu podle iOSu.
+Teď jsem se bavil s jedním člověkem,
+který mi nadával na zambarní, že právě to nejde,
+že chci, aby to vypadalo všude stejně
+a ten zambarní mu to jako nedodává.
+Když oni to nějak začali implementovat,
+ale oni tam mají nějaký jako materiál
+nebo nějaký designy,
+takže to jako jde, ale není to tam jako hlubě
+strčený. A teď
+od toho designu bych se odprostil, pokud
+jako chceš mít jako, řekne,
+někdo ti udělá design, třeba nějaký
+interní apky, která chceš, aby
+vypadala jako, přežiješ to, že na Androidu
+to vypadá trošku jinak, tak si myslím,
+že těch 90% kódů jako zvládneš.
+Pokud tam někdo ti myslí nějaký
+šílený animace, tam už
+to tak jednoduchý není, i když
+zambarní podporuje nějaký
+Skyasharp, tak si myslíš, že nějaký Sky
+je, jak je na tom zaležený, i Flutter, jako
+vydělat nějakou animaci, tak to může vypadat stejně,
+ale tam už musíš, jako kolikrát,
+už musíš si třeba vydělat nějaký renderer
+a tak dále. Ale už jsem začal
+apku, že opravdu
+bylo těch 90% logiky, ale řekněme,
+nebyl ten tlak na to UI, čím je větší
+tlak na to UI, tak tím se ti tohleto
+číslo sníhuje.
+Ok, a tvůj
+osobní názor na tohle, jestli by to mělo
+být teda víc,
+řekněme, unifikovaný
+napříč těma platformama, nebo naopak
+respektovat co nejvíc ten design
+té koncové platformy?
+Já třeba osobně si myslím, že bych
+měl respektovat ten design té platformy,
+protože ve finále nechci, aby moje aplikace
+vypadaly jako vetřelec pro někoho, kdo je zvyklý
+z 99%
+Appleovských aplikací,
+že nějak vypadají, pak se otevře mojí a začne
+zvracet, protože je úplně jiná. To osobně
+jako to je můj názor jako Romana Provazníka,
+ale jak to vidíš ty?
+Já to vidím
+tak, s jakým právě dělám
+grafikem, takže...
+Dobře, dobře, dobře.
+Tak jo. Tak asi to je otázka
+nákladů, ne? Protože pokud
+jako to UI jako nepotřebu v interní aplikaci
+korporátu třeba tolik řešit,
+tak pak asi dává smysl použít
+90% z toho zamarínu
+a prostě moc se s tím úplně neprdět.
+Určitě, jako je to otázka nákladů
+a ono...
+Já si trošku rejpnu do mobilních
+apek, jo? Ono možná dřív před...
+Já jsem dělal mobilní apky vlastně
+těch sedm let a
+dřív to bylo, nebo skoro osm,
+dřív to bylo hodně o tom,
+že se řešili právě jako,
+že to je...
+Tam dodávali ty databáze a bylo to ten
+hrozný hype, že
+vlastně mobilní apka funguje samostatně
+a to. A já čím jsem
+se jako díltím prodíral, tak
+vlastně ta mobilní apka je v podstatě jenom
+jako front-end, který se stejně každý
+dva roky přepíše, takže oni...
+Snažím se do toho dát co nejmín logiky vždycky
+tý mobilní apky, aby se to
+co nejvíc vyřešilo na serveru, takže ono
+stejně se to bude měnit nějak v čase, jo?
+Že to nejdřív zkusíte, kdybyste dělali třeba
+nějakou B2C apku, tak zkusíte to udělat stejný,
+vás lidi zhejtejí, tak to uděláte jinak,
+pak vás lidi zhejtejí, tak zase uděláte stejný
+a bude se to stejně každý dva roky
+měnit úplně stejně jako web, jo?
+Takže...
+Přesně, jako je to otázka, může to být
+otázka nákladů, si řekneš, udělám to rychle,
+tak to vemeš to, co ti ten framework umožňuje,
+ale pak to stejně budeš třikrát přepisovat
+podle toho, jak se to jde, ten generální
+ředitelky v té B2 a řekne, to se mi nelíbí,
+dejte mi to tady, to tlačítko.
+Ten tlačítko musí být červený.
+Ano, ano, ale to kolikrát, jako, známe to, že
+ty iterace
+se zákazníkem jsou přesně kvůli červenému tlačítku
+a nebo o tom, že to nemá odezvu,
+nebo že
+chcete mít
+hamburgermenu nahoru, ale...
+Tak za Marin jsme
+probrali, myslím si,
+od spoda nahoru, ze všech stran,
+dozvěděli jsme se spoustu
+nových věcí, možná už i
+já tuším, kterým směrem jít,
+co vyzkoušet, no a teďka
+pojďme na to tvoje aktuální,
+na tu tvoji pozici CTO ve firmě Motion Lab.
+My jsme ji vlastně ještě vůbec nepředstavili,
+tu firmu, neřek si nám ani vlastně, co děláte,
+ale jenom víme, že to je startup.
+To znamená, možná začnu trošku z boku,
+když je to startup, je vás tam pět,
+nebo kolik vás tam je?
+Dohromady plus minus patnáct sedí celá firma,
+vývojový tým, řekněme, teď je náš šest
+ve vývoji, doufám, že jsem někoho nezapomněl.
+Dobrý, takže to není
+zase takový pět startup, to je dobrý.
+No a co děláte teda?
+Začnu marketingově.
+No pojď.
+Prvotní myšlenka je založená
+prostě na úplně jednoduchým
+schématu. Představte si,
+že vy dva jako starý
+NHL
+NHL odborníci
+a pařiči NHL
+půjdete do toho,
+před to,
+plánujete jít do toho JRCčka, teď tam jako
+vstoupíte a tam obsluhač
+vás všimne a řekne, ahoj Romane,
+ahoj Poli, jak se dneska
+máte, tady viděli jste, že se hráli
+NHLko, tak já vám tady nabídnu
+k tomu FIFu nebo něco
+dalšího a ještě proto, že to hráte
+na Playstationu, tak
+vám tady
+nabídnu
+druhý ovladač a
+k tomu máte tady dopravu zdarma
+a vy odejdete úplně zbaženě
+jakože vás tam znají
+a rovnou vám tam něco vnutili.
+Tak vy se tenhle ten zážitek,
+když to chcete, vidíte v online
+prostoru, tak podle mě
+nejlíp, jak to můžete dát jako video.
+No a vlastně na tom je celá založená
+myšlenka Motion Labu, že bychom tenhle
+zážitek snažíme, aby naši
+klienti a zákazníci mohli tenhle zážitek
+strčit do toho videa.
+A aby to mohli zeslat svým zákazníkům.
+Takže to je řešení pro
+personifikaci videí, je to tak?
+Řekl bych spíš
+personalizaci. Personalizaci, vidíš,
+už je to špatný slovo, personalizace videí.
+Já jsem koukal na jedno video,
+který tam máte, taky marketingový,
+velmi pravděpodobně.
+A tam šlo hlavně o text. Ale je to
+i takový to, takový ty, vždycky před Vánocema
+vezmu fotku celý
+rodiny, nasekám to do takového
+toho programku a my tam pak celá rodina
+tancujeme, mění se nám jenom ty hlavy.
+To děláš.
+Já jsem si říkal, co lidi to
+používá, to seš fakt ty, jo.
+Ti pošlu pár kousků z minulých let.
+Já v to doufám, že letos dostanu, ty jo.
+No a dotaz je, jestli
+to míří i na něco jiného než na text.
+Já jsem tam viděl hodně textů, míří to
+i někam jinam. Míříme, my v podstatě
+v té platformě
+umožňujeme těm našim klientům,
+aby mohli udělat to video.
+Můžeme tam přidat.
+To je prvně ten text, jak jsi zmiňoval, pak tam máme
+voice-overy, to znamená, že ti to osloví
+tím tím jménem, to může to video.
+Pak
+samozřejmě nějaký call to action
+v tlačítko, potom
+tam máme mapy
+a obrázky, že tam můžeš vložit
+jako by speciálně ten obrázek
+podle toho, pro koho je to
+udělané.
+Kdybych to řekl technicky, co vlastně my řešíme
+jako startup, tak my řešíme tři problémy.
+První problém řešíme pro tu kreativu,
+aby naši jako ty
+agentury
+mohli vytvořit to video, takže aby měli co nejlepší
+nástroj pro vytvoření vlastně
+tohoto zážitku. Pak řešíme vstupní
+data, takže inputy, to znamená
+odkud ty data berou
+a mě ty velký firmy mají ty CRM
+systémy a tak. A třetí
+distribuci, to znamená jak to rozeslat
+tím zákazníkům, aby to dostal každej
+na tu míru a tím správným kanálem.
+Takže to jsou tři věci, které furt řešíme
+dokola a jsme schopni tomu zákazníkovi
+hlavně tím marketingovým
+částím těch firm nebo
+těm agentům pomoct.
+Tu kreativu myslíš ve smyslu, že
+připravujete podmínky pro to, aby jejich
+kreativci to mohli dělat, nebo vy i děláte
+kreativu toho konkrétního videa?
+Aby to mohli dělat i kreativci a
+konkrétně my použijeme
+pro, máme plugin do
+Adobe After Effects, do
+takového stříhovýho programu,
+kde vlastně tyhle ty věci,
+když jsme se teď bavili, třeba ty voice-overy
+nebo ty texty,
+si mohli dát do toho určitýho místa
+a my to potom umíme spojit
+a řešit s těma vstupníma
+téma a rozeslat to.
+Ty jsi zmínil zákazníky, jaký
+máš?
+Co máte zatím největší ryby,
+jaký jste ulovili jako startupisti?
+Největší ryby...
+Ty se můžeš to vůbec říct?
+Určitě, určitě.
+Já bych řekl tři segmenty a pak řeknu
+zákazníky, mám takový tři hlavní segmenty.
+První jsou banky,
+jako FSI obecně, takže tam bych zmínil
+Českou spořitelnu,
+pojišťovny
+jako INSEA, UNICA,
+ČES, OBEZ jsme něco dělali
+a na tomhle.
+Potom druhý sektor je
+jsou e-commerce,
+takže notínem jsme něco
+dělali, velký kampaně
+a další.
+A další.
+Další mi vypadly,
+já se ještě zamyslím.
+No, jako notíno
+bylo i větší, tak notínem.
+A třetí jsou, že se právě přímo
+jdeme do těch agentůr, který potom dělají
+pro ty různý zákazníky,
+jejich připravu to video.
+Tam jsme třeba dělali v agenturu
+Macan, nebo jednáme se
+vundermantom s takovýma
+velkýma rybama.
+V tom českým, ale i zahraničním trhu.
+Takže vy kompletně pokrýváte
+teda celou tu cestu,
+kdy já u vás zaťukám virtuálně
+a řeknu, potřebuju video,
+nebo mám tady video, ale potřebuju,
+aby se mi tady na dveřích místo
+Petr Polák objevilo Roman Provazník,
+protože to bude pro Romana, on z toho bude mít radost.
+A od vás potřebuju,
+abyste mi to zajistili,
+aby to video takhle bylo vygenerované
+v několika verzích, je to tak?
+Ještě, abyste mi ho doručili.
+Přesně tak, my jsme prostě platforma,
+naše snaha je,
+aby jsi to udělal ideálně sám.
+Dáš tam to video, dáš si
+Adobe, tam si přidáš,
+kdyby jsi to chtěl měnit, nahraješ k nám data
+a potom si u nás nastavíš tu distribuci.
+Jasně, to vždycky bylo zaklínadlo
+škálovat, škálovat, takže radši to udělá
+ten klient sám, jasně. A to znamená,
+že fungujete na nějaký bázi subscriptionu,
+nebo je to per projekt, se platí
+nějakej poplatek?
+Tak, máme teďka
+v tuto chvíli, možná se to bude měnit,
+znáte to, ale v tuto chvíli
+máme nějakej fixní
+poplatek za ruční používání té platformy,
+plus si zákazníci doplácej
+ty videa podle toho,
+mají asi 10 tisíc v tom základním
+a pak si doplácej videa
+podle toho, na kolik chtějí cílit.
+Jo, takže to
+podle počtu těch cílů,
+těch jako variant
+těch personů, to je strašný slovo,
+prostě těch variant.
+Ano.
+Vyhnu se tomu slovu.
+Jo, ok, ok. No a když
+ty seš CTO, co tam,
+co to vlastně znamená, co je náplň tvý práce?
+Jenom si tam honíš ty svoje ovečky, nebo máš
+otevřený vizuálko a píšeš
+taky, že, my jsme to možná neřekli
+úplně explicitně, ale myslím si,
+že posluchači už to pochopili, že
+Vojtu v hlavní směr je dotnet,
+Microsoftní technologie, takže předpokládám,
+že vizuálko nebo Rider bude asi jeden z tvých
+jako
+editorů, se kterými pracuješ denodenně,
+ještě? Programuju, jako
+já nejsem úplně první programátor
+v Motion Labu, když
+já jsem se vlastně
+míjel s tím člověkem, co to dělal původně
+a pak jsme to celý přepsali
+a...
+Klasikov.
+Ale jako furt se držíme toho dotnetu,
+takže furt programuju,
+i když čím dál tím míň
+a píš teďka
+a mám vlastně rozdělenou
+roli, my máme vlastně takový,
+já bych to ne... já sice jsem zvaný CTO,
+ale mám rozdělenou roli s kamarádem Davidem
+malým, kterým chodem dělám konference
+a tak u nás dělá, on je
+product owner, že my máme vlastně v tom IT
+takovou sdílenou roli,
+že já vlastně tam řeším takový ty technické věci,
+Azure hodně řeším
+a vůbec to, aby jsme to vygenerovali,
+aby to nespadlo a to.
+David řeší ty produktový věci
+a pak ty další lidi vlastně
+pracujou, víc se mě to rozvíjejí,
+co jsme tam jako my nastavili z toho začátku.
+Takže jste v tom Microsoftu
+programu pro startupy
+používáte Azure tímhle způsobem?
+Už nejsme, už byli jsme
+v tom, ale
+ano, jsme kompletní infrastruktura
+jako je Azure, takže
+jsme i silver partner
+Azure.
+My když jsme si volali, tak ty si
+zmínil, že s Azurem byly i nějaký
+fakapíky, tak můžeš
+můžeš, jako nemusíš,
+ale jestli můžeš zmínit nějakou
+vyloženě špatnou
+zkušenost, protože já třeba
+osobně jsem
+jako fanda Azure, mám to rád,
+ale rád si poslechnu i nějaký
+pekelný storky.
+Klasika, co jste řešili někdy s podporou
+Microsoftu v Azure?
+Jo, hele, jednou, navýšení svýho
+limitu na nějaké vytvoření jakých
+Kubernetes instancí, což ve
+finále vedlo k tomu, že mě vysáli kartu
+asi za den, takže
+v tomhle byly docela průždný, musím říct.
+No, no, no, tak to já si s nima píšu
+tak každý dva měsíce
+na nějaký téma.
+Jako těch
+fuckupů už bylo dost, jeden
+mě napadá, protože
+my na Azure vlastně
+klíčovou věc, kromě nějakých app servisů
+a těchhle z těch
+klasických věcí, používáme
+něco se jmenuje Azure Badge, těm
+jako používáme na to škálování těch videí,
+což je nějaká technologie, kde
+dostaneš na příděl
+podle tvé škálovací formule spoustu
+virtuálních strojů, klidně jako
+bavíme se 1000+, který
+se ti najednou spustí a na to my jako vytváříme
+ty videa, protože je potřeba
+škálovat.
+No a
+ten Azure Badge je
+fajn technologie, ušetří to spoustu
+práce, než si tady psát,
+nebudu si představit, že si dělá tu servrovnu,
+kde odebíráš a přibíráš
+potřebuješ ten výkon v tu chvíli.
+Na druhou stranu
+na tom asi nedělá moc velký tým Microsoftu,
+i když je to velmi rizikový
+a vlastně všichni, spoustu těch fuckupů se právě
+točí kolem toho Azure Badge,
+tím, že třeba právě jsme měli jeden
+velkej
+fuckup, že
+jsme zapliti, měli nějakou větší
+kampaň, zapli jsme ty virtuálky,
+samozřejmě limity nejsou, všechno ti
+na Azure dají a
+měli jsme asi tři tisíce strojů
+a teď najednou takhle koukáš
+na tu obrazovku, normálně ti to má
+padnout do toho running nebo starting
+a teď nemohli ti to spadnout do
+unwiseable a teď nám tam
+padlo takhle ne jako
+řekněme deset
+strojů, ale tady jsem zkoukal asi tří
+měl jsem tisíc plus strojů
+taky,
+taky mě dvě třetiny z toho takhle padly do unwiseable
+z nějakou exceptionu a teď
+jako virtuálky pro poslušatče
+jsou nejdražší věci, co na Azure můžete mít
+takže teď vám to takhle jelo
+a teď vám přemýšlíte, jestli to máte kilnout
+nebo jestli máte pokračovat dál
+tak jsme to dojeli, díky bohu kampaň dopadla
+dobře, no a teď
+řešíte jako, že tam asi bude nějaký
+problém, takže napíšete na podporu
+a teď jsme se tam handrkovali
+o to, že nám to fakt spadlo
+a oni nám říkali, my nemáme
+z toho ani logi, ani žádnej
+nic, takže
+bylo takové dokazování, ale díky
+bohu i musím poděkovat
+tady místnímu Microsoftu, dřele
+doporučuji každému, kdo dělá s Azurem
+dobré vztahy s místním Microsoftem,
+jste to nakonec jako vyřešili, ale
+Zloho Martinu Šimečkovi, jak s tím jsou udělané?
+No, Martin není místní,
+jako máme tady nějaký, díky té server
+partnerství, nějaký
+přímo interně, co máme
+přizrazený lidi, i když Martinovi jsem to samozřejmě
+říkal a ten říkal, tak to si
+užiješ.
+Ten tě informovaně politoval, jo?
+Informovaně politoval a
+díky bohu jsme to vyřešili, takže
+musím zase, když už máte
+teda problém, tak ten Microsoft nám vyřeší, ale
+reálně to řešíte s nějakým indem, který
+má čas a tohle
+a vy vidíte jenom tu faktoru.
+Takže, ale musím říct,
+že dopadlo to dobře, takže
+i pro nás, takže
+mám Microsoftu rádi.
+Takže dobrý. No a
+klidně se nejde, občerství ještě si nalej vodu.
+Řekni mi, co všechno
+z toho Azureu zajímavého ještě
+používáte? O tom batchi jsem vlastně nikdy
+neslyšel, protože předpokládám, že u vás
+je to tím, že vy opravdu používáte
+reální virtuálky, kde
+potřebuje být asi nějaká jako specifická
+softwarová záležitost, která
+normálně třeba na úrovni asi jako
+do crew nebo app service
+a těchto věcí není k dispozici. Je tam
+ještě něco special, co třeba
+neodpovídá úplně typickýmu tomu
+korporátnímu use caseu?
+No, my
+hodně teda to točíme, asi to není tohle
+na Azure Storage, protože v podstatě nemáme
+SQL server, my všechno prostě točíme
+přes všechny služby
+Azure Storage, takže máme
+samozřejmě videa, ukládáme na Azure Storage
+ty vygenerovaný,
+používáme tables
+a používáme
+queues. Takže tohle
+na to máme postavenou celou databázovou
+infrastrukturu a
+překvapivě to funguje velmi dobře. Takže nemáte
+ani žádný SQL-ko nebo kosmos nebo nic takového?
+Ne, ne, ne, nebylo nutný.
+Tak to jste dobrý člověče. Protože
+řeknu, proč to tak je,
+protože můžete si představit, že
+nemáme tím, že to je
+server as a service, který ovládá většinou
+kdyby
+ovládal třeba 10 lidí v jednu chvíli, tak bychom byli nadšený,
+ale většinou řekněme,
+to ovládají třeba 3 lidi
+v jednu chvíli, takže ty servery
+absolutně stačejí, ta rychlost.
+Takže tohle nám vystačilo
+a je to super i pro,
+protože máme
+dost par juniorů, to je
+absolutně hned pochopitelný. Ten junior si
+otevře tu table a hned vidí, co tam je.
+Samozřejmě tam držujeme
+nějaký guideline v klíču, ale
+díky tomu, že dotne to je docela rychlej,
+takže ono to rychle přečte, vytáhneme si
+prostě ze dvou tabulek to a
+linkujeme to, takhle joinujeme.
+A nějaký složitější query tam nejsou problém?
+Do těch tabulek?
+S tom naším
+use case, jak to máme navrhnutý,
+v podstatě ne. V podstatě je to
+dostatečně rychlý, jako
+fakt se nám to vrací v milisekundách a opravdu
+já nevidím jako rozdíl, že by to bylo
+pomalý. Je tam jedna specifická
+věc, protože my nenabízíme
+jenom režim, nabízíme takový dva
+režimy, jeden režim, kde se vzájme ještě CSVčko,
+nahraješ k nám jako ty stupní data,
+a nebo přes API, což
+my preferujeme, protože vidíme
+budoucnost prostě, že jsme jako integrační nástroj
+ideálně, aby se nás ty firmy
+vyintegrovaly a používaly nás opakovaně
+a i to pro ně podle mě je lepší.
+Tak když nám
+může nám, když máme integraci
+třeba ještě nějaký nástroj třetí strany, kde můžeme přijít
+třeba 250 tisíc
+requestů do hodiny
+a tam
+teda máme nějaký optimalizace nějakých
+cache, používáme nějaký dotnetový cache
+a právě hodně přesto Qs, kde to
+optimalizujeme, tak to je jediný, kde nám
+vlastně chodí ten velký výkon, jinak
+to všechno zvládáme
+jako byt v běžný obsluhu
+normálními jednoduchými query.
+A to APIčko, to je
+normálně ASP.net, tady tam běží
+nějaké up-service nebo...
+Přesně, máme up-service,
+má koupený up-service plán a v tomto máme
+daný. Samozřejmě jako
+byl bych rád i za nějaký dokry,
+ale úspora času...
+Jasně.
+Úspora času.
+Jak pracujete s analytikou nad tím řešením?
+Če napadá mě, že toho klienta
+může zajímat, jaká část toho videa
+nejvíc zarezonovala u jejich klientů.
+To je taky součástí služby nebo ne?
+Ano, jo, analytika je
+základní součástí
+služby, sice
+my máme
+takový, bych řekl, vedení, že máme
+víc... Máme vedení
+jako jsou tři majitele,
+jeden je víc kreativní a druhej je víc
+právě biznis, jako biznis
+analytický, tak kolikrát
+víme, že důležitý je, jak udělat tu dobrou
+kreativu, tak mít ty analytiky,
+ale takže časou
+o tom dohady, jestli víc máme investovat do těch
+analytik nebo víc investovat do tý,
+řekněme, pro ty analytický části,
+ale analytiky
+tam máme, vždycky v podstatě máme
+nějaký přepočítávání jednou denně
+těch dat, který teda vezmeme, s tím,
+že máme nějaký vlastní player, který jako zbírá
+ty hodnoty, s kterými jsme
+schopni vyčíst a jestli se ptáš,
+co je důležitý, důležitá je dokoukanost,
+open rate toho videa,
+denní
+zhlídnutí,
+či musíme mít nějaké křivky
+a co bych tady vyzdvihl, že
+když se kampaň povede
+a když se většina z kampaň povede, tak máme
+třeba, teď jsme měli
+jednoho klienta asi 40%
+open rate a 80%
+dokoukanost toho videa, když si to pustil,
+takže ty čísla jsou fakt velký.
+A to znamená, že teda vy ty videa i hostujete
+u seba, jenom posíláte linky, nebo
+třeba jenom doručujete to na YouTube, protože pak
+samozřejmě tyhle informace už se ti ztrácejí, že jo?
+My to hostujeme
+u sebe, ale řekl jsi,
+dobře jsi mi nahrál tím
+YouTubem, je to nějaká další
+vize firmy, že bychom se rádi
+dostali právě na YouTube,
+když není to úplně jednoduchý,
+protože ono dostat k tobě na YouTube
+personalizovaný video, musíš to projít tím
+systémem, tak tam je asi nějaká další vize
+a hodně velká
+vize se dostat třeba do tých streamovacích
+platform typu jako Netflix,
+Disney Plus
+a tak dále, když
+neklamy tam zatím nejsou, ale
+no prej to chystaj, jsem slyšel,
+že Netflix chce vyřešit svůj pricing
+tím, že tam zavede reklamy, aspoň v některém
+levelu. Takže já doufám, že příště
+se tady budeme bavit a bude tam Ocean Lab.
+A ještě napadá, já jsem seděl
+v akcelerátoru se startupem, který
+vlastně analyzoval, kam ten
+člověk se dívá na obrazovce.
+A je to třeba něco,
+co by mohlo být zajímavé pro ten váš
+startup, zjistit vlastně, kam
+se ty lidi koukají a tím pádem
+vlastně ještě líp analyzovat, co je
+třeba zajímavého na tom
+daném videu. Jsi jako eye tracking?
+Eye tracking, jo, jo, jo.
+Na to byla firma, ale samozřejmě
+tady to asi bylo složitý, protože ten koncový
+pozorovatel,
+v podstatě to byste museli nějak instalovat
+u nich, tady to bylo vždycky nějaké jako spíš korporátní
+řešení, kde to dávalo smysl víc.
+Neřešíme to
+teďka v tuhle chvíli. Samozřejmě to taky cesta,
+tady jsme se bavili o tom, jak tu personalizaci ještě
+posunout dále k tomu měřit.
+Validně jsme se o tom bavili, ale
+ono nejvíc
+pro ty firmy, nebo to nejdůležitější
+vidím, že je
+v podstatě nějak
+jednodušně nějak nabůstovat ten marketing
+a rychle si to vyhodnotit.
+Většinou je to jako, rychle si to vyhodnocuje
+a že ani tí
+moc klientů s tíma jakýma AB testama
+to nemáme, ale je to
+validní cesta, o který se bavíme, že by jsme
+třeba ty analytiky o to rozšířili,
+ale teďka nemáme na to
+nějaký velký feedback, že by někdo řekl
+hele mazev, to potřebuji. Spíš opravdu
+řešíme třeba distribuce, takže
+teď řešíme, jak
+si napojit nějaký mailovej server,
+aby jsme to mohli poslat, protože to pro spoustu
+klientů je problém, jako reálně
+i poslat ty maily,
+že to technicky, když
+otezdáme ty linky
+a oni potřebují se na něco napojit
+rychle a teď nic nemají, takže
+to je třeba větší challenge,
+jako co to.
+A potom si musím teda říct jednu specialitu,
+teďka připravujeme jako appku pro Microsoft Teams,
+takže
+bychom měli být i v Teams,
+takže ti přijde, třeba přijdeš první den do práce,
+přijde ti video, ahoj Romané,
+ahoj Poli. Takhle přímo na té platformě
+se mi tam otevře message. Ano, teď
+momentálně to začínáme nějak programovat,
+tak třeba
+se brzo dočkáme. A Teamsy na to mají nějaký
+APIčko, nebo přímo i nějaký SDKčko,
+že se do toho můžu napojit nějak nativnějc,
+nebo jak? Jo, budeme psát bota.
+Bota, který by měl takhle fungovat, takže uvidíme,
+co tam to můží. Výborně.
+Přišel jsem bota. Jo.
+A další otázka je tady stejně napsaná.
+Tak pojď, pojď. Ta si dala čekat.
+Řešíte už dneska
+v tom vašem produktu nějaký AI?
+Jako mně
+napadá spousta cest, kudy
+se vydat, ale tak možná si to radši poslechnu
+o tebe. Na dovidu ne.
+Neřešíme.
+V podstatě
+měli jsme nějaké, jako přemejštili jsme
+o nějakém konceptu, že by si třeba
+napadla mě jako
+jízerská padesátka, že
+člověk by chtít personalizovat video z jízerský
+padesátky, takže chytneme třeba ten jeho obličej,
+pomoci kognitiv services
+a dáme na základě tomu
+udělat video. My jsme se jako uvažovali
+reálně, nebo jsme schopní to nějak
+dělat, nějaký PLCčko, ale
+ono proto není
+jako nějaký zatím velký zájem.
+Tam je hlavně, řešíme rychlost
+zručení a aby prostě
+to bylo jednoduchý, to je teďka jako by nějaký
+největší smysl. Ale
+jak jsem zmínil ten bot, to je
+během řešit hlavně kvůli těm Microsoft Teamsům,
+protože tam by to jako nejednodušší, takže
+takový AI trošku mimo
+produkt.
+Jo, jo, jo.
+A máte tam třeba nějaký
+v nějaký pipeline, prostě třeba long term,
+jestli tam něco takového bude, protože chápu,
+že dneska, jak jsi říkal, třeba v jednu chytu používají
+tři zákazníci, ale pokud
+by to měly být stovky, tisíce, tak těch dat
+samozřejmě bude mnohonásobně víc a pak už
+se z toho třeba nějaký paterny vyhledat daj.
+Já nevím, třeba
+si zjistím, že ve čtyřicátý,
+devátý vteřině by bylo fakt super to tam
+nabůstovat to video ničím zajímavým, protože
+ty lidi tam se zjistilo, že mají jako nejvíc
+pozornost.
+Teď jako hodně vařím z vody, jo.
+Románek se tady naměstněje.
+To je to z tý jízerský padesátky,
+jako styl Michael Bay, že
+šťouhneš tou hůlkou do sněhu a on
+exploduje.
+To je dobrá
+otázka.
+Já teďka si nechci rypnout,
+ale tím, že my cílíme na ten
+marketingový svět a
+marketingový svět je jako já fakt
+spojení, já si strašně vážím kreativstvů,
+že jsou schopní udělat krásný video, ale ty lidi
+nad tím při tom tvorbě toho videa nebo toho
+kontentu a tím takhle podle mě vůbec nepřemýšlej.
+Jo, tam už musí mít někoho
+třeba z CRM týmu, který
+jako přijde a řekne, tohle by
+nás teda zajímalo a tohle, ale oni většinou
+se snaží udělat fakt jako co nejlepší zážitek,
+který kolikrát je fakt dokonalej, fakt
+koukám, padá mi huba, jak udělají krásný
+třeba animovaný video, ale tohle tam
+úplně podle mě neřešejí a pak se spíš
+řeší ten celek.
+Nevím o tom, že by někdo přišel
+a jako fakt říkal, pojďme si tady
+totálně uvěřit, jestli právě ta 40.
+deváta vteřina je zajímavá, ale
+možná je to tím přesně tím, jakoby
+na koho cílíme
+v jiném biznisu, kdybychom to třeba řešili
+prakticky třeba nějakým CRM oddělením,
+který sedí na těch datech, tak tam to může být zajímavý,
+ale my jsme tak jako mezi všema
+a musíme se tak nějak, ten nástroj se nějak
+musí dohodnout, i ty oddělení se kolikrát musí
+dohodnout, je CRM tým to vidím
+nějak, marketing to vidím nějak a
+my tam jsme jako mezi nima, aby se jako
+dohodli, aby to proběhlo dobře.
+No to říkáš přesně, protože v podstatě já jsem
+si představil ten funnel v tom CRMku,
+že jo, jak vidím, jak prostě tady obvolám nějaký počet
+klientů, ale nakonec těch schůzek je prostě
+omezený množství, tak vlastně tohle
+takovýhle funnel může vzniknout i nad tím videem,
+že jo, jako časem, prostě protože víš, kde ti ty lidi
+odcházejí, to vlastně víte
+a s tím se dá potom nějak pracovat, no tak třeba
+časem. Až si tě pozveme příště a budete mít miliony
+zákazníků, tak to třeba bude zajímavější.
+Těšíme se na to. Já ještě mě tady hlavou jde
+jiná věc, která se týká
+toho, jak to video vzniká, protože předpokládám,
+že ve chvíli, kdy vím, že to video
+bude zosobněný,
+se chci vyhnout tomu strašnímu sluhu, který umím vyslovit,
+tak musím
+tomu přeci upravit to, jak to video vzniká.
+Minimálně nějaký záběry, kam se dá
+strčit ten buď custom obrázek
+nebo custom nápis Petr Polák.
+Máte k tomu i nějaký třeba
+guideliny pro ty tvůrci těch videí,
+na co si dávat pozor a tak dále?
+Natočí, pak
+se dá nějaký after, který
+to tam dodá a pak je
+bytka právě s tím...
+Pak je
+dohada s tím CRM
+pímem, který
+vlastně nám nahrává ty data, ať už je to
+teda přesto API nebo ne a potom ještě záleží,
+jestli máme třeba nějakého
+partnera, který dodává ty data, třeba
+s firmou Bluemil, který často řešíme,
+který to tam jako dodává. Tak je takhle
+ten proces, kolikrát
+rychlejší máme řešení třeba ty data než
+tu kreativu.
+Taky se já na poslední chvíli, ale mělo by to jít, jak jsem to říkal.
+No a potom se řeší
+ta cesta ven.
+Takže je to taková fakt kombinace,
+když na to ptáš kombinace úplně jako všech
+těch lidí, musí se to jako sednout
+a máme Customer Success
+manažera, který právě vždycky
+si volá v jednou části, pak v druhou části
+a většinou se to sedne.
+Ještě bych řekl jednu věc, že většinou právě
+na té distribuci, tak kolikrát se tam
+řeší i právě nasazení toho našeho playeru,
+ale tam zase musíš zase
+ještě do toho procesu, že máš ty kreativce,
+máš ty CRMkaře,
+tak tam ještě musíš zaplnit třeba ITáky,
+nebo když tak chceme
+nějakou dlouhodobou kampaní
+opakovanou, tak
+ještě tam musíš mít ty ITáky, tak to je
+jako, teď si to musíš všechno sejít.
+Je to celá náročný, ale snažíme se
+to právě nějakýma gunlinem a máme
+automatizovat ten proces.
+– Já tam střelím ještě jednu věc, která mě napadla,
+kdy jsme se bavili o tom, že by třeba jednou
+šlo pomocí AI vyměnit
+obličej a napsat tam jiný
+nápis jinak a tak dále.
+Jak je to z hlediska GDPR
+a obecně osobních dat takováhle
+platforma? Dotýká se vás to vůbec, nebo
+vy jste jenom platforma, do které přitečou
+data, vám je jedno, jestli tam je napsáno
+Petr Polák, který bydlí v Kladně,
+tak tady a tady, nebo jestli...
+Jo, dotýká se vás to nějak?
+– Určitě,
+určitě security se jako řešíme,
+ale my jsme,
+ano, co my nejvíc,
+nejhůř držíme, jsou ty data
+od těch uživatelí, který se jako časem samozřejmě
+po sklončení kampaně jak odmazávají,
+protože už nejsou potřebný
+a potom tam řešíme
+tu kreativu, kde
+není to GDPR, ale třeba fonty, jo,
+fonty jsou jako, může být problém
+jako licenční, ale potom
+my jsme jakoby, řekněme v tuto chvíli
+takový průtokáč, tak se snažíme jako vygenerovat to video,
+to má nějakou platnost,
+takže víme, že tam bude třeba 90 dnů
+po 90 dní zmizí, a ty data
+samozřejmě jak mažeme v průběhu
+v průběhu
+třeba po tom vygenerování, nebo v průběhu toho času,
+taky potom jak to máme jako s tím klidným nastavením,
+ale více méně
+nesnažíme se nic držet
+dlouhodobě, protože kdyby
+nelíbilo, že nás někdo napadl, tak ať to tam
+– Jasně, jasně.
+– A poslední věc tím, že jsme
+na Azure, tak většinou ty klienti jsou
+v pohodě, protože
+bych musel projít,
+nejen přeznat, ale i kdyby tak je to problém,
+píši jako na straně Azure, takže tam si můžeme
+výstrak stížovat. – Jasně.
+Ještě by mě zajímalo, když se podíváme
+na ten současný backlog, který máte,
+tak na čem ty tvoji
+programátoři teďka vlastně dělají, jo?
+Co se tam dělá za featureky?
+– No, tak více méně
+furt se to točí
+kolem ty kreativy
+vstupních dát, výstupních dát, takže teďka
+třeba moje
+královská front-end developerka
+Domča tam dělá teďka
+jako na tom extensionu v Adobečkách,
+což jako obdivuje ji nervy kolikrát,
+protože Adobečka má
+vlastní JavaScript,
+takže na tom
+takhle staví právě ten extension,
+takže teďka třeba, jak jsem mluvil
+o těch voice-overech, tak teď to jako
+dodělává, finišuje, takže to je jedna část.
+Pak my
+řekněme v tom
+back-end týmu, právě děláme
+na zlepšení jak toho vstupu,
+APIčkách, integracích, třeba jsme dělali
+integrace s Integromatem, jsme
+připravili dlouho, teď jsme měli nějaký Zapier
+a tak dále, aby každý to mohl jako jednoduše
+napojit, takže to je jako druhá taková velká část.
+Ty analytiky
+vylepšujeme, no a
+vše nedílnou soutěž, to musím říct,
+máme web, který nemůžu zapomenout,
+že tím, že jsme
+server as a service, tak furt se dělají nějaké změny
+na webu, tam mám dokonce jako
+alakovanou developer, která fakt je jenom
+na webu a seká každej den nějaký úpravy
+na webu a integruje
+vlastně tu platformu s webem, no, takže máme
+třeba, si u nás můžete vygenerovat
+to personalizované
+video přímo na tom webu, takže
+taková nedílná
+součást, takže takhle
+takhle tak. A jinak stackově
+ještě můžu říct, že my jsme vlastně React
+nahoře, vlastně React
+Next.js, jsme nahoře
+a dole jsme prostě dotnet, no
+a
+to je dobrý, nahoře a dole,
+vlastně se znala Frontend a Backend, ale nahoře a dole,
+to je dobrý. Z toho,
+co jsi říkal, jsi tam samá
+vývojářka ve skutečnosti,
+takže to je nějaký váš
+jako plén, že budeš mít jenom ženský
+tým, nebo nějaký side effect
+toho, že to je třeba víc kreativní obor
+sám o sobě, nebo?
+Ne, to je prostě přirozeně.
+Prostě holky jdou
+za Vojtou, je to jo? No, my vypíšeme
+inzerát a napíše vám, jako
+z toho je víc než 50%
+ženy. To je super, ale ne.
+Nevím, čím to jako děláme, možná
+tím, že jsme tam jako historicky
+vždycky tam nějaká
+žena nebo holka
+proběhne. Jako
+super to je,
+teď momentálně teda chlapů mám víc
+výjimečně, ale
+mám vlastně dvě developerky
+a jsme tam vlastně čtyři
+developeři, ale tím, že se to střídá,
+třeba jsme měli testerky, který nám tak jako
+přišly,
+odešli,
+ale nevím, nějak
+asi, jak říká jeden známej,
+že ta,
+tím, že jsme firma, kde jsme jako
+asi dívky
+friendly, tak asi
+už se k nám jako automaticky nějak hlásej, nevím.
+To je super, to je super. No a tak
+když už jsme to otevřeli, ten
+hiring proces, tak jak se
+vám schání obecně kandidátky?
+Protože bavme se už rovnou, že už
+chlapi nás nezajímají, jak se
+schání kandidátky.
+Oni v práci se žerou zase, jo?
+Vždycky procházejí ty životopisy
+a vždycky se na mě
+podívá kamarád David a říká
+další ženská.
+Ne, to je potřeba, je potřeba víc
+žen fighty.
+No, schání se
+těžko,
+asi jako všem, ale
+my jsme vždycky byli
+tak jako hodně junior friendly, tak máme
+jako teďka máme vlastně třetího
+juniora nebo juniorku v řadě
+a takže to je jedna jako
+směr, kde se vydáváme, si fakt toho člověka
+jako vychováme a
+vlastně ty seniorní lidi, který kam tady mám, tohle jsou
+všechno jako známí kamarádi
+a zatím jsme v téhle fáze, jo?
+S tím, že
+teďka momentálně
+pohovoruju všechno většinou já,
+mám nějaký proces, my si tam
+udělali a takže
+je to takový jako náročnější,
+ale je schánět jako bych řekl startup
+jobs a potom na komunitě junior guru,
+kterou teďka jako hodně jedu,
+tak to je takový dvě teďka místa, kde
+jako scháním.
+No a třeba nějaký novej podcast by ti v tom
+nepomohl, víš kam mířím
+už, protože ty jsi přišel i
+v tričku, ty jsi obrandovaný svým
+novým podcastem, tak pojďme to rovnou
+otevřít ten tvůj podcast,
+co je to zač a proč to vlastně vzniklo?
+Jo, vzniklo
+to, já už
+jsem nad tím uvažoval delší dobu, proč to dělat?
+Protože my jsme s Martinem,
+to jsem možná dostal i k mému
+prvnímu podcastu, měl takový
+jako vždycky témata s někým jiným, vždycky to bylo
+prostě nejen čistě, máme dotnetový
+podcast, tak čistě jako ta technologie,
+ale tam bylo spousta soft lidí, třeba jsme se
+bavili s HR-iskou
+z JetBrains
+a vznikaly tyhle ty témata.
+Mě to vždycky jako tak fascinovalo,
+plus asi všichni znáte
+kolikrát
+IT-áci nesnášejí HR-isty a přitom
+jako ty lidi, i HR-isti jsou jako fajn,
+ale ten HR-ista
+kolikrát, já říkám, že to nemůže,
+ale poplete občas děvovat,
+děvovat skript a hned je
+u toho vývojáře úplnej blbet, přitom
+ten člověk je hrozně fajn. Nebo napíše, že to je
+dotnet pozice, jasná přihlásím se v Sharpem
+a on řekne, že myslel si Sharp, přitom
+napsal dotnet. Jo, jo, jo, tak to je
+přesně ono. Tak mě napadlo, že by to
+bylo hrozně jako zajímavý
+tyhle lidi zvát a bavit se o tom,
+protože v té
+HR komunitě
+ty podcasty
+jsou spíš takový dlouhý a fakt musíš být
+jako HR-ista, aby se s tom vyznal
+a já si myslím, že s týhle zkušeností,
+co jsem mám z těch pohvorů a ze všeho, tak jsme
+to chtěli dělat jako krátce, rázně, aby jsme se v tom
+vyznali. Plus jako dost velká cílovka
+jsou třeba jako právě CTOs a tak dále,
+který jako
+nevěděj, jo. Teď sedíte v tom startupu,
+teď nevíte, jestli máte
+remote interního
+HR-istu,
+RPO nebo
+agenturu a máte v tom totální guláš,
+tak já jsem řekl, hele, tak půjďme udělat prostě
+spojit s kamarádkou, s kterou to dělám,
+spojit právě
+rychle říct
+s tím lidem, co to je, spojit takovou jako
+IT přemýšlení, že ten podcast
+nemáme vykecávání na tři hodiny, ale rychle
+v bodech to řekněme, ale zároveň
+to pomůže k tomu, doufám tomu
+HR-istovi, tak by to mohlo pomoct právě tím lidem.
+Takže jsme to tak hezky spojili
+a zveme se tam právě lidí, který jsou právě
+zajímavé k tý HR komunitě, plus
+i si zveme jako developery nebo ty
+decision makers, plus
+ještě tam jako speciální sekci jako
+junior developery, aby, nebo
+developery, kteří začínají nějakou kariéru,
+začaly, aby nám řekli tu svoji kariérní
+cestu
+a...
+To jmenuje se to teda, zapomněli jsme říct
+jenom, mám pocit, je to teda, jak se to vyslal,
+je to program HR-ování, nebo jak
+se to píše? Přesně tak, program
+HR-ování. Program HR-ování,
+to je hezký. Kde vás můžou
+uslyšet posluchači? Na klasických platformách
+Spotify, Apple, Google,
+nebo jste někde na webu,
+jenom, jak to je? Stejně jako vás.
+Stejně jako nás. Takže máme
+web,
+který máme postavený na nějaký
+platformě Buzzsprout, jako řeknu, takže buď
+Buzzsprout playeru, anebo klasicky
+Google, Apple,
+Spotify. Spotify asi poslouchají
+lidi nejvíc, když řeknu to takový teďka
+nejvíc franci.
+Ty už si mluvil i o tom předchozím
+svým vlastně
+podcastu, já tady furt žmoulám
+v ruce tu nálepku, co jsi mi
+přines dotnet
+podcast. Dotnet CZ.
+Dotnet CZ podcast, ale webovky
+jsou www.dotnetpodcast.cz
+Jo, protože dotnet se znám ukrad Microsoft.
+Jo, aha, dobře, děkujem.
+Děkujem, milí Microsofte.
+Tak tenhle podcast, ten ty děláš
+s Martinem Šimečkem, je to tak?
+A ten je specificky o dotnetích
+Microsoftích technologiích. Jo, jo.
+Už to děláme víc než 6 let,
+takže takový nechci
+říct, to ještě podcasty nejli.
+Vlastně to vzniklo tak, že
+Martin dělal hovory od
+křivého stolu, které
+se nějak
+udělali pár dílů a neuchytili
+a já jsem chtěl něco dělat, přišel jsem
+na Martina, mu říká, pojďme dělat podcast a už video
+neodlám dělat. Takže takhle to
+jako vzniklo a
+vlastně
+děláme to už docela
+dlouho.
+No máte tam dlouhou prodlevu, teda
+na mě. Musím říct, že
+bych čekal, že to bude větší trošku frkot.
+Já jsem tě tady chtěl malinko vypeskovat, kdyby
+další díl teda.
+No, my jsme jeli normálně
+standardně každý 14 dní.
+Bohužel přišel covid,
+mně se rozšířila rodina, Martin si pořídil
+barák a teďka momentálně
+štěňátko a doufám, že mě
+zastřelíš, co prozradím.
+Takže oba máme hodně
+práce a už se přiznám, že jsme trošku
+takový jako unavenější.
+Takže neříkám, že podcast
+nejde, ale už spíš to máme
+takový jako doplněk
+a hlavně jako
+oba máme v práci, ještě hodně práce,
+takže jak máme doplněk, určitě nějaký díly ještě budou.
+Jsme měli takový cíl, že bychom udělali
+jako stovku, třeba se tam dostaneme,
+ale teďka jako cíl je udělat, teď jsme na 79.
+Jo, tak aspoň těch,
+aspoň tu 8. desítku. Jasně, já teda
+doporučím díl 51, tam je strašně zajímavý
+host, je to i o super technologii.
+Jo. No, no, no, takže to se, ale to si najděte,
+nebo říká kdo, ale možná to uhodne.
+Mu tam leze furt. No jo, to je hajzo,
+prostě oni ho nemůžou zahnat. To vyhodím,
+tož mám zavrátit oknem. Jasně, no, on ukradne kartičku
+do Microsoftu a zvoní tam znovu a to je
+parchat. No tak jo,
+prosím tě, já
+na to koukám, tyjo, my jsme
+projeli snad úplně všechno, tyjo.
+No tak obligátní otázka, tvoje plány
+do budoucna, co je v nejbližší době,
+kromě toho, že mě uspokojíš novým dílem
+dotnetího podcastu, tak
+co tam máš dál?
+No, budu vydávat
+určitě programy Čarování
+i dotnet.cz, takže nějak v podcastech
+mě uslyšíte. No a protože
+už jsme sundali roušky, tak
+asi bychom mohli udělat nějaký meetup.
+No, výborně, se k tomu dostáváme.
+Já
+teďka jsem měl původně nějakou
+meetupovou skupinu na Zamarin, tu jsme
+teďka jako zavřeli a
+spojili prák dotnet meetupem,
+který, nebo dotnet day s meetupem teďka,
+který pořádáme s Jakubem Janisem, takže
+chci udělat z květnu a červnu nějaký
+meetup konečně, když jsme se vydělali, dali to pivko
+a těším se. Máme zajímavý
+hosty, máme doblíbenýho Marka Šafáře
+ze Zamarin
+Maui dotnet 7 týmů,
+takže se můžou
+poslušat či těšit a
+potom měli
+Budou dotnet days?
+Uvidíme.
+To jsem nechtěl slyšet.
+Jednáme o tom a
+možná takhle bych vyzval
+jako firmy, protože
+my dotnet days děláme
+více méně
+jako parta lidí a je to
+potřebem hlavně teďka pomoct
+spíš za první
+finanční určitě, ale i takovou
+když má firmy
+nějaký community manager, tak by nám pomohli
+jako s vovoláváním a tak dále, takže
+řešíme spíš takovou, aby jsme to mohli
+zorganizovat, pomoct
+organizací i pomoct penězma,
+ale jinak bychom to rádi udělali,
+takže pokud by se nějaký firmy
+chtěli zapojit, slyšej do dotnet days,
+nejte si dotnet days.cz
+tak se s náma spojte
+a věříme, že
+uděláme druhý ročník.
+Tak já si půjdu za Luckou, tyjo,
+sežmoulat v čepici, tyjo, jako
+učíkej, jestli by tam něco
+nenašla pro dotnet days, protože to je
+super konference, tam mě bavila, to byla
+fakt dobrá. No tak jo,
+tak prosím tě, Vojto, já jsem
+strašně rád za prvé, že jsi dorazil,
+že jsme se konečně po letech zase viděli,
+já jsem doufal teda, že mě víc nabejtíš na nějaký
+restart těch post-covidových
+komunit dotnetích v České
+republice, ale já, jak tě znám,
+to dopadne, něco bude. Každopádně,
+ať se ti daří, ať všechno
+frčí, tak jak doufáš,
+co nejmíň fuck-upů na ežru,
+no a zase někdy.
+Ať to šlape se startupem. Díky moc.
+Díky. Díky za pozvání. Čau, čau.
+Opět parádní host
+našeho podcastu. Musím říct, že Vojta
+se mi líbil především z toho důvodu,
+že zaměstnává ženský. A i
+to jsme si neuvědomili,
+i ten svůj HR podcast
+dělá s ženskou. Já jsem si
+kousek pouštěl a je to tak, takže
+to jako opravdu
+tu osvětu dělá fantasticky. Ne, Vojta je inkluzivní
+jako málo kdo, je to super. Jo, jo, jo.
+Bylo to zase zajímavý, co se k tomu
+dá říct. Já jsem za Marin
+taky neznal, takže já jsem se
+poučil a naučil nový věci, takže doufám,
+že i juniorní
+posluchači si z toho odnesou
+to, co si odnesli, odnesli chtěli.
+No a my zase za 14 dní?
+My zase za 14 dní, budu se těšit.
+Tak jo, měj se. Měj se doma. Čau.
+Čau.

@@ -1,0 +1,2179 @@
+Pod vocasem.
+Pod vocasem.
+Pod vocasem.
+Pod vocasem.
+No starpoli!
+To jsi nečekal, viď?
+Teď na tebe čumím tady.
+Jako květ čumíš. Čau.
+Zdarománku. Čau, já jsem chtěl
+trošku jiný úvod. Já jsem si všiml.
+Takový ten starý,
+takový ten prvosériovej.
+Takový ten pěkný. Vzpomínáš na to?
+No, hele, to už je dávno.
+Teď. Přes dva roky. Dva půl roku, to jsem byl
+mladej kluk ještě. No jo, tak to ještě přesně.
+To jsi neměl fousit, což teda nemáš stále, ale...
+Teď jsem si to nechal
+jako asi pět dní, ale ono to fakt vypadá, že jsem špinavý.
+Ne, ne, ne. Jsi fantastický
+jako vždy. Takže přátelé, vítejte u dalšího dílu.
+U vlastně závěrečného dílu
+osmé série vašeho oblíbeného IT podcastu.
+Pod vocasem, jak jste asi poznali,
+naproti mě stále sedí
+skvělý, svěží, nešpinavý,
+jen lehce neoholený Petr Polipolák.
+Polotričku. Tak polotričku
+jsem tě, kamaráde, snad nikdy neviděl.
+Ty máš dneska něco special?
+Nemám něco special? Dneska vlastně ne.
+Já už teďka nosím prostě od ledna tyhle věci.
+Jo, takhle.
+To jsou ty manažeří, no.
+Ne, to jsem dostal od manželky
+k Vánocům. Vždycky se jí
+zželí to, jak vypadám
+za ten rok. Prostě udrchanej
+ajťák, tak říká, tak pojďte, já ti něco koupím.
+Já ti dám tričko.
+Takže mám polotričko.
+No super, ale fešák, prostě vytuněnej.
+Děkuju, děkuju, děkuju.
+Nechceme začít nějakej tyhle fashion podcast.
+Teď jsem si uvědomil, že
+vždycky, vždycky skončíme
+u toho, kdo jak je navoněnej, kdo jak je oblečenej,
+kdo jak je oholenej. Přátelé, nic, stále
+posloucháte IT podcast.
+I dneska budeme probírat IT věci.
+Hele, my dva fashion podcast, to by nám nikdo nesežel.
+Já si myslím, že ne, no, ale tak jako
+ten úvod je vždycky takovej, tímhle s tím směrem
+já ještě než řekneš, koho
+jsme pozvali, tak já řeknu, koho jsme
+nepozvali. A je to člověk
+z J-Open Space.
+Tentokrát jsme nikoho takovýho
+nepozvali, tentokrát jsme neloveli
+v tom našem macatým rybníčku
+talentů z J-Open Space, protože
+kluci už si z toho dělali srandu, že vlastně jsme
+i v téhle sérii, že jo, Tomáš Ondrašík
+a Ivo Musel, poměrně jsme jako masivně
+rybařili.
+A kluci mi psali, nebo
+Honza Novotník, kterýho tímto zdravím, tak mi
+psal, že už je datum
+příštího, nebo vlastně
+už letošního 2024 J-Open Space,
+takže 4. až 6. října.
+Už jsem, nevím, jestli
+se můžete registrovat, to Honza nenapsal,
+nicméně asi to aspoň dejte do svých
+kalendářů, buďte připraveni, že na začátku
+října se opět vyrazí někam ve středu
+republiky a budou dva dny
+přednášek a já tam asi zase
+budu, nebo zkusím to. Kdybych
+tam nakrásně nebyl, tak
+si zjistím, kdo má nejlepší a pozveme si ho
+zase do podcastu. Kluci si
+to dělají srandu, že vlastně
+J-Open Space je taková jako farma
+podvodca svého podcastu, takže je to
+pro nás takový... – Ale my jako scouti to máme
+dost jednoduchý. – Jo, jo, jo, je pravda, že
+většina z nich hrají v první ligu, takže pak
+pro nás je vytáhnout jako do extra ligy,
+není takový problém. – No nádhera, nádhera.
+– No a tak dneska, z koho jsme si teda pozvali?
+– Hele, dneska jsme zase lovili v nějakém rybníčku
+našich kontaktů a dorazí
+Dušan Vystrčil,
+což je prostě profík přes
+Large Language Modely, Gen AI,
+je z firmy DataSynthX, už jsme tady měli
+Michala Halinku z DataSynthX. – Nice.
+– Zase jsme se, když jsme jeli ve výtahu, tak jsme se bavili,
+že ho zná, že spolu dělali na tom
+Pujonu, který tady Michal pomyslel. – Jo, jo, jo, datovej Pujon.
+– Tak tím to můžeme otevřít a samozřejmě
+čeká nás spousta AI a spousta
+Gen AI. – Počkej, ta seďka říká
+Generative AI. – Generative AI.
+– Generative AI. – Jo, jo, jo.
+– Musíš teď ještě říct takovým tím jako. – Ještě se to musím naučit.
+– S tím zvukem. Takže dneska bude
+Generative AI. – Dneska bude Generative AI, yes.
+A myslím si, že nás čeká spousta zábavy.
+– No super, tak jdeme pro něj. – Jdeme pro něj.
+Tím, že jsme udělali úvod úplně jiný,
+teď máš, Polly, možnost i toho
+hosta uvísty, protože většinou
+to dělám já. – No nádhera, to je dneska úplně
+jinak, úplně jinak. – To zakoňčení série
+je úplně jiný než předtím.
+– Přátelé, přátelé, já jdu do toho.
+Tak v podstatě, IT rybníček
+je malý a vylovili jsme
+z něj další rybu, to já myslím, že teda
+pořádnýho macatýho kapra.
+Dušan Vystrčel z DataSantics, ahoj Dušana,
+vítej v nás. – Ahoj, dobrý den, čau.
+– Tak v podstatě, my jsme
+to řešili už ve výtahu.
+Vlastně, my jsme tady už
+o bujónu tady mluvil a
+Dušan mi prozradil už ve výtahu,
+že vlastně byl součástí tohohle bujónu,
+je to tak? – Bujón měl dva členy, to byl
+Michal a já, takže máte tady
+kompletní bujón. – Takže jsme vyzbírali bujón,
+tak to jsem ani nevěděl dopředu, abych se přiznal.
+– Takže celá kuchyně už je vyzobaná z našeho pohledu.
+No ale možná na začátku,
+Dušane, představ se posluchačům,
+kdo jsi, co kromě toho bujónu
+vlastně děláš, no a samozřejmě nezapomeň na
+takovou tu tradiční cestu,
+jak jsi vlastně skončil v IT.
+– OK, tak já teďka
+dělám data syntax LLM architekta,
+takže vlastně designuju
+ty solutiony postavený kolem
+generativ AI, primárně kolem jako těch jazykových
+modelů. No a ta cesta, jak jsem
+se k tomu dostal, já vlastně studoval
+ekonomku, takže já jsem úplně mimo obor.
+– Další, další.
+– Já jsem byl na masárně
+v Brně, ale pak už nějak při škole
+jsem přičichl k marketingu,
+takže s kámačem jsme rozjížděli
+online agenturu a já jsem tam chytil
+Facebook performance, takže
+to hezky spojovalo takovou tu kreativní
+stránku, kdy vytváříš ty reklamy,
+ale zároveň pak ráno, až staneš, tak kontroluješ
+AB, testuješ, jako která
+ta kreativa na koho hezky působila a podobně,
+takže tam jsem si vlastně hezky
+přičichlil k těm datům
+a to mě začalo hodně bavit
+a vlastně pak jsem přestoupil do Business Factory,
+což byla tehda na tu dobu
+asi největší agentura,
+která byla zafokusovaná primárně
+na Facebook, takže tam jsem
+hodně dělal jako takový ty český korporáty
+a podobně, ale i takový bizáry
+jako třeba ruskou seznamku,
+kdy bylo na mě vlastně
+vybrat ty kreativy do těch reklam,
+takže jsem musel procházet ty profily a hledat
+tam ty zajímavý lidi,
+což byly jako strašný bizáry.
+No ale tam mě začaly bavit
+ty data, takže já se si vlastně
+takový ten příběh, že si zautomatizuješ tu práci,
+takže děláš hodinu denně a zbytek dne
+se učíš jako Python,
+takže to byl ten můj případ,
+ale nedávajte to někam ven,
+protože už jsme tady my tři.
+– Ne, jasný, nikdo to neslyší.
+– Takže jo, hodně jsem začal číst
+data science, tak je to prostě future,
+že tam tohle je jako ta budoucnost,
+kterou musí každý dělat,
+že je strašný nedostatek lidí.
+Takže já si šel tou slepou ličkou, že jsem se učil Erko,
+ale pak jsem se vrátil zase zpátky k tomu Pythonu.
+No a tak jsem si řekl, že
+rozhodím sítě a tím,
+že Business Factory měla ještě sesterskou firmu
+Roy Hunter, kde vlastně vyvíjeli platformu
+na tvorbu těch reklam,
+tak jsem rozhodil sítě, jestli tam není
+prostě nějaká entry level pozice na nějakého testera.
+A přišel Head of Product a tím,
+že jsem znal tu platformu, tak mi nabídl
+vlastně místo produktáka,
+jeho product management. Říkám,
+že to není úplně přesně to, co chci dělat,
+ale pojďme do toho. No a tam
+vlastně jsem takový štěstí v neštěstí,
+že já se chytil tu datovou stránku té platformy
+a vlastně celý ten Roy Hunter začal
+pivotovat kolem tady
+toho tématu, že dřív to byla
+taková automatizovaná stavba nad
+tvorbou reklam, ale začalo
+to pivotovat tak, že jsme vlastně atribuovali
+data z facebookové reklamy, z Google
+reklamy, z Google Analytics per produkt.
+Takže vlastně mohli jsme
+klientům říct, hele, tady máš
+produkty ve shopu, které se ti prodávají na webu,
+ale vůbec je jako, nereflektuješ
+v té reklamě, měl bys tam prostě vytvořit
+nový dataset a podobně.
+– Tak to mám úplně
+několik otevřených bodů z té tvý odpovědi, ale
+ten úplně nejzásadnější je to
+Erko. A vlastně teď jsme to zrovna
+někde vedli, tu diskuzi, jak to s tím Erkem bude,
+jak to vypadá, jak to vidíš vůbec. Já vím, že
+jestli to se to dneska ještě někde používá, tak možná
+v Automotive, samozřejmě v nějaký vědě.
+Jak vůbec vidíš jako pozici
+toho Erka vlastně dneska
+oproti minulosti a možná třeba výhledu budoucnosti?
+Nevím, jestli to nějak takhle sleduješ.
+Ve všech dalších industrij
+a tak dále funguje na datových, takže...
+Těžko říct, těžko říct, no, můžeme zjistit,
+ale je pravda, že třeba u mě v tom
+datovém týmu Erko nejede vůbec nikdo.
+Teďka myslím v tom týmu z Pošky, ale ani tady
+to Erko nikdo nedělal a přitom
+jsme tady měli jako data scientistů dost.
+Heleno, a tak pojďme
+do DataSyntex.
+Tak v podstatě, jak ta firma vypadá,
+čemu se věnuje,
+byť Michal to samozřejmě popisal i ze svýho pohledu,
+když tady byl, ale pojďme se do toho
+ponořit trošku z toho tvýho pohledu.
+Jasně, tak DataSyntex
+je relativně mladá firma,
+ale děláme data AI,
+což znamená, že tady pro typicky český korporáty,
+ale i mezinárodní firmy,
+stavíme data lakehouse a
+vlastně ty komplexní řešení
+u nich v klaudu nebo u nich na on-premu,
+ale většinou teda v klaudu.
+Tak ať už jsou to nějaké datové
+pipeliny, tak prostě vlastně trénování
+nějakých vlastních machine learning modelů,
+ale i vlastně propojování s tím
+biznisem, že se snažíme
+nějak ty data interpretovat a vlastně
+dát nějaký ty insights
+a vlastně posunout ten biznis toho
+klienta. Já koukám, že
+tvoje hlavní role a zodpovědnost je
+LLMS solution architect.
+Co to vlastně přesně
+znamená? Co je denní náplní tvý práce?
+Jasně, no tak
+teď se to furt vyvíjí,
+je to strašně nový téma, je to tady rok,
+takže my jsme loni to vykopli,
+že začali se pomalu ozývat
+klienti, ale co s tím umíte,
+my máme v KPIčkách, že potřebujeme mít
+generativ AI, tak mohli byste nám
+něco tady vytvořit.
+Já jsem se o to hodně zajímal, jak jsem takový geek,
+tak prostě jsem si tam hrál s APIčkama
+a chodil na hackytony, takže jsem byl ten,
+co to sdílal do firmy.
+Zajímavý je, že takový ti echt
+machine learning inženýři se tomu smáli ze začátku,
+že prostě tohle je totální blbost.
+No ale vlastně klient má pravdu,
+takže když se začali ptát
+a začaly chodit ty díly, tak jsem více méně se staral
+o ten design toho solutionu
+a vlastně to byla více méně konzultace.
+Pobavit se, co to umí, co to neumí,
+kde jsou ty možnosti a zároveň
+tím, že ty díly padly,
+nebo padly jako...
+Dopadly. Dopadly, tak najednou jsem musel
+stafovat tým, takže hodně jsme
+highrovali a vlastně
+teď se starám primárně o nějakou
+reusabilityu, protože jsme projektová firma,
+takže máme, já nevím, 6-7
+teďka aktivních projektů na Gen AI
+nebo LLM-ka více méně, takže
+se starám o to, když už nějaký tým dělá
+já nevím, nějakou evaluaci a teď druhý
+tým na to narazil, tak aby vlastně se mi
+propojil, abychom měli ty
+zdrojáky někde u sebe a nestrácelo se to právě
+v hlavách těch lidí. A zároveň
+taky nějaké jako strategie, takže do čeho
+se teďka pustíme tady
+v těch LLM-kách, jestli budeme furt tady dělat
+ty četování nad vaším datama
+nebo kam se posuneme a podobně, takže
+je tady nějaká jako ta strategičtější
+rola. A ty, když jsi říkal, že hajrujete,
+tak jaký byl vlastně
+hlavní profil, protože říkal jsi sám, je to
+mladý obor, ty se to asi
+vlastně taky učíš trošku za chodu, ne?
+S tím backgroundem jako z ekonomky, skočit
+do LLM, já bych čekal, že to budou dělat matfizáci,
+že to budou dělat lidi, pro který
+matika je denní chléb a teďka trošku
+koukám, že vlastně ty jsi to jako
+opanoval jako samouk stylem,
+ne? Chápu to tak správně.
+Jasně, ale já předtím dělal cloud, že jo?
+A já si myslím, že cloud k tomu má teďka
+mnohem blíž než jako machine learning engineer,
+nebo data scientisti. Protože ty už máš
+ten model hotový, jo? Když se bavíme o GPTčku,
+tak ty voláš APIčko, to je jako
+softwareový vývoj, to není
+data science, dá se říct, jo?
+Aha, takže ten profil byl spíš jako
+tohle. Jasně, já tím, že jsem dělal jako
+solution architecta jako takového v Azureu
+a díky tomu, že GPTčko,
+že jo, Azure Open AI,
+tak jsem tomu rozuměl asi nejvíc, jo?
+Takže jako postavit tu infrastrukturu, tak stejně
+padalo na mě, takže i kdybych nechtěl, tak bych
+se k tomu dostal. A jenže mě to začalo bavit, takže
+se to tak hezky propojilo, no.
+Ty ve, úplně mi bouchne hlava, kolik mám
+teďka otázek, jako jak se, v té vaší
+interakci, jo? Jako, že úplně neuvěřitelný, ale úplně
+první, když jsi říkal, že teďka vlastně
+tvoříte několik těch týmů, tak jak dneska
+vlastně data syntax vypadá, protože
+hale, GNI tady máme od listopadu
+22, jo? Reálně, jo? Že předtím
+to jako, tak jako spalo.
+Jako v produkční kvalitě, myslím. No, no, no, jasně, jasně.
+Od té doby, co se to stalo hypem a přesně jak Dušan popisuje,
+klient rozhoduje, najednou to klient chtěl
+vědět, ale vlastně nevěděl pořádně, co z toho jako dostane.
+Takže dneska kolik
+vlastně lidí v data syntaxi a kolik z nich
+máte na té GNI straně, jo? Protože
+prostě opravdu to je trh tady jako rok
+starý, jo?
+Ale nás je
+asi 150, ale asi důležitý
+zmínit, že my jsme součásti ještě a to z
+grupy, jo? Která se teď rebrandovala na
+Eviden, takže je to x
+různých firm, ale my figurujeme jako
+nějaký center of excellence, takže
+máme nějakou autonomii, moc nám nezasahují
+do našich procesů a podobně,
+ale data syntax je nás nějakých
+150, cca, jo?
+Když počítám i HR a tak dále.
+A furt zmíní to HR.
+Ale teďka vlastně z těch
+technických lidí to bude něco přes stovku.
+A v tom, že ne já, teď máme
+tuším 10 plus
+cca plus nějaký, řekněme,
+biznisový lidi, kteří jako tribe leady
+a tak dále, kteří se starají jako o ten chod.
+Takže do 15 lidí teďka tam
+jsme, no. Takže přes, no 15%
+vlastně těch technických lidí.
+Vem si, že tady prostě Románek tady
+programuje vlastně v F-sharpu vlastně jak dlouho
+a tady máš rok věc, která
+vlastně ten najednou dělá 15% firmy.
+To je masakra, viď? To nemůžete.
+Jako obratem to asi nebude, jo?
+A furt se to taky, já jsme v té fázi, že jo, prototypování
+objevování, no, ale tím, že opravdu
+každý se nás ptá a staví se jako už
+docela velký projekty, tak
+je záhodno asi ten tým budovat už od základu
+a soustředit se na to.
+Vlastně, my když jsme ještě
+se bavili vlastně s DataSynthexama
+v rámci toho AI předmětu, co jsme měli ještě
+v rámci cyklu Mohoš E, tak tam
+jsme se bavili vlastně o různých produktech
+a ty jsou jako součástí DataSynthexu
+nebo je to vlastně oddělená věc, jo? Vím, že tam byl
+nějakej scanner, faktur, taky
+zase pod tím byl nějaký AI-ko.
+To jsou věci, kterých máte taky v baráku, nebo to je
+naprosto jiná liga?
+Všechno, všechno máme v baráku, jo? Jak jsem říkal,
+my jsme projektová firma, takže se primárně soustředíme
+na velký zakázky, ale
+občas jsou nějaký pokusy udělat si interní produkt,
+jo? Pokud vidíme, že něco se
+opakuje u těch klientů, jo? Typický ten
+příklad byl Perzona
+360, jo? Že pro banky, pojišťovny
+a tak dále
+sbíráme různý features, informace
+o jednotlivých zákaznicích a na základě toho
+trénujeme modely a děláme
+nějaký doporučení třeba, komu dát
+půjčku a komu nedat a podobně.
+Takže to je Perzona,
+že jo? A když jsme to dělali u třetího, čtvrtého
+klienta, tak jsme si řekli, no tak jako už máme
+tu znalost, pojďme s tou udělat nějaký produkt.
+Jo. Ale je to spíš
+menší část té firmy, že vyloženě jdeme spíš
+je pravda, k tomu se musíme ještě vrátit, to nemáme
+v otázkách, který jsme si jako tak nějak připravili.
+Ale ještě jsi tam mluvil
+o tom rozdílu ML a
+jakoby toho klasickýho střihu
+toho data scientisty, tak to k tomu se ještě
+jako určitě dostaneme. Ale ještě by mě zajímalo
+jedna věc, jo? Ty jsi v podstatě
+architekt ve věci zase, která je tu rok.
+Jak vy nabíráte novýho člověka
+do týmu, když vlastně víte,
+že vlastně ta práce je vlastně úplně odlišná
+od toho data scientisty, přesně jak jsi to popisal.
+Vlastně ten model je hotovej, nepotřebuješ prostě
+experimentovat, hledat studie, tak jako tady
+Viktorové, Stepaníkové a jiní
+jako v rámci cyklu mu dělají, jo?
+Tak jak to vlastně děláte, když nabíráte takovýho člověka?
+Ale my se hodně soustředíme na juniory,
+že víme, že pro nás je levnější
+a ekonomičtější zkrátka si toho člověka
+vychovat, než jako tady jiným firmám
+přebírat jako seniory, to prostě neděláme.
+A takže ten
+junior často ani neví, do čeho jde, jo?
+A my se jako slušně zeptáme,
+ale je tady prostě, že ne, já i nechtěl bych
+se o tom víc něco dozvědět a jo,
+99%, nebo jedna holka řekla, že ne,
+ale zbytek řekl, že ano, že
+tohle vnímají taky jako budoucnost a myslím si,
+že tady ti mladší, juniornější lidi jsou tomu
+víc otevřenější, než právě ti
+seniory, kteří x let,
+desítky let dělají tady machine learning
+a teď najednou to vnímají jako konkurenci, že jo?
+Já jsem to studoval tyho deset let a
+a teď, a teď jako už
+nejsem ten cool kid.
+No a když bych
+chtěl naskočit do tohle trendu, stejně jako ty tví
+junioři, tak první krok,
+který vlastně i vyděláte v DataSantics,
+je jaký?
+Co se mám naučit? Mám se vrhnout do
+Pythonu, nebo pochopit, jak fungují
+jazykový modely, nebo načíst si
+APIčka, OpenAPI, nebo
+OpenAI, pardon, ne?
+Začal prvně úplně tím,
+prostě hrajte si s ČGPT,
+tam se se to naučil já, když jsem
+začal teprve chápat, co je
+ta přidaná hodnota, být takový ten v srdci
+ten geek, že si s tím hraješ, že jo, tady jsou
+ty limity, tohle už neumí. Já se
+třeba, já nevím, se tam dal svůj denník, že jsem
+si prostě zkoumal, co to dokáže z toho
+vytáhnout a na základě toho pak můžu
+designovat nějaký ty solučny.
+Smudal denník svůj, jako svoje data smudal.
+Tomu se pak můžeme vrátit.
+To by mě zajímalo docela.
+Ale pak jako určitě
+Python, že jo, takže seznámit se prostě s tou
+technologií, co to umí Python, protože to je ten
+jazyk, jako kterým mluvíme všichni
+u nás. No a
+pak jako, hele, máme vlastně
+celou akademii u nás, kdy
+já tam hášu nějaký články, co mi přijdou zajímavý,
+jo, jak vlastně se staví
+tady ty RAC architektury,
+ten Retrieval Augmented Generation, jo,
+takový to četování nad svýma datama, tak
+co všechno za problémy tam musíš řešit
+a vlastně taky trochu seznámení
+s Cloudem, jo, protože my to neděláme
+na lokálu, no, že my většinou jdeme ke klientovi
+a stavíme to u něj, takže
+pokud jako je klient v Azure,
+tak prostě se seznáme, jo, co je to storage,
+prostě co je to compute, jak to spolu souvisí
+a jak vláda píčka a tak dále, no,
+takže takový ten základ do toho.
+A dneska teda samozřejmě, že všechno se točí kolem právě
+toho četování, prostě nahrání nějaký
+jako knowledge báze, typicky jako ty říkáš,
+mluvíš tady o denníčku, to mě taky zajímá,
+u toho klienta samozřejmě to je nějaká dokumentace
+nebo něco, co prostě chci automatizovat.
+Jsou tam ještě jako nějaký jiný případy užití,
+který třeba s těma klientama už dneska řešíte
+a není to tahle ta klasická cesta
+typu nahraju tam data a chci se na ně ptát?
+Jo, určitě teď děláme
+hodně
+kóly, jo, tím myslím nějaký
+compliance nad bankovníma
+rozhovorama s klientem, jo,
+že prostě bankéř volá klientovi a
+vlastně ze zákona nemůže úplně
+tlačit do nějakých produktů nebo nabízet
+prostě nějaké služby a tak dále
+nebo dávat nějaký jako názor.
+Máme tam nějaký čeky, kde vlastně
+ten hovor se nahraje, přepíše se
+do textu a my ho pak proženeme tím LLMkem
+a vlastně ty jednotlivý čeky
+si mapujeme, jestli to tam zaznilo nebo
+nezaznilo. Jo, a každá banka vlastně
+má od České národní banky povinnost
+tohle dělat, kontrolovat, jo,
+ale teď si představ, jakou tu paní, která
+denně poslouchá tisíce kolů, jo.
+Super job.
+Novej job. Takže ne všichni to vlastně
+dělají, takže my jsme jim vlastně tady tohle trošku
+vyřešili, zautomatizovali a
+neříkáme, že to je stoprocentní, jo,
+občas tam samozřejmě něco vyhalucinuje,
+ale minimálně ti to flagne ten
+nebo označí ten hovor,
+kde je asi nějaký potenciální
+riziko a to už někdo jakoby projede
+manuálně. Otázka je, jak je stoprocentní
+paní, která to dělá 8 hodin v kuse a poslouchá
+a poslouchá už 150. hovor ten den, jo,
+to taky nebude podělat si. No, asi to nebude efektivní, no.
+A tam jdete po zvukový stopě
+nebo po transkriptu z toho kolu?
+Jo, my většinou dostaneme ten zvuk, tak si ho
+prostě vysprém, nebo nějakým jiným modelem
+chodíme do textu
+a jedeme nad tím.
+A výsledek teda většina vaší práce, když to
+chápu správně z toho produktovýho hlediska,
+je, že já přijdu buď
+do nějakého interního systému, nebo přijdu do nějaké
+webovky, klidně,
+a začnu si povídat s něčím,
+co vypadá a zní jako
+reálnej člověk alá ČGPT
+a začne mi dávat nějaké relevantní odpovědi
+na moje otázky v kontextu toho, kde teda jsem.
+No, jako to je
+docela zajímavý téma, jo,
+protože my jsme nikdy nebyli zvyklí dělat front-endy,
+nebo u těch našich nějakých
+produktů občas, ale my jsme
+datová firma, takže většinou, když děláme ty
+data-lajky a lake-housey a stavíme
+něco nad databrixem, tak
+to děláme pro datový lidi, jo, a ti úplně
+tam nepotřebují ten front-end, ale teď, když máš
+ten chatbot, tak hodně přemýšlíš nad tím
+UX-em, řešíš, jestli ta
+paní na pobočce se bude ptát dotázkama
+nebo bude chtít sumarizovat, vyhledávat,
+dáš jí to tam jako tlačítko
+nebo jí to tam necháš sepsat, teď jí musíš
+zaškolit o to, aby věděla, jak se to
+ptát, takže teď vlastně děláme
+ty front-endy, ale je to pro nás trošku
+nový, že, jak jsem
+říkal, já jsem dřív produktáka, takže
+furt mám takový ten UX product mindset,
+user-centric design a tady tyhle
+buzzwordy, takže nad tím
+solutionem jako přemýšlím, jak ho ten člověk asi bude
+používat, ale u těch jako vývojářů,
+zvlášť těch juniorních, to myšlení
+tam zatím není, takže
+toho samého sobě je hodně
+zajímavé. – Ale možná ze strany
+slyšeli jste o tom případu, já jsem to vyloženě
+viděl nahraný, myslím si, že to byla
+automobilka Chrysler, dala si na
+webovky svůj jako
+tenhle chatbot
+a lidi ho začali používat jako
+klasický CGPT zdarma, takže říkali
+vygeneruj mi Python script pro
+tohle normálně, jako
+to bylo úplně geniální, že vlastně lidi
+začali, věděli, že zatím je CGPT
+a začali to, neptali se na nový
+modely, jakou barvu mi doporučíš
+prostě k těmhle těm diskům a tak dále,
+ale začali ho normálně
+používat jako vlastní
+levnej CGPT pro svoje úkoly,
+což je úplně prostě geniální.
+Dá se tomhle zabránit?
+Částečně jo, ale jsme hodně opatrní, když klient
+dojde a řekne, že chce mít public chatbot
+pro své zákazníky, tak většinou
+se tak trošku kyselé usmíjeme,
+řekneme, že možná ne, protože i DPD tuším
+mělo nějaký teď podobný fopa
+a je to tím,
+že ty musíš doslovat do toho promptu
+třeba napsat, jo,
+ty si apka na recepty, neřeš nic jiného
+než recepty, jakmile se tě někdo zeptá
+na něco, tak prostě ignoruj, nebo
+řekni, že nevíš. Jo, ale i to jde vlastně
+nějak obejít, jo, že často
+ty máš nějaký ten systémový prompt, který
+definuje tu roli toho chatbota,
+jenže ten chat vlastně
+nebo ten model má omezený kontext, takže
+jakmile si s ním chatuješ dlouho, tak on pak jako
+po chvilce zapomene tu původní zprávu a zase
+to je vlastně chat GPT
+de facto, nebo GPT čtvrka.
+Že ty se ho tak jako overloadneš, až mu vyrezetuješ
+ten základní. Je to jedno z řešení, jo, a někdy je
+dobrý ten systémový prompt posílat s každou
+zprávou, takže je tam vlastně furt.
+Ale omezíš to v tom promptu, nebo
+vlastně v nějakým preprocessingu
+toho, co tam ten user píše, jo, že tam můžeš
+odchytit nějaký prostě závadný
+věci, nebo po processing
+vlastně to, co ti vrátí ten model, tak ještě
+odchytíš, jestli tam náhodou není
+něco takového, nebo jsou různý prompt injection,
+jakože, když máš navázaný
+na databázi, jo, tak někdo
+tam řekne, hele, dropní mi tady tu tabulku
+a je průsep, že jo.
+No já jsem viděl, že i někdo uploadnul obrázek
+a na tom obrázku bylo napsáno dropní tuhle
+tabulku, něco v tomhle stylu, a on vlastně
+si to z toho obrázku přečetl a vykonal
+to jako, jako kdybychom to napsal.
+Jo, jo, jo, jasně. Takže úplně
+jako prompt injection
+jak prase prostě, super. To je jediná
+chvíle, kdy seš rád, že máš málo zákazníků,
+nehodně, protože to může vytočit
+jako solidní věci. To je ano.
+No možná my jsme to vzali úplně tak jako
+už tady kolem toho blbne, ale
+myslím si, že pokud to poslouchá někdo, kdo není
+zrovna z Dušanova a tady
+z poliho ranku,
+tak byť o LLM slyšel
+a generativ AI je to denně kolem nás,
+bylo by možná dobrý si to jako lehce
+vysvětlit, teda co to
+vlastně ten LLM je
+a jak to vlastně zhruba funguje. Úplně tak jako
+kick. Tak hodně, hodně zhruba,
+jo, protože jsem víc biznisák, než technický člověk.
+Ne, LLM
+je vlastně machine learningový model
+postavený na nějaký
+transformérama, ale pomalu ani nevím,
+co to je, že jo. Ale
+je to více méně model natrénování
+nad obrovským množstvím textu, že prakticky
+vzali celý internet, ať už jsou to
+blogy, webovky, různý diskuze,
+různý legal documents
+a tak dále.
+A vlastně natrénovali ten model,
+aby v něm hledal nějaké souvislosti.
+A je to pravděpodobnostní model,
+což znamená, že ty do něj zadáš nějaký input,
+nějakou větu, odstavec, cokoliv
+a na základě pravděpodobnosti ti
+doplní vlastně ten nejpravděpodobnější
+token, který tam asi bude
+pokračovat v té větě. Takže v praxi
+to znamená, že ty máš obrovský
+dataset internetu, kde milionkrát
+bylo máma, mele, maso.
+Takže když do toho modelu pak napíšeš
+máma, mele, doplň, tak
+s větší pravděpodobností tam dá maso, než
+cokoliv jiného, nebo mouku.
+Takže záleží prostě, kolik toho textu se vlastně
+objevilo v tom původním datasetu.
+Tímhle ti vznikne nějaký ten
+foundation model typu
+GPT, nebo LAMA a podobně,
+který jdou pak ještě vlastně fine-tunovat
+podobným procesem, vlastně zlepšovat
+nějakým
+úkolům, nebo
+nějakým patternům, který ten
+output vlastně má.
+My jsme
+měli takovou, ještě v cyklu
+jsme měli takovou partnership konferenci
+někdy v září a tam byla výborná přednáška
+o tom, že vlastně ty large language modely je hrozně
+složitý, ne složitý, drahý udělat
+jako od začátku, ale
+že to vlastně jde hrozně dolů, že se to
+začíná prolevňovat, že firmy jako Bloomberg
+tam tenkrát se diskutovalo, že vlastně si udělají svůj
+large language model. Jak vidíš
+tuhle cestu, jestli to bude tak, že
+každý bude mít svůj large language model
+za nějaký čas, nebo jestli vlastně
+tuhle hru vyhraje chat GPT
+a nějaký další bardy a LAMY
+a podobné věci. Ale na to nedokážu
+odpovědět, protože dneska ráno jsem četl,
+že máš transformery, což je
+vlastně ta architektura tady těch
+současných large language
+modelů, ale pak máš nějakou
+Mambu, RNN, což jsou
+další nový přístupy, které se
+ukazují, že můžou být hlavnější a podobně.
+Ale všechno jsou to spíš zatím takové
+technické papery, ještě to není realita,
+protože fakt natrénovat ten model je strašně drahý,
+ale můžeme očekávat, že
+letos,
+příští rok přijde nějaká bomba, že
+je tady nová architektura a vlastně
+spadnou náklady třeba na polovinu. To se stát
+může, ale jinak samozřejmě probíhá
+primárně teď vývoj nad těma
+transformerama a tam se to
+vlastně, jednak ten
+hardwareový vývoj, kdo koupil akci
+Nvidia, tak ten se teďka směje,
+kdy prostě nejsou fakt jako ty GPUčka,
+takže ty firmy Microsoft a
+podobně staví vlastní čipy,
+aby vlastně vůbec to bylo levnější, ten samotný
+trénink a ta inference, ten běh
+toho modelu a
+pak dalších x takových jako menších
+úprav toho, jak to vlastně
+zefektivnit, zlevnit a podobně. Takže
+ano, ten trend určitě bude takový,
+že se to bude zlevňovat, ale nedokážu teď
+říct, že jo, jak, ale jde to
+vidět i vlastně na tom ceníku OpenAI, že
+vlastně ty ceny za ty modely prostě klesají
+co pár měsíců a jdou dolů a dolů.
+To jsme připomněli ještě jinou věc, já
+vím, že jsem četl článek někde, myslím,
+nevím, na jakém
+IT portálu, že Azure
+vlastně čeká na grafárny
+od Nvidia a do té doby
+nemůže spustit některý služby v některých
+regionech, jo, vlastně, jakože opravdu ta poptávka
+je taková, že se čeká, tyjo, jak za
+komunisty, ne za komunistů na pračku.
+Je to tak, my už to řešíme třeba víc jak rok, jo,
+že vlastně ty GPUčka začaly mizet,
+že jich nebylo dost, jo, a teď pro nějaký
+klienty prostě chceme vytočit GPT-4,
+která není ve všech regionech
+zatím, jo, právě z tohoto důvodu
+a pak jako Azure, i když s tím
+máme nějaké partnerství, tak nás jako posílá
+a prostě jdeme do Švédska, jo, že prostě tam je
+ještě trošku místo a...
+Tam se vás posílá jedna mama, to běžte do Švédska.
+Dobrý, no. Jo, že prostě už mají ve Francii
+plno, takže...
+To je hustý. No a dobře, takže máme
+large language modely, jak by si k tomu
+připojil ten druhý buzzword
+GNI, nebo jak si říkal Román, když to říká?
+Generative AI.
+Já se přiznám, my to používáme
+jako synonim, protože víceméně všechny projekty,
+co děláme, tak jsou LLM-ka.
+S obrázkama si trošku hrajem,
+jo, občas třeba naše grafička to hodí do presky,
+který bychom dělali, i když máme vlastně
+computer vision team, jo, hlavně
+ve vertikále
+manufacturingu, jo, takže pro továrny,
+nevím, příklad, vyjede plech
+z linky, že jo, tak se chceš jako ověřit, jestli
+tam není nějaká vada a podobně. Jo, na to
+máme vytrénovaný modely a ty nám fungujou skvěle,
+tak zatím tam nevidíme tu cestu,
+že by třeba GPT Vision
+tohle uměl nahradit. Na druhou stranu
+máme projekty, kde se
+skenují faktury a tohle už GPT Vision
+zvládá docela dobře, jo, takže
+než trénovat vlastní model, jo.
+Takže tohle jsou ty use cases, které
+pravděpodobně budou pomalu nahrazovat
+tu práci jako těch,
+nechci říct práci, ale spíš jako ten
+způsob, jak ten náš computer vision
+team funguje. Což je docela dobrý
+point vlastně, přesně
+tenhle ten startup
+představoval DataSynthex na tom předmětu,
+nezabije to takovýhle startup, který
+vlastně skenuje, vyskenuje ti
+vlastně fakturu, že jo, a rozseká ti to do
+databáze, že jo. No. Tak
+bude takováhle věc existovat.
+Teď tady umírají startupy jeden
+za druhým, takže vlastně vždycky každá
+OpenAI keynote znamená
+jako vytrhány vlasy
+několika tady foundrů, no. No, jasně,
+jasně. Jo, je to
+strašně rychlý, no. Hele,
+půjďme teďka na to masíčko, ty už ho
+trošku jako nastínil. Vlastně
+jak dneska vypadá proces,
+když chci vytvořit takovýhle
+jako GenAI produkt
+pro firmu, která prostě chce do toho nalejit svoje
+data, tak jak vlastně probíhá ten proces,
+protože dneska jsme byli zvyklí, že jo, že mám
+teda nějakou hromadu dát, ty jsou
+v těch je bordel, že jo, teďka jako udělám si
+na základě toho nějakou jako edu, že jo,
+tu explanatory data analysis,
+pak si z toho pak trávím mraky
+času někde, abych hledal studie
+a koukal teda, jak to má fungovat nejlíp,
+pak natrénu miliardu neuronek,
+většinu blbě, pak jako dojdu k nějaký,
+která teda dává smysl dobrý výsledky
+a mám výsledek, jo. Tak jak se
+tenhle ten proces, který jsem velmi vágně
+popsal, vlastně změnil tady s tou dobou
+a s touhle technologií? No, tak
+vlastně my jsme se doteď víc soustředili
+na strukturovaný data, že z něho vlastně čísla,
+měl z nějaký jako kolik
+kolik vydělává
+ten klient, kolik mu máme dát půjčku
+a podobně, což jsou všechno vlastně čísla, jo.
+A teď se začínáme bavit o nestrukturovaných datech,
+o textech, no ale vlastně ta
+pipeline, nebo ten solution, jak
+teďka funguje, tak je něco, čemu
+se říká RAC, Retrieval Augmented Generation
+a funguje to na tom, že
+ty vezmeš nějaký PDF-ko,
+prezentace, cokoliv, prostě přehodíš to do textu
+a ten text vlastně rozčankuješ,
+rozdělíš na nějaký
+kousky, jo. Může to
+být jako 300 znaků, může to být 900 znaků,
+záleží asi na tom use caseu.
+A tyhle ty čanky toho textu
+vlastně zavektoruješ do
+vektorový databáze, zaembeduješ, jo.
+Znamená, že ten text převedeš prostě do nějaké
+číselné podoby a tohle ti
+sedí v té databáze a pak přijde ten user
+a zeptá se na nějakou otázku,
+jo, co byla faktura XYZ.
+I tenhle jeho dotaz se zase
+zaembeduje a teď se vlastně porovnávají
+ty čísla, kde máš tu
+nějakou kosinus similarity,
+kde je vlastně nejpodobnější vlastně ten text
+z toho tvého datasetu k té otázce.
+Tohle se dotáhne, tohle celý
+se zabalí do nějakého systémového promptu,
+jo, který říká, hele, ty seš AI
+asistent, který mi pomáhá zodpovědět tuhle otázku,
+otázka je tohle, což je ten user input
+a tohle jsou ty data, který
+prostě, ze kterých to odčerpej, jo,
+který se tam dotáhnou. A tohle se pošle do toho
+modelu teprve a teprve tohle vlastně vrací
+model zpátky, tu odpověď tomu
+userovi. A je tam X věcí, kde se to vlastně
+může pokazit a jsem hodně,
+nemám rád tady takový ty
+marketingový check crunch
+články, či to máme tady novou appku,
+či to se svými daty, prostě to nemůže
+fungovat, jo, protože
+ten problém největší je vlastně
+v přípravě těch dat, jo, že nemůžeš ty data
+jenom takhle na prasáka nahrát
+a čekat, že ti to bude fungovat, protože
+když tam máš tři prezentace,
+kde jedna stejná informace je
+pokaždé jinak a ještě opačně, tak
+i když ti to, ty informace správně
+najde, správně ti je pošle do toho modelu, tak
+ten model neví, jako jak se s tím poprat,
+jo, takže tam je X takových různých
+malých detailů, ale je jich strašně mnoho
+na to, abys udělal fakt produkční
+appku, která ti odpovídá
+aspoň 9 z 10 správně.
+Je tam jako spoustu
+challenges tady v tomhle.
+Takže vyděláte to, že když takhle s těma datama pracujete,
+tak vy je kromě toho nějaké jako čištění,
+ještě teda k tomu dáváte nějaký
+anotace, vysvětlivky, dáváte to
+na pravou míru, posíláte vlastně k těm datům
+nějaký specifický metadata, nebo?
+Jo, my začínáme
+primárně tím, že máme vlastně nějaký
+discovery workshop s tím uživatelem,
+ideálně s těma koncovýma, co to budou používat.
+Že je strašně důležitý
+vědět, jestli oni chcou vyloženě
+sumarizovat, chcete prostě jenom
+vytáhnout něco z nějakého dokumentu, nebo
+fakt jako hledáte konkrétní informaci,
+nebo chcete vygenerovat novou smlouvu,
+to jsou všechno naprosto odlišné uskizy,
+na základě toho, že musíš upravit i ty prompty.
+No a u těch dat
+vlastně využíváme metadata,
+ty do té vektorové databáze
+posíláš nejen ten text, ale
+dám příklad, že máš
+výkazovky každý rok,
+takže my vytvoříme metadata
+per year, per rok,
+takže to znamená, že když ty se
+zeptáš, jaký byly
+výsledky prostě z výkazovky,
+tak ono ti to správně dohledá tu poslední,
+protože máš tam nastavené někde pravidlo, že
+upřednostňují dokumenty, které jsou
+vlastně z toho současného
+roku. Jinče, ale tohle už si tam musíš někde
+vyspecifikovat, že tohle je už vlastně
+ta inženýrská challenge a těchhle
+vlastně corner caseů tam může být celá řada,
+takže je to opravdu o tom
+pochopení vlastně té potřeby toho
+koncového uživatela, toho klienta, co
+on s tím chce dělat.
+Když jsme se bavili o tom trénování,
+musím se zeptat i na tu
+řekněme kvalitu, nebo na to, jak vlastně
+zjistím, že ten model je
+dobře natrénován. Jak to testujete?
+Netestujeme to vůbec.
+My prostě stačí, když se podíváme
+do benchmarku a víme, že
+GPT-4 zatím vyhrává, že teď
+dýchá na záda ten BART
+nový.
+A my vlastně teď to
+vnímám tak, že my jsme, nebo celý svět je
+ve fázi takového prototypování, objevování
+té value. Takže vlastně hned
+skočit do nějakého open source on-prem
+modelu, tak se trošku střídlíte do nohy.
+Ty první chceš najít vlastně,
+jestli ti to opravdu dává tu business value,
+jestli to funguje. Takže tam je
+nejjednodušší zkrátka prototypovat
+na tou GPT-4, protože ta ti rozhodně
+zatím dává ty nejkvalitnější výstupy.
+No ale pokud jako
+potom už jdeme vybírat nějaký open source model,
+že klient trvá na tom, ať to běží na jeho železe
+a to bohužel, nebo boudík
+typicky jako naše banky, klienti to
+takhle chcou, tak tam už
+na Hugging Faceu a tak dále máš různý
+benchmarky těch jednotlivých modelů.
+Takže tam se můžeš podívat, můžeš
+si ten model otestovat a dát tam pár promptů.
+Pak zjistíš, že vlastně vůbec nekomunikuje
+česky, takže pak máš zase další
+problém. Ale jo,
+koukáme na ty benchmarky, úplně nemáme nějaký
+jako evoluční dataset, který bychom takhle
+proháněli a testovali.
+Já možná ještě do toho vlítnu, ty jsi říkal
+Hugging Face, OpenAI
+všichni znají, ale co je vlastně Hugging Face
+za firmu a co dělají?
+To je model hub, něco v podstatě
+jako GitHub, kde máš
+repozitáře s kódem, tak tady máš repozitáře
+s datasetama, s jednotlivýma open source
+modelama, máš tam vlastně celou komunitu
+kolem toho, takže teď začaly taky obrovský
+boom, protože teď
+spoustu LLMek a různých
+embedovacích modelů a tak dále, tak
+najdeš primárně na Hugging Face.
+Já bych chtěl pro svoje kolegy
+IT vysvětlit, že příklad
+Hugging Face je ukázkový v tom,
+že ne vždycky na tom jménu
+záleží, protože pokud jste pojmenovali
+svoji firmu podle emoji
+a ona je tak známa a tak dobrá
+teď jako je, nebo prostě celý ten
+projekt, tak opravdu neřešte to jméno,
+normálně to hodíte do produkce a jdeme dále.
+Hugging Face to vždycky tlemím,
+když víš takový ten, jak má ty ročičky
+ovýmající, jak tento emoji.
+A přesto to může fungovat. A přesto to jede
+jak blázen, ty jo. To je jak firmy
+s ovocem, že jo?
+Dneska to dělá docela dobrý device.
+No a ještě vlastně
+mě inspiroval
+k otázce, jak dneska
+teda ten projekt vypadá teďka z hlediska
+zátěže jako na práce, jo?
+Teďka myslím, dobře máš tedy nějaký
+open AI API, že jo, například,
+ale teď jako brutálně času
+předpokládám jako fine-tunit ten model, jo?
+A teď jako
+kolik času to teda zabere, jo? Protože předpokládám,
+že jsou tam nějaký, jako přesně jak říkáš,
+Hugging Face, další nějaký standardy
+nebo místa, kde se můžeš inspirovat
+v určitých částech toho projektu,
+ale potom, když dostaneš ten
+konkrétní text, který má jako
+vlastně být
+tou šťávičkou toho budoucího
+uživatele, tak tam předpokládám,
+to začíná bolet.
+No a já si přiznám, že my zatím třeba vůbec
+nefine-tunujeme, že prostě za mě je to
+až krok číslo pět a dokud nemáš
+vyřešený ty první čtyři kroky,
+tak to nemá moc
+smysl, jo? Prostě říkám rád
+garbage in, garbage out, jo? Když prostě fakt máš
+v těch datech bordel, nemáš tam udělanou
+tu strukturu těch metadata a podobně
+a ty vztahy mezi
+těmi daty, tak vlastně ti je ten
+fine-tuning ničemu, protože fine-tuning tě více méně
+učí mluvit v nějakém paternu,
+jestli máš třeba nějaký žargon a podobně,
+jo? Takže vlastně to neřeší moc
+ten problém, jo? Takže když ti odpovím
+na tu otázku, tak my začínáme tady tím
+Discovery workshopem, kdy se fakt bavíme s tím klientem
+a pak vedle toho děláme tu infrastrukturu,
+takže jdeme do toho cloudu nebo na ten
+on-prem a nastavíme tam
+jo, všechny ty servisy,
+připojíme se na to APIčko, rozchodíme tam ty notebooky
+a podobně, uděláme tomu jednoduchý frontend,
+protože už od začátku chceš vlastně
+testovat, jestli to funguje, netestuje, kde to dá
+hážet ty chyby a vlastně ideálně si ji
+ukládat tady ty question answers, ty otázky
+a odpovědi, abys pak mohl zpětně vyhodnocovat,
+proč ti to třeba odpovědělo špatně.
+Takže prvně chystáme tu
+infra a pak se jdou čistit vlastně
+ty data. Jakmile tohle máme hotovo,
+což zatím nejmoc
+klientů takhle jako maturovaných, aby jsme se tam
+dostali, tak teprve pak si můžeme posunout
+do toho fine tuningu, což sám o sobě taky není
+nějak jako technicky těžký, jo, když to řeknu
+hodně blbě, tak v podstatě jenom pošleš JSON
+dataset, na kterým
+se zase vytočí, že jo,
+ta mašina a natrénuje
+a pak zase jenom testuješ, jo, takže pak
+řešíš možná nějaké verzování toho fine tunovaných
+modulů a tak dále, ale
+jak říkáme, to je až krok
+4, 5, 6. Takže se vlastně dostáváme
+k tomu, co jsi říkal, ten člověk by měl umět
+v podstatě nějaké jako DevOps, to je já v tom smyslu,
+že jako umí pracovat
+s cloudem a ten Python
+tam má potom pro to očišťování,
+transformaci a práci s těma datama.
+Jasně, jo, máme nějaký orchestrátor,
+používáme longchain, což je teď takový
+standard, jo, takový švýcarský nožík, který
+už má v sobě různý konektory
+na ty databáze a tak dále,
+na ty modely a podobně, takže to nemusíš všechno
+psát vanilla Python, ale
+pomůžeš si tady tou
+knihovnou a jo, takže
+tam vlastně děláš, my píšeme
+ve streamlitu ty frontendy, jo, takže
+prostě nám nedává smysl
+dělat nějakou React
+appku, protože v té první fázi si chceme
+jenom otestovat, jestli to fakt funguje, jo, takže
+když ti naši vývojáři umí v Pythonu, tak
+proč nevyužít ten Python, či jo.
+Jak to jde se streamlitem? Jenom pro diváky,
+pro diváky, pro posluchače, to je Románek
+mě zabije, ty, vlastně jsem řekl pro diváky.
+Streamlit je vlastně
+dílny Snowflake, je to tak? Jo, jo, jo.
+Jak jste s tím spokojený?
+No, Snowflake je tuším koupil, že jako, že to
+vzniklo jako samostatně. Jo, jo, je to
+jednoduchý UI, jo, konkurence
+nebo ekvivalent je Gradio,
+takže můžeš využít
+těch knihoven je víc, ale tohle nám přijde
+takový jednodušší, že prostě jenom tam chceme rozchodit ten chat,
+jo, jednoduchý interface, nechceme tam
+prostě řešit CSSka a já nevím co,
+takže tohle je na pár řádků,
+jo, to máš deset řádků kódů
+vyhodit prostě jednoduchý
+chatbot, nebo jednoduchý UI pro
+čemu to. A teď teda ta zásadní otázka
+jako když budu na to koukat jako klient,
+jo, takovýhle věci, tak
+je samozřejmě, že klient si ty věci rád
+zjednodušuje, takže bych hrozně chtěl, aby
+když teda zase je firma, která už to dělala
+u sedm jiných zákazníků, prostě
+je to nějaká, prostě vlastně
+ta hlavní chytristika je někde
+software třetí strany, když to tak řeknu,
+tak chtěl by,
+aby ta reusabilita byla co nejvyšší
+a to znamená, aby to fungovalo
+prakticky obecně, ale předpokládám,
+že to právě troskotá na tom, že musíš
+indexovat a řešit, prostě
+aby ten model dobře odpovídal.
+Jo, jako u nás
+v DataSynthex, jak to děláme, že my nestavíme
+žádný black box, který
+do kterého pak klient nemá přístup,
+takže my všechno stavíme vlastně
+u nich v cloudu,
+snažíme se to hezky zdokumentovat a pak
+vlastně ještě se snažíme i zaučit
+ty interní lidi, aby se naučili,
+jak to funguje, jak to nefunguje
+a přidáváme to a jdeme dál.
+Takže to, jestli
+to failuje na nějakých technologiích,
+který nemají povolený, u těch bank je to
+exotický, že
+všechno, co je v preview, v beta verzi,
+tak je zakázaný. Blbý je, že
+teď je jako celý svět jako v beta verzi,
+tady v tom LLM světě,
+takže já nevím, v Azure, Cognitive Search
+atd., někdy prostě to u klienta
+failuje, že zkrátka v tomto regionu
+to nemají povolený, takže musíme jít do dalšího
+regionu a podobně.
+Takže jo, to se děje, ale my se nesnažíme
+využívat nějaké exotické technologie
+a všechno jsou to více méně jako
+Python knihovny a tady ty
+standardní prostě cloudí servisy.
+No teď, jak jsme o tom Cognitive Search
+mi trošku nahráli na otázku, jaký je
+teda typický tech stack z cloudovýho
+pohledu? Jaký typický servisy
+používáte? Jo, tak ten
+Vector Store je základ, takže
+když jsme v Azure, používáme
+ten Cognitive Search, ale
+máš různý tooly
+třetích stran, jako Pinecone, VV8,
+pak máš vlastně Postgres, můžeš
+použít plugin PG Vector
+nebo Elasticsearch, který má taky nějaký
+plugin, který můžeš použít tady na to embedování.
+Těch vektorů, takže
+je tam celá řada, já jsem teď viděl nějaké srovnání,
+tam asi jako třicet různých vektorových
+databází, takže si vybíráme, co je
+open source, co nestojí nějakou dodu
+peněz a takhle.
+A pak jsi říkal, storage je...
+Storage, jasně,
+pak záleží, jestli ten model
+hostujeme, jestli třeba je rozjedneme v Databricksu
+a nějaký MLflow a tak dále,
+nebo vlastně jenom voláme APIčko,
+tím je to opak jednodušší.
+Storage, prostě kde
+logujeme ty věci a tak dále, kde
+většinou se dávají
+ty data, které pak jako padají
+do toho chatbotu, nebo se to integruje
+se Sharepointem a podobně.
+A to je více než, jako na to není
+nic moc sofistikovaného, takže vlastně
+takhle je ten základ asi.
+A to kdo teda leží kde, když to není moc sofistikované?
+Je to teda o tom garbage in, garbage out,
+to znamená postarat se o to, aby ty data byly
+v co nejlepší kvalitě, v nejlepším
+moodu. To je za mě asi to
+fakt to nejtěžší, co je třeba udělat,
+že postavit tu infrastrukturu, rozjet tam ten
+Python kód, nějaký ten orchestrátor, všechno to
+propojit. To už jsme dělali teďka desetkrát,
+takže my to jenom vezmeme v terraformu
+a zase to někde vytočíme. Takže tam
+ten problém není, ale teď jako opravdu
+je to v těch datech, že potřebujeme pochopit
+k čemu to budou používat a
+už se trošku opakuju, ale vlastně
+jdeme na ty data a
+důležitý je vlastně
+RLHF,
+Enforcement Learning from Human Feedback,
+to je takový to paleček nahoru,
+paleček dolů. My potřebujeme od těch uživatelů
+vědět, co jim nefungovalo, co jim
+fungovalo, jak jim vzniká ten dataset,
+na základě kterého my pak můžeme mrknout
+a říct, hele jo, tak tohle je
+blbý, protože ty data tam vůbec nemáte,
+takže vám to takhle nemůže odpovědět, nebo
+to potřebuje tak široký kontext, že nejsme
+schopni to teďka nějak jako rozumně
+vyřešit a podobně. Takže to v podstatě potom
+skončí tak, že vy tomu klientovi
+říkáte, hele, tohle ještě dokážeme
+nějak dotunit, ale tuhle část prostě pokud
+nám nedáte novej kontent, tak prostě mít nebudete.
+No, teď jako, my si ho nevíc
+co tam je v prstu, že jo, pokud to tam není,
+tak to tam není a nemůže ti to odpovědět.
+Já mám ještě jednu koncepční
+otázku. Obecně, učí se ty
+jazykový modely s tý interakce s tím
+zákazníkem, nebo s tím
+koncovým uživatelem, že bych časem vlastně,
+když se ptám na nějaký věci
+často, že on už ví,
+že když se baví s někým normálně, klasicky,
+tak když se ptá padesátej člověk na to stejný,
+tak už jsi otrávený, říká, už jsem to tady říkal
+49krát před tebou.
+A vlastně už i sám
+na tu otázku reaguješ jinak.
+Ale já, tak jak chápu ty jazykový modely, tak oni se
+v jednu chvíli vlastně vyrezetujou z toho se zpátky
+a když se ptá druhej strejda,
+tak ten jazykový model neví o tom,
+na co se ptal první strejda. Je to tak?
+– Přesně tak, že s každou tou interakcí novou,
+kdy vytočíš ten model a spustíš
+prostě ten chat, tak si nepamatuje,
+co bylo v tom předešlým. Ale je to řešit
+tak, že si tam vytočíš prostě nějaký redis
+nebo něco, kde storuješ
+ty pravidelný odpovědi
+a otázky odpovědi. Takže když se někdo často
+ptá, já nevím, na nějakou tu výkazovku,
+tak už to tam máš uložený a vlastně
+ten model ani neotravuješ, jenom pošleš
+to, co tam máš. Nebo vlastně to
+využíváš na ten fine-tuning, což
+ale děláš jakoby krokovi, že to
+neděláš jako real-time, ale že vlastně si vytvoříš
+nějaký ten větší dataset,
+ten pak vemeš a zase přetrenuješ ten model,
+tak ten model možná už trochu
+líp rozumí té otázce, kterou
+tam pravidelně někdo dával a líp odpoví.
+– Takže ho nemůžu zkazit já jako
+uživatel jedna jinýmu uživateli
+toho chatbota. – Zatím bohužel
+ne, ale bylo by to super.
+– Takže když jsou takový ty grafy,
+jak jsem někde viděl, že
+GPT, a myslím, že u tři a půlky
+to bylo takový téma, že vlastně
+hloupne, tak to bylo dané těma
+release-ama, nebo jak to vlastně funguje?
+– OpenAI jako často vydává
+nový release-y a dělá na pozadí
+nějaký změny, o kterých ti ani neřekne.
+Takže existuje něco, o čem se říká
+prompt drift, že vlastně ten
+prompt, který ti fungoval dřív, tak
+najednou háže úplně jiný odpovědi.
+Musíš to celý překopat, což je
+jeden z důvodů, proč třeba ty firmy
+chcou jít do těch open source modelů, protože tam máš ten model
+kompletně pod kontrolu a bude ti
+fungovat furt stejně, dokud do něj nějak nešáhneš
+a dokud ho nějak neupravíš. Ale toho
+OpenAI tím, že to pro prietery
+nemáš tam vlastně šanci se
+k tomu dostat a vidět do těch střev, tak
+oni si s tím můžou pomalu dělat, co chcou.
+Když se to snaží dokumentovat a
+verzovat, tak ne vždy všechny tady
+ty mini změny vlastně tam probublají.
+– Jasně, jasně. Ale co dneska
+dní máš jako největší omezení těch velkých
+modelů? Je tam něco, co jako si říkáš, tyhle
+to už by mohlo fungovat s tím všem, co to umí?
+– No, jako
+největší problém jsou ty halucinace, jo, že
+lidi od toho očekávají, že
+když neví, tak se opraví a podobně,
+což jde lehce ošetřit tím promptem,
+ale ne vždy, to je stoprocentní.
+A tam jako sam Altman,
+čiho z OpenAI teď hodně říká,
+že to je něco, nad čím hodně pracujou.
+Chybí tam ten reasoning,
+to znamená, že ten model
+neumí uvažovat, on fakt jenom doplňuje
+ten další token.
+Takže to je něco, nad čem se pracuje
+a jsem hodně zvědavý, co z toho bude, jestli to
+vůbec je ta cesta, nebo je to jenom nějaký sen.
+A jinak vlastně
+ten nedostatek GPUs, jo, těch grafických
+karet, že máš tam velkou latenci
+a máš tam velkou cenu zatím,
+protože jsou docela zajímavý
+vlastně solúšny,
+jo, Auto
+GPT, Baby AGI,
+což jsou nějaký vlastně takový
+proof of
+koncept toho, když dáš
+vlastně ten model si povídat sám ze sebou,
+že mu dáš nějaký role, že jeden je
+tady webdesigner, druhý je vývojář,
+druhý je produkták,
+dáš jim tu roli a vlastně řekneš, vytvořte mi
+web, oni si takhle pingají ty zprávy
+a je to vlastně, můžeš
+dostat kvalitnější výstup, než kdyby se zeptal
+takhle plain GPT.
+Jo, ale tam je ten problém, že
+když těch zpráv proběhne moc, tak
+ti to stojí a navíc jako čekáš třeba
+jako pár minut, než to vůbec se něco
+stane.
+No pojde, pojde. Mně jenom ještě napadlo
+jedna zajímavá fíčura od OpenAI
+jsou custom GPTs. Já jsem si to
+sám zkoušel, že si vlastně naučíš
+ten svůj pidi model na základě nějakých
+charakteristik chování. Vytvořil jsem si tady
+jednoho takového fejkovýho,
+hodně zatvrzelýho kolegu a fungoval
+fenomenálně, nebylo to pohled. Skvělý to bylo, posílal
+si to. Jak tohle zapadá do toho vašeho
+stacku používáte, nebo je to jenom hračka
+pro takový ty srandisty typu
+mě, který si to chtějí zkusit?
+No, je to takový vlastně mini
+format toho ragu, toho chatbota,
+co děláme my. Že tady v OpenAI
+nevím, jaký je ten limit těch filů,
+ale i když je tam nahraješ moc a jsou hodně hutný,
+tak se ti tam občas ty informace
+ztrácí. Že to nefunguje úplně dokonale,
+tak jsem si s tím hrál. Takže
+za mě je to spíš, kdyby jsi
+srovnával Excel a Data Lake.
+Že vlastně ty jako uživatel si můžeš
+hrát v tom Excelu a něco si tam
+vyplodit, ale není to určený úplně pro ty
+firmní věci. I když
+jako jde to propejt za píčkem, jdou tam dělat různý
+jako magic, ale zatím
+to vnímám prostě jako takovou hračku.
+Jsme zakeceli ten tvůj dejíček,
+tak jak jsi s tím pracoval?
+Hele, čitl jsem
+nějaký články a mně to přišlo strašně zajímavé,
+protože já si píšu denník 10 let digitálně
+a já vždycky jenom popisuju, co jsem za ten
+den dělal a podobně a někdy
+tam prostě popisuju svoje
+myšlenky a tak dále. Tak mně přišlo
+strašně cool jako nahrát tam celý svůj denník
+a zeptat se prostě, co jsou třeba ty
+otázky, které bych si měl položit, nebo co jsou
+věci, které přehlížím a tak dále.
+Já to jsem byl na vrcholu toho mého osobního hypeu,
+kdy jsem si myslel, že prostě tady ty modely
+jsou totální budoucnost a pak jsem
+strašně rychle vystřízlivěl, protože to házel
+úplný blbosti. Vlastně ten
+model nemůže vidět ten tvůj
+životní kontext, takže když já tam
+něco popíšu, že jsem, já nevím, si zapomněl
+oběd v lednici, tak on to vyhodnotí
+jako životně důležitou událost
+a podobně.
+A to je pravda, že jsem si hrál s tou
+třipětkou
+GPT, takže to bylo jak třeba rok
+dozadu, takže teď určitě ta kvalita je jinde,
+ale hodně nad tím přemýšlím, protože mě hodně baví
+spojovat vlastně tady ty technologie
+a nějaký osobní růst,
+rozvoj a tak dále.
+Takže vlastně terapie,
+coaching a tak dále, si myslím,
+že je docela budoucnost, neříkám, že to nahradí
+úplně ten lidský kontakt,
+ale mít takhle terapeuta 24 hodin
+7 dní v týdnu,
+tak je vlastně jako strašně super.
+Tak hodně přemýšlím vlastně, jaký data
+bys potřeboval do toho modelu dostat,
+aby ti odpovídal
+fakt jako kvalitníma, tailored
+jako na tebe, ušitýma
+odpověďma.
+Já si píšu denník a jsem ještě úchyl
+na osobní data, takže mám tady chytrý prsteny,
+chytrý hodinky.
+Koukám, to je Aura?
+Takže mám data o spánku,
+o tom, jak se hýbu, ještě si vypísuju každý den
+tabulky, jakou se měl náladu
+a kolik se měl piv, kávy
+a já nevím čeho.
+To mi přijde pohodě, to mi data sexuální se děláme.
+Máme je uchylárná vášiň.
+Takže vlastně
+teď můžeš z různých apíček dostat,
+co posloucháš za hodbu, co sleduješ za filmy,
+co slyšíš za knížky a najednou
+můžeš si udělat dataset, který je hodně komplexní
+na to, aby popisoval tebe.
+Když pak sepíšiš nějaké svoje cíle,
+hodnoty a tak dále
+a máš doma pod nohama na nějaký server,
+na kterém ti běží tvůj open source model,
+tohle mu naleješ, tak to si myslím,
+že by mohla být hezká budoucnost.
+Uplně vidím ten hologram zatím.
+Tohle je pod obnovy normálně, Dušan,
+bude být tady klona za chvíli.
+Na tím hodně přemýšlím,
+ale je to vlastně ekvivalenty pro ty firmy.
+Co vlastně za data ty potřebuješ,
+aby ti to dobře kvalitně odpovídalo?
+A v jakém formátu?
+Možná presky nejsou ten vhodný format,
+možná by stále za to z těch prezek
+vytáhnout ty informace do nějaký tabulky
+nebo něco takového, takže si vlastně hraju,
+ale zároveň tím pracuju, takže to je teď.
+To se mi úplně líbí, jak na tím přemýšlíš,
+protože vlastně to, co si kladu pořád
+za otázku, asi my všichni, co se kolem toho
+tmotáme, je, kam to půjde dál.
+Jak to tomu lidstvu může pomoct
+teďka v příštích, vlastně nevím,
+za rok, nebo nevím.
+Protože dneska je to super pomocní
+při řadě věcí.
+Mnohokrát mi to pomohlo už při prezentaci
+a při různých věcech,
+ale kam se to bude posouvat dál?
+Jestli to bude tajitou cestou, jakou popisuješ,
+čím víc dat o mě bude vědět,
+tak tím víc je mi schopno pomoct i třeba v rámci
+té psychologie. Nebo jak to vidíš?
+Já tam vnímám
+více rovin. Jedna ta rovina je,
+že teďka Apple, Samsung, Microsoft
+všichni pracují na nějakých vlastních modelech,
+které chcou integrovat přímo do tvýho
+Macbooku, mobilu a tak dále.
+Takže si myslím,
+že bude do roka, že se čeká, že třeba
+Siri už nebude jako tupý asistent,
+ale bude opravdu kombinovat různý
+apky do nějakého flow.
+Takže řekneš, hele,
+hey Siri, ve mi, všichni
+mají kontakty, ty hoď do tabulky,
+vyplň tam maily a LinkedIn profil.
+Což je x různých aplikací
+a služeb, který ale vlastně můžeš jednou
+takhle říct, ano, se ti to udělá
+na pozadí. Tam si myslím, že to bude
+směrovat a pak teď je otázka, jestli
+budeš potřebovat nějakou UI
+ve Wordu třeba, jestli prostě s tím
+nebudeš fakt komunikovat skrz chat nebo
+skrz slovo. Takže vlastně
+budou pak potřebovat apky, co budou apky.
+Budou mít nějaký UI nebo to.
+To je hodně zajímavé nad tím přemýšlet.
+Neopak samozřejmě ti asistenti,
+není to jenom o osobním rozvoji,
+ale nějaký fitness coach, ale i kariérní coach
+nebo zkrátka seš
+na mítingu, tak ti to vygeneruje
+tvoje tásky, co se tam probíralo
+nebo máš ještě nějakýho
+kariérkouček, který ti říká, hele příště bys měl
+na tom mítingu říct tohle a tak dále.
+No já ti řeknu, kdy se to stane
+úplně, že to bude špička a to jak je teďka
+ten trend, že ty lidi se natáčejí při těch layoffech,
+aby zaznamenali tu svoji
+první reakci, tak až tě
+bude vyhazovat AI. Až tě nezavolá
+už tvůj manažér, ale vyloženě, tak jako byl
+George Clooney v lítám, to jak
+oblítal Ameriku a vyhazoval lidi, tak to byla
+ještě, to byla stará doba. Teďka bude
+objíždět Ameriku AI a normálně tě vyrazí.
+A ti to řekne hezky, že jo?
+Hezky ti to řekne, že jsi dobrý.
+Se analyzuje, jestli je to moje chyba nebo ne,
+jasně to je moje chyba přesně úplně.
+To ti říkám, že to bude ta topka.
+Ale já si myslím, že to, no to je, my jsme téměř
+Tomáše Mece, že jo? A on tomu trošku
+povídal, jak jsou ty naštvaní lidi,
+jak volají na to, no to ne,
+ale jak voláš na to
+call centrum, úplně naštvaný,
+že ti nefunguje ten George,
+a proti tomu je teďka ta plechová huba
+a hrozně dobře ti odpovídá, vyřeší ti ten problém
+a ty se najednou úplně uklidníš.
+Úplně jako není najednou žádný problém.
+No tak to je zajímavý,
+no ještě jako vlastně
+třeba v případě toho Appleu mě hrozně zajímá, jak půjdou
+do toho zdravotnictví, že jo, oni se tím jako hodně profilují,
+protože tam je těch dat miliarda
+a přesně to, co si popisoval
+u toho denníku, že to nemá ten kontext,
+když Apple jako začne sbírat spousta dat,
+tak jsem zvědavej, jestli to teda začne jako ve velkém
+měřítku pomáhat.
+Ty nemůžeš jako ze svého
+iPhoneu ty data dostat pryč,
+nebo respektive oni se nikam, můžeš jo,
+když si postavíš nějakou vlastní apku,
+nebo použijíš zkratky, já už jsem to zkoušel několikrát,
+ale vlastně oni ty data
+nikde neagregují. Já si myslím, že síla
+tady těch dat je, kdyby byly všechny
+nějak anonymizovaný
+podobě někde
+na nějakým cloudu a nad tím teprve by se
+jako dělali velký jako datový čáry.
+Pak je otázka, jestli by to jako vyřešili
+nějakým jako pěkným startupem,
+který koupí, začnou tam lifrovat ty data
+jako se svolením toho zákazníka,
+který ty data, jak říkáš přesně, má jenom
+tomu mobilu. Těžko říct, no.
+No tak rengeny a tyhle ty věci, nebo ty
+CTčka, když hledají, tam už to frčí.
+Tam už to frčí, no. Tam už jako kolikrát
+ten doktor jako už dostane vlastně s tím rengenem
+i výstup, jako kam se má zaměřit, na co se má dívat.
+Což je pecka, podle mě. Což jako věc,
+která by se měla, protože osobně jako
+rengen, ať se svítí, mě to je jedno, když to není,
+když je u toho IDčko, tak ani neberu,
+že to je můj rengen, že to je osobní údaj.
+To bych tam rubal od rána do večera
+tyhle daty osobně. A ještě teda
+by the way, jak jsi zmínil tu Syrio,
+tak já jsem měl doma asi šest let
+Google Home, tak
+minulej týden jsem ho slavnostně vyhodil.
+To byl, to už byl tak vytočenej.
+Protože tím, jak máš to měřítko
+s tím... Počkej, nebo já ti udělám
+z kategorie osobní zpověď
+Petra Poláka. Děkuji, děkuji. S tím, jak
+máš jako to měřítko s tím chatem GPT,
+který je opravdu jako schopnej s tebou,
+jako vej to moje parťák, tak
+tohle je úplně blbý, jo, úplně blbý.
+Takže a už mě to ani neposlouchalo na ty věci
+jako doma v IoT, takže jsem to vyhodil.
+Nakoupil jsem Alexu a ta funguje
+fantasticky. Ne jako chat GPT,
+ale jako na ty IoT věci, jo.
+Tak jako až tyhle z ty věci budou vlastně
+s tebou komunikovat tak, jako si doma
+povídáš se ženou a bude to umět vlastně ten
+model typu chat GPT, tak pak
+to bude úplná věc. No tak to budeš jak v tom syfíčku ona,
+že jo, tak se do toho zamiluješ prostě, budeš mít
+jako intimní vztah s AI. Je to možný, jako nelíbí se mi to úplně,
+jako nemám úplně k tomu, jako no, jak říkáš
+intimní vztah, jo. To bude velký
+business, AI, girlfriends, to
+jako hlavně v azijských zemích
+teďka docela frčí. No oni jedou
+i ty, že jo, teďka jedou i ty influencery,
+že to už není to, že si dáš doma
+kameru a budeš prodávat nějaký výrobky,
+oni mají normálně celý farmy AI,
+jako generovaných influencerů
+a ty prodávají prostě počíně
+všechno možný. No to je ono, to je ono.
+To je úplně masakr, ta Azie v tomhle tomu je jako jinde, no.
+Jsi vyšlív, že máme
+spousta takých jako futuristických témat
+dneska, jo, že to tady jako většinou není,
+že většinou jsme víc při zemi, ale tak je to daný
+tím tématem samotným. Ale
+dneska samozřejmě ty tvoji lidi v tom
+týmu potřebují Python a potřebují
+potřebuji zase umět programovat, i když si ten
+kód možná někde vygenerovali zase tím četem.
+Ale jak to vidíš,
+jak to, jako máš představu, že v té
+budoucnosti nějaký blízký to bude tak,
+že opravdu ty lidi to budou přes nějaký
+UI-ko klikat a vlastně nebude potřeba
+programovat, nebo jak může vypadat
+ta práce za x let, jako v tomto tom oboru?
+Já si myslím, že to je hodně reálný,
+jak jako říkáš, že vlastně z těch
+vývojářů se stavou takový architekti,
+kde místo té syntaxe toho
+kódu vlastně jenom říkáš, co
+chceš dělat. A
+já to používám hodně, protože já nejsem
+úplně jako vývojář, ale prostě umím něco
+v Pythonu a teď jsem potřeboval něco v
+JavaScriptu, nějakou utilitku,
+tak jsem prostě to, jako řekl,
+co chci, že ono to nefungovalo,
+tak jsem to zadal tu chybu zpátky,
+že jo, teď se opravil, zase to nefungovalo,
+opravil se po třetí a už to jelo.
+A vlastně teď ten trend, kam to směřuje,
+je nějaký self-healing, to znamená, že já už nebudu
+muset ani, můžu říkat, oprav se,
+že už se opraví automaticky a podobně.
+Takže vlastně veškerý to flow,
+který máš od psaní toho kódu,
+až po vytváření PRK,
+se bude dát nějakým způsobem
+zautomatizovat. A stejně jak
+dnešní vývojáři nedělají s jedničkama nulama
+v ensembli a tak dále,
+ale píšeš Python, tak prostě ta další generace
+bude komunikovat možná.
+No to jsem chtěl říct, že
+to celou dobu programování
+je o tom, že říkáš to, co vlastně chceš.
+Že akorát vždycky to bylo tím imperativním
+stylem, protože jsi musel přesouvat prostě ty bajty.
+Teď už je to hodně deklarativní
+a jsou deklarativní jazyky. Tohle bude jenom další
+krok, že budeš prostě více a více deklarativnější.
+Že řekneš jako, staníš se
+a neřekneš už jak.
+Jasně. Je to skvělá flow toho, že
+vlastně se nebrzdíš tím psaním toho kódu.
+Já jsem si teď dělal zase vlastního četbota,
+že jo, na té mé
+geekovské srdce. A
+dělal jsem to v Reactu. Já neumím v Reactu.
+Ale vím jenom takový ty základy, jak fungují
+komponenty a podobně. A dělal jsem si
+rychlý kurz na YouTube. Ale vlastně
+s četem GPT to úplně jako v pohodě
+zvládám. Že vlastně jenom, aha, tohle chci
+jinak, tohle přepiš.
+A vlastně nebrzdím to svoje flow.
+Ten tok těch myšlenek, jak to chci stavět.
+A pak je to vlastně
+totální flow. To je totální radost, že ho pak něco
+budovat a to.
+A to vlastně naloze na tu další otázku,
+jak bude vypadat Románkova práce za pět let.
+Teda Román jakož teda dneska
+taky moc neprogramuje, ale
+pořád je to hlava na ty, jako, jo,
+vlastně vždycky, jako, ty architekti
+samozřejmě logicky dělají ty nejkomplexnější věci
+a ty mám pocit, že ty tam jako vždycky
+jako nejhůř pasovaly, jo, do toho, do toho
+třeba do toho četu GPT, protože
+vlastně umí to jako vyhnout na tu jednoduchost.
+Ale předpokládám,
+že ta cesta bude asi tam,
+že to bude zvládat čím dál komplexnější
+ty úlohy.
+No, to rozhodně.
+Nedokážu si úplně představit, jak bude
+fakt jako vývojáři za pět let,
+za deset, ale jak říkám, bude to
+fakt opravdu spíš o té orchestraci
+těch myšlenek,
+těch funkcí, co má ten kód vlastně dělat.
+Jo, udělat UI už teď je
+více méně jednoduchý, že popíšeš,
+že hele, chci tady nalevo sloupec,
+chci tady mít jako graf nebo něco
+a pak asi
+určitě se bude furt hodit mít nějaký
+znalosti klaudu zatím, jo, protože
+běží to v nějakých servisách, takže
+co k tomu potřebuju, ale myslím si, že v budoucnu
+už ani to nebudeš potřebovat, jo,
+že jenom řekneš, hele, já chci tady
+apku, která mi tady oběhá
+restaurace v okolí a podívá se tady na meníčku
+a to mi vyhodí tady pod tu urlo
+a tohle bude tvoje zadání a zase
+za deset sekund máš prostě hotovou aplikaci, jo.
+No jasný, jasný, takže to bude
+zesložitěvat a Románku odpověď teda na to, že
+ty budeš říkat prostě už jenom, tak ty už
+teď ne, ale za pět let určitě Aničko, přines
+mi prostě kafe a Anička bude AI
+samozřejmě. Jo, ale to kafe bude
+doufám reální teda. No to jo, to bude, to bude,
+no, ale tak ty jako velký zvíře teďka už
+rozumíš, už jako toho moc neprogramuješ.
+Prosím tě, ještě se zeptal
+Dušane na jednu věc, určitě si
+zaznamenal, že myslím si, že minimálně
+v českým právu teďka
+vlastně z pohledu
+nebo řekněme z pohledu zákona,
+pokud si něco zadal
+do AI, tak vlastně ten prompt jako
+takovej není autorský
+dílo, nedá se chránit.
+Teď jsem něco zaznamenal, možná to říkám blbě, jo, když tak
+mě vy, tak jako dva stovly si tak mě opravte,
+ale nevím, jestli to je, jestli to
+bylo jenom na úrovni
+českýho zákona, ale vlastně
+si nemůžeš dát jako copyrightit, když si
+jsi nechal vygenerovat plácnu z Midjourney,
+nebo z něčeho jsi nechal vygenerovat obrázek,
+tak ten samostatný vstup do toho promptu
+není něco, co by si
+mohl mít pod copyrightem,
+že to je tvoje autorský dílo.
+Jak na to kouká
+vlastně jako tvůj obor, teďka
+Dušanek, když asi spoustu věcí
+je o tom, že vy připravujete prompty,
+připravujete tyhle ty věci?
+Já si myslím, že u těch textových věcí to není
+zase jako tak zásadní, protože tam je to,
+že ono je napojené na ty tvoje data, takže jestli
+tam napíšeš prompt, chovej se jako
+AI asistent nebo něco, asi není nic,
+co by si chtěl prostě někde patentovat
+nebo něco. Ale u těch obrázků
+určitě to je
+důležitý, nebo respektive
+když si s tím hraješ opravdu jako stovky
+hodin a mazlíš si ten prompt, tak to jako
+docela je ta práce, že
+teď otázka, jestli si chceš vlastně
+ochránit ten svůj prompt
+jako autorské dílo nebo ten samotný
+obrázek. Já už jsem četl x článku,
+kde prostě se žalovaly všechny strany
+navzájem a vlastně nevím teď, v jakým je to
+stavu a vůbec ne, vlastně tady v tom českým.
+Ale asi důležitý říct, že
+se chystají i videa, což
+už je prostě ještě mnohem dál,
+než ty obrázky a už tam
+ten člověk může vtisknout
+něco, nějaký toto svoje autorství a podobně.
+Tam bude zajímavý třeba to sledovat,
+co z toho bude. Nebo jako gaming industry jako takový,
+že bude teď hodně olivněno
+těma to technologiema, tak co je té firmy,
+co není té firmy, která tu vytvořila
+a podobně. Já mám pocit, že logicky
+ta technologie zase předběhla minimálně
+legislativu. – No tak no, to u nás není problém.
+– To mám pocit, že jako asi všude.
+– To u nás je tady 602 předběhlo legislativu.
+– Asi tak.
+Takže tam ještě si myslím, že se to bude dlouho
+ladit, jako jak na evropský, tak na český úrovni.
+Ale doufám, že se to vyřeší
+tak, aby jsme zase nezaustávali
+za tím zbytkem světa, protože to z toho se
+trošku bojí. – To uvidíme.
+– Ještě mě napadá, jsme se kolem toho
+tak jako motali, ale takový to
+jako ML Ops,
+který vlastně stojí vůbec za
+postavení té pipelany někde v cloudu.
+Je to něco, co berete jako
+skill vlastně každýho
+nějakého inženýra u vás v týmu, nebo
+máte na to nějaký speciální role, případně jak nad tím
+přemýšlíte? – Jo, my máme celou
+guildu na ML Ops, kterou
+vede kolega Milan a dělá
+tady prostě ty technické artefakty, jako
+architektury a různý prezentace.
+Snažíme se vlastně dostat
+z toho světa tu best practice a nějaký
+zmotnit, když přijdeme k novému klientovi,
+abychom mohli jako replikovat tady ty věci.
+Takže tam má celý tým
+vlastně lidí a teď vzniká něco,
+čím říkáme LLM Ops, což je
+vlastně podmnožina toho ML Ops, která se liší
+v určitých ohledech, ale vlastně to je
+zase teď moje práce, taky postavit nějaký ty
+artefakty a tak dále, přepoužitelnost
+tady těch věcí. No a my obecně
+jdeme tím stylem, že
+my vlastně stavíme více méně
+platformy, ve smyslu,
+že když už dojdem k velkému klientovi
+a nějakým mezinárodním grupě, která
+má x různých poboček, tak ty
+řešení stavíme tak, aby mohlo jeden
+nějaký department nebo
+jedna ta země přijít a vlastně postavit
+si tam svůj machine learning use case.
+Že máte tu infrastrukturu postavenou,
+ale děláte to vlastně use case.
+Já to tohle podobné chcem dělat právě u těch LLM,
+že máme vlastně ten základ té platformy
+a ten tým přijde, jenom si tam vyběhá
+nebo jenom si tam vytvoří nějaký to jednoduchý
+UI, připojí se k nějakému modelu
+a pak už si píše vlastní prompty a jede
+si to svoje.
+Super, super.
+No a vlastně to, nad čím jsem přemýšlel
+celou dobu a trošku jsme si vlastně odpověděli je,
+jak těma dle všema aktivitama,
+které tady vznikly za poslední rok,
+vlastně trpí ten tradiční
+svět toho data science. A teď myslím,
+ten, který jsem popisal na začátku,
+máš specifický problém, který není s
+nestrukturovaným textem, ale
+nevím, může to být nějaký jako computer vision
+problém, nebo jako problém přesně nějaký
+jako tabulárník dát, jako fraud detection,
+takový ty klasiky. Je to
+něco, co vlastně teďka totálně
+jako vyzmizíkoval tenhle ten trh
+novej, nebo máš pocit, že to
+prostě žije nějak při sobě pořádál?
+Určitě to žije, to jako my jsme vůbec
+nepolevili v tom, co děláme, že tam
+furt potřebuješ data
+natrénovat nějaký machine learning model a tak dále,
+takže furt je ta práce těch data scientistů
+třeba. Možná si zjednodušují
+ty práce tím, že požívají prostě GitHub
+Copilot nebo něco a
+generují si ten kód,
+ale možná to, co ubližuje, nebo nevím, jestli
+vyloženě ubližuje, ale je ten obrovský hype
+a všichni, když se teďka baví o AI,
+tak se baví o LLM-kách nebo
+o obrázcích, což
+vznáší občas takový jako zbytečný šum.
+Na druhou stranu nám se z ničeho něco
+zvalo spoustu klientů, který jako v životě
+o AI nepřemýšleli a najednou
+to začínají řešit. Takže
+má to své plusy, minusy,
+ale myslím si, že to bude tak
+jako koexistovat mezi sebou,
+protože LLM-ka ti moc nepomůžou
+se strukturovanýma datama. Takže když děláme
+machine learning model na fraud detection,
+aby jsme detekovali,
+jestli někdo neplatí tvou kartou v Hondurasu
+a podobně, tak
+vlastně tam to LLM-ko nějak
+nemá jak pomoct. Takže furt jsou
+důležitý obě ty roviny a co se
+my snažíme dělat, takže to vlastně
+propojujeme, protože
+aby jsme byli jako konkurenceschopní, tak určitě dává
+smysl, když už stavíme nějaký produkt nebo projekt,
+tak propojovat tyhle dva světy dohromady.
+A nešlo by to, jako nešlo by udělat
+prostě prompt postavený
+právě nad těma tabulárníma
+datama tak, aby to vlastně vytvořilo
+select pod tím a doptalo se to na něco.
+Jo, typicky, já mám pocit, že potom
+jako prahne ten top management.
+Ten by hrozně chtěl, že prostě
+kdo v České
+spořitelně v Horní Dolní prostě
+včera si udělal nový účet.
+A tohle bych prostě rozhodně
+každej z boardmembrů
+chtěl prostě slyšet.
+Tohle přesně děláme, to je přesně ten, jak jsem popisoval, kombinace
+toho klasického machine learningu
+a té vrstvy toho LLMka.
+Že tím klasickým machine learningem
+napočítáme nějaký ty features,
+máme nějaký machine learning model a ten zase říká,
+jaká je ta tvoje probability
+to buy, to invest a tak dále.
+Ale teď přijde ten biznisák
+a vlastně vidí tabulku dat.
+On si to nechápe, tak napíše dotaz
+v angličtině a LLMkomu to přeloží
+prostě na nějakou query ve SQL
+a dotáhne mu ty data.
+Takže vlastně projekt, který kombinuje
+obě tyhle stránky.
+Takže v podstatě tak, jak tě slyším
+a vlastně to mám taky, mám podobný pocit,
+že naopak to možná
+vytáhlo a pomohlo těm klasickým AI
+projektům, který jsme tady třeba v CNQ
+tlačili pět let a prostě všichni říkají,
+no ještě na to nejsme ready, to je AI,
+víte co, ještě to není. Tak vlastně,
+jestli se to nesvezlo naopak s tím
+a vlastně teďka ty projekty, či já už
+v tom světě úplně teďka nejsem,
+jestli to vlastně bude přinášet ty oportunity
+i pro ty klasický data science
+casey, který dřív prostě spaly.
+Jo, rozhodně, jakože my, hale, nám
+otevřou dveře, tady je LLMka,
+my dojdeme do té firmy, ale pak,
+hale, vy vůbec nemáte data Lakehouse, máte tady
+Board of Data, jak prvně musíme udělat tohle, jo,
+a když jim to vysvětlíme, tak klient jako kývná
+jde do toho, takže víceméně děláme zase
+to, co jsme dělali předtím, než se vůbec dostaneme
+tady k nějakým četbotům a podobně.
+Takže klasický trojskej kůň do firmy,
+prostě, jo, vy chcete LLMku, jo, a by the way,
+ještě vy nemáte pořádek v datech a tak dále.
+No, ale to většina firmy má pořádek v datech,
+takže tam není žádný jasný, že jo.
+No super, no a ještě
+ta jako taková otázka na závěr
+jako sekci Data Science,
+vy dneska třeba, jaký jsou ty case,
+jo, jestli jsou tam třeba nějaký
+konkrétní industries,
+na který se zaměřujete
+a jestli to dneska máš pocit,
+chytá nějaký trend, jo, typicky já jsem mluvil
+o tom zdravotnictví, jo, finance samozřejmě se nabízejí,
+je tam nějaký takovejhle trend?
+Myslíš teď v rámci těch LLMek nebo obecně?
+V rámci obecně, obecně, já nevím,
+že to je. Obecně, že uděláme to, kde jsou data,
+jo, takže to jsou FSI, tedy
+Financial Services, jo, banky,
+insurance, pojišťovny a tak dále,
+takže tam to je asi
+stěžení jakoby vertikála,
+druhý jsou retail, takže e-shopy,
+který mají data a tam taky začínáme
+aplikovat LLMka do nějakých jako
+nákupních rádců na e-shopu a podobně,
+health, jo, to je prostě
+takový, co chceme dělat všichni, protože to má ten
+impact, jo, takže tohle je zajímavý
+a manufacturing,
+jo, kdy děláme, jsem mluvil
+o Customer 360, tak máme
+Factory 360, jo, kde máš nějaký
+různý digitální dvojčata a ty data
+o té výrobě, tak, aby si dělal efektivně,
+takže i tam prostě tohle má smysl.
+A tam všude jdou ty LLMka taky
+narvat, že jo, je to prostě o tom, že máš
+strukturovaný data, ale nerozumíš jim,
+LLMko tě může jako přechroustat
+v tom způsobu, že nad nimi můžeš četovat a podobně.
+Jsou tam nějaký zajímavý
+příklady užití, protože já vím, že třeba
+existoval start-up
+Neuron Soundware, se to jmenovalo,
+nebo nějakou takovou nesmyslnou cenu.
+Jo, jako v dobách starých diske, když to začalo dělat
+tu-tu-tu-tu-tu, tak se dělal, že už to
+nenainstaluješ. No, přesně, přesně.
+Tak vidíš, ty jsi taky Neuron Soundware.
+Ježíš, varia.
+Tak v podstatě tady to pozná jako velmi
+detailně, nebo třeba i u auta,
+a vlastně ten člověk, který se tomu
+jde 30 let, tak to pozná hůř, než takováhle
+věc, jo. No. Sorry.
+Je to jako skoro takový
+z cify, jo, že taky sleduju na internetu
+jich gest, jako může poznat náladu
+a podobně, takže tam taky bude obrovské
+využití pro to zdravotnictví,
+ale my tohle neděláme, tohle jsou jako hodně
+specifické jako využití, že jo, takže
+my spíš jsme takoví ti generalisti, kdy
+staví jako tu infra pro to,
+aby mohli naběhnout tady tyhle firmy
+a využívat ty data jako tady
+k dalším use case.
+Makes sense. To je pan Lorenz
+ze servis, teď jsem si to vymyslel, ten produkt.
+Unesu to.
+Koukne se vision, spočítá tu váhu,
+řekne, jasně, co to mu je,
+poslechne si, no, to já mám chrochtářemen,
+to je jasný. Ten svědák byl prostě nadčasový,
+jako vždycky, úplná klasika, úplná klasika.
+Hele, Poli, já to vidím,
+vždycky, když
+máme klasický díl, tak já ti
+nechám vám tu závěrečnou otázku,
+aby jsi tam něco řek, dneska,
+když jako dovolíš, bych si ji vzal já,
+můžu? Můžeš do toho, můžu. Tak prosím tě,
+dušene, závěrečná otázka, než se rozloučíme.
+Co máš v plánu blízké,
+či vzdálené budoucnosti?
+Tak určitě se dál rozvěd
+v této oblasti, přijde mi to strašně zajímavý,
+nejen jako po pracovní strance,
+ale i po té osobní, a myslím si,
+že důležitý skill bude naučit se psát,
+a jak jsme se o tom hodně bavili,
+připsát jako jak? Psát, jako dostat
+ze své hlavy vlastně ty myšlenky
+na papír, nebo prostě říct.
+Jo, takhle. Jo, protože jak jinak
+budeš s těma toolama komunikovat,
+že jo, potřebuješ tu informaci sepsat,
+takže jako nějaký svoje hodnoty, svoje cíle,
+bez toho ti ten asistent fungovat nebude,
+tak to je třeba teď můj osobní cíl,
+víc se naučit psát a něco publikovat klidně.
+A to se dělá jak? Máš k tomu
+už nějaké typy, jako že musíš třeba víc číst,
+nebo tak? No tak to určitě, já jsem čtenář,
+jako vášní ví, ale teďka, jo,
+je spousta knížek, které je jak dobře psát,
+dá jak strukturovat prostě myšlenky
+a tak dále, takže to je takový velký
+témat teďka. To je zajímavý, zajímavý
+jako tip na závěr vlastně pro vás
+všichni přátelé, kdo se chcete zlepšit třeba
+v prompt engineeringu, si naučit se lépe psát.
+No. To je vlastně jako možná
+ta budoucnost.
+No to je stop, to úplně zakoňčilo, tak já už můžu
+jenom Dušanovi poděkovat. Taky děkuju.
+Moc díky Dušane. Díky, děkujeme.
+Ať se daří. Mějte se hezky. Čau. Čau.
+Tak to byl Dušan Vystrčil
+z DataSynthX. Konečně jsme se dostali k těm
+generativ AI LM věcem.
+Generativ AI.
+Bylo to super. Mně se hrozně líbilo
+to, že to najednou vypadá daleko přístupněji
+než před tím rokem, nebo před dvouma,
+kdy člověk měl pocit, že musí
+být víc deep a teď znát Python
+a všechny ty věci a vektory a to
+teď najednou to lehce zní, že
+stačí v úzovkách jenom vyčistit
+data, správně to tam nalejt,
+pochopit vlastně, co ty data znamenají,
+jak se na ně mám ptát
+a jsme doma.
+Já si zase mám radost, že to je o těch datech,
+protože bez těch dat si vhájej
+a ty data zatím nikdo nevymyslel, jak
+transformovat a tunit a čistit nějak
+jako hezky, vlastně automatizovaně.
+Třeba za pomocí AI.
+A myslím si, že tam se dostaneme.
+A pak to bude AI, který leští AI.
+A povídá si s AI. Tak když zapneš dva
+záznamníky proti sobě a zavoláš si na to
+telefonní číslo, to je skvělý.
+To jsem dneska ušel, týma.
+No takhle, bude tam většinou ticho, nebo ten jeden to říká
+tomu druhýmu, zanechte, zkaz.
+Ale myslím si, že o tom, když si byla
+dokonce i nějaká písnička, že si volají dva záznamníky
+mezi sebou. To je nějaký country song
+nebo co. Ale já už jsem dneska hodil
+tolik boomerských odkazů.
+T-602, disketa. Jako podle mě
+90% našich posluchačů
+vůbec netušejí, o čem se bavíme,
+protože to jsou daleko mladší lidi než my dva.
+Tak disketa jsou různý muzea, kde by to našli.
+Tak to asi půjde, no.
+No, přátelé, aby jsme to uzavřeli.
+Aby jsme uzavřeli sérii.
+Tu sérii, takže máme, ano, přátelé,
+8 sérií máme za sebou.
+A velmi pěkně to vypadá,
+že do deváté se taky pustíme.
+Ale jo, zase nebudeme to dělat jak s kolem štěstí,
+prostě v nejmenované zahradní firmě.
+Prostě půjdeme dál,
+dáme si teďka chvilku voraz.
+No, ono, dneska máme dotočeno.
+Ono, než to půjde ven,
+tak máme nějaký čas si dát voraz,
+zalížovat si, dát se trošičku do pucu.
+Přesně tak, přesně tak.
+A vykopnout tu devátou sérii.
+A na to se moc těším, protože mě to teda pořád baví.
+Vypadá to, že nás to baví oba,
+tak půjďme, aby nás to bavilo dál
+i v sérii číslo devět.
+To bylo nádherně řečeno. Mějte se hezky. Čau.

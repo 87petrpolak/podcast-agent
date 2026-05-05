@@ -1,0 +1,2129 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Krásný den, milí posluchači, vítejte u dalšího dílu vašeho nejoblíbenějšího IT podcastu Pod vocasem.
+No a samozřejmě i v době mistrů světa naproti mě sedí čerstvý vítěz Pragana Petr.
+Nebyl jsem tam, ale aspoň jsem koukal z nadálku, Poli Polák, čau.
+A na druhé straně, Román, probrali jsme každý zápas do detailu Joker pro vás dík.
+Je to tak, já jsem strašně rád, milí posluchači, že mě vlastně můžete dneska slyšet.
+Protože kombinace koukání v hospodě u nás na vesnici s tím, že Pastrňák dal toho gola až strašně pozdě,
+tak mi úplně odpravila hlasivky. Já jsem měl před dvěma dněma přednášku v upliftingu
+a ještě, že tam měl mikrofon, protože já jsem byl totálně bez hlasu.
+To jsem byl jak křemílek, když mi bylo 16, začal jsem mutovat, všichni země měli srandu.
+Takže hlas je zpátky, podvoza jsem je zpátky. Jak jsi to prožíval, Polik?
+Bylo to úplně geniální. Bylo to úplně geniální, samozřejmě, že nakonec jsem i byl naživo.
+Byl jsem na čtvrtfinále se Sinátorem. Dlouho jsem přemýšlel, jestli za to ty prachy dát nebo ne.
+No hele, za mě největší překvapení celého turné Kuba Voráček.
+To bylo úplně neuvěřitelné, ten frajer to pozvat na jinou úroveň.
+Je to tak, je to tak.
+A pak prostě, abychom tím nezabili úplně celý úvod, ten růlík mě prostě dostal.
+Já když jsem viděl tu sestavu, tak říkám, to je v pitli.
+Si tam spousta frajerů nevzal. A prostě samozřejmě jsme tady měli zase 10 milionů trenérů.
+A on prostě věděl, co dělá.
+Poskládal to.
+Super. A to si můžeme přeníst i do IT. Ten tým je vždycky víc než ten jedinec.
+A to se tady ukázalo úplně. Na tom posledním gólu turné se to ukázalo úplně geniálně.
+Ty jsi to řekl úplně. Já už nevím, co bych dodal.
+Já jsem pořádujete.
+Já jsem tady dělal spoustu dalších jiných věcí.
+No, provej. Provej to.
+Ne, ne, ne. V pořádku, v pořádku.
+No, je to tak. Byl to zážitek. Já jsem rád, že jsme to zažili.
+Jsem rád, že i pro malýho péťu to byl první velký úspěch.
+My, co žijeme ještě z Nagána, tak to bylo úplně co nového.
+On si to, jak se jistě říká, až časem, co vlastně dosáhl.
+Tak to jsme si počuchali díky cizímu úspěchu. To mi rádi.
+Jinak samozřejmě zdravím kluky z J-Open Space, který mi psali, jestli bych mohl zapromovat,
+ale bohužel, bohu dík, to bylo tak rychle, že už tam není volné místo.
+Takže je to úplně zbytečné, hodně zdravíme, užijte si to.
+Já jsem zjistil, že jsem vlastně zapomněl se úplně zaregistrovat,
+takže možná se dám do takový té čekačky, a kdyby náhodou se tam uvolnilo místo,
+tak se přijedu podívat, anebo jenom přijedu pozdravit do Telče.
+No tam musíš, tam vždycky nazbíráme nový hosty.
+No dobrá věno, že jich tam přijel v těch gumákách s tím velkým podběrákem.
+Jak to vymyslíme, kluci, určitě.
+No, dost bylo úvodu, jsme za půlkou deváté série,
+a po tom, co jsme vlastně minulej díl tady měli, Libora Sionka,
+tak jsme si řekli, skočíme zase zpátky úplně někam jinam v tom IT,
+a pozvali jsme si našeho dlouholetýho kolegu, vlastně mého bývalého šéfa,
+tvýho bývalého šéfa a člověka, kterého, a to si asi každý řekneme ten svůj pohled na něj,
+neskutečně obdivujeme, jako z mnoha důvodů, což sami za malou chvíli uslyšíte,
+že to není jen tak jako vycucený z prstu, že prostě milenej bůh,
+ale co jsi vlastně myslel poprvé, když jsi viděl Milanu?
+Ale vlastně dneska vím, jaký je Milan pojem v této firmě.
+To je jediný svého druhu. A když jsem ho viděl poprvé, tak jsem si říkal,
+to je takovej klidas, takovej introvert, on to sám o sobě říká,
+takovej introvert, i až uslyšíte ten jeho projev, tak si říkáte,
+jak tenhle ten člověk může ovlivňovat takové zásadní věci v té firmě,
+a být vlastně takovej ten driver, jak vždycky to znáš od těch mladých lidí.
+A on to dokáže úplně nejlíp.
+A že jsem ho nikdy neviděl zásadně rozčílit, nebo takovým tím expresivním stylem,
+jak to umím já, že létají lesky a kurvy létají vzduchama, tak to ne.
+Aby jsi to posunul dál, tak vlastně potřebuješ tuhle energii.
+A on vlastně má pořád tu energii stabilní stejnou a posouvá ty věci tak,
+jak by jsme si přáli, aby jsme je posouvali taky.
+Hele, je to prostě válec.
+No a ten důvod, proč jsme si ho pozvali, není jenom proto,
+že ho samozřejmě osobně obdivujeme, a já s ním teď mám tu čest,
+že s ním můžu vlastně neustále spolupracovat,
+ale ten důvod je, že vlastně vede pobočku cyklu mu v Bratislavě,
+má na starosti kluky, kteří dělají embedded, IoT, hardware,
+je to prostě blázen do těchto věcí, kterým já vůbec zase jsme u hardware,
+vůbec toho nerozumím. To je pro mě španělská vesnice
+a o to víc se těším, co nám dneska bude povídat.
+Já se na to taky těším, že samozřejmě IoT rovná se data na konci.
+Takže my jsme s Milankem měli spousta pokeců o těchto věcech,
+já se na to dneska hrozně těším.
+Tak jdeme pro ní.
+Jdeme.
+Do studia dorazil náš dnešní host, Milan Piskla, ahoj Milane.
+Ahojte, zdravím vás.
+Ahoj Milane.
+Tak Milane, prosím tě, hned na úvod, taková ta klasická otázka,
+ty jsi říkal, že už si některé naše díly,
+byť si samozřejmě nesijel všechny, protože jsi zaměstnaný člověk,
+slyšel, takže víš, že na začátku to je vždycky o tom,
+jak ses dostal do IT, co teďka vlastně děláš, atd.
+Takže představ se posluchačům, kteří nemají to štěstí,
+že s tebou pracují.
+Dobré, ještě raz díky za pozvání.
+Já jsem začal svoji profesionální kariéru jako vývojár MBD systémů
+v roku 1994, takže já už jsem...
+Dnesky dně.
+...tinosaurus ťažký.
+Ale ještě předtím jsem začal,
+samozřejmě neprofesionálně,
+už někdy v 80. rokoch,
+když jsem se začal hrát s elektronikou.
+Postupně jsem přešel k nějaké digitální elektronikě,
+tam už byl jen maličký krok k nějakým procesorům.
+V tom čase procesory v 80. rokoch
+znamenalo pro mě 8-bitové maličké mikroprocesory,
+které měly taktovací frekvencii 2 MHz,
+pozor megaherce, ne gigaherce,
+pár kilobajtov rámky,
+takže začal jsem s programovaním v assembleri na takovýchto systémoch.
+No a potom teda postupně v tom 94.
+jsem to začal být profesionálně.
+Postupně jsem se od MBD vývoje dostal
+i k nějakému serverovému vývoju, desktopovému vývoju.
+Naučil jsem se nějaké vyšší jazyky,
+přešel jsem...
+C++,
+Javu,
+C Sharp,
+Python
+a nějaké další.
+Celé zol si proběhl prostě.
+Je tam vůbec něco, čeho jsi se nedotknul,
+když se takhle podívám na ty velký programovací jazyky?
+Přiznám se a teda zdůfám, že se Roman na mě nenahněvá.
+A já už cítím, už to tam cítím.
+Nedotkl jsem se funkcionálných jazykov.
+Tak já to vypínám.
+Ani Lisp nic takovýho?
+Ne.
+Vlastně ano.
+Jeden čas jsem zkoušel nějaký Lisp,
+a když jsem viděl, kolik tam bylo zátvorek,
+tak jsem to nechal tak.
+Ale nemusím povědat, že
+zkoušám samozřejmě i v současnosti už iba amatérsky, jako hobby,
+nějaké nové programovací jazyky.
+Velmi mě zaujal Rust.
+A tam už jsou prvky funkcionálných jazykov.
+A co ještě teda chcem předrovnit,
+mám povedat na svoje ospravedlnění,
+že v tom embedded světě
+mi ten objektový prístup dává větší význam.
+Že když chceš modelovat třeba z nějaký Bluetooth,
+jako nějakou komunikaci,
+tak to má v sebe už nějaký stav,
+který se lepší namodeluje
+přes nějaký objektový prístup.
+Takže tamto fonové schéma je k tomu jako blíž?
+K tomu asi ne.
+Je to tak.
+Ok.
+Ok.
+Já jsem teda po nějakom čase
+jako vývojár
+jsem byl oslovený vtedajším vedením spoločnosti,
+či bych se nechcel věnovat už nějakému projektovému managementu.
+Přiznám se, bylo to pro mě extrémně těžké rozhodnutí,
+protože já mám programování prostě v srdci
+a je to dodnes pro mě hobby.
+Ale musel jsem urobit to těžké rozhodnutí.
+Bylo mi jasné,
+že už nebudem moct zrovit i vývoj,
+i nějaký projektový management,
+nebo jiný typ managementu.
+Urobil jsem to těžké rozhodnutí.
+Nelutujem to,
+ale prostě to programování mám stále nějak v srdci.
+Jak si to držíš dneska?
+Je to tak, že o víkendech si to otevřeš
+a děláš si tam svoje projektíky?
+Je to tak.
+Typoval jsem to v prvé výhlede. Typoval jsem to.
+Je to tak.
+Někdy manželke povím, že pozerám nějaký seriál,
+ale v skutečnosti programujeme.
+To je dobrý.
+Ostatní říkají, ale já jdu pracovat
+a pustíš si tam ten seriál.
+Já to mám obráceně.
+Je něco, co se dá přeníst
+vlastně do toho projektovýho managementu
+z tohohle ryze technického světa?
+Jsou tam nějaké třeba paterny nebo něco,
+že jsi řekl, tohle se mi hodí?
+Nebo je to jenom o tom, že máš tu analytickou mysl
+a tím pádem jako na některé problémy
+můžeš aplikovat podobné paterny,
+jako když přeměšíš třeba nad kódem?
+Já jsem byl sám prekvapený,
+že technické věci zůstávají
+stále platné
+i po dvaciatých rokoch.
+To znamená, když i tým
+dělá nějaké rozhodnutí,
+stále se mi občas podarí,
+že do toho aktivně vstupím
+nebo jsem vstupil
+a získal jsem si tím respekt
+u členů týmu.
+Takže ten technický background
+jsem zjistil, že je obrovská výhoda.
+Nehovorím, že to je nutná podmínka,
+ale u mě to byla výhoda.
+A nejen při projektovém
+manažmente, ale
+i při people manažmente, který
+robím momentálně,
+to stále vidím jako dost velkou
+výhodu, že se bavím
+s lidmi stále o technických témách
+a cítím, že
+nějaký ten respekt tam je.
+No dneska máš na starosti
+pobočku, samozřejmě spousta lidí
+pod sebou. Jsi někdy v té
+kariéře, Bod, kdy jsi říkal, že by ses
+na ten manažment
+vyfláknul a vrátil se zpátky?
+Do toho programování?
+Hodněkrát ne.
+Hodněkrát jsem to mal.
+Ale musím
+povedat, že na také
+úrovni profesionální,
+která je potřebna
+na ten vývoj, už by
+jsem do toho vlaku asi těžko naskočil.
+Jak se to vlastně posunulo
+od té doby, kdy jsi se s tomu věnoval
+aktivně a teď, když se k tomu
+věnuješ, řekněme jako z pozice
+člověka, který to celé zastřešuje,
+ale najde si místo pro sebe maximálně
+výkendu, celý ten posun
+těch hardwareových
+věcí a toho
+software developmentu kolem toho hardwareu,
+urazilo to nějaký krok?
+Nebo je to trošku pomalejší třeba
+oproti klasickému
+frontendu, řekněme?
+Je tam obrovská zmena.
+V tom čase, keď já jsem
+začal programovat aj ty embedded
+systémy, tak
+buď to bylo na nějakém MS-DOS,
+ještě vtedy jako nějaký cross-compiler,
+alebo to byl
+byly nějaké UNIXové systémy,
+nějaké cross-compilery,
+a vtedy každý výrobca
+toho mikroprocesora
+dodával k tomu svoj špeciálný
+kompilátor, ktorý mal
+svoje obmedzenia, že člověk
+věděl, že nemůže použít nějakou určitou
+konstrukci, lebo to způsobí
+problém v tom kompilátore.
+Toto se našťastě už posunulo
+někam úplně jinam, že máme
+standardizované kompilátory,
+už aj pro embedded svět
+jsou kompilátory,
+GCC a
+od LLVM
+atd., opensourceové
+kompilátory, které
+jsou velmi daleko, jsou
+standardizované a
+ten posun je obrovský
+a posun je obrovský
+i v těch IDčkách, že je to
+vývojové prostředě,
+kdy si čiste nějaké
+command lineové, komplikované,
+proprietárné,
+pro každého výrobcu, smeruje to
+k nějakým standardům, že i embedded
+vývoj už dnes robíme
+s velké častí o VSCode,
+s nějakými plug-inmi,
+takže do určité měry
+už je to podobné nějakému
+frontendovému vývoju, samozřejmě to má
+spoustu specifik. Já bych do toho skočil
+jednou věcí, protože my tady
+trošku trpíme spolem tím, že tě známe
+za ty roky a víme, co děláš, ale vlastně
+jsem si představil, že bych to poslouchal
+zvenku, co vlastně v té
+Bratislavě dělají, co je
+výsledek té práce, jestli bys mohl
+takovou odbočku a říct
+tohle všechno, k čemu to vlastně
+z pohledu koncovýho zákazníka
+vede, co vlastně vy
+kouzelníci v Bratislavě,
+jak jim rád říkám, magicians,
+co tam vyrábíte, co vlastně
+je výsledek téhle práce, jsou to procesory,
+jsou to IoT zařízení,
+co to vlastně je?
+Jsou to, nazvíme to teda
+embedded systémy v dnešní době,
+je i velký
+buzzword IoT,
+a
+říkáme si to jako systém, který
+nemá nějakou štandardnou
+obrazovku, nějakou štandardnou
+klávesnicu, každý z vás
+má doma už inteligentnou
+pračku, máte
+inteligentné systémy
+v autách, prostě
+ty systémy, které jsou zabudované,
+proto se tomu hovorí
+embedded systém,
+který má v sebe nějaký
+mikroprocesor, má nějakou svoji
+integrovanou paměť, nějaké periférie,
+ale to, co my dokážeme
+říkáme, na co jsme
+velmi pišní, je, že za námi
+přijde zákazník s nápadem
+a výsledok našej
+práce, to, co jsi se pýtal,
+fyzický funkční prototyp.
+To znamená, že my
+víme dodat zákazníkovi
+pošák
+s osadenými součástkami
+funkčnými,
+s funkčným softwarem, a plus
+ještě aj s mechanickou
+krabičkou, protože máme
+v týme aj super profesionálných
+konštruktérov, mechanical
+design inžinierů, takže
+vstup je nápad
+a výstup
+je fyzický funkční
+prototyp. Který celý vznikne
+u vás v Bratislavě.
+Řekněme, jako, povedzme, že
+ten, ta výroba,
+špecificky výroba těch plošných
+spojov, je outsourcovaná
+k nějakým
+důveryhodným partnerom,
+nějaké jednoduše mechanické
+krabičky si věme
+vytisknout na 3D tiskárně,
+a nějaké
+zložitější teda tvary,
+alebo pro nějakou už sériovou
+výrobu, máme zase nějakých
+důveryhodných partnerů, kteří
+vědí vyrobit mechanické krabičky,
+ale výsledok je, že my to nějak
+zkompletujeme,
+a dodáme zákazníkovi ten
+funkční prototyp. Na co
+jsme špecificky píšní, že to
+dokážeme urobit velmi rychle,
+máme
+zákazníka,
+pro kterého jsme poměrně nedávno vyvíjali,
+takový data logger
+pro logistiku,
+a za nějaké 4 týždně
+jsme dokázali vyprodukovat
+i mechanickou
+část, i elektroniku
+a funkční software.
+Hezky, hezky. A je to tak, že
+ten trend směřuje k tomu, že
+takhle jak jsi to popsal, tak ten výstup
+toho projektu je vždycky stejný, nebo
+dneska už ti klienti třeba chtějí i něco víc,
+napadá mě na konci zatím třeba
+jaký frontend je, nebo
+sběr nějakých dat, který vede
+zase k nějakým dalším newscasům, který
+nás můžou napadnout. Ano, ano,
+je to často takto, špeciálně
+při IoT
+projektoch,
+je to tak, že k tomu embedded
+zariadení potom je
+samozřejmě i nějaký backend
+v cloude,
+potom k tomu samozřejmě se připájají
+nějaké mobilné aplikácie, webové
+aplikácie, za tím
+může být velmi komplikovaný
+data processing s obrovským
+množstvom dát a
+typicky při dnešních projektoch,
+ne typicky, ale už
+dost často tam bývá
+nějaký machine learning,
+AI. K tomu se ještě
+dostaneme specificky, tam máme
+spousta dotazů, to je určitě velmi zajímavý
+téma. A když jsme se otočili
+kolem cloudovejch
+věcí, je tam nějaký cloud, který
+pro ten embedded svět je
+příjemnější, přátelštější, nebo je to
+jednost v tomto v podstatě agnosticky?
+Myslím si, že
+AWS a Azure
+jsou na tom podobné,
+mají už
+svoje frameworky
+na té platformové úrovni,
+že nemusíme používat ten cloud
+jako infrastrukturu, ale
+jako platformu.
+Existují tam už hotové
+IoT huby,
+alebo IoT core
+frameworky, které
+už se vlastně
+zachytávají nějaké
+eventy, které přijdou
+přes nějaký MQTT protokol
+od těch embedded zariadení
+a potom zase generují nějaké eventy
+do nějakých dalších cloudových
+systémů.
+A ten frontend, stává se, že
+i ten frontend teda vlastně děláme
+tady, nebo ten zákazník si
+radši dělá sám, jak to dneska
+je na tom? Máme projekty, kde
+vyvíjáme komplet všetko.
+Od frontendu
+přes machine learning
+a data processing,
+backend, tento embedded
+vývoj, mechanickou část,
+elektroniku, všetko.
+No ještě bych se vrátil
+k té kariéře. Jsme se o tom,
+jsme se trošku už dostali do té techniky
+a já vím, že... To se ta šťávička prostě.
+Ty jsi spojil, ty jsi spojil, no jasně,
+tam ještě půjdem, jo.
+Ty jsi spojil vlastně svoji kariéru ze
+CN Group, potažmo s cyklum
+společností a měl jsi
+tam jednu takovou odbočku.
+A co to bylo a co jsi tam dělal?
+Je to pravda,
+odišel jsem
+po prvých dvanáctích rokoch
+z firmy,
+protože jsem potrvoval
+nějakou novou inspiraci,
+ale byly tam i rodinné
+důvody, potrvoval jsem
+větší klut na prácu.
+Odišel jsem do jedného
+startupu, kde jsme rěšili
+systémy pro
+finanční doménu.
+Priznám se, zjistil jsem, že
+mně tato doména je
+velmi vzdělená. Já osobně
+nemám rád ty systémy,
+kterých
+výsledok je nula
+a je to založené na
+víťazoch a porazených.
+Já mám radšej systémy,
+kde jsou všichni víťazi
+a to
+při našich zákazníků, které
+tu máme, splňuje o velmi lepší.
+Takže po nějakých tři a půl rokoch
+jsem se z toho startupu vrátil.
+Získal jsem samozřejmě
+spoustu zkušeností.
+Byl jsem tam moc odpovědný
+za nákup nějakých serverů,
+za komunikaci s datacentrami.
+Řešil jsem i hiring a
+takovéto věci.
+Zkušenosti byly výborné,
+ale zjistil jsem
+a
+kolektiv těch lidí, který
+v tom čase v Cienku, dnešní době
+v Ciklume byl, že
+to je přesně to, co mi vyhojuje.
+Takže
+vzal jsi si z toho
+klasicky na Milana to dobré.
+Je to úplně na Milana,
+to v tom cítím.
+A vlastně si pak ty zkušenosti využil
+i v té manažerské pozici,
+kterou si pak dělal dál tady v Ciklumu.
+Je to přesně tak.
+V tom čase,
+když jsem byl ještě v tom startupe,
+tak každou chvíli
+mě někdo z toho
+původného Cienka kontaktoval.
+Špeciálně to byl
+i náš vtedajší CEO,
+Steen Nielsen,
+Michal Širica.
+To byl můj pozdější CEO,
+kteří byli úplně úžasný
+lidé.
+Hodně jsem se od nich naučil
+a zjistil jsem, že u těchto lidí
+mi to více vyhojuje.
+A ještě mě zajímá jedna taková
+specialitka, my jsme se toho trošku dotkli
+na začátku.
+Vždycky jsem žasnul nad tím
+tvým úplně stoickým klidem.
+Všechny ty věci
+dokážeš vyřešit s klidem,
+ale zároveň rezolutně.
+Že se ty věci posouvají.
+A já jsem vždycky na tobe obdivoval, obdivuji dál.
+Je to něco, co máš pocit,
+že ses někde naučil?
+Třeba i v této odbočce, nebo od Steena,
+nebo od někoho částečně?
+A nebo jestli máš víc pocit,
+že to je tvůj gen, nevím,
+tvoje osobnost?
+Nemyslím si, že je to gen mi.
+A myslím si, že každý člověk
+se to může naučit.
+Já jsem zažil
+nějaké profesionálné výhory
+tě.
+Myslím si, že několkokrát.
+Naučil jsem se vtedy,
+že je velmi důležité
+najít si tu správnou míru,
+kde si oddělím prácu
+od nějakého súkromného života.
+A když přijdu domů,
+snažím se už maily
+nečítat.
+A to mi pomohlo
+asi se do takéhoto nějakého stavu dostat.
+Tak to by mě zajímalo, jestli to je
+opravdu jenom takhle,
+že jsi to takhle řekl, nebo jestli to
+opravdu je daný
+jako tou tvojí osobností.
+Takže já bych se do toho hrozně chtěl dostat
+a myslím, že se to nikdy nestane.
+Až na to přijdeš, tak já si stopnu do fronty.
+Asi to má
+více aspektov. Já velmi rád
+chodím na hory.
+A když je člověk
+někde vysoko
+na nějakých skalách, tak si
+tak uvědomí, že ty problémy
+tam dole jsou tak malichérné,
+že to prostě nemá zmysel
+se nad tím nějak stresovat.
+A potom na druhou stranu,
+já jsem zažil v svojí
+úplně prvom zaměstnaní
+ještě před CN
+v také prostředě, kde
+se aj kričalo a kde ten management
+fungoval takým zvláštným
+způsobom a to byla pro mě
+škola, že tak toto
+prostě nefunguje. Aby vzniklo
+něco pozitivné, pardon
+asi to bude znět tak příliš
+naivně, detínsky, ale
+fakt jsem přesvědčený, že aby vzniklo
+něco pozitivné, tak ten
+management musí naozaj takýmto
+kludným způsobem s lidmi, kteří
+musí komunikovat a připravit také
+kludné prostředě, kde se lidé cítí bezpečně
+a cítí,
+že mají podporu
+a když se urobí nějaké chyby,
+tak se o tom rozumným
+způsobem porozpráváme a
+povíme si, tuto chybu už
+nebudeme opakovat,
+ale znovu se vrátím k tomu
+Steanovi, k tomu našemu
+původnému CEO, on
+měl dokonce v prezentaci
+pro našich zákazníků
+jednu větičku, že my nebudeme
+prostředě bez chyb.
+My budujeme prostředě, kde se chyby
+neopakují.
+Znovu to je zase jedna z těch
+věcí, co jsem se od něho naučil
+a snažím se to aplikovat.
+Vidím to tam a vždycky jsem měl pocit,
+že můžu přijít úplně s jakýmkoliv
+průšvihem, opravdu průšvihem
+a i vlastně nemuselo to být
+vloženě pracovní, pár jsme si jich užili
+s Milanem a vždycky, když jsem
+dorazil, tak jsem
+nakonec odcházel
+hrozně spokojený, jak jsme to vyřešili.
+Děkuji Petře, ale zase bylo to i o těbe,
+nebo ne s každým se dá
+takým způsobem komunikovat.
+Tak děkuji, tak děkuji.
+Teď mám pocit, že jsem se taky u toho trošku přičil.
+Poli tady už rozjel svoji zkušenost
+s Milanem, já samozřejmě bych nedat tady,
+protože to je samozřejmě dost interní věc a když
+tady budeme půl hodiny, tak posluchači to tolik neocení,
+ale ještě jedna věc,
+a ta mě zajímá vlastně v tom,
+že ty jsi jeden čas vedl i dotnet,
+vlastně ty jsi byl můj šéf,
+jak jsi na to koukal
+vůbec na vedení jako
+řekněme ryze softwarovýho
+oddělení z pohledu člověka, který
+ano, vlastně taky na začátku
+dělal ten software, ale má víc to
+hardwarový srdíčko, jak tam třeba vidíš ten
+kleštěk dvou světů, nebo tu spolupráci,
+protože mně si přišel, a to se vracím
+k tomu, čím jsem to otevřel
+a čím jsme zakončili tu první část spolim,
+že jsi k tomu opět přistupoval
+velmi jako klidně,
+pragmaticky, v podstatě ani nebylo z tebe
+cejtit, že to srdíčko máš
+u toho hardwaru, vlastně až teprve, kdy jsi
+opouštěl dotnet, tak jsi říkal
+jako sorry, mám
+dotnet rád, ale vlastně jako by táhne
+mě to zpátky k těm embedded věcem a proto
+teda jako odcházím, ale...
+Pro mě v prvom radě, já nemám rád slovo
+šéf, to by...
+Nadřízený,
+to je ještě lepší.
+My jsme byli vždycky super
+kolegovia a
+to srdíčko není jen v hardwaru, samozřejmě
+to je v softwaru všeobecně
+a právě mně
+ten hardwar iba pomohl
+k tomu, že já potom
+jako programátor jsem se
+snažil vyťažit z toho daného
+hardwaru maximum. Tým, že
+jsem věděl, jako to
+celé funguje a je na pozadí,
+mně to pomohlo úžasně
+i při těch jazykoch, jako
+je i C Sharp, alebo Python,
+a dokonce
+mám rád
+podcasty Lexa Friedmana,
+který mal pozvaného
+například Johna Kermecka,
+který naprogramoval Dooma,
+a ten právě
+hovorí o tom, že jako je důležité,
+aby vývojáři
+poznali celý ten stack.
+Vlastně o toho hardwaru
+samozřejmě nemusí vědět detaily,
+ale aby věděli
+přibližně, co se děje na tej hardwarovej
+úrovni a potom až kde
+to prebublá někde až do nějakou
+browsera, do nějakého javascriptu,
+takže mně
+toto úžasně pomohlo
+a to srdíčko teda rovnako mám
+i v technologiách,
+jako je C Sharp, Python
+a tak dále.
+Ale vždycky je to
+i o lůďoch samozřejmě.
+A díky tomu máš podle mě skvělý přesah,
+že vlastně znáš oba ty světy.
+A kdyby ses na to podíval
+z pohledu toho programátora
+a třeba na tu vývojovou pipeline,
+kde to všechno probíhá, když
+Románkovo lidi teď něco dělají
+a ten embedded vývojář něco dělá,
+vidíš tam nějaký zásadní rozdíly,
+aby si posluchač představil,
+v čem je to třeba jiný?
+Ano, ty rozděly tam
+určitě jsou, protože
+ten vývoj pre embedded
+systémy je typický
+cez nějaký cross compiler.
+To znamená, že
+ten vývojar embedded systému
+vyvíjá na jiné platforme,
+jako je ta cílová.
+Samozřejmě je často
+pravda i o
+těch systémoch programovaných
+C Sharp a takovýchto jazykoch,
+ale přece jen je tam
+ten fundamentální
+rozdíl, že
+často je to velmi obmedzená
+platforma, ten embedded
+systém, který má
+jen pár kilobajtov rámky
+a pár
+dajme tomu megabajtov
+maximálně nějakého flash
+v paměti a ten
+programátor musí dávat pozor
+na to, aby tu paměť nevyčerpal,
+aby se nefragmentovala.
+Takže toto jsou aspekty,
+na které musí ten
+programátor dávat pozor.
+Musí si dávat pozor na management
+paměti, kde v jazykoch,
+jako je Python a tak dále,
+máme garbage collector,
+ten programátor se o to nemusí starat.
+Takže tuto bych viděl
+velký rozdíl, ale znovu
+smeruje to k nějakému
+spoločnému bodu do budoucnosti.
+Jak je to třeba s testováním?
+Předpokládám, že v tom hardwarovém
+světě zase, když se udělá
+chyba, tak je to horší.
+Samozřejmě, když se bojíme o softwaru, tak to se dá
+testovat relativně jednoduše, ale když
+děláte nějaké tišťáky
+a tyhle ty věci, tak tam to musí být velmi
+jako buď anebo ne.
+Je to pravda.
+To testování na úrovni
+hardwaru je samozřejmě o velké
+tažší, ale my
+preferujeme způsob, který
+poručáme i našim klientům,
+že my vytvoříme jako
+první iteraci nějaký
+velký, ten plošný spoj,
+někdy to může být formát A4.
+Jako takhle obrovské? Ano.
+Kde je spousta
+meracích bodů, kde si člověk
+může
+zapojit nějaký osciloskop,
+multimeter.
+Súčasně věme takýmto způsobem
+tomu vývojárově
+embedded systému
+poskytnout velmi rychle ten hardwar,
+kde on může pracovat.
+A potom v dalších iteraciach
+ten plošný spoj zmenšujeme
+do nějakého cílového stavu.
+Čiže to meraně a testování
+robíme prakticky už od začátku.
+A to samozřejmě
+by malo být aplikováno
+nejaj pre software, ale...
+Ale můžu hodit ještě jednu úplně debilní otázku,
+když se neuraž.
+Nešlo by tohle celé virtualizovat?
+Jakože udělat ten tišťák
+celý virtuálně, v podstatě jakoby
+softwarově, na něm si to vyzkoušet,
+a pak to v úzovkách jenom
+jako spájet a jdeme do budoucna?
+Do určité měry je to možné.
+Jsou simulátory, které to umožňují.
+Ale
+představ si, že typicky
+ten embedded system
+má nějaké senzory,
+jako je nějaký akcelerometer,
+gyroskop, měříš teplotu,
+vlhkost.
+Toto je těžko nasimulovat.
+Nepotřebuješ
+nějaké reálné fyzické prostředí,
+aby si toho testoval. Ale...
+Máš pravdu.
+A venujeme se i takýmto věcím.
+Vyvinuli jsme si
+takový testovací box,
+kde máme
+kameru, která dokáže
+rozoznavat, co se děje třeba
+na nějakém malém displeji,
+na nějakých ledkách. Ten systém nám
+rozoznává, co
+se tam zobrazuje a simulujeme si
+i nějaké fyzikální javy
+na tom testovacím boxe.
+A tímto způsobem
+to vlastně testujeme.
+Ale používáme
+více jako regresní test.
+Že ne je to úplně typický
+na začátku hned, ale je to možné.
+No a je to stejný
+ten tvůj dotaz, jako kdyby jsi řekl, že
+jestli to otestuješ na testu, tak to na té produkci
+přece nemůže spadnout.
+Tak proto máme do kry a tyhle ty věci.
+U mě to funguje.
+Přesně, přesně.
+Ale vlastně mi to přivedlo
+ještě k jedné myšlence, že
+vy musíte vlastně ještě víc
+to testovat proto, protože jakmile to je
+jednou vylezavém, tak už to velmi těžko
+jde zpátky, že počátku se začne vyrábět.
+U toho softwaru to druhý den prostě fixneš
+a jedeš dál. Tam asi nějaký continuous deployment
+nebo něco jako.
+Ono to asi nějak částečně
+přes ten firmware jde taky, že jo,
+ale ne všechno předpokládám.
+Přesně tak, některé produkty
+mají už nějaký
+over the air update, takže se dá
+urobit update firmware na dělku,
+ale spousta není.
+No proč se si naozaj v té pračce
+jako to urobí.
+Takže
+samozřejmě to pokrytě testami
+se snažíme
+rovnako i my
+dodržáváme nějaký výmodel.
+Začínáme od code review,
+potom unit testy.
+Jsou úžasné frameworky,
+jako je Google test,
+který se dá aplikovat
+i pro embedded systémy, pro C++.
+No a potom
+nad tím nějaké integračné testy,
+které se snažíme automatizovat.
+Máme i nějaké
+pipelines na těch
+buildovacích platformách,
+čiže z tohoto pohledu to
+konverguje někde tam,
+kde je i vývoj nějakého
+high level softwaru,
+ale samozřejmě se toto může stát.
+Stalo se to i reálně našim
+klientům, nebylo to teda konkrétně
+našim příčinením, ale právě proto,
+že se to stává, tak ten důraz
+na ten test coverage
+je ještě větší jako
+při nějakých jiných systémoch.
+Je to u toho vývoje softwaru pro
+takovýhle systém, pro takovýhle
+hardware víc
+jako s tím stylem, že počítáš, že se
+někde něco rozbije, že třeba mi přestane
+fungovat nějaký senzor, protože většinou
+programujeme takový ty happy path
+v klasickým softwaru vývoji
+a pak se použije nějaký, nevím, chaos monkey
+nebo něco, který ti začne ty systémy
+jako jednotlivý části vlastně rozbíjet
+a ty zjistíš, jak moc je ten tvůj
+systém na tohle připravený.
+Je tahle mindset u tohoto
+vývoje jako jiný, že třeba
+musím být připravený na to, že mi odejde
+tahle část
+prostě hardwareová nebo tenhle senzor.
+Je to tak a je to
+ještě zložitější a
+komplikovanější
+teda v tom zmysle, že nejen, že
+se ti může rozbít nějaký senzor,
+ale ty můžeš nějakému člověku
+ublížit. Představ si,
+že nějaký embedded system
+a dajme tomu
+nějaký healthcare device,
+který tě může popálit.
+To znamená, že ten
+vývojár a rovnako
+i hardwareový, i softwarový vývojár
+musí mít ten mindset,
+že tento aspekt,
+že uživatel může být
+nějakým způsobem zranený,
+musí brát do úvahy. A typicky
+se samozřejmě robí odhad rizik
+při těchto systémoch,
+co všechno se může stát.
+A to, co se může stát uživatelovým,
+má samozřejmě top prioritu.
+A v našich projektoch
+typicky tyto
+rizika jsou mitigované
+i na hardwareové, i na softwarové
+úrovni. To znamená, že je tam
+vždy nějaká ochrana. To, co jsem povedal,
+že mohl by to uživatela popálit,
+tak je tam potom znovu
+nějaký senzor, který
+tu teplotu merí,
+aby dostatočně
+včas vypol nějaké to
+vyhrévání. Ale je tam i softwarová
+ochrana, která musí okamžitě
+zareagovat, aby ten
+uživatel prežil.
+A je to v tomto případě třeba u toho,
+ty jsi zmínil healthcare, je tam nějaká i
+legislativa, že se to musí udělat? Jsou tam nějaké
+kroky, co se musí stát?
+Ano, samozřejmě. Je tam velmi prísná
+legislativa a
+pro ty systémy,
+medical systémy, jsou špeciálné
+ISO normy, které
+předpisují, jak by ty procesy
+za tím měly fungovat. A i ty odhady
+rizik za tím jsou
+naozaj velmi komplikované procesy, co je pochopitelné.
+Ale my tento mindset
+aplikujeme i při zariadeních,
+které nejsou klasifikované
+jako medical devices.
+No a řešíte i to, jestli ten uživatel
+náhodou to nepoužije celý jako blbě?
+Jestli třeba věc, která je na
+nevím,
+odstraňování chloupků v nose,
+že jich použije úplně někam jinam.
+Ano.
+Přesně, přesně.
+A toto jsou use cases,
+které testujeme.
+Mali jsme před časem velmi
+zaujímavý test,
+kde nám klient povedal, že
+do nějakého jejich zariadení,
+které bylo napájané z nějakých
+20V, kde se to tedy
+s normálnou USB nabíjačkou nabíjalo,
+tak nějaký člověk
+připojil 230V
+ze zasuky. Prostě přizpůsobil si to
+přes nějaké káblíky
+a připojil tam 230V.
+Tak máme
+v našem labe i termokameru
+a urobili jsme taký test,
+že jsme připojili reálně
+takovýchto 230V
+na ten plošný spoj,
+na těch místech, kde je ten vstup
+od nabíjačky.
+A na tomto kameru jsme sledovali,
+jako se zahrají
+jednotlivé části
+toho plošného spoja
+a co se eventuálně může stať.
+Tak nad Prahou neletělo letadlo
+30 let, jak právě prohlásil Petr Polák.
+Tato let dneska skutečně
+to bude plné ruchů, protože
+vedle se tady připravuje snídaně
+a to je vždycky o půl letní.
+Do toho začaly tady nějaké letecké vřelítky.
+A když jsme tenkrát seděli
+a ten podcast vymyšleli, tak jsme přece říkali,
+že chceme, že to je jako podcast v ofisu.
+To jsme ale dokonce
+ještě tenkrát si hráli s myšlenkou,
+že to budeme natáčet úplně v jiným kanceláři,
+která má okna přímo na Václavák.
+Ale jednou jsme zkusili
+odtamtud jít aspoň dvakrát
+normální klasický call
+a on vůbec nic nezlyšel.
+Tam se střílí z její sanitky.
+Před dvouma děma tady byla bomba.
+Byl vyklazen celý Václavák.
+Dobrý, takže jsme zpátky.
+To byla taková omlouva našim posluchačům,
+kdy do Milana buď někdo zahaleká,
+nebo přiletí nějaký letadlo.
+Pojďme zpátky k tomuhle Embedded vývoji.
+Je to strašně zajímavé,
+co všechno musí řešit.
+Kolem toho musí být strašné papírování.
+Kolem takovéhle věci,
+když to doručuješ.
+My když doručujeme klasický,
+teď už můžu říct naprosto nudný software
+oproti tomu, co řeší Milan,
+tak to jsou nějaké dokumentace,
+popisy,
+architecture decision records,
+nějaké základní věci.
+A oproti tomu, co asi je u toho Embedded.
+Je to tak, ale
+na druhé straně
+stále většina našich projektov
+smeruje k R&D
+oddělení nášho klienta.
+To znamená, že
+takovéto reální
+potom testování
+na těch fyzických devicech
+a s nějakými testovacími
+uživatelmi se děje už potom
+na straně našich klientů.
+My jsme od tohoto
+nějak abstrahovaní.
+Ten náš výsledok
+smeruje teda do R&D
+a tam zatím
+musí existovat potom nějaké
+procesy, které už ale rěší náš klient.
+No tak úplně mě napadá,
+jak se o tom bavíme, že opravdu ta pipeline
+a celý ten proces je trošku jinej,
+než u toho softwareového vývoje.
+Děje se někdy,
+že by přicházely ty lidi,
+a teď si vymyslím třeba z Reactu,
+k tobě do oddělení. To je jako jedna otázka.
+A pototázka je, co by bylo.
+To by bylo ale hodně. To právě. To by mě zajímalo.
+Víš, jakože, jestli vůbec se to děje. Protože
+máme tady spousta příkladů, že někdo prostě
+z Javičky skočil do Reactu. Jasně, jasně.
+A teď jako, jestli by někdo skákal opravdu takovýmhle
+obrovským přískokem. Jestli se to děje.
+A jestli to je vůbec možný. A ty jsi měl ještě druhou otázku.
+Já jsem tě do toho skočil, promiň. No, to jsem si
+zatím vymyslel, to jsem si zatím vymyslel.
+Určitě je to možné.
+A máme takýchto kolegou.
+A máme i teda z Bratislavy jednoho
+naozaj extrémně šikovného študenta,
+který programuje
+frontendy.
+Ale už v současné době
+dokáže naozaj poměrně
+komplikovaný firmware v Cčku.
+Takže dá se to. A já bych
+právě odporučal,
+právě to, co ten John Carmack odal,
+že právě ty frontendoví vývojáry,
+aby
+se snažili pochopit
+celý ten stack.
+Tím, že oni pracují nad nějakým
+virtual machine, který beží v tom
+browseri, aby
+věděli, že ten TypeScript,
+který se tam vykonává v tom
+browseri, a že ten browser
+beží jako nativná aplikácia
+v nějakém operačním systémě,
+a že pod tím operačním systémem
+jsou nějaké drivere, a že pod tím
+je nějaký hardware, aby se snažili
+i ty vývojáry
+frontendoví pochopit,
+že to je takto.
+A aby si i uvědomili,
+že když urobí nějakou operaci,
+treba spojeně dvoch
+stringů, že na té
+hardwareové úrovni to
+může být dost
+problematická operace.
+Jo, takže aby prostě koukali skrz ty
+vrstvy až dolů, prakticky.
+Což vlastně, jako z té druhé strany,
+z toho člověka u tebe v udělení,
+ten si to všechno dokáže
+představit. A vlastně teďka naopak,
+kdyby takovýhle člověk šel na jakého frontendového
+vývojáře, tak ten přesah je prostě fantastický,
+protože si to všechno uvědomuje.
+Frontendový vývojář to dneska vlastně nepotřebuje.
+On neřeší to. On prostě,
+limit cloudu je peněženka,
+takže vlastně jako strop nekončí
+nikdy, tam je prostě proskleno.
+Takže on to vlastně řešit nemusí,
+pokud se vyloženě do toho nebude tlačit,
+anebo ten zrovna konkrétní projekt
+ho do toho nenatlačí. Ale
+navopak je to vlastně o dost zajímavější.
+Stává se teda, že by někdo přecházel
+z toho tvýho oddělení, nebo respektive
+lidi s tímhle zaměřením
+někam do frontendovýho, backendovýho vývoje?
+Ano, ano, stává se to.
+Je to poměrně teda zřědkavé,
+ale stává se to. Ale ještě, aby jsem to
+dovysvětlil. Já nehovorím,
+že frontendový vývojár
+by mal jíst do nějakých detailů
+toho takéhoto nějakého vývoja,
+jenom hovorím, aby mal nějaký prehlad,
+jako to v tom stacku funguje,
+protože
+ty frontendové frameworky jednak
+jsou komplikované
+a dynamicky se vyvíjají.
+Každou chvíli máme nějaký nový
+framework. Nebylo by
+ani v lidských sílách, aby
+ten frontendový vývojár do detailů
+pochopil, jako to funguje na nějakých
+těch spodných vrstvách, ale jen, aby
+mal nějaký nadhlad nad tím,
+co všetko se tam děje.
+Když se podíváš na to, jak se ten tvůj
+obor vyvíjí, je tam teďka
+nějaká hlavní výzva?
+Něco, před čím stojí nějaký mylník?
+Nebo něco, co teďka třeba,
+pokud dobře dopadne, tak
+ten tvůj embery cvět
+8 nebo 10, 20 let dopředu?
+Chystá si něco?
+Myslím, že už se to děje
+a to je právě machine learning
+a AI. Trošku
+jsme přeskočili IoT, ale
+ono to spolu souvisí.
+Ale myslím si, že ten mylník
+vidím teda naozaj velký
+právě v tom machine learningu,
+kde samozřejmě
+mít nějaký natrénovaný model
+na rozpoznání obrazů na desktope
+alebo na servery je fajn,
+ale my potřebujeme
+mít tyto systémy
+v autách, kde nemůžeme být
+závislí na nějakém připojení do
+cloudu, takže
+dostat nějaký komplikovaný
+machine learning model
+právě na takovou embedded
+platformu, kde máme velmi
+limitované hardwareové
+prostředky a my jsme často
+limitovaný nejen výkonom
+toho procesora nebo paměťou,
+my jsme limitovaný i s potrebou.
+Některé ty zariadení
+jsou napájené z jedné baterky
+a někdy
+jsou požadavky od klientů, že
+ta baterka tam musí vydržet
+měsíc.
+Takže to je další ten
+aspekt, který musí ten
+vývoj armbedy systému brát do úvahy,
+že
+nemůže si dovolit
+nějaké akcie, které způsobí
+nějakou velkou spotrebu toho procesora,
+ale vrátím se k té otázce,
+že do takéhoto limitovaného
+hardwareového systému
+potřebujeme dostat
+nějaký komplexný model,
+nějaký
+deep learningový model s nějakými
+konvolučnými vrstvami a podobně.
+Tak je to tady,
+grande finale AI, všichni jsme se na to
+těšili. A ještě předtím, než se do toho
+pustíme, tak ty jsi nám, Milan, nechtěl
+okomentovat něco, o čem jsme se tady bavili
+v posledním díle s Liborem Sionkem.
+To byly ty tokeny, tzn. GPT.
+Ano, ano, mě to zaujalo, že jsi se bavili
+o tom, či má stále
+význam platit si
+GPT subscription,
+alebo používat už len
+free verziu, keď vyšel
+GPT 4 Omni verzia.
+A Petře, ty jsi povedal, že keď jsi
+robil nějaké akcie, že už ti
+došly ty tokeny a tak, já bych
+chtěl vysvětlit, že ono to funguje trošku
+jinak. V prvním rádi
+pro nás, pro tuto audienci,
+jsem přesvědčený, že má stále
+význam platit si
+subscription a vysvětlím i proč.
+Počet tokenů,
+znamená
+velkost toho
+kontextu, který GPT používá.
+A představme si ten kontext
+jako nějaké okno, které
+se posuvá po tom texte.
+To znamená, že
+i naše dotazy a odpovědi
+GPT jsou
+v nějakém okni, které má
+limitovanou velkost. Ta free verzia
+momentálně má, myslím,
+8 000 tokenů.
+A ta platená verzia
+má 32 000 tokenů.
+Čiže čtyřikrát více, ale vysvětlíme si,
+že co to znamená. Ten token
+je nějaká část slova
+typicky, takže
+při nějakém texte
+těch 8 000 tokenů znamená
+přibližně nějakých 6 000 slov,
+což může být nějakých 20 strán
+A4 textu.
+Ale keď se bavíme
+o tom, že
+řešíme s GPT nějaký kód,
+že se snažíme doladit
+nějaký zdrojový
+kód, každá zátvorka,
+každý operátor, každý konec
+řádku je nový token.
+A to znamená, že
+my už při nějakých
+méně komplexních
+zdrojách vyčerpáme
+velkost toho kontextu.
+A to znamená, že GPT
+už nevidí tu část
+předtím. To znamená, že my
+keď se s tím systémem
+bavíme, tak
+nevidí, co bylo před tím
+oknem. Takže
+pro nás je stále důležité,
+aby jsme máli těch 32 tisíc
+tokenů, aby se tam nějaké
+zdrojáky zmestily.
+Keď někdo používá GPT
+na to, že dá nějaký dotaz a čeká
+nějakou odpověď, tam stačí ten
+kontext, jak jsme se bavili, těch 20
+strán až čtvrkového textu
+na takéto používání je určitě fajn,
+ale pro nějaké komplexnější
+věci už to nestačí.
+Super. No tak to je perfektní vysvětlení.
+Zase jenom je vidět,
+jaký máš přesah.
+Určitě koukal na seriál zrovna doma
+veď v neděli a chtěl si, jak funguje
+GPT. Oficiálně na seriál.
+Neuvěřte, ale
+vlastně ještě já jsem, jenom k tomu dodám,
+já jsem vlastně došel do bodu, kdy ne, že by
+to nechytalo kontext, ono už mi to neodpovídalo.
+Už mi to vlastně řeklo, hele,
+už si vyčerpal kapaci. Ano, ale není to
+tými tokenmi,
+ale je to tým, že zase aj ta free
+verzia má obmedzený
+nějaký počet requestů
+za nějakou časovou jednotku
+a proto se zase oplatí
+mát tu platěnou verziu. Jo, jo.
+No a ČGPT samozřejmě má spousty
+železa, který pod tím běhá, jenže
+když to želízko je malinký a potřebujeme to městna
+do velmi malého prostoru,
+tak to je úplně jiná výzva.
+Tak možná bysme se to mohli otevřít jen tím,
+že nám povíš nějaký výzvy, který
+vlastně řešíte u vás v týmu
+v kombinaci s tím MBD cvětem.
+To, co jsme se bavili už
+při Romanovej otázce,
+my máme natrénovaný nějaký model
+na, třeba znamená rozpoznávání
+obrazu, ale ten model
+má velkost několko megabajtov.
+Naša paměť
+v tom nějakom mikrokontroléri
+má, dáme tomu
+ta flaška, nějaký jeden megabajt.
+A my do toho potřebujeme
+dostat samozřejmě aj
+aplikační logiku,
+drivere a tak dále
+a přitom nějaký takový tu obrovský
+model.
+Čiže výzva je dostat
+to do takovéto limitované
+paměti a další výzva je,
+že výkon toho procesora,
+znovu taktovací
+frekvence, může být hrádovou
+při těch
+procesoroch MBD
+dajme tomu 100 MHz.
+Je to stále
+daleko od toho, co máme na desktopoch,
+kde to
+může být naozaj několko GHz
+a několko jaděr
+v těch MBD
+procesoroch. Jsou to typické
+maximálně dvě jadra.
+Čiže tyto dvě výzvy
+výkon a paměť
+plus tedy ještě i spotryba.
+No a je to řešený,
+nebo řešíte to z toho důvodu,
+že je to nějaký specifický use case,
+kde já se nemůžu k ničemu připojit.
+Vždyť já jako vášnivý fanoušek
+IoT doma,
+mám třeba, nevím, chytrý hlavice
+od radiátorů, ale ty hlavice
+přes rádio komunikují s nějakým hubem
+a ten hub už je připojený do Wi-Fi-ny a jsme
+doma, jo? No jasně.
+A už se to odehrává někde jinde, jo?
+Ta zásadní výpočetní
+kapacita,
+rychlost. Ale ty hlavice jako takový
+mají baterku a ty musíš obcházet, ne?
+Ano, přesně.
+A to mě vytáčí, protože samozřejmě někde
+to třeba blbě trošku jsem to tam
+přidělal a už vidím, že ty baterky prostě
+za měsíc mrtví a oni mi slibovali půl roku
+a už jsem naštvaný.
+A takže bavíme se o těch specifických momentech,
+kdy vlastně nemám tuhle možnost.
+Přesně tak. Při té
+hlavici na radiátor ti nevadí,
+že máš latenciu
+já nevím, kolko?
+Milisekund, aby to přešlo nějaký
+roundtrip do cloudu,
+ale představ si, že jdeš v autě
+rychlostou
+100.
+Že to vůbec to.
+V Německu možná.
+A nerozozná to nějakou
+dopravnou značku a v dnešné
+době se už spolieháme na tyto systémy,
+ale to hovorím naozaj ještě o
+takovém bezpečnému use case, ale
+představme si, že
+naozaj při nějakých self-driving cars
+tam ten systém nemůže být
+závislý na připojení do cloudu
+a ta latencia
+musí být velmi maličká.
+Takže při těchto systémoch
+nemá zmysel jít do
+cloudu, tam být nějaký
+nějakou inferenciu toho modelu
+a potom získat nějaká
+data naspět. My potřebujeme
+při hodně use case
+mít inferenciu přímo
+na tom device.
+A tam se to teda řeší jak?
+Jak to teda uděláte tohle?
+V dnešné době existují
+teda dva prístupy.
+Máme hardwareové
+akcelerátory a máme potom
+i nějaké softwareové metody,
+které řešíme.
+Hardwareové akcelerátory
+začínáme
+zhruba tam, kde je na desktopoch
+s nějakými GPUčkami,
+protože ty procesory, které byly
+vyvíjány v minulosti
+pro grafiku, se ukázaly
+jako velmi dobře použitelné
+i pro machine learning, protože
+vědí pracovat s nějakým násobením vektorů
+a s počítáváním,
+co je přesně ta operace,
+která je potřebná
+při inferencii toho modelu.
+Takže GPU
+to je jeden způsob,
+ale tam je to stále o spotřebe,
+že je takéto
+GPUčko, třeba od
+5V,
+že Jetson
+pro embedded systémy má
+spotřebu stále nějakých 15W.
+15W
+představme si, že
+při 5V jsou to 3A,
+že to je naozaj ještě stále hodně
+pro nějaký embedded systém.
+Pro to auto by to už mohlo být
+použitelné, ale
+pro nějaké čistě baterievo
+napájané zariadení
+je to příliš hodně.
+Potom existuje jiný
+hardwareový prístup,
+s tím přišel
+Google a to je vlastně
+tenzorový procesor.
+Tím, že to se používá právě
+i v cloudových systémoch,
+ten tenzorový procesor,
+ale i pre embedded systémoch.
+Google má například
+Corel, který
+je vlastně embedded,
+maličký, špecializovaný
+procesor, který vě
+velmi rychle násobit matice
+a to je znovu to, co potřebujeme
+právě při inferencii
+toho modelu.
+Při použití
+tohoto Corelu už se dostáváme
+na takovou nižší spotřebu,
+že je to rádovo
+myslím si, že nějaké 2W,
+jinak pro informaci
+náš mozok podle nějakých odhadů
+spotřebovává 12-20W.
+Takže to je
+hardwareový prístup.
+Existuje
+špecializovaný procesor
+pro machine learning,
+příklad je od firmy
+Halo,
+kde je ten
+ta spotřeba je ještě menší
+a může to být možno nějaký 1W
+a ten
+processing výkon
+je naozaj gigantický.
+To jsou desátky
+tera operací
+za sekundu.
+Číslo s dvanáctimi nulami
+je naozaj obrovský
+výkon.
+A řeší se tohle i na té softwarové úrovni,
+když píšu kód, třeba, že by mi to
+nějaký debugger nebo něco řekl,
+kámo, tady jsi to sice vymyslel hezky,
+ale to ti sežere půlku baterky?
+Nějaký profiling?
+Ano, existují na to profilingy,
+ale potom
+i hardwareové zariadení,
+které umožňují měrat
+i také krátkodobé špičky,
+protože je riziko toho, že
+s nějakým obyčajným meracím
+přístrojem, nějakým multimetrom
+bychom ani neviděli, že tam
+krátkodobo vyskočila nějaká spotřeba.
+Čiže my potřebujeme
+naozaj velmi vysokou
+vzorkovací frekvenci,
+abychom zjistili,
+či tam je nějaká krátkodobá špička
+v té spotřebě.
+Takže toto je ten hardwareový
+přístup, jako dostat ten
+machine learning model
+do embedded systému,
+kde se mají o nich pobavit.
+Jasně, jasně.
+Ten postup je typicky taký,
+že model se natrénuje
+na desktope, na serveri
+nebo v cloude
+a potom nasledují
+nějaké optimalizace
+modelu na velkost.
+Momentálně jsou asi
+také nejdůležitější dvě metody.
+Jedna z nich je pruning,
+kde se vlastně
+inteligentním způsobem
+vyhodí některé váhy
+těch neuronových sětí.
+Je to naozaj komplikovaný
+a dlhotrvající proces,
+čiže to není nějaký jednoduchý
+algoritmus, ale existuje už podpora
+i pro PyTorch, i TensorFlow
+a všechny tyto frameworky,
+kde se tedy urobí pruning
+toho modelu a dokážou se vyhádzat
+ty váhy, alebo i celé vrstvy,
+které vlastně neprispěvají
+k té výsledné inferenci,
+respektive je tam jen malý rozdíl
+přesnosti, když se vyhodí.
+A to je jedna z těch
+nejdůležitějších technik.
+A druhá technika je kvantizácia.
+Ten model
+na destope, nebo na cloude
+má typicky váhy
+namodelované
+přes floating point,
+přeměnné čo jsou
+čtvrbajtové
+hodnoty
+a přes ten pruning
+se dá urobit to, že se
+teda pardon, přes kvantizáciu
+se dá urobit to, že z toho
+ještě méněj,
+nebo ještě
+s menší přesností Integer,
+že minimálně čtvrnásobně zase
+dokážeme ten model zmenšit.
+Takže jestli to chápu správně,
+tak vlastně dochází k tomu,
+že se tam zavádí řekněme jako
+nepřesnost
+na úkor teda výkonu.
+Je to přesně tak.
+Toto je přesně ten point,
+kde ten člověk, který ten model
+potom aplikuje
+v embedded systéme,
+musí urobit několko iterací,
+protože zjistit,
+jaká je akceptovatelná
+presnost, se nedá.
+Ten odhad se nedá
+urobit, musí se to testovat
+a potom urobit nová iteraci
+a zjistit, že či ta
+presnost je
+dostačující, nebo ne.
+Mě to totiž připomnělo, já jsem koukal předevčírem
+na geniální přednášku, má asi 20 minut,
+doporučuji posluchači, najděte si to na YouTube.
+A ten člověk,
+teď nevím to jméno toho přednášejícího,
+vzal zdrojověj kód DOOMa
+a začal měnit
+konstantu pí, tu její přesnost
+a vlastně dával tam,
+pak tam dával i různý jako čísla a koukal,
+co to vlastně udělá s tou grafikou.
+Pak to vypadá, jak kdyby se byl na drogách,
+jak vlastně začne se rendrovat celý ten DOOM.
+Ale někdo tam psal do těch komentářů,
+nějaký game vývojář, že vlastně se z toho
+odnes to, že když
+použiješ pí jenom jako 3,
+ne 3,14, asi nějak jako velkou,
+ale de facto jenom velmi nepřesný
+že to stačí
+na to, aby rychleji dokázal
+otestovat, že ta grafika je
+funkční a že se to dá jako rozběhat.
+Pak samozřejmě poznáš to, že to je
+divný v nějakých pixelech.
+Ale vlastně zaváděl tam záměrně
+větší a větší chybu a sledoval do jaký míry
+tam byla korelace mezi
+velikostí té chyby
+a jak moc to ještě vnímáš,
+nebo už to vnímáš, že už to je rozbitý.
+Doporučuji, je to velmi zajímavý.
+V tom DOOMový existují takéto věci
+od Johna Carmacka. On si například
+vyvinul svoji vlastní metodu
+na prevratenou hodnotu
+druhé odmocniny, která se těž
+při té grafice velmi využívá.
+A má to nějakou svoji
+nepřesnost, ale
+napísal to tak, že je to obrovsky
+rychle s nějakou nepřesnostou,
+ale na toho DOOMa to úplně postačovalo.
+Takže ono to v tom DOOMový už je.
+To je geniální, to je úplně geniální.
+Jinak ještě k tomu jedna odbočka.
+Doporučuju mu, že jsem tady říkal několikrát.
+Force of Doom je výborná kniha na tohle téma,
+která popisuje, jak Carmack
+dělal Parallax,
+Scrolling a tyhle ty věci, když dělali
+Commander Keen a pak vlastně ve Wolfensteinovi
+a v DOOMovi. A druhá, teďka vyšla
+nedávno nová knížka o
+Romerovi, druhý
+z id Software.
+A pak taky velmi zajímavý, i jako z programátorského
+hlediska, co všechno vlastně řešili.
+Protože to, co říkal Milan,
+když si představím, že tohle všechno ty borci
+dělali jako na úrovni assemblerů,
+prostě jenom jako člověk chodí
+předkojený. On to robil
+na úrovni C už potom. Ano, mal tam
+nějaké assemblerové časti, ale
+na úrovni C. Jo, ale šílence
+z mýho pohledu pořád. Zase
+gaming jsme se museli...
+A takhle to s tím vlastně jako
+souvisí, protože Milan
+poslal něco, co dělají i herní vývojáři.
+Ale ono to naozaj souvisí.
+Zoberme si člověka jako je
+Demis Hassabis, co je vlastně
+CEO Deepmindu. On začal
+s gamingom a prostě spousta těchto
+obrovských hlav,
+kteří to posunuli, celý ten prémysel
+dálej začínali jako gaming.
+Jo, jo, jo. Podle mě tam museli
+řešit přesně takový ty detaily, o který
+tady popisuješ. A mě to ještě
+přivádí k jedné myšlence. Když se
+podíváme na to AI jako
+takový v těch embedded
+systémech, tak je tam jako několik
+proměných. Je tam teda nějaký výkon,
+je tam teda přesně metody, jak jako
+zjednodušit tu neurónku koncovou,
+kterou tam teda nahrávám. Máš tam
+takovou tuhle proměnu, kterou cítíš,
+že teďka vás vlastně nejvíc brzdí?
+Jo, jako nevím, typicky, kdyby se zásadně
+posunuly baterie třeba,
+tak vám to zase jako kompletně změní
+tu rovnici. Je tam něco takového, co
+cítíš, že teďka vlastně brzdí ten obor?
+Ani jsou to asi všetky ty tři
+préměny. Že ta spotřeba,
+výkon a velkost pamětě.
+Ale to se stále
+vyvíjá. Tak ty systémy
+za rok už budou
+zase posunuté někde dělej
+a myslím si, že i tyto
+hardwarové akcelerátory
+budou obrovská téma.
+Akcelerátory špecificky pro machine
+learning a pro tyto embedded systémy,
+které vlastně sekundárně
+umožňují to, že ta spotřeba
+je nižší. Že se to nemusí
+řešit v softwaru, ale přímo v hardwaru.
+A potom jsou i nějaké
+pokusy s nějakými analogovými
+přístupy, protože ta
+neuronová sítě v principě
+je
+analogová. Kdybychom si to
+dělali do důsledku, my ji jim modelujeme.
+Bavíme se tu o tej kvantizácii,
+ale keby to bylo
+naozaj implementované analogovo,
+zase by to byl možno posun někam dělej.
+Ty jsi do té rovnice nestrčil cenu.
+Řeší se cena?
+Máš pravdu. Samozřejmě je to
+obrovská téma
+a právě aj pri tých embedded
+systémoch, to jsme opomenuli, ale
+my máme několko
+projektov, které jsou nazvané
+jako cost saving projekty.
+A představme si nějaké embedded
+systémy, které se produkují
+v milionových sériách,
+milionov kusů za rok.
+Když ušetríme pár centů,
+je to reálně velká suma.
+Takže my máme
+projekty typu, kde
+ušetríme nějaké komponenty,
+nějaký kondenzátor,
+nebo nějaký rezistor, možná se to zdá
+směšné, ale jako reálně
+potom je to velká
+úspora pro našeho klienta.
+To si dovedu představit.
+A ještě vlastně mně napadá jedna věc,
+jak do tohohle všeho hraje
+security, jako bezpečnost.
+Protože mám pocit, že třeba teď
+Apple už musí vylézt
+s nějakým AI-kem
+v rámci novýho iPhonu. Ještě pořád
+vlastně nic nepředstavili.
+Já myslel, že se ptáš na security v IoT.
+Nemyslím všeobecně v tom.
+To jasně, to bysme si mohli dlouho
+povídat, ale spíše vlastně
+mám pocit, že Apple právě půjde tou
+cestou, že to uzavře uvnitř toho
+device a nebude posílat
+nic ven, aby právě
+drželi tu security, o které
+vždycky hlásají. Je i tohle
+téma, který řešíte?
+Určitě je to velká téma a máš určitě
+pravdu i s Apple.
+Čítal jsem nedávno takový článok,
+že jsou o tom
+indicie toho typu, že
+Apple si v posledním čase
+dal patentovat spoustu
+patentů, které jsou právě
+o AI na takovýchto
+offline
+limitovaných platformách. Takže je to
+přesně tak, jak hovoříš.
+A půjde to pak cestou,
+že ty si jenom představuji,
+jestli to je nějaký, nebo máš pocit, že to
+půjde cestou jako nějakého třeba
+opravdu
+zakonzervovaného chat GPT
+pro iPhone,
+který prostě bude komunikovat s tím uživatelem,
+jakože to máš pocit, že je ta cesta,
+tak jak vidíš ty ten trh, nebo?
+To se priznám, že si nesou jistý,
+lebo to je domena
+těch velkých
+jazykových modelů,
+ale pro embedded
+si myslím, že je
+důležitější domena
+rozpoznávání obrazu,
+rozpoznávání hlasu a takovýchto
+modelů. Myslím si, že pro
+aplikaci typu GPT
+je stále OK,
+když ten embedded systém bude fungovat
+v takovém IoT režimu,
+že vyšle vlastně
+ten tvůj dotaz do
+cloudu a vrátí se ti
+potom nějaký roundtrip
+odpověď a tam ti nevadí,
+že to bude trvat 200 milisekund.
+Ale právě při tom rozpoznávání
+obrazů a takovýchto
+casech si myslím, že je to oveľa
+důležitější, aby to bežalo offline.
+A zpátky k tomu...
+Security.
+Ne, já u vás.
+Vždycky, jak
+začneš mluvit, tak mě napadnou tři další
+do té otázky, to je prostě,
+bychom tu byli do pozitří, ale
+já vlastně, když jsem tady měl na starosti
+to data science oddělení, tak
+to bylo oddělení, kde ty data scientisti
+se věnovali, já nevím, třeba
+detection a vedle toho, jo, řešili jako
+úplně jiný témata. Máš
+pocit, že teďka, když se bavíme o embedded
+a AI, tak to víc směřuje k tomu,
+že ty lidi, kteří dělali embedded,
+se naučí to AI
+dohromady, anebo to může dělat
+i ten data scientist, když bude chtít a vlastně
+začne se doučovat ty věci kolem
+toho embedded světa.
+Můj názor je, že to
+může určitě robit i ten data scientist,
+záleží to na jeho
+mindsetě. Znovu to, co jsme se bavili,
+že frontendový vývojar
+nepotřebuje vědět detaily na nějakých
+jiných vrstvách. Ten data scientist
+bude mít svoje místo
+i v embedded systémoch, bude ovládat
+techniky, jako je právě
+ten pruning, kvantizáci a tak
+dále, a nepotřebuje vědět
+nějaké hardwareové detaily.
+Takže určitě je to možné.
+A má dneska,
+slyšíme všude, má nějakou podporu
+v rámci různých
+toolkitu, toolsetu, toho, aby se to
+naučil rychlejiš, aby do toho rychlejiš na běh,
+vlastně kam mířím, jestli
+a jak je složitý dneska pro nějakého studenta,
+který přijde, aby
+začal být v podstatě v uvozovkách
+užitečný pro ten projekt.
+Určitě, pro studentů
+bych se mu odporučil,
+existují
+frameworky, jako je TinyML,
+které se dají přímo aplikovat
+na Arduino. Arduino
+je super dostupné pro všech.
+Určitě
+je to dobrý způsob, jako můžu začít
+s nějakým machine learningem
+na takovýchto limitovaných platformách.
+Ale myslím si, že
+i tak by bylo lepší, aby
+ještě předtím začali na
+machine learningu na desktope
+a naučili se ty principy.
+Protože používat
+machine learning na embedded systéme
+je časovo náročnější.
+Tam ten cyklus, jako dostat to do toho
+device, získat z toho nějaký
+výsledek, trvá dlouhě.
+Takže na tom desktope by to celé mohlo
+probehnout rychlejší.
+A tyhle
+věci kolem AI embedded,
+je ten toolkit stejný, jako
+ty lidi používají taky nějaký Jupyter notebook,
+nebo používají
+jiné nástroje?
+Začínají úplně rovnakým způsobem,
+třeba s TensorFlow, alebo
+PyTorch, začínají
+normálně s klasickým modelem,
+s tím, že vědí, že
+nebo naštudují si, že
+pro embedded systémy některé typy vrstev
+nebudou podporované.
+Ten gap se bude zmenšovat
+do budoucnosti.
+No a potom existují
+třeba s tomu TensorFlow, existuje
+TensorFlow Lite for
+microcontrollers,
+PyTorchu existuje
+Executorch, který
+je vysloveně zameraný
+na tyto offline
+inferencie, takže ono
+se to celé nějakým způsobem
+prepájá s tými současnými
+frameworkami, které už existují.
+No a poslední, co mi k tomu napadá,
+je, jak
+pro tyhle vývojáře
+fungují různé kopiloty.
+To jsme sebrali, já si
+jedinou otázku si tady...
+Tak pojď, tak pojď.
+Samozřejmě pro
+člověka, který se chce naučit Python,
+to je ložený, to funguje krásně.
+Jak to funguje dobře pro vývojáře u tebe?
+Funguje to
+relativně dobré, ale
+je to trochu pozadu
+oproti třeba s frontendovému
+vývojům, protože
+představme si, že
+v stupoch byl natrénovaný
+ten kopilot.
+Ta vzorka těch zdrojáků
+z cloudu a z frontendu
+je oveľa větší,
+jako ta vzorka učiaca,
+která byla pro embedded systémy,
+takže je jasné, že
+ty kopiloty
+to nepodporují
+do také míry, jako třeba
+TypeScript, Python
+a tyto jazyky, ale zase je to jen otázka
+poměrně krátkého času, podle mě.
+Já jsem chtěl s tou otázkou jít o trošku,
+ještě o vrstu níž, a jestli jsou nějaký
+kopiloti, když
+navrhují nějaký hardware,
+jestli by mi už třeba dokázal
+říct, ale tohle když spojíš,
+tak ti to sežere
+víc baterky a tak dále. Přistoupuji
+k tomu velmi laicky a naivně k té otázce.
+Mně vůbec to není naivné
+a právě takéto systémy
+existovaly pro hardware,
+ty systémy, které
+umožňují to rootování
+plošních spojov,
+oni už od
+historie teda mali
+v sebe tu možnost, že to věděli
+automaticky. Ale
+moja zkusenost je, že
+profesionáli to nepoužívají
+zatiaľ.
+Tam je důležitá velmi špecifická
+znalost,
+už jen nějaký ten obyčajný USB
+konektor, co jsme si povedali.
+Tam stačí, že
+ta jedna cestička je
+dlhší o pár milimetrov
+jako ta druhá,
+a to už způsobí, že při těch velkých
+vztah je to USB spojení
+nespoláhlivé.
+Ale to, co jsi se pýtal, Roman,
+je naozaj super téma, velká téma
+právě v současnosti, že spojit
+tyto systémy na návrh
+plošních spojov
+s nějakou asistenciou AI,
+a už jsou takové systémy
+a rozvíjají se naozaj
+velmi, velmi rychle a jsou velmi
+slubné, ale
+bude to znovu komplikovanější
+jako při čistosti
+softwaru. No, tak jsem se zas tak devilně
+ptal, je to dobrý? Máš to dobrý, máš to dobrý.
+Tak prosím mě poliv,
+protože vedle začíná
+snídáně Pogo
+a už když nám tady za chvilku vlezou vůbec tak lidi.
+Máš tam ještě nějaký otázky,
+se kterýma se chcete poznat? Možná ještě tomu security,
+co jsi se pýtal, velmi rychle,
+jako je to téma sama o sebe, mohli by
+my tu celý podcast urobit, a
+já se priznám, že nejsem špecialista
+na to, ale
+určitě ten aspekt,
+že představme si, že do toho deviceu
+může flashnout nějaký firmware
+přes Bluetooth, tak to je
+samozřejmě obrovský priestor
+na to, že nějaký
+hacker tam může podsunout nějaký
+svůj firmware. Existují
+bezpečné metody na
+takýto over the air update,
+kde se používá normálně
+cryptography a
+public private keys a podobně.
+Tento
+způsob už existuje, ale samozřejmě
+stále jsou tam
+děry, kde
+je ještě velký priestor na to,
+aby se security dále vyvíjalo.
+Já vždycky přemýšlím nad tím, jak
+ty, a tam já opravdu jsem
+v lese, jo, jak ty public wifiny,
+když se k ním někdo připojí a teď jako
+slyšíš ty příběhy, jak ti to jako
+vysaje úplně všechno, ty se směješ
+úplně jak kdybych šel
+někam do toho.
+Mám pocit, že vlastně ta
+bezpečnost tam se pořád ještě jako
+pokulhává, aspoň tady v tomhle s tom konkrétním
+případě, co říkám já, to samozřejmě neslouvisí s tím,
+že vy se třeba na to vyloženě zaměříte
+u nějakého konkrétního use case.
+Pro nás security
+je nejdůležitější právě
+při tom update firmavéru,
+ale samozřejmě těžště musíme na to dbat,
+že kde všade je nějaký
+způsob,
+jako se tam někdo může zvonku dostat.
+Já už nemám dalších otázek.
+No ta poslední samozřejmě je
+vždycky na stole. Ale ta je tvoje.
+Jo můžu. Jo jasně.
+Dobře, no tak Milané, co máš
+v plánu dál a kde tě víš, tak může někdo
+vidět nebo slyšet?
+Já jsem měl právě nedávno
+meetup,
+teda měli jsme v cyklu
+Bratislava meetup
+o této téme, machine learning,
+a potom já jsem měl špeciálně
+teda talk o machine learning
+pre-embedded systémoch.
+A když bude nějaký záujem
+i v našich dalších pobočkách,
+tak bych to v rámci
+naší nalejvárny tam
+reprezentoval.
+A jinak nemám v pláně nič
+konkrétné, ale jsem otvorený
+komunikací
+a je one to one, takže kdo má záujem,
+můžeme kontaktovat a rád si s ním
+pokecám o těchto věcích.
+Přátelé, využijte toho, Milana sledujte.
+A když byste se pohybovali někde
+poblíž Bratislavy, tak doražte
+do pobočky,
+na pobočku v cyklu Bratislavy,
+protože to je opravdu, tam má genius
+loci, tak jak já si představu genius loci.
+A my to uděláme ještě líp, my,
+včera byla první pražská nalejvárna,
+a my uděláme další a uděláme ji na
+Embedit a přitáhneme sem ty
+Milana a ty jeho kouzelníky
+a uděláme něco tady, to bude ještě lepší.
+Tak to si nenechte ujít, přátelé,
+protože to bude stát za to. Tak Milane,
+my ti strašně moc děkujeme, tvůj,
+tvoje obava, že to bude nudný
+nebo netechnický, já nevím vlastně,
+čeho jsi zbavil, protože podle mě tohle byl jako…
+No po těch hvězdách, které jste tu mali,
+možná jsi nezaskóroval
+na mistrovství světové formy,
+ale to, co jsi zaskóroval tady,
+co se týče těch informací, tak
+já odcházím jako spokojený fanoušek.
+No úplně skvělý, děkujeme moc, Milane, že jsi
+na nás udělal čas a že jsme to takhle
+mohli zrealizovat. Díky. Já děkujeme krásně.
+Výborně s vámi
+diskutovalo. Ať se ti daří, měj se.
+Ahojte všichni.
+Mě vždycky pobaví, jak někdo, kdo
+má hrozný strach, aby to bylo zajímavý,
+pak odchází jako, řekněme, hvězda
+celé série, nebo jedna z hvězd série.
+Hele, jak jsem teďka říkal
+před chvílí, jo, a ta Milanova skromnost by se
+měla vyvážet, prostě ho nějak monetizovat,
+prostě to je neuvěřitelný, jo, neuvěřitelný.
+A ještě jedna věc mě napadla,
+to je podle mě úplně první díl ve slovenštině.
+Ano, ano, já jsem si to včera taky
+uvědomil. Že jo? Jo. Ale Milan mluví
+tak hezky slovensky, že mě to prostě
+vůbec nepřijde. Mě občas slovensky,
+jako já těm lidem občas nerozumím, nebo mě to
+tahá. Tak on neříká mankůšik,
+cencůl. Jo, jo, jo.
+On vlastně umí i česky, jo.
+On si to naučil, ale to si jako
+vlastně si to lahodí. Jo, jo, jo.
+Bylo to skvělý a jediný, co
+lituju posluchače, že nemají tu možnost,
+kterou máme my, protože samozřejmě jsme pod
+NDAčkem, že nemůžou
+jet do té laboratoře, kterou kluci mají
+fikundace. Oni tam, prostě
+to tam furt něco bliká, něco
+drtí, tahá, prostě zkoušejí
+tam různý věci. A pro mě, jako pro
+rozenýho softvéráře,
+to je vždycky Vili vonka,
+ty vole, čekáme, já tam přijdu a úplně na to koukám,
+říkám, ty vole, co se tady děje. Je to úžité, jo. Ale
+věřte, že zcela určitě něco
+z téhle dílničky máte doma.
+Jenom o tom nevíte, že to je určitě. To určitě.
+To určitě. No každopádně já si myslím,
+že to bude takovou další novou éru podcastu,
+o tom se ještě musíme tady s panáčkem
+naproti pobavit. Je to tak.
+Ale děkujem, že posloucháte
+ty feedbacky, který dostávám.
+Jak jsem říkal, v úterý jsem byl v upliftingu,
+spoustu lidí mě tam plácelo po ramínku,
+i za tebe, to je i tvoje ramínko, že se jim to líbí.
+Tak doufáme, že se vám to líbí nadále.
+Poslouchejte stále všechno
+při starým až do konce devátý série.
+No a příště zase
+zase s dalším zajímavým hostem.
+Jdeme to rozjíždět dál, moc děkujeme
+za vaši přízeň, doufáme, že vás to pořád
+baví a mějte se fajn a
+vidíme se, slyšíme se zase někde někde.
+Tak čau. Čau.

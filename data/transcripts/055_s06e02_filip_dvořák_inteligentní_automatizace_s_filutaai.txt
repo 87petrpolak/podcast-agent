@@ -1,0 +1,1633 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Krásný den, milí posluchači, vítejte u dalšího dílu vašeho oblíbeného IT podcastu Pod vocasem.
+Jako vždycky naproti mě nesmí chybět dneska opět usměvavý Petr Polipolák.
+A naproti mě Roman Žoukr, provazník, člověk, který u toho, když říká vašeho oblíbeného, krásně otevírá půso.
+To bych chtěl umět.
+Tebe to pořád fascinoje.
+To hrozně baví, to hrozně baví. A ještě jsem se to nenaučil.
+To jsou ty zvyky, když chceš, aby ti bylo rozumět, musíš otevřít tlapu.
+No mě to, jako úplně tomu rozumím a jako fakt bych se chtěl dostat na tvůj level.
+To je strašně hodné, děkuji. Tak jak se máš?
+Mám se dobře, mám se dobře. Tak trošku jsme se bavili, tak malinko střídám práci teďka s tréninkem, že jo, to je jasný, s běhacím.
+A jinak v práci je taky co dělat, co ty?
+No já to běhání teď jsem trošičku upozadil, protože jsme včera měli fotbal.
+Hráli jsme s naprosto nejlepším týmem z celý ligy, který se ještě spojil s týmem z horní ligy.
+Takže, jak řekl můj spoluhráč, prohlásil, mě ti kolem nich tak baví běhat.
+Protože já nepůjčil jí balon prostě za celý zápas.
+Takže já jsem věděl, že se musím šetřit na tyhle zápasy, ale zase se zpátky vrátím a doufám, že si ocenil mých 12 kilometrů.
+No 12 kilometrů, úplně neuvěřitelné.
+Právě naopak, tam byly slova chvály, snad i na stravě jsem ti poslal koment, ne?
+Jo, jo, jo, chci, aby to tady padlo veřejně, že jsem uběhl 12 kilometrů.
+Musím teda říct, že došlo k takovému nepěknému zranění v horní oblasti, jak se říká,
+s týlem playoff, kdy opravdu jsem si zedřel prsa.
+Přátelé, pokud jste někdy běhali a nebyli jste úplně připravený na to, tak jako já,
+tak asi víte, o čem mluvím.
+Ale prostě já jsem doběhl.
+A teď jsem se podíval ze zra na to tričko a měl jsem tam koláček na jeho český veselce,
+prostě krvavý. Říkám, tyvej, co to je tohleto?
+Pak jsem se samozřejmě slíknul a první kapka sprchy na to bolavé místo mě okamžitě mejdlo.
+Tak jsem poznal, co se stalo. Jak se to řeší? Jak to řeší běžci?
+Úplně krásně, my na to máme skupinu, takovou tu Vltavaran běžeckou
+a tam ti hnepsali, Románku, to musíš zalepit. A druhý přece, Románku, to musíš namazat.
+Já jsem to nepochopil, že náplasti a mazat jdou.
+Ideálně náplast, to by mělo zachránit to předem a kdyby už to potom nepomohlo,
+tak samozřejmě mazat. Ale upřímně jsou lidi, co jsou na to víc náchylní.
+Mně se to stalo, když jsem běžel půlmaraton, ale malinko. A jinak ne.
+Tak takhle, můj půlmaraton je měk 12 kilometrů, zase myslím, že tak nějak vychází.
+Dobrý, tak já budu mazat, lepit. Je teda zajímavý, myslím si,
+že to je možná první podcast, který kdy v IT v světě někdo otevřel tady openerem
+o bradavkách od Řenej.
+Jo, všechno jednou poprvé.
+Super. Tak doufám, milí posluchači, že vás to nadále baví.
+Já jakmile si něco dalšího zraním, hned to přitáhnu.
+No a možná pojďme na dnešního hosta, ne?
+Pojďme na dnešního hosta. Dneska dorazí Filip Dvořák,
+který je zakladatelem startupu Filuta.ai.
+A jsem líbí to jméno.
+No mě se to taky líbí. Mě se to taky líbí. Jsem zvědavý, co z toho vyleze,
+protože tak, jak jsme se bavili, tak je to jako specifický odvětví v AI,
+který, když jsem i probíhal s klukama u nás, tak jako není to úplně ten mainstream.
+A což bude zajímavý v tom, jak on to pojímá v rámci toho startupu.
+Takže jako já se moc těším, protože to bude neobvyklá záležitost pro AI lidi.
+No pecka, tak jdeme na to.
+Jdeme na to.
+Ve studiu s námi sedí náš dnešní host, Filip Dvořák. Čau, Filipe.
+Ahoj Filipe, rádi tě poznáváme, protože to je jedna z mála epizod,
+kdy vlastně člověka jsme neznali dopředu, což bylo zajímavé hned v kuchynce,
+kde Románek říká, už buďte potichu, pojďte už si sednout k tomu mikrofonu
+a pojďme si povídat, ať z toho taky něco mají posluchači.
+Protože ty to furt děláš.
+Já to dělám, já to dělám.
+Přátelé, on to furt dělá. Já říkám, neptej se jich, ptej se jich na počasí,
+nějaký kraviny, jakmile to začne být zajímavý, musí být puštěný mikrofon.
+Je to pravda, je to pravda. A my to doženeme teďka, pak jsme to teda utli,
+takže ahoj Filipe. Můžeme začít rovnou tím, že by ses nám představil,
+protože představit bychom tě mohli, ale nejlíp se představíš ty sám, věřím.
+Já svou představovačku bych asi uvedl tím, co jsem dělal posledních deset let.
+Já jsem, poté co jsem studoval na MatFizu, tak jsem co by takový ten,
+kanonu futr akademického světa, PhD student, tak jsem začal cestovat.
+Nejdříve jsem vyletěl do La Sienares ve Francii, kde jsem se zakladatelem oboru
+inteligentní automatizace, respektive AI plánování, plánování v umělé inteligenci,
+Malikem Galabem, tak jsem u něj dělal část svého doktorátu.
+Pak jsem další část přešel do Google, do Kalifornie,
+doktorát jsem dokončil v Microsoftu, chvíli jsem poté učil na univerzitě v Toronto.
+Po Toronto jsem se přesunul do Kalifornie, kde jsem se začal věnovat výrazněji startupovému světu.
+A po pár letech v Texasu jsem se vrátil do Čech a exitu třetí firmy jsem tady založil firmu čtvrtou,
+která se jmenuje Filuta AI.
+Je to takové hrubé shrnutí mých přesunů za posledních deset let a je tam hodně pozorování,
+které jsem nazbíral, jak jsem žil, jak jsem udělal v podstatě šest restartů kompletních,
+restartů sociálních, kruhů, networků, protože vždycky, když člověk začne žít v nové zemi,
+tak to znamená, že je potřeba si zavést úplně nové rutiny, najít nové známé,
+najít nové přístupy, jak trávit čas.
+A jsou to úžasné příležitosti v tom, že po každé ten restart je lepší a lepší,
+že člověk už ví, jak to dělat pořádně, protože poprvé udělá určitě spoustu chyb,
+takže je potřeba během prvního měsíce si nastavit ty nejlepší rutiny,
+včetně nalezení fitka, které je dostatečně pohodlné, aby se člověk udržoval
+nejenom v mentální pohodě, ale také ve fyzické pohodě.
+No a tímto úvod k sobě samému bych možná finalizoval tím, že bych řekl,
+že jsem takovej science fiction geek, kterej si od raného věku hrál se stavebnicema,
+až přešel při studiu,
+na matfizu na ty stavebnice, které mají ideálně nekonečné množství kostiček,
+což je matematika a matematické struktury,
+a z toho vyústila aplikace přímo do umělé inteligence,
+a v současnosti ty systémy, se kterými pracuju, tak jsou pořád větší a větší,
+a mají větší dopad, což je naplňující, je to zajímavý drive,
+a je to i drive, který máme všichni ve firmě, ve Filutovi.
+Já se možná zeptám, jak jsi říkal ty svoje štace,
+na kterou vzpomínáš nejradši, která byla pro tebe nejzajímavější,
+nebo třeba byl to pro tebe největší životní skok?
+Tak určitě ten první skok je vždycky největší,
+to je takový ten největší schod, to je podobný schod,
+když člověk třeba přechází z gymnázia na vysokou školu,
+a teď zjišťuje, že zatímco na Gym Plusu nemusel prakticky nic učit,
+a všechno si zvládl připravit ještě ve škole samotné,
+tak najednou na tom matfizu bylo příjemné,
+bylo potřeba se učit, bylo potřeba i trávit čas mimo přednášky,
+a to byl jeden studijní krok, co se týče cestovacího kroku,
+nebo takového toho schodu, který bylo potřeba překročit,
+jak to byla cesta do Francie.
+Protože já jsem tehdy v 25., 26., když jsem se přesouval,
+tak jsem v podstatě neměl žádný velký dlouhodobý výjezd,
+kromě nějakých studijních výměných pobytů v Belgii,
+tak jsem nikdy nevěl,
+ale třeba na dva roky, což byla ta Francie,
+úplně samostatně, bez zázemí, bez známých, bez ničeho,
+s tím, že je to potřeba vybudovat od začátku,
+a byl to Francie také trošku imigračně náročnější,
+protože je potřeba mluvit co nejplnulej francouzsky,
+a stejně člověk nikdy nebude mít takový akcent,
+aby okamžitě zapadl, což mu bude dáno najevo.
+Takže často.
+To jsem se chtěl zeptat, jak jsi na tom byl jazykově,
+než jsi se tam vydal.
+Jazykově jsem byl na tom jako čtyři roky francouzštiny na střední škole,
+takže dost mizerně.
+Ale měl jsi základy aspoň nějak.
+Měl jsem základy, ale francouzi byli poměrně,
+měli velká očekávání, co se týče francouzštiny,
+a v podstatě každý meeting na těch prvních týdnech,
+můj vedoucí Malik, tak se mě na meetingu vědeckém ptal,
+Filip, ty džapadle chodíš?
+Ne.
+To znamená?
+He was expecting. On očekával, že už konečně bych měl mluvit francouzsky.
+V podstatě na každém meetingu, už na začátku, tak se ptal.
+A příští týden.
+A Filipe, ty už konečně mluvíš pořádně francouzsky,
+abychom se mohli bavit jako lidi.
+A já bych čekal, že budou mít radost, že se aspoň snaží,
+že to byl takový ten střícnej krok. Vůbec ne.
+Tak to je zajímavý.
+Byl to takový humorný, no.
+Ale samozřejmě oni uměli anglické,
+a ta francouzština jim byla přirozenější.
+A celkově je tam zaznamenatelný tlak na to mluvit francouzsky.
+Je to pořád stejný, tak jak se říká,
+že ty francouzi prostě radši budou vždycky mluvit francouzsky.
+Zajímavý.
+Je to tak. Na druhou stranu,
+francouzštinu jsem si za dva roky rozvinul, osvojil.
+A je zajímavé pak využívat ty francouzské kruhy.
+Ony se do značné míry segregují všude po světě.
+Ale jsou zase hodně podpůrné.
+Takže když člověk třeba vyjede,
+když jsem pak pobýval v Toronto na University of Toronto,
+tak bylo poměrně snadné se zapojit do francouzských kruhů,
+protože jakmile člověk mluvil francouzsky,
+tak hned se mohl zapojit v podstatě do všech aktivit lokální francouzské skupiny.
+A tyhle skupiny jsou všude po světě francouzské.
+I v Texasu jsou francouzské skupiny,
+které si přenáší takové ostrovy francouzské kultury,
+která je poměrně zajímavá.
+Je tam velmi dobrý přístup k jídlu a kultura jídla,
+takže když člověk třeba v Texasu hledá normální chleba a dobré síry,
+tak se stačí zapojit do francouzské komunity
+a zeptat se lokálních francouzů, kde jsou našli nejlepší.
+Což mimo jiný teda ve Francii,
+když jsme tam v Labu chodili na obědy,
+tak bylo pravidelně každý den asi tak 30 minut diskuze o tom,
+kde je nejlepší chleba.
+Každý má to spolu.
+Větší by řešili, kde je pivo, za kolik a co to síry.
+No super, k tomu zahraničí se určitě dostaneme,
+protože to je nutná část tvojí kariéry a určitě nás zajímá víc.
+A dneska teda sedíš s firmou tady v Čechách,
+ty jsi říkal Carleen, pořádáš nějaké výpady do Ameriky, Francie a tak?
+Jsme primárně v Čechách, máme tady náš headquarters,
+což česky si říká centrála?
+Ano, centrála. O vedení.
+O vedení. Ale máme pak nějaké výpady, jak jsi říkal,
+kova chapadla do zahraničí.
+Máme lidi v Novym Mexiku, v Texasu, v Německu.
+Německo, musím si postěžovat co do administrativy,
+tak administrativní zátěže, tak je to tolik papírování,
+Čechy jsou ještě pořád v pohodě s tím, ve srovnání.
+Co do administrativní zátěže, tak Spojené státy jsou extrémně přívětivé pro startupy
+a je možné tam velmi rychle nastavit od účetnictví přes právní status,
+přes fungování firmy, základní smlouvy, kontrakty, NDAčka a tak dál,
+tak je možné velmi rychle rozběhnout firmu.
+Čechy jsou o něco náročnější a Německo je naprosté peklo.
+Jo, jo.
+Dohromady to zní, že už to není úplně malej startup. Kolik vás je?
+V tuhle chvíli ten počet roste na zhruba čtyřiadvacet,
+ale čtyřiadvacet jsou ti, kteří jsou s náma zaangažovaní.
+A je tam ne vždy ten engagement stoprocentní.
+Třeba univerzitní profesory máme dva a ti jsou na menší úvazky.
+Takže když bych to skonvertoval do nějakého full-time engagementu,
+tak je to asi štát.
+To už je pěkný, to už je pěkný.
+Já jsem startupy měl a do této výše jsem se nedostal.
+Jsme o třináct měli.
+O třináct, o dvanáct většinou.
+Plus nějaké dojezdy.
+Ne, to nebude potvírat ty staré rány, nechaj to bejt.
+Dneska to není díl o mě a ten ani dělat nebudu.
+Ne, ten byl krátký, to jsme si říkali.
+Dobře, když to vezmu od začátku, ty jsi hezky popsal,
+jak jsi měl rád stavebnice, pak teda, že jsi přešel na matematiku
+a našel si v tom souvislost.
+A já jsem, co jsem koukal a studoval jsem tě,
+tak si dělal i softwarovýho inženýra předtím, než se zvrhnul do AI.
+Ono to asi vždycky bylo nějaký kombinaci.
+Pavelo ti to kódoval si, po případě v čem si kódoval
+a proč jsi z toho třeba utekl?
+Hrozně mě to bavilo.
+Softwarový inženýrství tak je taková hravá forma,
+jak realizovat komplexní myšlenky.
+A mě na MatFizzu bavili různé,
+takové soutěže, co jsme měli v tom, jak co nejrychleji vyřešit nějaký problém.
+A to byl i dost způsobů, jak jsme měli koncipované zápočty,
+že jsme dostali, vylosovali jsme si.
+Vzpomínám si na pana profesora Kryla,
+který měl takový velký pytel plný otázek
+a z něj si člověk nelosoval, kdo vyhraje,
+ale losoval si otázky a otázka na papírku pak znamenala
+nějaké pestré zadání, které je potřeba naprogramovat.
+A myslím, že jich tam mohlo mít několik stovek tady těch zadání,
+což byla taková hezká pestrá nabídka, co člověk může dostat u zápočtu.
+Takže v softwareovém inženýrství, po té, co jsem se v podstatě vytrénoval
+na takovém rychlém kódování, rychlém řešení problémů,
+tak se začalo rozšiřovat v mém případě jako ten nejúžitečnější nástroj
+pro realizaci myšlenek v rámci matematiky a v rámci umělé inteligence.
+A v dnešní době, i když se začínáme dostávat do stavu světa,
+kdy existuje spousta no-code, low-code platform a přístupů k tomu,
+jak dělat umělou inteligenci, tak si myslím, že softwareové inženýrství
+je pořád základem, takovým tím realizačním, hybným svalem,
+jak implementovat řešení pro umělou inteligenci.
+A měl by to být předpoklad pro to, aby člověk mohl se ponořit
+do větší hloubky a byl schopen řešit.
+A měl by to být zajímavě škálovatelné problémy v rámci umělé inteligence.
+A já sám i v současnosti...
+Jednak teda, abych uvedl tu úroveň, jak jsme byli na MatFizu vyškolení v tom,
+jak řešit rychlé úlohy v rámci softwareového inženýrství a logické úlohy,
+tak já jsem se napoprvé dostal do Google, co se týče vstupních intervjů,
+a poté jsem pomáhal asi třinácti, čtrnácti dalším kolegom z MatFizu
+s vstupníma intervjů, kterých v Google bývalo tak devět až jedenáct třeba.
+– Jedenáct kol, jo?
+– Jedenáct individuálních, technických a HR séancí.
+– To je krása. A to byla ještě taková ta doba,
+jak by si přestěhoval jeden kopec na druhý, takový ty otázky,
+nebo kolik se vejde míčů do Boeingu a tyhle...
+– Bylo to to období. Já jsem se do Google dostal někdy 2013,
+a pak jsem tam teda nezůstal. Místo toho jsem šel do Microsoftu,
+protože ta pozice a projekt mi seděl víc, než co jsem našel v Google,
+což k firmě jako takové...
+Já asi nebudu zahloubávat úplně do směrů, kterými se Google vydává,
+ale primárně je to marketingová firma.
+A tehdy 2013 naprostá většina revenue generujících projektů
+jsou vyselá s reklamou, s ads.
+A těch projektů, které by si člověk viděl zvenku
+a které považoval za zajímavé, tak na ty bylo poměrně těžké se dostat.
+Aby člověk se dostal do Google X a pracoval na nějakém projektu,
+třeba balónů, které šíří Wi-Fi, nebo...
+některé autonomní řízení, tak tam se to moc nedalo.
+A oproti tomu Microsoftu tehdy jsem měl nabídku,
+abych optimalizoval supply chain v Dánsku,
+kde Microsoft tehdy kolem roku 2000 poskupoval všechny...
+velkou část takových těch skupitelných ERP systémů po Evropě,
+Navision, Accepta a tak dál, které byly rozvinuté.
+A ty měli ten středobod vždy, kterému se říkalo,
+plánovač nebo rozvrhovač, který říkal, co se má nakoupit, co se má kam přesunout.
+A mě to právě strašně lákalo nad tímhle systémem.
+A tady ten systém obhospodařovat a optimalizovat,
+protože ten dopad byl opravdu zajímavý, takže jsem tehdy přišel do Microsoftu.
+Abych dokončil, teď jsem zaběhl do Laguny, ale abych dokončil úvahu toho,
+jak to šlo s těma matfizátskýma kolegama.
+Tak na to, že Google měl té hry asi tisícku jedný,
+a pravděpodobnost, že člověk projde všema intervjů,
+tak my jsme mezi těmi kolegy měli asi 40%.
+A někteří kolegové tam dlouhodobě zůstali a ještě tam jsou.
+Zrovna jsem se chtěl zeptat, kde ty tvoji kolegové jsou,
+protože ty jsi generální ředitel, CEO firmy.
+Většina těch lidí zůstala na nějakých víc technických pozicích,
+takhle když se s nimi bavíš dneska, nebo kde tak jsou rozeseté po tom světě?
+Ti kolegové, kteří šli do Google, tak je to primárně Mountainville,
+Central a je to Zurich.
+Jo, jo, jo. Super.
+No a my jsme tady měli Tomáše Mikolova, v podstatě jak jsi řekl Google,
+jak jsem ho pět nástražil, co budeš povídat.
+A Microsoft.
+A Microsoft vlastně, takže to podobné.
+A on úplně nestratil dobré slovo o těch firmách,
+aspoň já si to z toho odnáším.
+Vlastně nevím, jestli tam byl rád.
+Jak na to koukáš ty a kdyby jsi mohl to udělat znova, šel bys tam znova?
+Tomáš má jeho specifickou zkušenost.
+Jsou to obrovské firmy.
+Google teď může mít mezi čtvrt až půl milionem přímých a nepřímých zaměstnanců.
+A ta zkušenost je hrozně závislá na projektu, na týmu.
+A často tady u velkých korporátů,
+když je mi položen důvod,
+je dotaz jaká je ta firma,
+jak má smysl do ní jít,
+tak to není akurátní otázka pro rozhodování,
+jaké je přesně jméno té firmy,
+ale opravdu silně záleží na konkrétním projektu a týmu.
+A platí to pro tady ty obrovské,
+je to přenositelné i na další korporátní firmy,
+kde je možné najít super projekt,
+inovativní ve firmě,
+která jinak třeba nepatřila mezi ty inovativní tahouny.
+Protože interně uvolnili budžet
+a najednou je tam třeba dělají nějakou iteraci nad interníma startupama.
+Tohle se mi stalo ve firmě Schlumberge SLB,
+kde ačkoliv je to velmi konzervativní oil and gas business,
+tak vytvořili interní jednotku,
+která si mohla odříznout od historické nánoše
+konzervativního přístupu k IT.
+A mohli jsme tam i třeba najednou mít Linux,
+zatímco zbytek firmy byl všechno Windows manažovaný,
+kde nešlo dělat vůbec nic.
+No a tady v tom prostředí najednou šlo vymyslet
+velmi zajímavou umělou inteligenci.
+Takže vrátím se zpátky.
+Nelze submanizovat firmu velikosti Google jako jednu zkušenost,
+ale opravdu záleží na tom, kam konkrétně člověk zapadne.
+A o to by se taky měl případný zájemce o práci nejvíce zajímat,
+aby si nasondoval, jak ten jeho tým bude vypadat,
+na čem bude pracovat a kdo ho bude manažovat.
+Moje zkušenost byla v rámci Google a Microsoftu
+taková, řekl bych, načuchávací,
+kde jsem pozbíral zkušenosti s tím, jak dělat softwarový engineering
+na úrovni, která škáluje na celoplanetární úroveň.
+Což je netriviální otázka většinou,
+protože není snadné přenést, řekněme, nějaké lokálně vyvíjené softwary,
+které běží vždy na jenom stroji do kontextu masivního škálování
+na miliony až biliony entit.
+A tady ten přechod v podstatě znamená fundamentální změnu
+v mindsetu toho, jak člověk programuje.
+Není prakticky možný debagovat, je potřeba se zamýšlet
+nad každou minimalistickou operací, která se provede.
+Velmi snadno se tam udělají obrovské chyby.
+V Google tam vela takovej mantyna, říkalo se mu
+one million mistake, one million bug.
+V podstatě se jenom čekalo po nástupu každého softwarového inženýra, až ho udělá.
+A ten se stane neuvěřitelně snadno.
+Sám jsem nebyl, Tomáš Mikolov byl
+v jiné pozici, co se týče politiky kolem
+jazykových modelů, kde já jsem tady
+v té oblasti se nepohyboval, já jsem byl spíše v optimalizaci a sledoval jsem
+jiný vývoj, sledoval jsem, jak se
+například staví firma jako Microsoft
+k optimalizacím pro konkrétní biznesy, což je
+pro Filutu také jedna ze zajímavých příležitostí, protože
+jak Microsoft, tak SAP, tak Siemens
+a další velcí provideri platformem
+pro ERP, tomu říká
+Enterprise Resource Planning, tak nestrácejí čas
+nebo spíše nemají kapacity na to, aby dělali
+klientské optimalizace, kde klientská optimalizace znamená, že
+opravdu nasadí nějaké optimalizační jádro
+na biznes klienta, například pokud je nějakou podčástí
+třeba dispečingový biznes, kde je potřeba hledat
+optimální přiřazení nějakých rozvážek kurýrům,
+tak tohle to už jsou podřešení, které typicky ti velcí hráči
+nenabízí a nechávají to na partnerech. A tam
+vzniká zajímavý prostorek do ERP, globálních ERP řešení,
+doplnit inteligentní automatizaci
+a dodat hodnotu klientům ještě předtím než
+nebo respektive enablovat partnery, aby jim byly
+schopné tady na tom middlewareu dodat řešení, které je
+efektivnější, než kdyby tam žádná optimalizace nebyla.
+My jsme tady měli vlastně podobnou diskuzi ohledně Salesforce,
+kde v jednom z předchozích dílů, kde jsme diskutovali, že vlastně
+firmy jsou schopní dělat tyhle adony, tak to je něco, čemu se věnuje
+Filuta.ai, rozumím tomu správně, nebo možná popiš nám,
+co teda Filuta.ai dělá, pojďme tam trošku skočit teďka, abychom si řekli
+víc o tom, čemu se věnuje dneska.
+Pojďme se podívat na Filutu. Já bych technologicky
+bych ho shrnul tak, že jsme, já jsem 12 let,
+posledních 12 let byl ve výzkumu symbolické umělé
+inteligence, což je takový protipol
+učení se na velkých datech, je to umělá inteligence, která
+se učí, často se může učit na malých datech, nepotřebuje
+velká data, a učí se modely, které jsou plně vysvětlitelné,
+jsou to modely, které jsou učtivé, jsou to kauzální modely.
+Ta tradiční strojové učení, nebo v současnosti
+nejpopulárnější strojové učení, postavené třeba na
+deep neural networks, nebo jiných formách
+statistického učení, tak se učí
+v zásadě chování světa formou korelací
+nějakého statisticky manifestovaného chování, které má
+dostatečně datově podložené.
+Když se učíme v rámci symbolické umělé inteligence,
+tak se naopak učíme kauzality, učíme se dokazováním toho,
+jak pozorované jevy mohly probíhat.
+Filuta, co by je jedna z klíčových technologií,
+se právě zaměřuje na schopnost učení se těch kauzálních modelů
+s minimálním zásahem uživatele.
+Zatímco se učení na velkých datech rozvíjelo
+do velmi sofistikované míry, a v současnosti ten tooling
+kolem učení se nad velkými daty je úžasný, pohodlný.
+Existují v současnosti AutoML řešení, kdy se jenom nahážou data
+do frameworku typu H2O,
+který projde veškeré jemu,
+nebo všechny typické transformace vstupních feature,
+tak aby našel takovou kombinaci, která pak nad množinou modelů,
+které vyzkouší, začne fungovat co nejlépe.
+Tohle je úžasný pokrok oproti tomu, když jsem se na Matfy zúčil,
+jak dokazovat neuronové sítě,
+respektive jak dokazovat, že backpropagation algoritmus
+bude konvergovat k nějaké minimalizaci celkové chyby systému.
+V současnosti z inženýrského hlediska
+se neuronové sítě opravdu posunuly do velmi pohodlné úrovně,
+kdy na střední škole už můžou studenti začít je používat.
+Tato úroveň ještě nebyla dosažena v symbolickém a kauzálním modelování.
+S Filutou posouváme úroveň,
+jak se učit kauzální modely. Doufáme,
+že až na úroveň pohodlnosti, jako je to v současnosti se strojovým učením,
+zároveň do toho přimícháváme strojové učení
+a zároveň do toho přimícháváme jazykové modely.
+A to způsobem tak, že automatizujeme člověka, který by navrhoval inteligentní automatizaci.
+Je to člověk, který by právě přišel do firmy.
+Například nějaké konzultační společnosti větší, která má expertízu
+na dodávání komplexních řešení, optimalizačních, třeba IBM.
+Konzultant IBM přijde do firmy 12-18 měsíců,
+zpracovává data, vytváří piloty.
+Z experty na konkrétní podoblasti hardkoduje modely,
+které optimalizují problém zákazníka.
+A tady potom usilí se potenciálně
+vytvořit systém, který jde do produkce. My se díváme tady na toho člověka
+a automatizujeme ho, co nejvíc to jde. Snižujeme tu nutnou úroveň expertízy
+a zkracujeme ten čas s tím, že automatizujeme
+většinu jeho operací. Co je velmi drahé, tak je ruční modelování.
+Doposud kauzální modely tak se
+do maximální míry dělali ručně,
+protože je tam spousta triků, spousta obrátek, které jsou
+náročné na vymyšlení. Jsou to takové oblasti jako je constraintové programování,
+mixed integer programming, scheduling,
+constraint-based scheduling, které jsou těžké. My se
+snažíme modely tady pro ty modelovací techniky naučit automaticky
+a na platformě Filuta pak tyto modely kombinovat
+s strojovým učením a zkomponovat je.
+Neboli jsme naším takovým současným
+modem, tak je, že jsme kompozitní umělá inteligence, že operaci nalezeme kompozitní
+umělou inteligence. Kompozitní umělá inteligence říká,
+neexistuje jediný typ, jediná technika umělé inteligence, která by
+zvládla úplně všechno perfektně, ale musíme vždycky řešit reálné
+problémy kombinací několika technik. A kompozitní AI
+navrhuje, že postuluje, že můžeme
+mít obrovské portfolio řešících technik a pak tím hlavním
+úkolem, co je potřeba udělat, je rozbít problém
+reálného světa na takové podproblémy, které můžeme řešit jednotlivými technikami.
+– Abych to pochopil pro toho klienta, pro každého
+toho klienta netvoříte úplně nový řešení, ale máte nějakou
+ucelený
+jádro, na který potom stavíte dál, nebo jak to vypadá?
+– Budeme na konferenci ACAPS, což je
+největší konference na světě na AI plánování a rozvrhování
+a bude shodou okolností v červenci tady v Praze. Budeme prezentovat
+náš produkt a budeme tam mít systémové demo produktu.
+A náš produkt, naše platforma, tak
+v konečném důsledku ve 4 fázích je schopná
+velmi rychle vygenerovat libovolnou inteligentní
+automatizaci. A ty 4 fáze probíhají tak, že na vstupu
+v první fázi požereme data, ingestujeme data
+a ty rozřežeme jednak na části, které
+budou dlouhodobě online, které budou offline, a pak
+je odprofiltrujeme na toky, které budou
+směřovat do různých typů modelů, různých učicích technik.
+Můžou tam být části, které jsou více spojité, je potřeba si je třeba učit
+s neuronovkama. Můžou tam být části, které jsou více kauzální, je potřeba
+se je učit jako velký kauzální model.
+Ve druhé fázi se z těchto dat učíme a tvoříme
+modely. To je lidsky augmentovaná technika, kdy třeba ty kauzální
+modely tak jsou přímo vidět. Ve vizuálním interfejsu
+je vidět, jak ten model se vytváří, jaké tam jsou
+akce, které popisují to, co jsme ve světě viděli, a jaké
+jsou efekty těch akcí. Uživatel si může doplnit informace třeba, které nebyly
+v datech, protože samozřejmě častým problémem je,
+že při modelování nevíme, co nevíme. Pokud něco nebylo v datech,
+tak jsme to neviděli, ani v té kauzalitě to nebude, a to uživatel může ručně doplnit.
+Ve třetí fázi se ty modely, které se ve druhé fázi vytvořily,
+skompilují dohromady, skomponují dohromady formou
+nějakého kompozičního schématu, a to je něco, kde můžeme
+právě vidět, jak jsou si blízké různé problémové oblasti.
+Například
+autonomní řízení může být dost podobné řízení továrny.
+Máme příklady toho, jak třeba řízení
+autonomního vrtání geotermálních studen,
+nebo ropných vrtů, tak je
+podobné schéma jako autonomní řízení auta.
+– Když kouknete na ty data, tak ty paterny tam vidíte. – Když se díváme na ty paterny
+kompozice, tak ty paterny začnou být hodně podobné.
+Takže my tam uživateli v zásadě nabízíme,
+kdo si vybral.
+V současné
+podobě je to spíše více manuální,
+kdy si vybírá uživatel, ale
+později začneme doporučovat více automaticky.
+Ale nabízíme tam
+kategorizace typu
+můj byznys je v manufacturingu,
+mám továrnu, která vyrábí
+třeba něco
+z kovu nebo něco z plastu, tak si vyberu
+schéma, které se typicky používá pro továrny.
+A tady do toho schématu si
+uložím ty svoje modely, které jsem se naučil.
+No a od tohoto okamžiku,
+z té třetí fáze do té čtvrté, tak už
+je tam jenom jedno kliknutí. Já v okamžiku,
+kdy si řeknu, jo, tohle je moje kompozice,
+zadal jsem do ní
+modely, které popisují moji
+situaci, kterou jsem se naučil na svých datech,
+zadal jsem tam
+konektory, jaké tam jsou datové vstupy
+a výstupy, a zadal jsem tam, jaké tam
+jsou cíle, co chci vlastně optimalizovat.
+Chci minimalizovat
+náklady, chci maximalizovat revenue,
+mám tam nějaké metriky, chci maximalizovat
+uživatelskou spokojenost. Máme
+klienta, který třeba chce
+minimalizovat počet
+dodávek jídla, které jsou později
+než pět minut. A
+tohle jsou specifická kritéria pro
+business. A v okamžiku, kdy tyto
+jsou zadaná, tak už se pak jenom klikne na jedno
+tlačítko a my
+zkompilujeme a deployujeme
+do cloudu mikroservisní architekturu,
+která obsahuje všechny
+solvery, které jsou potřeba
+k tomu, aby pracovaly na základě těch modelů,
+které jsou zapojené v kompozici.
+Má interfejsy, které jsou definované těmi
+konektory a nepřetržitě optimalizuje
+a generuje
+individuální inteligentní
+rozhodnutí tak, aby se
+maximalizovala metrika, kterou
+nám uživatel zadal.
+A tuhle službu, to pak už si může
+zapojit do svého flow.
+A máme v současnosti několik
+platících klientů, kteří už
+tyto služby používají, které jsme vygenerovali.
+A výsledkem je teda někde běžící
+v cloudu software, který má nějaký interfejs,
+který já pak můžu napojit do svý aplikace
+a nechat ho rozhodovat v určitých
+věcech. Přesně tak. Naším
+produktem je generátor těchto inteligentních
+služeb. Super. Když se podíváme
+technicky, tak co za cloudu
+používáte? Jaký technologie při vývoji
+takového produktu jste použili?
+Iterujeme nad nejmodernějším
+stekem, co lze použít
+a dlouhodobě udržovat v současnosti.
+Ten návrh je
+nad Kubernetes
+a Azure
+Cloudem.
+Každopádně budeme
+jsme obecně cloud agnostik,
+takže ten
+Kubernetes deployment budeme pak
+rozprostírat podle
+zájmu klienta nebo podle
+optimalizace náročnosti
+na více
+cloudových providerů. Co se týče
+samotné architektury, tak
+microservice architektura
+je jeden v současnosti
+z nejlepších konceptů, který nám
+pro takové to
+mobilní deployování
+různě nakonfigurovaných
+inteligentních automatizací
+sedí a
+benefituje našemu
+konceptu. Co se týče
+vlastního
+lepení dohromady
+těch jednotlivých microservice,
+tak tam ty standardy
+začínají být trošku rozprostřenější,
+protože my tam zapouzdrujeme
+některé solvery, třeba
+tak jsou napsané ve Fortranu,
+jsou to extrémně rychlé solvery,
+jsou zaměřené třeba na nějaké
+logistické podvlohy.
+Tam ta pestrost, co se týče
+jazyku, tak začne být docela
+velká, na druhou stranu
+v současném
+docker friendly prostředí, tak
+můžeme zakontejnerovat
+s jednotným interfacem
+jakýkoliv jazyk
+a testovat
+kvalitu
+kontejneru a jeho vstupu, výstupu
+úplně nezávisle,
+což nám umožňuje tam
+tu abstraktní rovinu
+zadokorovaných
+služeb, které pak spojujeme dohromady
+a to spojování dohromady samotné,
+tak tam používáme koncepty
+z autonomní
+umělé inteligence ve vesmíru,
+tam používáme
+behaviorování stromy
+s constrainovým programováním pro diagnostiku,
+pro
+kauzální modelování,
+pak používáme jazyky jako je
+PDDL, používáme tam
+zase technologie vyvinuté
+hlavně pro autonomní
+navigaci ve vesmíru
+a dá se říct do značné míry,
+že tady ty technologie přinášíme
+z vesmírného použití na zem, kdy
+najednou to, co se vyvinulo
+třeba pro ovládání satelitů,
+začíná být užitečné v okamžiku, kdy
+chcete ovládat
+továrnu bez lidského zásahu
+a spousta těch problémů už byla vyřešena,
+akorát byla vyřešena buď
+z NASA v ESA
+nebo obecně v akademickém světě
+a ještě nebyla aplikovaná do pozemských
+průmyslů.
+Takže vy tak řekněme infrastrukturně
+to máte docela mainstream,
+ale to uvnitř vypadá, že je
+velmi specifický pro váš obor.
+Chápu to správně?
+Je to tak. Uvnitř to samotné
+třeba učení těch kauzálních modelů,
+tak to je přístup,
+to je technika, kterou patentujeme
+a tam jsme
+na té krvácející hraně.
+Bleeding edge of development.
+Jasný.
+Já když jsem
+říkal klukům
+z machine learningu, že přijdeš
+a bavili jsme se o symbolických modelech,
+tak oni první, co se mě
+ptali a řešili jsme, tak oni říkají
+chápeme ten klasický
+deep model jako milionorozměrnou
+funkci a
+v podstatě symbolický model bych
+pak chápal jako něco, kde vybírám z nějakých
+rozumných vzorců. Je to teda
+tak, nebo
+můžeš tak mě vyvect z omylu, jak to teda přesně je?
+Několik
+zajímavých
+příkladů, jak
+si uvědomit ty rozdíly.
+Ty
+výběry ze vzorců může být
+nějaký, může být
+jedna formulace, když ty vzorce si
+řekneme, že jsou
+predikátová logika prvního
+řádu,
+nebo quantified Boolean formulas,
+neboli vzorce, které mají
+expresivitu
+v rámci
+dokazování jejich pravdivosti,
+někde v oblasti p-space těžkosti.
+Když zaběhneme do
+teorie složitosti,
+poté ty vzorce jsou schopné
+zachytit
+v zásadě všechny problémy na světě.
+Ale co se týče expresivity,
+co je zajímavé, tak je sledovat,
+jaké problémy reálného světa
+je možné řešit
+třeba tu
+nějakou velkou masivní
+funkcí
+multidimensionální, kterou tu neuronovka
+modeluje.
+A jaké problémy můžeme řešit
+tím symbolickým přístupem.
+A tady je šikovné se podívat
+na chování té funkce.
+I ten symbolický přístup bude řešit
+nějakou funkci.
+Ale ta funkce
+typicky na těch příkladech,
+kde symbolické učení
+a symbolické modely
+jsou dobře uplatněné,
+tak na těch příkladech
+ta funkce nebude moc spojitá.
+Jakou roli tam hraje spojitost?
+Bez toho, že bysme využívali
+matematickou analýzu, tak to popíšu
+třeba na
+citlivosti na perturbaci.
+Když se bavíme o tom, co si naučí
+ta neuronovka,
+díváme se na to jako na funkci, do které
+vleze milion parametrů.
+Třeba představme si, že máme
+nějaký obrázek tisíckrát tisíc,
+máme tam nějakou kočku,
+nebo tam máme psa.
+A ta funkce, kterou ta neuronovka si naučí,
+tak je rozlišit, jestli to je kočka nebo pes.
+A dá nám buď tří do nula, nebo tří
+do jedna. Tahle funkce
+je
+málo citlivá na perturbace
+vstupu, což znamená, že když tam
+změníme o jednu úroveň šedi jeden
+z těch pixelů, tak
+pořád to pravděpodobně bude
+stejné zbířátko, pořád to bude
+klasifikované jako stejné zbířátko
+a ta funkce je spojitá.
+Je taková jako hladká.
+Když se podíváme na problém, který
+je citlivý na perturbace,
+tak si můžeme představit,
+že ve stejném objemu těch dat,
+tak si třeba nakreslíme
+příští měsíc všechny lety
+mezi všema městama na světě.
+A
+existenci toho letu si
+zadáme do matice
+a tady tahle matice bude
+1000x1000.
+A teď
+jako třeba ten úkol, který
+chceme vyřešit, tak je
+jak najít optimální tok
+v grafu, který je definovaný
+těmito
+spojnicemi mezi
+středními městy.
+Doplním ještě, že by tam bylo dobré,
+abychom tam měli co optimalizovat,
+tak tam mít třeba ten průtok,
+jak velký je to potenciálně
+tok, nebo si na to
+můžeme podívat třeba jako na timelineu
+všech letů, které mají být za příští měsíc.
+Každopádně existence toho konkrétního letu
+nebo neexistence, tak může být
+zadaná jedním tím pixelem.
+No a když my pak
+se podíváme na
+tu jednu elementární změnu,
+kterou tu provedeme, třeba když zrušíme let mezi
+Londýnem a New Yorkem,
+tak
+ten výstup,
+to jak by mělo nějaké množství
+lidí optimálně létat
+celý příští měsíc,
+bude dramaticky jiný. Ta perturbace bude obrovská.
+Čili ta jedna věc
+ovlivní ten celek
+zásadním způsobem.
+Maličká změna toho vstupu může znamenat
+dramatickou změnu toho výstupu.
+Tyhle typy problémů
+můžeme říct, že ta funkce je nespojitá.
+Spojitosti, nespojitosti.
+Zatímco v tom prvním případě, kde jsme měli kočku psa,
+tak to byla krásná spojitá funkce.
+A v tom druhém případě
+jakákoliv změna může znamenat
+obrovský výkyv té funkce,
+protože najednou uskočíme úplně jinam.
+A tahle ta citlivost
+na perturbace, tak je něco, co
+je
+typicky extrémně těžké
+se naučit neuronovými sítěmi.
+Respektive, možné to je,
+jsou na to přístupy,
+ale je to nevhodné.
+A neškáluje to.
+A když se chceme učit, když začneme škálovat,
+začneme učit hodně velké problémy.
+Třeba celoplanetární
+přeprava, nebo když bychom se chtěli
+učit třeba jeden z projektů,
+se kterým pomáháme, tak je
+rozvrhování
+staveb komplexních budov.
+Představme si věžák v New Yorku
+o 100 patrech, kde je potřeba udělat
+40 tisíc kroků a je potřeba
+rozvrhnout, jaká
+pracovní četa bude ten,
+který sloup stavět v daném okamžiku
+a uvažovat o tom, jak dlouho jim
+bude trvat se při místě třeba mezi jednotlivými sloupy.
+Tak tohle jsou problémy,
+kde ta neuronová sítě
+nebude efektivní
+a naopak symbolické
+kauzální modely, tak dokážou přinést
+obrovské úspory. A to úspory
+řádově v desítkách procent.
+A reálné problémy
+typicky mají jak spojitou, tak nespojitou
+část. Čímž se vracíme
+k tezi kompozitní umělé
+inteligence, že můžeme řešit
+daleko širší škálu problémů
+reálného světa, když
+máme v našem
+toolboxu jak techniky, které se
+učí nespojité funkce,
+tak techniky, které se učí spojité funkce
+a smícháme je dohromady.
+Abych se doptal ještě na to, nad čem jsme se bavili.
+Jak se vlastně
+ty symbolický modely trénují? Nebo je to
+vůbec reálná správná otázka?
+Trénujou se, když v podstatě mám ty
+podmínky předem daný, tak jak jsi popisoval před chvílí?
+Ten samotný
+termín trénování, tak
+je trošku
+zavádějící a
+vycházíme z něj, protože
+začalo být oblíbené ho používat
+pro strojové
+učení, které spíše se zaměřuje
+na ty spojité funkce.
+Trénování pro
+symbolickou umělou inteligenci,
+potožmo kauzální modely,
+tak spíše vypadá
+jako
+logická syntéza. Je to
+nějaká forma prohledávání,
+stejně jako
+jsou tam spojitosti. Když se třeba
+díváme na trénování neuronových sítí,
+tak se
+můžeme dívat na
+průchody nebo na ty trénovací
+epizody
+při
+updatu vach
+neuronové sítě jako
+na jeden
+krok v konvergenci
+k nějakému rozumnému
+nastavení té sítě.
+A jeden ten krok v neuronovkách
+znamená, že třeba
+uděláme jeden cyklus back propagation,
+kdy se podíváme na to, jak je velká chyba,
+pak se pokusíme zpětně najít
+diferenciály, jak upravit jednotlivé váhy
+po cestě v rámci neuronovky
+a projedeme to do začátku.
+Tak
+v
+syntetizování modelu,
+symbolického modelu,
+tak tam ten prohledávací problém,
+zatímco v té neuronovce to
+byl nějaký prostor vach,
+tak při syntetizování
+modelu je to nějaký prostor
+hyperparametrů, kde hledáme
+typicky
+takový model
+a teď přeskočím do teorie grafu,
+hledáme
+takový graf, který je,
+který má co nejzajímavější vlastnosti,
+většinou hledáme ten, co je nejkompaktnější
+a hledáme
+takový graf, který má jako své
+úplné podgrafy,
+grafy, které jsou
+izomorfní s
+grafy reprezentujícími pozorované
+chování světa
+a řeknu to ještě možná
+jednou opačně,
+když se podíváme na svět a pozorujeme ho
+jako
+nějaké změny stavu světa,
+tak my si můžeme tady ty změny
+světa
+reprezentovat jako nějaké grafové přechody
+mezi stavama světa
+a ty přechody znamená, to jsou typicky
+věci, které
+se dějou za sebou, tak
+představují nějakou potenciální
+kauzalitu. Když se díváme na to, že
+jsme zmáčknuli tlačítko
+a poté pozorujeme,
+že se zvýšila teplota motoru
+a poté pozorujeme, že se auto
+rozjelo a poté pozorujeme,
+že auto se přesunulo na
+nové místo, tak
+tyto akce uvidíme třeba
+v nějaké time series za sebou s nějakými
+časovými vzdálenostmi
+a můžeme si
+tak myslet, že mezi nimi bude nějaká kauzalita.
+Aby jsme zjistili, jestli tam
+ta kauzalita opravdu je, tak
+proto právě budeme syntetizovat
+a začneme tak, že si
+uděláme graf, kde
+všude, kde může být nějaká kauzalita, tak si
+nakreslíme hrany v tom grafu. Kde tam
+je potenciálně kauzalita, mohla tam vzniknout
+nějaká kauzalita, protože
+ty události se staly po sobě.
+No a když máme těch
+pozorování světa pár, nemusíme jich mít moc,
+máme 5-10 příkladů pozorování
+světa a toho, jak se ten systém
+choval, jaké události jsme o něm
+zaznamenali, tak my se podíváme
+na grafy, které změny v tom světě
+popisují a začneme hledat
+takový graf, kde
+všechny tyhle pozorování o světě
+jsme schopni promítnout do toho
+grafu, který hledáme, tak, aby tam byly
+kompletně
+začleněny. Aby byly
+podgrafama toho grafu, který hledáme.
+A ten graf, který
+hledáme, tak ten má
+strukturu, která pak odpovídá
+našemu
+modelu v predikátové logice.
+Ta konstrukce toho grafu
+tak je
+ekvivalentní nějaké podmnoženě
+kvantifikovaných budovských formulí.
+A tento graf, tím, že my do něj
+promítneme všechny ty podgrafy
+pozorování o světě, tak
+zároveň funguje jako generalizace pozorování
+světa. Což má
+obrovské výhody třeba pro
+abstrakce
+škály, protože my jsme
+schopni se naučit chování
+továrny na třech lidech
+a třech strojích. Ale tady
+tím promítnutím do predikátové logiky,
+tak máme model, který
+stejně tak funguje pro továrnu o tisíci lidech
+a tisíci strojích.
+Což zase je
+jedna z deviz, které třeba neuronové sítě
+přímo nenabídnou, protože
+ty mají typicky
+problém se škálováním na
+větší verzi problému.
+I kdyby se neuronová sítě použila
+na třeba optimální rozvrhování
+výrobního procesu v továrně,
+tak se neučí fixní velikost toho problému.
+–Já jsem se ptal chatu GPT,
+jestli obsahuje symbolické
+modely. On mi řekl, že ano.
+Dokázal bys popsat,
+jak by to tam třeba mohlo fungovat?
+Jak by tam ty symbolické modely mohly pomáhat?
+–Chat GPT
+je statistický
+agregát
+a
+do značné míry
+je schopen v omezeném
+velikosti kontextového
+okna
+zachytit kauzalitu,
+zachytit kauzální uvažování.
+Myslím si, že chat GPT
+a nějaké testy jsme si s ním taky dali
+v tomto kontextu,
+tak může do určité velikosti
+a tato velikost je poměrně malá,
+být schopen
+odpovídat
+na otázky týkající se kauzálních modelů.
+Takže můžeme očekávat, že
+třeba mu
+můžeme zadat několik popisů světa
+a on
+z nich bude schopen vygenerovat kauzální model.
+Myslím si, že má
+i rozumnou znalost jazyků, které používáme.
+My používáme PDDL
+a ANML.
+Jsou dva jazyky používané pro
+symbolické kauzální modelování.
+A ty experimenty,
+které jsme s chat GPT provedli,
+tak jsme se dostali
+na limit toho okra
+někde kolem asi plánů,
+které mají 10 akcí.
+A pak už jsme
+vyskočili z kontextu
+toho, o čem je schopen
+chat GPT kauzálně uvažovat.
+Abych to uvedl
+do nějakého přirovnání.
+10 akcí to jsou
+to je uvažování o modelech,
+které mají
+třeba když se bavíme
+o té továrně, tak 10 akcí
+znamená, že tam máme
+jeden produkt, který do nějakého
+stroje potřeba přesunout. Na tom stroji
+pak se něco realizuje.
+Poté je ten výsledný
+produkt potřeba přemístit do jiného stroje.
+A 10 akcí
+znamená, že to není moc
+použitelné pro něco praktického.
+Jasně, jasně.
+No a když
+trošku u toho chatu GPT zůstaneme,
+jak ty vůbec vnímáš ten hype,
+který teďka přišel na přelomu roku
+těch nástrojů na AI,
+vzniklo spousta. Otázka jedna,
+jak to ovlivnilo Filuta AI,
+jestli vůbec nějak. A otázka dvě,
+jak vám ty nástroje pomáhají třeba
+při práci?
+To jsou skvělé otázky.
+Chat GPT
+je taková
+řekl bych výhra pro jazykové modely.
+Protože jazykové modely
+i v formě GPT
+míry sofistikovanosti
+GPT, tak
+jsou na trhu další dobu
+a pořád se posouvají někam dál.
+Ale pořád
+se nedařilo je úplně produktizovat
+a obzvlášť nějakým
+B2C modelem a prodat je zákazníkovi.
+A chat GPT
+je právě tady tím úspěšným
+pokusem, kdy
+ten hype, který to nastartoval,
+tak byl
+relativně nízká investice.
+Ta investice do vyvinutí
+chat GPT nad
+GPT byla zaznamenatelnější.
+Myslím, že si tak řádově
+desítky milionů dolarů se investovali
+do lidských anotací.
+Chat GPT vznikl tak, že
+spousta anotátorů sedělo u GPT
+a říkalo GPT
+vkládalo tam anotace,
+vkládalo tam v podstatě templatey,
+jakým způsobem je potřeba odpovídat
+na dotazy určitého typu.
+A to, co my jako lidi
+vidíme za výstupy
+z chat GPT, tak do značné míry
+jsou to předpřipravené
+templatey, jak by
+měly vypadat dobré lidské
+odpovědi.
+Tohle z toho bylo hodně práce, aby se
+chat GPT chovalo
+lidsky uchopitelně a dobře.
+A to, nad čím
+žasneme, jak správně
+chat GPT odpovídá,
+tak je něco, co nám bylo
+předpřipraveno. Není to
+úplně...
+Bylo to předpřipraveno lidmi, není to něco, co
+by se tam spontánně vzniklo.
+Na druhou stranu
+chat GPT je
+opravdu praktický. Já jsem
+velmi nadšenej tady z toho
+posunu, řekl bych,
+z vlastního osobního
+uživatelského pohledu,
+protože je to
+nový pohled na vyhledávání
+a zpracování informací o světě,
+kdy měli jsme
+skvělé
+vyhledávání typu Google,
+Bing atd. Nebudu říkat, co je lepší, co je horší,
+není téma
+k diskuzi, ale
+to byla forma vyhledávání, kdy
+co se týče funkcí, tak
+z nějakého
+spojení slov jsme schopni
+najít projekci do
+nebo uspořádání nějaký ranking
+všech stránek na světě, které
+nějakým způsobem s tím souvisí.
+No a to je jedno paradigma,
+jak prohledávat svět
+informací. No a chat GPT je
+v podstatě změna paradigmatu,
+jak můžeme pracovat se všemi
+informacemi, co jsme sobě lidi vytvořili,
+kdy my se,
+my je všichni zhlukneme dohromady,
+takže se naučíme statisticky
+předvídat
+pravděpodobnost,
+pokud
+už několik slov jsme napsali,
+tak jaká je pravděpodobnost toho,
+že nějaké další slovo bude následovat.
+A tento statistický model
+my se naučíme ze všech znalostí,
+co máme, čímž je
+efektivně zagregujeme.
+A tenhle agregát je nějakou formou,
+nějakým konceptem
+toho, jak naše globální
+znalosti združit
+do co nejjednoduššího,
+co nejsnadněji
+reprodukovatelného
+proudu slov.
+A chat GPT
+je nějakou
+formou, jak
+tenhle prout slov promítnout
+do lidsky snadno stravitelného
+čtivého výstupu.
+A
+technologicky, uživatelsky
+je to
+velmi příjemný pokrok
+dopředu. Těším se, až
+chat GPT, nebo respektive
+jazykové modely s anotacemi
+jako chat GPT budou
+k dispozici na osobních asistentech,
+kdy v podstatě převezmou
+prohledávání internetu.
+Těším se na to, až
+tam třeba bude větší míra
+dohledatelnosti.
+Můžeme si představit,
+že v současnosti
+chat GPT halucinuje,
+tak je do značné míry dané tím,
+že on jenom na základě
+toho agregátu té statistiky
+tak si doplňuje to, co by bylo
+nejpravděpodobnější
+v rámci jeho naučeného modelu,
+aby nejpravděpodobnější
+reakce.
+A vymýšlí si.
+Ale my můžeme, když si chat GPT
+doplníme o vyhledávač,
+tak my si můžeme, plus to nějak
+operacinujeme, tak my si můžeme
+říct, že máme
+nehalucinující chat
+GPT jako GPT,
+které nejdřív nám odpoví na náš
+původní dotaz a pak si
+vezme vyhledávač
+a začne si dohledávat konkrétní
+údaje k tomu všemu, co vyplodilo.
+A jak se vlastně naučilo
+tu informaci a pak
+z toho profiltruje ty části,
+které jsou nesmysly a dá nám to jako
+výstup. A tohle je
+krásná augmentace vyhledávání
+a zpracování informací na internetu
+a
+ta síla je tam
+vidět. Je to, tak když
+si představíme, třeba
+v Čechách jsou,
+vnímám to, že jsme hodně takový
+renezanční třeba oproti
+Spojeným státům.
+Ve Spojených státech je každý maximální
+specialista na to, co dělá, snaží se to dělat co nejefektivnějc.
+Ale my tady třeba už od školství,
+kdy se učíme plavat,
+tancovat, jezdit na snowboard,
+učíme se na
+gimplech, se učíme
+veškerý záběr toho, co by mohlo
+být zajímavé, tak máme takové
+velké rozpětí.
+A já jsem tohle
+s tou výchovou taky prošel, tak proto mi třeba krásně
+rezinuje to, že pokud nějakému tématu
+jste se vůbec v životě nikdy nevěnovali,
+třeba kdo ví něco
+o imunologii, pokud nestudoval medicínu,
+a najednou byste
+do toho tématu chtěli proniknout,
+tak ChatGPT je tím agregátem,
+který vám nabídne velmi
+rychle ramp-up,
+vstup do oboru, o kterém nevíte
+vůbec nic. A
+nabídne vám takovou baseline. Když pak se
+začnete moci dívat do detailů, do
+oblastí, které třeba nejsou tak frekventované,
+není k nim tolik dostupných
+materiálů, tak se začne vymýšlet.
+Ale tady pro tu vstupní úroveň
+do libovolného oboru, tak
+je to skvělý start.
+Navážu teda
+na další část dotazu, jak používáme
+GPT ve firmě.
+My jsme skrze
+Microsoft, jsme taky podporovaný jako
+jeden ze startupů
+pod Microsoft Startup Hubem.
+Tak jsme získali API
+přístup na GPTčko
+a využíváme ho
+ve Filutovi pro
+labelování. Je to
+úžasná
+přidaná hodnota, kdy
+my třeba když syntetizujeme, tak my
+vlastně je těžké
+automaticky vymyslet, když
+navrhnete ten model,
+tak jak ten model ideálně
+popsat. Jak třeba akce, které
+jste našli a máte
+k nim kompletní kauzální
+popis, víte, jaký mají předpoklady,
+jaký mají efekty, víte, co v tom
+systému dělali, ale pořád,
+protože jste to dělali na hrubých datech
+a ta akce nikdy neexistovala, tak nevíte, jak ji pojmenovat.
+A GPT je dobré
+v tom, že je schopené
+v tomhle malém kauzálním okenku, tak vám
+říct, ale tohle
+na základě tohoto kontextu, který vidí,
+který mu dáme, tak tohle je přece
+akce, která typicky znamená, že nějaký
+robot nějakou robotickou paží,
+vezme něco ze stolu a přímo
+nám to pojmenuje. A tohle je
+velmi zajímavá příjemná hodnota.
+Plus potenciál
+specializovaných
+nadstaveb nad GPT
+je
+něco, co nás velmi zajímá.
+Provedli jsme nějaké úvodní experimenty,
+že bychom byli schopni třeba
+ty
+oblasti kompozice
+do značné míry ovládat
+s jazykovými modely. Takže namísto toho, aby si
+uživatel sám vybíral,
+že jsem asi v tomhle
+průmyslu a podívám se na to, jaké se
+typicky paterny používají v mém průmyslu,
+tak bysme mu rovnou mohli v kontextu
+jeho dat doporučovat, že si myslíme,
+že je v tomhle průmyslu a měl by asi používat
+tento model. Což je práce
+pro jazykové modelování, toto
+doporučování. No a pak
+finálně
+chat GPT taky používáme čistě
+jako osobní vyhledávač.
+A
+v mé poslední řadě taky bych rád upozornil,
+že
+co teda interně,
+si dáváme pozor, že by žádná
+klientská data a žádná
+confidential data
+neměly být
+posílané v současnosti do
+chat GPT promptu.
+Je potřeba
+ještě počkat na
+komerční licence pro
+jazykové modely.
+Ty jsi říkal, že v určitou chvíli
+si ten chat GPT vymýšlí, že halucinuje.
+Vlastně jako do
+vymýšlí, co by asi teda byla ta správná odpověď.
+Čistě jako laická otázka,
+je tohle vlastně správně? Není třeba, aby
+to bylo co nejblíž k tomu lidskému chování,
+kdy někdo řekne v určitou chvíli,
+teď už bych kecal, teď už nevím,
+teď přiznávám, že vlastně tady ty moje
+hranice už jsou nastaveny a dál už nejdu.
+Neměl by se třeba chovat takhle, že by
+měl jako zastavit tu svoji
+halucinaci v určitým levelu, nebo
+jak to vidíš?
+Je to jeden z přístupů, že by
+začal doplňovat
+nějakou metriku, jak moc si sám
+sobě věří, že to, co
+produkuje, je vlastně pravda.
+Zatím se mi líbí,
+že
+protože CGPT je navržený
+jako takovej
+uživatelský
+z hlediska designu
+minimalistický produkt, že tam není
+žádná parametrizace,
+není tam prostě žádný
+prátka navíc, což
+umožňuje velmi spontánní,
+rychlé a pohodlné šíření,
+že opravdu každý se s tím může začít hrát.
+Interně tam určitě
+nějaká takováhle metrika bude, jak moc
+protože ono
+je zastřešené
+v
+míře toho, jak
+se ty přechody
+mezi, pravděpodobnostní
+přechody mezi těma následujícíma slovama
+dlouho
+učily, jak moc se tomu konkrétně
+přechodu kontribuovalo. Je tam
+nějaká metrika, která by mohla
+přesně tuhle míru halucinace
+charakterizovat.
+Je otázka, jestli
+v tuhle chvíli
+nevíme, jestli je užitečné ji tam
+doplnit nebo ne.
+Představme si to tak, že
+třeba existenci
+200 dokumentů, které
+dávají dva pojmy
+do souvislosti.
+Když se
+promítnou v jazykové
+modelu tak, že
+tam není ta adresa, odkud se to
+získalo, není tam
+zaznamenatelný
+ten širší kontext,
+kde se tyhle dva pojmy
+objevily vedle sebe.
+Ale je tam třeba jenom jedna hrana,
+která říká
+jedno, jeden,
+double,
+dvě na šedesátou
+potenciálu informace
+o tom, jak zaznamenat
+nějaké číslo s plavoucí
+čárkou.
+A to, že tam bylo těch 200 dokumentů,
+tak se tam zaznamenalo tak,
+že tohle číslo o něco narostlo.
+Takže obejmuje to v pořád, bylo
+tady v těchto
+64 bitech.
+Ale kdybychom tam k tomu najednou chtěli
+vložit link, že tady tahle malá
+kontribuce vychází z toho dokumentu.
+A ten link je najednou třeba
+256 bitů,
+ve kterém je nějaký
+urlo, tak ten objem
+exploduje.
+A tohle je výzva,
+která v současnosti
+pravděpodobně stojí před
+jazykovými modely, jak tam
+tu dohledatelnost doplnit.
+Je to zajímavý
+technický problém, na kterém
+si myslím, že už tuhle chvíli pracuje
+větší množství výzkumných institucí.
+Takže je před námi
+velmi zajímavé období.
+A když tady čeká to stejné, co u nás na vejšce,
+prostě nemáš to ozdrojované,
+dostal si za uši a doplň zdroje,
+tak to stejné vlastně bude.
+Úplně stejné, česně.
+Já jsem možná ještě tam poslední věc. Ty jsi říkal, že
+ty jazykový modely
+a vlastně něco ala ChatGPT,
+že už tady je dávno, ale že teprve ChatGPT
+vlastně otevřel ty dveře
+tomu širšímu světu, vytvořil ten hype.
+Kde si myslíš, že to je?
+Já bych říkal jenom takovou v úzovkách jako blbostí,
+že to UI je tak jednoduchý ala Apple,
+že vlastně tam nemám jako co zkazit, že
+napíču dotaz a dostanu zpátky odpověď.
+A to mi vlastně udělalo jako
+tu vstupní bránu tak
+velkou pro ostatní lidi,
+že se tam vejde každej, že to může každej
+zkusit. Nebo co to vlastně prodalo najednou,
+že to je takovej hype? Co si myslíš? Čím?
+Myslím si, že to jsou
+ty lidské anotace určitě, protože
+ChatGPT dává
+krásné odpovědi
+a takové jako strukturované,
+že to občas vypadá jako
+když se
+na základní škole učí
+studenti psát eseje.
+Vždycky, když píšete esej, tak
+napište, teď jsem
+tady v tom prostředí a tady v tomhle
+kontextu.
+Teď stromy jsou zelené,
+ptáčci zpívají a všude
+rostou květiny. Tak
+když si podíváte na to, jak
+ChatGPT odpovídá použitému otázku,
+tak on dost
+schématicky vám odpovídá
+tady tou
+templateou, že to hezky uvede, rozvede.
+A tohle je to, co
+jej činí
+dobře stravitelným lidsky, protože
+tam bylo
+množství úsilí věnované
+do toho, že odpovědi, které nebyly takhle
+krásné, takhle přímočaré, tak
+ten anotátor, který u toho
+seděl, tak řekl, ne, takhle by se to nemělo
+chovat, uděláme mu nějakou templateu,
+uděláme mu nějakou
+platformu, jak by měl odpovídat, tak
+aby to lidé
+dobře zpracovali. – Takže poličtění
+takový. – Je to takový poličtění.
+– Zajímavý. No a my máme
+před sebou, řekl bych, závěrečnou otázku.
+Zaprvé
+Filuta.ai, tak jak jsem koukal,
+tak vlastně vy jste aktuálně v private preview.
+To znamená, jak se k vám můžou zájemci hlásit,
+jak je vybíráte?
+– V současnosti primárně
+s našimi zákazníky
+otevíráme platformu
+a potažmo platforma
+kterou je inteligentní automatizace, která běží
+u našich zákazníků.
+To je ta hlavní interakce,
+kterou máme se zákazníky
+a
+v současnosti probíhá
+peer review naší platformy
+pro tu vědeckou konferenci
+v červenci, kterou jsem zmiňoval,
+kde pak budeme ukazovat
+platformu světu, což
+bude
+oficiální otevření platformy.
+V současnosti,
+pokud máte zájem o to, co děláme,
+ať už z entuziastického
+vědeckého pohledu,
+nebo z pohledu zákazníka,
+tak nám napište
+a dáme si
+na to nějaké demo.
+– Super. A pověz nám, kde
+ta konference bude a kdy přesně?
+Jestli to teď máš v hlavě.
+– Konference je v Praze a myslím si, že to je
+8. července
+až
+zhruba 14.
+Je to konference ICAPS.
+– Super. Půjdeš?
+– No, přemejšlím o tom.
+Musím se podívat, jak tam mám dovolenou.
+A druhá věc, ještě nikde jinde
+tě můžou posluchači vidět, slyšet,
+chodíš na nějaký akce nebo budeš někde
+prezentovat?
+– Ty
+engagementy
+jsou takové rozprostřené.
+Byl jsem teď na úžasné misi
+s ministrem Sýkalou ve Spojených
+státech a po měsíci jsem se vrátil.
+A trošku
+upovídanej a uprezentovanej,
+ale bylo to
+intenzivní zážitek
+a velmi vděčný
+co do netvorku zákaznického
+i partnerského.
+Poletím, nebo máme
+teď v plánu letět na misi
+Japonsko-Korea.
+A co se týče prezentací v Čechách,
+tak myslím si, že
+krásnou příležitostí je přijít na
+FiluTalks,
+které budou na konci května
+a budeme je organizovat u nás v officech
+World Clown Carleen.
+To bysme ale mohli jít.
+Já tomu teda rozumím jako za Petr Žily,
+ale je to hrozně zajímavý.
+Tak vyrazíme.
+Filipe, moc děkujeme.
+Bylo to velmi zajímavý a pro nás netradiční
+popovídání, protože normálně si povídáme
+víc o těch dobrůtkách
+od strany Románka,
+to znamená software development.
+Přejeme ti, ať se ti daří.
+Ať se daří Filutovi.
+A věřím, že se nevidíme naposledy.
+Děkuji za pozvání, pánové.
+Podle cesty.
+Prosím tě, Poli, řekni mi, kde bereš tyhle lidi.
+Ty máš nějaký pytel,
+na který mi je napsáno géniové.
+Ty tam vždycky zahrabeš tou rukou
+a vytáhneš nějakýho takovýhleho prostě
+jako pologénia nebo celýho génia.
+Jak vyprávil Filip, že má,
+měl toho profesora, jak měl ten pytel s těma řešeníma,
+tak já mu pytel tady s těma géniova.
+Tak něco z toho vyhrávneme někde.
+To je pecka, pecka.
+Já jsem teda samozřejmě byl úplně v lese,
+bylo to strašně zajímavý a strašně dobře,
+řekl bych, podaný
+ty hardcore věci takovou lidskou formou.
+Za mě super, super.
+Já jsem zvědavej, posluchači, pošlete nám
+zpětnou vazbu, jaký to
+bylo na vás, protože samozřejmě
+je to i netradiční díl v tom pojetí,
+že prostě se bavíme o
+ne úplně software developmentu, kde prostě ty
+dokážeš reagovat na věci na úrovni,
+kde já v tom AI úplně nejsem
+schopnej reagovat, ale zároveň Filip
+to skvěle vysvětloval na těch příkladech,
+což mi přišlo, že si ty věci
+jako brutálně pomohlo.
+Ale opravdu mám chutí na ty Filu Talks.
+Za prvé jsem už dlouho nebyl v Karlíně,
+je to takový jako hezký side effect,
+je tam něco se podívat. A druhá
+věc, oni tam podle mě
+budou ukazovat i ten jejich produkt v té preview
+fáze na těch Filu Talks.
+Možná, že bysme viděli, jak to vlastně
+v praxi funguje, jak reálně
+přecelá ta věc o ty infrastruktuře, o tom,
+jak oni si vyspinují najednou celý
+Kubernetes cluster na základě
+s nějakýma solverama na základě toho,
+jak si těch čtyř kroků, tak podle mě to je prda.
+Já bych to fakt chtěl vidět v praxi.
+Učitě teď ještě, když jsme se s Filipem loučili,
+tak říkal, že nám pošle pozvánku.
+Takže pojďme tam. A je pravda, že v Karlíně
+jsem taky díl nebyl. Naposled jsem
+bez bot byl nadovolený. Takže v Karlíně
+zase můžeme... Zavařevačky sebou.
+Paletu mám u baráku opřenou.
+U baráku si pučíme růžovou. Tak ty vole.
+O čem se bavíme.
+Jedem do Karlína.
+To bude trip. Tak jo přátelé.
+Mějte se krásně.
+My bereme cvičky a vyrážíme.
+A za 14 dní se zase uslyšíme.
+Těšíme se. Mějte se. Čau.

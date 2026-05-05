@@ -1,0 +1,2591 @@
+Pod vodca sem.
+Pod vodca sem.
+Pod vodca sem.
+Pod vodca sem.
+Krásný den, milí posluchači,
+vítejte u čtvrtého dílu dvanácté
+série vašeho nejoblíbenějšího
+IT podcastu Pod vodca sem,
+no a samozřejmě i za druhou polovinou
+dvanácté série nesmí naproti mě chybět
+ze San Francisco právě
+doběhnu vší, samozřejmě letadlem
+Petr Polipolák. Naproti mě
+Roman Joker, provazník, ahoj Románku.
+Čau, čau. Tak prosím tě, už jsem to naťuknul,
+ty jsi byl ve státech, byl se spodívat
+v zemi, kde Trump dává
+dobrý den a dobrou noc, byl jsi na
+nějaké velké konferenci v San Francisco,
+tak já nemám nic zajímavého tento týden,
+tak povídej ty. Donalda jsem neviděl
+naštěstí, konference
+byla Snowflake Summit, vtipný
+bylo, že když jsem odcházel z té
+konference, tak odlepovali ten Snowflake,
+to Snowflake logo nalepovali Databricks, před další
+týden tam byla Databricks konference. Takže srdcaři
+to jsou. Srdcaři, srdcaři, přesně,
+přesně. Ale jinak, hele,
+osobnostně mě to hrozně jako
+zvedlo, jo, jakože
+chodíš tím městem a jezdí
+tam ty autonomní taxíky, který jsem si
+myslel, když jsem o nich čet, že to byl nějaký
+omezený perimetr, kdy máš nalajnovaný ty
+lájny, že jo, aby to vlastně všechno fungovalo.
+Takový tramvaje prostě. Ano, ano, tak jsem si to
+představoval, to jezdí, hele, ještě
+když jedeš tím, tak vlastně tam je ve prostředí tablet
+a vidíš, co všechno to auto vidí, jo.
+To auto vidí prostě 100 metrů dopředu, jo,
+prostě nemá šanci, jako řidič, vidět ty věci, co vidí
+to auto, jo. Takže já jsem byl
+z toho úplně, jako, skoro jsem si říkal, že
+amíci se budou jezdit za 10 let a budou říkat,
+hele, ty malej, nevím, johníku,
+tak takhle to vypadalo v Americe,
+když taxíky řídili
+taxikáři, jo. Že s toho uděláme ten skanzen.
+Jo, jo, přesně, přesně, jako mám z toho trošku strach, jo.
+Hele, to jsem se chtěl zeptat, můžeš do toho
+zašáhnout, jako zasáhnout, šáhnout
+na ten volant? To bylo vtipný.
+Ty si to nemůžeš jako Evropa nainstalovat.
+V podstatě je to velmi složitý to udělat
+na svýho iPhona. Takže my jsme ukecali
+nějaký amíky, který zrovna z toho
+Vajma, Vajmo se jmenuje, ta firma, vylejzali.
+My jsme překecali, že jim dáme cash.
+A první, co ten amík říká,
+ale ne, že do toho šáhnete, protože my pak
+budeme penalizovaný v té aplikaci, když tam,
+když si tam, nevím, poblejete nebo něco,
+tak to se všechno půjde na nás, že jo.
+A ta američanka se na ně tak podíle říká,
+buď z Čícha, já jim věřím, podívej se, jak vypadaj.
+Takže
+ty jsi byl se svým důvěryhodným ksichtem,
+dokonce ti bylo zapůjčeno auto,
+takže jsi jezdil těma autonémně taxíkama.
+Jak jsem ti psal na ten Peer 49,
+byl jsi se spodívat v tom automatu těch?
+Ne, ne, ne, to jsem nez těch, tyjo.
+Hele, jsme vlastně měli jenom dva dny a pak už začala,
+samozřejmě, teď se dostávám k tomu, kdo.
+Ta konference samotná, tak
+kdo sleduje trošku
+klaudový datový platformy, tak nemohl být
+úplně překvapen, byla to za mě taková
+intenzivní evoluce, určitě ne revoluce.
+AI prostě...
+Každým soulem,
+teď to nejnovější, co představili, jsou dvě věci,
+SQL AI, což je jako dobrý,
+když vlastně jako úplně nehovíš
+SQLku a seš taky ten analytik, který ty data
+ale potřebuje, tak vlastně řekneš,
+hele, já bych potřeboval zhruba takovejhle dataset,
+tak mi to připrav a ono ti to
+vyjede, to je SQLko samo.
+Takže takovej copilot, jo? Takovej copilot.
+To je taková jako semi-verze a pak je tam,
+ještě to musím otestovat, jo,
+ale já jsem si tam s tím hrál, tam byl i DevDay, tak já jsem
+pozor, jsem i vyvíjel apku, tyjo.
+Tak to je neuvěřitelný. A pak druhá,
+asi nejzásadnější věc tohodle typu je
+Snowflake Intelligence, což je
+vlastně takovej copilot, přesně, jo, jakože
+povídáš si s tím a říkáš, hele, kolik jsme teda těch
+hypoték udělali vhodný do ní minulej tej den.
+To je takovej ten vlhkej sen každého board membra,
+ale ty data po tím musí být dobře,
+ale mám pocit, že Snowflake tomu jde
+i naproti, že vlastně jako metadatově
+řízeně budeš schopný to udělat,
+i když ty data nebudeš mít úplně jako ve vůni.
+Tak uvidíme a poslední
+ještě abych přidal, tak je OpenFlow.
+Ti, co znají,
+je to v podstatě bývalý
+Apache NiFi, se to jmenuje, což je
+vlastně možnost propojit různý
+datový zdroje skrz konektory, nemusíš
+toho kodovat, takže vlastně ty propojíš několik
+datových zdrojů a máš vlastně ten výstup,
+který jsi chtěl, poměrně jako
+low-code, no-code, jo.
+Je to, chtějí parasitivu na jiných firmách,
+jo, myslím si, že třeba
+Kebula tady určitě bude
+opocená, ale na druhou
+stranu prostě není to tam,
+není to tam, jo, je to taková první verzička,
+tak uvidíme, jak to dopadne. Tak to byly taky nejzajímavější
+věci a ještě to potrhnu úplně na závěr,
+hned na začátku summitu ze
+CEO Snowflakeu seděl Sam Altman,
+který tam byl pozvaný, tak to bylo
+taky velmi zajímavý, jo, když
+vyprávil o tom, co jako očekává o těch
+modelů, když to pak ještě Andrew Ann,
+tak je jako můj oblíbenec AI,
+určitě se na něj podívejte, má výborný
+vzdělávací videa,
+vlastně říkali, že
+jestli, že posledních 12 měsíců byla
+era agentů, tak tak další 12 měsíců
+byla era podpory právě developerům,
+tak aby kódovali ne méně, ale
+víc, protože právě ta podpora byla
+taková, že budou schopní prostě toho nakódovat
+víc, tak jsem zvědavý,
+protože doteďka to je takový, hele, no, pro juniori
+dobrý, seniori moc mi to sem necpěte,
+tak jsem zvědavý, co se v tom AI světě
+za příští 12 měsíců stane.
+A můj oblíbený termín, pro který
+Karpatyho úplně miluju,
+vibecoding, ten tam padal?
+Samozřejmě, ty foky.
+Samozřejmě, ty, jako, hele,
+to je, to slyšíš na každý
+prezentaci, na každý, jo, na každý,
+úplně všude, teda. Ale to je teda jako vtipný,
+myslím si, že jsi taková osobnost, že přijdeš s takovou
+pičovinou, a nejen, že se toho
+jako chytne pár lidí v tým okolí,
+ale je to na konferencích, určitě je
+vibecoding.com, už jako
+bambilion z registrovaných
+prostě domén, úplně
+jako neuvěřitelný, lidi na to naskakují,
+oni říkají, jasně, já si teďka na vibecoding
+prostě dokusájím vlastně za
+dvanáct hodin, jo, pak zjistí, že vlastně
+vlíkují všude apiklíči a tyhle z ty kravy,
+že nějak zapomněli na security
+a tyhle z té nepotřebnosti
+při vibecodingu. No, no, tak, ale to tam bylo všude.
+Tak takhle, jo, jakože
+jak můžeš udělat devday pro lamy, jako jsem
+já, no, samozřejmě tak, že si trošku
+vibecodingem pomůžeš, takže
+bylo to takový propojení, oni to měli předpřipravený,
+ale normálně jsem si tam použil ty nový
+funkce, udělal jsem si, dneska letí
+v datovém světě, datový aplikace, streamlit
+knihovna v Pythonu, tak ta je
+jako velmi rozjetá, takže jsme si tam udělali
+takový, jako prostě, nevím, nějaký porovnání,
+jsme snowflake je o ližích, že jo,
+vždycky, jako, je tam nějaký kontext s ližema, takže
+vyzkoušel jsem si to od A po Z, to bylo
+to fakt dobrý, teda musím říct, jakože ten
+dev day byl připravený i pro lidi, jako jsem já.
+No takže celkově výlet
+do San Francisco hodnotíš 9 z 10?
+Jsem obohacen 11 z 10.
+11 z 10? No, no, Češi prej nedávají
+desítky, když je jako desetipočtová
+škála, takže já říkám 11 z 10.
+Jo, jo, dobře. No já si myslím,
+že tohle je ideální oslý můstek na to, že ty jsi tam
+letěl díky našemu partnerovi
+z Pořici, je to tak? Je to tak, je to tak. A ty jsi naletěl
+s námi, to byl s tebou i Honza, ne? No, jasně, jasně.
+Byli jsme nakonec ze Spořky
+prosím tě čtyři, to už bylo hrozně fajn,
+protože my jsme s Honzou samozřejmě z jednoho
+ranku, ale pak jsou tam ještě dva
+kluci, tam s náma byli úplně z jiných
+datových světů ve Spořce, protože Spořka
+je samozřejmě datově bohatá a
+krásně jsme to, to byl takový team building, řekl bych.
+No tak to byl krásně. No tak
+každopádně my našemu partnerovi v této
+sérii moc děkujeme za podporu, je
+vidět, že vlastně ta banka
+si to může dovolit poslat Poláka do San Francisco
+nebo provazníkovi
+poslat nějaký fíčko prostě do podvodce,
+myslím si, že je dobrý, že se on tak řekne.
+Jednoznačně a myslím si, že
+tý bance se to nakonec vyplatí, protože
+ty věci, co se tam člověk dozví,
+si samozřejmě i přečte, ale
+tam bylo i spousta, to už jsem nestichý, o takých
+agnostických informací, který
+díky tomu, že nás tam Spořka vyslala, tak
+teďka nějak přechroupáváme
+a dáváme prostě vědět, jak
+s tím naložíme u nás.
+To půjde do produkce za chvíli.
+Jednoznačně, do týdne.
+No já si myslím, my jsme si říkali nedávno,
+říkáme, ale ty úvody máme dlouhý, pojďme to
+zkrátit, takže tohle rozhodně
+záležení posluchači není ten díl,
+ve kterém dostanete krátký,
+zajímavý vstup,
+bude to dlouhé a plné rozličných
+informací, ale i dneska
+bychom vám měli, byť jsme dlouhý, jak týdem před
+vejplatou, nějakým způsobem říct, kdo
+nás vlastně dneska čeká. A dneska
+nás nečeká, jak to slyšíte,
+že prostě pol je bohatej, tak i
+tenhle podcast je vlastně bohatej na ty
+informace, tak
+dneska nebudeme mít jednoho hosta, ale budeme
+mít dva hosty. Výborně.
+A budeme se bavit o velmi zajímavých věcech,
+byť to bude úplně z jiného ranku, to zapojené
+nějaký snowflaky a data bricksy a tyhle
+srandy. Byť samozřejmě AI se taky
+dotkneme, předpokládám,
+ale dneska se budeme bavit o tom, jaký to je,
+když někdo se rozhodne, že udělá
+hackathon a nejenom hackathon stylem
+pojďme napsat mobilní apku, nebo
+pojďme si napsat, nevím, docházkový systém,
+ale hackathon zaměřenej
+na dělání dobra, to znamená
+vytváření věcí pro lidi, kteří mají nějaký
+zdravotní postižení nebo mají prostě nějaký
+limitace v jejich životě a
+tebe jako organizátora
+hackathonu vlastně napadne. Pojďme
+dát hlavní cíl těmhle lidem
+pomoc. No a jako já, když jsem to čet
+a připravoval jsem na to, tak jsem si říkal, tohle
+bude dobrý. Takže pojďme na
+dnešní dva hosty, kteří jsou
+Jiří Dobrý a Daniel Pojan. Pojďme
+na ně. Ve studiu s námi sedí
+nejeden, ale dokonce
+dva hosté, což je, řekl bych, od první
+série se nám to nestalo, je to tak?
+No je to, ano, jednou se nám to
+stalo v první sérii. Jednou se nám to stalo, že jsme měli, myslím,
+v první sérii dva hosty. Každopádně,
+byť to pro nás bude logisticky velmi zajímavý,
+protože máme tři mikrofony,
+tak o to jsme radši, že vás tady
+máme. Dneska s námi sedí
+Jiří Dobrý a Daniel Pojan. Ahoj, kluci.
+Ahoj, čau. Čau, kluci, čau.
+Já možná na začátek to udělám
+trošku jinak. Já přečtu ty vaše medailonky,
+který tady k vám máme napsaný,
+aby naši poslouhači věděli, co vlastně
+tady s náma sedí za lidi, proč tady jste
+a co nám dneska řeknete.
+Takže začnu s Jirkou. Jirka
+Dobrý je zkušený programátor, jeden z hlavních
+organizátorů Aintech Hackathonu,
+kde má pod palcem technologie a během
+akce pomáhá soutěžním týmům.
+Kromě svý práce se aktivně podílí na
+výuce a spolupráci s univerzitami.
+Ve společnosti Aintech se věnuje vývoji
+softwarových řešení a inovacím v oblasti
+IT. Díky svým zkušenostem a
+nadšením pro technologie inspiruje mladé
+talenty a podporuje rozvoj
+IT komunity. Daniel
+Pojhan ten teprve studuje
+gymnáziu, nicméně se svým
+týmem Plajta v akerských soutěžích
+strčí do kapsy spoustu
+jiných studentů vysokých škol
+i, řekněme, programátory z praxe.
+Kromě AIM Hackathonu
+se Daniel účastnil například i
+Mobility Hackathonu nebo AIML Hackathonu.
+V oblasti programování se věnuje zejména
+AI a zpracování dat.
+Navíc působí jako researcher
+v projektu Otevřená věda, je lektorem
+na robotických táborech a pracuje
+na vlastním simulátoru pro řízení
+letového provozu.
+Zapomněl jsem na něco
+nebo je to všechno, kluci?
+Já myslím, že jsi řekl asi to nejdůležitější.
+Výborně, tak kluci, ještě jednou vítejte. Ahoj.
+Ahoj.
+A prosím vás, kluci, byť jsem vás
+představil, tak řekněte nám
+hned ze začátku, proč jste
+vlastně dorazili, co teďka
+proběhlo v Plzni, protože nám to
+přijde i z toho, co nám tady Jirka
+ukazoval na laptopu, strašně
+zajímavý. Pojďte se nám trošku uvést.
+Tak já možná začnu.
+Mě teda rozhodně mrzí, že ten
+Danielovo, ten medallionek byl mnohem
+delší než ten můj, ale já už
+jsem tady jako za starou generaci
+narozen minulým tisíciletí a programoval
+jsem ještě, když možná i vy jste ještě
+koukali možná z kolíbky,
+ale je to jako
+super vidět, jak ten svět se
+prostě posunul v těch technologiích od těch,
+já řeknu možná už osmdesátek, kdy já jsem se dostal
+k prvním počítačům a to tenkrát nebylo
+úplně jednoduchý. Přes devadesátky,
+kdy už jsem měl teda vlastní počítač, pak jsem
+začal pracovat teda v IT, nejdřív
+jako vývojář, to znamená
+deset let asi Java programátor,
+to si můžu napsat do životopisu, když
+zapomenu na ty věci, co jsme dělali ještě tenkrát
+předtím jako studenti, to znamená
+ani na ECčku, ale Pascal,
+různý další, tak jsem se dostal teda k tej
+Javě, to bylo profesně, deset let, pak
+jsem čtyři roky pracoval jako
+konzultant, protože už jsem zase říkal
+od programování, už jsem možná trochu starej,
+no a po dalších čtyřech letech konzultant přes
+Německo, Švýcarsko, Luxemburg,
+sježděná půlka Evropy,
+tak jsem zase zpátky skočil na programování
+a to už jsem byl v FameTeku.
+No a v FameTeku po dvou letech, tak
+mě nabídli, hele ty už jako
+seš tady jako za seniora,
+teď jako to nemysleli nijak zle věkem,
+ale pojď zkusit
+tady vést vývářský tým, takže já už
+dneska neprogramuju, mám k sobě asi deset
+lidí programátorů, řeším
+v podstatě kapacity lidí, aby jsme
+svády dodávat a jako ta naše
+doména je v podstatě dneska
+obor je logistika,
+ale ta naše doména je
+automatizace, digitalizace v logistice,
+takže je to zase úplně něco jiného, než to jsem dělal
+předtím, je to super, je to zajímavý,
+no a když jsem před těma, řeknu, co celé deseti
+rokama nastoupil, tak jak jsem si říkal, jsem starý,
+pak mi řekli za rok podělat
+heketon a od té doby dělám devátej rok
+heketona, je to super, starý nejsem.
+No když už jsme o to
+heketonu, tak samozřejmě to je krásný
+ping-pong na Dana, takže
+Dana, prosím tě,
+byť ten medailonek byl samozřejmě
+delší než Jirkův a
+za to, já myslím, že jsem se za to mám mluvit,
+vlastně mám radost, že byl delší.
+No jasně, já teď přemýšlím, jestli bychom neměli
+stopovat čas, aby kluček byl spokojený,
+aby to bylo vyrovnané. Tak prosím tě,
+Dana, co by si dodal ty k sobě?
+Jo, no tak jako, takže já tady
+mluvím za tu mladší generaci.
+Máme to hezky rozdělený.
+No, no, no, právě. A vlastně...
+To je jak u nás dva už, jo. A kdo je ten mladší já?
+No, to si řád mluví.
+No a vlastně, že jo, tak já jsem začal
+programovat jo asi někdy v jedenácti letech
+něco takového, kdy jsem prostě nejdřív
+jako dělal nějaký easy, prostě web development
+něco takového. Ani jsem nepožádný
+frameworky a pak jsem se postupně
+jako začal profilovat, pak jako jsem
+potkal i, že jo, mé kamarády, se kterýma
+jezdíme na ty heketony, jo. A sestavili jsme
+spolu fakt skilý tým a
+vlastně díky ním, tak jsem se dostal
+vlastně až sem, co se dá říct,
+k tomu aimtech heketonu jako takovému
+a dalším ostatním heketonům, že jo.
+Já myslel, že sem myslí jako podcast.
+No jsem taky myslel. Já jsem taky úplně
+sem se nadech a pak jsem pochopil,
+že ne. Má nějakou takovou návaznost, že ne.
+Že to není ten vrcholečný.
+Tak, kluci, pojďme možná
+poprosím Jirku
+na ten aimtech heketon. Můžeš nám
+popsat tu historii, jak to celý
+vzniklo, co je cílem
+a i třeba mrknout se zpátky
+na těch devět let a nějakým způsobem to v rychlosti
+zhodnotit, jestli to vlastně stálo
+za to před těma devíti lety vykopávat.
+Tak aimtech heketon začal v roce
+2016, to já jsem ještě ve firmě nebyl.
+Bylo to v březnu
+a já jsem nastupoval v září, takže
+to, že se stal první heketon,
+jsem dostal až takový informace
+bokem. A říkám si,
+u toho bych chtěl bejt tak trochu.
+No a když mi pak nabídli, hele, my bychom
+potřebovali, že by to někdo organizoval.
+A já říkám, no a ten, co to dělal do teďka, no on už
+tady vlastně není. Takže přišel člověk,
+který řekl, udělejme heketon.
+Mimochodem skvělej kluk,
+Bert Schwab se jmenuje,
+můžete si ho taky najít.
+A ten prostě měl nápad, přesvědčil
+majitele, aby do toho vrazili prostě pár peněz
+a udělal se takový ten první ročník,
+hodně punkovej, ale první ročník
+je jim ten heketon. A mělo to být, a bylo to,
+o nových technologiích.
+No my jsme tohle, já řeknu, že zlo,
+tak to jako převzali a
+ještě s jednou koleginí, tak jsme
+v podstatě udělali ten druhý ročník,
+2017, no a teď to bylo
+vlastně sehnat
+všechno. Lidi, který
+monitorovat, lidi, který budou
+dělat porodce,
+v podstatě nějaký zadání projektu jsme tenkrát
+moc ani neměli, bylo to spíš o tom, pojďte si
+pohrát s novýma moderníma technologiema.
+A ty moderní technologie v tej době,
+tak to byla, že jo,
+možná trochu už robotika, drony,
+nebo
+nějaký programování, cloudový
+a tak dále. A tohle z ty všechny
+technologie jsme jako naházeli v podstatě
+do jednoho kyblíku, zamíchali, no a
+v řeznu jsme na to
+vypsali heketon, přihlásilo se,
+já řeknu, kolem 40 lidí
+a začalo to
+prostě nějak jako bujet, kvasit,
+no a přes ty roky dál a dál,
+tak jsme se dostávali právě k těm
+zajímavým technologickým hračkám,
+až já řeknu třeba
+Robotspot od Boston Dynamics, jo, kdo si ho mohl
+vyzkoušet, jako fakt oprogramovat.
+To jste tam měli jako, jo. Měli jsme ho tam, myslím, že v roce
+tak někdy
+řeknu 2020, nebo 2022,
+možná to bylo až jako teda po covidu,
+ale měli jsme tam i robota
+Boston Dynamics Spota
+a my,
+protože jsme, jak jsem říkal, logistika
+jako firma, tak zase trošku tam byly
+i ty tendence dělat trochu něco jako o tom
+skladování a tak,
+a tam třeba jako hodně zajímavá věc byla,
+máme partnery, který vyrábí,
+já řeknu, výrobní
+linky, jo, a třeba i robotický
+výrobní linky, a oni nám počili
+průmyslovýho robota, fanuka,
+určitě znáte z takových těch
+videí, prostě s továrem, normálně
+manipulátor, je taková prostě ruka, má různý
+chňapky na konci, no a ta firma
+tak jako umí toho robota
+posadit na tu linku a jako přizpůsobit ho,
+třeba různý přístavky, chmatáky,
+chňapáky, no a oni
+řekli, toho žlutýho
+vám nepůjčíme, ten musí být v kleci,
+aby někoho neprofackoval, ten je nebezpečný,
+ale můžeme vám půjčit toho zelenýho,
+ten je jako takzvaný
+kolaborativní robot, a ten má
+v podstatě v každém tom servomotorku, v každém
+tom kloubu, tak má senzor,
+takže když by se začal, za první se teda
+hejbe pomalejš, a za druhý, kdyby se začal s někým
+přetlačovat, tak ten robot pozná,
+že tam je už nějaká síla a zastaví.
+Pak to zkusí znovu udělat ten pohyb,
+no a když znovu zastaví, tak pak se vypne.
+No a teď poslouchejte ten vtip.
+V tom ročníku, kde byl tady
+ten robot Fanuc, tak tam byla
+parta tří studentů právě ze Západu České
+univerzity, a ty tři kůlci
+za víkend dali následující
+zadání. My si chceme pohrát s robotem
+a chceme, aby uměl hrát pyškvorky.
+To je jako easy.
+Dobře, takže robot
+stál na stole,
+oni nakreslili na velký papír
+v podstatě šachovnici
+nebo teda takový ty bříšky,
+vytiskli na 3D tiskárně žetony
+a ze zhora na to
+koukala webkamerka. Všechno to
+propojili, naprogramovali, udělali
+a to bylo ještě pár let před tím, než byl
+tady ten AI boom, takže opravdu
+ten algoritmus na ty pyškvorky
+opravdu vymýšleli od nuly.
+No a při skončení
+heketonu, tak prostě to fungovalo tak,
+že jste přišli ke stolu, vzali jste žeton,
+zahráli jste, robot si přečet herní
+situaci, zjistil, že jste dohráli
+a spustil další krok on. Šáhnul
+robotickou rukou pro další žeton a zahrál proti vám
+tah. A tohle dali ve třech lidech
+prostě za víkend.
+Tak to je veliká pesička.
+No vy jste v posledních rodnících
+do toho heketonu začali zapojovat
+kromě teda ty vaší logistiky, která je vám
+jako řekněme firmě blízká,
+tak jste začali zapojovat právě ty
+řekněme bohulibý témata, jako je
+zdravotnictví, jako je pomoc lidem
+s handicapem, nebo AI
+pro sociální dopad a další takové věci.
+Zaprvé, proč jste
+to vlastně dělali, co byl ten prvotní
+jako impuls a druhá
+taková otázka, když se
+zpětně podíváš od té doby, kdy jste tohle
+začali předávat, co považuješ za takovou
+trefu, že to tam prdlo úplně, jako říká
+jo, tak to je super, že jsme tohle udělali,
+to fakt někomu pomůže.
+Já teď zkusím teďka na malou podpásovku.
+Dane, když si vemeš projekt ve škole,
+nějaké zadání, vyřešte
+tohle, tohle, tohle, anebo si
+vemeš na heketonu projekt, který někomu může
+pomoct a někoho
+třeba handicapovanýho to pomocí technologií
+opravdu jako osvobodí.
+Vyber si.
+Tak teď bych jako podpásovku
+odpověděl, že bych si vybíral ten ve škole.
+Ale ne, ne, ne, tak stále máš
+odmaturováno nebo dní.
+Ne, já bych si samozřejmě vybral ten,
+co by jako někomu pomohl, my by to dával teda
+větší smysl asi, jo, teda. A to je v podstatě
+odpověď na tu tvojí otázku. My jsme
+každej rok jsme ten heketon kousek
+posunuli. My jsme ty první ročníky
+jsme dělali o těch opravdu technologiích, aby jsme tam měli
+to nejmodernější, pak nějaký další
+ročník jsme přidali právě takovou malou
+jako konferenci, takže v rámci
+heketonu se tvoří projekty
+a zároveň nahoře v přednáškovém
+sále i pro veřejnost běží prostě
+sada čtyř, pěti přednášek o něčem
+zase zajímavým. A někdy i souvisejícím
+právě s tím, co dole na tom heketonu
+jako se dělalo. Takže tam třeba byly
+lidi s 3D tiském, byly tam lidi
+s klaudovýma, webovýma technologiema,
+byly tam lidi ohledně počítačový
+bezpečnosti a tak dále.
+A to byla prostě rozšíření
+o konferenci, který říkáme Techtolox.
+No a další rok jsme říkali, kam to
+zase posuneme, no a říkali jsme, co
+ta nejmladší generace, protože heketon
+u nás je pro takový ty kutily, já řeknu
+ročník nebo věkový rozpětí,
+tak tady dan možná o kousek i mladší,
+ale je to řekněme od takových
+jako 16 let, když už to programování
+trochu dává smysl a těm technologiím rozumíme
+a může to být
+až potřeba ty vysokoškoláky
+anebo možná i profíky z oboru.
+A pak jsme teda zacílili
+i na tu nejmladší generaci a udělali
+jsme nedělní po heketonu odpoledne
+a to se jmenuje Young Hackers a tam prostě
+přijdou prckové, já řeknu od 6
+do 15 prostě děti
+třeba na střední a
+získávají tam jako
+nějaký povědomí o tom, co se dá
+v našem regionu,
+jak se dá vzdělávat tady v těch jako
+IT, v programování, je tam
+třeba kroužek Minecraftu, kdy se
+pomocí command bloků, já jsem to nikdy teda
+jako nedělal, ale command bloků se dá taky
+preprogramovat, se tam by možná věděl,
+takže jako takovýhle věci
+se tam dají ukázat, dají se tam ukázat
+i základy třeba pájení, základy
+elektroniky a tak dále, takže i ty
+Young Hackers. No a teďkon ty poslední roky,
+abych se dostal k tomu původnímu
+dotazu, tak ty poslední roky jsme říkali
+pojďme posunout i ten heketon,
+ten vlastní heketon, tu tvůrčí práci.
+Měli bychom mít nějaký
+výzvy, nejenom pohrát si s novýma technologiema.
+No a ty výzvy,
+který dávají nejvíc smysl,
+tak jsou právě pomoct někomu,
+protože my to umíme s technologiema,
+my to známe, my jsme programátoři, my přemýšlíme
+v jiném světě, ale lidi, který žijou
+ten každodenní život a teď třeba ještě s nějakým
+handicapem, tak my jim můžeme pomoct,
+ale musí to dávat smysl.
+Takže začali jsme hledat výzvy, kde by se
+komu mohlo jako pomoci,
+no a musím jako říct, že jsem
+pišnej na to, že minimálně takový
+řeknu dva, tři projekty, tak byly
+opravdu jako uveden i doživa a dneska pomáhají.
+A můžeš ho popsat teda,
+který to byly, který
+teďka opravdu jako reálně
+vzešli z Hackathonu a pomáhají?
+Já teďkom přehodím slovo Radona
+a on možná zkusí vytáhnout
+projekt, který řešili buď to na tom letošním
+nebo na tom loňským, protože ten letošní
+si myslím, že je ještě úplně jako pecka
+a vlastně proč a co to je,
+no nezkus to. Jo, tak já vezmu ten
+letošní, protože já na tom loňským tam jsem úplně nemohl
+bejt, ale ten letošní
+tak jsme právě řešili projekt, který jsme
+pojmenovali Sisyphus, bylo to kvůli té
+většině tady jako na úměrné práci,
+kterou jsme museli provést na tom Hackathonu za těch
+48 hodin, tak nám to přišlo jako takové valení
+tý koule jako přes ten kopec
+jako dělal ten Sisyphus, ale
+vlastně o co jde, tak
+ty autistické děti
+tak někdy se neumí, mají prostě problém
+s komunikací, jo, a
+k tomu slouží takové komunikátory, což je
+vlastně takové, jako bych řekl, jako klávesnice,
+kde já si naklikám přímo
+a mluví, ta klávesnice mluví
+za to dítě prakticky, takže jsou tam různé
+jako jednotlivé přímo jako výrazy,
+aby vlastně to dítě mohlo
+komunikovat s tím
+vychovatelem nebo
+s asistentem, někým takovým.
+A
+ten problém je ale ten, že tyhle ty prostě pomůcky
+stojí strašně moc peněz, ale jako
+fakt jako neskutečně. Jste říkali třeba do 30 tisíc?
+No, něco takového, no.
+A tak my jsme se rozhodli to s klukama
+prostě posunout tu laťku mnohem víc
+dolů a udělat něco prostě třeba, jak jsme
+dali pod tisícovku, tak
+něco takového prostě, jo. Takže jste to dostali
+ze třiceti na tisícovku. Na tisícovku
+prostě a je to prakticky úplně
+ten stejný, je to to samý, je to prostě
+soundboard prakticky, jo. Takže
+a máme tam i spoustu dalších prostě funkcí,
+jako že se tam dají ty podložky měnit,
+takže tam je jiná zásoba slov pro každou
+podložku, je to čtený prostě nějakým
+barevným prostě senzorem.
+Takže pak tam jsou i takové další
+vychytávečky. Já možná
+jenom, aby si posluchači představili
+tabulka, dvanáct
+tlačítek a ty tlačítka jsou
+vlastně obrázky, jo. A můžu
+si pomocí toho říct, mám žízeň,
+mám hlad, potřebuji něco,
+tak je to prostě
+takováhle, takovýhle jednoduchý komunikátor.
+No a jak si říkal, tak ten komunikátor,
+protože je to malej trh a protože je to
+ještě jako zdravotní pomůcka, tak
+to prostě ty zařízení stojí strašnou pálku
+tady u nás. Takže jsme řekli,
+pojďme to udělat, ale to ještě neřek
+to hlavní, jako oni udělali na
+heketonu prototyp, který funguje.
+Ještě to teda není komerční produkt,
+ale kluci na tom pokračují dál
+a už čekáme jenom,
+až se nám vyrobí
+ty destičky tištěn spoje
+a součástky přijdou a začne se prostě
+vyrábět dalších prvních pět kusů
+a ten hlavní cíl není o tom,
+jako vyrobme to. Hlavní cíl je,
+že tohle všechno půjde jako open source do světa.
+Takže kdokoliv, kdo má přístup
+k někomu, kdo umí 3D tisknout
+anebo kdo umí elektroniku,
+tak si tohle pomocí našich návodů,
+třeba já řeknu za půl roku,
+bude moct postavit sám.
+– Takže vy odsud jedete ještě do Holešovic k Průšovi,
+aby to rovnou začal tisknout.
+Kámo, to zprávě, jo?
+– Dané, popiš nám ještě trošku
+ten technologický background toho řešení,
+ať si trošku šáhneme na tu šťávičku.
+– Jasně, jasně. No tak prakticky
+jako
+ten celý ten projektík byl vlastně
+rozdělený do takových dalších menších podprojektů,
+kde se tam muselo řešit vždycky
+specifické úlohy. Například
+jeden člověk od nás tak řešil přímo jako webovku,
+ve které si právě ten asistent
+nastaví jako tu zásobu těch slov
+a tak dále a nahráje to do toho zařízení.
+Následně pak jako další lidi
+od nás museli řešit tu komunikaci toho přímo
+toho specifického zařízení, co jsme vyrábili
+přímo s kompem, abychom to tam mohli
+napojit a přes webovku to posílat.
+A pak jsme jako ta třetí a ta
+nejdůležitější část, to byl vlastně ten
+samotný komunikátor. Tedy na tom hackathonu
+tak jsme měli vlastně, byli rozdělení tak, že tam
+byl jeden člověk od nás, co navrhoval
+veškerý ten
+veškerý ten kryt a dokonce i návrh
+tlačítek dělal, tak aby to bylo, že jo
+nějak rozumně klikatelné pro
+ty děti, aby prostě tam byla nějaká
+odezva.
+Dana, klidně ho můžeš pochválit. Zdravíme Andriho.
+Zdravíme Andriho a pochválíme ho.
+Ale tady, co se týče nějakých kudosek, tak
+neberte si servítky, kuce, jo.
+Já chci jenom říct, protože
+Andri je totálně jako,
+teď to myslím v dobrém, jo, prostě magor,
+který prostě umí designovat
+ve 3D, tisknout,
+zároveň umí elektroniku,
+sám umí leptat tišťáky,
+prostě fakt jako po domácku ve vaně skoro
+a za týden vám to
+prostě přinese osazený, spájený,
+hotový a to je kluk, který je z Ukrajiny,
+který tady teď je trošku tak jako bohužel
+uzamknutej kvůli situaci a Andri
+třeba teď jako má těžký, nemůže odjet
+z domu, protože by hned musel v podstatě
+jít jako sloužit do armády, což je
+jako smutný. Takže jsem strašně
+rád, že třeba Andri chodí i na naše akce
+a že ho můžeme takhle prostě podpořit a že
+on prostě takhle kreativní
+jako hlava umí a umí
+dělat prostě věci, který pomáhají.
+A to určitě není Andriho jedinej projekt, na kterým
+teď zrovna dělá.
+Jako to určitě ne, jako to, ale jako
+celko je vždycky, když máme
+heketon prostě s kamarádama a vždycky tam je
+Andri, tak vždycky, když jsme co nejvíce
+v nouze, co to jde, tak vždycky
+přijde Andri, hele kucí, já to mám hotový.
+Kucí, já jsem to už udělal prostě.
+A to je takový ten člověk, který tam teda stojí a na něj stojí
+ta fronta, aby jim pomohl něco vyřešit.
+Chápu to správně, že to je takový problem solver
+i pro ostatní, nebo jste si ho jenom
+jako rezervovali pro sebe?
+Ne, ten je, jako to je týmový, že jo.
+Jo, jo, jo, tak to je s váma.
+Ok, ok. Hele, ještě mi vysvětlete jednu věc, jo.
+Já se dokážu představit, že je hackathon,
+chceme si hrát s technologiím a teď třeba
+začneme se věnovat i tomuhle,
+ale přeci, abych skočil do zdravotnictví
+nebo ještě do takového, řekněme,
+specifického oboru, jako jsou prostě děti
+nebo lidi vůbecně s postižením,
+tak přeci na to potřebuji nějakou
+doménovou znalost. Jak to řešíte, jakou
+spolupráci s odborníkama? Přeci, vy jste se
+jednou ráno jako neprobudili, řekli si, tak teďka
+udělám soundboard pro autistické děti, protože
+já to je dneska, slyším
+poprvé v životě, že něco takového existuje.
+Jak vůbec k vám dojde
+ta informace o těch potřebách
+specifických pro tyhle lidi?
+Tady zase já teda musím pochválit
+náš tým, protože to není samozřejmě
+jenom jako moje práce tady sehnat
+nějaký, řeknu, technologie anebo zadání.
+Máme několik lidí
+v Imtechu, který se, já řeknu,
+víc než půl roku zabývají tím,
+samozřejmě ne úplně na full time každý den,
+ale zabývají se tím, aby sehnali
+ty výzvy, aby přinesli prostě
+z celého, řeknu,
+našeho tady českýho podhoubí
+zajímavý zadání, aby to někomu
+pomohlo a ideálně, aby jsme byli
+nakontaktovan na toho jako
+opravdu člověka, který to potřebuje.
+Toto zase jsem se naučil u nás
+ve firmě, protože u nás ty projekty, když
+jako chceme, aby odsejpali, tak je vždycky
+dobrý na ten projekt a to i interní,
+nejenom pro zákazníka externího, si sehnat
+interního zákazníka. To musí být někdo,
+kdo prostě má zájem o to řešení
+a dokáže ověřit, že to řešení slouží
+tomu, čemu má sloužit. No a takhle
+k tomu přistupujeme i na tom heketo. To znamená,
+ideální zákazník je pro nás
+opravdu ten člověk, jako jsem vám třeba ukazoval
+na tom obrázku, ten malej, tříletej
+chlapeček, který
+má problém, že nemůže
+mluvit kvůli nějakýmu, řeknu, omezení
+jako fyzickýmu nebo prostě zdravotnímu.
+Má zavedanou nějakou, řeknu,
+jako sondu taky, že
+prostě nemůže mluvit pomocí hlasivek.
+On se teda jako snaží, učí, ale jde mu to.
+No a teď třeba pro něj, jako komunikace,
+jako záložní komunikace,
+tak je znaková řeč.
+A když se tříletý dítě učí znakovou řeč
+a je to dítě neslyšící, no tak mu stačí
+ta aplikace v mobilu, kde prostě
+na něj ten panáček ukazuje ty znaky
+a k tomu mu prostě někdo
+ukáže třeba ten fyzický předmět, aby
+fakt jako věděl, že jablko je prostě jablko
+a dělá se takhle tím znakem, ale zároveň
+mu ukážou tu jablíčku prostě jako fyzicky.
+Koukám, ty jsi se znaučil některý ty...
+A já jsem, mimochodem, to je
+trošku jako zajímavý, protože já jsem
+zrovna tady to téma řešil jako mojí
+diplomovou práci, ale už to bylo mnoho
+mnoho let zpátky. Takže to byla srdcovka
+zároveň. Takže tak trochu jako srdcovka.
+Ale vraťme se tady k tomu
+příběhu, kdy ten
+malý kluk tady nemá
+ale omezení sluchový. Znamená
+on ideálně, aby se takovýhle dítě
+rozvíjel, že ve všech směrech, tak aby slyšel
+i to slovo. A ta aplikace,
+protože byla cílená na začátku jenom pro
+neslyšící, tak má videozáznamy
+těch tlumočníků znakový
+řeči bez zvuku.
+Protože jim to nedávalo smysl. No ale
+je spousta zákazníků, který
+by ten zvuk k tomu potřebovali. Takže
+jsme sehnali, nejenom
+já řeknu tu organizaci
+tam tam, kdy jako
+vlastně tady ta výuka, nebo ta výuková
+aplikace vlastně vzniká, ale
+sehnali jsme i programátora
+Android aplikací pro ně,
+což je taky mimochodem dobrovolník
+Michal Mátl, prostě úžasnej člověk a on řek
+no já můžu udělat jako mentora
+přijedu, přivezu vám zdrojáky a já si tam
+rovnou i ušpiním ruce a udělám to s vámi,
+no protože mě to hrozně zaujalo a je to super
+možnost si to jako posunout. No a
+odjížděl z jaké tonu a ta aplikace mluvila.
+Takže fakt jako pecka. Je to
+pomocí zase, že jo, syntézy, normálně v
+Androidu existuje buď to taková ta
+jako přímo v zařízení od operačního
+systému syntéza řeči, nebo
+tam je možnost i nahrát
+jako voice recording a
+uložit to k ním jako na server
+a pak použít tyhle ty stopy
+a nebo i online syntéza
+prostě přes nějaký rozhraní webový
+prostě nějaký web apy
+který třeba mimochodem taky poskytuje
+zrovna Západu Česká univerzita, tak tam
+mají na katedře kybernetiky, jestli jste
+slyšeli o projektu Karla Gota,
+který si do svý knihy namluvil
+některý části jako s vlastním
+hlasem, ale posmrtně.
+Tak to vznikalo třeba jako syntéza
+přímo u nás na univerzitě.
+Takže tam jsou lidi, který na řečový systém
+jsou jako věděk borci, jedny z nejlepších
+v republice, no a oni nám poskytli
+zase to apy. Takže je to tak,
+jak jsme se bavili o tom projektu, dát všechny věci
+dohromady, sehnat člověka, který má blízko
+k tomu, opravdu jako problému,
+takže ten zákazník, ten malej
+chlapeček, sehnat toho člověka, který to
+vyrábí, který je ten Android programátor,
+sehnat lidi, který mají zase možnost
+sehnat nám přístup na to apy, kde
+se dělá ta syntéza řeči. A tohle
+všechno musíte mít na jednom místě, no a pak už to
+naservidověte studentům a oni se do toho pustí,
+což je skvělý.
+Jako do každodenního života.
+I když už se nám to tak jednou povedlo,
+řeknu, když tak příběh za chvilku.
+Ty ambice naše jsou
+za prvý zviditelně to téma,
+za druhý možná dát
+jako prostor pro vznik nějakého prototypu
+a pak třeba ještě podpořit
+ten tým, aby na tom pokračovali dál.
+A ty možnosti té podpory,
+tak jako zase tam bych řekl, že trošku
+nám to ještě vázne, takže máme možnost jak ten
+heketon posunout, je právě podpora
+těch projektů, podpora těch projektů po tom
+heketonu. Máme třeba
+skvěle slíbenou, jako přislíbenou
+spolupráci s univerzitou, kdy oni říkali,
+pokud se toho chytne tým studentů,
+tak my jsme schopní jim tady vypsat třeba
+na dva semestry, jakoby semestrální práci
+nebo i bakalářskou práci, diplomku
+na to téma. A když se toho někdo
+bude držet, dává nám to víc smysl, než
+prostě projekty do šuplíku. Takže
+tohle je skvělý, tam jako děkuju za tu podporu.
+Co se týče nějakého podporování
+finančního,
+protože heketon není zadarmo,
+je to spousta práce, spousta lidí
+a taky se tam sní
+a vypije docela dost jídla
+a pití, tak tam
+jsme rádi za prvý
+jako fakt to za začátku
+táhnout všechno ze svý kapsy a není to málo.
+Teď máme už poslední rok, tak jsme
+sehnali partnery, takže máme
+partnery třeba na to, že partner
+zařídí svačinku nebo partner přispěje
+nějakou výhrou, jako
+kupon třeba
+do nějakého shopu nebo na elektroniku
+nebo takhle. Takže to jsou
+ty partneři, samozřejmě partnery
+rádi na heketon, jako by jsme
+přijali, jsme oni vlastně zpracovali
+takový PDF, takový portfolio
+toho, ne portfolio, takový
+portfolio vlastně těch projektů, který vznikly
+a zároveň, aby ten partner, potenciální
+partner věděl, do čeho jde.
+To znamená, budete mít od nás tady
+mediální pokrytí, protože jsme
+v podcastu, skvělým, neznámým, že jo,
+pražským, jsme
+dokonce i občas v televizi se objevíme,
+což je taky super s tím heketonem
+a zvlášť to rezenuje s těma posledníma ročníkama,
+když kod pomáhá. Potom
+co můžeme my nabídnout je nějaký
+jako řeknu mediální prostor i přímo na
+té akci, takže i ty účastníci
+vidí, ale tady ta firma prostě tady
+jako pomohla, přispěla, jo, to je
+asi dobrá firma, třeba bych u nich mohl pracovat,
+jo, a tak dále. Takže to jsou jako
+ty bonusy, co za to, no
+ale jinak jako spousta těch firm do toho jde
+s tím, že opravdu se dělá to dobro.
+To je pecká, to je jako
+nádhera slyšet, že jsou takový firmy,
+který jako tam nemají ten, to revenue
+na prvním místě, řeknou, tak něco odepíšem a
+prostě jako budeme s tom mít dobrý pocit.
+Já přemýšlím na jedinou věcí,
+z pohledu jako studenta.
+Kdybych měl
+takovejhle heketon před sebou, já bych se
+možná trošku jako bál, jo, že vlastně
+jestli jako na to mám tam jít a pomáhat,
+protože jedna věc je, pojď
+uděláme, nevím, webovku, nebo
+nějakou prostě rychlou jako blbinu,
+ale tohle mě zní vlastně docela jako vážný
+téma, na to tam tři dny něco
+zkoušet. Není třeba
+z pohledu studentů to pro ně moc vysoká laťka,
+nebo třeba, že jim
+chybí nějaký specifický skill,
+který vlastně umožní těm lidem
+s tímhle specifickým prostě omezením
+se posunout někam dál?
+Tak jako
+takhle, tak jako
+když teď jako
+retrospektivně na to,
+tak jako koukám, jak jsme my jako
+tým Plajta s tím tak nějak jako bojovali,
+tak my jsme začali
+s heketonama asi tak jako v roce
+2022, kdy jsme právě začali s tím
+AimTech heketonem. A to tam teda ještě nebylo
+právě směřováno na, když
+kód pomáhá, ale i tak, protože
+půlka od nás byla jako ze základky
+tak jako a další půlka tak teprve začínala
+někde na střední. A
+vlastně my jsme tam přišli a tam všude byly
+samý inženýři a tak dále
+a my jsme tam prakticky vůbec nevěděli, co děláme.
+A přesto se nám to povedlo dost dobře umístit
+a dát to nějakým způsobem. I přesto,
+že třeba půlka lidí od nás nevěděla, jak pracovat s gitem
+a tak dále. Takže jako
+vlastně zašílený. Ale
+já si myslím, že tady hlavně ty heketony prostě nejsou
+o tom, že bych se měl strachovat z toho, že
+něco nedám a že tak, ale je to hlavně
+o tom to prostě zkusit.
+Protože nic jako za to prakticky
+nedám, jo. Jediný co, tak maximálně
+vejstnu tři dny tím,
+že tam mám super skill jídlo a super
+skill komunitu, jo. A
+jako já bych do toho
+šel prakticky vždycky, kdybych měl
+těch zkušeností v sebe méně, jako.
+Tak prostě proč ne? A jak to vnímáš, Dana?
+Je tohle, řekl bys, reprezentace
+tvojí generace, anebo spíš
+vy jste taková specifická skupinka lidí,
+jo. Protože mě to úplně jako
+nenahrává tomu, že by ta generace byla taková,
+jako že by si jako víc věřila,
+jo, jako všeobecně Češi jsme jako skeptici,
+že jo, a spíš si nevěříme, a
+jo, jako Amíka bych si dokázal představit líp,
+jako v takovémhle, jako
+heketoním světě.
+To je asi, to je asi tyho možný, že jako
+u nás, že my jsme taková, jako
+taková výjimka, jako my s tím týmem,
+protože, ale i jako takhle
+nutno podotknout, že se dělají heketony čistě
+prostředoškoláky. Sice jako ty témata
+jsou jako mnohem méně,
+ne, jako mnohem na menším levlu,
+ale jsou pořád, a to je,
+to je to důležité. Mělo bych si jich dělat víc,
+určitě. To mě přijde super,
+že si to zkusíš někde, jako s vlastníma
+vrstevníkama, a prostě otrkáš se,
+a když postupně, než si rozbít hubu, prostě
+na velkým heketonu, samozřejmě to pak
+pro některý může být kontraproduktivní.
+Já tady jako sedím normálně se studem,
+jako s přemýšlím, co my jsme dělali na základce,
+ale jako sebrat se a jít mezi ty
+vystudovaných frajeri, říct, tak my tady s váma
+pojedeme stejnou hru, jako klobouk dolů,
+ty jo, pecka. Co tam bylo úplně nejtěžší, když se pojďáš
+zpětně, jako když, pominu teda ten
+zlomit ten strach, že teda půjdu mezi
+ty lidi, který mají o deset let plus
+víc naštudováno.
+Ty jo, no tak třeba i jako,
+když jsme šli právě poprvé na ten
+heketon s kamarádama, tak
+jako třeba koordinace týmů.
+My jsme jako moc nevěděli, jakým způsobem se domluvat
+na věcech, jakým způsobem ty věci dávat
+dohromady, kdo bude dělat tohle, kdo bude dělat
+něco jiného a tak nějak to někde
+jako dost zvázlo. I přesto, že jsme to překonali,
+tak právě jako
+z začátku to bylo takový jako
+spíš se otrkat, no.
+Já se ještě zeptám, Jirko, je tam
+i třeba potenciál pro nějaký jako tvorby
+startupů, že někdo přijde s nějakým produktem,
+řekne si, tyhle vytvoříme kolem toho startupu.
+My se kolem těch startupů často točíme, protože
+rádi říkáme, jak jsme hezky fejlovali
+v dřívějších dobách. Tak je tam
+prostor pro tohle?
+Určitě. Jako ten Heketony má
+v podstatě sloužit jako takový podhoubí
+pro tu kreativitu a
+já možná navážu ještě na to, co jste tady
+vyspovídávali před chviličkou, Dana, o tom
+jako ten strach z toho pustit se do projektu,
+který je větší než já, nebo že jako na to
+nebudu mít. To se snažíme my jako
+za organizátory a doufám, že to funguje
+rozbít už jako úplně od začátku
+a děláme to jako několika způsoby.
+Za prvý, prostě přijď si to
+vyzkoušet, když se ti nepovede prostě
+jako vyrobit projekt
+hotovej, tak si aspoň naučíš něco
+novýho, budeš se snažit,
+to je jako jedna z těch jako řádek,
+ale my hlavně jako
+nejenom, že bychom řekli, tady jsou projekty
+a teď to jako vyrobte. My tam
+máme ještě jednu jako docela dost
+důležitou roli a to je, že
+na každém tom heketonu je, já řeknu, kolem
+deseti lidí, kteří říkáme
+mentoři a ty mentoři na začátku
+představujou
+jako řeknu tu jejich doménu.
+Takže jsou tam mentoři třeba na různý
+technologie. Řeknu třeba zrovna
+AWS cloudový služby, máme tam prostě minimálně
+dva lidi, který to umí nastartovat,
+vytočit to prostě během pár vteřin a vy máte
+ten kickstart, že prostě nemáte
+problém s tím. Já bych
+chtěl tady databázy a vlastně nevím,
+jak to udělat. A tam prostě přijde
+vorec, který čtyřikrát klikne a řekne
+takhle to uděláš. Za první jsem se to i
+jako možná naučil a za druhý už to mám prostě
+rozchozen, což je super.
+No a nebo tam jsou i jako mentoři
+to, co zmínil Dan. V podstatě
+mentoři z řad třeba
+našich, jakože z IMTEC,
+lidi, který jako už mají odřízen
+několik projektů, nebo jsou to i lidi
+z univerzity, který taky jako umí
+a ty jako je v podstatě stačí
+někdy ty týmy jenom jako
+nakolejit, aby třeba jako nešlapali
+příliš dlouho tou slepou uličkou
+a nebo se prostě řekli, dobře, tak to teď
+zkusíme, ale když to nedáme za
+tři hodiny a nerozlousknem to, tak je
+na čase se jako zastavit
+a neštelovat to furt dál a dál
+stejným špatným směrem, ale vrátit
+se zpátky, třeba něco škrtnout z toho
+zadání a pustit se prostě jinou cestou.
+Takže je takovýhle jako mentorování,
+rozvržení si času, nějaký
+time management, tak i na to jsou tam
+vlastně mentoři. Takže
+tou, jako řeknu, tou armádou mentorů,
+který myslím si, že jsou jako velice
+vstřícným pomoct komukoliv s čímkoliv,
+tak tímto jako se snažíme
+kompenzovat, aby nikdo,
+kdo je u nás na Heketonu neměl pocit,
+že tam jako tráví čas zbytečně.
+Když se na to podívám technicky,
+tak ty studenti nebo ty účastníci
+těch Heketonů, s čím vlastně přicházejí?
+Co je ta jich přidená hodnota? Je to spíš ten
+nápad, nebo je ta schopnost, teda
+takhle skoordinovat
+už řekněme ty lidi, který tam mají připravený
+skillsety, jako ty mentoři a
+AVS-ko si vytočit prostě databázy a tak dále?
+Nebo třeba už umějí programovat
+v nějakém zajímavém jazyku, který
+zrovna se na to může hodit? Nebo kde vlastně
+je tam takovej to kouzlo, že teď přijde
+ta osoba, která to slepí dohromady a ono to sedne?
+Co tam mají nejvíc, jako
+už když přicházejí sebou
+za znalost ty lidi? A teď myslíš
+ty mentory? Ne, ne, myslím ty účastníky.
+Tak ty účastníci
+jsou různých
+skillsetů a myslím si,
+že já nevím, jestli jako ta jich
+motivace asi je, pojďme zkusit
+heketon, něco se novýho naučíme a zároveň s tím
+pomůžeme a někdo tam
+třeba jde i s tím, jo, tak já umím tohle
+a v podstatě jde o to
+na začátku se tam dát do party s někým,
+kdo zase umí to, co já neumím a
+hodilo by se mi to na ten projekt. Takže ty
+týmy, některý přichází, jako
+řeknu, už sestavený, jako třeba tady
+kluci, tak ty jsou jako sehran, protože
+mají odežděno, já nevím, jestli jsi říkal dneska 12
+heketonů? Jo, jo, jo.
+Prostě už takhle objíždíte.
+Jo, prostě objíždí a všude možně.
+A co se ještě zeptujete, kolik mají ten winrate?
+Jo, máme nějaký 56%
+winrate s chvátcem.
+To je ta elita, jo.
+Tak až jste hotová firma, de facto, ne?
+A tohle je právě ten tým, který, jak říkám,
+je sehraný a možná někdo další by jim
+jako to rozbíjel, protože tam už mají tu atmosféru
+prostě uvnitř nějak nastavenou.
+Ale pak jsou tam lidi, který přijdou na heketon
+a vlastně jako teprve tam se s někým
+spolčí a pak tam jsou třeba
+lidi, který tak trochu se jako domluvili
+předem a třeba si i přivedli svýho
+vlastního vlastně zadavatele
+nebo zákazníka. To tam byl
+třeba jeden z týmů, kdy si
+tam vlastně v týmu byli jak programátoři,
+tak třeba jedna slečna, která byla paní doktorka.
+A oni začali vymýšlet
+aplikaci, která vlastně
+rezonovala trošku s jedním tím našim zadáním
+a měl to být, já řeknu, rozhodovací
+systém v podstatě, když přijdete do nemocnice
+a teď jako si potřebujete
+zmačknout to tlačítko a vy zvednout si ten lísteček,
+abyste čekali ve správný frontě,
+jenomže vy nevíte, který tlačítko
+si zmačknout. Vy jste třeba,
+já nevím, sedmdesátiletá babička, která
+přijde a říká, já mám problém
+s ušima, ale co tady z těch latinských
+názvů mám vybrat?
+Takže takový, jako řeknu, pomocník, rozcesník
+a pokud tam nebude stát ten člověk,
+který ho by se zeptala, nebo ta sestrička,
+který by se zeptala, tak ta paní je ztracená.
+Takže tady vymyšleli jako AI
+asi ten, který by se doptal normálně lidsky
+prostě otázkami a nasměroval
+toho prostě pacienta na správný
+udělení. Takže tak.
+Tak to mi daš možná na další otázku,
+která mě zajímá s ohledem na
+celý tenhle obor, když teda řešíte
+tyhle ty specif... přínos
+těch IT technologií pro lidi
+s postižením. Co je
+takovej jako nejtypištější problém?
+Je to třeba to, co řešili kluci, že
+to zařízení existuje, ale stojí 30
+a my vlastně vyřešíme, že ho uděláme
+o trošku lepší a stojí tisícovku.
+Nebo je to třeba to, že chybí
+vůbec jako nějaký
+způsob řešení nějakého problému.
+Jestli jako by jdete třeba o tom, že to umíte zlevnit,
+nebo umíte vymyslet řešení, které
+ještě nebylo, nebo chybí nějaká
+asistence, nebo nějaká komunikace,
+nebo třeba něco existuje, ale chybí tomu
+nějaká přístupnost pro ty lidi. Co by byla
+takovej nejpalčivější problém obecně
+u těchto těch věcí?
+To je těžko říct. My jsme zatím ty, když
+Kod pomáhá, měli jenom tři ročníky a vždycky
+to byla právě ta největší práce
+za organizátory, sehnat to zadání.
+Je to fakt těžký.
+Ale
+myslím si, že to je jako všeho chuť.
+Tak jak jsi to vyjmenoval, tak je to vlastně
+z každého toho trochu.
+Něco je prostě příliš drahý, tak to pojďme zlevnit
+a to se dá udělat a zvládneme to za víkend.
+A něco třeba je jenom takový,
+jako zkusme to, třeba se někam dostaneme
+a něco je konkrétní zadání
+pro konkrétního člověka
+a tady možná můžu vytáhnout ten příběh
+z toho roku 2023,
+kdy přes zase
+kontakty ze dřívejších ročníků
+heketonů, tak
+takový řeknu český startup Hardvario,
+smí se tady říkat jména, že jo?
+Takže Hardvario,
+což jsou, myslím, že
+z Liberce, borci, který
+vyráběli hardwarový stavebnice
+pro děti, takový jako výukový
+a v podstatě zlevnění hardwaru a sefektivnění
+hardwaru, aby nežral příliš elektriky,
+tak prostě
+vyráběli nějaký takovýhle jako věci
+no a Alan Fabík, což je člověk, který
+to podle mě spolu založil,
+tak ten, když jsme
+ho jako taky kontaktovali a ptali jsme se
+nějaký zadání, nemáš nápad
+Alane a on říkal no a já tady prostě
+mám slečnu, která
+má
+sestru, ta slečna
+teď byl tenkrát na tom heketonu kolem 20 let,
+není to programátorka,
+studuje, myslím, že psychologie a má
+sestru, dvojče
+a ta její sestra, ta Lenka, tak je
+taková
+na vozíčku. A je na vozíčku,
+protože prodělala, myslím, že v dětství
+dětskou obrnu a teď si to
+představte, že jako to je holka, která je
+normálně chytrá, normálně
+slyší, akorát, že špatně vidí, špatně
+se pohybuje a veškerá
+její interakce jako s počítačem
+tak probíhá, buď to
+tak, že jí někdo pustí třeba audioknihu
+a ona vždycky si musí, že ho říct o tu
+pomoc, anebo, což pro ní
+udělala právě ta ségra,
+vykuchali bezdrátovou
+klávesnici, připojili
+pět tlačítek,
+připojili je, já řeknu,
+přidělali tlačítka jakoby
+velikosti z vypínače od světla,
+tak přidělali na dřevěnou destičku
+a ty tlačítka jsou různých
+barev, protože ta lenka, myslím, že
+ty barvy ještě dokáže tak jako rozlišit
+a ona pomocí těch tlačítek
+tak si prostě volí v počítači.
+To znamená třeba, chce si přehrát
+audioknihu, tak ví, že musí třeba
+dvakrát jakoby šipkou dolů a pak zmáčkou
+enter, protože teď se jí začne přehrávat ta oblíbená
+audiokniha. No a ta první
+verze, tak to vyrobila ta její sestra
+pro ní v podstatě taky na nějakém heketonu,
+jenom tak jako prototyp a moc
+to neumělo. No a když odjížděla
+z toho našeho heketonu 2023,
+tak měla
+novou verzi těch tlačítek vytisknutou
+taky zase na 3D tiskárně, protože
+se lepší, jako
+řeknu, ovládali, byly takový jako placatější
+ty tlačítka a zároveň
+k tomu měla obrovský jakoby balíček
+softwaru, který uměl spoustu věcí
+navíc. A ta
+sestra se naučila, třeba
+i ona to jako předtím uměla
+psát SMSky a maily,
+tak jsme jí udělali aplikaci, který
+umí prostě sama napsat e-mail a
+SMSku a odeslat ho.
+A píše morzovkou, to mi třeba překvapilo.
+Prostě jedno tlačítko je tečka, jedno je čárka,
+jedno je oddělovač slov a ona prostě
+pomocí toho si vyťuká text, jaký
+chce. A dokonce jí kluci udělali,
+mám pocit, že ten text se dá
+napsat do promptu vyhledávacího
+na YouTubeu a ona si pak
+zmáčká play a poslouchá audio z té
+YouTube prostě stopy z té video.
+Takže prostě rozšířili
+jsme jí ten její jako řeknu omezený
+svět, že si sama, sama
+může prostě s počítačem jako
+vyhrát mnohem víc. A tohle
+třeba projekt vzniknul na Heketonu a pak ještě
+asi měsíc, dva to jako kluci
+nějak jako dolaďovali a dokonce to pomohli
+těm holkám prostě na
+instalovat na jejich počítač a rozběhat a
+věřím tomu, že dneska to ještě slouží.
+To je uvařitelný a to si teda
+doplnil můj dotaz, který jsem chtěl
+dát a to znamená, že to zadání může přijít
+jak od vás, tak může přijít s tím zadáním
+i někdo zvenku, prostě je to kombinace.
+Určitě. Je to
+scháníme zadání a sami nás je
+jako omezená množina, takže pokud
+jako někdo má nápad na to, co by se
+dalo, zase musíme trošku zvážit,
+jestli to je realizovatelné za ten víkend
+a nebo aspoň něco, co by mohlo vzniknout za víkend
+a mělo to nějaký přínos, tak
+budeme hrozně rádi za jakýkoliv takovýhle
+zadání. Nemůžete čekat
+zázraky, to samozřejmě neumíme,
+ale když se tady kouknu na Dana a jeho
+tým, tak ty zázraky na počkání.
+Je něco,
+co vám, kluci, teďka v současné
+době vlastně chybí? Protože je
+vidět, že chuť máte, potenciál
+máte, spoustu talentů,
+ať je to, řekněme, z komerční
+sféry i z tý akademický,
+ale třeba chybí vám teďka, nevím,
+nějaký hardware
+nebo nějaký řešení, něco, co třeba jste si řekli,
+ty doprči, kdybychom měli tohle, tak bychom
+třeba ten problém byli schopní posunout ještě
+o úroveň výš, nebo je to jenom
+třeba zase klasicky kombinace těchto
+věcí? Jako za mě ty věci
+se dají sehnat. Ty věci,
+to, co se dá někde prostě sehnat,
+tak se to dá sehnat. Co je trochu problém,
+je mít dostatek těch partnerů,
+aby se to dalo
+nějak ufinancovat ta akce
+a to je taková, řeknu tak,
+peníze, no dobře, ale samozřejmě.
+Jasně, peníze chybí vždycky, to je stále.
+Ale to jako nechci tady úplně vytahovat
+jako na to první místo. Na tom prvním místě,
+co vidím, tak je
+nějaká, řeknu, podpora
+těch projektů právě po té, co
+jako skončí na tom našem víkendu.
+A teď jako podpora, já vlastně nevím,
+jak to zařídit. Ty lidi přijdou na
+Heketon a řeknou, OK, tady jsme něco
+vyrobili, vyrobili jsme prototyp
+a já se třeba zeptám, a chcete s tím jako pokračovat?
+A oni řeknou, no vlastně ne.
+Takže vlastně nevím, jak jako ten projekt
+pak uchopit dál. My jsme zase zkušeli
+něco jako dát to na Git,
+aby to bylo open source, aby to bylo
+k dispozici, ale dovedete si představit,
+jaký špagetykot vznikne prostě za víkend,
+když se to prostě prasí dvě noci.
+Takže tam jako jo,
+můžeme to někomu jako dát k dispozici, někdo se
+od toho chytí, ale aby ten někdo
+další se toho chytil, tak o tom musí vědět.
+Takže tohle vlastně jako nevím, jak zařídit,
+neumíme to úplně.
+A odpodporovat ty projekty, aby třeba
+ještě rok po Heketonu třeba frčeli,
+tak to je zase nějaká další jako práce
+a do toho se občas
+pouštím já, pouští se do toho další lidi,
+jako by od nás, toho organizačního týmu,
+snaží se i ta univerzita
+to podporovat, ale tam
+to taky je prostě to volavý trochu místo,
+kdy jako nevíme, jestli dojdem za ten
+rok a jestli se ten tým mezi tím nerozpadne
+a jestli jako došlápneme do toho cíle,
+tak to jsou ty těžký věci na tom.
+No pověď. Já možná skočím
+ještě Jirkovi takhle, jako nebo doplním ho,
+tak já jako z pohledu toho účastníka
+tak vnímám, že jako by mohlo těch
+Heketonů být trochu víc.
+Že zdá se mi, že jako ta podpora
+ani nezačíná v tom jako
+základním kroku a to je, že má být nějaký Heketon.
+Že jako kromě toho imtek Heketonu,
+což je prostě takový jako základ,
+což prostě se mi líbil nejvíc ze všech asi ostatní
+Heketonu, tak jako s klukama, co jsme vždycky
+tak jako hledali Heketony, tak jsme jich tolik
+zase nenašli. A mi to přijde jako strašná chyba
+teda v tomhletom.
+Ok, no tak vy samozřejmě, abyste si zvýšili
+svoje venerejšího, tak je jasný,
+že byste jich potřebovali ještě víc, to je jasný.
+Mně ještě napadá jedna věc.
+U takhle zásadní věci,
+která vlastně dopadá na zdravotnictví,
+nebo mohla by dopadnout pozitivně na zdravotnictví,
+neměl by se, vím, že to je trošku
+jako kacířská myšlenka, ale do tohle třeba
+zapojovat, nevím, stát přes
+nějaký podporu ze strany
+ministerstva zdravotnicí, něco takovýho.
+Protože jedna věc je, ano, uděláme si blbinku,
+rozblikáme si diodu,
+napíšeme si v Pythonu hezký věci
+a jdeme v poneděli domů s dobrým pocitem,
+ale tady vznikají lidi, který jako
+reálně, tady vznikají věci,
+ne lidi, věci, který
+jako lidem reálně můžou jako opravdu
+usnadnit fyzicky život.
+A to jako už není taková
+blbina, že jo, to by možná mohlo pro ten stát
+nezaznamenali jste třeba nějaký jako...
+Jakože takhle s kamarádama,
+tak zase s naším Pyta týmem,
+tak jsme prostě nedávno byli na jednom heketonu,
+který právě pořádali dronysit,
+který vlastně spadá pod
+plzeňský, prostě pod
+jako město Plzeň.
+A tam jsme právě vyvíjeli
+nějaký software pro plánování
+transportu, myslím, že to bylo asi krvé,
+pomocí jako dronů,
+aby se tam právě zefektivnil
+ten transport mezi těmi nemocnicemi.
+Takže jako asi fakt opravdu záleží
+hodně jako od heketonu k heketonu,
+protože některý jsou právě to, že to plánuje nějaká
+firma, ten heketon, a některý jsou
+i přímo, že to plánuje nějaký státní subjekt.
+– A je tam poznáte rozdíl mezi tím,
+kdy jako třeba, protože
+stát to dostane většinou
+ze Zora Befelem, že to má nějaký strategie
+a nikomu se do toho moc nechce, pokud tam není někdo
+osvícenej. Firma v tom má
+peníze a to pak většinou je taková ta motivace,
+že do toho šlapou. Tak je to
+poznat, nebo? – Tak tam přímo
+jako vlastně u těch
+dronysit, tak tam přímo figurovaly dronysit
+jako takové, takže ne úplně přímo jako
+stát. Takže tam vlastně takový rozdíl,
+nepřišel mi takový rozdíl.
+– Ok, ok. A nějaká teda, nějakákoliv
+ještě jiná podpora napadá vás? Třeba
+nás někdo uslyší, kdo zná někoho na ministerstvu
+nebo o nějakým grantovým programu?
+Víme o Tomáši Mikolova, kterým jsme tady měli,
+že granty přeci není problém v České republice.
+– No já jako
+k tomu jednu takovou větičku,
+já se malinko bojím, když
+by to bylo takhle jako
+z organizace nebo jako od státu, tak
+pak je tam nějaké očekávání na tu druhou stranu.
+Takže tam je potřeba si jako říct
+na rovinu, co se od toho dá očekávat
+a nemít to jako nastavený,
+že to prostě musí splnit nějaký
+jako výsledky a tak.
+To je to, co se trochu bojím a tady pořád
+hrajeme na to a my to jako komunikujeme
+i směrem k těm zadavatelům těch výzev.
+Může se stát, že vaši výzvu
+si nikdo nevybere. Nebuďte smutný,
+když se to tam řešit nebude.
+A co se dá vyrobit
+za víkend, vám nemůžu slíbit,
+že to bude prostě řešit váš problém.
+Tam jako spíš máme tu morální
+potřebu tohle z toho říct, protože
+to jsou lidi, který od toho můžou mít
+třeba jako nadměrnou
+očekávání a pak by byli zklaman.
+A zvlášť, že se jedná třeba i o případy
+dětí, který tam jsme měli. Takže tam
+jsme velice citliví v tom jako komunikovat,
+co z toho bude na konci, co z toho vyleze.
+Ale jako na druhou stranu
+jakákoliv podpora by byla dobrá.
+Budou nějaké ty penízky
+na ty svačinky a tak. To jako všechno
+je to prostě fajn. Co se týče
+říkám věcí, technologií,
+tam jsme asi neměli nikdy nějak jako pocit,
+že něco, co jsme chtěli
+nutně sehnat, že by jako jsme nedokázali
+sehnat. Tam si myslím, že jako se dá,
+když máte kontakty, tak ty mají zase kontakty
+a to jako se dá rozhodit ty sítě
+dostatečně předem.
+A asi dobrý,
+asi takhle.
+Jak funguje ta komunita zatím, Mirko?
+Říkal jsi, že děláte devět let.
+Heketon.
+Vracejí se účastníci
+z minulých let na Heketon
+a jak ta komunita kolem toho funguje.
+Kromě Dana teda samozřejmě, který tam je.
+To už jsme ho pochopili.
+Tak jsou tam skalní
+účastníci. To je jako super.
+To je v podstatě jako, když vám po roce přijede
+prostě kamarád, kterýho jste
+jako fakt rok neviděli a vypadá to jako,
+že jste se rozešli včera prostě po tom víkendu
+a hned se naváže v komunikaci prostě dál.
+To je jako skvělý.
+Jsou tam docela často
+právě i noví.
+A to tak zase, že
+tím, že hodně děláme
+tu kampaní Přijďte na Heketon
+jako na univerzitě, tak vlastně studenti se točí
+každej rok, takže my máme
+to i zase víc zacílen na to.
+Už tam máme
+partu těch lidí, těch pedagogů, který
+jak říkám znaší tou západu českou
+v Plzni, tak hodně
+jako spolupracujeme fakulta aplikovaných věd.
+Tam je, já řeknu tak jako deset
+mentorů, který tam už jsou asi
+řeknu některý možná už
+po pátý, takže je to jako super
+a to jsou zase lidi, který jsou odborníci v tom svým
+a to jsou ty lidi, který jsou ta konstanta
+na té škole, takže ty nám jako
+tím, že nám přihrávají, tak nám přihrávají.
+Občas se nám tam točí ty studenti, ty
+účastníci, ale to je taky fajn,
+že zase máme jako větší dopad, že víc
+těch, řeknu ročníků, generací, tak jako
+ví o tom, že existuje něco typu
+Heketon, můžeme pomáhat a tak.
+Takže myslím si,
+že je to
+tak jako, nebudu říkat
+půl na půl, ale tak řekněme třeba
+20% těch účastníků se jako vrací
+a ten zbytek je zase po každý
+třeba trochu novej a to je taky dobře.
+Mě teda celou dobu tady
+jde hlavou taková jedna myšlenka, protože
+my tady vždycky, když máme nějaký odborníky
+a teď se bavíme za tady za tři nebo čtyři
+roky nebo jako to tady už točíme telepodcast,
+tak sedíš tady se skalistou a říká
+jo jedině skala, ta ti vyřeší všechno, pak je
+tady samozřejmě F-Sharpista, nebo je tvrdě to stejný
+a Javista to stejný.
+Mně přijde, že vlastně tyhle z ty hackatony
+je ukázka toho, že takhle to ve skutečnosti
+vůbec není. Že jako musíš prostě najít
+ten opravdový problém, který chceš vřežit
+ať je třeba business problém nebo zdravotní
+problém, jakýkoliv a pak
+jako jedno v čem to úplně slepíš.
+Potvrzujete to
+tohleto, že v tom víkendu opravdu
+nezáleží na tom, co ten člověk,
+jestli umí Javascript, nebo umí Javu,
+nebo jestli umí C-Sharp, nebo jestli umí
+Python, nebo Pascal,
+že to je vlastně jako jedno, nebo je tam
+napadá vás třeba nějaký jako
+omezení, nebo no pak nějaká výhoda,
+která by tam mohla být. Protože mně z toho, co říkáte,
+vlastně říká, že hackathon,
+když máš chuť, tak je úplně jedno
+v čem píšeš. A tak
+člověk je tolikrát člověkem, kolik
+jazyků programovacích znáš, jo.
+Teda kromě Javascriptu.
+U nás to, u nás v týmu, tak jako většinou
+jedeme Python. Jedete Python?
+Jo, jo. Jednou jsme dělali jako mobilní
+aplikaci v Pythonu, nikdy víc.
+Takže máte i takový, jakože
+vás tam nakopali nějaké technické rozhodnutí.
+Jo, jo. Mnohdy se to tak stane, že?
+Jo. A máte i nějaký, jakože
+začnete, jak to začíná, v pátek, ne?
+Končíte v neděli, něco takového?
+Že třeba v sobotu odpalený řekneš,
+tyv, to bylo špatný, teď to musíme celý přepsat.
+Jo. Mnohdy tam jsou takovýhle
+jako prostě random spontánní rozhodnutí.
+Ať už teda z hlediska jako výběru jazyku,
+tak už i třeba jako z hlediska, jaké
+chceme implementovat featurey do toho
+našeho výsledného projektu. Takhle teď si
+pamatuju, že jednou jsme byli
+na hackathonu
+od NKU s kamarádama
+a právě jsme tam navrhovali
+nějaký prostě helper do navigace,
+že by vám to hlásilo vždycky nějakou zajímavost
+o tom prostě místě, kudy procházíte.
+A my jsme to prali právě z otevřených
+dat. A pak jako někdy
+asi prostě večer, tak jsem byl jako
+kucí, a co kdybychom tam implementovali
+si nukleární bomby. Jako úplně
+fakt jako šílený nápad.
+A rozhodli jsme se, OK, uděláme to.
+A přijeli jsme tam prostě
+regulérně takový malinký
+prostě side layout,
+na kterém si můžeme jako zvolit,
+jakou nukleární bombu chceme, na jaký
+kraji dá. A to jsme následně
+na NKUčku prezentovali. A dali jsme
+k tomu třeba jako, že
+to přímo tam bylo jako pro počet těch otevřených
+dat, jakože v případě, že to hodím na nějaký
+kraj, tak kolik jako třeba konízkého
+masa jsem evaporoval, nebo něco takového.
+Prostě jo. Fakt jako strašná
+kravina. A samozřejmě teda nevyhráli
+jsme to, jo. Prostě posádá s tím dokytek.
+Ale jakože prostě, takže
+spontánní rozhodnutí jako takový, jestli to se dělalo.
+A takovýhle jako hovězí nápady, to přichází
+ve chvíli, kdy už jsi totálně unavenej
+a začíná ten mozek fungovat jinak, ne?
+No, to je vždycky prostě v jednu, ve dvě
+ráno, tak se si vždycky jako napadnou
+takovýhle úplně šílený nápady, no.
+Hele, přivádí mě to dané
+k otázce, co vás vlastně motivuje,
+jo, na ty heketony chodit. Je to ta
+výhra, nebo je to ta možnost udělat
+něco super, jako nějaký společenský
+dopad? Nebo jsou tam nějaký vnitřní
+mechanizmy, že tě prostě baví si hrát, jo?
+Co to je?
+No, tyjo, tak jako, samozřejmě nebudu říkat,
+že výhra mě neláká, že jo, tak výhra,
+jsou těživý každej prakticky, ale
+jako nás
+s kamarádama tam hlavně láká to,
+že se zase někde sejdeme, na něčem pracujeme,
+společně něco vytváříme, že jo,
+vytváříme něco, co by do budoucna mohlo nějak
+pomoct, což je taky samozřejmě dost
+jako zajímavé a motivace sama o sobě.
+A i to, že i spolu nějakým způsobem
+právě trávíme čas, protože na tom heketonu
+jako takovým, tak vznikne spoustu prostě
+vtipných momentů, na který si pak
+následně v retrospektivě prostě
+vzpomínáme dál.
+Mě úplně připomnělo
+tohle Danovo
+popsání. My jsme vlastně v Sienku
+měli také předměty na škole, kde jsme
+vždycky definovali taky nějaký problém,
+jo, nebo nějakou aplikaci, produkt, a vlastně
+ty studenti to dělali celý půl rok.
+Což bylo taky super, protože nedělali něco do šuplíku,
+co si zase vymyslel student,
+teda učitel, ale prostě mělo to
+zase nějaký dopad a dokonce
+některý ty věci jsme pak použili ve firmě,
+jo, abys třeba, jak se to jmenoval,
+takže pár věcí se takhle použilo.
+Je tam takováhle cesta
+třeba, Jirko, v rámci toho heketonu, že by třeba
+nevím, Záporočeská univerzita přebrala
+prostě takovýhle nápad a v rámci
+nějakého předmětu vlastně ty
+studenty takhle, jako jim pomohla
+a definovala tady ty nějaké zadání,
+které by dělali v rámci školy?
+No, my tam máme tu slíbenou
+spolupráci, co znamená
+studenti začnou u nás na heketonu vykopnout
+projekt a můžou na tom pokračovat,
+to je to skvělý, ale už jsme to vlastně
+i otočili, to znamená
+do jednoho předmětu, který
+vlastně učí jakoby
+týmovou spolupráci na softwarovým díle,
+jo, tak jsme vlastně to zadání
+hodili už jakoby
+trochu předem a řekli jsme, pokud
+na tohle se staví tým
+a bude to tým těch studentů,
+tak ať třeba i zabrainstormujou ještě před
+heketonem, nechtěli jsme jim úplně jakoby dávat
+tu výhodu, že teda na to můžou tvořit,
+ale pak jsme si řekli, jako proč ne,
+hlavně když něco vznikne, takže
+v podstatě i zadání, který pak jsme
+chtěli vypsat na heketonu, tak jsme vlastně jako
+hodili předem do toho předmětu a
+byl tam tým, který jako
+vlastně přišel už s tím, že na tom trochu mají
+třeba rozpracováno a tohle by jsme
+možná v příštích letech jako chtěli
+zopakovat, zrecikovat, protože
+nám to dává smysl, je to o tom
+jenom jakoby dát víc
+energie do smyslu plnejch projektů.
+Win-win.
+Byť je tohle téma strašně zajímavý, tak aby jsme se
+nezasekli jenom u toho
+heketonu, byť teda samozřejmě se k němu
+ještě řekl bych i tak, v odpovědích
+vrátíme. Vírko,
+tvoje kořeny, jak jsi říkal, ty jsou
+Javě, Pascal,
+vlastně programoval jsi ji už
+v době, jak jsi říkal, kdy my jsme spolu jim
+ještě koukali na nějaké elektronické
+kalkulačky, že bychom to možná někdy zkusili.
+Ty jsi zvyklý za ty
+svoje roky v IT,
+zvyklý řešit integrace v enterprise
+prostředí, Javičku.
+Když se podíváš dneska, 2025,
+na IT,
+co tě baví, co tě
+motivuje dělat dál, jak to vlastně vdímáš,
+kam se ten obor posunul za ty roky?
+To je těžká
+otázka, ale já na ní lehce
+odpovím.
+Je to moje hobby.
+Moje hobby jsou počítačový hry a počítačová
+grafika.
+A v tomhle směru
+já jsem si zažil od
+grafiky
+černobílý na
+ještě v Herkule z grafických kartách,
+kdy jsme prostě měli jenom
+pixly černý a bílý a nic jinýho,
+tak ten
+rozvoj té vektorové grafiky,
+grafický akcelerátor,
+start společností
+typu nejdřív teda jaký ty
+Voodoo FX 3D
+a takovýhle, 3D FX Voodoo,
+a pak start
+vlastně společností,
+Nvidia, která tenkrát
+vyráběla taky jenom grafický karty
+a pak se od grafiky posunula
+k tomu, že začala vyrábět prostě
+servrovou infrastrukturu a teď teda
+dělá opravdu velkou díru do světa,
+protože na jejich počítačích běží
+nechci říct kolik procent,
+ale mnoho procent všech AI
+tady neuronových sítí a tak
+v celém světě. A je to
+mnoho, mnoho násobně ještě dál, ale nechci
+mluvit jenom o té jedné společnosti, zvrátím se
+k té grafice, grafická
+jako grafika, která byla
+ve hrách tenkrát kdysi, opravdu
+pixel art je proti tomu už jako
+luxus, to co jsem zažil já ještě
+na PCčku, na XTčku.
+To byl jenom pixel, to nebylo art.
+No tak art to nějaký byl, ale spíš
+to programátoři
+a umělci, to běžně nebývá
+v jednej hlavě, takže asi tak.
+No ale říkám, baví
+mi to, jak se to jako posouvá,
+že dneska už máme prostě
+grafiku raytraceovanou,
+zrovna my jsme,
+docela vtipná historika, jeli jsme s Danem teďko vlakem
+do Prahy a povídali jsme si
+a já jsem říkal, mě hrozně bavili vždycky jako letecký
+simulátory. No jo, jenom, že já jsem
+začínal na flight simulatoru
+3, možná 4
+v 80kách a to prostě
+dva snímky za sekundu
+a byl jsem rád, když to bylo
+občas 5 a mrakodrapy
+tam byly na obrazovce celkem 2
+a já jsem říkal, to je
+skoro fotorealistický a dneska hraju
+flight simulator 2020 a
+lítám prostě
+s letadlama, který mají do detailu
+zpracovaný kokpit a stíny
+světlo, raytraceovaný některý
+části, odlesky ve vodě
+a fakt jako si říkám, tyjo
+tak jsem rád, že jsem byl u toho
+začátku a i u toho jako
+zatím konce, nechci říkat
+úplně konce, ale baví mi to.
+Takže počítačová grafika za mě je
+jako úžasný, na tom je vidět
+to, kam se to jako za ty leta posunulo
+no a teď, když jako půjdem do toho
+jako řeknu trochu průmyslu
+tak tam
+vidím trošku jako negativu v tom právě
+jak jsme tady zmínili mnoho programovacích jazyků
+každej umí něco. Je skvělý třeba na heketonu
+že můžou vznikat prototypy úplně ve všem
+možným, ale když si to vemete
+z nějaký jako pohledu
+udržitelnosti, tak je to
+těžký. Vemte si, že prostě
+nastoupí nový borci do firmy
+vyrobí vám prototyp v Pythonu
+to je ještě jako docela standardní jazyk
+ale můžou jako ujet do nějakých úplně extrémů
+nejnovější hypy a tak
+a za dva měsíce už je tam
+zase nemáte a co s tým
+kusem tý aplikace, která tam po nich zbyla
+to nikdo neumí spravit
+nikdo do toho neumí naskočit, musíte vybírat
+zase z nových lidí, hele neuměli byste
+tohle, nebo to musíte přepsat do něčeho novýho
+takže v tomhle vidím jako by to riziko
+ale tím nechci brzdit ten rozvoj
+vývoj, to prostě je skvělý
+že dneska jsou nástroje, že to jde rychle
+že to jde všechno jako už udělané, ale budeme se
+tý narůstající komplexity
+a tý udržitelnosti
+a to je z pohledu softwarovýho
+vývojáře. Mě teda ještě zaujalo
+ještě než se vrhneme na Dana
+ty jsi teda říkal, že máš hlavu grafiku
+hrají hry teda teďka? Hraju hry
+a co teďka hraješ?
+Musím se zeptat prostě dva hry, pařeně
+Dobře
+Vypadá na dlouhý
+Je toho mnoho
+já jsem řekl bych dneska už víc
+zběratel než hráč, ale mám
+teďkon rozehraný Kingdom Come 1
+dvojku jsem si ještě nekoupil
+protože já vždycky říkám
+radši si dohraj to, co máš
+koupeno a pak si užiješ
+to druhý, až to bude trošku
+já nemám rád úplně takovou tu první vlnu
+toho, že všichni to hrávají, všichni říkají, jak je to boží
+tak já si to nechám trochu odležet
+a pak jsem
+teďkon mám rozehráno, ale to mám
+rozehráno do
+taková parta lidí kolem právě
+retrohraní a starých her
+tak mám rozehránou hru, kterou jsem
+vyráběl já
+s dalším týmem před, a to už
+bude taky 27 let
+my jsme totiž
+vydali kdysi dávno s týmem
+Adventuru Dreamland
+z roku 98
+a to je prostě
+hra, která teď se dostala
+na seznam jednomu, jedný
+říkám partičce retrohráčů
+a dělají o tom i na YouTubeu prostě pořad
+takže tam jsem se jako namočil do toho
+že teda mě donutili, pojď to s náma
+jako zahrát a budem si k tomu povídat, jak se dřív
+dělali hry
+takže ty jsi udělal adventuru
+a včetně toho nějakého systému
+jako býval od Lukas Harskam a tyhle ty věci
+já jsem vyvěnul takovejhle systém
+tenkrát v Delphi, což byla
+nová verze Paskalu
+nebo prostě odnož Paskalu
+a vyvěnul jsem ten herní engine
+a byl to takový herní engine, ve kterém se
+dovolilo v podstatě naskriptovat adventura
+a sesadit adventura
+no a vznikalo to
+říkám 97, 8 tak něco
+99 to vyšlo
+bylo to na 3 CDčka
+a bylo to jako hrozný masakr
+je to ke stažení někde
+ale nevím, jako asi se to dá někde sehnat
+tak to mě musíš poslat odkaz
+já si to chci zkusit
+dohledejte si na nějaký
+jsou nějaký weby tady o hrách
+myslím, že Vision Game je taky
+Vision Game CZ nebo tak, tak tam jako se dá dohledat Dreamland
+je to prostě, a je to jako
+minulý tisíciletí a pro mě už trochu minulej život
+ale super, že se k tomu občas někdo
+jako ještě hlásí, tak to mi vždycky udělá radost
+no a pak
+v tom retrohraní, tak tam jako
+občas zkouznu k tomu, protože to, co nás bavilo
+v těch, já řeknu tak jako
+15 až 20, tak jako se vám
+v tom životě pak vrací
+a zkouzáváte k tomu zpátky, takže
+i ty, řeknu, komunity kolem tady
+těch retrohráčů, tak jako mi baví
+a občas chodíme do Červenýho vězda
+si zahrát na automaty, to si taky znáte
+taky ty koneopovky, jo, konecký stary
+takže tak, no
+hezky pěkně, no a prosím tě, Dané
+jako
+vlastní simulátor pro řízení
+letového provozu, tak to mě
+opravdu zajímá, možná jsme vlastně
+neutekli z toho flight simulátoru
+za stolik
+můžeš to popsat, v čem to píšeš
+proč to vlastně píšeš, jaká je
+myšlenka zatím? No tak
+jako takhle, on je k tomu docela jako
+rozsáhlý příběh, ten příběh je o tom, že
+nebo respektuje prostě story, která na to navazuje
+proč jsem to začal psát a to bylo to, že
+jsem poslední dobou, tak jsem
+se strašně začal specializovat na řízení
+letového provozu, strašně to začal prostě bavit
+jsem si říkal, ty a to je hustý řídit si vlastně letadla
+někde, prostě na nějaké oblasti, tamhle
+třeba v Praze a tak dále, ať už
+se jedná teda o simulaci, ale
+a vlastně jsem začal
+tady docházet na fakultu dopravní
+na ČVUT a právě
+jsem, právě jsem
+se jako zaobíral těma simulacema
+prošel jsem tam nějakým jako výcvikem, jen tak
+ze srandy, abych věděl, co to teda je
+být řídícím letového provozu, ale
+pak jsem následně zjistil, že
+tam je strašný drawback a to je ten, že
+k tomu, abych já simulově zkusil řízení
+letového provozu, tak potřebuji nějakýho člověka
+co se chová jako ten pilot
+na té simulaci a komunikuje se mnou
+hlasově a já jsem byl jako sakra
+to se mi jako nelíbí, ale ne, tak už jenom
+to, že ten simulátor nemůžu mít doma a potřebuji
+dojíždět z Plzně do Prahy, to už mě taky oštvalo
+tak jsem si řekl, no tak dobrý, tak já si
+udělám vlastní simulátor řízení letového provozu
+prostě doma na kolení a hej
+a udělám to ještě víc cool a dám
+si do něho prostě takový jako
+AI modul, který se vlastně bude
+imitovat ty piloty
+aby to jako to, tak aby mi mohli zpracovávat
+ty hlasové příkazy, ne?
+Takže vlastně takhle jsem na tom začal pracovat
+prostě už asi nějaký dva roky na tom dělám jen tak
+jako si to kutím u sebe doma
+a dělal jsem s tím i dokonce
+jako středožkovskou odbornou činnost, teď jdu
+nějaký co do celostátního kola
+se tam odprezentovat
+A je to v Pajtu teda?
+Ne, ne, v Pajtu to není, já jsem se z nějakého důvodu
+rozhodl to dělat v Javascriptu celé
+Jako to bylo strašně
+Přátelé, tak byste měli vidět Jirkovou gestikulaci
+který je jako palcem dolů a
+jako bolest v obličeji
+Já to jako chápu, já tu bolest v obličeji zažívám, když se to
+snažím dopisovat, protože ono už je to tak
+rozsálej kot, že já už nemůžu zmínit
+Nemáš to v Javascriptu, nemáš to v TypeScriptu
+No takhle, mám to v TypeScriptu jako ten backend
+a dělám to v Electronu
+což teda jako prostě, mohl jsem si vybrat
+lépe, uznávám, že to bylo
+prostě jako chyba tohle
+Ale hele, už jsem si to zvolil, už jsem v tom
+napsal většinu kódu, tak prostě budu
+to optimalizovat
+Jak to teda ovládáš? Je to jako aplikace, která
+elektron mi to naběhne, má to to znamená jako desktopu
+UI, ve kterým běží web
+a ty pak jako s tím mluvíš?
+Jo, já tak to mám přímo
+prostě kontrolku na mikrofon, tu si prostě
+takovej toggle button a sem si je mačkám
+a mluvím přímo do mikrofonu a říkám
+tomu prostě nějaký příkazy
+těm letadlům, pomocí prostě dané
+nějakou tu frazeologii, která se využívá
+při řízení letového provozu
+A v tom UI vidíš ten radarek
+tam letěj, ty kódový označení
+a co se vlastně na tom
+radaru zobrazuje? Je tam
+rychlost, směr, výška?
+Vlastně jako na tom radaru se zobrazuje
+prozatím teď v té aplikaci, tak tam můžu vidět
+prostě ty letadla, můžu vidět jejich
+prakticky vektory, bych řekl, kam směřujou
+můžu vidět jejich rychlost, jejich
+právě ten znak, to je jich nějaké
+ten volací znak
+a vlastně tím to je zatím, jo a ještě
+teda pak jako hladinu, ve které se pohybují
+ale tím to zatím končí
+ono to je takové, jako se ta aplikace je zatím
+takové jako betě, že se to dále ještě bude jako hodně
+vyvíjet, aby to pak bylo
+přímo, přímo pro to řízení letového provozu
+ale třeba se to i v praxi používalo, hele
+to je cool, to je cool a má to nějakou detekci, že když je pošleš proti sobě
+že ti to začne, ne? Hele, zatím ne, ale přemýšlím
+pořád nad tím, že jako až to budou mít všechny
+ty důležitý prostě věci hotový
+ty důležitý funkcionality, takže bych tam taky
+právě hodil tohle. Hele a když to
+řídí letovej provoz, tohle
+ten provoz, na tom
+řízení, tak berou
+v potaz i to, co je na těch letadách, že třeba
+já nevím, T-Cast nebo jak se jmenuje ten systém
+teďka nevím, aby se nesrazili a tak dále
+nebo prostě berou, jak kdyby to byly dvě hloupý letadla
+který nemají vůbec nic a tvoje
+tvoje práce jako na to nikdy nespolíhat
+Jakože myslíš
+teď přímo ten můj simulátor, jak to řeší?
+No tak teď prozatím ten můj simulátor funguje jako
+dvě hloupý letadla, který mají pouze nějaký
+jako Automatic Speech Recognition
+modul a pak Text to Speech modul
+aby to, že jo, mi řekli zpátky
+ale do budoucna bych tam chtěl dát
+jako nějaký, aby to trošku víc jako inteligentněji
+bylo a reagovali na jiný příkazy třeba
+Jo takhle, ok, aby se
+a oni i spolu komunikují v praxi i ty letadla mezi sebou
+Jako mezi sebou ty letadla, nevím o tom
+Ok, ok, je třeba něco
+co jsi tam ještě naučil, kromě teda toho
+jak to funguje, něco co ti otevřelo oči
+protože jsi říkal, tobě to
+očarovalo, chtěl jsi teďka dělat jako řízení
+letového provozu, pak jsi šel teda mezi ty lidi
+který tomu opravdu rozuměj, byl tam nějaký
+red flag typu, jako no tak dobře, jak dopíšu to
+ale vlastně se tomu věnovat nebudu, nebo ti to pořád drží?
+Jako takhle, no, jako ten red flag
+je to, že prostě když budu řídícím
+letového provozu, tak vlastně
+celý můj život bude na jednou jako přímo
+jenom řízení letového provozu, protože ta práce
+je tak náročná, že já bych prostě nemohl
+dělat nic jinýho, že jo, že bych byl
+řídícím letového provozu, pak bych přišel
+domů a potřeboval dělat nějakou aktivitu, která by
+mi prostě neunavila ten mozek ještě víc, že jo.
+A takhle to mají všichni řídící.
+A ta prostě práce sama o sobě
+je strašně náročná a už samotná to je
+jako dostat se do té práce jako takové,
+projít všechny ty zkoušky a tak dále, tak to
+sama o sobě je taky jako extra náročný.
+Takže v finále to je prostě neskutečně náročný
+na mozek. Já jsem po chvíli
+tak jsem si řekl, ne, tohle radši jako dělat nebudu.
+Budu to dělat jenom jako hobby a maximálně
+vyvíjet nějaký software pro to.
+No i oba dva jste tak jako k tomu lítání,
+ani piloťák
+někdo z vás neplánuje dělat, ne?
+Já možná bych si ho udělal, jako zní to zajímavě určitě.
+Přemýšlím o tom. Já o tom přemýšlím
+už asi 12 let a ještě jsem se k tomu
+nedostal. Já mám kamarády, který létaj
+a lítali a
+stačí mi se svézt
+a pak si zalítat doma na simulátoru.
+No ale teda musím říct, že tady
+flight simulator 4, když běžel
+na mým prvním PCčku,
+tak jsem si o takovýchhle aplikacích,
+že si budu povídat s počítačem a trénovat
+si letovej provoz,
+tak jako ani nesnilo. Takže
+klobouk dolů před tím, co dneska vzniká.
+No kluci, my se pomalu blížíme
+k našemu závěru. Samozřejmě
+vždycky se tady ptáme
+na AI. To je taková naše
+teďka taková jako zvyklost, kterou jsme vlastně
+začali dělat ještě dřív, než to bylo cool, protože
+to furt se teď skytával tady poli, přišel
+s otázkou, i když to tam naprosto nebylo
+souvislost, ale dal to tam.
+My jsme to vždycky, když jsme ještě jako rovnali jako neuronky,
+který už tady běželi, že jo, žádný LLMka
+nebyly a prostě hráli jsme si s tím předtím,
+tak už jsme to sem strkali, takže bysme
+jen prostě. Takže bysme měli teďka naroubovat tu otázku.
+Samozřejmě kluci, vy to máte i ve svých
+jako, samozřejmě, dennodenně AI používáte,
+navíc, co vím, tak se tomu
+oba dva vlastně i jako věnujete.
+Tak jak to teďka vidíte, ten hype
+je obrovský, každej den, teď jak
+se bavíme, tak vznikají a zároveň umírají
+další AI startupy.
+Jak to vidíte vy z vašeho pohledu,
+z vaší praxe,
+z toho, kam vlastně směřujete,
+jak to vidíte, že to s AI bude,
+jak si myslíte, že vám to do budoucna
+bude pomáhat nebo neopak škodit?
+Jirko.
+– No, pokud nás to nesežere,
+ne, to je trošku
+sranda, ale já
+mám jakoby trošku
+obavu, aby v té době,
+kdy to ještě je ta přechodná doba toho,
+kdy to není spolehlivý, kdy
+to není jako dokonalý, kdy
+to dělá chyby a rozhodnutí,
+který, takhle, máme od toho možná vyšší
+očekávání teď, než co nám to dodává
+jakoby za výsledky, tak aby člověk
+nebyl hloupý a nešel
+jako střemhlavě po tom, co nám to vrací.
+Takže já si vážím toho, že jsem
+prostě vystudovaný inženýr
+z IT věd a
+že teda umím přečíst ještě furt trochu
+ten kód a říct si, že tady to, co
+mi to jako navrhlo,
+že si myslím, že to jako je dobrý,
+že mi to jako na pár chyb a
+věcí upozornilo, ale zároveň si
+ten kód chci přečíst a chci být já ten pánem
+toho, co tam teda běží
+jako do posledního řádku. Tak to je jako
+můj pohled na to. Na druhou stranu
+vím, že tohle to je přechodný
+období, že to jednou bude
+jako chytřejší, bystřejší a rychlejší
+než my všichni dohromady a tam
+si myslím, že furt jako
+ta lidská práce bude furt
+zůstávat, protože
+ten člověk bude ten, kdo bude
+zadávat ten intent, který
+bude prostě sestavovat tu větu toho zadání
+a tady furt si myslím, že
+takový to, co my jsme byli trénovan v tom
+naspecifikují si přesně ty scénáře,
+naspecifikují si to zadání,
+řekni tomu stroji, co od toho
+máš očekávat, tak i když mi to naprogramuje
+junior programátor, anebo mi to naprogramuje
+nějaká černá krabička
+prostě s nápisem internet, tak
+jako já jsem spokojený,
+že jsem to zadání uměl
+dát dohromady, že jsem promyslel všechny důsledky
+a že jsem to na konci byl schopnej
+ověřit, že to tak jako je. Takže
+nebejt hloupý a nejít
+jakoby střemhlavě po všem,
+co to vyplivne a bejt furt
+jako kritický myšlení a tak.
+Takže ostražit to spořád. Ostražit to spořád.
+No ne, ty jsi vlastně jiná
+generace. Jak ty vnímáš
+AI a to, co ti to teďka
+nabízí? Tak takhle, tak já musím
+hodně souhlasit Jirko s tímhletím, protože
+jako taky si myslím, že nemůžeme úplně věřit
+všemu, co nám prostě AI vyplivne.
+A určitě bychom ho neměli používat nějak
+jako střemhlavě, že všechno, co
+dejme tomu řekne, je svaté a prostě
+to je full proof na 100%.
+Ale
+no, no, a ne žádné, ale
+vlastně. Jediné, co mě teda jako štve
+na tom celém overhypu je, nebo
+celkové na tom hypeu prostě AI, jako ve mě to,
+že teď všichni strašně zneužívají to
+generativní AI, že prostě všude
+vidí ty generativní AI a různé
+prostě AI obrázky, jako například
+ať už jsou to prostě nějaký poustry
+anebo cokoliv a používají to prakticky
+nejenom lidi, ale i dokonce společnosti,
+či nějaký prostě státní subjekty
+a mně to prostě přijde takový jako hloupý.
+Já teď viděl spot a přísahám
+bohu, on byl vygenerovaný AI,
+bylo to během hokejového mistrovství
+a bylo to na OnePlay,
+který jsem teda úspěšně zrušil potom,
+když jsem to viděl a stoprocentně
+muselo být vygenerovaný, protože byl to asi
+čtyřteřinový spot a to poznáš
+prostě, poznáš to jako esteticky.
+A ta kvalita je prostě horší,
+co si řekneme, když tu grafiku udělá kdokoliv
+jiný, nebo když použijeme nějaký fotorealistický
+obrázek, něco takovýho, tak
+prostě jde tam vidět ten rozdíl a ve finále
+to prostě vypadá hůř a
+nevím, jako chápu, že toho využívají společnosti,
+protože je to levnější, než mít nějakého grafika,
+co to udělá, že jo, ale prostě jako
+nevím, není to ono.
+Takže ani jako nová mladá generace se nebojíš,
+že bys byl nahrazen? Tyjo, toho se
+asi úplně nebojím, nemyslím si, že jdeme k tomu
+takhle přímo, jako že bych byl nahrazen,
+ale hlavně my si spíš nějak adaptujeme k tomuhle.
+A myslíš, že třeba řízení
+letového provozu může být celý pomocí AI?
+Určitě, teď
+určitě ne, v budoucnu si myslím,
+že taky ne a možná jako v dalekém
+budoucnu, možná jo, protože jako
+řízení letového provozu, tam už si jako
+zahráme z životy jako třeba
+víc jak stovek lidí a prostě když jsme
+v tom letovém prostoru
+a tam jako to AI jako nemůžeme
+jen tak prostě jako použít, protože
+to by mohlo dopadnout hodně blbě. Já si myslím, že
+právě tam bude ten mentální zlom,
+kdy třeba já bych do letadla,
+kde nesedí pilot nevlez,
+protože i když se stane cokoliv,
+tak on ve finále bude bojovat o svůj život
+stejně jako on ten tvůj a jako jste
+doslova na jedný lodi nebo
+v jednom letadle, ale když on by někde
+prostě seděl v klidu, měl tam kafé, nohy
+v lavoru a řídil to zdáleně, byť to
+technicky by třeba bylo dokonale možný,
+já bych mu nevěřil, já bych tam nevlez.
+No tak vezmu si, jaký problém máme s tím jenom povolit
+jako autonomní auta, že jo, tak jako
+dostat se k letadlům by bylo jako
+next level, to nevím jestli.
+– Já jsem rád, že tady v té
+nové generaci tady máme Dana, který
+bude vyvíjet ten nový letovej
+provoz řízení, protože já jeho
+software jako plug-in do Microsoft Flight Simulatoru
+kupuju, ale vím,
+že Dan se postará o to, aby v ruzině na věži
+to neběželo.
+– Tak to je krásný závěr, kluci.
+Úplně poslední věc,
+probírali jsme tady hackathon,
+máte tady ještě vlastně pro sebe
+pár minut na to, chcete ještě něco říct
+nebo něco požádat, něco jsme třeba
+pominuli, protože samozřejmě
+to téma bylo tak výživný, že bychom tady mohli sedít
+deset hodin a furt bychom se bavili.
+Je ještě něco, na co jsme zapomněli, co je potřeba
+zmínit?
+– Tyjo,
+asi nevím o tom,
+jenom prostě bych rád do publika
+řekl, že prostě hej, choďte na hackathony,
+protože to je prostě pecka a je to
+super a měli byste to dělat, protože
+vlastně není tam co ztratit.
+– A nemůže to vyhrávat furt jeden tým,
+co si budeme bavit. – Přesně, potřebuje to konkurenci.
+– Jirko?
+– Já mám malinko víc věd, ale chci říct
+malinko krátkej příběh ještě.
+My jsme před tím letošním hackathonem
+tak jsme scháněli ty nápady,
+ty projekty a přišli jsme u nás v Plzni
+do základní školy ZRAK, kde jsme zjistili,
+že paní učitelky,
+který učí nevědomí děti,
+tak mají málo pomůcek,
+takových řeknu jako hmatatelných tvarů,
+třeba základních trůhelních čtvereček,
+nějaký takový jako skládačky
+navlíkací a my jsme říkali,
+teď je to tak jednoduchý to vzít,
+namodelovat, vytisknout na 3D tiskárně.
+Teď se tady nechci nějak jako plácat
+po rameni, ale my jsme prostě,
+kolega z práce sednul dva večery,
+něco modeloval, pak jsme u nás doma,
+já, náš malej a ten Tomáš
+taky z práce, tak prostě jsme tiskli
+asi na třech, čtyrech tiskárnách
+a za coca a týden jsme dovezli
+prostě krabici plnou
+pomůcek, vytištěných.
+Mimochodem nám
+taky pak i pomáhal třeba Průša
+nějakým sponsoringem filamentu na Heketon,
+za což taky děkujeme, ale
+takhle jednoduše to jde.
+Jsme chytrý, jsme inženýři,
+umíme prostě ty věci udělat takhle
+chytře, rychle.
+Dívejte se všichni kolem sebe
+a pokud vidíte, jak jednoduše
+to někde jde, tak nebuďte líný
+prostě šáhnout a dát tomu ty dva večery
+a pak ty dva týdny tisku
+a něco prostě někam dodejte, udělá to radost.
+Kdybyste viděli ty dětský oči, který
+si tam skládali jednoduchou prostě skládačku
+a měli z toho druhý Vánoce
+takhle jako v březnu, tak proč ne?
+Super!
+Lépe se to zakončit nedalo, jsem má dojatý.
+Tak kluci, moc děkujeme, že jste sem
+dorazili až z daleké zesplzně,
+říká se to. Nebo to říkají jenom
+blbý pražáci. Tak teď jste to skazili.
+Díky, že jste dorazili.
+Mějte se krásně, šťastnou cestou, ať se daří.
+Díky. Děkujeme moc za pozvání.
+Taky, díky, čau.
+Tak to byly Jiří Dobrý
+a Daniel Pojhan, kteří nám ukázali,
+jakým způsobem můžete vzít vaše
+oblíbené technologie, ať je to
+Python, ať je to Java, Kotlin,
+.NET, whatever,
+a nepsat jenom ty vaše aplikace
+pro vaše tetičky a babičky
+a kamarády, ale udělat
+nějaký dobro. A mně se to
+hrozně líbí. Já s tom mám opravdu z toho
+našeho rozhovoru. Zaprvé teda mám pocit,
+že jsme klidně mohli být ještě o hodinu delší,
+že kluci měli rozhodně co říct. Rozhodně.
+A líbí se mi,
+když se ty technologie, který my používáme
+dennodenně primárně k tomu, aby jsme vydělali
+prachy, začnou používat
+nebo čas od času se i použijou
+k tomu, aby se dělalo nějaký dobro.
+To bylo úplně skvělý. Já jsem úplně
+napitej teďka pozitivní energií. A ještě
+vlastně v jedný vrstvě vždycky se říká,
+že ta generace, já už ani nevím, co to je,
+Z nebo co, takže jsou takový ty flákači.
+Tak to teda Daniel nevypadal takhle.
+Jo, tak byl skvělej, jo. Jasně byl nabušený.
+Byl nabušený a bylo vidět, jak je úplně
+chtíš ty věci dělat a tvořit.
+Takže jako jenom více takových
+Danielům přijutíte. Akorát potkat ho na
+hackathonu nějakým cizím, tak vlastně rovnou
+složím zbraně a jdu si dát pivko na bar
+a počkám, jak to dopadne. To je jako Kanada na olympijských
+hrách, až nastoupí svět s McDavidem
+a se všema. Máme všichni ostatní z můlu.
+Ale přátelé, nezapomeňte na Nagano.
+I Kanada se dá porazit.
+Takže pokud by vám snad jako
+přišlo, že Dan z těch hackathonů
+už je ostřílený a nedá se,
+dá se třeba ho na nájezdy ho jako budovat.
+Přesně tak, přesně tak. Jak říká
+Jagr, nedá se porážet, ale dá se aspoň jednou
+porazit. Je to tak, je to tak.
+No když už jsme...
+Teď teda nevím, jakým způsobem na tohle narobovat
+spořici. Každopádně, vy ve spořici
+děláte taky docela takových
+zajímavých projektů, který jsou s tím vlastně spojený.
+No jednoznačně. Máme
+nadaci, která dělá různý věci. Máme tam
+projekt Scoala, který vlastně tvoří
+a pomáhá vlastně dětem s
+finančním gramotností a s finančním zdravím,
+protože to je vlastně ta jako
+nová vize spořky je finanční zdraví.
+Aby vlastně lidi nebyli zdraví
+jenom uvnitř, ale i jako co se peněz týče.
+A k tomu vlastně přizpůsobujeme
+všechny technologie. Takže to je vlastně
+cesta, kterou urazíme. A
+i ty dobrý věci se tam dějou vlastně
+nejenom v rámci té nadace, ale ta nadace se na to
+vloženě zaměřuje. Takže za to jsme
+dokonce vyhráli nějakou cenu, člověče.
+Tak to je hezký. Ale jak ty to máš doma?
+Ještě jsi mě jak otevřel tuhletu
+komnatu. Kluci už
+dostávají nějaký kapesní přeci jenom.
+Kolik je tomu nejmladšímu?
+Já myslím, jako kam investuju.
+Nejmladšímu je sedm. Takže tam ještě
+sedmu bylo teďka nedávno.
+Takže v podstatě ještě
+to nejdem. Má svoji kasičku.
+Ten větší sedm let
+a ten menší osm měsíců.
+Já jsem za tomu nejmladšímu.
+Tomu nejmladšímu toho neřešíme zatím.
+Nezačínáš už, že by měl malou kartičku
+s malým terminálkem.
+To ne, to ne. Něco mu spoříme, ale
+zatím penízky nepotřeboval. Nebo nic neříkal.
+Jo takhle. Takhle se to dělá.
+Dokud to jsou nemluvňata, tak prostě
+nedostávají žádný praktik.
+Já už u své dětí samozřejmě řeším takový ty věci, jako
+dostávají kapesní a teď ho, jestli ho má dostávat
+týdně, nebo jestli ho poslat na začátku
+měsíce, aby nějakým způsobem
+se jako naučila pracovat s těma financema.
+No posílám to týdně a s týdní to vždycky nevíde.
+Ale jako učíme se to, učíme se to.
+To jenom jsem otevřel. No to je dobrý, to je dobrý. Já jsem někde slyšel
+dokonce v nějakým podcastu, taky
+nějakej táta prostě to takhle
+aplikoval i na dovolený. Řekl, hele, tady máte
+nějaký obnost peněz a kupte si za to třeba
+tři zmrzliny prostě hnedka první tři dny a pak
+máte smůlu, anebo si to rozložte
+v čase, je to čistě na vás.
+Nebo si za to kupte medvídka, to je úplně jedno.
+Tak jako vlastně nevím, jak tomu přistoupím.
+U vašeho nejoblíbenějšího IT podcastu.
+Čau. Čau.

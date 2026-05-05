@@ -1,0 +1,2427 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Krásný den, velí posluchači, vítejte u 42. dílu vašeho nejoblíbenějšího IT podcastu Pod vocasem.
+No a stejně jako 41x předtím, i dneska naproti mě sedí Petr Polipolák.
+A naproti mě Roman Joker, provazník, který si dneska krásně spočítal, kolik těch dílů teda máme, když končíme sedmičku.
+Poděl jsem to, dajíš z celu pár speciálních vzorečků a skutečně vychází to číslo 42.
+Jsme na konci sedmé série, která byla, řekl bych, stejně nabušená jako těch šest předtím.
+No a co nás vlastně čeká?
+Co nás čeká? No tak dneska je to z tvojí dílníčky, respektive host z tvojí strany.
+Ale?
+Ale vlastně jsem úplně natěšenej, protože vždycky si píšeme e-maily, že jo, posláváme nějaké topiky.
+A dnešní host dopsal větu.
+Tohle se bude líbit asi hlavně Polimu.
+A ke každému topiku dopsal pouze datové otázky sám na sebe, které jsou úplně geniálně.
+Já se fakt těším, fakt se těším.
+No tak super, tak to nebudeme prodlužovat.
+Možná poprosíme posluchače, hned jak to dojedeme, neodbíhejte od vašich podcastových přijímačů,
+protože na závěr budeme mít ještě jeden takový announcement, který by byl asi dobrý říct, si myslím.
+To je pravda.
+Tak jo, tak jdeme pro Tomáše.
+Jdeme pro Tomáše.
+Do studia dorazil náš dnešní host Tomáš Grošup. Ahoj Tomáši.
+Ahoj Romane.
+Ahoj Tomáši.
+Ahoj Poli.
+Tak jsme se představili, je to skvělý a můžeme hned na to vlítout.
+Prosím tě Tomáši, klasická obligátní otázka na začátek.
+Představ se prosím tě posluchačům, kdo jsi, odkud přicházíš a co nám přinášíš.
+Ahoj, já jsem Tomáš, přijíždím jsem z český výpy.
+Zaparkoval jsem na Václaváku a pak jsem došel pěšky.
+Jsem programátor, i když jsem si to pár let nemyslel, nebo jsem se snažil dělat něco jiného.
+Momentálně dělám na F-Sharp kompilátoru v Microsoftu.
+Yes!
+A je to tady.
+A těším se, že vám tohle o tom popovídám.
+No samozřejmě.
+No to my se taky těšíme.
+Prosím tě, tak hned pojďme úplně na začátek.
+Taková ta klasika je, jak ses vlastně do IT dostal, protože za těch 240 dílů, nebo 41 předtím,
+každej měl, řekl bych, úplně unikátní cestu.
+Tak jaká byla ta tvoje?
+Jo, já jsem poslouchal trošku těch jiných dílů a já nejsem žádný zázračný dítě, co by plíny vyměnilo za Assembler.
+Já jsem se k tomu dostal překvapivě dost pozdě.
+To je kdy, prosím tě, nebo v kolika? Je pozdě.
+No, až v pozdní pubertě jsem měl první zkompilovaný program.
+Já jsem byl na střední škole v Německu a tam jsme měli velmi slabý počítače
+a hrali jsme textovou online hru Red Dragon.
+Nebyl tam výkon na nějaké lepší hry.
+A ta hra spočívala hodně o počítání s číslama.
+Byly tam války, magie, ekonomika, na všechno byly vzorečky.
+A buď to se to dalo hrát podle citu, anebo se to dalo počítat.
+Takže já jsem si na spoustu věcí vytvářel Excelovský tabulky.
+Tam vznikla moje vášeň funkcionálnímu programování,
+protože kdo kouknul do hloubky, tak ví, že spreadsheety jsou vlastně funkcionální.
+Jsou to data navázané na sebe, nic není mutable.
+Hezky mi to do sebe zapadalo.
+Ale narážilo to na své limity.
+Především to, že furt ten Excel musí člověk ručně operovat.
+Něco tam vkládat, data do toho sypat.
+A potom jsem zjistil, že nějaký chyčejší a starší lidi
+měli na to program, jak bylo to něco napsaného v Delphi.
+A já jsem se dostal k tomu zdrojáku.
+Vůbec jsem nic nevěděl o programování.
+A potřeboval jsem tam jenom zaníst nový pravidla té hry.
+Ta hra se aktualizovala.
+Takže tam jsem si změnil pár nějakých parametrů, pár vzorečků.
+Vůbec jsem tomu nerozuměl, nevěděl jsem, co to dělá.
+Stáhnul jsem si nějaký to Borland Studio od Delphi
+a pak jsem zmáčknul takovou tu velkou zelenou šipku Play.
+A ono to hrálo.
+A ono to něco dělalo.
+A až tam jsem zjistil, tyjo, jak kdybych uměl dobře programovat,
+tak já bych byl v té hře o tolik lepší.
+Takže tím jako vznikla moje motivace jít na informatiku, na výšku.
+Jinak jsem si myslel, že prostě se budu věnovat si matematice nebo fyzice.
+A jenom to bylo to, že jsem chtěl být lepší v té hře,
+abych to jako ještě víc automatizoval
+a nemusel už konečně vkládat a sypat ty čísla do Excelu ručně.
+Takže textovka Red Dragon a to, že jsi chtěl být v ní lepší,
+tě dostala vlastně k programování.
+To je hezký úvod.
+Ale tam ten jeden patrnce tím, že hodně lidí začalo vlastně s hrou.
+Jako chtělo se někam posunout nebo si něco jako pohrát si s tím tak trošku.
+Nebo se automatizovat lehce.
+Jo, jo, jo, to je dobrý.
+A prosím tě ještě k té textovce, protože já jsem kdysi dávno samozřejmě
+na těch starých počítačích
+asi kolikrát ani nedalo hrát nic jinýho.
+V čem to spočívalo ta textovka?
+To byla online textovka?
+Byla to online hra, ale byla tahová.
+Jednou za den, tam byl takzvaný přepočet
+a v tajitom 24 hodiném okně mezi těma dvěma přepočtama
+si každej si hráčů dělal co chtěl ve svým vlastním tempu.
+Rozmístil si armádu,
+budoval se ekonomika, byli tam
+nějaký alchymisti, farmáři,
+pak se mohli na svoje útočit,
+ale vždycky se to vyhodnotilo, bylo to nějak ve čtyři hodiny ráno
+další den.
+Takže ty jsi to vlastně nasetupoval
+a pak se to krleš jednou ze dne.
+Přesně tak.
+Já teda ještě, než se posuneme dál,
+mně se líbí to, co jsi říkal o tom Excelu.
+Ono si to málo lidí uvědomuje,
+ale skutečně Excel je
+jako ryze funkcionální záležitost.
+A samozřejmě tady Tomáš ho zná velmi dobře,
+že měli jsme ho taky tady, Tomáše Petříčka,
+ten dokonce má i přednášku o tom,
+jak ten Excel funkcionálně napíše
+jako v brouzru,
+udělá prostě ve Fableu,
+udělá ve Fsharpu, napíše jednoduchý Excel
+a na něm právě ukazuje,
+jak je to hrozně jednoduchý.
+Takže vlastně u tebe se tam taky objevila
+ta láska k funkcionálnímu programování
+ruku v ruce s tím Excelem
+nebo jsi to ještě neuvědomoval
+a teď to teprve vidíš.
+To jsem zjistil až tak deset let zpětně,
+že to vlastně bylo funkcionální,
+že všechno jde popsat vztahama,
+jak věci na sebe závisejí.
+To, že ty věci pak jde jednoduše paralizovat,
+že jsem si napsal kaskádu vzorečků
+a posunul jsem ten šprečí dolů
+a najednou se mi to vykonal nejednou, ale dvacetkrát
+jako ta jednoduchá paralizace těch výkonů.
+To jsem si všechno až jako zpětně uvědomil,
+jak to do sebe jako hezky zapadá.
+Hezky, hezky. No ale my, milí posluchači,
+zamyslete se nad tím, pokud pracujete ve Excelu,
+už jste na půl funkcionální programatoři.
+Takže jsem taky dobrý.
+Tak ty už seš tady vycvičenej, jedna báseň.
+No tak Tome, takže pojďme dál.
+Takže to byla Red Dragon,
+najednou ses nakopnul do Delphi.
+Co bylo dál?
+Potom jsem šel na výšku na MatFix,
+kde jsem si tady z toho důvodu vybral informatiku
+a tam jsem to jako by od začátku začal zjišťovat,
+jak se programy píšou od nuly.
+Protože to já jsem vůbec neuměl,
+ale co jsem uměl, bylo stáhnout si ten existující program Delphi
+a tam něco změnit.
+Ale vůbec mi to nedávalo smysl,
+ale já jsem jenom šel naslepo.
+Takže první program od nuly
+jsem si na MatFizu napsal v prváku,
+tam se dělalo v Paskalu,
+v klasickém základním.
+Jasně.
+A potom druhý semestr se přešlo na C-Sharp
+a tam jsem zjistil,
+o kolik to je pohodlnější psát,
+co mě žila v studiu.
+Asi to nebylo to tolik,
+podle mě ten C-Sharp samotně jako jazyk,
+spíš jako ty nástroje a ten tooling.
+Tam jsem zjistil, jak to dělá strašně moc
+a to si myslím i do teď,
+že jazyk může být sebe lepší,
+jako ta gramatika popsaná,
+ale ty nástroje okolo toho,
+ty dělají jako tu experience.
+To, že to napovídá,
+to, že mi to podtrhá chyby
+a to, že to prostě dělá,
+že to je nováčka,
+prostě naučí ten nástroj,
+provede tím programováním.
+A učilo se tam klasický OOP,
+nebo už tam byly?
+Já nevím teda, v jaký době to bylo,
+jestli už byl venku link a tyhle z ty věci,
+nebo jak je to?
+Tady to bylo 2009, když jsem nastupoval
+a link venku sice byl,
+ale myslím si,
+že na spoustu těch úloh byl zakázaný.
+Tam byl automatický systém na domácí úkoly.
+Prostě a proč byl zakázaný?
+Vysvětluji vám to.
+Já si myslím, že ten systém totiž běžel
+na Monu v té době,
+a to Mono to ještě neumělo.
+Takže lokálně na desktopu
+by to člověk mohl udělat v tom linku,
+ale na to Monu to nebylo.
+Tam byl,
+systém, kde bylo vždycky zadání úkolů,
+člověk tam nahrál to své řešení
+a ono to pouštělo automatický testy,
+výkonnostní testy a bohdově to ohodnotilo.
+A to bylo na Monu, takže to bylo vždycky jako pozadu.
+Hezky pěkně, jak jsi se naučil
+jako pěkně imperativně to psát
+a pak přišel na ten deklarativní styl.
+Já si myslím, že to ani nebylo OOP,
+že třeba první rok jsem všechno psal jenom
+jako public static funkce.
+Sice to bylo jako C-sharp jako jazyk,
+ale vlastně nový instance se nevolal.
+Všechno bylo spíš jako paskolovská procedura.
+Jo, jo, jo.
+Hezky, hezky pěkně.
+A pak teda, jak pokračovala tvoje cesta dál,
+teda po škole, nebo při škole už jsi začal někde pracovat?
+Jo, já jsem velmi záhy
+při škole začal pracovat.
+Prošel jsem nějakýma
+menšíma firmama,
+byla tam taková slepá odbočka
+z mojí kariéry
+na PHP.
+To je tady vždycky,
+to je takový jméno.
+Máme PHP rádi?
+Jo, jo, jo.
+Děláme ho tady ve firmi.
+Zdravíme Karlo Mezlíka.
+Přesně tak.
+Jo, tak já jsem ho rád neměl.
+A zjistil jsem to velmi brzo.
+Takže tam jsi to vyzkoušel,
+řekl, který cesta nevede.
+Jo.
+A potom jsem byl dlouho
+dotnet programátor.
+Jasně.
+Byl jsem v menší firmě,
+která byla překladatelská agentura,
+ale technologicky to byly
+dost velký dravci
+a byla tam velká svoboda.
+To byla taky jedna z věcí,
+kterou jsem tehdy nevěděl
+a zjistil až zpětně,
+že tam vlastně jsme byli agilní
+a dělali jsme ji vlastně CICD,
+aniž by se o to někdo snažil,
+aniž by to bylo v nějakých slidech,
+aniž by na to byl nějaký korporátní
+motivační program,
+na to být agilní.
+Tím, že to byla malá firma
+a nebylo potřeba všechno řešit
+přes 100 lidí,
+tak tam ta agilita byla
+tak jako přirozeně.
+A potom okolo roku 2015
+jsem nastoupil do první velký korporace
+a to byla německá banka
+Commerzbank.
+A Commerzbank.
+Tak, no a prosím tě,
+jak se vlastně žije v Commerzbank?
+Jaký to je pro člověka,
+který vyleze ze školy de facto?
+Projde nejdřív, řekněme,
+touhle jako lehce pankovou
+agilní firmou
+a pak skočí do těžkýho
+fintech korporátu.
+Jo, byla to dost velká brzda.
+Přesně to asi čekal,
+že řeknu.
+Jako, kdyby jsi řekl něco opačně,
+tak se vyděsím trošku,
+ale povědej, no.
+Jo, jako první mě zamrazilo
+množství prostě
+vorduských dokumentů,
+který tam existovalo,
+protože jsem si říkal,
+teď já jsem jako přišel programovat,
+já jsem sem nepřišel
+prostě číst a psát dokumenty,
+který navíc měli tu typickou vlastnost,
+že zastarali ještě dřív,
+než byli uložený.
+Jasně.
+Ale zároveň ty informace
+nebyly nikde jinde.
+A ty jsi tam teda dělal co?
+Ty jsi tam šel jako programátor?
+Já jsem tam měl nastoupit
+jako seniorní programátor
+na C-Sharp.net.
+Bylo to CRM
+pro investiční bankovnictví.
+A ten tým zažil nějakej přesun
+z Německa do Prahy
+a zároveň velký zmenšení.
+Ale furt tam byl jeden člověk,
+jako by týmlíder
+v tom pražském týmu,
+který už na tom projektu dělal,
+myslím, že třeba devět let dlouho.
+Ten dnes všechny informace,
+takže oni tak nějak si mysleli,
+že tam bude ta kontinu,
+jak když ten tým zmenšili a přesunuli.
+No tak když já jsem nastoupil,
+tak ten den, tady ten týmlídr řekl,
+že končí a že novej týmlídr
+toho týmu budu já.
+Který jsem o tom vůbec nic nevěděl.
+To je hezký, to je hezký.
+Nevím, jestli jste někdo musel dělat
+z ASP Webforms.
+Jo, jasně, jasně no.
+Tak já jsem to do té doby neznal
+a tím, že už to bylo rok 2015,
+tak jsem si myslel,
+že nikdy nebudu muset.
+Jo, no tak to už bylo MVCčko, že jo?
+Přesně tak, takže já jakoby
+i z té menší firmy
+už jsem prostě znal MVCčko,
+znal jsem jako dělení,
+prostě striktní dělení
+back-endu, front-endu a nemýchání.
+A teď mi řekni,
+tak post-backy, view-states,
+tak jak jsi to užíval?
+No hlavně jsem si užíval,
+když jsem to musel používat,
+jako mít to zpuštěný,
+protože bylo strašně pomalý.
+Jakýkoliv debugging jsem kliknul
+a čekal 10 sekund.
+Já jsem si to trhal vlasy.
+Je to tak, no.
+Webforms, to bylo peklo.
+Odpočívaj v pokoji.
+No a jak jsi teda dál pokračoval?
+No a tam jsem dělal
+velkej migrační projekt,
+kdy se spojovaly segmenty banky
+a bylo potřeba je propojit i datově.
+Takže vlastně to bylo
+jak integrace skrze API,
+aby v real-time ty systémy byly napojený,
+ale zároveň i velká datová migrace
+těch stávajících bází,
+co tam byly.
+Že tam samozřejmě ty segmenty banky,
+každý nabízel nějaké jiné produkty,
+některý se věnoval víc investičním produktům,
+některý klasický bankovní sví
+a do posud si to každý dělal po svým.
+Ale potom během té migrace
+se to muselo sjednotit,
+aby tam ten klient třeba nebyl dvakrát,
+ale by tam byl fakt jenom jeden
+a měl spojený ty věci v sobě.
+Takže tam jsem se tak nějak nechtěně stal
+odborníkem na Oracle,
+který jsem taky nikdy předtím nepoužíval.
+Taky jsem si myslel,
+jo, to je ta korporátní technologie,
+kterou prostě v 0 letech,
+když někdo objednal do firmy,
+tak ho nikdy nevyhodil,
+když to byla správná volba.
+IBM pro datapáze.
+Ale sám by si to přece nikdo nezvolil.
+No tak přesně v tom jsem strávil
+dalších asi 6 let v Oracleu.
+A spousta reportů datovejch,
+konsolidace, migrace dat.
+Nevím, jestli se člověk se snažil
+meržovat věci v databazových tabulkách.
+Přímo myslím, že Oracle má přímo
+ten merž jako slévací keyword,
+že chceš pak řešit,
+pokud to je v obou dvou,
+tak to nějakým způsobem update-ní,
+pokud to nám chybí, tak insert-ní.
+Triggery, všechny ty věci,
+kterých jsem si taky myslel,
+že nikdy nebudu potřebovat.
+Takže tam jsi použil klasický PL, SQL?
+Jo, bylo to hodně, co tam dělali triggery,
+hodně procedury.
+Ale když jsem do toho nakouknul trošku,
+do toho myšlení toho PL, SQL,
+tak to nebylo nakonec tak špatný,
+že...
+To je asi největší pochod,
+co když řek někdo volí.
+Že to nebylo nakonec tak špatný.
+Furt tam jsou silný typy,
+takže když člověk s tím pracuje,
+tak dá se očekávat, co tam bude.
+A většinou to bylo tak,
+že když se to napíše jednou a funguje to,
+tak se to nezačne rozbíjet.
+Že to SQL, tady v tom tím,
+jak to je statický,
+tak se chová furt stejně.
+Buď to se s tím člověk morduje
+a nefunguje to nikdy,
+ale pokud to zafunguje,
+tak se to většinou samou sebe nerozbíjí.
+To je pravda, ta stabilita tam je skvělá.
+No a teď se mi honí hlavou úplně.
+Takže ty jsi se stal team leaderem
+ve firmě, kam jsi nynastupoval jako team leader.
+Teď ještě jako na tebe nahodili.
+První den, by the way.
+První den.
+Teď teda do toho dotová integrace.
+Jak jsi z toho člověk nezbláznil?
+První měsíc, dva, nevím, půl roku.
+První rok, dva.
+No já jsem na tím taky přemýšlel.
+A já jsem to u toho bubu měl zdravotní problém.
+Malej vnitřní pásový opar.
+A já jsem na to dostával opijáty.
+Takže já jsem třeba první měsíc a půl v té firmě
+byl pod opijátama.
+Jo, takhle se to dělá.
+Takže takhle.
+Takže možná tady to jako mi pomohlo.
+Takže starý nohlý drogy prostě.
+Ještě teda, když to oddělím na dvě roviny,
+tak vlastně team lead je to už jako
+nějaký soft skill, který je tam potřeba.
+Šlo ti to samo od sebe?
+Jakože jsi zjistil, že ti to vlastně i baví jde?
+Nebo jak jsi s tím pracoval?
+Ne, asi mi to moc nešlo.
+A snažil jsem se dělat, co jsem mohl.
+Jo, jo.
+Což samozřejmě,
+tam nebyla taková velká volnost.
+Že jsem si myslel, že když budu team leader,
+si věci budu moc rozhodovat,
+ale velký korporát má na všechno pravidla.
+A většinou to je tak,
+že ty pravidla jsou původně vynucený
+nějakou regulací, že regulator řekne,
+musíte mít nějaký postup.
+Tak potom ta instituce se k tomu zaváže
+a se píše nějaký framework,
+což je prostě 100-stránková knížečka.
+A je prostě framework, jak se správně testuje.
+Framework, jak se dělá projekt management.
+No tak to, abych se z toho nezbláznil,
+tak tady ty věci jsem radši vůbec nečet.
+A dělal jsi to po svým.
+A řekl jsem si, že to zkusím udělat trošku jinak
+a že pokud mě tam odsad vyhadějí
+kvůli tajtomu, tak asi to tak mělo být.
+Třeba, jako úplně tomu rozumím.
+Třeba teďka jako díky
+jako LLM-kům
+začnou lidi používat ten framework opravdu.
+Jako, že se zeptájí, hele, jak bych tohle měl udělat
+podle frameworku a třeba...
+Aby ti to vysoslal, dostanem se lčí.
+No jasně, jasně, dostaneš se kam potřebuješ.
+Jsem zvědavý, jestli tam dojdem.
+No mě ještě zaujala jiná věc.
+Ty jsi vlastně nastupol, ano, řekněme jako
+na vývojářskou slash team leaderskou pozici.
+Ale to, co tady popisuješ,
+je v podstatě věc, kterou dneska bych
+asi šel tady jako k polimu do kanclu,
+bušil bych a řekl, dej mi dataře,
+protože naši vývojáři tohle dělat nebudou chtít
+a nebudou to možná ani umět,
+že se to vlastně už dneska tak moc nedělá,
+že ty data začínají být tak oddělený.
+Konec konců měli jsme tady člověka z live sportu,
+který žije jenom datama a to skriptování má bokem,
+že už teď je to jako rozdělený.
+Ale ty jsi tam seděl na dvou židlích
+už v té době de facto, ne?
+Jo, to byla asi moje chyba, že jsem byl na lidi hodnej.
+Že když mi někdo řekl,
+potřebujeme tady report na tenhle typ zákazníků
+a vidět o nich něco,
+tak jsem to udělal.
+A já jsem jim neřekl, jo, zadám to do jury
+a koukneme se na to další sprint.
+Což znamená, že oni by to dostali třeba měsíc později,
+když je to dávno nezajímalo.
+Ale já jsem to prostě udělal a poslal jsem jim tomu hnedka.
+Jo, ty jsi prostě chtěl něčeho v korporátu dosáhnout.
+Ne, mně to přišlo jako to přirozený
+a hlavně jsem jako strašně nechtěl řešit to,
+že to budu někam zadávat a zpravovat tiket
+a pak hodně nějak testovat.
+A to ještě ti do toho skočím a ten front-end
+nebo jako ta vizualizace, to jsi sdělal sám
+nebo na to jsi používal nějaký nástroj vizualizační?
+Když někdo chtěl nějaký report.
+Ne, v těch začátkách to bylo velmi tupý,
+to bylo tak, že já jsem to...
+Napsal jsem prostě dotaz přes databázy,
+někdy jsem těch databází propoval víc,
+ale ve výsledku jsem to byl já,
+který si to skopíroval z té databáze
+a potom to prostě dal do Excelu
+a někdy jsem si s tím ručně pohrál,
+že jsem přidal nějaký podmíněný barvení
+nebo když to bylo třeba migrační situace
+a ukazovat duplikáty,
+tak tam dát čárečky,
+co oddělují ty jednotlivý bloky.
+To jsem se naučil konzultatů IBM,
+kteří byli placený za to,
+aby to hezky vypadalo,
+tak tam jsem se naučil dělat hezky vypadející Exely.
+Ok, já to jsem ti přerušil flow.
+Takže ty jsi říkal teda,
+že jsi do toho skočil,
+chtěl jsi lidem vyhovět.
+Jo.
+A to byl ten důvod.
+A to, co Románek se ptal,
+to je skočil s omlouvou.
+Ne, ne, pohodně, pohodně.
+Já tady mám totiž tu poznámku práce z daty
+jako hormonální boost v pomalém prostředí.
+A to mě fascinuje.
+To je totiž, přátelé,
+to není dotaz ode mě nebo od Polio.
+To si v rámci přípravy vlastně připravil Tomáš
+a mě to úplně zaseklo.
+Řekni mi, co to je práce z daty
+jako hormonální boost.
+Ne, vlastně se to vrací zpátky k tomu,
+jak se ptal Poli,
+jak na mě zapůsobil ten korporát.
+A mě strašně vadilo, jak to je pomalý.
+Že třeba ten migrační projekt,
+my jsme ho sice implementovali,
+ale ten cíl,
+ten, kdy z toho reálně lidi budou mít nějaký úžitek,
+byl strašně v nedohlednu.
+To byly prostě měsíce,
+nebo možná to byl snad i rok v součtu.
+A ten okamžik, kdy se o to s tím klientem bavíš,
+než to začneš dělat a než to dodáš,
+je tam strašně dlouhej.
+Fakt se to měří v měsících minimálně.
+Do týdnů se to dostává, když už to je hotové
+a když už se věří, že se naplánuje nějaký formální release,
+což tady v té situaci byly jako víkendový okýnka,
+kdy jsme seděli v kanclu o víkendu,
+protože přes týden by si nikdo nevěděl, že se to rozbije.
+A najednou na druhé straně přijde ten airport,
+který taky snaží se vyřešit nějakou potřebu,
+většinou to řeší nějaké nedostatky těch systémů,
+že to, co by ten systém mohl ukázat, tak oni tam nemájí,
+ale ta databáze to v sobě má,
+anebo těch vícerodatabází přes jiný systém,
+jestli to dokážou spojit.
+A ty lidi, kdyby si to ručně klikali v GUI pro každého klienta,
+tak by to dělali týden,
+ale člověk, který má přístup do vícerodatabází
+a umí je joinovat, tak to vyřeší
+a pošle jim to prostě pro tisíc klientů najednou
+a najde nějaké vzory.
+A najednou to je tak, že se o tom s tím bavím,
+ten den to udělám
+a pak mají strašnou radost.
+Vidím, že to funguje
+a že jsem jim fakt dal nějaký přínos.
+A že takovýto ocenění za tu práci
+nemusí jít přes několik levů managementu,
+kteří řeknou, jo, tak tenhle projekt se vám poved,
+dobrá práce tenhle rok.
+Ale protože to, že to přijde hnedka
+a člověk je navíc přímo ve styku
+s tím zadavatel,
+nebo s tím, kdo má benefit,
+že to nemusí prostě obcházet nějaký proces
+objednatele, zadavatele a managementu.
+A je tam vlastně ta agilita v tom,
+že se o tom bavím,
+zkusím nastřelit třeba
+nějaký základ toho reportu.
+Jo, tady to by šlo, ale ještě jsi zapomněl,
+máme tady speciální flag klientů,
+ten mi tam přidej.
+A ta iterace je velmi rychlá.
+To je vlastně dobrý point.
+To mě nikdy napadlo na těm takhle přemýšlet.
+Jakože v podstatě ty to dodáš velmi rychle,
+ty lidi jsou vesmě spokojení.
+Jakože tady u nás ve firmě,
+a i když se ptám o ostatních lidí,
+co řídí datový oddělení,
+tak jsou vlastně ty lidi vždycky spokojení,
+že vlastně dostanou ty věci rychle.
+Protože jsou zvyklí na úplně jiný poločasy do spadu.
+Já si myslím, že tam bude něco
+o uvolňování hormonů za dosaženou práci.
+Ono je podle mě mnohem snažší
+mít sérii krátkých úkolů.
+Prostě je to úkol na hoďku,
+na čtyři hoďky, i kdyby na den.
+Ale mám jich prostě takhle hodně.
+Mám jich v tom měsíci třicet.
+Ale sypu jeden za druhým
+a po každým mám prostě...
+Radost.
+Jo, přesně tu radost.
+Ten hormonální dopad, který to předvedený práce.
+A v kontrastu s tím,
+že tam prostě bušimkot, nefunguje to.
+A dozvím se třeba až za měsíc,
+že možná to nebylo správně,
+protože úvodní analýza,
+kterou dělal někdo jiný,
+byla úplně milná.
+To znamená, předpokládáš,
+že v té bance jste nejeli
+nějaké agilní frameworky typu Scrum,
+že byste tam měli co 14 dní
+vlastně ten boost,
+kde člověk si řekne,
+tak jsem teda něco odevzdal
+a někdo mi na druhé straně dal zpět novost,
+protože to teda funguje.
+To tam neběželo.
+Jo, tady to mě teď trošku zabolí,
+ale já jsem to tam v tom týmu zavedl.
+On ten tým předtím jel úplně čistě waterfall,
+v tom smyslu,
+že má přijít prostě specifikace
+psaná v nějakým wordu,
+ta se důkladně zanalizuje,
+napíše se textově,
+jak se to bude implementovat
+a na tom se pracuje dál.
+A to mi přišlo úplně šílený,
+to jsem nechtěl.
+Zároveň jsem věděl,
+že tam nemůžu přijít s tou punkovou vizí,
+takhle jsme to dělali v té malé firmě,
+nemusíme to nějak jmenovat,
+prostě to dělejme,
+to taky nešlo.
+Takže jsem si nastudoval,
+co dělá Scrum
+a řekl jsem si,
+jo, to by asi šlo.
+A krát jsem si zapomněl přečíst
+úvodní prekvizitu k tomu Scrumu,
+že to funguje jenom,
+když všichni ty lidi jsou motivovaný,
+chtějí to dělat
+a chtějí odvádět to na všichni práci.
+Což tam chybělo.
+Ano, to mi chybělo
+a hlavně se nikdo nezajímal o to,
+že to je ta důležitá prekvizita.
+Takže se nasadili ty procesy,
+přesně říká Polly,
+že co dva týdny jsme se sešli.
+Našel jsem skvělou pracovnici
+na té business straně,
+která byla v Německu ve Frankfurtu,
+která fakt s náma měla ten častý kontakt.
+Sice se to nedostalo ke klientům
+jako realistům tady produkt,
+ale alespoň ona průběžně viděla
+v nějakém testovacím prostředí,
+jak to vypadá,
+jak vypadají ty migrační postupy.
+Takže tady ty věci tam byly,
+ale pak se kladl taky důraz na ty ceremonie,
+což nebylo to hlavní.
+To hlavní je vlastně pozvihnout
+vůbec tu filozofii těch lidí,
+že to takhle chtějí dělat.
+Takže tohle pro tebe bylo
+ten první reálný dotek
+s tím agilním přístupem
+ve větší firmě,
+když pominu ten první punkovej.
+Bylo to s tím formalizovaným postupem,
+že fakt je to sepsané,
+tak, aby se to střetně dodrželo.
+Což teď zpětně vidím,
+že to je na tom to nejhorší.
+Já jsem v tím tu banku
+trošku předběhl.
+Já jsem pak byl i pozvaný,
+abych třeba u jiných týmů
+zaváděl to samé.
+A myslím si, že tak tři roky na to
+se potom v celé bance zaváděl
+safe.
+A ty ses dokonce chtěl jednu dobu živit
+jako agilní kouč,
+když už jsme se teda dostali tady do toho agileu.
+Je to tak?
+Jo, to je přesně ten...
+To byl ten okamžik.
+To byl ten období,
+když jsem do toho byl nabuzenej,
+viděl jsem, jak některý ty týmy
+okolo čáty vedlejší
+jedou čistě waterfall vůbec
+a čá nepotkávají se s tím biznisem.
+A říkal jsem si, že je to tady
+potenciál pro růst.
+A že mě vlastně i bavilo se
+třeba jenom o tom bavit.
+Je to vlastně super práce
+obcházet týmy,
+kecat jim do práce
+a nemuset jí dělat.
+Jo, takhle na tím se výšlíš.
+A to...
+To je jakoby...
+Mně přišlo zajímavý.
+Zároveň tam byla i nějaká
+teorie zatím,
+byly jakoby i způsoby,
+jak různě ten scram škálovat.
+Jenomže potom jsem viděl,
+když se to overengineeruje
+v případě toho sejfu.
+Já nevím, jestli se někdo musel dělat se sejfem,
+ale je to monstrozný diagram na to,
+jak škálovat agilní,
+ne týmy, ale celý společnosti.
+Prostě velký enterprise o tisíc lidech
+a jak vůbec řešit to,
+jak se plánuje od úvodních ideí
+nějakýho CEO až na ten nejdrobnější tým.
+A tam vlastně
+veškerá agilita vymizí.
+Tam se dbá na ty formalizmy,
+dělají se prostě
+scramy, scramů, scramů, jenom to má
+jinou periodu, takže něco je co dva týdny,
+něco je co kvartál, něco je co rok.
+A v těch implementacích
+se pak lpí na tom, aby to všechno
+bylo správně pokrytý v džiře,
+ty věci byly na sebe navázaný
+a vymizí z toho ta agilita.
+Vymizí z toho z toho, že to hlavní je
+často dodavát hodnotu, nebo se aspoň o ní často bavit,
+takže vlastně se tím jenom
+popsal nějaký formalismus,
+jak se stejnak plánovalo na roky dopředu.
+Takže to moc nefungovalo.
+V praxi to nefunguje.
+Mně se to teoreticky líbilo.
+Myslím si, že ten scram,
+nebo i třeba ten large scale scram less,
+když je ten by the book a splnějí se i ty prekvizity,
+tak to funguje
+úplně dobře. Ale ono se na těch prekvizitách
+tak nelpí, lpí se na těch
+ceremoniích a džiře,
+protože to je to, co je vidět, to je to, co jde měřit
+a ono jako těžko změříš to,
+jak jsou lidi motivovaný, nebo jestli máš vůbec
+správný lidi na ten tým.
+Takže po tvém
+okouzlení Agilem,
+po tom, co jsi vyzkoušel, že to může
+fungovat i na úrovni tak velký
+banky, jako je Commerzbank,
+ty jsi tam ale nevydržel
+zas tak dlouho, ne? Nebo jak dlouho jsi byl v Commerzbank?
+Necelých šest let to bylo.
+Tak to už je docela slušný čas.
+No a pak si ale, člověk by čekal,
+že tě to odradí
+a ty jsi šel, ale
+do další, řekněme, fintech
+korporace, je to tak? Jo, já jsem pak
+šel do Barclays a já jsem udělal
+vlastně, jakoby, kariérní
+reset, že jsem si řekl, dělal jsem
+předtím spoustu různých věcí,
+které už nebyly vývoj, rozhodně
+už to vůbec nebyl dotnetí vývoj,
+ale furt jsem v hlavě
+měl ty vzpomínky, jak mě to
+vlastně, jako, když si bavilo to programování
+a měl jsem
+rád F-Sharp
+a věděl jsem, že
+Barclays v Praze, jako, měli F-Sharp
+týmy. Počkej, počkej, počkej, takže to už v tý době
+si měla
+rád F-Sharp, takže k němu teda načuch?
+Já jsem
+F-Sharp, jako, zahlít už během školy,
+když jsem dělal F-Sharpu a věděl jsem,
+že na Matvizu Tomáš Petříček měl
+přednět na F-Sharp a já jsem to kouknal
+a říkal jsem, to je pěkný, mě se to líbilo
+a já jsem říkal, jo, to si určitě příští rok
+zapíšu. No a on odešel
+do Anglie. Jasně, jasně.
+On se zbavil se velíno a odletěli.
+Takže s F-Sharpu nic nebylo
+na škole, ale takže... Takže já jsem to
+jako sledoval zpovzdálí, občas
+jsem si v tom třeba udělal nějakej malý skriptík
+nebo nějakej domácí úkol, nebo pak
+věci jako na výzkum do školy
+a bylo to sám na sebe a nebylo to
+jako žádný jako
+profesionální kontrakt, kde bych za to byl placenej.
+A v Commerzbank se ho zkusil využít?
+Protože zase třeba na takový ty, řekněme,
+jako datový věci a mapování
+a tyhle typy jako pipeliny, tam to přímo
+jako se nebývá. Jo, co neposlouchá
+nikdo, kdo vytváří ty frameworky, protože
+to nebyl povolený jazyk a já jsem to párkrát
+samozřejmě použil.
+That's my boy.
+A minimálně jeden denní
+job jsem jim tam i v F-Sharpu nechal, když jsem odcházel.
+Takovou kukačku, jo.
+Dobře ty.
+No ale ten přechod teda
+do Barclays byl
+kvůli F-Sharpu, nebo se to tak
+nějak sešlo a F-Sharp už byl
+ta třešnička na dortu v Barclays?
+Ne, pro mě to byl jakoby hlavně ten
+reset zpátky do
+inženýrský pozice. Jo, takže
+tebe to vyneslo za ty roky,
+řekněme, do manažerských pozic a ty si
+řekl, že chceš tu denní dávku
+hormonů a radosti
+z dodělaný práce a chceš zpátky
+na vývojářskou úroveň. Jo, tam
+jde o to, že vlastně v tý Commerzbank
+ty manažerský pozice se pak jako
+stupňovaly dál, že od toho
+team leadera jsem
+pak dokonce jednu dobu
+byl
+i product owner, že jsem měl
+na starosti vůbec
+pomáhat, utvářet, jak se ten
+produkt vyvíjí a řešit priority.
+Takže i obsahově
+řešit, co jednotlivý
+tým
+lidi mají dělat.
+A to jsem zjistil, že mě nebavilo.
+Tam byla právě hromada těch
+formalismů zavlečená
+z toho sejfu.
+Spousta komunikace
+se středním novýším managementem
+a věděl jsem, jak to je pomalý
+a nebyl jsem
+spokojený s tím, že to byla moje náplň práce.
+Nepřišlo mi, že bych v tom byl nějak extra dobrý
+a věděl jsem,
+že je lepší mě využít někde jinde.
+Takže jsi šel do Barclays a šel jsi tam
+psát F-Sharp. Jak to vypadá s F-Sharpem
+v Barclays? Jak to vypadalo, když jsi přicházel?
+Já jsem byl v týmu,
+který dělal stresový
+simulace pro akciový portfolio.
+Stresový
+simulace jsou
+namodelovaný scénáře toho nejhoršího,
+co by tu banku mohlo potkat
+z hlediska třeba klimatického
+rizika. Může být nějaký tsunami,
+může být geografická situace,
+může se něco změnit na makroekonomické scéně
+a tím se modeluje,
+když se něco takového stane,
+jak to ovlivní to portfolio,
+který je složený nejenom z příjmejch vlastnictví
+akcí, ale jsou tam často deriváty,
+jsou tam obce, něco se shortuje.
+Takže to není lineární vztah.
+Neznamená to, že když bude tsunami v Japonsku,
+tak my na tom budeme hůř.
+Ono to může být tak, že bude tsunami v Japonsku,
+ale my to vlastně shortujeme,
+takže vlastně na tom vyděláme.
+Stresový scénáře může být i v plusu,
+může být i pozitivní.
+A tohle z toho
+byla migrace
+z projektu, který byl napsaný
+na Spark technologii,
+bylo to napsané v jazyku Scala,
+ale vlastně to bylo velmi šitý
+na míru tomu...
+Můžete řeknout, že to bylo velmi šitý.
+A teď řekněte, že to bylo velmi šitý.
+Bylo to velmi šitý na míru tomu Sparku,
+protože ten Spark
+mám vlastně tím, jak potřebuje joby
+a jak to potřebuje být granulární na to, aby to škálovalo,
+že vlastně je to big data technologie,
+tak to vlastně nutí
+nějakým způsobem to psát
+svou aplikaci a zároveň
+to i nutí nějakým způsobem tu aplikaci
+provozovat, že většinou prostě máš
+nějaký velký Spark klaster pro celou organizaci
+a na něm si ty joby zasadíš
+do fronty a nemáš tak jako pod kontrolou,
+pokud to není tvůj klaster, kdy to běží,
+jak rychle to běží
+a tady v tom to nedostačovalo.
+Tím, že vlastně ta infrastruktura nebyla
+vlastně nad tím týmem a spolíhalo se na
+jiný tým,
+který se o to staral,
+tak tam byly nějaké problémy s časem
+a se společností
+a tím, že to
+bylo šitý na míru tomu Sparku,
+tak se občas nedalo úplně vyznat,
+co se v tom děje, protože tam vlastně
+většinou komunikace probíhala
+přes faily uložený
+na disk.
+– Takže tam trošku hůř
+sleduje to, jak to dát,
+jak se to mění.
+– Na koho napadlo to napsat ve F-sharpu?
+To tam musel být někdo před tebou,
+nebo to přišlo z Anglie?
+– Já si myslím, že to sleduje
+konvejův zákon, že současně s tím
+ten úkol to nějak
+vylepšit, tu infrastrukturu,
+dostal úplně
+jiný tým lidí, který
+předtím dělali něco jiného, ale zrovna asi byli volní
+a ty měli prostě rádi
+Microsoft Stack a měli i rádi F-sharp.
+– A to byly odsud nebo z Anglie ty lidi?
+– A ty byly v Anglii.
+A já si myslím, že tak bylo,
+že ten konvejův zákon tam prostě
+zavlekl ty technologie, které ten tým měl rád.
+Oni asi měli i možnost to třeba
+nechat na tom JVM-ku, nebo nechat
+skalu, udělat to bez parku,
+ale prostě byl to tý tým dotneťáků,
+který už měli nějakou zkušenost se F-sharpem,
+takže ta
+skala vlastně tam zůstala
+jenom na čtení.
+My jako výváři jsme koukali,
+jak se to tam dělalo,
+aby jsme byli schopní to zmigrovat
+a potom samozřejmě i nějakou novou funkcionalitu.
+Nebyla to jako migrace pro migraci,
+nebyl to jenom přepis toho,
+jak to bylo, ale se přidávaly věci navíc.
+Ale hodně věcí jsme si museli reverse-engineerovat
+z toho skala kódu,
+takže já jsem skalu s kompilovatelnou
+nikdy nepsal, ale hodně jsem
+si ji načetl.
+– A ty jsi četl, tam se používala která skala?
+Taková ta jako Haskell
+na JVM-ce nebo Java bez
+středníků, která
+s dvou, nebo to byl nejvíc klasický?
+– Ne, nebyla to jako funkcionálně puritánská,
+hodně se tam používaly
+třídy a trejty,
+takže byla to víc taková ta OOP skala
+s tím, že na nějaký lokální úrovni
+nějaký malý funkce,
+ty třeba jako využívaly prostě
+funkcionávání pipeliny, ale nebyl to
+ten Haskell. – Jo, nebyl to.
+– A to potom ten
+to F-šachový řešení, tak to už bylo
+řekněme funkcionálně
+mnohem čistější. Myslím si, že bylo jako
+mnohem víc funkcionálnější než je
+F-šachový průměr.
+– Co jsi tam používal třeba za nějaký?
+– Třeba freemonáda se tam používala.
+– Až takhle, jo?
+A chápali to ostatní? My jsme jako měli
+problém tady, když jsme zkušili freemonádu, že jsme
+se pak škrábali za čtrnáctní za uchem a řekli,
+ale možná to napíšeme prostě zpátky
+po starů. – Jak jsem tam nastoupil,
+tak tam už jako něco bylo. On to byl Greenfield
+projekt, který ještě měl jako daleko do produkce,
+ale už něco z něj bylo napsanýho.
+A já jsem tam dostal nějaký pokyny,
+co jsem dal nastudovat a jsem viděl tu freemonádu,
+takže jsem si našel článek
+od Marka Zémana,
+který se psal
+freemonádu v F-šarpu
+a koukal jsem a já jako
+tak nějak jsem jako pochopil, jak to
+funguje, ale asi tak tři měsíce mi trvalo,
+proč to tam je, k čemu to je dobrý.
+Jakože dokázal jsem to psát, dokázal jsem vzít
+nějaký existující job
+a stejným stylem
+napsat novej, ale furt mě bylo jasný,
+proč to tam je, proč to tam rvou, proč to neudělali
+jako bez toho. To trvalo díl,
+jako pochopit to, k čemu to je dobrý.
+A pak až mi docvaklo to,
+že ta
+freemonáda je dobrá
+v tom případě, kdy chceš míchat
+čistý funkcionální výpočet,
+takže něco, co má jasný vstup
+a při stejným vstupu to má vždy stejný výstup,
+jakože transparentní funkce,
+ale zároveň to musíš prokládat
+věcma, jako je
+čtení ze souboru nebo z databáze,
+které se měňají a nemůžeš udělat
+ten sandwich.
+Takový ten klasický
+příjemný sandwich je to, že máš
+to nějaké čtení z databáze
+na začátku, to je ta houska, pak máš to
+maso, což je ten čistý výpočet,
+který je vždy stejný,
+krásně se ti otestuje, můžeš se na ně spolehnout
+a pak zase dole máš nějakou tu housku,
+která to buď toto pošle
+do prohlížeče nebo to někam uloží.
+A když tady to jde udělat,
+tak to je mnohem jednodušší na pochopení,
+že máš to čistý maso uprostřed
+a už to nemusí být nečistý.
+Ale ta freemonada je
+dobrá nebo nastoupí
+do toho v tom případě, že
+i v tom mase potřebuješ často
+si šáhnout pro nějaký data a ty nevíš
+dopředu, který budeš potřebovat.
+Logicky to je spojení třeba
+více rozdrojů, že podle toho, co našli
+z databáze, tak voláš různý webový služby,
+podle toho se webová služba vrátí,
+tak voláš další. A vlastně ty musíš
+logikou obalit i ty nečistý volání.
+Jasně. A ta freemonada, jak to tady
+ti umožní dělat, trošku
+kryklovnějším způsobem, ale
+pokud to chceš mít fakt
+funkcionálně čistý, tak to asi jinak nejde.
+Ještě se zeptám úplně bokem, ty jsi dělal
+s Jurajem Citoríkem v týmu?
+Jo, v týmu jsem
+tam měl dva utečence od vás,
+Juraj Citoríka a Honzo Henzla.
+A vlastně ještě Honzo Henzla, ty jsi měl
+oba dva v týmu, kluky.
+Honzo Henzla, to už si pamutu
+taky, jasně. A ty jsou tam pořád.
+Jsou tam pořád. No, no, no, my jsme se nedávno bavili
+s Bobom a chytili jsme
+a jsou tam pořád. Jo, vzpomínali
+na tebe. Jo. A myslím, že
+říkali, že tu freemonádu, že by si
+určitě nesnes.
+Asi, asi ne.
+Možná teď bych na to koukal jinak.
+Honzo tady se F-Sharpem začínal, ne? Jo, jo, toho jsme
+si předělali ze C-Sharpu na F-Sharp a
+Juraj ten už měl nějaký
+základy i ze skaly. Právě vím, že když šel do Barclays
+říkal, no já tam budu asi dělat skalu.
+Byl takový trošku smutný a pak říkal, dobrý, jakonec
+je to F-Sharp. Takže to možná bylo v době, kdy
+začínal ten váš přepis, je to tak.
+A ono je možný, že Juraj byl
+jako najatý v té době, kdy ještě bylo potřeba
+i dělat něco v tý skale a i
+odpíhat ten F-Sharpový projekt.
+No každopádně je zajímavý, jak je ta komunita malá.
+To mu dejeme vždycky.
+Ten rybníček je fakt malej ve všech
+oblastech IT. A co tam ještě používáte
+zajímavého v Barclays, která samozřejmě kromě
+fantastického jazyka
+ještě nějaké specifické
+tooly,
+technologie? Pro mě specifické
+bylo, že ten
+tým, co tam přišel dělat ten projekt,
+tak byl velmi pozitivně
+nakloněný k MongoDB.
+Což
+já jsem
+znal z doslechu, viděl jsem, že to většinou
+používají startupisti,
+kteří znají jenom JavaScript a nic jiného neumějí.
+A chlubějí se tím, že neumějí
+SQL.
+A prax se mi ukázala, že to tak
+opravdu bylo.
+Ale už se z toho nedalo nějak
+dostat pryč. Takže já jsem
+byl zvyklý na
+radáční technologie, ať už klasický
+nebo Big Data svět.
+Ale kde se furt ctít
+nějaký to radáční paradigma.
+A nebo tam přišlo Mongo,
+že všechno vevnitř je prostě binární
+JSON. Člověk na místo
+dotazu, který se dá
+pochopit, vypadá jako angliština,
+tak se vlastně píše JSON, který
+podle mě bez nějakého toolu člověk
+nenapíše ručně bez chyby.
+A hlavně co je nejhorší,
+nedá se na tom dělat rychlá
+ad hoc analýza. Což
+já jsem to využíval ve všech
+svéch projektech. Když je nějaký problém,
+tak první co jde, kouknu do zapáze
+a napíšu prostě nějaké dotazy,
+nějaké statistické pohledy,
+abych viděl kolik je chyb, kolik je anomálí.
+A věci jako joiny
+a gruba i v mongu. Když to člověk chce napsat
+jako ad hoc, jako pro jedno použití,
+to je na strašně dlouhý lokte. Že to není práce
+prostě na minutu, nabouchat dotaz a podívat se.
+To je tak jako, že půl hodiny ladit
+dotaz, podívám se to bylo.
+Tak jsem to napsal špatně.
+Tak to jdu psát trošku jinak.
+A rozhodně to nejde
+někomu předat jako řešení
+na koukání na data. Že všechny
+ty nástroje,
+jako jsou, tak samozřejmě
+Excel nebo nějaký koukátka, tak jsou dělaný
+na ten tabulkovej svět.
+A jakmile tam ten tabulkovej svět není,
+je tam to MongoDB, tak to musí řešit
+potom ten projekt, aby ty data nějak jako
+poskytnul ke konzumaci.
+Buď to sám jako by napřímo,
+to znamená mít nějaký
+uživatelský stránky, kde potom
+jsou ty reporty a dashboardy,
+anebo to exportovat někam jinam,
+kde už je potom nástroj, který je na to vhodnej.
+No já možná
+to unesu trošku zase dál, ale já vím,
+že to by
+se to tak vždycky v životě děje, že i v tom
+Barclays, ty jsi nastoupil jako vývojář a teď jsi
+tam teda dělal ty svoje jako freemonádičky
+a prostě lenzy a optics
+a různý prostě tyhle z ty funkcionální prasárničky,
+ale stejně tě to
+zase vyneslo vejš, když to tak řeknu.
+Je to tak. Jo a tam to trvalo
+kratší dobu, tam to trvalo asi jenom
+dva měsíce,
+kdy
+mi bylo nabídnuto, jestli bych nechtěl být
+jako zároveň lineovej manažer,
+což je jakoby člověk, který
+se nestará o ten produkt, ale stará
+se o ty lidi,
+s tím, že bych ale zároveň nadále programoval,
+že by to bylo jako 50 na 50
+a každý, kdo měl někdy v minulostní nabídku
+50 na 50, ví, že to je vlastně 90 na 90
+nebo prostě 110 na
+110, jako že tam, že to jako
+není hra, kde se to vždycky posčítá na stovku,
+že to nefunguje,
+takže jsem tam jako měl
+roli, že jsem jako nadále
+prostě kontriboval,
+lineově jsem se staral o ty lidi,
+byla tam hromada náborů,
+tam mi to teda ulehčil F-Sharp, to pro mě bylo
+překvapení, když hledáš lidi,
+ale napíšeš, že
+děláme F-Sharp a nemusíte
+ho mět dopředu, že se naučíte,
+tak se hlásejí k ty lidi mnohem kvalitnější,
+protože se hlásejí jenom ty, co je to
+fakt baví, nehlásejí se takový ty, jo,
+jdu dělat IT kvůli penězům, ale je mi jedno, nějak si to
+odsedím.
+A zároveň jako by jsou rádi za tu
+možnost. Za tu možnost
+se něco naučit. Jako v tom hiringu,
+sice jich je málo, těch lidí, ale
+o to radši jako půjdou dělat
+to, kde ta možnost je.
+A vybereš je. No a kolik jsi měl lidí pod sebou?
+Pro představu. Já si myslím, že v píku
+jestli dvanáct v součtu.
+To je pěkný, na padesát procent.
+Jo. S tím, že jsem měl koupit ty dvanáct
+lidí. Takže jsi dělal 101 a všechny
+tyhle věci. Jo, 101 se všema
+hiring novéch lidí.
+Pomáhal jsem dělat i hiring do
+států, kde kvůli
+pokrytí přes časový zóny se ten tým měl
+rozšířit, aby bylo pokrytí přes
+hlavní burzy. Možná na Barclays
+operuje nejenom na londýnský burze, ale
+i na tý americký. Takže
+aby tam bylo větší pokrytí
+časový. A
+do toho jsi ještě jel ty svoje free monádičky
+po večerech. No ono
+to tak do pravdy bylo.
+Protože přes den se člověk
+nenajde ten čas, aby udělal soustředěnou
+práci, která vyžaduje třeba
+dvě hodiny nebo čtyři soustředního času.
+Takový to, že si sednu ke kompu,
+vypnu všechny notifikace
+a jenom se soustředím na problém. Tak na to přes den není
+čas. Takže k tomu jsem se
+jako je to tak dostával k jako tým
+víc hardwork činnostem až večer.
+Nebo v noci. No tak devadesát a devadesát
+procent, tak si říkám, to se nemůže být čas přes den.
+A neskoušel jsi to bohekovat nějakým
+jako fokus tajmama a tak v kalendář.
+Jako teď mám dvě hodiny, nikdo za mnou nechoďte, nechte mě bejt.
+Jo, zamknout, zavřít, sluchátka
+na muši. No, já jsem
+si to myslel, že by to šlo, ale zároveň
+jsem věděl, že když je někdo
+z těch členů týmu čas zablokovaný a počkejme
+poradit, nebo na něco čeká,
+tak vlastně bych tím jako plejtoval toho času ještě
+víc, jako v tom součtu. A že vlastně
+moje práce je jako těm lidem pomáhat nějak
+růst profesně a zároveň se snažit, aby
+v té firkně zůstali, aby neodešli.
+Takže by by jim takovou věc udělat, abych jich prostě desetých
+čekal za dveřma, až se já
+uráčím teda zapnout komunikátor.
+Já to úplně chápu, to úplně chápu
+a musím říct, že to muselo být na palici.
+A ty lidi teda dělali F-Sharp
+a používali i teda ten Spark,
+o kterém jsi mluvil.
+To všechno dělal ten tým, jo?
+Jo, některý tam byli skalisti,
+některý byli F-Sharpisti
+a některý
+nebyli úplně nakloněni
+ke F-Sharpu a spíš přišli v C-Sharpu.
+Tam nepovedlo se úplně všechny
+skonvertovat, jako nábožensky.
+Na tvůj výrok.
+A ještě, když jsme si psali, tak jsem tam zmínil
+Hugh, jakou roli hrála
+tahle technologie u vás v týmu.
+Jo, Hugh hrálo roli
+právě v tom reverse engineeringu
+toho původního systému,
+který byl postavený na tom Sparku,
+ale všechny data
+byly v Hiveu, Big Data světě.
+A přes Hugh
+jsme vlastně sledovali...
+Přes C-Hugh, vysvětlite vůně
+a posluchaťům. Hugh je vlastně
+databázový koukátko na
+Big Data, takže jako máš SQL Server
+manager pro SQL Server,
+tak máš prostě Hugh na Hive.
+Aha, OK, díky.
+A ty máš vlastně,
+ty data ve velkém světě jsou typicky
+faily, ale máš je popsaný v nějakém formátu
+a máš vždycky řečený, v jakém formátu
+to je, jestli to prostě je CSV,
+nebo Parket, nebo Avro.
+A to Hugh se na to umí koukat,
+umí se na to dotazovat. A co
+mě potěšilo, daj se tam psát i SQL
+dotazy a dá se... To jsem se chtěl zeptat, jestli tam
+je nějaký dialekt SQLka uvnitř.
+Dialekt tam je. Jenom
+co je blbý, on ten Big Data svět je
+dobrý, když máš Big Data problém.
+Jakože, když ten problém je tak velkej, že se ti prostě
+nevejde ani na jeden silnej server
+a ty to prostě z principu musíš
+řvát na ty Big Data. Je to dost špatný,
+když nemáš Big Data problém. Což byla tahle situace,
+protože ono všechno je tam
+pomalý. Jako ta odezva,
+ta latence, je tam prostě
+v řadu sekund, nebo třeba i minuta
+na dotaz. I když v tom
+prostě SQL server, na který by se to vešlo na jeden
+silnej, trvalo třeba, nevím,
+100 milisekund.
+On tam jakoby
+indexy se můžou dělat, ale
+často se nedělají.
+A vlastně ten engine,
+který pak přeloží ten dotaz
+a zpracovává ho, tak on si velmi často
+musí ten file, co tam je někde uložený
+na tom Big Data file systému, načíst celý
+a vlastně to vystřeluje
+pak na produce joby, který
+to udělají tam filtrování,
+spojování s jinýma datama. A je to dělané
+na to, aby to těch dat zpracovalo co nejvíc. Když těch dat
+máš prostě 100 terá
+a potřebuješ je vůbec zpracovat jakoliv,
+tak to je dobrý. Ale když těch dat máš třeba
+500 giga, tak ono
+mít to na databázi, která to
+navíc většinu času bude mít v rámci, tak to je
+násobně rychlejší.
+A to někdo na začátku by myslel, proč je věřil, že tam
+to volium naroste, nebo
+nevíš, jaká tam byla geneze?
+To se konvej, ne?
+Ne, ono to
+volium rostlo dost. Já si myslím,
+že jenom na příchozích datech
+jsme byli asi přes 100 gigabajtů
+denně nově přitečených
+vstupních.
+Výstupní po nějakých výpočtech a
+transformacích, tak to bylo taky pár set
+gigabajtů. Ale
+ten vlastně,
+jako by to hlavní gro toho problému, to umožňovalo
+dělat takhle po těch denních dávkách.
+Jakože většinou to je tak, že to, co bylo v minulosti,
+už se nemuselo tolik řešit.
+A ty velký data se vždycky mohly zpracovat izolovaně.
+A on ten, jako by se mohlo říct,
+ten Big Data svět dává
+tu možnost, že tam koukáš i na ty
+starý data
+a fakt jich tam tu hromadu máš.
+Ale ten samotný biznis to nepotřeboval.
+To by se asi dal vyřešit nějakou archivací.
+A spíš to byla zrovna taková
+etapa, kdy ty firmy
+hodně zaváděly ty data lakey.
+Já jsem to zažil, jak v tom
+Barclays, tak i předtím v Commerzbank.
+To byla prostě éra data lakeů,
+který se snažili vyřešit to,
+mít ty data na jednom místě.
+Což pak pomáhalo řešit to, když někdo chtěl
+centralizovaný dashboard nebo report
+fakt proprujující úplně jiný lidi.
+Koukažte mi lidi, který mají
+kreditku a zároveň prostě
+shortou japonský akcie. Což to jako úplně jiný
+segmenty banky, ale přes ty data lakey
+to jde udělat.
+A
+není to podle mě určený na to
+nad tím mít operativní
+aplikaci, která to má
+jako svůj primární zdroj.
+Abychom nezůstali jenom
+u poliho oblíbených big data a těchto
+toolech, vraťme se zpátky do té
+fáze tvýho života, kdy jsi teda v Barclays
+všechno tohle používáš, zároveň sedíš
+na dvou židlích na dvakrát
+90% času
+a tebe to pomalu
+zase jako vyspinovalo, tak
+řekl bych vysoko, pokud jsem to správně
+přečet z tvého životopisu, že ty si
+zase jako se
+už několikátý restartoval, rezetoval
+a šel si do Microsoftu, je to tak.
+Je to být vojařit zase
+zpátky jenom čistě.
+Ono v IT se historie často opakuje, takže se opakovala
+u mojí
+osoby.
+A zrovna když jsem
+si tak nějak uvědomoval, že
+mi to nevyhovoje to nasazení,
+oni tam byli i nějaký
+představní signály, že ty lidi
+z Donýna mě chválili za to, když jsem
+dělal prostě PRka v 11 v noci.
+Jakože to, že to brali,
+že to je dobrá věc,
+jakože jo, to jsi to udělal dobře.
+Ne jako měl by si svorazit
+více rodinou. Ale jakože to chválili, to vlastně byli lidi,
+který
+několik let seděli přímo
+na trading oddělení mezi traderema
+a tam je tady to jako životní nasazení
+běžný, že tam
+prostě to bylo jako work-work balance,
+který byl vychvalovaný.
+Work-work balance je dobrý.
+A to jsem zjistil, že to je
+varovný signál a to už pak jako není
+kruček k tomu, že by ty představci mohly být nařízený
+nebo práce o víkendu a
+úplně se mi nedíbil,
+jak tam funguje, protože ten trader aspoň z toho
+má jako obří bonusy a mají prostě
+pak jako statisíce liber, jenom jako
+bonus, že se něco povede, ale ten vývář,
+ten to nemá, ten není jako tak jako
+napojený na ten svůj výkon.
+Jasně. No takže ty jsi pak
+odešel záhy do Microsoftu.
+Jo, to bylo strašně štěstí
+načasováním, protože Don Syme
+zrovna napsal tweet, že
+rozšiřujou F-sharp team v Praze
+a že tam nabírají
+jak vývojáře,
+tak i engineering
+manažera, takže já jsem
+se tam nechal doporučit
+na pohobory a hnedka
+první asi ze sedmi call
+No a sedm call má
+Microsoft, jo. Já si myslím, že byly
+dva HR a pět technických.
+Ty krása. No no, pro
+promiň, zase klupový dej.
+A hnedka první call
+paní HR říkala, no já koukám na váš životopis
+a my tady máme i pozici na
+engineering manažera, není to úplně
+stoprocentní, kdyby se sebali, je to spíš takový 50
+na 50.
+Takže jsem se zasmál a řekl jsem si,
+že musím odmítnout
+a tímto zdravím vlada
+mýho současného bose, který tady tu pozici
+vzal a doopravdy to tak má.
+Jo, jo.
+Jakože má 50 na 50.
+Má těch 100 na 100.
+Takže ty tam děláš
+teda v týmu pod vladem, je to tak?
+Jo, vlad je teď jakoby
+engineering manager toho týmu
+s tím, že nás je
+dohromady pět
+jakoby čistých dývářů,
+čtyři v Praze a jeden
+na západním pobřeží u Světlu
+a pak tam je půlka vladu,
+vlada. Půlka vlada.
+A vlastně Don Cime, tak ten už do F-Sharpu
+jakoby nepřispívá kódem,
+ale furt si
+zažíjí to, že on je ten takzvaný
+BDFL
+Benevolent Dictator for Life.
+Takže on prochází návrhy
+na to, co by ten jazyk mohl přispět
+a on tam napíše, jo, to se mi líbí
+a dá tam prostě label Approved
+in Principle a nebo řekne, ne,
+tady to F-Sharp udělat nebude, ale možná
+nějakej jinej jazyk, nějakej syn
+F-Sharpu, pokud si ho chcete udělat, tak si tam udělejte.
+Ale já to v F-Sharpu nechci.
+No a jak často se tomu Don
+věnuje, když mu říci, Don je
+v GitHubu, ne, on je v Copilot
+Labs nebo něco takového. On je
+GitHub Next, což je vlastně
+výzkumná divize GitHubu.
+Ano, ale on je tam nějakej Principle,
+protože... Je to jako principální
+výzkumník, researcher. Jo, jo.
+Což je jiná dráha než
+inženýr. Jakože inženýr má
+jako za úkol se starat
+o produkční, prostě
+nějakej systém, který reálně se
+prostě buď to dává uživatelům jako
+open source, nebo se prodává uživatelům,
+zatímco úklem researcha je
+zkoumat nový věci a pak to někomu
+předat dál. Jo, takže Don
+s váma je jak často ve spojení,
+co se týče F-Sharp týmu vyloženě?
+Letos byl v Praze a prý to bylo
+poprvý, co byl v Praze. A to bylo
+zrovna v létě, víte, já byl pryč. A to bylo v létě,
+tady byl. Já vím, on mi psal a já jsem byl
+zrovna, jsem říkal, já jsem zrovna v Itálii, jdu prčist.
+No nic. Pro mě to bylo
+jako setkání prostě s Rockstarem,
+to je jak kdyby se moje ségra setkala
+z Taylor Swift, tak já jsem byl
+na pivu s Donem Sajmem.
+A to bylo poprvý, co se s tím setkalo osobně?
+Já jsem ho, jako viděl jsem ho online,
+když mi dělal intervju, to je jedno z těch
+mnoha call bylo i s Donem, ale naživo jsem
+ho viděl poprvý a hnedka to jako bylo
+u stolu, u českýho piva.
+A byli jste na večeři? Jo.
+A jed Don Sajm něco?
+Jo, podle mě nějak. My jsme si točíš
+Tomášem Petříkem dělali srandu, že nikdo
+nikdy neviděl Dona Sajma jíst,
+jako čím on se živí, protože on samozřejmě
+je velmi vyhublej,
+ale vlastně říkala i Evelína, když jsme
+se potkali právě i s Donem v Anglii, říká
+vy viděli jste ho tady u cateringu, on
+nikdy nic nejí, nikdy nic nejí.
+On si plně nechal poradit nějaký český jídlo,
+nějakou umáčku s knedlíkama. Tak dobrý, tak aspoň, když už
+tak. Takže jsme ho tady vykrmili. Jo,
+trošku z toho napucli. Paráda.
+Prosím tě, pojďme možná rozebrat, protože my jsme
+tak skočili do prostřed, protože samozřejmě to je téma, kde
+já se nechám lehce unést, omlouvám se.
+Už vidím ty očíčky. Jak se mi rozjeli,
+tak samozřejmě, tak Don, Sime, F-Sharp, to jsem doma.
+Co vlastně v Microsoftu děláš?
+Já vím, že ty děláš na open source
+kompilátorů pro F-Sharp a
+Visual Studio Tooling, ale možná
+pojďme to trošku obecně rozebrat
+pro posluchače, co to vlastně
+obnáší takovouhle věc dělat v Microsoftu
+v Praze. Jo, určitě.
+Tak ten kompilátor, to je
+nástroj, který vezme
+kód psaný lidma, jako lidma, jako třeba
+Roman, nebo minimálně jako býval Roman,
+když nebyl manažér.
+Děkuji, to mě
+to úplně píchlo.
+On to dělá 50 na 50.
+Já mám tak otevřený rider.
+A udělá to z toho
+spustitelný kód.
+V případě F-Sharpu, to je konkrétně
+na platformu .NET,
+takže to vlastně, ten kompilátor
+generuje instrukce,
+které
+dotnetí ILSADA, což je
+trošku jako assembler, je to jako
+zásobníkovej jazyk, který ale
+má objektový konstrukty,
+a nebo je alternativa, že se z toho dá
+generovat JavaScript. Takže kompilátor je
+ten proces, který vezme vstupní
+kód, což je furt něco, co připomíná
+angličtinu, jsou tam prostě slova
+jako if, while, for,
+což počítač jako procesor,
+to je kus křemíku, ten tomu nerozumí.
+A ten kompilátor to vezme,
+zkontroluje, že to je správně,
+obohatí to nějakýma
+vlastníma věcma, které tam jsou generovaný
+pro pohodlý programátorů, aby je nemuseli psát
+ručně, a potom to vygeneruje
+ten výstupní kód.
+Jak do tohohle zapadá
+Visual Studio? Protože ještě děláte Visual Studio Tooling,
+že jo? A Visual Studio
+je tam k tomu, aby to ten člověk
+nemusel psát v textáku, v nějakém notepadu,
+ale aby k tomu měl pohodlý,
+že mu to zabarví klíčový slova,
+ukáže mu to, když si nastaví, že chce
+mutable věci vidět ostře červeně,
+tak aby byly červený, aby to
+napovídalo, to znamená, když
+napíšu název nějaký hodnoty, dám tečku,
+tak uvidím metody, co to nabízí,
+umělo to hledat,
+navigovat a
+refaktorovat, když chci třeba přejmenovat
+třídu, tak mi to přejmene na všechny
+použití, takže celý tady ten
+plugin do Visual Studio pro F-Sharp,
+to dělá taky ten náš tým,
+a zároveň máme něco, co se jmenuje
+F-Sharp Compile Service,
+což je knihovna,
+která všechny tady, jako většinu tady těch
+feature poskytuje jako API,
+a potom nástroje
+třetích stran, jako je Rider nebo VS Code,
+tak oni to nemusí psát odznova, oni nemusí
+zjišťovat, jak se pro F-Sharp kód
+dělá autocomplete, ale oni vezmou
+tu knihovnu a oni se víc
+starají o tu uživatelskou experience,
+ale tady ty základy práce s jazykem
+jsou v té knihovně.
+A jak do tohle zapadáte a Language Server Protocol
+do tohodle z toho
+jako mixu?
+Language Server Protocol
+je vlastně
+API na tady ty operace, aby
+jeden klient, jako
+VS Code třeba, mohl být
+univerzální vůči různým jazykům a nemusel
+se programovat po každý plugin
+a adaptér na
+každý konkrétní jazyk, ale aby ten
+Language Server Protocol měl operaci
+za barvými
+keywordy a ten VS Code,
+ten klient si to zavolá a ten
+jazyk je vlastně tady jako backend,
+ten jazyk je v pozici backendu a ten
+vrací tu operaci.
+Ale F Sharp, jako by minimálně
+ten F Sharp kompilátor, který
+stáváme my, ten Language Server Protocol
+ještě nemá a
+LSP pro F Sharp je dělaný
+komunitou. A tak, aby to šlo použít ve VS Code,
+takže oni mají jako by
+tenkej, nebo ne, možná asi tlustší prostě adaptér
+mezi VS Code
+a F Sharpem, kde právě dělají
+ty Language Server Protocol operace,
+což je podle mě jako JSONový API,
+kde ten VS Code
+jako by volá ten backend.
+Takže výsledek vaší práce,
+uvidím v procesu jako FSC Exe,
+který si pamatuju, z jedného času
+tyjo, to bylo docela rozežraný, tyjo, pamětěvě.
+Pořád to ještě je tak jako
+bumberlík, nebo už je to?
+Dostáváme jakoby
+reporty od nějakých uživatů, když to je velký
+a pak to řešíme, proč to je velký.
+Asi spíš bejvají větší, ale ty
+ty služby okolo toho,
+jako třeba ve Visual Studio, když chceš mít
+otevřených prostě 100 dokumentů
+a na všech něco hledat, tak pak to je
+ještě rozežranější. Je to podle mě neustálej
+boj, protože vznikají nový požádavky,
+nový fičury, ať už jazyka,
+ale spíš toho toolingu,
+jako že chceš mít třeba lenses,
+prostě chceš vidět typy odvozený
+a to samozřejmě každá fičura
+něco stojí, takže na druhé straně neustálej
+boj tu performance zlepšovat, aby se to
+udrželo v rovnováze.
+A to mi řekni, kompilátor mně osobně přijde
+jako asi nejkritičtější věc
+v celém tom developer
+experience a v celém tom procesu.
+Jak se tohle testuje
+a kolik máte testů vůbec
+na kompilátor?
+Mně se to strašně líbí, to testování kompilátoru.
+Protože kompilátor,
+jeho vstupem je
+program jako napsaný programátorem
+a výstupem je
+zase nějaký jako skompilovaný
+program v tý dotnetí instruční sadě
+a nebo se ten program dá rovnou
+i spustit a můžu pak zjistit, jak se chová,
+když se spustí. Takže tady to se testuje
+úplně super. Já
+vlastně jsem začal používat
+test driven development na mnoho věcí,
+že si nejdřív napíšu test, tím testem je
+F-sharpovej program,
+mám ho ve stringu, potom tam
+máme v testovací sadě
+vlastně možnost ten program
+skompilovat a buď to
+si zkontrolovat věci, které pak jsou
+v tý instruční sadě, v tom výstupu,
+anebo ten program spustit, tak no a když tady ten program spustím,
+tak nesmí spadnout a musí prostě
+vrátit 42 čísla.
+Takže ty máš normálně v klasickým
+stringu, máš prostě
+inf, no, jako hello world a ty
+očekáváš, že když to skompiluješ a spustíš, že
+prostě do konzole se napíše hello world.
+Jo, přesně tak. A v čem
+je psaný kompilátor?
+A kompilátor F-sharpu je
+psaný taky v F-sharpu.
+Tak, a teď mi to vysvětlí
+chicken egg problém, jak se tohle může
+stát, že je psaný kompilátor
+v něčem, co kompiluje.
+Musí se dostat tak, že ten úplně první
+kompilátor napíšeš v něčem jiným.
+A toto
+to psal ještě Don a to podle mě
+první kompilátor musí být napsaný v něčem jiným.
+Ale potom, jakmile máš
+už nějaký prototyp toho jazyka,
+jakkoliv nedokonalýho, tak vlastně
+novou verzi toho kompilátoru
+můžeš vždycky skompilovat tím starším.
+Jenom si musíš dávat pozor,
+že ty napíšeš nějakou novou jazykovou feature,
+kterou by si strašně rád použil,
+ale ty ji ještě nemůžeš použít, protože ty máš k dispozici
+jenom ten starý kompilátor.
+A tohle se řeší jak?
+No to se řeší tak, že to nepoužíváme
+starší a navíc
+ještě pro výkonce dělá to, že si skompiluješ
+starým kompilátorem ten novej
+a pak ten novej
+ještě znova skompiluje sám sebe,
+protože kompilátor nejenom řeší
+ten jazyk, ale může přenést i nějaký výkon,
+nějaké optimalizace.
+Takže on pak ještě jednou skompiluje sám sebe,
+aby se zoptimalizoval těma nejnovějším
+optimalizačníma algoritmama.
+A co teda ještě?
+Kolik těch testů máte?
+Jo, já jsem koukal na to,
+na CI
+a tam jich ukazuje,
+40 tisíc.
+Ale některých z těch testů
+jsou velký F-Sharp skripty, který mají
+několik set řádek, že to je
+existující program, co někdo třeba dal jako
+backreport a tam se testuje spousta věcí
+vnitřně, takže si myslím, že to číslo ještě
+větší. Je tam třeba
+i testovací sada
+v Perlu, která, jakoby, že
+Perl spouští různý
+F-Sharp programy, že je skompiluje,
+spustí a sleduje,
+jestli to dá nějaký warningy,
+erory, což taky je
+jako test. My testujeme nejenom, že se to spustí
+správný program, ale že i
+špatný program dostane správnou
+diagnostiku, aby ten programátor
+věděl, co má opravit. Takže i tady to se hodně testuje.
+Jakože špatný programy,
+aby se dobře chovali.
+A to si myslím, že ty tam
+taky nejsou správně započítený, takže si myslím, že
+ještě víc.
+Jak moc do historie to jde,
+co všechno musíte vlastně podporovat?
+Protože víme všichni, že Microsoft
+je úplně obsest tím,
+že jako z 15
+kompatibilita je must a bez toho
+se jako prostě o tom se nevede řeč.
+Co všechno, jaký obskurní
+věci tam máte v těch testech, nebo
+co všechno musíte testovat? Protože
+jedna věc je říct, tak dobře, tak podporujeme
+prostě dotnet od nějaký verze
+a hotovo 20.
+Ale přeci ta historie toho jazyka už je
+poměrně dlouhá.
+Jo, je tam hodně věcí, které
+byly z
+OCaml compatibility, že dlouhou
+dobu bylo víc způsobů,
+jak psát FšP program,
+něco vlastně bylo předzatý z OCamlu
+a něco byla nová syntax.
+Ale v té logice toho parsu, který to
+musí přijímat, to tam je do posud,
+protože někdo mohl mít program.
+A ze začátku FšP bylo
+několik use caseů, že byly softwary
+napsaný v OCamlu a ty to chtěli jednoduše
+přeportovat do FšP s minimálníma změnama.
+A takový můžou být furt
+a největší strach je z těch
+velkých korporatů, který mají takhle nějaký
+starý software, 15 let,
+už tam není nikdo, kdo by ho uměl
+programovat, ale pro ně to je důležitý.
+Takže to samozřejmě nechceme
+rozbíjet. Takže na to je strašně
+velká opatrnost. Myslím si, že to blokuje
+i hodně progrese
+toho jazyka. Vlastně ten strach z toho,
+že se rozbije nějaký program, který je napsaný
+a velmi opatrně se
+kouká na zpětnou kompatibilitu.
+Že vlastně kód, který fungoval
+v minulosti, nikdy nesmíme
+rozbít a jsme i dost opatrní
+třeba na zavádění nových warningů.
+Na to taky si dáváme dost pozor,
+že když někdo měl kód, který warningy nedělal
+a všichni třeba věděli, že ten kód
+není správný, že by se takhle psát neměl,
+tak jako stejnak se snažíme, aby byl podporovaný
+nadále. Jako je tam až
+obsese skoro.
+Tím, že to je prostě produkt,
+na kterým nějaký firmy stavějí
+a je blbý ho rozbít, protože my nevíme,
+jestli oni to know-how ještě mají.
+No a bude se to někdy lámat tohleto, nebo to přeci
+nemůže být do nekonečné, že jo?
+Já vím, že pro Microsoft to asi není
+úplně normální,
+ale třeba uvažuje se o nějakým
+opravdu breaking change,
+o nějakým velkým zlomu, který by teda mimochodem
+prospělý C-sharp polet, jiný level.
+My teda děláme hodně často
+language features,
+což jsou vlastně feature toggles,
+který v kódu můžeme zapnout
+nebo vypnout, ale ten
+kód kompilátoru je musí mít furt.
+Takže vlastně nový věci
+do jazyka se přidávají pod těma feature togglama
+a řekne se, když
+máš prostě F-sharp verzi 8,
+tak máš tady těch 20 feature navíc,
+ale když si ve svým projektovým souboru,
+což má jako FS pro XML,
+nastavíš, že chceš jinou verzi, tak najednou tyhle
+toggly se povypínají. Ale ten kompilátor
+to musí umět. Ten kompilátor musí umět
+všechny kombinace.
+Já ještě, jak se občas samozřejmě v rámci
+komunity s klukama sejdu tu a tam
+i vlastně tady s Tomášem zajdeme
+nebo jsme byli na obědě,
+tak kluci si občas postižují, že jsou
+v tom kompiláru místa, kde cituji
+jen Don Saim a Bůh
+ví, co to dělá.
+Kolik tam takových magických míst ještě je?
+Nebo už to máte celý, jste to převzali
+porunovi a už ho vlastně zas tak
+moc nepotřebujete? Já jsem to ještě
+celý nepřečet, takže nevím.
+Ne, no ono to je
+hodně velký.
+Hlavně to, co ty F-sharp
+dělá, že je silně typovej
+a zároveň ty typy, ty je nemusíš určně psát
+to odvozování typů,
+tak tam je hodně práce okolo toho.
+Ten vlastně type checking.
+A já se vždycky ponořím jenom do
+toho kusu, co zrovna potřebuju pro nějakou
+feature.
+Ale jak velký je nějaký produktový oddělení,
+který rozhoduje, kam to půjde? Nebo
+jak vůbec vzniká ten produkt?
+Nebo další verze?
+U toho F-sharpu to je zajímavé, že to produktový oddělení,
+buď toto je
+nula lidí placených, anebo to jsou
+stovky lidí na GitHubu,
+který vlastně kolektivně
+tím, jak hlasujou
+o tom, co by se mělo dělat, rozhodují ten
+směr s tím, že někdo může
+kontribovat jenom tím, že něco
+naverne, nebo zahlasuje,
+napíše k tomu svůj komentář, jak by se mu to líbilo.
+A nebo to potom si taky
+někdo může rozhodnout si to vzít,
+tu novou vlastnost,
+kterou teda Don jako schválil,
+že je approved in principle,
+a samý udělat. A takoví lidi jsou.
+Máme
+jakoby i hodně silného kontributora
+překvapě z Brna,
+který není od Microsoftu,
+ale on přidal podle mě třeba
+sedm velkých jazykových feature, jako do poslední verze
+F-Sharpu. Fakt? Z Brna?
+Víš jméno?
+Kerams na GitHubu
+a je podle mě ze stejného
+gymnázia na Slovensku,
+jak chodil Jurej.
+Tyjo, to je nevěřitelně, jak je ta komunita malá.
+No každopádně zdravíme, pokud posloucháš,
+tak klidně se ozvi. Rád bych
+pokecal, zajímá mě to.
+Když bych řekl, že chci jít
+dělat s tebou do Microsoftu
+tyhle šílenosti, co vlastně
+přesně musím umět?
+Protože vždycky, když se o tom bavíme tady s klukama
+v týmu, jak se dělá F-Sharp někde jinde
+a dojde na Microsoft, tak všichni říkají
+na to já nemám, to je prostě
+ta vysoká škola F-Sharpu.
+Jak to ve skutečnosti je? Co teda fakt
+musím umět?
+Já si myslím, že je důležitý
+umět řešit problémy
+a asi se nekouká to, jak na předchozí
+znalosti. Já jsem třeba kompilátory
+nikdy nedělal předtím. Dokonce
+i na škole, kdy to bylo
+jako předměty a
+hodně lidí si bralo ty základy překladačů
+nebo nějaký assembler. Já jsem se všem těmhle
+věcem vyhejbal, i když ty možnosti byly
+a byli na to jako vynikající profesoři,
+tak já jsem spíš se pohyboval
+ve škole databázových sekci
+a pak vlastně i doktorát
+jsem dělal na multimedialní databáze
+a vydávání v nich. Takže
+jsou tady tu oblast jako kompilátorů
+a toho víc jako hardcore programování jsem nikdy
+nedělal. Takže to není vstupní předpoklad
+a zároveň vím, že znalost F-sharpu
+taky není vstupní předpoklad, protože
+Kevin, to je ten člen
+týmu, který je ve státech, tak on nikdy
+nepsal F-sharp jinde než v kompilátoru
+F-sharpu. Takže
+znalost F-sharpu taky není vstupní
+předpoklad. Takže si myslím, že
+základy prostě uměřit problémy
+a okolo toho se i točily
+ty kola intervjů, že
+bylo tam jakoby pět
+různých lidí a každý mi prostě dal
+nějaký problém. Něco bylo v F-sharpu,
+něco bylo v C-sharpu, něco bylo
+na GitHubu, jenom vyřešit nějaký
+existující issue a jenom jako koukat, jak
+přemýšlím nad problémem
+a vlastně nahlas přemýšlet,
+jak bych to řešil, kam bych se koukal,
+jak bych to ladil.
+Tady to mi přišlo
+jako, že tady to se podle mě snažili
+odhalit, tady tu vlastnost.
+No ještě pro posluchače, no teďka velmi
+brzo vyjde nová verze F-sharpu, že jo, vyjde
+osmička, která přináší další
+řekl bych super featurey.
+Co z toho máš nejradši ty z těch
+nových feature?
+Tak já mám asi nejradši
+konečně
+plnou podporu pro
+reference assemblies,
+což je vlastně dotnetí
+featurea, která umožňuje
+přeskočit kompilaci některých projektů
+v hodně košatý solušně.
+Že projekty typicky
+tvořejí grafy, které můžou být hodně
+široký, hluboký
+a když změníš nějakou
+funkci hodně dole,
+nějaký prostě utils projekt,
+na kterým všechno závisí, tak se ti musí
+zrekompilovat úplně všechno.
+A reference assemblies tam přidávají
+to, že když se ti změní jenom
+implementační detail, ale
+ne ta výstupní signatura,
+co to znamená, tak se přeskočí
+všechny ty projekty uprostřed, že nemusíš
+kompilovat znova, protože ty víš, jo,
+oni stejnak jenom volají tady funkci print
+a jim je jedno, jak vypadá
+vevnitřa funkce. Dokud se ta signatura
+zachovala, tak je nemusím překompilovat znova.
+– Takže takový ty nový
+feature jako zanořený
+setry u rekordů
+a aksesory v těch
+v lambdách, že už nemusíš vyloženě
+psát fun x, tečka nejm, ale dáš
+potržítko tečka nejm, takový ty
+skalisti zrovna říkali, to začíná vypadat jako skala
+některý ty... – Jo, tak mě se to s tím
+potržítko tečka, mě se to líbí,
+proto jsem se jakoby, já jsem to našel
+jako mrtvý PR-ko, že to
+někdo to zkoušel udělat
+a pak to zablil. Jsem řekl, že to je taková
+pěkná věc, tak jsem
+ho jakoby oživil a dokončil. – Takže za to můžeš
+ty. – Já jsem to jakoby dokončil.
+– Tak to mi děkuji. – Ale já
+tady ty jazykový featurey, my v kompletoru je nemůžeme
+používat, protože my musíme používat tu starou verzi
+jazyka. – Už to vidím, proto ty
+nejseš tak nadšenej, protože ty si to neužiješ
+výsledky svý práce. – Takže mě to potrvá ještě
+jako ještě rok. – Ještě jednu verzi.
+– A to už si zase lidi používají něco jiného.
+– A to už bude něco novýho, to už to nebude cool.
+– Tak to je super. No a ještě, než opustíme
+F-Sharp, pro mě samozřejmě to je srdcovka,
+ale co teda ty na tom máš
+nejradši na tom jazyce jako takovým?
+Co třeba, kdyby jsi ho chtěl teďka prodat
+polimu, který už samozřejmě to ví, protože
+tady se mnou už to má nakoupený,
+ale kdyby jsi to chtěl jako prodat ve výtahu,
+kde je tam ten selling point pro tebe?
+– Mně přijde, že
+F-Sharp přitahuje lidi,
+kteří to baví a
+proto v tom není tolik špatných
+projektů. Já bych se prostě, já bych
+se bál někam jako přijít na
+neznámej Java projekt,
+aniž bych si ho mohl prohlídnout, protože ty
+jakoby některé jazyky umožňujou
+jakoby různý úrovně prasení
+a různý úrovně prostě
+enterprise overengineeringu a myslím si, že
+F-Sharp to má vybalancovaný tak,
+že tam to jde udělat,
+ale
+ne tak snadno
+a má správně nastavený defaulty, že když píšeš
+tak, jak tě to nabádá,
+tak neuděláš takový čuňárny
+a vlastně i tím, že to
+dlouhou dobu bylo dost neznámý,
+tak ta šance natrefit nějaký
+vyložně strašný legacy je malá.
+Jako samozřejmě bych mohl
+vyzvihnout
+tento funkcionální programování
+a mám moc rád
+pipelining, ale na to je i spousta
+jiných jazyků, jako to by se dalo dělat
+i jinde a myslím si, že
+i moderní F-Sharp
+taky se dá tak nějak psát funkcionálně.
+Ale když přijdeš k tovému projektu,
+tak on takový nebude.
+Jo, takže pro tebe to je spíš
+preselektor, řekněme, na té lidské úrovni,
+té komunity, to, jak ty lidi přemýšlí.
+Jo, já si myslím, že kdybych měl software dělat
+úplně sám, tak bych asi dokázal
+být spokojený třeba
+i v moderním F-Sharpu, ale prostě vývoj
+software není individuální činnost,
+je to týmová činnost a navíc ty lidi se měněj
+a velmi často člověk pracuje
+jako s produktem,
+s kódem, který už vznikal prostě
+dekádu předtím a už nemá šanci
+ani nadávat na ty lidi, protože neví, který to byli.
+Možná ještě
+poslední věc týkající se tvý štace
+v Microsoftu. Jak se vlastně pracuje v Microsoftu?
+Z venku to je obrovská
+prostě, že jo, korporace, jedna
+z nejbohatších firm na světě,
+přitom váš tým je docela malej. Jak se vás týká
+jako korporátní
+tým na, řekněme, pořád ještě
+jako nýž věci asi oproti celému
+Microsoftu?
+Já si musím strašně chválit to
+začlenění, kde jsem,
+že F-Sharp tým je
+součástí Developer Division,
+DevDiv, což jsou
+vlastně produkty určený
+pro vývojáře. Není to prostě pro koncový
+běžný franty uživatelé, není to jako
+Word nebo Windows, ale jsou to produkty
+pro vývojáře, takže tam patří Visual Studio,
+VS Code a různý jazyky
+C-Sharp, TypeScript,
+F-Sharp.
+A ještě v rámci tady toho
+jsem navíc na F-Sharpu, což je
+open source, všechno je na GitHubu,
+takže nás, jako
+i když však ve firmě asi existují
+nějaké tajné strategie a tajemství,
+tak nás se to vůbec netýká. My jako veškeré
+plánování máme otevřeně, můžu
+přijít do podcastu a mluvit o tom,
+protože to nemám vzpomnět zakázaný.
+A to jsme rádi.
+A není potřeba, aby se tam prostě přetahovali
+žádný produktmanageri o tom, kam
+tahat F-Sharp, protože tam jako žádný za to placený
+nejsou. A Catlean tam dělá, co?
+To jsem myslel, že je jazyková. Catlean
+je produktmanager pro
+jazyky, C-Sharp, F-Sharp, Visual Basic,
+ale zhledem k velikosti těch
+jazyků, k trhu těch jazyků, tak samozřejmě
+ten C-Sharp jí bere mnohem víc času.
+A myslím, že je i ráda, že
+ten F-Sharp si stačí okrajově sledovat
+a občas nás naštívit.
+No, poslední věc,
+kterou jsem chtěl tady probrat,
+ty jsi ještě kromě toho, že jsi schopen
+sedět na mnoha židlích dvakrát devadesát,
+si ještě jsi udělal
+PhD na matfizu, je to tak?
+Jo, to jsem dělal během
+práce. On se to
+hlavně se to překrývalo teda s tím působením
+v Commercbank. A já jsem
+vlastně
+začal dělat do výzkumu
+už během bakalářského studia,
+kde mě
+namosali tím, že když jsem měl domácí
+úkol, tak jsem z něj potom
+mohl společně
+s učitelem udělat článek,
+ten poslat na konferenci a mě tam
+je vyslali. Takže já jsem byl bakalářský
+student a byl jsem vyslaný do Hongkongu, takže já jsem
+koukal,
+co všechno může, co všechno může akademie
+nabídnout a bylo to jako super, domů můžeš cestovat,
+můžeš to dělat.
+Takže potom jsem vlastně v tom přirozně pokračoval,
+ani jsem se nějak neptal sebe proč,
+protože mě to bavilo.
+A když mě lanařili
+na doktorát, tak jsem na to
+kejvnul, i když jsem vlastně věděl,
+že pracovat potřebuji nadále,
+že potřebuji nějaký finanční příjem,
+že z toho doktoránského se člověk úplně
+nenají. A díky tomu
+jsem mohl
+trošku držet krok
+s novější technologií, vlastně to bylo v době
+rozmachu či hlubokých neuronových sítí,
+machine learning
+jsem tam používal
+na problémy, které jsem
+počal k tomu výzkumu. A bylo to
+takový dobrý kontrast k tomu korporátu,
+který naopak byl tak 10-15 let pozadě,
+tak tohle bylo třeba tak jako 5-10 let
+dopředu. Takže to jako
+mi to vlastně pomáhalo
+nějak jako trošku utěšit
+touhu potom jako novým.
+A bylo tam něco ještě zajímavého tady z poliho
+renku, jako ty
+tvoje ML pokusy?
+Jo, určitě
+můžu vyzdvihnout, jsem měl
+takovou stáž v Kosnici,
+učitelskou, Konstanz,
+to je město u německo-švýcarských
+hranic, a tam bylo
+oddělení datový vizualizace.
+A tam mě naučili
+používat jako na ad-hoc pokusy
+jejich nájim
+k NIME,
+což je vlastně vizuální nástroj na
+vytváření datových pipeline.
+A člověk si tam natáhá čtverečky
+na čtení CSV-čka nebo JSON-u,
+potom to chci třeba
+najojnovat, a pak tam jsou právě i čtverečky
+na machine learning,
+takže mám třeba nějaký dataset
+a chci udělat
+regresy na nějakou konkrétní fitšuru, nebo
+chci udělat rozhodovací strom.
+A, nebo chci udělat
+člověk KNN
+vyhledávání. A to tam
+všechno bylo, a potom se z toho dá udělat
+i výstupní vizualizace.
+A líbilo se mi to, jak jako ten
+nástroj to hezky umožnil
+ukázat na jedný obrazovce.
+Když jsem si dělal ručně ty pipeliny,
+tak to byla hromada skriptů,
+někde na mojí ploše, prostě různě pojmenovaný,
+kde jsem si ručně
+spustil nějaké načítání, pak jsem si
+ručně spustil trénování,
+a pak jsem používal tu inference,
+a tady to člověk přehledně vidí,
+s tím, že každá ta krabička, buď to už tam byla
+od základu, nebo si ji člověk mohl dodat,
+zvlášť naprýmovat jako
+plugin, ale byl tam hezky vidět
+ten vizuální diagram toho, jak ty data tečou,
+jak se měněj,
+s tím, že si je to vlastně,
+ono to běželo furt jako desktopový software,
+takže ty data to třeba mělo uložený.
+Když jsem se rozhodl, jo, tak teď pustím
+ten experiment jen s jiným parametrem,
+tak on nemusel jít od začátku, nemusel
+jako znova prostě parsevat ty soubory
+a joinovat je, ale jako by vzal si tu poslední
+stáž, která
+jako byla ještě platná a začal
+jako by na novo s tím.
+S Nymem jsme si taky hráli v jednom z našich úspěšných
+startupů. No, bylo to super.
+Ale jako fakt, jakože to ono nám pomohlo
+v nějakých predikcích, jak hezky vidíš, co už
+doteklo, co ještě poteče.
+Šikovný nástroj, byl to open source,
+jestli si to mám tu dobře.
+Jo, byl to open source, podle mě postavený na Javě a vím, že to
+v tom názvu najmě projekt za konstant, že ono to
+vzniklo tam na té
+kosmické univerzitě. Tak to jsem nevěděl, super.
+No vidíš. A jak se dá teda
+spojit
+škola
+a jako PhD na MatFizu
+a chození do práce?
+Přeci mě to
+vzní docela, kdybych si chtěl udělat PhD, že tam
+chvilku musím bejt, ne? Musím tam chvilku chodit.
+A nebylo to náhodou v době, kdy jsi měl 50 na 50
+ještě ten úvazek, to mohlo být
+docela slušný masakr.
+Ne, ne, bylo to v době, kdy jsem
+někdy v práci toho měl dost.
+Tak jsi seště přidal
+prostě školu, jo. Ale já jsem
+tím, že jsem jim na to
+kejmlal ten doktorát, tak mu bylo blbý to ukončit.
+Jo, tak.
+Rozumím, rozumím.
+Jsi hodnej na lidi.
+Já se prostě bojím to ukončit, to je dobrý.
+Takže jsem to tlačil o večerech, víkendech.
+Někdy jsem si na to vzal
+volno a
+určitě přiznávám, že někdy jsem měl delší
+období, kdy jsem jako do toho
+neudělal nic, že jsem se k tomu vůbec nedostal.
+Že to nejde dělat po pěti minutovkách,
+tady to vyžaduje trošku nějakou cílnější
+práci, no. Takže je to hlavně silou
+vůle dotlačený.
+To už nebylo to období z opiáty
+a přesto jsi to zvládnil.
+Jo, to už bylo i bez toho.
+Paráda.
+Helena, Tomáši, já bych si tady s tebou
+samozřejmě povídal ještě hodiny a hodiny,
+ale čas je neuprostný. Prosím tě.
+Klasická otázka na závěr.
+Co tě čeká teďka v nejbližší
+budoucnosti? Co máš v plánu?
+Kromě toho, že teda teďka asi pojedeš
+zpátky domů nebo jedeš do Microsoftu?
+Pojedu někam na snídani
+a pak do Microsoftu.
+A v úplně nejbližší budoucnosti
+musím konečně napsat
+blog post oznamujeme
+F-Sharp 8, kde budou všechny ty
+featurey sepsaný.
+Každý, protože teď už to leze na Twitteru, lidi se tím
+chlubějí, tak tvým peřím,
+tak měl bys to dopsat.
+Jo, oni vlastně vytahujou
+tu prezentaci a dělají z toho tweety.
+Takže možná, kdybych si počkal dost dlouho, tak z těch tweetů
+zase já zpětně udělám ten blog post.
+Ale myslím si,
+že se k tomu dokopu a dopíšu to, aby lidi
+mě mohli co počíst.
+A potom další věc, co mě
+asi čeká, tak bude
+nalability support pro F-Sharp,
+což je vlastně jakoby jazyková
+podpora pro referenční
+typy, které ze C-Sharpu můžou a nemusí
+být nul, tak aby
+F-Sharp měl jazykový možnosti
+jak označit situace, kdy to ten nul
+rozhodně není,
+anebo kdy to ten nul může být.
+Takže hlavně na ten interop se C-Sharp
+připravujeme projektama, ze kterého ty nuly lezou.
+No tak to
+zní jako dost práce do budoucna.
+Tak my ti budeme držet palce,
+ať se daří, ať se ti daří pracovně,
+osobně, no a těším se, že se zase
+někde uvidíme a
+díky moc, že jsi dorazil.
+Jo a děkuji za pozvání, měj se hezky Tome.
+Čau.
+Za prvé je tady jedna věc, dneska
+v tuhle chvíli se stane
+několik věcí. První, že
+musíme oznámit, že dneska to je
+kamaráde přesně dva roky, co jsme
+spolu odvysílali první díl pod
+vocasem. Fakt je to? Ano, dneska, v době, kdy
+to natáčíme, takže ve středu 25.10.
+je to
+dva roky přesně na den. Ty krás.
+Vlastně tím, že teďka 9 ráno,
+tak vlastně dá se říct, že to je jako
+přesně dva roky. Takže to oslavíme, ne?
+Takže bychom to měli oslavit a nebudeme
+dneska večer slavit jenom
+to, že jsme to dva roky
+spolu takhle dávali a já doufám, že budeme
+dávat i nadále v osmé sérii.
+Ale musíme
+i oznámit jednu zásadní věc
+a to, že prostě tenhle
+podcast generuje tak strašně
+nadaný lidi a
+otvírá ty kariéry tak vysoko,
+že náš milý Petr Polipolák
+nás opustí
+už od listopadu.
+Řekneš, kam jdeš? Jo, řeknu.
+Řeknu určitě.
+Řeknu, vlastně
+téměř pět let jsem tady byl a
+neuvěřit na ně mě to posunulo.
+Takže za to jsem hrozně rád
+a vždycky to tady nezapomenu
+zmínit komukoliv to říkám.
+A přicházím do Český spořitelny
+za Tomášem Mecem,
+naším bývalým kolegou.
+Kterého jsme tady taky měli.
+Se kterým jsme to řešili
+už nějakou dobu a
+prostě pomůže mi to se zase posunout
+někam dál, řešit zásadní
+komplexní projekt, budu tam mít na starosti
+datovou doménu, takže hrozně se těším.
+Hrozně se těším.
+Pošušňám si, pošušňám si, pro
+podvocasem to přátelé nic neznamená.
+S Románkem jsme to velmi rychle vyřešili.
+Zjistili jsme, že to máme rádi.
+Podle čísel a podle
+ohlasů to vypadá, že i vy to máte rádi.
+Takže jedeme dál a já se nemůžu dočkat
+na další série.
+Slovy klasika, to byla řeč jako víno.
+Já už nevím, co dodat. Snad
+mějte se krásně, užijte si teďka
+nějakou pauzu, protože samozřejmě za 14 dní
+nový díl nebude, my si musíme maličko
+odfrknout, ale možná třeba
+ještě do konce roku vykopneme tu osmičku.
+Uvidíme, sledujte náš Twitter,
+sledujte naše webovky a
+uvidíme. Mějte se krásně.
+Ať se vám daří. Čau.
+Ať se daří tobě. Čau. Čau, čau.

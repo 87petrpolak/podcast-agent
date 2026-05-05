@@ -1,0 +1,2070 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Krásný den, milí posluchači, vítáme vás u dalšího dílu vaší oblíbené IT roadshow s názvem Pod vocasem.
+Takhle jsi to nějak chtěl, Foli, jo?
+To je geniální, já jsem věděl, že to nevydržím, se nesmát.
+Já jsem chtěl ještě takový to jako...
+Naproti mě sedí jako vždycky božský Petr Polipolák.
+A naproti mě je dneska Roman Joker, Karel Gott provozník.
+Ano, krásný den, milí posluchači, tak jak jsem slíbil na konci poslední série,
+že tu novou pakliže bude a ona, jak právě slyšíte, bude,
+tak začnu jako Karel Gott, to jsem slíbil, tím to mám splněno a končím s takovýma kremama.
+No hele, splněno. Mně tam ještě pořád jedna věc chybí, že bys to i zaspíval,
+ty zvonky šťastně, tak si to necháme zase na další opening,
+nějaký další sezón.
+Já jsem nad tím přemýšlel a problém u těch zvonek, u zvonků štěstí,
+je ten, že já to zpívám hrozně dobře jenom, když jsem nalitej.
+A my většinou natáčíme střízlivý.
+To je pravda, ale tak co není může být?
+Jo, jo, to musíme nějak jako vyřešit dlouhodobě, prostě tenhle ten problém,
+pokud chcete posluchači slyšet zvonky štěstí, bude muset udělat nějakou podvodcací party.
+No tak Románku, nová série, jak se máš?
+Mám se krásně, no neviděli jsme se, řekl bych, relativně dlouho,
+protože jsme hrozně rychle dotočili, pak jsme se neviděli, rozhutekli jsme se po svých povinnostech.
+Byl jsem na Nalejvárnách teďka nedávno, což bylo úplně skvělý,
+protože jsme zase objeli pobočky, byl jsem v Hradci, ve Zlíně, v Bratislavě.
+A bylo hrozně milý, potkal jsem několik posluchačů, který skutečně přijeli na ty pobočky
+jenom proto, aby mě potkali fyzicky. To bylo hrozně příjemné.
+To je hezký.
+Protože já vidím jenom čísla, že jo? Já jsem na tím vlastně naše fanoušky moc neviděl,
+jako občas se někdo vozne, tak to je fajn. Takže bych taky měl někam věc,
+abych vás všichni potkal a viděl a pokecal.
+A máme i posluchačky dokonce. Většinou jsem čekal, že tam budou chlapi,
+ale v Bratislavě dokonce do mě vrazila jako velmi původná slična,
+která říkala, že nás poslouchá, že to je fakt jako dobré,
+že nás počívá pravidelně a dobré, to je Roman, dobré,
+můžete aj věcero nahrávat. Takže děkujeme pěkně.
+Takže dvakrát jedně dále.
+No a dneska to vykopneme, řekl bych zase back to the roots,
+zpátky ke kořenům. Dneska budeme mít vyloženě takový
+programátorský pokec, jsem si to nazval. Protože jsem už dlouho lanařil
+svého známého z komunity, Michala Augustína,
+který je takovej, zase řekl bych, jako by všude bílek,
+to znamená člověk, který pracuje v Avastu,
+který chodil na F-Sharpingy, co jsem organizoval,
+který se jako hodně vyskytuje v těch komunitách, je docela aktivní,
+má docela už i fousatej blok, k tomu se taky dostaneme.
+A já jsem mu už hrozně dlouho, jsem mu lanařil, říkám tak přijď k nám,
+pokecáme. On říkal, ty se zbláznil, teď tam máte takový šajby,
+že jo, teď tady na posteli prostě Tomáš Mikolov a to.
+Říkám, ale z toho si nic nedělej, pro nás, my nerozlišujeme,
+pro nás každý je zajímavý, takže přijď. Podařilo se mi ho dohnat
+opravdu k tomu, aby dorazil. Zatím teda nevím, jestli stepuje za dveřma
+nebo ne, protože říkal, že může mít lehký spoždění, ale slíbil,
+že dorazí a dneska se na to těším. A vezmeme to sakum prdum zase.
+Já to viděl. Mikroservisy, prostě branching, no prostě takovej ten,
+jako když se srazí programátoři v kuchynce a chtějí si dát pokec.
+No já to viděl, ty si říkal, ať tam se píšu nějaký dotazy,
+po tom, co ty si sepsal dotazy. Říkal, no tak to bude pěkný dneska,
+to dneska budu další divák. Tak jsem tam sepsal právě pár jich
+a některý mířejí na to, co si řekl všudy Bílek, že vlastně mi přijde,
+že se namočil do spoušty věcí a zajímá mě, jak to hezky propojil.
+Takže já budu dneska víc posluchač, ale taky se určitě rád.
+Ale ty si najdeš to svoje, protože co si budeme povědat,
+je z Avastu a jestli tady v dnešní době někdo má tu nudat,
+tak je to Avast. Tak jako něco tam bude.
+Jak já si chci dělat antivír, než tím, že to s ničím porovnáváš.
+A to se taky můžeme zeptat. No pecka, těším se, jdeme pro něj.
+Tak jo, jdeme pro něj. Ve studiu s námi sedí náš dnešní host,
+Michal Augustín alias Augi. Čau. Čau, čau, kluci.
+Ahoj, Michale. Tak ty jsi měl hned po ránu takovou, řekněme,
+peripety s autem. Jo, jo, jenom mi odešla vaterka u auta,
+takže jsem musel vzít jiný auto, ale druhý auto.
+Potřebovala žena. No a k tomu míři.
+Takže jsem musel přijet svojí víkendovkou. Naštěstí mám tři auta.
+Takže vzal třetí auto. Ty máš teda tři auta, jo? To je zajímavé.
+No, já jich mám trošku víc, ale... Jo, takhle. Takže ty ještě zbíráš auto.
+Tak tomu se musíme taky dostat. Samozřejmě, Michal, jak jsem říkal,
+už v úvodu je člověk, který se v IT komunitě pohybuje už taky nějaký ten rok.
+Aktuálně, pokud to říkám správně, tak jsi ještě pořád pod vlajkou Avastu, jo?
+Jsem pod vlajkou firmy, která dřív byla Avast.
+Jo, takhle. No jo, vlastně. Tak možná to rovnou uveď na pravou míru.
+Jo, jo, jo. Je to tak, že vlastně asi před půl rokem se Avast součil s firmou Norton.
+Teďko tvoříme novou firmu, která se jmenuje Gen Digital.
+To znamená, že děláme produkty pro tu digitální generaci.
+A máme pod sebou teda hromadu různých brandů, který jsme nastřádali takhle tím různým slučováním.
+To znamená, kromě Avastu je tam ještě AVG, za kterým jsme se vlastně slučili před několika lety.
+A z druhé strany tam je třeba Norton nebo Avira.
+Má to na tebe nějaký vliv? Rovnou, když do toho agenskočíme?
+Jo, jo, má to velký vliv na mě.
+Jednak se mění ta firma jako taková.
+Místo tisíce zaměstnanců, tam jsou tří tisíce zaměstnanců.
+To je kráso.
+Ale to je spíš takový globální pohled na tu firmu, ale mění se i to moje okolí, okolí toho týmu.
+A věci, na kterých děláme, že integrujeme ty systémy s těma firmama, se kterýma jsme se slučovali.
+Nebo který nikdo koupil.
+Tak možná úplně, já bych to vzal úplně od píky. Klasika.
+Nejdřív, pokud tě posluchači náhodou nepotkali na nějaký...
+Komunitní akci, kde se tu a tam taky objevíš, tak nám řekni něco o sobě, nějaký začátky.
+A pak vlastně můžeš klidně i tu cestu toho, jak ses dostal do...
+Jak byl ten název? Něco digital?
+Gen.
+Gen digital. Děkuji.
+Takže až tvoje cesta do gen digital.
+Jo, jo, jo. Tak začal jsem asi jako většina z nás, jako z naší generace.
+To znamená někdy v patnácti na střední jsem začal s programováním v Paskalu.
+Klasicky to prošlo do Delphi.
+A pak se vlastně objevil C-Sharp, ve kterém jsem začal dělat vlastně úplně od prvotní verze.
+Myslím, že to byla tenkrát dotnet 1.0.1.1.
+A pak jsem teda studoval na elektrofakultě a hned jsem vlastně nastoupil do Avastu.
+Respektive mohl jsem nastoupit do Avastu už jako během studia,
+ale já jsem tenkrát chtěl klidně dokončit diplomku, takže jsem hned po studiích,
+což bylo před patnácti lety, nastoupil do...
+Alville Software.
+Počkej, ty jsi tam patnáct let?
+Takže teď jsem tam uslovil patnáct let.
+To je masakr.
+Ty vole, to je ústý.
+Tak to teda velkej respekt.
+No a tvůj teda první programátorský dotek, první jazyk, to byl teda si říkal Paskal.
+Byl to Paskal, ale protože mě hrozně bavila grafika, takže jsem rychle přešel na Assembler,
+abych byl schopný dělat věci rychlý.
+Já se pamatuju moje první setkání s tebou, byť virtuální, bylo ty si poměrně rychle po tom,
+od netu, tak si začal mít svůj blog, který do jistý míry funguje až doteď.
+Já jsem se s tím včera prolejzal.
+Hledal jsem ten svůj dotaz, protože já jsem tenkrát, když jsem někdy 2.9.
+Jako začínal s MVCčkem nebo něco takovýho, tak já jsem se tam potřeboval Michala na něco zeptat.
+On mi samozřejmě neodpověděl, protože tam jako lítaly dotazy, tam tenkrát prostě diskutoval,
+nevím, Aleš Roubíček a Borek Bernard a tyhle lidi už to tam prostě frčilo.
+Já jsem se tam chtěl mezi ně jako vprsit a už jsem to nenašel, ale vím, že jsi vlastně hrozně
+rychle v té, v té éře toho blogování o tom začal psát.
+Jede pořád ještě blog? Píšeš ještě nějaký?
+Nepíšu. Technicky jede, ale nic nepíšu.
+Asi jsem se dostal do nějaký fáze, že vím, že nic nevím a je mi hloupý takhle něco psát,
+protože mám pocit jako, že to neznám dostatečně.
+Takový ten.
+Jo, jo, jo.
+I post-syndrom.
+Jo, jo.
+Takže ty jsi došel.
+Jo, jo, jo.
+No a to jsi neměl teda 2.9?
+No to ne, to ne, no jsem byl prostě mladý a myslel jsem si, že všechno je nejlíp a nevělal jsem se
+u všem psát a u všem přednášet na konferencích a.
+Ty jsi tam měl tenkrát nějaký hejt na JavaScript si pamatuju, to byl článek, který docela rezonoval.
+To právě nebyl hejt.
+Nebo hejt, to byl takový jako tvůj pohled.
+No, ale bylo to takový edukativní článek, nebylo to jako o názoru, ale bylo to o tom,
+že jsem popisoval, jak vlastně JavaScript funguje.
+Ale vím, že tenkrát Dana a ostatní některých, který jsou jako velký javascriptáci, se tam dotklo,
+že jsi tam chtěl, nevím, šát na prototype a tyhle z ty věci.
+Jo, jo, jo, pak jsem udělal verzi V2, kde jsem to trošku jako upřesnil, jak jsem to myslel.
+A to byl zhruba jaký rok?
+Tak 20, 21.
+Takže to se diskutovalo jako v diskuzi pod tím článkem.
+No, no, no.
+To ještě nebylo kde jinde diskutovat.
+No jasně.
+Jo, jo, to Twitter začínal.
+A nechybí tě to ty doby takový toho blogování a teď linkování se na vzájem a hádání?
+Já vím, že teďka je to tady, když se tři starci jako srazejí a vzpomínají na starý časy.
+Ale ta doba byla, co se týče blogů, velmi specifická v tomhle.
+Byla, no, ale je to asi už za náma tahle doba, no.
+Já se například myslím, jestli vůbec ten koncept blogů ještě jako existuje, funguje, jo.
+Asi jo, ale podle mě v menším, jako, že ten text musí být menší, ne?
+Mně přijde, že je ta, ty lidi prostě nejsou už jako z toho, prostě přečíst něco dalšího.
+No, ona je, jenomže teďka lidi dělají tu kretenskou věc.
+Měla úplně vždycky u toho trnu vsteky, že oni řeknou, tady je zajímavost, kterou jsem zjistil od JavaScriptu.
+Jedna lomeno 27 tisíc, polepěcí v kredu.
+A prostě ty musíš teď to číst po těch kousích, jak kdyby ti to někdo říkal vysílečkou v druhý světový válce, ty vole, neměl dost času.
+A mě to vždycky úplně irituje. Říkám, tak to hoď na nějaký, na médium, nebo někam, když těch platform je omrdesát.
+Ne, prostě, on napíše thread, vole, o 47 kusech, prostě.
+A pak vždycky hledáš komentář a hledáš, v jakém tom threadu se ten koment rozjeli, že?
+Ano, no a kdy to skončilo, protože většinou se rozdovádí a zapomíná, že to bylo jedna lomeno 47 a už je na 57.
+Peklo, peklo.
+Já jsem tenhle koncept taky jednou zkusil a mělo to docela dobrý ohlas na tom Twitteru.
+Mělo?
+No, no, no, ale bylo to třeba jenom do 20 a bylo dobrý, že to bylo jako pohodlně napsat, že to opravdu tam byla nízká ta vstupní bariéra.
+Že jsem to mohl v klidu naklikat na tom, na tom telefonu, na ten Twitter a...
+Ok.
+No a to si cítíš dneska taky ne, ale na nějakým...
+No dá se to, dá se to. No je to o tom prostě zjednodušit to do toho Twitteru a napsat a tady je článek delší.
+Já chápu, že ten první, to je takový ten clickbait, který...
+No, no, no.
+Tady je 47 tisíc knížek, bez kterých...
+Váš život prostě nebude plnohodnotnej a pak jsou tam ty jednotlivý odchazy, rozumím.
+Jakože ten první je de facto perex.
+Jo, jo, jo. Ale znamená to teda, že jsi z blogu přešel na Twitteru učet? Můžou tě lidi vidět a číst si Twitterový příspěvky?
+No právě jsem to tak jednou zkusil třeba něco takhle napsat, ale ne. Spíš Twitter používám jako na čtení.
+Jo. A co tam čteš nejvíc? Nějaký zajímavý zdroje?
+To takhle asi nedokážu říct, zlovy.
+Vy teda všichni...
+Stejně čteme Borka, který...
+Jo, jo, jo. Ten asi nejaktivnější.
+Toho mám vytapetovanýho tam.
+Jo, jo, jo.
+No a ještě, když se maličko zastavíme u té tvý stránky. Ty tam máš katalánštinu, jo? Když se podíváš na ty hlavní kategorie, tak tam je jako programování a myslím, že tam máš i auta, ne?
+Mám tam auta.
+Auta. K tomu se teda ještě chci taky dostat. A pak tam máš katalánštinu. A to mě zaujalo, protože mi samozřejmě v současní době tady ve firmě katalánštině rezonuje, protože děláme na jednom projektu pro Andoru. A co na to máš rád? Jak ses vůbec dostal ke katalánštině?
+Ale byla to úplná náhoda. Úplně jsem... Tehdy jsem byl na vejštce, tak tam byl letáček, jakože tady v Praze probíhají bezplatný kurzy katalánštiny. Tak jsem si jako vygooglil, co to je katalánština.
+A...
+A...
+A chtěl jsem se tam vyzkoušet a chytl mě to. Nejde v tom jako žádný, nic silnějšího.
+A nechtěl jsi třeba skočit na španělštinu? Je to podobný, ne?
+Jo, jo, jo. A já jsem předtím asi půl roku dělal španělštinu.
+Jo, takhle.
+Takže jako jsem trošku už jako inklinoval k tím románským jazykům.
+Je to podobný? Rozumíš si ty dva jazyky?
+Říká se, že je to jako čeština a polština.
+OK.
+Takže to záleží třeba na tom odkud si...
+Protože je blíž teda.
+Odkud si...
+No, no, no. Jsou takový jiný jazyky.
+Aha, aha. No mně se to bude hodit, protože já jsem stále ještě to svý peripety s tím, s tou pokutou nedořešil.
+A jo, jo, jo.
+Protože mi zatím vlastně přišlo jenom to jako upozornění v kataláštině, který jsem si teda přes Google Translate nechal vysvětlit,
+že pokud ještě tam někdy přistanu, tak asi půjdu do vězení.
+Ale dvotý do vězení nic nestalo, tak já nevím.
+Takže když tak kdybych tím někdo volal ve tři ráno, tak jsem to já, prosím.
+Jo, jo, jo.
+No a ještě teda k těm tvým autům.
+To je další takový zajímavý koníček.
+V době, kdy se tady řeší, jestli nebudeme náhodou v Prahu jezdit jako 30 kilometrů hodině nebo na zpátečku.
+Tak ty kolik máš aut?
+No, mám jich víc než tři.
+Víc než tři, dobře.
+Nebudem říkat kolik, aby náhodou tady jako Augustinovi nevykradli.
+Ale jsi zaměřený na nějakou jednu značku?
+Jo, jo, jo, mám rád japonský značky, konkrétně nevíc Subaru, ale obecně japonský značky mě lákají nevíc.
+A občas vezmeš to na okruh někam?
+Jo, jo, jo, jezdím na okruh a i nějakým amatérským závodem jezdím.
+Ty krása, tak to je super, ty jo.
+Vlastně dřív jsem to jezdíval na simulátorech, když jsem byl malej kluk, tak jsem byl rád, že jsem si to mohl splnit.
+Jasně Colin McRae a tak, jo?
+Jo, jo, přesně tak, přesně tak.
+Jo, to jsem si úplně připomněl, to už jsem si dlouho vůbec nezahrál.
+Ty vole, že tohle je strašný díl, my tady celou rohu budeme vzpomínat.
+Ne, jdeme, ale dobře, jdeme kousek dál, jdeme do Avastu, takže tvůj blog jsme projeli, víme co a jak.
+A teď teda, ty jsi před, říkal, 15 lety se nastoupil do Avastu.
+Pamatuješ si první den, kdy jsi tam přišel, jak ta firma vypadala?
+Pamatuju, pamatuju. Bylo nás tak 50 lidí, byly to malí kanceláři ve strašnicích.
+A no, a byla to prostě taková malá firmička, ale která v mých očích,
+proto jsem se do ní vlastně jít, jakože měla ten potenciál být jako s globálním dosahem.
+Což se stalo.
+To se přesně stalo, takže jsem sadil na správnou kartu, bylo to jako, bylo v tom nějaký štěstí.
+No a ještě mnohem zajímavější je, co ti tam vlastně udrželo, jakože reálně 15 let, to je brutální.
+Jo, jo, já jsem vždycky chtěl dělat něco, co bude mít nějakej dosah a bude třeba,
+jako pomáhat společnosti a tady ta počítačová bezpečnost mi přijde,
+že mi to umožňuje tady to jako realizovat, to je jako jedna složka a další složka je,
+že právě, jak jsme se bavili o těch různých slučováních firm, tak ta firma, ve kterých jsem teď,
+není ta, do kterých jsem nastupoval a ten progres tam byl jako velkej, takže.
+No a jak jsem vlastně změnil tvoje role za 15 let, protože předpokládám,
+že ty jsi prošel taky nějakým vývojem.
+Podle mě 15 let v jiný firmě by znamenalo, že když už spůlky nepovedeš,
+budeš někde vedet pana Vlčka, takže budeš minimálně nějaký jako stav senior,
+stav VP of whatever, ale to mně přijde, že ty jsi pod takovej jako hodně close to metal,
+hodně blízko k tomu kódu.
+Jo, jo, je to tak, já se nějak necítím na to, abych vedl lidi, nechci být manažer,
+nemyslím si, že bych v tom byl dobrý, takže se posunuji,
+v tom, jak se dneska říká, že dneska jsou dva tracky v firmě,
+že je ten individual contributor a manažer, tak já vlastně pořád jako by se pohybuju
+v tom, řekněme, techničnějším tracku a to mě vlastně vyhovuje.
+Ale stejně se to muselo nějak vyvinout za tu dobu, ne, u tebe?
+Jasně, ale tak u ní se jim, jako by měnil se i ten žebříček těch rolí v té firmě,
+jak ta firma se měnila, že jo, teď se to zase měnilo, já ani nevím, jak se jmenuje moje role.
+Vždycky přijde mail, od dneška seš tohle, díky.
+No, no, přesně tak, přesně tak, jakože poslední, co si pamatuji,
+jsem byl lead software engineer a teďko jsem principal of něco, já nevím.
+No taky, no vždycky.
+Ale právě ještě pořád jako probíhá ten merchivou firmu toho Avastu a toho Nortonu,
+takže to je jedna z věcí, která taky ještě není úplně jako ustálená a finální.
+U toho merče, abych se možná trošičku ještě zastavil,
+ten vlastně má vždycky jako několik levelů.
+První je, řekněme, ten lidskej.
+Tam předpokládám, že tam to nějak jako funguje, ne?
+Nebo jsou tam taky tření?
+Lidskej, Norton nemá lidi vlastně v Česku.
+Takže tam je to v pohodě.
+Takže...
+To je spíš jako řekněme na prvním levelu, asi ne?
+Asi jo, asi jo, no.
+No ale pak druhej level je ten technický.
+A tam předpokládám, že to pokud opravdu nejste úplně ze stejného těsta
+a ze stejného texteku, že tam k tomu skřípání už může dojít, ne?
+Jasně.
+My jsme si vlastně tím samým už prošli tenkrát,
+když Avast vlastně kpoval AVGčko,
+takže jsme museli udělat nějaké technické rozhodnutí,
+nebo museli jsme udělat rozhodnutí, jak budeme pokračovat.
+A to jsme tenkrát dělali jako velmi pragmaticky,
+že jsme si doopravdy z každé strany vybrali to lepší
+a snažili jsme se, aby ta výsledná firma používala
+jako by to nejlepší z obou stran.
+A stejný princip vlastně aplikujeme i teď.
+Takže když se zeptám,
+že mám jednu...
+To je jednoduchá otázka, která je vlastně ve svým podstatě
+strašně složitá při velikosti té firmy,
+ale ten hlavní textek, to v čem, když jsem vývojář,
+tak dělám v tom, v té nějaké technologii,
+tak asi najdu práci v...
+Ty vole, já si nezapomnu tuto jméno.
+Gen Digital.
+Gen Digital, napiš mi to tady po ní.
+Gen Digital, prostě poměříte furt Avast.
+Pardon, omlouvám se, posluchači.
+Pojď, děkujeme, pojď.
+Gen Digital.
+Takže jak je ten hlavní textek?
+V čem si jako programátor najdu u vás práci?
+Jasně, tak tam má zážít, co by si konkrétně dělal.
+Pokud půjdeš dělat třeba toho klienta,
+jakoby tu aplikaci, která běží u lidí na počítačích,
+tak to budeš dělat v C++.
+Jo.
+Ale pokud půjdeš dělat back-endy,
+což je to, co dělám já,
+tak můžeš dělat Python, Javu, Skalu...
+No, Ruby, ne, Ruby.
+Water.
+Rust.
+Rust.
+To byly třeba ty nejrozší řešení.
+No ale ty jsi dotnetňák, ne?
+Jako původem je tam nějaký...
+Jo, jo, jo, máš pravdu.
+Ještě je tam dotnet,
+ale ten je jakoby takovej...
+V našem týmu je takovej upozaděnej,
+že už jako ho nebudeme asi dál jakoby rozvíjet.
+Ale to je z toho důvodu,
+že před několika lety,
+když vlastně ještě ani nebyl dotnet core a tak,
+tak jsme potřebovali dělat aplikace,
+který...
+který budou zádat fakt velkej load
+a tenkrát naše infrastruktura byla postavená na Linuxu
+a v té době provozovat dotnet na Linuxu
+nebylo úplně ready.
+Samozřejmě existovalo mono
+a tenkrát jsme experimentovali
+i s prvníma beta verzema dotnet core,
+což fungovalo teda jako bezvadně,
+ale není to úplně nic,
+beta není úplně to,
+co by člověk chtěl provozovat na produkci,
+aby za to zodpovědnej.
+Rozumím, rozumím.
+A když to teda,
+rozdělíme,
+to znamená, říkal jsi,
+klasický ty aplikace,
+tak jak je známe,
+když se nainstalujeme,
+běží nám to v počítačích
+a pak je tam ten backend.
+Co to všechno odnáší,
+ten backend?
+Předpokládám,
+že tam jako omrdesá dat,
+se kterýma pracujete
+a na kterýma se dělá
+nějaká další chytristika,
+analýza a tak dále.
+Nebo co to je backend vlastně?
+Jasně, jasně.
+Tak těch backendů,
+s kterýma konvinkuje ten klient,
+je víc.
+Třeba jeden z nich je takovej,
+který vám tam vyskakuje
+a zobrazuje takový ty reklamy
+nebo nabídky,
+co byste si mohli koupit
+za lepší náš produkt.
+Tak to je třeba samostatný
+jako backend,
+na nějaký messaging
+směrem k uživatelům.
+Pak důležitý backend je třeba,
+který řeší licencování,
+který s tím vlastně
+trošku jakoby souvisí.
+A to není to,
+co dělám já,
+ani jedno z toho.
+Já právě dělám v,
+říká se tomu asi virus lab
+nebo obecně threat labs.
+To znamená,
+že my opravdu děláme
+ty backendy,
+ten náš tým,
+který je zodpovednej
+za tu bezpečnost.
+To znamená,
+že dodává tomu klientovi
+informace o tom,
+jak chránit naše uživatela.
+Takže on dostává ten klient,
+řekněme,
+nějaký jako sample
+těch virů
+a podle toho.
+No, nějaký updaty.
+Nějaký paterny,
+podle kterých on pozná.
+No, no, no.
+To je jedna věc,
+že dostává nějaký paterny,
+takže on se pak může
+rozhodovat lokálně,
+ale za určitých situací
+i posílá nějaký informace k nám.
+To znamená,
+že třeba se mu nezdá,
+že se tam děje něco špatného,
+tak si spočítá hash toho souboru
+a pošle nám ho na backend
+a zeptá se nás,
+co si o tom hashi myslíme.
+Jak často se tohle mění
+v dnešní době?
+Jak rychle vznikají nové viry?
+Já se pamatuji jeden čas,
+že se ho šlo de facto
+jako naklikat
+v nějakým vizáru,
+byť samozřejmě pak ten patern byl
+asi jednodušší a odhálitelný,
+protože to bylo furt na jedno brdo,
+ale byla móda,
+že si mohl vygenerovat vlastní vir.
+Jak je to teďka s virami?
+No je to tak,
+že ten náš biznis,
+ten antivirovej
+a ta druhá strana,
+ten virovej,
+tak to je jako neustálej boj
+a samozřejmě oni jsou
+pořád jako o kousíček napřed
+a my je pořád doháníme,
+ale snažíme se je předehnat
+různýma heuristikama
+nebo nepsat ty detekce
+úplně jakoby tupě,
+že to bude právě jenom patern,
+ale i na základě třeba
+nějakého chování a tak dále.
+Tady možná nahraju
+Polimu na jeho typickou otázku,
+jak do tohohle v dnešní době zapadá
+AI a obecně nějaké učení,
+protože to zrovna si myslím,
+že je oblast,
+kde máte spoustu dat,
+ze kterých se dá naučit,
+jak by asi virus měl vypadat
+nebo se měl chovat v tém příští.
+Jo, jo, je to určitě jedna z věcí,
+kterou používáme,
+ale dělá to vlastně
+jiný tým v Threatless,
+takže já spíš jsem zodpovědnej
+za to, že jim dodáváme
+ty správný data,
+na základě kterých se
+ty jich modely učí.
+Já byl tenkrát překvapenej
+vlastně na Machine Learning Prague,
+někdo z Avastu vystupoval
+a hodně tam prosazoval
+rule-based algoritmus,
+v podstatě rule-based metodiku,
+to znamená,
+ne vlastně ten Machine Learning
+zapojený a založený na datech,
+takový ten black box,
+jako ho dneska všichni známe,
+ale opravdu rule-based věc,
+tak to by mě zajímalo,
+jak to tam funguje dneska,
+jestli to je pořád koncepce,
+kterou držíte,
+ale ty jsi říkal,
+že to je v jiném týmu.
+To je v jiném týmu,
+takže to je podrobnostně.
+Pro mě to je jaký black box,
+že sypeme do toho všechny data,
+co máme a oni nám dávají
+nějaký apíčko na základ,
+kterýho my...
+Jo, to jsem se chtěl zeptat.
+V podstatě fungujete jako dva udělené týmy,
+které komunikují přes nějaké apy,
+které posílají vám nějaké věci,
+které jsi potom zpracovával.
+Jo, přesně tak.
+Tak pojďme teďka na ten slibovaný
+hejt na skalu,
+protože my když jsme si s Augiem psali,
+a bavili jsme se o čem bychom
+tak chtěli se tady povědat,
+tak hejt na skalu,
+to tam bylo top number one.
+Fakt?
+No jasně.
+Takže proč hejt na skalu?
+Já si točíš pamatuju,
+mimochodem nedávno jsem projížděl
+starý fotky kluňákým zálohám
+a mám tam právě Augieho fotku
+z nějakého F-sharpinku,
+kde byl vyfocenej v tričku skala.
+A teď teda nevím,
+jestli to byl sofistikovaný trolling,
+který jsem za ty roky neprohlíd,
+nebo si prošel nějakým vývojem
+od miliúto až po pojďme to hejtit.
+Jak to je teda?
+Jo, tak asi nejsem hejter.
+Spíš možná ten hejt je v tom smyslu,
+že když se člověk o něčem
+třeba na Twitteru zmíní,
+že se mu něco na skala nelíbí,
+tak se na něj slídne ta komunita
+a hrozně se to nafoukne.
+Ale je teda pravda,
+že skala je technologie nebo jazyk,
+který bych netoporučil
+pro produční použití.
+Fakt?
+No, ale to asi potřebuje nějaký vysvětlík.
+No určitě, protože my už jsme tady
+o skale měli díl
+a ten vyzněl trošku jinak teda.
+Jo, mimochodem to byl díl s Ondrou Palechem,
+s kterým jsem několik let saděl v kanceláři
+a spolu jsme tu skalu dělali.
+Hezký, pěkně.
+No tak pojď,
+vysvětlovat teda.
+Jo, já bych ji nepoužil proto,
+protože ta komunita je hrozně malá
+a je rozstříštěná.
+A vlastně to znamená,
+ta rozstříštěnost té komunity
+se promítá i v tom,
+že, řekněme, že skala
+třeba pro práci s asynchroním kódem
+používá nějaký concept futures,
+který se ale vlastně moc nepoužívá
+a místo toho se používají
+nějaké jiné knihovny.
+Takže ty jiné knihovny,
+které umožňují tu práci,
+jako s asynchroním kódem,
+nebo obecně s monádama, tak...
+Proto to zajou, ne?
+Jo, jo, přesně tak,
+to je jedna z možností.
+A tak jich je jako víc
+a to vlastně tříští tu komunitu,
+která je ale už takhle hrozně malá.
+To znamená,
+že pak i jakoby najít člověka,
+který bude umět skalu
+a ještě bude ochotnej,
+protože ty lidi jsou často vyhraněni
+v té komunitě,
+bude ochotnej dělat
+jako tu konkrétní skalu,
+kterou ještě jako potřebuješ,
+protože ji používáš v té firmě,
+to vidím jako problém.
+Ale možná je ještě potřeba říct,
+že jsou dva pohledy.
+Jedna věc je,
+kdybych byl jako jenom programátor
+a jenom by mě bavilo psaní toho kódu,
+tak to je jeden pohled.
+A druhej pohled je ten,
+který u mě možná
+asi v posledních letech převažuje.
+A to je ten,
+že cítím zodpovědnost za to,
+co dělám
+a chci, aby kdyby...
+Mě srazoval autobus.
+Tak, aby ta firma
+nebo ten produkt
+byl schopný pokračovat.
+A tady v tom vidím
+velkou nevýhodu,
+že není jednoduchý
+sehnat skalistu,
+který bude ještě dělat
+tu skalu, kterou já potřebuji,
+aby on dělal.
+No a čím to teda je?
+To už ještě další.
+Já myslím,
+že i tohleto jsme zmiňovali
+vlastně v tom díle s Ondrou,
+že když se někoho zeptáš na skalu,
+tak on ti řekne,
+že ji dělá,
+ale dělá buď dělá
+jako Java video
+a nebo dělá Haskell
+v jiný syntaxi,
+že to je tak rozšířený
+nebo ty směry
+jsou si tak nepodobný.
+Je to teda tím,
+že to ten jazyk umožňuje vůbec
+nebo čím to je?
+Nebo to se není schopná
+ta komunita dohodnout?
+Já teda musím říct,
+že C Sharp je chvílem
+a v tomhle velmi podobnej,
+protože už se ten syntax
+taky tak jako rozskla
+do všech směrů,
+že vlastně někdo řekne,
+dělám C Sharp,
+tak moje automatická otázka je,
+a je v průzmě v jaké verzi ho dělat,
+kterou syntax si používáš.
+Takže je to tím jazykem samotným?
+Jo, podle mě to je spíš tím,
+že tam není dobrá
+ta bázová knihovna,
+která by právě umožňovala
+tyhle základní věci.
+Protože tohle, co říkáš
+třeba v tom dotnetu,
+tak když například používáš
+nějakou knihovnu,
+tak tobě je asi jedno,
+jakým stylem jsi napsal tu knihovnu.
+Více méně.
+Ale tohle třeba v té skale možný není,
+protože tam, když je nějaká knihovna napsána
+za JOU,
+tak ji nepoužiješ v aplikaci,
+která používá nějaký jiný framework.
+Je pravda, že tam to bublá až úplně nahoru,
+že jo?
+Takže si z té modáry nevyskočíš
+jinak než úplně na tomto plevelu.
+Přesně tak.
+Je pravda, že u dotnetu C-sharpu
+tam, pokud je to async,
+tak víš, že je zatím TPL,
+jsou zatím tasky
+a je to jedno, jak je to vevnitř.
+Přesně tak.
+To je ono.
+A tohle teda autor skaly nechal,
+jako mu tohle ušlo?
+Nebo je zatím třeba zase záměr,
+že spoustu lidí, spoustu tvůrců jazyku
+jsou takový,
+jako ať si to vyřeší komunita.
+Já jsem otevřenej takový ten velmi,
+řekněme komunitní pohled na to,
+že ono se to přeci vyřeší tam,
+kde bude větší síla,
+tam tím směrem to půjde.
+Proč to tak je?
+A to bychom se museli asi zeptat
+Martina Oderskýho,
+proč to tak myslel.
+Aby možná to někde řekl,
+ale já to nevím.
+Ale je to přesně tak, jak říkáš.
+To na mě působí,
+takže dali něco k dispozici
+a ten zbytek, ať si dotvoří komunita.
+Ale na druhou stranu,
+tam je nějaká práce s tím asynchronním kódem.
+Už v tom jazyku jako takovém.
+Takže spíše to převzali špatní lidi
+a táhnou to špatným směrem, myslíš?
+Nebo v úvozovkách špatným směrem.
+No za mě asi ten problém je,
+že tam není nějaká centrální autorita,
+jako je v případě dotnetu Microsoft.
+Nebo v případě Kotlin,
+kterou se tato dá možná považovat JetBrains,
+která by jako udávala ten jeden směr,
+aby tam nebylo to třištění.
+Je pravda, že teďko třeba začíná
+hodně převládat ten ZIO,
+že to se začíná stávat standardem,
+takže tady ten problém možná zmizí.
+Že ta komunita nebude tak rozstříštěná
+a ty knihovny nebudou tak rozstříštěný.
+Takže možná, že se i ve skalém světě
+blízká na lepší časy.
+Ale z mýho pohledu ta skala
+měla nějakou trakci před pár lety
+a dosáhla svýho vrcholu
+a od týdny mi přijde, že stagnuje
+až upadá.
+Když jsem se díval na poslední statistiky
+ze Stack Overflow,
+tak mi přišlo, že to tak je.
+No a to jsem se chtěl právě zeptat,
+jestli to vlastně je vidět už i na tom trhu
+a bejt skalistou
+a uvědomovat si tohle, co říkáš,
+tak kam switchnout?
+Má se zaměřit na ten jeden konkrétní framework?
+Nebo kam by měl utíct?
+Protože ta skala
+se několik let používala,
+tak myslím si, že těch nabídek je dost.
+A stejně jako třeba ten Ondra Pelech,
+ten dělá vlastně taky pro globální firmu,
+že dělá z Česka
+pro firmu, která není v Česku,
+tak pokud někdo má rád
+tu skalu a vyhovuje mu to,
+tak není problém na její práci,
+podle mě. Je to stejně jako
+s Kobolem třeba.
+Hezký říkal.
+To jsem poškalistů moderní.
+No a tak teda,
+ty když si říkal, že
+už tě zajímá i co bude,
+až tu nebudeš, řekněme,
+tak vlastně kterým směrem to teďka táhneš?
+Od té skaly teda to táhneš kam?
+Jo.
+Tak jak jsme se bavili, dřív jsme používali
+ten dotnet, pak jsme přišli
+na tu skalu, která nám měla dát tu
+asynchronost
+a dobrou výkonnost na Linuxu,
+což ta splnila,
+a za to jí vděčíme,
+na to byla dobrá ve svý době,
+byla dobrá volba,
+ale dneska píšeme většinu
+backendů v Pythonu.
+V Pythonu? Takže se zpátky
+vrací Python, já to slyším
+zleva, zprava, možná zase i s tím rozmachem
+toho AI, a že všechny
+knihovny, kde chceš dělat
+s matematikou víc, než se číst dvě čísla,
+tak jsou většinou v Pythonu,
+tak to je moda jako prvce.
+A nemá to žádný problémy
+třeba s performance nebo s rychlostí?
+Nic takového?
+Mě to trošku připomíná i tu situaci, která byla
+třeba před těma deseti lety v tom
+JavaScriptu, kdy taky vlastně JavaScriptu
+byla prostě pomalá věc, ale pak se začalo
+vylepšovat ten interpret,
+ta V8 a tak,
+takže...
+A dostala se ta performance úplně někam jinam,
+tak podobně to vnímám i v tom Pythonu.
+Mě teda náš tým
+nedělá žádný takovýhle jako
+mináročný matematický operace,
+ale kdyby jsme chtěli, tak tam taky existují
+knihovny, které jsou naimplementované
+v C normálně,
+takže ta performance
+tam s tím problém není, ale
+my, co děláme takový ty krudařinky,
+řekněme,
+tak s tím taky
+nemáme žádný problém.
+Protože neděláme tam žádných služitý výpočty
+a na asynchronní
+kód je to úplně bezvadný.
+Je to vlastně podobné jako v .NETu,
+že prostě v tom jazyku tam jsou
+píčový slova async await
+a člověk musel by se snažit,
+aby se střelil do nohy, což se třeba
+jako ve skale dá velmi
+jednoduše střelit do
+vlastní nohy.
+Takže kdybych se zeptal na hlavní jazyk tvůj,
+tak teďka řekneš Python teda.
+No jo, tak ho řeknu Python. Ještě před pár lety
+bych tím pohrdal,
+ale asi jsem došel k tomu,
+že to je jenom technologie
+a záleží, jak se použije a zároveň mi přijde,
+že ten tooling okolo Pythonu,
+že je vlastně dobrý a i ten jazyk je
+slušnej, člověk tam může
+mít imutabilní třídy,
+takže tam může psát
+funkcionálně.
+No to jsi mě trošku nahrál na další otázku,
+protože tak, jak sleduju, jak se vyvíjíš
+co se týče jazyků, tak samozřejmě
+ses musel nějakým způsobem vyvinout
+i co se týče obecného paradigma, to, jak píšeš
+kód, jak programuješ. Jseš
+teda teďka už řekněme
+v té škatulce, když teda dáme dvě debilní
+škatulky, jedna je funkcionální programátor
+a druhý objektově orientovaný.
+Jseš už víc ten funkcionální, nebo
+jedeš pořád takovej
+ten komiks, nebo jedeš
+OOPčko v Pythonu, jak to vlastně?
+Tady za to
+taky vděčím Skale, proto
+bych neříkal, že jsem hejter Skaly,
+protože jí za mnohem vděčím.
+A mě právě naučila vlastně to
+funkcionální programování,
+takže dneska jsem blíž tomu
+funkcionálnímu programování.
+To znamená, miluju
+imutabilitu hlavně, to je pro mě asi to stěžení.
+Je tam ještě nějaký
+koncept v Pythonu, který
+z toho funkcionálního programování
+vychází, nebo se ti tam líbí,
+přijde ti tam kromě té imutability
+hodně, hodně
+dobrý,
+použitelný?
+Že by Python vyloženě šel na ruku
+funkcionálnímu programování,
+to bych neřekl.
+Ale mně přijde, že funkcionálně jde psát
+v čemkoliv. Že my jsme psali, řekněme,
+funkcionální kód i v C-sharpu,
+i když tam nejsou imutabilní
+třídy, ale když si člověk řekne,
+že to tak bude psát,
+anebo si to může doplnit nějakým
+čekem toho kódu.
+Což třeba v Pythonu
+používáme MyPy, který vlastně tam,
+díky kterýmu tam může člověk
+používat typový anotace
+a on mu to kontroluje,
+takže má pocit.
+Nebo takhle, ten komfort při tom psaní
+kódu je pro mě vlastně
+shodný, jako kdybych psal třeba v C-sharpu.
+Ty říkáš, při tvým psaní
+v kódu, máš
+to ještě stále tak, že 99,9%
+času píšeš
+kód, anebo i se staráš
+o ty svý kolegy
+kolem sebe?
+Jo, jo, jo, i se starám o ty kolegy,
+nebo o ten,
+o ty tooly, který používáme.
+Ale obecně si myslím,
+že vlastně programování dneska
+není na 99,9%
+o psaní kódu, ale je to
+i o nějaký komunikaci
+a o vybírání těch správných
+toolů, který budeme používat
+a jak to budeme dělat.
+Ale jo, bylo by to
+asi divný, kdybych po 15 letech byl pořád
+ten bušič,
+který jenom píše ten kód,
+takže možná by se dalo
+přehrnout.
+Nějakému architektu, nebo něčemu takovýmu.
+Zasáhla vás nějak
+moda chat GPT,
+copilotů a těchto
+toolů, které při tom programování
+ti velmi dokážou usnanit
+takovou tu vaši krudařinku,
+když to takové je?
+Ale zatím úplně ne.
+Já soukromě si s tím samozřejmě hraju,
+ale
+tam jsou i ty problémy s tím,
+že ten kód
+nikam třeba může putovat,
+takže spíš
+čekáme, jak to dopadne
+s tou legislativní stránkou věci.
+To je pravda.
+To řeší hodně líp.
+Je fakt, že vy asi nepracujete úplně
+s jednoduchými datama
+i co se týče toho, odkud pocházejí a co všechno
+obsahují, ne?
+Když pracuju s tou
+velmi sensitivní informacema,
+tak asi nechci, aby mi do toho ještě koukal
+někdo přes ramenu. Je to ten důvod?
+Ne, je to jakoby jiný.
+Tady to je o tom, že ten kód, který
+píšeme,
+tak
+asi není vhodný, aby ho
+viděla nějaká třetí strana,
+aniž by byly vyřešeny
+nějaké licenční podmínky.
+No ale tak
+z určité úhlu pohledu, to je jakýkoliv kód, který
+není open source, ne? Bych ho neměl správně
+teda používat. Když píšu
+něco pro zákazníka tady
+a vím, že to samozřejmě nikde nepůjde na GitHub,
+protože to je prostě custom projekt,
+tak otázka, jestli bych toho kopajlota
+na to měl v tomhle úhlu pohledu
+vlastně použít. Jo, jo, jo, to je problém.
+Ještě asi spíš
+máte svoje železo, nebo
+používáte cloudový řešení?
+Jo, to je taky zajímavá otázka. Máme
+oboje. Do toho
+cloudu, řekněme, migrujeme,
+ale teď je taková moda,
+že všichni se zase z toho cloudu vracejí
+zpátky.
+Takže se nesejím tak úplně
+blbě, ale ono to jako vychází
+z těch financí, že my máme relativně
+velký takový ten baseload,
+to znamená, že ty špičky tam
+nejsou takový
+a to je přesně ten případ,
+kdy se vyplatí mít to vlastní železo.
+Myslím, že vyplatí
+z finančního hlediska.
+Jo, já jsem namířil vlastně
+z trám toho cloudu. V podstatě, pokud
+Microsoft koupil či GPT, nebo začne
+to být součástí ežru, tak
+tamto compliance je vyřešený spousta věcí
+vyřešených legislativních, takže pak možná
+to začne být zajímavý i pro ty větší firmy
+jako jste vy. Jo, jo, určitě, určitě.
+Mě vzala zase ta moda
+toho leaving the cloud, že
+autor Basecampu
+napíše, jako, hele, nám se to nevyplatí,
+odcházíme, samozřejmě hned půlka
+komunity mu vyčte, že to má napsaný
+v Railsách nebo v čem a že by možná
+neby to přepsali do něčeho jinýho,
+že by nepotřáli takový železo a tak.
+Takže vy jste taky v tom hybridním
+modu, že pro ty věci, který dávají
+smysl si je držet a
+ten load je jako očekávaný, tak to máte
+u sebe, jo? Přesně tak, přesně tak.
+Přesně tak. No, to dává podle mě smysl,
+my třeba řešíme hodně IoT
+projekty, komunikace, která musí
+být opravdu v milisekundách nebo někde
+rychlejiš a pak ten cloud prostě nestačí.
+Jako reálně prostě prohnat
+to cloudem. Jako, že ta latence tam vadí.
+No, ta latence prostě je moc.
+My jsme ještě, když jsme plánovali
+dnešní díl, tak další věc,
+která samozřejmě s tím
+programováním souvisí,
+to je organizace projektu jako taková, protože
+bavili jsme se, když si dávno jsme tady měli,
+když je od Borka, který už jsme několik rád zmiňovali,
+což je velkej milovník toho
+monorepa a vysvětloval, proč to má rád.
+My, když jsme se
+bavili s Michalem, tak jsme si říkali,
+že se i na tohle téma podíváme,
+že na tohle skočíme. Takže
+monorepo versus multirepo.
+Jak to máš ty osobně a jak to vlastně
+máte v vašem milovaném
+Gen Digital?
+Jo, mám...
+Jo, máme to tak...
+Já to mám tak, že mě by se monorepo
+hrozně líbilo, ale
+ten tooling na to
+není vůbec připravený.
+To je jako
+můj pohled, že ten tooling to znamená
+jak s tím
+pracovat. Třeba,
+že Google ten to má jako vychytaný, ale ten to
+má nějaké interní nástroje,
+které pracují okolo toho jejich
+velkého monorepa.
+Ale přijde mi, že stav
+těch projektů, který se tohle
+snaží řešit, je...
+Není pro mě
+uspokojící. Takže spíš jdeme
+tím směrem, že máme
+klasicky
+per gitovej repozitář
+per repo.
+Takže jedeme takovým, řekl bych,
+klasickým způsobem.
+Ale chtěl byste si vyzkoušet takový to jednou obrovský
+repo. No, no. Ale je pravda, že máme
+některý projekty,
+který
+obsahují, řekněme, víc
+aplikací a jsou v jednom gitovém
+repu. A tam právě narážíme
+na ty problémy, že tam jsou...
+Třeba kdy pouštět jakoby build,
+že se změní něco v nějakým podadresáři.
+Jo, jo, jo. Teď máš tigry na pátách.
+No, no, no. A ještě tam jsou pak nějaké
+třeba závislosti mezi těma projektama, když už jsou
+v tom git repu, že jo. V tom jednom.
+Takže to není úplně
+triviální. No, jakmile máš
+kód komitnutý, tak
+ať je teda v tom mono nebo multirepu,
+tak jde do nějaký
+CICD, což...
+Ty jsi mi říkal, že vy máte poměrně specifickou
+zkušenost s CICD
+toolem a to je TeamCity, což je
+věc, kterou třeba my nepoužíváme.
+Já jsem se na to kdyžsi dávno šáhnul.
+Jak to vlastně vypadá s tím toolem?
+Je dobrý tenhle jetbraincí nástroj?
+Jo, za mě je dobrý,
+ale možná můj
+pohled nebude úplně objektivní,
+protože já jsem vlastně TeamCity
+zaváděl už před někdy,
+před třinácti lety možná, v Avastu.
+Jsi byl tam pionýr. No, no, no.
+Nice. Takže jsem si prošel
+i celým tím vývojem, kterým vlastně prošel
+TeamCity a kterým třeba prošly i ty
+konkurenční nástroje.
+To znamená, že třeba z začátku si tam všechno klikalo,
+pak byla nějaká možnost
+mít to v GITu
+v formě nějakých XMLek, ale to byla
+spíš jako záloha.
+A pak vlastně přišel nějaký Kotlin DSL,
+to znamená, že pomocí Kotlinu
+člověk může psát v nějakém DSLku
+popisovat, jak vlastně ty
+CICD pipeliny vypadají.
+A vlastně
+podobným směrem se vydal i
+Jenkins, tam myslím, že na to používají Groovy,
+nepoužívají Kotlin,
+ale Groovy.
+Takže my jsme s tím
+spokojení,
+používáme to a
+to mě se nejvíc asi líbí, že to je
+ten kód, že to je v Kotlinu, to znamená,
+že pak máme třeba i knihovny,
+který nám tam vlastně
+dělají naše DSLko.
+Že my třeba nepoužíváme přímo to
+DSLko, který je
+od JetBrainsům,
+přímo v tom TeamCity, ale máme nějakou
+vlastní nadstavbu nad tím,
+že doopravdy je třeba nastavit
+nějakou aplikaci, která
+běží v Kubernetes, nějakým konkrétním
+klastru, je otázka doopravdy jako jednoho
+řádku kódu. Tak to je pecká.
+A je tam nějaká integrace v rámci JetBrainsího
+ekosystému, třeba nějaký IntelliJ
+plug-iny nebo nevím, whatever.
+Prostě pokud používám
+více nástrojů od
+JetBrainsu, tak
+zafunguje mi tam to TeamCity nějakým způsobem?
+Nebo je to natolik oddělený, že to je vlastně jedno?
+Já si myslím, že nějaká integrace
+tam je, že se můžou
+člověku v tom idejčku zobrazovat
+nějaký notifikace, může si
+tam posílat nějaký
+private buildy,
+ale je to věc, kterou já nepoužívám.
+My vyvíjeme takovým těm klasickým způsobem,
+že děláme pull-requesty a pak to máme v tom
+TeamCity nastavený, takže ty pull-requesty se
+buildějí a testujou.
+A nasazujou se rovnou i někam? Máte to až takhle daleko,
+že z toho pull-requestu se vyspinují nějaké
+prostředí a tam si to otestujete? Ne.
+Já jsem to chtěl zeptat, jestli tohle ideále.
+To by byl taky další
+velký témat, to je, že my máme
+vlastně jenom produkční prostředí.
+Aha. Vy nemáte
+žádný non-pro...
+Jak to?
+Našem týmu to tak máme.
+U toho se klidně zastavme, protože my teďka tady
+máme opičky se čtyřma prostředíma aktuálně.
+No, právě to je jeden
+z důvodů, proč
+to je taky takový, nevím, třeba
+dva roky starý směr, kdy
+se vlastně
+mluví o tom,
+že člověku by mělo stačit jenom to produkční
+prostředí, protože stejně
+mezi těma, právě jak říkáš,
+musíš tam nějaký opičky, aby si ty
+jednotlivý prostředí udržoval,
+ale samozřejmě
+je to pak i o tom, že člověk
+musí být schopnej,
+nebo musí mít vychytanej ten deployment.
+Jasně. Třeba když to myslíš
+doopravdy vážně, tak musí mít
+minimálně nějaký kanary deploymentu,
+aby se to třeba
+i automatsky revertrou, když se zjistí, že
+ta nová verze, že není úplně dobrá,
+anebo nějaký řízení
+trafiku, který jde na ty servisy.
+To vlastně souvisí s tím kanary
+deploymentu, to je vlastně jenom
+jiný způsob, jak to udělat.
+Takže vy jste skončili u jednoho
+produkčního prostředí, tak to je zajímavé.
+To jediné, co jsem slyšel v tomhle směru
+naposledy bylo to, jak to dělají datový
+věci, že to je zajímavá tak jedna produkce.
+Že zbytek pro ně není relevantní,
+protože nemají ty data, aby vůbec mohly
+fungovat. A vy to teda máte
+z toho důvodu, že vám to třeba zjednodušuje,
+že nemusíte být nějaký infrastructure as a code,
+protože máte jedno prostředí.
+Co vám to vlastně vyřeší, kromě
+jiných věcí?
+Z toho, že podívám nám pricing, to je docela
+zásadní, protože pokud chci mít čtyři
+Cosmos DB v Azure nebo jednu,
+tak to je sakra rozdíl, jako příklad.
+Jsou tam ještě nějaké jiné výhody,
+protože zase na druhou stranu, já když pustím
+vývojáře
+na tu produkci,
+tohle ne přeci vždycky můžu. Máme
+tady projekty, které jsou vyloženě v fintech
+pro švédské banky
+a tam představujete, že budete mít jedno prostředí.
+Tam naopak si myslím, že dokonce
+je v nějakých regulacích, že musíš mít
+víc prostředí.
+Jo, že tady to, co popisuje,
+něco, co může být specifické pro nás.
+A kdybych i v Avastu dělal na jiném projektu,
+tak tam už budu mít nějaké
+neprodukční prostředí.
+Ale co děláme my,
+to jsou back-endy, které si povídají
+hlavně sami mezi sebou
+a věříme našim testům
+natolik, tím individuálním testům
+těch nutlivých servis, že to děláme
+takhle, že máme jenom produkční prostředí.
+Nějaká bota nepřišla?
+Jste tam poslali něco, co zásadně rozbilo
+něco dalšího?
+Myslím si, že ne.
+Opravdu se snažíme mít
+dobrý testy těch servis.
+Že si nevybavuju
+nic konkrétního, co by byl způsobený.
+Super. Zajímavý pohled.
+A nahrává tomu třeba to,
+že to, jak vy to děláte,
+že to je celý hodně stateless,
+no předpokládám, že vy to máte hodně stateless, ne?
+Že pak ty servisy
+už je mi jedno, kde jsou, je mi jedno,
+jestli jsou v jednom prostředí, protože asi to, co je důležité,
+jsou ty data, které jsou teda někde prezistované,
+nebo máte to takhle postavené?
+Jo, je to určitě takhle, no.
+Že ty servisy jako takový,
+ty jsou stateless
+a používají nějaký databáze, které jsou
+zase někde úplně jinde.
+Tak tohle, to je zajímavý.
+Samozřejmě třeba, když člověk
+dělá nějakou databázovou migraci,
+tak ji musí udělat
+tak, aby v jednom
+okamžiku fungovala ta stará i ta nová
+verze, ale to je prostě klasika, když člověk nedělá
+jakoby nějaký stop the world
+deployment.
+Když se v té CACD
+pipeline posunu ještě dál,
+tak vlastně další krok,
+o kterém jsme se spolu bavili, bylo hlídání
+nějakých dependencí,
+nějakých závislosti.
+Vy používáte, pokud si dobře pamatuju,
+Dependabot a Renovate, to jsou dva
+tooly, který vám
+zajišťujou, teda vlastně co, kdybyste
+vysvětlil poslouchat.
+Jo, já jsem trošku posadlý tím,
+že mám rád, když je všechno up to date.
+Vítej, vítej.
+Ale je
+oprosto dělat ručně,
+chodit po těch projektech a updatovat tam ty
+verze těch knihoven.
+Takže jsem si před pár lety řekl, že by bylo
+super, kdyby existoval nějaký nástroj, který
+by to jako řešil. A myslel jsem si,
+že žádný neexistuje, protože jsem o tom
+nikdy neslyšel. Tak jsem se do toho trošku
+podnořil a zjistil jsem, že existují.
+A tak jsem si docela dlouho dělal
+takový soukromý výzkum,
+který jsou nejlepší.
+A vyšlo mi z toho, že to je Renovate
+a Dependabot.
+A ten Dependabot, ten byl vlastně,
+možná to bude třeba dva roky něco takového, byl koupenej
+GitHubem.
+Nevím, jestli Microsoftem už tenkrát.
+Prostě je to teď integrovaný
+přímo už v GitHubu, ten
+Dependabot. Takže když třeba dělám nějakej
+svůj
+soukromý projekt, nějakej open source,
+tak mi to updateuje
+ten Dependabot.
+Já myslím, že tvůrci open source kdykoliv použijí
+jako package JSON, tak
+už mají od Dependabotu spoustu
+jako půlurekvestů na
+kvůli nějakým
+security věců. Nebo kvůli čemu se to děje?
+Co se to vlastně dělá?
+Ta hlavní věc. Je to kvůli
+konzistence, že nová verze mi to nerozbije?
+Nebo security? Nebo jak to je?
+Asi záleží, co si v tom člověk najde.
+Pro mě to tenkrát byla fakt obsese tím,
+že to potřebuji prostě up to day.
+Ale například,
+když se řešil log4j, tak
+my jsme ho vlastně neřešili, protože my jsme to všichni
+měli automaticky subdatovaný.
+Jenom abych teda možná ještě řekl,
+jak ten nástroj přesně funguje. On dělá to,
+že se podívá na ten projekt,
+který má v tom GITu, z toho si vytáhne,
+jaký má ten projekt závislosti
+a podívá si, jestli neexistují novější verze
+těch závislostí. A pokud ano,
+tak vytvoří pull request, kde
+kde
+inkrementuje tu verzi na tu poslední.
+Případně nějaký pravidla
+na to, na co to chce
+člověk jakoby inkrementovat.
+A je to pak založený
+na tom, že když je člověk
+slušnej, tak má na tom
+pull requestu nastavený build.
+A pak to může víc i k tomu,
+že když ten build je zelenej a člověk věří
+svojím testům, má to všechno dobře pokrytý,
+tak se mu to i automatsky zamerďuje do mástru.
+A řeší to
+semvery? Nějakým způsobem?
+Protože třeba jako skok
+z 3, 9, 1 na 4, 0, 0
+může být totální skok
+někam jinam. Jasně, jo, jo.
+Řeší, no. Je to postavený
+na semverech.
+Takže ty můžeš říct,
+jak daleko má jít s tím updateem?
+Jo, jo, jo.
+Tak ono jako vytvořit
+pull request skoro nic nestojí, takže on prostě vytvoří
+když máme třeba nějakou verzi 3, 5
+a je verze 3, 6 nová,
+tak on udělá
+pull request na verzi 3, 6 a když jsou být
+verze 4, tak on udělá i pull request na verzi...
+No, no, no. Zkusí. Zkusí prostě
+jako všechno. Ale je to
+v obou těch
+nástrojích, v Dependabotu i v Renovatu
+je to konfigurovatelný.
+Jo. A dokáže i respektovat
+to, že já mám v nějakém locku nebo
+v nějakém
+filu řečeno, že chci jít
+maximálně do verze 3, 9, 9
+ale 4 už mi nesmí skočit.
+Jo, jo, jo. On třeba i v případě Pythonu
+nám třeba ten pull request vytvoří
+a on vlastně ví jako, že
+to nebude fungovat, tak tam i napíše
+jako by proč to nebude fungovat a kvůli
+jaký tam jsou kleše v těch verzích
+těch závislostí. Tyjo, tak to je
+super. Takže vám to už třeba
+takhle vyřešil Lock4J, ten
+že jste poměrně rychle... Jenom jsme to
+zkontrolovali, že to opravdu
+stalo a nemuseli jsme nic řešit, bylo to
+automaticky vyřešené. Tak to je super.
+Ale jak jsi zmínil tu sekuritu,
+tak to je vlastně jako taková dvousečná zbraň,
+že na jednu stranu,
+když člověk jako updateuje na ty novější
+verze, tak to má vyřešení
+ty bugfixy, ale samozřejmě to může
+znamenat, že se v tom i objevila nějaká nová zranitelnost.
+Takže pak
+je ještě
+tady toho hlediska jsou ještě zajímavý
+nástroje, které řešují vyloženě
+ty zranitelnosti
+v těch závislostech.
+Ty nejznámější jsou asi
+Snyk, anebo Black Duck,
+nebo... A to používáte
+taky, teda? Jo, jo, jo, jo.
+A dělá to
+ještě to, že to tahá data z jiných
+zdrojů třeba právě, aby dodal
+kontext k tomu? Jo, jo, jo.
+Ono, když třeba to je nějaká
+open source knihovna, která se updateuje,
+tak on přímo toho pull requestu, samozřejmě
+tam dá jako odkaz na ty release,
+které jsou v tom na github.com,
+ale i tam vykopíruje
+vyloženě, co bylo v těch
+release notes a tak, takže člověk se pak...
+Když to dělá ručně, ty merge,
+kontroluje ty pull requesty automatický,
+tak si tam může přičíst, co
+se tam dělo. Takže ty už
+nemáš takový to chvění, že dám
+jako paket update a teďka se těším, co se kde
+rozbije, to už je pryč, jo? Vůbec, vůbec, vůbec.
+Ve většině případů to je tak,
+že vlastně pak jenom vidím
+v githubu
+ty pull requesty, který neprocházejí.
+Takže se pak na to můžu podívat
+a vidím, jo, tak to je vyšla nová major verze
+a je to
+rozbitý, takže to se můžu očekat, budu to
+muset nějak opravit. A nebo,
+což se děje teda poměrně často, je, že
+aha, tady nová minor verze
+a on je to stejně rozbitý a oni tam udělali nějakou
+break and change a nevěděli o tom.
+To jsem se chtěl zeptat, jestli ti to právě třeba
+neukazuje nějaký takovýhle věci, protože já
+kdykoliv, když já hnu pro
+speciálně prostě, pardon
+milí frontendějáci, ale javascriptová
+knihovna, nebo prostě na NPM-ku,
+podle mě oni jako neznají semver, jo, tamto
+začínáte všechno 0.0 něco,
+je to 47 tisíc verzí,
+je 0.47,
+nikdy to nepřijde do jedničky a oni prostě
+jako ignorují to první číslo z nějakého,
+já mě to někdo nevysvětlil, z nějakého důvodu,
+z nějakého důvodu prostě ignorují to první číslo
+a hážou break and change do toho, co by mělo
+být jako feature verze, jo, takže
+tohle asi musí být jední chleb, pak ne?
+Jo, jo, tak záleží na to,
+v jakém tom ekosystemu se pohybujeme,
+pokud se pohybujeme v .netu,
+nebo v té Javě Skale, kde je to v pohodě.
+Tam je to docela lepší, ne, v těch pěkných
+technologiích. Jo, jo, ale jo, já na obhajbu
+těch open source autorů, jako musím říct,
+že to taky takhle dělám u těch open source projektů,
+protože člověk pak nemá jako tu,
+není tak zavázaný
+jako držet tu zpětnou kompatibilitu,
+protože je to jako, když člověk dá
+na nějakém svém hobby projektu a má ho to bavit,
+tak,
+tak mu to může trošku jako znechutit,
+jako to tady nemůžu jako udělat tak,
+abych si představoval, protože musím držet zpětnou kompatibilitu.
+Jo, takhle, a nebo prostě po...
+Nebo uděláš novou major verzi, no.
+Prostě uděláš... Můžeš, no.
+Zdar vodiny. Jo, ale třeba ty
+nástroje jako Dependabot nebo Renovate právě umožňují
+si nakonfigurovat i tohleto,
+aby se s těma...
+Aby se s těma
+nulovýma verzema pracovalo.
+Tak to je zajímavý.
+Další věc, kterou používáte
+a která mě zaujala, jsou Conventional Commits.
+Přiznám se, že jsem
+o tom neslyšel, než jsi mi napsal, že to používáte.
+Co to znamená?
+Conventional Commits.
+Je to vlastně jenom specifikace,
+jak psát
+commit message.
+Tak to byste pocvali jak prostředování.
+Je to úplně jednoduchý,
+je to vlastně jenom
+o tom, že ta commit message začíná
+nějakým prefixem a ten prefix vyjadřuje,
+co je to za změnu. Takže tam je třeba
+Fiat jako feature, takže Fiat
+nebo tam je
+fix, že to je nějakej bug fix.
+A
+k čemu je to dobrý?
+Že na základě tady těch
+konvenčních commitů se dají pak generovat
+pěkný change logy.
+A co je pro mě
+teda důležitější, je to,
+že když máme nějakou
+třeba knihovnu v nějaký verzi,
+a teďko víme, že potřebujeme
+vydat novou verzi tý knihovny,
+tak na základě tady těch
+konvenčních commitů my dokážeme
+strovy vypočítat, jaká
+by měla být ta nová verze,
+kterou budeme jako releasovat.
+To znamená, že
+když vím, že tam bylo jako Fiat
+2Dčka, takže tam je nová feature, takže
+musím
+inkrementovat takový to druhý
+minor?
+Minor, myslím. Major, minor fix.
+Jo, jo, ten minor.
+Takže,
+takže tady to pak vede i k tomu,
+vlastně když to spojím s těma automatickýma update-ama,
+který teda ty Renovate
+i Dependabot dělají, ty
+konvenční committee,
+tak to vede k tomu, že
+když máme třeba nějakou knihovnu, která závisí
+na jiný knihovně,
+tak
+když to máme nastavený tak,
+že i ty pull requesty se sami
+zamerďujou, když procházejí testy,
+tak se nám automaticky vydá
+verze tý knihovny.
+Jakoby, že když tam je
+takhle více závislostí, je tam takovej
+chain těch závislostí mezi těma knihovnama,
+tak se ta změna tam
+zpropaguje a utestuje.
+A děláte z toho nějakou chytristiku
+třeba toho
+plácnou zjišťování complexity
+nebo velocity týmu na základě toho,
+jak rychle se nějaká feature udělá,
+ale jako zpětně, protože to přeci se dá
+jako na časový ose
+vytrkovat a díky těm, díky tomu,
+že ty committee jsou pěkně popsaný, tak
+šlo by to vytáhnout, ne?
+– Asi by to šlo, ale nic takového neděláte.
+Pro nás ta primární
+motivace bylo,
+aby jsme nemuseli dělat tolik
+kruční práce, aby to za nás dělali ty stroje.
+Používáme tady ty renovaty.
+– A ještě jedna věc mě zajímá, jak
+tohle vynucujete, protože mně se
+tohle strašně líbí, ale jedna
+věc je dohodnout se
+v týmu o třech lidech, druhá věc
+je dohodnout se ve velký firmě nebo ve velkým
+týmu, že to tak budeme dělat. Máte na to nějaký
+lintery nebo prostě
+je to ve správném formátu?
+– Jo, myslíš ty komity.
+– No, no, jasně. – Ty konečně komity. Nemáme na to
+nic. Nemáme. Něco nekontrolujeme.
+– Takže když to najdeš, tak jdeš za tím tondou a řekneš
+tondou. Jasně jsme řekli, první je
+feed, pak je mezera.
+– Jo, jo, stálo by to za to, ale
+jako stálo by za to mít nějakou
+automatickou kontrolu tady toho, což je
+jako asi triviální, že jo, mít nějaký ty
+pre... – Pre komit huky.
+– No, no, no, ty pre komit huky.
+Ale nemáme to. Věříme si.
+– Věříte si? – Věříme si.
+– Tak to je zajímavý. – A jenom teda ještě bych podotknul,
+že tady to, o čem se bavíme, je v rámci
+našeho týmu, že nemáme žádný
+pravidla napříč firmou,
+ale třeba tady to se je zrovna věc, která
+se líbí i ostatním týmu,
+takže to od nás převzali
+ty konvenční komity a
+renovéty. – Takže vy v rámci týmu
+jste, jestli se chápu správně, dost
+vlastně jako izolovaný.
+– Tak jako microservices
+na úrovni týmu. – Jo, jo, jo.
+Já bych neřekl izolovaný, ale
+takový nezávislý.
+A že nikdo nám nediktuje, co
+máme používat. Samozřejmě musíme
+se povědět v nějakém
+rámci, ale
+když si řekneme, že teď to budeme
+chtít psát ve skale, tak můžeme.
+A je to jenom na nás.
+Protože s tím zároveň souvisí ještě další důležitá
+věc a to je, že my ty služby
+nejenom píšeme, ale i provozujeme.
+Máme na nich onkoly, takže
+co by řešit, tak je docela
+důležitý aspekt
+naší práce.
+Mít ty onkoly,
+že člověk se víc stará
+o kvalitu těch služeb, když
+ví, že by ho to mohlo nikdy v noci změnit.
+– Takhle vy to máte až do tý míry, že když
+něco spadne a může za to tým A,
+tak týmu A zvoní telefon ve tři ráno.
+– Jo, přesně tak.
+Máme týdenní rotace
+24-7.
+Takže
+co si
+uvaříme, to taky pak...
+– Jaký je ten tým velkej? Kolik vás je?
+– Teď v rotaci
+nás je pět lidí.
+To znamená, že člověk skoro jednou
+za měsíc
+má ten onkolo, což
+je věc, která
+dokáže narušit
+i soukromí, protože člověk třeba musí
+plánovat, že teď u víkendu
+nemůžeme jet nikam, kde...
+– Driftovat někam do mostu.
+– Tak to se dá.
+To se ještě dá.
+Prostě si člověk sebou vezme noťas
+a telefon, aby
+mohl ten telefon nabíjet, aby si přesto mohl udělat internet
+a to se dá, ale jako, že bych
+třeba šel na koncert
+nebo něco takovýho, tak
+to by bylo takový hloupý
+brát si sebou ještě
+ještě jeden telefon.
+– A noťasy.
+– Můžete to stišit, prosím vás, já to teďka něco fixuji.
+– Jo, jo, jo.
+– A jich často nikdo volá.
+– Těch zásahů není tolik.
+Ale
+člověk musí být
+prostě pořád na tom příjmu a toho omezve.
+– Jasně, už jenom ta psychologie zatím
+ví, že musíš být rady.
+– A zároveň teda,
+proto jsem o tom začal mluvit, že ta psychologie v tom,
+že nám to opravdu
+upřímně závisí na kvalitě
+těch služeb, protože my je sami provozujeme.
+– Jasně, jasně. Když to teďka fixnu pořádně,
+tak možná budu mít o víkendu
+klid. – Jo, jo, jo.
+A když se nějakej problém
+stane, tak doopravdy si dáváme
+záležet na tom, aby jsme ho
+vyřešili takovým způsobem, aby se ten problém
+neopakoval. – Jo, jasně, jasně.
+– No a výsledek celý vaší týmový
+práce je teda součástí nějakého
+ekosystemu. Mám si to teda představit, že
+vy jste jedna z
+N nějakých servis v rámci
+větší sítě servis?
+Nebo jste natolik izolovaný, že když
+se někde něco po, tak je jasný,
+že když je to tahle oblast, že za to můžete vy.
+Jaký jsou ty hranice
+té vaší práce?
+– Jo, my jsme vlastně zodpovědní za to,
+že to opravdu ten na
+ty naši klienti
+dostávají
+tu bezpečnost, když to řeknu takhle.
+Takže my
+třeba naše největší závislosti
+jsou infrastrukturní. To znamená, když
+se stane něco ze sítí, nebo
+stane se něco
+s databázema, který nám
+taky jedou nějak on-prem a stará se o ně nějaký
+jiný tým, tak
+to jsou ty
+častý
+problémy.
+Nebo častý. To jsou problémy, které můžou nastat.
+To jsou ty naše závislosti.
+Ovlivňuje tohleto
+obecně to, jakým způsobem
+vy ten software tvoříte?
+Když jsme si psali, tak jsme samozřejmě narazili
+na klasickou módu, prostě microservice
+a rozdělení těch jednotlivých částí.
+Má to na to vliv třeba,
+že jste si ten software architektonicky
+postavili tak, aby právě vám nikdo
+ve tři ráno nevolal, byť třeba
+za cenu nějakých trade-offů, nebo
+zasáhlá vás vůbec ta lesta móda
+jako rozsekávání na ty malé části?
+Jo, jo, určitě, určitě. My jsme to vlastně chtěli dělat
+od začátku, ještě dřív, než byl Docker.
+Chtěli jsme dělat jako microservice,
+protože v našem,
+v naší doméně nám to dávalo smysl.
+Protože aktuálně,
+když se ptá fast forward
+do dneška, tak máme desítky,
+až nižší stovky microservice.
+A když jsme to před
+mnoha lety chtěli dělat, tak
+jsme pořádně nevěděli, jak na to, protože to bylo
+v době, kdy nebyl Docker, nebyl Kubernetes,
+ale pak se objevil Docker
+a ten nám úplně jako spadnul, úplně to bylo
+jako... Dar z nebes. Dar z nebes,
+přesně tak. To byl dar z nebes,
+ale třeba ještě nebyl Kubernetes,
+tak my jsme třeba předtím používali
+Marathon, což bylo něco
+podobného jako
+Kubernetes a vlastně nakonec to Kubernetes
+jako převálcovalo.
+A no byla to taky
+jenom taková
+...
+...
+...
+, nebo jak to nazvat.
+No něco jako Kubernetes, ale jednodušší.
+Jasně. Ale dneska už jedete prostě
+k klasiku. No už před několika lety
+jsme zmigrovali
+z Marathonu na ten Kubernetes a používáme
+ten. A jsou tam nějaký bolístky?
+Nebo
+doporučil bys hned rovnou skákat
+u nových projektů do Kubernetes
+a do microservice, protože třeba my, když začínáme
+projekty, tak já vždycky říkám klukům
+jako jo, ale
+pojďme udělat nejdřív
+modulární monolit a až se te
+prvé opravdu obrousíme ty hrany,
+protože samozřejmě u těch customer projektů
+je to něco jiného, protože tam to bude časem
+v tom vývoji vlastně chápeš ty specifika
+toho prostě
+domény a teprve potom, když
+se ty hrany jsou opravdu ostrý, tak
+řežeme. Ale kdyby jsme teďka u jakýokoliv
+projektů, který jsem tak kdy prošel
+za těch sedm let, začali hned na
+microservicech, tak by to byl průser
+z mýho pohledu. Jo, naprosto souhlasím.
+Dokonce tady to má svůj název, to je ten monolit
+first přístup,
+že je dobrý začít v tom monolitu
+a přesně jak říkáš, najít si v tom ty hranice,
+protože
+hledat ty hranice na úrovni
+microservice je hrozný oprus,
+protože to člověk musí měnit nějaký
+externí aplíčka
+a to je něco mnohem složitějšího,
+než když člověk jenom udělá jako refactoring
+v rámci jednoho projektu.
+Jak řešíte komunikaci mezi těma
+microservicema? Lítá to jako přes nějaký
+servicebasy nebo
+HTTPS nebo gRPC, jak to má?
+Jo, jo, jo. Máme oboje,
+máme RPC komunikaci,
+kterou máme udělanou pomocí gRPC,
+ale máme i
+asynchronní komunikaci, řekněme,
+která je pomocí
+RabbitMQ.
+A jak jste s tím spokojený?
+Jo, já bych řekl,
+že jsme spokojený.
+Před pár lety jsme se vlastně vybírali,
+co používat na tu
+RPC komunikaci. Tenkrát
+se to ani nemenovalo
+OpenAPI, bylo to
+ten Swagger, ještě nebyl
+ani ten název.
+Potřebovali jsme nějaký protokol na tu
+RPC komunikaci a jak jsme viděli, jaký má
+úspěch Kubernetes a že
+Google dělá dobrý věci, tak
+gRPC je vlastně takový
+framework na RPC komunikaci
+přes HTTP2,
+který je taky z dílny Google,
+který to i používá na svojich
+službách, takže
+jsme nečekali, že by to nějak
+zaříct nebo přestal podporovat,
+tak mi to tenkrát přišlo dobře.
+To byla dobrá volba
+a nelituju toho, že jsme
+do toho gRPC šli a jsme s tím spokojení.
+A možná ten největší,
+to, co já jsem vždycky
+chtěl, bylo
+to, aby to bylo
+Contract First, což přesně toho
+gRPC je.
+A vlastně to souvisí i s tím microservicem
+světem, že
+jak jsme přicházeli třeba z toho
+dotnetu na Skalu, nebo jsme tam ještě
+měli nějaké věci i v Pythonu a něco ještě
+v Perlu, tak jsme
+potřebovali, aby, dobrá, že to bylo
+Contract First, aby tam fungovalo
+to vygenerování těch
+klientů i těch stabů
+pro ty servery, pro
+tady ty
+platformy.
+Jak to máte?
+Ty už tam trošku nakoušel s těma technologiema,
+máte všechno, všechny servisy v jedný
+nebo máte tam teďka deset technologií?
+Jak to máte? Máte ten mix
+nějak už učesali
+směrem k jednomu jazyku?
+No jo, to je taky takový,
+že když začínali
+ty microservisy, tak takový
+typický argument bylo, že každou microservisu
+můžu napsat v jedný technologii. A to je samozřejmě
+nesmysl, protože člověk nechce udržovat jako osm
+texteků. Takže
+teďko inklinujeme k tomu, že všechno chceme mít
+v Pythonu, to znamená, máme tam
+pořád ještě ty věci v Týskale,
+ale když je potřeba udělat nějaký
+hodně velký zásah do Týskaly
+mikroservisy, tak protože je to mikroservisa,
+tak nás vlastně ani nestojí
+tolik ten přepis do toho Pythonu.
+A kdyby jsi měl říct
+nějakou nevýhodu tohohle celého
+stylu
+jako architektonickýho?
+Jo, určitě.
+Muselo vás to střelit někde už, ne? Za ty roky.
+No jasně.
+Tak networking, to je takový typický,
+že člověk to musí rozumět tomu,
+kde co teče, aby tam to neteklo moc.
+A vlastně to souvisí
+s tím domain driven design
+a nalezením správného
+bounding kontextu, to znamená
+nalezení
+těch správných hran.
+To zase vracíme k tomu monolitu, že tohle
+je hrozně jednoduchý udělat
+v tom monolitu, kdy když volám
+jako jednu metodu a volám ji
+tisíckrát za sekundu, tak je to v pohodě, že jo?
+Protože je to jako lokální call a nic to nestojí,
+ale když to už člověk dělá přes apíčko,
+tak o to stojí
+něco.
+Sice bych si tady byl schopený povědat až do konce světa,
+ale samozřejmě čas nás tlačí.
+Takže máme, koukají na hodinky,
+čas na posledních pár dotazů.
+Ty jsi tady, Polly, měl ještě svoje, řekněme,
+kariérní otázky, tak to vybal.
+Jo, mám takový dvě závěrečný,
+protože samozřejmě i
+posluchači už si mohli udělat
+v obrázech, že těch technologií
+si potkal po cestě spousta.
+Jako máš pocit, že je
+tvoje největší výhoda? Je to právě propojování
+těch technologií nebo kde vidíš
+sám sebe? Jo, takhle zpětně
+vidím tu svoji asi výhodu v tom,
+že jsem si prošel těch technologií tolik a že
+nejsem
+vázaný na nějakou jednu technologii,
+nejsem dotnetář, jako jsem když
+se býval, tak to byl pro mě třeba
+obrovský skok začít najednou dělat
+v Javě. Zase jsem objevil
+novej svět a teď se mi zase otevřel
+novej svět předtím jak ještě
+z Javascriptu a teď zase v Pythonu
+a pořád
+poznávám, že to jsou jenom
+nástroje. A že jak
+jsem už zmiňoval, že možná
+kolikrát je i v tom týmu
+nebo průspěch toho produktu důležitá
+ta komunikace,
+aby člověk uměl komunikovat.
+A s tím souvisí
+třeba i to, jak se dneska dělají pohovory,
+že dneska už se ani nedělají takový ty
+krutotesty,
+kde se testují
+hardskily, ale
+spíš se testuje ten culture fit.
+Na to se myslím, že přijde
+s časem, že jako
+samozřejmě třeba juniorní výváři
+mají tendenci se naučit tu jednu věc
+dobře, což je jedno z našich
+správná cesta.
+Jak by si dneska postupoval ty,
+jak by si proděl svýmu mladšímu já,
+aby třeba ta cesta byla
+nevím, rychlejší nebo efektivnější,
+těžko říct, jak bys to udělal jinak třeba?
+No vlastně, jak jsi říkal,
+že bych se nevázal na tu jednu technologii.
+Ale zároveň je teda
+taky dobrý umět nějakou jednu
+technologii fakt jako
+až nadřeň,
+protože mu to pak pomůže i v těch
+v pochopení těch dalších technologií,
+které jsou většinou
+v jádru stejný.
+Mě vlastně překvapilo, jak jsi říkal na začátku,
+že jsi ve firmě 15 let,
+ale zrovna tohle předpokládám,
+že bylo velkou výhodou ve chvíli,
+kdy ta firma nakupovala jiný firmy,
+tak přicházely nový technologie, ty jsi měl možnost
+se dotknout i jiných věcí, je to tak?
+Jo, jo, je to tak, určitě.
+Jo, jo, jo.
+No super, tak jo, tak já mám pocit,
+že ta poslední otázka je vždycky stejná,
+Románku, co? Je to tak.
+Tak co pláneš do budoucna?
+Jaký máš plány, kde se
+prostě Michal vidí za, nevím, pět let?
+Možná ještě taková podotaz,
+co bude po Pythonu?
+Na tvém techradaru.
+Jo, jo.
+Že by mě, no,
+lákalo by mě zkusit rast,
+protože to je...
+To vidím ten trend i u našich lidí hodně.
+No, no, jo.
+A protože se mi líbí, jak je ten
+jazyk nadizajnovanej
+a zároveň má tu performance,
+takže to je něco, co by mě jako lákalo
+si vyzkoušet.
+Ale chceš se rochnit pořád na té úrovně technologií,
+prostě managementu, to jsme pochopili,
+tam to nepláneš.
+Takže teďko vlastně uvidíme,
+jak se dofinalizuje
+merge těch našich dvou firm
+a jak bude vypadat ten kariérní
+žebříček v rámci
+toho technického
+tracku
+a jaký budou možnosti.
+Znamená to, že, já nevím, za pár let už
+prostě ten brand
+Avastu už neuvidím a bude to jenom
+Gen Digital nebo jsem to pochopil blbě?
+Je to tak,
+že ten Gen Digital to je jenom taková obálka
+a samozřejmě ty produkty,
+který máme, bo ty brandy, který máme
+ty jsou tak známý a tak
+hodnotný, že tu bychom byli
+blázni se jich zbavovat. Že třeba i když
+vlastně jsme se Avast koupil
+AVGčko, tak
+teďko to je vlastně tak, že Avast a AVGčko
+je prakticky to samé.
+To je právě vlastně výhoda,
+nebo proč se dělají tyhle merge,
+jak má dva produkty.
+Prodává dva produkty, ale má zatím
+tu jednu firmu.
+Ty synergie tam fungují.
+No super Michale, tak ještě možná
+na závěr nám pověděj, jestli tě někde můžou
+posluchači vidět, slyšet
+nebo číst něco o tobě.
+No jak jsem říkal, tak
+mám pocit, že vím,
+že nic nevím.
+To ale neznamená, že nemůžeš mluvit, věř mi.
+Jo, jo, jo, je to tak, je to tak.
+Ale trošku v tom udělala
+čáru COVID,
+že to vidím na svým okolí,
+že hodně lidí se odstěhovalo
+za Prahu, pořídili si děti, což
+odstihlo i mě.
+Takže ta priorita úplně
+v tom teď není.
+Jasně, jasně.
+No tak aspoň na tom F-sharpin pivu
+si můžeme zamudrovat.
+A o to je náš podcastí díl
+než taková hodnotnější, takže
+vlastně děkujeme.
+Taky děkujeme.
+Pecké, tak jo, hele Michale, ať se daří.
+Těšilo mě, doufám, že se co nejdřív zase uvidíme.
+A neboj se, myslím si,
+že tohle byl jako minimálně
+zatím nejlepší díl šestý série.
+Jo, jednoznačně.
+Moc díky, ať se daří. Děkuju, děkuju.
+Čau. Ahoj, ahoj.
+Michal Augie Augustín, první host
+šesté série. Tak jak se bál
+a měl strach, aby byl dostatečným
+soupeřem těm předchozím hostům,
+tak si myslím, že minimálně se vyrovnal.
+Bylo to skvělý. Já jsem si to hrozně užil.
+Nevím teda jak ty, protože to bylo
+hodně zase takový to moje rochnání.
+Hele, čekal jsem to mnohem horší.
+Jakože budu mnohem víc mimo. Naopak,
+ten začátek byl úplně skvělej.
+Pak jste se dostali do těch vašich vod,
+tak tam to bylo trošku složitější pro mě. Ale
+jako byly tam zajímavý paterny,
+který jsem zase třeba nikde jinde neviděl.
+Například vlastně patnáct let v jedný firmě.
+Vlastně můžeš úplně v pohodě vydržet,
+když ta firma se neustále transformuje.
+To mně přišlo zajímavé.
+A všechny ty věci kolem toho.
+Technologie, který se nabalovaly tím.
+Takže já myslím, že zase
+i pro mě tam bylo spousta zajímavých věcí,
+který si odnesu do svý práce.
+Mě potvrdil jednu věc, že si musíš
+být pořád vědomý toho, co chceš vlastně
+ve skutečnosti dělat. Protože
+mi připomněl jednoho známýho z komunity,
+kterýho si dost možná taky sem pozveme,
+který dělal
+v jedné velké bance.
+A tam ho říkal, ono mě to jako odstředivostí
+vyspinovalo někam na nějakou vysokou
+manažerskou pozici. Zjistil, že mu chybí
+programování a šel do
+Microsoftu a tam teďka zase dělá s kódem.
+A on říkal, já mám tu smůlu,
+já vždycky kam přijdu, tak oni mě za časem
+vždycky vybublá
+prostě od toho kódu někam vejš.
+A já vždycky musím změnit pozici, abych se
+zase mohl zavrtat zpátky na tu
+programátorskou
+lajnu.
+Takže je to zajímavý.
+V tomhle z toho mě opravdu překvapil, že to má
+jasně srovnaný a říká, jako nechoďte
+za mnou s Excelem,
+radši se naučím Python.
+A líbí se mi ten pattern těch
+seniorů, co sem k nám choděj
+do podcastu, jak je mnohem víc
+zajímá, co po nich
+zůstane, jakože pracují s tím kódem
+tak, jako kdyby je přijel, jak říkal
+Michal, kdyby je přijel autobus.
+Protože samozřejmě, když jsi junior, tak se snažíš to
+kotlit, prostě pořád nic to naučit.
+Abo jako neřešíš ty věci úplně kolem.
+A jakmile rosteš, tak
+ty technologie přibývají a začínáš to řešit úplně
+z jiného pohledu, to je taky pěkný.
+To je, ale konec konců to, co tady děláme taky.
+Protože vem si, že
+teďka kluci přijdou a řeknou, jak bys to udělal. Říkám,
+já vám to neřeknu. A on, proč? Říkám,
+mně přejde auto, vy řešte si to sami.
+Jo, to stejné na tom projektu
+teďka řešíme, že tam jsou dva architekti
+od nás. Říkám, tak vy to řešte, ty vole,
+co furt já, protože prostě potřebuješ,
+aby to škálovalo, že jo? No jasný, jasný.
+No tak jo, tak máme
+za sebou první díl šesté série,
+čímž to teda oficiálně
+samozřejmě musíme slíbit, že minimálně
+ještě pět dalších dílů natočíme
+naším dobrým zvykem. No a my se
+na vás budeme těšit zase za čtrnáct dní,
+takže mějte se krásně, ať se daří.
+No a za dva týdny zase další
+odvodcasí díl. Čau. Čau, čau.

@@ -1,0 +1,2453 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Krásný den milí posluchači, vítejte u dalšího dílu vašeho nejoblíbenějšího IT podcastu Pod vocasem.
+No a samozřejmě i v jedenácté sérii frčíme jak namydlený myši a naproti mě sedí tentokrát v červeném,
+trošku netradičně, nicméně stále velmi dobře vypadající, skvěle naladěný a dneska i výjimečně dobře vyspalý Petr Polipolák.
+No s čím posledním máš úplnou pravdu, přátelé, Roman Joker, provazník naproti mě a ten vypadá pořád standardně dobře,
+takže všechno je jak má být.
+To jsem překvapenej, protože dneska zatímco ty ses konečně po týdnu nespánku vyspal,
+tak já dneska člověče se jsem dal dohromady 3,5-4 hodiny.
+Já mám úplně oči jak Angorák, ono to samozřejmě přes audio není úplně vidět,
+ale jsem takovej jako polopřiblblej, což dneska vzhledem k tomu, jak budeme mít hardcore téma,
+asi tady budu hrát tentokrát po tom minulým dílu, který byl takovej můj srdcovej,
+tak dneska budu hrát takovýho toho blbečka, co se ptá na základní věci a dělá si poznámky.
+To je potřeba, to já dělám celou dobu.
+Ne, ale já to dneska opravdu vytuním jako víc.
+Ale teda na 4 hodiny vypadáš fantasticky domákově.
+Děkuju, děkuju.
+Já po 4 hodinách bych asi ani nepřišel, ty vole.
+Ale tak se se rád dělá, to je to prostě smysl pro povinnost, ráno mi to píplo, bylo to napsáno prostě Polák,
+no tak když ti pípne Polák, tak prostě musíš jít, že jo.
+No to je jasný, to je jasný. A jsou ještě jiné lidi, co mají smysl pro povinnost?
+Jsou lidi, co mají smysl pro povinnost, vymka míříš, ale tam se ještě nedostaneme.
+Já jsem ti tě rozkápoval.
+Ale krásný, krásný, ale zase tak zblbejnej jsem, jo, ale děkuju za příhrávku.
+Spíš mi řekni, jak se máš, kromě tvého spánku, co nového ve Spořici?
+Hele, kromě mého spánku ve Spořici jedeme samozřejmě jak jinak než bomby,
+no a rozjeli jsme to hned na několika, na několika.
+Ne, já mám pocit, že vy tam normálně, vždycky, když se zeptám, tak říkáš, my tam jedeme bomby,
+já mám pocit, že vy jste jako v nějakém segmentu prostě military, ne?
+Jo, jo, malinko to tak vypadá.
+Ale tím, jak jedeme furt ty bomby, tak teď vlastně, já jsem ti to říkal,
+když jsme se potkali, my jsme se potkali už v metru dneska, že jo, takže jsme si povídali,
+tak řešíme takový krásný iniciativy, jako jak si vytunit kalendář,
+protože ten můj vypadá, jako fakt to není hezký podívání,
+jako je to takový abstraktní obrázek, který fakt nikdo nechce kreslit.
+Takový Tetris, ne?
+Jo, to už bych prohrál, jako reálně, no, takže teď se s tím snažím něco dělat,
+aby jsme při těch bombách taky měli co možná nejlepší impact, no, tak tím já se teďka bavím.
+No a řekni posluchačům, jak jsi mi to chtěl prodat.
+Hele, no, nevím, co přesně myslíš, ale máme s námi normální iniciativy,
+která jsme silnější kalendář, tímto zdravím Pavla Vanečka z PNC,
+z People and Culture, a ten v podstatě jako popisuje a vysvětluje,
+jak na to, aby jsi byl schopný za první říkat ne, protože to máš v jasných strukturách,
+a aby vlastně potom i třeba moje drahá kolegyně asistentka s tímto zdravím Páju Číškovou
+s tím neměla trápení a prostě nehrála ten tetri za mě, jo, ve finále,
+aby prostě věděla, jasně, tohle je z tohohle segmentu, tak tomu můžu posunout
+dvou měsíc pozdějiš a tohle se sakra musí jako najít čas už tenhle týden.
+Já jenom posluchačům pro kontext, mě to Poli prodal tím stylem,
+že existuje služba, která vám očuchá kalendář a řekne vám,
+že jste úplnej kreten, na což já jsem odpověděl, že tohle si dělám sám každý ráno,
+když ten kalendář jako otevřu, takže pro mě to není úplně inovativní zatím.
+Jo, jo, jo, no ono to ještě je o tom, že ty si vlastně nastavíš,
+jak velkej kreten seš, tak si nastavuješ sám, protože ty si řekneš,
+čemu chceš věnovat ten čas a pak vlastně ti ta služba jenom řekne,
+počkej, ty jsi říkala, že se budeš věnovat tomuhle a zase si se tomu doma nevěnoval.
+Takže to, co mě tady dělají ostatní kolegové, nebo když přijdu domů manželka,
+říká, ty jsi tady měl zase nastaveno nula na rodinu, ty vole, zase ti zanevíš to.
+Ano, přesně tak, přesně tak. A je to i do fáze, jakože jsme tam začali diskutovat,
+kolik teda vlastně máš hodin týdně, že jo, že jich je vlastně 112,
+pokud spíš teda 8 hodin, jasně, ty spíš 3 hodiny, takže ty máš mnohem víc času
+na práci a nejenom na práci, že jo. A teďka si to jako rozhodí do těch segmentů,
+zjistíš, že toho času je sakra málo. A víc ho nebude, přátelé.
+Víc ho nebude. Čeho bude možná víc, budou pay-per-click kampaně,
+díky holkám z Vivia. Já jsem si to musel připravit, to rozumíš,
+já jsem si musel nahrát, až mám mě do kuchyně, z duchy o terminologii.
+Takže zdravíme i v tomto díle partnerky naší série,
+vivio.cz, podívejte se, jak tam bastlí pay-per-click kampaně.
+Nevím asi, jestli vám řeknou, že podle vašeho kalendáře,
+že jste úplný kreténi, ale možná vám řeknou, že třeba děláte
+online marketing trošku blbě a oni vám s tím pomůžou.
+Tak, to byl náš partnerský oslý můstek a dneska máme
+velmi, velmi hardcore hosta. Kde jsi na něj přišel?
+To je právě krása sociálních sítí a toho, že podcast
+pod vodcasem už má svoje fanoušky.
+Dokonce.
+Napoznal se mi jeden z takovej a říká, hele, mám tady
+fakt zajímavýho člověka, dělal jsem s ním, dělal různý věci,
+má tendence věci rozbíjet v tom dobrým slovosmyslu,
+k tomu se dostanem. A jeho jméno je Martin Hron,
+takže je to vlastně člověk, kterýho my ani jeden neznáme,
+ale psali jsme si, volali jsme si, je fantastický a teď už možná
+mrzne venku, takže bych za ním běžel, protože nás čeká
+přátel a opravdu tučnej díl.
+Tak jdeme pro něj.
+Ve studiu s námi sedí náš dnešní host, Martin Hron.
+Ahoj Martine.
+Ahoj kluci.
+Ahoj Martine, čau.
+Čau, tak já musím na začátek říct, že Martin vyprávil
+své extempore s nemocnicí, že prodělal dokonce zánět slinivky,
+takže chtěl jsem to otevřít takovým vtipným jako bonmotem,
+že to je velmi zanícený host, ale pak jsem si říkal,
+jak vlastně se...
+Pak jsi řekl, že to neřekneš.
+Pak jsem si řekl, že to neřeknu, že to vůbec není vtipný,
+že to je prostě jenom vykranený cermán, takže to každý pozná
+a budu úplně zadebila, takže jsem nic neřekl.
+Ahoj, Martine, a prosím tě, představ se posluchačům,
+kdo jsi, co děláš a tak dále, tak dále.
+Tak ahoj, jmenuji se Martin Hron a momentálně pracuji
+pro Sentinel One jako security researcher
+s takovým jako prefixem offensive security researcher.
+Co dělám? Dělám všecko možné,
+celý život více méně se točím kolem techniky.
+Začínal jsem asi už jako dítě,
+i když si to nepamatuju, zlý,
+jazykové, tedy moje matka tvrdí, že jsem už ve školce
+vykládal dětem, jak funguje dioda a odpor,
+ale důkazy na to nejsou.
+No a postupem času jsem se nějak
+propracoval, začínal jsem elektronikou, postupem
+času jsem se propracoval k nějakým jako psaním programů
+v QBasicu, tenkrát v Mazdasu ještě,
+Pascal, Assembler
+a postupem času jsem zjistil, že bych taky rád věděl,
+jak to jako vypadá a jak to běží na tom procesoru.
+Když už jsem měl ty základy z té elektroniky.
+Takže jsem začal zjišťovat a v té době nebylo moc informací,
+respektive nebylo je kde brát,
+protože bohužel pamatuju
+Eru, nebo bohudík, pamatuju Eru bez internetu,
+založenou maximálně tak na
+BBSK a vytáčeným připojení.
+A to ve mně v podstatě
+vzbudilo jako zájem okopírovat
+některý programy, vyrobit si vlastní verzi,
+třeba přehrávače hudby.
+No a takže jsem začal reverzovat,
+protože jinak než jako dostat se k
+zdrojákům nebylo možný.
+Takže první, myslím, co jsem reverzoval vůbec v životě,
+tak byl MP.com,
+což byl přehrávač Modplayer.
+A vlastně jsem se snažil zjistit, jak jako
+to okopírovat a udělat svoji paskalovou verzi přehrávače hudby.
+Mě zaujalo, ty jsi říkal, že jsi
+narazil jako na Assembler.
+A tyhle ty věci.
+A chtěl jít jako hloubš.
+Já, když jsem narazil na Assembler,
+tak to byl přesně ten okamžik, kdy jsem řekl,
+tak na téhle vrstvě, přátelé, já končím.
+A já potřebuji jako k vyšším jazykům.
+Protože to by mi praskla hlava.
+Takže tebe to opravdu zajímá až dolů na ten procesor.
+Jo. A řekl bych, že to je asi to growl
+toho, co mě jako žene dopředu.
+A co mě vlastně baví úplně nejvíc.
+A pokud mám kdykoliv jakoukoliv příležitost
+dělat něco s hardverem,
+tak toho využiju.
+A musím říct, že během života jsem se potkal
+jenom se samýma superšéfama,
+kteří mi to umožnili.
+A v podstatě bych řekl, že nejsem úplně
+jako ideální zaměstnanec.
+V jakém jsou vás smyslu?
+No...
+Chodíš do práce ale normálně.
+Chodím do práce, ale nejradši dělám věci, co mě baví.
+Ale kdo ne, na druhou stranu.
+V podstatě jsme velmi podobný.
+Mě donutit dělat něco, co nechci,
+to je docela na dlouhé lokte.
+To je střuditý.
+No a když se to sjede s těma cílema tý firmy,
+tak je to zase docela dobrý.
+Jako většinou to vyvá dobrý,
+když to jde stejným směrem.
+Ty si prosím mě, Martine, podle LinkedInu,
+ty tam máš přímo napsaný,
+jsi člověk, co rád v kluzovkách rozbíjí věci.
+Takže ty už od malička jedeš tenhle styl,
+rozdělával jsi autodráhy a tyhle ty věci, trafo.
+Jo, samozřejmě ze začátku se mě spíše rozdělával,
+než skládal zpátky dohromady.
+Ale vždycky mě zajímalo, jak ty věci fungují uvnitř.
+A myslím si, že tomu větším tak trochu svýmu tátovi
+a bráchovi, který je o 8 let starší.
+A jako mladší brácha jsem vždycky chtěl asi,
+nebo starší brácha pro mě byla jako inspirace,
+vždycky jsem se mu chtěl vyrovnat,
+tak to většinou bývá.
+Protože brácha si od malička a táta ho v tom podporoval,
+hrál s vláčkama, s modelovou železnicí
+a vyráběli spolu automatizaci nějakou ty železnice.
+To mě zaujalo a vždycky jsem chtěl být u všeho, co se děje.
+Takže potom později, když brácha nastoupil
+na elektrotechnickou průmyslovku,
+tak jsem v podstatě chtěl taky na elektrotechnickou průmyslovku,
+což i dopadlo.
+Co dělá brácha dneska?
+Brácha, no můžete hádat.
+Takže zůstali jste oba?
+Jo, jo, dělá IT tedy zprávu v Omnipolu.
+Ok, dosky pěkně.
+A v tvém případě přicházela vůbec v úvahu
+nějaká jiná varianta, než že bys dělal v IT?
+No hele, v té době vlastně IT nebylo, že jo?
+Takže mě bavili, mě bavil fakt ten hardware
+a ty věci, které jsou hodně low level.
+Elektrika, elektronika, taky proto jsem vystudoval
+průmyslovku elektrotechnickou, že jo?
+A v té době začínali teprve v první počítače,
+takže většinou jsem chodil ke kamarádovi
+na nějaký osmibity, zkoušet si nějaký první programování vyrábět.
+Vždycky mě bavila grafika,
+protože to bylo něco, co se na těch osmibitech dalo dělat
+a bylo to trochu jiný, než textový hry.
+Takže to víceméně asi i způsobilo to,
+že jsem později přešel na ten assembler,
+protože jsem zjistil, že v té době, aby bylo něco rychlý,
+co se týče grafiky, tak je to potřeba psát v assembleru,
+protože na 286C jako 3D bez assembleru asi udělat nejde.
+Takže koukám, že Martin byl ten typ,
+jak já třeba jsem chodil ke kamarádovi na 286
+a měl jsem s sebou disketu Golden X,
+tak on chodil s pájkou, evidentně.
+Ten byl připravený jít prostě jako díšil.
+Dá se říct.
+Prosím tě, ty aktuálně děláš v Sentinel One.
+Co tam teda děláš?
+Je to spíš ten hardware, nebo už teďka
+děláš nějaký research, nebo co vlastně je ta tvoje náplň?
+Jo, většinou je to samozřejmě software,
+protože k hardwareu se dneska uchylujeme velmi minimalisticky.
+Takže Offensive Security Researcher ve svý podstatě
+znamená něco jako Red Teamer,
+ale to my vlastně neděláme v Sentinel.
+My nejsme Red Team jako takový.
+To jsou ty kluci a etičtí heksi, co útočí
+a pen testují cizí firmy nebo i svoji vlastní firmu.
+Takže jsme se přejmenovali postupem času.
+Původně jsme Red Team byli, teď si říkáme Offensive Team,
+abychom mohli být dostatečně ofenzivní vůči ostatním.
+A co děláme je vlastně testování
+a nějaké zkoušení vlastního produktu.
+To znamená zkoušení existujících exploitu, co třeba vyjdou ven,
+takže proti našemu vlastnímu produktu.
+A pokud najdeme nějakou zranitelnost,
+kterou neumíme detekovat, neumíme se proti ní bránit,
+tak součástí ty práce je navrhnout i nějaký způsob,
+jak ten produkt rozšířit, jak tam přidat nějakou feature,
+pokud nejsme tu detekci schopni udělat s tím, co už máme.
+Takže je to takový poměrně široký záběr
+a dá se v tom najít opravdu cokoliv, co člověk chce.
+Takže Sentinel-1 je teda v té oblasti security
+a ochrana proti těmhle útokům, nebo jak bys popsal ten produkt,
+který Sentinel-1 nabízí, je v podstatě antivirus pro korporace.
+Dneska se tomu moderně říká XDR, EDR, jakkoliv tomu chcete říkat.
+To znamená, je to takový ten opačný přístup,
+než když máte uživatelský antivirus, což jsem dělal předtím, že v Avastu a Genu.
+Tak je to vlastně přístup, kdy na tom počítači v té korporaci běží tenkej klient,
+nebo minimalistický klient, on není úplně tenkej,
+ale minimalistický klient, který vlastně neumožňuje,
+uživateli jakoukoliv interakci a všechny události z toho počítače
+jsou centrálně sbíraný a centrálně vyhodnocovaný.
+Je to v podstatě antivirus pro korporace a pro endpointy bez nějakého uživatelského ovládání.
+Ty jsi promluvil o T2, nebo částečně ses dotknul T2,
+řekl bych docela dlouhý fáze, kdy jsi dělal v Avastu.
+Možná ještě než rozebereme teď aktuálně kompletně Sentinel-1.
+Jak dlouho jsi byl v Avastu?
+Pověděl asi dvanáct let, něco takového?
+Dvanáct let.
+Dvanáct let. A tam jsi teda, tam jsi sposahal co?
+Tam byla tvoje práce podobná, nebo?
+Začínal jsem, v podstatě, já jsem si asi prošel úplně vším, jo.
+Začínal jsem jako vývojář, jako vývojář, ale pro Threadlabs tenkrát.
+To znamená, to spočívalo v tom, že jsme vyráběli a programovali nástroje pro malware analytiky,
+aby měli jednodušší práci.
+To znamená, nějakým způsobem jsme,
+jsme vylepšovali ten toolchain, co měli k dispozici,
+aby byli schopni tu analýzu dělat rychleji a detailněji.
+Takže to byl, to byl vlastně mý první zaměstnání.
+Když mě tenkrát vlastně Ondra Vlček nabíral do Avastu, tak mě dal na výběr,
+že buď budu dělat tohle, nebo můžu psát drivery,
+protože tu zkušenost jsem měl už předtím z firmy.
+Takže jsem vybral, vybral jsem si tohle.
+No a postupem času jsem přešel do oddělení, které se jmenovalo Desktop Research.
+Což vlastně spočívalo v tom hledat jakoby nový způsoby, jak detekovat,
+detekovat malware v podstatě s využitím třeba nějakých novějších technologií,
+který Windows nabízí, který nabízí procesory.
+Takže nějakým způsobem, v podstatě je to, je to antivirovej research,
+nebo opět je to jako vytváření nějakých engineů pro detekci,
+ale na tom endpointu.
+Což samozřejmě je totálně odlišný od toho, než když se to třeba dělá na backendech.
+Jak na to vzpomínáš, na těch dvanáct let v Avastu?
+Bylo to tak opravdu, že každý den se zúčel něco nového?
+Šlo to nahoru, až jsi došel do té fáze po dvanácti letech, že jsi říkal,
+tak teď už jako potřebuji zase změnit práci?
+Nebo jak to tam probíhalo?
+Řekl bych, že jo. Fakt jsem si to užil, těch dvanáct let.
+A vlastně jsem dělal opravdu všechno v tom Avastu.
+Končitím, že jsem dokonce na tři roky byl odeslán do Ameriky, do USA,
+do Silicon Valley, kde jsme tenkrát měli pobočku, kde byl akorát marketing.
+Potřebovali tam nějakého technického člověka.
+S tou dobou jsem už dělal v tret Intelu oddělení.
+Takže tam začal v podstatě moje zkušenost s USA úplně první.
+Byl jsem takovej associate, bych řekl, k marketingu a PR.
+To znamená, kdykoliv se něco stalo.
+Měl jsem v podstatě přes...
+Jakoby překonat ten gap časovej mezi tím západním pobřežím a Evropou.
+To znamená, kdykoliv se něco jako stalo aktuálního.
+Bylo to potřeba nějakým způsobem komentovat do médií nebo na web.
+Tak vlastně PR šlo za mnou a já jsem vyduloval data z těch našich systémů
+a nachystal jsem jim nějakej report, případně nějakej komentář.
+My když jsme si volali, tak ty jsi ještě k tý svý stáži tří lety v US,
+tak jsi říkal, že jsi byl donucen změnit zaměření z introverta na extroverta.
+Jo, jako spousta lidí to nemá rádo, ale asi to tak je.
+Já jsem v podstatě byl vždycky hrozně nemluvnej a introvertní člověk.
+A tohle to mě donutilo začít obrážet konference, prezentovat
+a v podstatě se přepnout do úplně jiného světa.
+A našel jsi v tom zalíbení, protože logicky takový ty introverti,
+co říkají, že jsou introverti, ale takhle mluví jako ty,
+tak mi vůbec jako introverti nepřijdou.
+Tak jako je tam tenhle ten přerod nebo jak bys to, jak bys to popsal?
+Jo, asi jo.
+Jako ze začátku to bylo těžký, fakt těžký.
+Že jo, většinou lidi, většinou lidi jako mluví o svých úspěších,
+tak já třeba tady můžu, můžu říct jeden fuck up.
+A což byl moje vůbec první konference v angličtině, což byl virus,
+byl ten v Světlu tenkrát.
+A bylo to strašný.
+Jako prezentace byla strašná.
+Přetáhli jsme úplně brutálně čas.
+Putil jsem se, přeříkával jsem se.
+Fakt jako...
+Takže takový ten jako hell list těch chyb.
+Jo, jo, jo.
+Přesně tak.
+Ale paradoxně na tom je, že ten research, co jsme tam prezentovali,
+tak je doteď jako nějakým způsobem má mentions v různých paperech,
+což, což jako zas na druhou stranu potěší.
+Prezentace byla sice hrozná, ale v obsah asi byl dobrý.
+Co ti ta, co ti ta americká stáž dala, dala do života, jo?
+Jak naučil ses víc takový ty, takový ty, já nevím, vlastnosti,
+kterými nejspíš tady nemáme, nebo aspoň nám to pořád předhazováno,
+že prostě nemůžeme ty věci prodat, nejsme produktoví, že jsme hodně technický.
+Nasal si tam něco z téhle kultury?
+Jo, asi, co mi to dalo nejvíc, tak takovej ten, takovou tu schopnost vysvětlit
+jako složitý věci jednoduše, nebo snažit se aspoň o to.
+Ne vždycky je to samozřejmě možný, ale, ale asi tohle nejvíc.
+A, a potom, potom samozřejmě to...
+jako to, to, to sebevědomí na tom, na tom pódiu,
+a být jako schopnej něco odprezentovat.
+Dá se říct, že tajemněž bez přípravy, kolikrát to jako bylo tak na hraně,
+že to jsem o tom vlastně obrážel i jako konference, různě po státech.
+A, a bylo to třeba tak, že jsem večer před konferenci přiletěl do dvou do rána,
+na, na hotelu jsem ladil slajdy, abych to ráno odprezentoval,
+a odpoledne letěl zase jinam, takže.
+Jako, bylo to náročný, bylo to poměrně náročný.
+A, taky jsem tam slousl.
+To tam asi nejde jinak, ne?
+Tak venit spout cukr úplně do všeho, tam jako koupit si slanej, klasický chleba,
+to opravdu musíš jako hledat.
+To byl můj první problém, když jsem se tam nastěhoval.
+První výlet do obchodu, v podstatě všechno, co jsem si donesl, bylo doslazený nějakým způsobem.
+Takže ty si po tomhle, řekněme, výletu do Ameriky,
+v Dresu a Vastu, došel teda k tomu, že uděláš krok do Sentinel-1.
+Jak moc velký případ?
+To byl skok. Ty jsi říkal, že vlastně se spodnou něco novýho učil,
+teď jsi teda piloval i svoje soft skills.
+Využíváš ještě i tohle v Sentinel-1, nebo tam se shodil zpátky do té,
+jako řekněme, hardcore technické části?
+Je to tak, že v Sentinel, nebo ten přechod do Sentinel byl způsoben taky tím,
+že vlastně Avaz přestal existovat jako entita, my jsme koupeni genem.
+Takže v tom Sentinelu, jako, je to jiný sektor zákazníků.
+Takže v tom Sentinelu, jako, je to jiný sektor zákazníků.
+To znamená, z nějakého end-usera přejdete na produkty,
+které jsou vyloženě pro enterprise.
+Takže jednak ty požadavky jsou jiné, nějaké prostě SLáčka jsou samozřejmě kratší,
+když je potřeba něco vyřešit, musí se to udělat hned,
+ideálně prostě maximálně do týdne.
+Takže jako ten tlak je v tomhle tom větší.
+Na druhou stranu je to na vývoj a na ten research pro nás jednodušší,
+protože děláte na systémech,
+protože děláte na systémech,
+kterým ty lidi úplně jako jim nepřijdou pod ruku.
+Pokud přijdou pod ruku, tak přijdou pod ruku administrátorům
+nebo lidem, který s IT má nějakou zkušenost.
+Takže neřešíte to, jestli vyskakovací okýnko moc vyskakuje,
+nebo jestli je dost vlevo nebo vpravo.
+Takže oproti Avastu, který byl řekněme víc B2C,
+tohle je jako řekněme B2B v tom levelu těch antivirů.
+Určitě, určitě.
+Jaký typy hrozep a exploitu a vůbec z těchto věcí v tomhle levelu jedou?
+Je to jako fundamentálně odlišný od tý řekněme tradiční antivirový B2C části,
+jako se řešil v Avastu, nebo je to stejný, furt stejný trik?
+Je to v podstatě stejný, jako ty hrozby jsou stejný, jsou podobný.
+Samozřejmě je větší tlak na to jako mitigaci, pokud něčemu dojde,
+což třeba v Sentinelu se řeší v nějakou patentovanou technologii,
+kdy oni jsou vlastně schopni jako rollbackovat celou tu story,
+jak my tomu říkáme.
+V okamžiku, když se zjistí, že se děje něco nekalýho,
+tak vlastně ten software je schopný klidně,
+i když si nainstaluješ něco, co v sobě má malware,
+detekuje se to později, tak je to potom schopný rollbackovat do takového stavu,
+že celou tu instalaci, všechny změny v registrech na souborovém systému
+se prostě zruší jakoby v transakci. Takže ta mitigace je jiná.
+Ale ty hrozby jsou víceméně,
+víceméně stejný jako u konzumerů. Co je trošku jiný,
+tak se tady samozřejmě klade daleko větší důraz
+na nějaký performance toho produktu, aby to nespomalovalo ten stroj.
+Což to, co si člověk mohl dovolit na těch,
+jakoby na těch v antiviru běžným, který používá běžnej uživatel,
+tak tady v podstatě nepřichází v úvahu.
+To znamená, že jsme svým způsobem trošičku limitovaní detekčníma schopnostma,
+a na druhou stranu zase máme silnej datovej backend
+a máme jakoby víc informací o těch end pointech,
+než v případě konzumer marketu.
+A jak velký je to trade-off mezi tím, co byste chtěli sledovat
+a co byste chtěli zaznamenávat versus co si můžete dovolit,
+abyste toho uživatele v té korporaci nespomalovali?
+No snažíme se to vymyslet tak, aby byl minimální.
+A daří se?
+Já myslím, že jo.
+Samozřejmě je tam taky kladenej větší důraz na nějakou kompatibilitu,
+to znamená to, co se dřív dělalo v antivirovejch produktech,
+i když potom už to taky nebylo možné,
+různý hackování v Kernelu a využívání nedokumentovaných funkcí,
+tak člověk přirozeně se snaží minimalizovat,
+protože nikdy neví, kdy se střelí do vlastní nohy s dalším updatem Windows
+nebo prostě toho operačního systému.
+Takže v tomhletom se jako snažíme používat co nejvíc dokumentovaných feature.
+Výhodou tohohle je, že díky tý mitigaci a tý možnosti rollbacku,
+tak do jistý míry můžeme nechat některý věci se stát.
+Vlastně v consumer antiviru je primární jako tomu zabránit,
+tomu malwareu nebo škodlivému kódu něco udělat.
+A tady je primární věc to detekovat, že se něco k takovému došlo v té sítě
+a pokud možno ten node nebo ten stroj izolovat nějakým způsobem
+a případně jako rollbackovat.
+Takže v tomhletom je to jako odlišný.
+Jak vám do tohohle hází vědle to, že v dnešní době každý počítač
+je naprosto propojený se všim i v rámci jako velkého podniku,
+pokud jsou třeba i řekněme nedobře nastavené práva,
+tak se z jednoho počítače může ta hrozba šířit poměrně jako rychle.
+Když ty říkáš, že vlastně by k ní, že vám nevadí, jestli to čtu správně, že k ní dojde,
+vy potřebujete velmi rychle jí pochopit a ještě rychle jí jako rollbackovat a izolovat.
+Což ale jako s zasíťovaným prostředí je možná pak ten rollback jako složitější, ne?
+Je to složitější, nicméně ten produkt se snaží jako cílit na ochranu toho endpointu
+a vidět vlastně všechno, co ten endpoint dělá, to znamená primárně to jako zastavit na tom endpointu
+a popřípadě dát možnost analytikovi, který ten produkt využívá,
+protože my vlastně nabízíme těm firmám hlavně vlastně pro nějakou jejich nějaký, nějakou správu, že jo, IT,
+tak konzole, kde vlastně vidí všechny tyhle ty hrozby přehledně,
+tak dát jim možnost vědět, kde to právě, kam všude se to třeba rozšířilo
+a mít jako komplexní přehled o tom, co v tý světě.
+To je asi primární jako záměr toho produktu.
+A když koukáš na ty data, je nějaký pattern, který je už, nechci říct po staletí,
+ale jako už velmi dlouho prostě tradiční bubák security ve firmách.
+Je to taková ta, jako že si otevřu exe nebo prostě někdo mi podstrčí, že šéf mi píše.
+Jasně. Jako phishing, phishingový e-maily, ty jsou jako napříč vlastně industrie,
+úplně jedno, jestli jsou to korporáty.
+Nebo jestli jsou to malé sítě. Nebo je to nějaký prostě home office.
+Takže phishing je asi jako primární hrozba dneska všechno, nebo většinou.
+A většina těchto věcí prostě přichází e-mailem. Někdo si otevře dokument.
+Dneska už to není exact, že jo. Jsou to různé wordové dokumenty s makrama a spoustu dalších věcí.
+Pak samozřejmě jsou cílené útoky a něco, čemu se vlastně v security říká advanced persistent threats.
+To jsou většinou většiny.
+To jsou věci, které opravdu míří konkrétně na třeba velké korporace.
+Ale většinou ten pivoting, to zná jako ten první moment, kdy se ten threat objeví v té sítě.
+Je stejně skrz nějakou komunikaci, ať už e-mailovou, nebo přes instant messenger, kdy člověk klikne na nějaký link.
+Nebo otevře nějakou stránku, která využívá prostě nějaký zero day.
+A potom se to samozřejmě začne už lavinově šířit uvnitř té sítě.
+A potom se to samozřejmě začne už lavinově šířit uvnitř té sítě.
+Kdy ten útočník získá nějakým způsobem zvenku vlastně přístup.
+Kdy ten útočník získá nějakým způsobem zvenku vlastně přístup.
+A maily od princez Nigérie, který získal dar a chce se podělit. Ty pořád frčej, jo?
+A maily od princez Nigérie, který získal dar a chce se podělit. Ty pořád frčej, jo?
+Jo, to jede pořád.
+Ale i v korporátním levelu tohle ještě někdo žere?
+Ale i v korporátním levelu tohle ještě někdo žere?
+Dneska bych řekl, že je to samozřejmě ještě víc sofistikovaný.
+Dneska bych řekl, že je to samozřejmě ještě víc sofistikovaný.
+A samozřejmě asi narazíme časem na AI.
+A samozřejmě asi narazíme časem na AI.
+Takže v dnešní době prostě large language models už ty e-maily nejsou takový neobratný,
+Takže v dnešní době prostě large language models už ty e-maily nejsou takový neobratný,
+kdy člověk už na první pohled vidí, že to je napsaný lámanou.
+kdy člověk už na první pohled vidí, že to je napsaný lámanou.
+Miláček zákazník.
+Takže to se pomalu stírá,
+takže to bývá čím dál těžší pro ty uživatelé tohleto odhalit.
+takže to bývá čím dál těžší pro ty uživatelé tohleto odhalit.
+takže to bývá čím dál těžší pro ty uživatelé tohleto odhalit.
+Takže důležité je ten first layer of defense,
+to znamená být schopný tohleto odfiltrovat,
+to znamená být schopný tohleto odfiltrovat,
+a který k něm dostane, což není vůbec jednoduchý.
+Ale na druhou stranu asi ten vývoj bude pokračovat
+Ale na druhou stranu asi ten vývoj bude pokračovat
+využitím AI v tomhle ohledu.
+Je to vždycky boj, jako kočka s myší,
+vždycky to tak bylo, a vždycky to tak asi bude.
+Řešíte i to, že spoustu těch útoků
+Řešíte i to, že spoustu těch útoků
+probíhá na různým levelu, a kolikrát to není,
+i řekněme vyloženě na hardware or software úrovni,
+hardware-ovo, software-u
+úrovni, ale že to je třeba
+nějaký sociální inženýrství, kombinace
+jako mnoha věcí, třeba i
+nezabezpečená budova, špatně
+nefungující fingerprint u dveří
+a tak dále, a tak dále, dneska ráno jsme
+na to narazili. Řešíte
+to, jako řekněme, víc komplexně,
+nebo vy se zaměřujete vyloženě na tu,
+na ty endpointy?
+Vyloženě asi na ty
+endpointy, tohleto, jakoby, fyzická
+bezpečnost, dejme tomu, nebo
+physical pen testing,
+znám pár lidí, kteří tohleto dělají,
+což je v podstatě
+jakýsi social engineering,
+znám jednu slečnu,
+která tohleto dělá,
+takže tam je ještě
+další výhoda, že jo?
+Ta už má hesla od všech korporací.
+Jasně, jasně.
+Takže znám lidi, kteří to dělají, ale my konkrétně
+jako v Sentinelu tohleto neděláme.
+Ta už možná zná politvůj kalendář, tato paní.
+No tak jestli mi dobře poradí, jestli mám
+jako naložit.
+Jdeme, pošlej s námi.
+Ona mi pošle nějaký dokument
+vodnovský teda s makrem, abych viděl jak na to.
+No ona chodí fyzicky do těch firm.
+No jasně, jasně, jasně. No tak ať přijde.
+Se dohodneme.
+Třeba se pobojíme. Hele a
+co vlastně otevřeš,
+Martine, když přijdeš ráno do práce,
+co otevřeš za tůly, jo? Jako s čím ty pracuješ?
+Myslíš, když vylezu z postele, jo?
+No jako jestli děláš na home officeu,
+možná vylezeš tam z postele.
+Nebo na hospital officeu.
+Tak probudím ty spící monitory,
+takže počítačům nás jede 24-7.
+To je jako, probudím
+ty monitory, jdu si udělat
+kafé.
+Monitory se stále probouzejí?
+Monitory se stále probouzejí, já se taky probouzím.
+Ne, u nás se teda
+vstává jako docela brzo, protože manželka je
+učitelka, takže u nás se vstává třeba v pět.
+Ty krása. To je ostrý.
+Takže ranní rituál je,
+nechci to říct nepěkně,
+zbavit se dítěte a manželky.
+Takže odchází do práce
+v sedm, si dá to do školy,
+podle toho, jak má vyučování,
+a tak kolem osme. První věc
+asi jako každej, pročítat
+e-mail, kalendář,
+nějak si jako naplánovat ten den,
+no a potom se dám za počítač a sedím
+za počítačem většinou
+tak jako do poledne,
+do oběda, pak se jdu projít,
+když se to dá.
+Nějakej oběd a jako asi
+tak jak každej ajťák, jako rozdíl
+moc v tom není. A po těch e-mailech,
+co otevřeš za nástroj?
+S čím pracuješ? Máš nějaký
+specificky? Záleží na čem dělám.
+Zrovna je pravda, že
+ty tázky, které dělám, jsou
+hodně různorodý. To znamená
+třeba naposledy jsem dělal
+takovou blbost, nebo
+ptákovinu, jak v podstatě nahukovat
+Python pro security účely.
+To znamená, abychom viděli
+na tom
+levlu toho skriptu, co ten skript dělá.
+Protože samozřejmě jedna věc je obsah toho skriptu
+a druhá věc je, když se v něm začne něco rozbalovat.
+Jako nějaký second stage payload.
+Takže víceméně
+v tom případě otevřu vizuálko,
+nějakej debugger
+a pracuju
+s tímhletím. V případě nějakých
+malwareů tak otevřu IDU, což je
+takovej industry standard
+Interactive Disassembler
+se to jmenuje.
+Kde ten se používá
+v okamžiku, kdy
+nemáte zdrojáky. To znamená
+máte prostě nějakou binárku, typicky
+malware, nebo něco, co si nejste jistý, co dělá.
+Nebo potřebujete zjistit něco
+z Windowsového kernelu, což taky k tomu
+nejsou zdrojáky.
+Takže otevřete a v podstatě
+disassemblujete a snažíte se přijít na to,
+co ten daný kus kódu
+vyrábí. A tam začíná ta tvoje
+detektivní reverse engineering práce.
+To je v podstatě asi gro
+reverse engineeringu. Musím říct, že
+dneska ty nástroje jsou samozřejmě daleko
+dál, než byly, když jsem začínal.
+Takže dneska to má spoustu
+feature, který
+tu práci usnadňují.
+Je nějaký format třeba
+ve vaší doméně
+ustálený pro
+řekněme nějaké dokumentování
+takových těch tvojich
+nálezů při tom reverse engineeringu?
+Protože samozřejmě ty se podíváš
+dovnitř, pochopíš, jak to funguje, ale výstup
+takovýhle analýzy
+má nějaké náležitosti, předpokládám.
+Nebo co s tím pak děláš
+s tou informací? Většinou
+jo, typicky se o tom vlastně
+je to hodně podobné, jako kdyby člověk psal
+nějaký research paper třeba pro
+konferenci samozřejmě.
+Není to tak rigidní, není tam potřeba
+jako tolik náležitostí,
+ale typicky
+je nějaký úvod,
+proč to člověk dělá,
+jaký je prostě current status,
+jaký je prostě status quo
+toho problému momentální,
+co jsme zjistili
+a jaký jsou navržený
+třeba mitigace, nebo co se s tím dá dělat,
+jestli to jsme schopni zvládnout
+v případě třeba nějakého security produktu,
+tím, co máme, jestli jsme schopni
+tu detekci napsat s využitím nějakých
+engineů, anebo jestli
+je potřeba přidat nějakou funkcionalitu.
+No a pokud je potřeba přidat nějakou funkcionalitu,
+tak většinou píšem,
+usnadňujem vlastně engineeringu
+tu práci tím, že napíšem třeba
+nějaký proof of concept, pokud je to v našich sílách,
+kde jako ukážem, jak by se
+to dalo udělat, ale
+od té doby, co dělám v researchi
+a v reverzování, tak se
+v podstatě koderům do práce moc
+necpu, protože můj
+kód nevypadá jako moc hezky, když ho
+napíšu.
+Je tvůj vlastní kód, vypadá trošku jako útok
+na vývojáky.
+Jo, ano, je to takový
+jako splácaný,
+hlavně, aby to bylo rychle, že?
+No a vlastně je tam
+jeden z těch vstupů, která potom jde někam
+třeba i do backlogu toho produktu konkrétního,
+jakože si přijdeš na něco, co víš, že se musí
+jako vylepšit potom v rámci toho.
+Jo, jo, jde to normálně, víc než se to plánuje,
+že jo, na nějaký prostě sprinty,
+klasika, používáme jiru,
+tak jak v podstatě asi většina
+korporací, takže
+ano, pokud se to nedá udělat hned,
+tak to jde
+do nějakého backlogu a eventuálně
+je to prostě v plánu.
+S tím, že ten člověk většinou,
+který ten research dělá, tak je nějakým způsobem
+jako owner a je s tím
+pořád zpřaženej v okamžiku, kdy
+samozřejmě vývojáři a zbytek toho
+týmu má nějaké otázky, nebo třeba něco
+dovysvětlit, nebo něco třeba
+ještě dozjistit.
+A když vaši vývojáři
+dělají vlastně obranu
+proti těmhletěm útokům, jaká je
+ta strategie? Je to o tom, že třeba chci, aby si
+ten malware myslel, že vlastně jako probíhá
+všechno v pořádku a
+akorát my ho navedeme do nějaký jako
+slepýho trezoru a tam ho zavřeme,
+nebo chcete vyloženě tu exekuci
+jako utnout? Jak se vlastně
+k tomu nepřistupuje?
+To je rozdílnej právě přístup v tom, jak to funguje
+tady v těch EDRkách a jak
+to funguje třeba v klasickém antiviru.
+Co třeba
+můžu říct, tak v Avastu
+byl Autosandbox, což byl
+jako tool, respektive
+jeden z engine-ů detekčních,
+který se spouštěl a na kterým jsem
+vlastně i pracoval v době, když jsem
+dělal ten vývoj, který
+se spouštěl v okamžiku, když už ten
+antivir jako nevěděl, co s tím. Respektive
+fungovalo to tak, že když
+jste si otevřeli nějaký exáč, nebo nějaký
+jako nějaký prostě kód,
+tak se
+tak prošel nějakýma detekčníma
+enginama, pokud nebyl detekovaný,
+tak se zjišťovala také jeho reputace,
+což je nějaká backendová služba,
+což typicky znamená, jestli
+tenhle ten hash, tohle
+souboru, někdy
+někdo jiný z jakoby toho
+flítu těch antivirů, nebo těch
+klientů viděl. A pokud ne,
+tak je to samozřejmě podezřelý, protože
+většinou, žeho lidi mají nastahovaný
+ty stejné aplikace, ty stejné verze.
+Takže pokud se něco takového stalo
+a mělo takovou nízkou prevalenci
+venku, tak to
+padalo do toho autosenboxu,
+který v podstatě byl dizajnovanej
+tak, aby ten
+exáč odizoloval, pustil v
+izolovaném prostředí po nějakou dobu,
+což samozřejmě byla
+vždycky otázka sporu a nějakého
+fine tuningu, kolik
+si můžeme dovolit jako toho uživatele
+zdržet v okamžiku, kdy tohleto probíhá
+ta analýza.
+Tak vlastně to po nějakou dobu běželo
+a sbíraly se všechny události, všechno
+jako by co to dělalo, to znamená
+bylo to podobné tomu
+IDR-ku, má všechny syskoly,
+které se volají, všechny API funkce, které se volají
+a na základě nějakých signatur se
+vyhodnocovalo, jestli je to jako
+potential malicious nebo ne.
+Takže tohle
+je přístup třeba v tom
+klasickém antiviru, tohle
+se většinou v těch IDR-kách neděje.
+Tady se spolíhá na to, že se detekujou
+ty věci buď hned, anebo
+se ty události sbírají a pak se
+pomocí AI vyhodnocují
+na těch backendech třeba.
+Já tady mám napsanou jednu
+z kratků, která mě zajímá.
+DBT, Dynamic Binary Translation.
+Můžeš vysvětlit prosluchačům,
+co to je a jak to zapadá do toho,
+co jsme teďka řešili,
+jak se to využívá v oblasti security?
+Úplně ideálně to navazuje na to, co jsme říkali
+předtím.
+Tak to je nádhera, ty jsi to vlastně věděl.
+To jsou ty rostlý ústředky.
+Tato věc se používala konkrétně
+v Avastu, v tom autosandboxu,
+respektive byl to jakoby další layer.
+DBT obecně je,
+asi spousta lidí, kteří poslouchají
+tenhle ten podcast, tak třeba ví,
+co je JIT, Just In Time Compiler.
+Je to
+v podstatě velmi podobnej přístup
+v tom, že se veme
+binární kód, pustíte binárku
+a ta binárka
+se zaběhu
+disassembluje a zase zpátky
+assembluje.
+Vytváří se jakoby basic bloky.
+Typicky basic blok je něco, co je
+flow toho programu
+po nejbližší
+skok.
+V okamžiku, když se začne větvit, tak to je vlastně hranice
+toho basic bloku. A ten princip
+DBT je vzít
+ten originální kód,
+disassemblovat ho na hranici toho bloku,
+nějakým způsobem
+ho přebásnit a vytvořit jako
+novou verzi, tu si uložit
+do cache a tu pustit.
+Je to v podstatě jakoby
+dynamický překlad toho programu
+do úplně něčeho jiného,
+zaběhu by se dalo říct.
+A k čemu se to využívá, je
+další zkrátka, která je
+DBI, kdy to I tam znamená
+jako instrumentation. A to je právě
+třeba případ těch antivirů, kdy
+vlastně já vemu tu originální binárku
+bez znalosti nějakého zdrojového kódu,
+prostě ji pustím, rozeberu ji na ty basic bloky
+nebo respektive postupně ji rozebírám.
+To se děje všecko jakoby
+one by one, ty basic bloky.
+Takže ji postupně rozebírám a ty bloky
+překládám do kódu,
+který tam vloží nějaký čeky.
+Typicky tohleto se používá,
+když ten kód přistupuje někde
+k paměti, typicky když zapisuje
+do paměti, tak se tam vloží ček,
+nějakej memory check, který se
+kouká, jestli tato paměť
+třeba nebyla předtím nějakým
+způsobem už označena,
+že by potenciálně mohla
+obsahovat nějaký nový data,
+nějakej novej kód. A v okamžiku, kdy se takový
+basic bloky začne pouštět,
+tak ten systém vlastně má
+kompletní vhled do toho, jak běží to flow
+toho programu. A víš, že teď se bude
+pouštět něco, co
+šahá třeba, nebo
+co je z té paměti, do které se předtím
+zapisoval kód, což může
+být jako red flag.
+Typicky tohleto se používá pro
+takzvaný generický
+unpacker.
+Typicky, když máte malverový
+vzorek, tak je nějakým způsobem obfuskovaný,
+je to nějak zabalený, aby
+to nebylo čítelný, aby pro takový
+ty klasický engine, který
+hledají signatury,
+tak aby to vypadalo jako něco
+novýho a nebylo to vlastně jako by v těch
+známých signaturách. A tady
+ta obfuskace se dá
+řešit dvěma způsobem. Tak buď znáte ten
+algoritmus a prostě to neobfuskujete
+jako by staticky, nebo předtím, než se to
+spustí a pak se to zkontroluje.
+A nebo, na co cílí právě
+v tomhle případě to
+DBT, ono se teda používá jako v různých
+jiných situacích, ale v
+antiviru se většinou používá na to,
+aby
+vlastně chytilo přesně ten
+moment, kdy ten novej kod se jakoby rozbaluje
+před tím, než se spustí.
+Protože v ten okamžik ta signatura tam
+musí být, že jo, protože ten kod se bude provádět,
+bude se provádět na procesoru, takže musí mít
+ten format, na jakým prostě poběží, že jo.
+Takže k tomuhle primárně
+se používá jako DBT v antivirech.
+Ale jinak se to dá použít i třeba
+pro překlad
+programů z jedné architektury
+do jiný. To znamená, máte program, který
+je pro Intel, potřebuje toho
+pustit na ARMu.
+Takže dá se prostě přes DBT vytvořit
+dynamický překladač, který
+v podstatě takovou věc je schopnej zajistit.
+Já jsem si úplně
+vzpomněl, když mi babička říká,
+třeba se stříhám nějaký video
+prostě z nějakých těch, protože když dělám v tom
+IT, tak bych to měl znát.
+Tak vidím prostě, jak je ten svět IT širokej.
+To je úplně nový věci, co tady říkáš.
+Prostě, o kterých jsem nikdy neslyšel.
+Prostě fakt jako nejvěřitelný.
+Jako z DBT k babičce.
+Jako to není oslý misek,
+to je oslý Golden Bridge.
+Golden Gate, to je nevěřitelný.
+To je nevěřitelný.
+Každopádně, když to jak
+zabalíme to security, máš 25 let zkušeností
+v IT, zhruba, plus minus
+autobus. Jak máš pocit, že se změnilo
+to vnímání tý security v čase?
+No, jestli máme měl opravdu, tak asi
+40 teda, ale jako let zkušeností.
+Jo, jo, takhle.
+Supelek.
+Hrozně. Jako
+úplně diametrálně.
+Jako ten skok je neuvěřitelný.
+Já musím říct, že jsem hrozně jako rád,
+že jsem se narodil v podstatě do téhle doby.
+Protože bych řekl, že jakože žijeme
+v té době
+toho zlomu,
+ty evoluce v nějakým
+IT, k té revoluci, kdy
+opravdu to tempo
+nabírá na
+obrátkách každej den.
+A když to řeknu přímě,
+já jsem vlastně začal studovat
+s tím, že jsem chtěl dělat asi
+elektroniku a možná tak počítačový
+hry a možná grafiku,
+ale v té době jako o security
+málo kdo vůbec mluvil.
+Když to vezmete, tak Avast byl založenej 88,
+to mi bylo 10.
+Takže
+jako ten skok je
+opravdu veliký
+a samozřejmě i na té druhé straně.
+To znamená, vidíme dneska čím dál tím častěji,
+tak jak se používá dneska machine learning
+a i k detekcím,
+stejně tak se používá na té offensive straně
+k útokům.
+Viděli jsme loni,
+na konferenci jsme třeba viděli
+research
+v podstatě, dá se říct,
+automatizovaného síťového útoku
+pomocí chat GPT,
+large language modelu,
+kdy ten systém byl schopný
+tu síť prohledat,
+zjistit zranitelnosti
+a potenciálně,
+což samozřejmě se úplně nedemonstrovalo,
+byl schopný ty zranitelnosti použít.
+Takže ten skok
+z manuální práce,
+z takové
+mravenčí,
+je vidět
+jako obrovský
+dneska směrem k AI.
+Hodně security se dneska taky odehrává
+v datový analýze.
+Už to není jenom to reverzování,
+ale je to sbírání
+ohromnýho množství dat
+a na základě těch dat
+destilování nějakých paternů.
+Takže ta industry
+se změnila opravdu
+k nepouznání.
+A myslíš, že to směřuje k tomu,
+že teda za 5, 10, 15 let
+mezi sebou budou takhle bojovat
+v podstatě bez jakýhokoliv našeho zapojení
+jako svět zlýho AI
+a svět hodnýho AI
+a oni se tak jako budou betlit,
+ty udělají novej útok, ty si ho odchytnou, naučejí se
+a my to budeme jenom pozorovat.
+S tím, co dneska vidím
+a s tím, jak se vyvíjí
+agenty k AI
+a tyhle ty přístupy, tak
+si myslím, že to nevědí nutelný.
+Jednou to přijde. Jenom otázka je,
+jakou v tom budeme ještě hrát roli my.
+Takže budu s tím paraplíčkem, s tím drinkem,
+že koukat, jak se to mastí zleva, zprava.
+V tom dobrým scénáři.
+Tak já si samozřejmě nejsem idiot,
+já si pro sebe projektuju
+jenom dobrý scénáře, samozřejmě.
+Jenom tak jako off-topic, když chci něco
+počet GPT, tak vždycky poděkuju a poprosím.
+Hele, je to dobrý. Říká se,
+že on si to bude jednou pamatovat.
+Hele, no, já taky už jsem to čet a přestal jsem to dělat.
+Děkuju, že si to zase připomenu a začnu to zase dělat.
+Stejně tak, jako vždycky, když jsou Boston Dynamics,
+ukazujou ty svoje roboty
+a oni do nich kopou. Já furt říkám,
+nedělejte to, ty vole, on si to bude pamatovat
+a on vám to vrátí, ty vole, prostě netrapte ho, ty vole.
+No ale fakt, furt to zkoušej,
+furt do nich, do chudáka kopou,
+do toho psa, že jo. Prostě na každém videu
+do chudáka psa řešil, říkám, ty vole,
+tak si kupte živýho, nechte toho chudáka robota bejt.
+No a zpátky k security.
+Prosím tě, jedna věc mě ještě zavěla.
+Ty si, říkáš o sobě,
+že jsi advokát open source,
+zároveň řeší security.
+Vidíš tam nějaký konflikt, samozřejmě
+otevřený kód, to je jako paráda,
+všichni máme open source rádi, na druhou stranu
+spoustu
+rizik nebo spoustu i útoků,
+spoustu řekněme problémů v security, kolikrát
+z toho open sourceu historicky
+jako vzešlo, ať třeba tím, že
+slepě věřím tam
+nějakému kontributorovi, myslím si,
+že tvůrci NPM balíčku, ty mají vůbec
+jako svůj vlastní hřbětov, takovýhle chvěcí.
+Jak to vidíš ty?
+Takovýhle jako rozkol mezi tím.
+Hele, nemyslím si,
+že je to úplně rozkol,
+když jako srovnám closed source a open source,
+jako ve finále
+oba dva ty světy trpí
+stejnýma jako nešvarama, co se týče
+security. Co je výhoda
+na open source je,
+že když se najde někdo,
+kdo ty zdrojáky všechny projde,
+což je čím dál tím samozřejmě složitější, protože
+jsme si vybudovali v podstatě
+celý ekosystem IT
+postavený na komponentách
+a na nějakých dependencích, takže jako
+není to jednoduchý. Ale když ten
+kód někdo jako najde, tak
+když najde nějakou zranitelnost, tak je
+schopný dohledat to v tom kódu, že jo.
+A je schopný nějakým způsobem
+tomu maintainerovi říct,
+že tady je prostě problém
+a v relativně krátkém čase
+srovnat nějakou nápravu.
+Tak je docela blbý, že když je to publicly visible,
+že tam někdo udělá nějakou prasárnu,
+tak většinou ti maintainři
+nebo kontributoři si dají pozor,
+aby to opravili co nejrychlejce.
+V tomhletom jako vidím nespornou výhodu.
+Navíc dneska,
+čím dál tím častěji jít na nějakou
+kontrolu toho kódu, se používají
+žeho různý analyzátor je automatizovaný
+nějaký prostě statický analýzy kódu,
+což samozřejmě jde daleko líp
+se source codem,
+než když máš binárku
+a nevíš vlastně, co dělá.
+Druhá věc je, že
+zrovna v té close source
+větvy nebo
+ekosystému
+hodně často ty lidi spolíhají na to,
+že je to takový, já tomu říkám,
+nebo obecně se tomu říká
+security by obscurity,
+to znamená, nikdo tomu nerozumí,
+nikdo do toho nevidí,
+tak proč bych tam neuložil
+to plaintextový heslo, že do té binárky
+k tomu apičku.
+Takže tohle,
+ne, že by se to nedělo v open source,
+to je třeba jeden, to jsem chtěl říct,
+že pokud už si teda jako člověk dá
+pozor a nespublikuje
+zdrojáky do githubu i se všema
+API klíčema a heslama,
+tak je to jako relativně podle mě
+výborný koncept.
+Už jenom z toho důvodu, co jsem říkal,
+to znamená nějaká dohledatelnost těch
+i rychlejší opravitelnost.
+Tím, že jsem
+dělal i nějakej research třeba nad
+IoT věcma,
+tak dost často, že oni ty komponenty
+nebo ty dependence nejsou
+jenom v tom open source světě, oni jsou
+samozřejmě i v tom closed source světě, kdy se
+přeprodávají jako hotový libky
+nebo binárky s binárním kódem.
+A pamatuju si
+třeba případ nějakých kamer,
+respektive ne nějakých kamer, ale skoro
+všech čínských kamer, který
+používali jako jeden jedinej
+framework na výměnu
+těch jakoby
+videostreamů.
+Nějakej vlastně ten P2P protokol,
+pro výměnu toho
+videostreamu. Všechno to bylo postavený,
+nebo většina z nich byla postavená
+prostě na jednom protokolu od jednoho
+výrobce na jedné binárce.
+A v binárce byl prostě fixní
+klíč, takže všechny ty streamy
+po celém světě, ať už to kamera byla od
+kohokoliv, tak používali vlastně
+stejnej šifrovací klíč, který
+mimochodem teda byl poměrně vtipnej,
+protože zněl
+Charlie is a developer.
+Já bych čekal
+nějaký předprodukcí
+smašte, nebo takový
+ty pozapomenutý
+you know to myself, který pak se dostanovaš
+do produkce. No ty jsi zmínil
+několik velmi, velmi
+zajímavých věcí.
+Ty třeba si, jak jsi říkal o tom, že někdo
+komitne do GITu
+nějaký API klíče a tak dále.
+Já myslím, že ale tohle už spoustu těch nástrojů
+řeší, ne? Já myslím, že GIT, když dáš
+nějaký API klíč třeba k Azureu nebo něco, tak automaticky
+to revouknou, že už má nějaké
+napojení na nějaký cloud provider, který řeknou
+tohle bylo exploitované a rovnou to
+jako revoukni z GVoltu a tak dále.
+Ale pořád asi ten prostor je
+velkej pro takovouhle kreativu,
+jako co propálit. Ono záleží, jestli
+ten klíč tam je plain text, nebo jestli je tam
+nějakým způsobem obfuskovaný,
+aby to bylo jako těžší, čímž to vlastně
+jako zjednodušejí
+útočníkům. Takže jako jsou
+lidi, kteří se jako probírají vrstě Githubu
+mýma reproducitářem a hledají tyhle
+ty klíče. A další věc jsou ty dependence
+samozřejmě. To je ohromný problém,
+obzvlášť v korporátech,
+protože co si budem, spousta
+produktů je založených na open source
+a na knihovnách třetích stran.
+Zmínovanej Node.js,
+že jo. A pak se
+něco stane.
+A v podstatě
+ty produkty
+jako má, dneska je
+teda přístup takový, že pokud už ta firma
+má nějaký jako security
+awareness a jestli vědomá tady těch riziků,
+tak většinou drží
+nějakým způsobem jako verifikovaný klony
+těch repozitářů.
+Ale pořád je spousta firm, který
+prostě stáhnou poslední revizi
+z Githubu a neřeší, co je vevnitř.
+Takže se myslí, že ta cesta
+pro tyhle ty firmy, třeba řekněme specificky
+softwarový firmy, který na těchto věcech
+jsou závislí, protože nebudou si všechno vyvíjet sami
+ani si platit všechny package.
+Je teda nějaký custom
+jako NPM feed,
+custom prostě Nuget feed,
+custom prostě zdroj.
+A něco, co je prostě verifikovaný, co projde
+nějakou jako security kontrolou.
+Ono je to složitý,
+je to samozřejmě těžký, protože těch packageů je
+hodně, toho kódu je hodně
+a není to vždycky jednoduchý,
+co si budeme povídat. Teď nedávnej případ
+s tím
+XZUtil,
+myslím se jmenuje ta knihovna,
+která je open source a je základem
+SSH.
+Ukázalo se, že v podstatě
+do té open source community
+těch maintainerů a těch
+lidí, těch příspěvatelů, individuálních
+kontributorů se prostě vetřel člověk,
+který tam jako záměrně infiltroval
+Mališe Scott,
+který byl ještě navíc jako velmi dobře
+propracovaný a skrytej.
+Takže jako člověk, který má poměrně
+asi solidní znalosti
+a věděl, co dělá
+a nebýt toho, že se to povedlo
+odhalit za pět minut, dvanáct,
+tak kdo ví, co by se stalo.
+A je to SSH nástroj,
+je to SSH prostě
+standard.
+Demon, který používá úplně snad každý.
+Jasně. Jak moc je to
+letsto na bedrech těch maintainerů,
+protože open source většinou
+znamená, dělám to z lásky
+technologii, mám příliš mnoho
+volného času nebo opustila mě třetí žena,
+nevím teďka, co budu dělat,
+tak prostě jako dělám nějakou lipku,
+ale vlastně na začátku
+rovnou říkám ve všech těch
+MIT licencích a tak dále, říkám,
+tohle je prostě lipka, vemte ji, jak je,
+nejsem za nic odpovědnej.
+Že není to vlastně
+v rozporu, a tím se dostávám zpátky k té první otázce,
+s tím vlastně open sourcem, protože
+prostě tohle přeci nemůžeš celý obsáhnout,
+ne, jako maintainer.
+Dost těžko, dost těžko, záleží,
+kdo je teda maintainer. Samozřejmě dneska
+do open sourceu přispívají i ty korporace,
+že on třeba Microsoft v tomhle to razí
+docela
+slušnou. Mě řekl na to,
+že jsme vždycky Microsoft znali
+jako ten closed source
+rybníček,
+tak poměrně
+se teď snaží.
+Neřekl bych, že je to úplně na bedrech.
+Samozřejmě dobrý je dodržovat
+nějaké pravidla,
+nějaké best practices, připsání
+secure kódu. To si myslím, že
+to je spíš otázka profesionální
+cti, ale
+asi to opravdu nikdo nemůže
+potom kontributory a maintainerovi
+vyžadovat. To znamená,
+ta zodpovědnost se přesouvá
+zkrátka na toho, kdo to používá.
+To znamená, pokud to chci používat v
+komerčním produktu a chci zajistit
+aby ten komerční produkt měl nějakou
+úroveň bezpečnosti a byl
+nějakým způsobem certifikovaný, no tak hold,
+budu muset udělat ten security audit
+na svý náklady.
+Na druhou stranu mi to přijde docela fair,
+protože už tím, že využívám jako open source
+produkt, tak je moje
+zodpovědnost, aby ho využil
+správně a abych případně
+zamezil tady těmhletěm problémům.
+A ty jsi
+publikoval několik článků a dostávám se k IoT.
+Bavili jsme se o tom trošku,
+když jsme si volali před
+tílem. Jak vnímáš dneska bezpečnost
+chytrejch zařízení? Jo, dneska v roce
+2015 stále platí, že IoT
+rovná se Internet of Threats.
+Jo, my
+jsme měli takovej vtip, jako že
+S jako
+security v IoT, v tom
+tý zkratce. Já si myslím,
+že to trvá. Jako rozhodně
+se to zlepšilo. To
+jako vývoj tady vidět
+rozhodně. Navíc je docela otázka
+v dnešní době, co je IoT. Jako IoT
+je takový hodně pro mě neuchopitelný,
+pojem. Protože v podstatě cokoliv, co je
+připojený k sítě, je nějakým způsobem IoT
+a dneska těch zařízení je opravdu
+mrak. Dneska už dávno není
+éra prostě počítačů a mobilů, ale
+víte sami, jakože spousta
+zařízení, kteří nemají ani žádný display, takže
+těžko ani víte, co to zařízení dělá.
+Když jsem začínal
+s IoT, tak to bylo vlastně
+v tom Mavastu, tak to byl poměrně jako
+boom. Kdy ta
+sekurita byla jako opravdu hodně špatná.
+Já bych řekl, že to bylo
+takový to dětství IoT, kdy
+se to začalo hodně masově
+šířit a začalo se to hodně masově používat.
+A teď jsme tak někde v
+ubertě. Takže
+posun tam je, ale
+pořád se nacházejí
+ty stejné problémy a typické
+jako problém IoT. A to není jenom IoT.
+Já tomu říkám out of the box
+problém. Platí to
+i o softwaru. Kolikrát.
+Kdy prostě to zařízení je nachystaný
+tak, aby to člověk vytáhl z té krabice, zapojil to
+do sítě a ono to funguje magicky.
+Což je sice fajn pro toho
+uživatele, ale na druhou věc je
+druhá věc, že ho to nedonutí k žádnému
+nastavení. To znamená, že to
+zůstane v těch defaultních konfiguracích
+a i když dneska už je spousta zařízení,
+které mají třeba jedineční hesla,
+jako ByPiece,
+že každej kousek má prostě svoje vlastní heslo,
+tak pořád je prostě hromada zařízení,
+které mají prostě defaultní jméno
+a heslo a není nic jednoduššího, než na Google
+najít návod k takovému zařízení.
+A pokud to zařízení prostě funguje,
+já ho vytáhnu, připojím
+a ono funguje, tak málo který
+uživatel jako si dá tu extra práci
+zajít do toho nastavení a změnit
+jméno a heslo. Takže jméno a heslo
+je snad nejběžnější
+problém IoT zařízení dneska.
+Ty máš z tohohle rybníčku
+i zajímavý historky.
+Jedna mě mi utkvila o
+Wi-Fi kávovaru, to je dokonce věc, která se
+dostala do Forbesu, si říkal.
+Tak pověz nám trošku víc.
+No ta se dostala úplně všude, přitom to byla taková
+blbost v úvozovkách,
+ale no na to bylo funny.
+My jsme měli, že byl
+ten boom IoT, jednu dobu se
+v Avastu vlastně i řešilo,
+že se budou vyrábět v podstatě
+nějaký gatewaye pro sítě
+domácí, který by hlídali
+network traffic
+a snažili se jako detekovat mališe z paterny,
+takže se do toho
+researche tenkrát ohledně IoT docela šlapalo
+a měli jsme tam prostě kávovar,
+který se dal
+připojit prostě do Wi-Fi,
+i když do dneška mě jako uniká
+smysl kávovarů.
+Proč pro Boha?
+Fajn, že si člověk pustí appku, když leží
+v posteli a nechá si udělat kafé,
+ale stejně tam musí dát tu karafu,
+dát tam to kafé a dát tam tu vodu.
+Ale
+jako jasně, takových zařízení
+jako mrak, který nedávají smysl,
+jako chytrý záchody a podobné věci,
+ale
+tady v tomhletom případě to bylo vtipné,
+v tom, že jsme se tak trošičku
+jako s kolegou vsadili,
+jestli jsme schopní to jako rozbít.
+Nějakým způsobem ukázalo se,
+že jsme to schopní rozbít
+jednoduše jít, než jsme mysleli.
+A problém v té době, hlavně těch zařízení,
+nebo typicky IoT zařízení,
+které nemají nějaký jako
+UI, nebo nemají nějaký jako
+ovládací panel, nebo nějakou klávesnici,
+tak typický problém
+takovýchto IoT zařízení je,
+jak je jako nasetupovat, jak je připojit třeba do sítě.
+Takže v té době frčelo to,
+že jakýkoliv IoT zařízení, který člověk
+vytáhl z krabice a chtěl ho připojit do domácí sítě,
+tak si vytvořilo svoje vlastní
+APčko, svoji vlastní sítě,
+do které se nejdřív připojíte appkou
+a pak z té appky to nastavíte
+a připojíte to do svý sítě.
+No akorát problém třeba tohohle kávovaru byl,
+že vytvořil tu sítě
+a ta sítě byla samozřejmě jako bez jakého
+jména hesla, že jo, to byl prostě otevřený
+hotspot
+de facto
+a hlavně ale umožňoval
+vlastně veškerou tu funkcionalitu,
+jako kdyby to bylo připojené už v té sítě.
+To znamená, v tomhletom případě,
+na co jsme cílili,
+tak byl
+nápad, jestli bychom
+byli schopní v tom zařízení vyměnit
+firmvér
+za nějakej, který si napíšeme sami.
+Nebo upravíme
+sami. Takže vlastně tímhleto
+se to celé odstartovalo
+a nějakým,
+to asi nebudu chodit úplně do detailů,
+ale nějakýma prostě krokama,
+že jsme zjistili, co v tom kávovaru je
+za
+desku, co to používá za procesor, aby jsme
+věděli, čím případně ten
+firmvér máme analyzovat. Rozebrali
+jsme tu apku vládací, tam jsme zjistili,
+že v té apce přímo je ten soubor
+toho firmvéru pro ten update.
+Což na jednu stranu dává smysl,
+protože většinou, když vydáte jako novou apku,
+tak potřebujete tu funkcionalitu mít na tom
+zařízení a opačně.
+No ale to nám samozřejmě zjednodušilo
+nesmírně práci, protože jsme ten soubor
+prostě jenom vytáhli v té idě,
+že jo, v tom disassembleru
+jsme to rozebrali
+a postupně jsme jako
+identifikovali všechny ty funkce toho kávovaru,
+na kterým pynu toho procesoru je co připojený.
+Takže jsme jako věděli
+tu architekturu, jak to funguje,
+co se s tím dá ovládat. Ukázalo se, že vlastně
+ta bezpečnost, to znamená třeba, aby
+se vypl ten topící
+element, co tam je, tak je
+vlastně embedovaná v tom softwaru,
+což vytváří jako docela
+zajímavou otázku, že
+když je to softwarový a někdo to
+teda jako hackne, tak může
+potenciálně jako tady ty
+safeguardy proti
+přehrátí nebo proti jakýmkoliv jiným věcem
+obejít a nahradit.
+Takže jsme rozebrali ten
+firmvér, zjistili jsme, jak to funguje,
+udělali jsme tam malej edition
+a udělali jsme z toho vlastně
+rozebrali jsme ten
+updateovací protokol, tam bylo teda zajímavý
+to, že jakákoliv
+autentikace, autorizace byla
+neexistující, tam stačilo
+znát ten protokol, security by
+obscurity, který byl navíc velmi
+jednoduchý a ten soubor jako do toho
+kávovaru natlačit přes
+Wi-Fi. No a potom ten
+kávovar fungoval tak, že kdykoliv ho ten uživatel
+potom chtěl připojit do té svý
+sítě, tak zobrazoval
+ransomware message a
+bitly link na web,
+kde teda byla
+byla
+stránka takrát avastu
+s vysvětlením, co to je jako ransomware.
+Ale
+v podstatě jsme nám to
+povedlo jako rozebrat do posledního
+šroubku a vědět, jak to funguje.
+Ale teď si řekněme, že jste teda jako hodný lidi,
+který teda v podstatě jediný, co s tím
+udělali, je, že těm uživatelům
+zobrazili link, na kterým se mohli dozvědět
+víc, což je vlastně jako řekněme
+ta dobrá, ta světlá
+strana toho hackingu.
+Co by se vlastně
+s tím dalo dělat na druhý straně?
+Já jsem slyšel, nebo vlastně politist to tady
+v jednom díle, někdo ti to vysvětloval, že problém
+není to, že se ti někdo z Číny připojí
+na to zařízení, ale to, že přes
+ně je dostatečně silný, aby následovali
+další útoky, třeba v tvý síti.
+Ale v případě kávovaru,
+který má funkce, jak se říkal, je tam
+topná spirála, je tam možnost
+výplachu, je tam možnost si vlastně
+pustit do toho nějaký srajdy.
+Tam už jde i o zdraví, jako vyloženě
+fyzicky toho člověka, který u toho kávovaru stojí,
+nebo nejde jí bože, že se mi zmáčkne, že chce udělat
+silný kafe a já mu tam pošlu
+nějakou čistící kapalinu nebo něco, ne?
+Tenhle ten to neštěstně neměl, tenhle kávovar,
+ale teoreticky mohl asi zahořet,
+kdybychom to vlastně i demonstrovali
+tím, že jsme ubešli právě ty safeguardy,
+takže z toho tekla voda, i když tam nebyla ta karafa,
+jakože ty senzory vlastně, které detekujou
+a
+spíš jako k čemu se ty
+IoT zařízení dají zneužít
+a co jsme viděli taky a řešili jsme
+a nejenom IoT zařízení,
+ale třeba i routery, je
+vlastně ti útočníci většinou nejdou
+po tom, aby se nabořili k tobě
+do domácnosti a viděli, jak se sprchuješ
+nebo nevím, jo, ale
+většinou jdou po tom výpočetním
+výkonu. To znamená
+využít ty zařízení, pokud teda nemluvíme
+o nějaký průmyslový špionáži a jako
+dostání se do perimetru v sítě
+a exfiltraci nějakých dat. Ale
+primárně u těch domácností, u těch
+IoT zařízení jde o to vlastně vytvořit
+botnet. To znamená vytvořit sít nějakých
+jako enslavovaných zařízení,
+který potom třeba můžou udělat
+DDoS útok na
+nějakou jednu konkrétní adresu,
+což se i stalo a děje.
+A tam potom vlastně ani nezáleží
+moc na tom, jak to zařízení je výkonný.
+Ono stačí, aby bylo schopné se
+připojit do venkovní sítě nebo udělat
+jako HTTP request.
+Takže byl případ
+svýho času,
+když teď odběhnu od toho kávovaru,
+kdy byla
+taková zranitelnost v
+MikroTik routerech. Nevím, jestli
+znáte MikroTik routery,
+je to společnost v podstatě
+myslím, že litevská,
+teď abych nekecal.
+Vyrábějí zařízení, které jsou
+jakože klasické routery
+jsou hodně srovnatelný, co se týče
+feature třeba se syskorauterama, ale jsou
+samozřejmě za zlomkovou cenu.
+Takže jsou populární.
+Míří samozřejmě i ty
+local ISPčka, třeba
+na hotely a takový jako lidi,
+kteří potřebujou řešit podobné věci,
+jako jdou na sysku znauňovat nějaký hotspot,
+nějaký prostě accounting těch uživatelů
+a tak. Takže jsou poměrně mocný
+a existovala
+myslím, že 2017 nebo 2018
+vydali jako
+v podstatě varování, že teda
+našli jako zranitelnost v nějaký verzi,
+která umožňuje velmi
+jednoduše, až jako příliš
+jednoduše, získat seznam
+všech uživatelů z toho routeru jako
+remote a
+dešifrovat hesla, protože ty byly zajety nějakým
+fixním klíčem. No a co se
+samozřejmě stalo, v okamžiku, kdy vyjde
+něco takového, co má takový impact
+a na druhou stranu je to tak jako
+easy to misuse, no tak se
+samozřejmě vyrojela hromada kampaní,
+kdy vlastně více méně
+malwareoví akteři
+se prali o ty zařízení,
+vyložení se jako normálně
+o ty zařízení prali, zamykali si je navzájem
+a vymazávali si z nich ty skripty,
+který tam nainstalovali,
+o to, aby vyrobili botnet. A to se tak
+potom stalo, myslím, že v roce
+2018, a říkalo se
+tomu Mirai botnet,
+ne Mirai, pardon, Meris botnet,
+což bylo 250
+tisíc těchto zařízení.
+Ty krás. Infikovaný jedním skriptem
+a ty
+v zápěti vygenerovali jako tak
+ohromnej prostě trafik, že sundali
+Yandex. Jo, jo, jo.
+Takže, to slušný.
+Takže dost možná poli se ti doma rusáci
+s Číňanama se ti tam perou prostě o router.
+Jo, o můj žárovku. O tvůj žárovku.
+Kdo pošle první tenhle,
+to to pere kvest někam.
+Tak to je zajímavý. Jak do toho ještě zapadá
+aktuální trend
+elektromobility a
+auta, který od
+zase za posledních 20 let, kdy
+člověk si ještě v naší generace pamatuje,
+že auta měly takový věci jako sitič a tak dále,
+ale je všechno manuální, tak teďka
+je to narvaný elektronikou, narvaný
+softverem a z mýho
+teda pocitu, já teda jako
+hodnotím podle stavu infotainmentu,
+ale nepřijde mi to, že by to bylo úplně jako
+extra etalon bezpečnosti.
+Není. Není. Jako opět
+situace se zlepšuje
+a ku podivu třeba v automotive
+industry se začalo
+tyhle, začaly tyhle
+ty věci řešit dřív, než se
+to stalo být problémem, což
+není úplně jako běžný v IT.
+Víme, jak to funguje.
+Ale pořád
+jako ten state,
+ty security jako není dobrý.
+S chodou okolností
+budeme mít letos na konferenci
+člověka, který přednáší
+o automotive bezpečnosti.
+A jak
+říkáš, jako dnešní auta jsou narvaný
+úplně vším, že jo, ty
+sběrnice jsou nějakým způsobem propojený,
+protože většinou
+infotainment systém je zároveň prostě palubní
+nějaký dashboard, kde potřebuje
+vědět stav na fouknutí
+kol, potřebuje vědět spoustu dalších
+informací, plus navíc
+dnešní moderní trend
+always connected, to znamená všechny
+auta jsou trvalé
+v podstatě v nějaký
+mobilní sítěnou připojený k internetu,
+k něčemu.
+Tak jako, není to
+úplně dobrý, ukazuje se, že
+v podstatě tím vším,
+čím trpěli IoT zařízení,
+trpí i auta dneska.
+To není dobrá zpráva.
+Je to trochu problém i v tom, že
+spousta jako
+automobilek a firm, že ho má
+možnost to auto už ohládat na dálku,
+má z aplikace, což
+většinou značí, že zatím sedí
+nějaký cloud, nějaký API
+a vlastně stačí jakákoliv
+drobný pochybení někde
+v tom řetězu těch propojených
+věcí, aby se člověk jako dostal
+k ohládání toho auta, což jako
+a to se taky stalo, že jo, několika
+automobilkám, takže
+jako není to úplně, úplně
+dobrý a
+otázka, co s tím budem dělat, asi tak,
+jak se všim, chce to prostě čas
+a chce to tlačit víc na
+bezpečnost.
+Abychom uzavřeli tu listu kapitolů,
+protože tady máme ještě jednu kapitolu, která mě velmi
+zajímá a prostě musíme se k ní dostat,
+ale abychom nějak jako uzavřeli
+to security.
+Co by se doporučil lidem, kteří
+teďka třeba vbíhají do
+IT, vbíhají do software developmentu?
+Přes měho pohledu
+a možná to je trošičku
+jako
+ovlivněný tím, jak já k tomu
+třeba přistupuju, nebo jak jsem se s tím
+historicky setkal u ostatních lidí, ale pořád
+mám pocit, že security je taková jako popelka,
+že security sedí z performance
+někde jako, sedí tam v rohu
+a čekají, až se zavolají, že se to stane
+problém, ale nikdo to neřeší
+hned na začátku, hned jako by to nemá v hlavě.
+Jak tohle ty by si do těch lidí
+nastavil? Musí to jít
+přes firmu, musí to jít ze spora vody
+jednotlivce, musí to jít na úrovni open source
+kontributorů, kde vlastně jakoby je ten
+vstup do toho, aby já, když
+začínám dělat software, aby
+security pro mě byla essential,
+stejně jako je čistota kódu,
+stejně jako je prostě vůbec to, abych to skompiloval.
+No,
+to je docela jako těžký.
+Ona navíc security je poměrně jako fakt široký
+pojem, ale v pohledu
+nějakého toho softwarového vývoje, já si myslím,
+že jedinej jako způsob, jak to
+udržitelně řešit a nějak jako
+systémově řešit je prostě
+v těch firmách, které ty softwary vydávají,
+tak zavíst procesy, zavíst nějaký
+prostě DevSecOps, nějaký
+prostě lifecycle toho
+produktu, kde součástí toho
+lifecycle je nějaký jako security
+testování, nějaký assessment
+před tím, než se to vůbec pustí ven.
+Protože jinak
+jako nemá úplně
+asi cenu
+pranířovat vyloženě vývojáře
+a engineering, který to vyrábí,
+protože jsou opravdu jako
+zranitelnosti a jsou věci, který
+jen vůbec nemusí napadnout,
+že existují. Takže
+jako jasně je to, jak jsem
+říkal, je to asi nějaká otázka profesníctí
+psát kód, který je bezpečnej, když
+vím, že bude produkční.
+Když jsem zmiňoval ty svoje proof of concepty, tak tohle
+určitě není typ softwaru, který
+je produkční. Takže pokud už to
+má jít jako do produkce, je to součást nějakého
+produktu, tak rozhodně asi proces,
+protože jinak
+se to asi ošetřit úplně nedá.
+Pak samozřejmě dobrý
+je, pokud je to větší firma,
+aby měla nějaké svoje pentestery,
+měla nějaký svůj red team,
+případně nějaké takové oddělení
+jako je v Sentinelu, který testuje
+vlastní produkt třeba proti známým zranitelnostem,
+ale samozřejmě otázka je,
+jsou to všechno náklady,
+z pohledu nějakého biznisu, takže
+je potřeba najít ten sweet spot
+mezi
+těma nákladama tím,
+aby to bylo dostatečně bezpečný.
+Chtěl bych říct, že dneska,
+když to natáčíme, je 4. února
+a pokud se nepletu,
+tak dneska oficiálně vychází
+od Warhorse Kingdom Come 2,
+což je
+fantastický oslý můstek,
+to se musím sám sebe pochválit,
+k řekněme životní
+fázi Martina,
+kdy ty jsi byl dva roky
+jako game a AI programátor
+v 2K Čech, což je vlastně
+bývalá Bohemia Interactive, říkám to dobře?
+Illusion Softworks.
+A pracoval jsi dokonce na
+Mafia 2.
+No, je to tak.
+Tak prosím tě, to mě samozřejmě zajímá,
+protože minulej díl byl celý herní,
+tak musíme navázat.
+To mi vysvětlil.
+Jak ses k tomu dostal?
+Hele, asi takovou nějakou
+lehkou frustrací ze zaměstnání předtím,
+nebo frustrací,
+já jsem vlastně vždycky chtěl dělat low level,
+jak jsem říkal, už od mala mě bavila
+grafika, tady jsem vyráběl
+nějaký grafický demíčka,
+a nějaký pokusy o hry
+proběhly taky.
+A vlastně
+bavilo mě na tom to spojení
+toho assembleru a ty grafiky
+a toho, že člověk pro ten výkon
+musí opravdu jít hodně
+hluboko, aby dostal
+solidní FPS, obzvlášť
+na mým prvním počítači, který
+PC, který byla 286
+na 12 MHz.
+Bez koprocesoru, takže všechno v pevné
+řádové čárně, bez
+floating point matematiky.
+A to ještě neměla turbo, ne?
+Takový to hezky si to zmáčklo.
+Teď jsi čekal, jak se to všechno...
+No 12.
+12 MHz bylo turbo.
+Takže mě to vlastně jako vždycky bavilo
+a vždycky jsem chtěl dělat něco, co je
+blízko tomu hardwareu, což splněvalo
+ty následující
+zaměstnání. Vlastně ta firma,
+ve které jsem byl předtím, než jsem přešel
+do 2Kček nebo do
+Illusion Softworks, tak vyráběla šifrovací
+drivery, což je jako kernelová
+záležitost, taky hodně low level.
+No ale tak nějak už se mě to
+jako zajídalo přece, no už jsem
+v té industri byl
+tou dobou asi 12 let
+a
+tak jsem říkal, že bych si jako odskočil,
+si odpočinout, pozor,
+to ještě přijde.
+No a z prvou okolností můj bývalý kolega,
+který z té firmy odcházel přede mnou,
+tak říkal, hele, nastoupil jsem jako produkták,
+jako manažer do
+Illusion Softworks, pojď za náma.
+Říkám, tak jo, tak jsem šel.
+Už první
+zdviženej prst byl, když jsem nastupoval,
+že jo, tak
+říká, no víš, ono, teď se jako
+ta hra vydává,
+takže jako počítej s tím, že budou nějaký přesčasy
+a tak. Jsme zpátky u Crunchy.
+Takže Crunchy a podobně,
+to jsem ještě netušil, že se bude vydávat další
+dva roky, neustále,
+každej týden,
+ale jako strašně moc věcí jsem se tam
+naučil, protože
+Mafia jako projekt byl,
+je prostě obrovský, obrovský
+kód, obrovský codebase,
+co je docela vtipný, je, že to je fakt jako
+jeden codebase, že těch externích
+tendenci je tam docela málo
+a všechno to v tý době byl jeden Visual Studio
+solution s hromadou
+projektů, takže už jenom jako
+to načíst na tom počítači.
+Já si pamatuji, že jsem byl první den v práci,
+tak kolega říká,
+tak teď jako, teď si tady dej,
+to vlastně nebyl Git ještě, nevím teď, co to bylo,
+jestli to bylo SVN-ko, no ale prostě tady
+si dej jako pool, nebo
+prostě dej si cloud a můžeš
+jít domů, že jo.
+Než se to všechno vyčekautovalo,
+tak to trvalo několik hodin.
+Takže tam...
+A to bylo teda C++, jakože to bylo Visual Studio?
+Je to C++, je to C++,
+hodně věcí se dělalo,
+já jsem teda byl v týmu, kterým měl
+na starosti takový ten edge mezi
+herní AI
+a herníma entitama, to znamená, byl tam
+nějakej game team, který dělal
+v podstatě jako ty jednotlivý entity,
+ty grafický
+záležitosti, to znamená ty low level věci
+a já jsem skončil někde jako na pomezí,
+kdy byl AI team, který
+se dělal jako ty interakce těch
+věcí,
+NPC-ček a lodí
+a aut a vlastně jako
+tu logiku, kterou řeší
+ten počítač, ne player.
+A v podstatě mým úkolem
+bylo psát tady ty
+logiky,
+vlastně to bylo AIčko
+v Mafii bylo založeno
+na behaviorálních stromech, v podstatě
+se to dá představit jako
+poměrně jednoduchý princip, kdy
+na konci jsou nějaký akce,
+která ta entita
+bude jako provádět
+a na začátku
+jsou, u nás se tomu říkalo
+desires, což je v podstatě
+nějaký jako strom spouštěčů,
+který jako postupně vedou k té akci.
+To znamená, typicky,
+když bylo nějaký NPC-čko
+jako se zbraní
+a střílelo po playerovi,
+tak jeden z těch desireů mohl být,
+já nevím, je na dostřel,
+pokud je na dostřel, mám
+náboje, pokud mám náboje, je to v podstatě
+jako rozhodovací strom. A ty
+desirey měly nějakou váhu a spínaly
+podle nějakých jako pravidel, který se
+intunovali. A my dokázali i rollbackovat
+podle toho, co se dělo v té
+řeži. Jo, jo, to znamená, že tím, že to právě bylo,
+klasicky, že se dost často používají
+takový ty finite
+state machine, takový ty
+koneční automaty, ale tam je samozřejmě ten
+problém, že se dokážou zaciklit,
+že jako ty větve se,
+že ty stavy jako jsou
+drátovaný tak, že se v tom
+jako blbě orientuje. Ten strom
+má tu výhodu, že když prostě vypne
+desire player je jako na dohled,
+tak všechno ostatní pod tím se přestane
+řešit, jo, takže a přejde to
+třeba do nějakého stavu jako walk,
+to znamená, že AIčko řídí, že prostě
+NPCčko se prochází.
+Uproste střelby, prosím.
+Takže, no a tyhle ty logiky, ač to nebylo
+patrný, tak byly samozřejmě navázaný na
+různé entity, nejenom na NPCčka.
+Třeba svojí AI měla
+i loď, aby se
+správně kolíbala tak,
+aby plula někde.
+Jednu dobu jsem si zažil
+zažil docela vtipnou
+přes dívku, říkali mi opravář
+výtahu, protože jsem dostal na starosti
+entity výtah, která byla
+poměrně jako zapeklitá
+v tom, že vlastně
+typicky ten svět
+je postavený
+nějak dopředu, z větší části jako
+staticky, pak jsou tam samozřejmě nějaké dynamické objekty,
+ale třeba navigace těch
+AIček, to znamená nějaký ten mesh,
+po kterým oni se pohybujou,
+ten pathfinding pro to AIčko,
+tak je jakoby vyrendrovaný
+nebo respektive vypočítaný dopředu.
+A potom vlastně už jsou jenom
+algoritmy, který mimochodem v té době byly
+od Autodesku,
+který vlastně jako vyhledávají
+nejlepší cestu a obstacle avoidance
+a podobné věci.
+A tyhle ty
+výtah měl prostě jako
+tu zvláštnost, že musel ty grafy,
+že to byly vlastně jako grafy,
+v nějaký ty počítačový terminologii,
+tak je musel propojovat v okamžiku,
+když stál v tom patře, takže vlastně jako s tím výtahem
+jezdil další graf a vždycky jako když
+to dojelo do toho patra, tak
+a když to bylo schopné jako zajít vůbec
+do toho výtahu, tak se ty grafy museli
+jako propojovat.
+Takže s tím byla
+spousta alegrací, protože třeba
+dveře výtahu, jo pak jsem dostal ještě
+teda na starosti, protože jsem se osvědčil ve výtazích,
+tak jsem dostal na starosti dveře
+taky Entitu. Takže všechny dveře
+v Mafii dvojice, kterým hráč projde, tak.
+No a tam je zase třeba jako vtipnej
+problém, že jo, jako
+co se stane, když to NPCčko umře v těch dveřích,
+že jo. A ty potřebuješ odstreamovat
+tu scénu a nastreamovat novou, protože
+samozřejmě to nemůžeš držet všecko paměti.
+Tak jako co s tím, že jo, takže se vymýšleli
+různý, jako první approach
+byl, že prostě po určitý době se
+vypla na těch dveřích fyzika, dveře se zavřeli
+přes mrtvolu, což ale nevypadalo
+hezky, že jo. Takže se prostě vymýšleli
+různý způsoby, jak to řešit
+od třeba fyziky, že prostě
+pokud dveře přivřeli
+mrtvolu, tak jako nenápadně dávali
+fyzikální impuls,
+aby to mrtvolu jako vystrkali z těch dveří.
+Takže
+různý věci se dělali, no.
+Takže ty jsi takhle přes výtahy
+a dveře.
+Na čem jsi skončil, když jsi odešel
+z tu kejče?
+Než jsem odcházel, tak jsem dělal
+Musel jsi povýšit z těch dveří ještě, ne?
+Nebo to bylo? No jasně, no. A tak jako to bylo docela
+to, to bylo jako... To už byla vysoká
+odskutka. Ne, teda ještě
+možná odskočím, ale ještě jsem dostal na starosti
+třeba Entitu
+umývací plošina.
+V jednom levlu, teď nevím kde,
+tak je prostě ten výškáč a taková ta klasická
+umývací plošina. Jo, jo, jo.
+A na vrchu ta plošina, protože na vrchu
+byla nějaká scéna, kdy
+tam probíhá nějaká střílečka,
+tak je takový ten vozejček, co tu
+plošinu vozí do kola.
+A to byla vlastně úplně unikátní Entita, která
+nikde jinde v té hře se nevyskutelela, tak se
+jako řešilo, jak to zalevno
+naprogramovat. No a nakonec to dopadlo
+tak, že vlastně ten vozejček,
+co tam jezdí, tak je
+v podstatě v AIčku
+nebo v tom
+Engineu byla jako Entita
+velmi speciální výtah,
+který se podívoval prostě po nějaký
+opředem definovaný cestě.
+A poslední, co jsem dělal
+teda, když se vrátím k té otázce,
+tak bylo Battle AI.
+Což je
+trošku jinej typ AI, kdy
+vlastně nad tím sedí ještě vrstva, která
+nějakým způsobem řeší tu týmovou
+interakci.
+A tohle jsi to všechno
+ty jsi psal v C++, nebo
+už jsou tam nějaký, nebo byly tam
+nějaký vlastní frameworky, vlastní
+knihovny, třeba ta definice těch
+stromů nebo toho chování bylo víc, jako řekněme
+high level, nebo to už opravdu pořád
+se bylo ve vizualu? Většina věcí se
+psala v C++
+takový to fine-tunování
+a nastavování třeba těch stromů
+a jakoby linkování těch nodů
+tak probíhalo
+z nějakých XML-ek
+myslím si, že to byly XML-ka tenkrát
+a z nějakých jakože prostě
+asetů venkovních
+moje práce byla
+převážně C++, ale
+třeba skripteři
+to zná to, byli lidi, který skriptovali
+některý části scén, protože úplně jako
+nechcete, aby některé věci se odehrávaly
+ze zvule AI
+to samozřejmě všichni
+dobře ví, že občas je to dost jako
+nepředvídatelný
+tak skripteři vlastně měli
+jako za úkol skriptovat třeba CAD scény
+nebo nějaké jako scény a tam se
+používala Lua tenkrát.
+Jo, jo, jo. Když se na to
+takhle podíváš, jaký byly
+u týma FIJ jako největší
+challenge, co bylo pro tebe nejtěžší
+vůbec jako pochopit
+nebo čeho dosáhnout, naprogramovat
+nebo možná byl to třeba to industry jako
+taková, bylo to to, že se crunchuje
+že prostě 8 hodin není žádný
+čas, co tam vidíš jako zpětně vidět?
+Kejž by 8.
+No, challenge
+tam bylo dost.
+Jedna z nich může být
+i třeba to, že je to
+multiplatformní vývoj. To si dost málo lidí
+jako uvědomuje, že
+vývěd pro konzole je kolikrát
+úplně diametrálně odlišný.
+Teď neříkám, že jako Windows
+Xbox nemají některý společní věci,
+ale je to jiná architektura samozřejmě.
+Je to resource limited,
+kde na písničku si člověk může dovolit
+víc věcí, na Xboxu musíš
+víc optimalizovat.
+A pak se samozřejmě vyvíjí i pro Playstationu,
+což v té době byla Playstation 3,
+což je úplně jiná
+architektura, která je prostě jako multiprocesor,
+kde jsou nějaké jednotky,
+které jsou vyložené jenom
+pro výpočty, pak je nějaká jako
+centrální jednotka, takže potom ten
+produkt se vyvíjí
+úplně jinak,
+co se týče toho frameworku.
+A tím, že my jsme vlastně měli v té době
+všechno bylo naše, vlastně nepoužívali
+jsme žádný herní framework, tenkrát
+ten byl prostě, engine byl náš
+in-house, tak to neslo
+spoustu jako challengeů při optimalizaci
+a při performance záležitostech.
+To je, to je
+asi jako, asi největší, no.
+Jsou tam nějaké rozdíly v rámci těch
+konzolí, v rámci
+hratelnosti, protože já třeba nejsem
+schopnej prostě tak dobře střílet
+v rámci třeba Playstationu
+na rozdíl proti
+počítači, kde mám tu myš a prostě mnohem líp
+jako zaměřím. Ještě dneska jsem se to prostě nenaučil
+a pár těch stříleček už jsem hrál a jsem
+prostě úplně levej. Tak tam máš auto-aim pro tyhle
+styly díl, že jo? No to nepoužívám,
+ale jako jestli
+tam je nějaký jako nevím, jako magnetická
+feature, že jako líp trfíš toho
+toho protivníka, nebo to se vůbec neřeší
+v rámci toho? Tohle se neřeší. Ještě se jmenom já lámám
+prostě, jo. Hratelnost se samozřejmě
+řeší a s tím
+vlastně možná souvisí i ty
+i ty přesčasy zmiňovaný.
+To bylo docela vtipný. Já jsem
+vlastně za ty dva roky v
+dva roky v 2K
+tak si vyrobil asi rok
+přesčasu. Ty krása.
+To je masakr. To byl taky
+jeden z důvodů, proč jsem to potom zapíchl,
+protože jsem v té době narodil
+si na, opravdu jsem nechtěl, aby mě říkal
+strajdo, protože to
+jako tam to fungovalo
+tak, že přes den se programovalo, dával se
+dohromady nějakým způsobem jako ten build
+a večer se vybuildovalo,
+zhruba v 6, v 7 přišli
+testeři. Oni tam teda byli celý den,
+ale přišli jako testeři na testování
+toho buildu, takže se šlo do testkoutku.
+Tam seděli testeři, kteří to prostě
+hráli. Nechtěl bych dělat testera, fakt ne,
+jako to ti, podle mě, tu hru musí
+zprotivit.
+Takže seděli
+v tom testkoutku a prostě dokud se neprošel
+celý ten build, což někdy trvalo
+třeba do jedný, do půl druhý,
+tak se jako nešlo domů.
+A pak byla vždycky
+jedna oblast,
+oběť z těch vývojářů,
+který měl takzvaný debug koutek.
+To znamená, že tam s těma lidma seděl
+a v okamžiku, kdy se objevil nějakej glitch,
+nějakej problém, nějakej
+pát, chyba, tak musel
+oddebugovat,
+co přesně se stalo, kde v tom zdrojáku to je
+a kdo za to zodpovídá vyrobit
+ticket. Takže tohle jsem
+fasoval dost často taky
+a s tím potom souvisely samozřejmě
+ty návraty o půl třetí ráno domů
+a tak. A v 8 zase do práce.
+A v 8 zase do práce, ano.
+To je krásno. A jak se tohle debagovalo?
+Šlo to debagovat dobře, nebo byl to hel přeci
+jako hra z otevřenýho světa?
+Tam je těch proměnejch bambilion, ne?
+No nejhorší na tom asi bylo a myslím si,
+že jedna z těch challenge je opět
+vracíme k tý multiplatformnosti,
+že každá ta věc se debaguje jinak.
+Jiný je debagování prostě PCčka,
+kdy k tomu ty nástroje jsou
+více méně k dispozici,
+navíc si člověk může nějaký vybrat.
+Měli jsme debager pro fyziku třeba,
+který teda byl od PhysX,
+od Nvidia.
+Nebo měli jsme nad tím jako udělaný
+svůj debager, aby jsme věděli, co tam děje fyzikálně.
+Ale třeba úplně jediný
+je to u Xboxu a úplně
+diametrálně odlišný je to třeba u tý Playstationy.
+Takže tam člověk jako měl všechny tři
+ty platformy a musel vlastně obsáhnout všechny tři
+ty platformy, což třeba
+zrovna u tý Playstationy
+ať je
+mám buj milosti v PS3,
+více bylo naprosto strašný, protože
+tím, že to je japonský produkt,
+tak neříkám,
+že to bylo špatný, ale bylo to
+diametrálně odlišný od toho,
+na co běžně při debagování byl člověk
+zvyklej. Zkrátky tam jsou
+jinak ten, ta
+jakoby
+prostě ta
+filozofie zatím je kompletně jiná,
+takže jako se s tím chtělo naučit
+a zpřátelit. Tím, že to byl
+ještě multiprocesor, tak o to víc
+to bylo jako vlastně challenging. Ale
+jako museli jsme, no.
+Nějakým způsobem jsme se museli prostě
+přizpůsobit. – To je zajímavé, mě vůbec
+nenapadlo, že by mohla
+jako národní nějaká filozofie japonská
+se protíct až do toho,
+jak je udělaný devkit na
+Playstationu prostě pro tvůrce
+her. To je neuvěřitelné.
+To mě nikdy nenapadlo, že tohle
+může být viditelný a citelný.
+– No jasně, no. Protože debag featurey
+se většinou vyvíjejí pro vývojáře
+a pro debagování, takže už se jako neklade
+takovej ten, takovej
+ten důraz na nějakou jako
+univerzálnost, dělat to tak, jak jako
+průměrně všichni lidi to dělají.
+Takže tam jako ty devky, ty se prostě
+lišily, no. – No já si myslím,
+že i zase, to je jakmile jsme v tomhle,
+já bych tady s tebou seděl ještě rok
+a ptal bych se na všechno samozřejmě,
+protože prostě mě tohle období zajímá.
+Já zrovna tohleto období mám úplně
+živý, protože s lidma
+z 2K Čech jsem se v té době jako hodně kamarádil,
+takže vždycky jsem z nich tahal, jak bude nová mafie
+vypadat, oni mi samozřejmě nic neřekli, ty kurvy.
+Ale
+možná potom mimo mikrofon
+ještě se zeptám na pár věcí.
+Pojďme úplně k závěru dneška,
+protože už jsme dlouhý.
+Jedna věc ještě, kterou musíme říct,
+na závěr, ty jsi, kromě těchhle
+všech věcí, který si děláš,
+ty jsi ještě také zakladatel
+Security B-Sides Prague,
+což je komunita
+kolem konference,
+co to vlastně je? Pojď se udělá
+reklamu na závěr. Dobře, udělám si reklamu
+3. a 4. dubna letos
+v Praze, v Gabriel Lodzi,
+bude další ročník.
+Jinak neřekl bych,
+že jsem úplně zakladatel, spíš jsem
+jako organizátor český čeptr,
+protože Security B-Sides
+je takový,
+to je uměrně zvláštní forma,
+já tomu říkám největší neorganizace
+na světě, protože
+původně to vzniklo
+někde v Las Vegas
+u Black Hatu, jako taková
+dejme tomu
+zdarma konference
+komunitní hlavně
+a postupem času se to
+jako rozšířilo do všech
+koutů světa, takže momentálně jako těch čeptrů
+je asi tisícovka po celém světě.
+A ta idea je
+umožnit
+vlastně všem nějaký vstup
+do security
+a udržovat nějak jako tu lokální komunitu
+bez ohledu na příslušnost k firmám,
+bez ohledu na to, jestli ty lidi
+jsou jako praktikující
+profesionálové, bych řekl, nebo studenti,
+nebo prostě jenom lidi, kteří se jako zajímají o
+security a v podstatě organizovat
+lokálně nějaký
+komunitní konference,
+kteří se tou bezpečností zabývají.
+Výhodu to má v tom, že tím, že je to
+prostě globální hnutí,
+možná bych to nazval,
+tak to umožňuje přitáhnout
+vlastně do těch lokálních
+čeptrů lidi, kteří třeba
+běžně přednášejí na Black Hatu nebo
+Defconu, prostě ze zahraničí,
+když jí sem, protože oni ví, co mají čekat,
+že nic nedostanou.
+To není placený,
+že to je opravdu jako komunitní event.
+A v podstatě
+ta idea se mnou
+hrozně rezenuje, jedna kvůli tomu
+open source, ale i kvůli tomu, že mám pocit,
+že
+je to takový ten stmelující
+moment, taková ta konference,
+kam jako můžou všichni a můžou se
+potkat, protože čím dál tím častěji se
+narážím na to, že lidi spolu
+komunikují akorát po sockách,
+takže jo, a kolikrát si
+nerozumí a ono je občas jako dobrý
+se fakt jako potkat a vyříkat si to,
+vysvětlit si to a tohle
+by mělo vlastně ten
+B-Sides jakoby poskytnout, takovou jako
+platformu pro nějakou bezpečnou
+vyměnu názoru, když to tak řeknu,
+a zkušeností.
+Tak to je pecká, tak to je super, já si myslím,
+že na závěr jsme to nemohli uzavřít líp.
+Já ti, Martine, hrozně
+moc děkuju, bylo to strašně zajímavý,
+v podstatě, kdybychom neměli času
+i omezení, myslím si, že bych teďka
+prohlásil, že jsme tak v první třetině,
+protože ty jsi úplně nažvejklý zkušenostma,
+informacema, skills.
+Bylo mi ctí, ať se ti daří,
+no a zase někdy pod holcasem.
+Já děkuji moc za pozvání, kluci, a díky.
+Bylo to fajn. Mějte se krásně, čau.
+Mějte se, čau.
+Já myslím, že bychom tady
+seděli prostě hodiny a hodiny, protože
+vždycky, když přijde pod holcas
+takhle zajímavý host, s takhle
+řekl bych, nažvejklým životopisem
+s obrovským rozsahem,
+to prostě by mohly být hodiny a hodiny,
+ale my víme, že většinou u toho
+podcastu běháte a my z vás úplně
+nechceme dělat maratonce, takže skutečně
+musíme se držet v nějakým limitu,
+ale zase pecka prostě.
+To bylo úplně brutální, že vlastně
+tohle, vždycky říkáme, když přijde někdo
+třeba z herního promyslu, nebo když někdo přijde ze security
+a když přijde člověk, který dělá obě ty věci.
+No to je nevzkuzečně. To no mé by bylo
+dlouhý jak pán prstenů. Fakt, renezanční
+člověk, přesah, jako blázen.
+Líbilo se mi, co říkal o tom security, celkově
+prostě přemýšlím, no jak to
+zase aplikovat tady, nebo
+v tom svým oboru, protože pořád se
+myslím, že je to
+tak strašně, to je obor sám
+pro sebe a pořád se myslím,
+že není vůbec
+v možnostech individualit
+to jako podchytit, že vlastně, jak říkal,
+že odpověď jsou procesy, já,
+no kdo mě zná osobně, ví, že
+já a procesy, to jsou dva světy, který
+spolu neustále bojujou, ale v tomhle
+případě prostě, jako, jinak to asi nejde, no.
+A zároveň nějaká, jako úroveň,
+jak to říct, jako platformizace, že vždycky
+bude nějaký tým zaměřený na security
+a pak to můžeš mít v nějakých definition of
+done, nějakou jako kompetenci
+security, ale stejně nemůžeš pojmout
+všechno, to je prostě tak velký obor.
+No nevím, nevím, přátelé, dejte vědět možná,
+jak to řešíte u vás ve firmách, protože tohle
+je zajímavý téma. Jako ten obor je tak
+široký, že možná, kdyby dělali pay-per-click
+kampaně, tak
+tak ani
+takhle velký nejde. Tak to bude velká
+kampaně. To je velká kampaně, velká kampaně,
+je to tak, je to tak. No jo, my se
+loučíme, můžeme to považovat
+za uskutečně nejoslým ústek, nebo
+mám tam ještě přidat holky z Vivia?
+Ne, úplně dobrý, úplně dobrý, já bych chtěl
+ještě, aby nezapadlo. Ani jak to máme v tý smluvě, víš,
+aby nám pak jako nevstali posílat praktiky.
+Oni nebudou uražený, já myslím, že jako
+takhle specifický,
+to specifickou úrovně reklamy rozhodně nečekali.
+Jo, dobře, dobře, dobře, tak jo,
+máme splněno. Já jsem chtěl poděkovat Honzovi
+Seidlovi, což je člověk, který nám Martina
+doporučil, takže Honzo, děkujeme, pokud tam
+máš nějaký další, což je jeden z těch
+našich fanoušků, pokud máš nějaký
+další kusy, posílej to ve velkém.
+Určitě, valte to sem,
+my samozřejmě do dvanáctý série
+furt plánujeme to otevřít
+s tím naším supportérem a s tím
+výrobcem hostů, co
+vyexitoval, jako nemyslím, že umřel,
+ale vyexitoval jako z biznisu
+a už jenom doporučuje
+startupisty, jak on se mi nesmí, já jsem zapomněl o tom jméno.
+Aleš Holla. Jo, Aleš, takže
+pořád počítám s Alešem, že vykopneme
+do nás. On to ještě neví, ale já mu to řeknu.
+Normálně mu to řekni, zavolej mu a ať s tím počítá.
+No my samozřejmě jedeme dál. Celá
+tahle, ta přátelé jedenáctá série,
+nejenže je doplánovaná, to znamená
+my víme, kdo přijde, víme, kdy přijde,
+dost možná i víme, na co se ho budeme
+ptát, ale už
+i víme, kdy to vyleze ven, takže skutečně
+jako teď, jak to posloucháte,
+že nepřijdete o svoje oblíbené díly,
+můžete počítat s tím, že
+po každý po čtenácti dnech
+vyleze novej podvocasí díl,
+bude tady Petr Polipolák, bude tady
+Roman Provazník a bude to dobrý.
+Přesně tak, přátelé, já nevím,
+co k tomu dodat, jako řekl jsi to krásně.
+Mějte se dobře, ať se vám daří
+ve vašich oborech a vidíme se a slyšíte.
+Teda, nevidíme se.
+Ne, nebudu tam nic říkat.
+Ne, ne, klidně to řekni.
+Jo, no že třeba se někde i uvidíme.
+Je, že bychom udělali nějaký živáček.
+No, proč ne? No, pořád to nějakým
+způsobem tady omíláme.
+Ty mi hlavně musíš říct, jestli letíš do toho San Francisco
+nebo ne, protože to bude, to by byl
+jako game changer týhletství naší
+iniciativy. No. Hele, uvidíme.
+Uvidíme. Zatím se jenom
+uslyšíme, přátelé, a možná,
+když nás dva občas vidím, tak je to i lepší.
+To bylo krásné.
+To bylo krásné. Já jsem se ještě chtěl
+zeptat, jestli ti můžu nějak
+pohoršit s tím San Francisco, jestli můžu
+někam napsat, abych ti to zkazil.
+Ne, ne, ne, já už ti nebudu
+říkat detaily, jak se hračí. Dobře, dobře, tak jo,
+tak nic, tak my teda jdeme.
+Mějte se krásně. Čau.

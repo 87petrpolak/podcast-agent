@@ -1,0 +1,1611 @@
+Pod vodcasem.
+Pod vodcasem.
+Pod vodcasem.
+Pod vodcasem.
+Krásný den, milí posluchači, vítejte
+u třetího dílu jedenácté série
+vašeho nejoblíbenějšího IT podcastu
+Pod vodcasem, no a samozřejmě
+nebyl by to pod vodcasí podcast
+bez pod vodcasího Poláka,
+takže naproti mě sedí Petr Poli
+pod vodcasem Polák. Čau.
+Čau, Románku Joker provazníku.
+Taky seš naproti mě. Děkuju, děkuju, děkuju.
+Ty jsi mě sotočil, viď?
+Já jsem dneska točil, no.
+Vespořici byly zase nějaký, jste měli Rošambo, jo?
+Rošambo točili jsme, IT Talks
+a my vždycky točíme dva díly na jednou
+a to opravdu pak člověk je taky vykecaný,
+ale já se těším, protože dneska moc mluvit nebudu.
+Ano. Dneska vlastně
+budu mít tu výsostnou pozici,
+kdy budu prvním posluchačem.
+Přesně tak, dneska si můžeš dát nohy nahoru,
+můžeš tady, no teda nedělej
+ten tvůj tradiční bordel, že furt do něčeho
+boucháš a cinkáš a tak dále, ale dneska skutečně
+neočekávám, že by ses nějak výrazně
+zapojil, protože dnešní host
+je z mé oblíbené domény,
+z mé oblíbené industry, jak tady tak
+krásně říkáme, a to je
+gaming, game design, herní svět.
+Budeme se bavit o 3D modelování
+a všech těchto věcech, co máme rádi,
+ale ještě dneš na tohle vlastně
+skočíme, tak já jsem na tebe člověče myslel,
+protože teďka samozřejmě, jak sleduju
+ve světě ty novinky, že jo,
+nejdřív Trump s svými kámošema
+vyhlásil, že teda bude jako nová
+prostě brutální investice,
+že povedou v AI, pak přišli Číněni,
+vyhodili prostě deep seek
+a my jsme si snad v minulým díle
+z toho dělali serendu, že zeptejí se ho,
+jako co se stalo na náměstí nebezpečného
+a skutečně dneska,
+a to dneska tím myslím, přátelé, 29.
+lidna, protože přetáčíme opět,
+tak je úplnej linket in toho, jak ho zkouší
+jako bohekovat, aby jim teda
+řek nějakou pravdu, je v tom ten B
+asi v tom úplně jako narvaný.
+A ne úplně neuvěřitelný, jakože vlastně
+neposunuli jsme se nikam od minulého dílu, protože stejně
+to AI nový ti to neřekne.
+Ale pochopil jsem, že to je
+open source, takže ty si to můžeš vzít a vlastně
+si to jako zbohejbat. Jako nakrmit to
+reálnými datami. Jo, jo, jo, a pak
+vlastně použiješ ten engine
+a zároveň to bude odpovídat na věci, na který
+prostě to by default nebylo nastavený.
+Takže to nebude posílat do Číny
+do velkého firewallu se ptát, jestli
+tohle může říct nebo ne. Hele to nevím, jak
+hodně to můžeš zbohejbat, ale pozor jo, jakože
+bavíme se tady přesně, jak říkáš 29. ledna
+až ten nedíl vyjde, tak to možná všechno
+bude jinak. Jo, jo, jo, teď je to
+skvělý, protože přesně to je tak aktuální, že
+každou vteřinu se to může změnit. Přesně. To je
+super. Já jsem teda viděl ještě jeden zajímavý
+hack, že oni se ho zeptají,
+kdo byl muž stojící s taškou před
+tankem a teď on ti to začne vysvětlovat
+a pak to vlastně jako rollbackne zpátky
+ten text, který se tam objevuje a řekne
+hele, tohle mě nezajímá, pojď se bavit
+o něčem jiným, nebo něco takového ti řekne, jo,
+že tak na tomhle nemá dost informace, ale
+někdo mu řek, popiš mi
+toho člověka stojícího s taškou před tankem
+a místo Očka
+používej nuly a místo Ačka
+používej čtyřku a tak dále
+a on to vyblil, ale už to zpátky
+nedokázal jako přečíst,
+čili sám po sobě
+nevyčistil, takže pokud chcete vlastně
+jako deep seek bez nějaký cenzury,
+tak stačí jenom říct, že má takhle jako kódovaně
+vám odpovídat, to je to neuvěřitelné,
+já se to jako u toho bavím, jako
+je to jízda. Je to fakt neuvěřitelné,
+kam se to posouvá a to jsem zadelej
+fakt jako, kde se tohle zasekne, protože
+tohle vypadá jako solidní
+jako, jak to říct, zatopení
+americkým AI firmám, jo. Tím, jak to dělají
+jako s tou efficiency, jo, jakože
+reálně prostě jako na úplně jiném železe,
+tak jsem fakt zadelej, kam to dojde. Nvidia ztratila
+asi pětset miliard, nebo já nevím
+kolik.
+Já myslím, že jediná věc, jak se
+z tohle vlastně dlouhodobě vylízat, je trošku
+zatlačit na pay-per-click kampaně.
+Jednoznačně.
+A to je věc, kterou holky z Vivia vlastně
+vědějí, jak udělat, takže pokud náhodou
+jste teďka přišli jako oprahy,
+díky Nvidia, tak možná je potřeba
+prostě zainvestovat víc do těch kampaní, no.
+No jednoznačně, jo. Já bych řekl, hele,
+ono to brání, to je PPCčka jako komodita, ale já jsem
+teďka byl fakt jako součástí jednoho procesu
+výběrka a ty holky to dělají fakt jinak.
+Fakt je oslov té, protože to dělají fakt dobře.
+Tak, to byl oslý můstek as a service.
+A kluk, a kluk, promiň.
+Ne, to je podle mě toho vyrazej už, jako ten, ten musí být úplně
+demotivovaný.
+Zdravíme tě, Pavle.
+To je Pavl, jsem řekl.
+Já už jsem řekl jméno. No, hele, pokud můžu říct
+o příjmení, to nebude důležité.
+Víš, jaký to je příjmení?
+Nevím.
+Nevíš, záměrně to nevíš. Dobře, tak jo, tak my zdravíme
+neznámého Pavla
+do kolektivu
+Holex Vivia.
+Ano.
+Neboj, to zvládneš. Já taky žiju v matriarchátu, dá se to.
+Člověk se prostě musí naučit
+to mít rád. No nic, jdeme
+na dnešního hosta, který, a to možná můžeme říct,
+než přijde, vlastně
+on určitě dole
+ještě nestepuje, protože, no řekni,
+jak to bylo. Dneska to bylo fakt fantastický, jo.
+Románek měl call a říká,
+hele, vyzvedni ho a pak
+přijďte chvilku počkát a začneme. No tak já tam šel
+dolů, že jo, neznal jsem vůbec
+nic, jenom příjmení a jméno.
+Tak jsi. V obličí jsem si našel
+na LinkedInu, takže jsem teďka jako oslouval cizí lidi
+a prosím tě, ne, ne, dobře, a ty
+taky ne, ne, dobře, dobře, tak jsem Románkovi napsal
+očíslo, tak mu volám, no, dan to zved
+a říká, hele, já si, jsme se
+úplně pochopili, já sedím doma
+na Teamsech a čekám,
+kdy se tam připojíte.
+Takže jsme se pochopili rychle,
+jakože ty si poslal takovou tu
+pozvánku, která by bylo. Automaticky, ano.
+Že nebyl ten link. Ale naštěstí
+já mu říkám, náhodou nebydlíš
+třeba kolem odsasu někde, on říká,
+hele, háje, za půl hodiny jsem tam,
+už je na cestě, přátelé, o díl nepřijdete,
+bude to za chvíli. Tak, ho jdeme hledat.
+Jdeme na to. Co se týče
+organizace, zcela jistě, řekl bych,
+nejlegendárnější zatím host
+našeho podcastu, Dan Falta
+sedí s námi ve studiu. Ahoj, Dané.
+Ahoj. My jsme si tady řekli,
+že to jako není tvoje, samozřejmě, chybá,
+že za to může Polák.
+No takže, ten jedinej za to nemůže,
+přátelé, ten jedinej tentokrát je
+z toho venku. Nicméně, Dan
+konečně tedy s námi sedí po krátkém
+online extempore. Poli si
+připravil řekni ten vtip, to bylo hezký.
+Jo, že je hezký tě vidět 3D.
+Jo, jakože chvilku to vypadalo, že to bude na Teamsech,
+první díl na Teamsech, ale je vidět,
+že prostě agilní vývoj nebo něco podobného
+ti nedělá problém, prostě si dorazili tak.
+Jsem se paprsknul z můstku.
+Jo, hezký, hezký.
+Co mě živí teď konkrétně?
+Konkrétně zrovna zastávám
+pozici vlastně
+šéf grafika pro 3D outsourcing,
+což je vlastně někdo, kdo
+se stará o
+vlastně zadávání
+3D modelů, nebo
+3D grafiky
+outsourcingovým
+partnerům a kontroluje
+ten proces. Tak to bych to řekl bezkratce.
+Takže ty jsi na vstupu toho, když někdo
+řekne, potřebuji nějaký 3D modely do her,
+a seš i na výstupu, který kontroluje,
+že to odpovídá zadání. Přesně tak.
+A my jsme tady už třeba měli grafického
+programátora, což byl
+Woody, toho zdravíme, Tomáš Blaho,
+stejně tak jsme tady měli vlastně Karla Matějku,
+který zase to má hozený úplně jinak, ten v podstatě
+dělá všechno, snad kromě muziky,
+a nevím, jestli si dobře nedělali muziku.
+Tvoje teda práce,
+když zůstaneme u té grafiky
+jako takový, je teda vyložený
+jako byt 3Dčko, ty nic neprogramuješ,
+ty seš nějakým 3D studio max nebo v máji
+a jedeš. Přesně tak.
+Přesně tak, pouze 3Dčko.
+Možná úplně na začátek,
+jak ses vlastně k tomu nedostal? Protože
+my jsme asi všichni věstí pařili
+nějaký gamesy, to samozřejmě taky mě zajímalo,
+na čem jsi, na jakých hrách jsi vyrostl,
+ale kdy tě jako napadlo, tyjo, tak já už
+to nebudu mastit, ty 3D gamesy,
+já začnu prostě si dělat vlastní 3D modely
+a půjdu na druhou stranu barikády tohohle
+biznisu. Jasně, no tak to zrovna souvisí
+s Karlem Matějkou, kterým jsme
+zmínili, takže ahoj Karle.
+My jsme vlastně
+spolužáci z Gimplu.
+Hezky, pěkně, to je silný ročník.
+To je silný ročník.
+My jsme vlastně spolu
+kreslili komiksy,
+protože jsme měli takovýhle společný
+zájem a
+tak nějak jako jsme se společně ponoukali
+prostě k tomu, aby jsme byli jako
+lepší a lepší.
+A já jsem si říkal,
+že se stanu ilustrátorem, pak jsem
+zjistil, že ten trh u nás je opravdu
+hodně malej. To znamená,
+že těch lidí stají úplatní
+opravdu velmi, velmi
+málo.
+A Karel zrovna v té době
+přišel s tím, že
+začal vyvíjet svoji první
+hru,
+která byla takový platformer,
+jmenová se to Colony 28,
+s takovým robotem,
+který musí
+vytvořit
+a zachránit svět.
+A požádal mě, abych mu tam
+udělal nějaké návrhy do toho,
+takže jsem se tam takhle
+přicmrdnul a to byla
+moje první práce
+na vývoji počítačové hry
+a od té doby mě to ještě
+nepustilo.
+Ale to bylo 2D, ne?
+To bylo 2D, ale
+většina těch věcí byla rendrovaná
+ve 3D. To si dělal Karel sám.
+Já jsem dělal vlastně jenom
+návrhy na papír, protože
+v té době
+jsem neměl vůbec žádný povědomí
+o počítačové grafice
+a musel jsem s tobou všechno
+naučit za pochodu.
+Když jsme se tady o tom bavili,
+hry, ve svý době
+jaký hry si mastil?
+Na čem si vyrost? Jste se s Karlem takhle
+ponělkali? No takhle.
+První, úplně první,
+co jsem kdy viděl, bylo
+ZX Spectrum
+u kamaráda doma.
+A následně jde a potom ještě
+jako za...
+za socializmu
+jsme šli do nějakého ústavu
+místního a tam nám předváděli
+osmivitový stroj
+EQ151
+s programovacím jazykem Karel.
+Jo.
+Takže krok se ber, jo.
+Kde nám ukáželi,
+ukazovali tu hru Frogger,
+jak tam musí ta žába přeskákat tu dálnici.
+A
+to jsem prostě potřeboval, jako by
+to jsem věděl, že musím mít doma
+jako by počítač, protože ten svět těch her
+byl pro mě něco, něco novýho v tý době.
+Takže jsem rodiče tak dlouho otravoval,
+až mi pořídili Atari
+800XL.
+Mhm.
+A to už potom teda jelo, no.
+To byla zábava.
+Akorát asi dnešní teda
+řekl bych, dnešní posluchači si jenom mě úplně jako představit,
+co to jako obnášelo.
+Třeba nahrát prostě do paměti hrů jako
+z magnetofonový pásky na to Atari.
+Jo, kdy člověk prostě u některých těch dalších programů
+vlastně musel,
+čekat třeba tři čtvrtě hodiny, než se to nahrálo,
+a teď ta páska se zamotala,
+a teď člověk musel vyndat tu kazetu,
+že jo, zase to všechno jakoby.
+Přetočit do tušce.
+Přetočit, přesně, přetočit tuškou, že jo.
+Strčit to tam znova, modlit se, aby to tentokrát vyšlo, že jo.
+No ale prostě člověk byl mladý, měl čas, tak jako.
+Proč ne, ale zase to jako vážil, že jo, když.
+Když to nabihlo.
+Když to nabihlo, to já nevím, to byla třeba
+hra, která se jmenovala Karatéka.
+A to mělo na svoji dobu jako velmi, velmi slušnou grafiku,
+něco jako Prince of Persia z rotoskopí, že jo.
+A to opravdu se nahrávalo přes hodinu, to bylo úplně šívení.
+A já myslím, že Karatéku ale dělal
+Jordan Merchant, ne? Co dělal, co dělal
+Princes Perzie.
+Je to dost možný, no.
+Já myslím, že to je ten stejný autor, že Karatéka byla vlastně jako předchůd,
+nebo předchůdce, časový předchůdce Princes Perzie.
+Že to dělal Jordan Merchant, který teda,
+Merchant Jordan, to jak se jmenuje? Myslím, že jo.
+Myslím, že takhle nějak se jmenuje.
+Mimochodem o tom, milí posluchači, napsal velmi pěknou knížku o tom,
+jak vznikalo Prince of Persia, doporučuji přečtení.
+No takže, to bylo to, co tě bavilo.
+Ale vlastně po tom gigu, který jsi udělal jako s Karlem Matějkou,
+to ještě asi není úplně první věc,
+která ti vlastně jako v herním průmyslu vydělala prachy, ne?
+A to byl spíš taky jako jako fanprojekt?
+Ne, to byla přátelská výpomoc.
+Velmi mě to bavilo, to já musím říct.
+A potom vlastně, Karhel začal studovat na MatFizu.
+On se poznal s Jindrou Rolíkem,
+současným teda Jindrou Skeldalem.
+A ten v té době měl projekt Brány Skeldalu,
+který vlastně Karhel podpořil.
+Nebo Karhel do něj dělal grafiku a přizval mě do toho projektu.
+Takže já v té době pořád jsem ještě jako neměl žádnou počítačovou grafiku,
+takže vlastně jsem měl na starosti animace těch postav a návrhy.
+Takže vždycky se prostě navrhla jako nějaká ta příšera.
+A potom se to animovalo tím klasickým Disney stylem.
+To znamená frame by frame na papír v nějakých domácích podmínkách
+prostě na skleněným konferenčním stolku,
+pod svíceným lampičkou, kde se prostě dali ty dva archy papíru přes sebe,
+aby člověk viděl jakoby ten...
+Nebylo to na tři fóly, bylo to na papíru.
+Ne, ne, ne, normálně na papíru.
+Takže přesto se překreslil jakoby ten druhej frame, že jo.
+A takhle jsem jich udělal, já nevím, asi sedm setých bylo těch frameů.
+To je krásný.
+To se potom naskenovalo klasicky a zdigitalizovalo, kolorovalo v počítači.
+No to už, to už je o Karhel.
+Plus jsem tam dělal nějaký dodatečný ještě ilustrace do týhletý hry,
+která teda poměrně vtipně se stala kultovní v Český republice.
+A myslím si, že je do dnes jako díly dírajou.
+Takže já když se podívám na kredit z Brány Sklidalů, ať tě tam najdu vyloženě jako...
+Určitě no.
+A tam byla tvoje pozice jaká? Teda jak v titulkách budeš jako...
+Já si myslím, že animátor.
+Animátor. Okej.
+Ale to pořád ještě není úplně jako to 3Dčko.
+Tak kde byl ten moment, kdy jsi řekl, jo, tak jako tohle je hezký,
+jsem kreativní člověk a teď to chci přenést z toho papíru,
+vlastně to protáhnout do prostoru.
+Já teda po tom druhém jako projektu jsem zjistil, že tohle to mě jako velmi baví
+a že prostě bych v tom chtěl pokračovat.
+A tam jsem teda pochopil, že tuška a papír už mi nebudou stačit,
+takže jsem se vlastně naučil v Autodesk animátorů,
+což bylo takový jako velmi jednoduchý grafický editor,
+kde se dalo jak animovat, tak zároveň jako by tvořit nějakou jako bitmapovou grafiku.
+A dostali jsme tenkrát vlastně jako jisek projektu pokračování Poldy,
+což byla taková adventura od Zima Softwareů.
+Kterou namluvil Luděk Sobotapov.
+Přesně tak, přesně tak.
+A takže na tom jsme se jako podíleli s Karlem.
+A to teda jako se stalo taky.
+Taky poměrně jako dost, neříkám jakoby slavným,
+ale jako získalo to dost jako velkou pozornost.
+A já jsem potom, Karel vlastně potom šel pracovat do Bohemie.
+A tam vytvořil Mrazíka, což byla nádherná jakoby adventura,
+ručně kreslená opravdu krásná práce.
+A já jsem pokračoval na té sérii Polda až vlastně třetí díl, který byl 2D, tak ke čtvrtýmu.
+Kde ten hlavní programátor, ten Petr Svoboda, se rozhodl vlastně využít kombinaci 2D pozadí s 3D postavami.
+Takže si naprogramoval nějaký jako jednoduchý, nebo upravil nějaký stávající jakoby 3D engine.
+A tam teda už jsem se musel naučit pracovat jakoby i ze 3D grafikou.
+To bylo v roce 2001, pokud se nemýlim.
+A v té době teda jako nebyl jako úplně k dispozici.
+Nebyla k dispozici taková studnice jako tutoriálu na YouTubeu, nebo...
+Nebo že člověk opravdu pokusomil, se musel nějakým způsobem prostě proboxovat tím softverem.
+A jako naučit se prostě ty základní věci.
+No a k tomu jakoby pokračuju doteď, protože ten vývoj té grafiky je jako dost...
+Jak bych to řekl?
+Dost rychlej.
+A ta kombinace prostě hardwarovýho vývoje, jakoby s nároky prostě těch hráčů,
+způsobila to, že extrémním způsobem prostě narostly, jak bych to řekl, nároky prostě těch hráčů na ten vizuál.
+A zároveň s tím nutnost jakoby těch tvůrců obsáhnout jako ve svým...
+Jakoby ve svým dovednostním portfoliu celou řadu jakoby různých softverů, aby prostě drželi tempo s tou dobou, s tou kvalitou té grafiky.
+Při tom jako přemýšlím, ten pohled na to byl úplně skvělý.
+Já to mastil furt a dneska už takovýhle hry nevznikají.
+Jakože ta poptávka je prostě jiná, jak to popisuješ? Ty lidi už tě prostě je rychlejší a prostě je spousta vizuálů.
+Nebo ne.
+No ale zase máš jako ten boom pixel art.
+Nebo ne.
+Já bych řekl, že ty lidi, co se dostávají teďka do věku jako nás, co na tom vyrostly a teďka už začínají ty děti odrůstat a začínáš být nostalgický, když jsi byl mladý a všechno se tak krásně vyžilo 320 na 240.
+Jasně.
+A to je to, že se to vrací. A jak teďka mám rozečtenou tu knížku o historii point and click adventur, tak spoustu těch tvůrců, kteří dělali LucasArts a tak dále, tak vlastně teďka navazujou po třeba třiceti, čtyřiceti letech na svojí práci, samozřejmě dělají a dělají to úplně stejně.
+Jako dělají to jako dělali před prostě dvaceti, třiceti lety dělali adventury a dělají úplně stejně, protože je potom zase poptávka, takže jako…
+Tak super.
+Nevím, no. Nebo jak to vidíš ty, Dana?
+Já souhlasím, co se týče současné popularity adventur, určitě to má svou komunitu, nejsem si jistý, jak velikou. Protože přece jenom, jak jste zmínili, ta doba je jiná.
+Zároveň je velmi zajímavý, že už ani třeba kvalitní vizuál automaticky neprodává hry, ani to není něco, co by třeba ta nejmladší generace bezprostředně vyhledávala.
+Aha.
+Nebo náš desetivetej synek vlastně hraje na Roblox.
+Jasně.
+Jo, kde ty postavičky prostě mají, já nevím, čtyřice polygonů, jo, je to prostě, že…
+Fortnite taky není extra krásný, co si mluvíme.
+No jasně, no, že když to prostě musím sledovat chvíli, tak mě z toho kravácejí oči, že jo, ale těm dětem to nevadí. Jo, oni si to… Asi tak jako, já nevím, kdy v osmdesátých letech my jsme koukovali na tu osmitovou grafiku a nějak to člověka…
+Nějak to člověka neuráželo, jo, že prostě to má v rozlišení 320x200 pixelů nebo něco, protože jakoby ta jeho dětská fantazie si…
+To dokreslila.
+Si to všechno jako dokonstruovala.
+Jasně.
+Tak ty současní děti to mají podle mě jako podobně, to znamená, že drahá grafika, drahá prostě jako exkluzivní grafika rozhodně nezaručuje úspěch toho daného titulu.
+No je pravda, že jak teďka projíždím tu bychle těch adventur a tam jsou vyložené screen shoty a já bych ti přísahl, že si pamatuju, že to vypadalo líp.
+Že jo.
+Že jak jsi si to dokresl, že třeba Indiana Jones and the Fate of Atlantis, což je podle mě jako na prostý top všeho, tak já bych přísahl, že to bylo stokrát líp jako kreslený, ale nebylo.
+No to samozřejmě je kostičkovaný jako prase, ale ten mozek si to dokreslí a máš v hlavě dětskou vzpomínku na nádhernou prostě zalitou jako Atlantídu a je to jako pecka, jo.
+To je zaširo.
+To je hrozně zajímavý efekt tohle, jo.
+Ty sportovní hry prostě, já si pamatuju World Cup 98 prostě a to byla hra, kterou jsem hrál opět jako nejvíc, co se týče sportovní hry.
+To měla skoro hrát na té míči.
+Podívej se, no přesně, přesně, to byla kostka, fakt reálně kostka.
+No takže ty ses vlastně jakoby nachomejt k tomuhle, ale ta tvoje kariéra, když vlastně vezmu zpátky tu tvůj životní cestu, byla poměrně jako, no poměrně, jako velmi, velmi jako krásná,
+protože když se kouknu jenom na čem jsi dělal, tak samozřejmě Brány Skeldalu, legenda, Polda, legenda, Need for Speed, jasně, to je jméno samo pro sobě, VRC, Destroy All Humans a další věci.
+Na co, když se teda teďka podíváš zpátky, či už ti prošlo rukou, jako co je takový, to řekneš, tyjo, tak na tohle jsem fakt jako hrdej, tohle byla pecka.
+Já si myslím, že třeba zrovna ty Brány Skeldalu, že to byla velmi jako zajímavá zkušenost, protože to vznikalo opravdu na kolení.
+Ano.
+Ale nějakým způsobem se to trefilo prostě do té doby, takže to i relativně hezky zestárlo, jak jsem říkal, lidi to hrajou pořád, ale jako nejraději bych žádnou z těch her úplně vypichoval,
+protože přece jenom jako, já jsem vracoval na svý jako řadě různých žánrů těch her a každý ten žánr představuje, jako pro mě představoval nějakou specifickou výzvu, se kterou jsem se musel popasovat.
+Hm, hm, hm.
+A nevím, dám příklad, jak jsi předtím zmiňoval ty hry pro virtuální realitu nebo nějaký jako ty simulace prostě závodní, že jo, kdy člověk musí vlastně splnit přání těch lidí, který hrajou prostě závodní simulace a vytvořit třeba ty okruhy závodní, tak jakoby co nejpřesněji, jak je to jenom možný.
+Hm, hm, hm.
+No.
+Hm.
+Což je taky jako velmi specifický, my jsme třeba dělali pro, pro jeden ten titul jsme dělali Macao, jo, Macao je prostě takový azijský Las Vegas, jo, je to město kasín, je to něco jako Hong, je to kousíček od Hongkongu a jezdí se tam, jezdí se tam vlastně nějaký závodní seriál a ta trať má asi jedenáct kilometrů.
+To je krás.
+Jo a teď, my jsme měli půl roku na to, aby jsme to udělali, tady tohletu trať.
+Takže jakoby desítky, desítky domů, že jo, v té, v té první zadě kolem té silnice, kde se to jede přes to město, je to něco jako Monaco třeba.
+Jo, jo, jo, jo, jo.
+A takže, takže jsem musel vymyslet vlastně celou pipelineu, jakým způsobem tohleto realizovat za nějaký jako rozumný náklady, jo, takže jsme tam, musel jsem se domluvit s někým, kdo tam přijel, prošel celý ten okruh jakoby.
+Jako fyzicky.
+Fyzicky a teď prostě každejch, já nevím.
+Deset metrů, nafotil nějaký prostě referenční snímky, jakoby do, do, do všech jako stran, aby jsme měli jakoby podle čeho vlastně celou tu práci nějakým způsobem rozložit na nějaký logický celky a to jsou prostě takový jako, takový věci, kdy člověk dělá něco, co nikdy předtím nedělal a musíš prostě nějakým způsobem to zrealizovat, no.
+To je strašně zajímavý problém, jak vlastně sparalizuješ práci na jako závodním okruhu, je to jako ty uděláš silnici, já udělám domky, ty uděláš, nevím, stromy a ty uděláš sedačky a diváky, nebo je to, ty seš cílová rovinka, ty si vezmeš první hry zatáčky, jak se tohle vlastně řeže?
+No ono se to dělá jinak, jakoby v případě těch závodních her je to tak, že co je nejdůležitější prvek jakoby té hry.
+No tak to je ta silnice, to jsou ty zatáčky.
+Přesně tak, všechno ostatní jsou vlastně jenom kulisy, ale ty lidi, kteří jako hrajou hry tohodle toho typu, tak to mají všechno nasledovaný, to znamená, že oni třeba potom dělají to, že dávají jakoby videosrovnání ze skutečný trati, jako z hry, a tady je to prostě o dva metry, to neexistuje, že by třeba něco nesedělo o dva metry, protože ty lidi to všechno jakoby znají.
+Tak to je šířká úta, že jo, to jako to poznáš.
+A to znamená...
+To znamená, že v první fázi se jakoby vytvoří celá ta trať a na tý se testuje jako ten feeling, jako jestli to je všechno v pořádku, jestli to odpovídá jako i z hlediska prostě fyziky a tak.
+A mezi tím vlastně běží paralelně další části té práce, kdy se začnou tvořit, já nevím, řeknu třeba landmarks, že já nevím, je tam třeba obrovský kasínovědný zatáčce.
+A tohle ten jakoby ty budovy, který jsou v té první zaděkované trati, ty jsou samozřejmě nejdůležitější, protože jsou nejblíž, musí být vizuálně jako nejkohrantnější a potom je potřeba samozřejmě zaplnit, protože třeba Makau je kopcovitý, takže v jeden moment člověk jede na kopci, jako třeba v Monaku a kouká dolo na ten zálib.
+Takže je tam všechno odhálené, že tam všechny zeskryje, takže to je takový potřeba vyřešit.
+Taky ten trik s mlhou, jako to neděláte, jo? To se to dělávalo.
+To jsi mohl nastavit, ne? Jak bude?
+No samozřejmě, čím jsi měl výkonnější grafiku, tím bylo méně mlhy, třeba v GTA.
+Makau v mnoze.
+Makau v mnoze.
+A třeba Need for Speedy to byly vymyšlené trati, věď?
+V Need for Speedech, tam jsme dělali taky nějaký reální trati, pokud se nemýlím.
+Tak ono typicky, že všude je Monaco, protože Monaco je tak specifické, a Silverstone možná, to jsou takové dvě specifické trati, že poznáš je i podle tvaru, jako když se koukneš na, nevím, na brněnskej okruh, tak víš, že pojedeš motorky v Brně, protože to má takový specifický tvar, tak řekl bych, je ve spousty hrách i Monaco jako klasika, prostě.
+I ve Forze třeba, myslím, že je.
+Že, že, no já právě, já si nepamatuju něco, že bych řekl, že to je jako vlastně reálnej okruh, co když jsme mastěli Need for Speedy, ale vím, že vždycky všichni si pamatují takový ten most s těma dírama, že jako máš dvě cesty, jedný je ten most, v druhý není, a teď vždycky, když jedeme někde v Alpách, tak někdo se ozve, že to je Need for Speedy, ne, ne, že to je odsud, ne.
+A ten, jako ty, ty, těch mostů jsou všechny stejný a je jich prostě, nevím, 50 po Rakousku, ale to úplně udělalo takový kouzlo, že ty lidi o tom mluví, jako kdyby, tohle je přece ono.
+No ale pak si vem chudák dan, když jako pro takovýhle petrolhedy je chce uspokojit a opravdu se tam seknou nějakej, jako kus, měli jste nějaký takovýhle fuck up, že se to dostalo až vyloženě jako do produkce, prostě do zlatýho lisu, neměli?
+Neměli, protože, protože jakoby těch kol schvalovacích je tam celá hodně.
+Jo.
+Právě, právě, aby k tomu o tomu nedošlo, no.
+A ty jsi teda mluvil o sportovních hrách, ale tím, že jsi dělal různý typy, různý žánry, který je vyloženě jako nudnej, abych si třeba představil, že jako dělat hokej, třeba jako modelovat hokejistu, tak jako ho udělám jednou, pak mu maximálně přidám, jestli je tlustý nebo hubenej, nalepím mu ksicht a hotovo 20. Ale to je zase moje samozřejmě jako…
+Trochu, já teď nainstaloval tu FC25, tam se dějou věci…
+To je fotbal, prosím tě.
+No ale to je, jasně, Foden má něco s rukou, tak tam má prostě úplně všechno tam jedou, to je fakt posunutý zase úplně do nesmyslu.
+No jako jo, dobře, u toho fotbalu tam, jo, to chápu, protože ty fotbalisti nenosej helmy, mají účesy, tetování, to tam musíš dát, ale hokej vlastně ze svý podstaty, i jak to hrají z vejšky a moc tam není detailu, tak to je nudné, nebo jsou nějaké nudné pro tebe žánry vyloženě jako modelovat?
+Takhle, já vím, že jako některý grafici třeba nemají, jako rádi nějaký…
+Nějaký části toho procesu. Já jsem to vždycky viděl, jako, já tudíž nechci během toho pracovního dne kdykoliv být ve stavu, kdy dělám něco, co nechci dělat.
+Ty vole, tak to…
+Takže já si vždycky snažím najít, snažím najít jakoby něco pozitivního na tom, co zrovna dělám, i když třeba jakoby vnitřně cítím, že to není úplně nějaká jako moje nejoblíbenější záležitost, ale snažím se tam najít něco, co bych třeba mohl pochopit nebo vylepšit, aby příště, až na tom budu pracovat, abych na tom byl líp, já nevím, jestli to dává smysl.
+Jo, jo, jo, určitě.
+Prostě vysáváš a přemýšlíš, jak koupíš ten robotický, prostě, aby ses na to mohl příště.
+No ty jsi mluvil několikrát o pipeline, což zase pro člověka, který je z klasického softwarového vývoje, tak prostě pipeline je komitnů kód, on se zbuildí, někam se rozjede nějaká prostě continuous integration pipeline a možná se to někde vydeployuje. V tvým případě předpokládám, že to je úplně, co bojíme o něčem jiném. Můžeš teda tu pipeline vlastně z pohledu 3D grafika vlastně popsat, jak to funguje?
+Můžu třeba jako příklad uvíst produkci toho Destroy All?
+Kde se jako postupoval tím klasickým způsobem, že většina té grafiky se navrhovala. To znamená, že na téměř každej kousek, prostě na každej model byl nějaký concept art, který někdo vytvořil, který my jsme potom jako by realizovali buď přímo v tom studiu, anebo skrz nějakého outsourcing partnera.
+A tam jsou prostě logické.
+Kroky, které navazují, které třeba i v rámci toho outsourcingu my sledujeme a jakmile vlastně ta nabrhovaná podoba toho modelu projde schválením, tak potom už se rozeběhne tady tenhle proces těch kroků, kdy tradičně se u organických objektů se dělá ještě tam takzvaná sculpting fáze,
+kde se to digitálně jak by sochaří, potom se vytváří nějaký jako game ready model optimalizovaný, to už taky v současný době mimochodem odpadlo, teda s unreallem, potom to prochází jak by tím texturováním, potom integrací do projektu a podobně.
+A vlastně každý tenhle jednotlivý krok má svůj vlastní schválení proces.
+A teď samozřejmě všechno je to vymyšlení tak, ta pipeline, aby to bylo...
+říká se jako non-destructive approach, takže aby kdykoliv my jsme se mohli vrátit zpátky, kdyby to náhodou bylo potřeba, a upravit tenhle model podle třeba požadavků, které se mezi tím změnily.
+To znamená, že v každý dané fázi to musí být ve stavu, kdy my jsme schopni jít zpátky a nějakým způsobem s tím ještě pracovat.
+A pak se ty další vrstvy tomu přizpůsobějí, nebo ty další kroky?
+A pak se ty další vrstvy tomu přizpůsobějí, nebo ty další kroky?
+Ty máš na svým LinkedIn profilu, že se věnuješ i benchmarkování umělecké činnosti.
+Co to vlastně znamená? A taková jako podotázka, mně to přijde divný, dá se vůbec jako umělecká činnost v ozovkách benchmarkovat, protože zase pro nás benchmark je technicko číselná věc?
+Je to benchmark v rámci...
+Je to benchmark v rámci toho projektu. To znamená, že pokud se nastaví umělecká režie nějakým způsobem, že ten vizual prostě bude mít takový a takový parametry a charakteristiky, které prostě musí být zachované,
+a samozřejmě i na základě toho cílovýho požadovaného vzhledu a technických parametrů, které má ta dana technologie k dispozici,
+tak já potom třeba vytvořím jakoby ukázkový model, řekněme, já nevím, v současné době děláme na Teenage Mutant Ninja Turtles.
+Jo, želvi ninja.
+Pro generaci X je něco, co se asi všichni pamatujou a teď vlastně ta francíza prochází takovým jakoby restartem, si jste zaregistrovali, že byly nějaký filmy.
+Jo, jo, jo. To bylo 3Dčko takový.
+Tak.
+A tam je vlastně na zpracování komiksu, který se jmenuje Last Ronin. Je to velmi temný, je to něco jako Dark Knight Rises, prostě Batman.
+Jo, jo, jo.
+Smrt a zmar a temnota, jo.
+Jak tohle, tak žil vám ninja, ty?
+No právě, no. Je to podospělý v podstatě, jo.
+A to se odehrává v takový dystopický budoucnosti, někde v takovým jako post-apo New Yorku a tam jsou takový obrovský,
+takový obrovský...
+Z cify prostě mrakodrapy a my se jich potřebováme mít docela hodně, já nevím, asi 16 a všechny byly složený z takových modulů,
+aby bylo možné skládat z nich jakoby varianty a jako tímhle tím způsobem zaplnit prostě ten hrdní prostor.
+Takže, takže když, protože tohle to bychom sami nevytvořili prostě ve studiu, takže já jsem vlastně vytvořil jakoby tenhle ten benchmark model
+s...
+I jako se způsobem, jakým se tam budou kombinovat textury a různý detaily na tom modelu a teda tím cílovým vzhledem, to potom, že jo,
+art director schválí a potom my můžeme tohle to poskytovat jakoby tím outsourcingovým studiím jako něco, čeho se mají držet.
+A oni to teda používají jako asset už pak do té hry, že už vlastně to má vyřešenou nějak v fyziku, dá se hejbat ruči,
+čičkama, nožičkama a vy už na to nešaháte a oni to zakomponovávají do té hry, nebo vlastně kde končí ta vaše zodpovědnost u tohohle jako modelu?
+Jasně.
+Ty outsourcingový studia vlastně dostanou od nás kompletní přístup do projektu, to je důležitý, protože jinak by nemohli integrovat tu slušnou práci,
+protože ta integrace jako není úplně jednoduchá, v hlavě musíme přístup k...
+Tam se třeba používají shadery, které jsou vyvinuté na míru tomu projektu.
+To znamená, pro lidi, kteří tomu nerezumí, to jsou ty materiály vlastně, které jsou na těch jednotlivých modelech.
+A oni teda jakoby dostanou tohleto vlastně k inspekci, aby se podívali, jak je to celé postavené dohromady, protože je to poměrně komplikované.
+A potom my jim dáme vlastně zakázky na ty jednotlivé modele, tam dostanou pouze 2D koncept.
+Mhm.
+Na základě těch kroků, který jsem popsal dříve, vlastně začnou tvořit tady tyhle ty jednotlivý, řekněme, třeba budovy.
+A nějakým způsobem se takhle seznámí s tou naší interní pipeline, kterou si potom osvojí a používají pro všechnu tu další práci.
+A tohle teďka děláte i u těch Shelf Ninja.
+Tohle teďka děláme u těch Shelf Ninja, přesně.
+Mě napadl takový úplně hrozně boomerský for, že výhoda, když děláš na projektu Shelf Ninja, je, když dostaneš, aby si udělal tomu lordu krankový tělo, což je celý for.
+Viděl jsi to někdy, ne?
+Viděl, viděl, viděl.
+Celý ten for, který jsi dělal, aby mu udělali tělo.
+To je ale, přátelé, velmi boomerský interní for ze světa Shelf Ninja, za to se samozřejmě omlouvám.
+Nicméně pro mě je to brutálně zajímavé tě jenom poslouchat.
+Jak vlastně vypadá tvoje aktuálně, jako řekněme, ten set pracovní, že uděláš si kafé, vyskočí ti na jednom z pěti monitorů, ti vyskočí vlastně co?
+Teda je to nějaký 3D studio, nebo se pořád se nějak...
+Jako je to vloženě 3D studio, co to jmenuje?
+Je to 3D studio, přesně.
+Takový to starý, ve kterém jsme si zkoušeli otexturovat kouly před 20 lety, 3D studio max, něco takový, jo?
+Tak ono prošlo docela razantním vývojem, teď se jmenuje 3D studio max, ale vlastně ty herní studia jsou relativně konzervativní a pořád je to rozdělený, takže se tam buď používá 3D studio na tvorbu těch asetů a mája na animaci, některý studia používají máju na všechno, nebo v posledních letech je poměrně populárním používat Blender, který je zadarmo.
+Ale...
+Ale ne, jako by není to standardem zatím, jo? A přesto, že těch, přesto, že těch, jako by 3D softwarů je celá hodně, tak, tak většinou se všude používají ono tady tyhle ty tři.
+Jinak můj pracovní den vlastně v téhletý pozici, já jsem začal tuhletu práci dělat, protože mě baví tvorba, jo? To znamená, že já bych nechtěl jenom někde vyplňovat tabulky a tak, bych asi, asi musel nějak se saturovat pod tím něčím jinde.
+Ale...
+To znamená, že ten pracovní den je rozdělený mezi, jako by, ten management z toho outsourcingu plus ještě vlastně, jako by, grafickou tvorbu, že k tomu ještě vždycky dělám nějaký věci prostě do té hry, abych, abych se potom mohl vytovat a říct, hele, tady tu židli jsem udělal já.
+Takže pořád si ještě jako na to chceš šáhnout a taky si něco namodelovat, i když tu práci jenom jako rozděluješ většinou času, jo?
+Tak.
+Podvod.
+Jsme stále v herním světě a když se tak podívám zase na ten tvůj vývoj, na to tvoje portfolio, řekni nám, jaký je pro tebe třeba rozdíl mezi prací na 3Ačkovej hra, kde očekávám, že je spoustu governance kolem, spoustu papírování, spoustu schvalování a takových těch indý věcech, který jsou z mýho pohledu spíš pořád jako od srdíčka, je to trošku punk.
+Je tam jako stejný třeba množství kreativní svobody nebo liší se to v použitejch technologiích nebo kde je ten hlavní rozdíl?
+Pokud se nevím, tak jsem ještě na žádným 3Ačkovým projektům nedělal.
+Hele pro mě i nýforz píde 3Ačkové.
+Jasně, jasně. Vlastně rozdíl mezi dvojáčkovým a 3Ačkovým projektem je hlavně budžet.
+A budžet na marketing nebo na production?
+Celkový budžet.
+Jo, celkový budžet.
+Jo, protože trojáčkový hry, celý ten herní průmysl je dost srovnatelný s filmovým průmyslem.
+Mimochodem, jako obrat herního průmyslu je vyšší než filmovýho průmyslu.
+Každopádně, každopádně, prostě když se podíváte do kyn, tak zjistíte, že takových těch klasických blockbusterů za rok se v těch kinech objeví jenom několik.
+To se týká i 3Ačkových her. Je to čistě proto, že ten investiční risk tam je obrovský.
+Jak u filmů, tak u těch 3Ačkových her ty budžety se pohybují v řádu stovek milionů dolarů.
+Hmm.
+3Ačkový hry, to může být jakoliv mezi deseti, dvaceti, jo?
+To znamená, je to třeba desetinásobně míň.
+Jasně.
+Každopádně, pořád mluvíme o velmi, velmi vysokých částkách.
+Já nevím, můžeme mluvit třeba Kingdom Come.
+Jasně, no.
+První Kingdom Come je dvojáčková hra, jo? Mimochodem.
+Co se týče toho rozdílu, já můžu třeba srovnat, jako...
+No, svoje zkušenosti z dvojáčkový produkce, nebo třeba, já nevím, z toho výjarkovýho startupu, kde jsem měl v Berlíně.
+Já si myslím, že tyhle ty malý, nezávislí produkce jsou výborný pro mladí lidi, kteří se chtějí naučit spoustu nových věcí.
+Jo, protože ty prostředky jsou tam velmi omezený.
+A...
+Je téměř jistý, že...
+Tam nebudete moct zůstat, jako...
+Jako specialistou.
+Jasně.
+Že vás přijmou jako grafika, ale že nároveň budou chtít, aby, já nevím, jste se naučil dělat vizuální efekty, jo?
+Jo.
+Partika efekty, nebo cokoliv, co zrovna bude potřeba, jo?
+Nebo sales, nebo marketing.
+Ne, to nevím, jestli...
+Asi záleží od vodohy, kdo má jaký koule, ale...
+Ale v tom je to jakoby obrovský, zajímavý, je tam samozřejmě nutný počítat s tím, že...
+O projektech se krančuje.
+To mám jako specifickou otázku, ale když už se z toho dotknu, tak klidně pojďme na kranč.
+Jo, protože samozřejmě většinou to funguje tak, že tam je nějaký budget, že tam je nějaká investice, většinou tu jsou nějaký fondy prostě, který se rozhodnou někomu přihrát třeba milion, dva milionu dolarů, s tím, že to studio pro ně udělá perspektivně nějaký tituly, jo?
+Může se to povízt...
+Taky nemusí, někdy dost často se stává, že ty studio ani nic nevyprodukujou, jo, že nebo vydají prostě jeden titul a potom to celý umře, ale jako v rámci té zkušenosti je to velmi dobrý, si myslím.
+Ve srovnání s tím, jako třeba ty dvojáčkový produkce už jsou finančně relativně jakoby jindé a člověk tam třeba nemá jako takovou kreativní svobodu.
+Ale zase je tam větší stabilita, jsou tam samozřejmě výrazně lepší pracovní vodmínky.
+Tam se řekneš prachy.
+No, ono to je takový jako s těma prachama, s těma prachama je to dost jako složitý v tomhle tom průmyslu, si myslím, jo, protože myslím si, že mladí lidi jsou vykozistěvaný relativně všude, jo, jako ve všech oborech, nejenom prostě v game developmentu,
+protože prostě...
+Nemají zkušenosti, ale mají hodně energie, takže prostě všichni se snaží nějakým způsobem z tohohle toho těžit, že jo.
+Ale jakoby zase si myslím, že člověk se toho v té dvojáčkový produkci prostě nenaučí tolik jako v nějakém startupu, no.
+A co pro tebe byl jako takový největší kick teda v tom, že jsi přišel na začátku a říkal jsi, že už to umím a odcházel jsi a říkal jsi, že nic jsem neuměl, ale teď teprve jako teď jsem se naučil spoustu věcí.
+Byl tam nějaký takovejhle jako...
+Posun výrazný.
+Já mám takový pocit, že já tohleto mám po každý, když zním někde místo. Já jsem pracoval pro tolik těch studií, já jsem takový docela netrpělivý člověk a furt si něco novýho a proto jsem dělal teda jako na tolika těch titulech, z nich naprostá většina teda byla jako dokončená a vydaná.
+Ale vždycky, když jsem přišel někam, tak jsem se musel naučit něco novýho, co jsem neuměl, plus je to samozřejmě ještě jakoby kombinovaný s tím, že neustále...
+...vývojem v té herní produkci, kdy člověk vlastně nemůže ani na jeden rok jakoby přestat ty věci sledovat, protože mezi tím se to vždycky někam posune.
+V současné době třeba dochází k jakýhle obrovské transformaci v souvislosti s tou generativní AI, takže vždycky něco novýho, prostě nikdy vás to nenechá spát, nebo tě to nenechá spát.
+Já úplně vidím, jak se Poli nadechuje, když si řekl jako AI, ale ještě než to tam Poli vpálíš.
+Ne, to jsem nevyslal.
+Protože jsme neutekli od toho crunche, protože to je, jinak pro milé posluchače, co neznají tenhle terminus technikus, crunch znamená brutální přesčasy, třeba dvojnásobní, já vím, 16-20 hodin i, abyste dokončili v termínu tu hru, na který jste předtím několik let dělali.
+26 hodin denně.
+Třeba 26 hodin, ty, co na měj počítat ze zbořice, i to je možný.
+Takže jenom tohle je věc, která vlastně s tím oborem je úplně zpětá, byť jsou studia, který říkají, my necrunchujeme, my to neděláme, my jsme CD Projekt Red, taky říkali, my necrunchujeme, pak vyšlo najevo, že cyberbank nebyl úplně čistý.
+To je právě ta věc, ale já si myslím, že ty crunche se týkají převážně těch trojáčkových titulů.
+Těch velkých studií, myslím. No, protože tam je hodně peněz.
+Já to tady vím, protože některých z mých bavilech kolegů, já nevím, dělají třeba v Naughty Dog, že jo, a vím prostě, jak to tam vypadá, ty podmínky, a není to něco, co by si člověk přál.
+A ty teda s tím máš zkušenosti vložené, že sám si taky takhle musel crunchovat, nebo zrovna tebe se to úplně netýká v tvý pozici?
+Takhle, jakoby třeba v současném studiu tohle to neděláme z dobrých důvodů, protože mu to nedává smysl.
+Aha.
+Mu to nedává smysl, protože buď si člověk, jakoby drží ten svůj tým, jasně, může tam dojít nějakýmu krátkodobnímu crunchi, ale pokud se tohle to bude zneužívat, tak začnou odcházet lidi, který jejíž trénink prostě stál nějaký peníze.
+A bude tam prostě moc velký turnover těch lidí v tom studiu, což za prvý teda navenek působí velmi špatně.
+To znamená, že spoustu potenciálních jako...
+Za městnanců budoucích to odradí, za druhý, jakoby ten crunch relativně jako opravdu nic neřeší, jo, protože je možný třeba stihnout nějakej termín narychlo, ale pokud se to dělá pravidelně, tak vlastně ty lidi vyhoří a není možný prostě tu pracovní pipeline mít postavenou takhle.
+Crunch jako, myslím, na prostý většině případů je výsledkem špatnýho managementu.
+Jako špatnýho plánování.
+Špatný, přesně tak.
+Ok.
+A nehraje teda roli v tom, což už je vlastně otázka, kterou jsme tady jednou použili, když jsme tady měli vůdy, jo, když jsme se taky ptali na crunch, třeba to, že to je specifický pro tenhle obor z toho důvodu, že prostě v půlce zjistí, že to je jako po prvním, nevím, nějakým veletrhu, kdy se to ukáže veřejnosti, se ukáže, že to vlastně je nuda a musíme začít znova.
+Jako jestli se to nenese, co chci říct, jestli to není esence té kreativní činnosti, že můžeš poměrně pozdě zjistit, že cesta, kterou jdeš je úplně na hovno a musíš znovu, jo, což když děláš normální software agilním způsobem, tak jako tě to naviguje postupem, se to někam vyvíjí, ale ty tomu zákazníkovi dáváš software, on ví, jak má fungovat, plus mínuse sejdete a je to hotový 20, má to nějakou jako business funkcionalitu, ale ty chceš hráče bavit a bavit se strašně blbě podle mě plánuje, jako nebo myslíš, že se to dá nějak toh
+Tohle je zajímavá otázka, která se i vztahuje třeba k současnímu, současným velkým změněm, jako ve způsobu, jak zpřístupnit jako hráčům ten svůj projekt, že jo, třeba v rámci Early Access, což dřív nebylo možný, dřív prostě to bylo jako sáska dole, který je, jo.
+Po třech letech CDčko a hotovo.
+A nechali vlastně jednoho toho člena té rodiny to řídit, jo, a ten, to byl mladý člověk, který vlastně měl o sobě nějakou jako představu, jakože prostě velmi jako talentovaný game designer a ten byl schopnej za rok a půl ten projekt vlastně šestkrát kompletně změnit.
+Šestkrát, ale on třeba měl, my jsme třeba měli hotový vlastně.
+Už nějakou, jako hratel, nějaký hratelný vertical slice, což je vlastně jakoby funkční ukázka prostě té hry a on třeba odjel na týden na dovolenou a po týdnu přijel s tím, že nechce už používat Unreal Engine, ale že chce prostě používat CryEngine, protože si o tom někde přeče nějaký dobrý věci.
+A to jsou ty věci jako v tom game developmentu, na který vás nic nepřipraví, protože to můžete jenom sledovat, říkáte si, já jsem nějaký absurdní komedy.
+Takže crunche, který jsou potom založený na nějakým takovým nesmyslným managementu samozřejmě.
+To chápu, jasně, to je kretenský.
+Ale jako jinak…
+Moc peněz škodí, ty jo.
+Jo, určitě.
+Když máte takovýhle prachu, tak vymýšlíš jako takovýhle koník.
+Tohle může říct člověk z banky, ty vole, to nechápu.
+Finanční zdraví, kamaráde.
+Nejhorší, že ono to ve finále ani tohle to martyrují, on vlastně neměl žádný konkrétní výsledek.
+Takže kdyby se opravdu tam kovalo v té výhní něco, co by přineslo nějakou super kvalitu,
+tak by člověk řekl, že to byl ten dramatický, důrčí proces, ale ono to jenom vyšumělo.
+Jak mluvíš o tom, že se to špatně naplánuje a proto se crunchuje,
+že přece taky tam musí být nějaké paterny, které už po těch několika hrách
+ty a ostatní lidi ví, že nějakým způsobem zafungujou.
+Když to převedu, jsem tady začal přemýšlet nad nějakým…
+Neříkej zase FC24, protože to…
+Ne, ne, ne.
+To dělají kopii Pace od roku 98.
+Konec, ne, přemýšlel jsem nad něj, nad Hardwarem se tým komentujem.
+No.
+Nad třeba tým Rollcoaster parkem, nad jako, prostě jako zábavním parkem, že jo.
+Horský dráží, říkáme to v čekách.
+A asi musíš tušit, jak to bude zábavný, protože když ne, no tak to si to jako neopravíš,
+jako neuděláš nový release, že jo, za týden.
+Tak to máš, to si zahraješ Rollcoaster Simulator 2.0, který byl úplně skvělý
+a když zjistíš, že ti ty lidi blejou, tak to předěláš, ne.
+Takže to jsou ty paterny.
+No jasně, no.
+Takže víš, že ti lidi blejou.
+Ale máš pravdu, tam byly předefinovaný jako zatáčky, aby ty lidi ti nevylítly.
+Jo, jakože přece musí být nějaký set best practices i v tomhle jako odvětví,
+který víš, že vlastně, když tady uděláš nějakou lekačku, nebo co já vím, jo,
+tak to zafunguje.
+Určitě, ale jako na druhou stranu, nemyslím si, že existuje nějaký absolutně
+univerzální návod na úspěch jako toho danýho titulu,
+protože kdyby byl, tak by jsme tady měli určitě víc úspěchů.
+Já můžu dát konkrétní příklad třeba s těma Destroy All Humans.
+Destroy All Humans byl vlastně jako remake populární série z roku 2010,
+něco takového, to je jedno.
+O šíleným mimozemštěnovi, který prostě provádí nějakou misi,
+je to taková kombinace Clinta Eastwooda a Jamesa Bonda prostě.
+A ten první díl vlastně toho remakeu, který vyšel vlastně na začátku covidu,
+ty hráči přijeli velmi pozitivně, je to prostě akční, je to vtipní a to dá to do.
+A žánr je střílečka z třetí osoby.
+Přesně tak.
+Dobře.
+Plus je tam spousta destrukce, on může jako likvidovat celý domy,
+domy prostě padají, že jo, jsou sfyzikalizovaný a všichni z toho prospadá na trosky.
+Takže samozřejmě my jsme očekávali, že ten druhý díl bude mít podobný úspěch,
+že bude dražší, bude větší, bude tam prostě víc zbraní a podobně.
+Ale jako nestalo se to.
+A teď je otázka, OK, tak je to proto, že se změnila nálada těch hráčů,
+těch hráčů mezičase nebo proto, že to vyšlo třeba v kolizi jakoby s nějakou velkou hrou.
+Jo, to je prostě hrozně.
+A to vyšlo po covidu?
+To vyšlo po covidu, no.
+Takže název Destroy All Humans po covidu.
+Každopádně, každopádně jenom to říkám proto, abych ilustroval to,
+že člověk nebo že ty firmy častokrát ani netuší jakoby, proč ten titul souhal.
+Jo, jo, jo. No oni ani netuší kolikrát, proč ten titul je úspěšnej,
+co se jim na tom tak líbí.
+Jo, jo.
+Že se opravdu třeba trefí jenom do nějaký nálady, že jo?
+Ono, já mám rád tady tohleten příklad, tohleten příklad vlastně,
+jak vyšly Crazy Birds, že jo?
+To byla vlastně jedenáctá hra toho finskýho studia.
+Myslíš Angry Birds?
+Pardon, Angry Birds, vlastně.
+Teď jsem úplně jak boomer už.
+A to byla vlastně jedenáctá hra toho studia.
+Těch deset her, to bylo všechno absolutní flop.
+A ta jedenáctá hra, oni vlastně, že ten zbytek vlastně toho budžetu,
+který měli, tak jako ta vrhli na ty Angry Birds, vydali to a nic moc se nestalo.
+Tak říkali, OK, prostě budeme zavírat to studio a potom někde nějakej hokujovej hráč
+během hokujového mistrovství světa na otázku, když se ho ptali,
+co dělá ve volným čase, když čeká, až půjde návod nebo něco,
+tak jako, že prostě hraje Angry Birds.
+A tohle to prostě vyvolávalo.
+Vyvolávalo absolutní jako ultramány a jako z trhotoce ještě terciární prostě trh
+z plaschí, z Angry Birds a podobně.
+Takže místama je to taková, je to nějaký trochu štěstí, nějaká magie, nevím.
+V Lorovio to studio?
+V Lorovio Games.
+Tak to nějakej pasterňák se prostě prokec.
+A jde.
+Tak to si myslím, že po letošním mistrovství světa místo Angry Birds
+to půjde asi kozička, tyhle věci, co jsem slyšel.
+Ne, nicméně ještě než Poli vystřelí svůj AI dotaz.
+Ty jsi mluvil vlastně o tom, že některý věci už jsou ověřený,
+některý paterny už vlastně možná víme, možná nevíme,
+ale pak je tady svět jako, řekněme, knihoven, frameworků a obecně jako engineů,
+který i třeba mají vyřešený tu počasí, tu scenérii, tu stromy a tak dále.
+Jak moc tohle tobě ubírá, nebo naopak přidává,
+nebo jak to vlastně zapadá do tvý práce, tenhle svět?
+Jasně.
+Já si myslím, že každá dobrá hra stojí na dobrý hrní mechanice.
+Všechno ostatní, co je ten vizuál, je vlastně jenom pozlátko,
+který z toho neudělá dobrou hru.
+Pokud ta hrní mechanika prostě není zábavná,
+tak je možný na to naházet prostě miliony, ale nic se nezmění.
+Co se týče různých knihoven a podobně, nemám s tím problém,
+jako nechápu, proč by prostě každý studio mělo znova,
+modelovat jako ten samej druh židle, prostě, nebo to je prostě nesmysl úplný, jo?
+Ty peníze, nebo ten rozpočet by měl být věnovaný na tvorbu něčeho unikátního.
+Hm.
+Jo.
+Obzvlášť teda v současný době u, já nevím, dvojáčkových, trojáčkových titulů,
+kde je relativně fotografistická grafika, tak určitě pávit rozpočet na nějaký jako běžný věci je zbytečný, jo?
+Tím se skoro tak dostáváme k tomu ajíčkovi řek.
+Hm.
+Ale…
+To je obslý ústek.
+Tohle, tohle se, tohle se jako asi dost, dost jako promění v budoucích letech s tou celkou transformací herního průmyslu,
+ke který právě dochází teď.
+A ty teda cítíš nějaký dopad už na svoji každodenní práci, co se týče AIčka, nebo pomáhá ti AI?
+My v naší jakoby současní produkci s tím děláme nějaký experimenty, co se, co se vlastně týče
+na…
+Hlavně jako concept artů.
+Co se týče tvorby 3D grafiky, tak většina těch věcí, těch současných softwarů je ve velmi ranný fázi.
+Já nevím, NVIDIA třeba teďko vyvíjí něco, co se jmenuje Mesh, Mesh Tron, což slouží vlastně ke konverzi dat z laserscanningů.
+Jo, vy můžete si prostě naskenovat prostě laserem, já nevím, tady skleníčku, jo, to vytvoří něco, čemu se říká point cloud.
+Což je vlastně síť těch jednotlivých hodů, prostorů.
+A pak, pak to hodíte tady do toho Mesh Tronu a on vám z toho vytvoří game ready model, jo.
+Zase, jo, tohle je jenom jedna cesta těch, těch softwarů, který používají prostě ty neurálky je strašný množství.
+Včetně třeba, včetně třeba animace na motion capture, na záznam lidskýho pohybu a zpracování toho záznamu lidskýho pohybu na celou řadu jakoby,
+na celou řadu jakoby dalších částí tý produkce, ale nic z toho zatím není úplně jako univerzální.
+Je to o tom, že produkce 3D grafiky pro hry je velmi specifická, jsou tam nějaký konkrétní jako technický limity,
+který teda v současný době už nejsou tak drastický, protože Unreal Engine má, Unreal Engine 5 má systém, který se jmenuje Nanite.
+A Nanite vlastně umožňuje,
+pracovat s modely, který mají řádově vyšší jakoby obsah polygonů, jsou prostě extrémně detailní, no.
+Právě třeba řekněme, když jsou to nějaký modely, který jsou přímo jakoby skenovaný laserem, já nevím, kus skály nebo něco, má milion trouhelníků, ze kterých je to složený.
+Dřív by to bylo nemožný, teď prostě je možný to hodit do té hry rovnou, neobtumalizovaný a pracovat s tím, jo.
+Není to ideální, ale ta možnost tady je.
+Takže, takže, já si domnívám, že tohleto v budoucnosti se velmi změní, že i ta práce toho 3D grafika za prvý se tím jednoduší, za druhý to bohužel teda přinese sebou asi i smrštění prostě toho pracovního trhu, že těch 3D grafiků nebude potřeba tolik.
+Už jenom jako...
+Už jenom jako...
+V návaznosti třeba, jak jsem zmiňoval, ten konec toho covidu, během covidu, došlo k obrovskému boomu herního trhu. Ty hlavní hráči začaly skupovat desítky různých studií a vytvářet tyhlety jako nadnárodní molochy, který vlastně potřebně třídli měli jako... nebo mají stovky těchto studií.
+Desítky z těch studií byly zavřený, i když třeba byly jako v zelených číslech nebo v černých číslech.
+A...
+Když vlastně skončil covid, tak ty lidi, kteří seděli doma a hráli hry, tak najednou prostě ten zájem opadl.
+Zmenšil se ten trh. Takže došlo jako k další prostě... nebo dochází teďko k další konsolidaci prostě toho herního trhu jako takovýho těch herních producentů.
+Pořád to běží, ještě to neskončilo, už to vlastně běží třetím rokem.
+Já nevím, třeba za...
+Milovej rok se ten pracovní trh v tom game developmentu zmenšil asi o šestnáct tisíc míst.
+Což jako... člověk řekne šestnáct tisíc míst, to je jako tady kolín nebo něco, ale v rámci toho odvětví je to hrozně moc.
+Takže my vlastně nevíme, jakou to mluví podobu.
+Zároveň, když se podíváte na množství vydaných titulů na Steamu,
+které je tu s náma od roku 2004, tak v roce 2004 tam bylo vydaných šestnáct pět her.
+V roce 2024 šestnáct tisíc her.
+Kráso.
+Jo, to znamená, že my jsme absolutně saturovaný obsahem.
+Na vrch samozřejmě většinu jakoby těch příjmů z toho koláče ukousne jenom několik málo titulů, které jsou úplně na vrchu, že jo.
+Takže to začínalo ovlivňovat právě i produkci jako trojáčkové her.
+To investiční riziko je prostě příliš veliký.
+V denávné době došlo k několika velkým flopům.
+Já nevím, třeba Concorde.
+Tam vlastně jakoby přišlo o zhruba sto milionů dolarů na vývoj.
+To je hra, která... Ty servy běžely necelý týden.
+Takže vy vidíte čtyři roky hru nebo jak dlouho za sto milionů dolarů a pak to běží týden a tím to skončilo.
+No ale tohle je docela řekl bych tradiční opět pro tenhle druh biznesu.
+Z toho i co jsem čet několik knih vlastně o těch různých herních studiích.
+Že vlastně klasika, vydá se hra, když už se teda vydá, nezařízne se v půlce.
+Tak teda jako je venku, čeká se na recenze, kolikrát stačí, i kdyby byla úspěšná.
+Studio se zavře, dají se layoffy, lidi přijdou někam jinam, dva si udělají indie game, někdo zase...
+Že vlastně ten životní cykl, když jsi do firmy, tady, říkáš si, tak tady budu třeba pět, deset, patnáct let, jsou takový držáci.
+Z mýho pocitu, a to jako oprav externího pozorovatele, tak kdo je čtyři, pět let v jednom studiu, tak to už je v podstatě jako kmet a má tam inventární číslo v tomhle oboru.
+Je to pravda, no. Je to pravda.
+Na druhou stranu jsou extrémní projekty.
+Zmiňoval jsi Cyberpunk, anebo třeba zrovna Kingdom Come.
+Teďka vyleze. Nebo teď už asi venku tohle jdem.
+Kde jsem se taky nachlmejt na začátku vývoje, hned ten první rok k tomu.
+U té dvojky jsi byl.
+U jedničky.
+U jedničky.
+Ale pak jsem teda odešel a oni to potom vyvíjeli osm let. Osm let. Řekněte mi nějakou filmovou produkci, která trvala osm let.
+Na to už člověk musí být nějak jako...
+...psychicky hodně odvolnej.
+Aby prostě vydržel od jednoho projektu takové dlouho.
+Připomnělo, že na Kingdom Come jedničce na systém pro oblečení, tak pracoval vlastně můj bývalý kolega, který pak šel do herního vývoje, Boris Zapotocký.
+Právě tahal nás na squash s Woodim, tak proto se známe.
+Nevím, jestli ti to jméno něco říká.
+Šikovnej taky 3D grafik Slovák, blázen do měkkých stínů. Vždycky toho zmiňuju.
+Blázen do měkkých stínů.
+No, no.
+Předtím bych to neslyšel, předtím taky ne. To je jediný člověk za celý můj život, prostě dva čtyřicet let, který říkal, že miluje měkké těně.
+A vy jste to měli asi tři dny, co to znamená pro jako 3D grafiku a pro hry a tak dále.
+A ten právě dělal ve Warhorse, tak jsem si myslel, jestli jste se nepotkali, protože právě dělal na systému pro oblečení a mohla to být zajímavá práce.
+No, osm let na ničem dělat. To se kolikrát stane, a ty už jsi to zmiňoval, že se jako vymění enginy.
+Už jsme to taky jako několikrát četli, ty listy příběhy. I třeba, myslím, že John Romero, když dělal tu svoji hru, tak v půlce zjistil…
+Daikatanu.
+Daikatanu, že jako to takhle dál nepůjde a celý to překopali. Ty jsi to zažil několikrát, nebo to byl jenom ten blázen z Německa, co vám řek jako…
+Ne, jenom tady v tomhle jednom případě.
+Jo, jo.
+Absolutně, absolutně nepodložený, i technicky prostě, no. Takže…
+No a když jsme u těch engineů, tak ty jsi zmínil. Unreal, vím, že máš zkušenost i s Unity.
+Určitě.
+Jak to teďka vidíš, tyhle ty jako dva světy? Unreal je lepší, Unity je horší, nebo je ti to vlastně jedno, nebo jaký je tvůj přístup? A ještě klidně můžeš zmínit i ten licenční fuckup, kterýho jsme se tady dotkli i s Karlem Matějkou, kterého to vlastně víceméně trefilo i tohle stavě.
+Takhle ono…
+Unity…
+Nikdy asi nebylo úplně konkurentem Unrealu. Protože Unreal vlastně směřuje na tu majoritní jakoby hráčskou populaci, už jenom protože to je v podstatě jedinej engine pro trojáčkové tituly.
+A většina těch konkurentů, já nevím, včetně licencovaného CryEngineu v podobě Lumberyardu od…
+Amazonu, asi to prohrává tenhle boj.
+Unity vlastně cílilo vždycky na indie jako vývojáře, nebo na lidi, který potřebují jako relativně otevřenou platformu, ať už z jakýhokoliv důvodů, třeba z důvodů specifičnosti jakoby těch svých projektů a podobně.
+To znamená, že to nejsou úplně konkurenti.
+Ani si myslím, že nedisponujou takovým budžetem pro to, aby mohli konkurovat Unrealu, když teda pomineme jakoby ten licenční jakoby problém, kterým na sebe přivovali jakoby hněv.
+Hněv komunity.
+Hodně, hodně lidí.
+Takže, ale každopádně pro mě jako pro grafika, co se týče jako přístupu k tomu engineu, tam není až tak zásadní jakoby rozdíl.
+Mně se třeba líbilo vlastně, že Unity bylo schopný pracovat přímo jakoby s těma zdrojovýma filama, když to Unreal si to všechno ukládá do svých vlastních, jakoby jmenuje se to uasset filů.
+Který samozřejmě se dají jakoby extrahovat zase pouze jako s pomocí Unrealu, když to Unity používá jakoby vlastně ten raw source, že jo.
+Ale to jsou takový detaily, který jako nebudou asi pro diváky, pro posluchači úplně zajímavý.
+No já si myslím, že určitě budou, protože my jsme rádi, že jsi tady s náma, bavíme se úplně o věcech, který normálně tady pod vodcem neřešíme.
+Já ještě taková jako trošku geeky otázka. Jak vlastně ty jako 3D artist jako verzuješ třeba svoji práci? Protože zase jsme zpátky u toho programátoři, ty to komitnou do gitu, pak se můžou podívat na nějakej div, ví co změnil, kdy to změnil, proč to změnil, má to třeba navázaný na nějakou práci.
+Ty asi předpokládám, nejdeš jako nějakým stylem Final Final Final V2Z, že asi máte taky nějakej specifický tool, kde třeba vidím defy mezi těma 3D, nebo není to tak?
+To je zajímavá otázka, protože zrovna nedávno mě kontaktoval nějakej chlapík z nějaký dánský startupový firmy, abych jim udělal evoluaci nějakýho právě takovýhleho jako softwaru.
+Aha, tak se nejsem první.
+Přesně.
+Přesně, jakoby k těmhle těm účelům, kde by člověk teda viděl i ty jednotlivý jako vizuální rozdíly mezi těma verzema. Každopádně není to standardem, my běžně používáme Perforce, což je verzovací systém na zálohování celého toho projektu, ale řekněme i včetně těch zdrojových souborů, těch těch výstupových souborů, třeba s 3D studiama a podobně.
+Takže tam je vždycky možný, protože to představuje vlastně…
+představuje vlastně obrovský mění, kdyby náhodou měl to studio přijít o ty data, tak je to jako obrovský, ale obrovský prostě provar, žejo. Kdyby mohlo přijít prostě neskutečný peníze v tom vývoji.
+Takže všechny tyhle ty data jsou vždycky velmi dobře zálohovaný a v každém tom studiu se velmi dbá na to, aby ty lidi tam ty data vlastně jakoby zalohovali.
+Takže všechny tyhle ty data jsou vždycky velmi dobře zálohovaný a v každém tom studiu se velmi dbá na to, aby ty lidi tam ty data vlastně jakoby zalohovali.
+Takže všechny ty data jsou vždycky velmi dobře zalohovaný a v každém tom studiu se velmi dbá na to, aby ty lidi tam ty data vlastně jakoby zalohovali.
+Souvisí s tím teda vlastně i organizace těch jednotlivých dat, aby prostě jakákoliv změna, která tam proběhne, aby byla popsaná, k čemu tam došlo, jakým způsobem jsou organizovaný ty fájly, ta jejich vnitřní struktura, jak je to pojmenovaný a podobně, jo.
+Souvisí s tím teda vlastně i organizace těch jednotlivých dat, aby prostě jakákoliv změna, která tam došlo, jakým způsobem jsou organizovaný ty fájly, ta jejich vnitřní struktura, jak je to pojmenovaný a podobně, jo.
+Souvisí s tím teda vlastně i organizace těch jednotlivých dat, aby prostě jakákoliv změna, která tam došlo, jakým způsobem jsou organizovaný ty fájly, ta jejich vnitřní struktura, jak je to pojmenovaný a podobně, jo.
+Souvisí s tím teda vlastně i organizace těch jednotlivých dat, aby prostě jakákoliv změna, která tam došlo, jakým způsobem jsou organizovaný ty fájly, ta jejich vnitřní struktura, jak je to pojmenovaný a podobně, jo.
+Čistota je důležitá.
+Takže vidíš i 3D grafici řeší čistotu vlastně.
+Ne, protože tam vždycky může dojít ty situaci, že...
+vlastně
+s tím vaším filem
+prostě bude pracovat někdo jiný než vy
+a nebude vůbec vědět, co má dělat.
+Jo, to znamená, že
+nebo to budeš ty za 14, že?
+A to já mimochodem navazuji
+na jednu
+z těch otázek, kterou jsem mi poslal
+při tím, co bych jako doporučil
+těm perspektivním grafikům,
+tak třeba čistota práce
+je něco, na co se opravdu hledí.
+Že prostě, když
+se otevřu nějakej tvůj max soubor
+nebo ať už jakýkoliv jiný, prostě já podívám
+se do té struktury, jestli je to nějakým způsobem
+jako organizovaný, jestli je to
+čistý, nebo jestli je to absolutní ultrachaos,
+kde nevím vůbec nic,
+tak to je taky jedna z věcí, která
+je to i dobrá
+jako osobní praxa.
+Protože mně se častokrát stalo,
+že třeba jsem musel se vracet
+k nějakému souboru třeba po několika letech.
+A potom se na to člověk
+půjde a říká, čuva, co jsem to tady?
+Tady prase, jo, to jsem byl já.
+Plesk, plesk.
+A je nějaký terminus technicus,
+jako my máme špagety kód pro něco, co je
+fakt jako hnusně zprasený, jak
+si nadávají 3D grafici
+na organizaci.
+Špagety model to nebude, ne?
+Různě, různě. Ty umělci jsou takový
+jako výzeční, takže to tady nebudu reprodukovat.
+No tak je. Já jsem předtím
+nechtěl mít AI otázku.
+Pozor, pozor.
+Jakože tohle nebude AI otázka, nebo že tohle bude?
+Tohle nebude AI otázka, ale můžu já taky,
+já mám dvě. Tak já tady hledám nějakou fanfáru
+v tom světě. Jo, jo, jo, pustíte to, pustíte to.
+Já tady nemám, nemám tady
+například žádný. Ale vlastně to
+souviselo trošku s tím
+jako indie versus
+třiáčková hra třeba.
+Nebo dvojáčková. Nebo dvojáčková.
+A ve chvíli, kdy, několikrát
+jsi zmínil, že jsi vlastně něco dělal poprvý
+a musel jsi jako najít cestu jak tomu,
+tak je tam rozdíl
+předpokládám takový jako větší zázemí.
+Máš tam jako více o koho opřít?
+Nebo je tohle dost podobný?
+To je jako jedna pototázka,
+jestli se to mění v čase, jestli dneska,
+když jako možná to nejturbolentnější
+období je pryč, nevím, to možná řekni,
+tak jestli je to pořád stejný,
+že pořád musíš hledat ty nový
+uličky, který ještě nikdo neobjevil.
+Tak on v podstatě to by člověk měl dělat
+vždycky tohleto.
+Protože já si myslím,
+že skutečná známka
+jako zkušenosti
+dlouhodobí
+je v tom, že
+při zpracování nějakého úkolu
+člověk nemá k dispozici
+jenom jednu cestu možnou,
+ale že jich má mnoho.
+Že si vždycky on zvolí tu,
+která se hodí pro ten
+danej konkrétní projekt
+a že už to není otázka toho,
+jak to udělat.
+Ale
+kterým způsobem?
+To si myslím, že je něco,
+co přichází s tou dlouhodobou praxí.
+Co se týče,
+to jsme vzměnili dřív,
+že když jsem se učil
+tu 3D grafiku, tak to množství
+těch materiálů, který jsou
+dneska k dispozici zdarma,
+je prostě absolutně dejberoucí.
+Tam si myslím, že už nikdo
+nemá omluvu
+pro to, proč něco
+neumí. Lidi, kteří se chtějí něco naučit,
+to můžou udělat.
+Navrch teda,
+já mám všeobecně zkušenost,
+že ta atmosféra v těch západních
+herních studiích je velmi přátelská,
+všechno je takové
+korektní a dost často ty lidi
+mají zájem
+se podělit o tu svoji zkušenost.
+Když něco vědějí
+efektivnějšího
+než ty,
+tak většina lidí prostě
+je,
+ti vysvětlí, jak na to.
+Což je fajn, že to není
+nějaký
+super konkureční prostředí,
+kde si všichni hrabou
+na svým písečku, ale
+že dost často ty lidi opravdu
+chtějí, aby ten projekt uspěl a nějakým způsobem
+na tom makají.
+Já si si zodpověděl.
+Určitě, určitě. Já s tím navážu
+s tím AI-kem, ale teda
+jako hypotéza.
+Vlastně, jak o tom tady Dan mluví,
+tak já přemýšlím,
+já ho používám ve chvíli, kdy potřebuju
+se dorovnat
+těm lepším lidem v něčem.
+Třeba popisují job description,
+tak potřebuji se dorovnat někomu, kdo to píše
+dnes a denně. A k tomu mi to AI-ko pomůže.
+Ale já, když dělám něco unikátního,
+kde potřebuji být trošku originální,
+třeba podkáztěný,
+třeba, nebo třeba datovou
+strategii, tak tam už jako
+to kodrcá. Už to jako není úplně
+ono. Tam už potřebuješ Poláka prostě.
+Tam už potřebuješ Poláka, přesně. A kam se
+chci dostat? Včera jsem byl na akce
+od Spošky tady, v muzeu
+národním. A celá
+ta eventa byla doprovázená
+AI videama. Bylo tam třeba
+30 videí. Vždycky mu někdo řekl, protože my máme
+200 let, Spoška, takže se budeme
+bavit o tom, jaký eventy budou
+nastupovat celý rok. A vždycky to bylo doprovázené
+nějakým AI videem. Já jsem viděl to první.
+A tam lítaly bankovky. Ne, ne, ne, jako
+popis to první. A říkám, to je super, tyvo.
+Teď jsem viděl ten druhý, říkám, to je dobrý, dobrý.
+Pak jsem říkal to třetí, říkám, to je dost podobný
+už. Jo, a jako u 20. říkám,
+tyvo, to je všechno na jedno brdo. Jste si koupili
+saru, co? Už to vlastně, já nevím, co, přes co to
+dělali. Ale vlastně chci dojít k tomu,
+že v tomhletom přece
+nevidím, jako ten smysl
+toho AI. Tu kreativitu. Přesně, jo. To je jako
+ta autenticita, tam vždycky musí
+bejt, protože ta přináší tu originalitu.
+A tam podle mě to AI, naopak,
+podle mě, nevím, nevím, jestli tam někdy
+dojde, ale dneska ho tam nevidím.
+Jak to vidíš, ty, tohle?
+Já si myslím, že to je nástroj, jak u každej
+jiný. Já si myslím takhle.
+Samozřejmě,
+já nevím, dám příklad třeba na
+Artstation, což je takový portál,
+prostě pro grafiky, že jo, ze všech
+odvětví,
+kde si všichni můžou vystavit vlastně
+svoje portfolio, tak se
+jednu dubu zvedla obrovská diskuze,
+jestli tam bude dovolený prostě AI content.
+Jo, jestli to je umění
+nebo to není umění.
+A správným
+způsobem používat tyhle ty generátory
+jakoby
+může být taky umění.
+Třeba v konzistenci.
+Jo, že
+ten člověk vytvoří třeba
+nějakej novej styl
+pomocí těch promptů
+a potom ho bude nějakým způsobem
+konzistentně produkovat.
+OK, dobře.
+Možná ve skutečnosti třeba neumí ani
+jako držet tušku v ruce.
+Ale
+třeba jeho vizuální
+vkus a jeho imaginace
+je na takový úrovni, že pořád
+jakoby přinese
+něco novýho. Jako nemám s tím úplně
+problém.
+My jsme se tady ještě nedotkli jedný zajímavý
+věci a to je virtuální
+realita a augmented reality a vůbec
+tahle část průmyslu,
+která zase mě oprav z mýho
+pohledu úplně jako nehypuje.
+Vlastně jako vždycky to bylo zajímavý,
+ale zkusil jsi s to
+ty slabší po pěti minutách blily,
+ty jako někteří jako maximálně
+vlastně co nejvíc, že jo,
+Beat Saber prorazil, tam to bylo
+jako skvělý, všechno super, ale že bych
+čet den o deně o novejch hrách,
+který lezou na VR nebo augmented reality
+moc ne.
+Pro tebe, Dané, jaká je tohle zkušenost?
+Jak vlastně koukáš na tohle ten obor
+a třeba liší se i práce,
+kterou děláš, musíš brát v potaz
+třeba specifika toho, že to běží
+nevím, deset centimetrů od oka
+oproti velkému monitoru?
+Rozumím otázce.
+Já právě jakoby,
+když jsem měl možnost se podílet
+na vývoji nějakých titulů pro VR,
+tak jsem do toho šel právě, protože
+mi to přijde jako absolutně
+fantastická záležitost.
+Problem je, že
+je tam obrovská limitace,
+co se týče množství,
+jakoby majitelů těch zařízení,
+co se týče
+technických limitů,
+jakoby těch
+brýlí jako takových,
+který v současné době
+jsou relativně nepřekonatelný.
+Je to proto, že
+lidský oko
+je opravdu velmi
+komplikovaný
+a kdyby se měl něco kvalitu
+toho lidského pohledu
+zopakovat třeba v rozlišení těch brýlí,
+tak napříč
+přes ty obě dvě oči
+by to muselo být zhruba
+asi 60 tisíc pixelů.
+My nemáme grafické karty, které by byly
+schopní tohleto zvládnout.
+To znamená, že to je obrovský
+setback. Znamená to, že
+když si nasadíte ty brýle na hlavu, tak prostě uvidíte
+ty pixely vždycky. Uvidíte dokonce
+všechny ty barvy toho pixelu,
+což je jako nepříjemné.
+Někomu se z toho může dělat zlé.
+Je tam ta otázka
+toho, jak se říká motion sickness,
+prostě, že
+relativního odpojení od toho těla.
+Já třeba, když jsem
+hrál Half-Life,
+který vyšel vlastně na Virtualitu,
+ten poslední,
+tak jsem to hrál okud recenzi a potřeboval jsem to nějak
+dokončit rychle a
+po třech hodinách, když jsem to měl na hlavě,
+jsem se to sundal z hlavy a šel jsem na záchod.
+A v tom Half-Lifeu
+se člověk pohybuje teleportem, že jo?
+Takže vždycky ukáže
+někam a hned se tam
+přesune, že jo?
+A já jsem, jak jsem sundal ty brejle
+a deset metrů ode mě
+prostě byly ty dveře a ten záchod,
+tak najednou jsem cítil toho rozpojení
+prostě mysli a těla.
+Kdy jsem se začal hejbat a ten mořiř
+říká, proč hejbeš náhama jako normálně?
+Stačí ukázat rukou.
+Musím říct, že to bylo velmi zvláštní
+takový jako pocit, že jak kdyby
+jak kdyby člověk
+prostě prodělal nějakou digitální
+prostě psychiedelií,
+který trval několik hodin, než mě to opustilo
+tohleto.
+Takže tam si myslím, že jsou
+obrovský limity
+v této technologii.
+Nechápu třeba, proč
+se tohleto absolutním způsobem
+nevyužívá ve vzdělávání.
+To má tak obrovský potenciál
+ve školství,
+že nechápu, proč
+na to někdo neverhne
+nějaký fondy,
+protože
+si myslím,
+že by to bylo jako velmi ku prospechu
+v celý řadě různých oborů.
+Obávám se, že
+v současné době můžeme vidět,
+že žádný velký herní boom
+ve virtuálitě se konat nebude.
+Už jenom právě kvůli tomu
+omezenému množství těch majitelů
+a kvůli tomu, že díky tomu
+tam nikdo nebude investovat nějaké zásadní peníze.
+No ale to jsi mi připomněl
+vlastně, že je poměrně
+subžánr, jak je třeba
+Last Train Home a tak dále.
+To jsou takové edukativní hry,
+historie, třeba myslím, že Last Train Home
+bylo z doby šeskoslovenských legionářů
+jako na východě.
+Představ si, že by ses ve virtuální realitě
+dal možnost dětem jít třeba, teď budu
+jako velmi drsnej, prožít jako lidice,
+jako z vlastního pohledu.
+Já ti garantuju, že za deset let
+bys tady neměl jedinýho nácka,
+ten by se bál zvednout ruku na pozdrav,
+jakože kdyby jsi to viděl z prvního pohledu
+nějakou takovou jakoby edukativně
+historickou, jako drsnou věc.
+Jo, možná třeba tohle by
+mohlo být jako velmi zajímavý pro tu
+edukativní činnost, protože vím, že jsou hry,
+který právě i vracej se, nevím, do
+mašínů, do druhá světová válka a tak dále,
+že ten subžánr existuje, česká televize
+to poměrně jako propaguje, nebo kolikrát
+jako produkuje, ale tohle by třeba
+mohla být zajímavá cesta.
+Určitě, určitě jako celá řada
+různých oborů, ať už se jedná o umění,
+medicínu třeba.
+No.
+Jak říkám, obrovský, obrovský potenciál
+a
+byl bych jako velmi rád,
+kdyby za svýho života jsem ještě
+viděl jako masový rozšíření tohoto,
+protože
+protože by to udělal rozdíl, no.
+A pro tebe, když nad ničem takovým
+pracuješ, ty jsi třeba dělal na Neon City,
+Ultran,
+je to teda tyhle z ty limity, jako
+dávají ti tam nějaký vyloženě tvůrčí
+limity na tvý straně, že právě si jsi
+vědom toho, že ty pixely jsou vidět a ještě v jiných
+barvách, tak třeba ohekováváš,
+jak to třeba namodeluješ, nebo...
+V rámci, v rámci tvorby té grafiky to není
+až tak zásadní. Není to zásadní.
+Ale musíš to brát v potaz, že to... Tam je, tam se to týká
+třeba hlavně designerů,
+těch UI, UX, prostě
+designerů, který navrhujou
+jako interface. Jo, jako meníčko
+třeba, no, tak to je peklo.
+Tam je to opravdu velký problém.
+Já teda teďka
+měl, musím přidat tady historiku,
+měl jsem Apple Vision Pro,
+no, ty nový Braille, a tam byl
+nějaký jako záběr
+tenistky, jak hraje tenis, a já jsem byl na tom
+na tom hřišti s ní v podstatě.
+To byla pecka.
+To byla fakt pecka. Jako, musím říct, že se mě to fakt
+dotklo a občas se jako
+k tomu vracím myšlenkama. Vlastně to bylo
+fakt hodně real. Jako, mám pocit, že...
+A ty jsi byl jako jejím pohledem, takže svý tak se hejbě raketa?
+Ono se tak nějak hejbělo, občas jsem byl,
+občas jsem přišel jako na ten stadion, pak
+ona třeba se jako slíkala, no...
+Rozumím, no tak...
+Tak jsme doma!
+Tak to byl fal, teď už posluchače
+nedostanou, kam jsem chtěl. Dobrý, dobře, přátelé.
+Pojď, teď máš pozornost. Takže,
+ona se slíkala. Bylo to dobrý, bylo to dobrý, jo.
+V rámci sportovního zážitku.
+No jako pozor, pozor, jako ty jsi teda jako tady,
+když už si do tohle zabrousil, jako
+vám si říká, že celý porno průmysl. No jasně, no jasně.
+Díky pornu máme platební karty online.
+No jasně. Tak podle mě to je další
+jako cesta pro to VR-ko. Mě kámoš říkal,
+že to by byl dobrý nápad. Že jo? No.
+A nechceš nějaký startup udělat zase polácký?
+No tak to by nemělo šanci na úspěch. Jo, jo, jo.
+Pokud bychom chtěli, aby to uspělo, tak bych to neměl dělat.
+Tohle já kdybych mohl, tak tohle bych docela chtěl, aby uspělo.
+Mě teda ještě napadlo, já jsem
+velkej fanoušek hry Portal 2,
+a tak jsem mluvil o tom, že ti z toho Half-Lifeu bylo blbě.
+Představ si, že by jsi dal 10 minut Portal,
+kde neustále jako padáš do díry
+a vypadáváš ze zhora,
+anebo jako procházíš z dma,
+si myslím, podle mě pak jsi schopnej se zabít v koupelně.
+Jo, jo, jo.
+Ale každopádně bych teda říkal,
+že pro všechny, kdo to ještě neskoušeli,
+když budete mít možnost, tak si to vyzkoušejte,
+protože je to něco unikátního.
+A jsou tam pořád ty limity,
+nebo tohle je nejdál třeba?
+No takhle, jakoby ty limity,
+které jsem zmiňoval, se myslím,
+v dohodní době nepřekonáme,
+ale jako zážitek specifického charakteru,
+který vlastně nemá
+úplný ekvivalent,
+si myslím, že každý by to měl
+aspoň jednou za život zkusit.
+Existuje tam malinkatý procent toho lidí,
+kterým to třeba nemusí udělat dobře
+psychicky, ale jinak se to dá.
+No my jsme to tady vzali úplně jako zleva zprava.
+Teď koukám na svůj set otázek,
+samozřejmě další a další se mi v hlavě generují.
+No nicméně tím, aby jsme zase,
+pak já vás budu poslouchat od Poláka,
+že si pozvu někoho z herního designu
+a je to patnáctihodinový díl.
+Tak to musíme trošičku zkrátit.
+Mě zajímá, ty se podíváš teďka
+za sebe, máš za sebou 20 let,
+prostě v herním průmyslu byl jsi
+u těch legendárních začátků,
+teďka směřuješ, řekněme,
+na vodě těch trendů, furt se držíš
+prostě up to date,
+jak rádi česky říkáme.
+Kam si myslíš, že celý ten
+herní vývoj se posunul za těch 20 let?
+Určitě jsi zmínil, že už to není
+minoritní, že to je větší než
+filmovej průmysl, ale nějaká
+další signifikantní věc,
+která vlastně se vyvinula úplně v něco,
+co se ani nedoufal třeba před 20 lety.
+Já si myslím, že se tam promítly všechny ty společenský
+trendy, který můžeme vidět kolem sebe,
+to znamená absolutní
+zkrácení
+pozornosti,
+attention span,
+prostě malinký
+musí se tam neustále něco dít.
+Když jsem zmínil ten Roblox, tak prostě vidím, jak to hraje
+synek, tak
+po dvou minutách mě z toho bolí lava, protože
+nejsem skupnej, ale
+ty děti s tím novým problémem
+prostě takovýmhle způsobem fungujou.
+Zároveň musím říct, že došlo k extrémnímu
+zjednodušení
+většiny těch her.
+To bylo dost třeba jako
+poprvé nám to přišlo takový
+zjevný, když vyšel
+první Mass Effect,
+kde opravdu vlastně
+nebylo
+možný tu hru nedohrát, protože
+když člověk náhodou nevěděl, kam jít, přestože
+to byla koridorovka, tak
+mohl jít za šipkou.
+Že to je taková určitá
+prostě určitý ponížení
+náročnosti těch her,
+který když jsou nám třeba z 90. lety
+tak některý ty hry, já nevím, typu
+Wizardry 7 nebo něco,
+který člověk hrál dva roky
+a vůbec nevěděl, jestli je v polovině,
+nebo co se děje.
+Tak jako to už by prostě teďko
+neprošlo.
+Takže
+na základě těch her, který jsou v současný
+době jako oblíbený,
+si myslím, že se jedná spíš
+o kratochvíli,
+než jako o nějaký
+mega výkony,
+prostě jaký byly
+běžný zřív.
+Takže když jsem strával zaklínači
+přes 120 hodin, tak jsem divnej.
+Už dnešní optikou.
+Dnešní optikou asi jo.
+Takhle, já jsem divnej mnoha optikami,
+ale to je jiný příběh.
+Relativně, ale znám jako extrémní příklady
+jako mýho kamaráda
+Michal Ataliana,
+překladatele,
+který všechny hry
+vlastně hraje úplně na max.
+Jakože všechny achievementy vyzbírat, všechno.
+Všechno, prostě musí to bejt.
+No a co vlastně teďka hraješ ty?
+To je otázka, když máš času.
+A máš vůbec čas a chuť si zahrát,
+když v tom děláš?
+No, já už to většinou...
+Většinou dělám tak, že pozoruju svoje děti, jak hrajou.
+Protože máme tři děti
+od sedmnácti až po deset
+a každý, každý
+to dítě vlastně hraje něco jiného a vždycky vidím
+něco, na co bych jako nikdy sám o sobě
+nenarazil.
+Říkám, co to je tohle, proč tam
+padají nějaké karty, pentagramy,
+co to je. Takže vždycky
+se jako něco dovím, takže tohle to mě malinko
+drží v obraze. Protože
+jinak bych jenom čekal, až já nevím
+vyjde, tyjo, tady
+Indiana Jones novej nebo něco. A k tomu
+bych se tady chtěl na těm obskurním titulům, no.
+A hrál jsi ho? Indiana?
+Ještě ne, teď si to schovávám až v úmých chvilku.
+Já už jsem ho dohrál před Vánoce.
+Hezky. A máš taky
+ten bajas, že nemůžeš vidět
+ty hry, na kterých jsi participoval.
+Vždycky někdy je vidíš, říkáš si, ty ve ne,
+jen to ne, neukazujte mi. Ten poligon, ježišmarja.
+Ani ne.
+Já jsem vlastně
+rád, že
+jsem měl možnost se toho účastnit
+a u těch, kteří chtěli věcí, který
+prostě hrají lidi doteď, tak
+mě to těší. Hezky. Myslím, že to říkal
+Woody, to říkal? Že právě
+ty hry, na kterých participoval, říkal, že ne, už
+mi to neukazujte. Už jsem toho
+jako v plnej. Ale je jako fakt,
+že jednu dobu, když jsem měl lidi ptavit na pohodu,
+tak jsem byl taky jako...
+Ale jako ve finále, ve finále
+je to prostě součástí cesty, tak proč
+se za to nepostavit, že jo? Tak já myslím, že Woody
+to slíznu hlavně za toho Oriho, který byl
+dělaný tou starou cestou, že to bylo
+fakt těžký. A lítali pady
+a lidi se vztekali, že pro moderní generaci,
+která má ten Attention Span 12 vteřin,
+že jako to prostě není vůbec hratelný.
+Ori and the Blind Forest. Ano, ano.
+Nádhera. To je nádhera, to je nádená hra.
+No tak ještě možná
+poslední úplně dotaz.
+Většina vlastně vývojářů,
+nebo lidí, kteří se prostě pohybujou
+v tom světě, který se snažíme tady spolim
+už nějaký rok mapovat, tak mají vždycky
+nějakej svůj, nebo většinou mají nějakej svůj
+pack projektí, něco, čím se věnujou, něco, když se
+nedokážou saturovat
+tou láskou v práci, tak vlastně jdou pak
+na nějakej github a tam se vytořejí vlastní
+knihovničky nebo něco. Máš ty nějakej
+pad projekt, nebo totálně nejmáš
+čas na takovou věc?
+Já vlastně
+ve svým volným čase, když
+mám chuť tvořit,
+tak buď se něco čmárám, nějaký
+jako ilustrace, který dávám na
+Instagram potom, anebo
+anebo
+otravu lidi jako DJ.
+Protože mě baví
+prostě míchat hudbu.
+Je to taková covidová zábava, kterou jsem si osvojil,
+protože mám...
+Covidová zábava, jo? A to nikdo nechodil
+ve diskutečném. No právě,
+mě to tak hrozně chybilo, já rád chodím
+na muziků a do klubů a na různých
+festivale a podobně a najednou nebylo nic,
+tak jsem si
+říkal, že si udělám jako disco doma.
+V rámci toho jsem se
+naučil trošku jako DJovat,
+takže teď to občas realizuju takhle někde
+po klubech a
+to je pro mě jako momentální obě.
+No tak kde budeš hrát? My jsme se chtěli
+zeptat, kdy ti člověk může vidět,
+slyšet, mluvit o herním biznisu, ale
+to spíš tě někdy uvidí hrát, ne?
+Třeba příští pátek budu hrát v klubu
+Cíl na Žižkově.
+A víš třeba nějaký, řekněme,
+jako pozdní únorovej nebo březnový
+termín, když si vezmu, kdy tohle půjde ven, víš?
+Tak to se můžeme bavit, jak to bylo s kterým v cíli.
+Jo,
+20. úplně na konci února,
+který je to ten pátek,
+28 nebo kdy, budu
+hrát tady za rohem právě v
+DJ klubu Ryba.
+A to jsou
+taky jako dlouhoformátový sety, kdy hraju
+třeba 5-6 hodin, je to jako různá muzika.
+A co hraješ?
+Primárně
+jakoby digitální hudbu, která se dá míchat,
+protože nejsem vinilovej DJ,
+ale
+jako začal se míchat
+Raman Bass, takže to je můj hlavní styl, ale
+teď to ještě kombinuji s různýma
+dalšíma, když je návada.
+A ten Instagramový profil
+chceš prozradit, aby se lidi mohli podívat
+na tvůj kreativu? Můj Instagramový profil
+má takový drzý jméno, jmenuje se
+Art of Dan Falta.
+Art of Dan Falta, tak to je skvělý.
+No tak my Danu Faltovi s jeho
+artem budeme přát, ať ti to
+šlapé, ať ti muzika zařezává,
+ať ti 3D grafika
+3D grafičí. A moc
+děkujeme, nějak tady ještě moc děkujeme
+Denise, která nám to dohodla,
+tady do nové manželce. Ahoj.
+Ahoj. Tak moc díky, že si
+dorazil, ať se ti daří. Já děkuju
+za pozvání a za příjemný rozhovor. Moc díky,
+měj se hezky. Čau, čau.
+Dokážu si představit, že teďka
+Headquarters Bivia si drvou hlavu
+a říkají si, ty vole, jak s tímhle
+s tím jako naložit, co kdyby jsme dělali
+třeba 3D klikací kampaně nebo něco.
+Že to nečekává začátek, nejde o oslým ústek.
+Tak tenhle oslým ústek není oslým ústkem,
+protože si neměl kam přemostit. No to nevadí,
+to byl oslý břeh. Krásně. To byl oslý břeh.
+Oslý břeh. Takže z tohoto oslýho břehu
+se odpíchneme a můžeme zhodnotit
+co bychom řekli, pecka.
+Hele, já, který do těch her není
+rozhodně tak naložený jako ty, tak mě to
+fakt bavilo. Myslím, že ti to bylo fakt zajímavý.
+Dan má i zajímavý přednes. Velmi.
+To vlastně bylo jako hrozně
+dobře pochopitelný pro člověka, který úplně mimo,
+jo. Což jsem já. Super.
+Já si taky myslím, já jsem si to užil, tak to
+sviděl. Samozřejmě jsem si pošušněl. No jo.
+Člověk si vždycky pak říká, ty,
+teď mě to tak baví, sleduju to,
+proč v tom nedělám? A pak jsme vypli
+mikrofony a přesně tuhle otázku jsem si dal
+nahlas, když teda pominu, že nevím,
+jestli jsem dostatečně kreativní, ani dostatečně
+dobrý grafický programátor, ani dostatečně
+dobrý programátor obecně.
+Tak jsem si říkal, tak teď přijdu domů a řeknu manželce,
+hele, tak budu teďka dělat v herním
+studiu, budu crunchovat jako debil,
+budu mít méně peněz a
+buď mě za dva roky vylejou, nebo hrák,
+na který budu tři roky dělat, tak možná ani nevýjde ven.
+To je docela hard sell. Vlastně
+obdivuju ty lidi, který mají tu
+odhodlání,
+můžu říct dedication, ale český odhodlání,
+prostě tu oddano z tomu oboru,
+že i přes tyhle bolesti, který
+Dan popisoval, ať jsou to layoffy,
+ať jsou to prostě nedodaný hry, nebo
+ať je to, že tady prostě owner je
+kretén a vymění v půlce hry celý engine,
+že jako zůstane, víš?
+Že jako řekne, fuck it, já jdu někam bouchat excelit.
+Ne, to už je prostě láska k tomu
+a ta kreativa s tím spojená,
+na tom musí být lidi, hele, fakt super
+díl a ty zůstaň, kde seš,
+to by ti řekla ženapistka.
+Jo, tak jo, tak já teda
+ještě tady, přátelé, zůstávám, zůstáváme
+samozřejmě i s Petrem
+Polipolákem v našem podvodcasím
+podcastu. Pipelinu na
+jedenáctou sérii máme narvanou.
+Na žvejkla. Na žvejkla,
+jak se hezky česky říká, takže
+určitě nám zůstaňte na klunění, poslouchejte,
+za čtrnáct dní vystřelí další díl.
+No a co my jdeme? My si jdeme
+sednout polový době do hospody. No jo, no,
+to je pravda. Máš nějaký historky, který jsme ještě neřešili?
+No to je, to budeš koukat.
+Ježíš, no tak to se těším. Tak,
+mějte se krásně. Čau. Čau.

@@ -1,0 +1,2517 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Krásný den, milí posluchači, vítejte u pátého dílu třinácté série vašeho nejoblíbenějšího IT podcastu Pod vocasem.
+No a samozřejmě by to nebyl pod vocasí podcast, kdyby naproti mě neseděl skvělý už po obědě, řekl bych, odlehlý Petr Polipolák.
+A dneska speciální den pro Petra Polipoláka, protože s Romanem Jokerem, provazníkem, trávil už oběd a Románek si tady prošel hezky z posku.
+Ty jsi tady jak doma už?
+Ano, ano, ty jsi mě vlastně i ráno ubytoval, ještě na jiné budově, tam já jsem pár lidí vyházel, jak jsem se procházel po tom patře, tak jsem si řekl, že vlastně jim to tam trošku zpříjemním,
+tak jsem si zahrál na takového toho Georgea Clooneyho, z toho lítám v tom, jak přijdeš, jak dneska už tady neděláš.
+Takže pár lidí jsem vyrazil, takže pokud byste teďka chtěli, hledali práci ve spořce, tak se uvolnili tři místa na Antala Staška a tento vtip bude samozřejmě pokračovat i v jiné budově České spořitelny,
+tak aby jsme rozhýbali ten pracovní trh po volbách.
+Je to potřeba, je to trošku potřeba přesně.
+No a co ty, co novýho?
+Hele no já se mám krásně, užívám si takovej ten, no a ještě možná brzo předvánoční čas, ale mám rád tady tu část roku.
+No počkej, pozor, jak možná předvánoční čas?
+No 17. listopadu.
+Kámo, na začátku října mi přijela žena z Globusu a říká, toho nebudeš věřit.
+Říkám, co, zase si ukradla mrkev nebo něco, protože ona, jak to je tradicí...
+Ukradla jo.
+No ne jako cíleně, ale děti z toho byly tenkrát úplně hotový, protože ona si prostě vzala jako mrkev do podpaží, teďka tam prostě vyklopila ten nákup za bambeliony,
+tak bylo jasný, že to nemusí úplně krást, no ale prostě s tou mrkví odešla a pak zjistila v autě, že ji ukradla, takže od té doby se o děti si dělají jako legraci.
+Takže já jsem si myslel, že zase něco tam prostě jako šlohla, ale pravda je taková, že už na začátku října v Globusu objevila kolekce a vánoční dekorace a tyhle věci.
+Takže pokud ty si myslíš, že 17. listopadu, což je ten den, kdy dneska jdeme live s tímto podcastem, že ještě není předvánoční,
+tak kámo, já touhle dobu už očekávám velikoneční vajíčka.
+To je peklo, to je peklo. Já mám jako Vánoce fakt hodně, hodně rád, ale tohle mi přijde ujetý. 17. listopad už je v pohodě, jo, ale když to tam najdeš v září, tak to mi přijde celé jako zvěrstvo.
+No, je to tak, no ale prostě tak ten marketing, to řešíme každý rok, ono se to posouvá tak rychle, že jednou se to zase srovná.
+Hele, já mám ještě jednu zajímavost.
+No dávej.
+Přišel jsem, prosím tě, poslouchat muziku, kterou generuje AI. By the way, doporučuju všem, je to už normálně i na Spotify.
+Myslím, že jsi normálně najít, tady jsem si našel kapelu, která se jmenuje, prosím tě, The Velvet Sundown.
+Velvet Sundown, jo.
+The Velvet Sundown, ano.
+No.
+A je ta jejich první písnička, nebo jako ta nejoblíbenější, Dust on the Wind, má tři celých dva milionu zhlédnutí, prostě, nebo poslechu teda, v tomto případě poslechu.
+A fakt to není blbý, tyjo, jakože fakt už nepoznáš.
+Prostě to prostě dělalo AIko, já to fakt nechápu, nebo už to možná chápat začínám, ale jako zase zajímavý use case, jak prostě dneska to AIko je všude kolem nás.
+A to jako opravdu, to takhle řeknou na ferovku, že to dělá AI?
+Jo, jo, hele takhle, já jsem to slyšel v jiném podcastu Fantastic Future, tam to, myslím, že Petr Mára tam vyprával o tom, že to poslouchá, tak jsem si to našel.
+A tyjo, prostě, kdyby mi to neřek, tak si říkám, to je dobrá kapela, já na ně zajdu, ale zajít se na ně moc nedá.
+No tak vidím.
+Takže doporučuji, poslechněte si, všichni, co máte rádi, jim v muziku a Spotify, tak si to tam najděte.
+A nebo připomínám na tohle téma ještě velmi zajímavý nástroj suno.ai, myslím si, že je to zkrátka, kde si vlastně můžete vygenerovat celou písničku, včetně třeba zpívaných jako refrénů,
+můžete si tam dát i vlastní text, řekněme třeba písničku o vaší milované firmě, dejte si to tam ve stylu prostě sedmdesátkovýho funky diska.
+A ono to zvládne velmi, takhle je to furt na jedno brdo, je to znát z toho určitě jako paternovost, ale už se to teda vyvinulo jako těsivě, že opravdu z malýho promptu, pak mám skutečně jako hudbu, která aspoň trošku na základní bázi funguje, a když tam náš nějakej text, tak i docela dává to frázování.
+Aha.
+V češtině, což jsem teda překvapenej, že to dokáže rozfrázovat, takže to nezní úplně debilně, takže to AI je opravdu daleko. No, AI je všude, co si budeme.
+Ano, a o AI se můžeme bavit, možná se budeme bavit i celý díl člověče.
+Je to pravda, protože ty jsi si pozval, koho jsi si to vlastně pozval?
+Já jsem si pozval dneska, nebo pozvali jsme si Karla Svrčka.
+Ne, pozval jsi ho ty, já ho neznám.
+Já jsem ho pozval, je to tak. Karla Svrček je prosím tebe.
+Já bych ho vyhodil teď.
+No, to je pravda, tak ještě, že ti nešel pod pazoury. Hele, kdybych měl říct jednu tvář z Pošky, která je známá v souvislosti s AI, tak je to právě Karel.
+A Karel stojí za takovýma srandama, jako je Hey George, všichni, co máte George, určitě znáte.
+Jo, voice boty, chat boty, to je jako jeho denní chleba, takže já se na dnešek hrozně těším, protože si myslím, že to bude napěchovaný kvalitou.
+No jo, tak jdeme na něj.
+Jdeme pro něj.
+Ve studiu s námi sedí náš dnešní host, Karel Zvrček, ahoj Karle.
+Ahoj, ahoj Karle.
+Tak prosím tě Karle, pokud jsi slyšel už nějaký díl podvoza svého podcastu, tak víš, že na začátku je vždycky taková obligátní otázka, kdy se ten daný host představuje posluchačům,
+takže já tě teďka poprosím, aby si popsal svoji cestu do IT, kdo jsi, co děláš a tak dále, tak dále.
+Super, neslyšel teda, ale nevadí, já to zkusím…
+Napravit?
+No určitě do budoucna, proč ne.
+V každém případě, cesta je dlouhá, vlastně v IT profesně pracuji už 25 let, takže už je to nějaký pátek, ale dá se říct, že s tím malým IT už jsem začal na střední.
+Je pravda, že před těma 30 lety to ještě asi vypadalo trochu jinak, ale jako pamatuji svůj první počítač a přece jen jako to byly ty cesty.
+Ale když si spíš zazpomínám na tu profesní kariéru, tak vlastně začal jsem ještě na výšce pracovat vlastně pro prvního zaměstnavatele,
+který to byl.
+Který se jako přesně věnoval tomu, že zháněl ty studenty, kteří už tehdy vlastně mohli pracovat v IT projektech.
+Pak jsem ale relativně brzo, vlastně jak jsem tu školu dokončil, tak jsem vlastně se začal bavit, tehdy to byla pozice ICT manažera.
+To znamená, měl jsem na starosti interní IT a věci kolem toho.
+Pak jsem ale ve směsi řekl, že interní projekty jsou fajn.
+Ale externí jsou lepší.
+Takže jsem vlastně se potkal s Vodafonem.
+Tehdy ještě, a už to vlastně byl Vodafon, ale ještě to bylo vyloženě pod Vodafonem.
+A tam jsem strávil teda nějakých 15 let.
+Jako hodně, hodně dlouho.
+Ale zase na druhou stranu jsem se tam naučil hodně, hodně zajímavých věcí.
+Ale díky tomu vlastně, že Vodafon přešel relativně krátce po tom, co jsem já tam přešel, vlastně pod IBM.
+Tak jsem se vlastně stal IBMákem.
+Takže 14 a půl roku z toho jsem vlastně dělal už pro IBM.
+Jako s donucení?
+Tak oni to byli donuceni všichni, jako tehdy.
+Že vlastně jako přešli jsme tam všichni.
+Ale zase na druhou stranu, musím říct, že toho nelituju.
+Protože si myslím, že v IBMka má své výhody.
+A prostě byl jsem schopen se potkat vlastně s různýma projektama.
+Díky tomu vlastně IBMka mě prakticky převedla do spořky.
+Děkuji.
+Takže já jsem vlastně začal.
+Děkuji.
+Tady vlastně vyspořitelně je to už vlastně skoro 13 let teda.
+Ale jsem vlastně začal tady v TCOE.
+Postavili jsme tehdy vlastně TCOE.
+To tehdy neexistovalo.
+Bylo to úplně jako první takový počin, že jsme vlastně z těch týmů,
+s tehdejšíma sumama jsme to řešili.
+A dávali jsme dohromady vlastně jako nové oddělení.
+Tehdy s Beatou Uhliarovou.
+A bylo to docela zajímavý.
+A co je TCOE?
+Je to vlastně COEčko testingu.
+Jo, OK.
+Jo, jo, jo.
+Hned jak jsi začal, tak vlastně velmi brzy jsi řekl, že jsi dělal manažera.
+Tak ten začátek byl vyloženě, že jsi jako rychle skočil do toho people managementu.
+Nebo dělal jsi třeba nějakou programazinu nebo něco takového.
+No já jsem začal jako programátor.
+Programazinu.
+Programazinu.
+To je jako po kvalitářích tady máme další fantastický slovo.
+Máme takovou sérii vlastně jako pro letářskou.
+Programatořina.
+Začal jsem jako vývojář.
+A musím říct, že pro mě jako asi nejvíc je takový to, že já jsem jako vývojáře vlastně dělal profesně vlastně nejkratší dobu.
+Protože pak jsem se zabýval vším možným.
+Já jsem architekta, analytika a samozřejmě nějaké kódování bylo vždycky.
+Ale hlavně se zabývám a baví mě vlastně dodávat právě ty projekty s lidma.
+A vlastně o to vlastně ten vývojář je tam jako jedna z profesí.
+Ale myslím si, že těch profesí je řádově víc.
+Nebo těch skillů.
+Které vlastně jako má jako i ten správný vývojář mít.
+Je vlastně celá řada.
+A tohle mě právě baví.
+Já můžu vlastně dodávat ty komplexní věci.
+A to jsou ty challenge typicky.
+Které stojí za to.
+Jasně. Takže ta kombinace toho, že jsi pořád blízko technologii, ale děláš to vlastně s lidma je to, co tě dneska sedí nejvíc.
+Já se stejně musím zeptat. V čem jsi programoval, když jsi programoval?
+No já jsem začal úplně na začátku.
+Jsem začal vlastně v PH.
+Logicky. Dělali jsme weby.
+Já jsem programoval strašně dlouho v C.
+Takže pro mě C je úplně.
+O tom jsem napsal prostě relativně velké věci.
+Takže ale zase bylo těch 25 let zpátky.
+Ale je pravda, že ten projekt pro mě žil docela dlouho.
+A mám ho někde i ještě venku.
+A mě to prostě bavilo.
+Protože to C bylo low level.
+Člověk si mohl šáhnout opravdu na všechno.
+Prakticky.
+Vím, že jsem si tam psal vlastní memory management.
+Prostě byly to.
+Vlastní tredy.
+Vlastně tam není žádná podpora.
+Takže takové ty věci, které se tam člověk musí postavit nad tím.
+Tak to jsem si vlastně přál.
+Bylo to dobrý.
+Ten hardcore tě bavil.
+To je ono.
+Vždycky do teďka je to taková zábava.
+Občas si to ještě otevřeš.
+Už tak pět let ne.
+Ale je pravda, že ještě pro mě to je hodně přirozený mír.
+Protože z toho C vychází dneska prakticky většina těch jazyků.
+Takže pro mě je to dobrý.
+Já jsem tě označil, když jsme tě uváděli,
+tak jsem tě označil jako jednu z hlavních tváří AI ve sporce.
+Nevím, jestli by jsi se takhle jako očastoval, ale já to takhle vnímám.
+A jak ses k tomu vlastně v té sporce dostal?
+Tak tvoje geneze už ve sporce je dlouhá, to jsi říkal.
+Tak jaká byla ta cesta přímo tady?
+Dá se říct, že já jsem se vlastně s AI, když tomu tehdy...
+Tehdy jsme tomu říkali AI, dneska bychom se o tom vlastně zasmáli.
+Ale tehdy jsem vlastně začal, je to pět, šest let zpátky,
+jsme vlastně si, mě se vlastně ten projekt jako přitáhl,
+že jsme začali stavět chatbooty.
+To znamená, že jsme vlastně před těma šesti lety se rozhodli,
+že bylo to vlastně 2019, vlastně v prosinci na konci listopadu
+jsme vlastně spouštili prvního chatboota.
+Spustili jsme chatboota na stránce, vlastně login page George.
+Takže to bylo vlastně...
+To byl takový jako počin, kdy tehdy jsme tomu říkali samozřejmě AI.
+Jako to bylo úplně jasný.
+A co, byly to i fíky jenom?
+Jak to vypadalo?
+Ale jako reálně, takhle měli jsme k tomu vocná,
+IBM vocná, měli jsme vlastně, stavěli jsme to kolem tohohle produktu.
+A tím pádem vlastně jsem k tomu i přišel,
+protože to vlastně přišlo vlastně s IBMkou.
+Ale bylo to jako zajímavé v tom, že tam jsem se vlastně opravdu
+jako reálně poprvé jako potkal s tím, jak to dělat.
+Já jsem tehdy měl těm čerbutům naprosto takový ten klasický odpor.
+Jako k čemu.
+Jako teď to vlastně nic neumí.
+Ale postupně jak to jako děláte, tak vlastně pochopíte, že to jako něco umí.
+Že to vlastně zákazníkům reálně pomohlo.
+Už tehdy jsme vlastně byli schopní
+vlastně tři lidi na call centrum
+prostě umožnit, aby dělali něco jiného.
+A nezabývali se prostě odpovídání repetitivních dotazů.
+Takže už tehdy vlastně se nářídit to tehdejší AI.
+A jsme vlastně byli schopní využít vlastně k zlepšení efektivity.
+A dá si říct, že od té doby
+ta šíře vlastně roste.
+Oddačili jsme s Čerbotem.
+Kromě toho, že jsme udělali login page.
+Dostali jsme to vlastně na stránky CZ.
+Dostali jsme to samozřejmě do Georgia.
+A v tu chvíli samozřejmě to začalo mít trochu grády.
+Tu platformu, kterou jsme udělali, jsme vlastně rozšířili vlastně do skupiny.
+To znamená, že už to nebyla jenom Česká společitelná,
+ale už to vlastně byly další tři země.
+A pak jsem se rozhodl.
+K zábavným říjnům jsem se rozhodl.
+Myslím, že to bylo 22.
+Jsem se rozhodl teda, že se rozejdu za IBMku a půjdu do Spošky.
+A v listopadu se objevilo pro mě GPT-3.
+To byl vlastně takový předěl, na který jako vzpomínám.
+Hlavně si vzpomínám na ty schůzky s Maurem,
+kde on prostě přišel v tom listopadu.
+Jak grupovej CEO.
+A vlastně tam jsme měli právě zrovna diskuze o čerbotech.
+Jak by vlastně mohli různí partiáci, ať to byla IBMka.
+Myslím, že tam byl Google nám prezentoval nějaký věci.
+A ještě tam byl vlastně i AWSko.
+A první otázka byla tak.
+Tak včera jsem si zkusil GPT.
+Jak na to budete reagovat?
+To byla fakt boží otázka.
+Všichni na to samozřejmě úplně ready.
+A to bylo v tom listopadu 20.
+A to bylo přesně, to byl ten listopad 22.
+Takže to byla fakt sranda.
+Ale pro mě to tehdy byl ten wow.
+Jako naprostej.
+Pamatuju se do teďka, že jsem si to zkoušel.
+A fakt to bylo prostě něco.
+Prostě obrovský krok toho, co jsme dělali do té doby.
+To vlastně přemýšlím, říkáš 6 let zpátky.
+Tak to byly nějaký NLPčka, nějaký rezervovací stromy?
+Ano, přesně tak.
+Už tehdy samozřejmě.
+A jsme vlastně byli schopní.
+Byly tam různé techniky, které už dneska jsou úsměvné.
+Dizambigovace, digrese.
+Prostě různé věci, jak přístupovat v tom NLP světě.
+Vlastně ke stavění chatbotů, voicebotů.
+Takže ty věci byly strašně zajímavé.
+Říkám, já jsem rád pro ten hardcore.
+Takže tyhle věci mě vždycky bavily.
+A na druhou stranu v dnešní době je to zase nový hardcore.
+No a jak ty koukáš teďka na tu novou dobu?
+Protože jak jsi říkal, když to porovnáš se těma 6 lety, bylo to úplně kde jinde.
+Teď řekl bych i na té druhé straně.
+Ty zákazníci už jsou naučený, že takhle vlastně můžou s tou aplikací interagovat.
+Že už si můžou chat with your data.
+Už je prostě standardní věc.
+Když si dneska vyspinuješ prostě nějaký, nevím, cognitive search,
+tak první možnost je, že nepiš žádný prostě vlastní search queries,
+ale prostě začni se rovnou ptát.
+Tak jak nad tím přemýšlíte vy teďka v kontextu nový doby?
+Co teďka, co teďka vlastně, jak to ovlivnilo vám ten design
+a i třeba to UX vůči uživatelům?
+Řekl bych, že se změnilo všechno.
+To je asi dobrý si připustit.
+A občas si myslím, že je to, když to vezmu ještě zvětší šíře,
+tak si myslím, že je to vlastně naprosto kulturní změna.
+Myslím, že my už jsme si tím prošli.
+Je pravda, že v naší doméně,
+máme vlastně co lehčí lepě týmu a myslím si, že
+některé týmy už jsou, jak se říká, on-boarded úplně.
+Některé týmy jako tím si prochází, tím on-boardingem.
+Ale myslím si, že jsme hodně daleko.
+Je otázkou samozřejmě, jak to vnímá zbytek banky.
+Ale jinak jako pro nás, pro naši práci,
+přímo se vlastně změnilo úplně všechno.
+Nebo se změní úplně všechno.
+V některých týmech.
+Ale myslím si, že je to jako velmi vnímáno pozitivně.
+To je jako pro mě důležité, že vlastně lidi to chtějí.
+A podle mě je to prostě ta budoucnost.
+Takže změnilo se všechno.
+A vlastně a priori si říkáme,
+nebo já si minimálně dívám z toho pohledu,
+že vlastně NLP je sice super.
+Některé techniky, myšlenky, principy
+jsou podobný. Pořád.
+Pořád si myslím, že mluvit o intentu dává smysl.
+Ale už určitě je úplně jinak, než před 4 rokama.
+Úplně mi to nedá.
+Když o tom mluvíš, říkáš, že se vlastně všechno změnilo,
+tak jako ten největší mindfuck v tom je ten,
+že najednou teda říkám, tak já jsem tady, nevím,
+10, 20 let vlastně něco budoval,
+nějaký know-how, že jo.
+Teď teda jako mám to zahodit.
+No ale, je to tak.
+Dobrý, děkujeme.
+Tak to bylo.
+Bylo to kratší, když jsme říkali.
+Přišli jsme si potom, máme odpověď.
+Co jsi chtěl slyšet, jsi slyšel.
+Já si pořád říkám, že vlastně i v té dnešní době
+tím spíš, vím, že to občas
+lidi neradi slyší, ale
+i to, co dneska děláme,
+i v téhle oblasti, tak jako buďme realisti,
+za dva roky to zase zahodíme.
+Ty věci se tak mění.
+Model máme každý rok nový, to se pohybuje
+takovým způsobem, že dneska,
+já si pamatuju, když jsme začali s Hey Georgem,
+my jsme vlastně 2003 v dubnu
+kopli.
+Začali jsme s tím základním kamenem
+a udělali jsme prostě první verzi.
+Co si myslíte, že z té první verzi tam zbylo?
+Jako nic!
+Já samozřejmě velmi se to vysvětluje,
+ale je to opravdu taková ta
+učící křivka, že my jsme prostě
+na začátku si zkusili úplně... My jsme tehdy
+udělali rak, ale nevěděli jsme, že ho děláme.
+To je okoupození.
+To je side effect.
+Ale to bylo úplně boží, my jsme si udělali
+vlastně vlastní rak, pak nám někdo řekl, že
+je rak, tak si říkal, hm,
+tohle máme!
+Tohle byly ty objevy, které
+člověk dělá.
+A to byly první...
+My jsme to spustili, tu první verzi, v srpnu.
+Takže od dubna do srpna
+jsme to vyvíjeli a potom se začalo mluvit
+o tom ragu. Objevil se longchain,
+tehdy taky jsme, nic takového ještě neexistovalo,
+nebo minimálně bychom o tom prostě nevěděli.
+Takže jsme si opravdu
+procházeli tou adopcí a tímhle
+tím pádem, buďme realisti,
+to, co dneska uděláme, tak za dva roky
+pravděpodobně budou ty nástroje zase prostě o dost dál.
+Je pravda, že ta zkušenost to nám nikdo nevezme.
+Tam se může ocitit.
+To je to zásadní.
+Že jako těžko asi, nevím, tady někdo, kdo
+tady venku prostě pracuje, nevím,
+prostě v krámě, tak asi to jako nezačne
+dělat tím, že se takovýhle předěl děl.
+To si myslím, že je hrozně důležitý.
+Vlastně jako stavit na tom, co se stalo,
+byť to jako zakopneš, nebo záhodíš někam do háje.
+Ano, ale ty zkušenosti jsou.
+No ale to mě vede k jedné zásadní otázce.
+Pokud ty tvrdíš, že vlastně to, co
+přetrvá tohle dynamický
+období, a my vlastně v tuhle chvíli nevíme, jak dlouho
+bude trvat, jestli to bude prostě dalších
+pět let, nebo prostě padesát,
+tak jediný, co vlastně zůstane,
+je ta knowledge,
+ty zkušenosti. Máte
+pro tohle nějakou metodiku, jak tohle vlastně
+zaznamenat? Protože z mýho
+takového pocitu se vlastně z ty zkušenosti
+nabitý při tom prokoupávání
+těch cest, stává novodobej
+vlastně jakoby kód, jako to, co chceš
+zachovat, to, co chceš verzovat, to, co chceš
+pak někdy znova číst a popopit a na tom
+stavět. Takže jak vy k tomuhle
+vlastně přistupujete, k těmhle
+zkušenostem, abyste je zachovali?
+Já si myslím, že tohle
+ten základ vlastně není o tom
+jako zachování zkušeností, jako spíš
+uvědomit si, že tyhlety zkušenosti
+musí mít každý.
+Já si myslím, že
+samozřejmě jedna věc je, jako my máme platformu,
+prostě jako ta je samozřejmě
+nějak popsaná, máme tam nějaký
+znalosti, zkušenosti z toho, ale
+za mě asi nejzásadnější je, že my vlastně
+musíme zajistit to, že
+vlastně přístup ke AI
+a to, jakým způsobem vlastně
+se má AI dělat, se musí dostat vlastně
+úplně do všech. To je podle mě
+to nejzásadnější, že vlastně se to musí stát komoditou.
+My dneska říkáme, že
+to jako děláme my,
+ale já jako musím
+a prostě tlačím to tady už jako rok,
+prostě my to musíme dostat úplně všude.
+Znamená to úplně všude,
+to znamená, že všichni
+ve sporce na různých funkcích
+mají přístup k nějakým AI
+nástrojům, aby si na to navykli, nebo
+má to přece jenom nějaký... To je málo. To je málo.
+To je krok číslo jedna. Dobře. To je adopce.
+Tak kam až to...
+Kde je ta end state, který ty chceš vidět? Za mě
+je to o tom, že vlastně každý člověk jako
+tady v bance, nebudu říct, že většina,
+to asi nebude úplně jako 100%,
+ale většina lidí prostě bude AI používat
+vlastně ke své denní práci. To znamená,
+že vlastně každý bude vlastně
+schopen být minimálně efektivnější
+právě jako díky AI, ale současně
+vlastně ty principy
+vlastně bude znát. A je to samozřejmě
+per roli, asi vždycky to bude jiný, ale prostě
+za mě jako vývojář musí vlastně
+vědět, jakým způsobem má využít ke své
+práci AI.
+To si myslím, že se děje.
+Máme GitHub kopilota, jsou samozřejmě
+různé další nástroje, spíš teda zatím
+mimo banku, ale věřím, že se nám povede něco přinést
+i do banky, ale myslím si, že
+je důležitější něco jiného. Důležitější je říct si,
+že vlastně já jdu
+i využít AI jako přímo ve svém
+produktu. Nejenom, že
+ho použiju já k tomu, abych byl efektivnější,
+ale použiju to k tomu, abych vlastně ten produkt
+udělal lepší. A to si myslím,
+že je jako ta budoucnost.
+No a teď se z toho trošku dotknul.
+AI samozřejmě v bance
+je trošku specifický, logicky.
+A co tě na tom, teďka to
+vezmu z toho pozitivně, co tě na tom vlastně baví?
+Jo, jako je to ten dopad, protože
+dostaneme se k Hey Georgie samozřejmě,
+ale ten dopad je na milion lidí.
+Nebo je to komplexitě
+té technologie, jo? Co tě tam,
+co je tam to tvoje masíčko?
+Musím říct, že mě na tom asi v tuhle chvíli nejvíc láká
+jedna věc a vím, že to za pět let nebude pravda.
+Takže si to teď užívám.
+A to je, že jsme fakt jako
+prostě na tom low levelu. Já jsem fakt za ten hardcore.
+A já prostě
+fakt jsem ten Cčkař.
+A mě strašně baví tomu rozumět.
+A to si myslím, že tomu samozřejmě
+nejde rozumět, jako na té úrovni toho modelu
+vlastně nikdo neví, co se tam děje.
+Ale mně se líbí, že to opravdu máme v ruce
+a dokážeme
+z toho prostě stavět fakt pěkný věci.
+To je jako pro mě osobně.
+To je jako moje taková
+chvilka, že jsem rád prostě, když
+ty věci prostě jako, když jim rozumím.
+No už dneska, když se bavíte o MCPčku
+a tu A, kvíc prostých slovek prostě kolem
+toho, tak si myslím,
+že hromada lidí o tom mluví, ale vlastně
+už ani neví, co to znamená. A to je,
+to jsou to dva roky, jenom vlastně MCPčku je tady
+nevím, rok.
+A tu A někdy od dubna, od března.
+A to znamená prostě chvíle.
+A vlastně já pořád si ještě
+myslím, že vím, jak to funguje. A to mě baví.
+Jo, jako mě to baví v tom prostě, že jsem schopen
+vlastně tím pádem jako ty systémy jako navrhovat
+vlastně optimálně. Ale
+jako takhle, já nechci, aby to vyznělo, že
+si myslím, že to je špatně, že tomu nerozumíme.
+Ale myslím si, že prostě
+je to teď skvělý, že jsme vlastně u toho,
+u té geneze, u toho prostě, jak se to
+tvoří. A ta příležitost
+si myslím, že se
+stane možná, já nevím, jednou za deset let,
+nevím. Prostě máme jako fakt úžasnou možnost
+do toho býdat. To se mi líbí.
+Tohle mě na tom strašně baví. To je jedna
+část. Samozřejmě druhá část je,
+že to je fakt něco, co má dopad.
+Já si myslím, že to je fakt, jak jsem to nazval,
+mentální, kulturní změna prostě všeho.
+A být do toho je
+prostě jako super. Já myslím, že
+zvuk každého prostě, aby u toho byl.
+A teď teda předpokládáš,
+že jedna z těch znalostí, která by
+se hodila tobě a lidem kolem
+sebe je, aby třeba věděli opravdu ty
+internals typu, co jsou transformery
+a tak dále, jako u těch.
+To asi ne. Nebo zas tak deep to není
+potřeba. Tohle ne. Tohle určitě ne.
+Na druhou stranu už
+zase záleží na tom, jak hluboko
+se do toho chceš dostat, ale
+mě to samozřejmě zajímá
+z toho důvodu, že se vlastně taky říká, kde jsou limity.
+Jako toho AI.
+A vlastně už dneska si mluvíš o otázku,
+jestli vlastně to gen AI,
+to generativní AI
+je opravdu ta správná cesta.
+Mluví se tady každý agi
+o té
+generativní, nebo generativní,
+o tom general AI.
+A
+už jsou tady zase různé jiné techniky.
+Takže mě to baví to, ale myslím si, že
+tohle není až tak podstatný.
+To je potom už opravdu ten hardcore,
+hardcore. Ale spíš
+si myslím, že je dobrý vědět,
+jakým způsobem je to vlastně
+postavený. Zná ty limity
+toho systému. Podle mě
+tohle já dneska vidím takový ten
+travel trošku toho očekávání
+toho, co ta technologie vlastně
+umí. Protože
+já vždycky říkám, udělat jako
+vzít proces a dostat
+z něj 50% efektivitu
+pomocí gen AI jako s vládem na hackathonu
+jako za den
+je to úplně super, ale pak to dostane
+na těch 95. Jo.
+To už je jako jiná sranda.
+No to je pravda a teď
+vlastně mě napadá, pojďme se
+podívat na HeyGeorge.
+Na tu vlajkovou loď, já to takhle vnímám.
+Mně se líbí, když to řekneš, že se vám obou
+rozsvítěj telefony a spustí se bankovní stýk.
+Jojojo, já to nemám nastavený, furt tam mám tu
+série a ta je čím dál blbější.
+Fakt, já ho už nemůžu používat. Apple do toho nějak
+nešlape, nebo? Já si z toho úplně hotový.
+Já už jí fakt vůbec nepoužívám, protože
+mě fakt přijde, že mi rozumí čím dál méně.
+Člověk to má úplně stejně, já teda mám
+Android, to bude možná tím jenom.
+Tak to tam budeš mít brzo Gemini, protože oni to velmi
+dobře integrujou dohromady. A to je chvíle,
+kdy já s Alexi doma přejdu zase na
+Hey Google. Na kece.
+No protože to je prostě, to bude pecka, že jo?
+Protože dneska se nejsem schopný si doma popovídat
+kvalitně, když zrovna není doma manželka.
+Tak to bylo okénko bolesti Petra Poláka.
+A teď pojďme zpátky na Hey George.
+Pojďme dál. Hey George, no takhle,
+jako první, co mě napadá, jaká vlastně byla
+ta geneze tady v rámci
+banky? Já jsem tady ještě nebyl.
+Jak hodně
+bylo přesvědčování, hele, pojďme teda
+tady přestat to použít jako marketingovou
+hračku, ale vezmeme to jako opravdu
+nástroj, který nás odliší od konkurence,
+zlepší servis,
+cokoliv si za to dosať. Tak jaká
+byla ta cesta, jo? A teď myslím jako
+opravdu od začátku.
+Ano, to fakticky začalo v tom listopadu, prosince 22.
+A my jsme vlastně
+tehdy vlastně diskutovali právě
+možnost, protože
+už i tehdy
+jsme vlastně
+se právě bavili o té adopci
+toho chatboota,
+protože řekněme, že někteří manažeři
+těm chatbootům nevěřili.
+A já se jim teda nedivím, jo? Protože
+samozřejmě popovídat si o čemkoliv
+jako s těma chatbootom mu prostě nešlo.
+Ale myslím si, že tehdy jsme
+opravdu přišli v tu správnou chvíli
+k té technologii a
+na rovinu Martin Kobza je
+velký zastáncem, i já. Já myslím si,
+že to byl
+vlastně jeden z těch klíčových lidí,
+kteří vlastně
+způsobili,
+že se Hey George opravdu jako dostal
+tam, kde je.
+A ta geneze byla taková, že jsme vlastně
+v lednu měli
+prostě různé workshopy, kde jsme se právě bavili o tom,
+co bychom vlastně s tím
+mohli dosáhnout, jaká by byla
+vlastně ta biznesová kapabilita, co bychom mohli udělat.
+A vlastně v lednu tehdy
+23 jsme se prostě dohodli
+v Hey George, že
+uděláme
+prostě něco, co bude takové jednoduché poradce
+pro George,
+uvnitř George,
+a byl to vlastně feature search.
+To znamená, že jsme se vlastně dohodli, že vlastně
+pomůžeme jako klientům
+nacházet vlastně různé featurey
+v George.
+A jak jsem říkal, to byl vlastně leden únor,
+kde jsme vlastně došli k tomuhle,
+a v dubnu povedlo se mi
+prostě postavit tým, a v dubnu jsme vlastně
+reálně začli s tou implementací a udělali jsme vlastně
+první kví pokus,
+kde jsme si právě jako integrovali,
+tehdy začali jsme s tři pětkou,
+pak velmi brzo jsme teda
+přišli na čtyřku,
+a dali jsme vlastně dohromady
+tuhletu,
+tenhleten první přískok.
+Byl takový úplný začátek.
+Pak jsme si samozřejmě ale řekli, že
+tohle nestačí,
+protože
+když si to jako zkusíš,
+nebo tehdy jsme si to zkusili,
+tak to bylo málo.
+To prostě, jak to říct,
+byl to samozřejmě pro první
+použití, takový ten vál tam samozřejmě byl,
+ale postupem času
+si lidi na to samozřejmě zvykli
+a řekli si, hm, dobře, ale co to je?
+Je pravda, já to vždycky říkám,
+a ještě pořád vlastně do teďka jedeme
+starý čet i nový čet.
+A myslím si, že je naprosto
+zásadní si zkusit
+ten starý i nový
+a porovnat si to. To je úplně
+jiný zážitek, ale samozřejmě jak mladý člověk
+už má to nový, tak už zapomíná.
+Velmi rychle zapomíná na to starý.
+Ale prostě ty starý čety se s tím prostě už dneska nedají
+vůbec rovnat. No a potom teda
+jsme vlastně dělali
+nějaké optimalizace, vlastně když jsme to v tom srpnu
+spustili, zkoušeli jsme různé
+techniky, dělali jsme experimenty,
+jak zlepšit to vyhledávání, jak zlepšit
+drag, jak
+udělat nějaký memory management,
+aby to fakt fungovalo prostě správně. Měli jsme
+nějaké omezení na straně těch modelů.
+My jsme si s tím hráli, ale
+v lednu jsme vlastně se dohodli,
+byl to příjelom roku, jsme se dohodli,
+že uděláme
+si vlastně POC na to, že tam prostě musíme
+dostat klientský data.
+To znamená, že vlastně na začátku
+24 jsme
+si řekli prostě tak, jak uděláme to, aby
+jsme tam vlastně opravdu byli schopni si bavit o
+mých transakcích, o mých účtech,
+o mých kartách,
+aby to opravdu bylo jako personalizovaný.
+Protože do té doby to bylo jako sice
+personalizovaný, ale úplně minimálně
+vydělalo to vlastně znalo to jenom tvé produkty
+a jinak nic víc. Takže jsme začali
+a vlastně ty tři měsíce
+nám trvaly, kdy jsme vlastně vymysleli nějaký koncept,
+jak to vlastně celé prointegrovat. Samozřejmě
+tehdy zase nějaké agenty, prostě
+nějaká komunikace, prostě nic z takového orchestrace,
+jako neexistovalo, protože si všechno samozřejmě
+vymýšleli a dávali dohromady
+vlastně koncepty, jak to dělat.
+A dá se
+říct, že vlastně na této verzi
+jsme
+pracovali vlastně až do října
+loňského roku, kdy jsme to vlastně spustili
+opravdu pro
+větší
+kvantum lidí. Už jsme tam vlastně měli všechny
+zaměstnance a
+měli jsme tam vlastně první deset tisíc
+zákazníků. To znamená, že
+tohle byl vlastně jako první takový
+opravdu už reálný
+reálná část, reálný produkt,
+který jsme spustili vlastně a získávali jsme vlastně feedbacky
+od našich
+zákazníků a
+zároveň jsme se na tom teda hodně naučili,
+ale dá se říct, že jsme se taky jako
+v tom říjnu jako
+na základě těch zkušeností,
+pamatuji si ty víkendy, noci, jak jsme to
+vlastně dávali dohromady.
+A pak jsme si ale taky řekli, že to je
+jako super lessons a vlastně
+jsme v tom říjnu
+si zase řekli, že uděláme ještě verzi 3.
+Jak jsem řekl, že z té první verze
+jako tam není vůbec nic,
+tak z té druhé verze tam teď jako
+ještě trochu je, ale pokud to bude dobře,
+tak příští týden už tam nebude vůbec nic.
+Z téhleté verze.
+Nebo na prostý minimum.
+To znamená, že vlastně my
+jsme se vlastně v tom říjnu rozhodli,
+že to zase přepíšeme. Takže jako třetí pokus.
+A dá se říct, že teda
+na téhle verzi už se docela držíme.
+Tu vlastně rozvíjíme a myslíme si, že
+je to vlastně koncept, který je jako docela
+uchopitelný a stabilní.
+A hlavně dostatečně rychlý. Protože tam
+samozřejmě jako je strašná závislost
+jako na těch modelech, na výkonnosti,
+na té rychlosti. A potřebovali
+jsme opravdu nějakou optimalizaci, která nás
+posune. A to si myslím, že se nám povedlo.
+A vlastně už teď
+řekněme 30%
+konverzací se vlastně v tuhle chvíli
+už točí na téhle vlastně verzi.
+A jak jsem říkal, pokud všechno půjde dobře, tak
+příští týden už tam bude 100%. Skoro.
+Můžeš trošku popsat takovou
+tu technickou šťávičku toho, jak je to
+vlastně celý postavený. Že teda předpokládám,
+že vy obarvač hodně máte, já ne.
+Předpokládám, že na vstupu bude bůt nějaký
+jako text nebo nějaký voice, který
+ho přemele do textu. On se
+podívá do mých dat a odpoví mi sofistikovaně,
+jako by na druhé straně seděla paní
+s melírem za přepáškou. Tak takhle nějak
+si představuju, že by to mělo fungovat.
+Tak jak vlastně se vám
+podařilo tohleto postavit?
+Jak je to chainovaný za sebe? Jasně, možná si
+zásadně jako říct, protože
+stavění AI systému není vlastně jenom
+o tom AI. Ale je to,
+jak já říkám, rád vlastně o data science principech
+a praktikách, které se tam prostě
+musí aplikovat, i když
+je to možná neviditelný.
+Takže já bych
+se vrátil na začátek toho
+roku 2019.
+Dělám si srandu.
+Takhle on se covid vrací, takže
+možná nás čeká
+další pětiletý loop.
+Proč o tom mluvím?
+Protože my jsme samozřejmě
+si vlastně postavili platformu.
+Už tehdy. Která byla
+udělaná tím způsobem,
+že, a vlastně
+jdeme do teďka,
+která nám vlastně právě spojuje ten frontend
+a ten backend. To znamená, že my vlastně jsme vytvořili
+nějaký ekosystém nástrojů,
+ekosystém procesů,
+jak to vlastně celý orchestrovat.
+A vlastně ten content je pouze
+jedna z částí. To znamená, že ten zbytek
+je tam vlastně v úzovkách
+od toho roku 2019. Ten je pořád stejný.
+Samozřejmě ho rozvíjíme, ale
+ten princip je stejný. Co je asi zásadní,
+na co se ptáš, je jak to funguje na tom backendu samozřejmě.
+Jakým způsobem vlastně funguje
+to odpovídání.
+A reálně dneska to funguje tím způsobem,
+že my vezmeme tu otázku
+a máme to víceméně
+rozdílené na dvou kroků.
+Když to hodně, hodně zjednoduším.
+V prvním kroku my vlastně necháme
+se GPT zamyslet,
+jak by ideálně skonstruoval
+tu odpověď. To znamená,
+že my mu dáváme prostě sadu
+agentů, nástrojů,
+znalosti,
+to co má vlastně k dispozici
+a on si z toho vybere, co vlastně chce
+použít. My
+potom si vlastně takovýhle plán, který
+se vygeneruje, vlastně zprocesujeme.
+Mohou tam být samozřejmě různé
+case,
+typu, že něco prostě není k dispozici,
+že jsou tam nějaký edge case,
+zpracování, ale prostě to
+zpracujeme. Samozřejmě už při tom
+zpracování se taky používá AI.
+A potom vlastně bereme výstup
+tohohle plánu a ten plán
+vlastně potom ještě dalším promptem
+proženeme a použijeme
+na vygenerování odpovědi vlastně jak
+zákazníkovi. – Takže ta odpověď je
+templateovitá? Není to tak, že on si
+to začne
+dávat dle jeho slov nějak?
+– Já to řeknu takhle. Je to
+tak, že není vůbec templateovitá,
+ale protože my jsme
+čelili, jako podivu tam máme
+i cache, když to řeknu takhle.
+A ta cache vlastně není vůbec orientovaná
+na to, co je
+na výstupu, ale je naopak orientovaná
+na to myšlení. My cacheujeme myšlení,
+a myšlenku. – OK.
+– To je vlastně jako to, kdo. To znamená, my mu
+my ho necháme, aby se zamyslel
+ten model sám, jak by to vlastně
+udělal, ale když pak přijde ta samá
+otázka, tak my to zamyšlení
+už neděláme znovu. – OK.
+– Protože ta
+stabilita toho řešení je vlastně to klíčový.
+Protože vlastně tebe by strašně štvalo, když se
+ho zeptáš jako čtyřikrát na to samým. – No jasně.
+– A dostaneš čtyřikrát takhle. Ale
+my samozřejmě ho necháme vygenerovat
+odpověď znovu. – Mhm. – Ale jako to zamyšlení,
+jak by chtěl přistoupit k tomu
+to vlastně vygenerovat,
+tak to už jako chceme mít stabilní.
+A hlavně, my už vlastně
+v dnešní době máme jako stovky,
+možná už tisíce,
+připravených těchto zamyšlení.
+– Takhle. – To znamená, my je dokážeme korigovat,
+dokážeme je řídit, dokážeme je
+zlepšovat, zase separátně.
+Můžeme klidně separátním modelem
+vlastně si tyhle myšlenky
+generovat. A to je jako
+alfa omega. Protože bez tohohle
+prostě
+ta stabilita toho řešení byla
+velmi špatná. – Takže
+to je ten bod, kde vy vlastně pracujete
+s tou halucinací tak, aby
+tam nedocházelo k nějakým
+problemám, které si jako banka
+úplně nechceme dovolit. – Přesně tak. Takže tohle je vlastně
+nejjednužší cesta, jak to udělat.
+Ale samozřejmě, a zároveň, ale tam
+necháváme vlastně tu plnou šíři,
+tu sílu toho modelu. Protože my
+jenom cacheujeme myšlenku, ale ne
+ten výstup. – A ten teda klíč
+té cache, teda u toho
+zamyšlení, jak to vypadá? Jak
+vlastně zjistím tu unikátnost
+toho, když to pak chci nějak invalidovat, nebo chci
+najít, že už jsem se jako takhle zamýšlel,
+jak to vlastně skládáte?
+– My to máme
+rozdílený vlastně ještě na několik
+úrovních. Takže my ještě to neděláme,
+takže by to byla jen jednorázová cache.
+Máme tam vlastně v tuhle chvíli dvě vrstvy.
+A každá ta vrstva vlastně
+jedna je více technologická,
+a druhá je
+vlastně více semantická.
+Ale reálně vlastně to funguje tím způsobem, že
+to zamyšlení generuje kód.
+– OK.
+– Protože v tom
+jsou ty moduly dneska nejlepší.
+Vygenerování kodu je v tuhle
+chvíli nejlepší. Takže
+ta myšlenka je vlastně jednoduchá.
+– A jak máte
+udělaný takový to, když tam přijde nějakej
+typický prostě provazník a začne teďka
+se ho ptát na totální kokotiny toho
+Georgie. – Jaký si má kopy auto. – Jaký si má kopy auto.
+Nebo jak mám ze svého účtu zafinancovat
+prostě, nevím, rakety
+pro Putina a tak dále. Ale prostě nějaký,
+ale to jsou ještě, řekněme to ještě tak jako veselý,
+ale nějaký vyloženě jako hardcore, ošklivý věci,
+když po něm budu chtít, aby se zamyslel.
+Jak to tam máte? Jak tam máte nastavný ty limity?
+– Takhle, v tuhle chvíli
+je to na dvou úrovních opět.
+První úroveň je, že jsme si vlastně
+vytrénovali vlastní model,
+který vlastně na začátku říkáme
+tomu Prom Shield,
+který vlastně na začátku validuje,
+že tam nejdou prostě nějaké ošklivosti.
+Takže to je první úroveň.
+Tam používáme
+Mistral, fajn tunovaný
+model, jsme
+si to zkusili, střelili
+a funguje to velmi dobře.
+Tam se opravdu používají standardní metody,
+prostě opravdu jako náš model běžíme
+vlastně v Databricksu.
+Takže je to
+velmi dobrý přístup k tomu,
+abychom právě touhle metodou
+ověřovali, že tam fakt nejdou úplný
+ptákoviny, ale současně
+jako tam
+přesně. Já si pamatuji
+takové ty otázky, když jsme začínali na začátku
+a to
+pořád na to vzpomínám,
+kolik
+si můžu koupit
+ze svého účtu kokainu.
+To byly
+samozřejmě prostě
+lidi v týmu, vymýšleli pak jako různý ptákoviny,
+ale tohle byl jeden z nich.
+No vidíš.
+Takhle se dělá marketing.
+No právě, že tohle byl právě na to fikaný,
+protože to vlastně propojuješ
+ty informace z bankovnictví
+s tím, o čem fakt mluvit nechcem.
+Takže
+a to bylo v té době
+jako toho, ale klidně si to zkuste, tohle je zrovna pokrytý.
+Ale
+tohle byly vlastně ty otázky,
+kde jsme to nějakým
+způsobem ladili a zkoušeli.
+A samozřejmě těch otázek jako je hromada.
+A úplně na rovinu,
+ten Promchill samozřejmě není nic
+jako novýho. Na internetu najdete hromadu
+open sourceových projektů tohohle charakteru,
+které právě testují vlastně
+její moduly
+na tohleto riziko.
+Takže my jsme se doznačně
+mírně samozřejmě inspirovali.
+A použili jsme některé z těchto částí
+dotrénování, ale současně se vždycky trénuje pozitivní
+i negativní, však to znáte.
+Takže jsme vlastně dotrénovali
+obojí. Ale to je teda pořádném
+ta jedna vrstva. A pak je samozřejmě druhá vrstva,
+ta je jako typicky
+outputová. To znamená, že vlastně
+samozřejmě ověřujeme
+i to, aby vlastně na outputu ve chvíli, kdy
+přichází nějaká nepěknost,
+protože ten Promchill to pořád
+jako samozřejmě nemusí zachytit.
+A potenciálně tam může být i vlastně
+nějaká vrstva, které prostě my mluvit vložení nechceme.
+Tak
+na úrovni prostě ještě
+AI nebo samotného gen AI
+máme další vlastně kontrol. Takže je to
+zase dvourovňový.
+Tak to jsi mi nahrál, takže tam někde
+chtěl jsem se zeptat, jak vlastně testujete
+toho, tu
+komponentu. Tak
+nakolik je tam manuální testing, to znamená,
+že opravdu jako nevím, jestli máš
+nějakej tým lidí, kteří to vloženě testujou, nebo
+vlastně už dneska používáme třeba nevím,
+interní zaměstnance, nebo jak vlastně celá ta
+problematika testingu tam funguje.
+Problematika testingu mi přijde, že je pořád stejná.
+Zase bych se vrátil ve 2019, ale už jsem to jenom
+řekl. My jsme to vlastně už tehdy
+vymysleli a musím říct, že
+vlastně od té doby to děláme jako dá se
+říct pořád stejně, jenom se jako zlepšily
+ty metody.
+My vlastně už tehdy jsme to dělali tím způsobem, že
+jsme vlastně měli připravené otázky a samozřejmě
+připravené odpovědi, které
+jako měli maximálně pokrýt
+vlastně jako ten průchod tím stromem.
+A dá se
+říct, že to doteďka vlastně děláme stejně. Všichni
+asi už jste slyšeli o něčem, čemu se říká
+LMS judge. To znamená
+prostě metody, které samozřejmě jako tehdy to šlo
+dělat takhle, protože ta odpověď byla připravená, teď odpověď
+není. Takže my samozřejmě máme
+už jako připravené nástroje,
+kromě toho samozřejmě
+ty validace
+nebo ty ověření se dělají
+na různých úrovních. Není to v tuhle chvíli jenom o tom,
+že by se to ověřovalo jenom na výstupu, protože to je málo,
+ale vlastně celé
+to flow my už vlastně
+můžeme validovat vlastně na různých
+úrovních, protože my generujeme
+vlastně to zamýšlení,
+takže se dá vlastně samozřejmě ověřovat, že už je to zamýšlení,
+když na to přijde a dokážeme
+vlastně tím pádem mnohem lépe algoritmicky
+ověřovat vlastně to, že tam, kam
+se chceme dostat, se opravdu dostaneme,
+takže tímto způsobem se to dá
+ověřovat taky, ale
+reálně manuálně testování
+se prostě tady nezbavíme. Je pravda, že máme
+už tuhle chvíli tisíce automatizovaných testů,
+to jako je samozřejmě pravda,
+které vlastně
+s každým releasem vždycky siždíme,
+ověřujeme kvalitu
+z pohledu
+znalostí, ověřujeme právě, jestli ten model
+vybírá vlastně ty správné čanky,
+generuje vlastně ty správné odpovědi,
+ale to ověření té správné odpovědi
+je vlastně to nejtěžší. Nejjednodušší
+je testovat vlastně tu cestu,
+mezi tím, protože když ta cesta je
+jasná, že tam má být tento ten čank, ale nepotřebujeme
+úplně ten konkrétní výstup, tak my
+dokážeme si ověřit, jestli tam ten čank vůbec vybral,
+jestli se vůbec k němu dostal.
+Je tam prostě řada těchto možností,
+takže testovat to samozřejmě
+je třeba i
+manuálně, ale myslím, že
+náš tým, vlastně ten
+HeyGeorgie lokální tým, to zvládá velmi dobře
+a makej na tom.
+Ty jsi zmínil Databricks,
+jaký další tooly tam jsou,
+takže bych čekal, že
+ten backend, respektive ty data, budou
+běhat někde na Azure, je to tak?
+Není. Je to
+tak, že
+to vlastně běží všechno jako firste,
+to znamená tam je
+základem EKS,
+to znamená AWS,
+to znamená Kubernetes,
+běží to u nich a priory.
+Samozřejmě
+některá data se dotahují
+pořádečně přes WebAPI,
+takže se to samozřejmě tahá tady
+od nás, ale už je
+relativně hodně dat centralizovaných
+v RST, a tím pádem to všechno
+běží tam. Na druhou stranu
+z principu je to pořád Kubernetes,
+takže je to pořád to samý, ale
+je pravda, že kromě toho Databricksu
+dá se říct, že všechny ostatní
+věci jsou
+custom.
+Ty jsi zmiňoval
+agenty, což je teďka taková
+velká móda,
+to samozřejmě, protože jak jsem
+teďka rozečetl jednu knížku právě o
+agentech, tak tam to hezky popisují,
+že aktuální doba je taková, že
+kreativní činnost dělá AI,
+a tu manuální,
+to jako přelejvání dat
+zleva do prava, ověřování dělají lidi.
+A že vlastně ideální je to otočit, aby
+to byl ten kreativní a AI dělalo takovou
+tu otročinu, a že k tomu se agenti
+vlastně strašně hodí, jakorát ne každý to takhle
+používá. Tak jak je to u vás?
+Jak je používáte vy a na co se vám
+agentic systémy hodí
+v tom vašem biznesu?
+Takhle, já si myslím, že
+udělat to tím
+způsobem, aby to kreativní část
+dělal AI, tak doufám, že
+k tomu jsme ještě daleko.
+Protože si myslím, že to AI pořád ještě má
+mezery.
+A taky vnímám, že ta největší
+síla je opravdu v tom
+repetitivním. A já jenom
+příklad, který rád používám vlastně,
+protože jsem to heď ordi taky strávil
+prostě noci,
+tak sám jsem vlastně to AI rád používal
+právě k tomu, aby mi
+vlastně provedlo testy.
+A já jsem si potom už jenom vlastně očima
+sjel. Prostě ve chvíli jsme udělali nějaké
+změny, něco jsme vyvinuli, nasadili jsme to,
+tak ověřit si,
+jestli to prostě
+funguje, to jsem
+fakt nechtěl dělat manuálně. To prostě nejde
+udělat manuálně a to AI je k tomu
+jako perfektní. Prostě si jede to,
+si jede to z testy, porovná mi to vlastně ty
+výsledky, řekne mi to prostě, co
+si to myslí. Vím,
+že se na to prostě můžu spolehnout od nějaké,
+jako od nějakého
+levelu. Takže pro mě
+tohle je jeden příklad, kdy to prostě používáme.
+Jiný příklad, kdy to používáme
+v praxi je právě
+v optimalizaci vlastně ragových flow,
+protože jako rag sám o sobě,
+jak to říct,
+to je buď jako příliš simple
+a jako úplně to nefunguje
+a nebo
+to prostě jako pak
+nepoužíváme úplně správně.
+Takže my to vlastně děláme
+tím způsobem, že si vlastně pomocí AI vlastně
+generujeme vlastně z těch
+chunků ještě nějaký summary.
+A přesně jako
+psali jsme to samozřejmě na začátku ručně,
+ale to jsou přesně ty věci, které
+jako nemáme psát jako ručně.
+Takže jsme vlastně si udělali vlastně zase nějaký tool,
+který nám vlastně jako z toho textu
+generuje summary a ověřuje.
+Další věc, opravdu
+strašně moc věcí je právě u toho
+zamišlení, že my vlastně jako
+vygenerujeme, jak tomu říkám zamišlení, je to opravdu
+kus kódu, jakým
+způsobem on chce vlastně přistoupit vlastně k
+vygenerování té odpovědi, tak my
+prostě zase máme jako nástroje,
+které nám prostě ověřují,
+že to, co on udělal je vlastně opravdu dobře.
+Protože například tady používáme
+pořád než ještě 4 očko, jako
+přejdeme, ale používáme vlastně jako
+rychlý model, ještě prostě na to zamišlení, na tu
+validaci. A můžeme klidně použít o jedničku,
+o trojku, můžeme použít vlastně
+modely, které jsou pomalejší,
+ale proč ne? Právě,
+že my to můžeme vydalegovat na to
+offlineové zpracování, tam se to prostě připraví,
+bude to mít vlastně mnohem lepší kvalitu, nebo
+mi to řekne, že to, co se vygenerovalo
+prostě jako je špatně, takže my to prostě jsme schopni
+hned vlastně následující
+ráno prostě odstranit z toho, opravit
+to zamišlení, hodit mu
+to tam, že když ta otázka přijde znovu, už to bude fungovat
+dobře. Prostě je důležitý vlastně jako
+tohle řešit. Stejně tak
+vlastně my děláme
+vyhodnocování vlastně i na tom
+Prom Shieldu. Díváme se
+vlastně na ty otázky. Tohle všechno se dá
+prostě dělat jako dneska pomocí
+agentů, pomocí vlastně
+AI. Takže já jsem strašný
+zastánce prostě to opravdu používat takhle,
+to znamená na ty věci, které se buď
+vůbec, protože je toho prostě
+strašně moc a
+nebo by nás to prostě ani nebavilo, takže.
+Jasně. U toho zamišlení,
+furt mi se to hrozně líbí, to je
+dneska generujeme samý dobrý názvy.
+O tom tvým, co jsi to říkal?
+Programařina. Programařina,
+tak něco takovýho, tak zamišlení.
+To zamišlení jako takový, ty jsi říkal,
+že to je kód. Je to nějakej známý,
+třeba dejme tomu Python nebo
+ANC, nebo je to nějaký DSL,
+kterým si popisujete to, jak
+se ten daný problém má řešit, tak ta myšlenka
+se má rozvětvět do nějakých jako výsledků.
+Reálně my používáme
+v tuhle chvíli,
+my jsme javascriptáři, takže
+buď javascript nebo typescript
+generujeme
+a ještě to kombinujeme se SQL.
+Takže to zamišlení je
+typescript a SQL, OK.
+A protože ty jsi říkal, že máte
+vlastně databázy celých vlastně
+zamišlení, máte to meshovaný, jste schopný ho
+invalidovat, když zjistíte,
+že třeba není dobrý. Ano, ano.
+Jak tam řešíte nějaké jako
+verzování takových jako zamišlení, kdybyš
+prostě vyjde jako nová, protože vy
+generujete kód, který pak někde spustíte,
+do něj už ale nešaháte, to znamená, že byste museli
+vygenerovat novou verzi toho zamišlení, chápu to správně.
+Jo, OK. Takže je to vlastně
+imutabilní v tom pohledu. Ano. OK, OK.
+Tak dobrý, tak už jsem si sám odpověděl.
+Ten problém naštěstí nemáme. Jo, dobrý, takže.
+Karol ani nemusel chodit, ty jsi odpověděl.
+Ne, ne, ne, ne, ale on by to odkejval,
+takže jako to, dostal mě tam, kam se potřeboval.
+Já jsem spokojený, děkuju. Hele, jak
+pracujete, mluvíš o první, druhý,
+třetí generaci, jak pracujete s tím, že
+si zákonitě přijde nějaká další generace,
+kde jak s tvými slovy to všechno
+zahodíte, co jste teď udělali, začněte znova.
+Jak pracujete s tou jako
+škálovatelností v tomhle tom kontextu,
+jako dá se na to vůbec připravit, jako že
+si tušíte, že přijde něco novýho,
+tak připravujete se nějakým
+způsobem na to, že hele, tohle bysme třeba
+mohli nějak jako zrecyklovat
+a použít znova?
+Je vůbec... Určitě ano. Jo?
+Já jako musím říct, že pro mě jako celý
+vlastně loňský rok, do 2024
+byl o divergenci. Já jsem vlastně
+rozjel paralelně
+vlastně dvě takový
+jako hlavní linie. Jedna byla
+custom a jedna byla
+framework. To znamená, že
+my jsme vlastně loňi opravdu jeli jako
+tou cestou, že jsme si zkusili
+ty věci, jak já říkám
+hardcore, že
+vlastně sbíráme zkušenosti a
+stavíme si to hodně jako
+custom, ale vedle toho jsme vlastně
+rozjeli agentickou platformu.
+To znamená, my vlastně jsme vzali a
+už tehdy vlastně začali jsme někdy v červnu,
+jsme se vlastně
+rozhodli, že to zkusíme a myslím, že
+v Q3 jsme si udělali nějaký průvod, koncept
+a zkušili jsme vlastně tehdy
+různé platformy, které jsou vlastně
+no-frameworky, platformy na trhu
+a zkušili jsme
+co by se vlastně dalo využít
+a dá se říct, že jsme vlastně od té doby
+udělali docela dost
+velký kus cesty a vlastně
+představili jsme přímo do banky, říkáme
+tomu AAIP, agentické
+platform, což je vlastně
+nástroj, který
+do značné
+míry vlastně jako přináší ty zkušenosti,
+které my vlastně sbíráme vlastně bokem
+a snažíme se vlastně to přinést jako
+nějakou standardní platformu,
+abychom vlastně tohle přiblížili
+i pomocí řekněme nějaké no-code,
+low-code platformy vlastně do banky.
+Takže cílem mým vlastně
+nebylo jenom prostě postavit
+nějaký jeden black box,
+který vlastně jako nikdo nemůže nikde použít
+opakovaně, ale
+naopak vlastně se z toho hodně poučit
+a ve směs jsme
+opravdu jeli paralelně tehdy jako tyhle
+dvě části
+a teď se naopak snažíme
+vlastně letošní a příští rok
+bude právě o tom, co nejvíc
+vlastně jako to prolnout a jako ty
+věci jako spojit dohromady,
+abychom právě měli ty zkušenosti, které jsme udělali
+dostupné vlastně jako pro každého
+tady v bance.
+No já jsem právě přemýšlel, my jako banka máme nějaký
+KPIčka na to, abysme i já začali rollovat
+zásadním způsobem.
+Karel se trošku usmívá, se taky trošku
+usmívám. Je to těžký, jo, je to těžký
+samozřejmě, myslím si, že... Co KPIčka jako takový, jo?
+KPIčka všechny jsou těžké.
+Nebudeme sypat sůl do starých ran?
+Dobře, pojďme dál.
+Ta platforma měla by být odpovědí
+na to, že vlastně
+dneska to AI
+je v podstatě tak jako, já ho vnímám trošku
+centralizovaně, a my bysme potřebovali
+přesně jak jsi říkal, aby to použili úplně všichni.
+Ta platforma by měla být
+odpovědí na tohle, jak vlastně pomoct
+těm lidem, aby...
+Já si myslím, že je strašně důležité říci,
+že platforma je jenom jako jedna
+z možností. Já jsem
+strašný zastánce toho prostě, že my tady
+samozřejmě děláme nějaké custom řešení,
+které už dneska jako je takový,
+když tomu dělám trochu reklamu,
+tak už tuhle chvíli vlastně máme platformu,
+ve kterou vlastně tady si kdokoliv
+v bance může o ně zažádat, může se do něj onboardovat,
+může si vytvořit svého agenta,
+může si vytvořit dokonce svoji skupinu agentů,
+můžeme tam vlastně připojit
+nějaký jednoduchý nástroje,
+můžeme tam spouštět nějaký kód,
+to znamená vlastně už tohle je v tuhle chvíli jako v běhu
+a prakticky už máme to na produkci
+a máme vlastně teamy,
+které už se do toho onboardují.
+Takže to je vlastně aktuální stav.
+Ale nemyslím si, že to je odpověď na všechno
+a doufám, že to jako vysvětlíme,
+to prostě ani nemůže být odpověď na všechno.
+Myslím si, že když prostě někdo
+jako má data v Databricksu,
+tak prostě Kristepane nepoužívejte tuhle platformu.
+Prostě za mě
+to má být prostě o tom,
+že bychom měli používat AI
+jak já říkám všude,
+ale to znamená, že když prostě máme jako nějaký super case,
+který má být prostě přímo
+dostupný v Salesforceu,
+tak uvažujme o tom prostě, že existuje něco jako
+agent force a uvažujme o tom,
+že bychom to měli dělat tam.
+Když se bavíme vlastně o Databricksu,
+tak samozřejmě varianta použít jiný,
+po případě vlastně udělat si agenci tam.
+Podle mě tohle je vlastně ta správná cesta,
+protože ve chvíli to budeme z toho vytahovat.
+Tak si myslím, že
+samozřejmě ono to půjde.
+Jeden z příkladů je projekt
+Znalostní báze. Nevím, jestli jste o tom
+slyšeli, je to vlastně
+projekt, kdy jsme vlastně spustili
+na vlastně prakticky všechny naše
+bankéře vlastně v Salesforceu
+nástroj, který vlastně umožňuje vyhledávání
+a nejenom vyhledávání, ale hlavně
+jako diskuze a otázky
+nad vlastně kompletní jako procesní
+znalostí
+na všemi procesy
+a to teda je integrovaný nadzorovnou na tu naši platformu,
+ale když jsme to neudělali přímo v Salesforceu,
+ale je to z toho důvodu, že když jsme s tím začínali,
+tak Salesforce neměl nic, neměl
+ani podporu češtiny nic, takže
+jsme to samozřejmě udělali, ale
+a priory zase, vím, že to tým
+neuslyší rád, ale prostě pokud
+Salesforce přijde s něčím, co bude prostě
+lepší nebo minimálně stejně dobrý jako
+je tohle a bude to jako finančně
+jako komparativní,
+tak chryste, pane, patří to tam,
+my to teď přinášíme, prostě ty data,
+je s tím prostě nějaká
+operativa, ale
+tohle je podle mě jako to, o čem
+vždycky mluvit a o čem přemýšlet ve chvíli,
+kdy prostě to máme v tom, já dneska pracuji
+v nějakém systému a mám tam
+dispozici AI a má to
+samozřejmě jako smysl i finanční a tak dále
+a legální, tak bych do toho prostě šel.
+Při tom stavění
+téhle platformy, šáhali jste
+hodně i třeba, nevím, po nějakých
+existujících řešení, Hugging Face,
+různý prostě open source věci,
+nebo většinu toho jste si psali sami,
+Ta platforma je vlastně kompletně
+postavená kolem open sourceového frameworku,
+protože já jsem opravdu za stánce
+vlastně tady v téhleté druhé noze
+to prostě nestavit kasn, pokud
+to jako není nezbytně nutné.
+Takže jsme vzali vlastně framework, používáme konkrétně
+autogen a vlastně postavili
+jsme si jenom takovou omáču kolem,
+která nám vlastně právě zajišťuje
+to, že je to secure tady v bance,
+že to můžeme používat, že to je
+vlastně jako z pohledu jak legálního,
+tak i z pohledu security vlastně v tuhle chvíli
+pozici a že vlastně
+každý si to může vlastně nakonfigurovat sám.
+Používáme to vlastně z toho důvodu, že pak
+to zaškolení potom do té platformy
+je prostě mnohem jednodušší, protože nemusím tomu
+vytvářet já sám prostě hromadu
+materiálu, protože ty materiály jsou
+prostě k dispozici na internetu, jo.
+Takže jednoznačně jako cesta byla
+jít takhle.
+Máte nějaký program toho,
+jak pak zpětně kontribuovat do toho open sourceu,
+nebo třeba supportujete
+jako banka, nebo ty
+jako člověk zodpovědný za
+tohle hnutí v té bance, staráte
+se třeba o to, když na to máte postavený,
+aby, se říká, aby ten jeden člověk v nebrasce
+poslední, který to jako maintainuje,
+aby to nepoložil a vám se to třeba dlouhodobě
+neovlivnilo? Díky tomu, že do toho
+investuje teď hlavně Microsoft,
+a je to
+vlastně jako platforma, které o ní docela dost
+věří, tak se toho zatím úplně
+nebojím, a to byl vlastně jeden z motivů,
+který jsme sledovali, jsme vyhodnocovali ty
+frameworky, do čeho jít.
+Myslím, že aktuálně nekontribujeme,
+ale jako děky tomu, jak je to prostě postavený,
+tak si myslím, že možná v jednu chvíli budeme.
+– Hezký. – Myslím, že to mám
+z LinkedInu, že kromě zákaznícký AI
+řešíš i interní nástroje pro zvyšování
+efektivity zaměstnanců, tak co bys
+si do tohohle ranku dal? – Tak my
+jsme samozřejmě, to byla vlastně
+jedna z prvních věcí, kterou jsme přišli, vlastně to bylo
+taky v tom dubnu 23,
+my jsme vlastně byli jedna z prvních bank,
+minimálně ve střední Evropě, která vlastně
+spustila opravdu AI
+a zprostředkovala
+vlastně AI pro všechny zaměstnance.
+To znamená, že to byl vlastně takový ten první
+počin a to jsme teda udělali
+nějakou webovku, dali jsme to na internet
+a vlastně bylo to dostupné mimochodem
+přes úplně tu samou platformu, na které běží
+HeyGeorge. To je právě ten reuse,
+který jsem se vždycky snažil.
+Ale pak jsme si řekli,
+že potřebujeme
+se posunout trošku dál, trochu to
+dointegrovat, dodat tam nějaké další
+feature, takže tehdy víceméně
+jsme začali vlastně pracovat na Gordym.
+Gordy je vlastně náš
+chatbot s tým SECH,
+který zprostředkovává vlastně přístup
+ke AI, ale už to není jenom
+jako přímý přístup na model
+s nějakým předefinovaným
+promptem, ale už jsou tam vlastně i nějaké
+další nástroje. Tzn. přinášíme tam
+nějaký extenze, které
+si vlastně může uživatel
+a vlastně zaměstnanec
+vybrat, máme tam prostě
+překladače,
+máme tam v tuhle chvíli
+vlastně nástroj, který
+umí vlastně našim bankéřům
+vlastně připravit zápis
+ze schůzky, tzn. on to tam vlastně může
+jenom nadiktovat, klikne
+a jemu to vlastně v nějaké standardní struktuře vlastně připraví
+vlastně kompletně ten zápis, takže
+to může někam nakopírovat. A je tam
+asi v tolik chvíli dneska 10-12 různých
+takových extenzí, které se
+dají vlastně dělat. A dobrý na tom, že se dají
+dělat velmi rychle a jednoduše
+a tím pádem si opravdu snažíme
+tohle tam přinést. Stejně tak jsme tam vlastně tehdy
+přinesli možnost nahrávání vlastně
+vlastních souborů. Ale
+zase, podívejte se na to, třeba jenom
+tohle je krásná ukázka nahrávání vlastních souborů. Když jsme
+to dělali, tak vlastně nebyla alternativa.
+Prostě když jsme to spouštili,
+ale my to spouštili někde
+začátkem 24, v dnešní době už je to
+prostě naprostý standard.
+Prostě nahrávání. Ale ten rozdíl
+v Gordim je, že je to secure.
+Můžeme tam dát vlastně pracovní věci
+a nemusíme se vlastně ničeho bát.
+A víme, že teda ta
+vozovka neopustí vlastně banku
+a tohle vlastně ve chvíli
+nahráváte do nějakého perplexity nebo
+do chat GPT, tak naopak víte,
+že tam dokonce i píšou,
+že si to někdo přečte.
+Takže jako
+tohle je jako vždycky něco za něco
+a jako samozřejmě ty kompromisy
+jako nějakým způsobem je
+asi nutný jako minimálně zvažovat,
+ale tehdy jsme to opravdu byli schopni přinést
+už vlastně dva roky zpátky skoro
+a jsme schopni vlastně
+od té doby s tím pracovat.
+Já dneska mám k dispozici ještě Copilot Chatbot.
+Jak bys si doporučil používat
+jeden a druhý nástroj?
+Takhle, Copilot Chat je
+jako v tuhle chvíli asi od začátku října
+jsme to vlastně zpustili pro všechny
+zaměstnance.
+Za mě je to
+prostě nástroj, který je vlastně v tuhle chvíli schválený
+vlastně na použití,
+takže já bych ho používal opravdu
+na konverzace, které
+jsou prostě standardní, klidní, pracovní
+a používal bych to
+místo Gordyho
+právě jako z toho pohledu, že tam vlastně
+vyjde to historii, máte to tam vlastně jednodušší
+jako na přístup.
+Na druhou stranu vlastně ty tooly,
+které jsme tam vlastně právě přinesli do toho
+Gordyho, tak
+ty jsou vlastně unikátní, ty do toho Copilot Chat
+prostě neumíme dostat, není to
+prostě otevřený na to, abychom tam tyhle věci dělali,
+takže pro tyhle ty věci
+já to pořád používám.
+No a teď mi řekni Karle, já bych se
+čestně otravoval po tom,
+tak se zeptám rovnou tady.
+Copilot, prostě je to
+přímo součástí Outlooku,
+a já se ho prostě chci zeptat
+na to, jaký z těch 350
+e-mailů, který po dovolený mi přišly, tak jaký
+mám řešit s prioritou, já jsem schopný mu
+i vysvětlit,
+co je pro mě důležitý, a on prostě
+na to není naintegrovaný, tak co
+tam je, je to daný regulací, je to daný
+nějakou restrikcí, nebo
+proč nám to vlastně nejde?
+Zrovna o Copilota já se přímo nestarám,
+tohle je vlastně tým,
+kdyžtak pak ti dám nějaký jméno,
+ať to teoreticky neříkám na hlas,
+ale
+spíš jde o to,
+že to je teda věc hodně Microsoftu,
+a taky samozřejmě jako licenci.
+Ty máš tu placenou?
+Já vlastně nevím.
+Ten Copilot chat je free,
+což je super, že vlastně Microsoft
+dává vlastně tady tuhletu možnost,
+ale ta samozřejmě integrovaná vlastně na tyhle systémy není.
+A pak je teda placená verze,
+která, ale myslím, že zrovna jako
+integrace na Outlook tam je,
+akorát nevím prostě jak detailní minimálně, když jsem si to zkoušel
+já ze začátku,
+tak tam tady ta varianta byla,
+ale vím, že tam
+je nějaký omezení.
+Tak to mi pak dáš kontakt.
+To si řeším,
+jsem byl vlastně na Snowflake summitu někdy
+v černu a tam o tom vyprávila nějaká CDO,
+kterou takhle používá, že to je nejlepší agent,
+který ho má. Říkám, to je vecka.
+Že jí to jako předžvejká, čemu se má věnovat.
+Kterých deset e-mailů mám řešit jako první,
+protože to je vlastně peklo.
+Tak to musím zkusit si v Gemini,
+v Gmailu, jestli to
+něco takového už není schopné mi odpovědět.
+No to si myslím, že Gemini ti už ti pomůže,
+anebo si můžeš zkusit třeba, já jsem zkoušel superhuman,
+tak jako ten na osobní věci,
+to ti taky takhle dá.
+OK, to zkoušíme.
+Zajímavý, zajímavý. Prosím tě ještě jedna věc,
+Karle, když se bavíme
+o té dynamičnosti celého toho odvětví.
+My třeba aktuálně,
+tam kde já dělám, tak samozřejmě zkoušíme různý
+jako ryze vývojářské nástroje,
+od Cloud Code, samozřejmě
+Copilot, Fagantic Modu a tak dále.
+A chceme k tomu z toho
+dojít k nějakému závěru, ale problém je, že ten závěr
+je vlastně jako short-lived.
+V podstatě bychom museli dělat tu validaci
+každý tři měsíce, protože ty tooly
+jako neustále jsou na tý
+dostihový dráze a každou chvilku vede jinej
+kůň. Tak jak ty by si
+třeba doporučil softwarovým firmám
+na tohle vlastně reagovat? Protože
+říct, budeme teď rok používat Copilot,
+je strašně krátkozraký. Na druhou
+stranu říct, používejte si každý,
+co chcete, je zrovna tak nebezpečný,
+nebo nesystematický, nekoncepční,
+jako říct, budeme používat
+jeden tool od teďka navždy, amen.
+Tak jak to tam střelit do
+prostřed, aby nám neujel
+vlak, ale zároveň, aby to nebyla
+co chcárna.
+Takhle, samozřejmě
+těch metod a přístupů asi je hodně
+a samozřejmě každý manažer k tomu zvolí
+nějaký přístup, ale to je asi to samý, jak
+my jsme vedli před rokem
+takovou diskuzi,
+jestli se máme držet GPT modelů.
+Možná trochu
+utíkám, ale to je vlastně něco,
+podobného.
+Vždycky prostě chvilku byl
+napřed Gemini, chvilku byl
+napřed Cloud, pak zase
+chvilku GPT. A já si osobně myslím,
+že zatím
+je to vlastně jako v úzovkách jedno, protože
+ten rozdíl je typicky
+několik měsíců, kdy někdo
+vede, ale prostě můžeme
+si užívat tak jako třetinu,
+čtvrtinu roku, budeme určitě na té
+technologii, která vede.
+A to je podle mě ale to zásadní.
+Protože přecházet je strašně.
+Je strašně drahý, je to procesně
+jako v korporátech
+opravdu náročný. A důležitý
+je, že tu metriku toho, že tu
+čtvrtinu roku vedeme, že máme.
+To je podle mě klíčový. Pokud to bude znamenat,
+že vlastně nevedeme nikdy, no tak asi
+děláme fakt něco špatně. Ale jako
+tohle je minimálně můj přístup.
+Ok, díky, díky.
+Jak vlastně vypadá struktura toho tvýho
+týmu, Karl Lepčet? To popisoval vlastně ty
+aktivity, tak když si představím, co
+zatím asi stojí za lidi, tak
+budou tam nějaký, nevím, MLopsa,
+vedle samozřejmě těch data scientistů,
+lidí, kteří trénují ty modely a podobně.
+Tak co tam je za další rola?
+Takhle, já ten tým
+v tuhle chvíli máme
+vlastně rozdělené, řekněme, do takových jako
+tří základních skupin, ty týmy.
+A ať začnu
+od rozdělení, takže máme tým, který se věnuje
+vložení chatu. Vlastně tomu
+HeyGeorgi a vlastně samozřejmě jako
+chatovým interakcím. Pak máme tým,
+který se věnuje voicebotu. To znamená
+tým, který se věnuje vlastně těm
+jako hlasovým interakcím, které máme
+na infolince, po případě vlastně máme
+pořád ještě voicebot a vlastně i na
+tady IT supportu.
+A pak máme vlastně třetí
+tým, který se věnuje vložení těm AI platformám.
+To znamená,
+že tohle je vlastně
+takový to základní rozdělení. A dá se
+říct, že v každém tom týmu samozřejmě ta struktura je
+trochu jiná, protože někde
+samozřejmě u těch chatových a
+chatových a voicebotích
+je větší
+nebo větší část. Je tam prostě část samozřejmě biznesová,
+která je naprosto klíčová, důležitá.
+Ale potom
+máme samozřejmě v těch technologických,
+tak tam je, nebo v těch
+platformních, když oni si tak
+neradí říkají, že to není jenom platforma,
+tak
+tam se samozřejmě
+jako tam vlastně v tohle chytilo asi jenom
+jeden biznesák, ale i to je
+samozřejmě jako potřeba.
+Ale tam samozřejmě ty skilly jsou potom jako trochu jiný.
+A víceméně ty role,
+jak to typicky
+vlastně funguje, tak přes
+standardního testera,
+začínám samozřejmě jako AI architekta,
+pak
+je tam, já to rád nazývám AI analytik,
+mu se ještě vrátím,
+a pak samozřejmě říkáme tomu
+AI inženýr. Taková jako role
+pro všechno.
+Protože já vlastně
+ten pro mě ideální kandidát,
+který vlastně jako je
+ten, který nám vlastně je schopen
+nejvíc pomoct nás, s náma hýbnout
+technologicky,
+je jak říkám tomu AI inženýra, to je kombinace
+vlastně takových tří typických skillů.
+Za mě je to pořád vlastně
+strašně moc o software inženýrovi.
+To znamená, je to vlastně
+typicky jako takový ten vývojář,
+který ale má
+prostě zkušenosti CI, to znamená ví jak to
+integrovat, buď zná ty
+frameworky, umí vlastně
+jako tyhle věci vlastně integrovat.
+A samozřejmě
+je to i promptař, to znamená ví
+jaké jsou základní principy promptingu.
+Takže to je taková trojkombinace,
+bych to nazval, a
+vlastně typicky tyhle lidi na trhu
+samozřejmě neexistují, nebo prostě jich
+relativně málo, a
+rekrutujeme to právě typicky právě z těch
+lidí, což jsou data scientisti,
+a nebo naopak ty software
+inženýři, kteří mají chuť
+se vlastně v tomto posunout.
+Tohle je vlastně jako pro mě ten zásadní
+skill a to je vlastně to, co stavíme,
+to je to nový, co se snažíme vlastně
+stavět. A když se vrátím k tomu
+AI Analyticovi nebo AI CGOvi,
+ať to budeme říkat jakkoliv,
+tak pro mě je to vlastně docela
+zásadní role
+v tom,
+že vlastně ve chvíli, kdy jdeme
+dělat vlastně AI use case, kde budeme vlastně
+dodávat nějakou věc, tak ono to
+možná zase vypadá všechno úplně jasně, jako
+tam přece není co řešit, ale tam je
+strašně moc novýho.
+Pro tyhle ty lidi vlastně
+ten svět se změnil.
+Je vlastně potřeba si říct, že
+jako jedna věc je, že se udělám proces,
+popíšu si, jak to má fungovat, ale
+s tím AI je strašně
+důležitý kor v těch back officeových
+procesech. A ve chvíli, kdy
+děláme AI právě pro tu automatizaci,
+tak tam je strašně důležitý
+říct si, co je good enough.
+Na jednu stranu.
+A na druhou stranu ještě říct si, jak
+si ověřím, že to je good enough.
+A tohle jsou prostě skille, které
+samozřejmě ty lidi typicky neměli potřebu,
+protože oni prostě dali zadání a řekli,
+že to takhle chci. A ono to
+šlo, ale ono to dneska už nejde.
+Ono už takhle jednoduché
+není. Takže potřebují se tohle
+taky naučit. To znamená, že
+v těch skillech AI architekt
+potřebuje taky chápat nový krabičky,
+jak to funguje dneska u nás, hlavně
+v tom mežru, a jakým způsobem
+to integrovat. Takže jsou to vlastně všechny
+tyhle role, které jsem vlastně popsal,
+a tester má zase svoje
+novinky v sobě.
+Každá ta profese dneska
+přináší při vývoji toho AI
+systému, přináší vlastně úplně
+jiný způsob práce. Nový způsob
+práce. A tohle je prostě strašně důležité,
+že to není jenom
+IT. A je to prostě
+strašně moc o byznysu. Strašně
+moc o tom, aby ten byznys pochopil,
+že to není stoprocentní
+cashby. Že to prostě
+občas halucinuje a my potřebujeme
+bohužel i ten byznys proces občas přizpůsobit
+tomu, abychom toho vlastně vůbec byli
+schopni, abychom to vlastně dokázali dodat.
+Jasně. Hele, ještě vlastně
+mě zajímá jedna část. Já pocházím z toho
+datovýho světa. V cyklu mu jsem vedl data science
+team, který stavil,
+trénoval tam nějakou neurónku a potřebovali jsme
+nějaký dataset. A já jsem tam
+pozval tenkrát vlastu Vondru, tím toho
+zdravím, což je data engineer,
+který vlastně to, co
+oni se tam snažili si připravit, ten dataset,
+tak on jim to udělal asi za třetinový čas,
+protože prostě měl jiný skilly.
+Já jsem si tam jako uvědomil,
+jak vlastně to bylo hrozně přínosné
+a fungují ty tvé týmy s tím. Protože
+normálně já pocházím z toho,
+tady ve spořce z toho data warehousingového
+světu, světa, a vy vlastně
+si ty data taháte tak jako bokem,
+protože vlastně to není třeba, aby
+pocházela tím warehousen, takže to vlastně, tam nemám ten dohled.
+Jak pracujete
+s těma datama na tý L0C, jako teď to
+teda přijde a kdo s tím pracuje vlastně,
+z těch rolí, co jsi popsal?
+Je pravda, že vlastně ten přístup je tady
+úplně jiný. Vlastně ty data
+tady nejsou to nejdůležitější,
+protože ten model se netrénovuje.
+Ten model je vlastně netrénovaný.
+My pracujeme vlastně jako s těma modelama, které jsou ready.
+Samozřejmě úplně jiná věc
+je samozřejmě ten fine-tunovaný
+model, o kterém jsem mluvil,
+který máme vlastně na tom Mistralu. To je jako samozřejmě jiná story.
+Ale to je pro mě okrajovka.
+To není typicky naše práce.
+Jak říkám, udělali jsme to jednou,
+bylo to efektní a velmi potřebný,
+ale na prostý grom
+my jako stavíme na existujících modelech, takže tam vlastně
+data vůbec jako z tohohle pohledu netrénujeme.
+Naopak
+se díváme na tu efektivitu
+z toho pohledu
+pojďme ty data poskytnout tomu modelu
+ve chvíli ten model to potřebuje.
+Někdy my si myslíme,
+že to ten model potřebuje. To je strašně důležité.
+To je zase mentální jako změna, jak prase.
+Protože
+my vlastně opravdu musíme
+nechat tu orchestraci na tom AI. V tom je ta síla.
+A tam samozřejmě ale je důležité,
+abychom opravdu byli schopní ty data poskytnout.
+A my je musíme poskytnout
+zase správně. Takže tam to není
+tak už o tom objemu, jako spíš o tom
+strukturování, o tom, aby to bylo pochopitelný.
+Protože my jsme zkusili neintegrovat
+ať nejsou úplně konkrétní prostě nějaké
+API pro model.
+On ho samozřejmě
+neintegroval, nějak to pochopil.
+Hodil to tam, ale prostě
+to jako fakt nefungovalo.
+Takže naopak my se, protože říkám,
+že je to o trochu víc toho software engineeringu,
+a z té kombinace toho
+chápání těch struktur,
+než v objemech
+nebo nějakých pipeline-ách
+generování toho modelu. A pomáháte mu
+nějakýma MCPčkama nebo něčím takovým?
+MCPčko tam ještě v tuhle chvíli nemáme.
+Já prostě si myslím, že MCPčko je
+super ve chvíli, kdy potřebujeme přistoupit
+na nějaké externí služby. Pro ty interní
+to zatím nemáme, ale takhle.
+MCPčko určitě vznikne, protože je to
+standard, který já respektuju,
+který nám pomůže v tom, abychom si dokázali
+rozumět mezi sebou.
+Takže to je určitě důležitý. Ale
+ve chvíli, kdy děláme něco pro sebe, tak nám to
+pomůže v tom, abychom opravdu ty věci standardizovali,
+ale jinak nás to určitě neposune.
+Protože když já se podívám na tu
+strukturu, a to je pro mě vždycky ten hardcore,
+podívám se na to, co se do toho modelu vlastně posílá,
+tak já vím velmi dobře, co to MCPčko mu
+udělá. Takže
+vím, že mu to nepomůže reálně,
+ale pro mě je to naopak mnohem
+důležitý na to, aby my tři jsme si mezi sebou rozuměli.
+Proto to je perfektní.
+Takže proto já to velmi respektuju,
+ale proto vlastně ve chvíli, kdy děláme v jednom týmu,
+a chci to jenom pro sebe, nechci to
+nikomu dávat, tak to vlastně...
+Přesně tak, tak to vlastně nepotřebuji.
+Jasný, jasný. Ale ty jsi mluvil
+o tom mindsetu vlastně, že
+potřeba nechat trošku, nepřistřihovat
+ty drábky tomu AI-ku vlastně.
+A já tady měl otázku, měli jsme
+otázku, jak se Sporska staví jako k AI konkurenci
+typu Revolut, Monzo, N26
+a tak, ale vlastně bych to ještě trošku
+přetvořil, jak složitý je
+vlastně měnit ten mindset v bance, která je tady
+dvěstě let, jo. Protože tady
+to, co jsem teďka řekl, ty tři konkurenty
+v podstatě, že jo, tak to jsou nový banky, jako reálně
+samozřejmě, tam je to jako by default, jo.
+A to je vznikný úplně nejinej základek, že jo, v jiný době.
+Přesně, přesně. A teď jako to je kamennou
+banku v podstatě, chceš přetvořit do AI
+éry, jak je tohle složitý?
+A myslím si, že bude.
+Já si myslím, že Česká
+spořitelná má slušně našlápnuto.
+Jo, myslím si, že
+o Martinovi už jsem mluvil,
+Martin je velký zastáncem AI
+a myslím si, že
+tohle nám opravdu strašně pomáhá.
+Ale myslím si, že to, co vnímám
+za poslední rok, to není už jenom Martin.
+Jo, prostě Karel Mourek
+o tom prostě mluví fakticky taky
+a za posledních... Další bodňák.
+Přesně, s Jarou.
+A poslední dobou,
+poslední x měsíců
+o tom vlastně začíná mluvit i Tomáš.
+Tomáš Salomon. A to si myslím, že vlastně
+s náma pohne. Věřím tomu.
+Jo, tomu věřím taky.
+A jsem zvědavý, jak se to bude proměňovat
+i v tom, jak vy
+platforma začnete deliverovat
+něco, s čím si my všichni budeme moc hrát,
+ale zároveň samozřejmě, jak se to propíše
+do každodenní práce.
+Třeba u nás v tom datovém světě ještě máme k tomu blíž,
+tak reálně přesně, jak mluvil jsi tady
+o Salesforce, tak Snowflake, Databricks mají
+nativní AI funkce, který se dají používat.
+A už se jou, jako pěkně.
+Ale jsem zvědavý, kam se to posune.
+Tak zase na druhou stranu je to o lidech, že jo.
+Tak když jdu tady k vám na návštěvu, tak nenesu si
+kamenou destíčku, prostě.
+Ta vanka evidentně moderní je nikde jinde,
+takže si myslím, že to nebude
+zas takový hardcore.
+To leadership jde tím směrem.
+To je výrazně jednodušší asi.
+Já bych se nebál, Poli, v pohodě.
+Já jsem v pohodě. Právě že Tomáš Salomov
+o tom teďka mluvil, tak máme také
+měsíční seance, který se jmenuje Spořka živě,
+tak tam mluvil o jedním z nových
+key resultů, což je právě
+AI First.
+Takže jdeme tím směrem, rozhodně jdeme.
+Máme nakročeno, sluším.
+A jak jsem říkal, k tomu potřebuješ správný lidi,
+ten nejoslý můstek na moji další otázku,
+a to je, jakým způsobem u tebe
+probíhá hiring do tvýho týmu,
+nebo do těch týmů, kterých supervizuješ, jsou kolem tebe.
+Protože ty jsi říkal,
+několik skillsetů, který jsi na závěr řekl,
+je to vlastně těžký sehnat, takže hned by tam
+cinkl takový ten unicorn alert v hlavě,
+že najít někoho, kdo je dobrý v algoritmizaci,
+ví, jak funguje AI,
+a zná i trošku jako shift left a kouká
+na business, že to je malinko, jako bych
+sám měl tři v jednom, tak je to těžký,
+a jaké jsou teda ty kritérie u vás?
+Zase se vrátím časem.
+Root Fight 2023 tentokrát. Jo, dobrý.
+To není 2019, protože
+v tom dubnu jsem opravdu chtěl začít,
+a tehdy to bylo skoro nemožný.
+Protože s tím samozřejmě nikdo
+neměl zkušenost,
+a bylo to takový, že jsme,
+já jsem se tehdy zeptal Microsoftu,
+mě zajímalo, jaký by měl být ten skillset,
+ideální skillset, co mi doporučíte, jak by měl
+vlastně vypadat ten člověk, a to byla
+zajímavá otázka, jo.
+Pamatuju do teďka, jo, tu diskuzi.
+A přišla odpověď vůbec?
+Ale...
+To je zajímavý prostě, no.
+Zajímavá otázka, díky, ahoj.
+Ale tak, jak
+se to vyvinulo, za prvé,
+tehdy to bylo fakt těžký, a bylo to prostě taková
+trochu svázka do loterie, a teď už je to
+přece jenom něco lepší. Přece jen jako už
+ten svět dospěl,
+a prostě se na ty lidi jednoduše, ale pořád,
+jako jsem vlastně o tom mluvil, za mě jako to,
+kdo je ten softwarový inženýr,
+respektive, jak já tomu říkám, AI inženýr,
+který má vlastně jako
+tyhlety skilly, a pro mě
+není asi to až tak důležitý,
+jako, protože
+víceméně pohovory nám běží pořád.
+No, pořád vlastně hledáme, pokud se někdo se přilásí,
+tak mě určitě kontaktujte, budu rád.
+A... Nebo Poliho, a on dostane
+pak nějaký fíčko, ne? Máte referál bonus.
+No, jasně, jasně. No, ať se šádnete s Karlem,
+protože buď Karlemi, nebo Polimu.
+To je věc, že já zkusím Romana,
+teda Romana, Viktora Stepanuká,
+jo, jedna z našich... Není problém,
+není problém. To já vymyslím.
+A já vlastně jako musím říct,
+že ve chvíli, kdy ten člověk
+exceluje jednou z těch tří věcí, které jsem řekl,
+a chce se to naučit,
+tak ta příležitost prostě jako za mě dává smysl.
+A prostě jdu do toho.
+Protože podle mě je to v tuhle chvíli o zajímavých,
+chytrých lidech, kteří
+prostě se to chtějí naučit.
+A ve chvíli, kdy prostě už jedno z toho umíte,
+tak je to úplně prostě perfektní.
+A já to prostě chci zkusit.
+Jak ten tvůj tým propojuješ?
+Několik nás to zmínil z RST.
+To znamená, jaká je spolupráce
+v rámci AI napříč těma jednotlivýma
+zeměma?
+Teď jste měli
+vidět, jak se Karel nadechl.
+Tak jo, já myslím, že
+naopak je
+relativně dobrá.
+Protože vlastně
+na úrovni RST
+vznikl tým.
+AI Officer
+ho vede,
+který se snaží právě
+tyhle věci propojovat.
+Ono to občas vypadá,
+že je to další
+organizační pruda.
+Že vlastně musíme něco někam hlásit,
+něco někomu říkat.
+Ale když to mám hledat,
+když je to pozitivní, tak v tom minimálně
+vidím, že je to sdílení.
+To znamená, že oni vědí,
+jaký projekty děláme.
+A už se nám to vrátilo, že
+my jsme teda většinou
+hodně daleko, takže většinou
+říkají, že my něco děláme
+a my pak sdílíme ty informace
+s ostatníma. Ale proč ne?
+Tímhle můžeme posunout
+celou skupinu a její výsledky.
+Prostě tím, že
+ukážeme, jak se to dá dělat u nás.
+Takže proč ne?
+Tohle vnímáme jako velmi pozitivně.
+Je pravda, že
+nás to samozřejmě
+úplně neposouvá,
+ale myslím, že skupinu zase ano.
+Takže já myslím, že investici vlastně do skupiny
+je to vůzovká naše
+povinnost tohle dělat.
+A ještě mě napadá, jak se
+Karel Srček vzdělává
+sám? Prostě v dnešní záplavě
+těch věcí, které si můžeme přečíst,
+jak složitý tohle je?
+No já mám sám samozřejmě
+úplně nejsem zase na svém chatu GPT,
+protože lidé nedávají nějakou diskuzi, proč to nepoužívám,
+ale používám teda Perplexity.
+A vzdělávám se tím prostě,
+že prakticky to používám
+denně.
+A vlastně ty témata prostě na tom
+internetu jedou. Takže
+Perplexity je jeden zdroj.
+Potom mám placenou verzi
+některých portálu AI,
+kde si prostě čtu články,
+které se tam objevují.
+Můžeš nějaké vyjmenovat?
+Používám konkrétně Medium.
+Některé články teda jsou hrozně
+ale jako už...
+Když tam vidím ty AI generované
+tak si říkám, na první pohled
+to vidíš, že to generovalo
+AI. Ale to jedno.
+Ale prostě jsou tam nějaké zajímavé věci
+a prostě sleduju, čtu.
+Je pravda,
+že se to mění tak strašně rychle,
+že je to opravdu
+jako přehršelé informací.
+A díky tomu, že já se hodně orientuju
+na ten Microsoft svět, takže spíš jenom
+tak sleduju, co se děje
+v cloudu.
+Mistrály, nebo
+Gemini, to sleduju spíš od pohočku.
+Ale obecně, prostě spíš mě
+teď zajímají takové ty principy MCP
+a A2A, sdílení
+ACP. Prostě různé ty
+principy, které kolem toho jsou.
+To je v tuhle chvíli pro mě jako hodně
+zajímavé, že tohle si čtu
+a se tím se to právě pochopit, jak to vlastně
+funguje.
+A tohle je prostě potřeba.
+Jako dělat to vlastně furt.
+A nějaká zajímavá knížka na tohle téma?
+Můžeš napsat knížka tak, aby než jí vydám,
+aby už spůlka nebyla
+obsolít?
+Technologické knížky vůbec nečtu.
+Fakt to všechno mám jenom na
+internetu. Prostě to jsou články
+a takhle. Knižky tohoto charakteru vlastně
+ani neznám, koupu děvu.
+Přečtu jiné knížky.
+Dává smysl.
+Tak mi ty knížky by měly být takový ty, co ti
+vydržej jako to know-how z tý knížky,
+aby tě vydrželo nějakou dobu.
+To si trošku bije.
+Dám ti otázku, na kterou neznáš
+odpověď, ale když si podíváme za tři
+roky ode dneška, tak kde bude to
+vypadat? Teď nejde o to, aby jsme to trefili,
+ale spíš jak to vnímáš, jak
+vidíš ten les skrz ty stromy.
+Ale ten nejzásadnější problém, který
+je před námi, je reasoning.
+To je věc, která funguje
+špatně, nebo respektive
+funguje omezeně.
+To znamená, že
+my si nějak namyslíme to,
+jak by to fungovalo, on to vlastně
+udělá jinak.
+A právě proto my to hackujeme
+těma metodama, o kterých už jsem mluvil.
+Protože tohle je naprostý
+základ toho systému.
+Ale osobně si myslím, že
+za ty tři roky věřím tomu,
+že ten reasoning bude lepší a lepší.
+Pořád nevím, neviděl jsem statistiku
+za posledních pár měsíců, ale myslím
+4-5 měsíců zpátky
+jsem viděl statistiku, která říkala, že
+modely a ty agentské modely
+dneska jsou schopné, nebo systémy
+jsou schopné dneska
+splnit stáz, který člověku trvá 7-8 minut.
+Říká se, že to vlastně
+každým měsícem, každým rokem
+exponenciálně poroste. Takže kdybych se
+na to měl dívat třeba tohletou statistikou,
+tak za tři roky už to nebude potřeba.
+Já tomu teda úplně nevěřím, protože
+myslím, že ten reasoning je pořád
+není to hacklý.
+Ale tohle sleduju asi nejvíc,
+protože tohle je ten game changer.
+Všechno ostatní, tooly,
+nějakým způsobem něco provolat,
+extrahovat, to umí.
+Už dneska. Takže podle mě tři roky
+si myslím, že to bude
+právě o tomto reasoning a
+věřím, že tam se prostě dostaneme.
+To je jako ta technologická vrstva
+a ta biznesová. Osobně si
+myslím, že za tři roky vlastně budeme mít agenta úplně
+všude. Já myslím si, že
+se na to všichni zvykneme a budeme chtít
+vlastně ovládat všechno hlasem.
+Když už nehlasím, tak jako chatem.
+Prostě řeknu, prostě
+já tohle chci a už to
+nebudu muset prostě klikat na pěti, deseti
+různých místech. On to prostě všechno udělá za mě.
+Protože ty MCPčka
+tomu povedou. Všichni prostě jako si tam
+někde jako vystaví ty svoje nástroje
+a já se vlastně jenom naintegruju toho svého agenta
+prostě na to, aby mi to vlastně
+udělal. Takže jako budu ovládat celý svět
+z jednoho místa. Na to se těším. Na to jsem fakt
+zvědavej. Teď vlastně, že jo, sám Altman
+najal iOS
+z Appleu a budu udělat určitě
+nějaký hardwareový gadget. Tak mě
+Braillevs i takovýhle věci. Tak mě
+zajímá, co to teda vlastně může bejt.
+To bude ten portál
+do tohohle světa. Přesně. V době, kdy natáčíme
+tak jsem zase čet, že
+OpenAI dokonce
+vydalo nějakej jako vlastní
+orchestrátor ve stylu
+N8N, že si vlastně
+můžeš za sebou jako dělat ty agentik
+vlastně vlastní jakoby systémy.
+Drag and drop si za sebou dává tu
+flow, co má s tím dělat a tak dále.
+Že to celý bude u nich zase. Takže jakože
+zabili dalších asi pět tisíc startupů,
+prostě v San Francisco. Něco v tom vlastném
+stylu jsem četl. Musím říct, že obdobně jsem
+teďka viděl od Databricksů opensourceovej
+jako add-on, který se jmenuje
+CASAL. Nevím, jestli jsi viděl, Karle.
+Teď byli tady minulej týden
+a bylo to teda fascinující.
+Fakt se mi to líbilo. Vlastně se jako
+promptoval ty agenty a hnedka
+se ti to vlastně na nějakým frontendu ukazoval,
+jak to propoješ. Jsem zdravý.
+Jsem zdravý, jak tohle stopuje dál. No ale jedna
+věc, která mi u tohle vrtá pořád hlavou, je ta,
+že já technicky vlastně
+i já bych si sám dokázal něco takový jako
+zbastlit, protože samozřejmě jako programátor
+tak si takovou flow jako napíšeš. Ale já
+osobně mám problém a to je vlastně otázka
+na Karla, jak možná jako tohle
+z toho prorazit. Představa, že
+řeknu, tady máš budget,
+tady máš jako MCPčka,
+letušky a těchto
+a bookingu.com a pošle mi, co
+si zabukoval a rovnou jako udělej
+všechny ty citlivý akce
+typu bookings, tržení peněz
+atd. bez mý kontroly.
+Já bych to neudělal. A to
+jsem jako technolog, to jako já
+většinou tyhle věci dělám jako první, už z podstaty
+ty věci, protože to miluju. Ale prostě nemám
+tu důvěru, protože
+vím, že ve chvíli, kdy on něco nenajde,
+tak začne halucinovat a
+zažil jsem to mnohokrát, kdy
+mně něco přišlo divný. Říkám, ty vole,
+tahle knihovna přeci neexistuje. A teď jsem ho začal
+jako challengeovat, až po tom říkám, no jo
+vlastně to jsem si vymyslel, což zase vede
+úplně k jiným útokům typu, že někdo si zaregistruje
+název téhle knihovny, aby mohl dělat jako
+security a taky atd.
+Ale zpátky k té otázce, jak
+teda bojovat s tou nedůvěrou,
+nebo ty jsi říkal, že za tři
+roky bude mít každý svýho agenta, ty by si opravdu
+mu dal kartu a řek jako, tak jeď.
+A jako
+projev se agente, třeba chci jít na
+dovolenou s manželkou a zaříť to všechno za mě.
+Přeci je tam nějaký limit, ne? Je tam limit,
+ale jako za mě
+už dneska, takhle,
+limit je to, že budu chtít tu transakci potvrdit.
+Jo. To je pro mě limit.
+Ale podle mě, že to najde,
+určí, vybere, když už to děláme
+dneska. Já prostě mu jako
+dneska řeknu, prostě najdi mi jako nejlevnější
+něco a on mi prostě jako prohledá
+internet, prostě jako něco mi dá
+a já to pravděpodobně, jako když mi to,
+když to není úplně jako mimo jako můj
+pocitovku, tak už to vlastně
+jenom zaplatím sám. Jo. Takže bys
+nechal poslat věci k potvrzení, ale
+ten approval bys mu nedával
+do rukou. To ne. Okej.
+Já jako myslím si, že to bude,
+možná jsem jetý bankou, ale
+za mě prostě tyhle věci, jako
+zatím, jo, jako si myslím, že jsou
+pořád na mě, abych je potvrdil,
+ale jako on mi najde tu cestu. Okej.
+Okej. Tak jsem rád, že já nejsem jetý
+bankou a vidím to podobně, takže to
+je to dobrý, je to dobrý. Prosím tě,
+celou dobu je to takový jako krásný pokec, všechno je
+koužový, George jede, peníze
+tečou. Já bych rád slyšel nějakej
+fuck up, kterej jste klidně od toho
+magického roku 2019 do teďka,
+kdy jste si řekli, tyve, to jsme fakt podělali,
+pojďme to rychle fixnout, nech si toho někdo
+všimne, nebo něco takovýho, musíš tam
+jít přeci nějaký, ve skříni ten
+kostlivest, tam musí jeden bejt, ne?
+To je zase škoda, že
+nenatáčí, teď jste měli vidět ten
+obličík. Na produkci si úplně
+nevybavuju, já jsem
+zrovna v tomhle jako hodně takový opatrný,
+ale pamatuji si, když jsme spouštěli
+penetrační testy na
+HeyGeorge, tak jsme
+jako to prostě spustili,
+Miloto měl to běžet
+asi první den, teda pět dní,
+a ten první den jsem si uvědomil,
+nebo uvědomil, prostě zjistili, že nám vůbec
+nefunguje právě ten Prom Shield, jo.
+Takže jsme první den byli
+prostě, ale jsem říkal, jako a co, máme pět dní,
+prostě oni už to testují, jo, takže jsme,
+ano, to byl slušný, fuck up,
+a naštěstí to bylo tak, že oni naštěstí první celý den
+jenom si připravovali scénáře a testy, jo, takže
+to bylo dobře.
+Naštěstí nepoužili AI, aby měli vygenerovaný
+testy rychleji, takže...
+Takže jako tohle byl fakt jako slušný
+zářez, kdy
+jako bylo to hodně jako o čase,
+ale... A to byl bug nějaký,
+nebo jenom jste něco, nebo zapomněli něco jako essential
+úplně? A víceméně to byl bug. Jo.
+Takže se to dalo relativně rychle.
+Jo, jo, my jsme to vlastně ten den jako opravili, jo.
+Ale prostě bylo takový, že jsme
+přišli ten první, já jsem to zkusil a...
+Nic! Vůbec se neblokovalo nic
+prostě. Já jsem říkal, no to ty
+penetráky budou mít dobrý výsledky.
+Ok, no tak to si myslím na druhou
+stranu, jestli tohle je to nejhorší, co se vám stalo,
+tak to máte docela krásně podchycený, to
+jako bych dokázal najít jiný horror story
+ze svých zkušeností teda, tak to je dobrý, tyjo.
+Tak pořád jsme banka, no.
+Potřeba ty věci jako fakt
+zkontrolovat.
+To je prostě daný. Je to tak.
+No tak pojď, Poli. No tak závěrem,
+já vždycky mám takovou závěrečnou úplně
+snou, ale kde tě, Karle, můžou
+naši posluchači vidět, slyšet
+a podotýkám, že dnes je 17. listopadu,
+je to tak, jo? Ano, takže
+doufám, že už necinká, kdyžka
+někde klíčem a já nevím, co se stalo od té doby,
+od molem do 17. Taky možná vše
+konec světa, jo, ale pokud to dneska
+posluchači slyší, tak kde by tě mohli dál slyšet?
+Je tam něco takového? Máš tam něco na závěr roku
+v plánu? Asi nemám nic
+takhle naplánovaného. My teď
+teda chystáme
+nějaké AI dny v rámci
+České spořitelny. Takže
+tam budeme určitě pro
+naše zaměstnance
+vlastně vidět
+a slyšet. Takže
+to je vlastně akce letošní
+rok a jinak asi nic takovéhohle
+vyložení specifického. Nic, kam bych se
+mohl infiltrovat, i když jsem externík.
+Nic takového neplánujete, jo? Tebe tam protlačíme
+domáku. No to já jenom zase po cestě vyhodím tři lidi
+na hodě, to je jasný.
+Ale nic pro externí teda nespořka
+nedělá teďka nějaký? Teď celé chvíli si nemyslím.
+OK, OK. Tak už jsou Vánoce
+za chvíli, že jo, když si to tak vezmeš.
+Tak já navíc spořka si teďka
+líže rány z toho podcastu live, co děláme,
+že jo, co jsme dělali. Jo, jo, jo, to je pravda.
+To je pravda, to je pravda. Jo, jo. Co jsme už
+udělali. Co jsme už udělali, ale teprve se na něj
+chystáme. Jo, jo, přesně tak. To je taková časoprostorová
+smyčka, dělá podcasty občas, no.
+Teď jsme hodně, hodně popředu.
+No tak jo, Karle, tak my ti strašně
+moc děkujeme, že jsi dorazil. Bylo to opravdu
+zajímavé povídání. Děkujeme. Děkujeme za pozvání.
+Doufám, že to bylo pro posluchače
+pochopitelné, protože to bylo hodně technické.
+Tak to máme rádi, ale. A oni to
+tak taky mají rádi, no. Tím se prakticky
+snažíme odlišit od zbytku
+a myslím si, že se nám to snad aspoň
+trošku daří. To bylo krásně řečeno.
+Karle, měj se fajn. Děkuju.
+Díky. Mějte se. Čau. Čau.
+Tak to byl
+Karel Svrček a jeho cesta
+do hlubin AI
+v České Spořici.
+Za mě teda úplně překvapivě
+skvělý. Já myslím, že se tady byl překvapivě,
+protože vlastně já jsem o Karlovi nic
+moc nevěděl. Viděl jsem, že to je
+tvůj kolega ze Spořice a řekl jsem
+si ty, tak jako, nebude to moc
+po povrchu, nebude to takový to jen jako
+brouzdáníčko prostě na hladince.
+A panáček přišel a rozjel
+tady jako těžkej deep dive a opravdu
+to krásně popsal. Podle mě
+pecká, řekl bych, jeden z top dílů téhle
+série, fakt super. Hele, jak říká
+můj šéf, Michal Řehák, a
+předchozí šéf, právě tady Karla Svrčka,
+Karel je contentovej, jo.
+Takže jako v podstatě, sice jako
+na úrovni domain leada, ale prostě hrozně
+je vidět, jak ho baví prostě
+potopit se a porachňat si v tom
+těžtíčku až úplně dole, jo.
+Takže to bylo super. Tak je to srdcem
+Cčkař, tak to už samo o sobě,
+co si napovídáš, že?
+Přesně tak, přesně tak.
+A zároveň je to podle mě i jako
+reklama na Spořici v tom, že
+přátelé, vy co tady pracujete,
+tak máte vlastně dopady na milion lidí.
+A Karel je tím jako krásným
+příkladem toho, jak to může pozitivně
+ovlivnit vlastně produkt, který používají
+opravdu jako obrovský, obrovský
+masylí. Já si teda dovolím
+nesouhlasit, pro mě jako to hlavní,
+ten hlavní benefit Spořice je, že
+podporuje nejlepší českej IT podcast.
+Jako to si myslím, že to je to hlavní.
+Tak to, musím souhlasit.
+Že vydělají na nějaký transakci pár korun,
+nechme bejt, ale tohle si myslím, že to je to
+hlavní. Beru zpět. Jo, dobře.
+Tak jo, tak to jsme fixli.
+Dobrý. No nic, přátelé, my jsme
+téměř na konci třinácté série.
+Před námi je poslední šestý
+díl, který vyjde, spočítej
+mi to rychle, přesně na konci, věď?
+No, to je, hele, tohle, no, čkej, tak,
+hezky. No, prvního,
+ježiš, Mariana,
+no to už bude advent,
+to už bude okusávat figurky.
+No to už se těším. Ježiš, to bude nádený.
+Milu cukru jí. Jo, pečeš? Ne, ne,
+já ho jenom jem. Jo, no já zapomeň, ty jsi ten
+ty, který cokoliv dělá, jak se o toho zraní.
+Obě ruce neví. No jo.
+Ale to si možná necháme na úvod
+toho příštího, posledního, závěrečného
+dílu, což bude teda i závěrečný díl
+tohoto roku, protože jsme vlastně letos začali
+ochloupek později. Je to tak. S tím
+vysíláním a s tím přetáčením,
+takže otázka je, jestli ještě stihneme
+do konce roku vystřelit
+čtrnáctku, nebo jestli si tu
+čtrnáctku necháme až
+na 2026. No samé otázky, přátelé.
+Uvidíme, uvidíme. No tak jo.
+Tak mějte se krásně. Mějte.
+A my se uslyšíme
+o adventu.
+Nemůžu se dočkat. Tak čau. Tak čau.

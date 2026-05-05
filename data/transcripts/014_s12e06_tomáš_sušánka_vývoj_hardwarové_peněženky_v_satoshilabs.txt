@@ -1,0 +1,1397 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Krásný den milí posluchači, vítejte u posledního dílu dvanácté série vašeho nejoblíbenějšího IT podcastu Pod vocasem.
+No a na úplném závěru nesmí chybět naproti mě sedící právě doběhnuvší ze spořice odkutinut Petr Polipolák.
+Samozřejmě Roman Džokor, provazník tu přátelé, nechybí, ale přece jenom je tu dneska něco jinak.
+Ano, dneska jsme totiž s Polim ve stejnou chvíli zjistili, že vlastně na tomto místě, v tomto studiu, po čtyřech letech, no to by the way, kámo, budeme mít čtyři roky v říjnu, když rozjedeme třináctou sérii, tak budeme mít čtyři roky.
+Takže po téměř čtyřech letech, po dvanácti sériích, na tomto místě natáčíme, vážení posluchači, naposledy.
+A ten důvod, já udělám takovou prasečinku, já vám to neřeknu, já vás natýzuji, ať si to buď přetočíte, což by byla škoda, nebo to prostě doposloukejte až do konce i s naším dnešním hostem.
+A v závěrečném vstupu to všechno vysvětlíme a možná i nastíníme, jak to všechno bude dál.
+Už teď se nemůžu dočkat.
+No, než tak se stane, co novýho?
+Co novýho, ale tyjo, minule jsem se docela vyčerpal, já teďka vlastně jsem v takovém období, už vlastně takovým skoro dovolenkovým, dojíždíme nějaký zásadní projekty a jeden velký dojíždíme, ale jinak nic takového zásadního. Co u tebe?
+No u mě já vůbec už jako dojíždím, což, jak jsme říkali, tam vysvětlíme až po našem hostovi.
+Nicméně, my vlastně v době, kdy tohle jde ven, tak už je léto, už jsou prázdniny, už vlastně teď v tohle dobu.
+Aktuálně mám dovolenou a užívám si, což je taková, jako samozřejmě je taková ta naši časová schizofrenie.
+Mě to na to by vidět ještě před tou dovolenou, to vypadáš fakt jako už od početě, pěkně.
+Ale už do toho módu naskakuju, už si, už chodím v kratě se, už si prostě, tak jsem takový jako letní, užívám si to, takže v podstatě už jenom taková ta příprava na to, aby jsme si vorazili na ten červenecrpen, udělali volníčko, protáhli mozkový buňky, nechali prostě všechno pěkně načerpat zpátky.
+No a pak zase velká jízda do třináctý série, já si myslím, že tak jako tak ji můžeme ohlásit, protože to, že bychom chtěli končit, když se podívám na ten backlog našich hostů, to samozřejmě to se nestane.
+Vlastně nebudeme končit i díky tomu, že máme neustálý support ze strany naší milované spořice.
+Je to tak, je to tak, dokonce vymýšlím nějaký bejkárny a to už bychom taky mohli pomalu poodhalovat, ale ještě si na to dáme takovou jako přípravu.
+Ale myslím si, že...
+Spořicí rozhodně nekončíme, ale začínáme.
+Je to tak. Jinak minulej díl měl fantastický ohlasy, my za ně děkujeme, samozřejmě Vítěh Hubený, to byl takový nový unfounterable české IT scény, hrozně mě to bavilo.
+Nedávno jsem si to zase jako dal některý ty úryvky a byla to s ním opravdu stranda, takže pak samozřejmě Poli i od tebe mě budou zajímat nějaký ohlasy přímo ze spořice, protože samozřejmě ten člověk je tam známej a najednou jsme ho takhle ještě vytáhli do IT světa.
+Nebo do podcastového IT světa a myslím si, že to, co tady říkal, že bylo velmi zajímavé a že určitě některé věci budou rezonovat i za horizontem třinácté série.
+Přesně tak, přesně tak, já si myslím, že se mají i spoříčí lidé na co těšit.
+Spoříčí lidé?
+Spoříčí, nevím, jak to je.
+Ale nejste na poříčí, ale ne?
+Ne, nejsme, nejsme.
+A to bylo vstipný, ale nejste sídleli na poříčí?
+Stěhovat se budeme, ale tam ne, člověče, to je škoda.
+Já vlastně vyděláte ten nový kampus.
+No, no, no.
+A těší se, kdy to bude?
+Ty vyděláte, to vypadá jako, že tam chodíme a to by, přátelé, nedopadlo dobře.
+Ale stěhovat se tam budeme 28 snad, to je úplně nějaký vlastně šílený, já si vždycky dělám srandu s týmem, že dřív jsme, když budeme náš warehouse do cloudu, než to takhle.
+Takže bude, než bude kampus, ale zatím to vypadá spíš na ten kampus.
+Já myslel, že je provokuješ tím, že půlka toho týmu tam stejně už nepůjde.
+Tak to ne.
+Kluci těšíte se, tak ty se netěš, ty se netěš.
+To není pravda, chtěl bych to tady dementovat.
+Jenom já si myslím, že je nejvyšší čas přijít pro našeho hosta.
+Dneska se budeme věnovat bitcoinům, což je něco, co ještě stále, si myslím, i v době, kdy už jsme na dovolených, rezonuje českou, nejen politickou, ale i technickou scénou.
+Je to tak, je to tak.
+My tady budeme mít CTO trezoru.
+Tomáše Sušánku.
+Těším se na to.
+Vlastně nevím, co o toho čekat, protože já už jsem to tady říkal, vlastně když jsme tady měli zástupce trezoru před zhruba před dvěma lety,
+že co se týče bitcoinů a těchto kryptoměn, tak já jsem v tomhle poměrně panic.
+Takže budu tady dělat zase toho blbečka, co se ptá na obvěz věci.
+No a já teda, chtěl jsem říct pár bitcoinů, tak takhle úplně přátelé.
+Pár bitcoinů máš.
+Měl do bitcoinů zainvestováno, takhle bych to obešel.
+Nyní jsem se teďka díky právě politické situaci dočetl, takže jdeme na to.
+Ve studiu s námi sedí náš dnešní host, CTO trezoru Tomáš Sušánka.
+Ahoj Tomáši.
+Ahoj, ahoj všem.
+Čau Tomáši.
+Tak je potřeba říct, my jsme to řekli v úvodu, ale ještě jednou to, proč to tu zopakujeme, že vlastně je to poprvé, co tu máme,
+no vlastně ne spořice, tady taky už měla pár zástupců, ale poprvé, co to není spořice.
+Ano.
+A je tu jiná firma, která tady měla zástupce už před dvěma lety, to tady byl Michal Sengr, se kterým jsme se pohybovali spíš na té frontendový vrstvě,
+co se tak pamatuju, nicméně dneska je tady Tomáš, který je CTO celého trezoru, to znamená, že de facto ty máš asi Michala pod sebou, ne?
+Je to tak, ano.
+Tak prosím tě Tomáši, představ se našim posluchačům, co všechno máš dneska na starosti v trezoru a jaká byla tvoje cesta do trezoru.
+Dobře, tak jo, tak já se jmenuji Tomáš Sušánka, jak už jsme říkali, lidi mi říkají Suši, což jsem vám zapomněl říct,
+protože Tomáš mi vlastně neříká vůbec nikdo, ale to nevadí a já jsem vlastně ve firmě Trezor z holdingu Satoshi Labs,
+už tam jsem vlastně osmým rokem, což je na naší firmu i na to krypto odvětví sto let asi tak.
+Slušný, slušný, dobrý držák.
+A vlastně jsem začínal, měl jsem takový ten klasický příběh, že jsem začal jako programátor, respektive programátor s nějakou kryptou,
+kryptografickou zkušeností a pak vlastně, jak se ta firma zvětšovala, tak já jsem se pak dal, vydal na tu manažerskou linku,
+kdy vlastně jsem začal vést ten firmérovej tým, pak vlastně větší nějakou část engineeringu a pak vlastně před třema a půl,
+čtyřmi lety něco takovýho jsem vystřídal vlastně našeho spoluzakladatele Pavla Rusnáka na té pozici CTO,
+takže to je nějaký takový můj příběh a ty jsi spal vlastně, který ty týmy vedu, no tak je to vlastně veškerý ten engineering,
+to znamená je to opravdu, je to vlastně od toho hardwareu, jako toho zařízení, protože my vlastně vyrábíme hardwareovou peněženku,
+to znamená je to nějaká fyzická věc, tak vlastně ten hardware, pak je ten firmware, který běží na tom hardwareu,
+pak je tam vlastně software, který vy si nainstalujete na počítač, takzvaná Trezor Suite, která ovládá to zařízení,
+no a pak tam jsou nějaký vlastně týmy kolem, což je přesně Trezor.io, náš e-shop, kde právě přesně Michal Sengr teďka ten frontendovej e-shopovej tým vede,
+měl IT, QA, security, no asi všecko, R&D, to je vlastně přesně jako kryptografie a tak, takže vlastně všechny ty technické týmy jsou pode mnou.
+A to je poměrně dost do šířky teda, jakože většinou CTO bývají, že jsou třeba softwarový a tam jsou velmi silní v kramfletcích, ty to máš i s tím hardwarem, jak jsi s tomhle dostal člověče?
+No to je dobrý dotaz, protože my vlastně obecně i jako firma, my jsme, jako dřív jsme dělali takový vtípek, že jsme softwareová firma, která omylem dělá hardware.
+Že opravdu před těma deseti lety, nebo já nekdy, to vlastně vzniklo, že kluci spoluzakladatelé jako nebyli nějaký kovaný hardwareisti, nebo prostě, že by vyráběli věci, nebo tak ne, oni prostě byli gíci, který klasicky, mám pocit, že všichni tíhneme spíš k tomu softwaru, ale vlastně viděli přesně ten product fit, nebo viděli tu myšlenku toho, že ty klíče k těm kryptověrám musí být uložený ideálně na nějakým speciálním zařízení, který prostě máte v šuplíku a nemáte to na počítači, je to celý jakoby
+zvořit ten hardware, jo. A úplně v začátcích to bylo hodně outsourcovaný a my jsme pak vlastně před, já nevím, třema čtyřma lety, něco takovýho, vlastně začali tu, toto know-how mnohem víc a víc tahat prostě do té firmy, kde jsme si prostě uvědomili, že od nějaký velikosti už vůbec nedává smysl tyhle věci outsourcovat a i pokud chcete, aby to mělo ten look and feel, aby to opravdu vypadalo jako Apple v úvozovkách, nebo aby to opravdu vypadalo i designově skvěle, tak všechny ty lidi musí mít in-house.
+Takže já vlastně, můj background je software a ta bezpečnost, já jsem i studoval vlastně počítačovou bezpečnost a jako mám nějaký background jako by v kryptografii a ten hardware jsem se tak jako nějak naučil ve firmě, jako jsme se ho naučili všichni, protože prostě jsme nabrali lidi, který tomu rozumějí a prostě jsme se to jako naučili, mám pocit, no, protože prostě ten svět je fakt jiný.
+A kolik to je teda lidí pod tebou versus kolik lidí má celý trezor?
+No já už si ty čísla nepamatuji, ale pod sebou mám plus minus 60 lidí a celý trezor má nějak lehký.
+Ještě pod 200, my ještě vlastně řeknu, my jsme takový vlastně, Satoshi Labs je holding, který v sobě má čtyři firmy, kde trezor je ta největší, pak je tam vlastně ještě Invity, který řeší vlastně nákup, prodej, Tropic Square, což je vlastně firma, která vyvíjí svůj vlastní bezpečnostní čip a pak je tam ještě Vexel, které což je vlastně jako na prodej a nákup jako peer-to-peer bitcoinu a těch je třeba dohromady 50, 60, takže plus minus 190 trezor, 60 lidí třeba ty ostatní firmy, no.
+Ty jsi říkal, že máš vlastně formální vzdělání, jak v bezpečnosti, tak v kryptografii, co tě na tom jako přitahuje, to není úplně, řekl bych, standard, když porovnám ty lidi, co sem chodí za těch 12 sérií, tak málo kdo byl takovej jako securityák by heart.
+No jako mě to vlastně bavilo asi vždycky, jako já jsem vlastně to studoval na ČVUTu, kde na ČVUTu vlastně jako na FITu, na fakultě informačních technologií, kde vlastně ten bakalář byl hodně obecnej,
+tam vlastně to nebylo a pak magister byl vyloženě zaměřený na počítačovou bezpečnost a i to vlastně teďka pokud vím před, no ono už je to asi hodně let, ale vím, že to pak nějak pomimo odchodu změnili, že už je ten bakalář, jako je bezpečnostní, což je docela fajn.
+A abych odpověděl na tu otázku, hele já fakt ne, mě vlastně to zajímalo už vždycky, jako mě zajímalo tak jako ten svět hackingu a bezpečnosti a všech těch takovýchhle těch věcí, takže já jsem k tomu vždycky inklinoval nějak jakoby vlastně předem.
+A stál jsi někdy na druhé straně, že jsi ty věci zkoušel jako hackovat a tak na začátku třeba v mládí?
+Jo, tak jako děláš se nějaký blbosti už na základce a tak, ale jako to jsou takový úsměvný věci.
+Nic, co by nám odstranilo ministra, jo?
+Tak, tak, tak.
+Dobře, prosím tě, já už jsem to tady několikrát týzoval, samozřejmě budeme se bavit i kromě jiného o bitcoinech, ale vůbec než se na to krypto vrhneme a já jsem to říkal, že pro mě to není úplně můj obor, tak bylo by dobrý jaký opáčko nejen pro posluchače, ale především i pro mě.
+Tak prosím tě, co je to kryptoměna, jaký měny existují, obře, víme, že to není jenom bitcoin a ty hlavní výhody a nevýhody, proč to vůbec existuje?
+Jasně.
+A já si začnu bitcoinem, protože vlastně chronologi.
+Chronologicky nejdřív vzniknul bitcoin a pak vzniklo to všecko v ostatní, takže vlastně bitcoin vzniknul 2009, něco takového, 2010, 2008 myslím, ten white paper 2009, ta sítě, ta jedno a vlastně to vzniklo jako nestátní decentralizovaný peníze, to je taková definice, kterou my máme nejraději, ono mimochodem, ať se zeptáte jakýhokoliv bitcoinera, tak vám každý řekne něco jiného a pak půl hodiny koktá, protože ono to vysvětlit je prostě na díl.
+Jsou to decentralizovaný nestátní peníze, což znamená prostě klasický koruny nebo eura, že jsou uvládaný nějakou národní bankou, u nás je to ČNB a podléhá to prostě, že inflaci a veškerým změnám, který se na tom buď na trhu nebo od ČNB nějakýma intervencema jako dějou.
+No a to bitcoin nemá, bitcoin má vlastně fixně danou supply chain, jako fixně daný, kolik těch bitcoinů bude, bude jich 21 milionů, nikdy jich nebude.
+Prostě víc a to znamená, že vlastně ty inflaci, ten bitcoin jakoby, že se ho netýká, což vlastně má spoustu, ono to zní docela jednoduše, ale má to spoustu vlastně implikací, že to je pak skvělá, něco skvělýho pro spoření, to znamená my teďka hodně mluvíme o tom, že bitcoin je opravdu ten ideální spořící účet, co můžete mít, pokud samozřejmě jste ochotný vzít nějaký rizika, bude furt to jako volatilní a zároveň to bylo už v začátku míněný jako peer to peer,
+to znamená klasický zaplacení mezi lidmi, tam vlastně tady ta vize toho placení tam je taky, ale ukazuje se, že prostě ty poplatky jsou dost drahý, to je vlastně za co je bitcoin jako hodně často kritizovaný, že vy si chcete zaplatit rohlík a zaplatíte za to nevím 50 korun poplatek, tak to samozřejmě pro rohlík nedává smysl, ale když transferujete miliardu a taky vás to stojí 50 korun českých a posíláte to buchvíkám,
+tak najednou to jako.
+Takže ono je tam i ten úzký z toho placení, ale my stejně nejraději mluvíme o tom spoření, protože opravdu v dnešní době, když lidi si chtějí spořit, tak já nevím do čeho spoříte vy, ale typicky akcie, nemovitosti, takže víte kolik z té nemovitosti v Praze, jo jako vlastně těch možností za stolik není, já myslím, že bitcoin tam má skvělý místo.
+A ten současný stav bitcoinu, jak bys to popsal, je to už etablovaný aset nebo je to pořád experiment, protože teď už je to v podstatě terminus technikus pro kryptoměny, já bych řekl, že už je to etablovaný, ale jak to vidíš ty?
+Já myslím, že tady strašně záleží, jako koho se zeptáš, no jako pro mě už je to etablovaný, protože se o to zajímám opravdu dlouho a i ve firmě v Trezoru jsem jako opravdu dlouho, takže pro mě už je to etablovaný aset, ale zároveň chápu, že pro lidi, který jako k tomu přicházejí úplně nově,
+tak úplně totální novinka, jo, takže hele je to hodně relativní, no, myslím si, že opravdu záleží na úhlu pohledu.
+A když se mrkneme na nějaký výzvy, řekněme pro ten Bitcoin jako takovej, je tady něco, co pořád ty vidíš třeba i technicky, že není vyřešený, dobře, když pominu ty transakční fíčka, tak nějaký, já nevím, škálování, regulace, pořád bezpečnost třeba kolem toho není nějak dobře vyřešená, nevím, cokoliv, jo, kecám, je tam něco, co vidíš rovnou, že by se dalo ještě vylepšit?
+Že ta regulace stojí jako trochu mimo, protože prostě regulují se burzy, regulují se vždycky, což dává smysl, ale neregulují se Bitcoin jako takovej, což ono v důsledku je to velmi podobný, ale můžeme se k tomu pak vrátit.
+A jinak vidím takový dva největší hrozby, zapravo je to škálování, protože opravdu se ukazuje, že kdybychom chtěli Bitcoin z pohledu těch pladeb, ale vlastně i toho spoření, protože taky si to musíte někdy jako koupit, tak to prostě neškáluje na celý svět, takže to je problém, který ta komunita se snaží řešit.
+A pak druhý téma, do kterého nevím, jak hluboko chceme zabředávat, jako jsou ty kvantový počítače, kde já jsem vlastně o tom teď někde mluvil a tam je to takový, že to není nějaký iminentní riziko, my jsme opravdu stále jako velmi na začátku, ale ty dopady, kdy až někdo bude mít nějaký relevantní kvantový počítač, by mohly být opravdu velký, nejen teda pro Bitcoin, vlastně pro celý internet, takže to je něco, na co by se Bitcoin pro nás měl připravit taky.
+Takže tohle myslím, že jsou takové dvě hrozby, které nás čekají.
+A jenom prosím tě, v čem je to riziko u těch kvantových počítačů?
+To jsem se chtěl taky zeptat.
+Tam vlastně ty relevantní kvantový počítače, které teď zase opakují, že vůbec ještě nemáme, jsou takové první vlaštovky, ale vlastně docela se to zrychlilo, ten vývoj, tak oni jsou vlastně schopní zlomit tu kryptografii těch digitálních podpisů.
+To znamená vlastně ten algoritmus, ať jako RSA, ale to v Bitcoinu není, nebo ECRSA, to je jedno, prostě tady tyhle ty algoritmy, ty kvantový počítače, existuje prostě speciální algoritmus, který je na ty kvantový počítače, který umí zlomit tady tyhle ty algoritmy, kterýma se zabezpečuje Bitcoin.
+A mimochodem je to všude, to je vlastně i v HTTPS, tak to všechno, tam jsou taky digitální signatury, ono se to týká i výměny klíčů, jako prostě vlastně tu kryptografii to docela jako ničí.
+A já jsem vlastně už přesně nakládal.
+Na škole jsme se o tom bavili, ale před těma, nevím, patnácti lety nebo kolika, tak to opravdu, to bylo v kategorii, toho se asi nedožiju, jako nějaký sci-fi, nebudem o tom moc mluvit.
+Ale teďka vlastně opravdu za těch posledních deset let se to docela posunulo, že furt to není jako moc relevantní, ale jako bym si představil, že už se toho dožiju a za deset, dvacet jako let to jako asi téma bude, no.
+Takže vlastně je to téma i pro internet jako takovej.
+A chápu to teda správně, že to riziko je takový, že ty algoritmy, které jsou založený na té náročnosti vypočítání, která je vlastně jako teďka aktuálně třeba čas ve smíru, kdyby jsme to najednou dokázali vypočítat za dvě hodiny, takže vlastně veškerý tohleto, jako tenhle gate padne a všechno je vlastně napadnutelné.
+Ano, víceméně ano.
+Ok, ok, tak to chápu správně.
+Je tam pak spoustu jako podmínek a čeho se to týká, čeho se to netýká, ale jako ve stručnosti ano.
+A od něj vlastně existují už jako jsou vyvinutý takzvaný postkvantový algoritmy, což jsou algoritmy, které běží na normálních počítačích, ale tady ten algoritmus na těch kvantových počítačích jakoby na to nepůsobí.
+Jsou to normální algoritmy, které jakoby fungují na normálních počítačích, ale neexistuje zatím na ně žádný známej útok na těch kvantových počítačích.
+A to už mimochodem vlastně i NIST, jako Americký National Institute Standardization, nevím co, tak vlastně už standardizovala asi pět algoritmů.
+To znamená už jako opravdu vědci na tom bádají posledních, nevím, třicet let.
+A jako vlastně se to posouvá a třeba jestli znáte Cloudflare, tak ten vlastně teďka zveřejňoval nějaký statistiky a už myslím, jestli se nepletu, třicet procent jako internetovýho trafiku přes ně už běží přes tyhle postkvantový algoritmy.
+Takže vlastně o tom ani nevíte a stejně je to normálně v rámci už TTP se Cloudflare jako za vás vyřešil.
+Takže ono se to jakoby posouvá, jenom je to jako něco, co nás asi čeká.
+No my máme, vidíš, tady podcastový stránky, ty normálně jsou na Cloudflare, DNS, takže už to používáme.
+My jsme první, my jsme první.
+Dobrý, takže Bitcoin bude možná problém, naše webovky ne.
+Čili tvoje máma a moje, co tam lezou.
+Já jen to řeknu.
+Hele no, vlastně mi to dává dvě zajímavé informace, nebo dva pohledy.
+Tak ta jedna je teda, že já jsem se chtěl zeptat vlastně, a Románek už to trochu říkal, jako kde to technologicky je.
+Protože já vždycky, když jsem si po Bitcoinu čet, tak si říkám, hele, to někdo vymyslel v roce 2049, si říkal.
+A přece, jako, jo, jako, že ta technologie vydrží jako leta, to jsem si říkal, že není vlastně možný.
+Ale je to daný tou kryptografií, že vlastně je to nastavený tak, že vlastně první, kdo by to mohl rozbít, je ten kvantovej počítač.
+Chápu to zjednodušeně dobře?
+Jo, jako, jako teoreticky tam nějakej bagísek, jako, bejt může, jo, jako může, ale vlastně tam byly nějaký, jako, chyby v začátcích, ale to opravdu, já nevím, podle mě poslední byl třeba těch 2.13, 2, ještě, ještě dřív asi, jo, nepamatuji se, ale při nejmenším posledních deset let tam nic takovýho není.
+A ono to je v tomhle, z tohohle pohledu je to vlastně fascinující, že to opravdu, jako do určitý míry se napsalo, jako, kdysi, jako od té doby to běží, protože ten uptime samozřejmě, říkám, není stoprocentní, protože někdy úplně na začátku to, jako, kykslo, ale pak prostě od té doby vlastně, jo.
+No a je na tom vlastně fascinující, že, že opravdu to běží a co já jsem chtěl říct je, že on ten Bitcoin je, jako, extrémně konzervativní, tam vlastně, jako, a teďka mě půlka firmy ukamenuje, jo, ale vlastně spoustu, ten vývoj je extrémně konzervativní a za stolik se toho tam neděje, jako, není to úplně pravda, jako, furt, furt tam, jako, přijívají nové věci, ale jakmile se tam stane něco, s čím by jenom malinko někdo nesouhlasil, tak už ho typicky ukamenujou a, jako, většinou se to, jako, ne, jako, neposune, co znamená, co se,
+má být, opravdu, ta největší, jako, konzerva, co, jako, to nejvíc konzervativní, jako, médium, protože už je v tom, jako, velmi spoustu peněz, takže je to vlastně, jako, dobře, ale co se tím snažím říct je, že, jako, ten, ten vývoj je opravdu velmi, zase to řeknou, konzervativní a tím pádem, vlastně, mám pocit, že tam není takovýhle těch rizik, že by se to nějak, jako, pokazalo moc, jo, že to není, jako, my, když prostě něco programujeme a takový ten ship fast, nevím, jak se to říká, fail fast, tak to tam logicky, jako,
+jako, investor a to je ten druhý bod, který jsem chtěl říct, tak je dobrý vědět, že až, až kvantový počítače budou, jako, tady, za dveřmi, tak je dobrý, jako, začít přemýšlet, co s tím bitcoinem dělat, jo, nebo reálně uvidíme, co tou dobou se bude dít, jestli tady ty, jak jsi říkal, jak jsi říkal, postkvantový algoritmy, tak, tak, jak má to zareagovat.
+Jo, ale zároveň ještě řeknu znovu, jako, je na to fakt čas, jo, tak to opravdu je něco, co můžeme říct za 5, 5, 10, 20 let, aby přesně, aby posluchači nezačali, jako, prodávat teďka, jo, ale, vlastně to jsem chtěl jenom říct, že opravdu nás to čeká jenom do budoucna, ale, jako, zmiňuju to, že mám pocit, že se toho dožijeme, že to není nějaký, jako, sci-fi, jo, což se trošku, jako, změnil ten pohled na to a ono zároveň i, jako, v bitcoinu i je teďka nějakej, tam jsou ty BIPy, to je Bitcoin
+který přesně má Cloudflare a všechny ty, to je vlastně furt ta stejná sada, jo, to není, že by Bitcoin si vymýšlel nějaký nový, jako, digitální podpisy, my prostě použijeme ty standardizovaný, jako by, co jsou, jako by, na světě, takže, jako, ono se tam taky posouvá jenom, jako, tím, jak je to médiu, jak je to, jako, jak je to strašně konzervativní, tak to bude trvat, prostě, dalších 10 let, jo, ale nemám z toho strany.
+První slovo konzervativní tam zní, jako, stabilní, to je takový, to má, jako, příjemnější konotace.
+Jo, jo, jo, přesně, přesně, a vlastně takhle já i na tu investici koukám, jo, vlastně, já už ji dneska neberu, jako, rizikovou, jo, dobře, ono se to může stát, ale to se může stát s čímkoliv, jo, takže já to vlastně beru, jako, super pilíř.
+Ty jsi ještě zmiňoval jednu věc, že, vlastně, jich je neustále fixní, nebo, že jich je ve finále, jich bude, až se to ukončí, to těžení, tak bude, vlastně, 20 na milionu, jsi říkal.
+Řeší se nějak to, že támhle nějakej týpek na smetištích má tři tisíce někde, prostě, tři metry pod zemí, nebo, že nějakej náš, právě, z vězení vyleznuší hekre, jako, už nedostane od státu, že se vlastně, jako, že se ztrácejí, vlastně, ty bitcoiny, jo.
+Řeší se to nějak, nebo to se bare, že to je prostě shit happens, a jdem dál.
+To je, jako, to druhý, no, jako, neřeší, protože moc není, jak to řešit, jako, vím, že, nevím, kolik těch, nemám teďka nějaký aktuální čísla, ale taky to vygooglíte, ale jsou to miliony, že už, jako, se vodaduje, že už jenom milion bitcoinů je, vlastně, Satoshi Nakamata, což je, vlastně, ten vynálezce, jako, bitcoinů, s největší pravděpodobností už není, nebo, jako, neví sebe, jak to s ním dopadlo, ale ty coiny se, vlastně, nehejbaly od té doby, od toho roku, jako, 2010, 11, něco takového, možná později
+No, takže, těch, těch bitcoinů, který jsou takhle spálený, nebo který, jako, to je, vlastně, relativně hodně, no, já myslím, že to může být klidně 3 miliony, něco takového, a, jako, neřeší se to, no, jako, říká se, že, vlastně, když spálíte, přesně, jak ten chudák, jak ztratil ten disk někde v Anglii na skládce, tak zvyšuje hodnotu nám všem ostatním, když se spálí ty bitcoiny
+Každý má historiku, jak měl bitcoiny a jak je někde ztratil, takže, takže, to není, jako, klasický měny, že, tak, nám schořel sklad, vyrobíme si nový, s masarykama, tak vytisneme nový, jo, přesně, přesně
+Ale co bylo zajímavý, dneska ráno jsem poslouchal podcast k tomuhle a tam novinár říkal právě, samozřejmě, v kombinaci s tou politickou kauzou, že existují firmy, který dokážou, jako, označit určitý bitcoiny za, on říkal, červený, šedý, zelený, zelený znamená, ty jsou OK, červený, nějakej, jako, problematický deal se zatím odehrává a šedý nevíme, jak tohle funguje?
+Tam, vlastně, na ten bitcoin, což jsme, vlastně, neřekli, má takzvaný blockchain, kde se ukládají veškerý ty transakce.
+To znamená, já, jakmile pošlu tobě jeden bitcoin, nebo prostě něco takovýho, tak je to vždycky uložený v databázi, která je na celý svět, jakoby, vidět, jo, to znamená, celý ten blockchain je opravdu plně transparentní a je tam vidět, že z téhle adresy na tuhle adresu se poslal jeden bitcoin.
+A proto se občas říká, že bitcoin je takzvaně pseudoanonymní, protože vy, jakoby, vidíte veškerý tyhle ty transakce, vidíte ty adresy, ale nevíte, jako, čí ty adresy jsou, jo, ale jakmile jste schopni udělat, že řeknete tady ty adresy.
+Jestli jsou nějak asociovaný s nějakým nelegálním tržištěm, nebo jsou asociovaný s nějakou burzou legitimní, tak jste schopni pak trasovat, kudy to, jakoby, teče ten bitcoin, jo.
+To znamená, že opravdu přesně pak jsou, jako, nějaký analytický firmy, který, který to takhle označkujou a jsou schopni říct, jako, jestli je to čistý, anebo, nebo to má nějakou, jako, podivnou historii.
+Já myslím, že ty jsi poslouchal podobný podcast, jako já, kde to vysvětlovali, že vlastně tím pádem, když se takhle označejí, tak je docela těžký, byť se říká, že, nebo, vždycky se říká o bitcoiny, to tam si uleješ černý prachy, to je úplně easy, že jednoduchý je převízt, ale když je to jednou, jako, označený, tak…
+Jednou máš cejch?
+Jednou máš cejch, tak prostě na regulovaných burzách nemáš šanci to vytáhnout, i kdyby ti nějakej českej advokát řekl, že viděl screenshot a že to považuje z hlediska práva za čistý, tak vlastně ta burza řekne, ne, sorry, hoši, takhle to tady nefunguje.
+Možná můžeš to nějak, tu kauzu, která tady proběhla, nemyslím tu politickou část, to nechme bejt, ale tu technickou, co teďka proběhlo českýma médiama a co se teďka samozřejmě ještě pořád řeší, nějak to jako se sumírovat, možná i třeba tam vypíchnout ty výhody toho bitcoinu.
+No především, z jaký strany to vzít, protože, jak takhle, já z toho vím to samé, co je v médiích, já k tomu vlastně nemám žádný info, protože díky bohu od nás je to jako hodně daleko.
+Možná jako dvě věci k tomu mám, jako zaprvé je fakt úsměvný, že stát po těch jako kryptofirmách chce přesně tady tu ochranu, tuto AML, to znamená anti money laundering, to znamená prostě nějaký, jakoby proti praní špinavých peněz, prostě chce spoustu jakoby pravidel, jo, prostě tlačí, nás se to naštěstí netýká, protože my jsme jako jenom výrobce hardwareu, ale přesně těch některých těch sexterských firmy ano.
+A vlastně jedna se teďka přesně snaží o tu myku, což je vlastně ta regulace z Evropské unie, burzy to mají, prostě jako ten stát tlačí ty firmy do toho, aby dělali, aby prověřovali ty transakce a přesně aby, když ty tam prodáš nějaký bitcoin, který je šedivej, nebo červenej, nebo černej, nebo prostě nějaká ta špatná barva, tak ti prostě řekne, hele, sorry, ne, jo.
+A jako ono to opravdu není úplně sranda pro ty firmy, jo, ono to není úplně jako zadarmo implementovat všechny tyhle ty procesy, teďka ta myka, jako vím, co to obnáší, jako jakmile nemáte nějaký základní kapitál a jste firma o jednou, dva, tři, čtyři lidech, tak vůbec nemáte plně šanci tím projít, protože je to prostě obrovský jako by moloch, který jako vy musíte splnit, takže to jako je docela jako regulovaný prostředí teďka a opravdu to klade na ty firmy docela velký požadavky, no a pak prostě státu,
+něco připluje a on si řekne, no tak dobrý, tak tady to, tady máme miliardů pro ministerstvo a dobrý, no tak to je jako, to je úsměvný a to mě jako trošku štve a ještě druhá věc sezóny je to na ten Bitcoin jako háže prostě špatný jako světlo, no, což prostě mě mrzí, protože teďka zase měsíc zpátky jsem seděl v kavárně a nějaký dva postarší pánové se tam jako rozčilovali, jak ten Bitcoin je celý podvod a něco ble ble ble a to mě pak jako mrzí, no, protože já opravdu mám pocit, že Bitcoin je to aktivum, který může spoustě lidem,
+ochránit a jako chrání prostě to spoření, aby prostě lidi mohli si spořit do toho peníze, aby je prostě inflace jako neokrádala, no a pak přijde tato kauza a zase jsme prostě za kriminálníky všichni, no, tak to mě jako štve.
+– Zase na druhou stranu, třeba určitým lidem, a já jsem jeden z nich, to vlastně osvětlilo to, že ne, že ty prachy se z toho nedají tak jednoduše vytáhnout, jako jsem si myslel, že se dají, jo, třeba já jsem vůbec netušil o to, že ty transakce, vím, že samozřejmě se dají vytrakovat až na začátek, ale že ve chvíli, kdy jsou zabarvený, tak s tím je jako regulérní průšvih to fakt jako vytáhnout ven.
+– Je to tak, je to tak.
+– O tom se nemluví třeba, nebo nemluvilo do té doby.
+– Jo, jo, a vlastně přesně, jako vlastně na nějaký nekalý prostě věci se používá hotovost, prostě furt, jako je mnohem častější, že vezmete kufřík prostě s milionama a prostě ho někomu přidáte, protože to není trasovatelný, zatímco bitcoin je, jo, to i veškerý ty, jako nějaký tyhle ty analytické společnosti říkají, že prostě ta ilegální aktivita je drtivá minorita, jako použití bitcoinu, jo, že to je méně než procento.
+Já si nepamatuju ty čísla, takže nechci, jako by úplně říkat nějaký konkrétní procent, ale.
+– Je to prostě úplně pidi a hotovosti prostě výrazně, výrazně víc, no.
+– Než se možná vrhneme na trezor jako takovej a na, řekněme, i nějaký jako hardwareový záležitosti, já jsem ještě, když jsem se připravoval, tak jsem našel termín Lightning Network v souvislosti s bitcoinem. Vůbec nevím, co to je, můžeš to ve zkrátce vysvětlit?
+– Jo, tak my vlastně jsme zmiňovali to škálování, že naškálovat bitcoina úplně celý svět je jakoby problém, tak vlastně Lightning a pak jsou ještě i nějaký další věci, tak jsou vlastně jako nějaká, jako nějaká metoda toho, jak tohle to vyřešit, to znamená, Lightning je takzvaná druhá vrstva, kdy vy si na bitcoinu uděláte klasickou transakci jakoby jenom jednu, čím si je takzvaně otevřete kanál a pak vlastně v rámci toho kanálu můžete přes ten Lightning posílat, jak často chcete, jo, takže je to vlastně.
+– Aha.
+– Jak to vysvětlit, je to, jestli občas platíte třeba Revolutem, nebo já nevím, prostě přes QR kód, nebo já nevím, co teď, nebo klidně vlastně přes kartu, tak je to něco podobného, co je postavený prostě nad bitcoinem, jo, takže vy vlastně, aby když si platíte ten rohlík, tak abyste nemuseli platit 50 korun na fíčkách, no na poplacích, tak vlastně si otevřete jeden kanál za těch 50 korun a pak v rámci toho kanálu platíte, prostě jak dlouho vás to baví.
+– Takže pro boomery vlastně, když vezmete sluchátko, vytočíte na tom číselníku to číslo a teď si povídáte, tak vás to stojí 50 korun, ale si můžete povídat, jak dlouho chcete.
+– Jo, jo, jo, jasně.
+– No, přesně tak vlastně, to je docela kránovaký.
+– Takový paušálek, takový paušálek.
+– A tam vlastně ještě, že nádodám, tam jsou jako jiný problémy, jo, tam vlastně se musí řešit ta likvidita, aby v tom kanálu byl vlastně dost peněz, to znamená, že třeba, když to jde jenom jedním směrem, ono se to tak jako vyvažuje, takže jsou tam nějaké problémy, zároveň vlastně se ukazuje, že tohle není to ultimátní řešení, protože i když byste měli to otevření kanálu na tom blockchainu, já myslím, že to je složitý, jo, takže kdybyste otevřeli ten kanál jednou měsíčně, otevřeli nebo zavřeli na
+tím, že furt to jako neškáluje prostě na ten celý svět, takže furt je to, furt to není vlastně jako by ono, přestože lightning se už vyvíjí docela dlouho, nějak to funguje, můžete na Alze platit lightningem, můžete přes kvérko, jako když jdete na oběd platit přes lightning, takže jako funguje to, já jako přes to platím, jenom je to vlastně docela složitý a ta adopce je pomalá, no, takže se jako sami my bitcoineři tak nějak očekáme, co bude, no, jestli to nahradí něco jinýho, nebo.
+– Takže takový jako ARK, Fedimint, to jsou další tyhle, ty lightning network technologie, nebo řešení?
+– Říkávám, že to jsou penízky, takže jako je to kastodil, tak se pak může ten settlement dít mezi tím přes ten lightning, takže je to takový všechno jako zamíchaný dohromady, je to hodně ještě brzo, na všechny tyhle technologie, tak trochu jako vyčkáváme, co z toho bude, no.
+– Tak co ty dneska vnímáš jako největší bezpečnostní rizika při uchovávání kryptoměn mimo centralizovaný burzy, když se dostaneme do toho téma trošku hloubš?
+– No, já možná vlastně ještě uvedu, co, nevím, jestli jsme to úplně dostatečně řekli, co je ta hardwareová peněženka. My vlastně jako Trezor vyvíjíme teda speciální zařízení, můžou si to posluchači představit jako prostě USB flešku, jo, je to prostě větší USB fleška s displejem, a která vlastně uchovává ty privátní klíče k těm kryptoměnám, jo, to znamená vlastně typicky, nebo hodně spousta lidí má kryptoměny na nějaký centralizovaný burz,
+nebo někde tam, ale tam za vás ty klíče drží prostě ta entita logicky, to znamená, když zkrachuje, nebo to někdo prostě vytuneluje, nebo prostě FTX, že jo, to je vlastně rok, dva zpátky, že to není zas tak dávno, prostě dějou se případy, že s tím jako pak někdo jako zmizí.
+Zatímco tady opravdu na Trezoru vy vlastníte ten Trezor a vy vlastníte ty privátní klíče, my k těm kryptoměnám vůbec nemáme jako přístup a vlastně vy sami jste zodpovědní za to vlastně mít ty kryptoměny tam.
+Což se přesně teďka váží k té otázce, jako já vlastně největší, jako největší nějakou trhlinu nebo největší problém, co furt vidíme je ten phishing, no, jako vlastně phishing je něco, s čím se potýkáme dnes a denně, furt vlastně nám a nebo našim zákazníkům, ale celýmu kryptoindustrii chodí prostě phishingový, phishingový e-maily, kde prostě tam je, co jsem vlastně taky neřekl, vy když dostanete tu adverovou peněženku, tak vy, když ji inicializujete, tak vy dostanete 12 anglických e-mailů.
+12 anglických slov, který si napíšete na papírek a tyhle ty slova pak vlastně slouží jako záloha k tomu, abyste se k těm kryptoměnám pak zpátky dostali, to znamená, když se vám ten trezor rozbije nebo ztratíte, vy si koupíte novej trezor nebo klidně i konkurenci, to je jako by vlastně docela industry standard, tak vy ty slova vezmete, strčíte to prostě do toho trezoru novýho a máte je tam zpátky, jo, tohle je vlastně i něco, co my jsme jako firma vymysleli úplně dávno na těch začátcích, pak se z toho stalo vlastně docela industry standard, jako je to
+zálohu, je to paráda, já než jsem do trezoru jako nastoupil, jak jsem si furt lámal hlavu, jako jak to s tou zálohou dělaj, jo, úplně jsem si říkal, stejně to nahrávají někam do cloudu, to je celý blbost, ale ono není, vy si opíšete ty slova a ono to pak vlastně deterministicky všechny ty adresy se z toho odvodějí.
+Z těch dvanácti slov, jo.
+Ale je to opravdu vlastně strašně zajímavé, že vy vezmete těch dvanáct slov, nebo i kdyby my bychom zkrachovali, tak vy furt prostě máte těch dvanáct slov a můžete to dát do naší konkurence nebo vlastně kamkoliv, jo, takže to je v tom dost unikátní.
+A bych konečně jenom odpověděl na tu otázku, tam je vlastně ten problém, ten phishing, že když vám někdo napíše jako e-mail a řekne vám, tohle jsme fakt my, Trezor, jako mrk mrk, tady nám pošli dvanáct slov, tak my vy v momentě, když těch dvanáct slov, tu zálohu tomu útočníkovi pošlete, tak prostě máte smůlu, protože to celý zmizí, no, takže tohle je něco, s čím jako bojujeme, snažíme se i vlastně z toho produktový, jako z toho produktovýho pohledu, jak to jako řešit, že by byl nějaký produkt, který by
+byl nesadeně, no, na našem supportu, že to někdo, bohužel, pošle, že tyhle slova předá a pak je to v háji, no.
+To jsi úplně nahrál na další otázku, jaký je vlastně bezpečnostní setup, tak, jak by to mělo vypadat, když ty bitcoiny mám.
+Určitě říkáš dvanáct, já vím, že já mám třeba, mám váš Trezor a mám dvacet čtyři, vokolik je to lepší a jak bys vlastně doporučil, že si to má člověk jako nastavit, aby to bylo co nejvíc safe?
+Můžeš je říct?
+Jo, já to pak napíšu mailem, až napíšu posluchačům.
+Hele, vlastně tohle je dost jedno, já jsem řekl dvanáct, vlastně čistě z jednoduchosti, ale ten vlastně standard ze začátku byl dvacet čtyři, pak na modelu té byl dvanáct, protože to stačilo, když se to zadávalo přímo na ten display.
+Teďka by to bylo ještě složitější, tak s tou novou Trezor safe řadou je to dvacet slov, protože my jsme tam vlastně zakomponovali takzvaný multishare backup, kde těch slov můžeš mít, jako těch sad slov můžeš mít víc.
+Ty si pak můžeš dělat jako třeba dva ze tří, že máš prostě tři ty sady, jednu sadu dáš mámě, jednu sadu nevím komu, jednu se necháš a pak jako potřeš ty dvě části, aby se to spojilo.
+Počkejte, jako že ty dva klíčníci, jak se vždycky u těch dveří musíme stejnou chvíli sejít.
+Šest klíčníků tady v Praze, ne, okolik, u korunové číkly, no to je o sedm.
+Přesně tak.
+No takže tak, ale jenom vlastně na tu otázku, já se trochu zdráhám jako někomu radit, jak to mám jít nasetupovaný, protože vždycky záleží.
+Jo, jako tam, není to tak, že když to máte ve dvanácti slovek, že byste to měli špatně, to určitě ne, to prostě stačí.
+Stejně tak my tam pak máme passphrase, což je nějaká, jakoby, nějaký heslo nad těma slovama ještě, takže jako ještě je to jakoby komplikovanější.
+Já jsem vždycky na té straně, jako radit, jako neblbněte a mějte to spíš jednoduchý, jo, protože prostě pak je spoustu lidí, který se střelejí do nohy, že tu passphrase přesně zapomenou, protože je to zase nějaký další heslo, který se jim chcete pamatovat, jo.
+Takže za mě, pokud tam nemáte opravdu miliardy, nebo něco, co už prostě je úplně jako mimo, tak si myslím, že prostě ten backup vám úplně bohatě stačí, jenom se ujistíte, prostě to máte dobře schovaný, zvažte, když tak pak tu passphrase, nebo ten multishare, ale opravdu záleží vždycky na té částce, jo.
+A kam s tím teda, s tím jako passphrase, teda tak mám jí dát do Bitwardenu, nebo do Last Passu, jako SecureTown, nebo vytisknout a nalepit ze sporou stolu, nebo?
+No, to je jako dobrá otázka, no, a zase se trochu…
+Zakoupat na záhradě.
+No, jako my tohle mimochodem taky řešíme, že my jako dáváme spoustu těch možností uživatelům, ale neříkáme jim moc ty bezpraktisy, protože vlastně nechcem a vlastně si uvědomujeme, že to uživatelské je strašně na prd, jo.
+Takže jako chtěli bychom fakt teďka někdy, asi příští rok, uvidíme, jako přijít s něčím jako Ultimate Backup, že lidem opravdu řekneme, hele, tohle, prostě tohle a čau a nevymýšlejte jako blbosti, protože teďka opravdu my dáváme možnosti, ale pak přesně lidi mají takovýhle otázky, jo.
+A je to těžký na to jako odpovídat, no.
+Jako je pravda, že já vlastně, jak už žijeme v tom cloudovém světě, že jo, jako dřív prostě jsem měl harddisk, tam jsem měl fotky, že jo, maximálně jsem měl druhej harddisk a teď prostě vlastně já už jsem jako dávno přepnul do toho, že nejbezpečnější je to mít v tom cloudu, prostě tam odsaď mi to nezmizí, tak tohle je vlastně zase, no jasně, ale tak já jsem velký nešíka, takže kdybych měl mít ten harddisk, tak už ty fotky nemám, ale teď teda vlastně tohle je vlastně úplně na druhou stranu, že jo, a teď jako ten mindfuck v hlavě, si ří
+stalo, že jsem ztratil ten sít a měl jsem ten trezor, takže to jsem ještě dokázal taky vrátit, což jsem nevěděl, že jde, já jsem myslel, že to je v high, ale když ztratíš ten sít, tak se taky jako dostaneš zpátky, když máš ještě pořád tu ten trezor.
+Ale tak to mi možná vysvětlete, ty vidíš, jak na tebe blbě jako čumím, tak co teda vlastně potřebuji, mám, chci mít bitcoiny, co teda potřebuji k tomu, abych měl to jejich vlastníctví u sebe?
+Koupíš si ten trezor.
+Koupím si trezor, jasně.
+Normálně ho si inicializuješ, on během té inicializace ti dá tady ten sít, to je těch 20 slov nebo kolik, prostě anglicky se asi napíšeš na papírek.
+To je to, co jsi ztratil, Poli?
+To je to, co jsem ztratil, protože ty samozřejmě si to nepamateš, ty 20 slov, takže si to někam napíšeš.
+To, že jsi to ztratil, ty to mě nepřekonáš.
+Vezmeš ten papírek a schováš ho někam třeba doma, dáš ho pod koberec a tam ho necháváš, úplně na něj zapomeneš a používáš jen ten trezor.
+Trezor vlastně u nás je docela netradiční, jako u nás je úplně naprosto normální, že si koupíš ten trezor a dva roky ho nepoužíváš.
+To je vlastně úplně v pohodě, hodíš ho do šuplíku a čekáš, co bude, nešaháš na to a to je taky úplně v pohodě.
+No a to je vlastně celý.
+A pak, když ten trezor se rozbije, nebo se moc upřímně nerozbije, ale když ho ztratíš nebo něco se stane,
+tak prostě si vzpomeneš, že pod tím kobercem máš tady tyhle slova, vytáhneš je a můžeš je zadat do novýho trezoru
+a všechny ty adresy a všechny ty bitcoiny se ti tam vlastně obnoví znovu.
+A nějaký další ještě heslo k tomu nepotřebuji, to je to, co řeší teď trezor.
+A na softwaru úrovni pro bitcoin bych potřeboval nějaký další kombinace hesel?
+Jako jsou pak softwarový peněženky, třeba Exodus, kde prostě nějaký heslo máš, ale pak ti to leží přímo v počítači.
+To je to, co měl ten týpek, co mu vrátili disky od státu.
+On nejspíš měl ještě ten bitcoin core, což je úplně ta první bitcoinová software,
+protože to se datuje 2013, takže to je úplná historie.
+Takže no a to je vlastně celý, takže tam vlastně nic víc není.
+A ono přesně k tomu zabezpečení, jako mně vlastně přijde,
+já nevím, vzpomeňte si, jak často vás někdo vykradl.
+Jako stalo se vám, že vám někdo vykradl byt,
+a největšině se to lidem stane možná jednou za život,
+nebo asi to není něco, co by se ti stávalo nějak často, pokud nevím co.
+Takže mně vlastně přijde občas mnohem rozumnější přesně strčit ten recovery seat pod ten koberec
+a stačí, protože prostě když se vám někdo vloupe do bytu,
+tak nejspíš pokud nejste nějaká bitcoinově exponovaná osoba,
+tak asi třeba ani neví, nebo vás nezajímají nějaké bitcoiny,
+jak říkala Schillerová.
+A no a vlastně jakože jenom,
+vlastně nabárám k nějaký opatrnosti,
+protože ten setup lidi můžou dělat tak strašně složitej,
+že se pak střelí do nohy,
+protože prostě těch, já nevím, slov nebo hesel mají tolik,
+že se v tom ztratějí.
+No a ještě vlastně ti můžeš to diverzifikovat tak,
+že to ještě dáš na dvě místa, ne?
+Jakože reálně prostě to nemáš v tom jednom bytě,
+dáš to na dvě místa a jako...
+A já teda u sušánků jdu rovnou pod kobercem.
+No jasně, to tam je jasný.
+Ty tam přijdeš a oni budou mít o mé tu vinilovou podlahu, ty vole.
+Je to tak.
+Hele a když si teďka vezmu,
+pojedu k Polákům, že jo, třeba pozvou mě na víno,
+počkám, až se Poli opije a ukradnu mu ten trezor.
+Pak budeš s námi odhadovat, kde ho máme.
+Tak já budu jinak, já budu v jednoznačném podkoberce
+a budu mít teda, budu mít tu Poliho,
+budu mít Poliho trezor,
+dostanu se do toho jako fyzicky,
+jak to máte vlastně řešený na úrovni toho hardwareu,
+aby když ho ztratím nebo ukradnu,
+abych jsem se nedostal k těm zlům.
+Tam vlastně,
+ono to taky má nějaký vývoj.
+Takže ještě nejdřív řeknu, že když bys to zapojil do kabelu,
+tak vlastně,
+tak je tam pin.
+My vlastně máš tam pin, jako máš na kreditní kartě.
+Takže z toho úplně k tomu nedostaneš.
+No a pak prostě začínají nějaký ty
+hekovací pokusy,
+kdy vlastně opravdu ty ten trezor
+můžeš rozlomit.
+Je to furt vlastně plast.
+My vlastně ty první produkty,
+co máme, jsou plastový, takže prostě když
+to můžeš prostě rozříznout něčím.
+Je to dělané tak, aby to typicky
+bylo poznat, že jsi to otevřel.
+To je jako na schválě, ale prostě nějak se k tomu dostaneš.
+No a pak jakoby
+máš prostě to PCBčko,
+na kterým jsou ty čipy a můžeš s tím něco dělat.
+Jsou historicky jakoby útoky
+třeba na ten Model 1, kde opravdu
+někdo z toho byl schopný něco jako vyextrahovat.
+A pak my jsme tu bezpečnost zlepšovali,
+zlepšovali. To znamená Trezor Safe 3
+a Trezor Safe 5 mají vlastně Secure Element,
+což je speciální čip, který vlastně
+pomáhá uchovávat tady ten sít.
+Takže se k tomu jakoby nedostaneš.
+A já vlastně vždycky
+jako rád říkám, že v bezpečnosti
+je to vždycky jako nějaký trade-off.
+Je to vždycky na nějakých váhách.
+Prostě když máš neomezený budget,
+když máš neomezeně peněz a máš neomezeně času,
+tak jako zlomíš vždycky všecko.
+Takže vlastně ta naše hra je
+jakoby o tom, aby ti to trvalo
+jako přinejmenším tak dlouho,
+než vlastně
+to zjistíš, že ti to někdo
+ukrádá. Dojdeš si pro ty slova
+a přepošleš si to někam jinam,
+ty peníze, protože ten Trezor pak je vlastně prázdnej.
+Možná ještě řeknu
+vlastně příběh, který teda
+už taky asi deset let nebo já nevím, jako hodně
+starý. Vlastně na Wired.com
+byl článek o nějakým,
+myslím, že to byl jako novinář vyloženě,
+který přesně měl Trezor,
+měl, ztratil ten recovery seat
+a nechal pin k tomu Trezoru
+někde na polštáři a uklízečka
+mu ho uklidila, nevím, něco takového.
+A vlastně popisoval tu cestu, jak se k tomu
+jakoby zpátky dostat.
+A trvalo mu asi prostě půl roku se dostat
+k člověku, který to umí, což byl vlastně ten
+Salim Rashid, který nám reportoval nějaký
+jakoby chyby. A jemu trvalo další
+tři měsíce se toho dostat.
+A to celou dobu měl jako neaktualizovaný
+firmware, kde byla prostě
+zranitelnost, kterou my jsme pak opravili.
+A ještě vlastně měl úplně ten nejstarší
+model, ten model VAN, který zase jsme to pak
+zlepšovali. Takže pro normálního člověka
+mu to furt trvalo tři čtvrtě roku, než se k tomu
+jakoby dostal. Takže co se tím
+snažím říct, že mi občas, jo,
+jsou občas takový jako poprasky, že
+někdo prostě, když se super
+laboratoří, byl to schopný kreknout a tak.
+Ale jako ta realita je, že prostě
+pro normálního člověka to trvá prostě strašně dlouho
+a to je přesně ta naše cesta, aby to
+jako trvalo rok a za ten rok si fakt
+sakra všimneš, že si ten trezor ztratil.
+No je fakt, že když doma máš nejlepší bezpečnostní
+dveře, ta urna ti s nima stejně projde, ale
+když tam bude prostě nějakej klasický zloděj,
+tak on tam bude deset, patnáct minuce s nima
+crcat a to je ten čas, kdy ho
+někdo může vidět a je pod rizikem,
+že jo. Máte nějakou detekci
+toho, že do toho někdo lezen
+na úrovni toho hardwareu?
+Hele nemáme, jako není tam vyloženě,
+že by tam bylo, jak jsou takový ty
+tagy v obchodech, že by to vyprsklo
+barvu. Párkrát jsme nad tím
+přemýšleli, ono tam zase se pak lámů,
+jako nebo tam zase proti tomu jdou dvě věci,
+jedna věc je
+obecně nějaká logistika a tak, aby prostě
+se ti to, že pak se dělají takový ty drop
+testy, že ty to pohodíš na zem a to
+zařízení to musí vydržet,
+protože kolikrát vám spadne
+mobil, že jo? Prostě nesádeně.
+No mě taky. Ne, to mi nepadá, pozor.
+Tak jestli ti padá trezor,
+byl bys být v pohodě, protože se to hodně testuje
+a tady tyhle nějaký takovýhle ty detekci
+by, víš co, mohly být tam jako false positive
+a to úplně nechceš,
+no a pak taky jde proti tomu klasická
+nějaká jako cena, že ty se snažíš
+to zařízení, jako tyto výrobní náklady
+držet jako by nízko a tyhle věci jsou
+jako by relativně drahý, takže se to jako by balancuje
+jako by pro a proti, takže spíš
+co se snažíme je, aby opravdu bylo poznat,
+když se do toho trezoru nějak jako
+vlámeš, aby to člověk nemohl pak zpátky
+zase jako by vrátit a prodávat jako
+nový, nebo ti to tam zase zpátky jako by strčit, no.
+A jakým
+způsobem probíhá update
+na novej firmware, protože to předpokládám je
+takový to vstupní místo, který může být
+citlivý, může se tam teoreticky
+dostat to, co by tam být nemělo.
+Jo, tam vlastně zase je
+jako zase kryptografie a mechanismus těch
+digitálních signatur, to znamená ten
+trezor v sobě má veřejný klíč
+a ty naše firmwareový updaty
+jsou podepsaný a tam se to vlastně
+v trezoru ověří, takže je to vlastně furt ten samý
+mechanismus, je to kryptografie, která to
+prostě řeší, no. A jak často vydáváte
+nový firméry?
+Hele, ono se to
+mění v čase, ale je to třeba
+jednou za tři měsíce, plus minus,
+záleží u těch nových modelů, častěji
+u třeba těch starších modelů, nebo
+u Model One už vlastně spíš děláme takový security
+jako
+improvementy, tak je mi to třeba jednou za rok,
+no, záleží. My vlastně i
+my jsme i hodně vymakali
+bře ze začátku, nevím jestli to nepamatuješ,
+začátku si musel při tom updatu třeba
+mačkat dvě tlačítka a pak to
+zapojit kabelem. Tak to už jsem neměl.
+Jo, a bylo to takový trochu klamzy
+a teď už jsme to vlastně vymakali, že to je jako
+že opravdu na jedno tlačítko si to celý
+jako stane, takže teďka třeba už zase vydáváme
+častějíc, jak je třeba, no.
+A jak často jste na tom
+s updatem hardwareu? Protože jedna věc
+je samozřejmě udělat firmware, prostě napíšu
+novej kód a vyrilísu a
+hotovo 20. U toho hardwareu
+celý ten vývoj musí být výrazně pomalejší.
+Je to tak, je to tak. My vlastně, my
+máme teda teďka čtyři modely,
+pracujeme vlastně na pátým
+a úplně ten původní modelovaný je
+jedenáct let starý, něco takovýho, pak
+vlastně, tyjo
+2017,
+myslím, přišel model T,
+přece se to říkám dobře, ale plus minus
+a pak vlastně jsme
+začali vlastně dělat takovej
+facelift tady těch a vlastně jsme představili
+tu Trezor Save řadu, kdy Trezor Save 3
+je čtyři roky,
+myslím, Trezor Save 5 je
+rok a půl, já se teďka vymýšlím,
+že ten čas strašně rychle plyne, ale něco takovýho
+takže my jsme vlastně, taková naše vize
+je opravdu do budoucna jako
+každej druhej rok, minimálně,
+normálně vydat jakoby novej Trezor, protože stejně
+jako s iPhonem a prostě, že jo, taky furt
+kralej nový a nový iPhone a vždycky tam něco
+přidaj a nebo se aspoň tvářej,
+že tam je něco novýho a
+takže k tomuhle bychom se taky dostali a to se vlastně
+vracím k tomu, že my jsme v začátku byli ta softwarová firma
+a teď jsme mnohem víc jako hardwareová a teďka
+protože neodpovídám, takže zpátky k otázce
+my jsme vlastně
+ty smyčky v hardwareu opravdu trvají
+jakoby mnohem díl, tam vlastně
+v softwaru a teď neříkám, že to je jednoduchý,
+ale v softwaru prostě typicky, když člověk
+něco udělá, tak pak, že jo, já nevím,
+vydá to, prostě je to strašně flexibilní,
+udělá chybu, tak jako ji opraví,
+nevím, za pár dnů to pošle, jo, jako je to
+mnohem flexibilnější. Tady v tom hardwareu
+jste strašně závislí na dodavatelích
+a na jakoby na tom
+odladění jako těch věcí, jo.
+Takže jako já sám furt
+nechápu, proč to trvá tak dlouho, nebo jako už to
+chápu, jo, ale vždycky mě to jako zaráží,
+protože by opravdu od nějaký myšlenky
+po jako tu realizaci nebo tu masovou
+výrobu, no, protože to je minimálně dva roky,
+jo, že to nejde jako, jako občas to jde
+někde zrychlit a tak, a vlastně mimochodem
+taky mám, protože na tom se strašně moc spálej
+vždycky ty Kickstarter projekty a tak, jo,
+protože ono udělá prototyp, je docela
+ještě jako v pohodě, ale pak jako by to přenést
+do té masové výroby, do té sériovosti,
+aby opravdu, aby to nějak
+se to neprodražilo šíleně, aby to ta továrna
+sypala, jo, je jako docela
+náročný, no. No a jak vy řešíte
+nějaký supply chain, tak, protože ty jsi říkal,
+jste závislý na dodavatelích, který vám dodávají
+nějaký prostě části
+do toho trezoru, který čistě teoreticky
+by mohly bejt bezpečnostní
+riziko, ne? Jo, jako
+snažíme se, vlastně tam
+je to taky strašně široký téma, jo,
+tam jako největší riziko, co by asi
+bylo, že by vám jako ten dodavatel tam
+strčil nějakej čip, který by dělal něco
+jako co by neměl, ale my třeba
+si děláme, že když
+generujeme ty slova, takže když se ta peněženka
+inicializuje, tak vlastně ta náhodnost
+se tam míchá ze zvíce strán, jo, takže
+vlastně ten jeden čip trezoru vám
+dá náhodnost, ten secure element vám dá
+náhodnost a ještě i váš počítač vám dá
+nějaký náhodný bajty, všechno se to zamíchá
+dohromady a z toho pak vznikne jako by ta peněženka,
+jo, takže co se tím snažím říct, že je tam
+spousta takových lech triků, jako na to,
+jak si ověřit, že to dělá, co to jako
+dělat má, aby jako se tohle
+nestávalo, jo, takže jo, teoreticky
+prostě kdybyste byli
+STM a Infineon,
+což jsou ty dodavatele těch dvou největších čipů
+a ještě Apple nebo já nevím kdo,
+řekl byste tady trezor, pozor, pošlete
+jim tam tady cinklí čipy zvedle,
+tak jako ta odhalitelnost je velmi
+těžká, ale to jsou prostě už tak
+obrovský firmy, že jako
+to nedává smysl.
+A to bylo zajímavé, takže vlastně vy, abyste měli dostatečnou
+míru entropie, tak to musí být ještě připojený
+k počítači, který dává nějakou náhodnost
+při té inicializaci, nejde to, že samo o sobě
+to má... Jako může, vlastně
+teorie, jako může, můžeš to udělat klidně
+i s vlastně
+s offlineovým počítačem
+nebo...
+Bez připojení vůbec, mám v ruce trezor
+a to mě inicializuje. Jako
+na těch současných modelech to nejde, na těch budoucích
+to asi půjde, ale
+je otázka, jestli to dává smysl, protože
+ty stejně pak jako chceš mít ten počítač
+k tomu, aby ti ukazoval
+ty adresy, aby ti všechno ukazovalo. Ale jako ano,
+tu samotnou inicializaci pak bude možný
+udělat klidně jenom na tom trezoru, ale přijdeš
+o ten jeden set té náhodnosti
+z toho počítače, takže
+otázka, nakolik to dává smysl pak.
+A stačí to v tom, jako
+je tam dostatečná náhodnost takhle
+v těch, v tom hardwareu.
+Hele jo, je, jako tam opravdu jsou na to
+vždycky ty,
+ten čim na to typicky má jako
+specializovanou oblast, stejně taky ten secure element
+na to má, takže jako jo, tam opravdu
+vlastně to se i hodně jako testuje,
+tam vždycky jsou takový ty,
+prostě, že se ten
+pseudo random generator
+jako testuje, že ta náhodnost je jako
+správná, takže tohle myslím, že je kryptograficky
+docela jako pokrytý. Já myslím, že Cloudflare
+měli nějakou stěnu plnou lávových lamp,
+za kterých něco odečítali, aby měli
+dostatečnou velikou míru entropie.
+Jo, jo, jo, já jsem mimochodem,
+nejsem to říkal, myslím, že ne, jsem v Cloudflareu
+byl na stáži, takže tam před těma lampama
+právě mám fotku. A on je to tak
+trochu takový gimmick, ale vlastně není, protože
+opravdu z té lampy se to nedá
+jako by předpovědět, takže to opravdu
+zase to přidává nějakou náhodnost do toho.
+Ale že by se nám chtělo do trezoru
+do balení jako balit lampu, to by se nám
+asi trochu prodražilo.
+– Hele, já představím ještě
+vlastně biznisově,
+produktově, ty jsi to přirovnával
+vlastně ten váš produkt k iPhoneu,
+ale ten iPhone, že jo,
+vlastně má tam ten frontend, dokáže
+ukázat, já nevím, máme lepší foťák,
+máme nový UI, teďka nemáme kostičky,
+máme kolečka, že jo, a tak dále, a tak dále.
+Jak vlastně se vám daří
+prodávat ty nový produkty, ty nový
+generace, vlastně lidem, který už vlastně
+s tou nějakou předchozí generací mají tu bezpečnost
+a to je ta největší value, že jo.
+Retence versus třeba nový klienti,
+jo, jak to tam funguje?
+Jo, trošku těžce se na to odpovídá,
+protože my vlastně se snažíme moc nemít ty osobní
+data, to znamená, my vlastně až na nějaký
+legální jako požadavky, co máme, tak se
+snažíme jako o těch lidech vědět co nejméně,
+takže my vlastně nejsme schopni úplně
+spárovat, že si skoupil
+model jedna před pěti lety a teď si třeba
+koupíš novej, takže tohle úplně nevíme,
+ale jako zároveň víme, že
+ten náš brand je do určitý míry
+love brand a těch lidí, který by si koupili
+jako nový a sbírají a tak je vlastně docela
+dost, takže jako daří se to,
+mimochodem zároveň je taky zajímavý,
+jako že ty nový modely opravdu
+výrazně víc prodávají, my teďka
+jako my teďka prodáváme, my promujeme
+hlavně save 3 a save 5, ale máme ještě
+nějaký skladový sásoby model 1
+a model T a jako ukazuje se,
+že až na to dáme jakoukoliv slevu,
+trochu přeáni, malené za stolik, tak vlastně stejně
+ty lidi chtějí ty nový, že vlastně se nám
+docela daří, že ty nový produkty opravdu
+tánou jako by víc, takže z toho jako by máme
+radost. Nakolik je tam tady
+ten sehle upřímně nevím, myslím si, že
+nějaká je, ale nejsem schopný to takhle kvantifikovat.
+My se tady celou dobu bavíme
+o Trezoru jako takovým, ale ty si říkal
+Suši na začátku, že
+vlastně kolem toho je postavený
+celý ekosystém, zmiňoval si i Trezor Suite.
+Možná může říct, co to je?
+Jo, tak to je vlastně
+i mobilní, s kterou vlastně
+pak ovládáte ten Trezor jako takový.
+To znamená, vlastně ukazuje vám
+zůstatky, kolik máte na Bitcoinu
+na všech těch kryptoměnách a umožňuje
+vlastně i nějaký pokročilý funkce.
+Můžete tam nakupovat, prodávat,
+směňovat ty kryptoměny mezi sebou,
+stejkovat nějaký ty
+alternativní kryptoměny. Jo, je to vlastně takovej
+ten, vy vlastně paradoxně
+většinu času netrávíte na tom Trezoru
+jako takovým, vy vlastně koukáte do počítače
+na ten Trezor suite, ale ten Trezor máte připojený
+a v momentě, když chcete poslat transakce
+nebo nějak operovat s těma kryptoměnama,
+tak až v tu chvíli se podíváte na ten Trezor
+a odklikáte, co je jakoby třeba.
+Pokud vím takové, no je to open source.
+V čem je to napsaný?
+Sujta. Sujta je napsaná v TypeScriptu.
+TypeScript, React, Electron.
+Jo. Taková klasika asi, no.
+Jak to kombinujete?
+Jako security a open source?
+Samozřejmě jedna věc je,
+že všichni do toho viděj, ale tím pádem
+některé věci tam musí být jako asi
+skrytý nebo prostě řešený
+na jiných vrstvách.
+Hele jako vlastně tam moc věcí skrytejch není,
+protože tam vlastně není moc, co skrývat.
+Tím, že vlastně všechny ty senzitivní věci
+jsou v tom Trezoru jako takovým,
+takže tam vlastně opravdu není moc, co.
+Z pohledu bezpečnosti
+má to svoje výhody, že opravdu
+máme bug bounty program a prostě občas nám
+někdo napíše, hele tady jsem si všimnul
+něco něco a opravdu to našli v tom kódu.
+Takže je to vlastně skvělý z toho pohledu,
+že ty lidi opravdu jsou schopní
+jako se na to podívat.
+A hele, jako já myslím,
+že největší, jako největší
+takový strach nebo prostě bezpečnostní
+issue mám pocit, že je ten supply chain
+toho javascriptovýho světa, jo.
+Protože. Jako NPM. No, no, no.
+Protože prostě mám pocit,
+že v javascriptu máte knihovnu úplně
+na všechno, jako jak se vždycky říká, že
+když se je číslo sudý nebo lichý, tak na to potřebujete
+prostě knihovnu. Zdravíme leftpad.
+A je to
+fakt bažina, jo. Tam, ono vlastně
+takhle, jo. Ono paradoxně nám, kdyby to někdo
+kompromitoval, tak vlastně se jako toho
+moc nestane, protože vy ty klíče máte v tom
+trezoru, takže ono, takže
+tomu se nějak nedostanete, ale prostě reputačně
+samozřejmě to vypadá velmi blbě, jo.
+Takže tohle je něco, co se snažíme řešit, jako
+máme na to takový ten, ty si socket dev,
+jo, nebo jak je Snyk a všechny tyhle ty nástroje
+a snažíme se opravdu
+být velmi opatrný, hledat knihovny, který
+mají prostě dostatečnou reputaci a tak,
+ale jako je to bažina. Takže z tohohle pohledu
+trošku mám strach, ale není to úplně
+vlastně, to jisté open source úplně
+asi nehraje roli v tom pak, no.
+A komunitu kolem toho máte jak aktivní? Kolik lidí
+tam tak přispívá, nebo žije to
+kolem ty suity?
+Hele, jako,
+ono je tohle hodně dvojsečný,
+jo, jako vlastně nám se,
+nám se,
+jako nám se i stávalo historicky,
+že lidi přispívali, nebo takhle,
+já bych to rozdělal asi do několik kategorií, jo. Jsou lidi,
+který přispějou, ale bohužel prostě ta kvalita
+je úplně mimo, nebo to nechce, nebo to,
+takže tam prostě zbohužel se to zavírá
+a ne, nejde to, jo. Pak máme
+opravdu, že občas někdo přispěje Jankou Maličkos
+a je to fajn, my je zamirďujeme a zase
+už o nich neslyšíme a pak máme
+opravdu několik lidí, já myslím, že jich je
+třeba do pěti, jo, jako přes celou
+naší firmu, který vlastně vůbec neznáme,
+vůbec nevíme, kdo to je a opravdu tam
+jako aktivně něco přispívají, jo, a to je
+super, jako my občas si se pak snažíme třeba s nima
+nějaký vztah jako navázat, nebo tak
+a to je opravdu ta síla toho
+open source, že tam opravdu jako by přispívají,
+no a pak ještě poslední kategorie, že lidi
+úplně vyloženě nepřispívají, ale vlastně
+díky tomu, že to je open source, tak s tím nějak
+pracují dál, takže buď to forkují, nebo něco
+s tím dělají, nebo nám hlásejí na ten security
+e-mail nějaký, jakoby
+potenciální zranitelnosti a tak.
+Už jste přes tohle měli nějaký zajímavý hire,
+že jste poslali v rámci
+pull requestu ještě při schvalování, jako
+jobs, zavěnáč, trezor, a jo.
+Jako určitě
+taky, ale zároveň
+co my i děláme,
+neděláme to vždycky, ale často děláme, že
+v rámci pohovoru
+buď, že dáme lidem nějaký
+jednoduchý úkol, teďka zase nechceme, aby na tom
+trávili samozřejmě spoustu času, protože to taky
+není úplně fair, ale buď dáme nějaký jednoduchý
+úkol, nebo i jsme občas dělali, že vezmeme na
+dva, tři dny a vlastně necháme ten pull request
+udělat, takže tam pak je dobrý, že oni ten pull request
+opravdu mají vidět, jakoby i pro sebe
+jako open source prostě v tom světě,
+takže spíš takhle, ale jo,
+stalo se nám i třeba ten Salim Rashid, jak jsem ho
+zmiňoval, tak to byl fakt kluk, který mu byl patnáct
+a prostě tak nějak po noci
+si něco hekoval a pak
+no možná taková standardní otázka
+tady, jak do tohohle celého, co
+děláte v Trezoru, zapadá teďka
+moderní trend
+moderní trend AI
+nějak vás to zasáhlo, používáte
+to při vývoji, ať na úrovni hardwareu,
+nebo softwaru, nebo to jde
+z praktických, nebo security, to bude úplně mimo?
+Hele jo, snažíme se to vlastně
+jako firma implementovat, to mě
+pak docela zajímalo i vy, jaký jste máte
+jako zkušenosti, my se opravdu snažíme,
+ale takhle, je to taková, myslím, klasika,
+jako snažíme se u vývoje používat
+prostě jako piloty a
+všetky tyhle ty nástroje, vlastně kluci s tím
+docela hrajou, mají s tím jako docela dobrý zkušenosti,
+ten, zrovna třeba ten firmware
+je hodně specifický, takže, ale i tam jako
+umí poradit, jo, to jako není to vlastně
+jako překvapivě, nebo překvapivě, ono to všichni
+víme, ale jako začíná to být prostě fakt dobrý,
+zároveň to ve firmě implementujeme
+hodně do lokalizací,
+snažíme se vlastně lokalizovat ten náš produkt,
+že my vlastně prodáváme úplně do celého světa
+a taky na support,
+tam to hodně teďka řešíme je, aby
+opravdu vy vlastně, když potřebujete
+poradit, tak jako se vám objeví
+chatbot a s tím si píšete
+a už teďka, a to tam není to
+generativní AI, to je tam jenom to jako
+deklarativní, nám to chytá třeba polovinu tiketu,
+že polovinu tiketu je vyřešený ten
+bot, protože to jsou lidi, který píšou, kde je
+můj balíček, já už jsem myslel, že přijde a my
+jenom jako odpovíme, hele, tady máš tracking number
+a vlastně to odchytá
+celá hodně to a teďka bychom to chtěli posunout
+jako by dál, pro, aby
+opravdu to bylo schopné i radit, jo.
+Zároveň jenom je to extrémně citlivý,
+protože přesně, kdyby to poradilo, pošli mi těch
+20 slov, no tak jako je to
+dostrapas a někdo
+by pak na to mohl přijít, takže
+jsme opatrný, ale taky to jako pomalu
+pouštíme, no. A ještě něco, co jsem
+chtěl říct jenom k AI, co jsem jako
+fakt zvědavej, jak se vyvinuje jako
+ty deepfakey a to KYC a tohle
+všecko, protože to by mě furt zajímalo, jak ty
+burzy jako budou
+jako by řešit, protože
+nevím, asi jste viděli i ty videa, kdy opravdu
+už jako ty, že jo, jsou to
+prostě deepfakey a už to umí i ty odstíny,
+že jo, jako můžou točit tou hlavou.
+A to by mě fakt zajímalo, jak prostě ty
+burzy budou řešit, no, protože jako já mám pocit,
+že, a ještě tam asi nejsme, ale já mám
+pocit, že počkáme pár let a jako už to bude
+fakt velmi jednou, že jako to video
+vygenerovatelný, takže jsem zvědavej, jak s tímhle se s tím
+popasují, no, to se nás naštěstí netýká,
+ale myslím, že to bude docela zajímavá jako věc.
+Asi na úrovni těch lidí, půjdeme zpátky k tomu
+hardwareu a to budeš prostě pomocí DNA
+budeš mít nějaký asi
+ověření. Přihlašovací.
+Je nám metoda, tyjo.
+No, jako tak takhle, no, je to stejný jako se všim
+prostě, no, jako AI má dark
+a light čas prostě světa,
+tohle vlastně, nebo jenom tam,
+myslím, že to bude problématiky, když všude v bankovnictví
+to řešíme dost často.
+Nějaký takový ty věci jako MCP nebo nějaký
+agentic AI?
+Hele, tam, jako my to sledujeme,
+ale vlastně, že by tam bylo úplně něco konkrétního
+teďka není. Takže nejúzké staloženě.
+Ne, a třeba u toho hardwareu taky moc není,
+protože tam vlastně jako člověk,
+já nevím, jako kdyby si tam, jako může
+v tom modelování a tak, ale pak
+vlastně ta realita, myslím, že jim nevíc,
+že čekáš na toho dodavatele, že on něco,
+nebo je pak zase jim nadáváš,
+že ten odstín té barvy je
+jeden pixel jinde.
+My už jsme se toho trošku
+dotkli, když jsem se zeptal, jestli jste takhle nikoho
+nenahajrovali přes ty pull requesty,
+ale obecně, ty jako CTO,
+jak je vlastně těžký najít lidi
+do tvýho týmu, protože, tak jak to
+poslouchám, tak ty nároky
+na ty lidi, pokud je nedáš jenom na tu suitu,
+kde budou psát typescript,
+tak zní to, že to je poměrně
+jako náročný job dělat frezoru.
+No, jako, hele, já myslím,
+že to vlastně není zas tak odlišný
+od ostatních firm, jo,
+nebo jako mám pocit, že asi všichni víte, jaký to je hledat
+jako technický lidi, nebo vývojáře
+jako do firm, a vlastně myslím, že v tom
+nejsme zas o tolik jako
+jiný, jako možná malinko, jo, ale ne zas tolik.
+Vlastně, obecně vždycky,
+je to asi kliša, vždycky
+jako chceme, aby tam byl ten zájem,
+jo, my vlastně nepotřebujeme nějaký hardkor
+bitcoinery, nebo tak, ale jako
+vždycky ty lidi, který o to mají zájem,
+tak prostě to je s nima všecko tisíckrát
+snaží, takže opravdu se snažíme a máme, myslím,
+takový lidi, který to prostě zajímá.
+Trochu specifický je to na tom
+firméru, kde vlastně opravdu teďka
+hledáme nejvíc jako rastaře,
+a těch je opravdu hodně málo, to je jakoby
+pravda, a pak vlastně
+máme ten R&D team, kde jsou kryptografové,
+ale tam těch je extrémně málo,
+zas na druhou stranu my jich vlastně nepotřebujeme tolik,
+takže vlastně tam paradoxně sice jich je
+extrémně málo, ale tím, že jich potřebujeme
+i extrémně málo, a vlastně
+firm, který by byl těmhle lidem schopný
+nabídnout jako zajímavou práci, že
+opravdu ležejí v nějakých kryptografických
+jako článcích a tak moc není, takže tam to vlastně
+paradoxně docela nějak jako funguje,
+asi nejspecifictější je to
+na tom firméru, no.
+Takže ten kryptografický níž,
+to se tak jako krásně doplní, že
+jak jsi říkal, je jich málo a je málo pracovních
+pozic, takže.
+Jako úplně nejlepší je, když se to míchá dohromady,
+jo, jakože třeba vlastně náš
+líd jako toho firmérovýho týmu, tak
+jako není jako kryptograf, ale vlastně
+tomu extrémně rozumí a to je pak jako
+nejlepší, když opravdu i ty lidi
+jakoby na těch normálních
+programátorských pozicích tomu jako rozumějí
+a i v té sujtě máme spoustu lidí, který
+tomu prostě rozumějí jako i dohloubky
+a pak prostě to jde jako lehčejc, no.
+A jak ty to řešíš, že svý pozice
+přeci není možný, aby si
+v každém tom suboboru,
+který tam řešíš v rámci svý pozice,
+tomu rozuměl úplně až do mrtě.
+Tam máš tam nějaký jako specifický garanty,
+který teda jako řekneš, máš můj důvěru,
+když řekneš, že to je takhle hádat se s tebou,
+nebudu, je to tvoje práce, mi to vysvětlíš.
+Jo, hele, je to přesně tak, no. Jako mně přijde, že od nějaký
+velikosti té firmy už
+prostě musíš dát trochu ruce nahoru
+a prostě, jako pak je to o těch lidech
+a o tý důvěře, no. Jako už
+není vůbec reálný, jako vidět nějak
+do detailů, jako všude. Takže jo,
+je to tak. Já vlastně i
+před těma dvěma lety
+neco takového už opravdu, a teďka
+občas sklouzávám furt k těm ostatním
+věcem, ale opravdu se snažím nejvíc věnovat tomu
+hardwareu a tý security, protože tam mám pocit,
+že to jsou hardware jako historicky
+security, my sice máme jakoby všude,
+začali budovat jako separé tým, který
+jako je na to dedikovaný, takže se snažím
+nejvíc jako věnovat těmhle dvoum částem,
+protože tam mám pocit, že
+jsme to postavili relativně nově,
+teďka už se to taky stabilizuje, ale
+stávím, že jsou soustředitám, no, a ta
+sujta trezorá, jo, a tak to už opravdu
+si docela, že je vlastním životem, no.
+Ty jsi říkal, že nadšení
+je jedna z těch věcí, který se rozhodně hodí,
+měli jste tam nějakého vyloženě no-coinera,
+který chvilku s váma dělal a pak
+do toho vlítnul a je to teďka největší fanoušek?
+Měli jste tam takový to otočení na víru?
+Hele, tyjo,
+nad tím jsem se nezamejšlel. Jako, je pravda,
+že máme i no-coinery,
+to zjí tak až vulgárně.
+No, říká si to takhle, ne? Jo, jo, říká, říká, ano, ano,
+lidi, co nemají prostě žádný kryptoměny.
+To jsem já, to jsem já mimochodem, čátele, to jsem
+tady já. Jako typicky
+to jsou třeba lidi jako z výroby
+nebo z účetnictví, lomeno financí,
+nebo tak, protože opravdu to je vlastně,
+to je, u nás se opravdu do určitý míry
+míchají jako lidi fakt úplně
+napříč jako tím světem, nebo jak to říci,
+že třeba ta výroba, nebo
+jako hardware, ale spíš ta výroba
+je opravdu extrémně,
+jako tam se nepohnulo
+nic posledních sto let, mám pocit,
+jako přáním, ale jako opravdu je to
+strašně takovej, ne si skorporátně,
+ale jako pomalej prostě svět, jo,
+takže tam jako nepřijde
+osmnáctiletej floutek, který
+jako chce dělat výrobu, to prostě jako
+nedává smysl, jo, takže opravdu tam
+máme lidi i ty, myslím, že pomalu
+konvertujeme, jako někde
+se to daří rychlejc, někde jako vypomalejc,
+co je pak hodně typický je, že
+tam je ta diskuze
+Bitcoin versus ty ostatní kryptoměny,
+jo, protože tam vlastně, nevím,
+jak hodně do toho vlastně vidíte, ale v občas
+se i říká, že Bitcoin není krypto,
+že jako je Bitcoin, jsou opravdu ty nestátní
+jakoby peníze a krypto,
+jako všetky ty ostatní kryptoměny,
+Solany, Ethereum, blé, blé, blé, jsou spíš
+jako takový kasíno, kde lidi
+prostě blbnou a dělají Trumpcoiny
+a Memecoiny a
+Dogecoiny a ta utilita
+těch coinů je, řekněme,
+taková sporná, takže to se tam jako docela
+často stává, že ty lidi přijdou
+jako altcoin friendly
+a pak časem se z nich stanou
+bitcoinovým maximalisti,
+protože těch máme
+taky hodně, ale
+my jsme dřív byli hodně takový hardcore
+bitcoineři, teďka mám pocit, že jsme trošku
+jako zvolnili a necháme na to ty lidi
+přijít sami.
+Ale platíte v trezoru v bitcoinech lidi výplatu?
+Můžeme, jo. Je to na tobě vlastně
+Jsem myslel, že jsme se ptali i minule.
+Jo, jo, jo.
+Jde část výplaty, si můžeš říct
+v bitcoinech. Tam myslím, že je nějaká zajímavost,
+že nemůžeš jít
+pod minimálním mzdu, že
+musíš v minimálním mzdu si
+říct v korunách a zbytek můžeš v bitcoinech
+a když je někdo
+kontraktor, tak prostě pošle normálně fakturu
+jako v bitcoinu. Je fakt, že pokud má někdo dobrou
+paměť, tak teď má
+deja vu, protože jsme třebali výchala,
+tak možná jsme i tuhle zajímavost
+s minimálním mzdu taky říkali.
+Jo, možná, jo.
+A to se teda doplácí v rámci aktuálního
+kurzu, jo? Nebo toho přepočtu.
+Jasný, jasný.
+Tam vlastně
+nejde moc do detailu, ale ty vlastně
+vystavíš normálně v korunách
+a pak jako stejně jak tam máš, že můžeš říct
+u faktury teda mluvím, no, jak tam můžeš zvolit
+jestli chceš na účet nebo hotovostí,
+co všichni dělají, jestli chceš na účet, tak tam připíšeš,
+že chceš jako bitcoin, že je to vlastně jako jenom forma úhrady.
+Jasně, jasně, jasně.
+Helena, ještě k těm lidem, jsteš u každého pohovoru,
+když hledáte někoho k tobě do týmu?
+Helena, ne. Býval jsem
+a pak jsem se na to vykašlal,
+protože už vlastně
+zase no, jako mám pocit, že od nějaký
+jako velikosti firmy už to
+prostě nejde, jo. Jednu dobu jsem
+vlastně ze začátku jsem byl, že jsem
+opravdu chtěl, pak jsem dělal taky ty vibe checky na konci,
+že jsem jako měl 15 minut
+s těma lidma a pak ve chvíli, kdy už
+vlastně jsem měl pocit, že tam nemám přidanou
+hodnotu, protože prostě ty lidi byly
+dobrý a já jsem jako neměl moc
+jako si s nima, měl jsem s nima
+co říct, ale přišlo mi to vlastně zbytečný,
+tak to dělám spíš jako
+v některých konkrétních případech, ale ve všech
+to nedělám, no. Pak se vždycky, když nastoupí,
+jak se snažím se znamovat, ale i tam
+občas už to drhne, se přiznám, no, protože
+je nás jako relativně dost.
+A máš tam, říkáš, když ty lidi budou,
+když ty lidi jsou dobrý,
+co je toto dobrý pro vás, jo, je tam to jako
+většina lidí říká na change, jo,
+tak to tam jako vždycky asi nějak musí být.
+Je tam ještě něco specifického, co říkáš, jo,
+tyhle tenhle standy mohl stát za to?
+Jako, zase myslím,
+že to není nic specifického k našemu
+industri, jo, já se, já třeba
+vždycky mám rád jako vidět od těch lidí
+nějakej výstup, jo, ať už je to nějakej
+jako domácí úkol, klidně jako
+malej, nebo kus kódů, nebo tak,
+protože tam zase se trochu, já zase
+nemám rád takový to, když se ty
+uchazeči ucházejí v operáci a musí projít
+deseti kolama a strávit dvacet hodin
+jako na úkolech, to mi taky nepřijde fair, ale
+přijde mi super vidět jako na nějakej
+výstup, protože často i koukám na to, jak jsou ty lidi
+strukturovaný, jo, jako jestli jsou schopný dát
+prostě normální anglickou větu dohromady,
+jestli to má nějakou kulturu,
+třeba i jestli umějí jako dobře anglické a tak,
+takže vlastně často se koukám
+já osobně už na tyhle ty softovější
+věci, protože mám pocit, že je víc proklapnou
+jako ty lidi přede mnou.
+A co se týče věku, nějakého rozložení,
+jste spíš mladá firma, nebo máte to
+namixovaný, nebo teď se k vám hlásí
+Čenzí teďka? Přeji, že co je
+mladá firma.
+Jo, přesně.
+Já přeji, že jestli vím věkový průměr,
+ale ty, nevím, ale kdybych si
+měl typnout, tak bych řekl kolem 30,
+tak jako 30
+věkový průměr.
+Bychom tam byli prostě, nevím, k meti.
+Ale jako zase záleží
+na té skupině, jo, třeba na supportu
+nebo tak, tak tam dělají spíš mladší lidi,
+kteří třeba právě přesně ve výrobě
+financí jako naopak starší,
+programátoři jsou tak někde uprostřed.
+No, tak nějak.
+Možná 30 je málo, ale možná 35.
+Já si to pak spočtu, skvělý, mě zajímalo.
+Prý nám vidět.
+My tady podhledáme nějaký
+jednotlivý pojítko, ale možná bych ho měl.
+A to je nějaký security mindset.
+Když půjdu do trezoru, tak asi jsem
+zatížený trošku na tu security.
+A i když to třeba nemám u toho pohovoru
+hned vidět, tak někde to tam jako musí mít.
+Ty to jako CTO předpokládám
+nějakým způsobem i tenhle ten mindset udržuješ.
+Máte tam nějaké vnitřní školení
+nebo když výjdou nový
+rizika, tak hned si máte
+o tom nějakou přednášku, nebo jak tam tohle se to probíhá?
+No, to je taky strašně těžký téma.
+Tady se strašně
+láme vlastně ten svět
+těch lidí, který to mega zajímá
+a vlastně sami si čtou na Twitteru
+a nebo kdesi cosi články a jsou
+velmi dobře edukovaný a k toho se
+míchá ten svět těch lidí, který jsou úplně nepolíbený
+a je strašně těžký tohle
+jako nějak namíchat, takže snažíme se
+máme vlastně nějaké security cvičení na začátku
+kde jako říkáme ty phishingy, takový
+ty klasiky, teďka připravujeme
+pak jsme měli vlastně takový ten
+nějaký jako, že jsme posílali nějaký přesně
+informace, teďka ty lidi buď už to
+znali, anebo to ignorovali, takže
+taky úplně nefungovalo, takže zase připravujeme
+něco novýho, furt vlastně
+posíláme nový články a tak, teďka
+vlastně co jsme se půl roku zpátky rozhodli
+je, že to se snažíme mnohem víc jako dávat
+na míru těm jednotlivým lidem
+to znamená prostě programátoři a třeba
+lidi, co ovládají sociální média, aby
+podle mě měli být grillovaný mnohem mnohem víc
+než opravdu někdo třeba
+na těch financí, nevím, jako i tam
+ale vlastně
+tak se na financích má přístup k účtu, ne?
+No, jasně, jasně, ale je to jako celým mnohem
+jako složitější, ale přesně
+jako máš pravdu, jo, musíš se na to koukat takhle
+ale chci tam tě říct, že nám vlastně
+my, co jsme měli nějaký průšvihy, jako
+bezpečnostní, tak to vždycky bylo
+a ještě typicky třetí strany, jo
+že vlastně někdo fyšnul tu naší třetí
+stranu, jo, že třeba
+na newsletry jsme používali Brevo, což je
+prostě platforma na posílání newsletterů
+někdo tam prostě napsal, ahoj
+já jsem ze Satošilabs externí právník
+měli doménu místo Satošilabs
+satošliabs.com
+tam na tom supportu někdo řekl, jo jasně, tady to máš
+no a bylo to, jo
+takže třeba, a to se teda
+stalo i pak jako našemu jednomu člověkovi
+jako intervju, takže opravdu se snažíme
+jakoby školit jako specificky
+na ty ty a pak děláme nějaký jako interní
+testování, pentestování a tak, no
+je to celá plejáda a pak je člověk
+non stop jako ve stresu, aby to
+fungovalo, no. A vydáváte i nějaký
+lessons learned nebo takový ty post-mortem
+když se vám něco nepodaří?
+Jo, děláme to primárně teda na
+engineeringu, to myslím, že máme docela dobrou kulturu
+že když se tohle pokazí, tak už to rovnou jako
+píšou, z toho mám radost, to je pak docela
+zajímavý čtení, na tý security
+to taky děláme, tam vlastně
+kolega spíš tlačí ten
+root cause analysis, což pro mě je teda to samý
+jenom jako je to třikrát tak delší
+Není to tak čtivý
+No není to tak čtivý, ale tak jako asi to dává
+smysl, ono to totiž vychází z nějaký compliance
+jakoby věcí, takže jo
+to se fakt snažíme, tam spíš
+kde já mám problémy, že my vždycky ten post-mortem uděláme
+a co mám pocit, že je fakt strašně těžký
+jak ten čas rychle běží, se pak jako za rok
+k tomu vrátit a zas to těm lidem jako připomenout
+že mně už přijde, že tyhle ty útoky
+co jsem zmiňoval, se staly třeba dva roky zpátky
+a už jako cítím, jak
+už jsme zase tak jako trošku na to zapomněli
+a já mám pocit, že to furt musíme jakoby připomínat
+že by byl nějaký newsletter
+typu podělali jsme před rokem a tam
+odkazy na ty jako
+já jsem myslel jako hlavně interně
+no já myslel jaký interní newsletter
+no tak my se dostáváme
+k úplnému závěru tohoto
+skvělého dílu, prosím tě
+Suši, v čem teďka aktuálně
+jako na čem pracujete aktuálně
+to už jsi říkal, ale
+tebe osobně, co teďka čeká
+na co si těšíš, co je tak věc
+která tě nadchla a teďka
+to je tvoje budoucnost
+vlastně teďka možná udělám
+krátkou reklamu
+o víkendu je BTC Prague
+takže kdo by měl zájem se vlastně
+je to v letňanech
+to už se stalo
+tak nic
+bylo to skvělý, moc jsme si to užili
+díky všem, kdo přišel
+takže to ne
+ale nicméně tam jsem si to užil
+ale nejvíce
+těším opravdu na ten novej trezor
+my vlastně teďka připravujeme
+vlastně novej trezor, který bude bezdrátovej
+vlastně
+tam je s takovým specifikum, že
+my vlastně všechny ty trezory máme
+kabelový a vy nemůžete k iPhoneu
+připojit jakoby nějaký jiný zařízení
+přes kabel, respektive můžete, ale pak musíte
+v Apple Solid
+v rámci toho programu Made for iPhone
+nějaký dolary a je to celý
+prostě hodně uzamčený a jak se to
+obchází je, že tomu zařízení dáte Bluetooth
+takže my vlastně teďka
+připravujeme Bluetoothový zařízení, který chceme
+na podzim jakoby snad
+vydávat a bude to opravdu taková vlajková
+loď, máme to skvěle nabitý
+tak se na to extrémně těším
+a teď jenom to vyrobit přesně
+v těch masech a bude to
+snad dobrý, no. Jenom.
+Jenom, přesně tak. Pohoda, pohoda.
+No tak jo, tak my ti strašně moc
+děkujeme, že jsi dorazil, za mě
+to bylo zase jako eye-opener
+jako prase. Krása. Koupíš si
+Bitcoin? Já ti to pak poradím,
+jak jsi to udělal. A musím celý si koupit,
+že jo, to je jasný. No jasně, jedině celý.
+Při rovnou dva, když si to uděláš. Já ne, taky, žež
+Maravíš, já nekupu nic po deset kusů
+leží.
+Jsem udělal malou reklamu, jestli nekoupíš, to musíš teďka.
+Ale ten trezor mě opravdu zajímal
+už jenom jako jak jsi říkal, koupím si ho, dám si ho
+do šuplíčku a... No jasně,
+takhle to máme, jo. Super.
+Tak Suši, moc díky, že jsi dorazil,
+pozdravuj od nás všechny v Trezoru,
+my vám moc držíme palce, ať se daří, užijte si
+léto a mějte se hezky.
+Díky. Díky za pozvání. Čau.
+Mějte se. Čau.
+Tomáš Sušánka alias Suši
+byl posledním hostem posledního
+dílu zatím poslední série
+podcastu. Pod vodca jsem, byl
+fantastický, já vždycky, když si říkám,
+ty, co já se budu s těma lidma vyprávit,
+teď to je téma, já tomu vůbec nerozumím,
+tak pak přijde takovýhle borec, který
+prostě rozkopne dveře, teda samozřejmě,
+no jako, ne doslova, protože on je
+jako velmi, velmi milej, ale
+jako prostě bylo to skvělý,
+vysvětl spoustu věcí, spoustu věcí,
+aspoň mám pocit, že jsem pochopil, neříkám, že
+jsem je pochopil, ale mám ten pocit, že jsem je pochopil.
+Máš ten pocit, jasně, jasně. Takže za mě naprosto,
+naprosto fantastický člověk je vidět, že v tom
+trezoru, že jim to šlape. No úplně super,
+já mám rád tyhle z ty firmy, které vznikly tady
+u nás v český kotlině, že se jim daří
+a to je, tohle je z toho rozhodně potvrzený
+a zároveň je potvrzený, že ty si
+koupíš teda bitcoin, no?
+Takhle, jsem tomu blízko.
+Dobře. Já počkám, že se třeba neodpadne,
+když se mi nevím vládat něco
+prodávat, tak uvidíme třeba pod cenou.
+Jo, jo. Takový ty špatně zabarvený
+bitcoiny. Jo, jo, přesně, přesně.
+Tam by mohlo něco cinknout. Zároveň jsme
+si potvrdili, že já mám tu první verzi
+trezoru, takže já
+si počkám na novou vlajkovou loď
+a možná se do ní pustím. Budeš upgradeovat.
+Budu upgradeovat, přesně tak.
+No, ještě než to úplně zakončíme, tak samozřejmě
+musíme poděkovat našemu
+partnerovi této série.
+Děkujeme za všech těch šest dílů,
+děkujeme za neúnavnou
+podporu České spořitelně alias
+Spořici. Ještě jednou děkujem, že jsme
+si mohli od vás na chvilku pučit
+víťu do minulého dílu.
+No a aby jsme všechno, co jsme slíbili
+je tady určité
+poslední
+v rámci této série
+a v rámci tohoto podcastu. A není to poslední,
+že bychom končili nic takovýho.
+Třináctka prostě bude, to i kdyby jako
+čert na koze řádil, tak ta bude.
+Ale nebude se už natáčet
+v těchto prostorách, takže Poli, rozlídni se
+tady. To je úplně nostalgie.
+Budeme se stěhovat
+do nového z toho důvodu,
+že vlastně já po devíti letech, téměř po devíti
+letech končím v Cienku, Lomeno
+a Cyklumu. Odcházím teďka
+v době, kdy mě posloucháte, tak jsem teďka
+někde u moře, nebo v lese,
+nebo na horách, nevím přesně, kde se teďka
+štěvávám. Hrozně ti to závidím, krásně. Ale mám
+celý červenec volno. V srpnu
+bych měl nastoupit do nového.
+Opět samozřejmě engineering.
+Jasná věc. Protože prostě technologie
+a softwarový vývoj,
+to je prostě moje láska, takže nebojte se.
+Pořád budeme do toho šlapat,
+ale budeme už točit asi jinde.
+Protože určitá, řekněme, podocasí
+éra v tuhle chvíli
+vlastně končí, protože pod vocasem
+už se pod vocasem točit nebude.
+Nebude. Koupíme si umělej vocas,
+ten si dáme do novýho studia,
+aby jsme měli pocit, že pořád točíme pod tím
+vocasem, přátelé, tak no to bude.
+Takže, já mám teď jasno, jak my strávíme
+léto. Já budu
+na malinkatém sabatikalu
+a Petr Polipolák bude schánět po Praze
+umělý vocas.
+– Prosím vás, kdybyste měli nějaké
+doporučení, vím, že to bylo v nějaký pohádce,
+dokonce měl nějaký vocas umělej,
+dejte mi vědět, já koupuju.
+– Já vůbec nevím, jaký pohádky
+koukáte u Poláku a nechci to vědět.
+Přátelé, myslím si, že je ideální čas se rozloučit.
+– Z čerty nejsou žerty, kamaráde.
+– Ano, ale to nebyl umělej, to bylo z vlka.
+– To by bylo z vlka, no.
+Tak to by mi stačilo.
+– Tak jo, přátelé,
+mějte se krásně, nás moc těšilo,
+užijte si léto, neberte sílu,
+pokud stejně jako já měníte
+stáž, tak dejte si
+krátký sabatikal,
+udělejte pořádný refresh a my se na vás
+budeme strašně moc těšit
+u třinácté série, po létě,
+někdy to typuju září, říjen,
+ve vašem nejoblíbenějším
+podcastu Porvoca sem.
+Užívejte léta, čau!

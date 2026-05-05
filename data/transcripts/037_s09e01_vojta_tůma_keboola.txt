@@ -1,0 +1,3112 @@
+Pod vocasem.
+Pod vocasem.
+Pod vocasem.
+Pod vocasem.
+Krásný den, milí posluchači,
+vítejte u prvního dílu,
+je to neuvěřitelné, deváté série
+vašeho nejoblíbenějšího
+IT podcastu Pod vocasem.
+Jak jste sami slyšeli, už mi do toho skáče,
+takže i v deváté sérii je tady
+s námi, se všemi, váš milovaný,
+oblíbený, ze spořice právě
+doběhnuvší, ale v tričku podcastu
+Petr Polipolák. Čau Poli.
+Je to tak, ahoj Románku, Román Joker
+provazník je naproti mě a jinak by to nemohlo být.
+Ano, takže vítejte.
+Tak co, jak je, dlouho jsme se neviděli.
+Byla přestávka, veď, mezi těma
+sériema, no hele, dobrý, dobrý, já jsem
+stihnul si zaližovat na místě, kde ty jsi stihl
+zaližovat. Děkuji, poslal jsi mi krásný
+video, já, by the way, přátelé, jenom
+abychom se dostali zase do kontextu, jo,
+byl jsem v Itálii, by the way, všichni byli v Itálii,
+já mám pocit, že to jsou nějaký třetí
+největší český hory. Já tam slyšel jenom
+Čechy, jako tam Ital byl úplně divnej.
+No, no, jasně. A říkám Poli, mu říkám,
+hele, tady je to středisko, to je pecká,
+tam si zaližuješ s dětmi, všechno to.
+A já jsem tam zrovna byl, a bylo
+samozřejmě modro, protože já si umím vybrat
+termín, takže jako pro mě
+parádička. No a pak mi přijde
+za 14 dní, mi přijde od Poliho video
+na WhatsApp, kde
+totální bílo, mlha, nebylo
+vidět na metr a jenom mi posílá, říká
+tak Románku, já ti hrozně moc děkuju,
+je to pecká, přemýšlím, že si to ještě
+prodloužím, nebo co si říkáš.
+Jo, jo, jo, přesně. Sarcasmus level 10 tisíc.
+Hlavně my jsme vždycky jezdili do Rakouska,
+protože to je blízko. A letos mi říká
+kamarád, hele, pojď s náma do Itálie,
+tam je to vždycky jako fajn, vždycky je tam
+hezký počasí, pojď s náma.
+A já říkám, to je daleko, no ale je to počasí.
+Takže kvůli počasí jsem měl 8,5 hodiny
+nebo kvůli, abych tam zažil tohle.
+Naštěstí, samozřejmě jsem si vybral
+tu nejhorší chvíli, kterou jsem ti poslal.
+Nebylo to zas až tak hrozný, dalo se
+normálně, jako, viděl jsem kam ližu,
+takže dobrý. Jo, jo, tak super.
+No takže už jel se to ve finále. Jo, hele, super,
+odpočinul jsem si a jsem připravenej
+na tu kanonádu hostů, který nás čekají,
+protože už to máme vlastně skoro připravený.
+No je to masakr, máme toho hrozně moc,
+myslím si, že v téhle sérii zase
+ty, co mají rádi technický podcasty,
+ty, co mají rádi opravdu tu šťávičku,
+tak si pošušňají,
+ale jelikož ty se nezeptal,
+jak jsem se měl já,
+tak já si.
+Jak ses měl, Marku, skoro jsem zapomněl.
+Děkuji, ještě se ptájí. Vám se dobře, děkuji,
+ale chtěl jsem se ti pochlubit, samozřejmě i posluchačům.
+Nevím, jestli jsi to zaznamenal,
+povedla se mi velká prda
+v mém
+speakerské kariéře,
+protože před dvouma rokama
+se mi podařilo dostat na NDC Oslo
+a musím se vám všem, milí posluchači,
+pochlubit, podařilo se mi to znovu.
+Letos byl rekord, bylo přes 2000
+Call for Papers proposalů
+do Osla
+a v červnu teda mě vybrali,
+že letím zase pod voletek do Norska
+a budu mluvit na největší dotnetové
+konferenci.
+Tak gratulace.
+Děkuju, děkuju.
+Takhle, víš co, udělat ten titul jednou, to je jednoduchý,
+ale obhajit, to je složitý.
+Teď chci být jako ten opřinec.
+Jo, jo, přesně, jako ten opřinec.
+Nemůžeš říct jako Litvíno, chápu.
+No jasně, ani ne jako Sparta, bohužel.
+No jasný, jasný. No hej, tak to je super,
+to je super. A teda dobře, když jsi se pochválil,
+tak já bych jenom chtěl teda k těm posluchačům říct,
+že jsem teda
+se svojí jmenovkyní Sarou Polák
+natočil epizodu jejího
+podcastu
+Pioneer's Talk, kde jsme pokecali trošku
+o datovém světě, takže kdyby někoho zajímalo,
+měl bych chuť, tak u mě na LinkedInu
+to určitě najde. A já to viděl a potvrduji,
+bylo to super, bylo to přesně
+na té hraně, kdy ty to umíš, kdy
+balancuješ mezi jako high level strategic
+věcma a tou šťávičkou,
+takže i já jsem si to užil, bylo to super. A navíc
+jako, co je lepší než jeden Polák?
+No dva Poláci, že jo? Přesně, přesně,
+dva Poláci, jasně, máš pravdu.
+No tak pojďme
+k dnešnímu hostovi, to neprokec. No jasná
+věc, jasná věc. Tak hele, dneska budou zase data.
+No ježišmarja. Jednoznačně.
+A máme tady velmi zajímavý startup v téhle
+české kotlině, který se jmenuje Kebula.
+Je to ještě startup vůbec? No tak
+zjistíme odvoj, ty jak tomu dneska říkají,
+ale vždycky, když se s nima člověk baví,
+s těma Kebulákama, jak se říkají,
+tak slyšíš, že no, my z toho startupu
+jsme takový a makový, takže určitě mají
+ten mindset startupový pořád. No tak
+na to se těším. Ano, takže Vojta Tůma,
+to, aby jsme to jako dořekli, Vojta Tůma
+už za chvilku dorazí k vám a k nám
+a těšíme se na to. Tak jdeme pro ní. Jdeme.
+Protože jsme se spolim rozhodli, že i
+v deváté sérii je dobrým zvykem mít
+v podcastu nějaké hosty, tak i dneska
+s námi ve studiu sedí velmi vzácný
+host a dneska je to
+Vojta Tůma. Ahoj Vojto.
+Čau. Čau Vojto, rádi tě vidíme.
+A Vojta dorazil z Kebuli, je to tak.
+Je to tak, přesně tak, přesně tak.
+Tak prosím tě Vojto, taková ta klasika, ty si
+říkal před natáčením, že už si nějaký
+díly slyšel, takže víš, že vždycky na začátku
+je to taková ta standardní
+očuchávačka, co si vlastně za člověka,
+jak ses dostal vůbec do IT, jak ses dostal
+tam, kde jsi a tak všelijak podobně, takže
+pojď na to. Tak jestli to bude
+očuchávačka, tak já jsem fakt přišel z Kebuli
+a přišel jsem pěšky. Tak nevím,
+jestli to je dobrý takhle začít.
+Je to super důvod.
+Tak,
+ahoj, jsem Vojta z Kebuli,
+čo se taky představuji, ale jinak se jmenuji
+Vojta Tůma. A
+kde jsem se tu vyloup?
+My společně vlastně děláme na nějakém
+projektu ve Spořici.
+Ano, Spořice. A je to, že sledoval.
+Sledoval jsem poslední díla, už tomu jinak
+neřeknu, než Spořice. V pořádku.
+Takže spolu jsme se tam teďka potkali
+a Poli říkal, jako jestli bych se nemohl
+přijít, já jsem říkal, že už chci být slavnej,
+protože váš podcast je jako mega, mega slavnej.
+Dobře to říkáš. Dobře.
+Já si to dám teďka na LinkedIn, tak se to ještě
+třeba jako zvedne malinko, jo. Dobře se to naučí.
+LinkedIn před přeměšívo
+speciální bedži byl nebo nebyl
+v podvodce sem. Jo, jo.
+Super, tak se to tam budou moc dát,
+tak se teďka jak to vyjde, doufám, že to,
+nevím, jestli to bude nějaký dopad, no.
+Je to začín. Bude tam
+Open to Work, Hiring a byl v podvodce sem.
+Jo, přesně.
+To si myslím, že bude super.
+Tak držem palečky, za to vám to vyjde.
+Já jsem rád,
+že tyhle úvody prostě nejsou
+stejný. Přesně, přesně. Já jsem ti říkal,
+že to bude unikátní. Jo, bude to unikátní. Tak pojď prosím mě,
+takže ty jsi dorazil ze Spořice, kde tě
+Polák zahnal do kouta a donutil přislíbit,
+aby jsi sem přišel, ty jsi dorazil,
+ale jak ses vůbec dostal do Kebuli,
+do Spořice a pojď úplně od začátku,
+vlastně tvá cesta fajtý. Dobře,
+takže já jsem se narodil v Hořicích,
+už je to nějaká doba. Čemu se tlemíš,
+ty vole, tam je porodnice, můj brácha se narodil
+v Hořicích, já to tam znám. Já to tam znám,
+my tam teďka chodíme hrát florbal ze synem,
+ale jak to znal to? Vy jezdíte do Hořic
+až na florbal, když to jsou Hořice, že to je
+nahradec králové. Jo?
+Jo? Počkej, tak Hořice pod Krkonoší
+se to jmenuje. Tak jsou ještě jiný Hořice.
+Jako jestli jezdíš s Peťou na florbal do Hořic,
+tak mám pro tebe zprávu,
+jsou i blížší ty vole místa, takže se národil
+v florbal. Ne, jsou to jiné Hořice,
+tak dobrý. Dobrý, dobrý, takže se netlep,
+takže narodil ses v Hořicích. Což není
+vůbec světlý město, jo?
+Takže jsem se národil v Hořicích,
+potom nějaká doba uplynula,
+takový ty první počátky
+v IT teda chcete vědět, jo?
+Já si myslím, že jsem nějakou první webovku
+udělal v šestý třídě
+na základce, kdy pomocí
+framesetů, klasika, že jo, to byla nejmodernější
+technologie, kde jsi mohl dělat
+víc věcí, mohl si tam dát meníčko a takový věci.
+Word arty, který se takhle točili
+do kola, že jo, tak jsem udělal prostě
+úplně topový stránky naší třídy.
+A nemělo to
+žádný úspěch prakticky.
+Potom jsem nějak
+napsal nějakou svůj první PHP-kovou appku.
+To bylo jako
+personal homepage v té době, že jo, ještě.
+A já jsem si myslel, že když použiju
+PHP include a dám tam
+jiný HTML soubor, takže už je to PHPčko.
+Jsem pak byl trochu zklamaný, že to
+jako nebylo úplně ono.
+Ale pak už jsem udělal jako i echo a podobné věci,
+ale než jsem jako zjistil, co je to programování,
+tak já si myslím, že mě to
+jako na tu střední, tam jsem někde
+jako začal dělat takový ty první PHP-kový weby.
+Měl jsi tam guestbook a počítadlo?
+Samozřejmě jsem měl počítadlo.
+Hele, možná bychom se mohli podívat, jestli ta webovka
+ještě běží, kolik tam jako by bude lidí.
+Tak povídej.
+Tyjo, to bude...
+Hele, zkus tam zadat.
+B2TV
+SP
+VZCZ
+Jasně, VZCZ
+Jako B2TV
+SP VZCZ, ano?
+Tak počkej, teď mi to...
+A nebo to je ICCZ, že jo?
+To byly prostě, mělo se jako na VZCZ.
+VZCZ nebo na internet centrum.
+Jo, jo, jo.
+To můj syn už vůbec nepochopí.
+Tohle bude poslouchat.
+Protože se jako nikdo neměl na to, jako na domenu prvního řádu.
+Hele, něco to našlo, samozřejmě to není...
+Ne, tak ne, tak bohužel.
+Bohužel.
+To byla moje druhá webovka, to byly stránky
+našeho airsoftovýho týmu, jak řekla moje máma.
+Airsoft, takový ty kuličky.
+Jo, jo, jo.
+Jsem s tím strávil asi deset let života,
+tak na to jsem docela pišnej, to mě udělalo pár kámošů.
+A tam samozřejmě počítadlo bylo
+a kdo má svátek.
+Protože když jako hledáš...
+A, samozřejmě, ano, kdo má svátek.
+Něčí, když hledáš jako nějaké...
+Já nevím, proč jsme ani ty webovky dělali.
+Dělával jsme tam fotky s akcí.
+A strašně důležitý bylo vidět, kdo má svátek, že jo.
+Jo.
+Protože tak jsem tam hodil nějakej iframe.
+A to jo, potom si myslím,
+že žádnej úspěšnej web jsem jako chvilku neměl.
+Jako co by mě trhal takovou návštěvnost,
+jako 600 lidí za tři roky a podobně.
+Víš co, 450 z toho byly nějaký botí,
+ale ty jsi to neměla k vysledovat tu chvíli.
+Takže jsi tam onanoval nad tím,
+abys měl fakt vysoký číslo, který vůbec nic neznamenalo.
+A potom
+jsem začal
+dělat
+html šablony na kšeft.
+To bylo masový,
+to jsem udělal jednou vlastně.
+A teda se mě ptal
+Borec, kolik za to chci.
+A já jsem si říkal, jo, já nevím, tisícovku,
+no to je asi docela hodně, že jo.
+Tak jsem to tam bušil asi tři týdny za tu tisícovku.
+Udělal jsem to.
+Myslím, že to možná taky do teďka poběží.
+A to už radši nebudu říkat
+do podcastu, kde to je.
+A to nejsem moc hrdej.
+A potom jsem začal
+programovat
+za peníze.
+To už bylo vlastně
+na vejšce.
+Tak tam už jsem nastoupil
+vlastně do firmy, která dělala
+cestovní systém, nebo
+prodeje vlastně
+provizní prodej
+zájezdů.
+Tak tam už bylo fakt jako PH-bko, že už jsem
+fakt musel udělat jako echo, if a podobné věci.
+Takže to už fakt bylo tvrdý, jako.
+A tam jsem si myslel asi
+po půl roce, jako že jsem absolutně na vrcholu
+svý kariéry. Znáte to, ne? Jak něco se
+naučíš, myslíš si, že seš tam mega dobrý, ale
+jako s proměnou těm můžeš úplný hovno, že jo.
+Takže to jsem byl na tady tom píku,
+kdy jsem si říkal, hele, já se o tom začnu
+povídat. To bylo někdy tři týdny asi po tom,
+co jsem tam začal pracovat. Tak jsem si říkal,
+že bych o tom měl přednášet. Pak jsem dostal
+studenou sprchu, když jsem musel uložit
+první formulář, to by bylo takový jako
+vrchol mý programovací
+kariéry.
+A tady to jsem držel do nějakých
+24, to bylo vlastně v Liberci,
+kdy jsem tam byl na technické univerzitě.
+Já jsem se chtěl zeptat, kam jsi šel na výšku, takže
+na tulu, jo? Na tulce, na tulce.
+Mám tam několik
+úspěchů. Byl jsi na Harcově?
+Byl jsem na Harcově, no.
+Jsi znalý.
+Tam je taky florbalová hala, víš?
+Kdyby jsi nezjel do Hořic, pole, tak to víš.
+My jezdíme do Hořic.
+Tam je florbalová hala.
+Tam jsem pracoval už o toho.
+Jsem tu výšku udělal jako 3 plus 5,
+klasika, že jo, jsem se to mohl trochu natáhnout.
+Ale měl jsem tam už pár úspěchů.
+Vyhrál jsem třetí místo v pivní výceboji.
+A to jsem extrémně
+hrdej.
+To byla speciální... Já nevím, je to technický podcast?
+Je, ne, dávej, dávej, jasně.
+Jako po texty, že si povídám
+nějakou kafe a splněš to dokonale zatím.
+To byla klás soutěž, kdy
+směl dát jako pivo
+na sedm různých způsobů na ex.
+Že to bylo, že jo, z půl litru,
+pak tu plák ve dvou,
+šest malejch piv, pět malejch piv.
+Na konci byla žirafa,
+to je takový jako velký válec,
+který si dole stočí, že jo.
+A já jsem měl kamaráda právě,
+kterýho jsem potkal na Airsoftu
+a potom jsme spolu chodili na výšku.
+A on byl
+prostě jak my tři dohromady, jo.
+A do toho ty piva padali, jo.
+Takže já jsem měl rozhodně ten slabší kousek.
+A my jsme celou tu soutěž obješli
+jako za tři čtvrtě hodiny.
+Já jsem byl teda už dost vodepsaný, ale ten chlapání říkal
+ne, ne, ne, máme strašně špatný časy,
+si půjdeme ještě jednou, jo.
+Takže jsme si tohleto dali ještě jednou.
+To čtrnáctý pivo, to už jako by bylo
+dost složitý. Takže to
+on už zvládnul sám, že tu žirafu,
+on to jako by točil
+a ono mu to strašně pěnilo, tak se říkal,
+že se na to vykašl, čapnul tu žirafu
+takhle a vypil jí zvrchu ten válec.
+A tak jsme získali speciální cenu,
+protože jsme to celý obješli dvakrát, takže to je
+můj velkej jako speciální úspěch na Tulce.
+To je hezký příjmen.
+Kolej, to se stalo na těch kolejích
+přesně na Harcové.
+A jinak jako z těch věcí, co jsi tam,
+co byly super,
+Tulka nám
+dávala spoustu možností
+chodit do práce jako to.
+Ne, že by to nebylo jako náročný, ale mohli jsme
+prostě během toho chodit do práce, takže já jsem se tam vybudoval
+nějakou tu první
+kariéru jako toho vývojáře.
+Takže ve 24, když jsem dodělal toho
+inženýra, jsem na to byl strašně pišnej.
+Jsem byl trochu jako,
+jsem byl moc pišnej na to. Já jsem zvedal jako
+telefony inženýr Tuma, prosím, a pak jsem
+zjistil, že jsem byl jako malinko
+samochubrat.
+Pak moje přítelky mě dala trochu feedback,
+že to už je trochu mod.
+Takže
+potom, jak to tak bývá,
+takže kvůli ženě
+jsem se předstěhoval do Prahy.
+Tady jsem
+pokračoval kariéru ve firmě Ušetřen.cz,
+což byl srovnávač.
+Takový těch, nebo pořád
+je to srovnávač jako denních
+nebo, pardon, měsíčních výdajů, takže
+co platíš měsíčně, hypotéka,
+půjčka, nějaký tarif,
+elektřina, plyn,
+tak tohle to vlastně všechno srovnávali.
+Když jsem sem šel, já jsem
+pamatuju takovou věc, že jsem si říkal,
+tyjo, kolik, jak se mám říct, peněz, víc co
+jako jdeš do Prahy, že jo, teďka to byl
+rok 2014
+a já jsem si říkal,
+tyjo, tak řeknu si třeba
+dvojnásobek toho, co beru, ne, tak
+já jsem v tu dobu bral třeba, nevím, 15 tisíc
+jako jo, na vybojáře, jako si řekneš
+teďka, kamarády se zblázil, ne, co jsi tam
+chodil, jako, pohřívat kafé jenom
+a tak jsem si pamatuju, že jsem
+si teďka říkal, jako, že, hele, já bych
+možná jako chtěl jít dělat třeba za 30 tisíc
+třeba, jo, víš, a
+já jsem říkal, tyjo, to je asi moc, že jo, a teďka
+jsem to říkal těm lidem a já jsem řekl těch, že jo,
+těch 30 na tom pohovoru a oni
+se tak vykoleli v oči a já říkám, tyjo,
+to bylo moc, asi to jsem prostě ještě hnal
+a ten týpek říkal
+už na konci toho, hele, my jsme tě vzali
+jakože už teda jsem pochopil, že to
+asi jako bylo docela málo
+a tam
+jsem nějak, tam jsem
+jako vývojářil, já jsem měl vždycky strašnou
+strašně dobrý bylo, že
+já jsem, strašný štěstí jsem měl
+na to, že jsem vždycky potkal nějaký lidi, který
+toho měli víc jak já
+takže já jsem se vždycky měl od koho učit
+a to mě trvá jako
+do teďka, že jsem se tam vždycky
+našel někoho, kdo měl jako líp vývojářit
+a v té předchozí firmě
+jsem tam měl přesně kluka, který mě jako
+učil, jak používat kompouzer a ne, dělal jste
+někdy v PHP-ku nebo? Jo, jo, jo
+já ne, já jo, jo, jo
+tak byl jako kompouzer, což
+byla super věc, nebo pořád je jako super věc
+na balíčka, ale jsem to předtím neuměl, že jo
+udělali jsme nějaký deployment, který
+prostě nebylo jako kopírování věcí
+na F-týbko v Total Commanderu, že jo
+kdy každej vždycky kliknul
+na to 1, 2, 3, protože ho nikdo neměl koupenej
+že jo, tak vždycky usel kliknul na to
+pamatujete si to ne?
+A Vindrar jsme měli
+všichni koupenej na tu samou firmu, myslím
+jak to tak bývalo
+Takže v Užetřeno.cz jsem se chtěl zeptat
+ten text, tak bylo to PHP-ko, klasika
+Jo, jo, tam bylo vlastně PHP-ko
+začínali jsme tam tehda s Dockerem
+to bylo poprvý, kdy jsem přišel jako do
+do styku
+s Dockerem, tam jsme to vlastně tehda diskutovali
+s Láďou Prskavcem, který byl prostě jako špičkou
+vlastně byl to jedinej člověk, který jako s Dockerem
+měl nějaký zkušenosti
+tak ten nám to tam tehda pomáhal implementovat
+měli jsme tam
+nějaký nodeový servisy, který jsme používali
+jako na asynchronní věci, ono zatím bylo
+callcentrum
+je zatím prostě velký a u toho callcentra
+se děje jako spoustu eventů
+takže jsme tam měli nějaký rozšíření
+do toho prolížeče pomocí, kterýho jsi mohl volat
+byl tam nějaký nodeový server, který
+bral tady ty eventy
+byly tam nějaký websockety přímo do toho prolížeče
+tak s tady tím jsem si docela hrál
+aby jsme
+typicky chceš, aby ty lidi se jako dovolali
+co nejčastějc
+takže vlastně roztáčíš víc čísel, než
+na kolik se třeba dovolají, takže jsi tam dělal nějakou
+servisu, jako zpětně na to nejsem úplně hrdej
+jako když se vezmu, když jsem na té druhé straně
+a teďka mi ty lidi volají, ale technicky to bylo
+zajímavé, že jsme roztočili
+třeba čtyři čísla na jednou
+a teďka ty jsi viděl s nějakou
+pravděpodobností, že to zvedne jako
+jedno z těch čtyřech, takže
+takhle jsme si s tím jako hráli
+hledali jsme nějaký to správný
+správný
+místo, ten limit, jako kolik
+jich můžeme roztočit a jako
+to zajímavé bylo, že
+když se s tím člověkem spojíš, tak ty vlastně
+předtím nevíš komu voláš
+jako někomu se roztočí čtyři čísla
+a teďka ty lidi tam čekají, ne, a jemu se točilo
+takhle to kolečko a on tam prostě čekal
+jakmile se mu to spojí, tak
+mu muselo na té skrýně bliknout, komu
+vlastně voláš, takže
+tohle to bylo, já jsem viděl pak ty
+operátory, který tam takhle seděli
+a teďka takhle jako
+on byl připravený, připravený co se děješ
+a teďka to píplo a teďka bylo si
+že no, blé, protože první sekunda
+nebo něco takového trvá, než se ten člověk
+spojí, než začne zvonit ten správný telefon
+takže on ani nevěděl jako s kým
+mluví, protože ten člověk se mu jako představil
+prosím jméno a bylo tam ová
+třeba, a ten člověk začal
+hledat jako s kým si vlastně volá
+takže jsme tam dávali nějaký prázdní slova do toho
+call scriptu, ale jako technicky
+to bylo zajímavý, že jsi musel jako je
+správně spojit, musel ti přes ty websockety
+vyskočit vlastně ta stránka, která si
+načetla jako všechno, o koho se vlastně
+jedná, tak to byl takový jako
+technický špek, co jsem tam říkal
+Když jsi tam stal teda, jestli jsi to
+jestli jsem to dobře sjel s LinkedInu
+potom team leaderem
+tak jak k tomu došlo? Jako objevili
+v tobě nějaký
+síly nebo silný stránky
+který tě k tomu dovedly?
+Já si přesně pamatuju, jak jsem
+tam, já jsem tam
+pracoval asi rok a
+ta firma hledala
+pořád jako nějaký, tam ty manažiři byli
+vlastně dost mladí všichni
+a hodně se to tam měnilo a ta firma
+pořád hledala takový jako správnej setup
+a až jednoho dne
+přišli vlastně investoři do toho a řekli
+hele, tak my vám jako tady zkusíme
+pomoct udělat trochu ten pořádek
+a já jsem v tu dobu, když přišli ty investoři
+tak já jsem zrovna stal u tabule
+a něco jsem tam psal
+a přišel ten můj
+bejvalý šef, Michal Hanus
+a říká, výborně, ty to povedeš
+Jako to bylo až takhle jednoduchý
+Takhle jako jednoduchý to bylo a já jsem
+v tu dobu, že jo, prostě ti
+bylo 25, jsem prostě myslel, že dokážu
+zbořit svět, jako dokážu
+všechno, říkám, jasný, povedu to, není problém
+manažerský zkušenosti, jak blázen, viděl jsem
+jedno video na YouTube, jak se chovat klidem, že jo
+tak to můžu celý dělat
+To je super, já si říkám, že tam stává někdo
+a chtěl jsem zeptat, komu tady
+spadla tato tuška
+Ty to povedeš
+Jo, tak bylo tam víc věcí
+kolem toho, samozřejmě, že ten můj šef
+jako toho to nějak jako úplně
+nebavilo, ten pak šel jako zpátky do technologie
+znáte to, seškolý programátor, tak bys
+mohl dělat manažera, že jo? Špatnýho, ideálně
+Ideálně, tak bys mohl dělat špatnýho manažera
+co ty na to? Znáš to, Román, koupíš toho špatnýho
+Jo, jo, jo, asi
+Takže ten se tam vlastně jako do toho takhle pustil
+a byl v tom jako poměrně nešťastný
+Tak já jsem to tam ved
+asi dva roky
+byl to tým asi pěti lidí
+zase zpětně, jako když se podívám, jak jsem
+to dělal, tak asi bych
+spoustu věcí změnil
+Já jsem pak potom
+spadnul do leadershipu
+té společnosti, takže jsem byl při takových
+těch kolečkách, kdy se řešili fakt velký
+věci, prostě budžety
+jakou strategii
+zvolíme vlastně na ty různý věci
+to bylo super, protože zase jsem se dostal do toho
+kolečka, kdy tam byli lidi,
+kteří toho věděli více jaká
+v té době bylo teda, já nevím, 25, 26
+tým bylo 30, ono
+v tu chvíli je to pro tebe dobrý
+a teďka zpětně, jako
+vidím, že ta firma v tu dobu
+prostě ty manažery
+úplně jako vypěstovaný
+nebo vychovaný jako neměla, ale bylo
+to super v tu dobu, že tě to posovalo dále
+snažím se pořád držet vlastně mezi nějakýma
+staršíma kolega, nebo staršíma
+s více zkušenostmi, ono ne vždycky
+starší člověk má více zkušeností
+takže jsem se dostal do tady toho
+a to už jako od toho programování
+bylo tak daleko, že už
+mě to vlastně moc nedělalo happy
+to je typický track toho
+toho tech člověka, který
+chce dělat v těch technologiích, ale
+za chvíli se dostane jako do té manažeřiny
+a teďka řešíš jako
+budget, kolik lidí si můžeš nabrát a koho
+vyhodíš a jako
+já jsem se na té univerzitě neučil
+technologie, takový topový jako
+assembler, co jako využiješ v denním životě
+když si chceš napsat webový server
+v assembleru
+tak jsem se prostě neučil tady ty věci
+kvůli tomu, abych jako řešil
+že jedno mu vadí to, že je otevřený
+v okno, ale druhý ho chce zavřít
+ale jak jsem říkal
+hele, asi trochu pojďme zpátky
+na koleje
+jako ne na Harcov, ale zpátky
+no, no, to už ne, ale musíš se jako
+já bych se tam někdy vrátil, no, ale víš co
+ten život už je mu něčím jiným než
+kdo ne, jako, ale
+něco už nejde, prostě
+něco už nevrátí zpátky
+takže ty jsi to hodil zpátky na ty technické koleje, řekněme
+no, já jsem tam
+jako moc nevěděl, co dělat
+a to mě bylo asi 28
+to bylo jako docela smutné
+a dostal jsem se do takového stavu
+znáš to, když ti, nebo já nevím, jestli to znáte, ale
+takový ten člověk předtím, ono se říká, že
+už ještě všichni vyhořejí teďka v tom IT a tak dál
+já si myslím, že jsem byl spíš unavený
+že lidi, když vyhořejí
+tak fakt jako ležejí na zemi a nemůžou se pohnout
+a klepou se a z toho nás nemůžou najíst
+já jsem z toho spíš byl takový jako smutnej
+už bez jiskry, jo?
+takový, jako už hodně bez jiskry jsem byl
+a
+tak jsem si řekl, že je potřeba
+něco změnit a
+bylou náhodou mi
+poslal kamarád video
+o motorkářovi, o Čechovi
+Pavel Pondělík se jmenuje, který dojel na motorce
+na Magadan, to je
+nejzdálenější místo jako na
+euroazijským kontinentu, kam můžeš dojet
+já jsem zjistil, že tam je pak ještě jako jedno
+město, ale to jsem se nechal na příště, až tam pojedu znova
+a
+já jsem si říkal, tyjo, to je mega dobrý
+prostě, ten
+kluk se sebral, jel tři měsíce
+jako tam
+toho moc není, a jel ničím
+a říkal jsem si, tyjo, já budu mít čas přemýšlet
+nad životem, co s tím životem, to je super
+a tak jsem začal někde vlastně v roce
+2017
+jsem už začal plánovat, hele, já musím jako vypadnout
+z toho, protože
+ten můj pohled jako na svět už byl takovej, že
+víš, zákazník to je člověk, který se jako musí
+odrbat a musí z něj jako
+úplně narovinu, takhle jsem měl jako ten
+mindset, musí z něj jako vzít
+co nejvíc peněz a to jako není správně
+jako teďka zpětně
+vím, že jsem to měl jako přehnaný trochu a říkám si
+tyjo, Vojto, tohleto jako
+není úplně dobrý a měl bys asi
+vidět ten svět, podle mě všichni by měli vidět
+svět, tak se seberte a jděte taky na motorce
+Takže jsi sednul, jel jsi
+No, rok jsem se připravoval
+a pak jsem si říkal, hele, pojedu sám
+čtyři měsíce, promyslím si, co s tím
+životem a žena mi
+řekla, jo, jasný, jeď
+Musela jsi řekla, nikam nepojedeš
+a to je konec příběhu
+Tak ona viděla, jako ty ženy jsou
+skvělý zrcadlo, si myslím, jako pro nás
+který jako děláme v tom
+IT, kde prostě
+je jednoduchý se strhnout, protože můžeš
+jednoduše pracovat doma
+Ono tohleto ten truhář, jako moc se třeba doma neudělá
+protože on prostě
+to zapíchne v té práci a doma už to
+jako moc nehohobluješ
+a nahradíš tím, že tam jsi do deseti do večera, že jo
+každej den, ale myslím si, že to
+IT je k tomhletomu jako super náchylný
+že máš jednoduchou
+možnost, jak pracovat do noci
+Děti usnou a jedeš znova, že jo
+Jasně, jasně
+Takže já jsem si řekl, nebo ona mě řekla, jako
+že by bylo dobrý se z toho jako nějak vystoupit
+Tak já jsem
+vlastně někde v květnu
+2018 jsem se rozhodl tak, že pojedu
+už jsem se na to začal připravovat, řekl jsem to
+rok ve firmě, dopředu, to jako nedělejte
+rok dopředu, jako říct, že budete končit
+Jako není zpětí, to nevidím
+jako dobrý rozhodnutí. A to jsi byl ještě
+v ušetřenosti? To jsem byl ještě v ušetřenu
+a tam už jsem byl jako, přestal jako trochu počítat
+to bylo jaký zvláštní období
+Zvláštní období? Za rok asi odejdu na
+třetinu roku
+Jo, asi budu pryč. A ty jsi plánoval
+odejít komplet, anebo jsi plánoval jenom si dát
+ty tři, čtyři měsíce? Hele, já jsem nevěděl
+v tu chvíli, jako fakt jsem nevěděl, co
+bude. Říkal jsem, že se vrátím, ale
+vlastně... Takže ty jsi jenom oznamoval
+jako... Rok dopředu, že tam nebudu
+Jo, že tam nebudeš na nějakou dobu, ale ne, že
+odejdeš z firmy. Asi, že odejdu, že by se
+měl nějakou náhradu a že něco bude potom
+a já si myslím, že
+ta firma mě pak ani jako
+já už jsem tam ten výkon jako
+nepodával nějaký extrémně dobrý, ono
+když je pak jako člověk vyčerpaný, tak si myslíš, že všechno
+je v chybatý firmy a ta firma si myslí
+hele, ten člověk toho jako by mohl dělat víc
+takže já si myslím, že
+my jsme se už pak jako
+co se týká performance
+jako týmí, jako už
+rozešli s tím, že hele, tohle to
+jako můžeš se vrátit, ale už asi ne na
+tu samou pozici a bylo to úplně
+fair, protože já jsem z toho byl jako fakt
+byl jsem z toho špatnej
+pak jsem teda řekl, že pojedu na tu motorku
+řekl jsem, že pojedu sám a pak za mnou přišel
+kamarád a říká jako, že byl
+se mnou a říkám, hele, já bych jako
+chtěl jít asi sám vlastně
+a on mi tak
+jako říká, hele, tak aspoň kousek
+kde bych s tebou jel a já říkám, hele jo, tak pojďme
+to vyzkoušet, udělali jsme si takový malý
+trip a mě pak došlo, že
+absolutně neumím vařit a že bych umřel hlady
+tak jsem říkal, hele, zajdo
+to je ten můj kamarád, hele, já nemůžu
+jít sám, jako pojď se mnou, protože
+já potřebuji někoho, já se budu starat o ty motorky
+a ty se budeš starat
+jako o to, abychom neumřeli hlady
+no a bylo to skvělý, tohleto nám vlastně
+trvalo čtyři měsíce
+kdy jsme, kdy jsem dal ženě
+jako na jaře jsem jí dal někde pusu
+a říkal jsem, vrátím se na podzim
+a čtyři měsíce jsme
+cestovali vlastně po
+euroazijským kontinentu
+trvali jsme to nějak jako dolů
+Albánie, z Albánie
+nějak přes Turecko do Řecka
+pardon, z Řecko
+Turecko, Gruzie
+tam jsme se, mám rozvízt
+ten jako výlet
+no k tomu se můžeme dostat a mě by
+zajímalo vlastně, aby jsme se dostali taky
+k tomu IT. Takhle já jsem chtěl říct, že tohle je
+nejdelší představovačka ever, protože
+jsme na nějaký jako pětadvacátý minutě
+a ještě jsme nedošli
+do Kebuli, takže k výletu se klidně dostaneme
+jo, ale možná ještě, aby jsme to jako uzavřeli
+tak by mě zajímalo, co ti to vlastně
+čepak jsi šel do Kebuli, kdy jsi se zvrátil
+tak co ti to vlastně přineslo, jako jestli
+ty jsi tam pro něco jel, tak jestli ti to vlastně
+přineslo to, co jsi tam hledal
+jo, já jsem si řekl, že budu moc
+přemýšlet nad tím životem, jo
+ono pak zjistíš, jako že nemáš moc času
+přemýšlet, protože si snažíš získat
+místo, kde budeš spát, aby těla motorka
+potřebuješ benzín a potřebuješ jídlo
+to jsem řešil 99%
+jako té cesty
+a užíváš si tu cestu vůbec, když jako jedeš
+jo, bylo to skvělý, jako
+bylo dobrý jet s tím kámošem, protože
+jsme si večer prostě sedli k tomu v ohni
+a probrali jsme, jako co se dělo za ten den
+koho jsme kde
+viděli prostě, co jsme kde zažili
+a takže to si jako extrémně
+užívám, jako jel bych znova, okamžitě
+a teďka to
+nejde, nebo
+že jo, mám rodinu, tak zase ty lidi,
+který jsem potkával, tak mi říkali, hele Bojto, to můžeš
+jet teďka, pak 20 let
+ne a pak zase až po rozvodu se jezdí
+jo, to moje manželka
+neslyší ráda tohle, takže si řekl, že za
+20 let se budete rozvádět, teď jako
+už je cenu, abych z teba nepočítal
+já jsem přijel domů a řekl se mi, jo to bylo
+skvělý, to bylo skvělý, moc rád tě vidím, chtěl bych
+jet do Afriky
+nepadlo na úrodnou půdu tohleto
+a
+než jsem tam našel to, hele
+podle mě každej by se měl jako podívat do toho světa
+aby zjistil, co jsou reální problémy
+že to, když dneska
+se nám něco nepovede, jo, třeba
+ve spořici prostě něco jako nasadíme
+o malinko díl
+tak je rozdíl, jestli tě sežere medvěd
+a nebo jestli prostě budeš mít
+error v pipeline, jo, že
+tam se asi tě sežere mec nebo medvěd
+jo, jo, jo, no tak toho
+pak poliho, že ho sežere
+ale zjistil jsem jako, co jsou to
+reální problémy v životě a teďka
+když však je takovýhle jako přijde
+i třeba technologicky, tak řeknu super, co tam máš dál
+jako, žijem, dobrý
+nikdo neumřel, jako
+pojď dál, tak tohleto mi to asi přineslo
+a
+mám jít ty kebule, že jo
+pojď no
+jo, já už tam zkusím naběhnout
+no a pojďme teda do té kebuly
+takže přijel jsi
+totálně jiný mindset
+problémy si viděl už
+řekněme s odstupem, protože víš, že ne
+všechno je tak důležitý
+když nejde o život
+a jak se teda stalo to, že si
+odešel z ušetřeno, čtyři měsíce si měl
+takovouhle objevnou cestu
+a pak, co byl ten krok?
+Já jsem byl zákazníkem kebule
+vlastně už v ušetřenu, kde jsme
+to použili
+a já jsem tam poprvé potkal Pavla Doležala
+který je
+co-founder v kebule
+a na mě ten člověk jako udělal super dojem
+a já jsem říkal, tyjo, to je frajer
+s ním bych chtěl dělat
+s ním bych chtěl dělat
+tak jsem s tom měl takový dobrý pocit
+a já když jsem pak byl doma
+tak jsem byl vlastně bez práce, jsem přijel
+jsem byl asi měsíc doma
+a teďka jsem, že našla
+byla v práci, že jo, a já jsem žehl
+prádlo, prostě nějaký kapesníky
+a koukal jsem u toho na sama doma
+to je takový ten
+na četečku
+a já jsem si, tak jako víš, co se zastavíš
+a řeknu si, sakra, co to tady jako dělám
+asi by to s tím životem
+chtělo zase něco udělat, ne
+a tak jsem vlastně říkal
+jsem to probral pak se ženou, když se vrátila
+z práce, já jsem měl vyžehlenou, vyprávnou
+a udělaný oběd
+a když jsem říkal, že by to asi chtělo něco
+začít zase dělat, tak co bych mohl dělat
+a ona, no líbila se ti ta kebula, ne
+a říkám, jo a vlastně vidíš to
+no a tak tam napiš, tak já jsem říkal
+ok, tak tam napíšu
+potkali jsme se druhej den vlastně s klukama
+a kebula v tu dobu byla
+na Karlíně
+my jsme tam měli takovej mezonetovej byt
+tak jsem se tam s klukama potkal
+šli jsme na oběd
+a skončilo to vlastně tím, hele pojď s náma do
+kanclu a dali mi přístupy
+do gitovejch rep a začal jsem tam
+vlastně dělat, nějak jako druhej den
+jsem jim řekl, hele já vlastně nemám doma co dělat
+mám vlastně vyprávnou, vyžehlenou
+tak jako můžu jít
+kolik tam bylo tenkrát lidí a kdy to bylo?
+bylo to v roce 2018
+a bylo tam
+30 lidí třeba
+já si myslím něco takového, my jsme ta hra rozjížděli
+americký kancel
+zase
+se tam rozjížděl
+nebo možná ta hra to byla jako poprvý
+my jsme to pak ještě párkrát zkusili
+a
+teďka
+nás je už třeba jako
+100
+10 něco takového
+ok promiň, já jsem ti přerušil
+takže pak jsem tam nastoupil jako vývojář
+tyjo v Kebula to bylo mega dobrý na začátku
+já jsem to tam pak jako sám
+já nevím si říct, jestli si zkazil, ale
+já jsem tam byl a dostal jsem za úkol
+vytvořit F-týpkový
+extraktor, na Kebula je
+tool, který prostě pohybuje
+z datové integrační platforma
+dostaneme se
+k tomu asi potom
+a jedna z těch
+jako věcí, co to musí mít, jsou vlastně ty komponenty
+který ti tahají ty data jako
+zleva do prava, nějaký transformace
+mezi tím, posílání do třetích systémů
+a
+já jsem to dělal tři měsíce
+a nikomu to nevadilo
+a já jsem si říkal, tyjo to není možný
+prostě jestli to bude mět takovýmhle způsobem, tak ta firma
+jako to nedotáhne
+jako moc daleko
+nebo respektive může to dotáhnout daleko
+ale strašně pomalu a já jsem byl zvyklý
+jako z toho předkozího prostředí
+týdenní sprinty, týdenní stand-upy
+prostě jak to, že to nebylo včera ta věc
+teď už jsme se o tom bavili včera, že jo
+ale teďka jsem tam měl úplnou pohodičku
+a jsem byl absolutně vyčilovaný
+ale pak jsem si říkal, tyjo kluci
+s tím něco musíme udělat, ne
+a pak tam vlastně
+nebo ten systém tam fungoval
+takže každý dělal jako na čem chtěl
+že neměl si žádnej
+jako žádná džira tam nebyla, to jsem pak přitáhl
+až
+protože to byl až takovýhle punk
+absolutní punk si, jako že
+ten vývojářský, ona ta platforma jako
+jela byla spolehlivá všechno
+ale když se jako něco vyvíjelo
+tak to bylo fakt takový, že
+někdo řekl, hele vlastně Padák, náš founder
+řekl, potřebal bych udělat tady to
+jemu se přidala si lidi, který na tom budou makat
+a dělalo se to, neříkal se žádnej termín
+nic
+a je tohleto přišlo takový jako, bylo to super
+ale vlastně jsem si řekl, hele
+pojďme to jako trochu změnit, protože to můžeme dokázat
+mnohem víc, jinak v Kebule jsou
+mega chytrý lidi
+to je prostě, když jsem tam přišel
+tak jsem si říkal, jestliže v předchozích
+firmách jsem se měl od koho co učit, tak v Kebule
+to prostě bylo tři levely nahoru
+tak jsem
+za to byl strašně rád
+ale pak jsem si říkal, hele pojďme jako
+kluci do toho trochu bušit, tak jsme udělali
+GitHubový
+projekty a tehdy asi ten
+vedení vlastně toho
+techu, tak tam jeden
+z nás, Jakub
+řekl, hele já to zkusím
+víc, uvidím jak ti to bude
+tak jsem říkal, paráda, já ti dám
+support, ale už nechci dělat manažera, já jako jsem
+věděl, že manažeřina jako
+taková, prostě řešíš
+jak se lidi k sobě chovají
+a nechtěl jsem to vůbec řešit
+takže ten Kuba to ved a po
+tři čtvrtě roce zhruba
+řekl, jako že to
+že to asi balí
+a přišel za mnou Pavel
+doležel s padákem
+a říkal, hele Vojto, nechciš to dělat, jako
+máš nějaký zkušenosti, tak jsem
+do toho spadnul znova, že já jsem říkal, hele já nechci
+dělat manažera, budu to dělat dočasně
+prostě, nějak to poskládáme
+a bude to dobrý
+jsem to dělal tři roky
+dočasně
+dočasně tři roky, já jsem pak
+zase spadl do toho, že mě to bavilo, že o chvíli
+ale to bylo dočasné
+a potom jako správný manažer
+jsem si našel vlastně svýho zástupce
+nebo svýho následovníka
+Vlada
+zjistil jsem, že je v tom mnohem lepší než já
+což jsem byl strašně rád
+protože já jsem se tý role
+jako nějak nedržel
+zuby nechty
+takže on to začal dělat a já jsem řekl, hele
+tak já půjdu dělat, v které bylo něco jinýho
+mě vždycky víc bavilo bejt na straně toho zákazníka
+než bejt na tý interní straně
+protože jsem se bavil s těma lidma
+mám rád jako poznávání novejch lidí
+takže jsem pak
+svičnul roli, to bylo vlastně
+minulej rok
+a ta role se teďka jmenuje Field CTO
+kdo z vás si myslí, že jsem CTO?
+Já si nemyslím
+podle toho, co říkáš
+to je jenom nějaká nálepka, aby se s tomu vyhnul
+jo, jo, je to úplná nálepka
+je to takový jako fancy název
+pro solution
+architektůru
+ale asi to nechápou ty
+selsáci na LinkedInu, protože mi pořád píšou
+myslíš si, že jsem CTO
+a říká, hele, já jsem Field CTO, to je rozdíl
+a to Field tam znamená co?
+že jsi na straně toho klienta?
+jo, přesně, že jsi v tom pole a že jsi na straně toho
+klienta, ale říkáš, že má ty technické věci
+hele, vždycky se tomu říkalo solution
+architektura
+a teďka Snowflake to nově
+pojmenoval jako Field CTO
+a pak pár lidí to adoptovalo, tak tomu říkáme
+Field CTO, mám tam sečko
+tak dobrý, veď jsem zahojený
+jednou mě řekl
+Pavel doležel vlastně, hele Vojto, když si tam
+jakýkoliv titul chceš, hlavně když to bude prodávat
+takže Field CTO je podle mě
+přesně jeden z těch, kteří to prodávají
+protože kluci pak říkají, no a my sem převedeme
+našeho Field CTO
+a všichni slyší to CTO, že jo
+takže to prodává
+a
+takže prakticky teda děláš co?
+takže ty seš ten, který když přijde zákazník
+tak ty vymýšlíš, jak se to
+na kebulácký platformě má stát
+nebo
+jo, to je dobrá otázka, mě tohle to jako docela dlouho trvalo
+než jsem si to jako upřesnil, co to vlastně má být
+jako to Field CTO, protože
+je to něco jako
+stav inženýr, jo, ta věc prostě je poměrně
+nová, teďka se to ještě jako trochu formuje
+a každý to chápe jinak, přesně
+a každý si pod tím dá něco vlastního
+ale s mým kolegou vlastně
+s Fischou, s Martinem Fischerem
+jsme si řekli, že
+pojďme tohle definovat, on je to samý
+co já, akorát pro Severní Ameriku, protože
+on bydlí v Kanadě a řekli jsme si, hele
+bude to mít tři pilíře, bude to mít pilíř
+z toho, že se budeme bavit se zákazníkama
+bude to mít pilíř z toho, že budeme
+ty podněty nosit zpátky do firmy
+jako do produktu a poslední
+bude edukativní, že budeme
+chodit na přednášky, že budeme
+chodit do podcastů
+checked
+a já ještě vlastně
+vedle toho učím na univerzitách
+takže šířím jako to slovo
+kebulí a jak správně
+pracovat za tam a v kebule a snažím se
+budovat, je náš love brand
+takže je to
+práce s těma klientama
+jak správně používat kebulu
+ale zaměřuju se jako na ty velký korporace
+nebo enterprizy
+typu spořka vlastně. Ve spořce jsem byl od prvního dne
+kdy se tam kebula nasadila, což byl
+2020
+to byl
+slušnej rok. My jsme tam spoustu věcí
+museli dodělat, aby jsme byli enterprise ready
+a
+ono to běželo, to hrá jenom čistě na AVSku
+jsem teda svičnul to pěkně, vadí, jo?
+Ne, hele, v pohodě, to je tvůj podcast, my jsme tady jenom
+jako pohůnci. Já už půjdu za chvilku domů
+ale ty to ještě tady dojď, když to tě uděláš
+kdyby jsi měl, když tak mohl dolejt vodu, děkuji
+tam jsem vlastně od prvního dne
+my jsme běželi na AVSku a pak jsme si řekli
+hele, pojďme jako spořka, to chci vlastně
+předběhat na Azureu, takže my jsme to celý museli
+přepsat, jo? Kdy ty máš tu platformu
+která není agnostická
+cloudově, je TaylorMate
+vlastně napsaná pro
+to AVSko, takže
+když se pracovalo s nějakýma souborama
+tak žádný, že bys tam měl abstrakci
+jako na faily, ale pěkně S3
+S3 klient rovnou v kódu
+to samý
+s SNSkama, SQSkama, takže žádný
+abstrakce na fronty
+na tvrdák a tohle, nepoužíval
+jsme v té době Kubernetes, protože to bylo
+jako pořád dost složitý, takže jsme
+používali ECSko
+hráli jsme si
+teď hrát s Fargate, ale
+to bylo pro nás drahý
+takže my jsme vlastně tohle celý museli přepsat
+a to bylo, když já jsem vedl ten tech
+tak jsem chodil do té spořky
+diskutovat s něma, jako co
+tam má být, jak to má být udělané, aby jsme to tam
+mohli nasadit
+a pak jsem ještě vedl ten tech
+do toho
+a tohle to nám trvalo zhruba
+rok, než jsme to jako celý přepsali
+a pak
+na Vánoce se to tam nějak jako depojnulo
+a já jsem byl klukům strašně vděčný,
+že se to jako podařilo, fakt jako hodně makališ
+znáš to, když chceš být oblíbený, tak
+škrtej bonusy a dovolený
+takže
+těch dovolených moc nebylo ten rok
+kluci udělali fakt jako velký kus práce
+takže ještě jednou děkuju
+a můžu jménově tě pozdravit?
+Můžeš. Ne, to bych vyjmenoval
+úplně všechny
+ale moc děkuju na kotechovýmu týmu za to, že to zvládnul
+a já jsem pak řekl, hele musíme jako jim udělat
+nějakou reward za to
+že to udělali, tak jsem vytisknul
+takový diplom, bylo tam čestné
+uznání, takový ten komunistický styl
+červený to bylo víc co s rámečkem
+hvězdíčkou, jsem našel
+nějaký vzor, když můj děda byl
+zemědělec, tak jsem našel nějaký diplom
+víš co, jakože za orbu v roce
+1967 dostal jako čestní
+uznání, tak jsme to skopírovali
+a tím, že my jsme jako
+full remote firma
+a pracujeme úplně jako od západu
+od Ústí
+až na totální východ, jako je
+Slovensko, tak
+jsem vlastně... Ústí bereš za západ, jo?
+Jak je to severozápad, ne?
+To bych se chytnul toho, teda, jo?
+Jestli nějako Hořice-Hořovice,
+ale o tom se podbavte poté.
+Já nevím, kdo byl ještě víc, Karlovy Vary možná ještě
+v té chvíli byl. Tak tam to, spíš, no.
+Dobře, takže norský země, nebo
+severský země jsem myslel tím.
+Tak já jsem to pak
+jako klukům rozvest, trvalo mi to asi tři dny,
+to bylo jako...
+Ty jsi to byl jako po pobočkách, jo?
+In person. Mám pak někde fotku,
+jako kdy jsem, no po pobočkách, jako po jejich domovech,
+že byla koruna v tu chvíli, že jo?
+Jo, pravda vlastně. Jo, jo, jo.
+Takže my jsme to tam s rouškama obvozili,
+takže kdyby někdo z nás tu korunu měl, tak si to hezky...
+Úplně celý den v tím vytilujem.
+Tak jsme to obvozili,
+to nám s parákem trvalo asi tři dny,
+tak kluci pak teď byli za to jako šťastní,
+tak teďka, když jsou mu nějaký ty koli, tak za sebou mají
+ten diplom, to čisté uznání,
+tý rudý kebuli.
+No takže vy jste
+díky spořce,
+díky spořici, pardon,
+jste přepsali ten
+stack z AWS-ka na Azure,
+a je to teda, teďka jako supportujete
+oba dva stacky, nebo jste to jenom
+jako přetočili do té výry,
+že místo prostě SNS máš
+service bus?
+Jak jste na tom teďka?
+Vlastně, když už jsme to přepisovali, tak nám bylo jasný,
+že přijde ten třetí cloud, že jo?
+Jasně.
+Ukazuje na tričko Google Cloud.
+Kde teďka jako běžíme, teďka jsme
+rilisli GCPčko, společně
+s BigQuery.
+Takže my jsme věděli,
+že už přijde ten třetí cloud,
+tak už jsme dělali abstrakci samozřejmě,
+že už jsme věděli, no když už máš ty dvě
+jako AWS-ko a máš S3-ko a
+Blobstorage, tak už jsme věděli, že prostě
+nemá smysl jako to zase zahardkodovat,
+že jo, to bychom nebyli úplně chytrý.
+Takže už jsme tohle to připravili
+a to GCPčko potom
+pro nás bylo, já myslím,
+že jako za tři měsíce jsme měli potom jako
+to jo, teďka mě,
+jestli kluci to z techu uslyšejí a pak
+mě asi budou psát nějaký private message,
+že, ale myslím si, že to bylo jako mnohem
+jednodušší, kdy
+už jsme tou abstrakci měli hotovou, takže my jsme
+prostě v té třídě, která jako měla na starosti ty
+faily, tak jsme jenom naimplementovali
+Google Cloud Storage místo S3-ka a Blobstorage,
+že fronty, oni ty cloudy jsou jako
+velice podobný, jo. A
+k čemu nás to ale teďka jako zavedlo, k tykují
+myšlence, že
+my si nechceme ten produkt stavit jako
+cloud agnostik, že nechceš
+používat ty nativní služby, jako ty
+managed, protože co když přijde
+prostě ten slibovaný Lidl Cloud,
+že jo, a ty budeš
+s tím být nadeplavanej do něj, tak
+proč místo SQS-ky a
+SNS-ka nebo servis basu
+PubSubu, proč nepoužeš prostě kafku,
+kterou můžeš jako běhat sám v Kubernetesu.
+Jo, jo. Takže teďka
+přemýšlíme nad tím, jestli bysme
+tohleto nepřepsali,
+že by to bylo jako cloud agnostik, ono
+ti to totiž dovolí deployovat kamkoliv,
+kde je Kubernetes. Jasně, takže byste
+šli prostě na Azure do AKS-ka a
+na tom na AWS-ku byste si dostučili
+prostě nějakej kubernetí
+klastr a to pod tím
+už by bylo úplně stejný. A to přesně, to pod tím
+by bylo stejný a tady ta věc je jako umožní
+super věc a to je deployovat
+do on-premu. Jo. Protože
+my teďka nejsme schopní,
+jako my bychom měli pořád nějaký
+problémy s tou databází, co bychom pod tím měli,
+protože my jedeme jako hodně na BigQuery a
+Snowflakeu, tak to
+Snowflake jako neroztočíš
+na on-premu, ale jako
+spousta těch věcí by tam šla
+na tom on-premu rozběhat
+a když máš kdekoliv kubernetíz,
+tak jako nepotřebuješ nutně všechny tady
+ty servisy a my toho
+používáme jako, když to tak jako
+vezmu, tak je tam
+nějaká, je tam nějaký KMSO
+na ukládání klíčů,
+jsou tam nějaký
+fronty, jsou tam jako
+S3 like storage,
+jestli tam jsou nějaké jako další dvě servisy,
+něco na Logita možná je,
+tak tohle to by nám jako
+vyřešilo ten deployment vlastně jako všude
+a měl by si
+stejný deploy skripty.
+Tak to už bylo tak trochu
+technický.
+Děkuji, děkuji. Já možná ještě jednu věc,
+protože samozřejmě, když se řekne
+Kebula, tak je to pojem na českým trhu,
+na druhou stranu, kdyby se mě někdo
+zeptal, co přesně Kebula dělá,
+tak já bych asi nedokázal to úplně přesně
+popsat. Já vím, že my už jsme tak jako tady spirálou
+od pivních záležitostí
+a motorky a ušetřeno CZC
+k tomu jako pomalu dostáváme, ale možná
+pojďme ještě to rezetnout
+do té míry, že vysvětlíš, co je
+vlastně ten core business Kebuly. Vím, že
+pracujete s datama, to bych věděl okamžitě,
+ale vlastně jaký třeba
+use case si řešíte, co třeba řešíte
+pro spořici aktuálně,
+s čím jim tam pomůžete?
+Poli, co můžu říct?
+Já nevím, povídej, když tak tě střihne.
+Nebo obecně,
+jak je ten use case,
+abych si řekl, doprčit na tohle
+použiju Kebulu, co to je ten use case.
+Já třeba pomocí Kebulu doma zalívám
+skleník a nevím, jestli to je jako nejlepší
+use case, ale jde s ním
+jako dělat všechno.
+Výjde sluníčko, toho září solární panel,
+takže nějaký trigger, že jo, AI se zeptá,
+že mám tady sazený v okurky,
+vlhkost půjde takováhle, mám to zalejt
+nebo ne, a pokud jo, moje plocha je takováhle,
+jak dlouho tam má běžet pumpa, jo.
+Takže takovýhle věci tam můžeš dělat,
+ale to je jako...
+Předpokládám, není úplně use case typický,
+že bych šel jako dospořit se tohle navídnout.
+Ještě pomocí toho vážím včely,
+ale jinak jako typický use case
+tady tam, jo.
+Požehnání a problém Kebulu je,
+že může udělat 2000 různých
+use case. To, co my prodáváme,
+je, já tomu říkám jako,
+to je nějaký workbench,
+český pong, na kterém můžeš dělat
+co chceš, my ti dáme ten tooling, ale to,
+co na tom budeš dělat, už je na tobě.
+A tohle to se nám vlastně jako
+těžko prodává, protože
+ty za někým přijdeš a řekneš, jasně,
+tadyhle je prázdná kancelář, ale můžete v tom dělat
+jakýkoliv biznis.
+Tak tohle to už jako neděláme,
+že bychom to prodávali jako čistě
+datovou platformou a hrajte se s tím.
+Jo, že žádná stavebnice, už máte
+určitě něco představit.
+Je tam určitě spousta data,
+něco, čemu říkáme, templaty, je tam nějaký
+solutioning, ale když už
+jdeme, já teďka řeknu, že jdu k tomu
+klientovi a jdu mu vlastně představit, co ta
+platforma dělá, tak já řeknu,
+hele, určitě tady existuje už
+nějaký datovej sklad, jsou tady nějaký
+primární systémy, který přesně dělají to, co mají,
+jste automobilka
+třeba, tak víte, že
+vám běžejí po páse nějaký díly, to je
+skvělý, ale nad tady těma věcma někdo potřebuje
+dělat nějakou analytiku. Typicky potřebujete
+vzít data z více zdrojů
+a dát je na jedno místo,
+protože ty data jako takový
+dávají smysl, až když
+je jako, mají kontext.
+Existuje verze, takový starý dokument,
+menec to byla verze pro mojí mámu,
+kde přesně říkáme,
+že data mají smysl, až když je data do kontextu.
+Napadá mně
+spousta příkladů, ale žádnej, který byl
+asi mohl jít do podcastu.
+Takže my
+tady ty data dáme vlastně na jednu hromadu
+a umožníme vám jako s těma pracovat,
+umožníme vám tam dělat
+biznesovým lidem, umožníme
+dělat složitý věci nad datama.
+Nebo to je jako celá ta premisa toho,
+že tady máš kebulu a můžeš v ní dělat
+cokoliv, ať jsi jako
+biznesák, tak nemusíš chodit za IT.
+Nemusíš prostě to IT otravovat,
+to ať dělá ty primární systémy,
+to kde jako za
+jeden use case dostaneš
+ohromnou hodnotu, ale pak je tady spousta
+malých věcí, jakože
+já vezmu třeba teďka ze spořice
+HR v oddělení, který je absolutně
+jako topová ukázka toho,
+že biznesoví lidi jsou schopni vystavit
+skvělý datový produkt, tím, že
+pospojujou data
+z Excelu, tadyhle
+nějakej OneDrive,
+tadyhle nějakej interní HR systém
+a tohle to si ty biznesoví lidi jako naklikají
+sami. A oni na tom pak dokážou
+prototypovat. A ten prototyping
+je podle mě jako velice
+silná vecké bule,
+že ten biznes je ten,
+který ví, co tomu
+biznesu pomůže. A tohle
+to ty technický lidi nevidějí. A já to vidím
+i zpětně jako já sám, když mě někdo
+říkal, hele Vojtor,
+já jsem ten technický člověk,
+vyvíjel jsem tu platformu a oni mi říkali,
+hele Vojtor, to je úplně jasný, jakože to má
+dělat tady tu věc. A já bez té
+znalosti toho biznesu, jako jsem byl lost.
+A teďka jsem se začal v té svý kariéře
+překlápět do toho biznesu a teďka chápu,
+co ten biznes potřebuje. – Takže ti zase
+chyběl kontext. – Zase mi chyběl ten kontext.
+Jo, jo, to je přesně ten kontext.
+A teďka zase už jsem
+dál od té technické
+části, takže
+já teďka jako prostě
+hele už jako ne,
+ale zase víc rozumím
+tomu biznesu a přesně chápu problémy těch lidí,
+že já vím, že
+problém, že nemáme
+díly na lince,
+může bejt v nějakým
+dodávacím řetězci, jak
+nám vozí kamiony
+prostě díly. A teďka přesně
+vím, jak bych se to naprogramoval a potřebuji nějakou
+jednoduchou platformu, která mi tohleto umožní.
+Kebula, skvělá věc, naskládáš
+konec data na hromadu, tady si uděláš nějakou
+transformaci v tom a umožní ti to
+udělat, tady ten, my tomu říkáme longtailový use case,
+což je něco, co kdybys přišel za IT,
+tak ti to nikdo nikdy neudělá, protože to má
+malou přidanou hodnotu,
+ale řeší to nějaký problém.
+Ale když zase naskládáš spoustu malých use case,
+který mají malou přidanou hodnotu,
+tak dostaneš větší
+hodnotu pro tu firmu, než jsou ty primární systémy.
+– Jo, jo, jo.
+– A my říkáme, že třeba jako třikrát
+víc peně se v tom longtailu, než v těch primárních
+systémech nakonec, když se ten svět
+se automatizuje. My se snažíme
+jako automatizovat biznesový
+procesy. Krásnou
+ukázkou může být třeba jako rohlík,
+který běží
+čistě na kebule, nebo 90%
+těch věcí běží na kebule.
+Chceš dělat nějakou
+analytiku, chceš vidět, kolik máš zítra koupit
+rohlíku, což je nejprodávanější produkt
+na rohlíku, nečekaně.
+A tak my ti všechno jako tady
+to vlastně řekneme.
+Tím jsem trochu odbočil, ale...
+Ne, ne, ne, já si myslím, že to je super, že to přesně
+odpovídá té otázce,
+jsem se ptal v podstatě ten typický use case,
+co vlastně děláte. Takže tak, jak to chápu já,
+je, že vy jste platforma,
+která je schopná z různých datovejch zdrojů
+z té firmy si to natáhat na jedno místo
+a lidem, který jsou netechnický,
+dát možnosti
+těch technických lidí, jak na ty data koukat
+a jak tam přiníst ten biznesovej kontext.
+Jo, a já ti klidně řeknu jako konkrétně
+biznesovej use case, který jsem teďka
+učil lidi na MBA, na VŠE
+a to bylo, že
+v Kebule, asi dvě hodky nám to trvalo,
+stáli jsme se vlastně všechny
+Alza boxy
+pomocí zase
+platformy Apify. Jasně.
+Skvělá platforma česká, doporučuju na scraping dat,
+máme fakt rád. Kebula je s nima
+jako skvěle zaintegrovaná,
+takže z Google Maps jsme si prostě vyskripovali
+všechny Alza boxy,
+udělali jsme si nějakou filtraci, nějakou jednoduchou
+transformací, potom jsme tady
+ty věci
+vzali, poslali jsme je proti AI
+a řekli jsme, hele, tady ten Alza box
+má tady ty recenze, řekně mi, jaký jsou
+klíčový slova, na co si lidi stěžujou
+a řekně mi, jaký je sentiment té zprávy,
+jestli je pozitivní, nebo jestli je negativní.
+Takže pomocí toho jsme si pak dokázali
+vyfiltrovat, na jaký Alza boxy
+lidi vlastně nadávají
+a na konci jsme si v tom postavili
+nějakou jednoduchou streamlitovou apku,
+nevím, jestli znáte streamlit,
+Poli už teďka jo, my to do něj dost speme.
+To je super, jako
+Pythonový framework na datový
+vizualizace a
+kebola jako ti dá zase úplně jednoduchou
+cestu, jako jak biznesák si celý tohle to můžeš
+udělat.
+Takže ty lidi
+nakonec vlastně byli schopní si sami
+voskripovat data, poslat je proti tomu
+AI, vyfiltrovat je a
+zvizualizovat je, po případě, jestli to napojiš
+na nějaký tablo nebo podobnou věc.
+A na tom je krásně vidět, jako ten
+rozdíl proti typickému ETLku
+nebo ELTčku, je, že
+ty natáhneš data ze zdroje,
+ztransformuješ, pošleš dál
+a nebo uděláš to, že interaguješ s tím
+okolním světem. Což já si myslím osobně,
+že je budoucnost, obecně teďka kolem AI,
+když ty máš možnost
+si ty data
+nějakou třetí stranou
+stáhnout, nějakým scrapingem,
+nebo teďka...
+Vy jste to epify prostě?
+Vy jste to epify, tak
+máš třeba, já řeknu ještě jeden
+news case, jseš třeba
+cestovní kancelář a máš
+svoje
+recenze na TripAdvisoru.
+Zase, z epify krásně stáhneš všechno,
+ty recenze jsou v různých jazykách,
+takže to vezmeš, v Kebula je
+komponenta Google Translate, přeloží si to
+do tvýho cílovýho jazyka, aby s těm věcem
+rozuměl, protože číňštině
+prostě jako nebudeš rozumět, nebo
+španělštině, tak třeba moc nerozumím.
+Přeloží si to, zase
+interaguje s tím vnějším světem,
+potom si uděláš tu svou ETL-kovou část, že si
+zvořežeš to, co tam potřebuješ,
+takže tě zajímají jenom recenze,
+které jsou delší než dvě slova,
+pošleš to proti tomu AI, sentiment,
+klíčový slova, vizualizace, bum a jedeš.
+Takže ti to umožní vlastně s těma
+datama udělat cokoliv,
+aniže bys musel opustit tu Kebulu.
+To je jako náš, jako taková
+mantra, že abys nemusel líst do dalších
+toolů, ale všechno si to udělal sám.
+Říkáme tomu data ops
+přístup, kdy ty seš
+schopnej se naspinnovat nový databáze,
+řídit si přístupy, kdo kamu
+může a podobně.
+To myslím byl krásný use case toho, na co se
+na Kebula použíte. Já si říkám,
+tohle přeci není jedinej nástroj, který to
+dělá. Jaká je vaše nejbližší konkurence
+nebo takovej ten největší
+líder společně s váma?
+Tak těch toolů kolem nás,
+který dělají část věcí, co
+děláme my, je spousta.
+Ty, který dělají jako úplně všechno,
+tak těch už je míň.
+Já vím vlastně jenom o Riveri,
+který dělá to samý, co my.
+A teďka se snaží podle mě
+fabrik, jako Microsoft, přijít
+s fabrikem, který bude dělat podobnou
+věc.
+Celá ta disciplína je
+all-in-one platform,
+jak bych to nazval, tak
+málo kdo pokrývá
+tolik věcí jako my. Většinou
+se snaží ty firmy
+cítit jako na jednu věc, takže já vezmu
+třeba Airbyte, který dělá jenom to EL,
+který tě vlastně přehrá ty data
+zleva do prava, ale to, aby jsi tam
+kolem toho nahodit nějaký Jupyter notebook,
+aby jsi tam mohl z toho udělat nějaký datovej produkt
+a mohl to sdílet mezi departmentama
+jako efektivně, kolem toho mít
+celou governance, tak
+podle mě tam jako
+jestli tam teďka cílí ten fabrik,
+který vlastně díky Power BI
+se snaží pokryt
+i tu vizevalizační vrstvu, což jako může
+být zajímavý, tak jestli
+to jsou nějaký dvě další, tři.
+My spíš vidíme, že náš největší
+konkurent je postav si to
+doma, protože
+spousta těch firm, který jsou
+technologický, tak říkají
+hele, ale my si to celý můžeme udělat sami
+a my říkáme, hele jasný, můžeš.
+Tadyhle je Airflow, tadyhle je
+Airbyte,
+tadyhle potom jako si můžeš
+na tom udělat nějaký data lake,
+můžeš mít i vlastní
+vizevalizační tool, nahoďte se vedle toho
+kibanu třeba na vaše grafy, jo, a teďka
+ty firmy, který to začnou udělat, tak na tom
+prostě spálej jako
+já jsem viděl třeba jako tisíce
+mandy na tomhle spálený, který se snažil udělat
+něco jako podobného a jdou tím
+přístupem, že si to udělají sami, ono to na začátku
+je strašně sexy, protože ty to postavíš těch
+open sourceových toolů a na rozdíl
+od kebuly je to jako zadarmo
+nebo prakticky zadarmo, jako
+máš tam nějaký hosting, někdy ti to musí frčet,
+někdy ty servery musí topit,
+ale na začátku si jako strašně v pohodě,
+protože si to postavíš sám a víš co,
+ty technologický lidi jsou jako
+hrdí, když si něco postaví s open sourceovým toolům.
+No jasně, no ježišmarja.
+Já jsem bastlíř a taky
+jako jsem strašně rád, když si jako
+na Arduino něco nakoudujím jako
+sám prostě a když už musím používat nějakou
+jako knihovnu, říkám
+no dobrý, jak jsem si to neudělal sám, ale když si to
+vezmeš jako pak v tom biznesu,
+tak o co jde v tom biznesu, jako jde o to
+si postavit, pokud je tvůj biznes
+postavit si skvělou datovou platformu
+a prodávat jí dál, super, tak to dělej.
+My to třeba tak děláme,
+ale pokud tvůj biznes je prostě
+prodávat jako tenisky, tak proč by
+jsi se jako měl stavit datovou platformu? Prostě kup
+si něco, co je hotovýho a začni
+řešit jako ty věci od zejtra.
+Ano. Nebo respektive
+dneska, jo.
+Tady ti mám zase jeden hezký use case,
+když někdo po nás
+chtěl, abych mu ukázal platformu, byla to
+nějaká vývojářská společnost a byl tam
+CFO, který chtěl spojit
+timesheety
+jako vykázanou práci s fakturama.
+A já jsem říkal,
+on mi se mě nepředstavil, říkal ahoj,
+já jsem, já teďka už nevím to jméno, Tomáš,
+chtěl bych udělat tady tu věc,
+mám tadyhle ty zdrojový systémy, šlo by to udělat
+v Kebule a já říkám, jo jasný, šlo, ale tady to
+naklikáme, tady je to napojený, tady uděláme join
+a tady to máš. Celý to trvalo
+40 minut, měli jsme ten use case
+hotovej a pak mu říkám, jo sorry, a já jsem Vojta.
+Jsem se zapomněl představit.
+Tak tohle to je takový typický use case,
+kdy fakt rychle můžeš něco
+odprototypovat
+a tlačítkem automate, který tam máme,
+to dostaneš do produkce
+a běží ti to tam prostě roky.
+Radek Hajek z Kofoly,
+Kofola je naším
+dlouholetým zákazníkem, říkal,
+hele, já tam jsem ty pipelany pustil
+prostě v 2.18 a od té doby běžej, no.
+To je super.
+Hele, možná trošičku
+zahájím,
+zase úplně k té
+technické šťávice, na čem to teda
+celý vlastně běží? A ty jsi říkal,
+že to bylo dřív AVS, teď je to
+vlastně agnostik,
+abyste si to mohli roztočit on-premise.
+Jaký jsou třeba základní
+služby nebo
+servisy, databáze?
+Mně to zní, že zatím musí být
+strašně moc práce, strašně moc performance
+tuningu, hodně dat, celý
+mně to zní jako velmi složitě.
+Co to vlastně pohání tu kebulu?
+Když vysvětluji
+práce,
+co kebula je, tak říkám, že kebula je
+abstrakční vrstva na databází, takže
+ten střet
+toho, co my dodáváme, tak my jsme takový
+dobrý lepidlo
+všech dobrých služeb na internetu.
+A jedna z těch věcí, která je pod náma
+na tom podvozku velice důležitá,
+tak je ta databáze. A ta která třeba?
+Je to
+Snowflake a BigQuery aktuálně.
+Máme tam ještě
+podporu Exasolu,
+Redshiftu
+a potom to byla historicky
+Synapse, no to úplně nemám, jako dobrý
+vzpomínky.
+Takže to jsou
+typicky, to je fakt jako Snowflake a BigQuery,
+protože tady ty databáze jsou postavný tak,
+aby byly pro biznesáky, aby
+by se o to nemusel starat. To znamená, že tam
+neřešíš indexy. Já jsem teďka za někým byl
+a on mi říká, hele, jak tam nastavím
+indexy? A říkám, tam žádný indexy nejsou.
+A jak to optimalizuji? A říkám, neoptimalizeš,
+to prostě dělá za tebe všechno.
+No tady to nemusíš přemýšlet, nejsou tam
+žádný hinty, kdy musíš říkat,
+jak se ta SQLka má poskládat, nebo
+ten Query Executor, jak to má
+celý poskládat. Prostě to spust
+a nech to běžet. Napiš ten select
+a nestarej se o nic jinýho.
+A tohle to ty lidi jako z toho
+starýho data
+warehouseovýho světa, jako mají občas trochu
+problém dostat pod kůži,
+ale pak, když se na to zvyknou, tak říkají,
+jo, to je skvělý, takže se na to musí zvyknout.
+To je ta databáze,
+která
+jako ten, já bych řekl, jako
+středobot, ve kterém jsou uloženy
+ty data a my tvoříme vlastně tu
+abstrakční vrstu nad tím, kde říkáme,
+hele, Romane, chci si nahrát
+data do kebuli
+a tak to by je úplně jedno, jestli pod tím
+leží Redshift, nebo jestli pod tím leží
+Snowflake, nebo BigQuery, prostě ty voláš
+apíčko, tady se naklikáš kostíčky
+a my to zařídíme za tebe.
+Jediný, co se mění, je pak jako vlastně
+dialekt toho SQLka, který
+tam píšeš.
+A kebula
+jako taková, teďka už jsme
+všechno přesunuli teda do kubernetu,
+jsou tam servisy,
+které jsou napsané
+v PHP,
+to je taková ta část
+jako taková ta
+webová obslužna a
+potom teďka spoustu věcí jsme začali psát v
+Gočku, protože začalo to
+vlastně tím, že jsme chtěli
+command line interface klienta,
+slíčko normální, který by byl spustitelný
+na všech platformách,
+a nazýváme to kebula as a code,
+takže celý si to jako vlastně můžeš spustit
+u sebe
+na lokálu a máš to všechno
+zavsadlený v nějakých jacenech.
+Takže
+PHP, Gočko,
+komponenty jako takový, ty jsou
+napsaný buď to v PHP,
+v Pythonu nebo v Gočku zase,
+podle toho, co potřebujeme. Pokud se má, by to bylo
+jako super rychlý, tak to Gočko
+nějaký svojí
+paralizace jako dává smysl
+komprimační algoritmy, takový věci.
+A
+ten datovej svět jako obecně jede
+jako hodně v Pythonu, takže pokud máme
+nějakou komponentu, která má dělat nějakou
+datovou kvalitu nebo něco takového, tak prostě
+ta lipka je v Pythonu, takže půjdeš jako
+do Pythonu, nepůjdeš s tím jako
+v PHPčku, nikdo data science se dělat nechce.
+Jasně, jasně.
+A ty jsi teda mluvil ještě o tom Snowflakeu, o tom
+BigQuery, ale mluvil jsi i o tom, že máte
+v plánu v podstatě se dát roztočit
+on-premise,
+být nezávislý,
+ale ne všechny věci jdou
+dokorovat, ne?
+Kontejnerizovat. Zatím jako
+keblu jako taková je plně kontejnerizovaná.
+Tam jako není žádná servisa,
+která by nedokázala
+běžet v kontejnerech.
+Ale musí běžet na Google
+BigQuery a běžet Snowflake někde.
+Musí tam být nějaká ta databáza nad tím.
+Tady jsme si hráli s nějakýma
+databázama, které jdou vlastně nasadit
+do toho on-premu.
+Jedna z nich byla Teradata.
+V tu chvíli, kdy jsme to dělali,
+to je asi rok dozadu, tak jsme zjistili,
+že ta databáze se nese jako kufří
+k optimalizací z minulosti, jak to nazval kolega.
+Když to porovnáš s tím Snowflakem
+nebo BigQuery, tak jako
+tam nejsou prostě, jo.
+To je úplně jiná mentalita.
+Jako třeba o té databáze
+musíš říct, tak bude velká.
+A to si řekneš jako
+WTF, brácho, jako 2023
+a tebe zajímá, jak bude velká
+ta databáze. A když to přešvihneš,
+tak ti to napíše no more room.
+Tak to bylo
+jako nějaké takovéhle věci.
+Teďka zase nechci jako na to
+házet špínu. Oni vydali novou verzi,
+možná se to posunulo. V tu dobu,
+kdy my jsme to zkoušeli, tak oni vlastně dělali nějakou
+teda tí verzi,
+která by mě hala běžet v cloudu.
+Snažili se jako vykopnout s tou
+sasovkou, ale pořád si tam nesli ten kufřík
+k optimalizací. Takže za ten rok se možná posunulo,
+jako je to jinde.
+Ale pořád my cílíme
+na to, že chceme, aby to bylo co nejvíc
+sasový a je to co nejvíc
+pro biznesáky. Takže jakkoliv
+můžeme nastavit nějaký indexy nebo podobné věci,
+které lidi se v tom prostě ztrácejí a řeknou
+snowflake. Ale dejte mi prosím
+snowflake. Nebo big credit.
+Když koukneš
+na snowflake, dejme tomu třeba
+i na Databricks, nemáš pocit, že se
+těma Juskej sama přibližujete
+k sobě? Nebo máš pocit, že to pořád
+jako jede paralelně vedle sebe?
+Když mám porovnat
+snowflake a Databricks, nebo
+Databricks. Ono,
+snowflake a Databricks mezi sebou jako vedou boj.
+Ten boj, který tam je
+snowflake, Databricks,
+BigQueryy
+a teďka nově vlastně Fabric
+jako do toho se snaží taky zasáhnout, protože
+udělali nějakou lajkovou platformu.
+Snowflake
+je pořád podle mě
+jednodušší pro biznesový
+uživatele a když my se s tím jako potkáváme,
+tak pokud jsi
+technický člověk a jdeš dělat
+machine learning, hele,
+myslím si, že
+Databricks na to bude jako lepší, pokud jdeš
+fakt dělat nějaké jako
+deep learning věci.
+Asi jako
+nemyslím si, že
+snowflakem bys něco získal extra, jo.
+Oni vyšli se Snowparkem,
+skvělá věc, konkurence
+toho, snaží se to dohnat,
+říkají, že jsou levnější, my jsme udělali dokonce nějaký
+benchmark, kde nám to vyšlo, že to jako
+vychází levnějc,
+ale pokud se budeš jako
+zaměřovat do nějakého světa
+toho self-service, kam my se zaměříme,
+tak já si jako nedokážu představit, že
+deep learning bude,
+nebo asi v budoucnosti bude
+self-service, jo, ale dneska, jako co ty lidi
+potřebují, oni potřebují spojit dvě tabulky, jo.
+A to, běž to
+udělat do kebuly,
+anebo běž to udělat do Databricksu
+a já si myslím, že většina
+lidí řekne, hele, ne, dejte mi
+kebulu, prostě já potřebuji něco, co tady pochopí
+ty biznesový uživatele, kteří se tady prostě
+naklíkají ty dvě tabulky a řeknou spojit
+pomocí tady toho klíče, jo.
+Takže takhle vidím ten rozdíl,
+Databricks určitě urazil v ohromnej kus cesty,
+jako za tu dobu, my jsme ho
+vlastně nějak, nebo dokážeme ho
+používat na podvozku jako remote kernel,
+ale je to,
+stává se, i z těch, jako i ze
+Snowflakeu je potřeba říct, že se nám stává jako konkurence,
+jo, že
+oni začínají implementovat věci, který my jsme
+dělali a snaží se
+být tou one platformou, jako
+v minulosti to vypadalo tak, že
+říkali námi investoři, hele,
+běžte dělat nějakou konkrétní věc, jako
+nikdy neúspěje žádná firma, která
+bude dělat všechno. A teďka
+Fabrik, jo, to je věc, která
+byla vypuštěná jenom kvůli tomu,
+aby dělala všechno, aby vás
+drželi v tom jednom prostředí a
+oselovali vás zleva do prava
+různýma reselema, že jo, Power BI,
+tady dostaneš
+Data Lake Storage,
+všechno to poběží na Azure,
+a takže teďka ten svět jde jako
+zase jinudy a říká se, hele,
+to, že vy děláte,
+že vy děláte vlastně platformu, kde
+jde udělat všechno, to jako není vůbec špatný nápad.
+A takhle nám to řekli
+teďka Amice a poslali nám k tomu nějaký
+kapříky ještě vlastně, no.
+Tak to je hezký. Měli jsme teďka
+největší Series A ve střední
+Evropě. Hezký, pěkně.
+No a tak teda, když
+chcete takhle tý konkurenci
+zase utíct, tak se nabízí otázka
+na čem novým teďka teda pracujete,
+co máte aktuálně na Workbench
+rozdělanýho na tom ponku.
+Hele,
+asi na tom nikdo nedělá, to
+zkrátku ještě nikdo neslyšel, ale říká se tomu
+AI u nás.
+Tak to je asi novým každému.
+Jak se to píše? AI normálně?
+A, A, I. A co to je za zkrátku?
+Si to když tak najdi.
+He, teďka víš co, to AI
+na tebe leze jako prostě úplně všude, že jo.
+Otevřeš ledničku a ta prostě
+má umělou inteligenci nebo...
+Ta tě vyhlásí, že jsi slustý a ti vůbec neotvíráš.
+Jo, jo, nežeruš.
+A podle fotky prostě,
+co tam nesmíš stavit z profilu, víš, ty lednice.
+Hele, my aktuálně vstavujeme
+to jedno, z jaký strany se natočíme.
+Já mám tady ten problém, asi máme
+když tak společnej.
+Takže my pracujeme hodně na AI věcech
+a snažíme se ulehčit
+těm lidem tu práci, protože to, co
+udělalo AI, ono, já si nemyslím,
+že ta věc je chytřejší než ty, ale je mnohem
+rychlejší než ty. Takže to, co
+teďka chceme dělat, je,
+říkáme tomu Impact AI,
+nebo vlastně my tomu říkáme, jak ono se to
+pořád rebranduje, že jo,
+jmenuje se to KaiBot, což je
+Kebula AI Bot a součástí toho nějaký
+Impact AI a říká to,
+hele, řekni mi, co chceš dělat.
+A ono ti to, takže
+ty tam přijdeš a řekneš, hele, jsem úplně
+novej junior analist
+tady v tom projektu a chtěl bych
+spočítat, jaký je revenue
+naší firmy a
+kolik platíme vývojářům.
+Boom, zadáš prompt,
+Kebula, protože ví o všem, co
+je pod ní, tak si
+očuchá ty data a řekne, hele,
+tady je nějaká tabulka, ta se jmenuje revenue,
+co to má za sloupečky, je tady,
+nebo revenue, je tady třeba, nevím,
+prodej invoices, jo,
+invoices, tak tady mám nějaký amount,
+tady mám nějaký value, jasný, tady je
+nějaký datum, tak to asi budou nějaký faktory,
+paráda, tak tady to bys mohl použít,
+tady je SQL, kterým to
+najoinuješ, já nevím, tadyhle s nějakým
+kalendářem, buch, a
+chceme, aby ty vlastně na základě
+nějakého promptu, kterýho se
+prostě jenom zeptáš, tak si buď to
+viděl, kam máš šáhnout
+a když už někam máš šáhnout, tak co
+máš napsat za to SQLko, protože
+Kebula jako taková zná ty data,
+takže ona ti dokáže říct, že
+třeba se vrátím těm AlzaBoxům,
+který AlzaBox má v Brně
+nejhorší recenze, tak my z tady toho
+jako dotazu z toho textu, viděn, hledáme SQLko,
+ty si to spustíš, řekneš, jo, to dává
+smysl, uložíš to, tak tam dáš
+save a vedle toho je automate, takže to chceš
+počítat každej den
+a řekneš, ale já bych to pak chtěl dostat do Power BI
+a nějakého reportu, řekneme super,
+na to je potřeba tvořit tady ta komponenta,
+rovnou na to klikni a my ti ji vytvoříme.
+Takže se snažíme těm lidem
+přiníst, nebo
+urychlit tu práci, tím, že
+známe ty jejich data a
+oni se budou moct zeptat,
+co můžu dělat se svým projektem,
+co ještě můžu dělat. A my řekneme,
+hele, Salesforce data,
+super, nějaký zákazníci, počítáš
+RFM analýzu, ne,
+tak tady si klikně a my ti vypočítáme
+a tady dostaneš výstup, kam ho chceš.
+Jo, já bych ho chtěl do tadyhle Google Driveu,
+prostě do nějakého Google Sheetu,
+bum, je to hotový.
+A to je jedna věc, jako pomáhat
+těm lidem generovat
+ty use cases v tom automaticky.
+Tak já se ještě u tohohle zastavím,
+ještě přemýšlím nahlas,
+první, co mě napadá, jak
+bojujete s datovou kvalitou,
+že když se takhle začne ten člověk ptát,
+vypadá to hrozně nehezky.
+Jak vlastně
+kontrolujete, že ty data jsou v pohodě
+a jak se vám vlastně daří ty data
+generovat kvalitního, protože
+já, když si s tím hraju na úrovni
+uživatele chatu GPT,
+kam naleju svoje platby
+z banky,
+tak to dělá hrozný zvěrstvo.
+Ho musím přemlouvat, aby tam ještě dodělal
+to, co tam dodělat má, a to je jedna tabulka.
+Dovedu si představit, že to umí dělat
+solidní bordel.
+Dobrý je říct,
+na co je ta AI dobrá,
+nebo ten machine learning,
+když to má stavit něco za tebe,
+je dobrý,
+to je takový poslední step,
+když máš ty data očištěný.
+Takže zatím,
+co já vidím, tak tohle to jde použít
+na nějaký vyvoněný L2 vrstve.
+Pojďme si říct, že kdyby jsi dostal
+z L0 něco a s těma datama,
+nic neudělal, tak jako na tom
+machine learningovému modelu...
+To bolí, to řekl pěkně.
+A dlouho to bolet bude ještě.
+Takže můj kolega Jordan,
+který tady to má na starosti, tak říká,
+to je jako last mile, prostě jakmile máš
+ty data očištěný, pojď na ně použít AI,
+to je super, ale když půjdeš
+jako zpátky, proč jako AI by neměla
+umět očistit ty data? Proč v L0
+projektu nemůžeš říct, hele,
+tohle to jsou data, které jsou
+z GA, mrkně si tam nemám
+duplicitní kampaně. My máme
+spoustu, nebo
+ty projekty v sobě mají spoustu
+dat a my je všechny dokážeme
+přečíst. Teďka zase jako z etických důvodů
+neděláme to, že by se mezi sebou učili,
+ale nějaký paterny prostě v tom tvým projektu
+dokážeme najít a dokážeme říct, hele,
+tady je kampaň, která je
+napsaná malýma písmenkama a tady je ta samá
+a ta je napsaná velkýma písmenkama. Hele, není to ta samá,
+nemůžu na to použít funkci lower. Super,
+tak tady máš čistící SQLko, chceš ho rovnou
+uložit, chceš ho dát v rámci tý L0
+vrstvy, bum a máš to. Takže jeden
+z těch promptů bude prostě, hele, udělíme
+základní datovou kvalitu a
+kebole jako taková už má připravených spousta
+komponent,
+který dokážou tu datovou kvalitu dělat. Typicky,
+hele, je to prázdný, tady jsou nějaký
+outliery a my víme,
+kolik ti trval ten předchozí běh,
+víme, že každý den ty data jako se tahají dvě
+minuty, není to, že ti to tahlo 40.
+Něco tadyhle, nějakej pík, bacha na to.
+Hele,
+najsno, já se ještě vrátím k tomu,
+k těm velkým platformám, čili ještě mi tam vysí
+jedna otázka, jako jeden z mých
+nadějných startupů schořele k papír
+na tom, že jsme chtěli konkurovat
+Google, jo. V podstatě, jako jsme
+stavili a je u té platformu fantastickou.
+Se na to by líbí, že jsi nikdy nemířil nízko.
+No přesně, no tak ježišmarja. No a
+nedopadlo to a nemáte
+teďka jako obavu z těch velkých hráčů
+typu Microsoft, že jo, ze svým fabrikem
+Snowflake, že
+vás začnou v podstatě
+i kdyby kopírovat, tak samozřejmě
+to jejich jméno je pořád
+asi zvučnější, byť jako
+samozřejmě fandím kebule, že dojde na stejnou
+metu, tak nejsou tam tyhle
+obavy?
+Tak na tady to správním odpovědět, no tak
+kdybychom si tý
+konkurence jako báli, tak co přesně máme udělat?
+Zabalit ten biznis? Jako zatím se nám
+to daří držet. Jasný, jasný.
+No to asi ne, že jo, ale jako jestli
+vlastně nad tím máte nějaký
+prostě akční plán typu, hele,
+tady ten Snowflake teďka vylez tady
+se Sigmou, která vlastně vyzalizuje data
+hned nad těma Snowflakeovýma
+datama, tak půjďme se nad tím zamyslet,
+jak se jako zase diferenciovat.
+Jo, jo, chápu.
+Já si myslím, že my jsme pořád
+diferenciovaný jako dobře.
+My, když jsme, když jsme
+získali tu investici, tak
+k nám na
+letní party
+přijela vlastně
+holčina, Emily se jmenovala, a tam měla
+evaluovat jako kebulů,
+jestli do ní má smysl vracet
+peníze nebo ne.
+Kromě jinýho
+jsem jí říkal, hele, Emily, já si myslím,
+že my ten biznes máme dobrý. A já ti řeknu proč.
+Protože my, když něco uděláme,
+tak pak přijde za půl roku Snowflake a udělá to samý.
+To znamená, že jdeme jako
+velice dobrým směrem a ty platformy
+adoptujou to,
+co my si myslíme, že je dobře.
+Takže oni začali,
+já si myslím,
+že pěkný příklad je ten Streamlit, kde
+my jsme řekli, jo, Streamlit a datový apky, to by bylo
+super, kdybychom to měli. Tak my jsme to
+adoptovali, udělali jsme pro to prostředí, ale
+Snowflake přišel a celý Streamlit koupil.
+Takže to jsou věci,
+který si zatím nemůžeme
+dovolit. Uvidíme se třeba
+za rok, jestli se situace změní.
+Ale mě tohle to jako
+strašně motivuje k tomu, že když nás někdo
+skopíruje, a dost často se nám to děje, že vidím
+jako, že ty tooli,
+tak potom internetu to kopírují
+a říkám si, to je super. To znamená, že jsme to vymysleli,
+je to dobrý, jim se to líbí a bude se to líbit
+i těm lidem.
+A ten differentiator je pořád
+jako půst člověka
+přímo do Snowflakeu, anebo ho půst do Kebula
+a když je biznesovej, uvidíš, co tam udělá.
+Pořád Kebula je,
+Kebula, přijdeš a to tě jako pohladí
+vlastně, jo. Víš, na co máš kliknout,
+to je nějaká komponenta, ale když
+seš v tom Snowflakeu a teďka tam bliká
+ten kurzor a můžeš znamenat za úplně, co
+chceš, tak to je ten jako velký rozdíl,
+kde pořád Snowflake jako
+pro nás je pro technický
+lidi. I když jako
+nemáš indexy, nemáš
+inty, můžeš tam nastavit nějaký
+věci, ale pořád je to super
+jako tech savvy
+pro to, když
+někdo, kdo umí klikat na počítači a psát
+do Wordu, na to má postavit datovou pipeline.
+Makes sense, makes sense. Ty jsi několikrát
+zmínil streamlit a datový
+apky. Možná
+pojďme se trošku pobavit o tom,
+jakou vidíš pozici ty datový apky
+jako logický komponenty
+v rámci toho
+datovýho stacku a jak to může
+konkurovat těm dnešním vizualizačním platformám.
+Typicky Tableau, Power BI,
+já mám třeba Racklicksense ještě.
+Jasně, jako budou
+mít co žrát tyhle platformy, nebo jak to vlastně
+vidíš? Jo, já si myslím, že rozhodně
+budou mít jako na chleba.
+A je to ten důvod, že musíš
+říct, jako na co je streamlit dobrý.
+Pokud půjdeš
+něco vizualizovat a budeš chtít udělat hezký grafy,
+ve streamlitu se jako chvilku
+zapotíš. Jakože to první, když tam napíšeš
+jako, že chceš udělat plot
+a aby byl jako pěkný a
+bylo to vizualizované jako rybičky,
+které plavou bříškama nahoru, pokud ten klient je mrtvej
+a jeho velikost bude revenue,
+tak tohleto jako chvilku potrvá, ale
+třeba v Power BI tohleto si schopný jako udělat
+poměrně rychle, ono to je nějaký plugin.
+Jasně. Na ty rybičky.
+Na ty rybičky, jo. Musíš se ho samozřejmě koupit, ale ne?
+Ten není úplně v základu, bych typoval.
+Člověče, mě to nikdo ukazoval. Jsem měl
+na nějaký presce, kde ukazoval tady ty rybičky
+a druhej byl nějaký
+graf o Babišovi a tam byl
+zase koblihy, že jo? Nebo koblihovej graf.
+Nebo koláčkovej graf.
+Koláčkovej graf.
+A byla tam prostě jako hlava toho Babiša
+a byla třeba do půlky vyřízená.
+Tak tohleto je poměrně jednoduchý.
+Takže ty vizualizace jako takový si myslím,
+že zůstanou v těch platformách.
+To, co ti přináší ten streamlet a jeho ohromná výhoda,
+je, že to dělá jako actionable.
+To znamená, že to není jenom vizualizace,
+ale je to, že můžeš
+reagovat na to.
+A takový hezký příklad je
+představ si, že jsi
+CEO
+a co tě zajímá,
+je pět grafů, jo?
+Teďka mě říkal kolega vlastně
+Petr Huníka, který stavil celou datou platformu
+v rohlíku na Kebule,
+tak mě právě říkal, že dělal
+pro Tomáše Čupra board,
+kde bylo asi pět grafů
+a bylo to, teďka si budu
+trochu vymýšlet, ale bylo to,
+chtěli jsme včera doručit
+všechny nákupy, když ne, tak kolik jich bylo,
+chtěli jsme prodat všechno
+jídlo, protože jedno z KPI
+ček v rohlíku je, že nechtějí vyhazovat jídlo
+a jaká máš pět grafů a jaká vidíš,
+že nějakej ten graf jde dolů.
+A co ty jdeš dělat, když
+tohleto vidíš v Power BI? Uděláš
+screenshot, skopíruješ to,
+dáš to do Slacku nebo to dáš do Teamsu,
+pošleš to tomu člověku a řekneš,
+hele Petře, co jsi včera dělal?
+Pojď mi to vysvětlit.
+A proč nemůžeš udělat
+středmetovou apku, kde bude pět grafů,
+pod tím bude rovnou
+text a tlačítko send, protože ty víš,
+kdo to má na starosti, tak se podíváš
+na ten graf, řekneš, hele, tady to jde
+dolů, napíšeš tu message,
+tak napíšu, hele, po let
+kámovi hodili jsme moc rohlíku, co s tím uděláme?
+A dáš send. A takovýhle
+mini aplikace, které ti vytrhnou
+jako turnspaty, jsou
+skvělý na to dělat ve streamletu.
+Protože ty tam máš tu akci.
+Tohleto v tom Power BI
+jde dělat taky, ale nějak se to
+neuchytlo, ale ve streamletu
+ti tohleto umožní udělat
+prostě nějaký action
+a ty uděláš tu reverzní ETLku, který něco
+zavolá. Někomu to odešle e-mail
+prostě nebo podobný věc.
+Takže tam za to dáš jakoukoliv action.
+Přece v Power BI bych udělal nějaký drilldown.
+Podívám se, tady mi to nefunguje.
+Špatně, biznes včera
+prostě jel revenues, tak si kliknu
+do drilldownu a vidím tam v podstatě
+řádky, že jo, nebo co tam vidět
+chci. Takže jakoby ta síla,
+nebo ty považeš v tom, že vlastně
+dokážeš toho jabku. Reálně, že prostě
+to není vizualizace. Ano, přesně.
+Něco, s čím můžeš interagovat, jasný.
+Má to ten konec, kdy prostě
+na něco klikneš, kdy
+máš marketingovou apku
+a víš, hele,
+zase příklad z rohlíku, kdy nakoupili příliš
+kapru na Vánoce, prostě
+se tam někdo uklep a najednou
+prostě bylo na skladě jako
+fakt hodně kapru. Kapříci připluli.
+Kapříci připluli, ale to mě vyprávěl
+vlastně Petr Huňka a říkal, hele, my jsme ti kapru měli
+jako fakt hodně. Ten sklad máme fakt velký
+a všude byly kapři, kam se spodívat.
+A teďka bylo 24. ráno
+a ty potřebuješ
+prodat všechny ty kapry, prostě, že jo.
+Tak se řekneš, hm, tak to musím udělat nějakou
+mailovou kampaň prostě na ty naše zákazníky,
+o kterých tuším, že budou udělat bramberový salát
+a asi by chtěli kapra. Tak ho prodám prostě
+za nákupku, jako jo.
+Tak teďka, co potřebuješ rychle udělat?
+Vysegmentovat ty zákazníky, jestli už
+si toho kapra včera koupili nebo ne, nebo jestli ještě
+na ně ještě čekají, zjistit, odkud jsou,
+protože tohle to bylo na jednom skladu, zase nechciš vozit
+prostě kapry z Prahy do Ostravy, že jo.
+Takže on si přesně na tohleto
+uděláš appku, kde budeš mít
+rychlou segmentaci, zjistíš, hele, tadyhle mám
+deset tisíc lidí, kteří to můžou poslat,
+zaškrtáš se tam, uděláš
+tomu nějaký text,
+třeba pomocí AI to jako malinko
+zpersonalizuješ, teda to ještě nešlo,
+a dáš send. A tady ta věc ti
+ovlivní tu tvůj typickou pipelineu,
+ale ty jsi potřeboval one time use case, jako jednou to
+udělat, kapřin, pak někdo objednal ještě,
+myslím, že znova říkal nějaký křepelky,
+a už věděli, jako co dělat, že jo.
+Ty vole, co to tam
+objednávají v tom rohlíku, ty.
+Možná by měli na vstupním formuláři
+tam udělat nějaký constrainty.
+Takže
+takovýhle věci, prostě jednorázová
+věc, která má na konci nějakou akci
+streamlet plápecka, prostě jo.
+Sice nepatří mezi
+klasický, jak říká Polly, data sexuály,
+ale přijde mi to strašně zajímavý.
+Je ta platforma, co všechno umí,
+celkově to reální použití,
+je to pecka, říkám si, že to možná zkusím
+použít, protože nebudu zastírat, že
+i denodenně tím, jak víc pracuji s různýma
+zdrojema a Excelama a tak,
+že by se mi začíná, bylo by se mi
+trošičku hodit, hodit to
+na jedno místo a podívat se na to trošičku jinak,
+než skákat jako od spreadsheetu
+do spreadsheetu.
+Došli jste, jako
+ušli jste úžasnou cestu. Mě zajímá,
+jak ta firma
+funguje aktuálně, protože
+z toho, co jsi mi říkal,
+od punku přes teďka seed,
+jak to vlastně třeba
+ovlivňuje tu vaši kulturu? Vlastně
+je kebula ještě, my jsme se toho dotkli úplně
+na začátku spolem. Je to ještě startup?
+Ten rozdíl, jako,
+nebo my jsme teďka měli series a seed jsme měli
+nějak asi rok předtím,
+takže tohoto už bylo nějaký druhý kolo.
+Startup, já bych to přirovnal
+k tomu, že my jsme teďka vlastně
+najmuli
+ex-Google, myslím, že to říkám správně,
+holčinu, která má kontrolovat, že neuděláme
+nějaký kulturní přešlap.
+Protože my už se začínáme
+růst, máme nějaký americký investory
+do toho a nemůžeme se jako dovolit
+udělat nějakou botu,
+když to tak řeknu.
+Takže už teďka se snažíme
+nejet úplně i ten punk a snažíme se
+to trochu učesávat, aby někdo
+na Slack prostě, aby jsme neměli
+nějakou avast story s kočičkou,
+to jste slyšeli, tak to se snažíme
+tomu trochu předcházet.
+Ale já si myslím,
+že ten startup,
+co to byl, když jsem tam přišel,
+to se malinko změnilo
+hodně tím, že tam přišli
+zahraniční lidi,
+který prostě pro ten český humor
+nevždycky mají smysl.
+Ale ty Britové jsou dobrý,
+kolikrát nějakou územněji.
+A tak Britové mají podle nějakého
+výzkumu úplně k Čechům nejblíž,
+co se týče z toho humoru.
+Takže to je dobrý.
+Tak to je fajn. I ty Němci jsou fajn.
+Mají někdy dobrý vtípky.
+Tak německý humor je vyhlášený.
+Trochu se snažím
+naučit ten americký, který je velice jemnej.
+Tam se bojím,
+že udělám nějakou botu asi do budoucna.
+Udíme.
+No ale celkově, kultura
+Kebulei je jaká?
+Je to furt cohcárná, nebo
+už teď jedete striktně procesy?
+My jsme byli připraveni
+na ty procesy mnohem dřív,
+než jsme je potřebovali.
+Takže my jsme jeli velice efektivně
+už v minulosti.
+Ty jsi to říkal, že jsi to rozbil.
+Já jsem přesně rozbil.
+Když každý si dělal, co chtěl,
+padák, jako náš founder,
+říká, že podle mě to přestal
+být startup v té doby,
+kdy už nemáme všechny peníze v šuplíku
+pod schodama a když jsem potřeboval dát na výplaty,
+tak jsem šel do toho šuplíku a doufal jsem,
+že tam něco bude.
+Takhle se od té doby, co máme účetní,
+že už to není ono.
+Tady ten level bolesti,
+já jsem jako nezažil.
+Jo, jinak pod těma schodama
+taky byl počítač, na kterém byla
+nahraná bitcoinová peněženka, kde bylo
+100 bitcoinů, ale někdo zašifroval
+disk a už jsme nenašli heslo.
+Ty králco.
+Takže to bylo hnedka
+vedle sebe.
+Nešlo to prostě.
+Ale si víte, že
+jsme to oplakali trochu.
+A
+říkal jsem,
+že to byla otázka.
+No, ta kultura.
+Ale já myslím, že tím, jak reaguješ na to,
+tak jsme si odpověděli.
+Je to pořád, ty lidi jsou,
+tady se říkalo dřív v CNQ Unique as a Fingerprint.
+A ty mi přijdeš přesně jako
+ten typ takhle.
+Unique as a Fingerprint.
+Jako typově, co je tam?
+Je to tam samej datasexuál, nebo
+jsou to hardcore programátoři, nebo to jsou
+takový ty divnolidi, nebo naopak
+už tam začínají chodit kravatiáci,
+jeden jako druhý.
+Chodíte bosy v kanclu.
+Tak jsou v Karlíně.
+Počkej, my už nejsme v Karlíně, my jsme v Holešoviči.
+Jo, aha, tak to už se taky dá.
+Přijďte někdy k nám do kanclu.
+My jsme vzali kanclu,
+to byla stará fabrika, kde se vyráběly kabely.
+A předělali jsme to.
+A já jsem tam přišel a tam byla
+prostě strop opadával,
+okna prostě nešly zavřít,
+podlaha byla taková, že to bylo otrhaný linosparket.
+A jsem tam přišel,
+a kdy jsme to jako začali zařizovat
+a padák mi říká, vidíš ten potenciál?
+A já jsem se na to tak podíval.
+A fakt jsem se ho snažil vidět, ale neviděl jsem ho.
+Ale padákovi se podařilo
+vlastně najmout jako agenturu,
+která nám to tam dala do Hormady.
+Vyhráli jsme pak s tím nějakou cenu s těma kancelama.
+Takže tam přijdeš, na schodech to by...
+Když máš pocit, že jdeš do skladu
+nebo do nějaký fabriky, zadním vchodem,
+tak to je kebula. A jak tam přijdeš,
+tam na tebe se rozsvítí barevný luxfery nejdřív.
+Pak přijdeš dovnitř, tam se točí desko koule
+a je tam typická kuchyňka,
+kterou my se snažíme udržet něco,
+čemu říkáme obývák culture.
+Takže se někdy stane, že ráno přijdeš
+a tam si někdo dělá prostě snídaně
+na sporáku. Problem je, když se dělá rybu.
+To už se jako zaterhlo, že ryby prostě ne.
+A ono i když...
+Tak kapry, když byly ty kapři, tyvo.
+Nebo smažit si tam kapra, no.
+500 kaprů o to dolíku, tyvo.
+Asi nebylo ono.
+Ale snažíme se udržet tady tu obýváku culture
+a teďka vlastně, jak my
+expandujeme do UK,
+tak pořád se tam snažíme hodně jezdit,
+aby jsme udrželi tu českou culture.
+Já jsem s tím měl teďka
+nějakou přednášku, jako
+co ta česká culture je.
+My neuznáváme
+autority, podle mě.
+Národní jídlo už dávno není svíčkové, ale je to smažák.
+Ano.
+A děláme si srandu
+z bývalého prezidenta. Teďka z toho současného ne,
+já ale ze Zemana, pamatujete si, jak měl
+covid a jak mu udělali
+takovýto akvárko.
+Tak tohle to přesně jako ukazu, jakože co to znamená,
+že neuznává moc autority.
+Takže tam měl papání
+pro křička a zmrzlinu
+a pak tam, já ale nejradši, tak tam je takhle
+zakouřeno a tam neměl by někdo
+popelníček.
+Takže to je
+jasně, takže to je neúctak
+autoritám, což pořád si myslím,
+že to úplně jednak jedný koreluje s tím,
+když popisovali bretskej styl
+humoru. Proto třeba Ricky Gervais
+je tak jako úspěšný, že první, co
+udělá na, nebo dělal na Zlatých globech,
+je, že všechny totálně podělal, všechny
+ty autority a to je ten jako
+jeho styl. Další věc je,
+co to znamená, jako když někdo řekne jako
+not so bad a to je velký
+rozdíl, existuje nějaký graf na internetu,
+jako European vs. US,
+co to znamená, jako že to je not so bad a to jsem
+musel vysvětlit, aby se neurazili, když něčemu
+řekneme, jako že to je so-so,
+tak to znamená, jako že to je na 80%
+dobrý, jo. Že my, jako my,
+když o něčem řekneme, jako že to je fakt dobrý,
+tak to znamená, že to je jako fakt
+mega, mega moc dobrý, ale jako
+so-so, nebo not bad,
+já jsem řekl not bad, tak to znamená
+jako od 20% do 80%,
+jako, hele, jako
+dobrý, satisfied, jako můžete být spokojený,
+že když vám někdo řekl not bad, tak jako to je vlastně
+fajn. No a s tou
+kulturou, kterou teda máte, jak se vám
+daří hajrovat, jak
+funguje ten proces hajrovací,
+jste atraktivním zaměstnavatelem?
+Moje role
+v Kebule, já si myslím, spůlky je
+stavět jako last brand kolem Kebule, aby
+si lidi mysleli, že tam máme nějaký zlatej prácha
+a chodili za náma, nebo
+máme jiný spotpadky, a tohle to
+už jako úplně tak není, bylo to, bylo to,
+jednu dobu to bylo podle mě
+jako fakt na vrcholu, kdy jsme byli
+v těch Holešovicích,
+a teďka v tom covidu jsme to
+trochu jako podcenili, ale teďka na tom zase
+hodně makáme, děláme různý datový akce,
+aby se prostě řeklo, hele Kebula rovná se
+data, chceš něco řešit s datama,
+prostě běž do Kebuly a snažíme se
+jako udržovat pořád takovou tu rodinnou
+atmožku, že není problém
+poslát
+CEO jako do háje vlastně, že ho tam vidíš,
+ten Pavel tam prostě chodí do toho kanclu,
+můžeš se s ním potkat a říct mu, hele Pavle,
+včera jako to bylo nic moc, jo, nebo super
+Pavle, jako fakt se jsi mi líbil,
+takže tohle to se snažíme jako držet, aby jsme byli
+hodně flat, ale víš co, teďka nás
+přibylo za posledních
+za poslední tři týdny nás přibylo
+třeba pěta třicet, tři týdny, tři měsíce
+si myslím, že nás přibylo tak jako pěta třicet
+začalo to atraktovat
+lidi, potom co máme ten
+seed, ne seed round
+series A, tak to začalo přitahovat
+pozornost podle mě lidí, který
+už nejsou jako na tu malou startupovou
+kulturu a říkají, hele tady ta firma už něco
+dokázala, já už jsem
+taky něco dokázal, vím jak jí
+posunout, teďka řeknu professional
+services, vím jak tu firmu posunout
+ze sto lidí na dvěstě, takže
+se nám jako malinko měnějí ty lidi,
+kteří k nám chodili, předtím to bylo takový to
+hele, půjdem na oběd, dáme pět
+piv a pak uvidíme, jestli k nám jako půjdeš
+a rovnou to večer podepíšeme ještě, že jo
+a někdo vygeneruje dokument
+a
+dokusajném to rovnou ještě večer v hospodě podepíšem
+tak tohleto už jako se neděje, že jo
+už jako jsme svázaný těma procesama
+daří se to, ale musím říct, že teďka
+jak jsou ty layoffy, jako i technický
+frame, tak my jsme
+jako na druhé straně a teďka vlastně ty lidi
+nabíráme a ten trh
+nevím, jestli si to pamatujete
+asi jo, ale v roce
+2020, 2021
+jako ten trh jako nebyl zdravý
+prostě k tobě přišel pracovat člověk
+do infra a řekl
+no abych si představoval tak dvě stěna
+HPP, promiň, počkej
+kam to asi vypadlo, můžeš to říct ještě jednou
+ale no vlastně
+takhle jsem si představoval, říkal, tak přeji hodně štěstí
+ahoj, anebo
+prostě přišli lidi jako po škole, který věděli
+jak ten trh je, že jo, a ten
+borec jako v životě nešách na kód, nebo měl
+jednu apku na GitHubu, kterou jako udělal
+během střední a řekl si třeba pěta šere
+za to, že jo, a
+myslím si, že tady to
+už se trochu teďka změnilo, že ty lidi
+už jsou si trochu vědomí to, jak
+já myslím, že přišla krize, jako
+co ne, myslím, že nějaká krize
+jako tehdá tamta stará
+jako, že bychom ji tady měli
+ale ty lidi malinko jako si začínají říkat, tyjo
+možná jako nejsem jako
+tak cený
+a mohl bych se taky jako trochu víc snažit
+a půjdu trochu níž, i když
+budu dělat jako pro dobrou firmu
+A takže i tenhle profil těch
+kandidátů se vám tam objevuje
+víc a víc, že ty lidi jsou jako rozumnější
+a ty jsi říkal, že jako jsou do té, řekněme
+pozdější fáza
+té firmy, že už to jsou lidi, kteří to chtějí spíš
+posouvat, než vyloženě rozpovykaný
+startupisti, jo? Jo, jo, tak
+jak se tomu říká, když
+krančovat, že jo, jak si prostě
+jak si zakrančuješ večera, já jsem tam miloval
+prostě tady ty věci, že jsme tam seděli
+a dělali jsme něco do večera, že jo, jak je to
+neinterení a takový věci
+a my máme, děláme
+celofirmní offsite, kde se vždycky
+sejdem všichni jako vývojáři
+já už teda nejsem, ale kluci
+mě tam ještě berou
+takže se tam sejdem a vždycky tam je
+téma, který se jmenuje skurvili jsme se už
+a to přesně jako odpovídá
+tady tomu jako, hele, tak už nejsme ten startup
+a bylo to tam třeba
+čtyři roky po sobě a až
+jednou můj teďka nástupce
+vlastně Vlado řek
+hele, my jsme se jako neskurvili
+my jsme prostě jenom dospěli
+a není to kvůli tomu, že ta firma
+nebo ta firma je tvořená z těch lidí, takže
+ona je ta firma jako dospěla, ale my jsme
+zestárli, jako my už taky řešíme
+jiný problémy. – Jasně, máš děti
+– Přesně, jo, jo, máš děti prostě
+a jste s nima strávit nějaký čas, že jo, takže
+jako už to nedrtíš do večera, každej den
+jaký dny, jo
+ale my jsme
+jako se posunuli dál, řešíme větší
+klienty, s tím jak přišla spořka
+tak se jako taky hodně změnilo, že už jsme
+si museli začít dávat pozor na nějaký
+nebo pozor na nějaký věci, to zní jak kdyby jsme
+předtím nedávali, ale prostě ten enterprise
+jako ti tam vnese takový věci, jako
+že musíš mít 24-7
+a předtím ten support byl jako best effort
+base, on byl jako poměrně
+28-8, bych řekl skoro
+ale teďka už se to muselo sformalizovat
+a někoho to prostě večer budí, jo, takže
+už si zavereš nějaký procesy s tím, jak ti
+začnou přibývat vlastně
+maturovanější zákazníci
+– Jo, jo, takže s tím vlastně jak
+vy jste dospěli, tak i jste
+se začali zaměřovat na stejně
+dospělý zákazníky, řekneme, takže ta firma
+vlastně z mýho poledu
+jako přirozeně stárne, nebo moudří,
+řekněme, je to tak? – Jo, stárne,
+jsme všichni starší prostě, jo, za chvilku budu mít
+bosou hlavu, tak prostě jo, stárnem, no,
+tak pojďme si to říct.
+– Dobrý, ale takže už nejste vlastně
+startup, ta naše první otázka, kterou jsme si tady
+spolem dávali, jste ještě nebyl, jestli
+protože se tady furt představujete jako startup,
+proto se k tomu jako vracím.
+– Tak definuj startup,
+jako co to znamená, že
+podle mě to
+znamená, že nemáme procesy na všechno,
+nebo jako pořád jsme
+víc co product board je startup.
+– No, podle mě už žádno ne. – Už je to scale up,
+potom tam jako kdo jsou
+jako kivy, je kivy
+enterprise, korporát.
+– Řekl bych, nevím.
+– Jo, nebo kdo je podle
+vás jako, je mně jasný, kdo je ten ránej startup,
+jako takový ty tři lidi,
+a pokud ti neví jeden zákazník,
+tak to končí vlastně, protože to můžete položit, že jo.
+Tak v tady té fázi nejsme,
+my už jako točíme
+takový
+ročně
+něco přes 10 milionů jako dolarů,
+už vlastně něco
+hodně víc, takže už jako
+na ty vejplaty prostě máme. – Jasně.
+– Tak tady ty problémy tam
+nejsou,
+ale pořád jako ta kultura je taková
+flat, že můžeš přijít,
+že prostě můžeš jít s tím CEO prostě
+na vejču a on to za tebe zakešuje
+a dáte si nějaký pivka
+a nějak to skončí.
+– A ještě možná
+na tohle téma poslední otázka,
+ty jsi říkal, že děláte takový
+ty výjezdní zasedání, kdy teda řešíte,
+jestli jste se skurvili, neskurvili,
+s tím ale, jak přišel ten sít a jak chodí
+nový, nový lidi, je tam nějaký dlouhodobý
+plán, jak s tímhle s tím pracovat, protože
+při vší úctě je rozdíl mít
+100, 200 nebo 500 lidí,
+to je prostě jako jiná firma, jo,
+tam už vlastně Nkrát,
+když máš těch 500, tak máš třeba 3 kebuli,
+když bych vás byl, oproti tomu, když vás bylo
+150, má, je už takovýhle
+nějaký plán, jak to vlastně řešit, protože ta flat struktura
+z mý zkušenosti
+jako neškáluje do nekonečna, to prostě
+nejde. Jo, tak to řešíme,
+já když jsem tam nastoupil,
+tak jsme byli fakt jako flat, že
+lidi, všichni lidi se bavili se všema
+a já jsem zavedl vlastně
+první strukturu v techu,
+my jsme byli největší v oddělení, když já jsem
+měl pod sebou nějakých 25 lidí, tak 50%
+lidí vlastně té firmy tvořil tech,
+takže já jsem zavedl jako,
+že jsem byl vlastně
+CEO, byl jsem já, potom byly ty lidi,
+to byl jako nějakej první jako takovej krok.
+Stromeček. Stromeček, pak jsem se snažil
+vytvořit nějaký team leader, to se mi absolutně nepodařilo,
+v tom jsem vyfailoval, takže
+jsem měl 25 one to one, to si asi dokážeš
+představit, že vlastně to poslední
+tě navazil zase s tím prvním,
+takže nemáš jako my moc času splnit
+to, co jsi tam slíbil, ale to už se jako
+podařilo a jak tohleto
+řešíme,
+podle mě nedává smysl, aby
+člověk jako já zůstával
+v manažerský roli, když ta firma roste,
+protože já nevím, jak to dostat
+z pěti lidí na
+padesát, nebo já jsem věděl,
+jak to dostat z pěti lidí
+na patnáct lidí,
+tohleto jsem si zažil, už jsem to
+zkušenost dal, ale my se snažíme najímat ty lidi,
+který, pokud jsi
+víc naše professional services,
+tak ukáže, že jsi byl ve firmě, kde bylo
+sto lidí a ty jsi ji dokázal dostat na dvěsti
+lidí, že jsi s ním tohleto prožil
+a nahradili jsme ty
+manažerský role
+z většiny,
+teďka jako více jak z poloveny bych řekl,
+lidma, který už mají tu zkušenost,
+jak ten krok udělat.
+A pak tady ty lidi,
+sorry, nevím, kam se dostanou, co s ním
+pak uděláme, ale
+pak zase budeme hledat ty lidi, který
+vědějí, jak to udělat z dvěstě na pětset.
+A pak už to asi, já nevím,
+z toho exitnem.
+Ale super, ale jste teda připravený
+na ten růst i řekněme po té
+organizačně kulturní
+linii, která prostě s tím jde ruku v ruce.
+Organizační určitě,
+máme nastaveny nějakou super procesy,
+aby jsme to zvládli. My jsme vždycky měli proces
+dřív, než jsme ho jako reálně potřebovali.
+Aby jsme byli efektivní.
+A tím počtem,
+mně se teďka stává, že přijdu do kanclu a nevím,
+jestli to jsou klienti anebo zaměstnance.
+Teďka to zase
+se pokusím dohnat, ono je potřeba s těma lidma se spojit.
+Ale už jako neznám
+jména všech dětí, všech lidí
+a vím, že Pepa má
+Pepu a má Aničku a jeho žena se jmenuje
+Lucka, ale už tohle to jako
+nevím o všech těch lidech.
+Možná jsme našli ten zlomovej bod toho startupu.
+Že tohle, když už nejsi schopen
+říct z hlavy jména manželek
+svých kamarádů a jejich dětí,
+tak už možná nejsi ve startupu.
+No, tak nejsme.
+Těžký říct, že pak je to ještě o tom mindsetu.
+Jakože dlouho ještě ta firma může
+také to působit, jakože je to
+asi složitější. Ale vím přesně, o čem mluvíš.
+Že teďka ty první měsíce
+ve sporce jsem říkal dobrý den svojim podřízeným,
+protože se mi ještě nezahlít.
+Je toho víc.
+Jako na těch lidí hodně, tak už to přestává
+v tomhle tom být legrace.
+A ty jich máš vůbec pole, že jo?
+Kolik tam lidí? No, je to přes sto.
+Přes sto. No, hele,
+já neznám všichni lidi v Kebule
+teďka a nás je sto.
+A jako kdybych měl být sto, ale oni to nejsou jako
+direct reports, že jo? To bys
+ty one-on-one vlastně nestih
+ani, že jo? Já to mám jako direct reports.
+Jo, a ona ta,
+ona v té sporce je docela jako flat struktura,
+ale jakože máme to neoficiálně
+s těma produktům, která má nějak vymyšlený,
+ale o to, abych teď nezabíral, to by bylo loující.
+Zabředává do spořice. Ano, ano, ano.
+Jo, takže je to zajímavý, no.
+Řekl jsem spořitel, ale myslel jsem spořice,
+protože myslíš, že máme... Jo, jo, jo, ne, pořádku.
+No, máme takovou nepsanou dohodu
+s marketingovým oddělením.
+Budeme vybírat nějaký penížky.
+No tak jo, ale prosím tě,
+my tady poslední vlastně sekci, se kterou jsme,
+o který jsme se s tebou chtěli bavit,
+je cestování, ale protože nám to zabralo
+první třetinu podcastu, tak
+to můžeme vynechat. Pojďme do finále.
+Pojďme do finále. Co vlastně
+Vojta má teďka aktuálně
+v Merku, na co se chystáš, co teďka
+plánuješ do budoucna?
+Já si předělávám dílnu.
+To je hezký.
+Na to se nejvíc těším.
+Ten biznis teďka
+nám roste pořád.
+Máme nový klienty, je to super, ale řekl jsem si,
+že si chci udělat nějakou radost. Já rád dělám se dřevem,
+takže teďka rozšiřuju
+už svoji dílnu, která zabírá vlastně polovinu
+našeho domu skoro.
+Žena řekla, že jo, že v pohodě, když to mám rád,
+tak ať to dělám.
+Takže nosík prostě našel kde?
+To slyšíme no v pohodě.
+Jasně, čtyři měsíce motorka není problém.
+Čau, jeď, z půlky baráku
+bude dílna. Jo, jasně, to není problém.
+A ještě bych vám chtěl říct, když jsem si tu motorku
+kupoval, jako než jsem jí měl, jsem si ji kupoval
+až ve 24, tak jsem jí řekl, hele, buď to
+koupím nábytek do našeho novýho bytu,
+anebo si koupím motorku. A ona mi na to řekla,
+kup si motorku, stejně si ji chtěl.
+To je rádený.
+Už je zadaná, takže...
+Jo, ne, v pohodě.
+Rozumím, rozumím.
+U můjího motorce, že jo.
+Takže, děláš si dílnu, to je teďka
+tvoje nejbližší činnost, projekt.
+To je moje teďka nejbližší činnost,
+protože si tam chodím odpočnout,
+že to je, tam mě strašně baví
+ta práce s něčím, co je vidět
+v našem prostředí, já nevím,
+jestli to máte podobně, ale
+já chci mít něco, co udělám
+a vidím tu věc,
+jakože super,
+nasedíme datový apky do spořice,
+ale jako já si na to někdy
+chci šáhnout a chci si prostě na tu věc
+sednout, takže já nevím, třeba jsem si udělal
+stůl prostě doma, my jsme si
+koupili takovou velkou roubenku před třema
+rokama v covidu, byly nejlepší ceny
+absolutně na takovýhle věci, že jo,
+na nemovitosti za městem,
+takže jsme si koupili roubenku a teďka ji dávám
+jako dohromady a přesně chtěl jsem si tam
+udělat stůl, tak jsem tři týdny
+dělal prostě stůl a udělal jsem si pořádní
+jako masivní stůl a jak až se tam
+sednu, jsem tam večer sám a mám dobrý
+pocit z toho, víš co, pohladím se vás
+a spolu.
+Tak to je super, tak jako plány
+jsou daný.
+Vojto, ať se ti daří, teď teda hlavně
+s dalšíma stolama nebo židlema,
+pokud je to teda tvůj hlavní plán.
+Já jsem chtěl říct, ať se máš do budoucna co hladit.
+Jo, přesně, přesně, pohleď si co
+potřebuješ, ať je to žena nebo stůl, to už je na toby.
+Ale ať se ti daří i s kebulou
+a v kebule a ať
+rozkvétáte tak, jak
+to teďka vypadá, že rozkvétáte.
+Ať se daří. Paráda, díky moc.
+Moc děkujem. Měj se hezky, čau.
+No, kamaráde, mám pocit,
+že vykopnutí deváté série nemohlo
+být originálnější
+nebo svéráznější,
+řekněme, než
+s Vojtou. Vždycky si děláme tady
+legrácky, že jo, jak to bylo úplně jiný, no tak
+dneska to bylo ale opravdu úplně jiný.
+Prostě já myslím, že tam, jak jsme
+měli otázky na kulturu firmy,
+tak vlastně tu kulturu ten Vojta předvedl
+tím, jak se tady vlastně
+choval.
+V tom dobrém slova smyslu.
+Neřízená střela.
+Přesně tak. Bylo to super. Říkal jsem si,
+že bych někdy rád poznal toho padáka,
+zakladatele kebuly,
+protože to vypadá, že bude
+velmi podobný těsto
+a velmi podobný styl a
+přijde mi to hrozně cool, ty
+jako historky typu
+musím si jí podívat dolů pod schody,
+jestli mám peníze na vejplaty.
+Pro mě to je tak nepředstavitelný vůbec
+v tomhle módu existovat, že
+hrozně rád bych s takovýmhle člověkem pokecal.
+Možná bychom mohli v nějaký další sérii
+se sem přitáhnout přímo padáka,
+tím toho sem zveme
+a probrat možná ty startupový začátky,
+aby třeba zazpomínal úplně, jak to bylo
+v té době, kdy o prejskaný
+zdi málo na vejplaty,
+podepisovalo se přes dokusa
+po pěti pivech někde z hospody.
+To mě zní tak jako skvělý
+téma, navíc ty s tvýma zkušenostmi
+ze startupu, abys tam mohl přidat
+pár svejch fail stories.
+Na to se to dá vždycky hezky nalepit, to je pravda.
+Takže Vojto, děkujeme ti.
+Děkujeme ti, věřím, že
+posluchač si z toho odnese své,
+dozvěděl se, co Kebula je,
+co není a my jedeme dál.
+No my jedeme dál, my jsme vykopli devál tu sérii
+a koukám na ten seznam těch
+už dohodnutých hostů, dokonce jeden z těch hostů
+mi v průběhu dnešního natáčení
+volal, že jede z Brna
+a na dálnici poslouchá náš díl
+o January Hive
+a LLMs
+a tyhle ty věci. No krása.
+Takže Kuba Najberg, můj kamarád z Mladé Boleslavy,
+který teďka dělá SAP,
+tak jsme si říkali, že se podíváme na zoubek i SAPu.
+Tak to je třeba jeden z hostů, který přijdou.
+Ale jak tak koukám,
+čekají nás samý velký jména v devátý sérii
+a já se na to začínám
+zase strašně těšit, že
+jsme to zase vykopli, tímto jsme se de facto
+vlastně komitli k tomu, že pokračujeme dál
+aspoň na konec deváté série
+a mám z toho radost, těším se.
+Já taky, přátelé, čekají nás opravdu velká jména
+dokonce i z jiných než z IT
+prostory, tak jestli to tak nemůžu říct.
+Čekají nás různí
+lidi, kteří byli vlastně slavní
+i v jiných kariérách a
+to je teda velký teaser.
+No tak tohle je vůbec teaser jako hovado. Já jsem teda chtěl
+vytáhnout ještě takovej ten mega teaser,
+že uvažujeme spolim o tom,
+že si zopakujeme to, co jsme předvedli
+před rokem na Dev Talks, že si dáme
+živáček pěkně v nějakým
+pěkným venue, společně s nějakým
+občerstvením, že si dáme živej
+podcast, ale teda
+ten host, na kterýho ty si
+tak mezi řádky poukázal,
+na kterého já osobně se strašně těším,
+tak to asi bude možná highlight tohohle
+pololetí. No safra, to jsme toho
+naslibovali. No ježišmarja, teď to splnit.
+Dokážu slíbit. To vám nikdo nedá.
+To si zapamatujte.
+Mějte se fajn. Čau.
+Čau.

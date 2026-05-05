@@ -1,0 +1,1558 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Vážení přátelé a fandové dobrých podcastů, vítáme vás opět u podcastu Pod vocasem.
+Dneska začínáme čtvrtou sérii a já tě tady vítám. Ahoj Románku.
+Ahoj Poli, u mikroponu vás zdraví, musíme to samozřejmě říct klasicky, jak to máte rádi.
+Petr, Pítr, Poli, Polák.
+No tak to bylo ještě střešničkou na dortu. A Román Joker provazní.
+Tak čau, čau, čau všem. No těšili jsme se na vás samozřejmě.
+Léto bylo dlouhý, bez podcastů, bez toho, než bychom si sem zvali hosty.
+Takže už jsme si říkali, že už to zase musíme vykopnout.
+Takže pokud jste se na to těšili, tak máme dobrou zprávu. Je to tady.
+Je to tady. Jak jsi se Románku měl?
+No tak klasicky letně, nějaká to dovolená, nějaký ty cesty po Evropě.
+Pak už i cesty po Evropě za zákazníkama, protože jsme se tady před chvilkou mimo Ethers s Polim bavili,
+že nám ta pracovní sezóna taková, ta od září do prosince začala už trošku dřív.
+Takže vlastně hodně, hodně cestování.
+Pravda, pravda. Začala dřív a vlastně to bylo docela příjemný.
+Už vlastně někdy v půlce srpna se klienti probudili a začali jsme se bavit o biznisu.
+A zároveň my jsme teda i v rámci našeho odděleníčka rozšířili jednu doménu.
+No.
+O RPAčka. Takže určitě bych hrozně rád si někoho sem na tohle téma pozval.
+Robotik, proces, automation.
+Prosím tě, je to taková ta podstatě, jak to říct, emulace toho, co ty děláš,
+když seš třeba, nevím, v HR a potřebuješ naklikávat různý smlouvy
+a zadávat různý údé do zase jiných dokumentů z jiných dokumentů.
+A ty to podstatě celý zautomatizuješ tak, že ti to ušetří čas.
+Velmi zjednodušeně řečeno.
+Takže až to doděláš, tak jdeme zazvonit na holky na HR a řekneme,
+ať si vezmu krabici a konec.
+A holky už to používají a zatím jim to neprodávám, takže půjdou pryč,
+ale že vlastně mají čas přemýšlet nad jinýma věcma a třeba zlepšovat toho dělení zase jinak.
+Takže když se tě Eva zeptá, jaký má, nebo začne ti říkat svoje plány na příští rok,
+tak ty se jenom usmíš a řekneš, Evě, to už není tvůj problém.
+Já říkám, ty jsi kdo?
+Čím zdravíme Evěčku samozřejmě na PD.
+No tak to je super.
+Hele, jinak zajímavá věc, dostali jsme velmi kladný ohlas, velmi zajímavý ohlas.
+Já to přečtu celý, ono to je trošku delší, ale přečtu to celý,
+protože napsal nám Honza Novotný, což je organizátor nekonference,
+no to není jako nekonference, je to nekonference, která se jmenuje J-Open Space,
+pokud posluchači zajímá víc, tak se podívejte na jopenspace, tak jak to říkám, .cz.
+A mimochodem tenhle ten člověk, kromě toho, že je spoluautor podcastu Café Mlejnek TV,
+tak je i poměrně známá osoba v džavovský komunitě.
+Takže jsme se dostali k tomu, že nás zpátky poslouchají lidi z džavovský komunity,
+se kterýma jsme si to na začátku možná trošku rozházeli,
+že jsme měli takový blbý forky na ně, tak vidíš, nakonec ne všichni utekli.
+No a co napsal, jo? Takže, ahoj, tady Honza Blátec, jsem to říkal.
+Chtěl bychom vás na nekonferenci pozvat a zároveň se obracím s prozbou
+o zmínění naší nekonference v termínu jejího konání 7. až 9. října 2022 v Telči ve vašem podcastu.
+Pro účast kohokoliv stačí krátká příprava, desetiminutové přednášky pro ostatní účastníky
+a spíše formální registrační poplatek tisíc korun díky našim partnerům.
+To stojí samozřejmě pro ostatní jenom takhle málo, protože partneri pokryjou zbytek peněz.
+Jinak letošní ročník je 13. pořadí a věříme, že jakou dorazí, tak se mu to bude líbit.
+Já jsem o té nekonferenci slyšel.
+To mimochodem chtěl před dvouma rokama, myslím, je to nějak mi do toho něco skočilo,
+ale určitě jako je to dobrá věc. A zajímavý na konci píše
+A by the way, poslouchám váš podcast a musím říct, že se mi moc líbí bez pochlebování.
+Je přesně tak technický, jak jsme se vždycky v Cafemlinku snažili udělat.
+Teď, když sami nenatáčíme, jsem rád, že někdo takový v republice stále je
+a takový podcast dělá jen tak dál.
+To je, vidíš, hele jo, džavovská komunita, jako nás pelujou.
+Je to krásný, je to krásný a samozřejmě každej takový ohlas se hezky poslouchá
+a o nekonferenci jsem taky slyšel a myslím si, že to určitě stojí za to.
+Tak jo, tak Honzo, i vám ostatním, co nás posloucháte, moc děkujem.
+No a jdeme na dnešního hosta. Dnešní host, to jméno, který řeknu,
+tak když řeknu Dominik Moštěk, tak pokud jste správně poslouchali,
+opravdu pozorně, poslední díl předchozí série, tak to pro vás není úplně nový jméno,
+protože Dominika zmínil už náš host Cyril Sahula, který v spojitosti s funkcionálním
+a objektový orientovaním programováním v Javě řekl, že Dominik je ten správný člověk,
+kterýho se na tohle zeptat.
+Takže krásně, tam, kde jsme skončili, tak začneme.
+Je to tak. A on už mi volá, tak jdeme pro něj.
+Nádhera.
+Ve studiu už s námi sedí náš dnešní host, Dominik Moštěk. Ahoj, Dominiku.
+Ahoj.
+Ahoj, Dominiku.
+Tak prosím tě, Dominiku, já jsem zmínil před chvilkou,
+tebe vlastně zmínil v posledním díle našeho podcastu Cyril Sahula.
+Jak vy dva se znáte? Proč vlastně o tobě mluvil?
+My jsme kolegové ze Zonky a vlastně dneska už dobří přátelé.
+Já teda takový fun fact, já jsem Cyrila nesnášel na začátku.
+Jo, tak to mám všichni stejně.
+Akorát mě to vydrželo do teď.
+Ne, samozřejmě, zdravíme.
+Zdravíme, zdravíme.
+A samozřejmě, časem se to obrátilo, teď jsme přátelé celý rodiny, jezdíme na dovolený.
+A vlastně, proč mě zmiňoval je, my si spolu hodně často povídáme o práci.
+A bylo tomu tak i právě těsně předtím, než šel jsem do podcastu a bavili jsme se o Kotlinu.
+Proto mě tady párká citoval.
+Tak takhle.
+No a takže ty jsi říkal, že vy jste vlastně bývalí kolegové.
+Čili, samozřejmě, Cyril ten už dělá jinde.
+Ten dělá v tom Inšár systému, jak pamatuješ, jak se to jmenuje?
+To úplně vypadlo, úplný retard a to jsme ho tady měli.
+No? No?
+No. Job number one.
+No, přesně tak, výborně. Aspoň někdo si to pamatuje, díky.
+Ale Dominiku, ty děláš jinde. Ty děláš v Akatamě, je to tak?
+Atakama.
+Atakama, Atakama. Nesklonňuje se to, jo?
+Nebo říkáte jako v Atakama?
+V Atakamě.
+A nevím.
+Asi.
+Dobře.
+Nevím, který je ten korektní způsob.
+Jo, dobrá. A co tam děláš teda?
+Moje rola je software engineer.
+Ale řekněme, že já vždycky popisuju tu svoji roli jako takový volný radikál.
+Já prostě poletuju po firmě a snažím se fixnout, co je k fixnutí.
+Ale pořád je to na té technické úrovni.
+Protože koukal jsem, že jsi psal, nebo na LinkedInu jsem četl, tuším,
+že tam je nějaká vize, jako tvorba vize, strategie a tak dále.
+Takže děláš i tyhle věci? Nebo jak hodně kóduješ dneska?
+Teď jsem se vrátil ke kódování.
+Prostě asi každý programátor to má v krvi a musí občas kódovat.
+Ale poslední rok jsem nedapsal skoro řáde kódu.
+Věnoval jsem se spíš takovýmhle těm high level věcem.
+A tu vizi nedělám sám.
+Já se snažím spíš nastavit procesy, který zaručí to,
+že se tyhle věci budou dít kontinuálně sami.
+Takže jsme přišli s pár vylepšeníma, zavádíme nějaké best practices,
+procesy, tak aby až člověka přejede ten slavný autobus,
+tak aby to pokračovalo dál.
+A znamená to teda, že tě to nebavilo, nebo teďka je potřeba dělat jiný věci?
+Myslím teďka tak ty high level záležitosti, nějaký schémátka a tak,
+nebo proč jsi se vrátil zpátky ke kódování?
+Protože si myslím, že mám co nabídnout pořád v téhle oblasti.
+A protože za prvý potřebujeme každou ruku na klávesnici.
+A za druhý snažíme se dělat takový...
+A vlastně můj šéf tomu říká hostující profesora,
+a to nesnáším tohle slovo, protože to zní hrozně povýšeně.
+Ale člověk, který bude chodit tým od týmu a bude zkoušet právě vylepšovat
+jejich codebase novýma nějakýma přístupama a tak.
+Takže teď je moje první štace.
+Tak jsi dostal teda zpátky k tomu kódování.
+Přesně tak.
+Já jsem asi poslední půl rok v podobný fázi,
+kdy jsem neotevřel T-Rider, ani nepamatuju.
+A říkám si, kdy mi to začne zase tak strašně chybět,
+že se k tomu budu chtít vrátit.
+Takže to by to vydrželo celý rok.
+Jo, ale já si samozřejmě potají večer v programu doma.
+Já teda taky.
+Říkal jsem si, jestli třeba se to nedá suplovat tím,
+že si večer tu a tam komitneš něco do nějakého open source.
+A u tebe to ještě nepřišlo, ta potřeba zase se vrátit i v práci.
+Já to mám, že večer si občas pokomituju právě do nějakých open source
+nebo do svejch projektíků a udržuju si to a je to ještě jako v pohodě.
+Ale obdivuji někoho, kdo to vydrží delší dobu
+bez těchto drobných cheatů po nocích.
+Jo, jo, jo.
+Tak já koukám, že všichni jsme tady ženatí,
+tak to je takový trik, že řekneš, že jsi s Milenkou,
+Milen se řekne, že jsi se ženou a můžeš v klidu programovat.
+Jo, jo.
+Nevím úplně, nevím, jak manželce, že jsem s Milenkou.
+Možná bych to programování vzala líp.
+Přesně, přesně. Jako když bych řekl, že budu programovat,
+tak to by bylo lepší.
+Hele, ještě Dominiku, trošku k Atakamě.
+Je to teda vlastně datová platforma.
+Popsal bys to trošku pro posluchače, aby si dokázali představit,
+co tam vlastně kodujete?
+Ono je to hrozně těžké popsat, protože my, co se týče dat,
+děláme snad všechno pod sluncem.
+Od katalogizace dat přes master data management,
+referenční data, datovou kvalitu.
+Máme i nástroj pro vizualizaci dat.
+A datovou lineage, prostě cokoliv, co se týká data managementu.
+Vizualizaci děláte sami si?
+Jako v rámci té platformy je vizualizátor?
+My jsme koupili startup, který se jmenuje Datastories.
+A vlastně ten integrujeme do naší platformy.
+Ok, ok, cool.
+Mimochodem k vyzkoušení online.
+Super, super, super.
+Takže a v podstatě používáte to i interně?
+Tyhle ty tooly, jako v podstatě tu datovou platformu,
+celý to aplikujete i pro svoji firmu?
+Snažíme se. Máme v tom mezeri.
+Ale snažíme se.
+Jasně. To znamená, že ta firma se skládá i z datových inženýrů,
+nějakých BI specialistů, který vlastně obhocují tu platformu
+a i zároveň máte nějaký interní tým, který se stará taky o ty datový věci.
+Je to tak?
+Na nejvíc inputů nám samozřejmě chodí od zákazníků.
+Máme spoustu zákazníků, který s náma spolupracují opravdu úzce.
+Tudíž od těch máme nejvíc vstupů.
+Ty jsi zmínil zákazníky. Jaký je vlastně typický zákazník?
+Co říjde a co vlastně po vás chce?
+Nebo co mu ta platforma může nabídnout přesně?
+Cílíme na velký firmy.
+Vlastně i finančně ta naše platforma není asi úplně pro malý zákazníky vhodná.
+Typický zadání nebo zadání.
+Typický zákazník je velká firma, korporace, která má bordel v datech.
+Neznám.
+A tak jak ty firmy rostou, tak prostě koupují jiné firmy.
+Tím se jim znásobují databáze, mají spoustu duplicitních dat.
+Dost často, jak jsou ty firmy staré, tak už ani o některých zdrojích dat skoro ani netuší.
+A proto ten náš nástroj. My jim vlastně řekneme, co kde mají, co to znamená,
+kde mají duplicitní data, v jaké mají kvalitě v jednotlivých zdrojích a podobně.
+Hle, ještě technicky. Ta platforma funguje tak, že vy zatím máte navázanýho nějakého partnera,
+kterej to třeba parametrizuje pro klienta.
+Já jsem koukal, že třeba jedním z partnerů je CGI, tak s těma spolupracujete tak,
+že oni jsou vaším klientem, nebo oni vám pomáhají potom tu platformu
+v podstatě implementovat v těch firmách?
+Abych řekl pravdu, tak tady konkrétně CGI vůbec nevím, jak to s nima funguje,
+ale my máme vlastní armádu, řekněme, konzultantů a sales lidí,
+který s tou platformou umějí tak, že vám ji ohnou přesně na míru.
+Jo, jo.
+Extrémně kustomizovatelná. Když říkám extrémně, tak myslím opravdu extrémně.
+V tom se dá udělat cokoliv.
+Tak až ta konečná fáze implementace u klienta pořád je na vaší straně.
+Ano, ale samozřejmě nechceme to dělat. Teď razíme takzvaný self-service přístup,
+tudíž já to přirovnám k tomu, jak když máte registraci na Facebooku,
+přijdete, vyplníte údaje, přijde vám link do e-mailu,
+potvrďte to a tak se to vytvoří.
+Potvrdíte a vyplníte základní údaje a fungujete.
+OK.
+To je naše vize momentálně. Ještě tam nejsme, ale za tímhle cílem jdeme.
+Ale pořád se počítá s nějakou tou vrstvou těch lidí, který tam dělají ty finální implementace
+nebo ty specifické úpravy per zákazník, nebo výhledově vlastně celá tahle část by měla jít do pryč?
+Tak když se budeme bavit utopisticky, tak celá tahle část by mohla jít pryč,
+ale myslím si, že to je nedávné.
+Byla by to pecká, ale samozřejmě dali. A budu vám držet palce.
+Díky.
+Když jsme se bavili o to, že ty jsi se zvrátil zpátky k programování,
+tak by bylo možná dobré říct, jaký je ten tvůj textek, ve kterém ty jsi úplně nejvíc doma
+a ve kterém napíšeš nejvíc kódu.
+Můj textek je naprosto nudnej. Je to takový ten typický korporát Java, Spring a všechno okolo.
+Nic vlastně zvláštního.
+Ale ovládám i Python, začínal jsem na PHP ku Pascalu a se všechno v kložuru se snažím občas něco dělat.
+Ale v tom jsem teda marný.
+Jo, závorky vaděj.
+Ne, ne, ne, spíš o to k tomu se asi dostaneme. Já jako funkcionální přístup miluji,
+jenom prostě nemám rád trošku tady ty kryptické jazyky, taky ty zkratky a tohle.
+Já mám rád, mě vlastně ukecanost Java je docela vyhovuje.
+Že je z toho jasný, co to asi tak dělá.
+Přesně tak.
+Přesně tak, jasně. No tak když už jsme se možná dostali do tohle tématu,
+nebo chceš se podle ještě něco zeptat k Atakama?
+Ne, ne, já jsem spokojený. Myslím, že i posluchač dostal dojem o tom, o čem ten produkt je.
+Nevadí, takže přelejem trošičku do toho funkcionální versus objektově orientované programování.
+Protože to byl samozřejmě ten první impuls, proč jsme si Dominika pozvali.
+Protože já si myslím, že to byl právě ten, to téma, ve kterým ho Cyril zmínil.
+Když jsme mluvili o nějakému objektově orientovanému funkcionální v Javě,
+tak řekl, ježiš, to by mi Dominik dal.
+Takže jak ty to vlastně máš? Píšeš, říkal jsi, že píšeš v Javě,
+ale píšeš, snažíš se psát funkcionálně, nebo snažíš se psát klasicky úplně tak,
+jak když si představím Javičku, nebo objektově, jak to máš?
+Já tě teď trošku rozbiju, protože řeknu, že píšu v obojím zároveň.
+Jasně.
+A to sice tak, že podle mě nic jako objektový programování neexistuje.
+Existuje jenom objektový design.
+Takže já vlastně pomocí objektového designu vytvářím design toho systému,
+připravuju ho tím na nějakou škálovatelnost, flexibilitu, modulárnost a tak dále.
+No a pak, když se dostanu na ty implementační detaily,
+tak tam programu funkcionálně, pořád v Javě.
+A jde ti ten jazyk už třeba, v jaký verzi seš vlastně teď?
+V jedenáctu nebo ani nevím.
+Já používám jedenáctku, ale vlastně...
+Pro mě se jako vlastně skoro nic nezměnilo od čestky, takže...
+Jo. A třeba jsou tam nějaký fíčury, které teďka ti v tomhletom jdou trošičku víc naproti v té Javě?
+Nebo pomáhá tomu?
+Já osobně si to nedokážu úplně představit,
+protože pro mě prostě Java je jazyk, který to, co dělá, dělá jako geniálně tak, jak je navrženej,
+ale představa, že bych tam začal dělat ty svoje věci, na který jsem zvyklý z jiných funkcionálních jazyků,
+já bych nevěděl jak, to říkám upřímně, já bych prostě nevěděl, jako jak to asi napsat, jo.
+Takže jde ti to nějak naproti, skon trošku, nebo ty jsi takovej mák, že to vodneš?
+Nejde mi to naproti vůbec, ale zároveň jako neklade mi to nějaký překážky, si myslím.
+A podle mě to funkcionální programování je stav mysli v úvozovkách, je to prostě přístup k tomu kódu,
+a ten kód, který já píšu, má vlastnosti funkcionálního programování, takže já mu říkám jako funkcionální.
+A vlastně je mi jedno, který ten jazyk já zrovna použiju. Ano, v té Javě vypadá to divně.
+To jsem se chtěl zeptat, třeba jak na to koukají kolegové, kteří jsou zvyklí na, a ty zase ukazují rukama úvozovky,
+klasickou Javu s nějakou asi velkou dědičností a tak dále, což předpokládám třeba, že některé věci tam neděláš, ne?
+Jakoby, třeba teď, když si zmíním dědičnost, to já vůbec jsem z nad posledních pět let vůbec nepoužil.
+Nebo, jestli, tak fakt výjimečně.
+A ten kód vypadá fakt jinak, když říkám, jak na to reagují kolegové.
+První je zděšení, zná se jako těch pět stádí umírání, ne? Tak první je zděšení, jo.
+Druhý je odmítání, nebo jak to je. Až dojdete do té fáze akceptace, tak těmto fázem asi každý musí projít.
+Ale většinou, když se mnou ten člověk vydrží do stavy,
+to je vlastně dlouho, tak nakonec říká, ale ono je to vlastně dobrý.
+Jo, přecvakne mu to jakoby.
+Jo, ale je to dlouhá cesta. Není to jako, že tady ti ukážu příklad a od teďka to takhle děláš.
+Mně to trvalo k tomuhle dojít prostě pět let minimálně.
+Zároveň ty lidi, co tam s tebou nezůstanou, tak chápou ten kód po nějaký době, nebo musí počkat jako dlouhou dobu,
+aby začali rozumět všem těm konsekvencím s tím?
+To záleží. Teď jsem zrovna mluvil s kolegou, který po mně zdědil projekt.
+A tam tenhle koncept, řekněme, jsem neměl dotažený úplně do dokonalosti, ale byl tam.
+A ten říkal, že z toho byl trošku nešťastnej.
+Na druhou stranu, zase jiný příklad kolegy, který zdědil můj projekt, tak ten pak říkal,
+hele, to bylo super, já jsem počítal, že to budu předělávat asi tři měsíce, já jsem to měl za týden hotový.
+Takže je to různý.
+A co je s dědičností, vidíš?
+My jsme nedávno s kolegama se bavili o tom, což trošičku naráží na to, že jsi říkal, že už jsi nepoužil dědičnost delší dobu.
+Že třeba v C Sharpu by měly být všechny klásy defaultně sealed, to znamená, že se nedají dědit.
+A teprve ve chvíli, kdy chceš podědit, tak bys nějakým způsobem explicitně buď tohle smazal, nebo bys naopak řekl, že je, nevím, inheritable, něco takovýho.
+Předpokládám, že to vlastně, vzhledem k tomu, co jsi řekl, je asi možná cesta, kterou by obecně ty jazyky to měly dělat, je to tak?
+Jo, jo. A to se mi třeba líbí i na Clojure, že jo. Tam přesně, když děláš jako mutace, tak to přesně musíš říct, teď dělám jako mutace, že jo.
+A já třeba i takhle programu v TGV, já prostě vždycky dělám klásu final, prostě vždycky.
+Já nad tím ani nepřemýšlím. Všechno dělám final a teprve, když si říkám, OK, tak tady by to stálo za to změnit, tak jdu a změním. Ale to se málo kdy stává.
+A máš taky takový ten zvyk, z mého pohledu to spíš bylo zvyk, že přemýšlím nad implementací C Sharpu, ale první, co k tomu udělám, je interface.
+Takhle to vždycky probíhá. O kterém vím, že ho stejně podílí jen jedna jediná klása, ale už mi tam vzniká víc kódů, vzniká mi tam bordel, vzniká mi tam jedna klása právě s jednou implementací.
+Jenom proto, abych někdy v úvozovkách, nebo jeden interface, jenom proto, abych prostě jednou budoucnu náhodou, kdybych chtěl, abych ho mohl použít dvakrát.
+Což je podle mě prostě antipatern. Dělá se to taky v Javě? Tohle je to typické?
+Tak typicky ano.
+Ale ne teď.
+Já se to snažím nedělat.
+Já mě by zajímal ten jeho kód, já bych ho fakt strašně chtěl vidět, jak ta java vypadá. Nemáte nějaký open source?
+Já ti to pak ukážu. Open source nemáme, ale můžu ti ukázat nějaké příklady.
+To bych fakt rád, opravdu to by mě zajímalo.
+A mimochodem, použiju tady tenhle prostor na takový malý promo a v říjnu budu mít přednášku přesně na tohle téma na pražském Geekonu.
+Teď doufám, že nepopletu ty datumy 23. až 24., doufám. Radši si to zkontrolujte na webu, tak doražte na Geekon a tam budou i ukázky kódu, aby to neviděli jenom tady kluci.
+Hezky.
+A tam to téma bude lepší OOP, lepší FP v Javě?
+Téma přednášky je od objektu k funkcím.
+Od objektu k funkcím, tak super, to zní skvěle. Tak to si musíme najít.
+Hele, jak dlouho Dominiku kóduješ?
+No, jestli se ptáš, jak dlouho mi za to lidi platěj, tak to je...
+To je tak minimálně 10 let, spíš už 12.
+Takže přemýšlím nad tím, jestli kdyby si dneska začínal, jo, když si představíš, vím, že to je těžký si to představit, jestli by si šel vlastně stejnou cestou, že by si jako hned přeskočil těch, já nevím kolik let, a šel hned jako do toho přístupu, který dneska razíš, anebo jestli by si třeba začal úplně s jiným jazykem?
+Tak to je těžko říct a záložilo by nám to mentorovi, který by mě k tomu přivedl.
+Na výběr jazyka se mě ptá popravdě docela dost lidí, docela dost lidí okolo mě se snaží jako začínat s programováním a takhle, a já jako nevím, co jim vlastně přesně mám poradit.
+Já dost často radím Python, protože prostě ta learning curve u Pythonu je extrémní a neučit se žádný paterny, nic, prostě kódujte, jak vám to přijde pod ruku.
+Ale samozřejmě, kdybych byl uvědomělý a věděl, co mě řeká, tak bych určitě začal jako funkcionálně.
+Jazyk určitě nějaký Lisp-like, tady Clojure je volba číslo jedna, ale pořád si myslím, že ten objektový design je nutný.
+Když programuji funkcionálně, tak i ve funkcionálním jazyku můžu dosáhnout objektovýho designu.
+A podle mě je to jako nutný proto, aby ten software, ten, který píšu, byl škálovatelný, a teď nemyslím škálovatelný, že v AWS udělám víc nodů.
+Ale škálovatelný ve smyslu, že jsem schopný přidávat víc implementací z mého interfejsu jednoduše.
+Samozřejmě já jsem z toho schopný vždycky, ale jde o to, za jakou cenu.
+A je tam něco z toho typického OOP, co si myslíš, že vlastně je nenahraditelné?
+Třeba z toho, co jsi právě říkal, tak mě úplně proběhlo hlavou, že my, když píšíme v FFsharpu, tak třeba používáme zapouzdření.
+Právě pro to, aby byl jasný, jaký to má dependence, kde to začíná, kde to končí.
+A vevnitř může to být ryze funkcionálně, ale třeba navenek to vypadá v podstatě jako modul nebo jako servis a v podstatě jako klasa s nějakými závislostmi.
+A vlastně tam se to de facto začíná míchat, tyto přístupy.
+Máš tam něco podobného, nebo na co jsi narážel u toho objektového designu?
+Mně napadlo tohle, ale jestli třeba je tam něco jiného.
+Vlastně zapouzdření je jedna z těch asi šesti klasických věcí, kterou když si vygooglíš objektivní programování, tak na to vypadne.
+Zapouzdření, abstrakce, klásy, inheritance, polymorfismus.
+Myslím si, že jich je šest, když to zadáš do Google, tak to je těhle typický šest.
+A z těchto šest je vlastně jediné to zapouzdření, které sedí k toho konceptu objektového designu, nic víc.
+A akorát, když se bavíme o zapouzdření,
+o tom klasickém mainstreamovém přístupu, tak se většinou uvažuje o zapouzdření třídy.
+Ale třída nemusí nutně být jedna ku jedný s objektem.
+Objekt je jednotka, která škáluje.
+Ono to většinou dopadne tak, že je to jedna klása, ale nemusí to tak být.
+Může to být cokoliv.
+Já vždycky dávám příklad, úplně nejlepší příklad objektového programování,
+nebo respektive objektového designu, který každej den používáme všichni, je internet.
+To je ultimátní objektový design.
+Ten splňuje téměř všechny pravidla objektového návrhu.
+A zapouzdření je jedna z nich.
+Já zvenku nevidím internost serveru, nevím, na jakém čipu běží,
+ani v jakém programovacím jazyce je napsaný ten server, nic.
+Je totálně zapouzdřený, má nějaký interface, HTTP nebo jakýkoliv jiný.
+A s tím jasným komunikou.
+Ale neznamená to, že tam je jedna klása zapouzdřená.
+Vevnitř může být jakýkoliv pagety,
+ale navenek je to zapouzdřený.
+Takže ti možná narážíš na přístup těch hardcore OOP lidí,
+kteří tvrdí, že by to všechno mělo být ala Erlang,
+že si jenom lítají message mezi sebou a vnitřní stav navzájem neřešíš,
+nemáš k němu ani přístup.
+Jenom řekneš, udělej tohle a ten to udělá.
+Přesně tak.
+Já Erlang neznám, ale už několik lidí mi říkali,
+že jsem na ně mám podívat, že to je ultimátní implementace
+toho objektového přístupu.
+Ono se stačí podívat.
+Já strašně rád čtu články knížky od Alana Kaye,
+což je vlastně autor objektovýho programování,
+který strašně hejtí to, kam jsme se s objektovým programováním dostali.
+No on hejtí i to slovo objekt.
+On se za něj dokonce omluvil, že ho přinesl do OOP to slovo objekt.
+Jo, on vlastně říká, ty jsi zmínil message.
+On říká, že si přeje, aby se mohl vrátit v čase a nazvat to messaging oriented.
+Protože to je ten key koncept.
+Ten hlavní koncept je ta message.
+A strašně důležitý k pochopení objektovýho programování je se podívat,
+vlastně z čeho vzniklo.
+Když se podíváte na Wikipedii o Alanu Kayevi,
+tak on původně není computer scientist, on je biolog.
+A objektový programování vychází z biologie.
+A z toho, jak fungují buňky živých organismů.
+A ty komunikují na základě message ve skutečnosti.
+A na základě enkapsulace. Oni jsou buňkama, jako membránu.
+Jasně.
+To je to pohled.
+To je pouzdro, skrz který nikdo nesmí.
+A s jinýma buňkama komunikuje tak, že vypouští hormony.
+To je ta message.
+A ostatní buňky ji přijmají.
+A přijmají ji ve stylu late binding.
+Prostě ten hormon si někde polituje v té krvi.
+A jednou se stane, že doputuje k té target buňce.
+A ta si to přečte a nějak něco na tom udělá.
+A ta původní buňka o tom neví vůbec nic.
+Pojď a nezapomeň.
+Dobře.
+Vidíš, jak máme asynchronní buňky.
+To je krásný.
+To je parádička.
+My jsme se bavili o tom, že vlastně tak, jak se to teď dělá,
+nebo jak je v úzovkách zvyklost,
+dělat a psát kód objektově.
+Že to vlastně asi není tak, jak by to původně mělo být.
+Ale já mám pocit, že když si vzpomenu, co nás učili na Vejšce,
+že to už je trošku tak prorostlý,
+že ve spoustě knížkách je to vlastně,
+špatně z tohle pohledu.
+Dá se s tím něco dělat?
+Nebo co s tím teďka můžeme dělat?
+Samozřejmě můžeme naklonovat spoustu Dominiků
+a rozházet je po různých firmách
+a jako travelling profesor to zlepšovat.
+Ale vidíš nějakou, řekněme, globálnější cestu,
+jak tohle fixnout?
+Teď budu pesimista, nevidím.
+Jo.
+Já si myslím, že ta evoluce toho programátora,
+který začne přesně v Javě,
+nebo v C Sharpu,
+dělá tady ty...
+rádoby objektový věci,
+tak to musí každýho prostě časem začít srát.
+A dopadne...
+buď jako vy,
+přejde do kložru,
+nebo do nějakých jiných funkcionálních jazyků
+a začne říkat, jo, to OOPčko,
+to je hrozná blbost funkcionálně.
+Anebo skončí jako já
+a začne se teda tlačit
+ten správný přístup
+toho objektovýho programování.
+No, ale to jsou...
+My jsme pořád takový ty
+jenom kamínky, malinký kamínky na sahaře, jo.
+Na ten mainstream bouche vlastně my si neovlivníme.
+Takže myslíš, že mainstream se k tomu vlastně musí
+v úzovkách probastlit,
+prošpagetovat k tomu, aby vlastně...
+Ty jsou odsouzený k nekonečnému refaktoringu
+a nekonečnému vylepšování svých dědičností.
+Já jsem vlastně narazil na zajímavý video
+tvůrce C-Sharpu Matze Torgersena,
+který jmenuje se to Functional Journey of C-Sharp,
+kde on vlastně vysvětluje, jak do C-Sharpu přidávali funkcionální
+postupem prvky od první verze až prostě do jedenáctky.
+A říkal, že když došli k sedmičce
+a měli více jako konceptuální
+nějakou debatu v rámci týmu,
+tak došli k tomu, že OOP vlastně je na tom jako špatně
+vzhledem k tomu, jaký se objevily nový scénáře,
+typicky cloudový programování,
+functional service a tyhle ty věci,
+že vlastně to, co si mysleli, že bude navždy platný,
+tak oni to teďka musí jako dělat kroky zpátky,
+což samozřejmě, když musí zachovat nějakou zpětnou kompatibilitu
+a Microsoft je s tím obses,
+prostě, že všechno podporují zpětně, Bůh ví dokdy,
+tak vlastně říkal, tyjo, tak teď už můžeme jenom přidávat
+nový featury do toho jazyka,
+který ho úplně jako zasviněj,
+nebo samozřejmě říct jako,
+hele, tyjo, tady jsme skončili, tady to je vlastně špatně.
+Takže možná, třeba se dostávám k té předchozí otázce,
+není třeba cesta to, že lidi
+nový možnosti programování,
+ať je to to, že už jsi abstrahovaný i o to, kde to běží,
+píšeš jenom jednotlivý kusy kódu, jednotlivý funkce,
+nebude to třeba cesta, jak je trošičku do toho jako namočit jinak?
+Že pro cloud jsou nucený
+jako přemýšlet trošku jinak?
+Já jsem kdysi slyšel takovou,
+takové připomínání, že správný javista
+může vyšetřovat v jakémkoliv jazyce.
+Hele, tohle není jenom Java.
+A myslím si, že to tady dopadne úplně stejně.
+Správný, já nevím, jak to říct,
+korporátní bastlíř
+prostě to nabastlí na tom cloudu.
+Prostě, je to tak?
+Takže, jak říkal Aleš Roubíček,
+začínat Greenfield projekty, tak už rovnou byly legacy.
+Prosím tě, jak seš na tom s reaktivním programováním?
+Pro mě to je taková jedna z těch věcí,
+které byly někdy jako mezi,
+když si vezmu historicky.
+Vždycky říkám, že RX pro mě byla
+trošku gateway drug do funkcionálního přístupu.
+Používá se to v Javě? Používáš to ty?
+Nebo je to věc, která jde jako bokem?
+Já o tom hodně slyším, ale nevidím to používat.
+Já dělám pohovory docela u nás
+a skoro každý druhej na pohovoru říká,
+jo, mě zajímá to RX,
+nebo občas jsem to použil,
+ale nikdy jsem to neviděl použitý
+na reálném projektu, jako back-endu.
+Já jsem to hodně použil,
+když jsem programoval androidní apku.
+To byl kompletně celý reaktivní, bylo to super.
+Tam mi to sedělo úplně jak prdele na hrnec.
+Na tom back-endu vidím pro to
+jako spoustu use-caseů,
+ale nemyslím si, že je to nějaký
+prorostlý tam.
+Že to byl nějaký novej mainstream?
+No, to úplně ne. Jasně.
+A ještě si pamatuju jednu věc,
+protože já jsem samozřejmě trošku od Javy dál,
+ale pamatuju si, že kolem, myslím, že to byla
+osmička, že měly přijít streamy,
+jestli to říkám správně, což byly
+ala LinkU,
+C-Sharpu, v podstatě věc, jak
+začít psát funkcionální expressiony,
+jak to vlastně
+jako chainovat za sebou.
+Je to stejný? Je to podobný?
+Jo, jo, v osmičce to přišlo.
+Hodně se to používá.
+A je trošku smutný, že
+i ty jsi řekl to slovo,
+že to je funkcionální, ten přístup.
+Já na tom nevidím nic funkcionálního.
+Je to prostě jenom jiný zápis
+těch for loopů,
+který jsme měli předtím.
+Je to hezčí, líp se na to kouká,
+ale přesně tak,
+je to deklarativně super, dobře se to čte,
+ale
+nevidím to jako žádnou zásadní změnu
+v přístupu k věcem.
+Takže používá se to víc, už je to taková typická věc?
+Jo, já si myslím, že dnes, když napíšete
+jako v Javě for loop,
+tak jste úplně za toho weirdou.
+OK.
+My jsme se od začátku chtěli bavit
+nejenom o OOP, FP
+a dalších paradigmatech.
+Dělá se vůbec ještě aspektové
+orientované programování?
+Já jsem to asi neviděl 8 let, nikde použít.
+Jo, dělá.
+Já osobně ho napíšu vždy,
+jenom když to někoho školím.
+Ale funguje na pozadí
+spousty věcí, aniž bychom o tom věděli.
+Ve Springu je toho spousta.
+Jo, třeba logování a tyhle věci.
+Tak, tak, různý transakční.
+Já teď si nevím,
+jestli i Hystrix to používal,
+který už je teda mrtvej,
+ale ten to možná používal pro ty své komandy.
+Teď se nejsem úplně 100% jistý, jenom nějak kecám.
+Ale jako spousta těch věcí to obsahuje,
+aniž bychom o tom věděli.
+Ale reálně, že by programátoři to používali
+na implementaci věcí,
+to vyjde málo, málo, málo.
+Do Kotlinu se nedokonvergoval, proč?
+Já jsem tam teď
+trošku noceně konvergoval.
+Ten tým, do kterého jsem teď přišel,
+Kotlin používá.
+Už čtrnáct dní používám,
+a taky můžete vidět první šedivý vlasy.
+Takže zase na ty JVNce máš
+docela velký výběr, že jo?
+Právě jako Java, Closer, Kotlin.
+Můžeš si jako vybrat, co...
+Mně Kotlin jako...
+Je to pěkný jazyk, ale
+zároveň
+mně přijde, že
+a jak se tomu říká česky?
+Resuerektuje.
+Přivádí znovu
+mezi živé.
+Jako některé hodně špatné paterny.
+A
+já tam pořád narážím na něco,
+že věc, která
+je známá na celém světě
+pod jedním jménem, tak v Kotlinu je
+prostě jinak.
+Jenom proč? Aby byla jinak?
+Podle mě se chtěli strašně odlišit ve všem.
+To je můj dojem z toho, ale samozřejmě
+ta motivace mohla být úplně jiná.
+Další věc,
+že berou prostě věci, které fungovaly,
+předělají jenom věci, které nefungují.
+Maličkost, která mě ale prostě našle.
+Zrovna jsem psal především jenom kdy
+Javadoc, respektive v Kotlinu
+KDoc. A zjistil jsem,
+že se nemůžu odkázat na overloadnutou
+metodu. Ten KDoc neumí.
+Prostě já jsem si říkal, proč nevzít
+teda Javadoc? Co bylo špatně na
+Javadocu?
+Co je zase tak zásadně špatného?
+Že jsme ho museli předělat na něco, co nefunguje.
+A to je podle mě takový příběh Kotlinu.
+Já jsem chtěl říct, jestli tohle
+není příběh obecně softwareového
+vývoje u mnoha produktů. Jako vezmeme
+něco, co tak trošku nefunguje a uděláme
+něco, co nefunguje vůbec.
+No občas to vidíme, to teda rozhodně.
+Takže Kotlin nebude tvoje srdcovka.
+Určitě ne.
+My jsme vlastně
+kromě těchto věcí chtěli trošičku nakopnout
+ty Coding Practices, protože když jsme si
+spolu psali, tak
+říkám, o čem se budeme bavit, a ty jsi říkal jasně
+FP, OOP, ale taky mimo jiné
+Coding Practices a jak na ně všichni kašlou.
+Bylo to prostě s vykřičníkem, jako
+lehce přinasraný
+důraz na tom.
+Na kterou teda praktiku se podle tebe úplně
+nejvíc kašle? Nebo co tě, když se tohle
+téma otevře, co ti rozproudí
+krev? Asi na každou.
+Jo, na každou. Nevím, jak
+odpovědět, jako být nějakým výčtem.
+Tak to možná, no klidně, pojďme. Ale
+já dost často
+trávím v
+nějakých pull request reviews
+čas se jako dohadováním se s lidmi,
+věcmi, které já považuju, že už jsou jako
+30 let uzavřené.
+Že už jsem si myslel, že lidstvo už to vyřešilo
+a jdeme dál. Jo.
+Ale ještě ne. Ještě tam
+nejsme. Jsou to věci
+typu, teď mě napadá třeba různá
+immutabilita. Já prostě immutabilitu, jak jsme se bavili o
+tom, že klasu píšu jako,
+že je fajn, no prostě a jenom když
+opravdu je designovaná k podědíní,
+tak to tak udělám. S immutabilitou
+je to úplně stejně. Prostě všechno je immutabil
+a teprve, když jako vím, že tam je
+performance problém, tak to udělám mutabil.
+A udělám to fakt vizuálně, aby to bylo vidět,
+že tady je průster, tady je to prostě.
+Mutabilita.
+Další věci jsou různý členění
+toho kódu, to už je
+klasika.
+Oddělování právě, tak když se bavíme o objektovém
+designu a funkcionálním přístupu,
+tak objektový design použiju k designu
+věcí, funkce použiju k implementaci
+a musím to oddělit. Jakmile
+to smíchám, tak si zase zadělám na průster.
+To je další věc, která je typická.
+A já nevím,
+tak můžeme pokračovat, můžeme si vzít nějaký
+clean code od Uncle Boba a jít
+jedno po jednom.
+Jak teda tam řešíš tu
+immutabilitu prakticky? To znamená,
+máš tam jako,
+když třeba chceš vytvořit novou
+tu value, protože jsou
+jazyky, které ti jdou syntakticky velmi
+naproti, řekneš, je to stejný jako
+je ten předchozí rekord, tak rád mu měním jednu
+property a mám to. Což ale v Javě, pokud
+není takovýhle synthetic sugar, nebo
+je? Musíš si to udělat sám.
+Musíš si to udělat sám. Je to prostě taková programátorská
+hygiena. Já pořád jako apeluju
+vždycky, když všude s kýmkoliv mluvím, já apeluju
+na prostě takový jeden craftsmanship,
+to řemeslo programátorský.
+Protože my jsme jako
+fakt řemeslníci,
+jo, fakt odborníci
+na to své řemeslo
+a pro mě je to taková
+nějaká řemeslná čest, prostě to dělat
+tak, jak se má, jo. A
+neodbít to. To je super.
+Já bych chtěl vidět, jak se Dominik hádá
+o imutabilitě v Javě. To mě přijde
+úplně skvělý.
+Zní to tak jako
+vetřelčí přístup, kdybych, když to řekneš
+mainstreamově, že se budeš s někým hádat,
+když on ti řekne, no já jsem v Javě.
+Máš tam setr, si to změníš, ne? Easy peasy.
+A přitom ne.
+No a ty si řek, ty jsi myslel, že to je třicet let vyřešený.
+No já si myslím, že to právě třicet let
+bohužel mainstreamově vyřešený
+není třeba jakože imutabilitě.
+No ne mainstreamově, ale tak...
+Řekněme akademicky.
+Já třeba
+čtu knížky, já nejradši čtu knížky
+o computer science ze
+sedmdesátejch let, osmdesátejch.
+A tam jsou věci, které když to čtu,
+tak prostě si říkám, ty lidi už
+v tehda, prostě kdyby se to psalo tehda,
+tak ty věci ze sedmdesátejch let můžeme
+vzít a deploynout dneska na ty cloudy.
+Prostě protože to je úplně ready.
+Ale jsme o padesát let
+pozdějiš a ještě tam nejsme.
+A furt se hádáme, jestli měnit data
+za pochodu. To je zajímavé, jak je to všude stejný.
+Jako ten deep learning už známe leta.
+Zajímavý začal být
+poslední sedm let. Kde to je?
+V čem to vězí? Já tady mám s sebou
+knížku Structured Design.
+Je to z roku 78.
+A hned někde na začátku píšou
+něco ve smyslu, ten kód
+píšeme prostě pro lidi a ne pro stroje.
+Optimalizujeme ho pro čtení
+a pro nějaký ty
+abstrakce, pro tu rozšířitelnost.
+A vykašleme se na tady ty
+mikrooptimalizace,
+který se každý snaží nějak tak podvědomně dělat.
+A to psali v roce
+78, kdy JVMka
+podle mě ještě vůbec neexistovala. Nebo jestli já neznám
+historii JVMky, řekl bych, že vůbec neexistovala.
+A dneska ta JVMka dělá
+runtime tak šílený optimalizace, že
+to si vůbec nikdo nedokáže představit.
+A už v 70. letech
+tohle říkali a tu JVMku neměli.
+Mě zaujal ten tvůj článek,
+který jsi měl o signálingu.
+Což bylo takový, jestli jsem to správně pochopil,
+takový je to vlastně o tom, jak poznat problémy
+jako podle vedlejších efektů
+toho kódu. Problémy s kódem podle
+věcí, který musíš kolem toho kódu dělat,
+aby si to třeba dokázal otestovat.
+Typu nějaký brutální mocking
+v testech. Aby si vlastně poznal,
+že asi s tím kódem, který chceš
+mockovat, není něco v pořádku.
+Pochopil jsem to správně? Nebo můžeš nějak
+přijít ten signál? Je to přesně tak.
+Je to jinak pojmenovaný
+celá myšlenka
+za TDD. TDD je
+přesně o tom, že já když si ten test napíšu předem,
+tak si tam nebudu dělat kraviny, které mě štvou.
+Já si napíšu to minimum, které potřebuji.
+A to je všechno. Takže se mi nemůže
+stát, že tam budu mít
+čtyři moky někde, protože
+kdo by ze svý vlastní vůle
+psal moky? To nedává
+smysl. Ale bohužel
+zase to není...
+Vychází to asi z toho řemesla a z toho,
+jak musím mít trošku cit právě pro to,
+co je špatně. Jsou tady ty vedlejší
+signály, ty efekty,
+které jsou jako špatně. Já
+si pamatuju na jednu diskuzi nad
+PRkem právě už
+pět let zpátky, kdy
+právě kolegovi tam píšu,
+tady ten kousek kódu je neotestovatelný,
+protože byl tam nějaký private field
+v Javě a dokonce ani neměl se teda ani
+konstruktor nic. Říkám, tohle není
+otestovatelný. On mi na to
+odepsal, já jsem to ale otestoval,
+takže to otestovatelné je.
+A já jsem se na ten test podíval, on tam použil
+reflexy a ten field si nasetoval.
+Takže ano, já tady to považuji za
+silný signál, že je něco fakt
+hodně špatně, ale když
+se budeme bavit asi o mainstreamu, tak
+jmu to přijde jako v pořádku.
+Tady to je tak, jak se píšou testy,
+takhle to je.
+Teda nevím, jestli ještě pořád jako TDD,
+že bych použil reflexy na to,
+abych to otestoval, to mi přijde.
+Už i na mě je velký signál.
+A těch signálů je právě spousta.
+Mokování, to je jeden z nich,
+naly,
+inicializace věcí, které
+nepotřebuju, scope věcí,
+je signál a podobné věci.
+Je třeba na tohle téma
+obecně o tom signálingu
+nějaká zajímavá literatura, zajímavá knížka,
+která se třeba tím zabývá, nebo hodláš
+třeba něco takového napsat, protože jsi to tak pěkně jako rozjel,
+že si vlastně říkám, že bych si to rád přečet,
+kdyby to mělo další pokračovat.
+Já bych tak strašně rád napsal knížku,
+ale to si nechám na důchod.
+Ale no cokoliv
+o té DDčku, podle mě to tam je,
+jenom je to jako rozplizlý skrz ty knížky,
+že to tam není nikde takhle implicitně
+napsaný.
+A jinak signáling vychází jako z ekonomie,
+to je takový moje druhý hobby,
+a to je prostě ekonomický princip,
+jenom aplikovaný,
+jenom se mu tady převede jako na programování.
+Mimochodem teď
+Kent Beck píše novou knížku, kde
+spoustu těchto konceptů, o kterých já
+mluvím, všichni tady toho
+opracovává velice čtivě.
+Je to momentálně teda za nějakým
+paywallem, protože on to píše a postupně to uveřeňuje.
+Jmenuje se to Tidy First.
+A je to takový placený
+newsletter, akorát, že ten newsletter
+on ho na konci vezme, jestli jsem to správně pochopil,
+a udělá z něj knížku. Super, takže si počkáme.
+A co se týče TDDčka,
+máš pocit, že pořád je
+v módě, protože měl jsem ten pocit, že jeden čas
+kolem toho bylo hodně blogpostů,
+hodně twitterů, hodně se mluvilo o TDD.
+Trošičku mám pocit, že to malinko upadlo.
+Možná jenom já jsem to
+přestal zaznamenávat. Jak si myslíš, že
+obecně TDD
+je teď v mainstreamu používaný?
+Řekl bych, že
+naprosto minimálně, a když už,
+tak je používaný tak, jak jsme si ho všechno
+popsali.
+Máš pravdu, jeden čas toho byl obrovský hype,
+a já si myslím, že lidi od toho čekali
+něco, co jim to nedá. A proto to upadlo.
+Oni čekali, že teď začnou teda psát
+testy předem, a najednou budu mít ten skvělý kód.
+Ale to ti prostě žádná technika
+nedá. To jediný způsob, jak
+vyrobit lepší kód, je
+tak, že ho ty vyrobíš, tím,
+že se to naučíš. A TDD
+je jenom způsob, jak se to naučit.
+Jak dostat ty signály,
+a na základě nich se naučit.
+To TDD ti řekne, hele, to je nějaký
+divný mít ten konstruktor
+s osmi parametrama,
+přestože pro ten vstup toho testu potřebuješ jenom jeden.
+To je nějaký divný.
+Ale už ti neřekne, jak to opravit.
+Už ti neřekne, rozpadně to tady na
+čtyři nějaké jiné klásy, nebo
+tohle je vůbec ten shit class, nebo něco takového.
+Žádný TDD nikdy nedá
+tady ten návod.
+On ti jenom řekne, tohle je divný, zamysli
+se nad tím.
+Já bys právě měl jít, otevřít teda knížku,
+nebo vygooglit, nebo cokoliv,
+a nastudovat si teda, co s tím udělat.
+A pak se teda k tomu vrátit
+a udělat to.
+Jakou zkušenost s property based testingem máš?
+Nebo třeba vím, že
+když vlastně upadlo TDD,
+tak se začalo v tom hype,
+tak se objevilo, a tohle je nová cesta.
+Teď budeme psát jako property based testing
+a všechno už bude lepší.
+A nevím teda, jestli je všechno lepší,
+ale byl takový ten druhý hype na tohle téma.
+Jaký s tím máš zkušenosti,
+nebo jak to vidíš?
+Já jsem property based testing vlastně zkoušel
+jenom experimentálně.
+Nikdy jsem ho nepoužil na produkčním,
+řekněme, kódu.
+Ale spíš ne.
+A nikdy jsem to ani neviděl nikoho dělat.
+Minimálně.
+Možná, že ten hype
+ještě nedorazil do džavičky.
+A ty osobně sám píšeš víc testy,
+méně testy, nebo to máš,
+takže si to otestuješ bokem,
+když je to malá implementace.
+Já třeba mám zase pocit,
+že když je to tak malá funkce,
+nevíc třeba, když je pure,
+tak já už si ji otestuju tím,
+že to proženuji rapplem, to vidím, co to dělá.
+Tak co bych na tom testoval?
+Vlastně to množství těch testů
+zpátky mě donutí
+být co nejmenší. Jak to máš ty?
+Máš jich míň ve finále?
+Jo, už jich nepíšu tolik, co dřív.
+Pro mě to TDD je
+učící se technika.
+Na to naučení jsem ji použil
+a teď ji používám, když se dostanu
+do nějaký slepý cesty.
+Když třeba nevím, jak dál,
+nebo nevím, jak tady to kousek kódu
+nadizajnovat, tak zase dělám TDD.
+K němu spadnu zpátky.
+Ale myslím si, že už třeba to TDD
+mě naučilo, jak dělat lepší design,
+takže já už většinou třeba vím,
+jak to vyřešit, tak to rovnou jdu udělat
+a pak si zpětně napíšu ten test.
+Vždycky si ho zpětně napíšu, jenom proto,
+abych si to zvalidoval, že jsem to udělal.
+Ale dělám to takhle, protože
+kdybych dělal nejdřív ten
+test, tak já
+programuji trošku divně. Já nejsem moc
+asi vhodný pro párový programování,
+protože já hodně mažu a hodně
+zkouším, než
+mám ten výsledný.
+Takže kdybych psal ten test zároveň,
+tak bych asi měl dvakrát tolik mazání.
+Tak to je super,
+že to přizpůsobíš svý code flow,
+to je podle mě strašně důležité.
+Ale ten test nakonec tam vždycky je
+a myslím si, že by vypadal úplně stejně,
+jako kdybych to psal jako TDD, jako test first.
+Akorát i k tomu dojdeš de facto iterativně,
+že tady zkusíš, tady smažeš.
+Ale myslím si, že to je proces, kterým se musí dostat.
+Jako od píky tím, že opravdu budeš
+psát ty testy přesně podle
+by the book,
+red green, prostě furt do kolečka
+jak v opice.
+A prostě za pár let už to nemusíš dělat,
+protože už jsi s tou odbyl.
+Když už se tady bavíme o takových specifických věcech,
+jedna z takových
+těch bolístek,
+nebo míst, kde se vždycky dva lidi pohádají,
+když si normálně rozumějí je třeba
+jsou komentáře.
+Víc komentovat, méně komentovat,
+nebo žádný komentáře. Jak to máš ty?
+Já komentáře píšu,
+píšu jich hodně si myslím.
+Jak kdy, jak jde samozřejmě.
+Taky jsem líný extrémně.
+Snažím se je psát,
+snažím se jej udržovat dokonce.
+A ne vždycky se to povede.
+Ale jak se říká,
+ten kód je jako nejlepší dokumentace na druhou stranu.
+Pak když vidíš ten kód,
+tak radši bych viděl tu dokumentaci.
+Jak to děláš ty Románku?
+Píšeš?
+Málo. Já se snažím, aby ty funkce
+byly maličkatý.
+Když jsem funkce malá, tak většinou píšu
+komentáře na úrovni nějaké kompozice.
+Jako proč jsem to spojil dohromady tak.
+Ale že bych vyloženě
+popisoval funkci, která se jmenuje,
+nevím, Calculate něco,
+že Calculates něco.
+Tak to nepíšu, protože to mně přijde.
+To je vždycky takový smel,
+když začnu komentář stejně,
+jako se jmenuje ta vysledku komentů,
+tak si vždycky říkám, proč já ho píšu.
+To je taková ta typická věc,
+když se bavím o tom mainstream java,
+taková ta enterprise java, kde mám spoustu
+těch getrů, setrů, ale nad tím vždycky
+ty komentáře, že je to set user
+a nad tím komentář set the user.
+A ještě komentář
+k tomu parametru. User
+je to the user.
+Dík, to jsem nevěděl.
+Celou dobu se točíme
+kolem jednoduchýho kódu,
+kolem malejch funkcí,
+malejch testů, malejch
+metod, ovšem
+já mám pocit, že typický
+příznak celý naší
+IT industry je
+velká komplikace, jako
+velká přidávání zbytečný komplexity.
+Já mám trošku teorii, proč to
+tak je, ale zajímalo by mě nejdřív, jestli
+Dominik má nějakou teorii,
+proč to tak je, proč máme tu tendenci
+vlastně, když dostanu zadání, spočítej mi
+x, tak já kolem toho vymyslím
+brutální abstrakci, brutální
+monster parádu, místo abych napsal
+jednoduchou funkci, jednoduchou
+metodu, která mi spočítá x.
+Proč to komplikujeme?
+Dobře,
+ano, vemu, že jako
+v korporátově, když jsem jedinej, kdo to umí opravit,
+tak jsem se právě zapelešil na
+20 let. Ale když
+se vrátím k tomu tvému craftmanshipu
+a k tomu, že teda bychom měli být řemeslníci
+a dělat to správně,
+tak proč, když jdu pověsit obrázek,
+tak nezatluču jednu skobu, ale nejdřív prostě
+udělám jako e-wall a teď to tam všechno
+začnu. Tak já tě možná trošku
+zklamu, já jsem vlastně trošku zastánce tady toho,
+ale ne asi v tom zase mainstreamovém
+módu.
+Já si myslím, že ty vůbec nejsi mainstreamový, co se bavíme.
+Já si myslím, že
+ten dopředný design je právě jako potřeba.
+To je ten objektový design, o kterém co hodinu mluvím.
+Ale záleží, že musím se vždy zamyslet
+nad tím, jestli to, co dělám,
+ta skoba,
+bude na té skobě
+teď vyset tenhle obraz. Já si vždycky snažím
+přemýšlet jako v horizontu několika let,
+ne jako v horizontu týdne,
+měsíce. Bude na té skobě
+pořád tenhle obraz, nebo přijde někdo a bude
+na to chtít povisit 100-kilový závaží.
+A bude vždycky tady ta zeď,
+bude vždycky prostě
+svítit slunko z téhle strany. Prostě těch
+otázek je tolik. A některým
+můžeme zanedbat, prostě ve spolupráci samozřejmě
+s nějakým tím business ownerem.
+Ale některý jsou
+jako strašně důležitý.
+Příklad takovej reálnej,
+třeba ze Zonky.
+My jsme uživateli a ten měl vždycky jenom jednu peněženku.
+A najednou
+se časem zjistil, že on potřebuje víc peněženek
+ve skutečnosti.
+A najednou je to
+ale rozvezlý po celý codebase. Ale brutálně.
+A přitom já si říkám, tady to je
+přesně úplně jak prdel na hranec
+pro ten objektový design.
+Tady kdyby si někdo dal trošku té práce
+a vytvořil tady tu
+komplikaci
+navíc vlastně, tak by to nebyla komplikace,
+ale vlastně docela investice.
+A my bychom vlastně celou dobu
+pracovali s tím, že těch peněženek je tam víc.
+Je tam momentálně jen jedna.
+Tak je implementační detail.
+A do budoucna by nám to ušetřilo neskutečně.
+Ale neskutečně starostí, peněz,
+času, všeho.
+Takže ano, dopřednej design
+já si myslím, že je extrémně potřeba.
+Ale je vždycky taky extrémně potřeba přemýšlet,
+kde ho dělat a kde ho nedělat.
+A zrovna
+jsem se bavil o tom tidy first.
+Kent Beck tam píše, že se to vyplatí ho dělat všude.
+Z jednoho prostého důvodu.
+On se odkazuje na nějaký
+law of
+exponential distribution.
+V podstatě
+20%
+hurikánů v USA má
+na starosti téměř trtivou většinu
+škod, který způsobí všechny hurikány.
+A my nevíme, kterých
+těch 20% to bude. A v softwaru je to stejně.
+20% budoucích change requestů
+nám způsobí
+90% kostů toho maintenance.
+A my nevíme, kterých 20% se změní.
+A proto, když
+investuju malička to do abstrakce,
+abstrakce to je možná špatný slovo,
+do nějaký připravenosti, řekněme
+designový všeho, tak se mi to vrátí tím,
+že až těch 20% přijde, tak mi to zaplatí kompletně.
+Takže v podstatě razíš to,
+že to budeš radši komplikovat,
+v úvozovkách komplikovat všude,
+protože se ti to vyplatí do budoucna.
+Jo, a zážit, co píšu.
+Nedávno jsem nemohl vyluštit Wordle.
+Asi hrajete taky?
+To už jsem dlouho nehrál.
+Tak jsem si navsal krátký Python skript, který to vyřeší za mě.
+A tam samozřejmě takovýhle blbosti vůbec neřeším.
+Protože ten skript má jako životnost,
+párká ho pustím a zapomenu na něj.
+Ale prostě software,
+který píšu tady v Atacamě,
+nebo v jakýkoliv velkých firmách,
+ten tady bude příštích 10, 20, možná 30 let.
+Takže nad těmi věcmi
+prostě přemýšlet musím.
+Já bych přemýšlel nad tou peněženkou Zonky.
+Mně přijde, jestli to je ještě kódový problém.
+Protože samozřejmě jedna věc je,
+že kdo za mnou přišel, tak já si to stejně udělám
+jako list na pozadí.
+A jenom to budu vystrkávat jako jednu,
+ale bude to, protože
+budu mít pocit, že jednou určitě někdo přijde,
+že jich bude víc, ale
+měl by tohle vlastně řešit programátor.
+Mně trošku přijde, že
+tam chyběla v tomhle případě, nebo že tam chybí
+ta otázka, jste si ale opravdu jistí,
+že to dává smysl, aby měl právě
+jenom jednu.
+Že je pozdě, když zjistím až v kódu,
+měl zeptat, jestli skutečně to dává
+smysl, jako mít jenom jednu jedinou
+peněženku. Ale v podstatě Dominik těm
+odpověděl, že to radši zkomplikuje všude,
+protože já jsem taky přemýšlel, že spousta věcí
+přece nedokážeš umyslet v tu danou chvíli,
+protože ten svit se tak mění, že prostě to přijde
+ještě s časem, ale když si to připravíš
+jako v nějaké robustnosti dopředu,
+tak to vlastně, to je to řešení.
+Já nevím, já nevím.
+Já jsem zastán se toho, že udělat to malý,
+ale tak, aby se to dalo hrozně rychle změnit.
+Ale samozřejmě záleží, když je to
+opravdu definice nějaký domény,
+která se ti, jak říkal Dominik, rozleze pak všude,
+tak pak je lepší trošičku přemýšlet
+dopředu věci, které vypadají jedna ku N,
+je mít třeba N ku M, protože já vím,
+že, cítím to ze zkušenosti,
+že vždycky to tak dopadlo,
+že někdo přišel a říkal, ale tak tyjo,
+my teďka zavedeme víc peniženek.
+A to je přesně.
+Ty jsi říkal, jestli tam vůbec padla
+ta otázka, že se někdo zeptal.
+Já si myslím, že se nikdo nezeptal, ale i kdyby se zeptal,
+tak já dám ruku do ohně za to, že ten
+business owner by to hrál a říkal, no jasně,
+to je přece, proč bychom měli víc peniženek,
+to je blázené.
+To bylo s registrací
+na jeden e-mail. My jsme tam měli dva
+typy uživatelů,
+a proč si budu zakládat druhý e-mail,
+když mám ze tři typy uživatelů. Proč by si budu zakládat
+nový e-mail, když chci nový typ
+uživatele. Ale bylo to
+pod separatním a registracem a mělo to
+nějaký svůj důvod.
+A kdybych se
+v early days of Zonky
+někoho zeptal, ale má být
+ten e-mail unikátní v té tabulce?
+E-mail, tak to je
+jasný, že to je unikátní.
+Bebej, nebo co.
+Ale to jsou přesně tady
+ty věci, které se sbírá
+zkušenostmi.
+Doháduji se nad tím skoro dennou
+denně. Prostě vždycky tady to
+smrdí, to se změní.
+Tam je nějaký průseh.
+Nezmění, prosím tě.
+No a vždycky se to
+nezmění. Takže v tvých
+PR už třeba narážíš
+na tohle, že řekneš třeba kód vypadá hezky,
+chápu všechno, co dělá, je hezky
+napsaný, ale třeba tady bacha,
+tady bych možná přemýšlel nad tím, že
+tady se to bude měnit. Děláš i tyhle feedbacky
+PRka. Teď jsem už
+dlouho PRka nereviewoval,
+ale ano, snažím se.
+Ale myslím si, že je to
+cítím se jako Don Quijote. Většinou jsem
+nepochopen. Prostě proč
+bych to teď dělal? Proč bych to komplikoval?
+Ale to je
+jako kost versus investice.
+Já to vidím jako investici,
+jiný to vidí jako kost.
+Asi prostě buď ten
+jako dám dolar teď, anebo dám
+10 dolarů za rok. Pro mě je lepší
+dát ten dolar teď navíc.
+Nebo inflacitiva.
+My tady celou dobu řešíme vlastně výhradně
+kód, ale jedna z takových dimenzí
+softwarového vývoje je
+schopnost ho nepsat a tím vyřešit
+nějaký problém.
+Já jsem teďka, vlastně minulej
+týden jsem se bavil s naší zákazníci
+v Tandoře. Říkám, že moje práce
+je to, abych nemusel psát vůbec žádný kód.
+Když začnu psát kód, tak jsem v řešení jich problémů
+částečně selhal, že třeba se dá změnit
+jedna věc, jeden proces
+malý, který nestojí tolik, jako když budeme
+půl roku psát software, což každý rád slyší.
+Na kterou obecně
+nekódovou praktiku v tom softwarovém vývoji
+podle tebe se třeba zapomíná?
+Protože vývojáři přemýšlejí kód,
+ale to přeci není všechno,
+co děláme. To je jenom výsledek.
+Přemýšlím.
+Těžká otázka.
+Protože já samozřejmě taky miluju
+kód.
+To my všichni, ale není to přeci i ty sám.
+Přemýšlíš, analyzuješ si,
+že na tý skobě bude jednou vyset
+celý fotbalový tým, nebo tam budeš
+vždycky obrázek nad krbem.
+Tohle přeci jedna z tvých úloh,
+jedna z tvých denních činností,
+tam musí být ještě nějaký,
+na který třeba my obecně jako vývojáře
+zapomínáme, nebo myslíš si, že ne?
+Tak já si myslím,
+že to souvisí s kódováním,
+takže to mi přijde zvláštní dobu
+zmiňovat, ale jako to vzdělávání.
+Mně přijde, že se většina lidí
+naučí tady tu
+Inheritance, Abstraction, Encapsulation
+a tím končí.
+Já se neustále snažím vzdělávat,
+pořád k věcem přistupuju,
+takže nic nevím
+a pořád se jenom učím
+a skončím možná někdy nad hrobem.
+A to je podle mě
+to nejdůležitější.
+A já se strašně rád vzdělávám
+i v jiných okrajových oborech.
+Jak jsi říkal,
+ekonomika, že jo?
+Ekonomika, psychologie, miluju.
+A to jsou strašně skvělý věci.
+Třeba i ta ekonomika,
+to strašně jde vidět, jak se
+ty samé principy, které jsou v ekonomii,
+tak vlastně jak fungují
+v tom IT.
+A jenom se to nikdo nepřipouští.
+Signaling je
+jedna z mála, ale
+je jich mnohem víc.
+I ta psychologie
+do toho musí vstupovat,
+protože dotaz, který jsem měl je,
+přišel nějaký nový investor
+a řekl, že chce udělat tohle řešení
+a bude ho dělat Dominik Moštěk.
+Proč bych to měl dělat v Java?
+Proč to neuděláme v F-sharpu nebo v něčem jiném?
+Tak jaká by byla ta tvoje odpověď?
+A kdyby to bylo
+vyřešené logicky, tak jenom jeden programový jazyk
+na světě přece.
+Nepotřebuješ jich mít 50.
+Takže jak bys si k tomu přistoupil
+a co bys tomu člověku řekl?
+Proč Java je ta správná cesta?
+Záleží, jaké jsou jeho motivace.
+Java má jednu
+nesporná výhoda,
+hiring pool.
+Prostě když se rozhodnu
+tu psát v Clojru, boží.
+Ve Smalltalku,
+mazec.
+Ale dejte si jen zrád na Smalltalk
+a přijde možná tak jednou za 5 let
+nějaký stařík.
+Prostě Java má největší hiring pool,
+ať chceme nebo ne.
+Ale je to vykompenzované
+tou kvalitou.
+Mainstream nikdy nebude tak kvalitní,
+jako tady ty niche.
+Ta niche vždycky přitahuje
+nějaké talenty.
+Pro to třeba Clojuristi a funkcionální programování.
+Ale to funkcionální programování
+je super, ale kdyby se na to vrhnul
+mainstream, tak to bude úplně ve stejných sražkách,
+jako je tady Java.
+To tady myslím dokonce říkal,
+ale šroubím všech slov od slova.
+Pamatuji si to.
+Já jsem o tom přesvědčený na 100%.
+Čeho se chopí mainstream, to bude vždycky špatný.
+A to je zase ve všech oborech stejný.
+Úplně všude stejný.
+Teď mám
+jednu oblíbenou skupinu,
+která když nebyla mainstreamová, byla skvělá.
+Nebudu ji jmenovat.
+A teď to jde do kytek, protože začíná být oblíbený.
+Jaká skupina? Jako hudební skupina?
+Hudební skupina.
+Že tě třeba
+štve, jak se teď generují ty obrázky
+přes AI.
+Ne, je to hudební skupina
+a spíš jsem na tom chtěl demonstrovat,
+že je tam podepsaná pod tím všude.
+Že tak to funguje.
+OK.
+No tak my jsme si udělali takový kolečko
+od Javy přes OOP, FP,
+Coding Practices a vlastně
+zase jsme to zakončili, jak by asi
+Dominik obhájal Javu.
+To je popravdě trošku smutné,
+že to byl jediný můj argument.
+Těch bylo spousta.
+Možná bych se u toho ještě zastavil.
+Ta Java vlastně pro mě
+je dobrý jazyk.
+Co mě tam vadí je jdk,
+který, když se bavíme o Coding Practices,
+tak jdk by měl jít příkladem.
+A přitom to je
+horor. To je strašný horor
+jdk.
+A typicky to, že nemají oddělený
+mutabl a imutabl jako kolekce.
+A práce s
+skalárama typu
+číslo. Já nejsem schopnej.
+Já třeba to, co já používám ve svém
+kodování je, abych zachoval
+referential transparency
+z funkcionálních programů k values.
+Takže já pracuji s číslem.
+A to, že to ve skutečnosti je hodnota z databáze
+nebo že si to ve skutečnosti načtu
+někde z RESTu,
+tak to je mi jedno. A tohle se ale Java
+nepodporuje. Já nemám možnost, jak to udělat.
+Já si to musím udělat jako nějakej supplier čísla.
+A to já nechci. Já chci prostě číslo.
+Já nechci supplier, já chci číslo.
+Dejte mi prostě zatraceně číslo.
+A to jdkčko neumí. A trošku mě štve, že
+Java řeší
+nějaký datarekordy
+a nefixne tady ty úplně
+základní problémy.
+Tam je zase problém
+zpětný kompatibility, jak jsi zmiňoval
+u Microsoftu, u Javě. Ta opce se úplně stejná.
+A jo, důvodněná, samozřejmě.
+Já to chápu, ale...
+Jinak Java je podle mě skvělý jazyk.
+Mě tam chybí, co se týče
+syntaxe, snad jedna jediná věc
+a to je prostě všechno.
+Ten jazyk je skvělej.
+No tak vidíš, to je paráda.
+Takže přátelé, slyšeli jste to,
+běžte do Javy.
+I ten klošer byl
+původně napsaný v Javě, tak jako...
+Ve diskuze.
+No a
+Dominiku, to je tvůj
+aktuální stav. Jak to vidíš
+do budoucna? To je vždycky taková naše
+otázka na rozloučení,
+který to vždycky zabalíme, protože
+my jsme si tě projeli od A až do Z,
+teďka už víme, co o tebe čekat. Já chci ještě vidět
+ten kód, to mě fakt zajímá.
+A než mi ho půjdeš ukázat,
+tak mi řekni, jaké jsou tvý plány
+na nejbližší čas.
+Poměrně
+konzervativní, ale to, o čem jsme se bavili,
+tak já to pořád chci tlačit.
+Já jsem v té roli Dona
+Kichota, bojícího s větrnýma mlínama,
+a tak mi to docela i vyhovuje.
+A doufám, že se to jednou změní.
+Takže doražte na Geekon.
+Jednou třeba napíšu i tu knížku,
+o které jsme se bavili. A máš stránky,
+kde bych třeba mohl sledovat, kde přednášíš,
+že bych si šel podívat na něco?
+Moje stránky, to je
+prostě něco jako...
+Já
+tak třikrát do roka měním,
+kde ten blog píšu, mezi tím
+půlku těch článků smažu.
+A já jsem v tohle strašnej.
+A tak možná, že to je přece vzetí.
+A plán do budoucna. Konečně se ustálit
+na jedné platformě, protože
+zrovna jsem migroval z GitHub Pages
+na Medium.
+A chvilku předtím jsem na GitHub Pages
+migroval z Jekyla na nějaký statický
+HTML.
+A v každém tom procesu si vždycky podívám
+zpátky na ty články a říkám si,
+já to přepíšu, aby to bylo
+aktuálnější a angličtina
+by tam byla lepší, tak to uložím do draftu
+a už to nikdy neuveřejním.
+Takže mě článků na blogu jenom ubývá.
+Nikdy nepřibývá.
+To jsou moje plány do budoucna. Teď se zaměřu
+na tu přednášku.
+Opravdu přemýšlím i na
+tu knížku. Já bych to rád uveřejnil podobně, že
+o nějaký články na blogu a pak to třeba uveřejnil.
+Takhle. Takže pro mě
+plány do budoucna jsou pořád stejný.
+Naučit lidi programovat.
+A ne programovací jazyky.
+To je skvělý. Je to hezký závěr.
+Vy vidět z toho, co jsi všechno
+povídal, že to chceš dělat pořádně
+a chceš, aby to ostatní dělali pořádně.
+Ten craftmanship, rozumím. Přesně.
+Tak ti budeme držet v tom palce.
+Ať se daří to prosazovat dál.
+Moc díky. Měj se krásně. Čau.
+Taky. Čau.
+Dominik Mošček. Člověk, který
+si razí svoji cestu,
+ale zároveň to chce dělat hrozně dobře. To se mi na tom líbí.
+Já zase jako vždycky,
+jak se neopakovat, jsem úplně nadšenej.
+Potkali jsme novýho člověka.
+Vlastně jsme o něm vůbec nic nevěděli,
+než nám o něm Cyril řekl. Pravda.
+Pak jsem si teda zpětně uvědomil,
+že měl přednášku na pražským
+funkcionálním meetupu.
+Právě o funkcionálním programování
+v Javě. Teď mi ukazoval ten kód. Jo.
+Je to fakt zajímavý.
+Vypadá vlastně ani jako Java. Ok.
+Opravdu si myslím, že spoustu
+posluchačů, kteří nás poslouchají,
+by se na to měli mrknout a měli by
+na ten jeho Geekcon, nebo jak
+říká se to jméno, Crafty? Myslím, že Geekcon. Geekcon.
+Na tu přednášku by měli dorazit, protože
+to, co bude ukazovat, je opravdu, opravdu
+zajímavý. Především, pokud
+děláte právě Javu, tak neváhal bych
+ani vteřinu. Byla to fakt super.
+Je vidět, že ten programátorský svět, nebo
+rybníček tady v Praze, je plný zajímavých
+lidí. Vlastně fakt jsem překvapenej
+a zároveň nadšenej. Tak máme aspoň kde
+lovit pro příští týdy. Je to tak. A zároveň
+jsme dostali teda nádherný
+svek od Dominika. No to ještě musíme.
+To musíme zmínit. Ale jestli
+můžu zmínit jednu věc. Tady jsou
+krásné nálepky s atakami
+a tak dále. Za to samozřejmě děkujeme. Je tady
+taková cestovní
+káva, kterou si jako alá
+čají, že si vymácháte pytlíček s kafem
+do horký vody a máte kávu.
+To je všechno dobrý. Ale já to tady rozbalím.
+Vy to samozřejmě posluchači neuvidíte. Ale
+to je, my jsme tomu říkali,
+to je erektivní láhev. Ona je jako
+maličkatá. Ale bysme ji mohli vyfutit
+rádi třeba na Twitter nebo tak něco. Tu erektivní láhev?
+No, to bysme mohli. To bysme mohli. Aby viděli, jak to vypadá.
+To je opravdu jako pěkný svek.
+Dneska budu mluvit s Mikem od nás a budu
+táhnout. Ona má 600 ml.
+Je to takový hovado.
+To je prostě skvělý. To je fakt super.
+Takže jo, na Twitteru, milí posluchači,
+uvidíte erektivní
+láhev, kterou jsme dostali. Je fantastická.
+My ještě jednou moc děkujeme Dominikovi, že
+dorazil. Bylo to super. Jestli jste
+si mysleli, vy džavisti, že vás nemáme
+rádi, no tak jak jinak jsme vám to mohli
+dokázat, než vykopnout
+první díl čtvrté série
+takovýmhle zajímavým, chytrým člověkem.
+Takže teď už tomu věříte.
+No a my se budeme těšit zase za 14 dní.
+My se budeme těšit za 14 dní a
+my akorát běžíme dneska, Románku, na
+partnership konferenci. Velká událost
+cienkovská, byť teda interní,
+ale s našimi
+nejvěrnějšími partnery a klienty.
+Takže my se máme na co těšit.
+A já vám příště řeknu o tom, jak
+Petr Polák pořádal turnaj
+v NHL a jaké
+se hnal zajímavé ceny pro výherce.
+Ale to si řekneme příště.
+Je to tak, že se BMS má hondu černému?
+To je prostě podmínka.
+Podmínka, jo? Končíme.
+Dějte se. Za 14. Čau.

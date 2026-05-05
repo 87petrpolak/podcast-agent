@@ -1,0 +1,2348 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Vážení přátelé, vítejte u další epizody našeho podcastu Pod vocasem, který moderuje já, Petr Polipolák.
+To jsem tě překvapil.
+No, ale taky jsem tu já, Román Džouker, provazník. A nedostal jsi mě.
+A dobře, ty zvládnul jsi to. Ahoj Románku, jak se máš?
+No dobrý, dobrý člověče, pohoda. Jsem jeden z těch mála lidí, který jsem zjistil, že si užívají podzimní počasí.
+Všichni nadávají, že je tmá a že je mlhá. A já jsem nějak v minulém životě musel být asi angličan, nebo co.
+Protože prostě já to miluju. Jakmile je takový ten hnus. Já jsem si dokonce byl včera, nebo předevčírem, včera, předevčírem, jsem se byl zaběhat v tom hnusu,
+ještě jako v té polotmě ráno. A bylo to úplně fascinující.
+Jsi v tom rochníš úplně.
+Já nevím proč, já nevím proč, prostě lidi z toho mají reálně deprese. A já říkám, paráda, je tady listopad, to je ten můj čas.
+Hele, v tomhle podcastu je prostor pro dva takový lidi, či to mám úplně stejně.
+Fakt?
+Úplně to miluju, ale já to mám navázaný na to, to mám po mamince mojí, že prostě už se těším na ty Vánoce teď.
+Jak je tma dřív, tak já už prostě normálně mám tendence si pouštět koledy. A už zjišťuju, že synátor to má po mně. Normálně jedeme bomby.
+Dneska ráno jsme si pouštěli snídení rolníčky, takže u nás to funguje asi takhle.
+To je super, ale ono tě tak trošku k tomu vede i to okolí kolem, protože kdyby jsi samozřejmě následoval, jak ty supermarkety jedou, tak s největší pravděpodobností by jsi pomalu měl začít těšit na Velikonoce, protože oni to mají tak dopředu, že už já čekám, kdy najdu to šokoládové vejce s tím zajícem.
+Přesně tak, což mi připomíná, onehdá, když jsem ještě bydlel v Litýnově, tak tam vymyslel výbornou věc, jak jsou takový ty světýlka, který dávají jenom před Vánocem a na lampy.
+Takový ty komety a tak. Tak u nás jsou celoročně, protože se zjistilo, že se hrozně ušetří na tom, že to nemusíš odinstalovávat a zase nainstalovávat, takže my máme Vánoce celoročně v Litýnově.
+Tak oni, jak jsou furt čtyři měsíce dopředu, tak vlastně jako třetí cyklus, se jim to sejde, že to bude na čas, takže to je úplně v pohodě.
+Takže tak.
+No super, hele no, dneska máme zajímavýho hosta, abychom na to neprokecali všechno jenom o podzimních radovánkách. Máme Jirku Penzeše, což je můj bývalý kolega jak z Top Monks, tak z Vendava.
+A je to, musím říct, varovat dopředu, brutálně, řekl bych, renezanční člověk, protože s ním se dá bavit opravdu o všem, ať je to mobilní vývoj, AI, coding doja, code retreaty, prostě ten kluk jako v podstatě dělá cokoliv a je v tom dobrý.
+No pecká.
+Takže tady jsem se dozvěděl, že to je i rodič, takže se dá opravdu povídat o čemkoliv, takže já se na to moc těším a právě jsem koukal na ten jeho LinkedIn, že se rochní nebo minimálně rochnil právě i v AI a v datových vizualizacích, takže všechno mě zajímá.
+No ty jsi se s ním potkal dneska úplně poprvé a nikam si ho uklidil, víš, kde je teďka?
+No budeme teď se muset podívat, kam jsem ho teda vlastně uklidil a najít ten stůl, pod který jsem ho schoval.
+Jo, dobře, takže ty jdeš pro Jirku Penzeše a my se na něj jdeme těšit.
+Jsme doblumení.
+Ve studiu s námi sedí náš dnešní host Jirka Penzeš, čau.
+Ahoj.
+Ahoj Jirko.
+Zdravím všechny.
+Tak Jiriku, jaká je, neviděli jsme se dost dlouho, čtyři, pět let, jak dlouho jsi ženatej, počkej, když jsme se to viděli naposledy, když jste se směl ženit, víš, někde v rýgráčích jsme na sebe narazili.
+Je to tak, je to tak.
+A ženatej jsi šel dlouho?
+No, už to jsou dva.
+No, ale tohle bys měl vědět.
+Jsou to dva, dva roky.
+No, tak vidíš.
+Takže nějak asi těsně, nebo asi netěsně, ale před covidem ten podzim, si myslím, že to bylo.
+A možná v té době ještě na nějakým posledním F-Sharpovým pivku.
+Možná jo, možná jo.
+Tam jsem vždycky ještě občas zavítal.
+No tak co je novýho za tu dobu?
+Kromě teda máš z Brusu nový dítě, jak tady rádi říkáme.
+Tak tak, takže jsem časově teďka úplně jinak vytížen a jinak asi nic moc, nic moc zásadního pořád vyvíjím.
+Věnuju se softwarovému vývoji a to mě stále baví a drží.
+A kávě.
+A kávě, no to jsme říkali, že ty jsi prostě, ty jsi kávomil.
+Je to tak, je to tak.
+Když by ses měl úplně od začátku pro posluchače, kteří o tobě v životě ještě neslyšeli, nedej bože,
+kdyby ses měl nějak v rychlosti představit třeba, jak dlouho jsi v IT a co obecně v IT děláš,
+nějakou takovou tu životní cestu od prvních paskalů až po.
+Jasně, jasně, jasně, jasně. Tak už v IT jsem relativně dlouhou dobu.
+Sám jsem nad tím teďka přemýšlel, než jsem šel sem za vámi.
+Začal jsem rovnovat někde na střední škole a je to já nevím, už deset a více let.
+Mnoho, mnoho, mnoho let, už ani nepamatuji, jak je to dlouho.
+A od té doby se mě to stále drží, jenom co se změnilo, jsou ty technologie, role na projektech.
+Takže jsem si prošel, ať už to bylo klasickým nějakým vývojem, do nějaké víc manažerské role,
+až i do nějaké biznisové, salesové. Vývojář back-endu, front-endu, na infrastruktuře.
+I hardware jsem si vyzkoušel vyvíjet, takže jsem si prošel mnoha, mnoha rolemi
+a stále vlastně zkouším nové věci.
+A my jsme říkali, že ty seš teďka v toppu.
+Monks, je to pravda, pořád ještě.
+Je to tak, je to tak.
+A děláš, já jsem tě měl spojenýho se startup studiem, že ty seš tam nějaká jako technická hlava, ne?
+Jo, je to tak, je to tak.
+Jestli to tak, jako chápu, správním tvoji roli.
+Tak jako, řekněme, CTO, řekněme toho startup studia, když teda bychom použili tu korporátní terminologii.
+Dá se to i taky tak říct, ale možná, já to spíš tu dole rozkreslím,
+ať si člověk pod tím může něco představit, ať už CTO nebo nějakou jinou nálepku.
+Ale v podstatě v toppu máme startup studio a to znamená, že pod tím se schovávají projekty, do kterých nějakým způsobem investujeme.
+Ať už to jsou, neinvestujeme přímo peníze, ale investujeme typicky tu práci.
+To znamená, někdo za námi přijde, například člověk z gastronomie, má skvělý nápad na nějakou třeba mobilní aplikaci,
+nebo jak efektivně tu doménu, ve které funguje.
+Ale je to netechnický člověk, nerozumí vývoj, nemá třeba dostatek peněz, aby dokázal zaplatit dneska nějaký vývojáře, který mu tu aplikaci vyvinou.
+Zároveň je to pořád jenom v jeho hlavě, takže v České republice a nejen v Čechách, ale obecně v Evropě,
+eště tady není tolik a nikdy ani nebylo, a asi pravděpodobně ani nebude, penitent ten je jiný,
+tolik investičních fondů nebo bláznů s mnoha penězmi,
+aby vám dali peníze jen tak, protože jste v hospodě, jim pičte nějaký dobrý nápad.
+Takový ty příběhy, co se dělají často v Kalifornii a v devadesátkách a dřív,
+že někdo něco pičnul a hnedka, jo já mám peníze, dám ti je, pojďme to udělat a stačilo to.
+Jenom pro posluchače pičnout a pičovat je rozdíl.
+Je to tak, ale svým způsobem je to trošičku...
+Děčinou.
+Dá se mezi těm, když jsem tam, hodit to rovnítko.
+Prostě prodat nebo odprezentovat.
+Odprezentovat svůj návrh, ať jsme korektnější.
+Každopádně, takže máte nějakou tu ideu,
+ale nedokážete to zrealizovat, zhmotnit.
+Ty čeští investoři, a nejen tady čeští, ale i v oblasti ve střední Evropě,
+vám nedají peníze jen tak na nic, jen tak na nápad.
+To se tady tolik neděje.
+Takže vy potřebujete buď to nějaký POC, nějaký proof of concept,
+nějaký prototyp, nějak ukázat, že máte to zvalidovaný trh,
+že máte první zákazníky, a to bez té aplikace neuděláte.
+A pak jsme tady my a Top Monks, nejen my, my jsme jediní, kdo to dělá,
+a my řekneme OK, ty se nám líbíš, to je pro nás vždycky důležité,
+že ten člověk, s kterým bychom do toho šli, ty se nám líbíš,
+a my chceme být ty tvoji partneři v té technické exekucii.
+A pomůžeme ti tady za nějaké třeba tři, čtyři měsíce,
+to je taková typická dopa tři až šest měsíců, něco postavit,
+s čím pak půjdeme za investory a zkusíme na to získat další peníze.
+A roz je to startupový kolečko.
+A naše motivace zatím je taková, že máme nějaký share v té firmě,
+a to, jak tam vstoupíme, je velmi individuální.
+Někdy ten člověk má nějaké peníze, tak tam pracujeme třeba pouze za ušlý zisk,
+někdy nemá žádné peníze, tak to celé zainvestujeme, ten vývoj.
+Pomáháme pak i sehnat třeba další investice,
+ale opravdu se držíme jenom v té technické rovině.
+To znamená, postavíme od landingu,
+link page, po mobilní apku, webovou apku.
+Všechno dokážeme zabezpečit a s tím pomůžeme.
+A pak ideálně se natočí jenom další peníze a už se to dostáčí.
+My tam pořád máme nějaký ten ticket v týdře.
+Ty lidi, co na tom pracovali, pak třeba s tím startupem jdou dál.
+A náš biznis vlastně spočívá v tom,
+že jak tam pak přibývají další investoři,
+tak je většinou motivace ty na začátku nějakým způsobem si jich zbavit,
+snižovat jejich podíl.
+Takže my se nebráníme tomu odprodat tu naši ekvitu,
+furt ji jako zmenšovat, nechceme si jí bavit úplně.
+A ty peníze, které díky tomu získáme, tak investujeme zase dál.
+A moje role je v tom taková,
+že já se na ty projekty koukám technickýma očima.
+To znamená, že někdo přijde a já si to zkusím představit,
+co to znamená něco takového vyrobit,
+třeba to i nějak seškrtat a potom to odhadnout.
+Říct, hele, to je třeba typicky dvalička,
+lidi, front and back end, nějaký UXák,
+nějaký třeba tři měsíce, se to roznásobí na ty mendie.
+A to jsou vlastně ty peníze, co my do toho dáváme.
+Hele, no a já si úplně jsem stotožený s tím,
+že pár startupů jsem bohužel, nebo bohudík,
+nevím, jak se to vezme.
+Je to tady zas?
+Ano, jsem byl jejich součástí.
+A úplně chápu tu motivaci toho investora vidět něco naživo.
+Jasně.
+A jak probíhá ten proces, když to vybíráte vy?
+Teď jsem pochopil, že ty máš na starosti,
+z toho, že se na to podíváš technicky,
+ale máš i na té svý straně to rozhodnutí,
+hele, tohle je fakt blbost, tohle fakt nepůjde.
+No jasně, no jasně, no jasně.
+Typicky tu děláme dva.
+Jsem na to ještě s jedním kolegou,
+který se na to kouká víc přes ty čísla,
+víc přes ten biznis, ale většinou v té zasedačce,
+kde třeba ten člověk nám prezentuje tu svoji ideu,
+sedíme oba dva a máme k tomu nějaké připomínky,
+typicky povahy, jako byste tu aplikaci používali.
+I mně napadne něco prezentovat,
+proč bych to chtěl, proč bych takovou aplikaci používal.
+Jak mě přesvědčíš, abych se do toho zapojil,
+abych tam poslal třeba svoje peníze, abych si to koupil.
+Jak docílíš toho, že když ti tady dáme,
+já nevím, milion peněz ve vývoji,
+takže se nám to prostě vrátí v nějakém čase
+a ideálně víckrát.
+Každej investor se ptá, dávám tady třeba
+deset milionů, ale chci z toho sto.
+To je prostě jednoduchý, ideálně krát deset.
+A jak toho docílíte?
+Tady s tou aplikací, kde třeba máte úplně
+minimální nějaké business modely.
+Takže samozřejmě si nad tím takhle bavíme
+a musí nám to sednout.
+My nejsme příliš velké studio,
+které by si mohlo dovolit těch startupů dělat spousty
+a zároveň máme u nás lidi,
+kteří jsou velmi vybíraví, co se týče projektů,
+technologií a všeho.
+Takže nechceme dělat něco, co nám je třeba
+velmi nesympatické, třeba tou doménou
+nebo tím člověkem, co za tím stojí.
+To je taky hrozně důležité,
+že není to jenom o tom projektu,
+ale já jsem záměrně, schválně použil slovo
+partneři, že chceme být partneři v tom projektu.
+A partneři se musí umět domluvit.
+To znamená, když s někým něco děláte,
+tak chcete, abyste tam nefigurovali
+jenom jako dodavatel, jako agentura.
+Ono to často, někteří tak vnímají,
+že přijdou za námi a vy jste to studio,
+my děláme i komerční vývoj, dodáváme
+řešení, dodáváme týmy.
+Klasicky za peníze a je to taky
+agenturní biznis a někteří to vidějí
+i u těch startupů. Prostě já chci od vás
+postavit aplikaci a budu si diktovat,
+co chci, v jakých technologiích,
+jak to má být navržené, jaké feature.
+Prostě jsem si vás koupil na tři měsíce
+a akorát, že tak vyplatíme my.
+A takhle my to nechceme.
+My chceme opravdu být rovnocenní partňáci.
+Respektujeme, že ten člověk na tý druhý straně
+má za úkol dotáhnout biznis.
+Je ten CEO.
+Je to člověk, kterej tam dotáhne zákazníky,
+kterej rozumí tý doméně, my ji neznáme.
+My pouze mu pomáháme stavět ten produkt.
+Ale chceme, aby naše slovo bylo slyšet.
+Takže když je něco nějaká blbost
+nebo nám nesedí ten člověk, tak do toho nejdem.
+Nechápu, nechápu.
+Kolik toho tak uděláte za rok?
+A ještě možná k tomu ten dotaz.
+Jaká je tam ta tvoje role?
+Je tam jenom v rámci toho decision makingu na začátku?
+Nebo i potom kóduješ?
+Nebo prostě řídíš nějak ty týmy, který potom kódujou?
+Jak kdy. Někdy obojí.
+Je to určitě na tom začátku.
+To znamená, že vybíráme s tím druhým kolegou ty projekty,
+do kterých budeme nějakým způsobem vstupovat.
+A potom děláme pořád takové to overview.
+To znamená, že řešíme, jak se těm projektům daří.
+Tím, že jsme tam byli na začátku, tak často pořád se toho byznysové velmi dotýkáme.
+Že s těmi founderama, kteří za námi přišli a chtějí to s námi stavit,
+tak často komunikují s námi takové ty řekněme hodně high level plány.
+Typicky za tři až těch šest měsíců, jak jsem tady zmínil,
+se to typicky nestihne něco vyrobit.
+Je tam pak nějaká více práce.
+Když to budeme zase dál investovat, tak investice roste.
+Bude růst jejich kvita, nebo děláme nějaký dluhopis, nebo se jinak domluvíme.
+A pomáháme získat tu investici.
+Taky na těch startupech si často můžou být nějaké problémy, tak pomáháme je řešit.
+Ale ne vždy, tam jsme aktivně zapojení.
+To zase úplně ne.
+Tam se většinou postaví nějaký tým a ten to pak exekuuje.
+A my jenom řešíme, že to šlape.
+Který z těch startupů, kterým jste pomohli takhle na svět,
+který považujete za největší?
+Tak největší success story je určitě PriceFX.
+Je to projekt, který byl jeden na začátku, ještě než jsme tomu začali říkat, startup studio.
+Tak tím to vše začalo.
+I ta myšlenka a to, kam to došlo za ty roky, to je asi největší úsvět,
+protože tam je už nějaká CSBC.
+A ten startup už je úplně vlastním životem v podstatě.
+My tam dodáváme lidi jako standardní agenturní byznys.
+Hodně lidí od nás tam odešlo, když to přeteklo opravdu už v pořádnou firmu.
+A ty lidi, co na tom dělali od začátku, tam pak skočili do management,
+manažerských rolí, takže opravdu rostou s tím startupem.
+A pořád roste, je to už jako velká firma, nevím teď kolik má tam městnanců.
+Ale že je vlastním životem.
+A to považujeme jako za největší success toho startup studia,
+protože už to taky několik let, co je to na světě.
+Není to hned, ty startupy, trvá to.
+Takže u těch ostatních, kteří jsou tady třeba dva, tři roky,
+tak fungují, žijí, ale ještě nejsou třeba tak daleko.
+Není to taková raketa jako PriceFX.
+No jak se vám daří, do toho jenom skočím,
+jaký je ten poměr těch startupů, kteří se třeba nepodaří prodat?
+Protože třeba jste to špatně odhadli, nebo vlastně nějakým způsobem zaniknou.
+Jo, já čísla asi úplně přesně nevím, protože těch startupů není hodně.
+Určitě to je, ale že by úplně zanikly, těch není mnoho.
+A to z toho důvodu,
+že my jak nejsme moc velký, tak si to nemůžeme úplně tolik dovolit to rychle odepisovat.
+To je zároveň i nevýhoda, že občas se patláme vlastně v bahně
+a nikdy z něj třeba nevyskočíme.
+Ale někdy se stane, že najdeme jinou cestu, jak třeba ten projekt uchopit,
+zkusíme to trošičku zase nějak jinak, ale pořád využíváme to, co jsme postavili.
+A třeba se to podaří.
+Třeba se to podaří a projekt se zase postaví na nohy
+a ty peníze, co jsme do toho dali, nejsou úplně třeba spálený nebo zmarněný.
+A nebo použijeme tu technologii úplně někde jinde.
+A to se snažíme, to se snažíme.
+Takže opravdu někdy se s těma projektama patláme příliš dlouho
+a měli bychom odepisovat rychleji, ale je to těžší, než se to říká.
+Všichni říkají, jak jenom na čísla katnout, tak to ještě úplně neumíme.
+Většinou se snažíme tomu projektu fakt hodně pomoct.
+A je to tím, že tam máš to srdíčko i zároveň trošku?
+Nebo je to vyloženě, že jenom si to nemůžete dovolit?
+Spíš vidíš, kolik tam těch penězů se spálo a nechceš úplně to zahodit.
+A co se týče technologií, tak je to ve vašich rukou,
+nebo třeba přijde i někdo s nějakou, řekněme, preferencí,
+že by jako, tohle je ten nápad, ale zároveň bych rád,
+kdyby třeba to bylo, abych to mohl do budoucna škálovat lidsky,
+třeba, já nevím, vraktu, frontend, plácnu, jo?
+Nebo máte tam nějaký limity, jak to je?
+Jsou tam, nebo limity tam úplně nejsou,
+ale hodně záleží, s čím ten člověk přijde.
+Někdy už přijdou a něco mají, že třeba přijdou a řeknou,
+my už máme něco hotového.
+Neděje se to často, protože většinou tady, co už má něco hotového,
+tak už mají za sebou i nějaký třeba investice,
+nebo sami do toho dali nějaké peníze a nechtějí pouštět tolik jak vy ty.
+A tím pádem to třeba pro nás není už tak atraktivní,
+protože za hodně peněz,
+my si nemůžeme dovolit dát hodně peněz za malou ekvitu.
+Takže, ale někdy se to stane.
+Člověk přijde a řekne, hele, já už tady mám nějaký prototyp,
+je napsaný, já nevím, třeba v PHPčku,
+což třeba není úplně naše technologie, kterou u nás děláme,
+tak se s tím musíme třeba nějak vypořádat.
+Ale jak jsem zmínil na začátku,
+tak my se tam snažíme být jako techniční partneři.
+To znamená, že chceme mít v rukách i ty technologické rozhodnutí.
+Ale když už na začátku se tam uvažuje, že se to bude škálovat,
+že to bude v cloudu, nebo že to budou mobilní aplikace,
+tak nejsme úplně hloupí, aby jsme tam použili nějakou proprietální,
+experimentální technologii, na kterou nikoho nenahyrujete,
+anebo někoho strašně moc drahýho.
+Takže i my se snažíme trošičku ty technologie vybírat tak,
+aby to dávalo prostě smyslu i biznisově.
+A ten typický textek, když přijdu a řeknu,
+nemám preferenci,
+ale mám geniální nápad.
+Prostě aplikaci na remotní krmení králíků.
+Poběží to na webu i na mobilu.
+Přesně. A já chci teď, abyste mi to napsali.
+No jasně.
+Tak to krmítko poběží na čem?
+Krmítko poběží.
+Snažíme se, aby to běželo jako serverless dneska už docela hodně.
+Ty back-endy.
+Takže krmítko je za servis.
+Přesně tak. Krmítko je za servis.
+A nejčastěji tím krmením je Node.js na tom back-endu.
+Na front-endu je to čistý JavaScript.
+Když vezmu ten...
+front-end pro lížeči.
+A na tom mobilu, tam je to ještě relativně dynamický.
+Snažíme se jít se cestou PVAček.
+Aktuálně. Progressive Web Applications.
+A to z toho důvodu, že se tam dělá ten jednotný front-end.
+A dá se to pak jako jednoduše na ty prototypy takhle nasadit.
+Ale když PVAčko z nějakýho důvodu není vhodný,
+protože Google, respektive Apple,
+tam nejsme úplně v těch PVAčkách tolik zbelí,
+ale myslím, že Apple to trošičku blokuje.
+Voproti Google, který to znaopak razí.
+Takže tam nějaký věci třeba není jednoduchý udělat.
+Tak volíme cestou React Native nebo Flutter.
+No to jsi mě ale překvapil.
+Já jsem čekal, já jsem ti úplně nahrál.
+Na to, že vymlaskneš Clojure.
+A Clojure nic?
+Hele Clojure taky.
+Ale ptal ses na typický stack.
+Jo, jo.
+Ptal ses na to typické krmítko.
+Já jsem řekl, že kdybych neměl preferenci, co byste mi pro moje krmítko doporučili.
+To by bylo pořád asi stejný.
+Jo.
+Takovýhle, protože přece jenom těch vývážů na to máme nejvíc u nás ve firmě.
+A ta zastupitelnost je tam veliká.
+A jednoduše, relativně jednoduše se na to hajruje.
+Je to dobře předatelný.
+Ale hlavně ta zastupitelnost tam je super.
+V tom Javascriptu.
+Ale jinak ano, máme projekty.
+Nebo u nás několik lidí se snaží
+o to psát aplikace v Clojure.
+V Clojure scriptu.
+Taky to tam máme. Taky tam máme i Javičku.
+Respektive.
+Nejen Javičku.
+Nejen Javičku.
+Ale aplikaci no back-endy nad JVM stackem.
+Takže to tam všecko jede.
+Historicky nějaký ruby bychom asi taky našli.
+Ale ten nejtypičejší stack je stále ten Javascript.
+Takže kolik vás tam je teda ve startup studiu?
+Jen pro představu.
+Ve firmě je v to funkce padesát lidí zhruba.
+Ale ne všichni jsou jinou startupům.
+Ne všichni jsou jinou startupům.
+To může být třeba taky dvacet, třicet lidí.
+Ale ono to dost rotuje.
+A máš to poměrně podobně třeba,
+jako když to tady popisoval Lukáš z Upliftingu,
+že si tak jako hrábneš do těch top monks
+pro tu specifickou knowledge
+a natáhneš si ho třeba na dva, tři měsíce
+do startup studia.
+A pak třeba ten člověk zase má jinou alokaci?
+Nebo jak to funguje?
+Jo, jo, jo, jo.
+Je to asi podobný.
+Snaží se samozřejmě udělat co největší fit s tím projektem.
+To znamená, že ptáš se i těch lidí,
+jestli jim je to třeba sympatický ten projekt.
+Protože furt je to startup.
+A potřebuješ tam někoho s tím nadšením.
+Nemůžeš to někomu dát jenom, hele,
+tady prostě potřebujeme vývojáře,
+tak prostě pojď tady.
+Pojď bastlit.
+Přesně, pojď bastlit,
+podělat prostě ty kodárničky,
+jak říká náš founder.
+A pojď prostě tady,
+pak zase půjdeš jinam,
+pak půjdeš tady na nějaký fintech,
+někde jde prostě do nějakého korporátu.
+Takže snažíme se najít nějaký ten fit
+s těmi lidmi, co se týče projektu.
+A samozřejmě technologií.
+A hrábneš si, no.
+Hrábneš si.
+Nejsme tak velký,
+aby jsi mohl jako vybírat.
+Takže spíš se snažíš to utetrisovat tak,
+aby každý nějakým způsobem
+byl dostatečně dobře ji utilizovaný.
+A ideálně dělal i to, co ho baví.
+Protože vlastně ta motivace,
+proč dělat startupy, byla ta,
+že ty chceš dělat zajímavý projekty.
+Jo, chceš dělat zajímavý projekty
+a chceš dělat ideálně projekty,
+ve kterých máš moc rozhodovat,
+moc trošičku stát u toho,
+jak se ten produkt bude vyvíjet,
+což v těch komerčních projektech
+ne vždycky je.
+Ale u těch startupů,
+nebo u těch ideí na začátku,
+kde opravdu to může být kreativní,
+technicky ideálně,
+aby ten projekt byl i technicky zajímavý.
+Aby tam byla něco,
+co se fakt musí dobře promyslet.
+A trošku se nad tím
+hodně iterovat,
+stát tu tabule, kreslit.
+Tak to je motivace těch startupů,
+proč je dělat.
+A proč je dělat
+s někým z venku,
+zase,
+že to neděláme in-house,
+protože ty in-house nám nejdou.
+To jsme zkoušeli
+a pořád do té vody šlapeme.
+A furt to nejde.
+A furt to nejde, furt to nejde.
+My jsme prostě barák plný vývojářů.
+Vždycky, když s náma někdo sedí u toho stolu
+a chce od nás právě
+s náma dělat ten startup,
+tak já vždycky říkám,
+my jsme barák plný vývojářů.
+A v tom se snažíme fungovat,
+v tom se snažíme držet tady v té vodě.
+To je to, co my umíme.
+Neumíme dělat sales,
+neumíme dělat prostě business,
+neumíme dělat prostě marketing.
+Samozřejmě my to nějak máme u nás
+jako zastřešený.
+Děláme marketing,
+tupmunks děláme.
+Něco málo jo,
+ale nejsme v tom tak dobří.
+Nejsme v tom tak dobří.
+V čem jsme dobří je opravdu ten vývoj.
+To znamená, dodáme ti mobilní apku,
+webovou apku,
+backend,
+infrastrukturu k tomu postavíme.
+Bude to škálovat,
+bude to automatický.
+To všechno ti uděláme v dobré kvalitě,
+ale ten zbytek ne.
+A proto právě děláme ty startupy
+takhle s někým zvenku.
+Protože zkrátka,
+když jsme dělali něco vlastního,
+tak to bylo vypiplené,
+technicky skvělé.
+Jasně no.
+Ale možná znáte,
+možná jste si něčím podobným prošli,
+ale i když člověk tam vidí ty miliony,
+to prostě dá ven,
+a to už každý bude chtít,
+tak pak narazí,
+že je těžké to prodat.
+A proto tam potřebujete někoho,
+kdo zná tu doménu,
+umí chodit do těch firem,
+ťukat jim na ty dveře,
+cpát jim ten plán,
+ten projekt.
+A taky člověka prostě hledáme zvenku.
+Ve vnitře ho většinou moc nemáme.
+Ale možná z těch success stories,
+já si pamatuju,
+že vlastně ještě Top Monks
+měl jako prsty špinavý od Techloopu,
+který se tam dělal.
+A to byl docela taky jako,
+že to nějak vy-exitovalo dobře,
+celý Techloop, ne?
+Že ten byl koupenej snad,
+tyho LMC,
+abych nechycel,
+někem byl koupenej Techloop,
+nějakou velkou tohletou LMC.
+Ano, ano, LMC to koupilo.
+Tak to je celá taky dobrý příběh, ne?
+Jo, určitě, určitě.
+Vlastně to byl projekt,
+který měl samozřejmě jako
+daleko větší ambice,
+než aby se koupil LMC.
+Ale i tak,
+pro nás to bylo super,
+že s každým vstupem dalšího investora,
+který do toho vstupoval,
+my jsme si snižovali ten podíl
+a odprodávali jsme tu naši equitu.
+A tím pádem,
+my jsme relativně brzo měli zaplaceno naší investici.
+Pořád tam byl nějaký podíl.
+Takže ať už by se s tou firmou stalo cokoliv,
+tak my už jsme byli safe.
+Byli jsme na svejch.
+Přesně tak.
+Ano, pořád se měl nějaký exit.
+My už jsme teda úplně v tom finálním exitě,
+myslím si, že v tom projektu už nefigurovali.
+Že už jsme odešli dříve.
+Tam to bylo docela hodně složité
+s těmi investorami.
+A úplně do detailových radši nechodil.
+Ale ano, je to tak, je to tak.
+U těch chlupů jsme byli vlastně na začátku úplně,
+až to došlo do LMSička.
+No a ty teda teďka tohle všechno máš na starosti
+z té technické stránky.
+Tady otázka, která mi okamžitě vystane v hlavě.
+Programuješ ještě?
+Nebo už tak jenom si jako pan přicmrdávač
+chodíš kolem a říkáš, tohle je špatně, tohle je špatně?
+Ne, ne, ne, ne, ne.
+Přiznám se, já jsem nikdy tuhle roli neměl na full time.
+Ani jsem se nějak do toho nesnažil hrnout.
+A teďka naopak ještě snižuji.
+A takže pořád vedle toho dělám klasický projekty.
+A tohle to je řekněme nějaká část jenom mojí práce.
+A obecně teďka, jak přišel covid
+a další vlastně problémy s tím spojený,
+tak my teďka tolik neinvestujeme do těch startupů.
+To je první věc.
+A zároveň dřív to hodně bylo o tom,
+že my jsme se s těma lidma i potkávali.
+Byly různý startupový akce.
+Byly různý startupový akce.
+Propojovali jsme se vzájemně s různýma firmama,
+s kterýma jsme na těch startupech dělali společně.
+Protože jak jsem říkal, tak my tam dodávali ten vývoj.
+Ale někdy ten founder potřeboval třeba marketing nebo sales.
+A zase nějaká jiná firma, jiný studio, který funguje jako my,
+ale mají ten marketing.
+Tak my jsme takhle tady udržovali i to podhoubí tady
+těch connections mezi těma firmama.
+A to samozřejmě covid to potkávání trošku zamezil.
+A i ty investice jsme trošičku snížili.
+Ne, že bychom je snížili, ale spíš jsme se začali
+hodně fokusovat na projekty, které jsou rozběhlé.
+Co máme v tu punktu hodně rozběhlé, co se před covidem
+a i v průběhu covidu začaly dělat.
+A tím teď vedeme plný fokus.
+Když jsme tak před vysíláním řešili, o čem si budeme povědat,
+tak kromě mnoha jiného se vystřelil i téma flatru
+a mobilního vývoje, což mě docela zaujalo,
+protože já si osobně vlastně nikdy moc nepamatuji,
+co jsi se flatru a mobilnímu vývoji věnoval.
+Jo, řešili jsme spolu tenkrát Clojdr a Javičku,
+jak ty rád říkáš a tak dále, ale že bych slyšel,
+že bys jako skočil do mobilního vývoje, to pro mě byla novinka.
+Je to něco, co ses teďka naučil díky startup studiu,
+nebo je to nějaká nová hračka, nebo proč zrovna jako flatr?
+Já si myslím, že když jsme se viděli naposledy,
+tak možná flatr ještě ani nebyl.
+Proto jsme se možná o tom úplně nebavili.
+Možná tím to bylo.
+Každopádně, jak jsem zmiňoval, tak to startup studiu
+není jako jediná aktivita v rámci Top Monks, který se věnuju.
+Pořád ještě klasicky vyvíjím, ať už někde v Javičce nebo vůbec.
+Já rád říkám, že radši na JVM platformě.
+Ale ne, se ti říká to Javička, to je úplně ta láska.
+Ale řekněte, kolik tomu kafe vy?
+Máš rád kafe kvůli Javi nebo kvůli Javi kvůli kafe?
+Těžko říct, těžko říct, těžko říct.
+Ale je krásný, že má logu kávičku.
+To věřím, že to ti dělá.
+Já nevím, jestli to je pravda, ale existuje nějaká ta story,
+že právě Java vznikla tak, že C++ programátoři
+chodili právě na kafe, jak to tady všichni asi fajtí známe,
+že jdou do té kuchyníky, teďka tam řeší ty problémy,
+a jak by tu práci dělali líp.
+No a u té kávičky vymysleli tu Javičku.
+No a tak to já ti dám jiný příběh.
+Víš, jak vznikla webová kamera?
+Týpek si dělal vodu na kafe.
+A furt mu někdo tu vodu bral.
+Takže on vymyslel způsob, jak jim bude přenášet
+záběr z kuchyňky, aby zjistil, kdo mu tam krade
+tohoto kafe, nebo tu vodu na to kafe.
+No a nakonec tohle vzniklo jako standard
+prostě pro přenos rychlejch fotek,
+až posléze jako webový kamery prostě přesto.
+Jenom takhle, že řešil problém.
+To je startup. Někdo mu krade kafe a vymyslí webovou kameru.
+Ale pojďme zpátky.
+Prostě káva.
+Prostě káva. Co chci říct?
+My buďme tady právě krásný oslý mustek.
+Já jsem si chtěl dělat takovou aplikaci
+právě na trackování kávy.
+A je to tady.
+Je to tady. Taková moje dlouholetá idea.
+Jaký hobbyprojektík.
+A tehdy jsem se rozjížděl, v čem bych to udělal.
+Tak jak je to hobbyprojektík, tak si člověk může vybírat, co chce.
+Ať už to je nativně to dělat, nebo nějak multiplatformně.
+Tak jsem logicky tehdy sám,
+vzáhnul po React Native.
+Protože i v Toponk se to hodně používalo.
+Moji kamarádi to používali. Každý mi to doporučil.
+Tak jsem to zkusil.
+A zjistil jsem, že mě Hello World v tom trvalo strašným časem jako vyrobit.
+A hlavně ta aplikace, co mě vypadla ven.
+A to bylo fakt jenom nějaký tlačítko a přechod mezi screenama.
+Tak to vůbec nevypadalo nativně.
+Bylo vidět, že je to zabavlená webovka.
+Bylo to mnou pravděpodobně.
+Já myslím, že v React Native se dá dělat skvělý aplikace.
+Takže vůbec neschazují tu technologii.
+Ale React Native vznikl tak, že je to nějaká evoluce nebo geneze k Reactu.
+To znamená, že weboví vývojáři chtěli dělat mobilní apky.
+Někoho napadlo, pojďme to dělat podobně, jak uděláme ten frontend.
+Uděláme React Native.
+Samozřejmě jsou tam nějaké paralely.
+A tím, že já nejsem úplně kovaný frontendista,
+tak je pro mě hrozně těžké to ladění.
+Těch CSS a toho HTML.
+A to všechno je v React Native podobné jako v tom frontendu.
+Takže do cíly.
+A když jsem chtěl vzít nějakého efektu, že ta aplikace bude hezká,
+bylo pro mě tehdy jako o ser.
+Ne, že by to nešlo, ale bylo to prostě o ser.
+Já jsem to neznal, ale bylo to o ser.
+Tak jsem přemýšlel, jak to zkusit jako něco jiného.
+A tak jsem zkušel na doporučení Flutter,
+kde se teda píše programace z jazyce Dart.
+To všechno pro mě bylo nové.
+Ale tam bylo super to,
+že vy jste vzali ten tutorial nebo ten example,
+kterým ten hero volte jich.
+A fakt to šlapalo v podstatě všechno na první dobrou.
+A opravdu se člověk jenom soustřeďoval na to, co chce skutečně řešit.
+A všechno to vypadalo nativně a velmi rychle.
+Že to fakt šlapalo.
+A to mě hodně nadchlo.
+Hodně mě to překvapilo.
+Tak jsem tam zkušel něco dál.
+A musím říct, že Flutter je za mě velmi dobrá technologie
+na bootstripování nějakých aplikací
+a něco rychle vystřelit.
+Ta učící křivka je tam neskutečně rychlá.
+Hlavně teda pro člověka, co je z Java světa
+a nebo obecně tady z těch C-like jazyků.
+Protože na typových jazyků,
+protože Dart je od Javistů vyrobený,
+tak ten skok tam byl rychlý.
+A Flutter jako framework je velmi hezky navržený.
+Takže tu aplikaci tam vystřelíte prostě rychle.
+A vypadá pěkně. To je super. A rychle.
+Takže kdyby ses měl rozhodnout znova mezi React Native a Flutter,
+tak je Flutter jednoznačná problém.
+Určitě. A myslím si, že i když teďka vidím,
+jak fungují PVAčka, ty tehdy tak in nebyly
+a možná nebyly ani tak daleko,
+to je třeba tři roky zpátky, když jsem dostal k tomu Flutteru,
+tak myslím si, že React Native má velmi těžké konkurenty tady v tom dneska.
+Hele a jak je to spojené vlastně s Dartem?
+Protože já teď jsem koukal na nějaké tutoriály,
+abych se samozřejmě na tebe trošičku nachytřil na ten Flutter.
+A našel jsem tam sampli v Kotlinu.
+A trošičku jsem byl z toho zblblej,
+protože já jsem si myslel, že vlastně Flutter
+a Dart, že to jako je tak ruku v ruce,
+že nic jinýho se tam nedá narvat.
+Já teda nevím, na jaké sampli koukáš,
+ale myslím si, že ty sampli, co jsi viděl, byly Dart.
+Fakt?
+Ano, on Dart je podobný Kotlinu.
+Takže pokud tam nebyl explicitně napsaný slovo Kotlin,
+což jako já jsem se fakt na to nenarazil nikde,
+ale Dart je, Flutter je už sespojený s Dartem.
+Jo, nemůže tam být jiný jazyk teda.
+Ne, ne, ne.
+Dobrý, tak to jsem sespojený já.
+Vlastně o tom nevím.
+Každopádně Dart je podobný jako v nějakých aspektech Kotlinu,
+takže bych se nedivil jakoby ty záměně.
+Ale právě Flutter využívá hodně výhod Dartu a toho jazyka.
+A píšete tam ty aplikace v podstatě formou widgetů,
+což je jakoby ten hlavní koncept toho frameworku Flutterovýho,
+že všecko tam je widget.
+Úplně všecko. Úplně všecko tam je widget.
+A vy ty widgety jenom skládáte,
+skládáte, skládáte.
+Skládáte dohromady.
+To znamená, že snaha je dělat ty widgety co nejmenší.
+Takže když máte třeba,
+chcete vyrendrovat text,
+tak máte widget, který se stará jenom o to, že vykreslí ten text.
+Nic na sobě dalšího nemá.
+Nějaký eventy,
+nějaké klikání nebo nic takového.
+To na sebe vůbec nemá.
+Podobně jako třeba,
+kde často třeba Spen má na sobě bambilion
+jako různých dalších atributů.
+A je to velmi komplexní prvek.
+Tak tady ne. Tady je to minimální.
+Například klik.
+Tak to zabalíte zase do jiného widgetu.
+A takhle vlastně
+stavíte celou aplikaci.
+A staví se to formou
+jakéhosi komponování.
+To se mně právě líbí,
+protože to hodně vychází z funkcionálního světa.
+Konec konců
+i React byl inspirován
+v nějakých funkcionálních paradigmatech.
+Tady to bylo zase inspirované Reactem.
+Vzalo si toto
+možná nejlepší z toho.
+A
+výsledek, který vy napíšete,
+se pak kompiluje přímo
+jako nativní binárka
+na tu platformu. To znamená, není tam
+nic jiného. Proto ta aplikace je tak rychlá.
+A všechny ty komponenty
+se kreslí přímo na canvas.
+To znamená,
+team Flutteru muselo
+všechny komponenty vyvinout znova.
+A opravdu pixel po pixelu je nakreslit.
+A proto tam mají
+úplně všechny ty akce, co mají i ty nativní
+komponenty. A proto i ty aplikace
+často vypadají velmi
+seblíže těm nativním.
+A to si myslím, že je velmi fajn.
+Máme nějakou aplikaci, kterou všichni známe ve Flutteru?
+No.
+Google.
+To nevím, jestli jsem
+zmínil, ale za Flutterem stojí Google.
+A i za Dartem.
+A Google v tom má napsaný
+tuším AdSense
+a ty svoje aplikace kolem
+tady toho jeho ekosystému.
+Takže pokud někteří používají,
+tak to tuším ve Flutteru.
+A potom vím, že automobilky
+BMW tuším v tom má
+svoje aplikace napsaný,
+ty poslední mobilní.
+Ale teďka z hlavy úplně nevím,
+kterou všichni by jakoby znali.
+Ale vím, že Flutter má přímo
+na svých stránkách nějaké examply, nebo ty
+příklady, kde se to použil těch velkých firm.
+Myslím, že Alibaba v tom má
+ty svoje e-shopy napsaný na mobilu.
+Ale nechci kecat, takže
+nejsem si s tím 100% jistý.
+Každopádně jste skupný v tomhle
+v podstatě cokoliv bez omezení.
+A je to fajn.
+Můžu každému vyzkoušet.
+Samozřejmě začali jsme těma výhodama.
+Máte nějaké zásadní nevýhody, nebo
+vidíš tu cestu
+v podstatě zničení
+konkurence třeba v podobě
+React Native poměrně
+pozitivně?
+Ne, tak já bych určitě netvrdil, že to
+zničí zrovna Flutter.
+To spíš třeba ty PVAčka
+vidím jako takovou
+dobrou budoucnost s těmi mobilní aplikacím.
+Pokud se to nějak
+nezvrtne. Každopádně
+nevýhody jsou asi úplně stejné jako u React Native.
+Není to nativní.
+To je asi hlavní nevýhoda.
+Ale zároveň je to ta
+obrovská výhoda. To znamená, že
+vytvoříte aplikaci pro
+iOS a Android platformu
+podobně jako u React Native. Ale když
+potřebujete něco velmi specifického,
+tak samozřejmě jsou možnosti jak to udělat.
+Tam jsou nějaké kanály, že si to napíšete
+přímo ve Swiftu nebo v Kotlinu.
+A můžete
+s tím konikovat napřímo.
+A to je asi jako...
+Může se stát, že
+tam něco úplně nepůjde udělat.
+Ale teďka mně nenapadá, co by tam nešlo.
+To se může stát.
+Pro někoho může být samozřejmě nevýhoda
+Dart.
+Je to jazyk, který
+nemá takovou základnu třeba jako
+JavaScript, co se týče
+React Native.
+Ale jinak nějakou zásadní nevýhodu
+tam nevidím. Naopak
+výhodu oproti Reactu
+vidím v tom, že Google
+na Flutter poslední dobou hodně sází.
+A hodně do toho investuje.
+Takže už není jenom Flutter for
+mobile, ale už je Flutter for web
+a for desktop. Takže vy dokážete
+úplně tu stejnou aplikaci, kterou jste napsali
+pro mobil, tak udělat z ní desktopovou
+aplikaci, udělat z ní webovou aplikaci.
+U toho webu je to takový
+svý,
+řekněme, ale
+přijde mi hodně fajn ty desktopový aplikace.
+Že někteří
+chtějí mít pořád tu desktopovou aplikaci,
+ale drahý její vývoj hodně.
+A tady vlastně jste schopni úplně jednou
+to hodit na ten
+desktop. A když to ještě chytře napíšete
+nějak responsivně, tak máte vlastně
+pokryté všechno. Tablety, mobily
+a počítače. A to mi přijde velmi
+fajn v tom Flutteru.
+Je u těchto
+přístupů pořád problém to, že ty
+aplikace jsou potom trošku
+větší ve srovnání s nativními appkama,
+nebo to už dneska nikdo neřeší
+při tom množství dat, které si posíláme denodenně?
+Já si myslím, že to nikdo už
+neřeší. Velikost
+nějakou těch aplikací.
+Nebo já jsem na tom minimálně nenarazil.
+Nebo já to nepovažuju za nevýhodu.
+Jasně.
+Tak kdybych byl dneska zákazník, tak vlastně
+v podstatě to možná řešíte i vy
+na začátku těch startupů. Tak jaký
+by byl důvod, že byste začali
+vyvíjet ve Flutteru, pokud by to byla
+mobilní appka. Já jsem zákazník a řekl bych
+chci tady to krmítko v té
+mobilní appce. Proč bych to měl dělat
+proboha ve Flutteru?
+Tak, jsou na to samozřejmě
+několik pohledů.
+Většinou záleží.
+Zákazník typicky chce mobilní aplikaci
+a potím si 99%
+představujeme mobilní aplikaci
+pro iOS a pro Android.
+Je to téměř vždycky. Málo kdy to je jenom pro iOS
+nebo jenom pro Android. Anebo pro nějakou další
+třetí platformu. Takže je to
+iOS a Android. A
+hodně záleží jaká je to aplikace.
+My nevnucujeme. Flutter není technologie,
+kterou jako v Topunx nějakým způsobem tlačíme.
+My jako netlačíme příliš technologií.
+Spíš se snažíme vždycky najít
+tu technologii, která je pro ten projekt nejvhodnější.
+A to je třeba často jenom peváčko.
+Někdy ten zákazník opravdu chce úplně
+super simple aplikaci a hledá
+zatím nějakou složitost. A přitom je to
+jednoduchá webovka se třema tlačítkama
+a možná s foťákem.
+A that's it.
+A tak mu doporučíme tady to.
+Pokud zjistíme, že je to trošku složitější.
+Je to
+potřebuješ tam tohle, tohle, tohle.
+Na to by byl třeba Fine Flutter. Protože
+na to tady máme zrovna třeba i volný vývojáře,
+kteří ti to můžou udělat. Tak
+jdeme do toho. Samozřejmě i React Native
+jako vybereme, pokud
+to dává smysl. Nebo na to třeba máme ty
+vývojové kapacity zrovna.
+Takže hodně záleží tak, jestli to je aplikace,
+která se vyvine a pak se u ní
+dělá jenom nějaký support. A nebo
+je to aplikace, která se vykopne
+a je tam potenciál a když bude úspěšná,
+že tam budou roky a roky vývoje.
+To hodně záleží pak u těch technologických
+rozhodnutí.
+To asi znáte.
+Velmi dobře.
+Když jsme řešili téma mobilního
+vývoje, tak ty jsi ještě zmiňoval jednu věc.
+A to je Firebase. Což já teda vůbec
+neznám. Můžeš mi říct, jak to vlastně
+s mobilním vývojem ve Flutteru souvisí?
+Jsi to vůbec spolu souvisí nějak zásadně?
+A co to vůbec Firebase je?
+Firebase je nástroj,
+platforma od Google.
+V podstatě nějaká nadstavba
+nad jejich cloud enginem.
+A ta ti dává nějaké služby.
+A ty služby jsou například
+nějaká databáze,
+real-time databáze, zpráva uživatelů,
+nějaké analytiky,
+nějaký serverless.
+A v čem je Firebase fakt skvělá,
+je v tom, že vy tam jste schopni
+vytvořit celý backend.
+Úplně pomocí jenom tady těch jejich jednotlivých služeb.
+Pak to konzumovat
+z té apky mobilní.
+Takže Firebase je naprosto
+fantastická na prototypování.
+A ne jen na prototypování. A když jste rychle
+vystřelit nějaký projekt, tak si myslím,
+že volba Firebase a Flutteru je skvělá.
+Samozřejmě Firebase je super
+i na jiných platformách,
+na JavaScriptu. Ale v čem ten Flutter
+je skvělý, je v tom,
+že tam opravdu jsou napsané
+dobře ty knihovny.
+A samozřejmě je to všechno od Google.
+Takže oni s každou
+verzií Firebase vždycky vydali rovnou
+i nový knihovny pro Flutter.
+Takže tam v podstatě všechny věci máte
+už připravené a jenom konzumujete.
+A skvělý je to,
+že vy se soustředíte čistě
+na ten problém, co řešíte. A to si myslím,
+že je alfa omega. A to jsem zažil opravdu zatím jenom na Flutteru.
+A vlastně i v Closureu.
+Tam se mi právě líbilo, že se člověk
+soustředňuje jenom na to,
+co řeší. Já jsem vždycky dával za příklad,
+že příklad o AUT
+je protoko, který je tady s námi
+prostě spousty let. Je snad v každé aplikaci,
+kterou jsem kdy viděl. A vždycky, když se přijde na aplikace,
+tak lidi řeší, jak ho
+implementují. Jak prostě budou
+reprezentovat usera,
+jak budou ty
+hooky zpracovávat, konzumovat.
+Teďka musíte se někde, když to děláte s Googlem,
+ten access token si připravit
+a teď to nějak propojit. Teďka ty adresy,
+ty callbacky a
+teďka samozřejmě vyrenderovat nějakou tu přelašovací obrazovku.
+To je strašný pain. A přitom je to něco, co řešíme
+furt a furt do kola.
+A přidáte novou službu a zase nový hendlery
+a zase to musíte naimplementovat, protože
+oni mají trošku nějaký jiný fieldy.
+Šílený, šílený.
+Tady v podstatě
+vytvoříte si na Firebase účet,
+založíte si tam tu svoji aplikaci,
+máte nějaký globální token,
+ten vám přistupňuje všechny ty služby.
+Máte komponentu na přihlášení, dostanete
+usera a hotovo. A je to super.
+A řeší to za vás o auty. Jenom si na internetu zaškrtáváte,
+co chcete, aby to přihlášení
+nějako obnášelo. Jestli chcete Facebook,
+Google, Twitter, přes SMS,
+přes klasické přihlášení, jméno, heslo.
+A oni už to všechno řeší za vás.
+A to je fakt skvělé, že se o tohle
+vůbec nemusíte starat. Vedle toho
+máte Firestore, což je zase databáze,
+kam ukládáte dokumenty.
+V nějaké JSONové struktuře.
+A všechno to je
+real-time, takže když se někde změní
+nějaká změna, tak se to hned probíše někam.
+Hned je to vidět na dalším zařízení.
+Což je super.
+A samozřejmě vedle toho máte nějaké cloudové funkce,
+kde můžete přidávat nějakou business logiku,
+ať už k těm dokumentům, když se
+třeba vytvoří uživatel, tak se vám někde
+něco třeba vytvoří, nebo něco flagne.
+A...
+A za chvíli máte o toho appu.
+A v podstatě tam uděláte úplně cokoliv.
+Můžete tam přidat nějaká pravidla, co se týče zabezpečení,
+těch jednotlivých endpointů,
+a...
+A jedete. Jedete.
+Jenom opatrně na pricing tady těch služeb.
+Jo, jsou tam taky takový myšky.
+Ano, člověk musí být...
+Když používá nějakou takovouhle službu,
+ať už to je jakákoliv, tak samozřejmě
+ten pricing tam je nastavený tak
+ohledně té konzumace.
+To znamená, že čím víc konzumujete,
+tím víc platíte.
+Konzumace znamená read nebo write.
+Takže buď to zapisujete,
+nebo čtete.
+Třeba v případě Firestore, tam je to tak, že
+je hodně levný čtení,
+ale hodně drahý je zapisování.
+Takže například referenční integrita,
+na kterou jsme zvyklí,
+z klasických hráčních databází.
+To znamená, že máte uživatele v nějaký tabulce
+a všude se jen propisuje ID,
+a když chcete vytáhnout něco z databáze,
+tak si tam prostě zajoinujete ty usery.
+Tak tady ne.
+Tady prostě ty data všude duplikujete,
+abyste pak vytáhli ten dokument,
+kde máte prostě všechno.
+Na jedno ID vytáhnete něco,
+kde máte jak třeba produkt,
+tak uživatele, tak další informace.
+A člověk nad tom musí myslet
+při tom designu.
+Ho to může stát víc peněz,
+ale i tak je to furt,
+jako mně přijde, vodoslevnější,
+než hostovat někde nějaký
+kontejner a v tom
+rozběhat nějaký
+to ono, nějaký nesmysl.
+Tak máme hotovou mobilní aplikaci,
+krásně ve Flutteru.
+A můžeme se teďka posunout ještě o trošku,
+řekněme level vejš, protože
+my se i často spolu, když se teda jednou
+za ty 2-3 roky setkáme, tak se bavíme dost
+jako high level obecně o vývoji,
+praktiky a tak dále. Jak ty seš na tom?
+Máš to pořád rád, tyhle ty agily,
+retrospektivy, stand-upy
+a tyhle ty věci, nebo?
+No jasně. Kdo by to rád neměl?
+No právě,
+já musím říct, že já jsem z toho trošku
+maličko už vystřízlivěl,
+protože čeho je moc, toho je příliš
+a někdy mám pocit, že u těch samoorganizujících
+se týmů, takový ty tahouni,
+když tam hodně jsou,
+tak si myslím, že to dokonce umí být
+i na škodu, jako velká míra
+těch ceremonií. A samozřejmě naši
+Scrum Masteri to úplně brutálně neradi
+slyšej, protože já na každém druhém retru
+dávám jako start, stop,
+continue, tak stop, no more,
+ceremonies, even less.
+A ne každý to rád slyší.
+Ale jenom to zahájím.
+Je to pravda, že já jsem Románka
+na projektu měl jako Scrum Master,
+když jsem tady úplně začínal.
+A důvod je ten, že ty
+v podstatě zastupuješ toho Scrum Mastera.
+V podstatě zastínuješ.
+Ale tak by to mělo být. V dobrým. To je jednoznačně.
+Jako cílem, nebo snem Scrum Mastera,
+jak vždycky říká Pavel Nadymáček, je, že piju
+kafe a všechno šlape
+beze mě. To je ta správná cesta.
+No jasně, ale jako tomu
+dojít samozřejmě trvá nějakou dobu.
+A kdyby všude byly
+Romanové, provazníkové, tak by to
+možná nebylo potřeba tak často.
+Ale všechny týmy nefungují takhle úplně krásně.
+Já ti jako děkuju, ale dobře, poslechneme se.
+Je to pochvala a zároveň pravda.
+To je moje zkušenost.
+Tak krásně, že jsi byl Scrum Master.
+No já jsem nebyl Scrum Master.
+Já tam byl Scrum Master, ale neměl jsem tam co dělat.
+Tak mě zajímalo, co vy víme,
+a když jsem potřeboval informace, tak jsem prostě zavolal
+product ownerově. Říkám, hele, já potřebuji tohle vysvětlit.
+On mi to vysvětlil a já jsem zase naimplementoval.
+Pohodička.
+Já si myslím, že každý
+tým potřebuje mít
+nějaké řízení.
+A co se týče Scrumu, který
+z času používá,
+například třeba i Scrum přímo říká,
+že vlastně Scrum Master je obecně
+role, která by neměla dedikovaná jednomu člověku.
+Scrum Masteru měl být každý v týmu.
+Prostě ta role by měla rotovat mezi lidma.
+To znamená, jedno to seš ty, po druhý ty,
+po třetí já. A je to něco, co se rotuje.
+A jediný, co ten člověk má na starosti, je
+odstraňovat klacky. To je celý.
+Prostě když je nějaký problém, Scrum Master ho má odstranit.
+Neměla by být žádná
+jiná role Scrum Mastera,
+než odstraňovat
+blokery a dohlížet na to, nebo případně dohlížet
+na to, aby byly odstraněny.
+Já jako obecně nemám rád byrokracii.
+To je i důvod, proč třeba
+nikdy nechci se pouštět
+třeba i v případě toho startup studia, abych to měl na full time,
+protože mě vadí, když je příliš
+jakoby té byrokracie
+a toho managementu. Já nejsem ten člověka, co tohle má
+úplně rád, že by ho to
+naplňovalo. Baví mě do věcí
+vidět a řešit
+a mít možnost třeba o nich nějak rozhodovat,
+ale pořád jsem hrozně rád blízko
+tomu vývoji.
+A v případě těchto agilních
+metodologií a
+různýho způsobu toho, jak
+vlastně přistupovat k tomu vývoji,
+tak já jsem za něco si vzít
+a něco používat,
+protože když máte úplný chaos,
+tak to musí to být extrémně
+seniorní lidi, kteří nemají žádné
+ego, aby prostě dokázali
+spolufungovat dobře, což je velmi
+teoretický příklad a
+nesetkal jsem se s tím.
+Nebo respektive, když se o něco
+takového jsem viděl, že byl nějaký pokus,
+tak to většinou nefungovalo.
+A nebylo v tom prostě zkrátka štěstí.
+Takže je potřeba něco zavíst.
+Ale musí se zavíst něco, co dává
+semysl pro ten tým. Každý
+tým je jiný. V některých jsou víc juniorní lidi,
+v některých jsou víc seniorní, v některých se
+používá nová technologie, v některých taková technologie.
+Někdy je ten projekt na začátku,
+někdy je rozběhnutý, někdy se řeší
+hodně support, někdy se support neřeší
+a prostě fičury se vymýšlejí u tabule,
+u kahvy.
+A podle mě by si každý ten
+tým měl vzít to, co aktuálně
+potřebuje. To znamená, že
+říct, hele, pětkrát
+týdně stand up, ráno prostě na devítku,
+potom myt prostě grooming,
+po groomingu planning.
+A pohled programovat budu kdy?
+Přesně tak.
+Pak programovat budu, udělat retrospektivu,
+udělat ji v pátek, v odpoledne,
+kdy jsme všichni samozřejmě totálně
+odkýveme, pojďme se tu věnovat,
+pojďme si dát ty plány.
+To si myslím, že je prostě špatně.
+Zaprvé, když máte malý tým, který spolu sedí v kanclu,
+u stolu každej den,
+tak vlastně nepotřebují mít stand upy
+každej den.
+Když dělají na fičurách, které
+jsou dlouhodobější povahy.
+Takže máte třeba fičuru,
+který se věnujete třeba týden.
+Nemáte ji tak rozčkatulkovanou
+na spoustu malejch úkolů také.
+Potkáme se, jo já zas dělám tohleto,
+jo já zas dělám taky tohleto,
+budu v tom dneska pokračovat a zítra asi taky.
+Ztráte času.
+Mít kvůli tomu stand up každej den.
+Takže ten tým by si měl říct,
+když jsme do těch stand upů,
+že třeba chcem stand upy třikrát týdně.
+Já si myslím, že stand up je fajn
+a měl by alespoň jednou týdně být,
+nějaký sync,
+ale prostě měl by si ho dát tak,
+aby mu to vyhovoval.
+A potom si vzít z toho
+těch agilních metodik dál, co potřebuje.
+Já si myslím, že hodně lidí
+vůbec neví, jak se ty věci,
+proč ty věci vznikly
+a používajte jenom proto,
+že slyšeli, že to je fajn mít.
+Mít fajn nějaký planning,
+dělat si nějaký kartičky,
+co se týče odhadu.
+Nevím, jak to máte třeba vy,
+ale co jsem setkal já,
+takové ty odhady,
+estimace, jedna, tři, pět, osm,
+tři, nějaká ta filmonační řada.
+No ale pak stejně přijde ten produťák
+a zeptá se, jak dlouho to bude trvat.
+A já mu řeknu prostě osm.
+Osm, ale dělali jsme to o jednu dvacítku.
+Je to prostě osm hodin,
+je to osm dní.
+Komplexita je osm.
+A já si myslím, že nikomu ty čísla nic neříká.
+Stejně každý v hlavě chce slyšet,
+že to bude třeba zítra.
+Všichni to chtějí slyšet.
+A ten tým by si právě měl
+vždycky říct, co od toho očekává,
+to si aplikovat
+a prostě používat.
+Ale myslím si, že by něco měly
+ty týmy vždycky používat.
+No dobře, tak teď si tady třeba naťu k dvě
+takový bolístky, nebo obecně
+toto mi tady hraješ na strunu, ty vole,
+to je hrozný. První teda, pojďme se bavit
+ještě trošičku o těch stand-upech.
+Myslím si, že třeba musí být ty stand-upy
+in person, v tom smyslu,
+jako face-to-face, protože jsem třeba viděl,
+že jsou i pluginy do Slacku,
+kde napíšeš před devátou, dělal jsem
+na tomhle, dělám na tomhle, neblokuje
+mě nic, nic nepotřebuji, protože kdyby mě to blokovalo,
+stejně tomu standovi zavolám
+face-to-face a vyřešíme to za pět minut
+a pokračujeme dál. Někdo tvrdí,
+že musíme se všichni, vole, připojit,
+abysme se jako viděli,
+jako teda tým jako spirit go on.
+Jak to vidíš?
+Jde to bez toho?
+Já si myslím, že jo, že zase záleží na tom
+týmu, jo. Když je tým plně
+remote a lidi umějí pracovat remote,
+tak si myslím, že je úplně v pohodě dávat
+to do Slacku. Blbý je, nebo aspoň moje
+zkušenost je taková, že když si to dává do toho Slacku,
+tak se na to vydedikuje nějaký kanál,
+aby tam byly fakenty stand-upy, ať je v tom pořádek.
+A je to kanál, který má všichni mutnutej,
+každý tam paste-ne tu svojí zprávičku,
+že jo. Kdykoliv během dne,
+to znamená, že vlastně není to tak,
+že bych se třeba ráno podíval
+a teďka viděl, co všichni dělaj, ale jeden to tam dá
+ve tři, druhej ve dvě, druhej v deset,
+jo. To si myslím, že
+není v pořádku.
+A většinou to právě dokonverguje k tomu,
+že zkrátka
+děláte to jenom proto, že to někdo řekl.
+A je to zbytečný za mě, jo. To už je jednodušší
+říct si, hele, každý den ráno
+do 9.30 třeba všichni
+pošoupejte kartičky v nějakém boardu,
+ať je vidět, na co děláte. Já si pak otevřu ten board
+a vidím tam, hele, ten dělá
+na tomhletom, ten na tomhletom, jo.
+A je to podle mě úplně stejná hodnota,
+jo. Já vlastně duplikuju jenom
+nějaký ty kartičky někam do sleku.
+Myslím si, že je fajn, když ten tým občas
+se slyší, protože
+tyhle
+ty metodologie často se snaží
+naproti nějakým situacím, jo.
+Takže
+málo kdy se stane, že třeba někdo
+sám od sebe třeba někomu
+někoho osloví, řekne,
+když je to třeba remote-ně, hele, pojď mi pomoct.
+Ale ten stand-up je takový prostředí,
+kde často to jako zasleknete.
+Že si třeba slyšíte, hele, ty jo,
+ty Jokere, ty děláš tady na tyhle ty věci,
+já jsem to dělal před měsícem, kdybys
+potřeboval, napiš mi, jo. Ale to už se nestane,
+že by ti do tradu v tom sleku napsal,
+takže to velmi zkráceně.
+A takže si, takže si myslím,
+že dává smysl
+ty osobní synky nebo
+stand-upy si jako občas takhle
+zavolat a něco si říct. Nemusí to být in person
+v místnosti, to si myslím,
+že nutný není, ale když už jsou
+stand-upy, tak by podle mě měly být,
+měli bysme se slyšet.
+A když už se slyšet nemůžeme,
+protože třeba jsme international team,
+to znamená, že někdo je v Ázii,
+někdo je v Evropě, takže najít
+čas, který vyhovuje všemi těžké,
+tak bych navrhoval spíš si
+říct, hele,
+všichni do nějakého času
+prostě pošoupejte ty kartičky
+a tam se vždycky pak můžete podívat,
+jestli už to třeba hotoví, jestli vás to blokuje, neblokuje
+a tak dále.
+OK, to je ta první
+bolístka.
+Ne, v pohodě, já s tebou souhlasím,
+já si myslím, že když si to nepřehání,
+přávě se úterý, čtvrtek stand-upy
+nebo pondělí, středa, pátek klidně si můžeme
+dát na pět minut, ideálně, aby u toho fakt všichni stáli,
+aby ty ukecenější boleli nohy.
+Ale ty
+odhady, to jsou jako, to je další
+naprosto obecná
+bolístka celého IT, ať se zeptáš kohokoliv,
+ať je to Closure, Java, JavaScript,
+whatever, všichni vždycky
+končíme u toho, tyvej, jak dlouho to bude trvat.
+A to je teda dobře, tak taháme
+Fibonačního čísla, pak si teda schodneme,
+že kdo vytáhne to největší, tak to bude asi to největší,
+ale vlastně je to
+k ničemu, protože ve finále
+stejně odhaduješ, z mého pohledu,
+jenom míru nejistoty
+o tom, jak je to asi komplexní.
+Protože ani neodhaduju tu komplexitu,
+to nemůžu prohlídnout, dokud to skutečně
+se nedostanu do těch zákoutí,
+můžu říct asi, jak by to mohlo být plus minus náročné,
+ale víš sám, že kolikrát narazíš
+na bug v knihovně,
+nebo něco nezdokumentovaného, nebo prostě
+jenom jakoby vymeteš blbej kout a
+ta komplexita ti najednou naroste, protože prostě jsi to dělal
+vlastně k ničemu, nebo jako co
+s těma číslama dál?
+Za mě tyhle ty čísla,
+jako kdybych bral svoji zkušenost,
+tak vždycky sloužily jenom k tomu,
+když jsem mohl říct, že nějaké věci dělat nebudu.
+Takhle jsme.
+Protože většinou na těch projektech, když už se něco
+zapíše do nějaký kartičky, tak to jsou
+věci, které byly potřeba udělat.
+To znamená, že bylo jedno, jestli to má komplexitu
+50 nebo 1, prostě
+museli jsme to někdy udělat.
+Ale ta komplexita mi dává smysl tehdy,
+když mám několik kartiček a vidím tam,
+že třeba tohle má komplexitu 30,
+a já si můžu říct OK, tak to tam
+sice nechme, ale dělat to nebudeme,
+protože to má velkou komplexitu. Protože řeknu to jako
+složitý, náročný, tak prostě
+třeba za rok, za dva, za tři se k tomu
+třeba vrátíme, ale dělat to nemusíme. Takže tam
+mi to třeba dává smysl, že můžete udělat nějaký filtr,
+co opravdu...
+Takže realizace backlogu na základě
+odhadované komplexity je možná
+lepší, než odhadovat, kdy to doručit.
+Přesně tak, ale ten
+e-žán, nebo jak bys měl dělat správně,
+ale já jsem se s tou správnou implementací
+v podstatě nikdy nesetkal, je ta,
+že každý v tom týmu má nějaký
+prostě balíček nějakých těch svojich
+bodíků, co dokáže ten sprint udělat.
+Někdo lepších třeba zvládne 30,
+někdo jí zvládne třeba 10.
+A ten sprint trvá typicky 14 dní,
+2 týdny, a vy prostě řeknete,
+hele, tady jsou nějaké třeba
+něco, co má 20, tak to prostě
+dáte týpkovi, co prostě zvládne
+třeba 20 za ten sprint udělat.
+A motivací by mělo být, že
+vy si dáváte jenom takové věci,
+které po těch 14 dnech budou
+teoreticky všecky hotové.
+To znamená, to je hlavní motivace tady
+všech těch odhadů, že
+za těch 14 dní, nebo za ten sprint se to prostě
+stihne. A proto to děláte.
+To není nic jinýho, jinak je to zbytečný, že udělat
+nějaké sprinty a tady to. Ale motivaci hlavní je
+stihnout všechno za těch
+14 dní, abyste za 14 dní měli něco, co
+můžete doručit zákazníkovi, a on vám
+dá tu náspětnou vazbu. A vy můžete v těch dalších
+14 dní na to třeba nějakým způsobem reagovat
+a iterovat nad tím problémem.
+Jak ty to vidíš? Ty se tady celá dobou
+řeš tady potichu, a já čekám,
+když se zapojíš.
+Já jsem jako v určitém bodě
+svý skramastrový
+kariéry. Došel přesně k tomuhle, co říkáte,
+že je potřeba poslouchat
+lidi v tom týmu. Jako když máš Romana
+v týmu, nebo někoho takhle seniorního, tak to vypadá
+jinak, než když třeba máš
+tým plný juniorů.
+Typicky na interním projektu.
+Ale za mě je to přece vždycky stejné.
+Jakože, když se všichni jezdíme autem,
+a když se tě zeptám, za jak dlouho
+budeš v Brně, tak ty mi neřekneš,
+že tam budeš za 2 hodiny 34 minuty.
+Ty to možná řekneš, ale netrefíš to, protože tam bude kolona,
+protože, já nevím, zdržíš
+se prostě na kafě a tak. A s tím vývojem
+je to úplně stejné.
+A ta Fibonačeho stupnice
+a vůbec ten odhad
+je podle mě dobrý k tomu, že to je
+jakési zjednodušení toho,
+co já jsem ještě schopnej nějakým
+způsobem umyslet a dlouhodobě trackovat.
+To je to pro mě důležité.
+Ten tým v pěti lidech udělá
+a může to být story point, nebo tomu
+můžeme říkat prostě
+gumítci, gumový nebo
+jak se to jmenuje, ty, co jíme.
+A těch já udělám 50.
+A když vím, že v tom backlogu mám 200-250
+těchto gumítků, tak jsem schopnej
+za kolik? 5 sprintů to udělat.
+A to je důležité pro toho klienta.
+A to, že se to nepovede, je OK,
+ale prostě jsem schopnej to nijak
+rámcově naplánovat. Takhle já s tím pracuju
+vždycky. Protože když se na to kouknu
+každý jednotlivý task, tak to je bordel.
+Protože přesně, pak vyjme tu prostě
+někde mi chybí knihovna a z pěti jsem se
+dostal na 12, protože jsem byl by odhad tu nejistotu,
+kterou já prostě nemůžu trefit.
+Takhle to nejde. Ale podle mě je to
+hrozně důležitý point k tomu,
+aby když plánuju další sprint, tak vím, že
+ten tým má velocitu rámcově takovou, tak ji
+naplánuju takovou. A mnohem důležitější je to ještě, když
+plánuju další milestone na 3 měsíce,
+tak toho klienta zajímá, co zhruba bude.
+To, že to potom bude o 3 feature méně nebo víc,
+už je vlastně jedno. Ale důležité, abych
+věděl, že jich nebude o 20 víc nebo méně.
+No a má smysl dělat nějaký reestimace nebo
+v průběhu toho, dejme třeba po druhém, po třetím
+sprintu už nějaká ta rychlost
+je, už víme třeba i lehce o té komplexitě
+toho systému, se zákazníkem víc
+mluvíme, on už nám trošku jako nás namočil
+toho biznesu. Má smysl to vlastně třeba
+za 3 měsíce jako celý projet a
+estimovat tam se. Jo, jako za mě ne.
+Za mě si to jako sedne
+časem. Jakože v tom dlouhodobém měřítku.
+Pořád se bavíme o nějakém dlouhodobém měřítku. A pak
+ale ty původní čísla, čím dál jdeš
+od toho okamžiku na ty časové
+ose, kdy vznikly, tak jsou a méně
+relevantní. Protože pokud tě nereestimuješ
+na základě
+nové znalostí, tak furt
+jako extra pohledáš na základě
+toho, co jsi viděl před dvou měsícema a ne co víš
+teďka. Jasně, ale já jako bavím se
+třeba o projektu, který trvá 3 roky a ono si to
+sedne, za nějakou dobu si to sedne tak,
+že ano, ono se to trošku upravuje ty čísla,
+ale ta velocita, která byla na
+začátku 15, tak za rok
+může být třeba 20, jo. Pokud bude
+60, tak je tam něco jiný.
+Tak je tam něco špatně, jo. Co myslíš Jiříku?
+Já obecně myslím...
+Ne, jako jo, tak tohle
+je krásný téma, že jo.
+Tak hlavně tohle není programování, tady má
+každý vždycky pravdu, protože to si rozdělovi
+dokazuje. To je super,
+to je super. Já obecně nejsem ze stance
+nějakých milestoneů a chci to
+vždycky zákazníkům rozmluvovat. Prostě, jako
+každý chce samozřejmě slyšet, kolik...
+Je nezajímavý, jaký budou mít feature,
+je zajímavý... Oni mají nějaký businessový problém,
+jo, třeba když máte, chcete e-shop,
+tak problém je, že chcete,
+aby vaše zboží zimovně dokoupit. To je to, co
+vyřešíte. Vlastně nechcete těch bambilion feature
+klentů, chcete tohle to vyřešit.
+A ty zákazníky, ty je vždycky zajímavá,
+kolik je to bude stát. To je jediné,
+co je zajímavé, kolik je to bude stát a kdy to bude.
+Jasně. To je prostě,
+tady to je hlavní, jestli prostě na to mají nebo
+nemají, je to jako ze všem.
+No a samozřejmě
+mojí vždycky myšlenkou, nebo to, co se
+snažím jako těm zákazníkům nějakým způsobem
+prodat, ne vždycky samozřejmě jde,
+nebo jako vysvětlit, jak k tomu přistoupit,
+je hele, pojďme vyřešit ten problém, který
+chceš, co nejdřív. To můžeme zvládnout
+třeba za měsíc, za dva, jo. Prostě to se
+nějak jako odhadne plus minus na základ
+nějakých našich zkušeností.
+A potom nad tím prostě iterujme,
+jo. Protože lidi si
+často budou to odhad
+s fix jakoby časem.
+Řekněte, že bude to za týden a pak jsou překvapeni,
+že to za týden není. A já vždycky říkám,
+já odhadu, že to bude třeba za měsíc,
+ale může to být dřív.
+Může to být i později, jo. Nebo třeba si říct, že to je
+tak i tak, jo. Prostě je to tak.
+Samozřejmě, čím je zkušenější člověk, tím víc
+dokáže odhadnout přesnost toho
+dodání, že je víc to trefit. U některých
+lidí prostě vnásobíte ten čas, protože
+třeba opomenou. Není to tak, že
+by třeba špatně odhadli svoji
+práci, ale zapomenou, že do jejich práce taky patří
+jakoby meetingování,
+plánování a debatování
+a debatování. A ten
+čas se pak jako vleče a protahuje.
+Takže za mě
+ideálně je naučit se iterovat
+s tím zákazníkem. To si myslím, že je alfa omega všeho.
+Iterovat, iterovat a
+zapojit ho co nejvíc do toho
+procesu. To je druhý problém, na který narážíme,
+že zákazníci se bojí, že oni vám
+dají tady nějaký problém, co
+řeší. A pak se odmlčí.
+A vy pak přijdete za pár měsíců
+a řeknete, hele, dej mi prostě tady
+tolikhle peněz, takovouhle fakturu.
+Zákazník překvapenej, protože jste mu dodali jenom
+nějaký tlačítko, košík prostě.
+A je překvapenej, to stálo tolik peněz.
+Ale když ho začleníte do toho procesu a on
+každý týden vidí i to, že se něco
+vyvíjelo a pak se řeklo, to je
+úplná blbost, pojďme to udělat jinak.
+Pojďme to udělat takhle. Že tam i vidí, jak se
+opravdu ten proces, ten projekt měnil
+v čase, tak není pak překvapenej, když mu
+na konci měsíce pošlete fakturu za tolik
+peněz, když on na konci vidí jenom to jednoduché
+jedno tlačítko. Ale ta cesta k tomu
+tlačítku byla fakt jako složitá a komplikovaná.
+A díky tady tomu zapojení
+on to vidí.
+A to si myslím, že
+by měli jako,
+na to by se nemělo zapomínat, protože to je i součástí
+toho agilního manifestu.
+Zapojit zákazníka a pořád mu něco dodávat
+kontinuálně. Každý ten sprint
+měl být o tom, že vy mu něco dodáte.
+Milestone a tady ty věci se tam dodali
+až později, protože my neumíme po 14
+týdnech něco dodat.
+Jednoznačný souhlas. A v podstatě
+s tím žijeme všichni. Za mnou když přijde
+řemesleník, že to bude stát
+tohle, tak já mu první říkám, jestli se nezbláznil.
+Ale když mi hezky vysvětlí,
+co vlastně to všechno obnáší, tak si pak
+uvědomí, že ono to vlastně nemůže být levnější.
+Jakože je to ve všech biznisech podle mě
+úplně stejné.
+Jako, co pak tady to? A třeba ta paralela
+s tím řemeslníkem. Řemeslník pověsí vám
+zrcadlo. Třeba do koupelny. Pak přijdete
+a řeknete, hele, já bych ho chtěl níž.
+Tak ono sundá, dá ho níž. A pak řeknete,
+hm, to je moc nízko, tak ještě prostě trošku výš
+a pojďme ho vycentrovat. Ten plán byl
+prostě třeba špatný na začátku, nebo jak jsme si to
+představovali, tak ta pak realizace vypadala
+divně. Tak se s ním šoupe.
+No a pak když přijdete před
+to zrcadlo a on vám řekne, hele,
+teďka chci tolik peněz, tak řeknete,
+za co za pověšení zrcadla? A přitom
+předtím by bylo x kroků, než to došlo
+tady k tomu cíli. A když
+to ten zákazník vidí, co tam všechno bylo,
+tak je s tím daleko víc v pohodě
+a i ten vývojář má
+nějakou zpětnou vazbu. A pak
+se neděje to, že někdo přijde a řekne,
+hele, já bych chtěl, aby třeba tam bylo
+ještě tady to. A vy, ježiš, no tak teďka
+to musíme, tohle to, tohle to.
+Tam vůbec na to nemáme infrastrukturu.
+Ale když to podchytíte včas, tak je to super.
+Takže za mě, když bych měl
+si ten nějaký agilní manifest,
+tak za mě to jsou nějaký stand-upy,
+aby ten tým věděl, co vzájemně
+všichni dělají.
+A do toho se soustředit na ty
+iterace pravidelný,
+kde je motivace
+něco za nějaký čas furt ukazovat.
+Jo, fakt se soustředit na to, že třeba každý
+14 dní máme nějaký demo.
+A i když jako není zhmatatelnýho,
+tak aspoň, i kdyby ten vývojář měl
+ukázat nějaký jenom procházející
+test, tak by to měl ukázat, jo.
+Měl by to ukázat, protože vývojář bude mít radost.
+Protože někdo vidí jeho práci.
+Dostane případně feedback od ostatních.
+A potom, protože
+taky ty nesmysly jako code review to
+si myslím, že už je dávno přežitý, ale tady,
+když to fakt ukáže, popíše a všichni to vidí
+a můžou k tomu něco říct, tak je to super.
+A pak retrospektivy.
+Ty jsi mi trošku nahrál s tím, že jsi řekl, že code review
+a podobné nesmysly jsou dávno přežité.
+Konec citaty.
+Co z toho,
+co se považuje za good practice,
+by si teda kromě tohohle ještě vyhodil?
+Ale klidně můžeš se bavit i o těch code reviews,
+jo, jako nenutím.
+Ale těžko říct, jestli to je good practice.
+Nebo obecně, co se bere za good practice
+a pro tebe už je to spíš jméno.
+Spíš bych řekl, co třeba mně vyhovuje.
+Já musím říct, že tady v tom jsem hodně...
+Pankať.
+Ne, ne, ne, jak se říká, že někteří architekti
+mají nějakou školu nějakého třeba,
+třeba Gočára, že třeba u něj studovali
+a pak jeho nějaké věci přenesli
+a přetali do nějaké myšlenky,
+tak já v tomhle tomu jsem hodně alešův,
+ne jeho myšlenkama.
+Hradoušovo dítě.
+Hradoušovo dítě, nevím, jestli ho použil,
+ale minimálně jsem ovlivněn jeho myšlenkami.
+Všichni jsme děti, ne?
+Je to tak, je to tak, je to tak.
+A co se týče practice, tak třeba já úplně nejsem
+ze stánce koutu reviewu,
+protože vlastně mě to hrozně moc otravuje.
+Je to zbytečná...
+Protože je to úplně zbytečný,
+protože tam ty motivace, proč všichni říkají,
+že to koutu review děláme, mě přijde,
+prostě projektu,
+co se, když někdo opravuje
+nějakou jednu funkci,
+nějaký bug, tak z toho
+ještě jak mě to ten git opravdu vytáhne,
+jenom třeba ty tři úplně nesouvisející
+řádky v tom projektu, z toho žádnou
+knowledge nepochytím.
+To už ten ticket v té díře, který si ukazujeme
+na tom stand-upu, jako mě dá větší
+představu, co se dělo.
+Druhá věc je, že tam najdu nějakou chybu.
+Já si myslím, že lidi nejsou kompilátory,
+takže chybu tam
+je minimální pravděpodobnost,
+že tam najdu chybu. Neříkám, že ne,
+ale minimální pravděpodobnost, že tam najdu nějakou
+sofistikovanější chybu.
+A
+další důvod, proč je to, že hlídáte kvalitu
+kódu. Takže OK,
+můžeme tady polemizovat
+pod názvem nějaký proměrní,
+ale stejně většinou je to
+jako velmi subjektivní.
+Myslím si, že už dneska
+se na ty názvy natolik hledí,
+že málo kdo pošle fakt nějakou úplnou blbost.
+A když už ta blbost tam je, tak si ji spíš všimnete,
+když ten kód začnete někde používat
+a řeknete, ty jo, proč nej to pojmenoval,
+tak to třeba zrefaktorujete.
+Takže si myslím, že ani tohle to tam není.
+A když už bychom chtěli hlídat nějakou kvalitu kódu,
+aby třeba se dodržovala nějaká týmová konvence,
+tak,
+a pokud je to pro ten tým důležitý,
+tak to mají zautomatizovat.
+Mají si představit nějaký linter a říct si, hele,
+jo, když tam máš tabulátory místo mezer,
+tak ti to má hlídat linter, tečka, jo.
+Tým se má domluvit na nějakém procesu stylu
+a ten hlídat.
+A nemá to být zohledněné nějakým
+lidským faktorem.
+Zároveň často je to blokr.
+Často je blokr, že já potřebuji něco nasadit
+do mástru a musím čekat,
+než mi na to někdo dá tu fajfku,
+když je to třeba nějaká blbost.
+Mezi tím se do mástru nakrmí další věci,
+takže pak musím řešit nějaký konflikty.
+První je to, že to jenom přidává na ty práce.
+Ten tým, podle mě, by měli všichni
+jet jako do mástru naplno.
+A když někdo chce code review,
+že opravdu chce třeba ukázat
+něco, že třeba něco udělal pěkně,
+nebo to, tak má prostě svolat session
+s tím týmem
+a říct, hele, půjďte se na to podívat.
+Tady vám chci něco ukázat
+a ukázat to ostatním. Projít si ten call
+třeba od toho high level bodu do toho low level bodu
+v tom kódě. Říct, proč to udělal,
+že mu to dává smysl.
+Udělat takovou krátkou session
+a v tom týmu to podle mě spíš
+zůstane a začnou
+třeba to používat dál. Řeknou si, to je vlastně,
+to není špatný. Třeba takhle
+psát testy není špatný.
+Líbí se mi to, někdo třeba do toho
+ještě něco přiloží a ostatní si to
+třeba vezmou a jdou s tím dál. Ale
+nemyslím si, že takovýhle věci
+vzejdou z code review.
+A jak bys to dělal v případě toho,
+že třeba narazíš na to, že někdo tam
+mimo tvůj dosah
+dal zjevný nesmysly,
+ale třeba plácnul facinkou volat
+.result, nějaký blokující kód, prostě
+vyloženě nesmysly, které
+by tam neměly být. Ale to úplně stejně
+můžeš vlastně podchytit,
+nemusíš podchytit tím
+code review, že jo? Tam ty nesmysly
+může probážet úplně stejně? Nebo se vám
+nikdy nestalo, že by přes code review prošlo nějaká
+důvěrka? Ale jo, to je spíš jenom, jak bys to řešil.
+Protože ty to zjistíš, že to tam vlastně je, nemáš
+code review, protože
+prostě máš tenhle
+životní náhled.
+Tak jak teda postupovat v případě,
+že tam tohle najdeš? Tak teda svoláš
+nějakou session a řekneš, hele Tomáši,
+tohle asi nedělej, tohle
+není úplně dobrý. Samozřejmě je super,
+když ten tým se vzájemně feedbackuje.
+A to si myslím, že nemusí vzejít ani z code review. Prostě
+to v codu vidíš a řekneš, hele,
+tohle to jde prostě dělat takhle,
+nebo děláme to tady takhle, tak to
+prosím, jako třeba dělej taky.
+Nezapomínat samozřejmě na pozitivní
+feedbacky, taky jako říct, hele, tohle se ti sakra
+povedlo, to je prostě velmi pěkný.
+To je iček jak víno.
+A krása, krása, krása.
+Takže to nezapomínat, určitě.
+A to ono.
+Ale když tam prostě něco
+najde, tak prostě říct tomu člověku, to je jako ze všim.
+Takže jo, když prostě někdo, já nevím,
+nemaje nárových kuchynce, tak mu to taky prostě,
+na tomu nezaložíš tiket v džiře.
+Ale prostě za ním přijdeš a řekneš, hele, ty.
+Nám vlastně
+tahle praktika přinesla jednu
+kolegyni, strašně šikovnou do práce,
+nebo tady k nám do firmy, protože
+ona dělala v jednom startupu, který
+jako teďka je dost fancy, já ho nebudu jmenovat českým,
+ale ona procházela něčím, což já jsem si
+pracovně pojmenoval PR Bukake.
+Což byl, což je
+terminus technicus, kdy prostě
+ona něco komitla a teď přišlo šest
+týpků a začaly dávat strašný CRS, ale
+za neuvěřitelný kraveny. Ona mi to jako
+popisovala, ale fakt za strašný kraveny.
+A dotáhli ten PR až do takový
+fáze, že ona řekla, víte co, hoši,
+tak pokud mě tady chcete jako
+rubat za to, jestli tady je
+prostě vár, nebo jestli
+tady prostě ten řádek je o dva
+znaky delší,
+tak já to nemám za potřebí. A normálně utekla
+a je úplně spokojená a teďka
+ten kód občasí, do něj se
+podívám jen tak ze zajímavosti, ona píše úplně nádherně.
+Byť C-sharp, ale nádherný
+kód. A byť C-sharp.
+A úplně jako krásnej,
+čistej, prostě imutabilní,
+všechno pecká. Já říkám, jak tahle holka tam
+mohla sfejlovat na PR-kách.
+A je to podle mě jenom o tom, že
+někdo to má už skutečně na té hranici,
+že se na tom honí ego. Což
+jako fakt jsem už zažil a možná
+pak to vede k tomu, co říká tady Jirka, že je lepší.
+Ale je to i obráceně.
+Samozřejmě ne každý bere kritiku
+dobře. Když mu napíšeš
+někdo...
+Ona to snášela čtyři měsíce.
+Ale jsou i ty opační případy.
+Já jsem napsal nějaký, teďka jenom za sebe,
+ale prostě nějaký verš, napsal nějaký
+dobrý kousek kódu. Fakt jako
+třeba opravdu vyšvihl
+nějakou prostě pěknou věc. A fakt na něj je fakt pišnej.
+Opravdu pišnej. A teďka pošle
+to na to review a teďka čeká, jak všichni řeknou
+to je fakt dobrý. A ty mu napíšeš, hele,
+tuhle proměnu prostě jsi pojmenoval úplně na prd, jo.
+A on tam prostě trávil
+třeba hodiny u tabule, než vymyslel ten
+koncept, tu architekturu. A ty mu pak vlastně
+hodnotíš jenom třeba to, že tam má jako
+vy, já nevím, nějakou špatně pojmenovalou
+proměnu. Tak samozřejmě i taky to ego
+může jako zabolet a vlastně nechce to třeba
+přejmenovávat. Takže já si
+právě myslím, že je lepší, když už
+tam chcete mi tady ty konvence, tak na to dát
+nějaký nástroj, který to líbí za vás,
+ať to nedělá člověk. A
+když někdo rozbije mástr
+a je rozbitý mástr, tak prostě
+je aspoň motivace ho rychle spravit.
+Mě to připomnělo
+na těch klasických konferencích,
+že někdo ukáže prostě hodinová
+přednáška. Teď tam ukáže celý ten koncept
+architekturu, v podstatě kód, který
+téměř léčí rakovinu. A na závěř
+říká nějaký dotaz. Zvedne se jedna ruka
+a říká, prosím vás, v tom editoru, co to máte
+za fonty?
+Je to tak, je to tak, no.
+Je to tak, takže proto si myslím, že
+třeba ty code reviews jsou často přeceňovaný.
+A zase, je to
+úplně stejně jak s tím agilním přístupem.
+Tak proč to děláme?
+A hodně lidí právě říká, třeba právě to šíření
+knowledge, tak se ptám, a šíří to faktu
+knowledge? Fakt jsou ty třeba
+back-endisti, no front-endisti, jakoby rozumějí
+víc tomu, co se tam děje na té platformě
+díky code reviews. Není to spíš třeba
+díky těm stand-upům, nebo že si o tom povídáme.
+Je to opravdu díky tady tomu. Pokud je to
+díky tomu, tak OK, prostě nechme je, jo. Já
+neříkám, že to je jako špatně vždycky.
+Ale často se setkávám
+s tím, že to, proč je děláme,
+spíš se tam prostě
+neděje. Stejně jako s ostatníma věcma.
+A vlastně tomu, že ještě ušetřit
+čas oproti tomu, kolik tam
+těch problémů najdeš, a že jich třeba nepřijde tolik.
+Protože je to fakt jako vlastně vypíknutýho něco.
+Něco extra.
+A ostatní si to třeba vezmou za svý
+a budou používat.
+Třešnička na dotu je, že to nikoho nebaví.
+Takže vlastně to nemusí dělat. Jo, tak já
+znám lidi, co se baví jako cheese code reviews.
+Ale je to nuda, no.
+No rozdováděli
+jsme se krásně. Jo, jo, jo.
+Ty a ty nás nerozhodili.
+Hele, ještě úplně než už tě vypustíme
+domů, protože už je tmá.
+Tuhle dobu je tmavé.
+Tmá už je od osmi od rána zase.
+Já jsem tady měl ještě jenom takovou věc
+týkající se komunit. Protože ty jsi člověk,
+který se kolem komunit poměrně dost
+motal. Děláš ještě ty coding
+dodža a různý takový
+ty koudy, treaty a tyhle ty věci?
+Hele, už moc ne. Už moc ne.
+Myslím si, že mělo to smysl
+v nějaký době, pak už to třeba
+tolik smysl nemělo, nebo respektive
+na mě to aspoň třeba tolik smysl nedávalo
+se tam nějak jako víc participovat.
+Mě ty komunity baví,
+ale teďka, jak samozřejmě byl covid
+a další omezení s tím spojený,
+tak si myslím, že nebylo úplně správný
+se potkávat a něco
+takového boostovat.
+Takže teďka aktuálně příliš ne,
+ale
+jsem pro každou špatnost.
+Myslím si, že je správný, že když
+se lidi potkávají,
+kteří mají společný téma,
+ať už je to nějaká
+technologie, nějaký framework, nebo
+obecně nějaký topic IT,
+ať je to obecnější, Agile,
+myslím si, že je to fajn, když se ty lidi potkávají
+a sdílejí spolu ty znalosti,
+ať už to je formou
+nějaké diskuze, nebo formou přednášek,
+tak si myslím, že je to super.
+Ať toto, ať to všichni dělají.
+Takže to mě vždycky bavilo,
+vždycky bavilo podporovat technologie,
+ale jsme spolu začali dělat v Sharping.
+To byl taky fajn projekt
+a myslím si, že tam jsem
+právě zkoušel tehdy zužitkovat
+aplikovat nějaké svoje myšlenky
+a co si myslím, co každému doporučuji,
+pokud někdo chce dělat nějakou komunitu,
+také v Sharping mně přijde skvělý
+příklad, kde to fakt zafungovalo,
+je, že nikdy nedělejte tu komunitu
+jenom o tom, že přijdeme, dáme
+přednášku a jdeme domů. Vždycky to
+postavte na tom, že
+jak jsem říkal tu Agilu, vytvořte prostředí,
+kde něco jakoby
+vyroste. Jde hodně přirozeně,
+přesně říká, vyroste, ale
+jdete tomu trošku naproti, trošku
+do toho šťoucháte.
+A u toho F-Sharpingu, tehdy, když
+jsme se začali bavit, že jsme něco takového dělali,
+jak já jsem říkal, že já jsem se spíš jako F-Sharpu
+a možná pořád trošku vysmívám,
+spíš tady strollingu,
+učit jokerovi
+z možné technologie,
+je to zajímavá.
+Pokračuju, pokračuju.
+Já mám fajn ostřík, tohle tam vůbec nepůjde.
+Je mi to jasný. Každopádně,
+jsme se o tom bavili, o funkcionálních paradigmech,
+tak já jsem říkal, OK, OK, pojďme
+dělat ten meetup společně.
+A ty jsi říkal, že dotáhneš ty témata,
+ty řečníky, ty lidi.
+A já jsem si měl
+na starosti takový to okolo,
+to prostě vymyslet prostor,
+vymyslet, kde to budeme dělat,
+jaký dny, jestli v češtině nebo v angličtině, jestli
+to, jak jsme řešili. Tak jsem říkal, pojďme to dělat
+v angličtině. Prostě tady jsou, stejně když je to v angličtině,
+tak skoro všichni tady jsou vždycky Češi
+a prostě nefunguje taková ta přirozená komunita.
+Ale co je podle mě úplně alfa, omega
+úplně všeho, tak vždycky je nejdůležitější,
+abyste hrozně blízko
+měli bar.
+Je to hrozně jednoduchý, je to hrozně jednoduchý.
+A já říkám prostě, ty lidi jsou alkoholici,
+to rozhodně nejo. Ale jsme v Čechách.
+A myslím si, že mít nějaký to pivko
+hnedka za rohem je strašně super.
+To jsme tehdy zvolili pracovnu,
+která pořád funguje.
+A ta je vlastně skvělá v tom,
+že tam byla napojená jakákoliv
+menší posluchárna
+a hnedka by byla ta hospoda.
+A říkal jsem, pojďme tam vždycky dřív.
+A prostě ne, že tam si sedneš
+někde za pultík a děláš takového
+mistra, co se chystá tu přednášku,
+ale sedíš tam s tím pivkem, s těmi lidmi,
+kteří si k tobě sedají další. A už tam s nimi má kecáš.
+Skončí přednáška a prostě
+samozřejmě už během přednášky tam postupně
+chodí s těmi pivkami, s tím politříkem.
+A už tam tvoříš takovou
+uvolněnou atmosféru. A jak skončí ta přednáška,
+tak jako skoro všichni si šli
+hnedka zasednout.
+Ty musíš být vždycky ten iniciátor,
+to tam jde jako první. To znamená rychle,
+jak jsme byli ve dvou, tak vždycky jeden z nás
+hnedka sednout k těm lidem a začal
+jako by tvořit nějaký ty small talky a kecat.
+A co právě bylo úžasný,
+že fakt vznikla komunita. Že to není o tom, že
+jdeme na přednášku, jdeme tam na nějaké téma.
+Ale ty lidi už jako říkali, že jedno
+co bude za přednášku, ale přišli
+tam kvůli těm lidem. Že si tam přišli
+za těma lidma pokecat, protože je spojuje
+F-Sharp jako ta technologie.
+Všichni podobně přemýšlejí, mají
+podobný názory na nějaký věci a tam si je
+takovou sdíleli. A to mi přišlo fakt skvělý.
+Povedlo se to, pak to dokonvergovalo k tomu,
+že se začínají takový hospody, že jo.
+Začalo to prostě už jako bez těch přednášek úplně.
+Skončili v Čambavambě nebo...
+Párkrát jsme skončili takovým fajn, fajn, fajn.
+Žižkov je na to skvělý, jo.
+Tak bych to asi uzavřel.
+Žižkov je na to skvělý, pořádá nějakých meetupů.
+A to si myslím, že
+je fajn.
+A doporučuju všem jako dělat
+takovýhle komunitní akce. Kašlete na nějaký
+obrovský megalomanský konference.
+Radši ať vám přijde deset lidí,
+který jako tam fakt to baví
+a jdou tam za vámi.
+To je třeba Coding Dojo, co jsme dělali, což byla akce,
+kde jsme si promítali
+z jednoho počítače na plátno
+a všichni jsme se střídali v psaní kódu
+a postupně jsme řešili nějaký problém.
+Zkoušeli jsme tam různé jazyky, různé technologie
+a bylo nás tam třeba 4-5, nás bylo hrozně málo.
+Na Closure třeba bylo asi 15.
+Tak na Closure zrovna jo.
+Na Closure samozřejmě.
+Z Brazílie všichni, z té banky.
+Na Closure nás tam bylo možná víc.
+Každopádně,
+ale nebylo nás tam asi 50-100,
+nebylo o tom přečudat se, že máme plno
+úplně totálně. Ale ty lidi to
+fakt bavilo a to bylo super.
+O tom to podle mě celý je.
+Proto je fajn něco takového dělat.
+A hlavně se tam potkáte se skvělými lidmi.
+O tom žádná.
+Úplně poslední věc. Fakt jako poslední.
+Mě by hrozně mrzelo, kdybychom to vynechali.
+Protože jsme na to teazovali.
+Kdy jsi přeci vynoval ještě AI?
+A těmhle s těm věcem.
+My jsme se tak úplně schovali
+v tom Agile a jsem to úplně zapomněl.
+Já se divím, že ty nejsi nervózní.
+Protože to je tady poliho obor.
+AI, machine learning a všechny tyhle dobrotky.
+A já jsem ho nateazoval. Říkám Jirka Penzeš,
+to je renezační člověk, s ním se můžeš bavit
+po všem. AI, Agile.
+Všechno. Start up studio.
+A my jsme se zase zasekli u stand upu
+a estimate. Že jsme úplně přeskočili tohle.
+A mě by to bylo líto, kdybychom to aspoň
+trošku nenaťukli. Protože ty jsi to dělal
+ještě ve spojitosti s tvým
+řekněme působením
+na akademický půjde v Pardubicích. Je to tak?
+Jsi tam pořád v Pardubicích?
+Na akademický půjde
+už nejsem.
+Ale ano, mě vždycky bavily
+chytrý algoritmy.
+Já úplně nerad používám slovo AI, protože
+hodně těch věcí, co se za AI používají
+úplně, co si zatím představím,
+úplně AI není často. Jsou převlačený
+i fíky, ne? Ono se tomu říká dokonce, no jako
+v podstatě jo, ono se tomu dokonce říká efekt AI, že
+tobe to přijde chytrý, ale pak zjistíš, jak to
+funguje. A teďka ta žárovka. To je
+vlastně úplně prostě jenom blbý nějakej stromeček
+prostě rozhodovací. Jasný.
+Každopádně
+já jsem studoval doktorské studium
+právě v Pardubicích a
+mým tématem nebo tou prací bylo
+využití umělé
+inteligence v distribuovaný
+simulaci. Bylo to
+takhle jako zabalený, ale v podstatě
+já jsem se zabýval tím, že jsem aplikoval genetický
+algoritmy na
+v podstatě
+definování těch simulačních modelů.
+Já jsem to řekl možná velmi
+velmi, velmi, velmi
+ošklivě. Ale
+v podstatě šlo o to,
+čím jsem se zabýval,
+bylo, že
+typicky, jak fungují simulace,
+je tak, že například máš výrobní halu,
+tak chceš tam něco zoptimalizovat,
+třeba chceš ušetřit náklady nebo zlepšit
+výrobu, produkci a tak dále,
+tak můžeš
+na to jít metodou, prostě si to odsimuluješ,
+nějaký ty scénáře. Takže to funguje tak, že si
+podleš nějakého simulačního experta a ten ti
+namodeluje tu tvou halu, jakou máš teď. A začneš si
+hrát s tím modelem
+a začneš tam prostě hledat,
+jak třeba zlepšit produkci, takže třeba
+postavíš ještě jednu výrobnu, nebo najmeš
+další směnu, nebo prostě
+přidáš brigádníky, nebo koupíš lepší stroje,
+nebo prostě spousta
+věcí, co můžeš dělat.
+No a tou mojí
+náplní bylo to, že já jsem se snažil
+tohleto zautomatizovat.
+Tam byly dvě úrovně těch
+genetických algoritmů, které
+fungují na základě nějaké heuristiky,
+hledají řešení.
+Netvrdili bych, že to je nějaká
+milá inteligence, i když je to
+v nějaké té kategorii.
+A v podstatě to nejde za tebe.
+Řekneš, co chceš, že třeba chceš ušetřit
+a teď to spustíš
+a on postupně zlepšuje
+ten model a ještě ho parametrizuje
+a vyhodnocuje, až ti prostě
+řekne, hele, třeba
+lepší produkci
+dosáhneš, že třeba tady tyhle
+ty věci změníš. Ty můžeš říct
+OK, to můžu udělat, anebo říkáš OK, to dělat
+nemůžu a jakoby spenalizuješ
+tohleto řešení a zase se to celý
+zpustí znova a furt se to vlastně
+zlepšuje a zlepšuje, až by to mělo časem
+najít ti nějakej ten to, co chceš.
+To je by the way
+přesně to, na čem vyfailoval
+jeden ten můj startup.
+Přesně tohle jsme dělali pro nemocnice.
+My jsme vlastně simulovali nemocnice
+a ekonomicky
+nový oddělení, který by tam teoreticky mohl
+vzniknout. Takže díky nám vzniklo i jedno oddělení
+v krajský zdravotní
+v Ústí nad Lebem. A měli jste simulačního
+experta? Já myslím, že od té doby, co řekl
+simulační expert, tak normálně
+normálně půlka mozku poslouchá
+a druhá půlka si představuje Davida
+Limberska. Já jsem taky čekal,
+David, že přijde. Simulační expert.
+Já viděl Neymara tedy, ale
+to je to to samé. Přesně, přesně.
+No tak jo, ale já myslím, že
+jsme to... Já myslím, že jsme ho krásně uzavřeli.
+Ale to úplně smrdí druhým dílem někdy, protože
+jsme nestihli všechno. Jo, můžeme. Já
+jsem říkal, že určitě se nepouštíme
+do všech témat. To je na hodiny.
+Já se dokážu u nějakých témat hodně rozvášnit.
+Takže... Takže...
+Klidně, klidně, můžeme cokoliv.
+Ale určitě, co bych řekl poslouchačům, to, co jsem tady
+tvrdil, jsou jakoby moje
+myšlenky. To nejsou žádný...
+Občas jsou bez practices, abych se
+netroufal říct, že to jsou nějaký bez practices.
+Je to všechno nějaká jenom moje
+zkušenost, moje nějaká představa, jak by to
+třeba mohlo fungovat, ale vím,
+že moje představy
+jsou přes třeba nestotožňující představy,
+jako zbytku týmu. Jirko, to je...
+Jirko, to je úplně v pohodě. Ty jsi asi neslyšel
+všechny díly našeho podcastu, ale tady
+je specifický to, že za prvé můžeš mít
+vlastní názor, za druhé... My už jsme tady měli
+Radouše, by the way. Může
+být silnej a vůbec nemusí být pravdivý.
+Takhle my to tady s Polly mezi sebou máme
+celou dobu. Rád bych se vyhnul tomu,
+že jak jsou takový ty investiční
+podcasty, tak jak vždycky říkají, že toto není
+investiční rada. Jo, jo, jo.
+Doufám, že se nedočkáme toho, že
+to budeme muset taky říkat. Tak Polly, ty tady máš
+svoji závěrečnou nádanou otázku.
+Po každý ji tam dáš, tak pojď,
+zeptej se. Musíme to tím uzavřít. Tak Jirko,
+tak posunul ses v tom čase
+někam do té pozice, kde dneska jsi,
+popisal jsi to na začátku, máš na starosti
+startup studio. Co
+do budoucna? Co do budoucna?
+Jak to vidíš? Kam míří
+tvoje kroky?
+Aha, krásný. Krásná otázka.
+Děkuji za ní.
+Já jsem ji teda pro tenhle
+díl speciálně přepsal a Románek to
+úplně opomenul.
+Nebudu se ho ptát. Plánuješ na konci
+života taky smrt?
+Já jsem to tam napsal proto,
+protože vlastně Románek se vždycky směje, že tam
+píšu přesně tohle, co do budoucna.
+Dobře. Jirko, co do budoucna?
+Kromě smrti teda. Jo, jo, jo.
+Tak teďka
+mám doma koupec starostí.
+Jsem relativně
+krátce otec, takže tam to je
+teďka moje hlavní náplň.
+Časová. Každopádně
+co jsem se vždycky
+snažil a pořád v tom pokračuju, tak
+dělat to, co člověka baví.
+A myslím si, že žijeme v době, kdy to jde.
+To znamená, že pokud někdo zjistí, že
+ho něco nebaví, třeba jak se tady říká kolegyně,
+kterou třeba někdo šikanoval v Code Reviews,
+protože prostě v té firmě to měli třeba udělaný
+jako ne úplně šťastně,
+tak si myslím, že je prostě fajn odejít.
+A třeba v Topomus je skvělý to, že tam ty role
+můžete jakoby střídat, měnit.
+Tady zmiňovali Aleš, což je fajn.
+Takže
+o co se vždycky snažím já je
+najít to, co třeba mě baví,
+ať už to je technologie nebo
+náplň práce typu projektů.
+Takže to je to něco, co pořád
+nějakým způsobem hledám a
+jdu si za tím. To je asi to
+hlavní, co bych řekl.
+Jirko, já jsem strašně rád, že jsem tě zase po letech viděl.
+Já taky. Přeju vše nejlepší, jak do
+řekněme rodinného, partnerského
+i samozřejmě do profesního života.
+Děkuji ti krásně. Ať se daří a doufám, že to bude
+trvat méně než zase tři roky, než
+se potkáme. Určitě, určitě já
+taky doufám. Máte to tady hezký kluci.
+Děkujeme. Děkujeme, děkujeme. Rád jsem tě poznal, Jirko. Ať se daří.
+Vajdový skalý podcast. Čau.
+Děkuji. Čau. Čau.
+Tak jsme se malinko rozdováděli.
+To teda. Minule
+si myslím skala
+jednoznačně nejdelší díl.
+Teď zase jsme to podle mě, já jsem ještě neviděl
+ten final cut, ale myslím si, že
+jsme ještě dál.
+A já nevím, kde tohle skončí.
+Že jsou lidi, co u toho běhaj.
+Já to vím, jo. A
+běhat kolem hodinky dobrý, tak jsou lidi,
+kteří třeba jako já za hodinku mají, nevím,
+tři, čtyři kilometry, jo.
+Ale jsou i lidi, kteří prostě jako jsou schopní
+za to doběhnout do Prahy. A
+jestli to bude dvě hodiny za chlupku, to je
+peklo, jo. Tak pak už si to budou brát
+lidi na ty Vltavarany, no.
+Na víkend. Třídení. Třídení díl.
+No ne, bylo to super. Prostě Jirka
+zase klasik, tyjo. Jsem rád, že jsem ho viděl,
+bylo to fajn, tyjo. Vlastně takhle,
+má co říct, no ale tak to je samozřejmě devíza
+tohle podcastu, že si zveme především lidi,
+kteří mají co říct. Takže Jirka to potvrdil.
+Je to pravda. Moc se mi to líbilo
+a bylo to velmi inspirativní. A hlavně se mi líbila
+ta část o komunitě. Prostě na konci,
+jakože fakt to bylo zajímavý.
+Ono se to Vojirkovi právě moc neví,
+protože on se v jednu chvíli odpojil po nějakých letech,
+ale před těma sedmi lety, kdy jsme to startovali,
+tak skutečně stal vlastně na začátku a úplně
+se mnou, takže jako Jirka je borec
+v tomhletom, každopádně.
+To je skvělý, rád jsem ho poznal a
+třeba někdy vymyslíme další díl.
+Asi jo, uvidíme. Hele, já bych strašně si rád
+ještě povídal, ale protože jsem se ještě
+úplně neplánoval rozvízt, tak já
+už budu muset běžet domů.
+Nápodobně, my totiž dneska přátelé natáčíme
+výjimečně večer, takže letíme.
+Tak jo, mějte se krásně
+a za čtenáct dní u posledního
+dílu, kolikrát je to?
+Čtvrtá.
+Tak u téhle série.
+Tak čau.

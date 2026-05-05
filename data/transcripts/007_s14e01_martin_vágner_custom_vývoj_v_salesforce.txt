@@ -1,0 +1,1122 @@
+Pod vodcase. Pod vodcase. Pod vodcase. Pod vodcase.
+Krásný den, milí posluchači, vítejte v roce 2026 a vítejte u prvního dílu 14. série vašeho nejoblíbenějšího IT podcastu Pod vodcase.
+No a i v tomto roce, i v této sérii a v sériích, které v tomto roce pro vás připravujeme naproti mě, seděl, sedí a sedět bude Petr Polipolák.
+Sedí a už je natěšený, já jsem se nemohl dočkat, naproti mě Roman Joker, provazník přátelé, bez něj by to vůbec nešlo a já tě tady rád vidím.
+Já tě taky strašně rád vidím, těšil jsem se celý Vánoce, jsem si říkal, měli jsme velký plány před Vánocem a jsme si vlastně tady spolu možná poprvé po čtyřech letech sedli a udělali jsme nějaký plán na tento rok a ten vám rádi i teďka vlastně v úvodu představíme, řekneme co vás všechno čeká, no ale ty mi Poli řekni ještě než to vybalíme na naše milé posluchače, co všechno jsme si připravili na tento rok, co ty osobně čekáš od 2026?
+Hele no já počekávám hlavně, abych zůstal zdravej, kolem mě to teda padalo musím říct a nevím jaký jsi to měl ty, ale zase díky tomu, že jsem si odpočinul a Vánoce jsem měl popravdu nastavený, takže jsme nic nedělali, tak jsem tak jako zvažoval, co vlastně chci ve 26 jako dosáhnout nebo co chci udělat a ten podcast tam hraje klíčovou roli, to jsme si hezky odříkali a to tady řekneme.
+No a pracovně hele hlavně, ať valíme ty věci, co jsme rozjeli už ve 25, tam není jako nic.
+Nic zásadně novýho.
+Jedna věc tam je, když se dostanu trošku k technickým záležitostem, tak rozjíždíme semantickou vrstvu, která by měla pomáhat jako vůbec AI všeobecně, multiagentímu přístupu a teďka je novej trend, nevím jestli si čet, one time apps.
+One time apps?
+No, no, no, v podstatě uděláš apku přes AI, která prostě může být použitá jednou nebo může být použitá pro jeden konkrétní účel.
+A zahodíš.
+A zase ji zahodíš.
+Aha.
+V podstatě je to tak a nastavíš.
+Takže to jsou věci, který my samozřejmě řešíme stejně jako asi celý trh a já bych byl rád, aby jsme minimálně tady nějaký první pilíř postavili, protože ty datový platformy sami o sobě to nabízejí, ale my bysme rádi si to udělali i tady u nás doma tak, aby ty data, se kterýma chceme v tom AI pracovat, byly dobře připravený.
+Tak to máte velký plány, čověče.
+Velký, velký, velký musím říct, ale těším se na to. Co ty? Jaký je tvůj plán?
+No já jsem měl podobný režim jako ty, to znamená režim Polak, Kulevá lož přes Vánoce, nic moc jsem nedělal, ale vlastně ty plány mám velmi podobný.
+Chci to, co jsme nakopli v minulým roce, tak letos doťuknout. Vlastně na konci roku jsme měli velký vánoční večírek v Bratislavě v Garvanu, kde jsem ukazoval nějaký plány pro engineering na tenhle ten rok.
+Bratislava, Bratislava.
+Jo, jo, krásný to bylo, krásný to bylo. Vlastně jsem docela přežil, i někdy v půl druhý jsme si šli lehnout a to jsem furt vyhrožoval, že v jedenáct jdu spát, takže bylo to fajn.
+Takže plány jsou velký, ten tým, který se buduje, budujeme i nadále, mám z něj radost, takže vlastně vstupuju do 2026 jenom pozitivně a uvidíme, jak to samozřejmě dopadne, protože vždycky na začátku roku plány jsou velký, že jo, to ví každý majitel fitness centra, že vždycky první 14 dní v lednu jsou obrovské očekávání a pak to jde dolů, ale já doufám, že to letos jako doťukneme tím směrem, který jsme nakopli.
+Jasný, držím palce Garovnu i tobě.
+Děkuji, děkuji, děkuji. No pojďme prosím tě k tomu hlavnímu, k tomu našemu, to, co jsi tady vlastně mimochodem kamaráde, jsem na to koukal, letos my budeme slavit pět let v 2026.
+To je masaka.
+Takže přes čtyři roky už tady něco budujeme a vy jste nás vlastně za ty čtyři roky jste za náma chodili a říkali jste, hele kluci, my vás chceme nějak jako podpořit a to a my jsme říkali jako dobrý, v pohodě, ale my to jako neděláme pro peníze, což samozřejmě i nadále platí,
+protože to, co jsme vymysleli, tak jsme to vymysleli strašně šikovně, takže novinka je a vy už to v tuhle chvíli můžete vidět na našich webovkách a samozřejmě budeme to i nějakým způsobem propagovat na sockách a všude možně,
+že máme Hero Hero, to znamená pokud se podíváte na herohero.co lomeno pod vocasem, tak najdete už náš profil a je tam možnost nás podpořit, to znamená můžete se subscribnout, teďka vstupní cena je prostě velmi,
+řekl bych, příjemných pět éček, to je v podstatě za babku pro vás tady, řekl bych, novodobou šlechtu nejbohatších pár tisíc lidí v republice, kteří dělají v IT, tak prostě pět eur to ani nepoznáte, takže můžete nás podpořit, já nevím, jestli tam jde dát víc, jestli tam je někdo, komu bude připadat pět éček vůbec, jako že není toho hoden, tak si udějte víc účtu a přepojte se klidně vícekrát, jako tam možnost tam je, no a co za to vlastně dostanete, tak my jsme s tím samozřejmě jako poli
+a zároveň víte, že my jsme jako poměrně takoví jako cochcáři, takže nechce se nám úplně se zavazovat k něčemu, co nás pak jako bude svazovat a bude to otravný pro všechny, takže jsme to vymysleli strašně šalamounsky, takže vy, co se přihlásíte, vy, co nás začnete odebírat, podporovat na Hero Hero, tak budete mít tu výhodu, že dostanete všechny, zaprvé teda pozor, abych ještě nepředběhl tu největší, tu největší pecku a je nechám na konci.
+No, já jsem právě si říkal.
+Jaký uličky jsem si naběhl, já počítáním, jako mínus sedm, nic takovýho, protože já nikdy nevím, kdy ten měsíc pořádně končí, takže pokud by měla epizoda vít 27., vy už ji dostanete 20., takže takovýhle ten první bonus, který tam máte.
+Plus, samozřejmě se nás ptáte, vy, co jste nestihli dojít na živák, nebo se vám to prostě nepodařilo nějak jako zkoordinovat s vaším kalendářem, co vlastně bude s tím živákem, s tím záznamem, takže abyste už tam teďka na začátku něco měli.
+Tak v tuhle chvíli, když půjdete na Hero Hero pod vocasem, přihlásíte se, budete náš subscriber, tak dostanete ke zhlédnutí ten živák, který jsme natočili tady v budově Český spořitelny, který byl podle mě úplně epický, je to přes dvě hodiny, je to ve full HDčku, je to s obrazem, je to vlastně první obrazový záznam, který jsme pro pod vocasem kdy udělali.
+Přesně tak.
+Takže ten tam máte, to máte jako takový vstupní bonus, no a pak samozřejmě budou přibývat ty různý epizody.
+Který budeme točit, plus uvidíme časem, když vás bude hodně a budete chtít nějaký další exkluzivní kontent, tak my to nějak jako s Polim samozřejmě vymyslíme.
+Pořád zůstává to, co jsme si s Polim řekli před čtyřma lety, že chceme být jaksi dostupný pro všechny, že chceme, aby i ty junioři, který to teďka vůbec nemá jednoduchý, tak aby když naskočí do IT, tak měli tady nějaký materiál, který můžou poslouchat a v tom se zlepšovat, tak to pořád platí.
+Dokud neřekneme jinak teda, tak stále platí, že i ty epizody půjdou normálně klasicky na Free, Spotify, na Apple, budete si je moct kdykoliv poslechnout zpětně, ale budou chodit v ten řekněme standardní čas.
+Tak a teď se dostáváme ještě k jednomu závazku, který já strašně doufám, že to zdržíme, jo, berte to, jako vždycky od nás, berte to s určitou rezervou, ale my jsme si teda řekli samozřejmě, že pak jsou tam nějaké jako plomkový, řekněme termíny, kdy,
+kdy typicky přes léto všichni jste pryč a teď říkáte, to je proč já budu platit ty prostě porvocasáky, když oni mi teďka nedávají žádný kontent, takže my jsme se rozhodli, že tradičně do poslava ty čtyři roky jsme stihli tři série za rok, že letos uděláme čtyři.
+Pro nás je to obrovský jakoby stres, protože to najednou musíme opravdu plánovat v kalendářích, aby to vycházelo víceméně pravidelně, ale když si to rozpočítáte, tak by to vlastně mělo být, že od začátku roku do konce roku budou co čtrnáct dní,
+plus minus autobus, vycházet nový díly a vy, co jste subscriblí, už je budete mít o týden dopředu. Tak, řekl jsem to dobře?
+Já jsem hltal každý slovo, řekl jsem to opět dokonalé, můžete nám dát zpětnou vazbu, jestli to bylo pochopitelné, já si myslím, že nádhera.
+Víš, jak já vám nakreslím nějaký čárt nebo něco, vlastně není problém.
+Máme slidek na to, takže můžeme si to ukázat.
+Je to jednoduchý ten slidek, má asi 170 slajdů, takže úplně v klidu, pochopí to každej blbec.
+Jo, hero, hero, lomeno, podvoca jsem, subskráněte se, dostanete živák zdarma na začátek a stevo epizodu napřed.
+A pokud natočíme někdy něco ještě exkluzivního, tak samozřejmě vy, co za námi finančně stojíte, tak budete mít, řekněme, přednost.
+Nebo vy nás budeme mít o chloupek radši, ale máme vás radši jako rádi, i když nás nepodporujete, samozřejmě, to furt platí.
+Jo, tak to jsou plány na tento rok.
+Plus, samozřejmě, protože máme rádi ty naše velké partnery, tak máme i v tomto roce partnery.
+Jedním z nich je samozřejmě Česká spořitelná alias Spořice, tady naše, řekl bych, domovská, už domovský partner, kde velmi rádi natáčíme.
+Součástí toho partnershipu je i Honza Šidlák, kterého nám normálně dali.
+Zaplať nám za něj.
+Jo, zaplať dali. My už se můžeme vzít domů, já jsem říkal manželce, že přijde nám pán na úklid, takže my s ním počítáme v podstatě jako na...
+daleko víc, než jenom na nahrávání a audiostříhání. Každopádně děkujeme moc, děkujeme moc Spořici, že i v tomto roce za námi chce stát jako silnější partner
+a chce nás tlačit a my samozřejmě to jako velmi si toho ceníme, protože pro nás jsou pak některé věci, které pro vás jako pro posluchači děláme, výrazně jednodušší.
+Moc díky, moc díky za podporu a moc díky Honzo, že jsi, jak jsi to říkal já, no.
+Zavstával.
+Že jsi takhle dlouho nezavstával.
+A já mu říkám, neděkuj Honzo, máme pro tebe. V tomto roce budeme natáčet hodně a ty si hodně zavstáváš, jo? A to má všechno za jednu cenu, takže není vůbec problém.
+Jinak mě uchodem Honza i říkal, že nás bude jako subscribeovat, takže vlastně Honza to v tuhle chvíli slyší úplně jako první, protože ještě to teprve toho devatenáctého, to bude live.
+Takže Honza má teďka jedinečnou možnost, teď není jako významně mrkám, aby si otevřel Hero Hero, vlastně tam dal subscribe, dal tam tu kartu a...
+Začalo už to trošku být zajímavý.
+Přesně, není cesty zpět.
+Jo, je to tak. No tak pojďme na dnešního hosta, konec jsme si dneska pozvali.
+Ten je taky důležitý, co?
+No docela, jo.
+No tak začneme právě samozřejmě spořit se tématem.
+No ježišmarja.
+Takže dneska dorazí Martin Wagner, vlastně domain lead pro CRM, který tady máme, a sice Salesforce.
+A s Martinem jsem absolvoval tenhle týden takovou schůzku, kde jsme se bavili o AI a CRM.
+A já byl úplně, úplně jsem natěšenej po té schůzce, protože ten byl navrčenej, přátelé.
+Takže je vidět, že toho tématu je plnej a myslím si, že už někde stepuje.
+Pojďme pro něj, protože dneska nás čeká zajímavý díl kolem Customer Relationship Management.
+No tak to je krásný.
+A já jenom ještě připomenu, pokud by vám tohle téma už přišlo nějakým způsobem povědomí.
+Měli jsme tady kdysi dávno Black Bison, myslím, že tak nějak se jmenovali.
+A to byl vlastně člověk, který pro Salesforce dělal kustomizace a plug-iny a extensions a tyhle věci.
+Takže třeba pokud byste to chtěli jako si to teďka zastavit a dát si ochutnávku, pokud vám to nikdy uteklo,
+tak se podívejte na našich stránkách pod vodcasem.cz, najděte si tam Salesforce a tam už jsme se tomhle tématu věnovali.
+A teďka to vidím jako nádherný vlastně pokračování toho, co je Salesforce a co to vlastně dělá ve sporce.
+Protože já jsem neviděl, že vůbec používáte Salesforce ve sporce, jsem si přiznal.
+Je to tak, je to tak, je to poměrně pořád novinka v kontextu doby a komplexity banky, takže pojďme na to.
+No tak jo.
+Ve studiu s námi sedí náš dnešní host, Martin Wagner. Ahoj Martine.
+Čau kluci.
+Ahoj Martine.
+Tak Martine, prosím tě, my jsme tady ten úvod natáčeli asi na desetí tisíc rád.
+Proto se smějí.
+Ano, proto se tady Poli směje. Samozřejmě i proto, protože Poli je samozřejmě veselá kopa, to my víme.
+To je druhá věc.
+Prosím tě Martine, pojď hned na začátek představit se našim posluchačům. Slyšel jsi už nějaký díl?
+Slyšel jsem, samozřejmě.
+Tak víš, jak to začíná, vždycky ten náš milovaný host se nějak představí a popíše tu svoji cestu od toho, když byl ještě malinkatý předspoříčák,
+až do té doby, kdy se vlastně stal třeba, řekněme, nějaký domain lead třeba v český spoříčově.
+Může být.
+Může být.
+Já jsem tam přišel nepolíbený, absolutně jsem netušil, o co jde, a začal jsem, snažil jsem se začít jako vývojář. Vývojář, plomeno analytik.
+V Salesforceu, jo? Vývojář.
+V Salesforceu, přesně tak. Bylo to docela bolavý, to se přiznám. Za nějakou dobu, když nebyly ty projekty, tak jsem zmigroval do Renaultu,
+když to vezmu takhle jako oklikou, protože ta konzultaťka se věnovala primárně spolupráci s Renaultem.
+Tam jsem začal s Javou, poznal jsem ty zákulisy, jak to všechno funguje, i ostatní technologie.
+No jo, jenže pak osuchtěl k tomu, že jsem se vrátil zpátky k Salesforce. Tím jsem prožil asi první třeba půl roku, dělali jsme zajímavý projekty,
+ale nebyly prostě tak rentabilní, takže po nějaký době jsem se rozhodl, že tu společnost opustím, a přešel jsem do jiný konzultačky.
+Do větší, to už teda neexistuje, protože se prodala. Bylo to součástí nějakého byznysu ve spojení se ServiceNow a GuideVision.
+A tam jsem poznal konečně fakt jako zajímavý projekty, já na který asi vzpomínám nejvíc nejradši, a ne úplně kvůli tomu projektu,
+ten byl jako teda taky famózní, ale kvůli těm partys, který jsme zažívali po každém pracovním dnu, tak to byla...
+Já bych si řekl, že jsi porylýsal i po každém pracovním dnu, ty vole.
+Porylýsy byly úplně v pohodě, to jsme zvládali právě ještě na těch partys, tak to byl ESET, tam to bylo naprosto famózní,
+tam si sednul šíleně ten tým, i ten projekt byl pro nás zajímavý, a v té konzultačce já jsem poznal spoustu famózních lidí.
+Celou tu moji kariéru mě provází, že já jsem měl štěstí, že ty lidi mě podporovali, měl jsem od nich kde brát, snažil jsem se to samozřejmě pak vracet.
+No a když se začala ta konzultačka prodávat, tak jsem se ozval tomu kamarádovi, který mě dotáhnul k Salesforce, do té první konzultačky, Pepa Gorgán,
+takhle Pepu trošku zdravím, jo.
+Pepa Gorgán byl domain lead vlastně před banky.
+Jo, takhle, se nám to tady spojuje pěkně.
+No, no, no.
+Ta journey se hodně propletená, jsou hodně moc lidma, kteří tady dole sedějí.
+Tak jsem šel do Merklu, tam jsem strávil něco přes tři roky, zajímavý projekty, zahraniční projekty, český velký projekty,
+hodně zajímavý segmenty jsme tam implementovali, hodně jako zaměření na luxury, což bylo extrémně zajímavé,
+protože věnovat se implementaci pro hodinářskou firmu, když hodinky miluju a sbírám, bylo fakt za odměnu.
+No, jenže pak Merklo procházel nějakou transformací, já jsem se tam dostal na pozici Salesforce konzultanta, team leadera.
+No, a jednoho krásného večera, já sedím v hospodě, už přemýšlím o té změně, o Teudo LinkedIn a tam mi napsal Michal Řehák zprávu.
+Ahoj, Pavle.
+Já tě mám nejradši, čau.
+A teď čekáš, co přijde.
+Tak si říkám jako OK, dobře, tak Pavel nejsem a jak jsem měl asi třetí, čtvrtý pivo, tak já mu odpovím, třeba z toho něco bude.
+On mě odpověděl, že se hrozně omlouvá a takhle začala nějaká naše komunikace, která probíhala, nevím, řekněme asi možná půl roku, pět měsíců.
+Ladili jsme pozici, ladili jsme všechno spojený s tím a já jsem se…
+Křesní jméno jste ladili.
+Křesní jméno jsme ladili, to jsem mu vysvětlil jako poměrně záhy, takže to bylo v pohodě.
+No a já jsem se hlásil původně na tu pozici IT domain leada, jenže pak, když jsem zjistil, jak je to obří, tak jsem z toho vycouval a dostal to Pepa a plus tam byla volná pozice pro platformního leada na Salesforce.
+Takže tu jsem bohudík dostal, díky tomu jsem ve sporce, rok jsem se tady protloukal, začátek byl šílený, to jsem se všech bál, že mě snědí, nevěděl jsem, co jsou různý zkratky, říkal jsem si sakra, co tady dělám, nechci se vrátit zpátky do konzultačky, protože ten konzultační biznis prostě miluju.
+No ale vydržel jsem a vlastně minulej rok, přesně po roce, co jsem nastoupil do spořitelný, tak jsem změnil pozici a jsem IT domain lead v doméně Digital CRM, kde máme Salesforce, kde máme CBO, kde máme spoustu dalších technologií a troufám si říct, že děláme samý krásný a velký věci.
+No tak to byl úvod, jak ví, no.
+To je úplně, to bylo, to je, jak kdybyš to měl připravený, ty věděl, má na papíře, jo, jako nemá, nemá papír, přátelé.
+Má teda jenom tady lahvičku s logem Salesforce, což teda musím říct, že cením, opravdu, jak to někdo dokáže dohnat i do takových detailů.
+Na hodinky, jestli máš Salesforce, jsem nekoukal, ale to se mrknu později.
+Prosím tě, ty jsi zmiňoval, že jsi byl určitou část svý kariéry v Javičce, jak na to vzpomínáš, nebo vůbec takovej ten jako hardcore development versus to vývíjení na nějaký platformě typu Salesforce, viděl jsi tam nějaký zásadní rozdíly, nebo jak na to vzpomínáš?
+Já to nesnáším.
+Dobře.
+Já to řeknu na rovinu, jo. To kariérně pro mě bylo asi jedno z nejhorších obdoví. Zoba, který dodělá vejšku, už předtím jako rok jsem pracoval, rozešel jsem se v té době jako s předchozí partnerkou a už to má fakt fousy, jo. To je nějakých 10-11 let zpátky.
+No a na jednu stranu dalo mi to nějaký základ. Pochopil jsem, jak funguje OOPčko, pochopil jsem, jak se má psát ten kód, ale já jsem to fakt nesnášel, jo.
+Možná to bylo i těma lidma, na který já jsem tam narazil, že neměli úplně čas se mi věnovat, ale pro mě to bylo utrpení. Pak tam byla nějaká jako můj vnitřní zápal, trošku se do toho víc dostat, takže jsem se tomu začal věnovat, četl jsem knížky, dělal jsem se nějaký svoje projekty, ale rozdíl jako mezi
+Javou a Salesforcem.
+Hele, Salesforce má vlastní programovací jazyk, Apex, vychází to z Javy, jo. Pokud tu míš OOPčko, máš nějaký základ, tak prostě budeš u mě programovat i v Salesforce.
+Jsou tam nějaký návaznosti, ale jsou to pořád jako rozdílní světy. Ty rozdíly tam nejsou nějakým způsobem diametrálně ohromní, ale jsou tam.
+A tebe teda opravdu štvala vyloženě, jako by ta, to, že to je víc low level, nebo co tě tam...
+Hele...
+Jazyk, jsi říkal, je podobnej, že jo, je to prostě Cčková.
+Cčková syntaxe, to je všechno jako na stejný brdo.
+Hele, mě to prostě nebavilo.
+Nebavilo tě to, OK.
+Nebavilo, jo. Možná to bylo fakt jako i tím mindsetem, že teďka bych se na to podíval malička to jinak, ale pro mě to bylo utrpení, jo.
+Já jsem věnoval spoustu svýho času mimo práci, spoustu času v práci, abych se k tomu nějak dostal, ale nebyla tam ta podpora.
+Takový ten buddy systém, který ty očekáváš jako úplný junior, že někdo nastoupí.
+Snažili se, ale nebyli schopní to prodat.
+Takže pak, když jsem se věnoval čistě programování nějakou dobu Salesforce, tak to mi dával smysl, jo.
+Mě možná malička to víc bavilo frontend, to není úplně jako o Apexu.
+Tam to bylo takový jako rostomělejší, že vlastně vidíš, že ty barvičky se tam mění a ta tabulka vypadá takhle a takhle.
+Ale po nějaký době já jsem stejně jako dospěl do toho, že jo, já umím mluvit, já tomu systému rozumím, umím ho parametrizovat, umím tam něco navrhnout.
+Takže jsem přešel jako z té vývojový části do té jako low-code, no-code, jak to teďka frčí a Salesforce na tom byl postavený už jako předlety.
+Ne plnohodnotně, třeba jak to je teďka a k tomu mám teda taky velký výhrady, ale prostě zmigroval jsem do toho.
+Furt ale platí, že jako kod si umím přečíst, jsem schopný navrhnout nějaký základní věci v tom, dokážu rozpoznat, když někdo napíše nesmysl,
+ale k tomu jsem dojteroval až v průběhu tý kariéry, protože jsem zjistil, že mi nic jinýho nezbývá.
+Jasně, jasně. No a pojďme teda k Salesforce jako takovýmu. Já jsem vlastně o něm slyšel, když pomenu to, že v předchozí firmě se ho používali salesáci,
+překvapivě, surprise, surprise, pro nějaké jako trackování lídů a těchto věcí, tak samozřejmě jsme se mu věnovali před mnoha lety tady v podcastu,
+kdy jsme tady, kdy jsme tady, já už to jméno nenajdu, ale byl to člověk, který vlastně měl firmu na psaní kastomizací do Salesforceu.
+Tak kam se vlastně ta firma od té doby jako posunula? Nebo můžeš i posluchačům, který třeba ten díl neslyšeli a o Salesforce nikdy neslyšeli, vysvětlit,
+co to je za platformu, co to řeší? Já jenom vím, že to je obrovský, že vždycky, když mají siest v San Francisco, tak až do San Jose není volnej hotel, jo?
+Takže asi to se dá říct o Salesforceu takhle z hlavy, ale ty to znáš líp.
+Já potvrduji to San Francisco, my jsme vychytali fakt jako nádherný hotel s nádherným kobercem a do teď z toho mám noční můry, jo?
+Protože nechci vidět, co se tam dělo.
+Nevrát se z UV lampu, jo?
+Na štěstí nebo radši ne, radši ne, ale mám pocit, že jsem spal s natých botech, jo? To bylo fakt jako stálo to za to.
+No Salesforce, co to je? Salesforce je cloudová technologie, vznikla někdy na pomezí milénia, jestli se dobře pamatuju, 98, 99 a založil to cápek, který předtím dělal Fora Club.
+Salesforce běží teďka na AVS-ku, my jsme na tom teda taky uzmigrovaný, běží to na nějaký, řekněme, jako hyperforstí technologie, jak oni to nazývají.
+A Salesforce vlastně není jenom nástroj na, není to CRM-ko, ten tool toho má šíleně moc.
+Ten základ, který oni začínali, tak byl nějaký Sales Cloud, který ti mapuje základní procesy, jako je Lead Management, Opportunity Management, Account Management a tak dále a tak dále.
+Postupně to samozřejmě rostlo, botnalo, přišel Service Cloud, přišly tam pak nějaký portály, Experience Cloud, ale to je všechno jako součástí toho coreu, jo?
+Core vlastně máme i tady u nás, nejenom ten.
+A pak je tady.
+Marketing Cloud, takže tool pro nějaký jako marketingový kampaně, Customer Journeys a podobně.
+No, ale oni prostě mají furt jako choutky, takže třeba teďka koupili Genesis, koupili, nespojím si na název toho toolu, Informatika.
+Jo, jo, jo, informatika, přesně.
+Tool fakt jako pro Master Data Management.
+No a oni mají pak jako i dílčí produkty, jako je Financial Services Cloud, Order Management a tak dále a tak dále.
+A všechny tyhle ty věci se vlastně kombinujou.
+Takže výhodou, a proč mě to vlastně tak baví, je to, že ty si koupíš nějaký řešení, který běží na cloudu, má nějaký základ, který pomyslně můžeš na začátku začít okamžitě používat.
+Je to nesmysl, jo, chci si to upravit prostě podle sebe, nezajímají tě políčka, který tam jsou, který prostě mají definovaný pro americký klienty.
+Takže si to nastavíš a zvládne to fakt jako jednoduchý, nebo respektive nějaký juniorní admin, který se ponoří do toho studia trailheadu, tak během pár týdnů je schopný ti upravit nějakým způsobem datovej model, layouty a tak dále a tak dále.
+No, ale to není celý, jo, ten Salesforce je neskutečně provázaný mezi sebou, oni furt do toho tlačejí, teďka vydali Data360, což je řekněme nějaká datová platforma, mají tam AgentForce, vlastní AI nástroj.
+Je to neskutečně robustní. Ty klienti, kteří na tom běží, tak jako veřejně známí, tyjo, já už jsem tady propálil ten asset, jo, a to si myslím, že je v pohodě, běží na tom spořka, to taky můžu propálit.
+Ale spousta menších, větších klientů i v České republice, já třeba šíleně rád vzpomínám na implementaci pro GoPay, protože ta byla jako lidsky naprosto famózní, ale běží na tom banky všude po světě, American Bank, běží na tom Santander, běží na tom projekty a ohromný banky.
+A Jižní Africe. A jako to spektrum těch zákazníků je ohromný. A já tím vlastně chci říct, že je úplně jedno, z jakého segmentu ta firma je, protože ten Salesforce tam může pasovat.
+A je i jedno, jak velká ta firma je? Když se podívám, protože dneska samozřejmě spořka, tak to je jasný, zmínil jsi spíš větší firmy, ale je to vhodný a je i ta cenová politika nastavená tak, že si to může dovolit, já nevím, nějaký SMIčko?
+Hele, Salesforce není levná záležitost, to řeknu na rovinu, ale mám za sebou implementace, které byly prostě pro desetičlený firmy. Jo, nebo pro firmy, které mají deset salesáků.
+A ten jejich finanční model, nebo licenční model je postavený tak, že to mají odstupňovaný podle edicí. Byl nějaký starter, Professional Enterprise Unlimited, každá ta verze má nějakou jinou fíčuru navíc, dokáže tě jako enablovat větší rozsah toho, co můžeš využívat, zvětšuje ti limity a tak dále.
+A pokud jsi nějaká malá firma?
+A máš, já nevím, pásnu pět salesáků, tak ti třeba bude stačit jenom základní lead management, základní account management, nebo jednoduchý opportunity. To na tom můžeš postavit. Ale když vidíš cenu Salesforce a Pipedrive, tak je to velký rozdíl. Začneš nad tím přemýšlet.
+Jo.
+A když se to aktivně prodává jiným firmám, tak tam, jako která má hordu salesáků, tak tam si to dokáže představit velmi jednoduše, protože konec konců v takových firmách jsem dělal, ale banka, na co vlastně potřebuje Salesforce, který ten modul je pro banku jako úplně stěžejní?
+Mají stěžejní moduly pro banku, protože ten sales service experience a i ten financial services cloud, který my tady máme, tak si, jak jsem říkal, dá se to neskutečně ohnout. My na to máme několik věcí.
+Nejdůležitější z mýho pohledu tak je implementace pro retail. Je to nějaká příprava bankéře na schůzku s klientem, pak nějaký follow-up z té schůzky a případně přímý i to schůzkování.
+Máš tam nějaký pohled na klienta, vidíš, co s ním máš probrát, vidíš o C360, zákazníckou 360, produktovou 360, máš možnost se vlastně připravit, nabitifovat na ten meeting, zavolat mu, poslat SMS.
+Velice obdobný, je to pro korporáty, ty to mají ještě malička rozšířený a společně tam vlastně už máme i oportu.
+Unity management zavedený, který nemá dopad jenom do Salesforce, ale samozřejmě i mimo Salesforce, do celé banky. My jsme naintegrovaný na všechno, když to jako přeženu a tyhle ty jako salesový procesy, tak máme postavený částečně právě na Sales Cloudu a částečně na Financial Services Cloudu, což je nějaký package, ten add-on, který rozšířuje ty funkcionality v Salesforce.
+No ale protože jsme lidi, který jsou hladoví, tak máme vlastně Experience portál a máme tam feature licenci pro znalostní bázy.
+Ten projekt jsem podědil, pak jsem ho představil.
+A je to teďka nějaký jednocentralizovaný místo pro retailový bankéře, korporátní bankéře a segment EPPB, s tím, že tam máme nějaký chytro, když to nazvu takhle.
+Máme tam chatbota přímo v Salesforce, který dokáže komunikovat s bankéřem, dokáže ho odkázat na nějaký článek, který hledá, takže produktovou specifikaci a odkáže tě i vyloženě na ten portál.
+Postavili jsme bebovou stránku na Salesforce těch technologiích, LVRku, je tam AI full text search, máme ty data uložený mimo Salesforce.
+Samozřejmě má střed.
+Salesforce má ty data, proto AI nám leží fežru a je to krásný.
+No hezky, hezky, hezky.
+A jenom ještě dokončím, protože my tady jedeme nějaký federalizovaný vývoj.
+Ten první rok, co já jsem tady byl, tak jsem byl zodpověděn za tu platformu a za federalizovaný projekty, takže Salesforce se používá case management, nebo respektive service cloud na PPM Culture.
+Ty to používají pro aktivní e-mailovou komunikaci s interníma klientama, takže se zaměstnancema.
+To znamená, máš dotaz, napíšeš mail na infozavináč.cz.
+Propadne do Salesforce, je to nějak hozený do fronty podle routovacích pravidel, agent vyzobne, vyřeší, odpovídá.
+Velice obdobný je to i na našem interním oddělení Legal.
+Takže vy to používáte už jakoby i dovnitř, nejenom vůči svým klientům jako vonka, ale i, řekněme, mezi odděleníma, mezi lidma.
+Přesně tak.
+Ok. Co se týče toho custom vývoje, jak moc tam toho vlastně musíte vohejvat?
+Protože jedna věc, dokážu si představit, že to Salesforce jako takový má, řekněme,
+administrační rozhraní, kde si to v úzovkách no code naklikám, jenom si to upravím.
+A pak je, řekněme, možná ta asi víc, když tak mě oprav, hardcore část, kde teda už pracuju s nějakýma entitama,
+s nějakým modelem, mám tam nějaký SDKčko, už jsem jako víc v kódu, mám samozřejmě větší možnosti,
+jako každý, kdo kóduje, ale samozřejmě pořád jsem jako v mantinanech toho Salesforceu.
+Tak jak moc je tohleto tvůj denní chléb?
+Můj denní chléb to není, je to chléb mých lidí.
+No, ale vlastně náš Salesforce, ten je retailovej, když budu mluvit za ten, který tady vlastně v úzovkách zastupuju,
+tak je z 90% custom.
+To znamená, že náš frontend je upravený na to, aby to bylo na tabletech,
+protože bankéři používají one device, zároveň to samozřejmě někteří jedinci používají i na notebookách,
+takže to funguje i na tom.
+A to znamená, že to UI jako vlastně musíš celý předělat.
+To znamená, že jednotlivý základní komponenty, které byly v Salesforce, tak se na to ty borci podívaly
+a na základě UI návrhů se to upravilo.
+Salesforce má nějaké limitace, potřebuješ někde víc sloupečků, než je nějaký jako základní standard,
+takže si to musíš napsat.
+Tohle to všechno probíhá vlastně v LVC, což je nějaká technologie jako frontendová v Salesforce.
+Jestli se nepletu, všechno to vychází právě jako z toho Lightning platform modelu.
+Salesforce běží na Lightningu, což dřív byl nějaký open source, mu to koupil a přihodil Salesforce právě tady na to.
+Co se týče pak jako různých automatizací, integrací, tak integrace jasně.
+To si prostě musíš napsat.
+Nemáme tam žádný konektor, který bychom využívali mimo napojení Salesforceu našeho kódovýho na Marketing Cloud.
+Tam používáme jako standardní Salesforce konektor.
+Ten custom vývoj fakt se dá rozdělit a ty jsi to tady zmínil do těch dvou základních částí,
+to je ten low-code a je to opravdu jako to hardcore kódování.
+Na tomto máme postavený, ale snažíme se využívat i ty low-code věci.
+To znamená, že pomocí nástroje flow, to si představ, jako že stavíš nějaký diagram,
+máš tam různý decisiony.
+Máš tam různý get-recordy, updaty, bla, bla, bla.
+Tak jsi schopnej udělat nějaký fakt trigger, který ti spustí kód.
+Takže nemusíš trávit čas, že si napíšeš nějaký trigger, bla, bla, bla.
+Ale naklikáš si dva elementy, nastavíš tam nějaké podmínky, zavoláš si ten Apexový kód.
+Můj názor tady na to je, že na tohle toto flow je ještě dobrý.
+Já ve svým historii jsem klikal jako komplexní flowčka.
+Dělali jsme na tom jak frontend, protože to disponuje i možností vytvářet.
+Frontendy, různý tabulky, obrazovky a tak dále.
+Taky backend, ale když je to fakt jako komplexní.
+Ty jo, tam uděláš jednu drobnou chybu, nebo ti tam přiteče víc záznamů a všechno se ti rozbije.
+Pak jsi naštvaný.
+A rozbije jako i ve smyslu třeba performance?
+Řešíte tam takovýhle ty věci, mřejet nějaký jako O, N notation a tyhle ty věci,
+že si jako natáháš toho víc, než jsi směl?
+Jo, samozřejmě.
+Hele, když jsi zmínil Flow, já jsem si vzpomněl, že někdo mi někde selsoval software,
+který se jmenoval Mewsoft.
+To je taky nějak z rodiny Salesforce, je to to, o čem mluvíš, nebo je to něco jiné?
+Ne, ne, ne, hele, Flow je opravdu jako Salesforce, nějaký automatizační nástroj a Mewsoft,
+naše integrační platforma je Azure.
+A Mewsoft je integrační platforma, ty jo, teď doufám, že to nemůžu a mělo by to tak být,
+od Salesforce.
+Jo, jo, jo, jo, okej, okej.
+Podvodcas.
+Podvodcas.
+Podvodcas.
+Můžete při tom custom vývoji takový ty tradiční, architektonický, řekněme, rozhodnutí,
+nebo takový ty dilema typu, bude to monolit, půjdeme do nějakých mikroservis,
+je to třeba vůbec při vývoji pro Salesforce jako validní vůbec téma?
+Hele, je to validní téma a já musím říct, že jsem fakt pišný jako na jednu věc,
+že my máme velice dobře popsaný standardy.
+To znamená, že máme nějaké naše best practices, které vycházejí ze standardů Salesforce,
+takže my víme, jak k tomu máme přistoupit, víme, jak má být co napsaný,
+víme, jaký tam jsou podmínky na to, aby jsme vlastně dospěli do toho úspěšného cíle
+a zároveň každý řešení, který vlastně u nás se dělá od nějaký analýzy,
+tak prochází, řekněme, stupňovitým schvalováním.
+Přineseš velký téma, vezmeš to na Salesforce Architecture Board,
+novej projekt, Opportunity Management, Lead Management,
+už to máš předchválený s Enterprise Architekturou, se Securitou
+a pak už se to rozpadá na nějaký dělčí jako Solution Designy.
+Jeden velkej, anebo několik drobnejch.
+Ty Solution Designy jsou potom validovaný na Solution Archsynku
+od ostatních Solution Architektů, což je naprosto skvělý.
+Ty máš jistotu, že nerozběješ někde něco jiného,
+protože tam jsou i ty lidi z ostatních týmů,
+anebo jim dokážeš předat tu message, že hele, my tady děláme tohle
+a oni si uvědomují, tyjo, tohle jsme ještě nedělali,
+to by se nám hodilo, pojďme si to prostě udělat jako cross-projektový.
+Tyhle věci pak samozřejmě přicházejí do nějakých vývojových storie,
+který mají akceptiční kritéria, jakmile to chopí ten vývojář,
+napíše kód a ten podlíhá potom standardnímu čeku na základě Code Review.
+Dbáme i tyhle základy.
+Takže pull requesty, všechno klasické.
+No jasně, jasně, samozřejmě, hele, všechno máme v kytu,
+máme jako si ICDčko klasický, máme nějaký automatizovaný deployment,
+když to řeknu takhle, s tím, že naše deploymenty samozřejmě
+pak procesují obsáci.
+DevOps.
+A děláme to ve standardních releasech, který má banka.
+Jsou releaseovací okna.
+Takže jdete release rain prostě.
+Jo, jo, jo.
+A je to spojený s change managementem, jo,
+protože my dodáváme spoustu věcí, které dokážou ovlivnit to fungování uživatelů,
+takže bez toho, aniže bychom jim pak dali vědět,
+hele, teď vám tam přibude novej modul,
+nebo teďka vám tam přibude nový políčko, používejte ho na to,
+tak oni by byli zmatený.
+A je to zcela oprávněný, nevěděli by prostě, co s tím dělat.
+Máme nějaké vysílání do sítě, posíláme releaseovou prezentaci,
+zároveň přihlásí se do Salesforce, vyskočí ti tam okínko,
+ahoj, včera proběhl release, přidali jsme to, to a to,
+podívej se na video, podívej se na prezentaci.
+Protože bez toho, aniže by byly spokojeny ty uživatelé,
+pro kterých to vlastně ve finále děláme,
+tak by ten systém neměl šanci na úspěch.
+To je přirozený.
+A my to chceme dělat hezky, chceme to dělat rozumně pro ty lidi,
+a nechceme je zahalcovat věcma, že támhle blanka zhodný dolní
+si řekne, tyjo, mě by se tam hodilo políčko,
+abych si tam mohla zadávat ještě jedno jeho telefonní číslo.
+Takhle ne, my veškerý ty požadavky fakt prioritizujeme,
+děláme velký věci, nechceme tam dělat drobotiny,
+které jsou specifické pro jednu procentu těch uživatelů.
+Ale ještě mi napadlo, jak jsi mluvil o tom Apexu,
+existuje něco jako knihovná řešení, protože říkal jsi,
+mluvil jsi tady o těch klientech, že jo, po celém světě,
+který by se dali přepoužít nebo inspirovat se z nich
+a použít je tady u nás ve Sporce.
+Hele, no, samozřejmě existuje a já přemýšlím,
+jak tuhle otázku uchopit, protože existuje nějaký
+oficiální store, který se jmenuje Apex Change.
+Hele, sranda, jo, víte, jak se jmenuje store v iPhoneu,
+kde si můžete kupovat aplikace?
+App Store?
+No, App Store, případně to mělo
+ještě iStore a podobně a tenhle ten název právě
+vymyslel Mark Benioff před lety a byl to kamarád
+Steve'a Jobse, tak mu to přenechal zadarmo
+a on si vymyslel jiný název, vymyslel si název Apex Change
+a na tom Apex Change ty můžeš, ty jako firma,
+konzultačka nebo jednotlivec můžeš
+vypublikovat svoji aplikaci.
+Dokonalej proces, pár let zpátky jsem o tom měl
+prezentaci na Czech Dream, jenom na největší
+Salesforce konferenci v Česku, je to mes.
+Šílený, jako úplně příště.
+Jo, šílený, dělal jsem to takhle třikrát,
+šedivý vlasy z toho nemám, možná skoro,
+jo, ale to je fulk teďka.
+No, tak on ten Apple proces, co jsem slyšel,
+taky není úplně jako procházka cukrárnou, jo.
+Ale ve finále ono to dává smysl, potřebuješ mít jistotu,
+že tam prodáváš aplikaci, která dává hlavu a patu
+a je bezpečná. Na tom Apex Change ty máš k dispozici
+fakt jako aplikace, které jsou zdarma nebo placené
+od různých partnerů Salesforceu a ty ti dokážou
+rozšířit ten Salesforce takhle, jo, máš to okamžitě,
+nemusíš vlastně nic řešit, jenom si to nastavíš,
+případně si to můžeš ještě parametrizovat.
+Je to rozdělené, že nějaký package jsou otevřený,
+nějaký zavřený, můžeš si to jako upravovat dál,
+případně na tom stavit nějaký další jako automatizace
+a podobně. No, já jsem z toho používal pár věcí,
+ideálně pár věcí zadarmo, klienti to samozřejmě ocenili,
+používali jsme z toho i věci, které byly placené,
+například pro generování dokumentů, psaní šablon
+a dynamické dotahování informací ze nějakých záznamů,
+že tohle Salesforce by default nemá a naprogramovat to stojí
+nějaký čas a potřebuješ to mít prostě lehce dynamický.
+Ale co já miluju víc a snažil jsem se vlastně tomu i nějakou
+dobu přispívat, je, že existuje spousta jako blogů od
+Salesforceáků, který nedělají pro Salesforce,
+ale pro ty konsultačky. Ale tam člověk dokáže najít takových
+skvělých zkvostů, takových návodů, jak to udělat.
+Já jsem před lety vymyslel prostě
+prkotinu, jak nakládat s nějakýma spamovejma e-mailama,
+když ti to přijde do Salesforce, protože nějaký firmy to nechtějí
+trackovat na úrovni exchange, takže prostě nedají ti tam nic.
+A to by pak denně do Salesforce přijde 100-200 e-mailů,
+který jsou no reply anebo auto reply anebo prostě nějaký
+spam pitomý. Takže udělal jsem jednoduchý jako trackovátko
+podle e-mailovejch adres a teďka mám ještě pořád blog,
+a když já se koukám na ty návštěvy a na ty zprávy,
+jako co mi nechájí na tom blogu,
+dívejte je 80 % lidí z Indie, který jsou nadšený za tuhletu
+blbost. Ona je to fakt blbost, jako to je věc, kterou má člověk
+naklikanou během 5-10 minut, jenom se nad tím stačilo
+zamyslet.
+Ale někoho to napadlo, že jo, což je to hlavní díl.
+Chtěl jsem to zmonetizovat, ale nikdo se mnou nechtěl jít.
+Ale vlastně v řejmém všem tam by bylo úplně skvělý tím,
+že ta platforma je rozšířená, že by bylo dobrý,
+kdyby ten agent force nebo nějaký jiný AI udělátko
+vlastně s tebou komunikovalo tak, že pod sebou v tom elemku
+má vlastně ty řešení, že jo. A začne ti to tam sázet,
+jo, to by bylo úplně super, že jo.
+Že bys mu řekl nějaký záměr a on řekl počkej,
+napiš to ty vole, tady je přeci tohle.
+Já chci šablonu, já chci šablonu. A tohle, já řekl ano,
+tak to uděláš takhle, protože už to ví nikud, nevím.
+Hele, na jednu stranu člověk, když si parametrizuje ten
+Salesforce a přijde s nějakým řešením, tak je to jeho
+know-how, jo. Neexistuje tak, že by ty zdrojáky byly volně
+dostupný. Někdo to tak dává.
+Jasný.
+Ale Salesforce jako takovej, aby měl nějakou knihovnu řešení,
+že tady je aplikace taková, Macová. On má ty svoje package,
+jo, který si můžeš stáhnout, který jsou mnohdy jako placený
+z 99% a můžeš si rozšířit ty funkcionality.
+Ale nemyslím si, že cílem jako AgentForce teďka,
+který je spíš jako customer oriented, když to vezmu takhle,
+by mělo být to, že ti rozšíří Salesforce jako
+na základě nějakého kódu, automatizace a podobně.
+Ale třeba se pletu. Nedělám pro Salesforce.
+Jasný, jasný.
+Je kolem Salesforce nějaká komunita jako vyloženě open source,
+tak jako je kolem třeba standardního vývoje?
+Protože ty jsi sám říkal, že vlastně to jako není to levný.
+Vždycky, když se řekne Salesforce, tak já tam cejtím prostě tak
+Oracle, tam už ti padaj dolary prostě z těch kapes, jenom jak se to takhle
+řekne. Tak tam necejtím chuť dělat něco za darmo značení,
+ale jako oprav mě.
+Není to asi tak velký jako pro ostatní technologie, ale samozřejmě
+takovýhle věci existují. A Salesforce to vlastně dělá extrémně
+šikovně. Když zjistí, že něco je populární, tak to od toho člověka
+koupí. A začne to monetizovat. Anebo to třeba přemístí na ten
+AppExchange, nabízí to tam zadarmo v nějaký Lite verzi a rozjíždí se to.
+Ale v Word existují prostě jako hromada repozitářů, kde najdeš
+spoustu kódu, který můžeš připoužít, nebo nějaký package, který si
+můžeš nainstalovat do toho Salesforce.
+Ale vytvořit package je hrozně jednoduchý. Tam si přihodíš ty komponenty,
+co vyvinneš, máš URL a můžeš to poskytnout jako jiným lidem, aby si to
+nainstalovali. Ale není to podle mě jako takový. Existují možnosti,
+jak se k tomu dostat. Jo, člověk spoustu věcí jako vygooglí. Případně,
+když má známý, tak a ta komunita jako Salesforce v Česku je fakt
+široká, tak dokážou pomoct. Takže tolik asi k tomu. Ale není to nic
+velkýho. Já jsem to osobně taky čekal větší. Ale ty lidi si to know-how
+držejí a zcela oprávněně. No jasně no. Ale je dobrý teda, to si řekl,
+že ten Salesforce se koupí, což si myslím, že je ještě ta jako méně
+agresivní forma akvizice v tom smyslu, že když je populární open
+source a my viděli jsme to historicky třeba několikrát od Microsoftu,
+tak mě tímhle s tím jako velmi zlobí, že pokud je něco komunitně
+velmi oblíbeného, tak on si to forkne. A dá si na tom logo, přejmenuje
+to prostě, dá tomu jiný název a funguje dál, aniž by vlastně jako
+podpořil.
+Ty původní autory, takže pokud to jde tak, že přijde Salesforce a řekne,
+ale nám se to líbí, tady máte prostě jako spoustu peněz, tak si myslím,
+že je to ještě jako krásný exit i pro tvůrce těch open source.
+Doufám, že to je tak růžový. Já chci říct, tohle je ta oficiální
+varianta, nebo verze, kterou já znám, která mi byla prezentovaná, ale
+jak to je reálně, jo, jestli za ním přijdu a řeknu, aha, my ti to
+vezmeme, jo, nebo tě zaželujeme, můžeme. Aha, je to MIT licence, blbečko,
+máš smůlu, jo? Hele, když se podíváš na jejich výkaz zisků a strác,
+tak jim to očividně funguje a tam bych to jako asi uzavřel tuhle
+finanční stránku. Já bych to radši ani neotvíral. Ty jsi říkal, že se to
+v některých věcech ta kastomizace od normálního vývoje nelíší, že
+teda řeší ty nějaký architektonický paterny. Mě zajímá, pokud
+mám systém, který velmi jako kastomizuju a zatím ten datovej model,
+tak i ta databáze a všechny ty věci prostě musí nějakým způsobem časem
+dorůst do nějaký, řekl bych, jako poměrně náročný, no velký
+komplexity. Jak tam řešíte třeba datový migrace nebo teď si nějaká
+teta, jak jsi říkal, z horní dolní, teda se jí podařilo probublet do
+spořice, nějakej zásadní rekvesl o tom, že teďka už nechceme evidovat
+jednu adresu k zákazníkovi, ale chceme evidovat dvě. Příklad
+prostě z jedna ku jedný je to jedna ku N, jo? Jak tohle to se řeší na
+úrovni Salesforce? Je na to vůbec připravený na takový jako zásadní
+datový změny? Hele, já řeknu jednu věc. Salesforce není MDM-ko. Salesforce není
+master data management system. My data, který v Salesforceu zobrazujeme, taky
+čerpáme ze starýho CRM-ka, který mělo i roli právě MDM-ka. Čerpáme je ze
+CBLU, ale zároveň některý data v Salesforceu už masterujeme. Pokud ty data
+pak chceme vypublikovat dál, děláme datovej produkt, ideálně to posíláme,
+nebo budeme posílat do Bricsu, což by měla být nějaká strategie, ale Salesforce
+jako takovej dokáže masterovat jako všechny data, ale v tom
+množství, kolik jich spořitelna má a kam my míříme, tak by to neustal.
+Na druhou stranu, mluvil jsem tady vlastně o Data360, Datacloudu, já to
+znám pod tím starým názvem, ten ti dokáže ty data konsolidovat, držet to
+na jednom místě, může do toho být využitej právě i AgentForce, může ty
+data jako čerpat z nějakých dalších technologií, Bricsy, Snowflake a
+podobně, takže tam si dovedu představit, že by to fungovalo. A na druhou
+stranu ještě, jako když si člověk vezme, že Salesforce koupil informatiku,
+tak oni si uvědomujou, že vlastně potřebujou mít nějaký takový nástroj,
+který by jim dával smysl, aby enablovali ten Salesforce v oblasti MDMka.
+Takže vy teďka aktuálně to teda používáte i na úrovni řekněme nějakých
+integrací, tady si tahám odsuť, tady si tahám odsuť a zobrazuju to v
+Salesforceu. Není to teda, že všechno by tam leželo?
+Není, není. My taháme jako ty data primárně ze Seeblu a jak jsem
+říkal, my v doméně děláme velký věci, tak my tam právě stavíme i
+novice.
+To budujeme na Azure, snažíme se to udělat krásný, spojí to s tou spoustu
+energie, spoustu času, ale je to vlastně nádherný vidět takovýhle
+moloch vznikat od samého začátku.
+Já teď ještě přiřeju polívčíčku, Salesforce vlastně koupil před lety i
+Tableau a i to je vlastně jedna z variant, jak vizualizovat data potom
+uvnitř a vlastně ty data tam taky nemusí primárně bejt, tedy až si tam
+má embednout. My to zatím moc nevyužíváme, ale jako je to jedna z
+alternativ pro jakýhokoliv klienta, který Salesforce má.
+No a teda zpět vlastně k týmý původní otázce v tom řešení těch
+tradičních vývojářských bolestí, řešíte technologický dluh, máte tam
+problémy, který má klasický prostě java.net Python vývojář?
+Ne, žádný dluhy v bonce.
+Ne, ne, ne. A technologický to jsou jiný. Ty platí někdo jiný většin.
+Já na to odpovím jedním slovem ano.
+Ano, ano, no dobře, ale tak pojď to trošku rozvízt.
+Technologický dluh.
+Ukažte mi projekt, kde není technologický dluh.
+Já si myslím, že to neexistuje.
+A mohl bych ho vidět.
+Samozřejmě máme hromadu technologickýho dluhu, jsme hnaný
+byznysem, potřebujeme mít rychlý delivery, občas musíš udělat nějaký
+ústupky, udělat něco jako jiným způsobem, než bys to udělal
+standardně. Technologický dluh se snažíme odbavovat, samozřejmě nejde
+to tak jako prioritně, jak já bych si třeba osobně představoval.
+Minulej rok se mi podařilo v březnu přesvědčit Domain Leader, aby jsme
+vynechali byznysovej release a dali si jenom technický, aby jsme se
+fakt pověnovali jako jenom tomu technickému dluhu. Zní to krásně,
+to tak krásný pak nebylo, samozřejmě nějaký byznysový featurey se tam
+dodávaly, ale máme výhodu v tom, že naše feature squady si
+uvědomujou nutnost toho odbavovat technický dluh, protože všichni
+chceme stavit jako řešení, který je škálovatelný a dobře vybudovaný.
+A technický dluh u nás právě hlídá Team Salesforce platforma, takže
+mají opravdu backlog toho, čemu si musí vinovat, něco odbavují
+samostatně, něco odbavují feature squady, ale ten list jako není
+krátkej, je to normální. Máme standardní bolístky jako všichni jo.
+Tak je ten jak shaving jedete, že jako ty vole, abych udělal tohle, tak
+musím tohle, a abych udělal tohle, tak musím ještě tohle, a najednou
+zjistíš si, že to bolí, že vlastně musíš zahodit celý Salesforce.
+Ty jsi ještě zmiňoval ty delivery. Vlastně, jak to funguje v kontextu
+toho, jak jsi popisoval, že přidáš někde sloupeček, musíš o tom
+informovat tu komunitu, že jo, nebo ty tvoje zákazníky. Tak
+vlastně, jak probíhají ty deliveries, jak často, protože jdu si
+představit, že to asi není každej týden, byť by ta platforma to
+asi uměla, ale vy musíte vlastně respektovat ty vaše zákazníky.
+Hele, tak máme tady, dodržujeme pravidlo bankovních releaseů a
+všechny ty věci
+máme už zafixovaný na základě sprintu, co budeme doručovat. Máme
+nějakou prioritizaci, kterou vedeme kvartálně, jsme agilní projekt,
+takže víme, co budeme dělat v Q1, ale nevíme, co budeme dělat v Q3,
+když to řeknu takhle jako zjednodušeně, ale máme nějaký cíl projektu,
+protože pořád jsme brani jako projekt. S tím, že ty vlastnosti,
+kterými přidáváme pro ty uživatele, tak jsou samozřejmě zmapovaný,
+vychází to na základě nějakých jejich požadavků, to řeší tým
+change managementu, ale pro nás jako primárně pro ten projekt je cílem
+zavřít to starý CRM, ten cíl. Takže děláme všechno pro to, aby jsme
+dokončili ten DECOM, ty důležitý featurey přenesli do Salesforce,
+ale jasně, dostanou se ti tam právě i tyhle ty věci nový políčkou,
+nový sloupeček, takže ty releasey běhají vokolo vždycky v okno nějakého
+20. až 25. měsíce. My to máme naplánovaný, každý to řešení je,
+to máme jako složitý ten release proces, jo.
+Já se do toho nechci zamotat, protože až to uslyší kolega, tak mě určitě
+vytáhá za uši, ale my to máme ten release řešený pomocí nějakých
+balíčků, takže každý release my instalujeme novou verzi toho
+Salesforce, když to přeženou těch metadata a jsou tam mezi tím nějaký
+závislosti a podobně a každý projekt má jeden až několik balíčků.
+Pokud my chceme dodat, řeknu třeba ten novej sloupeček nebo nějakou
+novou tabulku, related list nebo změnu v tom vzhledu, jak to má být,
+tak prochází to samozřejmě standardním procesem, prioritizace
+navrhneme, blá, blá, blá, vyvinese to, pak se to představuje a testuje
+všechno na nějakém jako předprodukčním prostředí a na základě toho
+vychází náš change management, který připraví komunikaci, ta je spojená
+ať už někdy s vysíláním, nebo se to řeší na review toho projektu,
+kam chodí jako lidi z biznesu, ale vždycky chodí ta releaseová
+prezentace, takže ty uživatelé fakt jako vědí, co je dodáno,
+případně na co se mají, na co se mají těšit.
+Řekni mi ještě tím, že používáte věci od Salesforce jako třeba
+právě ten jazyk, jak jsi řekl ještě jednou, jak se jmenuje ten?
+Apex.
+Apex. Tak jak tam do tohohle zasahuje ta dynamika toho, jak třeba často
+vydávají se nový verze toho jazyka, nějaký nový jazykový feature,
+nový keywordy nebo obecně třeba nějaká změna paradigma, vlastně
+nevím, ty jsi říkal, že to je objektově primárně, má tam i nějaký
+třeba funkcionální feature nebo něco takovýho?
+Všechno, co jsi tady řekl, tak ano, ale já začnu tím, jak Salesforce často
+mění ty věci. Salesforce má třikrát ročně release, spring, summer, winter
+a tam vždycky přináší nějaký změny, ať už je to spojený s datovým
+modelem, automatizacema, integracema, verze APIček a podobně, tak to
+je vždycky součástí tady toho a občas nám to způsobí problém, jo?
+To řeknu, třeba minulej Salesforce release jsme zjistili, že nám
+přestali fungovat automatizovaný testy z nějakých důvodů, což se může
+stát, bylo to velký halo, vyřešili jsme a snažíme se k tomu postavit,
+jak už teďka tak, čeká nás spring release tuž 70., jestli se dobře
+pamatuju, a snažíme se k tomu postavit tak, aby jsme to měli všechno jako
+v pořádku a podchycený. S tím, že Salesforce to rozšiřuje a já,
+když vezmu jako ten stack, jo, když já jsem k tomu přišel, tak Apex
+tam byl, ten je prostě jasný, jo, to je jako fakt ten kórový nástroj
+nebo kórový jazyk, ale ten frontend, tak ono to začínalo v něčem, co se
+jmenuje Visual Force Page, ono to pořád existuje a občas to jako můžeš
+na něco využít, ale představ si to jako starý, ošklivý HTMLko, když
+přijdeš jako, nevím, v devadesátkách nebo v roce 2000 na ten web a
+vypadá to fakt jako ošklivé, jo. Pak to změnili, když přišel
+Lightning, že dlouhou dobu Salesforce vypadal jako blog třináctidotý
+holky na MySpace, reálně. Kdo to zažil, tak bude vědět, jo.
+To je zajímavé, kdo z posluchačů ví, co bylo MySpace, ty.
+Já nejsem zase tak starý, ale zažil jsem to, jo.
+Ani zase tak mladej, jo.
+Ani zase, děkuju.
+On vlastně zmigroval na ten Lightning a tam byla Aura, jo, to byl
+taký tool, který byl vyložen frontendovej a to už bylo jako
+woblí a hezoučí a podobně, jo, a za nějakou dobu to zabili, nebo
+postupně to zabíjej a teďka už tam jsou ty LVCčka.
+Takže jako ten technologický posun tam je.
+A další krásný příklad je na těch portálech, ten Experience Cloud.
+To zříct taky začínalo, že to vypadalo jako fakt příšerně, jo.
+Byly tam nějaký templaty a ty se tam nataháš, ty obrázky, ikonky a
+bylo to ošklivoučký.
+Já jsem nikdy nechápal, kdy jsem se podíval na komunitu od Gopra,
+který taky frčí na Salesforce a má na tom postavenou komunitu, jak
+to dokázal udělat tak hezký, jo.
+Poznáš na první pohled, že to je prostě ta komunita, že ten
+produkt od toho Salesforce.
+No a Salesforce vlastně do toho postupně šel a šel a pak jsi
+mohl dělat nějaký vlastní šablony a pak vydal vyložené tu technologii
+frontendovou LVR, jo.
+Nezaměňovac LVC, LVC je pro jako Insights Salesforce vývoj, LVR je
+opravdu jako pro ty portály.
+Takže ty posuny jako technologický tam jsou, člověk je o tom vždycky
+informovaný a zároveň jako ty největší věci, který se třeba
+dějou, tak jsou fakt extrémně sprofanovaný.
+Na těch blogách, já to čtu doteď, protože jsem toho fanda a zajímá
+mě prostě věci, který tam jsou.
+Anebo, hele,
+stačí se pobavit s chat GPT, jaký největší deliveries budou teďka v
+příštím release, na co se máme připravit, co máme otestovat a
+podobně.
+Takže oni do toho tlačej strašlivé moc, mají samozřejmě produktovou
+roadmapu, která má někdy jako trhliny, ano, a někdy nemá termíny,
+jsem chtěl říct.
+A tam se to dá poměrně hezky vyčíst.
+Prakticky verze API se zvedá, mám pocit, snad každý rok, rozšířuje
+se to.
+A
+ty APIčka, hele, resty, balky, GraphQL API, soupy, takže má to fakt
+všechno. A mně to je sympatický, že ty, když máš nějakýho jako
+tyrannosaura, nějaký systém a potřebuješ se napojit na ten Salesforce, tak
+on ti to umožní. A mnohdy na to najdeš třeba někde nějaký konektor,
+který sice nebude fungovat tak, jak si představuješ, ale budeš mít
+možnost ty dva světy propojit, což mi přijde jako šíleně fajn.
+Jak moc je Salesforce
+jako
+citlivý na, řekněme, zpětnou kompatibilitu? Protože jsou firmy
+typu Microsoft, který prostě odmítají cokoliv zabít v jazyce, který
+počítají s tím, že třeba 20 let na tom běží software a odmítají v rámci
+jako změn do toho šáhnout. Což má svý, bohužel, i negativní
+dependence. Samozřejmě ta jistota v tom, že ti to poběží po 20 letech
+převažuje, ale řekněme si, že to není úplně jako vždycky růževej
+scénář. Jak je k tomu necitlivý Salesforce? Je trošku dynamičtější,
+nebo naopak, jednou jsme dali něco do Apexu a to klíčový slovo tam
+bude, i kdyby prostě čert na koze jezdil? Hele, AI si myslím, jo.
+Salesforce je postavený na tom, že i ty, když tam už máš technologii,
+která je označená jako deprecated, máš tam nějakou automatizaci, tak
+ona ti prostě poběží, ale už nemůžeš vytvořit novou. A vždycky,
+když se něco takového děje, tak Salesforce vydá to prohlášení,
+svítí to na tebe všude, jako v setupu Salesforceu. Hele, zabijíme
+třeba proces Builder, což bylo taky nástrojem na ty automatizace.
+Všechno si zmigrujte do flowchek a tady od nás máte nástroj, který vám
+s tím pomůže a rovnou vám to třeba zmigruje. Stále to za to, jo,
+všechno se muselo přepsat. Co se týče toho Apexu, samozřejmě,
+hele, ten kontinuální vývoj, tam musí bejt. Vždycky se vyplatí
+udělat nějaký refactoring, jo, po každý, když přijde jako nějaká
+nová věc, nějaká velká věc. A reálně si myslím, že když si někdo,
+nějaká firma, Salesforce je orientovaná, napíše nějakou komponentu,
+mají 20 let, to není reální. Ta firma by se jako neposouvala, jo.
+Fakt si myslím, že tady do těch věcí se vždycky bude šát. A zpětná
+kompatibilita, hele, vidím teďka Lightning, i kde jsou části jako
+Visual for Space stránky, protože furt si to tam jako můžeš vložit,
+dá se to. Podporujou to, ale není to jako nic, co by bylo asi
+preferované. Je to moderní technologie, oni taky chtějí, aby se na tom
+dělali hezký, velký věci, nový věci, je to reklama pro ně. A ty jako
+klient, když máš ten mindset, proč bys používal něco, co před tebou
+někdo udělal, víš, že to neplní jako veškerý use case, který si
+představuješ. Vypadá to hnusně, debilně se to ovládá, pardon. Tak
+radši jako investuješ nějaký svůj čas, čas možná jakého partnera,
+který ti pomáhá s tou implementací a předěláš si to, abys byl
+efektivní. Jo, je to fakt jako nástroj, který ti má pomáhat. A já si
+nedovedu představit, ani kdy jsem nezažil, 20 let jako nedělám Salesforce
+celotevřeně, že by nějaký klient měl něco vyvinutýho a měl to tam
+přes 20 let a nešáhnul na to.
+Jasně, jasně.
+No ale když máš takhle vhled do těch CRM, tak v čem máš pocit, že ten
+Salesforce je prostě rozdílový, oproti třeba konkurenci a je to ta
+robustnost, je to ta komunita nebo v čem to tkví?
+Hele já si hlavně myslím, že marketing,
+protože
+on to umí skvěle, on tě dokáže ukecat, má skvělý salsáky, ale je to i
+ta robustnost. On nabízí to, co jako ostatní systémy nenabízejí. A jsou
+to takový ty drobotiny, že jako když si to pak dáš dokupit, tak ti z toho
+vznikne krásný obrázek a řekneš si ty jo, je to sice jako 25 dolarů
+dražší na uživatele, než tady tohleto CRM, ale zase mě to nabízí
+tohleto a tohleto. A ostatní CRM nemají třeba ty release třikrátročně a
+nemají takovou podporu, jo. Protože ty máš možnost, ty vlastně se Salesforceem si
+nekupuješ jenom ten produkt, ale kupuješ si, máš nějaký trouble, napíšeš na
+supportu. Indie, jo, klasika, oni se ti budou věnovat. Zároveň máš tam ty
+release, takže ten systém se ti rozšiřuje o nový vlastnosti. Ten salsák se ti
+věnuje. Snaží se ti samozřejmě tlačit nějaký další produkty. A zažil jsem
+firmy, který si koupili Sales Cloud a konec, dobrý, stačilo, jo, máme tam
+všechno. Ale většinou ty firmy tady do toho jdou jako v rámci strategického
+rozhodnutí a uvědomí si, tyjo, tak já když si tady koupím jeden produkt, tak to
+pro mě může být jako ten středobod firmy. Můžu to rozšiřovat o marketingový
+nástroje, obchodní nástroje, můžu tam mít ten servis, můžu si postavit
+nějaký portály, můžu si na tom postavit datovou základu, můžu si na tom
+vybudovat AI a tak dále a tak dále. To je ta robustnost, kterou prostě
+ostatní nástroje podle mě teď aktuálně nemají, nebo ne, respektive v takhle
+velký míře, jako to má Salesforce.
+Je za poslední dobu nějaká nová věc, nějaká fíčura, nebo prostě něco, co
+přišlo v rámci releaseu ze Salesforce, že jsi řekl, tyjo, to je pecka, na tohle
+jsme čekali takovou dobu? Je tam něco, co ti vyráží dech pravidelně?
+Ne.
+Ne, dobře.
+Ne, ale jako jsou tam menší věci, jsou tam věci, které pak dávají smysl
+třeba s odstupem času. Taky jsme zažili ještě v předchozí firmě, že
+přišel release a nejenom jsme zjistili, že nám nefungovaly integrace pro
+změnu. A bylo to na všech projektech, protože oni zabili nějaký pattern,
+kterým jsme tam využívali, takže pak na vlastní náklady ty voláš klientům,
+hele, budeme to opravovat a kluci to opravovali v rekordním čase, takže
+klobou dolu před nima. Může se stát tohle. Pak těch releaseů, za mě
+největší release, co si pamatuju, tak to bylo druhej, třetí rok možná,
+co jsem dělal ten Salesforce, takže fakt jako vydali ten lightning.
+Že zmigrovali z toho klasiku, to si pak klidně vygooglujte, jak to vypadá,
+je to příšerný, tak zmigrovali na ten lightning a to byla ohromná změna.
+Ale jasně, měla to bolístka, prostě ta obrazovka se načítala 3-4 vteřiny
+a člověk se to byl frustrovaný. A najednou všechno vypadá jinak,
+ale paradoxně oni nezmigrovali všechno. Třeba v setupu furt vidíš to nastavení,
+ne pro všechno.
+Na druhou stranu tohleto bych jim úplně nezazlíval, já třeba tím,
+že používám poměrně dost googleský tooly, tak tam je to,
+hele tam narážíš třeba prostě, klasika, přátelé, v Gmailu,
+já furt nechápu, že kdykoliv si dáš settings, tak ty settingy prostě vypadají
+ty vlastně na 10 let stejně, to je, tohoto mlko zatím se prostě nezměnilo.
+Starý dobrý settings.
+O jedno CSS, jako vůbec prostě a každej ten produkt vypadá lehce trošku jinak.
+Takže pokud tohle dělá Google, tak bych to Salesforce tak jako nezazlíval.
+Přesně, přesně.
+Tak funguje to jak Salesforce, tak i na Google, jo?
+Jo, je to pravda, jako funguje to, ale je to vlastně vtipný,
+že firma, která se profiluje jako technologicky, že jde dopředu
+a v mnoha věcech jde, tak pak prostě u toho stěženího produktu,
+který ji vedle vyhledávače, ji vlastně jako vystřelil,
+tak tyhle furt to vypadá prostě v některých místech jako archaicky, jo.
+Zajímavý, zajímavý.
+No a mě napadlo teda, když tě vlastně nic nevystřelilo teda,
+jak jsi říkal, tak co AI, co jak vidíš, že Salesforce se poslouhá
+v téhle oblasti, řeší to každá firma, tak jaký je ten přístup jejich?
+Hele, AgentForce, to jejich AI oznámili dva roky zpátky
+právě na té konferenci Dreamforce v San Francisco
+a já jsem měl možnost to tam slyšet asi z druhé řady, jo,
+což bylo naprosto famouzné.
+Ale člověk už to vlastně tak trošku očekával, jo.
+Ten trend tady je, takže jako bude, nebude, tak jak to bude.
+No a jako, hele, reálně, já jsem toho fanda.
+Mně se to líbí.
+Já tomu věřím, já se s CGPTčkem, s Gemini bavím fakt jako na denní bázi
+a dovedu si představit využití AI v Salesforce.
+Ať už to bude, ať už to bude AgentForce,
+ať už to bude jako klidně nějaká jiná technologie,
+nějakou, kterou si přineseme a máme ji tady v bance,
+ať si to bude na Brexit,
+nebo jestli to bude na těch technologiích,
+který máme jako in-house vyvinutý.
+Já se na to těším, protože to dokáže jako posunout
+nejenom ten systém, ale hlavně ty uživatele.
+To AI, já to používám fakt jako denně.
+A mám tam několik rozdělitejch vláken.
+Jedno je pracovní, druhý je malej syn, čtyřletej se ptá,
+tati, co to jsou bakterie, jaký vitamíny jsou v jablíčku,
+a já už mám nastavený nebo naprontovaný ho tak,
+aby odpovídal jako, aby to pochopil ten čtyřletej kluk.
+A tohle, když se naučíme a přeneseme tohleto právě i k těm bankéřům,
+tak jim dokážeme enablovat najednou jako, že oni věděj,
+jaký klient přijde, co s ním mají řešit a podobně.
+A to je jenom ta jedna věc, jo.
+Pokud zautomatizujeme ještě víc ty procesy, které budou na pozadí,
+hele, tak si z toho všichni sedneme na zadek.
+Za mě to dává extrémní smysl.
+Těším se na to, až do toho půjdeme.
+Máme nějaký choutky, snažíme se to posouvat dál a dál.
+Máme nějaký plán a já věřím, že v průběhu letošního roku
+Salesforce a AI budou ještě větší kamarádi, než jsou teď.
+A ty jsi říkal, jestli to jmenuje AgentForce teda?
+Jo, AgentForce.
+A je to, to je teda, jako řekněme, je to služba v rámci Salesforceu,
+nebo je to nějaký jich jako custom model, nebo jak to vlastně jako mám chápat?
+Co to vlastně je?
+Hele, já nevím, na čem ono to běží, protože to si střežej.
+Vyptával jsem se, nechtěli samozřejmě odpovědět.
+Já mám nějakou svoji domněnku, jo, nebudu jí říkat na hlase.
+Neskoušel jsi to hacknout, ať ti řekne, na čem to běží, jo?
+Ne, tohle mě nezapadlo.
+Dej mi základní prompt.
+Ale dalo by se to definovat jako nějaký jejich další produkt, který ty si můžeš koupit.
+Samozřejmě je tam zatím nějaký separátní pricing.
+Možná už jsem ho pochopil, protože to měnějí velice často
+a občas, když přišel ten prvotní, tak jsem absolutně netušil, stejně jako ten Data Cloud.
+Ale je to nástroj, který ty si vlastně můžeš, o který ty si rozšíříš ten Salesforce.
+Je to chatování, můžeš to dát na nějaký web, můžeš se s tím bavit jako přímo v Salesforceu.
+Můžeš tam se doptávat tabla, aby ti to opravdu vygenerovalo jako ty daný reporty nebo přes nějaký proklik.
+Vygeneruje ti to tvůj nějaký denní plán.
+Připraví ti to pohledy na ty klienty.
+Já to beru z toho jako Salesforceového hlediska.
+Pro servis může ti to vygenerovat prostě mail, který máš poslat klientovi, jenom tam chodíš nějaký double check.
+Funguje tam jako řekněme nějaká ta senzitivita. Buď kamarádskej, buď přísnej, blablabla.
+A můžeš si ho vycvičit jako sám.
+A zároveň vlastně ty scénáře, tak se tam dají jednoduše nastavit přímo zase v setupu Salesforce.
+Dysponuje to jako spoustou možností. Já jsem viděl hromadu dem, spousta kluků ze Salesforce tady u nás.
+Bylo přímo jako ve sporce, měli jsme na to definovaný nějaký use case.
+Ale ještě jako nebyla ta správná doba, že bysme o tom byli přesvědčený.
+Já si myslím, že přijde letos, protože fakt tomu míříme.
+To naše AI, kterýme tam máme, o kterém jsem mluvil na začátku, tak to je vlastně postavené na tom custom řešení.
+A pokud se rozhodneme jít do toho AsianForce, odhalíme ten pricing model.
+Vidíme, jak to všechno funguje.
+Třeba na to můžeš použít jiný AI, aby pochopilo pricing.
+Řeším to s dbtčkem, no.
+Tak já se těším na ty světlý získy, protože i banka směřuje k tomu, že to AI bude všude.
+Lítá to všude kolem nás.
+Já tomu věřím.
+Vždyť už to tady je s námi několik let.
+A já vidím ten vývoj.
+Mně to je extrémně sympatický.
+Ale reálně, když dostanete nějaký task, úkol, whatever, já to mnohdy proberu s dbtčkem, co si o tom myslí.
+Když na to nemám jasný názor.
+Teďka jsem s ním řešil technologie od Microsoftu.
+Shifty, Booking Tool, O365.
+A integrace přes nějaké naše služby, které tady máme, protože to řešíme v rámci jiného projektu.
+A on ti dokáže...
+...
+On je taky docela lumpy, ať nejsem vulgární.
+Ty když po něm chceš, aby ti dal prostě něco negativního, tak on ti ty náboje dá.
+A já se ho snažím naučit to.
+Dej mi fakt rovnocený pohled na to, v čem mi to může pomoct, v čem mi to může uškodit.
+A já jsem teďka dospěl k tomu, že ty produkty od Microsoftu vlastně nejsou dobrý na to, co my chceme použít.
+Nebo na co my to chceme využít.
+A když jsme v pondělí mluvili s nějakým Slovencem, který je pro nás odpovědný za ty shifty.
+Tak jenom potvrdil tu moji hypotézu, která tam je.
+Takže tohle, když se naučíme využívat i v té práci, nebo ty bankéři naučí.
+A nemusí to být jenom bankéři, můžou to být kolegové z PPM Culture, z Legal, nebo z dalších útvarů, kde ten Salesforce v budoucnu bude.
+Hele, my najednou zjistíme, že máme tolika volného času a můžeme dělat tu práci, kterou doháníme po večer.
+Prosím tě, ještě když jsme se dohodkli tohle tématu, mě to samozřejmě zajímá i na té vývojářské úrovni.
+Co ten tvůj tým používá? Nějaké co-piloty? A jak vlastně třeba jsou ty asistenti naučený?
+Protože, co si budem povídat, samozřejmě asi ta komunita určitá je za Salesforcem, ale není to jako ten sample, ze kterého se učil, není takový jako třeba javovský TypeScript nebo C-sharpovský code.
+Hele, někteří co-pilota používají, ale spíš od tohoto kluzu jako couvají.
+Jo?
+Nevím z jakého důvodu, neměl jsem ještě prostor to s nima jako otevřeně probrát, ale podle mě to nebude takový, jak prostě očekávají, že to nebude tak chytrý, že jim to prostě možná udělá spíš jako nějaký větší trouble, než by to mělo být.
+A nějaký CLI tooly typu Cloud Code nebo Gemini jako v tom CLI módu používat? Já jsem se totiž na to teďka jako zvyk.
+A vlastně mě to zpátky úplně jako unlocknulo to, že nejseš vlastně v tom chatu.
+V tom chat UI, ale ty mu vlastně můžeš předhodit cokoliv. Takže znám člověka, který vlastně si tím jako řeší prostě různý jako kreativní věci na podcasty a tak dále.
+Někdo tomu přehodí Obsidian a funguje v celý té svým jako second brain, že ho to nechá přechovat, protože furt to jsou Markdown faily, že jo, ve finále v Obsidianu.
+A jsou lidi, kteří takhle řeší vývoj, že řeknou, já si tady napíšu Markdownu nějaký postup, jak asi bych to chtěl i naimplementovat a udělím nějaký jako první proof of concept. Tak děláte něco vy takovýho?
+Hele, já nemůžu mluvit za kluky, ale osobně si myslím, že ne, jo. A už jenom když zohledím ty naše standardy, best practice, který jsou fakt jako extrémně specifický, i kvůli tomu vývojovýmu procesu, jak to máme nastavený, i kvůli tomu releaseovacímu procesu, tak si myslím, že ne, ale nedokážu to říct na 100%.
+Třeba to tam někdo používá a já o tom nevím. Nemůžu vlastně každému sedět za zadkem, ten tým je fakt jako velikánskej a já proti tomu nic nemám. Ať používají to, co jim vyhovoje, ať používají to, co je produktivní a dokáže to urychlit ten vývoj.
+Tým je velikánskej, kolik máš lidí? A jak to je rozdělené, ty jsi změňoval názvy některých týmů, tak jak to vlastně máš nastrukturovaný?
+Fů, no.
+V high levelu, dejme to.
+V high levelu. Hele, tak já mám tu výhodu, že mám ještě k sobě partiačku, doménlítku byznysovou, Verču Řehákovou, takže jsme na to naštěstí dva.
+A my to doménu máme velikou a já si s toho dělám srandu, že my umíme dělat jenom velký věci.
+A začnu tím, že máme tým CBLU slash DCC. Je to vlastně jeden tým, který se venuje decommissioningu a občasnímu rozvoji toho CBLU, když je to potřeba, řekněme, nějaký udržby.
+Zbytek toho týmu se venuje postavení toho novýho MDMka, kterýmu my říkáme DCC Data Client Core.
+Pak tam je tým zpráva klienta, ten je zodpovědnej například za KITSku, registry a další aplikace spojený, řekněme, s nějakou komunikací se státem.
+Pak tam máme dva týmy, který já už beru jako jeden a to je tým telefonie, protože my zodpovídáme za iGNC z Tarybance technicky.
+A teďka tam vlastně řešíme, jaká bude naše nová technologie v budoucnu.
+Bude tam hrát roli pravděpodobně Salesforce? Ano.
+Tým si? Ano.
+Možná něco dalšího? Asi jo.
+Pak tam máme tým, který já mám o sobě hrozně rád a to je tým šablonářů.
+Šablonáři.
+Oni jsou skvělí, ten tým to je radost se s nimi bavit.
+Ty bys seděl vedle kvalitářů.
+Šablonáři a kvalitáři.
+Oni jsou dokonalí, oni tu svoji práci milují a dělají strašně dobře, připravují vlastně šablony pro banku.
+A občas, kdy za mnou přijdu, jako, hele, oni si tam vymysleli, že chtějí mít obleuček, místo hrany.
+Tak to s nimi člověk řeší a říká si, tyjo, vlastně oni dělají takový spoustu drobných práce, která má dopad na tu banku a je to všude vidět, jo, pro klienty, ve všech komunikacích.
+To znělo trošku jako, tomu se udá hrozný práce.
+Tyjo, doufám, že mi nevědají tady za to.
+Ne, věřím, že ne.
+Ale ještě pečkej, šablony, ale to není jenom o CRMku, šablony jako všeobecně, jo?
+Šablony všeobecně, to není spojený se CRMkem.
+Jo, jo, jo. To je skvělý, že se to hrozně líbí. Však je ta tendence jako místo účetní, že je chief account manager, nebo něco. Tak konečně ve společnosti si to pochopili, že správný názvej, jsme u těch šablonářů.
+Hele, a to poslední, to největší, tak je Salesforce. Tam máme tři feature squady, takže byznysový, který opravdu jsou zodpovědný za to, aby se ten Salesforce rozvíjel. Máme tam tým change managementu, který je spojený i s UXem, a máme tam Salesforce platformu.
+Aby jsme toho neměli málo, tak ještě teďka máme na starost projekty znalostní báze, což je jako federalizovaný projekt, ale máme tam jako na to sdílený jedno POčko.
+Především projíždím teďka očima ten cancel, myslím, že jsem na nic nezapomněl.
+Pojím.
+Na paní teďka, na do prčist, nikdy si mě nevšiml.
+Hele, já znám všechny jmény, jo, to jsem se prostě musel naučit.
+Takže kolik je to lidí teda?
+Přemejšlím, já si myslím, že v okolo nějakých 130, 140, 150.
+To je všechny jmény, jo, dobře ty.
+Jo, ale to jako vy, to máte z verčů vlastně jakoby, jsou tam i ty byznysový lidi.
+A my máme vlastně ještě tým v Prostějově, na ten jsem zapomněl, na KCčku, ale kluci jsou součástí právě jako oficiálně toho týmu, který je v Praze.
+Jo, jo, jo.
+A hele, já jsem na někoho zapomněl. Já jsem zapomněl na naše obsáky. My máme jako její obs tým a máme naprosto famózní obs tým. A teď to myslím vážně.
+To znamená, že to dělají dobře.
+Přesně, že o nich nevíš ani.
+No, jasně.
+Já o nich chci vědět.
+Jo, jo.
+A pak já o nich chci vědět, protože vím, že dělají jako extrémně důležitou práci a já jsem na ně pišnej. Oni byli dřív na trackboyový úrovni a když se tam děli nějaký změny, tak jsme se je vzali k nám do domény a to je naprosto famózní ta spolupráce s nima.
+Ten tým, všichni, já si stojím za každým tím člověkem, kdo tam je, protože já jim věřím, že tu práci dělají dobře a já nemůžu být vždycky v detailu. To bych se z toho zbláznil.
+Můžu být v detailu někde na něčem, chvíli, ale těch témat, kterými děláme, to musí odrajovat ty lidi. Já v něm mám důvěru, když má nějaký problém, tak jsem od toho, aby za mnou přišli, aby jsme se o tom pobavili, abych já jim pomohl, abych je prostě...
+Mnohdy je to i psychologická práce. Ty prostě máš tam člověka, který je naštvaný, rozlítanej, si s ním sedneš, dáte si to pivo, pokecáte, dáte si to kafe, cokoliv. Hlavně to trošku zkoordinovat. Je to extrémně lidská práce a mě to baví.
+No to je vlastně, to si to... Ne, problém. Návazný dotaz byl, co teda dělá Martin Wagner takhle v normální pracovní den, když se na netočí v nejlepším IT podcastu.
+Hele, to je otázka, na kterou jsem se vzal.
+Na kterou jsem já včera přemýšlel. A my jak máme spoustu témat, těch technických, tak řeším ty technický témata, protože potřebuješ vědět, co se kde děje. Potřebuješ někde zatáhat zanítku.
+Potřebuješ jít nahoru, když tam sedějí Italové, odprezentovat přístup DCCčka. Musíš mít jako určitou míru detailu a musíš dávat podporu těm lidem. To je jako z toho technickýho pohledu, mnohdy samozřejmě sklouzávám k solutioningu.
+Já jsem jako ajťák, jo. Já to neumím prostě mluvit jenom biznisově.
+Takže na spoustě zkouskách, jako už říkám, jo, tak to uděláme takhle, tam bude tahle komponenta, blá, blá, blá. A pak si říkám, jo, Martine, od toho tam máš ty lidi, jo. Ale snaží se nějakým způsobem nakopnout, snaží se jim nějakým způsobem pomoct.
+Z té technické stránky neprogramuju. Neklikám nikde nic. Fakt jako se snažím jenom podporovat ty lidi tak, aby to dělali dobře. A jak máme hodně lidí, musíš se o ně starat. Je to potřeba, aby se ti ten tým nedosypal.
+Samozřejmě ale vždycky všude je něco, jo. Co musíš jako upravit, co musíš vyřešit. Zodpovídáš pořád za spoustu aplikací, který ty máš na starost, za spoustu velkých projektů, kterými tam máme. Takže je to, není to jenom IT, jo, je to prostě IT, je to i biznis.
+Řešíš tam věci, kdy za tebou někdo přijde a potřebuje počítač, jo, třeba vyměnit. I tohle to jsou jako ty drobotiny, který se dějou, schvaluješ výkazy, řešíš objednávky, jo. Máme spoustu externistů, prostě ty lidi potřebují dostávat peníze.
+Ten scope té práce je extrémně širokej. Já řeším jako i teďka věc, která je spojená se Salesforceem a s kontraktem. A to mě teďka žere jako docela dost času.
+Řešíme změny v bance, kterých nám přitejká, je ohledně prostě toho, jak se má vykazovat, jak se mají dělat objednávky. Řešíme věci, které jsou technologičnějšího rázu, jo.
+Přijdou za mnou kluci a, hele, potřebuju tady radu. Bavím se s Enterprise architekturou, protože mnohdy mám jako taky nějaký silný názor na to. Miluju ty diskuze s nima, jo.
+Stojí to vždycky jako občas spoustu úsilí prosadit si tu svou, jako abych se vůbec dostal k tomu jim to vysvětlit. Ale poslouchej.
+A vždycky jako aspoň si mě vyslechnou a, hele, někdy řeknou, jo, to je blbost, jo. Protože to má dopad támhle do systému, o kterým ty nevíš a nemůžem to takhle udělat.
+Ale poslechnou si tě. Pak, hele, řešíš jako, v hlavě mi všechno běhá, jako můj dnešní program, jo. Řešíme tam roli tech leada na Salesforce, jo.
+Protože budeme řešit někoho, kdo bude fakt pomáhat v rozvoji těch vývojářů. Pak tam řešíme strukturu toho celýho týmu. Kdo by měl vlastně dělat co, jo.
+Řešíme tam časovou osu dalších projektů. Je toho fakt šíleně moc a ty věci přitejkaj. Spousta věcí přiteče samozřejmě, jako, ještě z vyššího managementu.
+Řeknou, hele, potřebujeme tady naplánovat nějaký budget na další rok. Potřebujeme naplánovat vaši projektovou lineu. Nějakou timelineu, tak abysme věděli, co budete dodávat.
+Bojujeme za ty témata, abysme je dostali tam, kam chceme. A scháníme peníze.
+Já jsem rád teda, že nejsem jedinej, kdo vždycky, když se začne dlouho bavit high level, už pomaličku sklouzává k tomu solutioningu vždycky úplně.
+Chceme se sednout na ruce a říct, jako, ne, nebudeš to psát nic. Takže tu takovýto tendenci, jako, že jdeš po tom kanclu a říkáš, uhni, pusť mě k tomu, já ti to tady napíšu v tom Apexu, to jako, to jsi zakázal, jo?
+Hele, já jsem si to zakázal, ale nejhorší je, že večer, když mám čas, jako, když děti usnou, tak vezmu ten počítač a jako, já si říkám, dělám to pro sebe.
+Abych nevypadl jako z nějakého rytmu, tak furt jako si ten Salesforce klikám a ověřuju si to. Já jsem extrémní fanoušek prototypů. Protože ten prototyp, tupě něco naklikanýho nebo napsanýho, dokáže přesvědčit business, architekturu a ty lidi to dokážou víc uchopit.
+Takhle se mi to podařilo protlačit jako nějaký federalizovaný projekt na Salesforce. A jenom tím, že jsem si naklikal něco po večerech a já hrozně rád říkám, jako, hle, mně stačí basa piv a víkend a já to udělám.
+Jojo. Prosím tě, ještě ty jsi, tak jsi krásně mluvil o svém týmu. Jak se do takového týmu vlastně scháněj lidi? Protože ne asi každého vývojáře to úplně, řekněme, natchne to, že bude dělat v Apexu, že bude zamklej do nějaký platformy.
+Pro někoho to naopak může být jako zajímavý. Jak třeba tohleto rozlišujete, jak tohleto boostujete, aby to bylo zajímavý?
+Ale já řeknu jednu věc. Salesforce je sexy. A on hrozně táhne. Ta komunita v Česku je poměrně velká. Já si netroufám tvrdit, kolik tady může být lidí, kteří se jmenujou Salesforce, ale budou to stovky.
+Stoprocentně stovky. Za tu svoji dobu já jsem poznal lidi, kteří k tomu přišli jako slepí k houslim. Já ve finále taky. Ale ty, když jsi nějaký vývojář, tak si se posunout.
+A v Salesforceu ty prachy jsou, já to řeknu otevřeně. Každý z nás má nějakou cenu a ty Salesforceáci nejsou levný produkt. Rozdíl HPP, rozdíl ICO, teďka do toho asi nebudu zacházet.
+Ale Salesforce a spořitelna táhne. My jsme dostali marketingový ocenění tomu, jako asi můžu tak nazvat, za nejvíc inovativní implementaci v rámci Financial Services Cloud of CE.
+To je jako jedna z věcí, že to prostě děláme dobře. Ale to budování toho týmu, tak to nám šíká.
+A my jsme šíleně pomohli konzultačky. Takže externisti, který tady máme, jsou tady od začátku toho projektu. Ty interní lidi, já jich znám spoustu. Někoho jsem oslovil, někoho se jsem podařil dostat.
+Pohovory jsem měl na starost já, pořád se u toho snažím trošičku držet, protože mi to dává hlavu a patu. A ten tým my teďka podle mě máme super vypostavený.
+Jasně občas někde potřebuješ někoho doplnit, to tak prostě je, protože přijde větší kapacita, nebo najdeš nějaké peníze.
+Tak bereme externisty.
+Tak to je. Dokážeme prostě vyzjistit ty kapacity od těch našich konzultaček, který tady máme vysoutěžený, nebo partnerů, aby nám je dodali.
+A do interna teď aktuálně úplně nehledáme. Je nějaká situace, se kterou se musíme popasovat.
+A ten mix, já jsem hrozně rád, že to číslo internisti vs. externisti, tak u nás je větší to těch interních lidí.
+A co mě je hrozně sympatické, a já si těch lidí extrémně vážím, že tam jsou lidi, který dělají.
+Dělali CEEBL 10 let třeba, dostali možnost naučit se Salesforce a šli do toho.
+Teďka, já se těch lidí snažím rozvíjet, vymyslel jsem program from dev to arch, takže zvývář, jak udělat architekta.
+Půlroční program, ale ty zájemci se prostě hrnou. Jo, my tam chceme taky, my chceme pochopit, jak to funguje.
+A byly tam ty lidi, kteří prostě dělali předtím ten CEEBL.
+Hele, když ti někdo programuje celý život, tak je jasný, že to nezapomene.
+Je jedno, jestli to je Java, Apex, C, whatever, cokoliv dalšího, má to v sobě zažitý, umí to.
+Ale není to jenom o těch vývojářích, máme tam takhle testery, máme tam takhle analytiky.
+Hele, je to super vidět, jak si ty lidi dokážou přesvědčnout mindset.
+Já osobně si to nedovedu představit, že bych se třeba teďka začal učit Dynamics, jo.
+A ty lidi, hele, klobou dolů před nimi. Fakt, veřejně je takhle, jsme kám, udělali jste skvělý pokrok,
+udělali skvělou kariérní změnu a dělají dobrou práci.
+A když se vrátím k tomu trhu, Česko má výhodu v tom, že Čech Golden Hände tady pořád jako fungujou.
+A spousta Čechů jako umí Salesforce skvěle. Máme tady dvě CTA.
+Co to je CTA? Certified Technical Architect. To je nejvyšší certifikace od Salesforce, jo.
+Na celém světě to má, nevím, možná pětset lidí, něco takovýho.
+Já znám oba dva. S jedním jsem pracoval.
+S druhým jsem natáčel taky nějaký podcasty.
+A hele, ta kvalita Čechů na tom trhu je fakt jako skvělá.
+A pak jsou tady lidi, kteří sem různě zmigrovali. Jsou tady prostě cizince.
+Já sem za svoji kariéru pracoval s Italama, s Turkama.
+A na nikoho nemůžu říct prostě jako špatný slovo.
+A jsou to lidi alokovaný tady v Český republice.
+A ten trh dokážou posouvat dál.
+My možná, když se nad tím jako zamyslím, děláme jednu chybu.
+My jsme čistě českej tým.
+Československej tým. Nemáme tam vlastně nějaký anglicky mluvící.
+Což nás jako asi někdy pomyslně může blokovat.
+Ale zase si to vynehradíme někde jinde.
+Dokumentaci píšeme vlastně jenom v češtině.
+Což je věc, kterou já bych jako změnil.
+Ale už sem do toho takhle přišel.
+Jak jsem nebyl na začátku toho projektu.
+A vlastně ani ten tým sem nestavil.
+Já ho postupně jako strukturuju.
+Nebo společně s Ferčeho strukturujeme.
+Aby to dávalo hlavu a patu.
+A postu věcí jako, já bych třeba udělal malička to jinak.
+Ale po bytvě je každej generál.
+No jasně, jasně, jasně.
+No ty jsi takhle krásně vlastně sám nahrál úplně na ten závěr.
+Na tu závěrečnou otázku.
+Teď jsi krásně zhodnotil, do čeho jsi přišel.
+V jakým je to stavu.
+Nabízí se typická otázka.
+Co plánuješ ty v 2026?
+Do jakého stavu bys to rád tady dostal?
+Já mám spoustu vizí.
+A já jsem hodně vizuální člověk.
+Já si fakt jako kreslím po večerech do toho tabletu různý jako čáranice, roadmapy, tak jak bych si to představoval.
+A já chci, abysme extrémně postoupili s novým MDMkem.
+To je pro mě nezbytně důležitý, protože to má závislosti jako do dalších aplikací.
+Chci, abysme zavřeli síbl pro byznysový uživatele.
+Aby už prostě do něj nemuseli chodit a měli jenom jeden svět.
+A to je Salesforce.
+S tím je spojený samozřejmě, že potřebuju a chci a fakt si přeju,
+aby ten vývoj na Salesforce kontinuálně pokračoval.
+Tak jak má.
+Chci, aby lidi měli radost, že prostě pracujou v takovéhle skvělé firmě.
+Mají možnost si šáhnout na těho hromadu úžasných technologií.
+To je prostě jak hračkárna.
+My toho máme strašlivě moc.
+A je škoda to nevyužívat.
+A osobně chci, a to je fakt jako můj personální cíl,
+aby na konci toho roku jsme se potkali zase na vánoční párti a řekli si jo, byl to dobrý rok.
+To je krása, na to už se nená nic dodat.
+Amen.
+No tak jo, Martine, tak my ti strašně moc děkujeme, že jsi dorazil.
+Popřál bych ti šťastnou cestu, ale ty sedneš do výtahu a pojedeš po pár paterních,
+takže tady si myslím, že v tomhle z toho ohledu nás nic nebezpečného,
+by ti vím, kurá lidi, nečeká.
+Měj se krásně, já ti budu, osobně ti přeju, ať všechno, co jsi tady nakreslil,
+ať v hlavě, či na tabletu, ať ti to vyjde.
+A třeba se uvidíme na konci tohohle roku někde na pivu,
+a ty řekneš, co všechno jsi odškrtal, že se ti opravdu podařilo.
+Budu ti držet palce.
+Díky, kluci.
+Ať se daří, měj se.
+Čau.
+Čau.
+Tak to byl Martin Wagner a jeho pohled do toho, jak spořit se používal Salesforce.
+Já jsem si během jeho vyprávění vzpomněl, byl to Aleš Lednej, se jmenuje to jméno.
+Ty jsi neuvěřitelný, jo.
+A jeho Bison, Black Bison Tech, nebo tak nějak si myslím, že se kluci z začátku chtěli jmenovat,
+že to pak zkrátili na Black Bison.
+Takže to bylo vzpomnění o Salesforceu.
+Jakorát doufám, že jsem neměl podobný dotazy, jako jsem měl na Aleše, ale zase už je to pár let.
+Už je dávno, ta platforma se někam vyvinula.
+Určitě ses tam neptal na AI, protože to je poměrně novinka.
+Ano, ano, to je pravda.
+A myslím si, že Martin to krásně sharnul.
+Jo, bylo to hezký.
+Myslím si, že to, pokud to tak nezamýšlel, tak myslím, že jako příjemný side effect byl,
+že to byla docela pěkná reklama jeho týmu.
+Protože pokud nás poslouchá někdo z početné komunity Salesforce vývojářů a chtěli by ten Apex dělat ve Spořici,
+tak si myslím, že v jejich queue se začnou teď objevovat další a další jména.
+Protože opravdu mluvil o tom hezky a je vidět, že to dělá s láskou, že ho to baví.
+Což si myslím, že je důležité, že děláte cokoliv, aby tam byl ten craftmanship od srdce.
+Takže v tomhle si myslím, že to zafungovalo úplně perfektně.
+Souhlasím.
+Zároveň to byla super reklama na Spořici, na našeho partnera.
+A to potvrduji. Martin to nazval hračkářství.
+Ale ta otevřenost těm inovacím a to znamená k novým technologiím tady opravdu je.
+A já jsem za to rád, protože i moje týmy pracují s tím nejlepším, co na trhu máme.
+Takže je paráda.
+Tak to byl dnešní díl.
+My vám samozřejmě moc děkujeme za poslech.
+Znova připomínáme obrovské změny, které jsme naplánovali na tento rok.
+A které já hrozně doufám, že to zestárne dobře.
+Na konci 14. série zase řeknu reverti.
+Ale pokud nás posloucháte až teďka, třeba jste přeskočili, nedej bože ten úvod.
+Tak stejně vám to připomeneme.
+Hero Hero lomeno pod vocasem.
+Tam nás můžete subscribnout.
+Můžete si tam díky tomu, že nás začnete podporovat, vychutnat.
+Živák, který byl naprosto famózní.
+Který jsme natočili na podzim minulého roku.
+No a samozřejmě díky tomu, že nás podporujete.
+Tak i nejen tento díl.
+Tento díl bude trošku těžký vydat o týden dopředu, když je první.
+To je trošičku taková jako metafyzický problém.
+Nicméně ty další už dostanete o týden napřed.
+A my se budeme snažit vám to lifrovat.
+A tento rok vám budeme lifrovat ne tři, ale čtyři série.
+A já strašně doufám, že tyhle všechny sliby.
+Já jsem jako výborný.
+Já dokážu slíbit cokoliv, ale dodržet to bude bolet.
+To snou vidíme.
+Budeme se snažit.
+Každopádně moc vám děkujeme za podporu.
+Snažíme si toho a ty čtyři roky, co jste nám stáli za zády.
+Doufám, že nás podpoříte i v tom pátém roce.
+A že to společně v 2026 krásně vykopneme.
+Máme už další, další hosty v Pipelině.
+A myslím si, že to bude letos opět jako epickej rok.
+Plnej zajímavýho povídání.
+Ne povídání, povídání.
+Hezky jsi to řekl.
+O různých tématech.
+Ať je to Salesforce.
+Ať je to rychlost webu.
+Ať je to Javička.
+Ať je to dotnet.
+Architektura.
+Zajímá nás všechno.
+Samozřejmě, pokud byste chtěli v našem podcastu vystoupit.
+My jsme otevření k tomu si povídat o čemkoliv.
+Takže nám určitě napište na našich webovkách.
+Už teď najdete i kontakt.
+Můžete nám napsat.
+A není vůbec žádný problém.
+Rádi si s vámi tady ve spořici, ve studiu pokecáme.
+A myslím, že to bude fajn.
+Chci ještě něco dodat.
+Koukáš na mě píseček tyhle.
+My jsme hrozně narostli, že máme už i ten kontakt na těch webovkách.
+Že jsme se fakt posunuli neuvěřitelně.
+To jo, protože v době, kdy to natáčíme, to tam není.
+Takže já tady mám další turučka do konce týdne.
+Ale to nevadí.
+Já jsem stejně nechtěl mít víkend.
+To je na nic.
+Víkend je o ničem.
+Je to o ničem, co bych dělal.
+Přestávka mezi zajímavýma dnama.
+Přesně tak.
+A to byla myšlenka dne Otce Poliho.
+Mějte se krásně.
+A my se na vás budeme těšit zase za 14 dní.
+A pro naše subscribery už za týden.
+Ahoj.
+Ahoj.

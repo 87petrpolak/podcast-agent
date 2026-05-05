@@ -1,0 +1,1550 @@
+Ahoj, já vás zdravím, Petr Polák, Nový audio.
+To mi zní povědomně.
+To je dobře, že jsi to vymyslel, dobře jsi to vymyslel, Románku.
+To je úplná novinka.
+Jo, moc pěkný, originální, jako vždycky.
+Tak pod vocasem.
+Pod vocasem.
+Pod vocasem.
+Pod vocasem.
+Pod vocasem.
+Vážení a milí posluchači, vítejte u dalšího dílu IT podcastu Pod vocasem.
+U mikrofonu s vámi opět sedí Petr Poli Polák.
+A Roman Žoukor Prolazník, dobrý den.
+Dobrý den.
+Tak Poli, jak se daří?
+Daří se dobře, daří se dobře.
+Měl jsem krásný víkend.
+Co ty?
+Já jsem se staral o děti, takže já jsem se tak dobrý víkend neměl v tomhle směru,
+když samozřejmě je to skvělý se starat o rodinu,
+ale určitě to nebyl tak dobrý víkend, jakou jsi měl ty předpokládat.
+Já měl super víkend.
+Měli jsme dlouho domluvenou akci, takový pěší extrémní závod.
+Chodil jsem 65 kilometrů.
+Pěší 65 kilometrů.
+Jestli chceš začít leskat, nedělej to.
+Normálně konečný výsledek nebo konečný souhron kilometru měl být 87,
+ale na 65. nám zavolal velký šéf, rozhočí a řekl,
+jste diskvalifikovaný, jdete pomalu.
+Fakt až takhle, jo? A jak to?
+Hele...
+Protože ty jsi, nevím, jestli každý posluchač to ví,
+ale ty jsi jako velký běžec.
+Já když se kouknu na stravu, na ty tvoje časy,
+tak to jsou neskutečný jeby, který tam prostě běžíš.
+Hele, díky, ale ukázalo se, že asi nejsem zas tak dobrý.
+No prostě...
+Ale to nebyl běh, to byla chůze.
+Jako rychlou chůze, takový, jak vypadají, že si u toho vykloubí zadek.
+Máš Nordic Walking normálně taky če.
+A šli jsme to s kámošem, tímto zdravím Kubu Procházku,
+a doufám, že to se mnou příští rok poješ znova,
+i když si řek, že už nikdy, nikdy.
+Šli jsme to po třetí, po třetí diskvalifikace,
+takže takhle říkal si to.
+To je super.
+Já jsem tam šel jenom s tím jedním cílem,
+dojít to, abych neměl na té listině finální DNF.
+Je to tam znova.
+No vidíš, tak ty si řek, ta ženská, co jsem jí pozoroval,
+když jsem naposledy běžel ten Birel Prakran, tu desítku.
+Jak běžela asi nekecám pět metrů před tím kukavozem,
+který rovnou sbíral nejen ty poslední běžce,
+ale i bordel na trati.
+A ona jenom před tím prostě vždycky se otáčela,
+jestli už jí mají nebo ne.
+Nevím, jestli doběhla, ale vypadalo, že taky brzo diskvalifikujou.
+To přesně by stačilo, ale my jsme jako virtuálně šli až za tím vozem.
+Aha, dobře, to tak, co se dá dělat.
+No kamaráde, blíží se nám Vánoce.
+Je to tak?
+A jako takovej dárek jsme si nadělili,
+máme vlastně poprvý v historii našeho podcastu,
+což není tak těžký, protože ta historie není úplně nejdelší zatím.
+Máme poprvé dva hosty.
+A budeme se bavit o virtuálních konferenciích,
+budeme se bavit o startupech,
+budeme se bavit mimo jiné i možná i o kouzelnících,
+protože, to jsem ti neřekl,
+ale jeden z kluků je jako velkej borec,
+co se týče prostě dělání různých kouzel a triků
+a tahání prostě králíku z klobouku a tak,
+což se možná hodí i na startup, nevím.
+Teď mě mrzí teda, že nemáme to video,
+protože bychom mohli ukázat nějaký kouzlo.
+Jo, no tak, ale možná o toto bude jednodušší pro Jardu udělat takový to jako audio kouzlo.
+Jasně.
+A navíc ještě teda kluci proberou, pokud jsem to správně pochopil,
+co se týče jich DevStacku, tak probereme Kotlin, Javu, C-Sharp, Unity,
+takže já se na to fakt těším.
+Já taky, protože poprý to bude produkt a bude mě zajímat ta jich úvaha na začátku,
+jak k tomu došli, ale k tomu se dostaneme za chvíli.
+No tak jo, tak jdeme pro ně.
+Super.
+Ve studiu už s námi sedí kluci z Conferomatiku,
+Jarda Holaň a David Ryšánek, ahoj kluci.
+Čau.
+Ahoj.
+Čau kluci.
+Tak kluci, my jsme se vás pozvali jednak proto,
+že s Jardou se známe osobně a chtěl jsem vidět po tak dlouhý době,
+co jsme se neviděli z dop Vendava, co vlastně vyvádíš.
+A druhá, když mi přijde váš produkt strašně zajímavý,
+jak z toho, řekněme, biznisovýho, tak technického hlediska,
+tak pokud byste mohli hned ze začátku našim posluchačům vysvětlit,
+co je vlastně Conferomatik, co tam děláte,
+trošku to uvízt, aby i posluchači věděli, o co vlastně jde.
+Tak nějak stručně, Conferomatik je 3D platforma,
+kde se potkávají lidi na velkých událostech, eventech.
+Naším cílem je tam pořád akce 100 plus lidí,
+není to třeba na meetingy, je to spíš, jsou velké,
+my jsme tam třeba, já nevím, Work for People, jeden z velkých,
+Microsoft u nás měl akce, koho ještě můžeme jmenovat,
+David, kdo tam ještě byl.
+Dělali jsme už několik akcí pro Škodovku,
+máme permanentní svět pro Deloitte.
+Permanentní svět, to znamená, už existuje virtuální prostor,
+kde se lidi z Deloitte scházejí a fungují tam v rámci
+nějakých svých team buildingových aktivit, chápu to dobře.
+Je to tak.
+Není tam, že by tam chodili úplně pravidelně,
+ale mají to na to připraveno, že jakmile chtějí nějakou větší akci udělat,
+ono přece jenom se u větších akcí nescházejí každej týden,
+ale jednou za měsíc tam asi něco proběhlo,
+už já nevím, od děra na nějakém takovém horizontu.
+Je to prostě prostor, kde se můžou lidi setkávat v době,
+kdy to hlavně nejde, teď kvůli covidu.
+Vlastně covid je důvod, proč jsme vznikli.
+Hledáme i biznis potenciálně nějaký, aby jsme mohli fungovat i bez toho.
+Tam jsou třeba věci, že se můžou scházet lidi napříč státy,
+aniž by museli přeletávat, takže nám jde spíš o korporaci, o velké akce.
+Už se mi ozvalo třeba pár známých, že se mě ptali,
+jestli můžou u nás udělat nějakou akci a byli třeba třicet,
+že by tam měli vánoční večírek, ale to by nás zbytečně jenom zatěžovalo,
+tam na to nejsme, na to jsou lepší platformy.
+Takže vy se zaměřujete spíš na to, když jsou tam 100 plus lidí, je to tak?
+Přesně tak.
+Mě úplně nezajímá, když říkáš, že na tom běží ty firmy v podstatě neustále,
+tak jak funguje ten biznis keď zatím?
+V podstatě to je tak, že oni platí nějaký subscription,
+nebo jste s nima domluveni na nějaké individuální bázi, nebo jak to funguje?
+Obojí.
+Jo, snažíme se, subscription je vždycky nejlepší,
+takže kdo už to s náma myslí vážně, tak už tam nějaká taková subscription vzniká.
+To by asi řekl někdo od nás ze salesu.
+Škodovka Novart, myslím, že už to tam mají, snad neříkám nic špatně.
+A jinak dost často zatím, oni váhají sami.
+Myslím si, že měníme svět určitým způsobem,
+protože do naše platformy se dostávají lidi, kteří nikdy nehrali hry.
+A sice my nestavíme úplně hru, ale ty herní prvky tam jsou.
+Minimálně se pohybovat v tom světě, to jako dá dost lidem.
+Já vždycky říkám, že jsou jako malé děti v tom světě a musíš si učit první krůčky
+a před tou klávesnicí rozchodit, rozhýbat se, rozhodnit lidi s tím jako zápasí.
+To je dost fajn, mě nenapadlo vlastně, že se to dá použít i jako dlouhodobě,
+že furt jsem měl v hlavě, když jsem se díval na vaše stránky, na video a tak,
+tak mě napadlo hlavně to, že se to použije na nějakou ad hoc akci,
+ale tohle je vlastně taky dobrý, tak jako second life.
+– Tam se můžeš vyskylovat normálně RPGčku, koupit si draka, ale všechno ne.
+Možná teďka mě napadly nějaké věci, které kluci tam fakt neimplementují.
+No my jsme úplně přeskočili ty vaše role. Proč tady vlastně sedíte vy dva,
+proč tady nesedí z konferomatiku nikdo jiný?
+Tak jestli třeba, Davide, jaká je tvoje role v rámci firmy?
+– Tak oficiálně jsem byl jmenovaném CTO.
+– Výborně, gratulujeme.
+– Děkuji.
+Já se považuji za oce konferomatiku, protože jsem napsal první řádky,
+kódu, já jsem programátor, a Jarda si pak ke mně přidal.
+Přesvědčili jsme ostatní, že to má smysl a pokračovali jsme dál.
+Takže programuju tu aplikační část, ten frontend by se dal říct,
+ale kecám do toho kluku my DevOps, co se týče infrastruktury,
+tak máme třeba vlastní videokonferenční systém,
+což znamená vlastní backend, klient, tam jsem taky programoval tyhle věci.
+– Mhm.
+– Když máme vlastní herní server, tak ten si taky programujeme sami,
+je to postavení jenom na nějaký lipce, která zajišťuje ten networking a tu logiku,
+ale to už jsme si dělali sami.
+– Takže tvoje role je taková tak, kromě toho CTO, který teda kecá do všeho
+od těch pipeline až po nějaký technologie, i po tom, že pořád máš umazaný prsty
+od C-sharpu Unity a toho herního vývoje, je to tak?
+– Je to přesně tak. Třeba včera jsem naprogramoval prototyp,
+aby hráči mohli přicházet mezi serverama.
+– Hmm.
+– Což už pak vede k těm metaverzům, přenos avatarů a tak.
+– Ještě nevolal Zuckerberg, že to jako bere, jo?
+– Čekáme.
+– Jo, čekáte na telefon, dobře.
+Jardo, tvoje role teda je backendová v tom případě.
+– Backend vývojář, Java primárně jsem, ale v konformatiku jsem se chtěl naučit
+něco nového, tak jsem to zvyčnul na Kotlin.
+Ono, ten ekosystém je podle mě stejný, mám ho rád, takže v tomto doďkom vyvídím,
+ale zároveň s tím, jelikož jsme startup a tam je více roli,
+tam člověk toho musí dělat víc, tak dělám i projekťáka,
+takže pomáhám s určitýma věcmi, ale téhle roli se snažím zbavit.
+– A chceš zůstat u toho vývoje?
+– Vývoj mě baví určitě mnohem víc.
+– Vývoj backendu.
+No, ty jsi, že jo, velký javista, já dokonce vím, že ty jsi dokonce
+i napsal knihu, jako už je to fousatá kniha.
+– Spoluautor.
+– Spoluautor knihy.
+Co to bylo, Vadin?
+– Přesně tak, Vadin.
+– Vadin 7.
+– Říkal jsi Kotlin,
+tenhle trend docela vidím,
+že spoustu lidí skáče,
+nebo spoustu, ale vidím to jako trend,
+že hodně javistů skáče z takový té klasické javičky
+na Kotlin, proč?
+– Nesou tam středníky.
+– Jsou to jenom ty středníky, jo?
+– Je toho samozřejmě víc.
+– Hlavně, za mě hlavně teda,
+že ty funkce se jmenují fun,
+což je vlastně fun.
+– To taky, mě to zahalo, když jsem dělal v Kotlinu.
+– To je už otřelý vtip, ale je to pravda.
+– Tak to je super.
+A tamto paradigma je víc
+jako funkcionální, nebo je to mixlý,
+nebo jak to tam je?
+– Jako můžeš si vybrat, no, jako když...
+Já jsem se vždycky, já jsem zjistil,
+že jsem vždycky se snažil programovat funkcionálně,
+aniž bych věděl, že...
+– Že to děláš.
+– Že už ten trend dělám, už jako před nohá lety,
+protože mě vždycky neměl sebrat
+různé side efekty a podobně,
+a toto jsou ty věci, které v těch funkcích bys měl
+jako dodržet a dělat to vždycky na jednu věc a tak podobně
+a tak dále. Takže to jsou ty věci.
+A hlavně mě se tam potom líbilo nějaké
+APIčko, já jsem hledal něco, jak jako dobře
+rozparsovat JSONy, nebo tak něco,
+možná hledal už na ní, nevím. Něco mě tam prostě taky zaujalo,
+tak jsem si říkal, hele, tak do toho,
+protože v té Java je to strašně ukecena,
+je to fakt mnohem jednodušší, co mi to udělat.
+– Asi v tom, že jako když si vyhradří
+nějakou svoji myšlenku a tím, jak mi jde o clean code
+a prostě chci napsat i napřed test
+a potom k tomu implementaci,
+tak se mi to jako píše
+jako by rychleji, jednodušejí,
+jo, rest APIčko se mi tam
+k tomu dobře dělá.
+Ono za Java teď postupilo, já teď jsem trošku
+ztratil, jako vy přehledte, co je v posledních
+Java 17 teď, možná ani nevím.
+– Já moc nevím.
+– To je spíš zřečnická otázka, nebo?
+– A tam už to taky možná se to
+už jako zlepšilo.
+– Jo, ale
+jako ten kotlý mi teď přiludnul k srdci
+mnohem víc. – Jardo, ty jsi geniální,
+ty na dlouhé otázky odpovídáš jednoslovně
+a pak si položíš řečnickou otázku
+a odpovíš si na ní, to je prostě skvělý.
+A když se řekne teda backend, tak co to,
+že jo, teď si představím
+celé to vaše řešení, mám firmu,
+chci, aby se tam lidi scházeli, to znamená
+udělám si nějakou subscripsy, vy teda vytvoříte nějaký
+virtuální prostředí, což je asi teda výsledek práce.
+To, co vidím, je to,
+co dělá David a lidi za ním.
+A u tebe ten backend je
+teda jakoby co, ty děláš nějaký
+konfigurátory, nebo co to vlastně znamená
+v tomhle případě? – Ano.
+– Já se vždycky zepáhla blbě.
+– Ne, ne, ne, já se dělám z toho schválně srandu.
+Jo, dělám konfigurátory.
+– Ale vylepšil jsi to, Jardo, teď je to lepší, díky.
+– Opravdu dělám tam
+konfigurátory.
+– Máme tam něco jako
+venue config a ten držíme,
+jo, ten začíná, jako každý
+startup začíná hodně, no já to říkám,
+Zonky taky jsme začali v Excelu
+a my jsme zase začali v Airtable,
+to jsou taky jiné tabulky, kde ty konfigy
+si prostě píšeme v tomhletom. Jde o to,
+že to je takové pěkné rozhradní mezi těmi
+běžnými lidmi, pro organizátory
+akcí, kteří to ještě nějak zvládnou si v tom
+nějak editovat a zase Airtable jsem
+vybral, protože mají výborné API a to API jsem
+dokázal dobře připojit právě přes Kotlin,
+z toho se vytvoří to si nějak
+jako zmačka, vezmeme to k sobě
+a to se potom pošle
+do Unity, nebo to si spíš vždycky
+zavolá to Unity a hodně často, takže jsme tam
+měli problém, jakože bylo hodně requestů,
+to jsme potom řešili nějakým cacheováním.
+Takže moje věc,
+moje hlavní takový úkol je integrace s dalšími
+systémy, autorizace
+a prostě jako práce s těmi
+konfigy. A pak máme ještě jeden backend a ten je
+tenhle herní a to je zase
+tady Davidova domena.
+To by mě zajímalo, kluci, vy dva jste s tím úplně
+začínali, jste říkali, a
+jaký byl ten myšlenkový proces předtím,
+než jste začali? Bylo to o tom, že jste měli nějaký
+background předtím a proto jste se rozhodli
+pro tenhle stack, nebo jste si dělali
+nějakou analýzu, jak tohle vlastně vznikne? Prostě
+bavila vás Java, šli jste do Kotlinu,
+to byl ten důvod, nebo jak jste se nad tímhle
+rozhodovali? No my jsme k tomu byli
+donucený, my jsme tohle vůbec nechtěli dělat.
+A prostě to
+jinak nešlo. Můžu říct ten začátek
+možná jenom, my když jsme dělali
+MDF-kem, konferenci pro mobilní vývojáře,
+tak a přišlo toho COVID,
+tak jsme si říkali, co teď, co budeme dělat?
+Nebudeme to dělat vůbec, dělat to přes nějaký
+zům, nějaké takové 2D platformy,
+to nepřipadalo v Uvau,
+tak někdo řekl, co kdybychom to udělali
+nějak jako ve 3D světě. Tak já jsem zkusil udělat
+research, jak to vypadá, jestli už jsou
+nějaké řešení, až jsou, se dvěma
+společností, my jsme si dali konce e-call s nějakým
+demíčkem, tož bylo dneska z Itálie,
+ale nějak nám to úplně nevyhovovalo. Někteří neměli
+dobrý Mac, což se v mobilním světě
+hodně Macářů, takže to bylo
+podmínka. No a pak jsme si jako řekli,
+možná, že to pronesl tady David, tak se to naprogramujeme.
+– To byl jako vtip, samozřejmě.
+– S ukázkou, s jednou,
+a já osobně jsem si řekl, wow,
+tyjo, já mám fakt jako pocit, jako bychom tady
+spolu byli, jako jo, protože jestli jste to někdy viděli,
+ale alespoň na obrázích, tak vstoupíš do takové
+chatzony, nahoře se ti zapne
+kamera, takže hned se vidíte, navíc
+vidíš postavičku a nějak jako pro ten mozek
+to tak jako působí, jako že tam fakt jako spolu jsme
+a nejde už jenom blbej zoom, jako jo.
+Takže nám to udělalo velký dojem
+a já jsem si říkal, hele, zkusíme to.
+– No a ta myšlenka
+zatím byla, ok,
+je to poměrně velká věc, tak nemá
+smysl to programovat jenom jako kvůli jedný
+akci, kvůli jedný konferenci.
+Zkusíme to udělat tak, že
+prostě z toho uděláme produkt a
+zkusíme to nabízet dalším firmám a uvidíme,
+jestli z toho bude biznis, jestli se to chytí nebo ne.
+– Super.
+A ještě možná,
+abych ti neutekl z toho otázky,
+proč jsme třeba vybrali to, co jsme vybrali.
+Tak já jsem si vybral Javu,
+já mám Javej svět a Kotlin právě,
+protože se tomu věnuju. A když děláme
+startup, tak nevíme, jak to dopadne.
+A my jsme to dokonce první čtyři, pět měsíce dělali
+úplně za nulu, bez ničeho.
+Já naštěstí nebo nenaštěstí
+jsem tedy skončil v Zonky, kde nás
+jako dost lidí propustilo, takže jsem měl
+nějaké odstupné, takže se dalo jako nějak
+existovat. Ale já jsem říkal Davidu,
+hele, já do toho s tebou půjdu, ale nechci
+být úplně si šarpista a chci se jakoby rozšiřovat
+vzdělání, aspoň když už nic, když mi to nic nedá,
+protože hodně startupu prostě skončí po nějaké době,
+tak aspoň jsem se něco naučil. Tak jsem říkal,
+hele, budu se učit Kotlin, chci poznat, jak ten svět
+funguje, jaký to tam je. Takže to byl ten důvod,
+proč jsem vybral já třeba Kotlin.
+A tím, že de facto jsou to jakoby
+takové nějaké multiservise, tak je to vlastně
+celkem jedno.
+Hala, a měli jste to tak, že ty jsi mi úplně
+připomněl, teďka já čtu knížku o herním vývoji,
+obecně jakoby o herním designu a o tom,
+jak to funguje v tom biznisu a tam je to úplně typický
+příklad indie studií, vznikají tak,
+že se zavře velký herní studio, ty lidi dostanou
+odstupný a oni řeknou
+tak a teďka teda my si založíme
+vlastní, ale i v té knížce docela
+dobře popisujou, že vlastně mají časově
+omezenou jakoby hranici,
+k tomu se jí dodat na trh,
+protože samozřejmě ty peníze jim nevystačí
+navždy. Měli jste to taky tak, že
+teda jste si řekli, hele, dobře, já vezmu
+prachy ze zonky, ty vezmeš, co máš ušetříno,
+teďka se na to vyprdneme na práci, budeme
+jenom my dva spolu prostě makat, nebo nabereme
+další lidi, ale máme čas
+z té plus 6,
+7, 9 měsíců, dokdy nám ty prachy
+vystačejí, když budeme jíst jenom rohlíky
+a pak prostě zkrachujeme, takže
+měli jste tam nějaký takový deadline vnitřní,
+kdy jste řekli, že je hrozně jednoduchý
+to furt posouvat, že jo, jako startupový svět je,
+ještě to není geniální, ještě počkám
+chvíli a pak to teprve vyrilísu. Tak jak jste to měli?
+Obráceně.
+Obráceně.
+Milujiš ty stručné odpovědi.
+No já ti úplně řeru, jako já se s tebou mluvím.
+My jsme napřed museli udělat
+totiž release. My jsme vznikli
+releasem, já to fakt myslím vážně, obráceně.
+Vy jste to úplně obráceně.
+My jsme napřed museli udělat pro ten MDF
+něco a to se muselo udělat během dvou
+měsíců a muselo to být funkční a muselo to nějak
+funkovat. A to už se bylo, a co bylo ještě v zonky,
+ale? Ne, to už jsem nebyl, to už jsem nebyl,
+jako a
+to jsme ještě neviděli, že bude z toho
+firma, jo. Věřím, jak říkal David. Vytvořili jsme
+to pro nás a pak jsme to zkusili nabídnout dál
+a ono se to ujalo.
+A tím, že se to ujalo, tak
+si dokážeme něco jako vyplátit, takže
+už tam po nějaké době zmizelo to za nulu,
+ale pořád jsme start-up,
+pořád jsme tady v téhle
+myšlenkové fázi. My teďku
+hledáme nějaké investory,
+nebudu říkat moc detaily, spíš jako jenom se
+rozkoukáváme, je to všecko ve vyjednávání
+a uvidíme, ale
+kdykoliv se pořád může říct, že skončíme
+to, jako by
+svět start-upu, no.
+To jsi mi odpověděl na otázku, to znamená, dneska to všechno
+jdete interně, všechny
+náklady, které jsou s tím
+vzniklý, tak jsou v podstatě ve vašem čase
+a nemáte žádnýho investora za sebou.
+Ne, nemáme.
+Zatím teda. Jasný, tak.
+Ale aktivně scháníte, jak jste říkali.
+A jde to vůbec bez
+investora, jako dlouhodobě?
+Ne. Nejde.
+Já se stručím na tvojí.
+Ty jsi sen každého
+podcastu, Jarda. Já ti to dělám.
+Ty bys vůbec nemohl do politiky, to je všechno z jasný odpověď.
+Dneska
+my se teď s Dávidem vracíme z naší
+takového strategy meetingu.
+A kde jsme
+došli jako k závěru, že
+my máme a my chce to dělat globálně celosvětově.
+My si nedáváme nízké cíle.
+A tam jsme došli k závěru, že
+to jako bootstrapem, jako že pomalým
+postupem to nejde. Musíme, potřebujeme
+toho investora. A tím, já jsem to možná
+nezmínil, ale nás je sedm
+zakladatelů a to investoři neradě vidí.
+Takže teď hledáme nějaký, jak se
+dohodnou. Máme taková ta poučka, že nejlepší
+počet zakladatelů je lichý a tři
+už je moc, tak byste to otočili úplně
+druhým směrem.
+To je zajímavý. Škálu je to
+i co se týče nějakých rozhodnutí,
+nebo kdo tam má poslední slova. Já se neukážu představit,
+kolikrát jsme schopni
+dohodnout tady spolim, kdy se sejdeme.
+Na to, že by jsme spolu měli
+firmu a ještě dalších pět lidí.
+Masakr, masakr musím říct.
+Dvě slova. Funguje, tyrkist.
+Myslím to takhle,
+my se snažíme, četl jsi knížku
+o společnosti
+budoucnost organizací.
+Ne, ne, ne. Tak doporučuji.
+Tam popisuje krásně, ona těch
+příkladů je více, jak řídit
+organizace a taková ta
+to nejvýšší, co se
+teď dá, je takzvané označením
+tyrkisem a to je, kde máš
+flat strukturu, nemáš tam prostě
+nadřízené, podřízené
+a snažíš se dělat, když může
+o tom rozhodnutí, tak v takzvaných triádách.
+My jsme se dohodli, že budou
+nějaké triády, každá bude zodpovědná
+za nějakou oblast a ta si rozhoduje.
+Nebo ta rozhoduje.
+Není to úplně bez
+vstupu ostatních.
+Pokud jsou v nějaké fázi, že se nemůžou
+úplně domluvit, tak
+spíš požádají o radu
+ostatní a dostávají nějaké
+vstupy a také i požadavky,
+že někteří to chtějí třeba trošku jinak, ale potom
+je to na té triádě, aby nějakým způsobem rozhodla
+a bere to jako tu zodpovědnost
+na sebe. Popsal jsem to tak nějak jako
+v videu, jak to asi?
+A ostatní to rozhodnutí respektují.
+Jasně.
+Hezký.
+A vlastně, když se teďka narodili děti
+v koroně, tak se jmenují koroniálové.
+Takže vlastně ten váš produkt je taky takový koroniál.
+Jak na to koukáte?
+Když se koukneme hodně dopředu,
+že budeme předpokládat, že s koronou to bude spíš
+pozitivní
+v tom dobrým slova smyslu.
+A máte nějaké plány, jak
+třeba vohnete ten produkt? Nebo
+předpokládáte, že ta budoucnost půjde tím směrem,
+že lidi si částečně budou stejně
+už vždycky jenom volat a budou se
+míň výdat? Nebo jak snad tímhle přemýšlíte?
+Bude to
+hybridní. Vlastně pořád budou nějaké
+akce, které budou dávat smysl offline,
+jako Rock for People a tak.
+Vánoční většírky, to se lidi chtějí vylejít.
+Tak to můžeš jít doma
+u počítače.
+Ale je to rozhodná.
+Trošku už tam přijeme manželka třeba do té místnosti, ale dá se.
+Ale
+pak jako takový, když máš
+velký firmy, které jsou geograficky
+rozprostření po světě, tak prostě ti nedává
+smysl, aby jsi každý měsíc nebo dva
+týdny honil letadlem někam
+na jeden den a pak letěl zase zpátky.
+Ekonomicky a časově
+nedává smysl. Takže prostě
+něco bude takhle online, něco bude offline.
+Což mě ještě připomíná, sedíte někde
+v nějakém akcelerátoru nebo
+fungujete úplně z domova? Jak to máte?
+Úplně z domova. Remotně.
+A jedete dogfooding
+jakože se sami
+scházíte v konferomatiku nebo
+ne?
+Já
+Jardo, neodpovědej.
+Ne, ne, Jardo, ty ne.
+Tak jsme to už zroli na pantomimu.
+Úplně níž.
+Ne, ale budeme se asi ptát Davida,
+protože David dá aspoň dvě, tři věty
+dohromady, ale prostě jak se ptáš Jardy,
+tak on skutečně už přestal i odpovídat,
+on jim ukazuje.
+Potkáváme se většinou,
+když jsou nějaké akce, tak tam jdeme
+to zkontrolovat,
+tak se zeptáme se, jak se tam daří a tak,
+ale přece jenom je nás
+poměrně málo,
+na tohleto, že lepší je to,
+když máme třeba pravidelný
+sync, tak se potkáme na Zoomu,
+protože někdo je z telefonu,
+někdo během toho chodí, někdo jede na kolet.
+A co se týče těch světů, mně se to hrozně líbilo,
+já jsem to koukal, že tam je nějaké lítání u vzducholodě
+a prostě takovýhle věci.
+Je to tak, že můžu přijít a říct,
+chtěl bych svět, kde můžu lítat,
+jak Neo v Matrixu, nebo naopak jako
+hele, chci, aby tam byla těžká gravitace,
+takže nikdo ať si moc ani nevyskakuje doslova.
+Jak to vlastně funguje, když já přijdu
+a budu chtít takovejhle svět?
+Jsou všechno jste schopný mi nakonfigurovat?
+Co chceš.
+Co chci, to jsem chtěl zeptat.
+A máte už nějaké prezety těch světů různých?
+Jo, máme různý šablony
+a lítání vlastně
+je tak, jak si to přeje
+organizátor. Můžeme to úplně zakázat,
+můžeme to povolit každému.
+Je to dost oblíbená
+atrakce lítání, ale
+třeba, když seš na stage v tom světě
+a koukáš na plátno, na nějakou přednášku
+a lítá ti tam před tím 100 avatarů.
+Toho moc nevidíš.
+Takže jsme vymysleli bezletový zóny.
+To jsem se chtěl zeptat právě, jestli to jde
+jako zakázat v nějaký bublině, takže nemůžeš
+tam přilítat. Tak to je dobrý, to je super nápad.
+Případně já ještě přes server, přes konzoli
+mám takový
+pane skině, tak tam mám pár příkazů, kde můžu
+všem vypnout lítání, nebo zapnout.
+A tohle ty říkáš, že to
+nastavujete těm klientům a teďka představá
+prostě říkáte, že přemýšlíte celosvětové
+globálně, teď si představím, že přijde
+100 klientů za měsíc, budou si tohle
+potom nastavovat sami, nebo jak na tímhle přemýšlíte?
+Ano.
+Tam míříme.
+On chytnul úplně v holaně u nemocný.
+My jsme startup, my musíme stručně, rychle, věcně.
+Rozumím.
+To je strašně drahé. Tam míříme, určitě.
+Já mám na starost právě tu čas
+pro organizátory. Další věc,
+do které se trošku teďka namáčím,
+je React.
+Nabrali jsme člověka,
+který nám pomáhá s webem,
+dělá to tři dny v týdnu,
+takže úplně neposouváme se bleskově,
+ale, protože třeba na straně,
+kde dělá David, to jsou Unity,
+a máme tam levelizanery, tam je několik,
+pět, šest lidí teďko, že jo.
+Zatímco na té straně, kde jsem já, jsme dva.
+Já ještě ten, protože to není ten
+core business, ale to konfigurovatko,
+aby to nebylo pořád přes RTP, aby to nebyla tabulka,
+aby to bylo něco lepšího, nějaká webovka,
+tak to už teďko děláme na námen našeho Armina,
+tam se dá už teďko právě třeba zapínat
+to lítání, možná umíme tam třeba
+měnit počasí, to je taky pěkná věc,
+tam prší, je tam slunce,
+tam jsou mraky, můžeme měnit i čas,
+máme tam pěknou funkci, že můžeme změnit čas,
+takže se nebude automaticky nastavovat, tak jak máš teďkom
+ty zóně kdysi, anebo jak si rozhodneš.
+A takové nějaké vychytávky
+se snažíme těm organizatorům teďkom nabídnout.
+A navíc tohle je to počasí
+a umístění slunce a měsíce odpovídá
+opravdu geografický pozici
+a času
+toho člověka.
+Podle toho, kde si určíme, že ten
+virtuální svět se nachází.
+Super.
+Kluci, aby jsme se pustili trošku do těch
+hlubších technických vod, mě hrozně zaujalo
+to Unity. Mohl bys to, Davide,
+trošku představit
+po případě říct, co se ti na tom líbí,
+nelíbí, co vlastně Unity je, protože ne
+každej třeba vůbec
+ví, o čem se bavíme, když se řekne Unity.
+Tak Unity
+je nejrozšířenější hrní
+engine, to znamená, že v něm můžeš
+programovat logiku
+a zároveň vytvářet 3D
+scény a všechno to propojit dohromady
+a udělat v tom celou aplikaci
+od A do Z
+a vyrýsovat ji pro
+různý platformy. Tam
+má se podporu asi 20 různých platform,
+včetně VRka.
+A vy podporujete všechny, nebo jak vy to máte?
+Zatím Mac a Windows.
+Mac a Windows, jasně. A všechny ty
+asety, který tam používáte, to si děláte
+sami, nebo jak to vlastně funguje?
+Většinu jsme jich nakoupili, některý si děláme
+sami, když potřebujeme nějaký custom věci.
+A k tomu Unity ještě bych řekl,
+je jednoduchý na
+používání, proto s ním
+začíná většina indie
+vývojářů.
+Nicméně, když už člověk
+chce nějaký pokročilejší věci,
+tak pak už
+naráží na ty limity a hlavně
+tam, že Unity je closed source,
+nemáte přístup ke zdrojakům,
+což je oproti
+Unreal Engine, který je open source,
+tak to je prostě někdy fakt nevýhoda,
+protože to, co tam
+nefunguje, tak vlastně máte smílo.
+Takže co tam je, to tam je a nic
+navíc si tam jako nedopíšeš, jo?
+Přesně tak.
+Unity je napsaný
+v C++, ale k tomu ty nemáš přístup.
+Pak tam je nastavba, kde se programuje
+v C Sharpu,
+což je manažovaný kód, ale prostě do toho
+C se nedostanete tak, že prostě si nemůžete
+upravit, jako když
+jsme měli třeba velký problémy se připojovat
+přes proxy a VPNku
+a Unity tam má nějaký vlastní
+HTTP requesty
+a prostě ty nefungovaly,
+ať jsme dělali, co se dělali, nebo
+nějak to fungovalo, když jsme se dostali
+do píděli přes různý fora
+na nějaký nedokomunitovaný apy,
+kde se to jako šlo nastavit, takže pak
+jsme museli využívat C Sharpu
+dotnetí vlastně funkce.
+Hele, a jaký to má licenční model Unity
+jako takový? Můžeš to používat, jak chceš
+dělat na tom biznis, nebo dáváš tam
+nějaký fíčka, nebo jak to funguje?
+Základ je zdarma a jakmile
+máš revenue nad 100 tisíc dolarů
+ročně, tak platíš
+přibližně 10 tisíc korun
+roční poplatek Unity.
+Tak a to je docela dobrý, ne? 10 tisíc,
+co to dneska je, jako
+za rok. Co?
+No a když už vyděláváš
+třeba na 200 tisíc dolarů,
+tak je to zase víc, a když už máš...
+Jo takhle, to není jenom jako, já jsem si tady
+hlupák myslel, že to jako 10 tisíc pláchne
+a máme klid. Taky umíš kálovat.
+Jo, nebo jinou. No takhle pro nás
+vlastně
+vlastně pro
+takový startup, když už je jako vydělané těch 100 tisíc
+dolarů, ale
+nemá vlastně peněz na zbyt, všechny ty
+peníze zase investuje do toho vývoje
+a tak, a potom když už tam máš
+x vývojářů, tak se to nasčítá, pak platíš
+ještě ty asety za každý
+za každou sedačku
+a prostě už to není jako malá částka, když se to
+nasčítá. No třeba v tom Unreal Engineu, ten je
+jinak je open source a navíc je zdarma
+asi do milionu
+dolarů revenue.
+Pak se platí myslím 5% z toho
+získu.
+Hele, ty jsi zmínil C Sharp,
+dá se v tom Unity psát i v jiných
+jazycích, nebo je to jenom C Sharp friendly?
+Ne, teďka je to jenom C Sharp.
+Historicky tam byl ještě JavaScript,
+ale toho upustili.
+A ty, jak jsi mluvil
+o tom Unreal Engineu,
+ten důvod, proč jste nezvolili
+tenhle engine, byl čistě
+jakože spíš si
+znal Unity, nebo
+byl tam nějaký biznisový důvod, nebo?
+Ne, ne, ne, měl jsem z Unity
+zkušenosti a vlastně předtím
+jsem dělal na vícej brů,
+takže to byl
+světlá největší zkušenost.
+David, pro co?
+Facebooku, jo, můžeme tady zmínit.
+Hezky. Já jsem tam byl v té době, kdy
+proběhla ta akvizice.
+Jo, takhle, skvěkně.
+No a vlastně dneska už se tím za stolik lidí nechlubí,
+že dělali ve Facebooku.
+Kdyby jsi to přitáhl před pěti lety,
+tak by jsi řekl jako wow, a teďka jako, co děláš?
+Děláš prvně ve Facebooku? Ne, ne, ne.
+Dělám nic jiného.
+Jo, jestli můžu takovou malou obsluhku, my jsme
+teďka s Davidem byli na WebSummitu a tam bylo
+dost hejtu zrovna na společnost
+Meta teďkom, že jo, a byl tam
+dokonce pozvaný CTO a já se mu
+nedivím, že on to prostě udělal radši jako online call.
+Jako do takové atmosféry bych asi nejal.
+Já myslím, že třeba
+k Unity, já třeba jsem taky přispíval do Unity
+a já jako,
+já se snažím jako dělat clean code
+a jdem jí hodně do
+EX Experience, prostě do Experience pro programátory
+a zrovna z Unity ji nemám
+úplně jako pozitivní, nedá se říct,
+že... To by to nesedlo, jo? Mě to nesedlo a já jsem rád,
+že už to teďkom převzeli jiní lidi, nebrali jsme nějaké lidi,
+co se jako v tom jakoby dobře
+orientují. Já třeba jsem se snažil
+vytvořit testy, nějaké ze začátku,
+nějaké Unity, nebo něco, tam jsou nějaké dva typy testů,
+asi UI a Unity, že jo?
+A nedařilo se mi to, bylo to celkem pain,
+něco jsme tam jako vytvořili, ale
+pak to stejně museli utáhnout až lidi, já jen
+po půl roce, asi už máme nějaké jako první
+testy, jako ty UI-kové.
+Máme takové testy ve startupu zase, jako neblázněji.
+Máš pravdu.
+I na mě
+jako jich dělá málo, jako jo, na té svojí straně,
+kde se snažím dělat
+kodnomen t2, že pak se napíšu napřed ten test,
+ale jakmile dotahuješ nějakou
+věc třeba ve čtyři ráno, tak
+jsi rád, že to vůbec zase funguje, že jo?
+Tak když už do toho tak skočil,
+tak nám teda řekni tu tvůj čas,
+protože Unity
+jako se tady pohejtil, tak
+co ty tam máš teda tak hezkýho, Jardo?
+A tak já klasicky,
+jak jsem říkal, jsem nad JVM-kou,
+takže teď v Kotlinu,
+používám IntelliJ IDEU jako IDEčko,
+krása v tom pracovat,
+se dělá všechno samo, když člověk zná zkratky
+klávesové.
+Takhle, co se týká
+architektury, tak teď mi tam
+vzniká jako by pár věcí,
+jako část analytika, část, kde
+se vrací jako nějaká konfigurace toho světa,
+část pro toho
+admina třeba, kterou dělám v Ibového,
+a snažím se ty věci už od začátku, když to
+se můžeme doporučit dělat jako microservici.
+A to taky proto, že když nám
+občas některá věc nefunguje, tak ať to nerozbíjí
+úplně jako jinou a můžu to dobře měnit.
+Nemáme dobře teďkom ještě
+rozkozené testovací prostředí, takže už jeme
+rovnou do mástru, jde to rovnou do produkčních
+věcí. Takže když by náhnul,
+ale zase dokážeme hodně rychle, agilně. Když
+něco nefunguje, tak za 10 minut je to opravené
+zase, nehozené, prostě třeba pracovat s tím
+jako rychle. A tam je právě, tam vidím
+ten potenciál v tom, že když to mám malé
+microservisy rozděleno už v úvodu,
+tak mě to hodně pomáhá v tomhletom.
+Takže ty to máš kvůli tomu, aby si nějakým
+způsobem odstínil pát jedné části
+systému od těch ostatních. Není to třeba kvůli
+performance, nebo kvůli tomu, že bys,
+že někdo jde do microservices kvůli
+třeba tomu, aby mu škálovali týmy, co se
+týče lidí a developerů. Tak ty to máš vyložený
+jakoby tu failer cestu.
+Jo, jo, je to tak. A potom
+to škálování lidí bude potom další
+side effect. Já taky teď mohnu říct, že to vypadá
+divně, že já dělám Java, tady
+David dělá C Sharp, ale já to zase na druhou stranu říkám,
+jak bude postupně růst, tak my
+de facto z toho trhu vývojářů budeme moci
+nabrat kohokoliv. Chceš u nás pracovat,
+najdeš uplatnění, jak na téhle straně, na druhé straně,
+jo, front and back end,
+Unity můžeš dělat, jako jo.
+Java C Sharp, no máte to rozhozený hezky,
+co se týče tech stacku, to rozhodně.
+Jo, jo, a tím jako dáváme
+prostor, že vyvíjí celý den.
+Hele, Davide, a dotaz. Co se týče
+asetů, můžeš nám říct
+nějaký pěkný příklad jednoho asetu,
+aby si to posluchači představili, co to vlastně
+jeden aset je, a zároveň potom mě zajímá,
+jak nad tím přemýšlíte, když ten aset
+vyvíjíte po svým, anebo když si ho
+převezmete z toho Unity jako takovýho.
+Rozděl bych to na
+dva druhy asetu. Jednak to jsou 3D
+objekty, což jsou prostě domy,
+avataři, stromy a všechno toho.
+Takže to jsme si koupili, tam jsou
+takový různý tematický paky
+a na základě toho stavíme ty světy,
+které jsou různě jako sci-fi, nebo
+příroda, western a tak.
+Hele, co by mě zajímalo, jak přemýšlíte
+nad tím, když děláte svůj, teda,
+že si řeknete, dobře, to tady buď to vůbec není,
+anebo se nám to úplně nelíbí,
+nebo jak nad tím to přemýšlíte?
+Je to hlavně
+podle toho, co potřebujeme
+pro zákazníky. Když tam chtějí nějaký
+custom stánek, tak jim prostě
+vymodelujeme, třeba pro JetBrains
+nedělají, nebo pro Microsoft, tak prostě tak,
+aby to bylo v jejich stylu,
+aby tam bylo to logo, třeba ve 3D provedení
+a tak. Takže takovýhle menší
+věci si modelujeme sami.
+A na to máte nějaký UX designery,
+nebo někoho na vaší straně,
+možná ne úplně UX designery, nevím,
+nebo hodně spolupracujete s tou danou firmou,
+která řekne, že chce přesně takovýhle stánek.
+Jak to funguje?
+Máme level designery, který zároveň umí i modelovat
+3D objekty. Super.
+Máme externistu, který nám dělá krásné modely.
+Poslední třeba, co nám udělal
+Aulu Univerzity v Ostravě,
+pak nám dělal muzeum,
+ne muzeum, divadlo, že jo, jsme dělali,
+a muzeum Škodovky z Mladé Boleslavy.
+Jo, to jsem viděl, to je skvělý.
+Tam jsme se byli teď nedávno mimochodem podívat,
+protože náš zákazník chtěl letět tam
+a měl někoho na místě.
+Prosím tě, Jarno, co jsi dělal v Mladé Boleslavy?
+Já teda pocházím z Mladé Boleslavy
+a jezdím tam už jenom v sebeobraně.
+Tak prosím tě, ty jsi tam jel za biznisem,
+tak jsi musel tam skončit, jo?
+Jo, jo, jo, jenom prostě na tu jednu akci.
+Byl jsem rád, že se asi můžu vrátit zpátky.
+To úplně rozumím.
+Tyhle level designery, ty to dělají v čem?
+V čem dělají ty modely?
+V nějakým maje nebo v ničem ne?
+V blendru.
+Ale každý může používat, co chce.
+Mají taky klidně 3D studio.
+Tak to na tom nezáleží, protože oni
+vyexportují ty modely do standardního formátu,
+ten se neimportuje do Unity
+a pak se s tím pracuje.
+Jenom, abyste možná nepovědli, pojďme,
+když se říká level designer, možná, že to mě dá vědět oprav,
+tak my level designerem říkáme těm,
+kteří nám dělají ty 3D virtuální světy.
+A potom máme
+jasně jednoho člověka, možná dva,
+který dělá ty modely
+a tomu říkáme model designer,
+taky level se může říkat.
+3D modelář.
+3D modelář, taky se může říkat takhle krásně česky.
+A ten dělá v tom blendru.
+Ale jinak ostatní pracují v tom Unity.
+Jasně Unity je dost klikací, bych řekl,
+co se týká na ty modely,
+pro ty designery.
+A potom, když se dělá v C-Sharpu,
+tak se otevře normálně Visual Studio.
+Jo, jasně.
+No Unity má prostě dvě části,
+tu programovací a pak tu 3D část,
+kde vlastně to je 3D editor toho světa,
+kam si natáhneš stromy, domy,
+rozmistňuješ si je, zvětšuješ, zmenšuješ a tak.
+A tam jsou pak nějaké kolesenery,
+jako on collision a takovýhle věci.
+Jak to funguje, když bych to fakt chtěl zkusit,
+když se dva hráči srazejí a chtěl bych
+vyhodit bublinku typu,
+jako prostě dávejte si pozor na sebe.
+Jo, přesně. Tak ty avatáři,
+na ně můžeš dát nějaké collision boxy
+a v kódu C Sharpu se tam nahukuješ
+na eventu nebo na callback,
+prostě on collision enter a on collision exit
+a pak ty vlastně víš, který objekt,
+kterým se srazil, pokud si rozpoznáš ty komponenty,
+zjistíš, jestli je to hráč nebo ne
+a pak prostě zareaguješ v kódu.
+Hele a celý tohleto mě to hrozně evokuje
+takový příjemný hraní,
+protože je to taková kombinace hry
+a nějakého networkingu s lidma.
+Máte tam nějaké gamifikační věci,
+nějaké achievementy nebo něco takové,
+co to ještě víc z toho udělá tu hru,
+protože vlastně vy používáte herní design
+pro virtuální networking, to je krásný,
+ale třeba je tam nějaká taková ještě vychytávka
+typu prostě těch achievementů nebo něco.
+Já jenom do toho vstoupím,
+když začnu mluvit, tohle je velké téma,
+které hodně řešíme.
+Jako aktuálně, jo?
+No vůbec, hodně klientů se za to ptá
+a...
+Může potřebovat motylovat ty lidi,
+aby tam lezli a využívali to.
+A to je teďka jedna z věcí,
+co máme na produktové roadmapě,
+a David si myslím, že toho už pustil.
+Jak to je?
+Teď se řeknu, že toho pustím.
+Ne, už tam něco máme,
+lidi můžou třeba hledat skrytý bedny,
+která ti odemkne, když ji najdeš,
+tak ti odemkne třeba avatara speciálního.
+Velice oblíbený je párek vrohlíků
+v nadživotní velikosti.
+Ne, ale tohle je skvělý úplně.
+Když si třeba vezmeš, co tyhle věci udělali
+s těma open world hrama typu GTA,
+nebo i v Mafii,
+prostě jak chodíš a hledáš takový ty kravinky,
+nebo plagáty vývojářů,
+který byly ve dvojce, myslím,
+tak je to, podle mě, to úplně hrozně
+ozvláštní celkově ten feeling z toho světa.
+Mně se to hrozně líbí.
+Jo, jo, my teďka ještě máme na roadmapě
+teďka velice blízko nějaký minikvesty,
+takovýhle gamifikace, kde prostě budeš mít
+čtyři lidi třeba, který musí stoupnout všichni,
+každý na svoji nášlapnou plošinu,
+která ti uprostřed odemkne
+portál do jiného světa.
+Jo, to je boží, ale politice musíme koupit do Cienka
+tohleto, to se mi líbí.
+Někoho překracáme tady.
+To je dobrý.
+My to pro vás za malý poplatek uděláme velice rádi.
+No a tady se blížíme k tomu,
+že se propojují i ty naše světy,
+protože já k tomu teď budu připravovat
+nějaké databáze, nějaký backend,
+kde se budou ty konfigurace ukládat,
+kde se budou ukládat i ty stavy světa.
+Něco bude jako, dalo by se říct, v operační paměti,
+že na tom servu, kde to bude živé,
+ale zároveň se bude ukládat nějaká konfigurace
+někam. A to jsem třeba teď
+taky řešil, jakou zvolit databázi.
+No to mě zajímá právě, celý ten backend,
+backend of backend.
+To jsme ještě nezmiňovali. No povidej.
+Jelikož jsme startup, tak jsme šli po ceně
+a my jsme teďka běžíme na Azure,
+máme věci na Azure,
+protože nás Microsoft teďka zaštiťuje jako
+startup, nám dal nějaké kredity, tak což je fajn,
+děkujeme Microsofte.
+Já jsem tam hledal nějakou nejlevnější databázi
+a to je NoSQL, Azure Tables.
+No jasně, to je
+skvělá věc. Jo, jo, jo.
+Snažil jsem se
+to teďka naroubovat skoro na všecko,
+ale to nebyl dobrý nápad.
+Člověk k tomu
+de facto musí přistoupit.
+Přistupovat tak, že
+každý účel má něco jiného.
+Takže ty Azure Tables byly fajn teďka
+na ty konfigurace, třeba nebo na analitiku, kde potřebujeme
+hodně zapisovat. My třeba teďka dokážeme
+trackovat to, že když někdo vstoupí
+na stánek, opustí ho
+a jeden z našich klientů chtěl dokonce,
+když jenom projde okolo stánku.
+Takže tam máme i okolo, ani to člověk neví,
+a už se o něm sbírá informace.
+Ale sbíráme to,
+snažíme mít hled na
+soukromé data, takže
+jsou to anonimní.
+De facto na té naší aplikaci se člověk přidá si nějakým kódem,
+který zadá. Je to propojené
+s naším tiketovacím systémem, třeba tyto.
+Může se tím potom někdo dohledat, co to je.
+Je to prostě jedna jednovébová stránka,
+kde si člověk může zaregistrovat
+nějakou údálost, koupit vstupenku.
+My to máme propojené přes API,
+takže z toho vytáhneme jméno,
+ale u nás v aplikaci není. Nikde ho nedržíme,
+takže máme fakt jenom anonimní kód.
+A ty kódy potřebujeme potom někam rychle zapisovat,
+když tracujeme. A když je tam třeba
+tisíc lidí, tak to fakt těch requestů je dost
+a musí to zvládnout některý backend.
+Tak už i proto se mi třeba hodí, že to je microservice,
+protože ten jeden backend je třeba v den akce
+fakt jako zatížený a stará se jenom o to,
+že to je jenom zbírat z těch unity klientů,
+které to sypají a je jich třeba
+fakt až tisíc. A teď to ještě jako lidi
+procházejí přes každej vstup okolo
+stánku, do stánku vstoupil a teď to tam
+všechno lítá. A to se dobře zapisuje
+pro to, že tam to jakoby
+neměli jsme žádnou potíž.
+A tam máš teda klasiku partition key a row key
+a tam to prostě zapisuješ tak, jak
+by se to mělo používat. Přesně tak, jo.
+Jenom se to zapisuje a hází se to na hromadu.
+Potom z toho děláme zatím malinký report, taky
+máme na root mapy dělat z toho krásnější nějaké reporty,
+aby viděli prostě, chceme udělat
+heat mapu, že zobrazíme třeba mapu
+jako dvědy toho světa a kde by bylo
+nejvíc těch lidí, kam chodí a podobně.
+No ale teď jsem, jak jsem začal těho dělat
+od admina, tak jsem tam pořád, teď tam přidáváme
+uživateli jako adminy a teďko mají
+nějaké role a podobně. A to už
+jsou různé relační na té baze mezi sebou
+jako tabulky. A zatím jsem
+ještě zůstal pořád u těch Azure Tables, ale
+už to není ono. – Hele, tam si myslím, že dojdeš
+asi jako na hranici, protože my Azure Tables
+používáme taky a jako to je
+geniální služba zaprvé ta cena,
+ta jako bezkonkurenční v tom množství
+záznamů, který tam dostaneš.
+A pokud jí umíš dobře používat, to znamená
+vždycky jdeš minimálně přes partition,
+ale nejlépe i přes roky, tak je
+brutálně rychle. Já nevím, jestli jsi viděl
+tu přednášku od Trojehanta,
+který má na tom postavený haveibeenpound.com
+a on právě tím, že
+každá ta mailová adresa se dá rozparsovat,
+že před zavináčem a za zavináčem,
+tak on to má i při těch, nevím kolik
+tam má, už miliard záznamů,
+možná biliony, nevím.
+Tak on to má tak brutálně rychlý, že říkal, že to musel
+zpomalovat na UI, aby lidi věřili,
+že to fakt vyhledává.
+Protože ten princip je tak jednoduchý, že on
+opravdu dokáže z té emailové adresy to správně rozřezat
+a vždycky jde jen do toho malého šuplíku,
+nehledě na to, kolik je tam dát.
+A stojí to, v té době ho to stálo, dobře, jsem viděl tu přednášku
+třeba rokama stálo, ho to říkal jedno
+kafe, jako v Americe, takže
+za měsíc, takže to je úplně jako geniální
+služba, ale my jsme v tom zkoušeli dělat třeba
+jako vyhledávání a ty query,
+tam už pak, jako tam už to bolí,
+takže já jsem schválně zvědav,
+kam daleko s tím dojdete, no.
+No, už docházím jako na té hranice,
+protože třeba získat ten report
+už zabere více jak minutu a pak mít
+back and padá, myslím, že tam mám stálený timeout,
+takže to třeba, když to někdo chce, ale ten zase
+ten report dělám já, nevím, po akci, jednou
+zaměstíc, nebo jednou začal, prostě pro tu
+klienta, když si o to řekne, tak to
+když tak, jako, jsme startup, takže to
+neřeším, to stáhnu prostě na svojím
+počítačí, jako kde mám další timeout
+a vyřešeno, jako, takže pro čtení je to těžší.
+A nadali vám nějaký discount třeba na
+Kosmos, nebo něco takovýho?
+Discount by nedali, spíš ty kredity bychom tam
+když bylo, že máte kredity a měsíční.
+A to bychom tam, jako, pádali. To je v pohodě, já můžu
+a Kosmos jsem tam dokonce původně měl, jako
+zaintegrovaný, ale pak, když jsem viděl ten ceník, tak
+je to fakt, jako,
+rozdíl a je to
+zbytečné. No teďko spíš přejdu na
+Postgres, protože s tím jsem zvyklý
+používat, jako by, v Java a to budou tam ti
+admini a budou tam ti nějaké role
+a to budou, jako by, malé věcí, malé tabulky,
+ale budou více provázané a bude tam více,
+jako, takové věci. Takže ono je spíš, jako by,
+dobré rozhodovat se o té databázi typ, databázi
+ne, zrovna, co se komu hodí, nebo
+co je dobré, jako, co se, jako, třeba
+i cenově, ale podle účelu ji vybrat
+určitě, na co to bude, jestli chci zapisovat, či
+a podobně. A ty data
+děláte v nějakým specializovaném
+toolu, tak u Azure mě napadá Power BI,
+nebo je to nějaká Excelovská tabulka,
+kterou ten klient dneska zatím ocení
+v téhle jednoduchosti?
+Teďkom používám Airtable.
+Jako, kde je nějaké rozhraní.
+Airtable nám teďkom částečně slouží
+jako databáze a zároveň, jako by,
+takový frontend, jako kde, kde to ten člověk
+může zaškrtávat. Třeba, jak jsme se tady bavili,
+lítání může povolit, že jako zaškrtne podničko,
+že tahle role, těhleti typy lístků,
+jako lidi s toho roli, můžou lítat
+nebo nemůžou lítat. A už to pomalu
+převadíme, že to přepisujeme do Reactu.
+Takže pak bude konfigurátor,
+že se prostě přes nějaký krásný
+webový klikátko si zaškrtám,
+jako gravity on a tak dále.
+A ten zájem o ty data je?
+Od těch klientů chtějí vidět, jak se tam
+ty lidi pohybovaly a jestli je to pro ně
+nějakým způsobem zajímavý?
+Záleží na typu akce, protože když dělají
+akci, která je jako pro veřejnost,
+třeba nějaký job fair, typicky třeba právě
+Škodovka u nás dělala, že potřebovali nabrat
+nějaké lidi, tak udělali nějakou akci,
+kde hodně zvali studenty, takže oni
+dokázali i dobře používat to rozhraní.
+Tak to je třeba
+jako zajímalo, kolik jich tam
+třeba bylo, co navštěvovali.
+Pak jsme třeba měli job fair pro VŠE,
+tak tam je vysloveně zajímalo právě
+na krem stánku, se kdo zdržel.
+Když se dělá interní akce,
+jako třeba pro Avast jsme dělali Vánoční večer
+kloní, tak tam jim na tom to klik nezáleží,
+kde kdo chodí, tam můžou hodnit.
+Tam potom, tady je potom Davidova domena,
+aby ty lidi dokázali zabavit nějakýma hrama.
+– Jo, jo, jo. – No já se dokážu
+představit, že řekne Škodovka, ta hlavní
+sponzor mistrovství světa v hokeji, že třeba
+budou chtít jednou nějaký malinkatý ring,
+kde budou ty lidi moci jakoby mezi sebou
+hrát, což teda jako hodně štěstí s fyzikou,
+ale mohlo by to
+být jako zajímavý, takovýhle
+malý svět, jako ještě s malým ice rinkem
+nebo s něčím takovým. – Určitě,
+distribuovaná fyzika je náročná, ale
+už tam vlastně něco takového máme, vlastně v jední
+akci byly pro výrobce
+deskový her, tak
+jsme tam měli, jako s Avatarama, jsme byli
+vlastně na vzducholodí a byl tam jeden člověk,
+který tam furt stál, nic nedělal,
+a tak ostatní vymysleli, že ho
+odstrkají z té vzducholodě a on
+odstrkává až dolů, on spadnul někam do čověka.
+– Tam je pak dobré, že když je to
+fakt mimo ten svět, nevím,
+jak bych to, on je placká, on je placatý
+ten svět, to je jako
+zjištění, že vlastně ten svět je placatý. – Protože to neříkej,
+to se nikdo chytne, že ten svět je placatý.
+– A když tam potom člověk přepadne,
+tak oni právě ti lidi, co dělají ty deskové hry, tak to hodně
+zkoušejí, tak padal třeba, já už padám pět minut,
+já už padám půl hodiny, nepořád padám.
+Ani ne, je tam nějaké omezení, David, nebo to je nekonečno,
+opravdu? – Teoreticky je to
+nekonečno, ale vlastně pak už ti tam začne
+hrát roli přesnost
+floutů, kdy vlastně po několika
+kilometrech už
+tam dochází
+takovým Matrixovým anomálím.
+– No, co bylo pěkné,
+když se tam jako s tím hráli, tak my jsme ještě měli vychytané
+všechny věci, když je tam ten avatar, tak nad
+hlavou má jméno a někteří si
+dávali strašně dlouhé, jak ho dáváš dlouhé, tak se
+ti zalamuje a štosuje se ti
+nad hlavou a víš a víš a víš. A někteří
+si ho dali, já nevím, jestli jsou tam ty měřítka
+několik kilometrů možná
+a dokonce to bylo až tak,
+protože jak se dělají ty levely, jakože
+těch světů, tak my tam máme
+teleport, že může přeskočit do trojeho
+a ten level je nic jiného, jenom
+že je to jako by další, jestli placka třeba je postavená
+nad tím. – Jasně. – Jo, což normálně jako
+nevíš. Ale když máš takhle to vysoké jméno,
+tak to zase hovalo. – Tohle seš jménem do jiného?
+– Do jiného levelu. – To je super.
+– To je skvělý.
+Ale vem si, pakže vyjde hra
+typu Kingdom Come,
+všichni držkujou na ty bugy, ale vem si,
+co všechno ty lidi napadne udělat v
+Open World jako hře, kde teda
+ještě samozřejmě tam máš ty MPCčka
+a tyhle ty věci. Hele, to mě teďka napadlo,
+nějaký MPCčka plánujete neco takový,
+že tam bude pobíhat třeba nějaký jako
+AI zástupce firmy, který
+bude ty lidi třeba automaticky oslovovat,
+nabízet nějaký jako job offers a tak?
+– No, něco už takového jsme měli.
+Vlastně tam byly avataři, když jsi k ním přišel,
+jak se objevila bublina s textem, s nějakým jako
+ahoj, jak se máte, tudy doleva,
+běžte tam, doprva tam.
+Ale nejsou vlastně interaktivní,
+takže to až v budoucnu.
+– Takže takový jako do budoucna chatbotí
+nebo opravdu jako umělá inteligence,
+což je zase tady jako, když to takhle řeknu za sebou,
+tak polimu se rozáří očička.
+– Už si přihřívám poličičku.
+– No, my moc nechceme,
+protože to chceme, aby to bylo hodně
+lidský kontakt. Aby to fakt bylo o tom,
+že co tam vidíš toho avatára, tak to je člověk.
+Takže už tam vidím sto lidí, najednou jsem
+fakt na akci, kde je sto lidí.
+– Jo, aby to nebylo promixované.
+– Takže spíš to tam dávat nebudeme.
+– Tady ta interakce mezi lidmi,
+to je prostě náš stěžení pilíř
+celý té platformy.
+Aby se ty lidi potkávali, mohli spolu
+snadno prostě mluvit.
+– No a spíš, když pojeme směrem toho,
+co třeba říká Petr Mára
+a podobní technologičtí mágové,
+tak říkají, že jednou budeme mít brýle
+a budeme přes ty brýle koukat
+prostě na cokoliv, co tam
+zrovna bude k dispozici, což by se vás
+teoreticky mohlo dostýkat. Je to něco,
+co řešíte, nebo já samozřejmě chápu,
+že to je hudba možná i vzdálenější v budoucnosti,
+než máte na té roadmapě, nevím, kam až koukáte.
+Ale je to něco,
+nad čím uvažujete způsobem,
+že tam jednou se dostanete, nebo
+myslíte si, že to zůstane tak jako zhruba
+tak, jak to je dneska?
+Už jsme to probírali si před rokem
+a konkrétně, co se
+VR-ka týče, tak zatím
+to není tak masově rozšířený,
+aby to byla naše cílovka, ale jednou
+určitě. Jo, jasně.
+Jsou tady dvě důvody, jenom tady doplnit,
+že to ještě nemá každý doma
+a potom, když si to nesadíš,
+tak ti není vidět do obličeje.
+A my tam máme tu kamerku a jde nám fakt
+o tu interakci, ať se lidi můžou spolu
+povídat. Já si pamatuji na jedné akci,
+když jsem jako projekťák zacvičoval
+organizátory, aby se s tím seznámili,
+protože oni to musí dobře znát, aby potom
+dobře provadili svoje zase návštěvníky.
+A tak, když jsme tam plnili zkusce
+v tom světě, tak oni měli po vypínáném kamery
+a já jim říkám, jako, ta platforma
+vznikla právě proto, aby se tu kameru mohli mít
+a platíte si nás za to,
+tak si prosím vás zapněte.
+No jo, ale my máme přelepenou.
+Tak to odlepte, ne? Tak to odlepili
+potom a už jsme se viděli, jako jo.
+Ale fakt to naše groje, že se vidí.
+Na druhou stranu, ať to dopovím, tak když
+se nasadíš ty bílé, už jsou dneska algoritmy,
+že ti dokážou ten obličej
+dokreslit. Takže ty potom
+třeba hýbeš puso a hýbe se tam avatar
+animovaný, takže jde to.
+Jako nakonec můžeme mít i ty bílé
+a to už připraveno.
+Technologie pořád pokračují dál, ale v momentální
+situaci s VR helmama je to tak,
+že tam nevydržíš díl než dvě hodiny.
+Pak už je čím opravdu špatně.
+A když máš celodenní akci nebo půldenní akci,
+tak to prostě nedáš.
+Tak všeobecně AI, napadá mě třeba věc,
+že budete mít spousty dát a na základě těch dát
+zjistíte, že ty lidi baví nejvíc
+prostě tahle konkrétní věc, když je to zrovna
+tenhle ten konkrétní člověk, dejme tomu.
+To je něco, s čím chcete pracovat?
+Jako v podstatě nějaký deep learning nad tím postavený,
+který v podstatě předpokládám
+nebo predikuje, co by ty lidi mohlo nejvíc zajímat?
+Momentálně se snažíme
+překlopit do data-driven company.
+Zjistit, co ty lidi
+nejvíce používají a pak
+to rozširovat.
+Super. Já když jsem mluvil o tom web-summitu,
+tak tam jsem zrovna slyšel pěknou přednášku,
+na co využít AI v datech.
+A je to hlavně na hledání anomálií
+třeba. Že třeba to nás ani nenapadne,
+že se tam něco děje a ta AI by to mohla
+najít. Jak to použít, jak to
+zaintegrovat, to tady nemá asi
+našem týmu nikdo znalost, ale třeba
+se s tobou domluvíme, budeme na poradí.
+Výborně, výborně. Anomaly detection je něco, co
+zrovna máme jednoho kolegu,
+byl tady v jednom z dílů, který
+by si s vámi o tom mohl pěkně pokecat.
+Který z těch dvou?
+Je to ten třetí, teprve přijde.
+To je ten, který teprve půjde,
+v době, kdy to nahráváme, ale v době, kdy
+to posluchači slyšejí, tak už dávno šel.
+Jo, jo. Aby ta anomálie
+časová byla.
+To už je tenet.
+To je vlastně tohle.
+Já bych třeba potřeboval zdetekovat kvůli anomálii,
+kde ze serveru odesílám
+data, pakety, každých 100 milisekund,
+ale ke klientovi dorazí
+sekundu nic a pak dorazí
+všechny najednou.
+Hele, to jsou všechno věci a
+já ti to řeknu obecně a Richard Vlasby
+ti to řekl prostě do detailů, ale v podstatě
+používá se na to něco, co se jmenuje
+Digital Twin, protože ono ty anomálie
+úplně nechceš sbírat, protože nechceš, aby se děli,
+takže si na ně uděláš tak jako simulátor
+v rámci toho, který se jmenuje
+vlastně takovýhle digitální dvojče a na základě
+toho potom můžeš ty
+anomálie sbírat a nějak si je testovat.
+Ale o tom můžeme
+kluci někdy pokecat určitě.
+Dobře.
+Tak kluci, za čtyři dny jsou tady Vánoce, ještě než
+se rozloučíme, řekněte mi, co
+si přejete od Jižíška pro
+konferomatik, jak vidíte budoucnost, co byste
+si přáli do 2022, kromě
+asi teda nikdy nekončící pandemie,
+protože ta přináší lidi, ne?
+Tak já si přeju
+dobrého, hodného investora,
+aby jsme dostali. Takže investora.
+A co se týká pandemie, tak to já mám pořád
+ambivalentní
+pocity, protože když to jde
+dolů, že nás utahují,
+že nás zavírají různé obchody a podobně,
+tak já mám z toho špatný pocit, ale zase
+to pomáhá biznisu a zase, když se otevírá,
+tak se to nepomáhá, no prostě ambivalentní pořád.
+A já bych nám přál spoustu
+šťastných paketů, které včas naleznou
+svůj domov.
+Kluci, tak vám budeme přát, aby vám to Jižíšek
+přines. Můžu si udělat
+jednu malinké promo? No jasně, jasně.
+My taky natáčíme
+podcast s jedním kolegou, kam
+chceme tady pozvat Jokera, tak snad nám to
+jako vyjde jako jeden první host, a jinak my už natáčíme
+rok s Jakubem Kočím,
+co vkraci říkáme. A to proto,
+protože my se už s Kubou známe dlouho
+už od Top Monks, a vždycky, když
+jsme někde seděli, jsme dlouho povídali o
+vývoji softwaru, a nám vždycky šlo hlavně o
+clean code, ne ani moc o technický, ale clean code,
+vstup, jako přístup programátorům
+a podobné věci.
+A pak jsme si říkali, hele, co kterým jsme tady ty rozvody nahrávali?
+Tak jsme se to jako nahrávali, a teď jsme si říkali,
+hele, tak jako dokážeme se jí scházet
+jednou za měsíc, vždycky dáme jeden díl,
+tak se začneme zahrostit. A tady, Jokeré,
+jsme rádi, že jestli k nám dorazíš,
+tak zkusíme.
+Já rád přijdu, ale mě si zvlát na clean code,
+jako to jste mě rovnou mohli pozvat na maratony.
+Ale dobře, zkusím to, zkusím to, děkuju, děkuju moc.
+No tak, kluci, já vám přeju,
+ať se vám strašně moc daří,
+ať se třeba za nějaký čas potkáme,
+ať už budete
+prostě totálně jako
+v černých číslech
+a totálně vysmátý s nějakým
+jako pořádně tučným investorem
+za zády, a ať
+korona nekorona, ať se lidi scházejí
+virtuálně co nejvíc. Díky moc.
+Taky díky. Díky za pozvání.
+Díky, čau. Ahoj.
+Tak to byly kluci z konferomatiku.
+Bylo to hodně jiný, bylo to poprvé
+o produktu, takže zase zajímavý
+jiným způsobem. A líbilo se mi,
+že každej má na starosti tu svoji
+část, vzájemně se vlastně moc
+nepřekrývají, jenom na konci
+toho produktu, ale každej má tu svoji
+oblast, o který se rád baví, která
+ho zajímá. Je škoda,
+že vlastně hned po tom, co jsme vypli mikrofony,
+tak kluci začali sypat další a další
+technický zajímavosti. Myslím si, že
+bychom klidně tady mohli sedět ještě hodinu
+a bylo by to pořád dobrý.
+Dost možná, pokud někdy budou
+další série, tak si je pozveme znova.
+No určitě, určitě. Kluci jsou fajn.
+Jarda teda nekouzlil. Jarda nekouzlil,
+je to škoda na druhou stranu.
+Zase ukázal, že umí
+daleko víc věcí, než jenom
+tahat kralíka z klubouku a
+hádat karty. Ale třeba, když se
+vytáhnu do hospody, tak on nám to ukáže.
+Protože já jsem toho viděl, vlastně on to dělá jenom v hospodě.
+Jo, takhle. Tak to musíme někdy
+vymyslet. No jasně, kluci
+ukázali, že i občas v jednoduchosti je krása.
+Prostě odpověděli jasně, stručně.
+Možná, že to je důvod, proč ty moje startupy
+všechny failnuli, že jsem prostě moc
+kecal a možná jsme málo dělali, nebo tak něco.
+Asi jo, asi si nedostatečně
+krančoval, nevím. To možná.
+To zjistíme. Hodíme to
+offline, pobavíme se o tom,
+proč tvoje startupy krešly.
+Dáme to do tušky. No a my vám, milí
+posluchači, přejeme bohatého Ježíška,
+krásné Vánoce a budeme
+se těšit u posledního dílu první
+série 3. ledna 2022.
+Budeme se těšit, přeju vám
+krásnej zbytek roku a děkujeme,
+že nás posloucháte. Díky, čau, čau.
+Čau.

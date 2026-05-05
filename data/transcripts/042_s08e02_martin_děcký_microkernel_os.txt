@@ -1,0 +1,2515 @@
+Pod vocasem.
+Pod vocasem.
+Pod vocasem.
+Pod vocasem.
+Krásný den, milí posluchači, vítejte u druhého dílu osmé série vašeho oblíbeného IT podcastu Pod vocasem.
+No a samozřejmě jako vždy ani dneska nemůže chybět ten tradiční úvod, naproti mě sedí usměvavý ze spořky právě doběhnuvší Petr Polipolák.
+A naproti mě Roman Žoukr provazník, kterého opravdu zase rád vidím. Čau Romanku.
+Taky, taky, čau, čau, tak jaká?
+No nádhera, nádhera, užívám si všechno a hlavně si teda užívám ty docházky sem do Cienka o menosiklům, protože teď to pro mě je jaksi raritní.
+Já jsem zažil, že tě dole poprvé vlastně poznali ty lidi z recepce. No jen se přiznej, řekni, co říkali.
+Pán mi říká, no já si vás pamatuju, vy jste mě vždycky ve čtyři ráno budil.
+Takže přátelé, tady se mi slyšíte, jak to vždycky dopadá, když se dělá nějaká tady ex-Cienkovská cyklumácká akce.
+A když tady ještě poli byl ta hlavní hvězda, tak vždycky to táhnul do těch ranních hodin.
+Že si tě ty chudáci z recepce, co tam chtěli zachrápat pěkně do šesti, do sedmi, ty tě museli proklínat.
+Chápeš, ten člověk tam jednou prošel, protože něco zapomněl v kanceláři, tak se proto vracel zhromovat.
+No určitě, určitě.
+A vodí tě hnedka od chytej, no tak to jsou věci.
+To jsou věci. No a jinak nějaké novinky, jak to jde ve Sporce?
+Ale jinak, ve Sporce to jde krásně, ve Sporce to jde krásně, díky tomu, že tam jsem, tak mám různý možnosti jít na zajímavé akce.
+Zejtra zrovna se koná jedna od AVSK.
+A hele, normálně tam přijde člověk, který má na starosti data, které plynou z Formule 1.
+No keď se.
+Představ si, že každá formule generuje, a teď pozor, 1,1 milionu datových bodů za sekundu.
+Tej krás.
+Vůbec nechápu, co. Ale zejtra se dozvím víc, takže příště, přátelé, vám řeknu nějaký zajímavostky.
+A protože příště znamená ve skutečnosti, ne ve třetím, ale ve čtvrtém díle, protože nejen, že nedodržujeme časové osy,
+ale rozhodli jsme se dokonce v této sérii i jaksi předtáčet na přeskáčku.
+Ano, ano, taky mě si hlavu zamotali, jsi říkal, víte, u druhého dílu, říkám, co to říká.
+Tak na začátku čtvrtého dílu nám řekneš, jak je to s tou formulí.
+Tak to zní zajímavě. No tady vlastně nic nového u nás, rozjíždíme další rok, rozjíždíme zajímavý projekty,
+teďka to je samej workshop, sama analýza, asi vlastně nic zásadního, že bych ti řekl z mý strany, co se jako změnilo.
+No tak mi řekni, co jsi dostal k Jižíšku aspoň.
+Novej monitor mám, čověče.
+Novej monitor, tak dobrý.
+To, že jsi byl hodnej, klasika.
+Byl jsem hodnej, takže na nový monitor můžu pak stříhat podcast, bude to všechno lepší, ty osy tam budou vypadat líp.
+Ale to už dávno dělají kluci z technického, ne?
+Já je znám, no, ale taky se jim tady nový monitor hodí.
+Jo, jo, super.
+Takže jinak vlastně, kamaráde, nic zásadního z mý strany, myslím si, že možná dost bylo úvodu, pojďme na našeho hosta, ne?
+No a kdo nás dneska čeká, to je zajímavý.
+Dneska nás navštíví můj vlastně dlouholetý známý, se kterým už se bavíme nějaký ten pátek, jednak protože jsem ho kdysi zlanařil na F-Sharping, kde mluvil o formální verifikaci kódu o jazyku, to bylo F-Star možná, nebylo to o F-Sharpu, ale F-Star, nebo F-hvězdíčka.
+Každopádně je to velmi zajímavý člověk, jmenuje se Martin Dětský, potkali jsme se na MatFizu, ne teda, že já bych chodil na MatFiz, ale on v té době pořádá.
+Tak mě se tam podívat třeba, ne?
+No pozor, pozor, to ještě ti řeknu takovou zajímavost, on mě tam vlastně dotáhl, abych na MatFizu dal nějakou přednášku o F-Sharpu a já jsem si to pak někde očkrt, že já vlastně jsem přednášel na MatFizu.
+Neříkal jsem samozřejmě, že to byla jedna prostě 45 minutová přednáška, ale rozumíš, ten life achievement, když jsem to zase říkal babičce učitelce, že prostě já, starej debil na Matiku, jsem na MatFizu přednášel, tak to se klepala jak zdrahej pes.
+To říkala potom na vesnici.
+No ježišmarja, celá vesnice tím žila prostě, že tady, mladej přednáší na MatFizu.
+No tak právě, Martin Dětský byl na MatFizu, věnuje se mikrokernelům, je to opravdu nabušenej člověk.
+Jedinej problém dnešního dílu není vůbec to, že by Martin nebyl sdílnej nebo něco, já si myslím, že to bude super.
+Problém je, že vždycky se snažíme to téma koncibovat tak, aby tomu alespoň jeden z nás dvou rozuměl.
+Tu data, tu programování, vždycky si dáme spolu jim takový ten jako high five a je to v pohodě.
+Dneska, no uvidíme, uvidíme, já jsem na to zvědav, protože co se týče mikrokernelů, tak já jsem opravdu takovej panic jako prostě v sedmice na ližáku.
+Takže jsem na to sám zvědav.
+Jestli kdyby to byla osmička, tak už je to jiný, ale ta sedmička, to je jako...
+Tady ani první meta, kámo, ani první meta, co se týče mikrokernelů.
+Jsem na tom stejně, těším se.
+Do studia dorazil náš dnešní host, Martin Dětský, ahoj Martine.
+Ahoj, díky za pozvání.
+No my díky, že jsi dorazil konečně.
+Teda konečně, to by nebylo tak, že bychom tě osm sérií zvali, to bylo to, že konečně jsme si my na tebe vzpomněli, ale to, jak dlouho jsme to organizovali a měli jsme tam několik zádrhelů, no o to jsme radši, že jsi tady.
+Je mi ctí.
+Je mi ctí.
+Nám tež, nám tež.
+Prosím tě Martine, byť jsem tě ze začátku trošku svéhrázným způsobem představil, myslím si, že bude velmi vhodné, aby ses představil našim posluchačům sám.
+Tak když to vezmu tak velmi stručně, jenom profesně. 20 let se zabývám operačními systémy, hlavně mikrojádrovými operačními systémy. Z toho 14 let jsem tohleto téma dělal na Univerzitě Karlově na Matvizu, konkrétně na katedře distribuovaných a spolilých systémů.
+Potom čtyři roky u společnosti Huawei, dva roky z toho v Nichově jako R&D pracovník a potom další dva roky v Drážďanech, kde jsem spolu zakládal novou výzkumnou jednotku firmy.
+Poslední dva roky jsem taky zaměstnan v Drážďanech u malé společnosti, která se jmenuje Kern Concept, ale pracuju nadálku z Prahy.
+No a abych jenom k tomu dodal, snažím se nadívat se na tu naši IT, computer science oblast jenom skrze operační systémy, snažím se nestratit kontakty s jinými oblastmi, hrozně mě baví softwarové inženýrství, ale i takové věci jako formální verifikace, počítačová grafika, demoscena a tak dále.
+Nejčastěji hovořím jazyky C a C++.
+Hezky, hezky, tak to bylo parádní.
+Tak řekni, jak se dostal, jaký byl tvůj první dotek z IT jako dítě, už jsi měl od mala nějaký didaktik nebo něco takového?
+Myslím, že se tomu tehdy neříkalo IT, ale ano, bylo to už hodně dávno, myslím, že bych našel nějakou fotku z roku 1988, kde sedím u nějakého PMD 85.
+Hezky, hezky.
+Můj táta pracoval v národním podniku Geodésie, kde měl tehdy i před revolucí ku podivu docela přístup i jaksi k západní technice.
+Takže hned.
+Asi tak o rok později jsem seděl u nějakého prvního IBM PC, skutečného, ale na tom jsem teda ještě neprogramoval, abych byl upřímný.
+První nějaké programátorské zkušenosti jsem získal až teda po revoluci, tak od roku 1990 jsem byl takový samouk v Turbo Pascalu.
+No a už tohle mě tak trošku jakoby naformovalo, protože možná si někteří vzpomenou, Turbo Pascal byl takové hezké vývoj.
+Ale bylo tam spousta omezení, 64 kilobajtové segmenty a tak dále. No a já jsem chtěl jaksi z toho jazyka vymačkat víc, takže jsem se začal nořit do toho x86 asembleru a začal jsem si psát vlastní rutinky na přístup do paměti a tak dále.
+No a tak jako jsem zkoumal ten MS-DOS a později Windows.
+Linux používám tak od roku 1999 jako svůj primárního.
+No a ten poslední bod, který bych asi mohl zmínit, který mě nasměroval tam, kde teďka jsem, tak to je rok 2004, kdy mě oslovil Jakub Běrmář, duchovní otec operačního systému Halen OS.
+Tak bych se k němu nepřipojil v rámci software.
+Tak bych se k němu nepřipojil v rámci software.
+Tak bych se k němu nepřipojil v rámci software.
+Já bych nechtěl nějak přehnaně zobecňovat, protože na každé univerzitě je to trochu jinak.
+Samozřejmě liší se to země od země, ale dokonce se to liší prostě pracoviště od pracoviště.
+Takže budu spíš říkat svou zkušenost než nějakou univerzální zkušenost.
+Ale dá se říct, že to je opravdu trochu něco jiného, než pracovat ať už v malé nebo velké firmě.
+Spousta lidí říká, že je to svobodnější.
+Já bych to tak nenazval, protože člověk sice má možnost si vyzobávat ty rozinky tam, kde chce,
+ale přece jenom těch kuláčů, ze kterých se ty rozinky dají vyzobávat, je nějaké omezené množství a někdo nastavuje ty mantinely.
+Ale kdybych to teda mohl nějakým způsobem specifikovat jednou větou, tak je to taková kombinace zaměstnání plus freelancingu.
+Má to aspekty tady těchto dvou způsobů.
+Řekl bych, že třeba ti nadřízení, vedoucí katedér, děkaní a tak dále, že to nejsou takový ti klasičtí šéfové, které známe z komerční sféry,
+ale jsou to spíš takový organizátoři a schláněči peněz.
+Takže člověk opravdu v rámci těch možností, které tam jsou a samozřejmě v rámci nějakých grantů a pobídek, si skutečně může dost dělat, co chce.
+Takže to je poměrně krátké.
+Takže to je takové kreativní prostředí, kde ten fundraising, když to tak řeknu, je jedno z těch hlavních odvětví těch lidí, který to vedou.
+A na vás je, aby se ty prachy udělalo něco užitečného.
+Takhle by se to dalo asi definovat.
+Je tam spousta zase dalších zajímavých aspektů.
+Trošku se tam hraje na ty akademické tituly.
+Je to asi něco jako v armádě.
+Prostě být doktorant je něco jiného, než být postdoc a být postdoc je něco jiného, než být profesor.
+Ale zase tam, kde je to rozumné, tak to myslím není na škodu.
+Zmínil bych takovou jednu opravdu jako zvláštnost, která mi vlastně došla až zpětně.
+Ve vědě obecně funguje jakýsi mechanismus peer review.
+To znamená, že člověk píše nějaké články, které potom někdo jiný, jiní lidé v tom oboru anonimně hodnotí.
+A pokud teda uznají, že to je nějaký přínos, že to je nějaká pozitivní delta pro...
+pro společnost, tak ten článek je teda vydán v nějakém zborníku konference nebo v nějakém časopise.
+Což je ale vlastně... Ten systém dává pochopitelně v té vědě smysl.
+Ale je to zvláštní. Je to jako kdyby nějaká firma byla hodnocená nebo dostávala peníze za své softwarové projekty
+na základě hodnocení svých konkurentů.
+Jo, takhle.
+Aha. To mě napadlo nikdy. No. Ale funguje to, ne? Roky takhle prostě v těch...
+Funguje to proto, protože je to jakoby uzavřený systém, kde to všichni dělají všem.
+Takže když tam občas mohou vzniknout nějaké patologické incentivy, tak ten systém se snaží nějakými
+prostě checks and balances zařídit, aby to stále fungovalo, aby tam nevznikaly nějaké ty publikační kruhy
+prostě lidí, kteří se vzájemně poplácávají po zádech a ostatní nemají nároku.
+A vlastně, když o tom také mluvíš, tak si pamatuju Tomáše Mikolova, který mluvil o tom,
+že se to kradlo mezi sebou a že vlastně někdo, kdo to jako kontroloval, tak to vlastně potom vzal za svý
+a někdy to prezentoval dřív, než je vlastně to ten Tomáš vůbec dostal zpátky po té kontrole.
+Takže ono asi taky dá se z toho negativně těžit taky pěkně.
+Pochopitelně tihleti lidé by pak měli dostat přes prsty a nemělo by jim to dlouhodobě procházet,
+ale jako v každém prostředí jsou tam prostě ty kapři a ty štiky.
+Jo. Já se chtěl právě zeptat, jak moc je to konkurenční prostředí,
+protože ty jsi jeden z těch lidí, kteří to vlastně dokážou porovnat s tím klasickým komerčním prostředím,
+ve kterém se nacházíme my ostatní, ale ty, že jsi nějaký čas v tom akademickém byl,
+tak vlastně dokážeš třeba porovnat, jak moc ty lidi spolupracují přirozeně versus jak moc jedou na sebe.
+Těžko zase říct úplně obecně. Každý to má trochu jinak.
+Jsou lidé, kteří skutečně, neřekl bych, že jedou vysloveně na sebe,
+takhle to moc v té dnešní vědě dělat nejde, být ten solo pědec,
+ale mají ten svůj tým, tu svou katedru a tu se snaží maximálně protlačovat dál,
+ale to samozřejmě potom vede k nějakým monokulturám, které mohou vzniknout
+a potom, když zrovna se tomu týmu nedaří,
+ani jak ten momentální neúspěch vykompenzovat.
+Takže zase, jak naštěstí víme z různých sociologických studií,
+kooperace je dlouhodobě výhodnější strategie než souboj,
+tak ti, řekněme, rozumnější lidé, kteří to nedělají,
+kteří to vidí s viděnou nějakého dlouhodobějšího úspěchu,
+tak rozumně spolupracují.
+A potom samozřejmě je tam jistá, jakoby, řekněme,
+nevraživost, ale ta zase k tomu patří.
+Je potřeba mít nějaký drive.
+Aby jsme se navzájem neuchlácholili, že status quo je jako dobrý vlastně.
+A já teda samozřejmě tuším tu tvůj odpověď,
+protože ty jsi z té akademické sféry koneckonců odešel.
+Nicméně dokázal by jsi s nějakým módům představit tam trávit celý život?
+Nebo je to jako, když bydlíš s patnácti lidma na kolejích,
+že to je cool jenom po nějakou dobu, než si pořídíš rodinu a chceš mít soukromí?
+Upřímně.
+Asi bych se to představit dovedl, ale jsou tam zkrátka nějaké trade-offs,
+které jsou s tím spojené.
+Už si na to narazil, předpokládám, ty finance upravdu platí,
+a to kupodivu platí téměř univerzálně všude na světě,
+že srovnatelně seniorní pozice v akademické sféře je o něco méně placená,
+respektive člověk se musí trošku víc ohánět, zhánět ty peníze a ty granty,
+než na srovnatelné pozici v komerční sféře.
+Ale zase je to vyváženo, řekněme tady těmi,
+trošku většími osobními svobodami, když to takhle řeknu.
+Jaková kreativní svoboda, řekněme.
+Řekněme kreativní svoboda, nebo taková ta svoboda od mikromanagementu.
+Asi takhle bych to nazval.
+Takže potenciálně si to představit dovedu,
+proč jsem v té akademické kariéře nepokračoval.
+To spíš souviselo s tím, že jsem chtěl vždycky zkusit i něco jiného.
+No, existuje pochopitelně taková ta kategorie těch akademiků.
+Není jich mnoho, ale bohužel existují,
+kteří úplně ztratí ten kontakt s tím, řekněme, okolním světem
+a prostě učí ty své studenty ty postupy, které sami nikdy nedělali.
+Tohle jsem nikdy, takhle jsem nikdy nechtěl dopadnout,
+tak vždycky jsem se snažil právě jako otevírat ty dveře.
+No, tak jsem si řekl, dobře, tak teďka na chvíli přestoupím na druhou stranu,
+uvidím, vyzkouším, jaké to je ve velké firmě,
+je to v malé firmě, ale nevylučuji, že se třeba na stará kolena,
+dejme tomu, vrátím zpátky.
+Udržuješ pořád styky s svojí alma mater?
+Neformálně jsem vždycky udržoval, prostě navštěvoval jsem své bývalé kolegy
+a poslední dva roky zase učím na MatFizu předmět pokročilé operační systémy.
+Opět bude v letním semestru.
+Nice.
+A je to, to mě vlastně zajímalo i předtím, když jsem byl jako plnohodnotněj, dejme tomu.
+Ta motivace je jaká? Chceš to jako vrátit k tý škole,
+nebo tě vlastně motivuje to, že slyšíš ty názory těch otevřených hlav,
+nebo v čem to vězí?
+Je to v podstatě forma rekrutmentu, když to řeknu takhle úplně na rovinu,
+protože každá ta katedra, každé to výzkumné pracoviště potřebuje čerstvou krev,
+potřebuje tam nové lidi, kteří tam začnou třeba to doktorské studium
+a později budou pokračovat dál,
+protože ti senioři samozřejmě zase odcházejí postupně,
+tak nejlepší způsob, jak ty lidi získat je,
+zkusit jim předat nějaké zkušenosti, postupy,
+možná i jako názory v nějaké samozřejmě nepolitické rovině
+a tím je přesvědčit, že to tady v důvědu děláme dobře
+a ti lidi pak sami přijdou.
+Mimochodem, jak Roman ještě říkal, kdy je možná ta nejhodnější doba
+být v té akademické sféře.
+Já si upřímně myslím, že jako zkusit by to mohl úplně každý.
+Když studujete někde na vysoké škole,
+i když třeba nemáte cíl působit ve vědě
+a nemáte cíl prostě pokračovat touhletou cestou,
+zkuste to jeden rok.
+Zvlášť, když jste mladí, nemáte ještě závazky, rodiny, hypotéky,
+tak to není zase takový problém.
+A uvidíte, jaké to je.
+Zase vám to otevře jiné.
+Jiné dveře.
+Moje vzůvka, to nevím, jestli jsme nikdy řešili.
+Já jsem taky vlastně takhle vyučoval na škole
+v dobách, kdy jsem podnikal.
+Fakt?
+No a vyučoval jsem tam podnikání právě.
+Bylo to vedlejší specializace podnikání,
+podnikovost, podářská fakulta, zdravím.
+A říkal jsem jim tam, jak je super začít podnikat.
+To je pecka, že jo?
+Víš, kolik jsi vyrobil nezaměstnanej?
+Já jsem teďka v podstatě postupně jsem jako furt failoval,
+až jsem se nechal zaměstnat přijenku.
+A ta profesorka mi volá a říká, jestli přijdu znovu.
+A já říkám, a co tam mám povídat?
+Takže ti moje kariéra skončila.
+A možná byste mohl dokončit tím, že by ten poslední díl byl,
+když se vám to nepovedlo, nechte se dobře zaměstnat.
+Hajrujeme.
+To jsem měl udělat, no vidíš, tak já jí brnknu.
+Tak je klip hangry ještě.
+Já jsem naopak myslel, že ty fuck up nights
+jsou přesně o tom předávat ty negativní zkušenosti.
+Jo, tam mě zvou furt.
+Tak jo, tak to byl hezký úvod z pohledu prostě
+dvou bývalých akademiků, když to tak řeknu.
+Jo, jo, musím si říct.
+Můžu to tak říct, nebo ne?
+Jo, určitě jsme na stejný rovně, 100%.
+No a teďka bychom to posluchačům samozřejmě říkali,
+ale my jsme, co se týče toho tématu,
+na který se teďka chodláme vrhnout úplně v lese,
+nicméně musíme tam jít,
+protože to je ten důvod, proč je Martin tady
+a proč je to dneska mimořádně zajímavý díl,
+a to jsou mikrokernel operační systémy, mikrokernely.
+Když si dáte Martin Dětský do Google,
+hned to tam najdete prostě bambilion,
+ale pro vás, který jste na té naší straně toho lesa,
+úplně mimo, tak Martine, úplně vysvětlit základní věc,
+teda co je mikrokernel operační systém
+a jak se vlastně liší od těch jako klasických,
+kterých používáme denně.
+Jasně, já budu používat takový ten,
+víc český pojem mikrojádro,
+protože se mi to lépe skloňuje.
+Tak ty mikrojádrové operační systémy
+se od těch, řekněme, klasických, monolitických,
+liší v tom, že jsou navrženy a implementovány
+na základě nějakých konkrétních,
+poměrně specifických návrhových principů.
+Těch systémů je spousta,
+takže ty konkrétní principy se pochopitelně
+kus od kusu liší, ale myslím si,
+že se dá najít taková společná,
+jakoby společná množina principů,
+které definují celou tuhletu oblast.
+Já se pokusím stručně představit,
+budu říkat, jak to anglické názvo sloví,
+které asi bude pro většinu lidí srozumitelnější,
+tak zase to zkusíme říct i česky.
+Tak jeden z těch typických návrhových principů
+je komponentová architektura.
+To nemusím asi překládat do angličtiny.
+To znamená, že ten systém je sestavený
+z nějakých jasně definovaných,
+definovaných komponent, jasně definovaných částí,
+které spolu komunikují pomocí nějakých
+dobře definovaných rozhraní.
+To rozhraní bývá typicky na té úplně abstraktní
+budovní vzdálené volání nebo předávání zpráv.
+Podstatné je, že to rozhraní je jakoby
+univerzální a pořád stejné,
+což u těch monolitických systémů zdaleka neplatí.
+Potom separation of concerns,
+nebo separace starostí,
+nevím, jestli je to,
+ale asi nedovedu to líp přeložit.
+Tenhle princip zase říká,
+že každá ta komponenta by měla dělat jednu věc
+a dělat jí dobře.
+Maximálně jednu věc a dělat jí dobře.
+To platí i pro kód, by the way.
+To platí univerzálně,
+ale ne vždy se to daří dodržet
+a tady tyhle mikrojádrové operační systémy
+se snaží být v tomhletom striktní.
+Oddělení mechanismů a politik.
+Split of mechanism and policy.
+Tenhle ten princip zase,
+říká, že každá ta komponenta
+by měla těm ostatním komponentám
+poskytovat pouze
+jakési univerzální mechanizmy,
+jak něčeho dosáhnout,
+ale nediktovat
+způsob, jak
+toho dosáhnout.
+Když zkusím vymyslet nějaký
+aspoň trochu příklad,
+který by to osvětlil,
+tak dejme tomu ta komponenta,
+která se stará o zprávu paměti,
+což bývá typicky ten mikrokernel,
+tak by byla to, kdyby se toho komponenta, která se stará o zprávu paměti,
+tak by měla poskytovat
+univerzální mechanizmus, jak alokovat
+fyzickou paměť, ale
+nemít v sobě zadrátovaný
+žádný konkrétní alokační
+algoritmus. To znamená to,
+jaká paměť, jak nějaké konkrétní
+fyzické adresy jsou alokovány.
+Tedy ta politika té alokace,
+ta by měla zůstat v té
+klientské komponentě.
+Čili kdybych to vzal zase z pohledu, řekněme, programování,
+tak ona vystavuje interfejs, ale neříká,
+jak to má ve vnitře implementovaný.
+To je jeden pohled,
+ale ten pohled je opravdu
+ještě hlouběj. Že ten
+interfejs má
+být maximálně univerzální, aby
+umožňoval pomocí
+těch mechanizmů naimplementovat
+co nejširší škálu těch
+různých algoritmů nebo politik,
+jakkoliv tomu chceme říkat.
+No a
+poslední takový celkem samozřejmý
+princip, nebo ten návrhový
+návrhový princip je
+least privilege, minimální privilegie.
+A to znamená, že každá ta komponenta by měla
+mít
+jenom taková privilegia,
+která nutně potřebuje.
+Tak a to je taky
+zhruba všechno, ale na základě
+těchto návrhových
+principů potom ten systém
+získává nějaké typické vlastnosti.
+Jedna z těch
+vlastností třeba je,
+že to
+jádro toho operačního systému,
+to je ta komponenta, která běží v tom
+privilegovaném
+režimu procesoru,
+je poměrně malá.
+Odtud
+ten název mikrojádro,
+mikrokernel, ale
+myslím si, že je to vlastně
+nevhodné pojmenování. Vlastně by se
+to pojmenování mělo být spíš
+nemonolitický operační systém,
+protože ta
+samotná minimalita
+toho jádra není
+vlastně jakoby primární
+cíl. Je to teprve důsledek
+těch ostatních požadavků
+na tu softwarovou architekturu.
+Další typické vlastnosti,
+které takový systém má,
+potom je modularita, možnost
+jednoduše vyměnit
+jednu komponentu za jinou,
+pokud implementuje stejný interfejs.
+Řekněme, jemná granularita
+těch komponent zase doplyne z toho,
+že každá ta komponenta má dělat jen jednu věc,
+takže ty komponenty nejsou příliš
+velké, nejsou samy monolitické
+a tak dále.
+No a co teda
+tohle vlastně řeší,
+nebo proč to teda vlastně existuje?
+Opsal jsou krásný,
+já jsem to představil jako Lego,
+že to jsou krásně postavený kostičky,
+ze kterých já jsem schopen sestavit
+něco na základě svojich potřeb.
+Chápu správně, že tohle se hodí
+do průmyslu, tam, kde potřebuji
+vyloženě operační systém opravdu
+upravit tomu specifickému
+hardwareu a mám teda k dispozici tyhle
+drobný části, nebo proč to vůbec
+takhle, proč to je?
+To, co říkáš, to je rozhodně
+ten pragmatický důvod, proč se tyhle
+ty systémy používají, tam, kde se
+používají. Ta extrémní
+modularita, ta extrémní přizpůsobitelnost,
+která může
+probíhat, jak řekněme,
+nějakou statickou konfigurací
+už při deploymentu, tak
+dynamicky za runtimeu, prostě podle
+potřeby.
+Ten další důvod
+je, že ty jednotlivé
+komponenty lze
+nezávisle
+na těch ostatních komponentách testovat.
+Testovat je prostě
+jakoby
+nezávislé separovaně
+od ostatních. Ty komponenty
+jsou typicky relativně
+malé, takže je lze třeba dokonce
+formálně verifikovat, což zase
+u těch monolitických
+operačních systémů, které jsou složeny z těch
+velkých kusů, prostě
+nelze prakticky udělat.
+Takže opět tady míříme
+na oblasti, které vyžadují
+extrémní
+záruky
+bezpečnosti, ať už
+bezpečnosti typu safety,
+tak bezpečnosti typu security
+a tak dále.
+A jako
+nelze opomenout
+zkrátka i tu
+estetickou stránku
+téhleté softwareové
+architektury. Prostě ten operační
+systém, který je složený
+z takovýchhle komponent
+a
+respektující
+tyhle ty principy
+je prostě krásnější.
+Někteří, to je samozřejmě
+subjektivní, pochopitelně.
+Některým lidem se možná
+víc líbí ten monolitický přístup,
+protože je to tak
+jakoby
+snadněji
+upravitelné ve smyslu
+tady uděláme rychlý hack a ono
+bude dále fungovat. To pochopitelně
+v takovémhle velmi jemně strukturovaném
+systému není až tak jednoduché.
+Na druhou stranu
+ten systém
+umožňuje dělat mnohem
+víc velmi pokročilých věcí.
+K tomu se možná třeba časem ještě tady dostaneme
+s moderním hardverem.
+Moderní hardware
+dneska nepřipomíná
+už vůbec
+nějaký von Neumannovský
+počídač s jednou centrální výpočetní
+jednotkou a nějakými výstupními
+periferiemi, ale
+ty monolitické systémy, Linux,
+Windows, všechny ostatní, k tomu
+stále takhle přistupují a v podstatě
+to velmi
+komplikuje.
+Je jich nasazení už na současném
+hardveru a notabene
+na hardveru, který je za rohem,
+který prostě bude
+zcela heterogenní a bude
+v podstatě velmi distribuovaný.
+A znamená to teda, že ty standardní
+nebo klasické operační systémy,
+tak jak je známé, Linux, Windows,
+že tím pádem nejsou tak
+jaksi, nechci říct
+výkonný, ale že jako využívají
+asi míň, než by mohly to hardveru
+tím pádem, že jsou takhle postavený?
+Dá se říct,
+že využívají
+velmi efektivně
+ten počítač
+v tom smyslu,
+jak vypadá
+ten Foyn-Neumannovský
+model. To znamená,
+že pokud předpokládáme, že ten počítač
+má jednu centrální, velmi výkonnou
+výpočetní jednotku,
+typicky prostě nějaká
+cache-kohenentní NUMA
+architektura se symetrickými
+procesory, tam to
+funguje krásně. Jakmile máme
+ten počítač sestavený
+a to máme každý z nás,
+tak jak máme prostě počítače
+na našem stole nebo pod naším stolem
+ze spousty
+koprocesorů v každé
+periferii, které spolu
+musí nějakým způsobem kooperovat,
+tak tady ta efektivita
+u těch monolitických systémů
+velmi pokulhává.
+Protože vlastně ty systémy nemají
+abstrakce, nemají dostatečně
+univerzální abstrakce, jak
+tak složitou,
+jak tak složitý hardware
+řídit a jak
+poskytovat programátorům
+nějaké programovací
+prostředí,
+ve kterém by mohli
+tenhle
+složitý distribuovaný hardware
+používat dohromady.
+Musí to dělat separátně. Někde běží
+nějaký kód v klasickém
+procesu na procesoru,
+potom někde se posílají nějaké
+tásklety do
+grafického procesoru
+a tak dále. Je s tím spousta práce.
+V tom případě,
+kde teda takovej
+operační systém běží, který si právě
+popsal, co je typický tady use case pro to použít?
+Já jsem se dotknul už nějakých jako průmyslevej
+zařízení, ale typicky
+i z tvýho pohledu, z tvý zkušenosti, kde
+jsi to viděl nejvíc, že tohle
+zazářilo. Protože ty koncové uživatelské
+stanice,
+předpokládám, že to asi není úplně standard
+i vzhledem k tomu, jak
+Windows a iOS a Linux,
+si to požrali 99,9% možná
+a těm lidem to stačí,
+neřešejí to, že to není zase tak efektivní,
+ale jsou určitě
+zařízení, kde se to řeší a kde to běží
+a kde to zazáří.
+Ano, nejtypičnější nasazení
+mikrojádrových operačních systémů v dnešní době
+je všude tam,
+kde je potřeba
+mít vysoké
+nebo
+silné záruky spolehlivosti
+a bezpečnosti.
+Případně až na úroveň
+i nějaké formální verifikace.
+To znamená řízení
+průmyslových strojů,
+automobil, automobil, automobily,
+letadla
+a tak dále.
+Asi zdravotnický přístroje
+předpokládám, nebo ne?
+Ideálně ano. Ta situace
+zrovna s těmi zdravotnickými přístroji
+je taková paradoxní, že
+tam se
+ty
+přístroje řídí vším možným,
+co
+já bych nechtěl ani vědět.
+Ale ano, u nějakých
+dejme tomu pacemakerů rozhodně.
+Já si pamatuju tvojí přednášku
+o formální verifikaci, kterou jsi otevřel
+takovým krásným icebreakerem, openerem
+o tom, že prostě někdo udělal nějakou chybu v softwaru
+a že člověka to proskenovalo si tisíckrát
+a rengena usmažilo ho to úplně
+během chvíle, že ten člověk zemřel
+a právě to byl jako Martinův
+opener, protože dobrá formální verifikace
+hezky otvírá.
+– Bohužel skutečně, když si
+když je člověk nucen ležet
+v nějaké nemocnici
+a zjistí, že ten monitor,
+který tam pípá a zobrazuje
+prostě tu tepovou frekvenci
+běží na Windows XP,
+tak to není
+úplně příjemné zjištění.
+– Já slyším, že ještě to ajícíku tam.
+Jako mojí babičce by to bylo asi jedno,
+ale já chápu, že Martin by se začal ošívat.
+– Ale abych to jenom doplnil,
+tady pochopitelně tam
+mikrojádra mají své naprosto jasné
+opodstatnění a
+vlastně není pro ně
+neexistuje alternativa.
+To ale neznamená,
+že mikrojádrový operační systém
+nemůže být prostě
+general purpose operační systém
+pro nasazení na serverech, na desktopech
+může být. Možná si někdo ještě
+vzpomene, je to už hodně dávno,
+někdy na začátku
+v nultých let,
+ale šířila se
+taková hezká QNX
+demo disketa,
+která prostě obsahovala
+kompletní
+mikrojádrový operační systém,
+který nabútoval z té jedné diskety,
+byl tam webový browser
+a
+Unixový shell
+a tak dále.
+Takže desktop není problém.
+Servery nejsou problém,
+používají se mikrojádrové
+operační systémy docela často
+v high performance computingu,
+protože umožňují
+běžet ty
+vědecké výpočty
+na těch tisících
+procesorových jader
+bez interference
+s nějakými
+kernelovými vlákny,
+které jsou v těch monolitických
+systémech a dělají nějaký bookkeeping
+v pozadí, ale vlastně
+pro maximální využití
+toho hardwareu pro tuhletu
+oblast nejsou potřeba a rozbíjí
+ten globální scheduling a tak dále.
+A nepoužívá se i tohle třeba
+v nějakých datacentrech,
+když nevím, nějaký cloud provider,
+tam typuju, že vlastně to množství, kolik
+vymačkám těch služeb z toho hardwareu,
+který mám někde osázaný v tom datacentru,
+je poměrně zásadní
+poměr k tomu, jak vydělávám,
+ale co třeba vím od Microsoftu,
+který se tím už roky chlubí z Azure,
+že běží na Linuxu. Jak vlastně do tohle
+ještě zapadá Linux, který
+jako vždycky, když se bavíš
+s někým, kdo používá Linux, tak ho miluje právě
+proto, jak je dobře navržený a funguje a tak dále.
+Ty jsi ho dal na tu stranu
+totiž těch úplně ne, jako...
+Pochopitelně, protože
+architektonický Linux nemá
+z mikrojádry absolutně,
+dobře, neřekl bych absolutně, ale nemá mnoho
+společného. Ještě bych
+se vrátil k tomu
+cloud computingu nebo
+k té virtualizaci.
+Většina mikrojader jsou zároveň
+hypervisory.
+Z pohledu těch abstrakcí
+zádra, zase té universality,
+není vlastně
+celkem rozdíl mezi
+klasickým tázkem nebo procesem
+a virtuálním strojem.
+Je tam pár
+registrů navíc, ale to je
+všechno. Takže
+spousta
+nasazení mikrojader je jako
+hypervisory.
+V mnoha případech je mikrojadro
+nasazeno jako hypervisor
+a běží
+virtuální stroje.
+No a co se týče
+toho Linuxu, tak
+pochopitelně Linux vyvíjejí
+velmi chytří lidé.
+Ten systém není
+v principu navržený
+špatně, pokud se podíváme
+na tu dlouhou historii
+těch Unixových operačních systémů.
+A ten systém samozřejmě
+má nějakou vnitřní strukturu.
+Taky tam může identifikovat nějaké vnitřní
+komponenty v tom jádře, nějaké
+subsystémy. Ten zásadní rozdíl
+je v tom, že tahle
+ta softwarová architektura je pouze
+v hlavách těch lidí, nebo někde na papíře.
+Jakmile ten systém běží,
+jakmile ten Linux,
+jakmile to Linuxové jádro už běží
+na tom fyzickém stroji,
+tak je to už ten big ball of mud.
+Je to prostě ta obří
+256
+megabajtová, nebo
+300 megabajtová
+300 megabajtový
+kus softwaru,
+kde drobná
+chyba v jednom ovladači může
+ten systém celý položit.
+Smysl
+toho těch
+možná trochu omezujících
+návrhových principů
+těch mikroader je právě omezení
+toho, čemu se říká blast radius.
+To znamená, když se objeví
+chyba v jedné komponentě,
+ta chyba je izolovaná v té komponentě
+a ideálně by neměla
+ovlivnit i ostatní. A pokud už je
+ovlivní skrz nějakou komunikaci,
+tak tam opět mohou existovat
+nějaké self-healing,
+mechanizmy, které mohou
+tu situaci zachránit.
+Jak, Martine, vypadá taková
+každodenní práce vývojáře
+microkernel OS?
+Je to podobný enterprise levelu?
+Dáš si tři kafé, dva skrany
+a jdeš bouchat nějakou apku?
+Nebo jak to probíhá?
+Já myslím, kdyby to někdo pozoroval
+z druhého patra, tak ten
+rozdíl mezi mnou jako
+vývojářem operačních systémů
+a nějakým vývojářem
+mobilních aplikací
+asi nepozná.
+Prostě mám nějaké své vývojové prostředí,
+občas taky máme
+meetingy, občas taky se snažíme
+dělat věci, řekněme, agilně,
+tam, kde to ta situace
+umožňuje.
+Myslím si, že ten zásadní rozdíl
+je
+v nástrojích
+a jazycích, které používám.
+K tomu se možná
+ještě pak dostaneme podrobně třeba k těm jazykům.
+A potom
+vlastně k tomu, že
+vlastně nedá se
+ta práce přirovnat
+ani moc k nějakému
+programování frontendů, protože to, na čem
+typicky vývojář operačního systému
+pracuje, není user-facing.
+Jasně. Ale není to vlastně ani
+backend, není to jakoby něco, co
+jenom někde jako chroustá nějaká data.
+Je to prostě nějaký middleware,
+dalo by se říct. Jasně operační systém
+je svým způsobem middleware,
+který umožňuje,
+aby ostatní
+aplikace, aby ostatní
+software mohl efektivně
+dělat svou business logiku.
+No a
+zase, člověk jakoby
+občas stráví poměrně
+hodně času laděním.
+To asi zase
+platí pro většinu vývojářů,
+ale v našem případě, nebo
+v mém případě to ladění bývá
+dost specifické. Dost často
+hledám chyby typu race conditions.
+Dost často hledám
+chyby typu memory corruption.
+Dost často hledám
+chyby typu, proč něco
+nefunguje a po několika
+týdnech zjistím, že to nefunguje, protože
+nějaký obskurní byt v nějakém obskurním
+hardwareovém registru byl nastavený
+jinak, než měl být.
+To je skoro detektivní práce, než programování tohoto.
+Ano, dá se to říct, že
+je to občas skutečně
+takový proces eliminace
+všech podezřelých.
+Takže takhle bych to
+asi popsal
+a přiblížil to těm, řekněme, programátorům,
+v jiných oblastech.
+A v čem píšeš? Je to teda v C,
+v C++, nebo je tam ještě nějaký
+víc low-level přístup?
+Ku podivu,
+ty operační systémy
+neobsahují, ani ta
+jádra těch operačních systémů,
+neobsahují toho low-level kódu zase tolik.
+Je to tak, řekněme,
+5-10%, kdy je
+opravdu potřeba interagovat
+s tím hardwarem, nebo
+pochopitelně něco jako context switch
+se v nějakém
+vyšším programovacím jazyce nedá moc
+naprogramovat, takže to je napsáno v Assembleru.
+Ale jinak vlastně
+je to software jako každý jiný.
+To znamená, že člověk se
+snaží používat
+maximálně vysoké a krásné
+abstrakce, jaké
+v tom daném případě se použídají.
+Plánovač operačního
+systému, to je vlastně taková
+optimalizační úloha. Neliší se to
+od nějakého plánovače úkolů
+v nějakém informačním systému.
+Souborový
+systém, to je vlastně taková databáze.
+Takže z tohohle
+pohledu to není až tak low level
+práce, ale
+co bych chtěl vypíchnout
+je, že mnohé
+high level jazyky
+měly
+donedávna poměrně problém
+se s tímhletím světem
+operačních systémů popasovat,
+nebo nějak se zžít, nebo
+překlenout nějakou
+jak bych to řekl,
+nějakou
+bariéru
+v těch úrovních
+té abstrakce, z toho důvodu,
+že ti programátoři nemohli
+úplně snadno predikovat,
+jak bude vypadat ten kód,
+který ty překládče těchhle
+těch vysokých
+abstraktních programovacích jazyků
+generuje, jaké
+bude mít vlastnosti
+z hlediska, výkonu a tak dále.
+To se pochopitelně zlepšuje,
+takže abych dokončil
+myšlenku.
+Proto, většina
+operačních systémů v dnešní době je
+napsána v Cčku nebo v C++,
+tak
+jsme rádi,
+že existují také
+výjimky, které jsou napsány
+ve všem možném.
+Já jsem si tady udělal takový jenom
+krátký seznam jazyků, ve kterých jsem
+viděl reálně operační systém.
+Forth, C-Sharp,
+Pascal, Modula,
+Oberon, Objective-C,
+Smalltalk,
+který je vlastně takový,
+takové běhové prostředí
+programovací systém a operační systém
+v jednom. Ada,
+Zik, Jakt,
+Hare a tak dále.
+Myslím si, že téměř v každém
+programovacím jazyce, i třeba v Javě
+a podobných věcech,
+někdo se pokusil někdy
+nějaký operační systém naprogramovat.
+A moderní
+trend posledních let
+je pochopitelně jazyk Rust,
+který se snaží
+právě jaksi skombinovat
+tu velmi jasnou
+predikovatelnost toho kódu,
+který ten překládeč generuje
+na úrovni C a C++
+a zároveň
+nějaké vysoké
+zajímavé
+abstrakce.
+A napadám, že snažím se přemýšlet
+za tvýho potenciálního klienta.
+Jak řešíte
+testovací pattern?
+My to teď trošku řešíme
+ve sporce. Například to, že,
+když jsi dosáhnutý high availability, tak to musíš
+nějak otestovat, třeba v nějakém množství
+uživatelů, dejme tomu,
+aby si věděl, že ta performance bude držet.
+Jak to děláte? Protože dost často
+třeba nejsi schopný takovýhle vzorek
+vzít a vzít ho do nějakého testovacího
+prostředí. A musíš to nějak simulovat?
+Nebo jak tohle vlastně vzniká?
+Zrovna
+na tohleto
+existuje testovací pattern
+stres testů. To znamená,
+že skutečně máme nějaké
+univerzální
+nástroje, které umožňují v tom
+operačním systému spustit
+velké množství
+workloadů, které nějakým
+způsobem
+stresují nějakou konkrétní
+vlastnost. Ale
+nemám na to univerzální
+odpověď. Je to pochopitelně vždycky
+záležitost
+toho konkrétního
+požadavku, toho konkrétního workloadu,
+který musíme
+samozřejmě předem znát a
+potom
+potom
+záležitosti.
+Simulovat.
+Můžeme se na to ale podívat taky z hlediska
+nějaké formální verifikace.
+Už jsem to trošku nakousl.
+Ta architektura
+mikrojádrových operačních systémů umožňuje
+do jisté míry, rozhodně do větší
+míry než u těch klasických
+monolitických systémů,
+některé vlastnosti toho systému ověřit
+skutečně, řekněme, matematickým
+důkazem.
+Takže zrovna
+u té výkonosti
+lze
+s poměrně
+velkou snahou
+a za poměrně velkých nákladů
+ale lze
+spočítat něco jako worst case execution
+time, ať už
+jednoho vlákna
+nebo i
+konkrétní kombinace vláken
+za konkrétních priorit a tak dále.
+A pokud
+máme teda takovýhle
+formální důkaz, tak potom
+už nepotřebujeme nic testovat.
+Potom už nepotřebujeme
+simulovat nějaký workload,
+který by něčemu odpovídal, protože máme
+jaksi
+naprosto nespochybnitelný
+matematický důkaz, že ten systém má
+tu vlastnost, kterou má mít.
+Umí to v té praxi takhle fungovat?
+Jakože jestli tam není nějaká
+bulharská konstanta něčeho, co třeba
+ten klient neřekne a
+třeba nedokáže uvažovat v tu danou chvíli,
+jako ta praxe se může kolikrát
+lišit od toho?
+To je problém formální verifikace
+obecně. Formální verifikace,
+verifikace neumožňuje člověku
+říct, tenhleten
+systém nebo tenhleten kus kodu
+nebo tenhleten program neobsahuje žádnou
+chybu. Formální verifikace
+maximálně umožňuje
+říct, že tenhleten kus
+kodu odpovídá
+nějaké specifikaci nebo splňuje
+nějakou formálně popsanou vlastnost.
+Takže pokud je ta formálně popsaná
+vlastnost
+špatně nebo prostě nejsou splněny
+její předpoklady, tak pochopitelně
+ten důkaz nemá žádnou
+váhu. Takže ano, vždycky
+to závisí na tom, jak dobře
+je ten cíl
+popsán.
+Ty už si k tomu udělal trošku
+odbočku, protože my to tady máme jako
+celý jedno téma, formální verifikace,
+ale vlastně pro posluchače, který furt
+slyší tady to slovo,
+aby jsme to správně vysvětlili, tady formální verifikace
+je ověření matematickým
+důkazem, že oproti
+zadání, vygenerovaný
+kód splňuje ty vlastnosti.
+Je to tak, chápu to správně. Ano, je to
+těch konkrétních
+variant, jak se formální
+verifikace dělá, je samozřejmě spousta,
+ale pokud jste někdy
+viděli třeba důkaz správnosti
+algoritmu Quicksort, který
+prostě říká, ověřuje, že
+bez ohledu na vstup
+výstupem algoritmu Quicksort
+je správně setříděná
+posloupnost, nebo pokud jste viděli
+důkaz toho, že ten
+algoritmus má složitost
+časovou velké o N krát
+log N, tak to je
+přesně ekvivalent toho, o co
+se snaží formální verifikace.
+Ale pochopidelně
+nedělá to na úrovni
+abstraktního algoritmu, ale dělá to na úrovni
+konkrétní implementace
+typicky opravdu
+konkrétního
+třeba byte kódu, nebo nativního
+kódu, který potom někde běží.
+Protože jinak pochopidelně by
+to pro praxi nemělo
+až takový smysl.
+Takže je to svým
+způsobem velmi
+silné
+ověření nějaké vlastnosti, nebo
+jak jsi říkal, to, že ten
+software odpovídá nějaké
+specifikaci. Na druhé
+straně nedá se říct,
+že by to úplně... Je to
+komplementární k testování.
+Právě z toho důvodu, že
+tohle to všechno funguje jenom
+v případě, že jsou splněny ty předpoklady
+toho důkazu.
+To znamená, že ta specifikace
+je správně. Nebo že
+požadavky na to, jak se chová ten hardware,
+na kterém to běží, jsou splněny.
+Což nemusí nutně
+být. A potom pochopitelně
+ten dokonale formálně
+správný matematický důkaz
+nemá žádnou cenu.
+Proto stále
+i u formálně verifikovaných
+softwareů je potřeba testovat,
+protože ty testy,
+přestože teda nejsou tímhletím způsobem
+vyčerpávající, tak berou
+vlastně v potaz i ty vlastní
+předpoklady.
+– Takže při vývoji
+mikrojádrových operačních systémů
+tedy se ta formální verifikace
+jako v praxi používá, nebo je to jenom
+takové jako cukřík
+nahoru?
+– Pokud bych mluvil
+za společnost Kernkoncept,
+tak my máme na to
+tým asi třech,
+čtyř lidí, kteří se
+zabývají formální verifikací.
+Ale naše cíle jsou,
+řekněme, opět velmi pragmatické,
+protože pro
+ty procesy
+certifikace našeho systému
+ta formální verifikace
+vlastně potřeba není.
+Ty certifikační
+procesy, které musíme splnit,
+abychom mohli náš systém
+nasadit třeba právě v těch automobilech,
+vlastně
+s nějakou formální specifikací
+chování toho systému, ani s nějakými
+naprosto formálně
+definovanými vlastnostmi, nepočítají.
+Ale je to něco,
+co
+nám samotným
+vlastně
+poskytne
+tu další
+záruku, že ten systém funguje opravdu
+správně a nikoho nezabije,
+když to řeknu zase takhle velmi pragmaticky.
+Jsou tady pochopitelně jiné týmy,
+třeba tým kolem
+systému SEL4,
+který se
+zabývá,
+který teda má
+formálně verifikovaný mikrokernel
+se spoustou
+velmi užitečných vlastností,
+které opět
+by se daly použít
+pro
+nasazení ve velmi
+machine critical a safety critical
+prostředích, ale tady
+naopak vidět ten opačný přístup,
+že oni se zaměřili primárně na tu
+formální verifikaci a aby
+dosáhli těch
+cílů, aby mohli mít
+ověřit spoustu
+vlastností nejen z hlediska
+funkčnosti do systému, ale právě i z hlediska
+výkonu a tak dále,
+tak museli vlastně tu architekturu
+toho systému, tu implementaci
+extrémně osekat,
+což
+paradoxně
+komplikuje praktické
+nasazení toho systému.
+Není to teda nějaký, není to
+už úplně toj example, je to opravdu
+systém, který se dá použít,
+to nespochybnuju, ale
+to jeho reálné nasazení
+je o to komplikovanější, že
+je takhle důkladně formálně
+zverifikovaný.
+Že došli až na tu hranu použitelnosti.
+Přesně tak. Zatímco my se snažíme být víc pragmatiční.
+Když se tady bavíme o tom vývoji
+operačních systémů, takhle
+jako řekněme z různých pohledů,
+vyvíjí se
+ten samotný vývoj operačních
+systémů nějakým stylem? Jsou tam nějaké
+nový trendy, přístupy, nebo to je všechno
+řekněme z 20 let, 30 let
+stará písnička a jenom se maximálně
+aplikují, nevím,
+nový typy hardwareu
+nebo nový architektury?
+Je to obojí. V případě
+těch, řekněme, monolitických
+tradičních operačních systémů
+ten vývoj tam pochopitelně
+také existuje,
+ale je v těch mantinálech,
+o kterých už jsem mluvil. To znamená,
+že už teď
+ty systémy jsou vlastně svou architekturou
+fatálně zastaralé
+oproti tomu hardwareu, na kterém běží
+už teď. A to vůbec nemluvím
+o nějakém Compute Express linku
+a podobných věcech, které na nás čekají
+za rohem. Takže ten vývoj
+je jenom takový evoluční.
+Ty systémy se snaží to nějakým
+způsobem dohnat. No a potom
+na té straně skutečné
+vědy,
+kdy se lidi snaží
+právě vymyslet nějaké
+univerzální abstrakce
+a univerzální programovací modely,
+které by umožnili
+co nejjednodušeji
+programovat a využívat
+efektivně
+ten moderní hardware, tak tenhle ten vývoj
+je většinou založený
+právě na těch mikrokernelách.
+Opět z toho důvodu, že ty mikrokernely
+jsou takový
+dobrý začátek
+tím, že poskytují ty velmi
+univerzální abstrakce.
+Že neomezují
+využití toho systému
+nějakými už
+existujícími předpoklady
+na to, jak se ten systém má vlastně
+používat, jak má být postaven.
+– Co AI?
+Stejná otázka. Je to taky za rohem,
+nebo je to část technologie,
+která už se dál dneska při vývoji
+operačních systémů nasadit, použít?
+– Ku podivu, AI se
+používá v oblasti operačních
+systémů už velmi dlouho.
+I když se,
+řekl bych, že se neprosadil
+mainstreamově, ale
+existují velmi zajímavé
+experimenty. Třeba
+už tak před patnácti lety
+někdo ukázal, že
+pro
+mapování virtuálních adres na fyzické
+lze použít neuronovou
+síť, což zase tak
+překvapivé není, ale ta neuronová
+síť vlastně reprezentuje
+to mapování pro typické
+procesy, které člověk
+běžně používá
+minimálně tak kompaktně
+a mnohdy mnohem kompaktněji než klasické
+stránkovací tabulky. Což
+je velmi překvapivé, že
+prostě nějakou
+statickou datovou strukturu,
+která se používá prostě desítky
+let v hardwareu, lze
+nahradit něčím tak jako
+neúplně snadno
+uchopitelným, jako je neuronová síť.
+No ale asi
+spíš ten dotaz směřoval na
+to, co si představujeme pod AI
+dneska, to znamená nějaké ty
+velké jazykové modely a tak dále.
+Tam bych určitě
+viděl nějakou možnost právě
+využít
+tyhle nástroje
+k
+vytvoření
+nějakých těch
+abstrakcí nebo nějakých těch
+nějakých těch
+mechanismů, jak
+vlastně
+programovacích modelů, jak vlastně ten
+složitý hardware programovat jednoduše.
+Jo, jo. A ty sám
+používáš nějaký ty
+body systémy typu Copilot
+či GPT, tak jak software
+inženýři už dneska jsou velmi zvyklí?
+Párkrát jsem to zkoušel, ty výsledky
+nebyly moc
+moc
+přesvědčené.
+Přesvědčivé
+z toho důvodu, že
+je málo vzorků asi.
+A nebo prostě neumím
+ten požadavek nebo ten dotaz
+položit dostatečně správně,
+takže to jaksi
+nevedlo k nějakému zrefektivnění
+mé
+vývojářské práce.
+Ale myslím si, že
+to je čistě způsobeno
+tím, že ten systém
+není na operační systémy natrénovaný.
+A že třeba
+nerozumí právě v naší oblasti tomu,
+že nepracujeme s nějakým
+jedním monolitickým systémem,
+ale s něčím, co je složeno s hodně malých
+komponent. Nechápe to
+ty hranice těch
+nutlivých komponent. Ale
+principiálně tomu asi v budoucnu
+nic bránit nebude.
+Vy jste mi tady oba dva krásně nahráli tím, že je
+málo vzorků, že je málo datasetů
+zatím k týmí další otáze,
+která je trošku ze strany,
+ale vlastně s tím hrozně souvisí. Protože to, co ty tady
+popisuješ, to je jako brutálně
+specifická hardcore znalost,
+kterou, když teďka tady otevřu dveře
+a zařbu pár těchto těch slov, tak nikdo
+ani nebude vědět, o čem se bavíme. To bych možná musel
+do Bratislavy, k Milano Pisklovi, kde jsou
+Embedit, ty by si s tebou rozuměli.
+Aktuálně na pracovním
+trhu, jaká je vlastně
+pozice takovýhleho jako vývojáře?
+Moje najímní představa je,
+že Martin vždycky otevře okno, řekne, co umíš,
+vylezou tři, prostě pořím se,
+tři hiring manažeři a ty
+po zlatým koberci vstupuješ do nové firmy,
+protože prostě tohle není
+tak jako Hello World v Javie nebo
+v C-Sharpu, tohle je prostě brutálně specifický.
+Je potom poptávka,
+seš tak ceněnej, nebo
+naopak je to takový nížší, že vlastně
+klasický jako
+Dog Extents Animal Javista se má líp?
+Je to tak
+trochu od obojího něco.
+To se zaváží.
+Ale já se to pokusím
+vysvětlit. Myslím,
+že já jako vývojář operačních
+systémů, nebo specificky ještě
+mikrojářových operačních systémů,
+ještě nejsem na té pozici toho
+programátora, co umí ten
+COBOL a umí pracovat s těmi mainframe,
+kterých je opravdu málo,
+ale těch systémů, které
+na těch mainframech v tom COBOLu
+stále běží, je stále ještě hodně
+a je tady hodně těch zákazníků,
+prostě těch bank a těch spořitelen
+a já nevím. Českých.
+A pojišťoven a dalších
+institucí, které prostě potřebují
+ten systém udržovat a
+vidí, jak ti lidé postupně umírají,
+a COBOL se nikdo učit nechce samozřejmě.
+Takže tam nejsme.
+Protože upřímně, a já jsem to
+vždycky říkal i na všech svých přednáškách,
+programovat operační
+systém není nějak extra hardcore.
+Myslím si, že každý programátor,
+který umí dobře programovat
+prostě v Javě, v C-Sharpu,
+v F-Sharpu, se může
+naučit programovat
+jádro operačního systému.
+Tam není žádná
+magie nebo žádný
+zlatý prach, který by
+jinde nebyl.
+Pochopitelně se do toho
+některým lidem nechce
+z důvodu, které
+už jsem zmiňoval, to znamená, že člověk občas
+prostě honí nějaké byty po paměti
+nebo honí race kondičny
+a tak, což nemusí
+spoustě lidem vyhovovat. Upřímně mě to
+po těch letech už taky tak moc nebaví,
+jako mě to bavilo před těmi 20 lety.
+Ale ten
+svět těchto lidí,
+nebo ta naše domena je
+relativně malá, prostě většina lidí se
+vzájemně zná. Když jsem
+v Huawei higheroval pro
+drážďany,
+tak většina lidí,
+které se nám podařilo
+získat, tak to byly buď
+absolventi, nebo jsme je přetáhli
+z jiných podobně
+zaměřených společností.
+Ano, ten píseček
+je relativně malý.
+Takže pokud bych
+se nezajímám o to, co dělám,
+jenom že to jsou prostě nějaké low-level
+embedded operační systémy
+a takovéhle věci, tak bych
+opravdu mohl kdykoliv zamávat
+z okna a říct si o
+vyšší plat a šlo by to.
+Většina lidí je
+asi trošku vybíravá.
+Já bych nechtěl
+prognovat Linux, pokud není zbytí.
+Prostě ty mikrokernely mám
+raději, protože si myslím, že to je
+budoucnost, že ten Linux je
+opravdu už
+záležitost
+za Zenitem, tak
+pochopitelně nemám
+to až tak,
+nemám to volé působnosti
+až tak velké. Minimálně bych
+se třeba musel přesunout
+ať už fyzicky nebo virtuálně
+z těch drážďan někam
+třeba do Kanady, do Ameriky, do Austrálie.
+Což samozřejmě ne vždycky jde.
+Pokecem o
+hodnotě vývojáře, který
+zná ty listy všechny magický věci,
+že to magický není, ale já to vidím trošku jinak.
+Jsme se dostali k
+kernkonceptu
+Huawei a než se vlastně dostaneme
+k tomu tvýmu aktuálnímu zaměstnavateli,
+Huawei to vůbec není malý jméno. Já bych
+možná se rád aspoň na chviličku
+zastavil o tom, jaký to tam bylo.
+Já vím vlastně, že jsme se bavili, ty jsi byl
+dokonce v Číně a přesto jsi z
+Huawei odešel právě do kernkonceptu,
+takže třeba můžeš říct, jaký
+to tam bylo, proč jsi odešel,
+jak na to vzpomínáš a třeba čím to bylo
+z tvýho profesního hlediska
+tak zajímavý. Já začnu od konce,
+proč jsem z Huawei odešel. Nemělo to
+nějakou jednu zásadní
+velkou příčinu, byla to spíš kombinace
+více
+záležitostí i v mém
+osobním životě. Chtěl jsem se vrátit
+zpátky do Prahy
+a u Huawei
+prostě nemá příliš ve své
+firmní kultúře vzdálenou
+práci, notabene práci z domu.
+V době covidu
+nebyla jiná možnost a ta firma
+a mnozí manažeři v ní
+pochopili, že to vlastně jako celkem
+funguje, že ti lidi se neflákají doma
+a opravdu něco dělají, ale
+jak si
+ty
+pandemické časy pomalu
+tu firmu opustili, tak
+se zase začali všichni
+vrátit do kanceláří a nebyla tam
+moc možnost
+pracovat z Prahy. Takže to byl třeba
+důvod opravdu v osobní rovině,
+jinak jsem s tou prací v
+Huawei byl velmi spokojen,
+ale ta práce
+byla hodně založená taky
+nejenom na, nebyla to
+zdaleka vývojářská práce, byla to
+práce opravdu v R&D,
+to znamená, že člověk často cestoval, často
+jsem mluvil s jinými lidmi,
+asi by se to moc
+úplně nadálku dělat nedalo.
+Zatímco ta práce, kterou dělám teďka
+v Kernkonceptu je
+trošku víc vývojářská,
+i když nejsem
+prostě jenom člověk, který by od rána
+večera psal kód,
+a můžu ji dělat víceméně
+izolovaně. Nemusím
+aktuálně nikoho řídit,
+nemusím se s nikým
+příliš koordinovat. Takže hurá.
+Všechno to zvládnu,
+všechno to zvládneme elektronickými
+nástroji.
+Co se týče
+Huawei jako firma, to by bylo
+povídání na spoustu hodin,
+rozdíl mezi, řekněme,
+západní firmní kultúrou a čínskou
+firmní kultúrou.
+Je velký.
+Ta firma
+zaměstnává obrovské množství
+velmi chytrých lidí.
+Dokonce, co myslím, velmi specifické
+ta firma asi 60% svých
+zaměstnanců zaměstnává
+právě v R&D,
+což je velmi velký poměr
+na firmy
+podobného druhu,
+třeba ve srovnání s Microsoftem
+nebo s Applem.
+A je to
+vidět, že ta firma hodně
+investuje. 60%?
+60%. Že R&D je v podstatě
+nákladová část, ne?
+Když to tak vezmu. Na začátku určitě.
+No jasně, ale když na to koukne
+účetní, tak řekně 60%
+jsou jasný náklady.
+Je to tak,
+ta firma očividně musí být velmi
+úspěšná i v té business oblasti.
+Aby to pokryla.
+Hodně těch smartphoneů a těch
+stožárů s těmi antenami a tak dále,
+aby to R&D uživila.
+Což jakoby
+vede k tomu, že člověk
+tam má taky poměrně velkou
+svobodu.
+Ne tak velkou, jako v tom akademickém
+prostředí, ale může si
+stanovit nějaký zajímavý cíl.
+Nějakým způsobem si ten cíl obhájí
+prostě před managementem a potom může třeba
+třeba půl roku, rok na tom
+dělat. Ale
+přesně to vede k tomu, že
+z principu
+velká část těchto věcí
+nikdy nikam nedopadne.
+To znamená, skončí někde v šuplíku, nebo se to prostě
+nepovede, protože je to prostě vývoj
+výzkum a kdyby se předem
+vidělo, jak to dopadne, tak to není vývoj
+výzkum. Což
+může být tak trochu frustrující a je
+pravda, že to mě malinko frustrovalo,
+že spoustu těch jakoby projektů,
+na kterých jsem se za ty čtyři roky
+v Huawei podílel, skončili
+prostě v šuplíku. A možná je někdo z toho
+šuplíku za pár let vytáhne, možná ne,
+ale není to úplně
+něco, co by mě bavilo.
+Zatímco teď v
+Kernkonceptu, což je teda malá firma, která má
+35 zaměstnanců a musí
+pracovat efektivně, nemůže si dovolit
+tenhle ten luxus pálit
+peníze, tak tam
+vidím jakoby bezprostředně
+výsledky své práce a
+ano, občas to znamená, že prostě
+musím svou práci zastavit v půlce,
+protože prostě došel budget.
+Až takhle? Ano, to se občas stává.
+Na některých věcech, pochopitelně.
+Někdo vědná potom se zákazníkem
+zvýšení budžetu, pokud to dává smysl
+a pokračuje se dál, ale
+skutečně se mi to už stalo, že jsem
+byl uprostřed psaní nějakého
+unit testu a prostě došel budget,
+tak jsem zůstal uprostřed psaní
+testu. Vůbec středník, úplně to schybí
+a už ho tam nedám. To už nezmáčknu,
+úplně plásu se. Plásu dílet, prostě to už
+nejí zaprchy. A možná jenom
+jedna taková anekdota,
+která trochu popisuje právě
+tento
+tu čínskou firmní kulturu.
+Myslím si, že spousta lidí
+tady v Evropě, v Americe je zvyklá
+právě na to, že když teda
+existuje nějaký, řekněme,
+lehce formální proces na to,
+jak si člověk jako zadá nějaký
+projekt, ten projekt běží, dostane
+člověk na to nějaké
+zdroje, ať už finanční,
+lidské a tak dále, tak
+prostě ten projekt
+doběží a pak se vyhodnotí.
+Ten čínský přístup
+je, každý
+druhý den otočíme kormidlem
+o 180 stupňů
+a uvidíme, co se stane, jestli to
+třeba nedopadne líp.
+Takže nejdřív jako prostě
+člověk je takový jako hrozně prostě, proč
+zase změna a
+pak si na to zase trošku jako zvykne,
+protože zjistí, že za další dva dny se zase
+kormidlo otočí o 180 stupňů,
+takže zpátky. Ale
+tahle ta jakoby
+hrozně jakoby krátkodoba,
+tohleto krátkové plánování
+a tohleto jakoby
+pro následování těch krátkodobých cílů
+je něco, co mi teda úplně
+nevyhovovalo.
+To chápu.
+Jde to v kontradikci s tím, že
+to R&D bylo tak
+velký, že naopak ta firma musí přemýšlet
+hodně dopředu, protože počítá s tím, že jednou
+to vynese nějaký prachy a pak to točí
+takhle co druhej den 180 stupňů
+obrat. Je to myslím
+spíš tím, že
+jakoby to R&D se tam
+dělá tak trochu jakoby
+kvantitu než na kvalitu.
+A předpokládá se, že
+statisticky něco se tam objeví.
+Něco z toho vypadne.
+No a teda, já když jsem koukal
+na stránky ke konceptu, tak tam je
+jako teď budu říkat, to moje náhodný písmena,
+ale o Martinu nevím, o čem mluvím.
+L4REOS.
+To je to teda, na čem ty teďka pracuješ,
+to je ta vleková loď.
+Ano. A to je ten náš operační systém,
+nebo já bych to spíš nazval
+toolbox pro
+deployment operačních
+systémů.
+Protože je to opět jakási
+sada komponent, které se dají
+nějakým způsobem poskládat dohromady.
+Staticky nebo
+dynamicky. A může z toho být
+velmi jednoduchý a úzce zaměřený
+systém. Třeba ten hypervisor,
+který běží v tom autě a má
+pouze dva statické virtuální stroje.
+Přičem v jednom prostě běží
+nějaká jako high critical
+komponenta a v druhém
+virtuálním stroji běží low critical
+komponenta a už to tak
+jako dokud prostě
+tam
+je ta baterka, tak to nebude běžet
+nikdy jinak.
+Ale zároveň je možné tenhle systém
+poskládat do general purpose
+operačního systému, který má
+GUI a okýnka
+a nějakou
+Unixovou nebo Linuxovou
+vrstvu kompatibility a dá se tam
+spustit potenciálně
+cokoliv.
+Takže to je takovej ten diferenciátor oproti
+ostatním operačním systémům.
+Nebo to je řekněme
+jedna z tradičních vlastností,
+aby to děláte pouze jinak.
+Co tě třeba zaujalo v tom Ken konceptu,
+že jsi šel tam dělat na tomhle?
+Co mě zaujalo v Ken konceptu,
+na to je netechnická odpověď.
+Zaujaly mě ti lidé,
+které jsem pohodlně
+znal už předtím, jak jsem říkal,
+ten svět je malý v tom našem oboru,
+všichni se známe a viděl jsem, že ti lidi
+mají jako, že to dělají dobře,
+mají správnou vizi, dovedou opravdu
+velmi dobře právě vyvážit
+ty řekněme
+filozofické
+a akademické
+pohledy na věc, to znamená
+ty návrhové
+principy, o kterých jsem mluvil na začátku,
+s tím pragmatickým přístupem,
+že je potřeba,
+aby ta firma žila a
+uživila se, tak je potřeba
+ten systém umět prodat,
+nasadit, získávat
+další zákazníky
+na základě předchozích referencí a tak dále.
+Prostě zkombinovat tyhle dva světy
+a to není úplně
+triviální, takže tohle
+mě na té firmě
+vždycky, co jsem na téhle firmě
+oceňoval, co se týče toho
+L4E, toho našeho
+operačního systému,
+tak ono se nedá říct, že by se
+nějakým službům, špatně se
+mi to popisuje ve smyslu
+čím je specifický nebo čím je
+zvláštní, protože on je to takový
+Kevin Bacon
+té naší domény.
+Je to prostě ten úplně
+nej
+nejtradičnější uprostřed
+mikrojádrový operační
+systém a naopak ty ostatní
+se vůči němu nějakým způsobem
+občas jakoby
+nechci říct jako vyhranňují, ale prostě
+liší nebo
+používají jiné postupy.
+Co ta zkratka znamená?
+Je zatím nějaká chytristika?
+L je od
+příjmení Johana Lidkeho,
+což byl jeden
+z velmi významných
+implementátorů a zároveň
+vědců v téhleté oblasti
+mikrojádrových operačních systémů.
+Ta čtyřka znamená, že to je
+jakási čtvrtá implementace.
+L1
+byl
+interpret jakéhosi jazyka
+Elan. L2
+bylo
+de facto mikrojádro,
+ale které tehdy ještě běželo na
+osmibitových počítačích
+a běželo
+virtuální stroje
+naimplementované
+v bitkodu.
+L3 byl první
+mikrokernel pro moderní počítače
+a L4 bylo
+jeho vylepšení.
+Ta původní L4
+vlastně měla ukázat
+a reálně ukázala,
+že ta mikrojádra
+mohou mít performance
+srovnatelnou s těmi monolitickými
+systémy, pokud jsou naprogramovaná
+a navržená správně.
+V té době byla naimplementovaná
+v Assembleru ručně,
+takže byl to nepřenositelný kód,
+což z dnešního pohledu zní
+velmi zvláštně, jako proč
+by někdo něco programoval v Assembleru
+kompletně, ale
+na tu dobu
+v té době toho začátku
+90. letu vlastně dává
+v tom kontextu nějaký smysl, protože tehdy
+přece i ty překladeče
+ještě nebyly tak kvalitní jako dnes.
+Takže to, na čem my teďka
+stavíme, není pochopitelně
+tahleta codebase, je to
+jiné mikrojádro,
+které vychází
+z podobných principů, ale je pochopitelně
+naprogramováno v tom C++,
+dokonce v nějaké velmi
+specifické nádstavbě C++,
+kterou používáme,
+ale je tam
+ta myšlenková
+kontinuita
+s tou lidkého L4.
+Proto to máme
+stále v názvu
+a RRE znamená
+Runtime Environment.
+To znamená, že to, co popisujeme,
+není jenom to mikrojádro, ale je to
+vlastně celá
+ta sbírka těch komponent,
+z nichž teda samozřejmě většina běží
+v uživatelském prostoru.
+Ty jsi říkal, že je vás 30 nebo kolem 30.
+Jak dlouho ta firma funguje?
+Nedávno, myslím, oslavila
+10 let, 11 let, pokud se nepletu.
+Takže rostete velmi organicky,
+řekl bych, skoro až jako neroste.
+Rostete, chápu to správně.
+Myslím si, že zakladatelé
+firmy nikdy nechtěli, aby to byl
+nějaký startup, který bude nějak dynamicky
+růst. Naopak, ta myšlenka vždycky
+byla, aby ta firma rostla
+pomalu organicky, ale
+mohla se zaměřit nejenom
+na kvantitu, ale i na kvalitu svých
+produktů.
+Jak to vypadá v takovýhle firmě
+a jaká je ta konkurence,
+když si představím ten trh,
+jak se uživí takhle velká firma
+nebo takhle malá firma
+v tomhle specifickém
+oboru?
+Ten obor je opravdu
+tak specifický, že
+nechci říkat, že bychom
+měli nějaké džentlmanské dohody
+s naší konkurencí, ale dovedeme
+se jistým způsobem vzájemně vyhnout.
+Když třeba se podívám
+na ten automotive trh, kde
+v dnešní době
+Kernkoncept má asi nejvíc želízek
+v ohni, tak my se prostě
+zaměřujeme na ty
+Tier 1 supply,
+v Evropě, což je
+Continental,
+což je vlastně firma, která
+dodává hardwareové a softwareové
+komponenty pro většinu evropských
+automobilek. A našimi
+přímými konkurenty
+jsou třeba firma CISGO
+se svým Pike OS,
+ale kde se zaměřují víc na americký
+trh. Další naším
+jako formálně vzato
+přímými konkurenty jsou
+je společnost
+Blackberry se svým
+NX, už jsem to zmínil,
+a ti zase působí jinde.
+Takže my si nějak nešlapeme
+vysloveně na paty.
+A pro mě samozřejmě jako kluka
+z Mladé Boleslavy, automotive, to
+mě zajímá, to prostředí.
+Z tý zkušenosti je to tam
+něčím specifický, nebo
+z tvýho levelu vlastně
+je to jedno?
+Není to určitě jedno, je to velmi
+zajímavá oblast, nedovedu
+říct, co je tam specifického
+oproti něčemu jinému,
+je to prostě svébytná oblast,
+ale zkusím
+tak nějak jako by popsat
+nějaké zajímavé vlastnosti.
+Tak ta oblast je
+relativně dobře,
+nebo relativně
+silně ovlivněná nějakými
+nějakou
+regulací.
+A právě proto tam nenastává
+ten problém, že by ty automobilky
+chtěly do těch aut být do toho
+infotainmentu strkaty Windows XP,
+jako ty lidi,
+od těch lékařských přístrojů.
+Ta regulace skutečně
+zabraňuje tomu,
+zajišťuje,
+aby ty automobilky skutečně
+dobře hleděly na tu bezpečnost,
+v tomhle případě tu safety.
+Počkej, ale v lékařských přístrojích
+přeci ta regulace musí být ještě větší, ne?
+Jiný dotaz.
+Není, je na
+úrovni hardwareu,
+to znamená, aby to nikoho
+prostě nezabilo elektrickým výbojem,
+ale co se týče software,
+a z toho softwareho řízení je to naprosto šílené.
+Takže chci říct, že infotainment v mý oktávce
+prošel větším schvalovacím
+peklem, než když pak budu
+doktorem a ono mi buděl dělat rengen a pak bude
+na XPčkách koukat. Ano, nepochybně.
+Tak, ok,
+ok, nechci říct,
+že bys mě úplně uklidnil, ale budíš.
+Mě to taky velmi znervozňuje.
+Výsledek je teda, teď koukám na Netflix,
+jak se dožít stovky, a to je prostě
+máš řát bubule, takže budeme řát bubule,
+abychom se tam vůbec nedostali. A vůbec nechoď doktorům, který má
+nějaký přístroj, protože to šlo úplně jinou
+cestou. Dobře, takže to je jedna věc,
+jsou tam teda větší regulace, což nás všechny
+překvapilo. Ano, a
+to je pochopitelně dobře nejenom pro nás,
+pro náš biznis, ale prostě proto,
+že by se skutečně nemělo
+snad stát, že by
+ta auta
+někoho zabila, protože
+někdo vyhekuje nějaký infotainment
+a skrz ten infotainment
+prostě zautočí na ty kritické
+systémy, které ovládají ty brzdy.
+Což je strašně dobře, ten infotainment je pekelnej.
+My se pochopitelně
+zabýváme
+teda jenom tou izolací.
+My neděláme prostě ta okýnka
+a ty ikonky
+na tom infotainmentu. A druhá
+právě zajímavá vlastnost, kterou jsem
+tak trochu nakousl, je, že
+v té automotive oblasti
+je velká standardizace
+a unifikace. To znamená,
+že tam právě působí
+nějak cíti tier one
+suppliers v Evropě
+Continental, v Japonsku Denso,
+v Americe myslím, že
+ten hlavní je bývalý Chrysler,
+teda dneska Mercedes-Benz, ale
+ještě ta americká část.
+A tyhle tier one
+suppliers vlastně dodávají
+samozřejmě skrz nějaké subdodavatelé,
+kterými jsme
+v případě toho softwaru taky.
+Unifikované komponenty,
+jak si ty
+mechanické, tak ty hardwarové,
+tak ty softwarové
+do většiny aut, většiny
+automobilek.
+Na té softwarové úrovni právě to se
+je vidět právě třeba v tom,
+že většina evropských
+aut a automobilek používá
+nějaký komponentový systém, který se jmenuje
+Autosar, který má zase
+velmi přesně definované
+interfacy, jak
+napsat komponentu, která řídí brzdy,
+jak napsat komponentu, která
+řídí stěrače, jak
+napsat komponentu, která dělá
+infotainment a hraje hudbu.
+No a my do toho celého zapadáme
+tak, že tam implementujeme
+právě ten hypervisor
+nebo hypervisor, který izoluje
+ty jednotlivé
+criticality levels.
+Takže vy na ten hardware jako takovej nemáte
+vliv, že byste třeba vyvíjeli vlastní hardware,
+ale máte tu jasně danou
+specifikaci, která se používá ve všech
+automobilkách po Evropě a oproti
+ní vyvíjíte.
+Přesně tak. Ten hardware je
+zase velmi
+také unifikovaný
+na té bezpečné straně.
+To bývá nějaká
+ARM R
+platforma, to znamená nějaké
+procesory, které třeba nemají
+ani memory management unit, ale
+naopak třeba nemají
+aktivní cache,
+aby se právě
+chovali deterministicky
+z hlediska nějakého výkonu
+a časování.
+Nebo dokonce mohou mít
+lockstep jádra, která potom
+zajišťují ještě vyšší
+spolehlivost nebo bezpečnost
+věhu toho kódu.
+A my teda vyvíjíme
+ten náš software
+pro tuhletu relativně univerzální
+platformu.
+Když už jsme si tady udělali
+takový krásný deep dive, tak nemůžeme
+opomenout jednu zajímavou věc.
+A to je tak, že už si téměř
+20 let spoluautor
+Helen OS. Můžeš
+nám prosím tě a samozřejmě posluchačům představit
+tento operační systém
+a vlastně jak to zapadá do toho, co jsme tady spolu
+celou tu dobu řešili?
+Velmi rád. Helen OS je teda
+původně systém, který
+vznikl na MatFizu v rámci
+předmětu softwarový projekt,
+což pokud někdo byl na MatFizu,
+tak ví o co se jedná.
+Pokud někdo nebyl, tak je to takový
+jako velký strašák té informatiky
+na MatFizu, protože je to opravdu
+jakoby týmový, dlouhý
+projekt.
+Zvlášť v té době, kdy my jsme
+začínali ještě, jako se příliš
+nehledělo vlastně na to, aby si
+ten tým nevymyslel
+specifikaci, která je téměř
+nesplnitelná, takže mnohé
+ty projekty se vylkly třeba 3-5 let.
+Ale zase
+myslím si, že to opravdu těm lidem
+dalo jako neuvěřitelnou
+zkušenost, která se jim pak
+hodila v praxi. Takže v našem případě
+to byl teda operační
+systém.
+Jak už jsem říkal, duchovním
+otcem je Jakub Jermáš, můj
+dobrý přítel.
+A na začátku nás teda bylo 6.
+Ten systém jsme v rámci toho softwarevého
+projektu obhájili a
+vlastně naimplementovali jsme
+jakýsi základ, to znamená hlavně
+to mikrojádro,
+do kterého skutečně jsme potom
+už příliš moc nesáhli.
+Neříkám, že vůbec, ale
+skutečně zase ty
+návrhové principy zafungovaly tak,
+že jakmile to jádro
+jednou už existuje, tak už není
+do něj potřeba příliš dalších věcí
+přidávat.
+No a od té doby potom
+jaksi v rámci dalšího
+mého působení na Matvizu
+s dalšími lidmi jsme
+ten systém dál rozvíjeli.
+Takový největší boom, myslím,
+nastal mezi
+lety 2010 až
+2015, kdy vlastně
+na tom systému bylo
+obhájeno asi
+ve spojení se systémem
+HLNOS bylo obhájeno asi
+30 diplomek a bakalářek,
+většinou diplomek.
+Několikrát jsme se účastnili
+Google Summer of Code, protože je to
+open source projekt, kde zase další
+studenti přispěli
+spoustu zajímavých
+kobitů.
+Ano, přesně tak.
+A vlastně
+tímhletím procesem jsme
+ten systém dostali do stavu,
+že
+je
+řekněno,
+řekněme, na pokraji
+nebo na náhradě jakéhosi
+praktické použitelnosti.
+Má prostě,
+je přenositelný,
+podporujeme 6 nebo 7
+různých hardwareových platform,
+počínaje běžným
+x86 a ARMem, až po
+dneska už docela exotické
+věci typu PowerPC, MIPS,
+Itanium
+a
+co pak tam bylo ještě, a Spark.
+Máme, jsou, máme
+podporu pro souborové systémy,
+máme několik konkrétních implementací
+souborových systémů, máme grafické uživatelské
+rozhlední, máme síťový stack
+z IPv4 i IPv6,
+máme device driver framework,
+ve kterém se dají psát
+poměrně elegantně ovladače,
+zase běžící v uživatelském prostoru,
+podporujeme USB,
+podporujeme několik
+síťovek, několik dalších
+periférií, takže ten systém
+je jaksi
+v tomhletom stavu, že pochopitelně
+nelze ho vzít a použít jako
+náhradu nějakého
+desktopového systému, ale kdyby
+někdo ještě trošku víc zatlačil
+a hodil na to nějaký ten milionek,
+tak bychom se tam
+dostali. Což
+bohužel v dnešní době
+tak trošku znamená, že
+ten systém už se
+moc dál neposunuje, protože ty
+low hanging fruits už v tom systému byly
+všechny
+vyzobány,
+takže už se
+moc těch studentů nehrne, protože
+vlastně tam nechybí nic
+zásadního. Bylo by potřeba
+ten systém buď propracovat do
+hloubky, anebo naopak
+do šířky, prostě naimplementovat ovladače
+pro miliony
+periférií, což nikdo dělat nebude.
+Tak každopádně ten systém
+stále se snažíme nějak udržovat,
+stále se snažíme vydávat nějaké
+semipravidelné release
+a pořád nám slouží
+jako jakýsi experimentální nástroj.
+To jsem se právě chtěl zeptat 20 let,
+na jednou open source projektu, tam už museli
+být nějaké zestupy, pády.
+Co je teda ten motor?
+Je to to, že to je to tvoje pískoviště,
+který má, řekněme, dopad na
+ostatní, kteří si na tom aspoň udělají
+diplomku a bakalářku a vidějí,
+že ten směr, kterým se ty
+mikrokernely vydali,
+že je ten správnej? Nebo
+co je ten motor zatím pro tebe?
+Ten dlouhodobý motor byl
+třeba v tom, že
+zase ta architektura,
+nebo řekněme, ta implementace
+toho systému,
+se v některých věcech právě liší
+od těch, řekněme,
+více tradičních L4
+a jiných mikrojader,
+které se hodně zaměřují na
+synchronní komunikaci.
+Ta synchronní komunikace
+mezi těmi tázky dává
+velký smysl na zase jednoprocesorových
+strojích nebo strojích,
+které mají relativně málo jader,
+protože tam potom
+vlastně to vzdálené volání
+funguje analogicky jako
+klasické asi skóly
+v monolitických systémech
+nebo volání prostě funkcí.
+My jsme se naopak zaměřili na asynchronní
+komunikaci, která
+sice z principu má
+trochu větší overhead,
+ale umožňuje ten overhead jistým
+způsobem amortizovat právě na těch strojích,
+které mají spoustu jader,
+velkou možnost paralelismu
+a případně
+i nějakou tu distribuovanost
+nějaké ty nezávislé
+noudy.
+Takže ten
+transportní mechanismus nemusí být
+pouze prostě
+paměť, ale může to být
+síť nebo cokoliv jiného.
+Takže to byl ten motor,
+jak by ukázat, že
+není důležité
+pouze synchronní IPC, ale že
+s moderním hardwarem je taky
+důležité asynchronní IPC,
+protože se dá použít
+zase jiným způsobem.
+Potom další
+aspekty byly, bylo prostě zkoušení,
+zkoušení nových postupů.
+Jak si říkal, takové to pískoviště,
+kde člověk
+dokonale vlastně
+té codebase rozumí, protože
+jakoby buď
+z velké části psal, nebo minimálně
+viděl každý commit,
+takže to má celé
+tak nějak aspoň schematicky v hlavě.
+Což se mi mnohokrát
+hodilo, když jsem prostě
+chtěl zkusit nějakou novou myšlenku.
+Dostali jste se,
+zhalen OS, někam dál za tu
+hranutý, jako akademický
+ho pískoviště,
+nebo pořád,
+jako to je jenom
+opravdu dlouhodobej, krásnej
+hard projekt, ale v praxi se to nikde
+nenasadilo?
+Ta licence je BSD,
+takže my vlastně
+ani nevíme, jestli to někdy někdo
+na něco použil. Někdy jsme
+našli útržky kódu
+prostě v různých knihovnách
+a našeho vlastního
+našeho vlastního kódu, třeba
+v různých firmvérech.
+Tušíme, že
+někdo ten
+halen OS použil a vysloveně nasadil
+pro řízení jakési
+větrné elektrárny někde v
+Malajzii, ale nemáme
+o tom žádné podrobnosti.
+My sami, jako
+řekněme
+hlavní vývojáři,
+nebo otcové, nebo jak bych to nazval,
+byly tam pochopdelně
+i matky.
+Nechci být stereotypní.
+Tak
+jsme měli jisté ambice,
+ale myslím si, že prostě nikdo z nás
+není vysloveně podnikatelský typ, takže jsme
+neudělali ten krok, co udělali mý
+současní zaměstnavatele,
+že by si řekli, dobře,
+teďka prostě na to vrhneme
+nějaké vlastní prostředky a
+jdeme na trh.
+Myslím si, že
+minimálně pro mě je to stále ještě takový
+jako vlhký sen, že by se to jednou třeba
+mohlo ještě podařit.
+A proto my mimo jiné
+taky tu codebase stále udržujeme,
+i když
+těch příhrůzků
+už zdaleka není tolik, jako bývalo.
+Ale
+bohužel se tak zatím nestalo, takže
+odpověď na tvou otázku je,
+zůstal
+ten experimentální systém
+primárně pro akademické
+použití, ale
+je tam ta možnost.
+Jo.
+By the way, proč se to jmenuje Heleno?
+Jestli zatím nějaký
+příběh?
+Jako běrnmář měl prostě takové helenské
+období. Je to inspirovanou
+Helenou Trojskou,
+nikoli v žádnou konkrétní...
+Žádná Helena před 20 lety?
+Houdová třeba.
+My jsme tak starý.
+Mimochodem
+to mikrojádro se jmenuje
+Spartan.
+No a aktuálně
+tomu vyneš teda kolik času? Už je to jenom taková
+udržovačka, když večer uložíš
+rodinu a máš chuť prostě si
+k dobrému nápoji se podívat
+na hezký kot, tak to otevřeš, nebo
+snažíš si častěji? Jak to máš teď?
+To je bohužel trošku smutný
+příběh. Rád bych tomu
+systému věnoval, dejme tomu tak
+hodinu denně. Reálně
+je to tak hodina měsíčně.
+Je to způsobeno tím, že mám teďka
+mladou dcerku,
+které se snažím věnovat veškerý
+svůj volný čas, takže
+na
+můj předchozí projekt
+už nezbývá.
+Tohle to myslím je
+postihlo bohužel generačně všechny
+ty hlavní přispěvatele. Všichni máme
+hypotéky, všichni někde
+pracujeme přes den, takže už se nám úplně
+nechce kódovat v noci.
+Nedá se nic dělat.
+Nějaká mladá krev tam stále
+je. To jsem se chtěl zeptat, jestli tam jsou nějaký nový
+tahouni, který to třeba převezmou.
+Nevím, jestli to vyslovně
+převezmou, ale minimálně
+jeden velmi aktivní, relativně
+aktivní přispěvatel tam stále je.
+Který se samozřejmě zase snaží ten systém
+trošku jakoby přetvořit
+k obrazu svému. Já se k tomu snažím
+být velmi benevolentní. Já si myslím,
+že po dobu Codebase by měl
+primárně stanovat ten, kdo přispívá
+a nechci být
+nějaký gatekeeper, který brání
+jiným lidem ten systém
+posunout někam jinam. Je pravda,
+že občas zasáhnu, když vidím nějaký
+absolutní exces, ale
+to se moc nestává.
+Takže benevolent diktátor takový ten systém.
+Ani ne diktátor, jenom spíš
+jakoby
+pozorovatel, který
+se snaží
+snad
+svou delší zkušenost
+občas předat
+a
+nějaký komit
+vylepšit, nikoliv
+zatrhnout nebo zakázat.
+Tak Poli.
+To se nám to krásně příjemně vytáhlo
+na osmém konce.
+Tak to vytáhni.
+Obligátní otázka na závěr.
+Martine, co plánuješ blízké
+či vzdálené budoucnosti?
+Nemám žádné zásadní plány
+nebo plány na nějakou zásadní změnu
+v blízké budoucnosti.
+Jak jsem říkal, spoustu
+času, ale jsem za to
+velmi šťastný. Mě teď zabírá dcera
+a samozřejmě
+zbytek rodiny.
+Takže
+vlastně
+nevím. Vlastně jsem relativně
+spokojený. Možná
+plánuju trochu zase
+víc cestovat.
+To ani
+nesouvisí s tou rodinou,
+jako spíš s tím covidem, kdy se
+prostě cestovat přestalo
+a myslím si, že by se zase trošku
+mělo víc začít cestovat.
+Jestli za pět, deset let
+přijde něco zásadního, to zatím
+nevím. Možná ano, možná ne.
+Nabídka může přijít klidně zítra.
+A současná firma ti cestování umožňuje? Můžeš cestovat
+v rámci?
+Abych byl upřímní,
+pochopitelně zase s vezelem k tomu,
+že to je malá firma, tak není to až tak bohaté
+první třídou, klasicky.
+Skoro. Skoro.
+Ale pochopitelně pro
+nezbytné a pro rozumné
+situace typu zajímavá
+konference, tak tam
+ten rozpočet na to máme.
+No a ty jako taková studnice
+znalostí, nějaká
+knížka, podcast, přednášky, nějak
+to ze sebe vyhrnout
+ven, kromě teda ty akademický
+sféry, o kterých jsme mluvili, nějaká taková
+tendence, nějaké nutkání tam nemá?
+To zní velmi zajímavé.
+To se mě skoro zaskočil.
+Ty přednášky na tom MatFizu teda vedu
+a předpokládám,
+že snad ještě nějaký ten
+rok budu vést a každý
+rok se pochopitelně budu snažit je zase
+jakoby vylepšit a
+třeba i rozšířit.
+Takže v tomhletom
+smyslu ano. Do podcastu
+bych se úplně nepustil, protože už se do něj
+pustili i v naší oblasti někteří
+jiní lidé, kteří to určitě umí lépe
+a mají lepší
+výslovnost,
+angličtiny než já a tak dále.
+A knížka?
+Knížka, to je velmi dobrý
+nápad. To teda není od nás, my jsme
+tady minule měli Ondru Šiku, takže to úplně
+není z naší hlavy, který se pustil právě v rámci
+DevOps to psaní knihy. Doufám, že už to Ondro
+máš hotový, ale tohle by
+třeba jako bylo zajímavý.
+Zkus na tím popřemejšlet. Určitě.
+Je to něco, co
+mě zřív nenapadlo,
+ale když si to nakoušel,
+proč ne? Takže až jednou budeš
+prodávat miliony výtisků, tak tady
+předmluvím, protože děkuji Romanovi za dobrý nápad.
+Super, pochybně.
+No, my především děkujeme Martine
+tobě, že jsi dorazil. Bylo to
+tradičně, jako vždycky, když se setkáme,
+tak informačně nažvejklý. Já jsem
+hrozně rád, že konečně to taky mohli
+ochutnat tuhle dobrotu naši posluchači,
+že jsme pokecali o věcech, který jak bylo
+poznat ne za stolik jsme spolim
+rozuměli, ale o to to bylo zajímavější, protože
+jsi nám to vysvětlil. Moc díky,
+ať se daří, ať rodina, dcera
+zkvétá a zase někdy.
+Děkuji, díky za skvělé otázky.
+My děkujeme. Měj se krásný. Čau.
+Ty kráso.
+Přesně, jak jsi řekl před chvílí, by mozá zlap.
+Jo, bylo to zase
+něco jiného. Jo, bylo to zase něco jiného.
+Tohle bylo teda hodně něco jiného.
+Ne, přátelé, nemůžeme dělat
+tady tuhle tu klasickou věc, kterou jste
+mimochodem slyšeli v rámci našich
+vánočních bloopers, za které děkujeme
+Lukáši Markovi.
+Ne, tohle byl samozřejmě
+našich, a já jsem to věděl, já Martina znám
+a vždycky, když se bavíme, tak on má tu
+skvělou schopnost, jestli jsi už
+mluvil velmi spisovně. No, jenom
+spisovně. Jenom spisovně.
+Takže já vždycky, jak bych řekl, svojí
+středočištinou a on ti zpátky
+velmi spisovně, pomalu,
+srozumitelně odpoví. Já to vám
+hrozně rád, hrozně rád s ním komunikuju.
+No až vždycky se bavíme, tak to je samozřejmě jako
+studnice znalostí, ví toho strašně
+moc a je navíc klasicky,
+nevím, jestli se to vybíráme nějak
+jako automaticky, vždycky přijde
+někdo, kdo je nabušený a zároveň skromnej.
+No to je pravda. Jo, že ne přišel žádný
+mistr světa, říká tak vy volové, teď vám
+to tady ukážu. A to je jako touševýmka,
+takže já bych řekl, že to musí být nějakej pattern.
+Nějakej pattern, že asi známe lidi, kteří jsou cool, jenom.
+A nebo nevím, teď jde pouhluci
+tady po vás, jako říká, to jsou idyny,
+co si to bylo za doprávky.
+No, tím, kdy tam zastavuje lidi,
+říká, tam neleste, to jsou takový debilové.
+No tak jo, přátelé,
+tak my jsme se s vámi
+rádi slyšeli, za týden
+neuslyšíte nic, ale za čtrnáct dní
+to budeme mít. Jsi nějak rozjel.
+Budeme mít Ivo Musila, který nám
+řekne, ano, už tady byl, to je ten
+časový paradox, který
+nám tady něco řekl, a vy to uslyšíte i za čtrnáct dní.
+O rugby a o
+security, bylo to, bude to
+pak i zajímavý povídání.
+No a koho máme dál v Pajpláně?
+Máme rozjetý další hosty, pak dorazí
+první host
+z České spořitely.
+První dáma České spořitely.
+První dáma České spořitely.
+Honza Divko, velmi,
+velmi nažvejklý člověk z datovýho
+světa ode mě. To příjmení je skvělý.
+Kdyby se psal s dvěma F jako Divko.
+No já ho občas takhle píšu, ale je to
+špatně. Je to špatně. Ale zeptáme se ho na všechno
+a já ho tím, že ho znám vlastně dva měsíce,
+tak spoustavící, který nám řekne,
+tak právě se tady dost víme.
+Ho musíme vyspovídat pořádně, takže na toho se těším.
+Super, super, super. No tak jo, přátelé,
+my to nebudeme nadále prodlužovat. Mějte se krásně,
+užívejte si
+ideálního zimního počasí,
+pak liže jedete někam ližovat. Přesně tak.
+No a my se těšíme za 14 dní zase
+pod vocasem. Ať se daří. Čau, čau.

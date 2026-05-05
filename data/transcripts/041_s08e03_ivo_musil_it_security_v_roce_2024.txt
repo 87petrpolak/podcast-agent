@@ -1,0 +1,2811 @@
+Pod vocasem.
+Pod vocasem.
+Pod vocasem.
+Pod vocasem.
+Krásný den, milí posluchači,
+vítejte u dalšího dílu vašeho nejoblíbenějšího
+IT podcastu Pod vocasem.
+No a jestli existuje nějaká jistota
+v roce 2024,
+takže naproti mě sedí jako vždycky
+Petr Poli, bůh ze Sporsky,
+Polák.
+Tak to je krása.
+A naproti mě je stále
+svěží a krásně
+vypadající, dnes dokonce garážmi otvírající
+Roman Žukor pro vás.
+Já jsem povýšen na garážmajstra pro 2024.
+Vítej, čau, rád tě vidím po delší době.
+Já tebe taky, no. Je to to, jak jsme říkali minule.
+Vždycky tě rád vidím ještě víc než předtím,
+protože to není teďka už standardem.
+Je to tak, je to tak. Hele, hned musím na tebe vyvalit
+jednu novinku, která mě strašně baví
+už vlastně od půlky prosince.
+A to je z tvýho ranku. Jmenuje se to
+suno.ai a je to
+umělá inteligence, která
+dokáže, ty tomu dáš text
+a dáš tomu, jaký
+styl hudby to má vygenerovat. A ono to
+vygeneruje, myslím si, že to má vždycky ten klip
+minutu 20, nějakou
+hudbu přesně v tomhle stylu. Takže já jsem
+teďka úplně to miluju. Mám bohužel
+jenom pět tokenů vždycky na den, takže můžu
+vygenerovat pět písníků. Ale každá písník
+má jako dvě verze, dvě varianty.
+A dál jsem tomu třeba
+texty Krištofa, že jo? Protože samozřejmě hledal jsem
+něco dostatečně debilního, tak jsem prostě našel
+texty Krištofa. – Protože jako českej trh ti nabízí
+hodně. – A řekl jsem, že
+tak si třeba ve stylu jako devadesátky
+prostě boombe prepu. A nebo
+country. A je to úplně geniální text. – On to udělá
+hudbu i text. – Ne, ono, buď ten text
+si můžeš nechat vygenerovat, nebo mu dáš vlastní.
+A já samozřejmě, protože jsem kreativní, tak já tomu
+budávám vlastní debilní text, anebo najdu
+něco ještě horšího typu Krištof.
+Ale řeknu, jaký styl to má vlastně
+aplikovat na ten text. A je to boží.
+Je to fakt skvělý a doporučuji
+suno.ai, pět písniček
+denně. Možná si to i konečně
+jako fakt koupím, protože prostě
+pro mě to je úplná topka. Samozřejmě je to
+hrozný, jo? Ale je to zase
+tak špatný, jsem říkal, kdyby to bylo o level
+horší než to, co to generuje, tak by to mohlo
+u nás na vesnici hrát normálně na plece, jo?
+Jako super, super věc.
+To je to, co jsi mi posílal na vodzapový skupině?
+Jo, jo, jo, to je ono, to je ono, to je skvělý.
+To je prostě, kam se to,
+kam se ten AI svět řítí, je jako opravdu
+neuvěřitelný. Přátelé, jestli jste neviděli,
+najděte si. Románku neviděl si
+Ronalda,
+Kristiana Ronalda a jeho
+diskuzi ve slovenštině.
+Já jsem normálně věřil
+chvilku, že jsem naučil slovensky.
+To bylo úplně neuvěřitelný. Mimika,
+jeho hlas a slovenština.
+Úplně neuvěřitelný. To někde musíme najít.
+Prostě to je jako to, bež čumě, tak puk.
+Tak vole už to, že umím mluvit, Kristiano Ronaldo,
+je jako zázrak AI a ještě slovensky.
+Zhruba tak.
+Tak jo. Tak já si myslím, že úvod
+byl výborný. Sledujte AI Tooly,
+sledujte samozřejmě náš podcast,
+protože my se k tomuhle budeme ještě vracet.
+Kdyby náhodou jste narazili na nějaký takový
+jako kulervoucí AI Tool,
+tak nám to určitě pošlete, protože nás to zajímá
+a my si s tím budeme i nadále hrát.
+Ale teďka na chvilku AI opustíme
+a vrhneme se na našeho hosta,
+což je Ivo Musil, což je člověk,
+opět teďka se omluvám
+svým kamarádům z komunity,
+že opět tady rabuju
+a lovím ve vodách
+J-Open Space, ale to je člověk,
+se kterým jsem vlastně jel celou cestu do Telče.
+Povídali jsme se, ještě jsme spolu skončili celý víkend
+na pokoji, takže já jsem toho člověka jako absorboval
+celý víkend a říkal jsem si,
+to je strašně zajímavý člověk,
+dělá do security, má hrozně zajímavý názory,
+dělá i do rugby,
+nebo jako velmi rozumí rugby
+a vidí tam i různý jako
+souvislosti mezi rugby a
+softwarovým vývojem, prostě je to strašně zajímavý člověk.
+Na to se těším. Takže jsem říkal, pozveme si ho,
+pokecáme s ním a bude to super díl.
+Jdeme na něj.
+Ve studiu s námi sedí náš dnešní host, Ivo Musil.
+Ahoj Ivo, vítej. Ahoj Romane.
+Čau Ivo. Ahoj Petře.
+Tak prosím tě Ivo, já jsem tě sice na začátku
+trošku představil, protože jsme se
+seznámili cestou a během pobytu
+na J-Open Space, ale samozřejmě
+nestih jsem to všechno od začátku
+vysvětlit, takže prosím tě řekni,
+udělej si takové představení pro posluchače,
+kdo jsi, co děláš, jak dlouho
+jsi v IT, jak jsi se tam dostal,
+prostě taková ta úplná klasika.
+Tak ono, ta moje historie
+v IT už je dlouhá, já už taky jsem trošku starší
+než vy, takže... Alebo malinko,
+ale... A není to vidět, teda.
+Aha, tak možná to je
+takovým blachováním, takže moje začátky
+jsou v minulém tisíciletí
+a vlastně, když jsem
+jako nad tím přemýšlel, když jsem dostal
+takovouhle otázku, tak vlastně
+první moje zakázka byla
+v roce 1988,
+což je taky šokující, byl jsem
+asi na třeťáku na Gimplu. Já si říkám, že jsi
+musel být hodně mladej, teda. No, no, tak
+už to nebylo tak úplně a
+byl to, vzniklo to tak, že
+mě si zavolal ředitel školy,
+jako rozhlasem, tak jsem říkal
+a jaký průser. A on, že
+měl nějakého známého a tam měli počítače
+a oni se těmi počítačeva neuměli
+a tak
+mě jako vlastně na jarní prázdnice
+měl jako brigádu a
+vyráběl jsem software pro řízení
+výroby lahudek.
+Jako nějakým tenkrát, jmenuje se to
+Budoucnost Ostrava a byl to vlastně
+takový jako podnik a tam dneska by se to udělalo
+v Excelu za odpoledne, ale tenkrát to bylo
+samozřejmě mnohem složitější a vlastně
+jsem udělal takový jako software, pak jsem ho ještě do prázdniny
+dodělával, který vlastně oni používali,
+že když potřebovali vyrobit kilovlaš, nebo tunu
+vlašáku, tak kolik mají nakoupit
+ukurek.
+88, jak vypadal ten počítač?
+Byl to, oni právě, to byl ten důvod,
+byl to počítač Sharp MZ821,
+což byl takový ten trošku podobný
+spektru, teď nedávno
+samozřejmě někde oprášil a je to
+prostě jako osmibitový počítač,
+který vlastně se k tomu vůbec nehodil,
+měl takové, na pásku se to nahrávalo, takže to je
+opravdu jako opravdu prehistorie, ale
+vidíte, že jako tam jsem někde začal.
+No a potom postupně,
+postupně vlastně druhá taková
+jako fáze, kdy jsem
+jako když jsem se někam posunul jako hodně,
+tak bylo na začátku vysoké školy, to bylo
+schodou těsně po roce 89
+a tam jsem se přichomitl
+k síti
+Fidonet a vlastně
+celou dobu, co jsem dělal na vysoké škole,
+tak jsem vlastně působil na
+BBS, CA1, FLB, BS, možná ještě
+někteří starší budou pamatovat.
+No a potom, jak jsem skončil,
+tak jsem šel do pracovního procesu
+a vlastně od té doby jsem ve společnosti
+Corpus Solutions, teď to bude
+30 let příští rok.
+Ty seš 30 let v jedné firmě.
+Já mám nejkračší životopis na světě.
+Takže
+od té doby
+funguji ve firmě Corpus Solutions,
+a dělám tam všechno, co Corpus Solutions
+za svou historii dělal.
+Začínal jsem vlastně, já osobně
+v oblasti, dneska by se nazval
+operations historicky, systémový
+inženýr, to znamená, rozbíhal jsem systémy,
+operační systémy, tenkrát
+sítě vlastně o toho nebyly nějakým způsobem odděleny.
+No a
+postupně jsem se posouval
+k aplikacím, vlastně dlouhou
+dobu jsem vyvíjel aplikace,
+protože Corpus zhruba před
+deseti lety opustil všechny ty
+ostatní obory a v podstatě
+dělá jenom o krajově,
+tak se jmenuji sekuritě
+stejně jako Corpus Solutions.
+No ale já vím, že ty jsi vlastně dělal takový za tu dobu
+už dá se říct tři kariéry, že ty jsi
+dělal teda ops, dělal jsi
+i ten dev, teda dělal jsi i ten vývoj,
+v čem jsi programoval?
+Tak já jsem dělal všechno možné programovat,
+jako v tom
+nejvrcholnější období jsem programoval v Javě,
+co tady určitě nebylo tak populární,
+ale
+z hlediska
+z hlediska jakoby toho vývoje
+už těch programovacích jazyků jsem
+mám desítky,
+který jsem něco dělal, ale u mě to
+nikdy nebyly jako velký projekty.
+A protože
+u mě, já ještě mám,
+vycházím z toho vlastně z těch
+osmdesátých, nebo z těch
+minulých století, kdy vlastně to IT byl jeden obor.
+Dneska už je to prostě spousta oborů,
+takže já naopak
+to trošku šidím právě tím, že
+mám tu šířitaběru širokou,
+samozřejmě tím pádem ne tak hlubokou, jako
+ostatní, ale zase někdy třeba vidím ty souvislosti,
+které ty lidi nevidí. Takže pro mě jako
+ty věcí, které jsem
+v životě dělal, jako třeba z té vývojové části,
+jsem dělal opravdu vlastně všechno.
+Půjšel jsem i do toho operations,
+dělal jsem konkrétní věci a vlastně
+třeba v tom největším projektu, kterým jsem působil,
+tak jsem fungoval jako
+architekt, nebo nějaký
+technický garant toho řešení.
+Takže opravdu ten rozsah byl velký.
+A furt jsem to šidil právě tím,
+že na všechno jsem se šáhnul.
+Mám to štěstí,
+že jsem to trefil dneska už asi
+ta možnost, že si člověk řekne,
+že bude dělat
+všechny ty obory, tak už je prostě nereál.
+Už to nejde. Už je to prostě široké
+a asi to ani není potřeba.
+Tenkrát, když prostě
+člověk potřeboval zapojit počítač,
+tak si musel natáhnout ty kablety, tu síť tomu.
+V těch 90. letech si to musel natáhnout,
+takže si dneska už na to máte profí.
+Je pravda, že ta dělova práce
+z hlediska i vývoje softwaru už je brutální.
+Už to máš popravu rozdělený
+na ty jednotlivý úseky. Dřív člověk musel
+znát úplně všechno.
+Teďka už vlastně, když
+trošičku přesahuješ mimo vývoj,
+tak už sežne DevOps, jak jsme tady měli v prvním díle
+Ondrušiku. Takže ty jsi
+dokonvergoval až
+k té security části. Je to tak?
+To je to poslední, co teď děláš
+na svým kariéře.
+To souvisí právě s tou firmou,
+že vlastně my jsme vždycky říkali,
+že máme těch noh více.
+Dělali jsme různé věci,
+ale zhruba
+7 let zpátky
+jsme právě
+opustili tu aplikační část,
+ten aplikační vývoj
+a vlastně do té doby se věnujeme
+výhradě, výhradě security.
+Takže byť ta security
+už je taky dneska
+nejenom úzoučký obor toho, že někdo někam nastaví
+firewall, ale je tam spousta
+spousta specializací,
+a jedna z těch specializací
+je právě blízká těm aplikacím,
+takže tam je to samozřejmě víc stáhne.
+To znamená taková ta aplikační
+bezpečnost, bezpečnost
+toho procesu vývoje,
+aplikační chyby.
+A samozřejmě teď jako nově
+mě baví, byť
+samozřejmě s Ondrou Šikou se nemůžu
+úplně srovnávat,
+baví mě právě ten DevOps, protože si myslím, že to je velikánská
+revoluce
+vlastně ve vnímání IT
+a ve vnímání security,
+takže ten tvůj
+daily job je jaký? Já teďka vidím
+hodně třeba jako ve větších firmách,
+například ve sporce, že jsou tam lidi, který
+opravdu jako prahnou po těch věcech,
+který, který jako
+přijedou co novýho a oni jsou první, který si to vezmou
+a teďka si to popracujou, tak jsi jako
+tenhle ten typ člověka, nebo máš tam nějaký projekt,
+agendu, tým?
+No, jako já nejenom,
+že už jsem tak jako divnej,
+z hlediska té šíře toho záběru,
+jako obecně, ale už i
+v tom korpusu jsem takový jako zvláštní,
+takže já nemám úplně,
+úplně jakoby
+takovou tu rutinní agendu, byť vždycky se podílím
+na nějakých projektech, dělám prostě, takže
+někdy já říkám, že jenom takového toho žolíka, jakože prostě
+zaskakuje tam, kde je potřeba, nebo dávám
+ten přesah, když se to posouvá, takže
+úplně to jak není,
+nemám úplně tým, nemám
+jakoby úplně to zadání ve smyslu
+dělám tady na tomhle projektu,
+co byť samozřejmě na nějakých projektech působím,
+ale není to,
+není to
+nějak pevně dané,
+nebo spíš jako
+pomáhám tam, kde to je,
+tak třeba teď aktuálně,
+mimo to, že mám jednoho z klíčových zákazníků,
+kde snažím pomáhat
+vyřešit nějaké technické
+problémy, tak zároveň
+mám ještě tam
+nějaký náš interní vývoj, nějaký technologický
+vývoj do nějakou komponentu,
+do softwaru,
+který používají ti bezpečáci.
+Když jsem koukal na ty vaše stránky
+na Corpus Solutions,
+tak vy tam máte jednoho z největších zákazníků
+Pražskou Teplárenskou.
+Možná jeden z nejznámějších
+pro mě na první dobrou,
+ale vůbec, jaký jsou vaši zákazníci?
+Z půlstati zákazníků, který tam jsou,
+nebo který by tam mohli být,
+tak tam nejsou.
+Z logických důvodů, že nechtějí, aby se věděli.
+Teplárenská je sice významný zákazník,
+ale určitě není ten nejvýznamnější.
+Já samozřejmě tím pádem o nich nemůžu taky úplně mluvit.
+Ale jsou to velké
+a největší společnosti tady v Čechách
+z oblasti bankovnictví,
+z oblasti výroby,
+hodně ze státní zprávy,
+nebo z takových přidružených záležitostí.
+Takže těch zákazníků máme.
+Pražská Teplárenská byla ochotná
+s námi společně popsala to řešení,
+takže možná to vypadá výrazněji,
+ale my máme těch zákazníků
+mnohem víc
+a myslím si,
+že jsme jedním z největších,
+už tou specializací,
+jsme jedním z největších firm
+v sekuritě tady v České republice.
+Možná odbočka neměly by se tím
+ty firmy paradoxně chlubit,
+že na sekurity neprděj
+a že mají tady kamarády
+z Corpus Solutions,
+který jim s tím pomáhají.
+Víš, jestli to není jako
+v marketingu je možná
+naopak.
+Je to různé,
+tam pořád u té bezpečnosti
+funguje ten princip,
+nebo ten pocit,
+že čím méně toho řeknu,
+tím víc je to bezpečné,
+což je samozřejmě nejvní
+a ta úroveň komunikace
+tady v téhle oblasti
+s těmi zákazníky
+je problematická
+a my to akceptujeme,
+to je prostě součást
+tady toho biznesu,
+prostě ta věc není.
+A druhý aspekt,
+který je,
+my nemáme úplně fokus
+na plošné pokrytí trhu
+v tom slova smyslu.
+Jakože bychom pracovali,
+oslovali prostě
+na každém dohu
+budete mít bezpečnost
+od nás,
+ale spíš to funguje
+v specifických kejzech
+a komunikujeme s těmi zákazníky
+velmi individuálně
+a samozřejmě tam se třeba
+ty reference už potom můžou
+líp upravovat.
+Můžou se ukázat třeba plošně,
+ale může se třeba zmínit
+nebo referenční nějaké návštěvy
+a podobné věci to se dělá.
+Ok, možná teda pojďme obecně
+na tu security pro firmy,
+protože to je věc,
+ke kterými se tady moc nedostáváme
+a vlastně i v ostatních podcastech,
+pokud nejsou úplně založený
+čistě na security,
+tak je to téma,
+který je takový trošku opomíněný.
+Jak to z tvýho pohledu
+vlastně na začátku roku 2024
+vypadá obecně v IT se security?
+Jde to jak dobrým směrem,
+jde to špatným směrem,
+je to lepší, než to bývalo,
+ale není to ideální?
+Jak to vnímáš?
+No, všechny odpovědi byly správné.
+Všechny odpovědi byly správné,
+je to velmi individuální
+a já trošku právě tím,
+jak úplně nejsem ten ryzný security,
+tak pro mě ten obor,
+i když jsem do něho přicházel
+a vlastně do dneška,
+je pro mě problematický.
+Security totiž nemá,
+na rozdíl od toho vývoje těch aplikací,
+ten jasný cíl,
+nebo ten jasný výsledek.
+Protože, jako když máme aplikaci,
+tak já si napíšu aplikaci,
+k ní si vyrobím testy
+a když ta aplikace splní ty testy
+a testují mi to ty lidi
+a používají to ty lidi,
+tak jsem uspěl v práci.
+Což je jako prima,
+ale tohle, teda mimochodem ještě
+u umělé inteligence,
+teda jak se budou psát ty testy,
+na to jsem celkem zvědav,
+ale to už není úplně můj úkol.
+A teď k té security,
+když to u té security,
+tak vyřešíte,
+ten výsledek je to,
+že se nic nestane.
+Což se strašně špatně dokáže.
+Jasně, jasně, jasně.
+To je takový absurdní to,
+možná jste viděli Kingsmany,
+tak on se tam lepil,
+že na zeď ty noviny,
+kde vlastně se nic nestalo.
+Jo, jo, jo.
+Když čemu nedošlo a dělaj to dobře.
+On sice zachránil atentát
+na Margaret Thatcherovou,
+ale v novinách bylo,
+že policajtí někoho chytli tamhle na radaru.
+Což je, tak u té bezpečnosti je to podobné.
+A to je přesně,
+si myslím, ta potíž,
+kterou já mám i mentální problém historický,
+já jsem v tom relativně dlouho.
+Protože vlastně ta bezpečnost
+je svým způsobem něco jako pojištění.
+Jak říkal Terry Pratchett, pojištěníc.
+To znamená,
+vy si platíte na tu bezpečnost nějaké peníze
+a za to dostanete,
+a to plnění dostanete,
+v jedném případě nestanete žádné plnění,
+protože všechno vlastně funguje správně.
+Ale ve skutečnosti,
+ten model té práce je úplně jiný.
+Vůbec nerozumím, jak to mý kolegové prodávají.
+To si říkám,
+jak tohle se to dostlačí do firmy,
+že když to budeme dělat dobře,
+tak o nás vůbec nevíte, že jsme něco udělali.
+Což by nevadilo, ale dejte nám za to velké peníze.
+To je ta komplikace,
+která tam je.
+A samozřejmě,
+jak se to špatně měří,
+tak se to taky špatně porovnává.
+To znamená,
+když se nic nestane,
+tak si ten manažer na druhé straně řekne,
+proč jsem tady sakradal takovýhle peníze do bezpečnosti.
+A vlastně nic za to nemám.
+No nemám,
+protože to třeba zafungovalo.
+A samozřejmě tam je i ten opačný extrém.
+My samozřejmě snažíme se tomu
+ze všech stran vyvarovat.
+A to je ten princip,
+že do toho
+najednou jste ten zákazník hodně
+a stejně se něco stane.
+I to se stává.
+A pak samozřejmě to nejen o té přípravě,
+ale i o té schopnosti,
+reagovat na tu konkrétní situaci
+a poradit si i v těch situacích,
+kdy to není tak úplně triviální.
+Takže ta bezpečnost je opravdu
+jiný obor než ta konkrétní věc.
+Takže na tu původní otázku,
+co bych si představil v roku 2024,
+aby líp tomu ty manažeři
+a ty lidi, kteří to kupují,
+aby tomu líp rozuměli.
+Aby rozuměli tomu,
+proč do toho dávají ty peníze,
+co za to dostanou.
+A samozřejmě taky, aby tím pádem
+líp dokázali rozlišit toho, kdo je ten šaman,
+který jenom tvrdí,
+že mám tu bezpečnost udělat,
+ale vlastně nemusí dělat nic.
+A spolíhá na to, že mu to projde.
+Od toho, kdo třeba té práce
+v tom směru udělá daleko víc.
+To je mi opravdu taková nutková myšlenka,
+jak ten security expert
+dostává ten dopamin.
+Když vy něco vyvinete, tak máte dobrý pocit,
+že to hotoví. A tady něco vyvinete
+a vlastně nevíš, jestli to je dobrý.
+Podle mě asi jako manažer ne.
+Když je dostatečně vysoký,
+když vymyslíte na nějaký dlouhodobý koncept,
+ten dopamin přijde za půl,
+tři stortě roku a když se to mezi tím nevysere,
+tak vlastně good enough
+a jedeme dál.
+Asi, nevím, předpokládám.
+Jako to myslíš, Ivo?
+To je dobrá otázka.
+To je ten pohled z hora.
+Ta manažerská,
+a když na to půjdeme z dola,
+tak samozřejmě ty lidi mají dobrý pocit z toho,
+že vyřeší ten malý, dílčí, konkrétní problém.
+Jakože ono,
+i univerzální,
+u nás je teď asi 75,
+takže už nejsme malá firma,
+takže my taky to nemáme jako všechno
+v jedné hromádce, ale jsou tam určité specializace.
+A možná i ty specializace
+trošku naznačí ty obory,
+kterými se ta bezpečnost ubírá.
+U nás konkrétně máme,
+to primární největší oddělení je oddělení SOCU,
+Security Operational Center,
+to znamená, to je to oddělení, kde se zbíhají všechny ty problémy.
+A pokud se objeví nějaká
+disproporce u
+zákazníka,
+tak v tu chvíli,
+oni reagují více méně okamžitě
+a začínají investigovat, hledat
+a zjišťovat ty konkrétní záležitosti.
+Má je takový ty velký obrazovky.
+V pohodě, máme se vždycky i o tak rozohdívilý poslouchat,
+že nám tady neustále bouchá do toho mikrofonu.
+To je prostě živej díl tohle.
+Takže
+vlastně
+to Security Operational Center
+je taková ta základní
+činnost, která tam je.
+Potom tam máme oddělení, které je to nejklasičtější,
+to jsou právě ty lidi, kteří umí stavit ty bezpečnostní systémy
+a vlastně servisují ty systémy
+pro zákazníky.
+Říkáme jim Security Expert
+z historických důvodů. A pak máme u nás
+dvě oddělení,
+jednočně řečeno, říkáme tomu
+defensivní a ofenzivní
+bezpečnost. Defenzivní
+je vlastně velmi podobná tomu SOCu,
+to je vlastně jenom metodická záležitost.
+A ofenzivní je potom
+otázka penetračních testů
+a dalších takovýchhle záležitostí.
+A vlastně
+i to trošku naznačuje ty obory,
+které jsou dané.
+A když bych popsal ty lidi,
+to je samozřejmě, že i ty lidi v těch oblastech
+jsou různí, je tam různá míra
+té týmové spolupráce, která je potřeba
+u toho SOCu je potřeba vysoká,
+třeba u těch penetračních testů,
+tam je většinou individuálnější
+záležitost, byť ty týmy spolupracují.
+A jako speciální součást,
+které jsem už trošku mluvil,
+tak je ta aplikační bezpečnost.
+To znamená vlastně mechanizmy,
+kontroly, kontroly kódů,
+security,
+security,
+jak je to, SAST,
+kontrola kódů a další záležitosti.
+A na začátku teda roku 2024,
+když se na to podíváš,
+co je aktuálně z tvýho pohledu
+jako největší hrozba,
+co se týče security?
+Nějakej trend nebo cokoliv?
+Něco, co ty vidíš a úplně ti stávají
+vlasy na hlavě?
+To, no,
+já myslím, že těch,
+jako těch hrozeb je právě daleko,
+je jich strašně hodně.
+A ještě se zesilují tou současnou situací
+vlastně tím velkým rozvojem
+té umělé inteligence,
+kdy vlastně my nikdo nedohlídneme
+na spodek té jámy,
+kam až to může vlastně dojít.
+Takže to je jedno z těch
+velkých problémů.
+Druhá věc je to, že jsme všichni
+více či méně závislí na tom IT,
+na té bezpečnosti
+a tak nějak automaticky bereme, že to funguje.
+A ono tak úplně automaticky,
+ale automaticky není,
+anebo některé problémy prostě nefungují.
+A z těch konkrétních hrozeb
+opravdu je toho hodně.
+Jsme závislí na věcech,
+o kterých nevíme,
+jak jsou postaveny vevnitř
+a ta bezpečnost se do nich často
+dodělává bokem,
+anebo neúplně šťastně
+a to není úplně ideální.
+No a pokud bych to měl mluvit
+za sekuritní manažery,
+nebo manažery, které mají
+vlastní sekurity,
+tak oni za největšině
+bezpečí určitě považují NIST 2,
+což je vlastně nový předpis,
+který začal platit,
+který zpřísňuje pro spoustu firm
+pravidla, jak se mají chovat
+v bezpečnosti a je to asi
+tak stejný boom, jako byl GDPR
+před pár lety. Je to opravdu
+ohromý předpis, ale já nejsem
+úplně kvalifikovaný.
+Ale vám se to týká, Poli, ne?
+Tohle z toho, jako z Polska banka,
+tam bych říkal, že to je první.
+Ne, takhle, tě už se to netýká,
+tě už se týká NIST 1. NIST 2 to jenom
+trošku zpřísňuje.
+Jakože rozšířuje množství firm, kterých se to týká.
+Jako teď, jako aspoň
+NUCIP, který je vlastně Narodní úřad pro
+kybernetickou bezpečnost,
+kybernetickou a informační bezpečnost, aby tam to i nebylo tvrdé,
+tak
+ten vlastně
+jako je garantem tady tohoto
+a furt jenom zvyšuje čísla
+počtu firm, kterých se to týká.
+6 tisíc, 7 tisíc firm v České republice.
+To bude muset splnit ty požadavky, ono to má
+různé kategorie.
+A to kritérium je jaký? Jako velikost firmy, nebo?
+Velikost firmy a komu dodávají.
+Když se dodávají do nějakých
+systémů, které jsou kritické z nějakého
+pohledu, tak vlastně tím se ten celý ten
+vlastně dodavatelský přítězec se musí
+jakoby verifikovat.
+Jak říkám, rozumím tomu
+okrajově, nejsem určitě znalec, máme pravdu
+na to, že je nějaké konzultační udělení, který se tomu
+věnuje, které k tomu jako dělá
+různé věci, jako různé
+přednášky, pomáhá s tím zákazníkům,
+ale
+tady trošku bude možná
+slyšet ta ironie, že ti manéři, kteří to považují za to nebezpečí.
+No já si právě říkám, jestli to
+vlastně, kde je to nebezpečí v tom, že
+se to špatně naimplementuje, nebo že se to bude
+obcházet? Ne, problém je v tom, že jako oni to považují za nebezpečí,
+protože do toho musí dát i peníze.
+Jo, jo, jo, takhle, rozumím, rozumím.
+Jakože pro ně je to nebezpečný právě to.
+Že to existuje vůbec. No jasně, že jim to,
+jakože jim tady někdo zase přidal nějakou povinnost.
+Ta potíže v tom, že samozřejmě
+ty zákazníci, který tu bezpečnost
+mají důležitou
+ve svém portfoliu, tak oni už
+jako do toho investovali a investují,
+ale teď se to dotýká daleko větší části
+firm a
+bojím se, bojím, že
+u spousty těch firm to skončí
+formálně. To znamená, všichni si očkrtnou
+splněli jsme to. Máme splněno. Jeho důležitější je mít
+splněno, než fakticky tu dát tu bezpečnost.
+A to je ten rozdíl, který
+vlastně
+je v tom
+vnímání
+té bezpečnosti mezi tím
+běžným světem a těmi odborníky,
+který nějakým způsobem o tom pracují.
+Další problém je to, že třeba každá
+takováhle organizace musí mít dva
+lidi, kteří jakoby
+musí, dva lidi, vlastně,
+musí přijmout dva lidi,
+architekta a manažera
+bezpečnosti. A to musí to být
+dva různě lidé dokonce.
+Jako fyzicky prostě. Fyzicky dva lidi. No a on může si
+je samozřejmě najmout a tak dál, ale jakoby musí to
+prostě, není to, ten požadavek
+není jako triviální, že očkrtám
+tamhle prostě 20 kolonek, ale musím se...
+Tě přijíždí za standovu, říkáš standovu, teďka seš,
+máš dvě nový role, gratuluju.
+No, jako dvě,
+dvě to nejde. Jasně.
+Jedna, musí být
+dva a
+těch lidí je prostě nedostatek.
+Když si věříme, to je 7 tisíc krát do dva, to je 15 tisíc
+a kde vezmete na trhu 15 tisíc lidí,
+kteří chtějí dělat sekuritu.
+Ale může to být nějaký freelancer, který to dělá
+pro víc firm? Určitě, to je jako by...
+Ano, ale pořád jako... Jasně, jasně.
+Dobře, ten se to snížil
+jeden řád, ale pořád je tohle.
+Ono, sekurita, i v tu chvíli
+a koneckonců možná taky můžu zmínit
+Korpus Solutions je generálním partnerem
+něčeho, co se jmenuje kybernetická...
+Jo.
+V poději to byla středoškolská soutěž kybernetické bezpečnosti,
+teď se to jmenuje trošku jinak,
+musím si vzpomenout, a
+vlastně to je zběrováno
+na střední školy, že vlastně se dělá soutěž
+pro středoškoláky. Letos se
+učastnilo 10 tisíc
+studentů. Jasně.
+Jako v prvním kole, to je takový jako náborový kolo,
+přes internet vyplní takový dotazník,
+potom postoupí do druhého kola, pak bude
+finále, a z toho finále se postaví
+tým český, jako národní tým
+pro evropskou soutěž. A co se tam řeší?
+Co tam dělají, jako prakticky?
+Jako jsou tam, tam, jako to první kolo
+je takové spíš jako orientační, tam jsou takové
+jako otázky, je to spíš jako postaveno tak,
+aby učitele vlastně na středních
+školách mohli té bezpečnosti se jmenovat
+trošku zábavnější formou, než jenom tím vyprávěním.
+Tam není
+zakázanou používat prostě Google
+a tak dále, to znamená, tam se ptají typu, co je to
+Pascal, jo, nebo je tam, jsou tam
+otázky nějaké na kryptografii
+základní, takové opravdu jako jednoduché
+testování, a vlastně z toho se
+vyselektuje několik set lidí,
+kteří postoupí do druhého kola, to bude tak začínat
+vlastně po novém roce,
+a tam ti už mají jakoby konkrétnější
+úkoly, dostanou prostě třeba za úkol
+já teď si vzpomenu na jeden,
+který tam byl, jako je to takový
+příběh, mini příběh, kdy
+našli jsme flešku, jako jsme policie,
+našli jsme flešku, a tady máte flešku,
+tady jsou vymazaný data, a zjistěte,
+protože je to drogovýho dýlera, kde má ten drogový
+dýler laboratoř, takže ten člověk
+musí si stáhnout tu flešku, nebo jako ten
+obraz z té flešky, a teď si prostě musí trošku
+už je to konkrétnější, matotelnější
+úkol, samozřejmě ty nejlepší.
+– Se zeptají kolegy, kde to kupuje, a podobně za ním.
+– No, no...
+– V střední škole.
+– Ne, to spíš tam to byl
+jako příběh, to byla ta otázka,
+ale jsou tam i různé
+jiné úkoly, samozřejmě jsou tam třeba
+kriptografie, jsou tam úkoly
+právě třeba z těch předpisů,
+nebo z těch souvislostí, a
+pomalinku se už u těch středoškoláků
+buduje ten pocit, jestli se třeba nechtějí
+pustit do kariéry právě těch sekuritních
+specialistů,
+protože jich je velký nedostatek,
+a koneckoncí u nás
+jedna z věcí, kterou do toho vkládáme,
+a nebo naopak, ono je to pro nás
+přínosem, že nabízíme těm lidem
+jako stáže, těm nejlepším,
+takže jsou u nás třeba na stážích
+v korpusu, ať si to třeba
+ošahají tu bezpečnost.
+Ono se zní to honostně, vypadá to velkolipě,
+ale zatím je spousta té rutinní práce,
+a takže ono je dobré, ať oni se
+přiblíží.
+Mluvil jsi vlastně o předpisech
+a o věcech, který jsou přídomy
+takový jako víc, který se dá jako naprocesovat,
+a vlastně já když se řekne sekurita,
+tak první mně prostě napadne nějaký hacking.
+Je to něco, co řešíte jako firma taky,
+nebo je to něco, je to jako specifický
+obor, který řeší specifický firmy,
+a vy třeba se toho tolik nedotýkáte?
+Tak jakoby
+hacking, ono slovo hacking vlastně
+prapůvodně
+není nic špatného, hacking je prostě
+způsob, kterým
+dokážu používat, nebo
+nestandardně používat nějaký systém,
+a v oblasti operations je to poměrně oblíbený sport.
+Já myslím, že první bylo cracking,
+že to bylo jako to negativní.
+To negativní by bylo cracking.
+Ono trošku ty slova samozřejmě se posouvají.
+A jak jsem zmiňoval,
+my máme to oddělení, to je ofenzivní
+bezpečností, a tam jsou lidi, kteří by se dali
+nazvat těmi hackery, takových těch kapucích.
+Všechno v konzoli
+samozřejmě zelený.
+Tak to mám i já, ale
+to jsou lidi, kteří
+opravdu se specializují na
+vyhledávání těch
+hrozeb a tak dále. Určitě takový jako nejvýšší
+úroveň, a to je možná další téma, který bych
+ještě potom zmínil, je to, že
+na té špice toho ledovce,
+ne ledovce, špice té pyramidy
+té bezpečnosti, na konci by mělo být
+nějaké otestování a takovéhle záležitosti.
+A pořádají se cvičení
+třeba u zákazníků,
+že opravdu se udělá tým
+červených útočníků,
+tým modrých bránících
+a prostě
+ty útočníci útočejí jako
+v simulovaném prostě jí útočí a ty moci se
+učí bránit. Sám jsem takové školení
+absolvoval před pár lety a bylo to
+jako fyzické školení, jako že opravdu jsme seděli
+prostě v nějaký budově
+a bylo to tam jako kompletně připravené,
+dokonce tam byly i nějaké jako hardwareové součástky
+typu motor a takovýhle, že prostě
+tam jsem rozřval ten motor, že prostě útočníci
+zautočili na ten motor a začali s ním manipulovat.
+Takže i pod tím fyzickým tlakem
+byl to určitě
+jako zajímavý zážitek
+poradit si vlastně jakoby v té reální situaci.
+Ono je jedna věc, jako si říkáte,
+zvládnu to, ale druhá věc je pod tím tlakem
+ty situace se rozhodovat, jestli ten útočník
+třeba tam se šlo výkupné,
+jestli ten útočník
+má na to, že on říká, dejte výkupné.
+A bylo to
+na takové úrovni
+ten útok, jestli to výkupné zaplatit
+anebo ve skutečnosti jenom
+blafuje a prostě jeho sice něco udělal,
+ale vlastně to nebezpečí pro tu organizaci není.
+A to rozhodování, tam potom se to posovalo
+nějaký vzájemný bílý tým, to jsou právě ty menežeři
+a teď se to prostě celý trénuje, aby to fungovalo
+v takových úplně úplných věcech. To je už jako
+ten high level,
+ale je to určitě jako zajímavý
+zážitek a tam teda v tom případě
+to je, kdy potřebujete, že jo?
+Aby hláli tu roli toho červeného týmu.
+Takže si říkám, že tohle může být
+jako velmi komplikovaný pro firmu jako s tebě,
+protože v tom globálním světě
+se vždycky najde nějaký tým někde buhví kde,
+který vymyslí nějakou novou,
+nějaký novej prostup.
+Nebo takhle ten svět dneska není narámovaný?
+Ono, bohužel ta sekurita
+z hlediska těch útoků
+se dal zlišit na dvě části.
+Jedna ta část je
+taková ta
+mainstreamová bezpečnost, nebo ty
+mainstreamový útočníci,
+kteří, jak jsem říkal, taky ve kterým případě
+takový ty skrypky dým.
+Naprostá většina útoků, který my řešíme,
+jsou jako... Znuděný středoškoláci, ne?
+Ne, to ne, to já nevím, kdo je na druhé straně
+a nemyslím si, že by byly znuděný středoškoláci,
+ale technologická úroveň těch
+je prostě takové ty
+masivní DDoS útoky,
+nebo relativně jednoduché,
+triviální hrozby, jako žádné sofistikované útoky.
+Což je ta,
+a proti tomu se brání,
+na to jsou nějaké postupy,
+ale taky samozřejmě se to zlepšuje.
+A druhá, ta nebezpečnější část,
+která se ale dlouho už identifikuje,
+to je to, že se nějaká hekerská skupina zaměří
+na konkrétní organizaci,
+konkrétního člověka,
+kde je to prostě individuální
+a to se proti tomu se bránit dá velmi těžce.
+Systemově téměř ne,
+spíš jako tou edukací,
+tou schopností těch lidí to dělat.
+Takže to je ten klíč,
+který rozlišuje ty věci.
+Takže to druhé,
+ačkoliv to vypadá velkulepějc,
+tak se používá, nebo je vidět daleko méně.
+A co takový ty sociální útoky?
+Protože slyšel jsem několik příběhů
+o tom, kolik firma nainvestovala
+100 milionů do security zabezpečení zvenku,
+jenomže pak se to ohékovalo
+v úzovkách tím,
+že tady Tonda znal Marušku,
+Maruška znala Petru z recepce,
+ta otevřela dveře, protože ji přinesla kafe
+a člověk odcházel s třema notebookama
+plných informací v podpaží
+s tředem firmy, nikdo si toho nevšiml,
+protože měl na sobě montérky
+a celý zabezpečení bylo pryč.
+Řešíte i tenhle level?
+Přímo úplně ne,
+já si myslím, že to spouští s fyzickou bezpečností,
+ale ty rizika, která z toho plynou,
+tak samozřejmě ty identifikujeme
+a někdy se na ně nějakým způsobem
+zaměřujeme taky, nebo ty technologie
+pomáhají tomu,
+aby to fungovalo, že bychom to přímo dělali
+ve smyslu, že bychom aktivně
+v téhle věci osahli, to spíš dělají bezpečnostní firmy
+a my s nimi kooperujeme v té IT části.
+Ale jako
+sociální čerství už konec konců potom
+není ani tak jako IT, je to o psychologii
+a dalších efektech a myslím si,
+že tam právě
+to souvisí právě
+s tou druhou částí, s těmi útočníky,
+kteří se zaměřují na konkrétní
+situaci.
+Co jsme jako
+dělali, bylo to právě v formu cvištění
+pro jednoho zákazníka, tak jsme dělali to,
+že vlastně jednoduchý příběh,
+byl stát a to je to, že se
+poslala člověku fleška,
+jakože děkujeme vám za účast
+na konferenci a tady máte
+flešku s prezentacema.
+A ta fleška byla upravená tak, že vlastně dokázala
+takzvaný
+rabrdaky, je to vlastně fleška,
+která se chová jako fleška a zároveň jako klávesnice.
+Takže v okamžiku, když se strčí do toho počítače,
+tak ona naklepe na klávesnici
+Windows Air, napíše tam
+nějaký kód a vlastně spustí
+vám na pozadí program. Ono tam problikne, ale ten člověk
+to pečo, on si nevšimne.
+No a v tu chvíli se vlastně došlo k napadení
+vlastně jakoby té sítě
+a v tu chvíli vlastně se
+kontrolovaly ty mechanizmy,
+že vlastně opravdu všichni
+zareagují v takovéhle situaci správně.
+A to je třeba v podstatě takové sociální žendrství,
+takže jako ta způsob, jak se to tam dostalo.
+Já znám tvůj názor
+obecně na to, že vlastně security je de facto
+funkční požadavek a nelze to oddělovat
+od, když se bavíme o softverem vývoji,
+od toho softveru jako takovýho.
+Na druhou stranu, úplně upřímně,
+a to říkám jako člověk, který prostě roky programuje,
+většina programátorů
+vlastně tu security znalost
+úplně jako už nedává
+kombinovat s tím jako hardcore programováním.
+Je to vždycky security pro programátory bylo,
+dobře, musím si dát pozor na SQL injection,
+použiju tuhle knihovnu,
+ale že bych to extra brutálně
+moc řešil,
+nikdy to tak jako vlastně nebylo.
+Pokud nebyl člověk, který je vyložen na tu security
+zaměřenej. Jak tohle
+s toho v softverovém vývoji vlastně jako řešit
+a i jak tu security
+u softverového vývoje
+prodat, aby to byl
+vlastně funkční požadavek, aby to nebyl
+non-functional requirement, jako to vždycky bývá.
+No, to je jako,
+já jsem dlouhodobý bojovník tady
+za to, aby
+bezpečnostní požadavky byly funkční.
+Když to přeženou, tak v podstatě i
+zákon o kybernetické bezpečnosti
+mě v tom podporuje, protože u těch kritických
+systémů vyžaduje security by design.
+A to je podle mě ta odpověď.
+To není, jako samozřejmě
+u těch programátorů, kteří opravdu
+programují, kteří kódují,
+to v podstatě stačí, jakoby ve smyslu
+toho, že
+používají na své úrovně ty konkrétní věci.
+Ten záměr je směrem k těm
+designérům, těm architektům, kteří ty systémy
+navrhují, aby
+tu bezpečnost
+dávali do toho jádra toho systému.
+Aby prostě neříkali, a stalo se mi to,
+že
+někdo vzal systém
+a představila taková, že teď my jsme tady to vyvinuli,
+ten systém, jak se nám to hodilo,
+tak přijde jako kouzelný
+security kouzelník a nasype
+do toho kouzelný prášek, on bude potom bezpečný.
+Takhle to prostě nejde, nikde to takhle nefungovalo.
+Ale ti lidi to mají takhle zažité, že to takhle
+má být, protože je to ten nefunkční požadověk.
+Jak se řeší nefunkční požadovky,
+tak tohle to většinou bývá.
+A to si myslím, že je právě
+ten problém
+v tom, že těch architektů
+a těch lidí, kteří navrhují ty systémy,
+tak oni nemají ten security background.
+Tam je to chyba.
+U těch programátorů edukujeme
+ty programátory, říkáme jim, jak to mají dělat,
+ukazujeme jim ty chyby, tam je tam část
+toho kode review a další věci,
+na kterých se to učí.
+Někdy je to složitý těm programátorům vysvětlit,
+že my nejsme tí nepřátelé, že hledáme chyby
+v jejich kódu a kritizujeme, ale našim
+cílem, když to dobře
+vyjde, tak je pochopit,
+že oni pochopí, že jim chceme pomoct,
+že my upozorujeme
+na věci, které jsou chybný
+a na druhé straně
+jsou
+ty věci,
+je to prostě
+poučí, je to prostě nedávno, příště tohle udělají.
+A to je i pro nás úspěch
+té práce u těch programátorů,
+ale u těch architektů a těch designerů tam je to
+složitější, protože tam ta bezpečnost
+se musí dávat právě do té designové části.
+Jakože když už někdo přemýšlí na tím,
+jako automaticky, když vymyšlím
+propojení dvou systémů, dělám nějakou integraci,
+tak hnedka bych se měl ten architekt zeptat,
+jak to zabezpečím.
+Jak si zajistím to, že z toho bodu A
+do toho bodu B
+mi to dojde dostatečně bezpečně,
+že budu mít jistotu, že opravdu to
+zafunguje.
+Ale to v tom světě, že jo, teďka, když
+největší populární trend stále mikroservisy,
+kde ty věci jsou de facto malý systémy,
+které se furt převolávají,
+tak tam už ve chvíli, kdy to rozdělím,
+tak už bych na tohle měl teda myslet správně.
+No, jasně. Každá mikroservisa
+by měla mít
+nejenom tu část
+jako funkční, ale měla by mít
+krátkou informaci o tom, jak je zabezpečená.
+Samozřejmě mikroservisy
+jsou různé. Když jsou to
+takové úplně veřejné mikroservisy, tak je to
+trošku složitější, ale pokud
+a tak to bývá často, mám mikroservisy
+jako součástí své vlastní architektury,
+tak samozřejmě můžu mít
+trošku nějaká vlastní
+pravidla, nebo si na tom si pravím nějaký
+framework nebo nějaký
+pattern, kterým prostě to dělám
+v rámci té organizace a to je samozřejmě potom trošku
+jako snažší. V tom smyslu, že
+ale jde o to, aby ty mikroservisy používaly
+ty paterny a samozřejmě pod tlakem
+toho vývoje té aplikace, kdy termíny jsou
+krátké, práce spousta, chce třeba
+nakodovat, že se potom jakoby to
+řekne, no to se vyřeší potom. A to je
+podle mě jako ten problém, že
+potom se to už nevyřeší,
+nikdo si toho nevšimne
+a na konci se vám tam dostane ten
+útočník právě tím, že nějaká
+služba je nezabezpečená. A navíc teďka
+ty nové technologie, řekněme
+cloudové, nebo jako, nemyslím přímo cloud,
+ale myslím třeba technologie jako
+Kubernetes a podobné záležitosti,
+které vlastně tvoří jakoby cloud,
+nebo jen se jako cloud, tak ty
+technologie jsou vnitřně stavěny velmi
+bezpečně, jako velmi
+otevřeně a právě
+tam je potom potřeba změny
+toho patternu, jak se jí
+bezpečnostně k takovýmhle technologiím chovat.
+Prostě jeden z prvních úkolů, a to platí
+jak pro
+definování systému, když se jako
+architekt kreslím systém, tak
+bych si měl definovat, co je uvnitř toho systému
+a co je vně systému, takový use case diagram
+nebo něco takového, abych si řekl, co ten systém má dělat
+a co nemá dělat, to je důležitá informace.
+A úplně stejně bych si měl definovat
+jakoby aspoň rámcově,
+když dělám ten úplně rámcový návrh,
+tak co je bezpečné
+v tom systému a co v tom systému bezpečné není.
+Což nahrává teda
+klaudový prostředí jako takový, jak to vnímáš?
+Máš pocit, že za prvý
+se ta vaše aktivita
+kolem bezpečnosti změnila
+a je to spíš horší, lepší?
+Jakože klaud má nějaký zabezpečovací
+mechanizmy, který by z mýho pohledu
+tomu mohli pomoct? Je tomu tak nebo ne?
+Jako takhle, ono slovo
+klaud je strašně
+všeobjímající a schývá se
+pod tím spousta přístupů a pohledů.
+Za klaud považujeme, nebo většina
+meřejnost považuje za klaud to, že si může uložit
+dálhle fotky na rajče,
+a to taky berou za klaud.
+To je ale specifická záležitost.
+Pokud se bavíme
+o klaudu typu
+software
+as a service, tak tam je to hodně
+na tom
+dodavateli té technologie
+a mám
+pár zkušeností, kdy jsem
+dostal za úkol bezpečně
+zabezpečit
+software as a service aplikaci
+a bylo to tristní, protože
+ti dodavatelé nebyli
+nad tím vůbec neuvažovali.
+Prostě jako i oni, i ty velcí dodavatelé
+a velký světový firmy, který nabízají software as a service
+nepřemýšlejí nad tím, že to
+řešení má být bezpečné a že ten zákazník
+může vyžadovat určitou míru bezpečnosti.
+Například
+tam byl velký problém s logováním.
+Oni prostě jak měli ten software as a service
+pro jich zákazníku, tak ty logy sypaly na jednu hromadu
+a ten konkrétní zákaz vznikal.
+No počkejte, já chci jenom svoje logy.
+Ty svoje logy, já chci, abyste mi je tlačili.
+No to nejde.
+My to máme tady v předpisech podle
+kybernetického zákona, že prostě logy nám musíte
+dodávat a tak to je.
+Řešilo se to roky a skončilo se to.
+Já vlastně ani nevím jak, protože pak už jsem
+do projektu nebyl, ale řešilo
+jako, podle mě oni museli
+změnit tu architekturu, to systém
+možná na té nejvýšší úrovni, aby tohle byly schopní.
+Ale přitom stačilo málo. Stačilo, kdyby se,
+když ten systém, software a service navrhovali,
+aby se poradili s nějakým bezpečákem,
+který zná tu praktickou
+stránku té věci,
+jak ty organizace fungují,
+co vlastně můžou
+po té bezpečnostní rovině vyžadovat a pak to bylo takhle.
+To je taky specifický příklad.
+A ten nejšastější případ, kdy používáme
+ten cloud jako platform as a service,
+nebo spíš
+infrastructure as a service,
+to znamená, vlastně používáme z toho
+systému,
+jako virtualizaci
+a ten výpočetní výkon
+a tam si myslím, že to
+právě, tam je to jiné
+než v té bezpečnosti.
+A i ty bezpečáci si to dneska tolik neuvědomují,
+oni na to nejsou zvyklí.
+Takže se to všichni postupně učí.
+Na druhou stranu, ty technologie,
+které ty cloudy v sobě, nebo ty cloudové
+technologie, třeba ten Kubernetes,
+když jsem ho tady změnil, mají, nebo jsou
+na nich možné doplnit, tak jsou relativně chytře vymyšlené,
+ale musí se používat
+a musí se používat určitým
+správným způsobem,
+což je
+nejednoduché a je to prostě jiné.
+Možná tady příležitost pro mě, že právě
+já vždycky to říkám, že jak jsem dělal
+všechny ty oblasti, takže mluvím jazykem všech těch kmenů,
+tak možná já můžu být ten překladatel, který to
+devopsu bude překládat
+do té security a naopak.
+Jak o tom mluvíš a já nad tím přemýšlím,
+tak jsem si vlastně uvedomil
+tu architektonickou změnu, která nastala
+s GDPR, kde do té doby jsme vlastně
+nepřemýšleli na nějakou jako třeba segregací
+uživatelských dát nebo nějakých osobních dát
+a teď už vlastně, když
+to má splňovat GDPR,
+tak vlastně ti ovlivňuje i ten systém to,
+kde co ukládáš, jak to ukládáš, jak je to
+anonimizovaný a tak dále.
+Jak tohle teda províst,
+tuhle, co tu řekněme, další revoluci,
+z hlediska toho security,
+jak to do těch architektů teda natlačit.
+Mají chodit k vám na školení,
+nebo mají se něco
+doučit, nebo mají sledovat
+nějaké zdroje. Jakoby to
+dohodat v té security, protože tam pořád
+vidím, i z toho, co ty říkáš, i z toho,
+co vidím kolem sebe, že ano,
+kolikrát se spolehneme na cloud vendora,
+který to zabezpečí,
+ale takový to až do kosti prožraný,
+teď budu myslet jedním
+dechem, jak na to, aby ten systém byl
+výkonej, aby škáloval,
+aby prostě fungovaly
+failovery a zároveň, aby prostě byl
+GDPR compliant a ještě bezpečnej,
+tak dá se to už v jedné osobě
+jako vůbec dát dohromady?
+Jak to teda dohnat takovej?
+Jako, no,
+nedá. Nedá se to udělat
+jako v jedné osobě a
+to je problém právě toho,
+je to právě problém té komunikace.
+Že vůbec jakoby to vysvětlování
+jakoby těm, který to zastřešují,
+těch, kteří to platějí, nebo který vlastně
+způsobí ty financovat těm manažerům, ty manažeři
+musí být ti, kteří jakoby řeknou
+no ne, neuděláš si to sám, uděláš to prostě tady
+s tím bezpečákem, abyste se spolu nějakým způsobem
+domluvili. A ta edukace
+se nedá dělat jakoby na povel.
+Já jsem to někde zmiňoval
+a možná trošku
+je to pořád ten problém.
+Když jsme se bavili o těch programátorech,
+tak jako jedna z věcí, kterou my po těch programátorech
+chceme, aby programovali defenzivně.
+To znamená, aby programovali tak, aby to fungovalo
+bezpečným způsobem,
+nebo prostě, aby ten kód byl napsaný tak, že
+radši nebude
+stoprocentně výkon, nebo
+megavýkonný a megadokonalý,
+ale bude i v sobě mít ty rysy té bezpečnosti.
+A přemýšlel jsem nad tím,
+jak to učit a zjistil jsem prostě, že nevím,
+jak bych to vysvětlil. A to si myslím, že
+relativně v obou těch oborech mám základ.
+Jak bych těm lidem vysvětloval, prostě
+ošacujte výjimky,
+správně logujte,
+nezapomínejte,
+jakoby
+kontrolovat,
+ty mezní stavy a to všechno.
+A to je něco, co
+prostě se nedá,
+že bych si řekl, tak já tady mám dvoudenní školení,
+kde prostě vyškolím ty lidi, tak to neumím.
+Bohužel to asi bude potřeba dělat
+postupnou prací, jak u těch programátorů,
+tak u těch
+architektů a u těch manéžerů,
+tam už o tom vůbec nemluvím.
+U těch programátorů je takovýhle o kontentu tuna.
+Článku, jak mám handlovat výjimky,
+ošetřovat mezní stavy. To si myslím, že už
+co se týče množství materiálu, že to je vyřešený.
+Ale buď je to nějaká moje lokální
+slepota, omluvám se pod sluchačům, klidně to tak může být,
+ale mám pocit, že na tom
+architektonickém levelu, že by
+každý den vycházel nějaký blogpost o tom,
+jak to nastavit tak, aby to bylo security compliant,
+aby jsme si dávali na nějaké
+věci pozor, o kterých mluví Ivo,
+tak mně přijde, že toho,
+že vlastně není ani jako poptávka o těch architektů
+z toho trhu, že to ostatní nepíšou,
+to ostatní to nečtou.
+Tam je ten klíč, jak jsem říkal,
+jak se to stalo v tom úhradním projektu, v tom úhradním projektu byl
+architekt a pak jsem tam byl
+já jako ten security specialista,
+architekt, ale
+to je právě,
+v tom je ten problém,
+já bych měl být méně tím security architektem
+a víc být tím
+high tech poradcem těch
+protispecifické situace a ten základ
+by měl zvládnout ten architekt.
+Ty architekti toho mají dost
+a málo který z nich
+opravdu má takovou
+velký security background,
+aby to automaticky zvládnul.
+Tam ta snaha
+musí být z té jejich strany
+a konec konců, jako já jsem říkal,
+správně by to mělo být nakonec tak, že já bych tam neměl být
+vůbec v tom projektu.
+Tu práci, 80%
+té mé práce má dělat
+ten architekt jako sám o sobě,
+to zná prostě, když popisuje rozhraní,
+tak ho automaticky popsat s těmi
+interfejsy a pouze na některé ty špeky,
+které samozřejmě už prostě jsou typu
+kryptografiek, typu nějakých
+speciálních nastavení, nebo třeba audit,
+nebo nějaká oponentura,
+tak to je v pořádku, tam to je v pohodě,
+protože samozřejmě ten securityák to vidí
+zase jinak.
+Jinak prostě z jiného pohledu.
+Já jsem si toho na tom posledním,
+na tom jsme byli společně, ale na tom předchozím
+od J-Open jsem dělal legraci taky trošku
+v nějaký přednášce.
+No a ještě si říkám, že v podstatě
+jednak by to mělo být trošku propsan do kultury
+té firmy, aby se vlastně umožnili,
+protože mi to přijde trošku jako čištění zubů,
+nebo možná mezi zubním kartáčkem,
+protože ne každý den to uděláš, víš, že bys to měl,
+ale už to nedoděláš, protože se ti nechce třeba.
+A pak zase ty velký firmy,
+mám pocit, nevím, jak to vidíš ty, Ivo,
+že já jsem měl pocit, že ty velký firmy,
+v podstatě každý ten vývojář je tam
+jako na to nastavený, a ne, že by nebyl,
+ale je to nakonec tak, že tam máš zase
+nějaký security oddělení, kterým to vlastně
+projde, ten kód, nebo projde tím ta
+pipeline, aby si byla ta firma jistá,
+že to je prostě secure.
+Takže myslím si, že takhle to řeší ty firmy, který
+opravdu tu bezpečnost musí řešit zásadněji.
+To je bohužel jako,
+tady jako, tenhle přístup
+jako v zásadě může fungovat,
+ale vychází z toho jednoho předpokladu,
+že ty lidi v tým security oddělení jsou lepší programátoři
+než ty normální.
+To je jako, to je jako,
+jinými slovy, že najdou ještě lépe ty chyby,
+jako než ty
+core vývojáři, což úplně realisticky
+nefunguje. Proto je to potřeba
+právě koordinovat, jako
+koordinovat, ty lidi dávat dohromady,
+aby spolu mluvili, aby prostě nebyli ve situaci,
+že jeden,
+jako, že jeden
+dělá tu svoji práci a druhý
+udělá to, že
+potom doplní do toho
+tu security. Tak to není,
+je to prostě o tom, aby spolu mluvili,
+aby spolu nějakým způsobem fungovali
+a to si myslím, že je právě možná důležitější
+než to, že
+to projde těmi nástroji. Ty nástroji
+jsou vždycky limitované prostě nějakými možnostmi,
+nějakými paterny a
+ten člověk to neudělá.
+Určitě třeba existují
+mechanizmy, které jako
+bezpečáci vymysleli, říká se tomu
+třeba threat modeling, to znamená
+modelování vdoků
+a dá se to pojmout
+jako taková hra, že se prostě sejde
+ten vývojářský tým, jako na
+třeba jeden den,
+který tomu věnují
+a sehrají si hru,
+jak bychom si hekli vlastní systém.
+A ten security architekt
+to jakoby moderuje a vlastně dělá si
+z toho ty poznámky.
+Jak bychom si mohli heknout ten vlastní systém, který my víme.
+I jako s tou interní znalostí,
+že víme. Ano, i s tou interní znalostí,
+pochopitelně, protože jako samozřejmě útoky
+jsou vnitřní, ale tak jako my nemůžeme
+předvídat, kolik toho ten hekler zjistí.
+Jasně. Ale tam nejde o to,
+tam nejde o to vůbec jako uvědomit si,
+kde ty nebezpečí jsou v tom systému,
+kde jsou ta slabá místa a to pomůže
+těm lidem jakoby, jednak pochopit
+líp, jak ten systém celý funguje.
+Jako myslím třeba i těm vývojářům.
+A pokud se to udělá dobře, tak by to mohlo fungovat
+jako taková hra, že to vlastně není,
+že to nemusí být nějakého otravného, jako sekurita,
+že o sekuritní školení není zrovna něco,
+co by lidi vyhledávali,
+protože většinou je to vlastně spousta předpisů,
+čísel, kódů a divných požadavků
+a není to takové zajímavé.
+A tohle zajímavé je, pojďte si hacknout ten vlastní systém,
+když jsme si ho tady postavili, tak si ho pojďme to.
+A to je nějaká metodika, potom z toho vznikají
+nějaké diagramy, s kterými se potom dál pracuje.
+To je super, to se mi líbí.
+To bychom je mohli udělat.
+Úplně tím větším, že to zorganizuju
+nad nějakým naším starším systémem.
+Je to ještě trošku složitější v té projektovce.
+Ty bys to měl dělat pro každého klienta zvlášť.
+Ideálně jako s těma klientama.
+Naštěstí, když děláš pro fintech,
+tak oni na svý straně, ty banky mají lidi,
+který se na to ptají hned v druhé větě.
+Možná ještě na konci té první věty
+to security zmíní.
+Tam je to víc easy,
+protože nechtěj seš do toho tlačený
+z té druhé strany,
+protože pro ně je to denní chlé,
+pokud děláš pro fintech.
+Ale jsou zákazníci, který to vlastně neřešejí.
+Spolíhají na tebe, že ty to za ně vyřešíš.
+A tam je pak otázka,
+jak ty jsi vlastně poctivej
+a řádný zprávce a dodavatel.
+A tam je samozřejmě potřeba
+bejt okrok napřed.
+Jak vlastně v tomhle ctom
+může být člověk okrok napřed?
+Co máš sledovat?
+Co sleduješ ty denně za nějaké zdroje?
+Předpokládám, že je málo.
+Málo?
+No, člověk to nestíhá.
+Ono být napřed...
+Tím, že já neřeším
+ty konkrétní problémy ve smyslu rutiny.
+Samozřejmě u nás jsou lidi,
+kteří pečlivě sledují,
+co se kde šustne, kde jaký útok.
+Ale ty principy jsou v podstatě
+pořád podobné nebo stejné.
+A tam se...
+Ta myšlenka,
+že někdo přijde s nějakým zásadním objevem,
+že prostě bezpečnost se má dělat
+jinak, je nepravděpodobná.
+Že se má dělat principiálně jinak.
+To, že samozřejmě v tomhle operačním systému
+je takováhle bota,
+nebo že je takovéhle nebezpečí,
+to samozřejmě je běžné,
+ale z hlediska...
+Z hlediska...
+Jakoby té architektury,
+té logiky, ty věci, tak jako tam není
+nějaký dynamický posun.
+Samozřejmě lidé to třeba dokážou lépe popsat,
+lépe vysvětlit, najdou lepší modely,
+ale...
+Na rozdíl od těch...
+Ryze technologických věcí, třeba i u toho vývoje,
+tak u té sekurity se to hůř vysvětluje.
+Ono to souvisí právě s tím dopadem.
+Jakože člověk musí mít
+velký cit pro ten
+dopad, co znamená to,
+že když to tady úzovká bezpečnostně
+ošidím, a to je
+těžké. To je to těžké, protože
+jak jsme se bavili úplně na začátku, tak jsme si povídali
+o tom, že vlastně ta bezpečnost se špatně měří.
+No, jasně. Takže ono potom jako...
+Ono ve spoustě případů, když to budu jako ten zlej
+programátor, který na tu bezpečnost
+nereflektují tak, jak by měl,
+tak
+tam je
+potom
+problém, že
+se to často nezjistí.
+Jakože nikdo na to prostě nepřijde. A ta představa, že přijde
+sekuritní člověk
+a ten prostě se podělá toho kodu a pichne tím prstem
+tady a řekne, tady je ta chyba,
+je málo pravděpodobné.
+Nebo nemožné.
+To jsem na přemýšlím, jakože vlastně ten
+svět je úplně otočený. Představ si takovou
+fuck up night.
+Teď vám povíme, jak jsme to tady podělali.
+Vlastně ta firma přišla o miliony.
+O tom se blbě prezentuje
+v tom reálném čase, jako možná někdy
+s nějakou anonimizací.
+Ale vlastně je to
+složitý i vlastně s těma článkama
+a všeobecně s tím kontentem.
+Ale předpokládám, že je něco takového.
+Tak po smortem vycházejí furt nějaké, když se někde něco...
+Ale to většinou bývají takové ty infrastrukturní,
+že jsme o milion smazali na GitHubu jako produkci
+a tak dále.
+No tak už s toho po smortem
+znamená, že už jako
+není co řešit.
+Možná ty, když to přeženu,
+tak už jsou ty lidi mrtví.
+Ale samozřejmě
+je to tak.
+Jedna věc a druhá věc,
+ten jazyk není prostě
+univerzální v tom slova smyslu.
+Že se bojím, že neexistují
+ty univerzální
+správná slova, aby to všichni pochopili.
+Že ten přístup k tomu konkrétnímu
+zákazníkovi určuje ten slovník,
+určuje ten způsob té komunikace,
+určuje taky ty hrozby,
+jak to funguje. Třeba v tom projektu,
+o kterém jsem tady mírně mluvil,
+tam aspoň plusem bylo to, že jsem tam byl
+jako ten sekuriťák v rámci toho projektu.
+Že vůbec někoho napadlo,
+že tam vyhradí jedno místo
+v třicetičleným týmu
+tomu sekuriťákovi.
+To bylo už celkem podle mě velký posun,
+že si už někdo řekl, že to je potřeba,
+byť tam to bylo trošku i těmi předpisy,
+že to tak být musí.
+Ale jde o to,
+že právě
+ten návrh
+toho řešení je ten klíč,
+podle mě k tomu, a ten je vždycky specifický.
+Ten odpovídá té doméně tomu zákazníku
+a ten zákazník si neumí představit,
+co to je SQL injection,
+který asi tady všichni známe.
+To je pro ně nepředstavitelné,
+jako ten faktický zákazník.
+Musí vysvětlit, jaký to má dopady,
+co to znamená, jaké tam mu hrozí nebezpečí.
+A to je velký posun.
+A třeba ty hrozby se posouvají
+a myslím si,
+že právě existuje taková
+organizace, jmená se OVASP,
+dám tu zkratku asi.
+Zdvojitým V.
+Dokonce má i českou
+nějakou sekci a pořádají pravidelně setkání,
+takže určitě tam by byli ještě kvalifikovaní
+než já. A oni vydávají top 10
+největších programátorských
+v různých oblastech,
+nejtěžší je v těch webových aplikacích.
+A hlavně se to mění a v letech se to mění.
+Takže ta poslední teďka třeba, když jsi byla jednička
+Injection,
+nebo jakákoliv jiná Injection.
+A dneska první věc je
+špatná autorizace
+nebo špatné zabezpečení vstupu.
+Takže to pořádí se postupně posouvání,
+to mění, předpokládám, že se vydají zase
+za pár let novou a zase bude vypadat
+trošku jinak. A to je ta věc.
+A tady možná...
+Injection dneska už není velký problém,
+stává se, třeba když děláme
+ty testy, spíše výjimečně,
+ale, protože jsou na to
+ty knihovny, protože se to prostě...
+Takže tohle téma se vyřešil, ale nebyla to
+otázka toho, že by někdo
+tím tady všichni máte najednou vyřešenou, ale
+trvalo pár let, než se to ty lidi
+naučili ty knihovny používat, než prostě
+a najednou se to nestává, nebo nestává se to
+tolik. Já jenom jsem chtěl takový pohled z druhého
+břehu, protože vždycky na každý konferenci
+je třeba vždycky nějaká přednáška
+o bezpečnosti, typicky
+takový all-time classics, O-out
+2.0, O-out 2.1, jak to používat.
+Ale všichni ty vývojáři
+a vlastně i ty články
+poslední dobou, co čtu o tomhle,
+tak končí tím, že by ta
+sekurita, aby mohla, že by měla být
+jakoby jednodušší. Já nevím, jak to správně vysvětlit,
+ale ty, když řeš na tu přednášku,
+on ti to hodinu vysvětlí, jak to funguje, fungují
+tokeny, klejmy, prostě všechno.
+OK, ale
+podle mě, aby se to
+masově šířilo správným způsobem,
+tak by to mělo být jednoduše
+aplikovatelný. A třeba aktuálně s
+autem, OpenID a všechny
+ty věci, už jenom když do toho
+zabředneš a začneš si to číst
+a číst a číst, tak není to
+nic, co by si vzal
+vývojáře nebo juniora,
+který by to dokázal udělat správně.
+Protože prostě mu to nejde
+ten obor na ruku.
+Není třeba tohle, jako zase otázka na Iva,
+není tohle cesta, jak tu
+sekuritu udělat, vlastně
+dostat těm lidem pod kůži, že to vlastně
+bude jednodušší, nebo může být
+vlastně sekurity možná jednoduchá?
+Není to proti sobě ten můj požadavek, aby
+sekurita byla jednoduchá?
+Sekurita může být jednodušší.
+Příklad SQL injection.
+Prostě dneska už to je jednoduché.
+Ano, když použiju správnou knihu, no je to vyřešený.
+A dokonce není jedna, je jich spousta.
+A v každém jazyce je to trošku
+jinak, ale vždycky to jakoby tam prapodstata
+toho problému se jakoby z velké části
+vytratí a funguje to tak.
+A takže může to být jednodušší,
+ale ty komponenty chvilku trvají,
+aby se vyvinuli, protože oni zase musí být obecné.
+To znamená, je to
+určitý posun
+a určitý kompromis
+v tom čase, že ten vývoj trvá.
+A samozřejmě opět je to
+trošku složité
+to
+utilizovat, kdyby se to mělo udělat nějakým způsobem
+obecně. To znamená, že by si někdo řekl, já vyrobím
+super automatizační komponentu
+a přijdu s ní na trh
+a vydělám na tom
+vydělám si na tom
+biznis, tak to bude strašně
+složité v tom slova smyslu, že
+nebude velká ochota to platit.
+Jakože
+to je vůbec otázka té security,
+je to, kdo si někdo ji zaplatí.
+Je to zákazník to,
+že my tomu zákazníkovi, když
+se nabízí nějaký vývoj,
+tak se spočítají ty funkční náklady, pak se tam
+přinásobí nějaká konstanta,
+která to trošku doplní tu věc
+a někde v té konstante je schovaná ta security.
+A to je právě ono,
+že ta security je schovaná někde v nějaké násobící konstantě
+a samozřejmě pro ty manažery
+případně nouze je to to místo, kde můžou
+ty náklady snižovat.
+Protože tam je to jenom
+o tom riziku.
+Když tomu zákazníkovi pomůžeme
+brechtit systém na to, aby
+oral pole a on orat pole nebude,
+tak to mě to nezaplatí.
+Ale jestli tam budu mít
+prostě při ty, který budou lítat kolem
+a budu jenom se modlit v to, aby nikoho netrefili,
+tak ano, je to riziko
+a ty manažery se
+s tím rizikem pracovat umí.
+Taková trošku heretická otázka,
+my se tady furt točíme kolem security.
+Existuje vlastně něco jako stoprocentní
+bezpečnost, nebo je to pořád nějakej
+jako trade-off, protože
+já to vidím i u toho, když děláme
+nějaký kalkulace projektů a tu security
+tam samozřejmě, protože jsme správný
+dodavatel, tak ji tam dáváme
+a vidím, že čím člověk
+je defensivnější a
+paranoidnější, tak třeba z hlediska
+cloud nákladů, tak je to
+větší a větší raketa, protože tam musí zapojit
+více a víc komponentů, které prostě jsou jako drahý.
+Takže, jak to teda je?
+Jako mám mířit na
+stoprocentní bezpečnost, nehledně na to, kolik to
+stojí, nebo musím to vždycky nějak vyvažovat?
+Jak to vidí, Ivo?
+No já vždycky jako z toho stoprocentní bezpečnosti
+já vždycky to říkám, jako zákazník chce tu stoprocentní
+bezpečnost a říkám, to je v pořádku, když mi dáte
+nekonečné peníze.
+Jo, takže je to tak.
+Není problém, jako sežím ty nekonečné peníze,
+já mám stoprocentní bezpečnost.
+Takže vždycky je to trade-off.
+Vždycky je to trade-off a k tomu samozřejmě existují
+ne moc zábavné, ale velmi důležité
+věci, kterým se říká třeba analýza rizik
+a podobné věci, které
+identifikují vlastně aktiva té
+společnosti a říkají, co se stane, když
+a neposluzuje se jenom to, že nám
+ukradou peníze, ale posluzuje se
+taky to třeba reputace a další věci, což je
+teda už potom trošku magie
+a jsou na to specialisti, kteří tohle dělají
+a ty vlastně by měly, jako ta analýza
+se chcete dělat proto, že to vyžaduje nějaký
+předpis, ale měla by se dělat proto, aby
+fakticky opravdu ohnotila ty aktiva, aby se
+řeklo, co nám vlastně hrozí
+a to číslo, které tam vypadne, je
+potom to základní číslo, protože to určení, kolik by
+ta bezpečnost měla stát.
+To znamená, pokud budu
+mít e-shop, který bude prodávat
+tamhle hrnky a riziko, že
+prostě ztratím 10 tisíc, protože
+přijdu, já nevím, o zásoby na skladě,
+tak prostě nemůžu
+zabezpečovat za milion, to nedává smysl.
+A úplně stejně
+zase na druhou stranu, a to je
+často zjištění potom, velké zjištění
+těch managerovních zjištění, kolik vlastně ty
+aktiva, kolik jsou ty vlastně ty aktiva, který
+jsou dělaný.
+Třeba taky bychom něco dělali
+pro nějakou banku a tam
+opravdu se házelo,
+když ten systém bude narušen,
+tak můžeme přijít do bankovní licenci.
+A teď někdo si sedl a říkal, kolik
+miliard, miliard se vlastně
+na bankovní licence stojí. Pak najednou
+na tu sekuritu se ty peníze našly.
+Ale do té doby pochopitelně,
+jako všichni říkali, ano je důležitá a tak dál, ale
+nikdy se neuvědomili, že vlastně ta sekurita má
+tu nějakou protivahu. Je to, jak jsem říkal na začátku,
+je to to pojištění, který si dělám.
+Je to vlastně úplně stejné. Prostě
+nakolik se pojistím,
+tak kvalitní to budu mít,
+ale bohužel se to nedá moc měřit. Konec konce
+i u toho běžného pojištění to taky je, že taky vlastně
+může člověk říkat.
+Tam to vlastně taky měříš, až když teprve dochází k plnění,
+jak moc se ti to vlastně vyplatí.
+A v ideálním případě, jako nikdo nechce plnit,
+jako z úrazového pojištění nechce plnit.
+Já radši budu, jako úrazové pojištění platím,
+ale doufám, že ho nikdy nepoužiju.
+A to je úplně stejné,
+je to u té bezpečnosti.
+No to jsme možná nahráli i na tu druhou část,
+celkový té security oblasti, kterou tady probíráme,
+protože teď jsme se bavili o firmách,
+ale pak je, řekněme, nějaký osobní level security.
+Měli jsme tady kluka z Trezoru,
+který vlastně nosí si na sebou
+naklíčence v podstatě jako miliony,
+protože prostě tam má jako
+uložený bitcoiny.
+Když se řekne osobní security, co ti napadne,
+jak třeba to, co ty znáš z toho firmního světa,
+aplikuješ do toho levelu
+té fyzické osoby.
+Já v tom osobně vnímám trošku problematicky,
+protože, jak už jsem tady říkal,
+už jsem dlouho v IT
+a některé věci,
+které mý třeba mladší
+spolupracovníci nebo zákazníci
+dělají,
+mi nepřijde úplně automatické.
+Pro mě
+ukládání dat někam mimo,
+kde na nima nemám kontrolu,
+nebo používání sociálních sítí
+je velmi omezené.
+Ale to je postoj.
+To není, že bych říkal,
+že všichni to takhle musí dělat,
+ale ty lidi jsou zvyklí.
+Dokážu si představit,
+se bavím se zákazníkem a říkám,
+já vám ty informace pošlu.
+Přes Facebook vám je pošlu.
+Protože ty lidi,
+jak jsou mladí,
+jak jsou s ty sociální věci
+už zvyklí v podstatě od dětství,
+tak o ním to nedojde.
+Ním vůbec nedochází,
+že ty data uvidí spousta...
+Může vidět.
+To je bezpečnost
+od té pravděpodobnosti.
+Nebo o té náhodě je někdy.
+Může vidět.
+A myslím si, že v dnešní době
+mě děsí ještě víc,
+protože v tom možná jsem až trošku paranoidní,
+ty velké firmy potřebují
+plnit
+ty svoje jazykový modely
+pro tu umělou inteligenci.
+A když se já svým okem podívám
+na poslední kroky těch velkých firm,
+který se v této oblasti angažuje,
+kde je to Google, Microsoft a tak dále,
+tak skoro všechny jejich chování
+se posouvá právě k tomu,
+aby z těch lidí ty data dostaly.
+Oni sice tvrdí, že na to mají
+zabezpečení, pravedla a tak dále,
+ale já jsem natolik paranoidní,
+že s tím nevěřím úplně tolik.
+Takže to je právě otázka
+o té výře těch schopností.
+Já nemám možná ještě
+i tím věkem zažitý
+ten mechanismus
+takový to, že na mě nic
+nemůžou najít,
+protože prostě nic špatného nedělám.
+Já jsem ještě zažil
+byť krátce,
+ale pamatují se dobře tu dobu,
+kdy bylo dobré nic neříkat.
+No spíš bylo dobré nic neříkat,
+tak to se nedá úplně zajistit,
+ale z blbosti
+se mnoho dostali velký průšvihy.
+Ještě už se ty lidi
+nenachytají na těch velkých věcech,
+ale nachytají se.
+K tomu teda se hodí,
+teďka jsme diskutovali,
+jak jsme řešili to AI na začátku.
+Teďka někde v Německu před každým filmem,
+tuším, že to bylo v Německu,
+ukazovali takový to,
+když dáš fotku svýho dítěte,
+jednu fotku, když byl malý,
+na Instáč třeba,
+tak co se stane za 25 let s tím,
+jak ta AI dneska jede.
+Tak oni normálně natočí video,
+nebo třeba jenom vezmou zvuk
+a volá tý mámě,
+hele mámě, někde mě chtějí zabít,
+počne někam peníze rychle
+a začínají ukazovat, co se může stát
+v kontextu toho AI.
+Je to dost creepy,
+pro rodiče teda úplně.
+Takže trošku to se mnou rezonuje,
+byť já jsem někde, řekl bych, mezi.
+Taková ta generace, co už v pohodě
+používá všechny klaudy,
+ale zároveň si ještě snaží uvědomovat tu bezpečnost.
+Já jsem v tomhle tomu
+trošku ještě boomer.
+Mně bylo na začátku, manželka mi jasně řekla,
+říká, svoje fotky, svoje blogposty,
+myšlenky, dávej si
+po celém internetu, mně je to jedno.
+Ale jednoznačně jako matka
+se vyhranila, řekla,
+naši děti nebudou nikdy na žádných
+sociálních sítích, dokud nedorostou do toho věku,
+že sami udělají rozhodnutí.
+A teď to vnímám,
+že opět, jak ty ženy jsou mentálně vyvinutý
+před těma chlapama o desetiletí,
+v mým případě, až několik,
+takže to bylo strašně rozumný.
+Měli jsme s tím, mimochodem,
+měli jsme s tím docela opičky, protože
+učitelky, takový to, my spůjeme na
+školním výletě a my vám pošleme fotky dětí
+přes rajče. No jediný naše dítě
+mělo napsáme, že si nepřejeme obě ty fotky.
+Takže vlastně... – Vy jste tyhle ty.
+– My jsme tyhle ty, které, je to dítě vždycky chodák,
+jako muselo stát bokem, my jsme potěli všechny,
+pak teda ještě jednu fotku, kterou nám poslali.
+Už jsme taky trošku změkli, jo, když to jsou
+aspoň zabezpečený v úzovkách pod nějakým
+heslem a tak. Ale takový to jako,
+dáme vás na Facebook, tak já
+třeba u svých obou dětí jsem tohleto
+nechtěl. – Vy jste ty, co moje tchýně
+učitelka ve školce opět miluje.
+Tak já to vždycky, jo, vždycky tady a radeček, doprava.
+– Ale to jsme zpátky u Iva, u té security.
+Já to chápu, že jí to jako leze na nervy,
+že jí to dělá problémy, že...
+Ale ten mindset je, že
+já teda jsem vůči dětem,
+jako defenzivní a nechci, aby nikdo
+o tom, co jsi právě říkal, aby je jakoliv dokázal
+zneužít hlas, fotku, cokoliv,
+nebo je prostě deset tisíc jako nemocných
+lidí na internetu, který to můžou zneužít.
+A já v tomhletom jsem jako strašně
+secure a defenzivní a si můžu se tomu
+jít naproti. Tak kdo má pravdu, Ivo?
+– No, já si myslím,
+že to je jako přesně,
+to je ta věc,
+tady jsou dva přístupy, až tady bychom
+vzali někoho o generaci mladšího
+a už by se našel,
+tak ten by na tom měl
+úplně jiný pohled.
+A to je právě, a to je ten
+problém té věci. A teď ještě se to,
+protože to není jakým nerozuměný problém,
+ale tak je to, co, jaké je informace.
+Tady padly fotky dětí, to je osobní,
+hodně osobní záležitost.
+Ale právě to je
+otázka té míry,
+míry vlastně toho,
+co jsem ochoten tím konkrétním
+kanálem posílat. Jako já taky mám
+účet na Facebooku, ale používám ho tak maximálně
+pro bývalý spolužáky,
+prostě a nedávám tam žádný informace
+nebo jenom minimum informací, kterých si vím.
+A snažím si to uvědomovat. Ale jsou lidi,
+ten problém není v tom, jakoby to nepoužívat
+i sociální sítě. Ale uvědomovat si,
+jakou to má konsekvence.
+Že vědomí použití ty informace.
+A zase, to je něco, co se nedá úplně
+naučit jednoduše. Je to otázka
+postoje, prostě naučit se
+odpovídat, že tohle
+ano a tohle už ne.
+Nemám WhatsApp, protože spousta lidí říká,
+proč nemáš WhatsApp? Říkám, protože
+WhatsApp je prostě špatně.
+A
+vypadám jako na prostý
+IT negramotaři.
+Ten koncept dává smysl.
+No.
+A já si myslím, že
+hlavně je to
+velký problém
+věcech, že si člověk na některé věci zvykne
+a pak už
+velmi těžko
+s tím bojuje.
+Prostě už se na to udělá
+ten zvyk nebo tu pracovní věc.
+Třeba určitě velký
+takový
+posun tady v těch osobních údajích, že třeba
+jsou týmsy. Protože týmsy
+znamenají, že v okamžiku, kdy jakýkoliv
+do nějakého četu na týmsech pošlu dokument
+tak se mu ji uloží na OneDrive.
+Ano.
+Automaticky. Neptají se vás, jestli ten OneDrive
+chcete nebo nechcete.
+To je něco, kde na tím už nemáte
+kontrolu a tak dál. Ale samozřejmě
+implementace vlastního
+systému pro firmu, když se vrátím k firmám,
+nebo i soukromého systému, který by byl postaven
+privátně, že by byl na vlastních zdrojích,
+je nepoměrně složitější a dražší.
+A tím pádem to nikdo udělat nebude.
+Takže to uzavřeme. Kam ukládáš svoje rodinné
+fotky do klaudu, nebo ne?
+Mám doma diskový pole.
+Fakt jo? No. Tam mám
+ty úplně věci, které jsou pro mě
+jako opravdu nejcitlivější. Nahatej, když seš
+největší. Nahatej, když jsem, samozřejmě, já nebo manžel,
+který je oblečená výměšně. Prostě to tam mám
+jako vyfocený, to tam mám.
+A do klaudu mám
+na jako Google Photos nějaké věci, které
+mi jdou z telefonu, ale to jsou
+většinou fotky jako neosobního.
+Jako nějaký moje selfiečka a to,
+že my se fotíme při natáčení podcastů.
+To pak stejně hodím na síť. Ale
+ty pro mě citlivý věci, ty mám doma
+v diskovém poli prostě schované.
+Respekt. Ale
+podle mě to není, že bych byl extraparanoidní.
+To je spíš jenom, asi jsem defenzivní,
+co se týče rodiny. Ne, ale
+já to mám podobně. Já mám data zahalovaný
+takhle. Mám zahalovaný data
+soukromí, zašifrovaný podobě třeba v práci.
+Protože tam na tom tětě máme nějaké možnosti.
+A
+mám celý zašifrovaný data v klaudu.
+Byly prostě jednoduše zpracovatelní. Jasně asi,
+kdyby se nějaký NSA rozhodlo,
+že si teda ty data rozkouduje, tak jim to přeju.
+Ale na druhou stranu,
+na druhou stranu,
+to je právě ta míra toho
+rizika. Jako, že
+kdybych chtěl vidět moji soukromou fotku
+a vynest tu do toho několik miliard, tak
+proč ne?
+Tak tady to máte, kluci.
+Jako, kdyby mohli rovnou jí dát,
+to bylo by to efektivnější.
+Takže teď si dám trošku
+likracie. Ale to je přesně ono.
+To je ta konkrétní věc.
+Každý má tu míru
+té bezpečnosti, osobní bezpečnosti,
+jinou, což je
+v pořádku, pokud si uvědomuje
+ty konsekvence. Jako, pokud
+někomu nevadí a dělá to vědomně
+a akceptuje ta rizika,
+tak je to v pořádku. Nejhorší
+varianta je potom taková, takový ten,
+no já jsem to porušoval, ty pravidla,
+já jsem ty pravidla porušoval, ale
+stejně jste mě měli všichni zachránit. No neměli.
+Každý jsme svobodní v tomhle směru.
+Každý si určujeme vlastní pravidla, jak se svými
+vlastními daty nakládáme. Bohužel
+ty světový
+korporace, ty velký firmy
+v tuhle chvíli tomu moc nepomáhají.
+A zase proti ním se
+neprosadí nikdo, kdo by přišel nějakým bezvadným
+způsobem a řekl, já vám udělám bezpečné
+úložiště
+pro vaše fotky, kde
+budu prostě akceptovat vaše soukromí
+a tak dále udělám to třeba se správným
+kryptováním, prostě prostě k ním nedostane nikdo.
+To není
+business plan, který by se dokázal
+proti těm velkým korporacím prostě prosadit.
+No to je jasně, protože oni řeknou, že ti to dají zadarmo
+a tady si to uploaduje, neřeš to a můžeš
+to kamarádce posílat fotky
+kakajícího dítě, to je to.
+No jasně, jako
+ano, jako
+určitě, když jsem já s IT
+začínal, tak data byla něco abstraktního.
+Dneska data je pomalu
+jedna z nejcennějších věcí, který každý člověk
+má, jakkoliv se to neuvědomuje.
+– Takže to jsou ty věci, který my dokážeme
+ovlivnit. Jedna z věcí,
+který my vlastně ovlivnit nedokážeme,
+dotýkají se nás a nejsou sekuritně úplně
+v pořádku a to je téma, který jsme probírali
+právě s Ivem, kdy jsme seděli v autě a bylo to
+strašně zajímavé, jak se bychom si to udělali
+ještě jednou teďka tady naživo do
+podcastu, jsou rodná čísla.
+To je strašně zajímavá věc.
+Já jsem na tím nikdy nějak zásadně nepřemýšlel,
+ale věděl jsem, že rodný číslo má
+zatím i nějaký význam. Samozřejmě můžeš se podívat,
+kdy se kdo narodil, jestli tam je to
+po hlavě a tak dále.
+Ale vlastně, když jsme se o tom bavili s Ivem,
+v kontextu toho, že vlastně úřad
+pro ochranu osobních údajů
+přemýšlí nad tím, že by měli
+z občanek ty rodný čísla zmizet. A já jsem na tím
+přemýšlel, co to jako znamená pro IT systémy
+a Ivo byl jako nadšený, co to vlastně
+znamená pro security.
+No já nevím, jestli je nadšený,
+co to znamená pro IT systémy
+a co to znamená pro security.
+Teď mě napadla zrovna
+při tomhle případě jedna poučka,
+která se hodí, je pro ty architekty
+a možná i pro ty programátory,
+takže to můžou prakticky použít
+a to je to. Nikdy jako
+primární klíč v tabulce
+nebo nějakým identifikátor
+nepoužívejte významový údaj.
+To znamená, pokud
+někdo má to rodné číslo
+jako klíč
+v tabulce klientů,
+přijímnou si vztah.
+Tak on ani není unikátní, je to tak vlastně?
+No není úplně unikátní,
+jako před mnoha lety já jsem pracoval
+na nějakém projektu, kde jsme pracovali s rodnými čísly,
+tenkrát se říkalo, že jsou třeba
+desítky tisíc neunikátních čísel,
+ale což jako nám na ty
+deset milionů, jako
+není to v pohodě, jako samozřejmě to způsobuje
+neúplně malý problémy,
+ale sešilo se to. Ono to není vůbec
+jenže ruchý, prostě že vám přijde tady jako dopis,
+že vám změní rodné číslo,
+tak to nepotěší nikoho. A oni musí
+vždycky z těch dvou vybrat to jednoho, který mu to udělají.
+Takže, nebo obě máte.
+Důchod si rozdělte dvěma.
+No ne, no, no,
+je to tak, jakoby, není to jednoduchý,
+stává se to dokonce teď nedávno,
+teď řešili ještě jako specifický případ,
+jsem to četl v nominách, je to pár týdnů,
+že ještě
+problémy se slovenskem, protože na Slovensku
+vlastně oni mají podobná rodná čísla jako my
+a do roku 92
+byly vlastně stejné,
+stejné ty rodná čísla
+a oni se potom rozděli, takže vlastně
+je Slovák, který může mít úplně stejné rodné číslo
+jako ten, který se narodil po roce 92 tady v Čechách.
+A to se jí stalo, přišla
+nějaká slovenská dívka
+do Čech
+a teď najednou vlastně vznikla kolize
+vlastně dohradečně.
+Ona do českého rodného čísla vyplnila slovenské,
+aniž si uvědomila, že to je jiné číslo.
+– Jo takhle, já si právě říkám, že když přijde někdo zvenku,
+tak to beru, že to je externí entita, když na to tak jako...
+– No ne, tam dostane třeba
+nějaký jiný mechanizm, ale
+ona jako by přišla sem
+a do toj kolonky ona prostě vyplnila
+rodné číslo, jak ji nenapadlo, vyplnila to slovenský.
+– A ono bylo validní, že jo? – Ono bylo validní,
+má stejnou strukturu vlastně podobnou,
+akorát bylo kolizní s nějakým ublejným rodným číslem
+s někým na druhém konci České republiky.
+A to je konkrétní případ,
+který se prostě teďka řeší
+a asi to nemůže být.
+Ta chyba těch rodných čísel
+je právě v tom, že jsou významové
+i pro tu identifikaci
+a teď je velký tlak
+ze strany
+některých politiků,
+aby právě se ty
+identifikáty udělaly nevýznamové.
+To znamená, že to bude nějaké náhodné číslo,
+které člověk dostane
+a s tím náhodným číslem
+dává větší možnosti s tím pracovat,
+nedá se s něho nic vyčíst,
+jenomže existuje.
+Konec koncu třeba takové to sociální číslo
+v Americe je přesně takhle děláno.
+A ty jsi mluvil o nějakém konceptu,
+že to číslo bude fungovat jako základ
+pro to, aby když někdo nahlíží
+do tvý složky, tak na základě toho tvýho čísla
+dostane pro sebe unikátní číslo.
+To je poměrně pěkná technologie,
+která už tady funguje
+15 let možná,
+nebo 12, nebo něco takového.
+Takový ten systém těch základních registrů,
+konkrétně registr obyvatel,
+kterého se to týká,
+tak tam právě ty identifikátory
+jsou dělané opravdu kryptograficky
+velmi zajímavě.
+A to je tak, že vlastně to funguje,
+že každá agenda má
+svůj identifikátor toho,
+pro toho člověka,
+a ty identifikátory přiděluje
+jako centrální entita,
+která má ten primární identifikátor.
+To znamená, pokud budu mít
+dva různé systémy,
+třeba ve státní správě,
+a v jednom budu mít
+ty lidi
+toho člověka pod nějakým identifikátorem,
+tak v jiném ho mám pod jiným identifikátorem.
+A jenom ten úřad,
+který zpravuje ten centrální registr,
+ten registr těch obyvatel,
+umí vlastně ty čísla spojit.
+To znamená, že já potom, kdybych si ukradl data
+hypoteticky ze dvou bank, tak si je nespáruji.
+Jasně, protože ukazují nám každý.
+Protože u každého bude jiný ten identifikátor.
+A to je vlastně princip, který
+obecně funguje.
+Je to poměrně zajímavá
+kryptografie, už to je tady dlouho.
+A teď je to velmi aktuální, protože úplně stejný
+mechanismus se teďka bude používat,
+jak je ta e-dokladovka, která by měla začít fungovat
+začátku roku. Takže kdyby si člověk měl nahrát doklady
+do mobilu, tak tam právě se budou
+používat tyhle identifikátory taky.
+Vlastně, když ten vás požádá ten
+příslušník,
+no přesně, ten člověk bude chtít přečíst,
+tak oni si vlastně vymění přes ten systém
+ty identifikátory,
+ty AIFA, ty nevýznamné identifikátory
+a na základě toho,
+on si potom vyžádá na základě
+své nomina, což je to policista třeba,
+vyžádá tu informaci z
+toho centrálního registru. A to bude od začátku roku tohle?
+Jo, jo. No mělo by, že už
+vlastně nemusíš u sebe nosit řidičák,
+občanku a tak. No už to ani teď nemuselo
+být, ne? Ne, ne, ne.
+Jako takhle, občanka, řidičák,
+jako občanka, řidičák, jako jsou věci,
+které jsou, jakoby,
+člověk potřebuje být mechanicky,
+nebo ten... Fyzickou tu kartičku?
+Tu kartičku. Občas uznávali to,
+že si člověk udělal fotku, takže uznali mu
+tu fotku, ale jako není to, podle mě,
+oficiální. Tady to je postaveno na jiným
+principu, tady to je postaveno opravdu na té komunikaci,
+že tam proběhne jakoby určitá komunikace,
+dokonce vy v tu chvíli, jako...
+Já jsem tady neviděl ještě tu dokladovku, ale
+aspoň co jsem o tom četl, tak si člověk může vybrat,
+které údaje tomu člověku jako poskytné.
+Jo, jo, jo.
+Že můžu si jít, dám vám jméno příjmení,
+do tom narození nedám vám adresu.
+Jo, jo, jo.
+A to chvilku bude nabíhat,
+ono ten problém není na straně té aplikace,
+ta aplikace je relativně jednoduchá,
+ale složitější je to na straně těch čtečkých zařízení,
+když ty orgány musí dostat nějaké čtečky.
+No, teď je musí proškolit.
+Proškolit, takže tam je nějaký náběhový mechanismus,
+od prvního ledna by to mělo fungovat
+u, říkají tomu, centrální orgány státní správy.
+Takže když půjdete třeba na kanonikám na ministerstvo,
+tak by to teoreticky měli být schopni akceptovat,
+nebo měli by to být schopni akceptovat po prvním lednu.
+U ostatních postupně to nabíhá jakoby po půlrocích.
+Ale ten mechanismus je teda použit úplně stejný.
+Takže použili podobné paterny tam využit,
+takže tam právě je omezeno to párování.
+Takže to je jako zajímavá věc
+a myslím si, že to je uděláno opravdu na vysoké úrovni
+z hlediska té bezpečnosti.
+A ten hlavní problém, a to je to,
+že já si můžu sparovat data z různých systémů
+přes nějaký jednotný klíč, je tím omezeno.
+Je ještě nějaký podobně nebezpečný koncept
+jako ty starý rodní čísla,
+který používáme v dennodenním styku
+a víš o tom, že by taky zasloužil změnu
+nebo nejvíc se nás týkají ty rodní čísla
+a zbytek je více méně?
+Tak jako těch čísel, který používá
+státní zpráva je jako celá řada.
+Určitě jako nepřeju změnu
+a je to jeden z důvodů,
+proč se, ono už se takové, už to mělo padnout,
+že ty rodné čísla se nějakým způsobem utlumí,
+ale teď se to se nějak vrátilo zpátky v tom legislativním procesu.
+Například
+u spousty živnostníků
+dyč je vlastně rodné číslo.
+No jasně.
+Což jako, jak to budou řešit, to mi úplně není jasné.
+Ale jako to jsou přesně takové ty věci.
+Červistý plechovky, tak už do tý plechovky nedostanou, že jo?
+Jo, jo, jo.
+Takže, a to je přesně ono.
+Prostě jednou se pustily ty červistý plechovky
+někdy i před x lety
+a jako neudělalo se to včas,
+takže teď to bude samozřejmě bolet
+a bude těch věcí, kde ten konkrétní problém je dostatečný.
+S Ivan bychom si mohli o security povídat hodiny a hodiny,
+ale je tady ještě jedno téma,
+který já prostě nemůžu opomenout.
+Umlouvám se posluchačům za to,
+ale prostě když jsem slyšel Ivan na vlastní uši o tom,
+tak za ní ceně hovořit,
+teď nám zase bude tady mlátit do všeho možného do mikrofonu,
+když se ho na to zeptám,
+protože on to miluje,
+tak je to prostě rugby.
+A ty jsi měl skvělou přednášku o tom,
+jak rugby a softwareový vývoj
+vlastně by se mohly jít ruku v ruce
+s tím stylem, že softwareový vývoj by se z rugby
+a z jeho pravidel a z té koordinace těch hráčů
+mohl něco naučit.
+K tomu se dostaneme,
+ale prosím tě, první věc,
+co tě na tom tak fascinuje, na tom rugby?
+A Ivo už se usmívá jenom.
+Já se vždycky říkám,
+když se chcete strávit spoustu času,
+tak...
+Máme na to asi sedm minut, jo?
+Takže jsi se mnou začnět povídat o rugby
+a ještě o některých mých tématech.
+A jako mě rugby
+na katalýckém životparkáčově tě potkalo
+a pak jsem se na to začal koukat
+a začalo mě to bavit.
+A baví mě to právě proto,
+že je to oblast, kdy
+funguje velmi
+dobře ta spolupráce mezi těmi hráči.
+Ty hráči jsou různých typů,
+různých specializací
+a přitom to funguje.
+A to je něco, co mám pocit, že někdy v tom IT právě chybí.
+A proto jsem si o tom dovolil
+udělat takovou krátkou, spíš potyvační,
+než nějakou hlubokou přednášku.
+Jako nápad možná
+koukat se na to rugby právě na zdroj informací
+o tom, jak funguje systém,
+který by mohl
+fungovat lépe, který by mohl pomoct
+jakoby líp fungovat těm firmám,
+to taky nesouvisí, ale
+prostě zaujalo mě to a spojil jsem
+tyhle dvě témata dohromady, není to žádný...
+A ty principy, mohl bys to teda
+vlastně jakoby sesumarizovat
+ten tvůj krátký to?
+Ono sesumarizovat
+těch mechanismů, které v tom rugby
+fungují, které si myslím,
+že jsou výjimečné a právě možná
+jsou koučné, jsou jednak
+to, že právě
+ta specializace
+dává určitou možnost
+takovou platnice různým lidem a umožňuje
+jim určitým způsobem spolupracovat
+ke společnému cíli.
+Druhé téma, který je taky otázka pravidel,
+že pravidla rugby jsou specifická tím,
+že se průběžně proměňují
+a vlastně
+přizpůsobují
+tu situaci tak, aby ta hra byla
+nejenom spravedlivá, ale aby byla
+i bezpečná, protože tam samozřejmě je to
+velmi nebezpečný sport
+a je tam, aby byla i
+ta hra plinula,
+což jako v jiných sportech
+nějak na to ještě nepřišli, že možná, když těmi pravidly
+trošku pomůžou, tak ta hra se nebude přirošovat
+každou chvilku, ale tady prostě
+ten nákvěvý zápas. I moje žena, která sportu vůbec neholduje,
+říká, ale on to je zajímavý, no furt se tam
+něco děje. Furt to jede. Furt to jede, furt se to děje
+a ty pravidla jsou tomu přizpůsobený
+a určitě jako
+pro mě klíčovým parametrem je rozhočí.
+Rozhočí v rugby má naprostou úctu
+a důvěru vlastně jak těch hráčů.
+On je vlastně ten dirigent té hry,
+je to ten, kdo pomáhá tu hru
+dělat právě spravedlivou bezpečnost
+a plynulou a on těm hráčům radí,
+on s nima spolupracuje, to není jakoby
+jejich nepřítel, jak to někdy vidíme
+v jiných sportech, ale je to prostě člověk, který se jim snaží
+pomoct, říká, nešahej na ten míč, on je jeho sajdu.
+A pomáhá, pomáhá jim
+vlastně, pomáhá jim vlastně
+v tom, aby to fungovalo.
+No a poslední aspekt
+těch hlavních, který je tak je
+něco, co se mu se říká v rugby třetí poločas,
+který platí do dneška, a to je mechanismus, že
+ty rugbysti potom zápase se sejdou.
+I z těch obou týmů,
+že by sešli ten tým, ale oba ty týmy
+dají si společně pivo. I do dneška
+na té nejvýšší úrovni.
+I na myslostí si tam? Jo, jo, jo. Oni se tam prostě sejdou,
+já jsem tam nikdy nebyl, ale
+sejdou se a ono je to potom těžké,
+ono je těžké hrát nefer na člověka,
+s kterým si potom půjdu sednout na pivo.
+Takže i to prostě patří
+do té kultury toho.
+Ty hostý jsem nevěděl.
+Právě rugby, přesně to je ono.
+To je to, co mě v tom rugby baví, že spousta lidí
+o tom moc neví a když se toho proniknou,
+tak zjistí, jak je to zajímavě vymyšlený,
+že to je prostě jiný než
+ostatní sporty.
+A samozřejmě má to taky svoje problémy,
+ale a jednak je to fakt zábavný.
+Jako je to, možná teď, jak bylo
+mistrovství světa, tak samozřejmě se byl velký boom
+a trošku jsem využil i toho.
+I té souslednosti právě toho rugby
+s tím mistrovstvím světa, protože si myslím, že to je něco,
+co může ty lidi přitáhnout
+tomu, aby viděli ten sport.
+Já už asi rugby hrát nikdy nebudu.
+Nikdy jsem asi nevypadal na to,
+že bych rugby hrál, protože jsem nejsem úplně sportovní typ.
+Počkej, ale tak zase, ty mlináři,
+co jsem viděl.
+No, jasně,
+ale potřeboval bych ještě trochový cíly
+a mín tuku.
+Ale je to tak,
+ale na toho stranu dá se tomu i fandit
+a je to strašně příjemně
+se na to kouká.
+Na druhou stranu,
+a to je možná, jak jsem to tam prodával
+na té přinášce, jako výhodu,
+je tam spousta takových aspektů,
+které si myslím, že pro lidi
+od toho IT může být zajímavé.
+Právě to, že tam je, ten míč je šišatý,
+takže skáče všemi směry,
+takže tam je určitý faktor náhody.
+Je tam
+vlastně problematika
+toho, že lidi
+musí
+musí mít
+ten respekt tomu soupeři,
+protože jinak to nefunguje, ale ten respekt je vzájemný.
+A je tam opravdu spousta
+jiných faktorů.
+Jsou tam ty pravidla složitý,
+my to máme rádi složitý systém,
+že nás to baví studovat ty různý věci,
+nebo aspoň některé z nás.
+Takže to všechno tam je
+a proto si myslím, že to je jako téma,
+který může to,
+a když kvůli té přednášce nebo tomu dnešnímu povídání
+někdo začne koukat na rugby, tak bude jenom rád,
+protože si myslím, že to stojí za to.
+Jak ty hodnotí letosní mistrovství si to?
+Bylo skvělé, trošku mě mrzelo,
+že žádný evropský
+tým vlastně se nedostal do těch
+finálových fází víc.
+Myslím, že by to tak mělo být,
+nebo mohlo být, ale
+jak bylo tak strašně vyrovnané, tak ty zápasy
+končily opravdu minimální.
+To byl obot, ne?
+Spoustu zápasů bylo obot,
+o dva body. Ono v rugby, jak se to počítá
+neúplně po jednom, tak ono vlastně
+rozdíl do
+šesti bodů
+se bere jako minimální.
+Dokonce v některých soutěžích se to dá
+jako bonusové body. Když to skončí o méně než šest bodů,
+tak ten prohrávající
+dostane nějaký ten bodík do tabulky.
+A vlastně z těchto
+playoff, tuším,
+asi dva zápasy z celého playoff
+skončily větším rozdílem než těch šesti bodů.
+Takže opravdu to bylo do posledních minut
+a bylo to zajímavé
+a napínavé.
+Já faním Irsku, tak bohužel
+jsem...
+Jsem si na tebe vzpomněl, že jde v prvním kole, že jo?
+No, oni vždycky...
+Ačkoliv před mistrovstvím byli
+ve světovém šepříčku jako světová jednička,
+tak bohužel
+těsně prohráli. Ale byl to skvělý zápas.
+Musím říct, že
+jedno z nejlepších hrak, který já jsem kdy viděl,
+ne, že bych byl úplně znalec,
+ale tohle bylo opravdu zápas,
+o kterým se bude dlouho vyprávět.
+A skoro každý bych řekl
+v té finálové části.
+A z těch pravidel, který ty jsi zmiňoval,
+já jsem se snažil trošku
+jako reverzně, tak jak jsem to inženýroval,
+co se tam děje naučit, plus jsem si o tom samozřejmě
+něco četl. Je tam nějaký pravidlo,
+který i ty, který roky to znáš,
+ti přijde pořád
+neúplně, to říct česky
+straightforward, jako jasný, pochopitelný
+na první dobro.
+Já netroufám,
+netroufám, jakoby tvrdit, že jsem znalec
+z těch pravidel a myslím si,
+že to jsou pravidlnou specialisti.
+A já si myslím, že
+oni tam pracují na těch pravidlech.
+A to je přesně ten mechanismus. To znamená, pokud tam jsou
+nějaká pravidla, která jsou nebezpečná,
+nebo přebraní té plněnosti hry,
+tak oni se postupně obrousí.
+To si myslím, že je právě to.
+Úplně, že by mě napadlo
+nějaký konkrétní pravidlo, že
+je vysloveně
+špatný, to bych neřekl.
+Nespíš třeba těžko pochopitelný na první dobu.
+Těžko pochopitelný, tak tam už pár bude,
+protože ono v té rychlosti
+a v tom
+posoudit, jestli ten foul byl takový
+nebo makový, je velmi těžký.
+Ale tomu právě pomáhá ten rozhočí. Ten rozhočí má
+poslední slovo.
+Rozočí se splete, to se stává,
+ale je to něco, co
+patří k té hře a
+nedělají se žádný
+side low,
+než putat se o tom,
+jestli ten rozhočí měl
+nebo neměl pravdu. Prostě ten rozhočí je taky člověk,
+taky se prostě splete, ale jeho
+cílem je to udělat.
+A opravdu se pozná velmi dobře
+rozdíl mezi dobrým a špatným rozhočím,
+ani ne tak na jeho výkonu jako na týře.
+On má velký poděl na tom,
+že ta hra je prostě zajímavá, takže i ty rozhočí
+byly jedna mistrovství skvělé.
+Ještě možná, než to téma opustíme, nebo máš nějaký dotaz?
+Nejenom k těm pravidlům, jenom důkaz
+toho, jak složitý to je, je, že vlastně ty dva
+komentátoři, co to letos komentovali,
+tak občas se neschodli mezi sebou.
+Teďka je tam, když skutovali a vlastně ani jeden...
+To je pravda vlastně, no.
+Ale my to většinou nechali na tom, kdo to byl zkušenější.
+No, no, no, tam byl ten jeden odborník.
+Ale to je v pořádku,
+ono opravdu v té rychlosti to.
+A já vlastně ještě přidám jednu zajímavost,
+protože od Geo Open Space mě se
+více mě náhodou podařilo na to rugby dostat,
+takže jsem se na to byl vlastně i fyzicky.
+Jakože jsi byl na Mistrovství Sita, jo?
+Byl jsem na zápase o bronzovou medaily.
+Takže jsem viděl ten zápas
+a viděl jsem to jakoby
+v takhle velkým měřítku poprvěm.
+A musím říct, že v té televize to teda jako...
+Nevím, jestli lepší, ale rozhodně jiné.
+U té televize člověk vidí spoustu detailů.
+Jasně.
+Ta kamera mu to zabere prostě na těch 100 metrů
+a nevidí člověk, tam už vůbec bych nepoznal,
+jestli to byl faul nebo nebyl faul.
+Ale zase tam člověk vidí úplně jiný věci.
+Vidí tam, jednak je tam skvělá atmosféra
+a jednak tam bylo vidět ten...
+Práce s častým prostorem.
+Jak ty hráči se do toho prostoru zmistňují.
+Vlastně to člověk v té televize nevidí.
+Že takhle se kouká na ten detail
+a nevidí zase ten celý.
+Takže to bylo určitě velký zážitek.
+A to byla Anglie s kým?
+S Argentinou.
+A taky Anglie měla být poměrně velký favorit.
+Vypadal to jako začátku dobře.
+A najednou vlastně do poslední...
+V podstatě kdyby tam ten Argentinec
+v poslední asi dvě minuty před koncem
+proměnil ten kop, tak to byla remíza.
+Což jsme teda jako všichni chtěli,
+protože by to znamenalo prodloužení.
+Ještě další zážitek.
+Cetí poločas bez piva.
+No to je ještě to.
+A v rugby ještě to prodloužení
+je takový prodloužení
+a pak se kopou penhalty.
+To jsem ještě neviděl nikdy.
+Taky ne.
+V zápase jsem to přímo neviděl,
+ale jako samozřejmě na člověk to najde,
+když tak...
+Jo, jo, jo.
+Super.
+Takže to je zvláštnost,
+že se nejí kopat i penhalty.
+Tak jak jste sami slyšeli,
+milí posluchači,
+pokud chcete strávit pěknou půl,
+třistrti hodinku,
+řekněte jenom před Ivem slovo rugby
+a už jede úplně sám.
+Hele, Ivo, my ti strašně moc děkujeme.
+Opravdu bylo to zase narvaný.
+Dostal jsem víc, než jsem vůbec doufal.
+Já jsem strašně spokojený.
+Projeli jsme to krásně.
+Až do příštího roku, doufejme.
+Pokud si nenarazíme někde dřív na sebe.
+No a ať se daří a měj se hezky.
+Já vám děkuji za pozvání
+a rád jsem tady s vámi starovočas.
+Měj se, čau, čau.
+Další kapřík vylovený z Jig Open Space rybníčku.
+Ivo musel, právě opustil naše studio.
+Myslím si, že to byl zase...
+A to je kvalitní rybníček.
+Kvalitní rybníček, jo.
+Ale tam jsou maskové,
+tam ještě zalovíme.
+Ty jsou nažraný informacema.
+No před mojím člem security jsme se tam měli úplně poprvý.
+Jo, jo, rozhodně, rozhodně.
+A myslím si, že bychom se k tomu měli ještě vrátit,
+protože to téma je prostě na podcast sám o sobě.
+Kdyby náhodou existoval nějaký český podcast o security,
+tak dejte vidět, mě by to fakt zajímalo.
+Já to zkusím pohledat,
+protože to je fakt jako rabbit hole plnej informací.
+Je to zajímavý.
+A ještě jsme tam střihli rugby,
+to bylo pěkný, krásně proložený,
+takže Ivo mozíky.
+No nic, my zase jdeme o dům dál.
+My jdeme o dům dál.
+Ty jedeš zpátky do firmy, která znamená peníze.
+Která znamená peníze, přesně tak.
+Zase náš produkt jsou peníze a to máme rádi.
+A večer se vidíme znovu v hospodě.
+Ano, my se budeme loučit s naším milým kolegou
+a to by možná by bylo dobrý mu tady poděkovat,
+protože je vlastně náš milý kolega,
+který opouští naše vody.
+Tak, to byl ten prvotní impuls,
+proč my dva jsme vůbec začali dělat podcast.
+Nebudu, co třeba takový Polák.
+Zavolám Polákovi.
+Polák řekl s tebou, Románku, cokoliv na světě.
+A bylo to, ale byl to vlastně nápad Honzy Černého.
+Takže Honziku, my ti moc děkujeme.
+Vlastně to nebyla úplně zas tak debilní myšlenka,
+vzhledem k tomu, kolik posluchačů nás teď poslouchá.
+Vypadá to dobře, vypadá to dobře.
+Honziku moc díky, protože samozřejmě často nad tím přemýšlím,
+jak náhodně jsem se k tomu dostal já
+a jak jsem za to rád.
+No, takže, díky moc.
+No a dneska si dáme jeden, dva, tři drinky, Honzo,
+na tvůj počas a půjdeme domů,
+protože jsme samozřejmě takový rozumní mladí muževé.
+A nebudeme se u toho fotit a dávat to na sociánci.
+Rozhodně ne.
+Tak jo. Čau. Čau.

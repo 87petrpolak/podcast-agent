@@ -1,0 +1,1771 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem, krásný den milí posluchači, vítejte u dalšího dílu vašeho nejoblíbenějšího IT podcastu Pod vocasem.
+Naproti mě opět sedí dneska obzvláště ve vůni Petr Polipolák.
+A naproti mě Roman Žukr, provazník. Dobrý den přátelé, dobrý den Románku.
+Čau, čau, ty nikdy neřekneš, že jsem ve vůni.
+Jo takhle, já to vždycky přemýšlím, jak to myslíš.
+Že se mám nějak dovonit ty věci jako málo prostě, nebo je pravda, že můj oblíbený parfem ji včera došel, což je tragédie.
+Tak to je špatný, co byš dělat?
+No koupím si novej, no.
+To je chytrý, to je chytrý.
+Nemám takový jiný řešení, než tyhle jednoduchý v životě, takže.
+Hele, ne, že bys nebyl ve vůni, jenom mě to nikdy napadlo říct, tak třeba příště se nad tím víc zamyslím.
+Dobře, dobře, dobře, já zkusím zapracovat, aby tě to jeblo přes ten forňák už na první dobro.
+Ok, ok.
+No jak se máš, Románko, minule jsi dělal nějaký teaser na, trošku si nahraju na to, že se mi budeš smát, na vouchery na naší soutěž FNHL-ku.
+No, ano, ano, to jsem vlastně zapomněl říct, že náš milovaný Petr Polák se rozhodl organizovat vnitrofirmní turnej FNHL-ku.
+A zatím, co třeba ty minulý skončily,
+že jsme dostali, nevím, nějakou krabinu, nějaký prostě sušenky, nebo něco úplně pětikorunovýho, tak teďka, jo, a teda ještě kromě toho jsme jednou dostali poukázky, které byly bohužel prošlý,
+tak Poli se rozhodl tohleto celé ještě přeníst na úplně jinou úroveň a řekni sám, co je hlavní výhra.
+Přátelé, kdybyste hráli turnej v CN Group, tak dostanete za první místo 2000 voucher do pilulka.cz.
+To je nádherný.
+Což je fantazie, protože buď to budete určitě nemocný, nebo budete potřebovat preventivně se nějak jako připravit na zimu.
+Nebo depilátor tam máš.
+A nebo si můžete koupit elektroniku, což je vlastně součástí toho e-shopu, takže úplně geniální a tím zdravíme Honzu Černýho, který nám loni dal prošlý vouchery, což je za mě teda vodos horší.
+Myslím, že to je horší, že když dám na jednu stranu prošlý vouchery do CZCčka a platný do pilulky, že to není 50-50, jo.
+Toto se líbí úplně každej člen toho turnaje, který se mi teďka směje, prostě už tomu říkáme pilulka turnaje, já jsem Petr Pilulka CZ Polák, už nejsem Petr Polipolák, takže dovedete si představit, jak to tady probíhá.
+Nice, nice, nice. No hele, já ti musím říct ještě jednu zajímavou historku. Minulej týden jsem byl v Oslu, tam jsem konečně dal ten svůj avizovaný talk, očkrt jsem si to na svým bucket listu, že teda konečně se mi to podařilo.
+A bylo hrozně vtipný, že když ten talk skončil, tak za mnou občas přijdou ty posluchači, většinou, to je dobré znamení, když přijdou, když nepřijdou, tak to byl průšvih.
+Ale přišli a jeden z nich říká, jo, ale jo, super, děkuji, jako dobrý talk. A bylo hrozně vtipný, říkal, jo a děkuji za práci, kterou děláš na té svý open source knihovně.
+Já jsem přemýšlel, na který, protože jich mám víc. Říkal, ano, my to používáme už rok v produkci. A já úplně.
+Polil tě pot.
+Měl jsem pokus, někdy v srpnu, když už ostatní prostě měli párty a já jsem měl v hlavě to, že tu matiku musím udělat.
+A pak se říkáš, tak a teď budu zakalit, to oslavit a dáš si dvě pivá, když si lehnou, protože jsi tak vyřízený, že to z tebe spadlo sice,
+ale zároveň bylo to takových nervů, že vlastně už se ani neraduješ, jsi rád, že to je za tebou.
+Ale jako dobrý, já jsem spokojený, dopadlo to dobře.
+Takový to, že až časem ti dojde, co jsi vlastně dokázal.
+Ne, tak zase takový to není, jakože to nelečí zrakovinu.
+Ne, je to super, je to super, Románku.
+Ale dobrý, jako měl jsem to na bucket listu, očket jsem si to a teď už můžu klidně zemřít.
+A nebo se věnovat jiným věcem.
+A třeba se můžeš věnovat dnešnímu dílu podcastu, který bude velmi specifický.
+Ano, napadlo mě jako oslý můstek, že bych mohl odejít z IT a jít do policie,
+protože náš dnešní host, kterým bude David Pícha, měl přesně opačnou cestu.
+20 let dělal na úřadu, na útvaru, ne na úřadu, na útvaru pro odhalování organizovaného zločinu.
+A po 20 letech se rozhodl, že vykešuje ty výsluhy a půjde k nám do F-Sharp týmu, do CNK,
+dělat programátora. A je to úplně geniální životní cesta a já se na jeho povídání,
+slyšíš povídání, ne povídání?
+Ty kráso, co se to děje.
+Tak na jeho povídání se strašně těším.
+Já taky, já taky, bude to ohromně zajímavé.
+Máme připraveny super dotazy, takže pojďte se těšit s náma.
+Vonek je poslušný, tak už stojí v pozoru za dveřma.
+Salutujeme.
+Tak jdeme.
+Ve studiu i s námi sedí náš dnešní host, David Pícha. Ahoj Davide.
+Ahoj všichni.
+Ahoj Davide, čau čau.
+Tak Davide, já jsem tě uvedl, že ty jsi člověk, který přeskočil z jednoho nesouvisejícího oboru do jiného.
+Můžeš nám něco říct o sobě na začátek, aby vůbec posluchači věděli, kdo jsi?
+Je to pravda. Moje kariéra byla taková trochu nezvyklá.
+20 let jsem strávil u policie, z toho převážnou většinu jako detektiv služby kriminální policie a vyšetřování.
+A téměř ve svých 40 letech jsem se rozhodl, že otočím o 180 stupňů a stal se ze mě programátor.
+A programátor v našem týmu, F-Sharpový programátor, musím dodat.
+No krása.
+Nerozčiluje tě to, že lidi se na něco ptají, protože my tady máme spoustu otázek týkající se tvé předešlé kariéry,
+což je logické, protože pokud jsi někde strávil 20 let, tak asi budeš mít o čem vyprávět.
+Nebo ještě ti to baví pořád, když někdo přijde a řekne, ale řekni mi něco, co můžeš říct.
+Už mě to rozčiluje, ale co bych pro svého seniora neudělal.
+Takže to bude, přátelé, poslední historicky vyprávění Davida Pichy.
+Nebo dneska se prosím tě vyšťav a budeme to mít navždy uložený.
+A když někdo za tebou přijde a řekne, pust si podboc a sem a tam to všechno máš.
+To je dobrý nápad. A v kanclu kdokoliv přijde, tak řeknu, už se ho neptej, všechno je tam.
+Dobrý, dobrý. Tak jo. Prosím tě řekni, co teda děláš u nás v Cienku posluchačům, aby věděli,
+že ty jsi tak programátor, já jsem trošku řekl, že jsi od nás v šarpu, ale co je ta tvoje denní náplň práce teďka?
+Do Cienka, tak jsem nastoupil do něčeho, čemu to je říkají, Cien University a já už jsem nějaký předchozí zkušenosti
+s programováním měl, ale programoval jsem v Pythonu a F-Sharp je úplně něco jinýho a začali mě učit od začátku,
+ale kluci to měli tady dobře promyšlený, dali se s tím práci, skoro bych použil slovo profesionální.
+Skoro.
+A začali mě učit, začal jsem dělat nějaký vlastní projekt a začal jsem se učit to, co bude potřeba tady pro nějaký skutečný biznis.
+Dobrá, dobrá, pojďme tady na to tvoje, já jsem řekl, že ty jsi byl v útvaru pro odhalování organizovaného zločinu,
+je to dobře nebo ne vlastně ten název?
+Správný název je Národní centrála proti organizovanému zločinu.
+Takhle, takže to není UOOZ, to už neplatí?
+To už neplatí, NCOZ jsou dva sloučený útvary, útvar pro odhalování korupce a finanční kriminality
+a útvar odhalování organizovaného zločinu a po vzoru zahraničí, třeba Anglie, ale i Ameriky a i Slovenska,
+když to nevím, jestli bychom se měli brát za vzor, tak je tendence,
+že tu národní linii kriminální policie slučovat do jednoho úřadu údajně pro lepší výměnu informací,
+no ale tak každý si o to myslí svoje.
+No a co si o to myslíš ty? To je docela zajímavé, jako zase jiná reorganizace,
+prostě něco, co řeší IT firma, tak co si o to myslíš v tomhle příběhách?
+Pokud by to fungovalo tak, jak má, já se omluvám, já musím napít před napísem.
+Ne, normálně dej si.
+Tady jenom já pijem, já tady taky piju.
+On mi do toho furt mlaská.
+No a on to má románek.
+Pokud by to fungovalo tak, jak má, tak ta myšlenka je správná,
+protože často se stávalo, že ty dvě jednotky se střetávaly na stejných případech,
+nepředávaly si informace a ten výsledek byl potom slabší,
+protože místo toho, aby si pomáhali, tak si vlastně konkurovali.
+Nicméně problém s organizovaným zločinem je, že průstá úplně všude
+a velmi se osvědčilo, že na organizovaný zločin platí malý týmy.
+Takže lepší je, když ty jednotky jsou malý a jsou tam lidi,
+kteří si stoprocentně věří a drží ty informace.
+Ale zase nechci křivdit, protože současný ředitel,
+pan doktor Mazánek, je borec a drží tam takovou linii,
+že ačkoliv je to jeden velký útvar,
+tak ty jednotlivý odbory jsou do velké míry samostatný
+a ani on sám neví často, co se tam děje.
+Což je možná dobře, ne?
+Což je nemožná, ale říkám, je to ověřený.
+On to zná, protože sám dělal kauzy, které byly hodně ze zhora
+a pravidelně mu volal pan Kalousek a hodně se to probíralo v médiích
+a vysvětlovali mu, že to vyšetřuješ.
+Předpatně, když to vede k tomu trestnímu zpíhání.
+Takže tam se děli úplně nepředstavitelný věci.
+My bychom možná na začátek ještě mohli říct,
+protože ty jsi podepsal mlčenlivost při odchodu od policie,
+ty jsi vlastně po 20 letech řekl, dobrý, já na to dlabuju,
+budu dělat něco jiného.
+O čem vlastně můžeš mluvit?
+Jaké jsou ty hranice toho, co můžeš a nemůžeš říct?
+Protože na jednu stranu ty jsi podle mě úplně studnice dějiny,
+jin novodobí, historie organizovaného zločinu,
+minimálně za posledních 20 let, a že se toho dělo.
+To je na knihu.
+To je na knihu, ale zároveň ty ji nemůžeš nikdy napsat, předpokládám.
+No, za 20 let určitě ne, protože jsem nebyl celých 20 let,
+jsem neřešil organizovaný zločin, ale něco jsem tam zažil,
+ale to takzvané NDAčko je napsalý tak,
+že já nemůžu mluvit o konkrétních lidech.
+A docela spíš bych mluvil obecně,
+protože ty sankce jsou tam potom jako nepříjemný
+a říkám, že sám ředitel NCOZ je jako docela drsoň
+a co jako nesnášel, tak jsou úniky informací,
+takže už jako radši bych ho někdy potkal u piva,
+než se začíká na dveře sínka a říká tak, tak Davide, tohle ne.
+No jde, půjdeme.
+Než spíš by mi mohl přijít nějakej nepěkný papír
+a začít se mnou nějaký...
+Jo, jo, vlastně nějaký věci s pruhem a tak dále.
+To určitě nechcem, ale možná mě by úplně na začátek zajímalo,
+vy možná, protože s Románkem se vidíte často,
+jaká byla ta primární motivace odejít, jo?
+To by mě zajímalo, vlastně takovýhle switch,
+není to úplně častý, tak vlastně v čem to tkví?
+Hele, častý to je, akorát, že ty lidi často neodcházejí do IT.
+Ono je to hodně daný filozofií výsluh
+a...
+A je to daný tím, že celý služební zákon je nastavený tak,
+že on vlastně jako moc nechce, aby tam ty lidi byli přes určitou dobu.
+OK.
+Ono totiž po 15 letech člověk už má nárok na výsluhu
+a ta se zvedá a nejrychleji se zvedá do 20 let.
+A zároveň po těch 20 letech člověk má ještě šanci,
+ještě není úplně takovej stařec, aby se nikde nechytil,
+takže se říká u policie, že jako ideální je odejít po těch 20 letech.
+Akorát, že často ty lidi už jako...
+Jako toho moc dělat nechtějí, tak odcházejí prostě dělat nějaký
+jako lehčí profese, kde ta výsluha spolu nějakým,
+s nějakým i poměrně nízkým platem jim dá jako důstojný živobytí.
+A myslíš si, že je to i dobře, že ty lidi odcházejí,
+že je ten systém takhle nastavený, že třeba dochází k cíleným rotacím,
+že tam není nikdo tak dlouho, aby tam třeba zakořenil,
+aby třeba sám se přidal na druhou stranu.
+Tohle to už jako strašně moc věcí znáš, strašně moc lidí znáš,
+strašně moc vidíš podle mě do té struktury celého toho státu
+a všech těch věcí kolem.
+Myslím, že v té důvodové správě, když ty výsluhy vymýšleli,
+tak jeden z těch důvodů je právě, aby se ten člověk nepřidal na druhou stranu.
+Aby ten stát se o ně nějakým způsobem postaral,
+což je do určitý míry pravda, protože na těch některých útvarech
+ty lidi jsou tak zběhlí, že kdyby si dali na tu druhou stranu,
+tak by to bylo obtížné. Ale někdy se to bohužel stává i tak
+a pak to vidí ty vyšetřující policisté,
+že když ta druhá strana dostává ty informace od bývalého kolegy,
+tak se to dělá hrozně blbě, protože prostě to ví.
+Takže já jako jsem pro výsluhy, je to dobrý.
+Jo, jo, super. My jsme rádi, že díky výsluhám tě tady máme.
+My jsme skočili de facto na úplný konec to tvoje odejítí od policie,
+ale proč ses vlastně na začátku k té policii dal? Co byla ta motivace?
+No tak původním motivacem bylo, že jsem chtěl být akční hrdina
+a střílet po lidé. Což, ať by někdo tvrdí něco jiného,
+prošel k policii. A začínal jsem úplně od spodu
+a začínal jsem na starém městě.
+Jezdil jsem v 158. A to tak jako dost bylo, to mě překvapilo.
+Že opravdu to tak bylo, jo?
+Sice tolik se nestřílelo, ale spousta rvaček,
+automobilový honičky s opilem řidičeva seděly jako na denním pořádku.
+Takže z toho jsem byl i trošku zaskočenej.
+Že opravdu je to blízko k tomu, co jsi myslel?
+Přesně tak. Ale takhle, aby jsi to nemyslel,
+aby si lidi nemysleli, že všude u policie tak to je,
+tak staré město překvapivě patří mezi místa s nejvyšší kriminalitou vůbec.
+Vlastně je to tady dost divoký západ.
+Ale je to daný tím, že cizinci sem jezdějí hodně pít,
+prodává se tady obrovské množství drog,
+pořád se tu vykrádejí auta, řádějí tu kapsáři, podvodníci.
+Prostě to centrum je centrum ze všem všudy.
+Takže tyhle ty stagparty a dánové očralí a tak,
+tak to jste si užívali na daním pořádku.
+Přesně tak. Takže někdy jsem vchodil ze služby jak řezník s krvavou uniformou až na kolena.
+No ale byla to cizí krev, ne?
+Byla to většinou cizí.
+No, tak to je dobrý.
+Kolik ti bylo let? Prvním, co mě napadá, jako dneska už tátům,
+jestli jsi si uvědomoval to riziko nějaký, který s tím samozřejmě je spojený.
+Co? No, to jsem si neuvědomoval.
+A nebylo to chytrý, obzvlášť nějaký, jako kdy jsem měl kolegu,
+který mě vlastně hned první den mi utekl pachatel
+a já jsem dostal takovýho prcáka, to jsem v životě nezažil.
+A byl jsem z toho překvapenej a vůbec jsem neuspěl se svým argumentem,
+že se to může stát, jo.
+Tak kolega mi řekl, že občanci nás neplatí za to, aby se něco takového stalo.
+No.
+Takže jsem se začal učit ulice.
+Začal jsem se učit zákony.
+Začal jsem trénovat.
+A pak už mi moc lidí neuteklo.
+Ale kdybych se k tomu vrátil, jsem dělal takovou blbost,
+že třeba člověk běží po nějakém vysokém objektu
+a pachatel přeskočí na druhou stranu.
+A já prostě bez rozmyšlů jsem skočil taky.
+A dneska jsem si říkal, než jsem se mohl zabít.
+Tak to je neuvěřitelný, no.
+A ty jsi teda vlastně dělal tu 158.
+Dělal jsi ty, řekl bych, asi ty nyní.
+Nejhnusnější teda výjezdy.
+Nějaký mrtvoly a tyhle jste dělali?
+Nedělal jsem nejhnusnější výjezdy.
+Dělal jsem jako úplně všechno.
+Pro mě to je to, že to je to první, co číslo, co zavoláš.
+Ty jsi vlastně u všeho první, ne? 158.
+No, ono je to složitější.
+158 jezdí tzv. pohotovostní motrizová jednotka.
+Já jsem byl normální lítková služba.
+Ale prostě člověk to jezdí nebo volej přímo k nám.
+A je to tak, no.
+Bývali jsme první na tom místě.
+Ale říkám nejhnusnější.
+Tak bývaly to rvačky po hospodách, domácí násilí.
+Někdo někoho viděl, jak krade.
+Tak taková klasická pouliční trestná činnost.
+Ale třeba nějaký mordy a tak to jste taky jezdili?
+To jsme jako místní oddělení taky jezdili.
+Ale já jsem to vyloženě nespracovával.
+Já jako hlídkař jsem si tam vstoupnul.
+A hlídal jsem, aby tam někdo nepřišel.
+Ale tak jezdím.
+A jezdili jsme v létě otevírat často dveře,
+když v baráku byl velký smrad.
+Což bývala často nějaká nebohá babička.
+Takže za sičeva jsme vyrazili dveře.
+A pak jsme tam našli někoho, kdo protýkal postelí.
+To bylo jenom zajímavé v tom, že člověk si říká,
+že se přece nepobleje, když uvidí mrtvolu.
+Ale on člověk jako nebleje z toho, co vidí,
+ale z toho, co cítí.
+Jasně.
+Ten žaludek se prostě sevře v pěst.
+A to je jako smrad úplně, bych řekl,
+ažkoliv je lidský, tak je nelidský.
+A to ti teda bylo zhruba 20 let?
+To mi bylo zhruba 20 let.
+A tady teda tuhle část policijní kariéry jsi měl i dlouhou.
+A tu jsem neměl tak dlouhou.
+Já jsem jezdil asi roka půl,
+pak jsem nastoupil jako zpracovatel nápadu trestné činnosti.
+Zpracovatel nápadu trestné činnosti?
+A ve svým podstatě je to takovej jakoby malej detektiv,
+kterej je ale v uniformě a vyšetřuje takový ty bagatelní trestní činy,
+typu jako někoho okrad kapsář,
+někomu ukradli popelnici,
+a fakt někomu se vloupali do auta.
+A akorát na tom městním oddělení hodně lidí si stěžovalo,
+že ty jejich věci nejsou objasněný.
+Ale na tom starém městě,
+to třeba jako nešlo.
+Ale nešlo to proto,
+protože těch věcí napadlo za den třeba 25.
+A ten jeden zpracovatel potom měl na měsíc,
+měl třeba 20 případů.
+A s těma případama se pojí úkony úřední,
+který musí sepsat,
+a vlastně nejsou jako přínosem pro objasnění toho trestního činu.
+Takže se vlastně dostává do pozice,
+kdy toho je tolik,
+že vlastně tu trestnou činnost dokumentuje
+a vlastně ji nespracovává.
+Takže na konci měsíce napíše,
+nic jsem nezjistil,
+ale není to proto, že by byl tak neschopnej,
+ale je to proto, že fakticky na to není čas.
+A to jsme tehdy i řešili potom.
+Jsem byl i na nějaký misi v Americe
+a tam třeba razej takzvanou zásadu oportunity v trestním řízení,
+což znamená, že de facto můžou vyšetřovat, co chtějí,
+a když něco nemá smysl, tak to nevyšetřují.
+A zatímco u nás jsou zásady formality a legality,
+a to znamená, že my se musíme zabývat vším,
+což vede k větší spravedlnosti.
+Ale ve výsledku,
+místo toho, abych jako dokumentoval 20 vloupání do aut,
+tak by bylo jako lepší,
+kdybych na nějaký ulice vstoupil
+a by se tam nikdo nevloupal,
+protože bych tam stál.
+Takže to jsou takové filozofické otázky,
+kdy prostě ty elitní právníci,
+kteří píšou ty zákony,
+tak se tím zabývají, co je lepší.
+No a jak ses teda dostal až na NCOZ?
+Jak to pokračovalo?
+Dostal jsem se tak,
+protože jsem byl ambiciozní blbec, že jo.
+A prostě chtěl jsem někam vejt.
+A byl jsem tak jako nalenkován,
+že buď jako na zásahovku,
+alebo na krividálku, že nic jiného nechci dělat,
+protože jsem chtěl dělat ten core business.
+U policie se dá dělat kdeco.
+Člověk, když chce,
+tak se tam může zašít na operačním středisku
+a může tam sedět do důchodu,
+nebo může někde na prezidiu
+překládat dopisy na Interpolu a Europolu.
+Ale já jsem prostě chtěl dělat
+tu policejní core práci.
+No a na zásahovku,
+se mi tehdy moc nechtělo,
+ačkoliv jsem v jednu dobu měl šanci,
+protože já jsem nastupoval jako středoškolák,
+to taky bylo jako hloupé rozhodnutí,
+ale prakticky hned jsem si požádal nějaký studium
+a podařilo se mi dostat na policejní akademi,
+takže jsem u toho studoval.
+Ale oni byli docela v nízkých platových třídách
+na zásahovce a zjistil jsem,
+že ta práce, ačkoliv je romantická,
+musí mít lásku k vykopávání dveří.
+Ale když člověk vykopává ty dveře
+každý den,
+tak už ho volej koledá.
+Ono vás to přestane bavit.
+Musí být pro to nátura.
+Musí mít lásku k vykopávání dveře.
+Musí mít člověk lásku k tomu násilí,
+což já jsem zjistil,
+že jsem ve své postati docela pacifista.
+Tak to musí být zajímavé zjištění.
+Takže nakonec
+dostal jsem šanci
+se přihlásit na stáž
+na obvodní kriminální policii
+tady na Praze Římská 1,
+což byla Praha 1, 6 a 7
+dohromady.
+Byla to sranda.
+Byl tam takový strašně svérázný šéf,
+který byl vyhlášenej.
+Předtím byl snad dokonce
+ředitelem celé kriminální policie tam,
+ale z nějakého...
+Nevím, jestli měl problémy
+s Národním bezpečnostním úřadem,
+protože jeho komunistická virulost...
+Nevím, nechci mu křivdit.
+Ale prostě skončil
+vedoucí oddělení, ačkoliv byl
+mimořádně schopnej.
+Nastoupilo nás tam 12 na stáž
+a my jsme koukali.
+On nám tam udělal takovej žebříček
+a říkal, tak pánové,
+jste tady na tři měsíce
+a
+kdo z vás za ty tři měsíce chytí nejvíc pachatelů,
+tak toho jednoho si tady
+nechám.
+A to bylo všechno, co nám řekl.
+A já říkal,
+co tedy máme dělat.
+A on si mi to řekne,
+chytím co nejvíc pachatelů.
+No a jak to máme dělat?
+No tak snad máš fantazii nějakou, ne?
+No a říkám, dobře.
+Tak jsem si říkal,
+tak tady asi chci zůstat.
+Tak jsem si říkal,
+támhle kolega vypadá nejschopněji,
+tak se s ním dám do toho,
+do foroty.
+A jste jsme vymyšleli,
+co se tam nejvíc děje.
+Tak jsem,
+tak jsme zjistili, že se prostě
+je tam nejvíc vloupaček do aut.
+A tak jsme si udělali takovou
+jako statistiku a zjistili jsme,
+že jsou tady jako ulice, který jsou natolik
+vykrádaný, že vlastně, když si tam člověk
+jako schová, tak ten člověk
+jako přijde.
+Takže jste šli do ulice de facto
+na ryby, protože jste viděli, že tam berou.
+Jako přesně
+tak to bylo, no. A tehdy to byla
+ulice Divadelní,
+což je pod Národním divadlem.
+A ulice Dvořákovo nábřeží
+uprávnický fakulty.
+A tak jsme si
+tam opravdu jako věděli jsme i jako časy,
+kdy vlastně jako je největší pravděpodobnost.
+No a začali jsme tam chodit na ryby, že jo.
+A
+i jsme se tam jako domluvili, protože třeba
+v tom Národním divadle,
+tak tam jsou jakoby kamery,
+takže se tam dalo sednout tak jako šikovně, aby jsme
+viděli, kdo kdy přišel.
+Věděli jsme, kam se máme přesunout.
+A no ono to jako
+fungovalo, no. A u toho
+Dvořákova
+nábřeží, tam jsme se zase dohodli
+na té právnické fakultě, tam byla knihovna.
+A ona má okna
+jakoby v úrovni
+v úrovni
+chodníku. Takže se dá přesto
+koukat, ale ty lidi často
+do toho jako nekoukají. Takže bylo
+vtipný, že tam přiběh jako pachatel.
+Já jsem koukal na ty, jako na něj ze spoda.
+A on jako koukal směrem nahoru.
+A teď se jako hrozně rozhlížel,
+jestli jako nikdo nekouká.
+A bylo to vtipný, protože stál půl metru ode
+ježi.
+A já už jsem jako hlásil kolegovi, který
+ho jako běžel tam jako
+vyzout.
+Cílem toho, cílem jako stoupání
+v tom žebříčku nahoru bylo i toho pachatele
+dotáhnout prostě na tu policii?
+Cílem nebylo
+zadržení, cílem bylo
+sdělení obvinění stresného činu.
+A to byla jakoby taková čárka.
+Vymyšleli jsme ještě spoustu dalších věcí,
+které tady jako našel jenom rozebírat.
+Ale dopadlo to tak,
+že jsem nebyl první, byl jsem druhý.
+Tak jsem říkal, hej, to jsem říkal, tak to je v prdeli.
+A ježiš, já teďka nevím...
+Ne, můžeš, pohodě.
+Ne, tady se může všechno.
+My jsme třeba neřekli, že tady sedíš celou dobu na hej,
+ale to je jenom taková informace.
+Tak jako v sedm ráno.
+A
+nicméně...
+Byl jsi druhej, takže jsi řekl,
+je to vždy.
+Ale nakonec tam pan vedoucí oddělení řekl,
+tak já si vás vezmu oba.
+Jako první dva.
+Takže tak začala moje kariéra.
+Vy jste museli být stejně s tím tvým kolegou, ne?
+Kolega byl jako vyčůranější,
+ještě si něco sehnal bokem.
+Jo, takhle.
+Oportunista za všem všudy.
+No takže vlastně ty jsi
+tímhle s tím se dostal až
+do té pozice, kterou jsi teda nedávno opustil.
+Ne, ne, ne.
+To jsem dělal na obvodní kriminálce
+roky a dělal jsem jako všechno možné tam.
+A
+pak jsem se dostal
+na útvar odhalování
+korupce a finanční kriminality, kdy jsem dělal
+poslance...
+Jste štěvříček složitý.
+Poslance soudce, státní
+zástupce, protože tehdy to bylo jako,
+když to začínalo být hrozně módní
+téma, hlavně
+s věcmi veřejnými a tak jsem říkal,
+tak to zkusím a absolvoval jsem
+tam prostě výběrový řízení, které
+bylo jako, to tady asi
+taky bych neměl říkat, jako
+dobrudružný.
+A pak
+jsem skončil
+na NCOZ, no takže
+tak to bylo. Takže takhle jsi si přeskákal
+přes ty různý jako... Vlastně
+policie je zajímavá tím,
+že vlastně člověk
+může postupovat
+nahoru, aniž by nebyl vedoucím.
+Protože třeba
+takovej řadovej detektiv,
+ani ne juniorní,
+ani ne seniory, jsou takový jako prostě
+jsou junioři
+řadoví a senioři, tam se tomu
+jenom říká jinak,
+tak i ten řadovej detektiv na NCOZ
+tak má vlastně platovou třídu
+jako
+velitel
+té obvodní kriminálky.
+A je to daný tím, že vlastně
+to, co on řeší, tak jsou takzvaně
+jakoby věcně a
+skutkově a právně závažný
+kriminální
+případy. Takže
+problém je, že
+pak když už člověk dojde do nějaký
+už pak jako
+nejde řešit nic závaznějšího, tak
+už pak jako neví, co dál.
+A to byl ten důvod taky?
+Proč jsi se rozhodl jít jinam?
+A to byl jeden
+z důvodů, proč jsem se rozhodl
+jít jinam.
+Ale těch důvodů bylo víc.
+Ale myslím si, že nejsilnější důvod
+bylo to,
+že
+už
+jako mám
+nějakou rodinku
+a
+to stíhání těch nejbohatších
+a nejvlivějších pachatelů je blbě.
+Oni mají
+všichni advokátní týmy
+a
+zatímco na tý obvodní kriminálce
+ten policista má jasně navrh,
+tak tady je pomalu v nevýhodě.
+A ten
+pachatel
+vlastně když už neví
+kudy kam, tak se začne obracet
+proti policijnímu orgánu.
+A oni se začnou zaměřovat i na toho
+konkrétního policistu.
+Teď nechci mluvit
+o našich kauzách, ale třeba
+je to vidět v kauze Čapí hnízdo,
+protože
+tam to zpracovával
+nějaký policista na kraji, to nedělala
+NCOZ, protože to nebylo tak
+závažné, co se týče
+rozsahu té škody.
+Ale ten policista, ačkoliv
+odvedl dobrou práci,
+tak
+Babiš ho jako úplně zničil.
+Ten člověk aby chodil kanálama,
+protože on prostě o něm všude rozhlásil,
+že je skorumpovaný
+a že to všechno dělá na zakázku.
+A on je úplně vyřízený.
+Takže
+to, co jsem zjistil,
+že není...
+Člověk by si řekl, že nejvíc mu hrozí,
+že ho fyzicky zlikvidují,
+ale prostě tady nejsme na Ukrajině,
+tohle se tady moc neděje, oni vás
+zlikvidují existenčně.
+A to je jako ještě horší snad.
+Takže tomu, říkám teda motivace,
+se na to vydláb.
+Takže jako reálně prostě si chtěl
+přejít z toho, aby si se
+vlastně obklupoval těma bad guys,
+prostě někam, kde prostě to je
+v uvozovkách normální.
+Já si pamatuju, když jsem dělal s Davidem pohovor
+a právě jsem se ho na to ptal, proč chce
+do IT a on říkal, že dělal 20 let
+jako sezlem
+a že už toho má rost.
+Že už se naplnil ten hrnec.
+Což mi přišlo sympatický, by the way.
+To je další věc,
+že člověk se stýká vlastně
+dvěma druhy
+lidí. Stýká se s policajtama,
+kteří jsou jako stejní
+a stýká se
+se zločincema,
+ale pak už začne na ten svět
+nahlížet hrozně negativně.
+A když má
+kolem sebe, má to štěstí
+a má kolem sebe ještě nějaký normální lidi,
+tak mu
+začnou ty lidi připomínat, že
+je trochu mrzout.
+A to člověk pochopí, že
+jestli se teda nechce zbláznit úplně
+a začít nesnášet
+ten svět, tak
+to člověk nemůže dělat asi celý život.
+Nebo musí mít na to náturu.
+Já mám ještě takovou otázku,
+která s tím částečně souvisí
+a nesouvisí. Já vím, že ty nemůžeš říkat
+konkrétní věci. Takže když se třeba zeptám na
+na kterou kauzu,
+na který jsi kdy pracoval,
+jsi nejvíc pyšný, tak vím, že ty mi nemůžeš říct
+přímo to jméno. Ale jestli třeba můžeš
+říct nějakou oblast. Jako vím, že
+aspoň naznačit, jestli třeba která práce,
+když teď zpětně se podíváš, řekneš
+jo, Byltovo je prostě
+státní zástupce s námi,
+peklo, všechno, ale jako dopadlo to dobře
+a bylo to super, že jsme to udělali.
+Nebuďte slušný, řekneš.
+No,
+no, já tě jako trochu zklamu,
+já opravdu tu konkrétní kauzu neřeknu,
+nechci mít problém, ale můžu jako říct,
+jako je tam jedna věc,
+jako na kterou jsem pyšný
+a to je to, že
+za tu dobu, co jsem tam byl, tak jsem viděl
+to,
+jak když zavíráš ty lidi
+a jejich kauzy se
+medializují,
+tak to opravdu působí na celou tu
+společnost a
+pak když se člověk pohyboval v tom prostředí,
+tak viděl, že oni jsou opatrnější
+a víc se bojí.
+Takže když se nám podařilo
+postupně jako zavírat
+větší ryby,
+tak dá se říct,
+že se v té republice začalo méně krást,
+protože
+všichni byli opatrnější a řekli
+si, no, tak jako to zase jako za to
+úplně jako nestojí.
+A i když se mi jako spousta
+lidí jako na to nadává, jak to tady
+stojí za nic
+v té republice,
+tak časem
+my jsme byli jakoby garantem
+spousta mezinárodních institucí,
+tak jsme se stýkali
+s policisty z jiných států
+a já jsem pochopil jako, že jsme
+jako to zvládli,
+ten přerod z té
+postkomunistické země
+nadou demokracii docela dobře
+a že jiný
+státy jsou na tom jako daleko hůř
+a že jako
+nejenom těm policajtům,
+ale i těm jako státním
+zástupcům a těm lidem se vůbec
+jako podařilo to jako
+posunout
+v daleko lepší společnost, než která
+tady byla třeba jako v těch devadesátejch
+letech a na přelomu milénia.
+Super. Ještě teda
+mám totálně k tomuhle otázku bokem,
+kdo vymýšlí názvy těch, jako jednoduše
+Tomáže. Gorilla, stoka,
+dozimetr, prostě takově, jako
+to je tam jeden člověk, který tam háže
+ty jména, nebo jak to vzniká, to mě zajímalo.
+Hele, vymýšlí
+to ten takzvaný hlavní
+zpracovatel, ve svý postatě
+jsem to byl i já, jako kdo
+vymýšlel tyhle názvy a
+už jako
+to bylo jako z nejtěžších věcí, protože člověk
+už jako nevěděl, co si má vymýšlet
+pořád. Vidíš, vidíš kolik.
+Naming is hard. Dokonce u policie.
+Je tam všude stejný. Je tam všude stejný, to je super.
+Teď jsem měl nějaký náhodný generátor slov,
+nebo se zkouknul do nějakého slouníku, píchnul
+prstem a bude to,
+bude to, nevím, čivapčiči
+kauza. No, to mě mohlo
+napadnout, mohl jsem si udělat generátor.
+Tak odpříště bys
+mohl. Ale jako teda pak ještě ten naming
+těch pozic, když popisejš, jako jak
+ses jmenoval na té pozici, tak to je hrozně
+takhle. Jo, jo, to je zajímavý, jo. Ale prosím tě,
+ještě byl nějakej fakt jako, protože
+teď jsme provolili to dobrý, byl nějakej fakt jako
+blbej den, kdy ses říkal ty a dost,
+já jdu vozit rohlíky po
+městě, já budu dělat cokoliv jinýho,
+já už tady nebudu ani vteřinu.
+Hele, bylo
+jich dost a
+opravdu jako nejhorší
+jako pocity člověk měl,
+když na něj ty pachatele zašli
+podávat trestní oznámení
+a... Jako ten na tebe jako na
+fyzickou osobu. Jako na fyzickou osobu.
+A
+to bylo jako hrozný, ačkoliv člověk
+jako věděl, že nic neudělal,
+tak
+ta inspekce, nebo teďka generální
+inspekce bezpečnostních zborů,
+tak člověku fakt jako
+přistupujou jako k sprostýmu podezřelivu.
+A
+člověk si to jako souběžně
+s tím vyšetřováním toho pachatele
+zažíval z druhý strany. A opravdu
+v některých případech naštěstí
+ne mym, protože
+ty jako trestní oznámení,
+byly opravdu jako absurdní. A i ten
+člověk jako na té inspekci viděl, že to je
+kravina. Ale stejně mě tím jako protáhl.
+Ale někteří moji kolegové
+skončili až u soudů. A často
+to jako končilo tím, že třeba
+po pěti letech
+jako je osvobodili. Ty vole. Jo.
+A ty lidi vlastně utratili
+miliony za právníky.
+Takže
+tohle bylo jako fakt nebezpečný.
+A tam jsem jako
+pochopil, co jako
+třeba v Americe často
+spojí to policejní zaměstnání
+ze statečností. Tak jsem pochopil, že
+takovouhle statečnost to vyžaduje
+v České republice dělat.
+Jako takovýhleho policajta.
+To je síla. Tak to je síla.
+A ještě tady, Roman, jak mě inspiroval
+jednou věcí. Popisuješ tady, že
+v rádiu jste měli mikrofon jako drogu.
+No, no, no. A vlastně
+já jsem četl takovou jako pěknou knížku o doktorech,
+který přišli z války. Tam prostě řešili
+nejhorší věci, co si můžeš představit.
+A pak tady někomu prostě
+sádrovali nohu, že jo? Jasně.
+A vlastně ten adrenalin tam nebyl.
+Najednou měli pocit, že jsou jako méně užitečný.
+Tak
+nemáš tohle teďka s přechodem
+na kariéru, která je v podstatě safe,
+když to porovnám s tou předchozí?
+Jako méně užitečný
+člověk určitě
+není jako, podle mě jako
+člověk, který něco jako vyrábí.
+A já programátory beru
+jako řemeslníky, kteří jako něco
+tvoří, tak to jsou prostě strašně
+užitečný lidi.
+A já jsem jako na to hrdej,
+že můžu něco takovýho dělat. No super.
+Ale nechybí ti nic
+z těch zdobtých policie? Třeba nevím, že ten
+adrenalin, nebo víš, jako
+myslím, že tohle si myslím ok, že
+ti chybá ten rush toho, že se něco děje
+a najednou IT, pokud zrovna si nesmažeš
+tabulku user z produkce, tak si myslím,
+že toho zas tak moc vlastně neděje.
+Hele, no
+jako ten rush mi moc
+jako nechybí, protože jsem se
+jak se říká, jako vyskákal.
+Jo, jo.
+Jsem se vyskákal. To není ten mladý
+Janek, co střílel po lidech.
+Už mi to stačilo.
+Ale jako člověk
+si musí zvyknout trošku na jiný
+svět tý
+toho soukromýho prostředí. A to, co
+třeba jako nikde jinde není,
+tak, že
+my jsme, co jsme tam jako spolu bojovali
+s tím zločinem, tak ty lidi to tam
+jako stmelí takovým způsobem, že si
+jako stoprocentně důvěřujou, jo. Ale to
+jsou jako situace, kdy prostě jste někde
+v nějakým autě s neprůhlednýma
+oknama a druhý si musí
+dojít jako na záchod, takže kolegyně
+vedle vás jako na sadačce
+čůrá do
+do petlahve.
+Tak to
+vás jako stmelí takovým způsobem,
+že už si jako
+věříte ve všem potom, no.
+No já musím říct, že David vlastně
+říkal, několikrát prohlásil
+u nás v kanclu, říkal, vy jste tady
+na mě strašně milí, mě už se tady tři
+krát někdo zeptal, jestli se mi tady jako
+líbí, jestli jsem spokojenej.
+U policie mě hodili do pick-upu a když jsem se
+zeptal, a do čeho budu čůrat, tak po mě hodili
+petlahví, jo. Takže tam ten
+rozdíl asi určitě je, to je
+mi jasný. Hele, než úplně opustíme
+tu policijní část a skočíme
+společně
+vyloženě do toho IT, ještě mi zajímá
+jedna věc, jak je na tom
+IT u policie? Já předpokládám, že kromě
+nějakých jako zvláštních opravdu cyber
+tam asi pořád vládne papír, ne?
+No,
+IT u policie nějaký je.
+Ne, takhle.
+Můžu říct,
+co se týče takových těch jako hardwareových
+záležitostí, tak třeba na těch obvodních
+kriminálkách a krajských, co já pamatuju,
+to stálo jako za prd prostě, že
+výbava stála
+za prd a podobně.
+A třeba naopak na tom NCOZ, když se mi rozbil
+počítač, tak jsem zvedl telefon
+a do půl hodiny tam příběh frajer
+který mi vytrhl harddisk z počítače
+a na něj připíchnul novej počítač.
+Takže to jsem byl jako,
+jsem koukal,
+že to šlo rychle.
+Ale co se týče software, na to se asi ptáš,
+tak tohle to řeší
+útvar zvláštních
+činností, který tam
+píše ten software a
+no...
+Všechno máte jako custom made, jo?
+Všechno je vyloženě vyrobené v policii pro policii?
+Nebo...
+No, nechci úplně
+sát, protože podepsaný ty programy
+nebyly, ale
+myslím, že to je custom made
+a problém
+těch programů
+podle mě bylo, že byly
+zbytečně složitý pro ty
+detektivy, který ITáci nebyli.
+Protože ty, co to
+psali, asi žili v nějaký bublině
+a další
+věc je, že ty věci byly hrozně
+legacy. Jakože
+se furt stavělo na nějakým starým
+systému a pak už to jako
+sotva fungovalo. Takže
+jsme dost na to jako nadávali
+a teda
+jako je to nepružný.
+Ten stát je jako
+hodně
+specifický tím, že prostě
+nevím, prostě
+nebylo by těžký sednout a napsat
+prostě za půl roku program, no.
+Ale tam u té policie to nějak jako nešlo.
+A myslíš si, že tam jsou i nějaký, řekněme
+legislativní věci, že
+nevím, ten software musí splňovat
+nějaký další, jak my tomu říkáme
+non-functional requirements, nějaký požadavky,
+který úplně nesouvisí s tím
+softverem jako takovým, ale nějaký
+věci kolem. Já se
+můžu domnívat, fakt nechci
+někomu křivdit, tak
+určitě tam budou legislativní věci.
+Ty věci jsou neuvěřitelně
+bezpečnostně náročný,
+protože tam ty
+opravdu měřítka na tu bezpečnost
+by měly být největší.
+Ale další problém taky
+je, že si myslím, že ten stát má
+tabulkový platy a on
+si prostě nemůže dovolit zaplatit
+ty nejlepší
+programátory, ačkoliv
+by je potřeboval.
+Zároveň, co já vím od kolegů z jiných
+firm, co dělají pro státní firmy, tak
+vyhrát ten tender, projít
+tím tenderem, to je prostě peklo.
+A to děláš dva roky a pak zjistíš,
+že jsi to třeba nevyhrál, nebo dojdeš
+do bodu, že to teda začneš dělat, ale to není
+náš ideál svět.
+Nebo dojdeš do bodu, že i jedno kdo dodá boty,
+nebo i na nich tři pruhy a začíná to na A
+a končí na S.
+A teď vlastně i na druhé straně se ten člověk obává,
+že to je nadefinované pro jednu firmu,
+takže se to celý stopí kvůli tomu.
+Není to úplně jednoduché.
+Dokonce znám storku, kde je připravený
+RPA projekt pro poštu,
+která je tam napočítaná, protože u RPA
+automatizace
+krásně vypočítáš, kolik to ušetří.
+A pošta řekla ne.
+Z mnoha důvodů, které nikdy
+nespatří světlo světa.
+Asi i tam bude problém.
+O těch veřejných zakázkách bych mohl vyprávět.
+To je asi semeniště.
+Je to velká kombinace problémů.
+První problém je v tom,
+že celý zákon o veřejných zakázkách
+je netransparentní
+a špatný.
+A já se domnívám, že
+je to záměr.
+Protože když se tvoří,
+když probíhá
+legislativní proces,
+tak jednotlivý zájmový skupiny,
+což jsou ty podnikatelé,
+kteří platí ty kampaně těm politikům,
+tak tlačí na to, aby tam bylo tohle
+v tom zákoně a tohle.
+A z toho relativně dobrýho návrhu,
+který vypracuje to ministerstvo
+se zdravým rozumem,
+prostě vznikne něco strašlivýho.
+A
+vlastně je to trošku udělané
+na zakázku těm,
+co trošku podváděj.
+A takže
+jeden problém je špatně napsaný
+zákon o veřejných zakázkách.
+Druhý problém je v tom,
+že ty jednotlivý podnikatelé
+samozřejmě všichni chtějí
+vyhrávat ty zakázky
+a jdou často až za hranu
+zákona, takže
+nějakým způsobem to prostě
+obcházejí. Nechci říct, že
+všichni uplácejí.
+A další problém u těch státních veřejných zakázek,
+že ten zákon už je tak jako blbej,
+že často
+ty úřady třeba jako
+něco chtěj, že třeba
+jako není těžký říct, že prostě
+nějakej produkt je nejlepší. To se dá docela
+jako jednoduchou
+analýzou říct, že prostě nejlépe to dělá
+tahle firma. Ale
+oni zjistěj, že oni to vlastně
+nemůžou napsat
+tu veřejnou zakázku
+tak, aby to vyhrál ten produkt,
+kterej oni chtěj a potřebujou.
+Protože jim někdo řekne, že to je diskriminační.
+Takže z toho vzniká
+takový jako vtipný prostředí, kdy
+vlastně ten stát
+vůbec nedokáže nakoupit
+to, co potřebuje.
+Nakonec za to platí dvakrát tolik,
+protože ten do té
+zakázky jde, tak víš, že ho to bude
+stát tolik peněz,
+aby všechno splnil, že se to musí prostě
+nastřelit pořádně.
+A vlastně
+je to celý jako
+špatný to prostředí.
+Ale můžu lidi jako uklidnit,
+jsou státy, kde to stojí daleko víc
+za nic.
+Tak to je dobrý. To je rozhodně
+pozitivní zakončení toho oblouku s
+IT zpátky.
+Ty jsi odešel, jsi v IT.
+Pro spoustu lidí je IT taková jako
+zvláštní sebranka velmi divnolidí.
+Jak to vidíš ty
+obecně ten obor? Jsi přišel úplně
+z jiného a teď tady se procházíš
+po kanclech, komunikuješ s lidmi.
+Co si říkáš?
+Je to chráněná dílna?
+Je to kulturní šok?
+Já se přiznám, že
+ty lidi
+výdám v té práci a moc je nevýdám
+v soukromém životě, ale v té práci
+jako mi připadnou jako
+chytří lidi, jako vůbec mi nepřipadnou.
+No až na některý teda.
+Tak mi vůbec
+jako nepřipadnou divný.
+Ale máš pravdu,
+že jsem zaznamenal, že jako určitá
+míra, jako weirdness je
+od těch programátorů trochu očekávána.
+No. Společností.
+Ale což jako je mně hrozně
+příjemný. Jo, jako nevadí ti to.
+Protože se v tom prostředí cítím
+hrozně uvolněně. Jo, že vlastně.
+Prostě seš tam úplně normální v tomhle prostředí.
+Přesně tak.
+No a jaký ty jsi měl vlastně očekávání, když jsi
+sem šel co se týče právě těch
+lidí a vůbec celýho toho oboru.
+Jak se to pak potkalo s tou realitou?
+Hele,
+já jsem nad tím vůbec nepřemýšlel.
+Mně se prostě líbilo to
+programování a
+jako líbilo se mi, že
+budu moct dělat to, co mě
+baví a
+že vlastně to bude jako relativně
+jedná práce a já si budu žít
+svůj klidný život.
+To byly moje představy.
+A akorát mě trošku
+vyděsilo, jak moc jsou tady
+ty někteří lidi chytří.
+Ale z toho se nic nedělá. Já jsem včera
+ves kamaráda, jsme jeli
+z fotbalu a když jsme byli zpátky autem a vysvětloval
+jsem mu, že v našem oboru existuje
+něco, čemu se říká impostor syndrom. To je,
+kdy každej, čím víc něco studuješ,
+tak zjistíš, čím víc toho nevíš a vlastně
+máš pocit, že pokud tebe ostatní najednou
+začnou považovat za, nedej bože,
+odborníka nebo že něčemu rozumíš,
+takže vlastně ty máš pocit toho
+podvodníka, že to tak není, že všichni ostatní
+si myslí, že jsi lepší a ty tak ve skutečnosti
+nejsi. Takže pokud máš teďka
+ten pocit, že tyjo, tady je spoustu chytrejch
+lidí, ano je, ale ty seš taky
+a vůbec nic si z toho nedělej, ten pocit mají
+všichni navzájem mezi sebou, skrývaj,
+jak jsou vlastně špatný. Takže to je
+úplně v pohodě, to je úplně normální.
+A je něco, co tě vyloženě jako
+překvapilo, i když jsi teda šel s nějakým jako
+očekáváním, něco, co tě fakt jako
+šokovalo třeba? Hele, nic mě nešokovalo,
+ale opravdu
+mě příjemně překvapila ta
+profesionalita a
+byl jsem
+jako, vlastně nečekal jsem od toho
+tolik, že tady
+ty lidi si to pro mě připraví, budou
+se mi věnovat, když
+je potřeba a
+jako
+trošku mě teda, ne máš pravdu,
+trošku mě jako šokovalo ještě
+takový ty snídaně a takový, prostě o nás
+se fakt jako nikdo nestaral a tady se jako o mě
+někdo stará, tak já jsem z toho úplně jako
+už jako zatím hledám něco
+negativního, ale
+Ty hledáš proti službu, že pak budou chtít.
+No, ale
+asi nic, no. Tak to je třeba,
+to bych tě chtěl někdy vzít
+jako do Googlu, do Kalifornie,
+jenom se tam podívat, protože tam to vypadá jak
+hračkářství, tam ani jako to nevím,
+vypadá, že by to byl nějaký normální
+IT-shop, tam jsou skluzavky
+a fotbálky a ping-pong
+a prostě deset tisíc věcí. Vlastně si říkáš,
+že ten počítač tam tak trošku vadí v rohu
+s doplácícími. Tam by tam nemuseli, tak je to tam fajn.
+Tak je to fajn, jo.
+Takže i tohle už tě šokovalo, že dostaneš
+zadatmo snídaně. To jenom mě pobavilo,
+to řekl nějaký kolega tady,
+že jsem říkal, no tak to je super, že jako
+ve čtvrtek jsou ty snídaně.
+A on říkal, no právě,
+jenom ve čtvrtek.
+A to by se
+v Google nestalo.
+No ale vidíš to. Je to o tom úhlu pohledu.
+Že to je vlastně strašně,
+nebo nepřipadá ti, že to je strašně rozmazlený obor?
+Možná ještě seš tu chvilku, jo.
+Ale já kolikrát se divím, jak už
+jsme to dotáhli v té rozmazlenosti.
+No jasně, je to rozmazlený obor.
+Na druhou stranu
+tak ty lidi museli tomu
+hodně dát před tím, aby tady mohli být.
+Tak na to beru.
+A teď jsem to hodil na tu seriózní notu.
+A ještě mi napadla jiná věc, když jsi o tom mluvil.
+Že máš pocit občas,
+jestli to teda není nějaký divný, že se
+takhle ti ty lidi věnujou.
+Je něco, co považuješ za vlastně
+výhodu, co jsi přenestl
+předchozí kariéry a teď ji používáš v téhle?
+Nevím, nějaký styl myšlení,
+nebo právě tady to
+drobný podezírání, který může být občas,
+nebo možná psychologie jako taková,
+která ti možná pomáhá teď pracovat
+vlastně líp?
+Hele, jako
+přístupuji k tomu s velkou pokorou.
+Ale
+mám pocit,
+že už dokážu rozeznat,
+co je důležité a co není.
+A trošku ta policejní
+práce taky naučí člověka
+vidět lidem do duše.
+A to především proto, že
+strašně dlouho sledoval, když oni si mysleli,
+že nesleduje.
+Takže člověk jako pochopí,
+jaký lidi jsou
+v jádru dobří.
+Samozřejmě.
+No já musím jenom říct, že právě já jsem Davida
+chtěl hned od začátku už jenom kvůli tomu, že jsem si
+říkal, že musí mít stoprocentně
+analytické schopnosti, že musí
+být schopný nahlédnout dovnitř.
+A ty víš, že můj dlouhodobý pohled je,
+že to programování je jedna z N činností.
+A ideálně, aby byla jako menší
+u toho programovatele a dělal ty právě tu analýzu
+a koukal trošku dovnitř.
+Takže u Davida se nebojím, že bude mít
+stejně zářivou kariéru, jako
+jí měl u policie.
+Ty jsi teďka na začátku, nebo
+takhle, ty jsi říkal, že jsi vlastně dělal Python.
+To byl jedinej jazyk, který
+jsi předtím zkoušel, nebo?
+Zkoušel jsem jazyků víc, ale
+na Python jsem si udělal kurz
+a dělal jsem v tom
+zdaleka nejvíc.
+A vyzkoušel jsem
+PHP,
+nahlédnutí
+jsem ji do Javy.
+Tady jsem trošku i nakoukoval
+do C Sharpu a
+tady dělám ten F Sharp.
+A co pro tebe byl úplně
+největší problém ze začátku? A teď nemyslím
+vyloženě Java versus
+C Sharp, F Sharp, ale spíš tak jako
+u toho, když jsi chtěl začít programovat.
+Co byl třeba největší bloker na začátku?
+Hele, nejhorší bylo začít.
+Nejhorší začít, jo. Jako rozhodnout se,
+že prostě půjdu.
+Třeba jsem si říkal, tak dám
+si nějaký kurz a těch kurzů na mě by
+padlo asi milion.
+A člověk vlastně jako vůbec
+nevěděl, co. Ale tak jako
+Google je mocnej,
+takže jsem četl, četl a
+četl a nakonec mi přítelka
+mě jeden kurz koupila, takže to vyřešila jsem.
+To je krásný dár. Ale jsi spíš
+ten člověk, který třeba
+čte, než třeba sleduje videa
+nebo nějaký tutoriály? Jak to máš hozený?
+Hele, mně se
+osvědčilo, že
+úplně nejlepší způsob je, když
+seženeš nějaký
+kurz, který ti to
+vysvětlí a hned to po tobě požaduje
+napsat. Takový ty čeky
+na konci kapitoly třeba.
+Přesně ta, ale úplně třeba
+já nechci říct, jaký jsem dělal, ale tam
+to bylo jako natolik interaktivní, že to fakt jako
+vysvětlilo jednu věc a hned si ji člověk
+jakoby zkoušel.
+To klidně může říct. Jestli ti to pomohlo, tak klidně
+udělej reklamu. No dělal jsem kurz
+od Engeta a
+ty to měly jako dobře zmáklý.
+To teda jsem koukal. A to byl
+a opravdu člověk
+jako odcházel a
+měl pocit, že to teda jako umí, když
+to byl jako zároveň jako ten core,
+protože programování
+de facto jsem zjistil jako nekonečně
+složitá záležitost. No jasně no, to
+jako vítej ve světě komplexity.
+Hele a co říkáš
+na pánový programování? Protože my jsme to občas spolu
+vlastně, když jsi říkal, hele můžeš mi pomoct,
+já jsem si vždycky k tobě sednul, něco jsme
+spolu napsali, popsali.
+Jsou lidi, kteří to milují, jsou lidi, kteří to nesnáší.
+Jak to máš ty?
+No tak
+jako, nevím, jestli
+jako úplně to nazývat pánovým programováním,
+ale je pravda, že jsme na jednom
+počítači Romance teda
+připojoval přes vzdálenou plochu
+a já jsem se to snažil dělat
+tak, že jsem prostě programoval do toho
+bodu, kdy jsem nevěděl,
+když jsem nevěděl, tak jsem prostě
+se snažil nějakým způsobem postupovat
+a zjišťovat.
+A když jsem zjistil, že to prostě
+už mi zabírá třeba
+nějaké neuměrné množství času, hodinu, dvě,
+tak
+jsem se obrátil na Romana a ten kus
+naprogramoval za mě.
+A já jsem díky tomu zároveň mi
+zkontroloval ten můj kód, řekl, že to je blbě,
+že jo, a
+já jsem pak
+jsem okoukal ten jeho způsob
+myšlení a
+ten jeho způsob
+zápisu, typu jako
+no tím se nezabejvej,
+to je Syntactic Sugar.
+Já bych chtěl mít taky v Románkovo
+týmu.
+Ne, ale jako
+jako bez toho,
+díky tomu jsem si třeba jako tady zkusil
+udělat jako aplikaci,
+kterou jsme nasadili na Azure
+a která jako funguje
+a
+vlastně sám bez
+párovýho programování by tohle to jako
+asi úplně jako nešlo.
+Protože některý věci bych
+se svým objemem znalostí
+nebyl schopný
+překonat.
+Ale to ještě jsme teda úplně pozapomněli, jak jsi skočil z toho Pythonu
+do F-sharpu. To napadlo tebe?
+Někde jsi o tom čet? Nebo Románek to natýzoval?
+Nebo jak to zniklo, že jsi v F-sharp týmu?
+Bylo to tak, že
+já jsem nejdřív
+plánoval, že od policie jako
+plynule přijedu do jiný práce, pak jsem pochopil, že to
+nejde, že prostě musím utíct.
+A
+vlastně jsem skončil
+a tak jako v klidu,
+jsem teda žil z něčeho,
+co jsem jako měl našetřenýho a učil
+jsem se a
+začal jsem dělat
+ten Python a měl jsem kamaráda, který
+jako mi radil a jednoho dne mi
+řekl, hele, nechtěl bys dělat u nás?
+Tak jsem řekl, tak
+si říkáš jako, proč ne?
+A
+tak
+jsem si šel popovídat s kolegama
+tady a oni se mi zeptali,
+a znáš F-sharp?
+Říkám, C-sharp myslíte? A oni
+ne, F-sharp.
+A říkám,
+no to vůbec jako neznám.
+A on říká, no my bysme
+chtěli, abys jako u nás
+dělal F-sharp. A já říkám, no tak
+jsem se tak jako
+Vzpomněl jsi se na tu petlahu
+první den u policie?
+Tak jsem řekl,
+že jo. A
+nakonec
+jako je to super
+věc, teda no, jsem z toho
+na jednu stranu jako
+nadšenej, ale to pak jako
+je na
+další povídání, no.
+No, jako klidně povidej, to se jako
+rozkece. Já jenom musím ti
+vysmrknout jednu poklonu,
+kterou už, když si řekl, že jsme, že jo, napsali
+aplikaci na sezóně na Agerovi, potřeba si uvědomit, že
+David přišel k nám před třema, čtyřma,
+pěti měsícema. My jsme mu teda
+vymysleli nějaký dlouhodobý plán,
+ale náš největší problém byl, že on ten
+plán splnil jako za polovinu času. A pak
+říkal, no, ale já bych si chtěl napsat jako nějakej web,
+a já, ty vole, takže ještě do webový,
+teďka teď víš, jak ta komplexita webů,
+říkám, web, tak prostě kraviny, to,
+říkám, no ty vole, no tak, a
+jako zvládl to strašně rychle vše, jako
+všechno, jo, on si ještě sám to stěžoval,
+říkám, dobrý, tak to třeba nemusíme
+být tak rychlí v klidu, jako rozběhej
+se, a ony jak já, kdyby ty si mě vzal
+teďka na Vltava Run, po tom, co jsem jako včera,
+jako běhal deset minut na fotbale, myslel jsem, že
+umřu, tak prostě
+ony v tomhle jsou úplně jako neskutečný, jo, takže
+je potřeba jenom i pro posluchače si
+říct, že jsou lidi, kteří třeba si
+to dělaj jednodušší, a David
+v mých očích je člověk, který si okamžitě
+to jako naklikal na hard, a řekl, jako
+já si to dám prostě na nejvyšší obtížnost,
+jo, takže je samozřejmě jasný,
+že, že jako ty věci
+mohl jsi mít i ze začátku
+jednodušší, ale jako nechtěl jsi, no, ale
+jako musím vysmrtnout poklonu, že ses do toho
+pustil.
+Tak, to jsi hodný Roman, že mě chválíš,
+ale přesto budu
+radši pokorný.
+A ty jsi říkal, že teda,
+když ses pustil do toho F-sharpu, že tam jsou
+nějaký věci, který se ti,
+řekněme, nelíběj, nebo něco,
+co ti tam vadí. Pojďme, pojďme úplně
+do toho, jo, prostě je to i pro nováčky,
+který nás poslouchají, nebo třeba pro lidi,
+který by chtěli switchnout, a teď se vůbec nebavíme
+do jakým, do jakého jazyka, jestli to je
+C-sharp, F-sharp, Java, Kotlin,
+JavaScript, whatever, je to jedno,
+ale obecně teďka, jako by
+pro nováčka, co je tam největší
+nějaký problém pro tebe, nebo
+největší překážka?
+Hele, co jsem
+trošku do toho proniknul,
+do F-sharpu, tak musím říct, že F-sharp
+je prostě skvělej
+programovací jazyk, ale má
+jednu velkou nevýhodu,
+a to je ta, že v něm programuje
+málo lidí. A díky tomu,
+že v něm programuje málo lidí, tak
+je na to málo frameworků,
+je na to
+málo tutoriálů, a hodně
+často se mi stávalo, že jsem do
+Google napsal how to,
+a nevypadlo mi nic.
+Což jako
+se vám u C-sharpu,
+Javy a Pythonu
+a spoustu jiných
+programovacích jazyků nestane.
+Ale jinak ten jazyk
+má skvělý potenciál.
+A podle mě
+buď prostě na něj
+časem všichni přejdou, anebo
+se stane to, že
+ty skvělý věci, který někdo
+do F-sharpu vymyslel, tak se
+postupně implementují do jiných
+programovacích jazyků.
+Což se, když se podíváš na historii
+jazyka C-sharp, tak už se to víceméně
+děje. Já si myslím, že jako rád bych,
+abys měl pravdu za A, ale obávám
+se, že B bude správně, ale i tak.
+Je to do jisté míry z dlouhodobého hlediska
+jedno. OK.
+Máš nějaké zkušenosti s nějakými
+různými paradigmaťmi?
+Protože vlastně vím si, že když se tady
+bavíme s nějakým seniorem, nebo s někým, kdo dělá
+nějaký deep dive, tak většinou to jsou lidi, kteří dělaj
+nevím, 10, 15,
+20 let programují.
+Většinou to jsou lidi jako já,
+kteří začali s OOP, pak třeba
+zkusili funkcionální programování.
+Už jako dokážou i mezi tím rozlišit.
+Ale ty, že ty jsi vlastně začal s Pythonem,
+teď jsi na Fsharpu,
+tak ty jsi vlastně od těchto bitev
+úplně jako od stíně. Tebe to vlastně jedno,
+jakým je to
+stylu napsaný. Nebo
+máš třeba zkušenosti s nějakým objektovým
+návrem? Ty říkal, že jsi dělal Javu?
+To jsem do toho jenom nakoukal.
+Ale jenom nějakou představu mám.
+Samozřejmě to, co jsem psal
+ze začátku, tak bylo všechno
+imperativně, posloupnu z příkazů,
+bylo to hrozný.
+To objektový programování
+je potom super, že
+se s tím dá udělat už větší aplikace
+a i něco,
+nějaký moduly, který
+používá někdo jinej.
+A to funkcionální programování se mi
+zdá,
+že je ještě jako o krok
+dál.
+A hodí se teda pro určitej,
+samozřejmě pro určitej
+druh aplikací. Ale třeba jako
+pro ten biznis
+ta bezpečnost
+toho funkcionálního programování,
+kde spousta
+těch
+rádoby proměných
+je vlastně neměných.
+A ta
+konstrukce pomocí typů,
+pomocí
+diskriminovaných uní a záznamů,
+tak to je
+tak jako neuvěřitelně
+přehledný a chytře vymyšlený,
+že to
+objektově orientované programování
+třeba vůbec jako nemůže
+konkurovat podle mě v tomhle tomu.
+No, ale
+já bych rád jenom řekl, že máš
+pravdu, ale bohužel konkuruje.
+Ale to nevadí.
+Temu jako chci říct
+ještě jako juniorský náhled.
+Ne, neopak. Vím si, že ty máš
+náhled člověka, který právě, to jsem chtěl říct,
+není zatíženej tou minulostí, což je
+vlastně jedinej fresh pohled
+člověka. Ano, samozřejmě, ty jsi zatíženej
+tím, že jsme si tě vzali na F-shardu,
+kdybychom tě strčili na C-shard k Javistům
+nebo na Kotlin, tak bys třeba měl
+úplně jinej pohled,
+ale pořád
+vlastně ty v tom nemáš tu historii,
+takže nemáš, netáhneš
+si ten, jak se to jmenuje,
+jak jsme to říkali u toho AI,
+ten, to speciální slovo,
+že nesmí mít AI
+tu, no, kurva.
+Ty, já teď vůbec se nechytám. No, ty předsudky,
+jak se to může bájez. Jo, jo, jo,
+bájez. Pomlouvám se pod sluchačům,
+hledal jsem to v mozku, je 7 ráno.
+Bájez. Takže ty nejsi bájez vůbec, jo.
+Takže proto si myslím, že to je
+důležitý, že to říkáš. Zároveň, přátelé, to není
+placená reklama, no. Tohle prostě opravdu
+skutečně vypadá na názor Davida.
+No tak. A příště si pozveme dalšího F-sharpistu,
+který nám vznikne svůj názor.
+Ne, ne, ne, ne.
+Já si do toho jako můžu skočit, jo.
+No jasně, skákej. Jako já nejsem jako
+univerzální zastánce
+Python, protože si myslím, že pro
+běžního
+smrtelníka je krásně
+čitelný. A
+pro určitý
+jako takový aplikace
+menších rozměrů,
+nebo pro určitý typy věcí, jako
+je lepší, jo.
+Ale říkáme... Do knihovny má
+fantastický Python. No a
+jako taky skvělý jazyk, no.
+Ale pro ten business, jako
+ten F-sharp, fakt
+mě to, jsem z toho
+přestal. No, tak to se vrátí, se vrátí.
+Hele, ještě mi jedna věc tam mě zajímá,
+ty jsi vlastně, že jo, ty jsi vstoupil do IT
+a vybral jsi se rovnou programátora. Přitom
+těch rolí v IT je daleko víc,
+no máš testery, projekťáky,
+analytiky, máš
+dev in QA, máš jako spoustu takových
+různých rolí
+na té cestě, nebo v celém tom oboru.
+Ty jsi šel rovnou jako na programátora.
+Nenapadlo ti třeba Core s tvýma zkušenostmi
+třeba, že bys byl nějaký jako business
+analytik, který bude pomáhat těm
+programátorům? Hele,
+nenapadlo a
+teďka se nechci jako někoho dotknout
+a je to moje jako vada.
+Jo, ale já jsem
+vždycky chtěl dělat ve všem, co dělám,
+ten core business,
+což u té policie byl prostě
+přímo ten boj se zločinem a žádná
+podpora a Bůh ví co
+jinýho. A to samé
+v tom IT, já vidím ten core business
+v tom tvořit ty aplikace.
+Jo, a to
+kolo, jako tak
+prostě není pro mě. Jo, ty prostě
+máš rád opravdu ten core.
+Tu šťávičku.
+Tak než se vrhneme na Pollyho nejoblíbenější
+otázku, kterou vždycky připravuje,
+která zní, co plánuješ do budoucna.
+Budoucnost je důležitá. Jasně, že jo. Tak
+mě ještě zajímá poslední věc,
+kdy jsme se bavili o těch různých
+typech aplikací, kterých jsme spolu zkusili,
+že ty se srovnou prostě rozhod jít do
+webu a to. Kam
+se chtěl do budoucna, ono to tím trošku
+souvisí, vrhnout, co se týče typů
+aplikací. Jsou třeba lidi, kteří jsou jenom
+back-endisti. Když řekneš, budeš dělat
+apíčko, tak on má slzy ve očích a říká, jo,
+to je nádhera, jo, tohle chci dělat. Někomu řekneš,
+budeš dělat web. Řekne, ne, já chci
+back-end, jo. Někdo nějaký jako background servisy.
+Co je to tvoje,
+co by si chtěl, čemu by se chtěl věnovat, kdyby
+měl úplně volné pole působnosti?
+No,
+já si v tomhle tom ještě dávám
+na čas, protože si myslím, že
+ještě to musím pořádně
+všechno oskoušet, abych věděl,
+co je,
+co mě bude nejvíc bavit.
+Jestli teda back-end,
+front-end nebo full stack.
+Ale
+já zatím
+spíš cítím, co třeba bych nechtěl
+dělat a to, že třeba
+front-end
+jako se mi moc nelíbí.
+Co se ti nelíbí? To je zajímavé.
+No, strašně
+překotně se to tam vyvíjí.
+A
+třeba
+mě, a teďka zase
+říkám, nejsem, nemám takový
+zkušenosti, ale
+připadne mi, že na tom back-endu
+člověk může být trošku jako víc tvrdší,
+že opravdu
+může vymýšlet algoritmy, který
+něco umí. A
+ten front-end je takovej
+popisnej spíš.
+Ale
+asi se na tom taky někdo může
+vyřádit a respekt
+těm, kteří to opravdu ovládají,
+protože musí držet v hlavě
+obrovské množství informací.
+Takže pro tebe to zatím
+výhledově není? Výhledově
+to cítím spíš na ten
+back-end. Ale zatím
+sám sebe, jestli to chápu správně, vnímáš,
+jak když jsi na vejšce, na zdrávce, než jsi
+musí udělat tu anatomii a pak
+teprve se můžu vybrat, kterým směrem se brkne.
+Vnímám to tak, že bych si měl všechno pořádně
+ošahat, než se nějakým způsobem vydám.
+Dobře, dobře. To se mi
+hrozně líbí. No a teda dlouhodobě
+ty tvoje plány obecně jsou jaký?
+No obecně jsou
+moje plány, že zůstanu tady v
+CN Group a budu si žít svůj pohodlný
+život. Bez stresů.
+Bez stresů.
+A budu
+jako na sobě pracovat,
+abych prostě se jednou stal
+jako master programátorem.
+Ne, to smělo nepokorně hrozně.
+Ale
+nevím, vůbec jako programování
+mi přijde, a to se mi jako na tom líbí,
+mně to připadne jako nějaká marvelovská
+superschopnost. Jo.
+Že člověk dokáže ovládat ty
+stroje a dokáže tvořit
+fantastický věci, tak
+bych jednou
+bych v tom chtěl být třeba
+alespoň průměrný. No já mám teorii
+totiž to, že na programování
+je nádherný to, že ty vidíš okamžitě ty
+výsledky, že ty si to, že ten
+loop vymyslet, napsat a vidět výsledek,
+je strašně krátký, což třeba
+zase v porovnání s tím, co jsi dělal v práci
+předtím, tak tam
+ta zpětná vazba trvala jako měsíce
+až roky, ne? Od toho, když jsem to vymyslel, až
+když teda člověk byl obviněn.
+Jako opravdu roky, protože
+ty kauzy u těch soudů,
+některé dosahovaly až deset let,
+a to se teda trošku zase odbočím
+jako zpátky, ale já jsem jako kolega, který
+třeba dělal jeden případ
+a fakt to mu dal jako
+část života,
+a Klaus mu dal milost
+tomu pánovi.
+Po odsouzení, definitivní.
+Takže...
+Ale kámoš v té době dělal probačního úředníka.
+A ten z toho také byl
+nesvůj docela.
+A jenom chci říct, ten spis měl 750
+tisíc strán.
+Ty krása.
+Takže, milí posluchači,
+pokud si myslíte, že jste napsali v životě hodně kódů,
+tak ne.
+750 tisíc strán.
+Takže dobrý, takže na tohle zapomeneme.
+To už je minulost.
+A teď nás čeká zářivá budoucnost
+Davida Píchy jako budoucího skvělého
+seniorního programátora v F-Sharpu.
+Můžeme to takhle uzavřít?
+Tak...
+Ano, dobře.
+Tady to podepiš.
+Já musím říct, David je skvělý.
+Víc pokorný, než by měl možná.
+Ale to je jenom to nováčko z tým.
+Ono se oťuká a bude nám tady říkat,
+že to děláme špatně a to potřebujeme slyšet.
+Tak jo, Davide, my ti strašně moc děkujeme.
+Bylo to hrozně zajímavé povídání.
+Já děkuji za pozvání.
+No a já mám tu výhodu,
+milí posluchači, že my se teďka s Davidem
+společně přesuneme jenom o kancel vedle
+a budeme na sebe koukat. Pojedeme dál.
+Budeme na sebe koukat celý den.
+Vlastně musím říct, že my s Davidem startujeme nový projekt,
+což bude první jeho zákaznícký,
+kde opravdu bude doručovat
+tu hodnotu zákazníkovi
+a už bude dělat něco opravdu,
+tak jak říká Core.
+Jestli jsi chtěl na to šáhnout,
+tak tě čeká hodně velká chmatnost.
+To je super, hodně štěstí,
+ať se podaří první projekt tak, jak si představuješ.
+Těším se, až budu fakturovat.
+Tak jo, moc díky.
+Ať se daří, čau.
+Tak David Pícha,
+jedna z tvých oveček.
+To je prdaviť.
+Bylo to extrémně obohacující za mě.
+Naprosto jiný díl než jindy,
+ale vlastně o to víc zajímavý.
+Já se těším, já od té doby, co ho tady máme,
+tak chodím daleko víc do kanclu.
+Protože vím, že se můžeme potkávat,
+že můžeme kecat, on samozřejmě potřebuje občas pomoc,
+takže si spolupárujem a tak.
+A je to neuvěřitelný.
+Já mu furt říkám, že on je vlastně tím
+smýšlením už je jako senior.
+On se akorát musí naučit ty
+blbý konstrukty, ty prostě
+postupy, ale
+podle mě tím, jak přemýšlí,
+tím, jak je schopnej si ty věci
+rozebrat, tak už podle mě
+je dál, než sám sebe cítí.
+Ale vidíš, ten impostor syndrom,
+ten tam bude jako prse, to z něj bude muset
+trošku, chtěl jsem říct, vytlout
+stále, ty jsi viděl, jak vypadá.
+Úplně fyzicky to z něj nevytluču.
+No přesně, jak jsi říkal, mimo eter.
+Prostě je to řemeslení, které to řemeslo
+zná, jenom prostě se musí naučit pracovat
+s tím kladivem, který ty mu dáš do ruky.
+A bude to super. Super. Jsem zvědav,
+co řeknou naši posluchači na teledíl,
+protože ten byl úplně jinej, než jsme
+kdy měli. Přesně tak. Možná nám dejte, milí
+posluchači, vědět, jak se vám to líbilo. Budeme
+rádi za zpětnou vazbu. Tak jo.
+Mějte se krásně. Těšilo nás.
+No a my se zase uslyšíme za 14 dní
+pod vocasem. Těšíme se. Mějte se.
+Čau, čau.

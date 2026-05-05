@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Audio soubory — příliš velké pro GitHub
+data/audio/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# macOS
+.DS_Store

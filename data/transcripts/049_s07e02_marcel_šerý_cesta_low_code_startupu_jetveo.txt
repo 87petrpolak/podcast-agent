@@ -1,0 +1,1806 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Krásný den, milí pozluchači, vítejte u dalšího dílu vašeho nejoblíbenějšího IT podcastu Pod vocasem.
+Naproti mě jako vždy sedí Petr Polipolák.
+No a naproti mě ten, no, ten, no, Roman Čouker provazní.
+Čau.
+Čau Románku, tak jaká?
+Dobrá, dobrá, člověče, dneska jsem takovej úplně jako nevyspalej,
+protože jsem včera byl na otočku v Brně a to doslova téměř na otočku.
+Ráno jsem brzo vstal, jel jsem na Hlavák, pak jsem jel nějaký třeba půl hodiny prostě na Královo pole,
+pak jsem doběhl na Vukdejs, kde jsem měl včera přednášku, byl jsem úplně splavený,
+protože jaksi, ono to není daleko z Králova pole, přímo na tu technickou univerzitu,
+nějakých, já nevím, dva a půl kilometrů, což pro nás běžce, že jo, je třeba, nevím, půl hodiny.
+Jo, ale jako jít to ve třiceti stupních nebyl úplně z mějich nejchytřejších nápadů,
+takže jsem naštěstí měl náhradní tričko, doběhl jsem tam, jak kdybych se někde koupal,
+převlík jsem se, dal jsem se do vůně, dal jsem přednášku, ani jsem nejel na tu spíkerskou večeři,
+jel jsem zpátky na Královo pole a krásně před půlnocí jsem byl doma.
+No ale koukal jsem na LinkedIn, udělal si trošku reklamu našemu podcastu.
+Ano, to bylo to náhradní tričko, dělal jsem na sobě podcastový jako náhradní tričko,
+nebo sebou jsem ho měl pro případ pro pocení, hodilo se, takže zároveň jsem udělal i reklamu našemu podcastu.
+A konec konců, já jsem to měl na téma serverless a tím, že vlastně celá ta naše infrastruktura na serverlessu běží,
+jak to RSSko, který vlastně publikuje kontent na Spotify, na Apple, na Google Podcasts,
+tak samozřejmě i naše stránky, podvodcasem.cz, to všechno je postavené na v podstatě jako serverless platformách,
+takže vlastně jsem i ukazoval, jak to celý běží, jak to celý funguje,
+jak očucháváme ty Spotify epizody na pozadí, aby se to updateovalo na stránkách a tak.
+Jo, takhle chytrý klub, protože jsi měl to tričko.
+No, ještě jako podprahovka, rozumíš, ale vlastně jako nechtěl jsem, já jsem si ho fakt vzal jako náhradní tričko,
+ale jsem to zpátky říkal, ty ruce, ale vlastně to jako zakloplo do sebe, že jsem to ukazoval,
+takže jo, takže dobrý, co ty, co jsi vyváděl, ty jsi byl na Moravě, ne, jsi říkal.
+Já jsem byl, no, klasika, vinobraní ve Znojmě, myslím si, že, jako je vědět, že už jsme starý, jo,
+jako to je jako první fakt, jako páteček dobrý, jako tak jsme jako popili a sobota úplně mrtvě, úplně jsme byli mrtví,
+takže jako my jsme normálně byli na Vranovským zámku na prohlídce, takyhle věci, jo,
+takže už jako opravdu nad 35 let už chodíš na prohlídky víc, než na ty degustace.
+Hele, na tohle jsem včera čet nějaký vtipnej tweet, že snad v 25. spíš v Kontiáku totálně zlitej místo polštáře,
+máš toaster, spíš tři hodiny, vstaneš a jsi úplně čerstvej a v 35. si o stupeň víc nastavíš větrák
+a máš zablokovanou páteř na půl roku, takže tak nějak to odpovídá.
+No, takže zhruba tak, ale jinak to bylo dobrý, jinak myslím, že je fajn a těším se na dnešek,
+protože téma je více než zajímavé.
+Ano, dneska máme velmi zajímavého hosta, který je z chorou okolností taky z Brna,
+takže včera jsem jel do Brna a dneska Brno přijalo za náma.
+Mohli jsme, no, ale tak proč by jsme dělali věci jednoduše, že jo.
+Jmenuje se Marcel Šerý, je to člověk z platformy Jetveho, což je low-code platforma
+a co vlastně dělají, jak to celý postavili, na čem to běží, to já vlastně nevím,
+takže my si pro něj dojdeme a zjistíme to.
+Jdeme pro něj.
+Do studia dorazil náš dnešní host, Marcel Šerý, ahoj Marceli.
+Ahoj.
+Ahoj Marceli, čau čau.
+Tak Marceli, my jsme říkali, že ty jsi dorazil z Brna, jaká byla cesta?
+Je to tak, byla dlouhá, úmorná, ale zvládl jsem to.
+Vlakem, nebo jak jsi dorazil?
+Jo, jo, jsem vlakem, takže jsem měl ještě možnost se trochu připravit.
+Vstal jsem si na počítači nějaký poznámky, tak jsem to využil.
+Jak to vůbec je teď v tom vlaku, je tam nějaké připojení, rozumím?
+To je v tom Brně teďka.
+Vzhledem tomu připojení, jak to bylo?
+Myslím, teďka ten vlak, dá se tam už normálně pracovat?
+Myslím, teďka už zase nějakou dobu ne, jo?
+To je dotaz.
+Co vy mladí, dá se už pracovat v tomhle?
+Je tam i tenhle trochu lepší, jak v Brně.
+No jo, takže pořád došpatný.
+Takže pořád došpatný.
+Zkoušel jsem se přes tým vývrsem něco řešit a to byl docela porod, ale jinak se to dalo.
+No tak my jsme rádi, že jsi dorazil.
+Vítej a prosím tě hned na začátek takovej ten klasický úvod.
+Představ se našim posluchačům, kdo jsi, co máš za sebou, odkud jsi přijel.
+Teda samozřejmě víme, že z Brna, ale z jaký firmy a tak dále.
+Takže ahoj všichni, já jsem Marcel, jsem spoluzakladatel, CTO startupu low-code platformy JetView.
+Zhruba před šesti lety jsem začal práci na tomhle projektu a od té doby mě to drží a nepustilo.
+Jak dlouho se věnuješ obecně programování? Předpokládám, že tohle nebylo úplně tvoje první dobrodružství v rámci IT, ne?
+Je to tak, nebylo to moje první dobrodružství.
+Už mám naprogramováno něco přes dvacet let.
+Aha. A v čem? Co jsi dělal?
+Ale úplně prvně jsem začal někdy na základce, někdy v sedmí, osmí třídě v nějakým Visual Basicu tehdy.
+Jsem se tak jako pokoutně dostal k nějaké verzi, to byla tuším pětka nebo něco takového prehistorického.
+Ale už to bylo jako pěkný, už to byl ten vizuální editor a už se jako s tím dalo pěkně hrát.
+Takže i tehdy v době prakticky bez internetu se dalo jako učit, protože bylo k tomu jako nápovědnost.
+A tím, jak to člověk měl jako vizuální, tak to bylo docela intuitivní na to učení.
+Takže od té doby prostě moje cesta se ubírala jako různými směry, různými technologiemi.
+Tak co jsi ještě ošahal? Je to vždycky hrozně zajímá, taková ta historie těch lidí,
+protože kolikrát zjistí, že ho třeba nějaká ta věc úplně začala formovat jiným směrem.
+Že třeba, pamatuj, když jsme tady měli, nevím, Tomáše Mikolova a další prostě jak vyprávěli,
+že jo, to jsem přizkusil tohle a pak tohle se mi líbilo, tohle mě nebavilo.
+Je to vždycky zajímavý, tak ještě s tebe budu tát nějaký další.
+Jasný, jasný. A vlastně potom jsem během střední školy jsem objevil dotnet,
+který se v té době jako objevil jako novinka.
+A ten mě byl vlastně strašně povědomý tím, že měl taky ten vizuální editor,
+vlastně se dělali v informové aplikace, tak to mělo ten vizuální editor stejně jak ten Visual Basic,
+takže ten přechod tam byl rád mě seamless.
+A pak vlastně začala moje profesionální kariéra prakticky po střední škole.
+A nastoupil jsi rovnou v Brně někam do nějaký IT firmy nebo?
+Ne, já jsem hodně jako freelancoval, ale já jsem to měl totiž při škole,
+takže já jsem ještě dělal jako vejšku a jsem pak studoval bakaláře na FITKU,
+na fakultě informatiky, VUTčka.
+A pak jsem si ještě dodělal magistra na zemědělce.
+Na Mendělové zemědělské univerzitě.
+Takže když jsme si včera psali, jestli se stavíš na moji přednášku,
+tak to bylo přímo na tvý alma mater? Na technický?
+Vlastně jo, není to přímo jako naše fakulta informatiky,
+ale patří to pod VUTčku, měli jsme tam taky nějaký, to bylo na FECTU, tuším.
+Čiže technologická 12, já jsem tam šel podle navigace,
+ale těch budov je tam hrozně moc, jsem koukal, takže někde tam.
+Takže i tam jsem trávil své vládí.
+A celých těch 20 let se zvěnovalo programování, nebo mělo to nějakou genezidál?
+Já nevím, že se zvěnoval víc architektůřem, měl jsi na starost týmy,
+nebo kam se posouvala ta kariéra potom?
+No, v tomhle smyslu jsem jako strašně vyrostl v NetSuitu.
+Jestli znáte NetSuitu, že je to vlastně pod Oreklem.
+Tak tehdy, když jsem tam nastoupil, to je jako klasický programátor,
+ale měl jsem strašný štěstí, že v té době tam bylo obrovské,
+obrovská jako grupa strašně schopných lidí,
+protože NetSuit měl z začátku obrovské nároky, když vstoupil na trh,
+takže tam byly ty nejlepší z nejlepších.
+A to mě jako strašně posunulo.
+Sice mě to trošku uhnulo z té dotnetové cesty, že jsem se vlastně naučil Javu.
+Já jsem si právě říkal, že NetSuit byl přeci jako javovská věc.
+Je to tak, je to tak.
+Ale Fortesny tak se má poměrně blízko,
+takže ten přechod byl rád mě v pohodě
+a hodně ho teda usnadnilo i ideječko,
+protože v té době byla už IntelliJ idea,
+která mě neskutečným způsobem jako pomohla,
+protože já jsem už historicky zkoušel si s tou Javou hrát,
+ale s NetBeansama a s Eclipse,
+a bylo to strašně jako nepohodlné jí v tom pracovat.
+Takže takováhle klasika Eclipse versus jako IntelliJ,
+tak ty seš tým IntelliJ, jo?
+Jo, jo, tam prostě jednoznačně mě to strašně pomohlo v té práci,
+protože ten přechod nebyl zdaleka tak bolestivý.
+Jasně.
+A tam jsem potom dostal snadřej profesně,
+že jsme tam jako řešili poměrně velký projekty,
+a jak říkám, hlavně jsem byl obklopnej s skvělýma lidma,
+který byli jako strašně nabušený.
+No a jak jsi se teda vrátil zpátky k tomu dotnetu?
+Od toho jako NetBeancu.
+Prosím tě, k dotnetu...
+Já jsem si snad řešil nějaké jako domácí projekty,
+ty jsem si dělal furt dotnetu.
+Jo, jo, takže se obou březích si tak zkoušel stát.
+Jo, abych se jako udržel, trošku v obraze,
+a potom, jak jsem v NetSuiteu vlastně skončil,
+tak jsem naskočil na velký jako dotnetový projekty,
+který jsem jako už řídil, prakticky architektoval.
+No a po nějaké této etapě už jsem potom přešel
+vlastně na JetView, na ten můj startup.
+No to by mě zajímalo, protože já vlastně mám tu cestu opačnou.
+Já jsem začal těma startupama,
+hezky jsem vyfailoval asi to.
+Už to nebudem opakovat posluchači, už to nejde.
+Ale furt je to dobrý.
+Já bych si to kolikrát poslech ještě...
+Jo, jo, já už ne.
+No a pak jsem vlastně přešel do toho jako vlastně
+zaměstnaneckýho poměru.
+Ty to máš obráceně, tak jak vlastně tě to k tomu dovedlo?
+Byl to ten nápad, no, nebo zajímaví lidi,
+se kterýma jsi to společně vytvořil,
+protože jsem pochopil, že jsi říkal, že jsi co-founder.
+Tak jak jsi vlastně k tomu dostal?
+Jo, hele, jenom k tomu vlastně bych to neupřesnil.
+Já tak jako pendluji celý život mezi startupem a firmou.
+Já jsem vlastně už na výšce, jsem měl první startup.
+To byl systém jakoby na skrejpování realitních inzerátů
+a zároveň takový realitní IRPčko.
+Akorát jsem to dělal v době 2008, kdy byla realitní krize
+a všichni tři pilotní klienti mě pochcípali
+a měl jsem po startupu.
+Jak se říká timing first?
+Přesně tak.
+Takže fakt v tom největším píku, když už to bylo odladěné,
+už jsem začínal oslovat další realitky,
+tak prostě to celé splasklo.
+A bylo.
+Bylo potom.
+Takže pak jsem zase měl nějakou práci a tohle.
+A vlastně tady tenhle ten nápad vznikl po posledním velkým projektu,
+který jsem předtím měl,
+který měl původně být postavený na low-code platformě.
+A celá analýza, budget, všechno bylo nachystané na to,
+že to bylo na té low-code platformě.
+No ale pak se zjistilo, že prostě ta platforma neumí multihazyčnost
+a bylo to jako deal breaker, že jo?
+A takže se celý projekt zesypal.
+A multihazyčnost myslíš v tom smyslu jako jazyky,
+ve kterých to implementuješ, nebo multihazyčnost jako culture info, nebo?
+Přesně tak, jako pro koncový uživatel.
+Jo, jo, ok.
+Prostě to muselo být pro nějaké mezzárodní týmapka.
+Jasně.
+A bylo potřeba to.
+Takže to na mě tak celý spadlo krásně, jsem si ukázkové vyhořel na tom.
+Ale dotáhl jsem to do konce.
+A pak jsem byl vymýšlel jako co něco svýho a říkal jsem si,
+že hele, ten low-code nápad není jako vyloženě špatný,
+ale chtělo by to vzít trošku za jiný konec.
+Tak jsem právě začal kutit JetView.
+Původně se to jmenovalo ještě AppNow,
+a akorát si před rokem za to museli rebrandovat kvůli trademarkům v Americe.
+Takže jsem se vrhl na tohleto a říkal jsem si,
+že chci to udělat trošku jinak, chci to udělat prostě pro programátory,
+tak aby mě samotnýho to jako neštvalo v tom něco dělat.
+A přišel jsem z kůží na trhnout.
+Po nějaké době jsem si potom našel právě společníka co foundera,
+který mě zase doplňuje z té biznisové stránky.
+Takže jste dva dneska co foundry.
+Takže jsme dva foundry.
+A ta firma dohromady, kolik čítáte?
+Tyka nás je deset, plus máme různý externis,
+který si najímáme jako na grafiku a marketing a takovýhle věci.
+Tak to je čerstý ještě, víš?
+No to jo, ale jako deset to už máte nějaký investory,
+nebo se to snažíte financovat nějak jako po vlastní cestě?
+Zatím jako po vlastní cestě, no.
+Aha, tak super.
+A my jsme právě prošli takovou jako genezí firmní,
+že jsme začínali, nebo začínali,
+vlastně původně jsme měli jako nejvním představu právě,
+že se ženeme ty investory, takový ten jako západní styl,
+startupovej, ale tam je jako problém slepit se vejce,
+že prostě dokud nemáš ty čísla, tak se strašně těžko zhání investice,
+který potřebuješ na to, aby to dávalo smysl.
+Aby jsi měl ty čísla.
+Aby jsi měl ty čísla.
+Jo, protože ono, když si to člověk vezne v kontextu nákladů
+na programátory a na lidi obecně, tak jako ty jednotky milionů
+prostě nedávají vůbec smysl.
+Že to stejně ti dá randvej na půl roku a už člověk,
+aby zháněl vaši investici, což je něco, do čeho jsme se úplně
+jako nechtěli dostat.
+Takže jsme se, jsme to šli trošku jinak a vlastně začali jsme fungovat,
+udělali jsme si seřenou firmu, která funguje jako agentura,
+která vlastně dělá implementace.
+Jo, jo, jo.
+My jsme si vlastně zajistili cashflow a jedna cashflow
+a druhá glávně i testování.
+Jakový dogfooding jedete.
+Přesně tak, jo, což je úplně skvělý, že vlastně my s těma lidma,
+který implementují ty aplikace, sedíme přímo v jednom kanclu.
+Jo, jo, jo.
+Takže když se někdo vzteká, tak řekneš počkej, tak já to teda opravdu
+vydrž chvilku, já pošlu komita a jedem dál.
+Přesně tak.
+Tak to je dobrý.
+No a pojďme teda k té platformě.
+Takže co vlastně je JetVail, jo?
+Tak dejme tomu, jedeme spolu, dobře, vlakem do Brna,
+to bychom asi za třeba půl hodiny vysvětlili, ale jdeme spolu krátce ve výtahu.
+Vysvětli mi to, řekni mi to, prodej mi to, nebo vůbec i posluchačům vysvětlit,
+co to vlastně, co to dělá, co to má na starosti.
+Jasně.
+Úplně obecně JetVail je prostě nástroj, který ulehčuje a zjednodušuje
+programátorům práci při vývoji interních systémů, aplikací.
+Takže takový ty nejčastější věci, který furt dokola automatizujeme,
+přijde, přišel mi e-mail, chci na to zareagovat, chci si to zařadit tamhle,
+vytvořit schůzku, whatever, nějaký takovýhle prostě klasická workflow.
+Je to spíš trošku v jiným slova smyslu, je to spíš opravdu nástroj pro programátory.
+To znamená, řeší to za mě takový ty otrávní věci, jako třeba frontendy.
+Prostě když dělám po 150. CRM-ko, tak nemusím po 150. řešit,
+tak naimplementuju select fieldy a takovýhle věci.
+A řeší to za mě architekturu tý aplikace.
+Už mám vlastně jako hotovou CQRS aplikaci.
+A vlastně jenom doplňuju tu business logiku.
+To znamená, mě jako programátor je to ušetří spoustu tý otrávný práce,
+kterou dělám po každé znova.
+A dává mi to prostor soustředit se na tu business logiku,
+na tu business value prostě.
+A co je na tom vlastně skvělý, je to,
+že to vlastně umožní i rád mě juniornějším programátorům dodávat value.
+A to si myslím, že v dnešním světě je úplně úžasný.
+Protože když si vezneš, jak jsou napálený ceny programátorům,
+jak je dneska vývoj extrémně drahý,
+když chce mít člověk zkušenýho, dobrýho člověka, kvalitního,
+tak nejednou prostě jsi schopný i s juniorem mít dotový aplikace.
+A my jsme z toho z toho jako ověřili,
+na vlastní kůži, protože právě v té ceřince,
+tam máme prakticky lidi z ulice,
+který už mají za sebou hromadu aplikací.
+A je to pro, pod tím běží nějakej C-sharp, nebo co tam je pod tím?
+Jo, pod tím C-sharp, dokonce se to i píše v C-sharpu.
+My jsme právě šli trošku jinou cestou proti konkurenci,
+že většinou konkurence to řeší většinou nějakýma meta jazykama,
+nějakýma makrama, něco jak třeba power,
+power apps od Microsoftu.
+Oni mají takový Excel-like makro jazyk,
+nebo OutSystems mají taky nějakej svůj pseudo jazyk.
+A já jsem si říkal, že mě to přijde strašná škoda
+nevyužít toho dotnetu, který je prostě jako full,
+jak to říct?
+Full developerskej.
+Full developerskej jazyk, že prostě tam mám všechno,
+mám tam práci se souborama, práci se sítí,
+napojím to na cokoliv, můžu se tam natáhovat prostě
+na getty, existující knihovny, prakticky na cokoliv dneska.
+Samozřejmě strašná škoda to nevyužít
+a bastit si nějakej svůj pseudo jazyk.
+Tedy navíc musí zase udržovat, že jo?
+Přesně tak, přesně tak.
+A váš teda nejbližší konkurent, když...
+Pohodě, klidně to tady rozmlát.
+Váš nejbližší konkurent, když se na tím jako zamyslím,
+tak jsou to třeba nevím služby typu Logic Apps na Azure,
+nebo nějaký jako už jiný existující low-code platformy,
+nebo kde vlastně je ten u vás ten rozdíl oproti ostatním?
+Je to třeba v tom, že vy opravdu jdete těm developerům víc na ruku v tom,
+že jim necháte ten jejich tooling a ten jejich jazyk?
+Nebo kde je takovej ten jako by hlavní business přínos?
+Jo, já to vnímám přesně tady, že jsme víc pro vývojáře
+a neubíráme se tou cestou, kterou právě třeba razí ten Microsoft,
+takový ten citizen development a tady tyhle ty věci.
+Protože za mě pro člověk, aby byl schopen dělat dobrý aplikace,
+tak stejně potřebuje nějaké analytické myšlení
+a prostě potřebuje mět aspoň trochu programovat.
+A ještě já znám takový, čím tady jedeme trošku RPAčka,
+že tam jsou takový ty low-code platformy typu UiPath,
+ty jsi zmínil PowerApps nebo ještě Automation Anywhere.
+Je to jako něco, co jste schopný těma,
+tou svojí aplikací tím svým produktem taky pokrejt?
+To znamená nějakou automatizaci, tam, kde to dává smysl,
+jak Románek popisoval, třeba nevím, přijeme e-mail,
+tak chci to nějak zautomatizovat, to je teďka jedno jak.
+Tak to je něco, co jste schopný taky pokrejt?
+Jasně, s tím, že tam mám ten C-Sharp,
+tak jsem vlastně schopnej to do té mojí aplikace
+velmi snadno jako zaintegrovat.
+Makes sense. No a když máme tady, dejme tomu, C-Sharpy tím,
+který to nepoužívá, tak jak je složitý to do toho týmu naroubovat,
+tak aby to pracovalo s tím, co už je tam naprogramováno?
+Je tam nějaký problém v tom úvodním nasazení?
+Takhle, blbě se ta platforma využívá nastávající řešení,
+že jo, ty musíš psát něco jako novýho,
+nebo nějaký tooling, nebo nějaký aplikace dodatkový
+k tomu, co už třeba existuje.
+Takže pak to integruješ přes nějaký APIčka,
+že jo, podobné věci.
+Ale jak se týče onboardingu developerů,
+tak by to mělo být pro C-Sharpisty úplně jako otázka pár hodin.
+Ok, ok. Ale je teda lepší, když je to něco jako novýho
+v rámci toho projektu.
+Jdeme tomu, že tam jako...
+Jako nová appka, nový zadání, tak tam jako se rozhodnu,
+že vyloženě začnu tímhle způsobem vůbec stavit tu aplikaci.
+Je to tak, protože ono výstupem toho, co já udělám v té naší platformě,
+je jako webová aplikace s přihlašováním.
+Jasně.
+Prostě je samostatná.
+Někde běží v cloudu nebo v onpremu.
+Ale jsem schopnej tam třeba...
+Ve chvíli mám nějaký dodnetík.
+Tak už typicky už mám nějaký knihovny nachystaný a nějakou codebase.
+Tak jsem schopnej tu codebase tam přenést.
+To je pro mě jako DLL.
+Že mám dodnetní knihovny, které se tam prostě nahrajou.
+Takže k tomu vlastně nabídíte i nějaký, řekněme, SDKčko,
+který pracuje i s tím obalem v rámci třeba nějakého kontextu
+nebo prostě pracuje s tím četvem jako takovým nebo...
+Ono to je all-in-one prostě.
+Je to all-in-one.
+All-in-one webový řešení, kde to řeší i jako release management a tyhle styly.
+Jo, jo.
+A jak když to teda teďka budu chtít ve Synthemu používat,
+tak ta flow je teda taková, že já to musím používat jako by přes V, přes vás,
+nebo můžu si to všechno natáhnout k sobě, udělat ten build u sebe
+a vy jste sada nástrojů, která to pak zase někde třeba publishne
+nebo jak je to vlastně třeba pak s tím nasazením?
+Běží to u vás, běží to u mě?
+Jak to máte?
+Tak aktuálně je to jako full online IDEčko s tím,
+že mám do budoucna, to je takový můj sen,
+kam bych to chtěl dotáhnout,
+aby jsme do budoucna měli nějaký tooling,
+který je schopný ti syncovat ty změny,
+aby jsi byl schopný vyvíjet lokálně.
+Jo, jo, jo.
+Aby tě třeba plug-in do VS Codeu nebo něco takového.
+Že ti to vlastně namokuje ty klásy,
+který ti ve finále podstrukuje ta koncová aplikace,
+když si to celýko zbuildí.
+A protože i já jsem osobně trochu zastánce toho vývoje na lokále.
+Furt si myslím, že to má určitý benefity.
+Byť samozřejmě máme vyřešenou spoustu věcí,
+jakože výpadky, když vypadne konektivita a podobně.
+Ale furt jsem omezený minimálně třeba klávesovýma zkratkama v tom.
+Jo, jo, jo.
+No ono navíc každej ještě má rád svý šémátka,
+prostě barevný ty a to je jasně.
+No a když se teda o tom budeme bavit úplně,
+řekněme jako z vrchu,
+takže vlastně low-code, no-code.
+Ty jsi ještě zmiňoval, když jsme si psali medium-code.
+Kam bys to vlastně zařadil?
+Jako please insert your desirable code here,
+než že vyložím, že bych tam nepsal žádný kód.
+Jo, je to tak.
+Jakože mám za to, že oficiálně ten pojem medium-code,
+nikdo nepoužívá to spíš tak jako anegdoticky občas říkám,
+že jsme jakoby low-code platforma,
+která je ale opravdu pro ty programátory,
+to znamená tam hodně programování.
+Není to tak, jak třeba v těch no-code platformách,
+kde vlastně se neprogramuje prakticky vůbec
+a všechno se vyklikává,
+tak u nás je to navopak,
+že vlastně všechny chování já popisu jednoduchýma
+Lambda expressionama, funkcionálníma.
+Jo, jo.
+A když si to vezmu,
+ještě třeba ten náš případ,
+tak tam právě
+je to strašně hezký v těch Lambda expressionách,
+že ta platforma je schopná
+s těmi Lambda expressiony si vyzobat vlastně závislosti,
+takže velmi jednoduště díky tomu
+udělám třeba dynamické chování
+těch formulářích.
+Takže třeba věc jako jsou kaskádový selekty,
+která je obecně strašně
+jako
+nejlepší.
+A nejlepší nepříjemná věc na napsání,
+tak tady je věc dvou Lambda expressions krátkých.
+Jo, jo, OK.
+Teď když se vrátí zpátky do toho, jak to vlastně
+celý začalo, tak já předpokládám, že ta
+startupová cesta je dost jako trnitá
+a dojít k takovýmhle mu řešení
+je asi, řekl bych, jako iterativní proces.
+Jaký tam byly nějaký, řekněme,
+od začátku největší
+překážky toho, aby ta platforma
+vůbec vznikla. Samozřejmě první je ta myšlenka,
+která se dokáže představit, dobře, jak teď to bude celý,
+jako poběží to na webu, takže vůbec třeba vyřešit
+to, aby se dalo na webu
+dělat znova, jako
+vlastně na webu tvoříš
+znova nějaký ID, že jo, děláš nějakou
+vývářskou platformu, to už muselo být složitý
+samo o sobě, ne, pro tebe, jako na programu.
+Rozhodně, zvlášť tím, že to byla
+prostě one man show, tak
+teďka zpětně
+vidím strašně moc věcí, kde by
+mě jako pomohlo mít k sobě
+někoho, kdo se třeba víc vyzná ve frontendu,
+třeba o tom se
+klidně můžeme rozpojit o tom později, ale
+máme tam třeba jako za mě velikej
+technický dluh, třeba v těch koncových aplikacích,
+kdy právě teďka řešíme
+kompletní přepis toho podvozku.
+Přesně z toho důvodu,
+že vlastně byl jsem na to sám
+a v té době ještě nebyl ani
+Create Direct App pořádně,
+ještě nebyl ve verzi 1.0 ani, ještě to nebylo
+zdaleka tak známý a pro kousace nastavení
+webpacku prostě pro mě byla strašný
+jako bariéra dostat se do toho frontendovýho světa.
+Já tomu rozumím, no.
+Takže jsem to psala prostě všechno jako postaru
+jako serverově rendrovaný komponenty,
+komponentový stromy a tak.
+Zanedl jsem tam kvůli tomu strašný množství abstrakcí
+zbytečných, který se dneska
+jako snažím vyřezat,
+protože ono to tím projektem
+prostě prodalo se jak rakovina,
+když to je takhle jako fundamentálně.
+Jinak ty bariéry
+jako začátku takovýhohle
+projektu, jednak samozřejmě člověk
+musí být schopný to pojmout jako mentálně,
+že takhle je jako velký projekt,
+ale za mě asi největší bariéra byly
+finance. Jako
+narovenu já jsem prostě fungoval
+tak, že jsem si našetřil nějaký
+jako množství peněz
+a
+bez toho bych to nebyl schopen udělat, protože první
+tři roky jsem vlastně fungoval bez vzy.
+Takže ty jsi první tři roky
+to programoval de facto do šuplíku
+a žil jsi s peněz, který jsi
+našetřil. Přesně. To je slušná
+dedication. To je slušná. A není to
+pozdě a teďka nechci být takový terejpal, jo, ale
+ona se říká, že jako když to nevyrilisuješ
+rychle a necíšíš se trapně,
+že rilisuješ pozdě a takový ty jako
+klasický výsí keci.
+Myslíš si, že jsi měl s tím
+přijít dřív nebo teďka vidíš
+zpětně, že ty tři roky vlastně byly ideální?
+I zpětně vím, že to nebylo realizovatelný,
+protože vlastně takovýhle
+projekt musíš mít jako od začátku
+do konce. Ty nejsi schopnej jako
+přijít domů s nějakou malou částí.
+U tohohle není vlastně MVPčko, myslíš?
+Tohle není MVPčko prakticky, ale já jsem měl
+teda velký štěstí, že jsem měl pilotního zákazníka,
+ze kterým jsem to jako vyvíjel, takže jsem
+i pro ty případný investory
+měl aspoň něco jako,
+takže jsem furt žil s tou nadějí, že prostě
+se to nějak vyvine.
+A prostě jsem si říkal takový jako
+gamble trošku, docela dost.
+Jsi říkal 6 let,
+to znamená, že už 3 roky si to
+měruje nějaký revenue, kterýho ty dokážeme
+fungovat, nebo ten tým, který tam je.
+Jo, jo.
+A ještě mi napadá jedna věc, tak jak o tom mluvíš,
+jak vás zasáhla samozřejmě
+jasná moda, teďka
+Gen AI a AI obecně.
+Evidujete to nějak,
+implementujete to nějakým způsobem do toho vašeho produktu
+nebo to necháváte bejt?
+Hele, bejt to úplně
+nenecháváme, ale jak se říkal,
+teďka nás prostě tlačí trošku
+ten technický dluh, který tam vznikl.
+A za mě je to teďka
+priorita číslo jedna, to prostě odbourat a mít
+nový moderní podvozek, který nám umožní
+jednodušej a rychlej dodávat nový featurey.
+Protože teďka máme v pipeline docela dost
+věcí, který furt odkládáme
+právě, až bude tohle z toho hotový.
+Protože nemá smysl to implementovat na dvakrát.
+Ale rozhodně se s tím AI pohráváme.
+Ta myšlenka toho, že si dám nějaké zadání apky
+a on mě to vlastně vygeneruje, ty metadata,
+je úžasná.
+A myslím si,
+že by to mělo být i realizovatelný, protože
+ty metadata jsou docela dobře popsaný v kódu.
+A nemuselo
+být takový problém tu AI jako
+vytrénovat na to. Tím, že už prostě
+ty GPT
+modely, nebo ty LLM modely
+teda, už dneska rozumí tomu
+přirozenému textu, tak by neměl být takový
+problém přelouskat
+zadání na nějaký, jako ty
+JSONový metadata, ve kterých to je.
+No to si myslím taky. To je jako tomu, že je velká výhoda vaše.
+A pak tam jako vlastně vidím i riziko,
+aby vlastně nešlo víc
+projektů.
+A jak to bude tímhle směrem? Protože
+ty velký modely samozřejmě
+nahrávají těm
+programátorům čím dál víc.
+Nemáš tohohle třeba obavy, jako že to
+bude směřovat tímhle směrem a bude to vlastně vaše konkurence?
+Popravdě řečeno úplně
+ne. Já si nemyslím, že to AI
+je schopný ti prostě dodat
+kompletní hotovou aplikaci,
+kterou nechce už nebude potřeba nic dělat.
+A
+takže
+i za nás to třeba bude tak, že
+to bude nějaký prototypovací nástroj,
+kde mě to vlastně vykopne
+nějaký POC, nějaký biznesový
+aplikace, kterou potřebuju.
+A já s tím POC potom se na to podívám a řeknu si
+OK, hele, tohle by šlo, nešlo a případně
+snědu nějakého partnera, který mě to doimplementuje
+do podoby, kterou já potřebuju.
+Protože zvlášť třeba
+u nás, na naší platformě
+často řešíme jako docela komplexní
+složitý projekty, kde se
+hodně řeší integrace na hardware
+a takovýhle věci,
+kdy to je to za mě
+minimálně ještě pár let nebude schopný
+jako dořešit takovýhle, takhle až do detailu.
+Sice to Poli
+klasicky unesl směrem k AI,
+ale já bych se hrozně rád vrátil
+zpátky k těm technickým dluhům, protože
+jednak jsme si s Marcelem dělali nějakou
+přípravičku na začátku ještě
+před tím vysíláním a vím, že tam nějaký má
+a i kdyby mi to neřek,
+tak jako startup,
+rychle vyrost, jo, jako je
+jasný, že tam někde ty čerti budou.
+A ty se s Marcelem přiznal, že tam máte
+spoustu zbytečný abstrakce,
+že vlastně ty dluhy jako jsou
+ne velký, ale prostě jsou tam,
+klasicky startupový, tak prosím tě,
+pojďme to projet, pojďme
+se podívat zpětně, bez růžových
+brýlí, kde cítí, že byla
+největší chyba, kde třeba vidí, že
+no, dobře, tak to jsme udělali, dává to smysl,
+kde jsou třeba věci, které vás tolik nepály
+a máte je v tudu, tudu, tudu, možná někdy
+maybe later, verze 15,
+největší dluh. Tohle je moje ajťácká
+zpověď.
+Přesně, pojď, uleví se ti.
+Jo,
+jak jsem už trošku nestínil,
+hlavně na polité
+koncové
+aplikace, vlastně toho podvozku, který tam
+máme pro ty koncový aplikace,
+tam je toho hodně a
+jednak, jak jsem říkal,
+byl průšvih v tom, že jsem to už tehdy neřešil
+cestou SPAčka,
+nějakého moderního frontendu,
+takže jsem tam vymýšlel
+docela šílený
+komponentových stromy, že byly
+dva stromy, jeden
+UI komponentovej, druhý
+business komponentovej, kde ty
+business komponenty
+vlastně měly v sobě
+ty expressiony, tu logiku
+a oni vlastně plnili ten hloupej
+komponentovej strom, pak se to celý rendrovalo
+a
+byl to ještě vlastně ten
+klasický starý přístup, že byl
+rekvest na nějakou adresu, že jo,
+a vybyl se nějaký, já tam,
+jasný.
+A tohle, co to naráží teďka na
+strašný bariéry s těma
+featurema, který třeba plánujeme,
+že opravdu ten frontendový
+vývoj je mnohem flexibilnější.
+A myslíš si teda,
+že, nechci to uníst
+tu diskuzi, ale že to SPAčko je teda
+ta lepší cesta, protože já třeba teďka,
+jak to sleduju, tak je tady, a je to vtipný
+pro člověka, který je v tom IT dlouho,
+že se zase točí ty trendy,
+jako a co kdyby jsme náhodou začínali
+posílat celý HTML-ko ze serveru.
+To je náhodou, to je jako
+revoluční nápad, ne? To jsme jako tady
+dlouho nedělali a ty zase lidi, co znají
+MVCčko a Webforms, tak se začnou plácat prostě
+jako do čela, jak už to tady bylo Nkrát.
+Tak myslíš si, že opravdu
+ta SPA cesta je vlastně jako pro web
+ta správná, když teda pomenu teďka nějaký
+jako indexování kvůli, nevím, kvůli
+SEO a tak, ale jakože
+to je to ta dobrá cesta?
+Hele, máš povědomí v tom, že se to točí, ale
+s trošku jinou jako
+v nýverzích, bych teď řekl.
+Jo. Takže jako v ní mám ten trend
+z toho server site rendrování,
+ale myslím si, že pro ty, pro tu
+naší aplikaci to teďka bude
+nejlepší spolu nějaký flexibility
+jednoduchosti toho vývoje.
+Protože jsme schopní vlastně oddělit
+potom ten frontendový vývoj, dá se jako separovat.
+Jo, jo, jo. Je to škálu jakoby
+ten vývoj. Přesně tak, přesně tak.
+Protože právě na to už narážíme, že když
+to byla one man show, já jsem to měl celý v hlavě,
+tak se to strašně jednoduše, jsem to bouchal prostě.
+Jasně.
+Byť tam byl ten komplexní systém těch jako dvou typů
+komponent a
+a všechny ty abstrakce kolem toho,
+ale v chvíli, kdy je víc lidí, tak je
+strašně těžký ty lidi do toho onboardovat.
+Proto vlastně i
+jeden z cílů tady toho projektu,
+toho velkého refaktorniku, který děláme,
+internetom říkáme JV Next,
+je
+zjednodušit
+a zlepšit tu dev experience,
+těch vývojářů. Jo, jo, jo. Aby jsme byli
+prvně schopni jednodušej a rychlej dodávat
+a v tomhle si myslím,
+že to SPAčko nám hodně pomůže, protože
+na tom frontendu se ty
+věci dělají za mě mnohem jednodušej.
+A pro tu komunikaci
+mezi frontendem a backendem
+půjdete RESTem, půjdete
+GraphQL?
+Ne, ne, GraphQL to nám v našem use caseu
+úplně nedává smysl. Ne? Takže
+REST klasický, jo. Takže klasicky jako
+RESTem, no. Ještě jsem přemýšlel ty
+server
+server rendered events,
+nebo tak nějak se tomu říká. Je to de facto
+nekonečnej get, který ti vlastně
+blé nějaký
+informace, nějaký updaty.
+Ale dojete, revali jste zpátky
+prostě JSON over HTTPS.
+Jo, jo. Žádný komplikace.
+Možná
+gRPC uvidíme.
+A to je teda řekněme
+jeden z těch jako dluhů, který tam máte.
+To znamená oddělení
+frontendu a backendu, teda jasná separace
+a nějaká komunikace mezi
+škálování vývoje.
+Ty jsi říkal o tom, že tam vůbec
+se si nějak rozdováděli s nějakýma abstrakcema.
+Co si tak pamatují?
+Jo, jo. To je...
+Škoda, že to posluchači nevidí teďka.
+Vyvolu video dobrý.
+Ten výraz.
+Je to tak, je to moje bolest.
+Tím, že je to moje dítě,
+tak mě to fakt bolí dvojnásob.
+A tím, že jsem většinu toho nepořádku tam udělal já,
+tak mě to bolí ještě o to víc.
+Tak to nemůžeš ani zažvat, který prase to napsalo,
+protože většinou tam to je jméno.
+Ne, tak pověděj s těma abstrakcema,
+to mě zajímá, co jsi tam vyvedl.
+No vlastně, tohle to bylo...
+Je tam abstrakcí jako spousta,
+protože
+jsem měl určitou
+tendenci to jako over-engineerovat
+a snažit se jako připravit na všetky možný
+scénáře. A jednou z těch věcí,
+jedna z důvodů třeba,
+co tam, jedna z věcí, která tam je
+hodně nepěkná, tak je, že vlastně mám
+zaabstrahovaný celý ASP.net core.
+Protože já vlastně, když jsem to dělal,
+tak v té době to byl
+dotnet jednička a já jsem vůbec nevěděl, jestli
+jako to Microsoft nezařízne, jestli to
+bude fungovat, nebude, protože Microsoft je takový trošku
+nevyspytatelný v těch věcech.
+No vlastně, lidi z Assetlightu ho ani vidí.
+No, tak jsem si říkal, jo,
+co já budu řád, co když to zaříznou
+a nevěděl jsem, co bude nejlepší cesta.
+Tak jsem si říkal, OK, tak zatím to zavřu za abstrakce
+a pak se třeba časem
+rozhodnout, co tím dám, protože
+skončil jsem, tak jsem si implementoval vlastní kompletní
+jako request, nějakej kontext, response
+kontexty, vlastní jako response
+objekty a cacheování
+a všichni vlastní věci, autentifikaci.
+Jakože
+Under the Hood to mělo ten ASP.NET Core,
+ale... Ale mohl jsi tam klidně hodit
+Nancy a nikdo by to nepoznal. Přesně tak. Nancy byla
+jedna z věcí, kterou jsem právě řešil,
+jestli použít nebo ne.
+Rozhodoval jsem se mezi Nancy a ASP.NET Core.
+Tak zvolil jsi dobře ve finále,
+si myslím.
+Jako z historického pohledu, že
+jsi zůstal u toho ASP.NETu.
+Jo a ne, protože jak jsem
+zmínil, všechno tam je schované a ono
+fakt to má tendenci, tady takovýhle fundamentální
+věci se ti rozlezou jako rakovina
+tým projektem. To znamená,
+teďka když děláme to JVNex, tak vlastně
+80% tý aplikace přepisujeme.
+Ty kráso.
+Jaký je vůbec odhad toho, kdy
+s tím skončíte? Tak napadá otázka bokem
+u takovýhleho brutálního devrajtu.
+Hele, celkově...
+Bude to letos ještě?
+Jo, určitě.
+Ono to fakt hrozně rychle.
+Ono tím, že už má člověk tu šestiletou
+zkušenost a ví, jak ty věci
+udělat nejlíp.
+V hodzovkách nejlíp.
+Teď nejlíp.
+Tak to jde poměrně
+rychle.
+Plus tím, jak se ještě rozšířil tým,
+že jo, máme tam skvělý
+lidi na ten frontend,
+takže já to celý koncipu tak,
+aby vlastně...
+Tam bylo na tom backendu co nejméně tý práce.
+Aby ten backend fakt jenom řešil
+tu architekturu a
+všechno se přesunulo na ten frontend.
+Veškerý komplexity těch
+UI komponent a
+celý ty apky.
+Takže to byla ta abstrakce nad
+ASP.net jako takovým.
+Pak samozřejmě máme
+Evergreen aplikací
+a to jsou databáze,
+to je perzistence.
+Tam určitě byla taky nějaká
+abstrakce.
+Zase bolestivý výraz.
+Je to tak.
+Klidně se napij, v pohodě.
+Začíná mi to být trochu horké.
+Já musím jenom říct
+pro posluchače, pro mě to je vlastně
+strašně super, protože málo kdy tady máme
+někoho, kdo si prošel tímhle
+s tím vývojem, že ten startup jako přežil
+tu bolestivou fázi a teď už vidí,
+co udělali špatně a chtějí to napravit,
+protože vždycky něco v startupu uděláš špatně.
+To je prostě z definice. A podle mě
+tohle úplně jako zlato, který teďka
+jako z Marcela dostáváme, protože on už
+to vidí. Takže proto se tak jako ptám.
+Možná to trošku ještě bolí, ale když se o to
+odosobníš, tak je to super
+a vyprávej, prosím tě.
+Jo, jo.
+Je to tak, další obrovská abstrakce, kterou tam
+máme, tak je vlastně nad
+Entity Frameworkem,
+kdy zase částečně to bylo daný
+tím, že jsem tam chtěl dělat trošku
+jako komplexnější
+třeba různý APIčka pro ty vývojáře, aby to
+měli pohodlnější.
+A druhá k tím, že i ten
+.NET Core, Entity Framework Core
+byl hrozně mladej v té době.
+Vlastně v té době neuměl ani
+lazy loading, takže já jsem si
+vlastně musel implementovat kompletně vlastní
+datovou vrstu, abych i ten blbej
+lazy loading tam prostě jako dodělal.
+No blbej, to je poměrně komplexní téma,
+ne? Jako správně ho naimplementovat, ne?
+Jo, a mně funguje.
+Nicméně od té doby jsem se
+ještě nedostal k tomu, to možná bude nějaký
+JV next next, že
+i tady tuhle abstrakci jakoby zjednodušíme,
+protože je tam opravdu strašný kvantum kódu,
+kdy vlastně
+konvertujeme expression trees mezi těma
+jako my tomu říkáme business, jako ty
+platformní expresiony,
+který vlastně přečuchtáme
+on the fly na ty Entity Frameworkový.
+Jo, jo, jo.
+Což je poměrně služitý proces,
+zvlášť když se něco třeba v Entity Frameworku
+potom změní,
+ale zase na druhou stanu díky tomu jsme
+schopni držovat jakoby
+konzistentně jako ty koncový aplikace
+funkční, no ten kód těch programátorů.
+Jakoby to opíčko pro ně.
+Ano, přesně tak, že to zůstává stejný a když se
+něco třeba změní nebo
+podělá v Entity Frameworku, tak je to na vás.
+Tak my to vlastně zalepíme
+ten abstrakční vrstvou.
+Jo, jo.
+Že vlastně si tam třeba
+rozgenerem ty queries
+na nějaký naši datový objekty,
+který potřebujeme.
+Jenom pro představu, co máme tam, jakoby
+datovej typ dokument,
+za kterým je vlastně jakýkoliv malý
+dms, jako prostě verzování dokumentů.
+Takže na tohle to mám
+tak jako databázový apíčko,
+prostě jako dej mi verzi, dej mi poslední verzi
+a podobně, kde se vlastně můžu
+přes tady tohle
+API dostat
+k informacím, který by se normálně
+řešili strašně obtížně v tom Entity Frameworku.
+A hlavně my takhle
+schováváme ty systémový tabulky.
+Takže zase zjednodušíme
+vývoj pro toho programátora, že nemusí mít
+tady tu známost nějakých našich interních systémových tabulek
+a všechno má naservidovaný
+jako na podno se stříbrným.
+To jsme ještě trošičku zase dal,
+vzal ten můj mozek a hodilo
+jiným směrem a to je jako verzování,
+protože si správně řekl, že vlastně
+poskytujete de facto APIčko těm vývojářům,
+který to vaší platformu používají.
+Jak je složitý tamto
+API udržet konzistentní
+versus to, jak se ten svět
+vyvíjí a ty nový knihovny mají nový
+feature a vy chcete toho nabídnout
+víc, jak tohle si to řešíte třeba?
+Jak je to složitý vůbec tohle uchopit?
+Protože samozřejmě můžu si
+zaverzovat nějakou svojí verzi
+nebo nějakou svojí funkcionalitu
+a říct, teď se to nezmění půl roku,
+ale když jsem startup
+a si chci nabízet nový a nový cool feature,
+podporovat ty starý, to samo
+o sobě už jako vytváří problém.
+Do jisté míry, jo.
+Řešili jsme to třeba
+u číselníků,
+kde vlastně
+historicky bylo API-čko jako
+codebooks.názevního codebooku
+nebo týmojí entity a tam jsem pod tím
+měl vylistovaný vlastně ty options
+nebo ty položky toho číselníku
+a
+časem jsme dostali k tomu, že to je vlastně úplně zbytečný,
+takže jsme ten prefix codebooks
+prostě oddělali, ale tím, že my ty metadata
+máme v podobě nějakého JSONu,
+tak jsme byli schopni ty stávající balíčky
+prostě zmigrovat, že se udělali
+jako změny v kódu
+a třeba ten prefix
+se jako oddělal.
+Takže
+podobným způsobem budeme schopni do budoucna,
+pokud bude nějaká jiná breaking change,
+tak bychom měli být schopni
+ty API-čka těm uživatelům jako zmigrovat
+bez toho, aby...
+Jo, na pozadí, aby to poznali.
+Bez toho, aby to poznali, přesně tak.
+Ale co je docela
+zajímavý topic, tak je návrh
+těch API-ček, protože je to vždycky jako největší
+pain a největší obava
+navrhnout interní
+API-čka tak, aby to bylo
+future proof právě.
+A tak, aby to bylo pohodlný,
+aby to dávalo co největší smysl, takže vždycky
+a na to je super, že máme k sobě
+tu ceřinou firmu, že tam máme prostě ty programáty
+od těch koncových aplikací, že se prostě
+vždycky jako dáme všichni hlavy dohromady.
+Jo, děláte to tak, že se...
+A společně s těma prostě vymýšlíme, jak by se vám to nejvíc líbilo.
+Máme tady tenhle
+ten nápad, chceme to tam dodat
+a pojďme myslet, jak to dodat do té platformy
+toho APIčka interního, aby to bylo co nejlepší
+pro vás na používání. A máte jaký
+alfa verze tým, který
+vždycky to bohužel slízne, to, že
+třeba ještě si nejste jistý, jak to APIčko bude vypadat
+a pak zpětně to pro ně upravujete.
+Nebo jak to tam máte vůbec
+jako stestování v takovémhle jako...
+No máme jakoby automatizovaný testy
+na tu platformu. Jasně.
+Hromady unitestů, zvlášť na tu
+překladovou verstu databázovou.
+A pak ten
+dogfooding teda hlavně.
+To je vždycky nejlepší test, protože oni na tom dělají
+jako permanentně.
+A s tím, že teďka
+právě v rámci toho JVNex budeme zavádět
+i
+jakoby, jak to říct,
+nějaký jako preview
+instanca, že si budou schopni nějakých instancí zapnout.
+Tohle tohle chci pod JVNextem pustit,
+aby to testovali třeba i ty
+koncový aplikace.
+Aby jsme byli schopni
+to třeba i nějakým jako
+vybraným zákazníkům.
+Který s tím samozřejmě souhlasí.
+Nahodit a testovat
+to jako naživo.
+Takže máte v tom startupu nějakého
+svýho produktáka, který
+tyhle věci sbírá, nebo to sbíráte vložně
+od té svojí ceřinky
+a takhle vlastně tvoříte ten produkt?
+Zatím to tvoříme takhle s tou ceřinkou.
+Na dedikovanýho
+produktáka zatím nemáme úplně místa.
+Jasně.
+Ale
+zatím se to jeví jako
+dobrá cesta.
+A nejenom teda za
+ceřinka. Už máme i
+ne nějakou megavelkou, ale už máme
+docela slušnou sít partnerů, takže i od nich
+rozbíráme feedback a
+ti jsou taky jako výborný zdroj jako podnětů.
+Jedna z takových tradičních věcí
+vždycky, když se bojíme o vývojaření
+a to, že prostě chceš psát
+nějaký kód nějakým rozumným způsobem
+je taková ta klasická, jak se mu říká, developer experience.
+A u vás teda, když já
+půjdu do toho vašeho řešení a začnu
+jako vývojář něco dělat,
+tak mám tam debugging,
+mám tam IntelliSense, nebo
+co mám vlastně k dispozici, když
+je to online. Protože očekával bych,
+kdybych to psal já, že to bude jako
+dost složitější v tom online světě.
+Tohle je tak. IntelliSense, jasně,
+bez toho by to vůbec nedávalo smysl, to bych to vůbec nezačínal.
+Takže veškerý expressiony, veškerý
+jako kód, co tam píšu, mám všechno
+IntelliSense, nahrávám si novou DLL-ku, okamžitě
+vidím v IntelliSense, prostě nový, jako na mým
+namespacy.
+Mám tam
+logování, co je propracovaný,
+že vlastně, že jo, klasicky
+mám ty různý úrovny,
+jako error warning, info, debug
+a per instance aplikace jsem schopnej
+si to nastavovat, takže typicky, jak jde v
+instanci, mám debug a vidím tam vlastně
+všechno, co se děje. I nějak
+jako systémový logi, to znamená, když se mi
+v rámci toho CQRS spustí nějaký
+komand, který něco dělá, tak o něm mám
+záznam v tom aplikačnímu
+logu a vidím, jak byl ten
+komand třeba trvalý, jak dlouho byl ve frontě a podobně.
+Plus jsem schopnej si vlastně tady ty
+business komandy i testovat. Máme tam vyloženě
+tool, že si vberu vůči, které
+jde v instanci, si ten komand pouštím,
+naplním si nějaké jeho vstupní parametry
+a hnedka vidím jeho výstup a
+případní log mesíče právě
+z toho komandu. Takže takhle jsem schopnej
+strašně rychle iterovat.
+A nějaký jako
+breakpoint nebo něco si tam dát?
+Jako nemůžu? Ne, zatím.
+Zatím ne.
+No to jako koncepčně není vůbec
+jako triviální. No já jsem myslel právě.
+Ale co mám v plánu,
+to je taky jeden z velkých topiků
+po tom JB Nextu a to je právě
+deaf experience z pohledu různých
+refaktoringů a
+takový ty
+fine using,
+every name everywhere a tyhle všechny. Přesně tak.
+Přesně tak. Najdi mi reference, kde se
+používá ten atribut.
+A
+hlavně ty
+refaktoringy, protože
+vždycky, když se píše, tak i blbý
+extract metod udělá strašně
+moc.
+To musela být pro tebe docela zajímavá cesta. Já totiž
+vždycky to porovnávám se sebou a kdybych
+takovýhle software psal, tak bych očekával,
+že budu muset dostudovat
+spoustu věcí, protože jedna věc je dělat klasicky
+jako komerční software a druhá věc je
+dělat software, ve kterém budeš dělat
+software. Bylo tam pro tebe
+něco, co ti jako
+vyloženě dělalo problémy nebo úplně
+ti jako udělal takový ten mindblown, že jako
+wow, tohle jsem vůbec netušil, že se dělá
+takhle?
+Nemří, když jako suveréníš
+do toho naskočil, tak já teda začnu dělat
+IntelliSense a jako prostě víš, jako
+pohoda, tyjo, jako co.
+Ne, samozřejmě jsem to představuval jako
+s respektem. Já jsem začal tím, že jsem si vlastně
+vytipoval
+problematický části,
+což bylo třeba
+ta překladová věrstva, ten Entity Framework,
+práce s těma
+expressionama
+a
+co tam bylo ještě, jo, právě ten web server,
+úžasně zápstrahovanej
+a ještě pár dalších věcí
+a
+když jsem věděl, že všichni
+ty vlastně jako ten checklist prostě
+prototypů mám splněnej, že by to mělo
+být jako realizovatelný,
+tak jsem si říkal, že zbytek už prostě
+se nějak jako udělá.
+To se nějak udělá, jasný.
+A ono to jako
+nešlo, no. Samozřejmě byla spousta
+problémů along the way.
+Prosím? Nějakou knížku,
+třeba, jestli jsi nemusel kvůli tomu jako přitízt
+special nebo něco, nějaký jako internals
+nebo něco. Nebylo potřeba.
+Hele, dneska je ten vývoj
+jako tak jednoduchý, že na internetu je úplně
+všechno. Jako je to,
+já právě často to srovnávám
+jako s tou dobou, když jsem začínal, kdy
+jsem se to učil jako z helpu,
+takový ten klasický, taková knížečka
+prostě, že jo.
+A jel jsem podle sample, tak jsem se jako učil
+programovat, když to dneska máš všude kurzy,
+že jo, na všechno, všude tutoriály,
+návody, stack overflow
+a tyhle ty věci, že dneska je ten vývoj fakt
+mnohem jednodušší.
+Ale samozřejmě byla tam spousta výzev,
+neříkám, že ne.
+Co mě třeba přišlo jako takový
+jako docela obtížný, tak bylo právě
+práce s těma Expression Trees,
+kdy
+já tam vlastně
+v jedný, jedna z těch
+feature-t platform je právě to řešení těch
+dependencí, těch závislostí
+a
+jako rozlousknout to, jak vlastně
+celou nějakou složitou Lambda Expressionu
+jako projít a vytahat z ní
+závislostí, kde, co, na čem, kdy to tam
+může být zahrabaný jako v různých voláních,
+že jo.
+Nebylo vůbec nic triviálního.
+A
+tam jsem si právě říkal, jako jestli
+že to bylo ten, jako jedna z těch věcí,
+když jsem si říkal, když tohle s to nezlomím, tak prostě to nemá
+smysl dělat, že jo.
+A jak tam třeba
+můžu použít reflexy v tom vašem
+jako?
+Tam můžeš úplně celý donet.
+Ono ve finále se to fakt skompiluje do
+ASP.NET kodový aplikace.
+ASP.NET kodový zvědcevá palastu,
+ale
+po JVNX už to bude úplně, jak kdyby
+spsal na čísto ASP.NET
+kodovou aplikaci.
+Možná ještě v rámci ty vaší platformy bych se podíval
+ještě trošičku jako níž
+a to je na obecně celou tu infrastrukturu.
+Předpokládám, že to vaše řešení tím, že je to online,
+tak to běží prostě někde v cloudu, nebo nemáte
+asi vlastní servery v Brně někde
+ve sklepě, co?
+Ale měli jsme. Měli jste a už nemáte.
+Už nemáme. Nebyly to teda úplně jako vlastní
+servery, byly to virtuálky
+od jednoho většího
+provajda,
+kde to vlastně původně všechno běželo
+na bázi do kru.
+Jo, jo. Což
+z něj jako hloupě je, ale když
+nepotřebuješ megaškolovatelný systém,
+tak to jako docela dávalo smysl.
+Fungovalo to krásně rychle,
+protože ty spin-upy na lokále byly
+prostě instantní.
+A ale jak jsme potřebovali
+škálovat, tak jsme přišli
+do Azure, což sebou znamenalo,
+sebou nestalo prostě
+obrovské množství implementací
+na stráně té
+infrastruktury. To znamená
+Kubernetes, Helmčárty,
+Terraform na infrastrukturu
+a byl to
+docela peň se to všechno jako naučit, protože
+už tak měl člověk hlavu, jak patrací balon
+z dalšího a teď ještě
+se musel nasednout na infra, ale...
+Takže jste na Kubernetes.
+Jsme na Kubernetes. Takže AKS-ko a...
+AKS-ko, no, bohužel.
+Přemýšlím. Bohužel.
+No, máme s tím
+nějaký technický problémy a údajně
+nejsme sami. Co jsem se takhle bavil s lidma,
+co se pohybujou tady v tomhle odvětví?
+Jako s Kubernetes, že máte technický problémy.
+No tak na to je celá stránka nějaký Kubernetes disasters,
+to tam každou chvilku přibude něco
+novýho.
+A nepřemýšleli jste třeba, nevím, o container apps
+nebo něco takovýho teďka, jako že byste
+to měli jako na Kubernetes
+bez toho, aniž byste museli manažovat Kubernetes.
+Ale nad tímhle jsem
+úplně nepřemýšlel, ale co mě třeba přijde
+z zajímavých do budoucna výhledově
+jako technologie,
+tak WebAssembly. Tím, jak se
+jako postupně víc a víc
+prokopává ten
+use case toho backendovýho WebAssembly,
+tak
+si myslím, že to jednou bude hodně zajímavý
+a teoreticky jako
+dostat do
+tohohle z toho stavu
+ty koncový jabky by nemuselo být taky úplně od věce.
+Jo, jo. Ale zatím na Kubernetes
+stačí a... Není to ten
+paypoint, jedete dál prostě. Jo, jo, jo.
+Já myslím, že takhle to má každý startup. No, jasně.
+Prostě ta
+technologie musí růst s tebou. Prostě jako nemá
+smysl vymýšlet
+megalománský řešení
+a řešit každou vlnu
+hypeu, když prostě to,
+co máš, aktuálně stačí a...
+Protože ono to všechno sebou nese
+komplexitu a ne
+na straně implementace,
+ale i lidský, že jo, protože
+v tu chvíli potřebuješ mít nějakou
+in-house znalost o těch věcech.
+A i s tím
+v sobě blbým Kubernetes bylo
+fakt strašně moc práce.
+To jako udělat správně.
+A...
+My se původně zkoušeli
+jakoby s externým
+konzultatem, ale v finálu to skončilo,
+takže stejně to nešlo, nefungovalo to.
+Takže jsem si to stejně musel naučit
+celý a...
+Prostě rozchodit to nějakým způsobem.
+A jsem za to rád, protože
+ta in-house znalost je strašně cená.
+Zvlášť pro technologický startup
+si myslím, že je dost
+zásadní mít ty znalosti vevnitř.
+Jasně. A využíváte
+nějakou vyloženě cloud
+službu, která je
+mimo Kubernetes, ale dává vám smysl,
+když jste na Azure, tak třeba
+databáze jako nativní
+MSSQLka tím, že máte zálohovaný
+a škálovatelný a tak.
+Nebo to máte všechno,
+jenom je vlastně úplně jedno, jestli je to
+AWSko nebo Azure, ale záleží na pricingu.
+Já si budu znít opět jako paranojik, stejně jak
+s tím ASP.NET Corem a Nancy,
+ale snažím se to držet co nejvíc
+jako agnostický. Takže jediná
+služba Microsoftu, co využívám,
+je jejich Postgres.
+Jo. Manageovaný.
+Protože ono udělat Postgres správně,
+tak, aby škáloval,
+zase není úplně triviální věc a nechtělo se mi
+to jako úplně řešit.
+A
+navíc je to věc, která je vlastně ve všech cloudech,
+kdybychom chtěli přijít třeba do AWSka nebo do
+Google,
+tak prostě Postgres je
+všude a
+Kubernetes taky. A řešíte to nějak,
+že čas od času se podíváte
+na jiný cloudy a spočítáte si, kolik by vás
+to tam stal ten provoz, jestli má smysl
+migrovat nebo ne?
+U těch cloudů
+je ta finanční
+predikabilita tak jako mizerná,
+že to stejně nemá za mě moc smysl.
+Že to je vlastně jedno. Spíš řešíme ty technické
+věci, jo. Právě jak jsem zmiňoval, máme občas
+nějaký technický problémy s tím Kubernetesem a takhle.
+Co jsem se takhle bavil s lidma,
+tak mě právě doporučovali, že třeba ten
+AWSkovej cloud
+na to trpí mnohem méně. Má tady tohle
+s ty problémy a že od toho AKSka je to známý.
+Ale
+nechci teď jako pomlouvat, nechci šířit
+nějaký, jako vždycky jenom říkám, co mně bylo
+řečeno, že
+se tak děje, no.
+A vy na tom Azureu, nebo minimálně
+jste asi mohli využívat na začátku ty kredity
+pro startupy? Využívali jste takovou tu
+možnost? Jo, ještě na to
+využijeme, akorát máme první problém,
+že máme malý spendy.
+Což je špatně, nebo
+teď byste chtěli spendovat hodně,
+když to máte zadarmo, nebo?
+Tam těžte nějaký Bitcoin nebo něco?
+To jsme si taky říkali.
+Já myslím, že tam jde o to, že oni potřebují
+vidět ten
+progres těch spendů, aby to pro ně bylo zajímavý,
+aby ti to podrželi díl,
+aby ten startup narostl do určitý
+velikosti, aby potom, když pak přijde ten placenej,
+tak... Aby to začalo dojít.
+Takže z těch jediných
+služeb, který tam využíváte, mimo ten Kubernetes,
+je teda ten Postgres.
+Plus nějaké monitoring
+a takovýhle věci.
+A nějaký další typy databází,
+nebo to celé vlastně běží teda na tom Postgresu,
+a když si u vás udělám účet a
+budu si dělat ten svůj kód, a to všechno
+skončí vlastně v jednom,
+nebo v jednom Postgresu?
+Takhle, ty metadata,
+ten projekt, co já sám naprogramuju,
+to samotný je v tom Postgresu,
+jako ta platformní databáze.
+Jasně.
+A potom vlastně každá ta koncová aplikace
+má svoji databázy,
+která
+kvůli jednoduchosti a kvůli i cílení
+těch aplikací je
+CQLite,
+systémová databáze, kterou si vlastně každá tábka drží
+už sebe.
+S tím, že my tím, že vlastně
+máme jako podvozek Entity Framework,
+tak čekáme
+na prvního zákazníka, který bude požádat,
+právě Postgres nebo něco takového
+většího pod tím.
+Ale zatím nám na všetký
+use case nám ten CQLite
+velmi bohatě stačí, protože
+my tím, že vlastně máme tu CQS
+architekturu,
+tak jsme schopni ty komandy, který
+mění data,
+vlastně serializovat do fronty.
+A v tu chvíli není se CQLitem žádný problém.
+CQLite má obecně problém
+s simultánníma brightama
+a když serializuješ
+zápisy, tak jsi vlastně úplně
+úplně. A to jsi mi možná nahrál
+na tu otázku ohledně architektury,
+protože ty jsi to tady několikrát zmínil,
+že vlastně vy máte celou tu architekturu
+postavenou na jako komand,
+který... Responsibility segregation. Přesně tak.
+Což mi teda přijde
+jako skvělý rozhodnutí,
+proč to tak udělal, protože já znám spoustu
+lidí, který by první co by udělali nějakou
+krudařinu a pak by zjistili, že jim to nestačí.
+Ty jsi už byl v tý době dál, že jsi viděl, že to musíš
+rozdělit? Nebo bylo to kvůli performance,
+nebo kvůli domain-driven designu, nebo...
+Hele, šlo mi o to, že
+jsem si říkal, že to je dobrý způsob,
+jak dát nějakou
+formu těm aplikacím.
+Protože tím, že vlastně
+všechno je uzavřené do komandů,
+tak pak máš jakoby jednotní
+místo, kde se
+co děje.
+A potom
+pro třeba jako udržitelnost
+těch aplikací je to skvělá value
+i třeba pro ty koncový zákazníky,
+že vlastně kdokoliv
+v té aplikaci přijde, tak je schopnej se na to podívat
+a navázat. My jsme měli
+projekty, velký projekty, IRPčka,
+kterých si přiházovali mezi sebou jako ti lidi
+bez jakýchkoliv problémů.
+Že prostě během hodiny
+se začetl, podíval se a byl schopnej
+pokračovat. Což je všechno dané
+tady tou CQS architekturou za mě.
+Že vlastně ten mentální
+model, který se točí konděk
+komandů, je za mě strašně
+silnej tady v tomhle stovu.
+A mnutí mě to jako vašeho
+zákazníka, jako vývojáře
+tenhle pater následovat?
+Je to prorostlý celou tou platformou?
+Je to přesně tak. To znamená
+a vlastně
+veškerá biznis logika,
+když neberu takovou tu UI vrstvu,
+se píše vlastně do těchto komandů
+a já jsem schopnej tyhle komandy
+pověsit na
+tlačíchko někam, jsem schopnej ho pověsit
+na eventu, jsem schopnej
+pověsit na scheduler, jsem schopnej pověsit
+na APIčko nějaký
+venkovní.
+A
+takže vlastně mám veškerou
+tady tu biznis logiku zapouzřenou
+k těch komandách, mám to na jednom místě.
+Čili jednodušší
+se k tomu nějak jako atačnout,
+mít třeba jako jednotný místo, kde
+mám přehled o tom, co mi lítá tím systémem
+za komandy, je to tak? Ano, ano, přesně tak.
+A díky tomu jsem vlastně schopnej mít
+i pěkný jako transakční log
+vlastně, co se kde dělá. Jo, jo.
+Že vlastně nic nezmění data
+mimo komand.
+To je super.
+To znamená, jako veškerý
+i třeba ty klasické rudy operace jsou komandy,
+že jo? Jasně.
+Nějaký workflows, změny stavů,
+zase komand.
+A je to fire and forget tím stylem,
+že nedostanu ani zpátky, jestli to dopadlo dobře,
+nebo vrací každý ten komand nějaký
+rezult, nebo něco? Každý komand vrací rezult.
+To znamená, já když mám
+když mám
+když mám právě ty custom komandy,
+nebo ty jako uživatelský komandy,
+tak já jsem schopnej z toho vrátit
+nějakej file, jsem schopnej z toho vrátit nějakej
+report, takovýhle věci.
+Čili pak máte i stranu, která je vyložená
+jenom od těch queries.
+Tam je to asi, řekl bych, stejným
+stylem, ne? Tam zase vím, že cokoliv
+musí následovat ten pattern, tak mi ty data
+nesmí měnit, ale je to pouze jako náhle
+do databáze, nebo do nějakého datového zdroje.
+Jo, je to přesně tak.
+S tím, že to beru tak, že ty queries,
+že to je vlastně to UI.
+Čte data a...
+To je docela, musím říct, zajímavý,
+protože v podstatě to, co popiseš, je takový
+jako až jako funkcionálnější
+přístup k tomu
+celému problému.
+Plus používáš prostě expressions.
+Neskoušel jsi
+někdy třeba víc jako do toho ještě
+funkcionálního programování. Může mně přijde, že to tam máš
+jako úplně hrozně skrytý, jenom to
+není řečený na první dobro, jo?
+Věřím, jak se krásně usmíváš.
+Dítě o Vánoci.
+Já mám tyhle věci rád, když to doslyším.
+Takže ne, takže
+nenavedlo ti to nějak k nějakému funkcionálnějšímu
+programování ještě?
+Úplně ne, nebo jako samozřejmě
+funkcionální paterny
+jako...
+F-sharp nepodporujete, předpokládám.
+Zatím ne.
+Ale
+vyloženě
+jako...
+Sorry, sorry, tady
+nevím, co chtěl říct.
+V pohodě.
+Ne, je taky odpověď.
+Co se očekáváš?
+Co chceš říct?
+Co chceš říct?
+Jako mně se ty funkcionální paterny
+líbí třeba v tom, jak tam máme ty lambda expressions,
+který jsou za mě strašně snadno
+uchopitelný, strašně dobře
+čitelný a
+mají zároveň jako výrazovou sílu.
+Oproti tomu třeba v těch konkurenčních
+platformách, kdy jsou tam nějaký
+prostě UI klikátka na to,
+abych něco popsal,
+takhle jsem schopnej to pár roztiskama klávesnice
+napsat ty lambda expressioně.
+A je to.
+A mám to.
+Tak než se vrhneme
+úplně na závěr,
+tak je tam ještě, když jsme to pojali,
+takovou programátorskou zpověď.
+Máš tam ještě nějaký hřích, se kterým by ses rád
+vyspovídal?
+Byly tam nějaký hříchy, ale ty už jsem
+většinou pofixoval.
+Co bylo hrozně
+znát, protože v tom přerodu
+s tím one-man show,
+více man show,
+byl nějaký dev tooling kolem toho.
+Já jsem
+spoustu věcí, které jsem dělal sám,
+tak jsem si řešil ad hoc nesystemově
+a zpětně to vnímám
+jako strašně negativnou, toho, když člověk dělá
+sám. Že ho to jako
+nenutí řešit ty věci systemově.
+Vystřel taková blbá
+věc, jako nějaký dev prostředí
+s databází a s nějakýma naplněnýma
+datama a podobně.
+Tohle všechno jsem z začátku řešil tím, že jsem
+měl nějaký snapshot
+postgresový databáze,
+ale když jsem jmenal jako prvního člověka
+ke mně a já jsem zjistil,
+co mě bylo úplně trapně, že prostě tam
+nic jako není nachystaný, že nic nefunguje,
+tak jsem mu to tam prostě posílal
+snapshot a manuál baťáky
+prostě, jak to všechno jako uchodit.
+A bylo to jako
+ze zpětního pohledu strašně
+tristní. Na dokumentaci se
+radši ani nebudu ptát, ne?
+Nechtej.
+Klasicky.
+Ale musí to člověk
+brát zpětně i z toho pohledu, že já jsem nevěděl,
+jestli to vyjde nebo ne. To byl tehdy, to byl strašný
+gamble, když jsem začínal.
+Dneska už samozřejmě máme dev dogs, máme všechno
+popsané a tak, jo, ale
+ze začátku já jsem byl
+v pozici, že jsem fakt nevěděl, jestli to vyjde, nevyjde.
+Jasný.
+A člověk se to snaží, ještě tím
+navíc, že mi jako
+ubíhá čas, ubíhají peníze, tak je člověk
+nucenej dělat rychle.
+Dělají a nezdržovat se, jo.
+Ale,
+no, každopádně, pokud
+někomu doporušit do startupu,
+tak určitě minimálně dva
+technický cofoundry,
+aby člověk měl k sobě nějakou
+oponentůru a
+aby byl nucenej ty věci dělat systémově.
+Protože už to, že jste dva, už tě to
+prostě nutí.
+Dneska třeba jsem docela hrdý na to,
+že máme fakt krásnej tooling, máme vlastně
+dokonce multiplatformní konečně,
+protože samozřejmě
+na začátku jsem to psal v baťáku,
+a když jsem potřeboval
+nějaký věci, tak jsem do toho ještě zatahoval
+GNU Tools, jakový
+CAD a tohle jsou ty Linuxový nástroje.
+Takže jsem pak měl
+kolegově říct, jako ten baťák
+je super, ale potřebuji ještě, aby si zainstaloval
+tady ty Linuxový, jako utilitky.
+Tak to nebylo úplně v topu.
+Takže dneska máme
+krásný devtooling, udělaný
+nad Node.js,
+který vlastně řeší úplně komplet všechno,
+co ten programátor potřebuje,
+ať už nějaký základní, jako se
+tap environmentu, a až
+po takový ty běžný úkoly, který,
+úkony, který řešíme, to znamená, jaký je refresh
+z toho dev environmentu,
+a práce
+s těma packagema, prostě, když potřebujeme
+někam exportovat, importovat package a takovýhle
+věce, všechno už tam, jenom
+code generation. Když máme nějaký věci,
+které jsou generované, tak
+už to je všechno v tom Node.js,
+multiplatformě, všechno krásně funguje.
+A ještě navíc
+se to krásně točí, jako se je to progres báry.
+To je zásadní, třeba být.
+No a jaký máte plány do budoucna teďka?
+Teda kromě
+Next, jak jsi to říkal? JV Next.
+JV Next.
+Hele,
+aktuálně
+přecházíme právě z té fáze,
+kdy jsme byli sami jako
+implementátoři, primárně,
+a
+snažíme si, jakoby,
+utlumovat ten vlastní vývoj,
+s tím, že budeme jako ty lidi
+mergeovat postupně na ten vývoj té platformy,
+protože
+jedna už se velmi
+zdokonalili v programování,
+a druhá tu platformu znají jako své boty,
+protože ji už několik let podělali.
+Takže znají ty,
+znají ten vývojový
+jako proces, ví, co by je
+bolelo, nebo jsou schopni odhadnout, co by je bolelo.
+A tak.
+A snažíme se právě rozšiřovat
+tu partnerskou síť,
+kterou už se nám jako i v České republice,
+dokonce v Německu,
+dělat nějaký partnery, některý docela velký.
+Takže tohle
+jste jako z biznesového směru
+rozšiřování. Po technickém
+směru, jak dokončíme
+to JV Next, tak bych
+strašně rád dodělal nějaký resty,
+co tam máme v podobě komponent.
+Učekají nás tam nějaký plánovací komponenty,
+podpisová komponenta
+a takovýhle věci.
+A
+plus
+už nám začínají chodit požívat jako těch partnerů,
+takže aby jsme byli schopni uspokojovat i je.
+A chtěl bych to takhle prostě postupně
+přerodit.
+Jinak uvidíme.
+My jsme furt zatím jako hodně
+early, když to tak řeknu,
+minimálně jako biznesově,
+takže
+spíš se řídíme jako zákazníkama,
+partenama, co po nás chcou, co je potřeba.
+Jste součástí nějaký
+low-code komunity, jak si řícte,
+něco takového v Česku?
+Hele, nejsme,
+ale
+snad,
+snažíme se jako edukovat ten trh postupně,
+bydět to dost jako bolestivý proces
+a dost nevděčnej.
+Nicméně
+přijde mi, že v poslední době
+je to už docela znát, že už i ten termín
+je mezi jak těma koncovýma klientama,
+tak mezi těma partenama docela
+profláklej.
+Já to cítím, podle mě tomu trošku pomáhají právě
+ty nástroje, o kterých jsme se bavili na začátku,
+jak je UiPath a tak dále.
+Plus si myslím,
+že tomu nahrává,
+i ta ekonomická situace.
+Jo.
+Prostě jako firmy šetřejí,
+programátoři jsou furt strašně drazí
+a tohle
+je jedno z možných řešení.
+Nicméně
+už jsou i
+nějaké konference,
+teďka bude
+nějakej Digifest
+desátý o desátý,
+kde se můžeme potkat mimochodem,
+kdybyste tam byli.
+A pak bude nějaká první
+česká low-code,
+no-code konference druhýho jedenáctý.
+Tam myslím,
+taky budeme. Praha, Brno?
+V Praha. Oboje Praha, no.
+A v Brně nic?
+V Brně zatím nic.
+Tam to čeká na vás, abyste to zagražovali.
+Přesně tak.
+Super, no tak jo. Tak prosím tě, Marcele,
+my ti hrozně moc děkujeme, že jsi vážil cestu z Brna
+až sem pod Vocas
+do centra Prahy.
+Budeme ti přát, aby
+to tvoje dítě, který jsi tak
+vychoval z toho
+malýho prcka, v toho většího obrave,
+který o to roste, tak aby rostlo a rostlo
+a bylo k světu, aby ta další
+verze byla zase o trošku lepší než ta předchozí
+a ta další, aby zase byla
+lepší než ta příští.
+A ať se daří. Díky moc.
+Ale moc děkuji za pozvání, kluci, a díky za fajn odplotnit.
+Měj se fajn, čau, čau. Čau.
+Mějte se.
+Tak to byl muž číslo jedna
+firmy Jetveo, Marcel Chery.
+Zajímavý to bylo, člověče.
+Bylo, je to, hele, já vždycky, víš, jak já to mám,
+já tímhle s těm startupům fandím
+a tohle už je jako startup, který si prošel
+tím nejhorším, takže to má za sebou,
+takže budu jenom držet palce a tím toho jde dál.
+Mě teda Marcel přišel na to,
+kolik toho vlastně vymed v tom vývoji.
+Vím si, co všechno musel
+obsáhnout, aby si takovouhle věc postavil.
+Hrozně skromnej, jo?
+Vlastně z něj vydolovat ty informace,
+přitom úplně si cítil, že tam má to zlato,
+že ví, jak se řeší tohle, jak se řeší táhleto,
+takhle dělá Intellisense, prostě jako spoustu věcí,
+který třeba normální u takových těch
+jako day-to-day business aplikací
+jako neuděláš, jo? Nebo neděláš je,
+protože prostě to není ve skoupu,
+že nepřijde zákazník a řekne, postavte mi
+editor v cloudu, že jo? Takže fakt zajímavý.
+No šel nadřeň, šel nadřeň a
+jsem zvědavej, jak se to bude vyvíjet
+právě s tím AIkem, jak jsme se toho dotkli,
+protože to samozřejmě pro ně může být téma
+číslo jedna velmi rychle.
+No oni teďka, nedávno jsem narazil na stránku,
+kde skutečně popíšeš, co chceš,
+aby ta aplikace dělala
+a AI ti vygeneruje docela
+už jako rozsáhlou
+templateu té aplikace, včetně
+prostě nějakých jako stránek, sekcí
+a těchto věcí, jo? No to v podstatě dělá
+ta odnož od OpenAI, teďka
+nechci mystifikovat, myslím, že
+AutoGPT se to jmene,
+tak nějak se to jmene a to vlastně dělá,
+nebo má plánu dělat to samý, no.
+No tam samozřejmě jde, že jo?
+Celý ten large language model svět.
+Takže jsme vás, milí posluchači,
+co programujete a živíte se tím
+krásně vyděsili, přejeme vám
+hezký zbytek dnešního dne
+a vy se můžete těšit už na příští
+díl, který bude o herním
+biznesu. A budeme si hrát.
+Budeme si hrát, bude to super. Tak to se těším taky.
+Tak jo, mějte se hezky a za 14 dní. Čau.
+Čau, čau.

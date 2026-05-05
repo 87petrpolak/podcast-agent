@@ -1,0 +1,1811 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Krásný den, milí posluchači, vítejte u dalšího dílu vašeho nejoblíbenějšího IT podcastu Pod vocasem.
+No a naproti mě už se usmívá zubí, evidentně z hrozně dobře vyspaný Petr Poli, spím 12 hodin denně, Polák.
+A ty jste mě trefil, dneska mi hodinky ukazují přes 8 hodin, přátelé, což se stalo za poslední 14 dní přesně jednou.
+Já bych se teď součetl za poslední 14 dní.
+To ne, naproti mě, ale krásně vypadející a také určitě dobře vyspalý, zrovna po toneholu odpovídající Roman Joker, provazník.
+Ahoj, čau milí posluchači, jsme u posledního dílu desáté série, záměrně neříkám u posledního dílu kompletně,
+protože už teďka se nám pomalinku plní backlog na jedenáctou sérii, myslím si, že asi nebudeme předstírat, protože bychom to neroztočili.
+Otázka je, jestli to stihneme vlastně rozsvědčit, takže bychom hned za 14 dní po tomhle dílu pokračovali plynule, což jsme mimochodem před rokem udělali.
+A jsme to nějak nahonili, že to snad ještě čiče vyšlo nějak v lednu, dokonce možná na novej rok musel bych se podívat do toho našeho systému,
+který programoval jeden z nás dvou, šikovný člověk.
+Můžete si typnout.
+Můžete si typnout, začíná na Red a končí na Oman.
+No, takže samozřejmě jedeme dál.
+No, máme poslední díl. Jak se máš, Poli?
+Hele, já se mám krásně, zrovna jsem přiběhl z jiného natáčení pořadu IT Talks, který natáčím.
+Prostě byla nějaká náhoda, mě tam jako přizvali jako moderátor.
+Tak to není náhoda.
+Takže očividně prostě tenhle podcast mě udělal, takzvaně.
+Ano, ano, já jsem tohle chtěl právě zmínit, že vlastně my jsme v tobě uviděli ten potenciál.
+Tak určitě.
+Prostě omili, vyleštili a hodili jsme tě z pořici do chřtánu, která ti teďka prostě žvejká.
+To mi připomíná, včera jsem se bavil s tvým šéfem, seděli jsme na pivu, takže samozřejmě zdravím Toma Mece, který u nás tady byl, který nás prý poslouchá vždycky ráno.
+Aha, a v létě, když seká trávu.
+A v létě říkal, když seká trávu, no což teda nevím, co bude teďka sekat, když budeme vysílat na začátku ledna, no nicméně to už je problém Tomáše.
+Ptal jsem si, jak ti to jde, samozřejmě říkal, že od ledna už nemáš vůbec za spořice chodit, ale…
+A proto já se teď pochomitám tady kolem tebe.
+Je to dobrý, je to dobrý, jo, já možná otevřu tady pro tebe nějakou pozici.
+Super.
+Ne, ne, samozřejmě Tom tě chválil a je s tebou spokojen, ale tak jsme tak pokecali včera, čiliže zajímavý issues tam řešíte v té spořici, co jsme si tak pokecali.
+Nevím, o čem vlastně můžu mluvit, co bych tak řekl, jako mezi pivem, ale třeba takový to, když si jako na dvou transakčních servech jako v serverech rozejde čas, co to může udělat za moc hezkou věc.
+Možná mám chuť za nějakou dobu si ho pozvat znovu a říct, tak teda Tome, teď jsi tam přes dva roky, teď už si vidíš do těch střev, pojďme probrat ty největší pekla, ty největší issues, byl by to možná zajímavý díl.
+Je to stoprocentně, tak já, Roman, Tomáš, jak má v sobě to solution řešit, prostě za každou cenu, tak to bude mít vždycky nějaký přínos a po dvou letech tam je spousta nových výzev.
+Já si myslím, že tam je tolik výzev, kolik možná není, ani když děláš pay per click kampaně, bych řekl. Že třeba to, co musí zažít holky z Vivia, si myslím, že tom vůbec ani nemá šajn.
+Ne vůbec, bez přátelé je težko, že neděláme video.
+Romárek ještě už to doprovází i já.
+To je taky jako gestama, to je fakt geniální.
+Je to tak, jedeme dál, takže samozřejmě i v tomto díle této série děkujeme holkám z Vivia za jejich pay per click kampaně a za jejich support našemu podcastu, který dost možná bude pokračovat i v příští sérii, uvidíme, jak holky podojíme.
+Každopádně mrkněte na vivio.cz, no a my frčíme na našeho dnešního hosta.
+Já tam mám ještě jednu věc, kterou jsem chtěl tady zmínit na začátku. Minule jsme měli díl s Honzou Jirouškem, zajímavý o IoT.
+A k Honzovi mě prosím tě přivez Honza Seidl, který si mě našel na LinkedInu. A on mi po tom dílu odpověděl, tak bych ještě chtěl jenom upřesnit, co tam zmiňoval.
+Dávej, dávej.
+Napsal, já nemůžu, chválil dobrý všechno, a pak psal, já nemůžu odolat, musím upozornit na jeden rozšířený mýtus ohledně IoT zařízení.
+A teď budu citovat, ono není problém, že útočník bliká žárovkou, jak já jsem zmínil, jako já, jako Polly.
+Nebo že vaří kafe, například chytrý káovar a tak dále. Problem je v tom, že na stejný Wi-Fi, jako domácí počítač či mobil, který chodí do bankovnictví a tak dále,
+ty zařízení jako žárovka jsou dost často výkonný natolik, aby se z nich dalo útočit dál po síti. Takže proto on třeba osobně nekupuje levný routery a tak.
+A já jsem si z toho dělal trošku pryču, takže děkuju Honzo za narovnání a za upřesnění týhle z tý věci.
+A proto máme ty platformy, proto jsou tam ty možnosti přidat komentáře, kontaktovat nás zpátky, napravit, když řekneme, nedej bože, nějakou šílenost.
+Od toho tady jsme a od toho vás tady posloucháme. Takže díky za to. Já teďka koukám na čas. Šárka je dole.
+A mrzne.
+Čeká, mrzne. Já si myslím, že není nic horšího, než zmrzlá Šárka.
+Tak jdeme pro ní radši.
+Ve studii s námi sedí náš dnešní host, ne zas tak vymrzlá Šárka Kousalová. Ahoj Šárko.
+Ahoj.
+Ahoj Šárko, snad tě zima nekousla do zadku.
+Ahoj, ne děkuju, přežila jsem to a došla jsem až teď. Děkuju za pozvání.
+No my děkujeme, že jsi dorazila. Samozřejmě Šárka je známé jméno, pokud máte rádi české podcasty a ideálně české podcasty, které snoubí HR a programování.
+A třeba se jmenuje program HRování. K tomu se samozřejmě dostaneme. To byla taková udička pro naše posluchače.
+Nicméně, na začátku ještě úplně musíme říct jednu zásadní věc.
+Šárka byla, jak dlouho, 14 tři neděle?
+Tři týdny.
+Tři týdny byla v Japonsku. Když jsme se potkali, první, co řekla, bylo, mám jetlag jako prase, byť to na ní vůbec není vidět.
+A druhý, co říkala, je, mám attention span asi 20 minut. Takže tady na úrovni nějakého GPT 3.5.
+Ale já si myslím, že Šárka je naprosto famózní, takže tohle vůbec nevadí. Nicméně má za sebou cestu, takže my na ní budeme hodný.
+A prosím tě, Šárek, teď je to tvoje.
+Představ se posluchačům, kdyby náhodou tě neznali, co děláš, jak ses dostala do IT a tak dále, tak dále, taková ta klasika.
+Jasný. Tak, já jsem Šárka, pracuji jako rekruterka v Atacami, dělám hlavně technický rekrutement, ale teď jsem teda vlastně rozkročená na půl mezi rekrutementem a employer brandem.
+A kromě Atacami, co dělám ve svým soukromým životě, ráda hraju na všechny možné hudební nástroje.
+Takže hraju na…
+Na piano, na violoncello a další.
+Harfa taky?
+Na harfu jsem hrála jednou, ale to mě nějak nechytlo.
+No to je docela draží, točí jsem slyšel, že harfa slí třeba dvěstě padesát tisíce.
+A špatně se s tím cestuje, když se čtu.
+No jasně, jakože by se zavládnul.
+Na harfu k támora.
+Na vodu.
+Ne, ne, ne, největší to violoncello, nic většího jsem neskoušela. A co ještě? A ráda chodím po horách a moc ráda cestuju, jak jsi zmínil třeba to Japonsko teď.
+Prosím tě, řekni nám něco o společnosti Atacama. Já jsem tak jako zaznamenal, my jsme tady vlastně měli s Atacami, my jsme tady měli… Ty, jak on si to říkal, ty, počkej, on měl takový special job title si vymyslel, že to je jako chodící profesor, tak nějak to bylo, že chodí po těch týmech a pindá jim do toho.
+Jo, jo, jo, vzpomínám si. My jsme dokonce spolu pak ještě se spojili a diskutovali jsme nějaký témata skrz pošku.
+No vidíš, no vidíš. Takže prosím mě představ nám pro ty, co ten díl neslyšeli, s Dominikem Moštěkem, co je Atacama?
+Já jsem si říkala, že to byl Dominik.
+No byl to Dominik, samozřejmě, samozřejmě, to jsem neřekl, Dominik Moštěk.
+Tak, co je Atacama? Atacama je softwarová firma se sídlem v Karlíně a děláme data management, takže máme vlastně platformu, která řeší všechno, co si pod data managementem představíte,
+takže je tam datovej katalog, data quality, master data management, data integration, data visualization.
+Máme prostě cokoliv na jednom místě.
+A děláte i to data lineage, jak jsme tady měli?
+Děláme i data lineage, ano.
+Jo, výborně, výborně, super. Prosím tě, k tomu, co tam ještě jako se dostaneme, co tam děláš, ale samozřejmě mě zajímá ten pobyt. Ty jsi byla v Japonsku, byla jsi prostě tři týdny v Japonsku, což teda je moje vesněná destinace,
+protože prostě, co jsem slyšel, tak je to tam všechno úplně jiný, ale komplet. Tak řekni prosím tě, jaký to tam bylo a kde jsi tam přesně byla?
+Jo, tak já začnu tím, kde jsem byla a jak jsme se pohybovali. Letěli jsme do Tokia, tam jsme začínali, a pak jsme se vlastně posouvali do Matsumuta, to je vlastně v japonských Alpách. Tam jsme byli asi čtyři dny.
+Japonský Alpy jsou.
+Japonské Alpy. Vypadají jinak, než naše Alpy. Byla jsem na to zvědavá.
+To nebylo tolik Čechů, viď?
+No, zrovna v tom Matsumutu jsme Čechy potkali.
+Smůla, ty vole, letíš do Alpu Japonská a jsou tam Češi v lížákách.
+Ale to bylo jediné místo, a to bylo, nebo já si myslím, že to bylo kvůli tomu, že to bylo blízko u Nagána, a oni Češi jsou posedlí Nagánem.
+Já si myslím, že tam se něco stalo vejít Nagánům.
+No, něco mi to říká.
+No, něco ti já říkám. Pak se k tomu možná dostaneme.
+Jo, jo.
+Něco jsme tam vyhrali, jaké huky, jasně, nebo já nevím. Ale oni tam asi jezdí, že si myslej, že nás tam jako oslavují, že jsme vyhráli, a ono tam nic není, ono je to normální místo.
+Podle mě už ani ta arena tam není, ne? Víš, že nedivil, ty jo?
+Já si myslím, že tam nic není.
+Jo, jo, jo.
+Ale tam jsme potkali Čechy, jinak jsme je už nepotkali, celý zbytek po bitvům.
+Oni tam slavili, ne, dokonce?
+Já nevím co, my jsme je potkali u Skříněk, kde jsme si nechávali zavazadlo a rozčilovali se, že nemají drobáky na ty skřínky.
+Jo, jo, jo, takhle.
+Tak jsme potkali, jako poznali jsou to Češi, že jsme je rozuměli.
+To je super.
+No, takže u Skříněk a po těch Alpách jsme pokračovali do Kyoto, tam jsme byli na těch chrámech, svatyně a potom už zpátky vlastně směrem na Tokio byli jsme u Mount Fuji samozřejmě a po těch třech týdnech jsme zase odlítali z Tokio zpátky.
+Co bylo super, je, že jsme jezdili vlakem.
+Shinkansen.
+Celou dobu. Shinkansen asi čtyřikrát.
+To je kráso.
+A pro nás to bylo poprvé, protože když někam letíme, tak si půjčíme auto a jezdíme autem a ty vlaky v Japonsku úplně perfektní, jako drahý.
+Ale na čas, ne?
+Ale na čas, na vteřinu přesně. Všechno čekají na sebe úplně jako neuvěřitelný, takže doporučuji vlaky, když budete chtít do Japonska.
+Takže tak, abych zažil opravdu dobrý zážitek z vlaku, tak musím ani ne do Jebán, ale až do Japonska.
+No, ok, ok.
+V Japonský Alpy ližovali jste?
+Ne, ne, ne.
+Ne?
+To ne.
+Takže tam je jinej sníh, jako jiná struktura, a proto tam jako lidi třeba z Evropy jezdí ližovat, že se tam prostě líp ližuje. To jsem někde slyšel.
+Jako jiná granularita nebo?
+No, asi jiná granularita, no. A nevím, co je na tom pravdy, tak jsem se chtěl zeptat.
+My jsme ještě sníh neviděli, my jsme tam byli vlastně do začátku, nebo do poloviny listopadu, takže ještě tam nebyl.
+Samozřejmě není tohle cestovatelský podcast. Nicméně ještě se musím zeptat, tím jak jsem slyšel, že Japonsko je ve všem jako naprosto jiný, co tě tam nejvíc šokovalo z těch věcí, co jsi viděla? A bylo to poprvé, jsi tam byla úplně, nebo?
+Jo, byla jsem tam poprvé. Možná řeknu, co mě šokovalo, protože já jsem přesně čekala, že všechno bude jiný, všechno bude rušný, světla, milion lidí prostě.
+Neony všude, že jo?
+Milony, přesně tak, všechno, jak to mají všechno takový jako dětský a takhle. Úplně to. Přijeli jsme tam a přišlo mi to úplně normální země. Až jsme byli jako překvapený, že hodně věcí a všechny takový ty extrémně turistický památky nám přišly fakt jako hodně přehybovaný na těch fotkách, že to bylo jako hezky barevný a tohle. A pak jsme tam přijeli a bylo to takový jako hezký, ale ne jak to vypadá na těch fotkách.
+Takový křivoklad prostě.
+Tak takový jako…
+Já to nechci úplně jako hanit, jo, jako že bylo to pořád dobrý, ale podle… Přijde mi, že si myslím o těch Japoncích, že jsou jako až moc jiný a oni jsou přitom jako docela normální lidi, který normálně fungujou. Ale objevili jsme tam pak věci, které třeba jako nebyly turistický, někde schovaný různý takový jako by menší svatyně nebo tak a to bylo zase jako nádherný, no.
+Tak host našeho podcastu, Petr Polák, můj táta, tam byl před půl rokem, nebo kolik to bylo.
+A ten teda byl vysvětlený.
+Vystřelený s koupalem. Že prostě tam je všechno jinak, že byste se učil splachovat asi 20 minut.
+Jo, to jsem dělal, ale já jsem dělal nějakej film o týpkovi, který čistil, celý film byl o tom, že týpek čistil hajzli v Japonsku. To byl celý nějakej artovej film. Fakt jako hodinu a půl si sledovat, kdo tam čistí prostě a pak jde domů a pustí si nějakou kazetu, jo. To bylo celý, fakt jako.
+Super.
+Ale to, co právě jsem tam taky zaznamenal, že to je vyloženě, aby jsi měl dva semestry z programování, aby to spláchlo.
+Jo, ty záchody byly docela zajímavý, to můžu potvrdit, to je zrovna pravda.
+Takže jsme zpátky zase u toho. No prosím tě, Šárko, já jsem to už tady na začátku naťu k programu i čárování. Ty jsi byla nedílnou součástí toho podcastu, mimochodem, kromě zajímavých hostů jsem tam byl i já.
+Je zajímavým způsobem, že co jsem tam byl, tak za dva díly to skončilo, jo. Nevím, jestli to je korelací nebo kauzalita.
+V tom nejlepším se má přestat, se říkáš.
+Ano, ano, takže já jsem přišel a zavřel se, vím to tam. Prosím tě, proč to teda kromě toho provazníka, co byl ten druhej dům, že to skončilo?
+My jsme to takhle úplně neplánovali, to bylo tak náhoda, že to tak dopadlo. No, proč to skončilo, Vojta už o tom něco trošku psal.
+My jsme v podstatě ten podcast dělali tři roky a investovali jsme do toho hodně času, hodně peněz, hodně všeho, to určitě znáte.
+A prostě po těch třech letech už jsme si potřebovali odpočinout a už prostě jsme potřebovali, jako někdo navrhoval delší pauzu, někdo navrhoval, že to jako úplně rozpustíme.
+A nakonec jsme se rozhodli, že to teda ukončíme a každý se bude měnovat svojím věcem. Takže tak nějak asi jako nepřekvapujeme, jestli myslím, že to skončilo.
+A nechybí ti to?
+Mně chybí potkávat ty lidi a bavit se s těma lidma. Nechybí mi úplně sedět na mikrofonech a před kamerou, protože z toho se přiznám, že jsem jako i po třech letech jsem z toho nebyla úplně v klidu.
+Naprosto přirozeně si působila, musím říct. Takže jako tohle bych pustil z hlavy, tenhle strach.
+No a chystáš teda něco svýho, nebo dost bylo mikrofonu, dost bylo kamer?
+Takhle, já jsem měla plán, že si odpočinu do Japonska. A pak možná ze začátku příštího roku.
+Podkázci myslím v dohledný době asi úplně ne, ale nebudu říkat kdo, ale jedna HR organizace měla nařila na nějaký školení, tak třeba to by mohlo být zajímavý, to jsem si ještě neskusila, ale není to domluvený, tak nechci říkat kdo a co a jak.
+Dobrá, dobrá, no tak půjďme na tu tvůj hlavní náplň práce, což teda není, řekněme, tenhle ten druh činnosti, nicméně to s tím tak souvisí.
+A ty jsi říkala, že ty jsi vlastně jako rozpolcená, ty jsi 50% employee branding, 50% talent.
+Co jsou věci, které možná si myslím, že dojdeme k tomu, že spolu dost možná souvisejí a krásně se doplňujou, ale teď si vyber, jako z kterého teda hrníčku chceš jako začít.
+Projdeme branding, projdeme acquisition, nebo jak do toho vlíteme.
+Jsi teda první host, který si může vybrat.
+Který se mě to úplně zaskočilo, že si může.
+Já mám korunu, jestli chceš, můžeš si je hodit.
+Ne, ne, tak uděláme to jinak. Já to vykopnu, protože samozřejmě já mám asi blíž k tomu brandingu.
+Tak možná, kdyby si posluchačům vlastně vůbec vysvětlila, co je employer branding, co ta práce obnáší.
+Jo, řeknu konkrétně, co obnáší moje práce.
+Chci říct, že nejsem nějakej úplně employer brand specialista, ale co dělám já.
+My v podstatě máme nějakej ambasadorskej program, kde máme skupinu ambasadorů v Atakamě, mimo jiné i Dominika Moška, kterýho jste tady měli.
+A tyhle ty lidi jsou prostě strašně šikovní a proaktivní a rádi ho prostě prezentují na různých...
+meet-upech, konferencích, ukazují prostě nevím, na čem pracují nebo co je zajímá.
+A já jsem vlastně tam od toho, abych jednak organizovala ty meet-upy, domluvala ty partnershipy na ty konference,
+vymýšlela případně, co kolem mě kolem toho napadne a zároveň vlastně podporovala ty ambasadory.
+Takže máme tam třeba nějakýho kouče, který je učí prezentovat nebo psát blogposty nebo cokoliv, co oni chtějí dělat,
+tak já jim s tím vlastně jako pomáhám.
+Jo. A co tě na tom jako nejvíc baví? Teda je to ta práce s těma podivnýma lidma, typu jako Java vývojáři,
+zdravíme Dominika, nebo je to ten jako event management, nebo kde je tam pro tebe ta šťávička v tomhle stromu?
+Ještě mám ráda to slovo šťávička, to říkáš hodně.
+Má rád šťávičku.
+Jo, baví mě práce s těma lidma, ale nejenom s těma ambasadorama, ale i s těma lidma, který pak jako vlastně potkávám
+skrz ty komu.
+Takže, tak dám příklad třeba Jana Meissnera, znají asi všichni z Muse, tak s tím hodně seznáme, ale třeba Anička Kožuch,
+protože teď spolupracujeme vlastně s Marianem Kamenišťákem přes Engineering Leaders Community, takže třeba s Aničkou teď se hodně vídám
+a i vlastně v Muse bylo víc těch lidí, taky jsme někoho měli v podcastu a mě hrozně jako baví, jednak tyhle ty lidi opravdu vědějí,
+co dělají a umějí to a jsou strašně šikovný a hrozně je obdivuju a hrozně mě baví vlastně se od nich učit, takže to je asi to hlavní,
+jako co mě motivuje.
+A je v tom protkaný, je to IT, nebo vlastně, tak jak to popiseš, tak by tě to bavilo i ve firmě, kde bys dělal employee branding a nebylo by to spojený s IT?
+Asi by mě to bavilo, i kdyby to nebylo spojený s IT, ale u nás ty ambasadoři jsou fakt jako čistě produkta engineering, jenom.
+Jasně, jasně.
+Tak možná taková lehce zavádějící.
+Taková lehce zavádějící otázka, to je spíš vyloženě na šárku na tělo, jak ty jsi vlastně na tom s IT, jako řekněme s tou znalostí,
+do nějaký skriptování a tohle jsi to tím si prošla, nebo je to pro tebe, tak jak říkal Poli, že ti to může být úplně jedno?
+Jedno mi to není, ale jako až do skriptování jsem zase neprošla, je to, já se spíš tu učím tím způsobem, že otevře se nějaká pozice,
+já se pobavím s těma klukama IT-ákama, co to znamená, kam to zapadá, jak to funguje, takže jako vlastně nějak povrchově vím,
+jsem schopná zodpovědět základní dotazy kandidátů, ale jako neumím programovat, nebo jako ani tyhle základy.
+My třeba, my máme ve Sporce tohle taky, řešíme employee branding hodně, a vlastně my se zaměřujeme teďka hodně na to,
+aby jsme ukázali ten content, v Česku každý zná, takže jako jdeme na to, že chceme ukázat, tam děláme fakt dobrý věci,
+jak vypadá ten tvůj půl den, kdy se zaměřuješ teda na employee branding, když teda budeme hrát tu hru, že půlku času věnuješ tomuhle,
+tak jak to vlastně vypadá, jaký běžný den tvůj?
+Jo, já možná jenom řeknu, není to, že bych vloženě půl den dělal to a půl den tak, spíš je to tak, že celý týden dělám rekrutment
+a do toho dvakrát, tříkrát do týdne si sednu k tomu employeru brandu.
+Jo, ve smyslu, že toho je, že méně času trávíš nad tím employee brandem.
+A který sledují nějaký CFPčka a tak dále, aby nám nikde nic neuteklo.
+Zároveň se bavím s těma lidma v té komunitě, jsem v Discordu vlastně na CheckCrunch a na dalších,
+takže vlastně část agendy je, že hlídám, kde se co děje a aby jsme to všechno zvládali.
+A část agendy je, že aktivně komunikuju vlastně s těma našima ambasadorama,
+který jako docela dost z nich, jako si fakt přichází s tím, že přijde, řekne,
+nechtěl bych mluvit o tomhle tady a fakt jako jenom chce ten support.
+Jako opravdu jsou...
+Nevím, jak je to v jiných firmách, ale já si myslím, že jsou opravdu šikovný.
+Jsi jako hodně soběstačný, že o tebe potřebuje jenom doťuknout nějaký organizační věci, jo?
+Většinou, jo. Málo kdy se stane, že fakt přijde někdo, kdo úplně s tím začíná a vůbec jako neví
+a chce jako pomoct víc. Většina z nich už je fakt samostatná.
+A máte takový nějaký, řekněme, speakers program pro tyhle z ty nový speakery,
+kteří by to chtěli zkusit, přijdou za tebou a ty je pošleš za nějakým už jako protřelým Dominikem,
+nebo jak to tam řešíte?
+To nemáme. Na ty speakery máme vyloženě fakt jenom toho externího kouče, který nám pomáhá.
+Obecně, když se teda vezmu employee branding jako takový, já mám totiž pocit, že ta věc se vlastně jako dělala vždycky.
+Že ty hlasitý lidi z té firmy většinou vždycky předostly tu hranici té firmy v tom,
+že teda šli speakovat na nějaký konference, nebo si šli na meetup, nebo aspoň byli, řekněme,
+aktivní na sockách a tak trošku jako flexili, co právě dělají.
+Jak jde dohromady, teda ten jako osobní brand těchto silných osobností, jako je třeba tady Petr Polák,
+nebo Roman Joker provazník, jako s nějakou celofirmní strategií, má vůbec jako smysl to brát do úvahy,
+že tady takovýhle lidi mám a nějakým to jako přizpůsobit, nebo naopak vlastně jako je dané nějaká strategie
+toho employee brandingu dlouhodobě a zrovna se mi hodí tu moštěk, tu Polák, tu provazník.
+Jo, to je dobrá otázka. Takhle, mám to udělané i tak, že vidím, jako vyloženě to mám frontend, backend, cloud, tohle,
+a vím, kdo je spíš jako na co, ale samozřejmě pokud je někdo jako, jak ty říkáš,
+tenhle osobnost sama o sobě, tak spíš se snažím jako by podřídit tomu člověkovi,
+nebo řešit s ním, co jeho by zajímalo a to, takže je to vlastně jako kombinace asi těch věcí.
+Na který se vzpěl.
+Takže vlastně odkud je to tažený, že třeba máš ty jako employee branding specialista nějaký cíle,
+který s tou firmou komunikuješ, nebo to je víc tažený těma lidma, že říkají,
+hele, tady to je třeba zajímavá akce, chceme teď ukázat, jak jsme tady perfektně něco udělali,
+tak půjďme tímhle směrem?
+Zase je to tak trošku obojí, jsou tam te aktivní lidi.
+Takže říkáš, it depends, odpověď za deset tisíc.
+Ale samozřejmě já tím, že jsem jako primární rekruter a vím,
+ty priority v tom hiringu, tak vím, co zrovna teď scháníme a nemáme
+a hledám jako účelně akce.
+Není to samozřejmě jako jenom kvůli hiringu, ale primární zatím vždycky jako hiringu.
+To jsi mi vlastně nahrála na otázku, co je teda ultimátní cíl employee brandingu.
+Je to to, aby když slyším Atacama, abych si řekl, tyhle to jsou prostě největší kickass,
+tam bych chtěl dělat, protože prostě dělají tohle, tohle, tohle.
+Nebo je to jako pro Rize pro hiring, nebo je to pro B2B,
+vlastně co je cílovka toho employee brandingu?
+Myslím si, že hiring je velká část toho důvodu, ale jako není to Rize pro hiring.
+Líbí se mi, že tím jako i ukazujeme vlastně tu firmní kulturu
+a hlavně nejdůležitější pak ta část je vlastně ten networking po tom,
+kde oni fakt, ty noví lidi, co přijdou třeba na ty meetupy a pobaví se,
+tak jako poznají ty naše tak nějak jako nenásilně.
+Já třeba na těch meetupech jsem, ale není to, že bych tam chodila
+a snažila se někoho jako nahajerovat násilně,
+nebo tak, ale spíš jenom tak si všímám, kdo se kde s kým baví,
+jestli někoho něco zajímá a tak to nějak vyplyne.
+Zrovna Dominik Moštěk je hodně šikovnej na tahání těch budoucích kandidátů,
+ten vždycky obchází a baví se a pak někoho přivede.
+Já to vlastně takhle vnímám, že vlastně prolevňuješ potom ten hiring proces,
+protože si připravuješ ti lidi…
+Tézký slovo prolevňuješ.
+Prolevňuješ, jsem se naučil ve spořitce.
+To hodně prolevňujeme.
+Takže to mě přijde, jakože vlastně jeden z takových efektů, který to přináší.
+Jo, a když se vlastně o to předtím starala kolegyně,
+ona šla na mateřskou, pak jsem to přebrala já,
+tak ona vlastně vždycky první, co dělala, bylo, že šla za rekrutmentem
+a zeptala se nás, jaká je teď současná situace, kde bych měla hledat.
+Takže je to ten hlavní zatím důvod.
+A ten teda, s kým primárně spolupracuješ, je teda, řekněme,
+v HR je to asi marketing jako takovej, ne?
+S kým ještě seš v nejúžším kruhu přátel, co se týče strategie tohoto celého?
+Jo, v mém nejúžším kruhu přátel je Dagi, třeba.
+HR a marketing taky, ale hlavní impulzy jdou vždycky od Dagiho
+a Martina Záhomenskýho, který je teda náš CPTO.
+A je to tak, že vždycky já se domluvím s inženýringem
+a potom vlastně poprosím marketing kvůli nějakým designům,
+sockám, dalším věcem.
+A HR spíš jsou tam, že se třeba podílej, že přijdou na ten mítat,
+ale jinak je to spíš já, marketing a Dagi, no.
+Ok. Já jsem vždycky měl takovou otázku, takovou trošku dopranice,
+jestli vlastně employer branding by si neměli ty lidi dělat jako sami,
+jako úplně nativně, jako punkově, protože jsem ji třeba tohle zažil.
+Vlastně byly doby třeba typicky, když jsem byl v Top Monks,
+což je samozřejmě taková pidi firma oproti, řekněme, takovým moluchům jako já takama,
+tak tam to celý bylo jako, ono to teda mělo, by the way, sivý jako mouchy, jo,
+ale protože třeba jednou já jsem byl zodpovědně za socky a nějak jsem prostě,
+my jsme byli nějaký pářce a měl jsem telefon v kapse a pak tam byly prostě nesmysly úplně,
+jako poplišně oni na oficiálním tweetu tý, jako tweetu tý firmy.
+Ale jako jestli si to, říkám, nedělat víc, jako přirozeně, mě napadá,
+jestli to u takhle velký firmy jako Atacama vlastně jde. Co myslíš?
+Já si myslím, že by to bylo super, kdyby ty,
+fakt ty vývojaři si to dělali sami a my jsme tam byli vyloženě jenom jako ten support.
+Pokud se tam dostaneme, bude to úplně paráda, většina z nich potřebuje nějakým způsobem podpořit,
+ale pro mě je tohle skoro jako ultimátní cíl, aby si fakt fungovali úplně samostatně
+a dělali to vlastně sami.
+Ono by to bylo krásný, kdyby firma byla plná romanů provazníků a ty dělali,
+ale ono prostě…
+Nejsou.
+Nejsou, nejsou. Prázdný regály.
+Ještě mi prosím, že řekni jednu věc, když se na to teda podíváš, jak dlouho vlastně děláš,
+to jsme možná neřekli, jak dlouho vlastně děláš tohletu část té svý práce,
+bytě minoritní, oproti tomu hiringu?
+Čistě ty ambasadory teď myslím.
+No, nejako obecně ten employee branding, jak dlouho to jedeš?
+Jo, no, neoficiálně si myslím tři roky, co jsem v Atacamě a oficiálně posledního
+asi tři čtvrtě roku, že fakt to jako ownuju jsem na to sama.
+Super. A za tu dobu teda, co jsi to dělala, je tam něco už, nějakej pattern,
+nějaká věc, kterou už dokážeš jako vyčuchat, že jde třeba dobrým nebo naopak
+jako špatným směrem? Jestli jako jsou už třeba nějaký patterny,
+který vyloženě v employee brandingu jste si vyzkoušeli a zjistili,
+ne, tak tohle nám nefunguje.
+Takže otázka byla, jestli nám něco funguje, jakoby,
+zkus to ještě jinak se zeptat, prosím.
+Ano, otázka zní, jestli si za tu dobu už jsi schopná identifikovat
+nějaký patterny, který vyloženě v employee brandingu prostě nefungujou.
+Že jste si mysleli, že tohle nám zafunguje a pak jsme zjistili,
+že hele, tyjo, vlastně v tomhle levelu nebo na tomhle typu eventů
+nebo tahle zrovna akce nám naopak jako, nejenže nic nepřinese,
+ale může nám třeba primárně uškodit.
+Ne, je taky odpověď, ale koukáme. Jedeš k tý hlavě.
+Teď mě jako nic vyloženě nenapadá, co by byl úplně průser
+a nefungovalo by to.
+Protože to jsou vždycky nejlepší, že jo, ty takovýhle.
+To jsou nejlepší.
+No tak naopak nějaká dobrá story, kdy vám zafungovalo možná něco víc,
+než jste tušili.
+Já jsem měla, to vám řeknu, já jsem měla takovej projekt,
+to jsem se vymyslela sama a v jistý fázi do toho přišel Honza Javorek.
+A protože to bylo dva roky zpátky, já jsem věděla o Junior Guru,
+nalezla v tom jejich Discordu a oni tam mají vlastně kanál,
+kde popisují, jak se jim prostě dařilo na pohovorech,
+jak se k ním firmy chovají, jestli jim dávají zpětnou vazbu a tak.
+A bylo tam hrozně moc hejtů na hrozně moc firm.
+A mě jako zaujalo, no dneska už je to úplný LinkedIn,
+že prostě firmy nedávají zpětnou vazbu a neříkají, proč zamítají.
+Tak jsem se domluvila s Honzou Javorkem, že bychom udělali v Atakam nějakci,
+která by byla, jsme to nazvali pohovory na nečisto.
+A v podstatě bylo to i online, i offline, jak oni chtěli.
+Když přišli offline, tak prostě přišli k nám do kanclu,
+zkusili si buď screening s rekruterem, buď se mnou, nebo s koleginí.
+Dělali jsme i technický kola normálně s klukama z inženýringu
+a fakt ten cíl byl jenom, aby oni přišli, představili se,
+ptali se, na co se normálně ptá jako na pohovorech
+a my jsme je vlastně dávali zpětnou vazbu.
+A my v tu dobu jsme nehledali žádný juniory,
+takže vlastně jako to nebyl nějaký, že teď je půjdeme všechny hromadně nahajdovat.
+Ale nakonec jako to hrozně vystřelilo, oni se všichni fotili
+prostě u té recepce Atakamy, dávali to na Linkediny,
+psali do toho Discordu, všechno bylo jako super,
+že je nadšený, že Atakama paráda, mě tam všude zmiňovali,
+takže pak se mě lidi přidávali na Linkedinu.
+A nakonec toho byla jako ohromná bublina, která pro mě to bylo spíš takový,
+hele Honzo, jdeme to zkusit, jestli to někoho jako zaujme.
+A vlastně to bylo super, takže jsme to dělali dvakrát
+a jako i jsme s některýma těma lidma pořád v kontaktu,
+takže se to určitě vyplatilo.
+Tak to je super. A tam to rozdělení bylo většinou, to byly junioři
+a zafungovalo to, že se nemuseli bát, nebo to bylo i pro,
+řekněme, že to zarezenovalo i seniorů a právě tam bylo to na nejčistost,
+co zafungovalo?
+Myslím si, že většina byla jako vložně junioři,
+že měli za sebou asi nějaký kurzy nebo něco,
+prostě fakt začínali v tom IT a nevěděli moc jak na ten pohovor,
+tak to byla asi většina těch lidí, co si to přišla zkusit.
+Tak to je super.
+To mi přijde super. Takže oni vlastně odcházeli s tím,
+že měli zpětnou vazbu, co třeba řekli blbě,
+jak se jako chovali během toho pohovoru a podobně.
+Přesně tak. A ty, co přišly osobně, tak jsme dělali i trošku
+jako by řeč těla, takže já jsem jim říkala, koukejte na mě,
+prostě ruce a takhle, co mě tak jako napadalo,
+když jsem je viděla, že jsme dělali návod.
+A zkoušeli jsme si, to bylo taky docela jako,
+nebo pro mě to byla zábava, pro něj to byl asi trochu stres,
+jak si vyjednat plat, jak si říct o kolik si peněz.
+A jsem jim říkala, jak je bude ten rekruter třeba strkat,
+jak s ním bude jako v uvozovkách manipulovat.
+Ale co děláš v lednu 2025? Já bych tě tady podstavila pár mít.
+Záleží, co po mě budeš říct.
+Ne, já si tě vezmu jako advisor.
+Ne, já si říkám, to je skvělý.
+A opravdu třeba pak usali, že jim to fakt pomohlo.
+Bylo to super.
+Šudez, pozitivní zpětná vazba plus Honza Javorek,
+jak je hodně vidět, tak ten to ještě šudezdílil,
+takže já jsem z toho byla jako nadšená.
+Tak to je pecká, to je super, to se mi líbí, to je paráda.
+Ty jsi ještě jedna věc, která mě zaujala,
+než se vrhneme na tu druhou, řekněme jako rozsálejší část té práce.
+Ty jsi říkala, že jsi tak jako tu na Discordu
+a tu se vyskytneš na nějaký meetupu.
+Co vlastně by měl Employee Branding Specialist obsáhnout všechno?
+Kam by se měl všude jako vetřít?
+A jak tam vejít jako vetřelej, abych nebyl rušivej element?
+Taková pototázka.
+Já se většinou do těch komunit dostávám tak,
+že jdu přes nějakýho vývojáře.
+Takhle jsem se dostala třeba do pivce,
+ty taky koukali, kdo se tam zjevil najednou,
+tak to byl přes Python Developera.
+A pro mě je důležitý jako fakt být v co nejvíce těch,
+já řeším teda technologický komunity hlavně,
+tak co nejvíce jako těch komunitách,
+chodit na ty meetupy.
+Samozřejmě na LinkedInu je toho taky Tuna,
+takže to jsou asi nějaké tři věci,
+co já sleduju.
+Pak já se hodně, já jako hodně využívám i lidi
+jako s atakami, že skrz ně se třeba ještě propojuju.
+Takže mluvit s lidma co nejvíce,
+a pak se dostanete na zajímavé místa.
+A když to propojím teda s tou druhou rolí
+toho Talent Acquisition Specialisty,
+tak vidíš třeba v číslech,
+že díky tomu, že děláš ten Employer Branding,
+tak tu druhou část práce děláš malinko jinak.
+Je třeba jednodušší, protože už máš některý lidi
+jako předpřipravený k tomu,
+že když je potřebuješ, tak je oslovíš.
+Jo.
+Takhle, jedna věc.
+Máme většinu lidí, který fakt jako jsme schopný dokázat,
+že přímo z toho meetupu přišel na meetup,
+viděl atakamu a fakt jsme ho i nabrali.
+A zrovna teda v poslední době se to fakt extrémně zadařilo
+z těch posledních meetupů.
+A jinak jako ano, no,
+protože já se s nima vlastně propojím,
+většinou na LinkedInu, na tom meetupu
+a pak je tam mám vlastně připravený.
+Nebudu zastírat, hodně mi pomoh i ten podcast v tomhle stonu.
+To jsem se chtěl zeptat na tvůj osobní brand, jak ti v tomhle pomoh.
+Ano, bylo to docela vtipný,
+že já jsem psala jednomu kandidátovi,
+už nevím na co, něco jsem ho oslouvala,
+a on mi říkal,
+jakože mě rád poznává,
+že normálně by rekruterovi neodepsal,
+ale že poslouchá můj podcast, takže mi teda chce napsat,
+že nemá zájem, ale že mi chtěl odepsat,
+tak já jsem měla úplně radost.
+Takže vlastně buildíš brand,
+employer brand specialist.
+To je ta inception, ty potřebuješ buildit brand
+někoho, kdo dělá brand.
+To je pecká, to je pecká.
+No a ještě samozřejmě jako dataře,
+a ty jsi to teďka trošku zmínila,
+že se povedlo pár posledních eventů,
+tak jak pracuje
+employer branding specialista s datama.
+Koukáš na nějaký data,
+nebo máš nějaký třeba,
+já nevím, externí datový zdroje,
+který používáš pro to,
+kam se zrovna vrtnout?
+Ono se to špatně měří
+docela. Řeklo nám to
+i plno hostů v našem podcastu,
+co tam employer brand dělají.
+Takže takhle, my se ptáme
+samozřejmě, jak jste se rozvěděli
+o Atacamě a někdo to tam
+občas někde zmíní, ale
+prokazatelně já to fakt vím jenom u těch lidí,
+který já nebo nějaký kolega potká na to
+meetupu a vím, že je z toho
+meetupu a projede celým tím procesem.
+Nemáme úplně
+jako způsob,
+jak to změřit
+prokazatelně, kdo se rozvěděl o meetupu
+a kdo už od nás věděl jako předtím.
+Ano, už jsme se malinko překulili
+na tu druhou stranu, ale mě celou dobu
+teďka rezonuje v hlavě otázka,
+protože tím, že Šárka dělá oboje
+a já znám příklady firm,
+kde hiring a employer branding
+jsou dva odlišní lidi,
+který dost možná ani nezdílejí kancel.
+Dá se to?
+Nebo dá se to? Ono se to dá,
+ale přeformuji.
+Je dobrý nápad, aby employer branding
+a hiring
+nebyly pod jednou střechou
+možná jeden člověk
+nebo jeden malej tým?
+Já si myslím, že je určitě lepší,
+když je na to lidí víc,
+ale myslím si, že ten employer brand
+specialista, nebo jak mu budeme říkat,
+by měl být buď součástí
+jako toho Talent Acquisition týmu,
+anebo možná ještě lepší
+součástí engineeringu, pokud se fakt
+soustředíme na engineering.
+Takže ne separátní tým,
+ale určitě separátní člověk.
+Ok, ok.
+To je zajímavé. Jak vy to máte ve spořici?
+Vy tam máte taky, že jo?
+Michal vlastně má svoje oddělení,
+které se zaměřuje na ten employer branding.
+Ale ten není u hiringu.
+Já jako vlastně nevím.
+Vlastně nevím, jak komunikuje.
+Zcela jistě je to někde v rámci
+people in culture, což je to naše HR.
+A předpokládal bych,
+že spolu nějakým způsobem si povídají,
+ale vlastně nevím.
+Protože mě to hrozně dává teďka smysl,
+protože to máš velmi podobný nějakýmu, řekněme,
+pre-sales projektu, když si,
+tak jak jsme vždycky chodili,
+nachytneš si klienta,
+on tě začne poznávat, začne mít toho Poláka,
+si ho oblíbí, má ho rád,
+a pak ho vlastně šokuje, když ho předáš někomu jinému.
+On by chtěl, aby ten Polák s ním byl
+de facto co nejdýl v tom procesu.
+A tohle je to stejné.
+Já jsem junior, jsem stydlivý,
+teď najednou teda už najdu všech svejch,
+jako veškerou svojí sílu,
+napsat čárce,
+napíšu ji,
+a ona mě pak na někoho přehodí,
+a já jsem jako v řiti prostě.
+Takže podle mě tohle ti musí strašným způsobem fungovat.
+Proč se tohle nedělá, nevíš,
+proč se tohle nedělá normálně,
+proč to není jako jeden člověk nebo jeden malej tým.
+Protože přeci tobě to právě testo popsala,
+že jo, tobě funguje to propojení komplet,
+teda end to end, když to tak řekneme jako technicky.
+Mně to takhle určitě dává největší smysl,
+ale jako vím, že plno firm to nemá,
+nevím proč.
+Mně to takhle funguje nejlíp.
+Mně se taky záleží, jak je velká ta firma,
+že u nás ten Michalův tým je,
+a teď nevím přesně,
+ale to může být třeba deset lidí,
+kteří se zaměřují jenom na to,
+a jenom na to znamená jak obrovskou škálu věcí,
+který vlastně dělá samozřejmě,
+a teď vlastně nevím, jak je to propojené s tím zbytkem,
+a předpokádám, že jo.
+Vidíš, se zeptám.
+No, zeptej se.
+Zeptej se a samozřejmě posluchači nám můžou taky psát těch názor,
+jak to asi by mělo správně fungovat.
+No nicméně jsme teda u toho Talent Acquisition,
+co nebo jak my říkáme, hiring,
+prostě jseš, řekněme,
+u těch vstupních dveří do té firmy.
+Co je teďka, když se tě zeptám úplně takovej ten jako elevator pitch,
+co teda je největší teďka problém, co ty řešíš jako obecně na tom trhu?
+Je to nedostatek lidí? Je to nedostatečná kompetence?
+Je to přepálených těch moc prachů?
+Nebo co je teďka asi největší bolístka obecně z tvýho pohledu,
+z toho Talent Acquisition pohledu?
+Jo, myslím si pořád, že je nedostatek těch lidí, co my potřebujeme.
+To je asi největší bolístka.
+Co se týče těch peněz, řekla bych, že byl tam takovej trend,
+že v jednu chvíli se lidi říkali fakt jako hodně peněz
+a fakt bylo těžký být nějakým způsobem kompetitivní.
+Teď si myslím, že už se to zase jako vrací na nějakou unesitelnou míru,
+takže to se spíš zlepšuje.
+Myslíš, že jedeme dolů zase s těma platama, jo?
+Nevím, jestli dolů, ale minimálně třeba na stejný hladině,
+že už to nejsou takové šílenosti.
+Ne všichni dománku.
+A to jsme zpátky u toho ledna.
+Já teda teď se zjedu, že v lednu nic nemám, nevím, proč jsem to řekl,
+ale stejně chci mít čárku na blízku, až to nepřijde,
+tak si ji taky určitě použiju.
+Takže ta současná situace na trhu práce v IT z týho pohledu je,
+řekněme, jako furt stejná. Je jich málo?
+Ano.
+Máte teda nějaký, řekněme, jako education program,
+jak vzít ty lidi, kteří jsou úplně čistí od IT
+a nabitit je nějak jako rychle dvě stědu, aby do toho nabutovali a to?
+Nemáme, ale je to teď velmi aktuální.
+A tak na mě hodně se to řeší nějaký,
+prostě práce se studentama nebo se studentskýma půlama,
+myslím si, že se to začne jako plně rozjíždět potom od ledna.
+Jako je to, hodně se to řeší.
+Jo, takže teďka to kutíte, vaříte.
+Teď to vymejšíme.
+Teď to vymejšíte a třeba jako od ledna,
+což se stalo jakýmsi magickým datem,
+tak od ledna vlastně v Atakamě budou mít junioři otevřený dveře
+nebo ještě možná i interns, to ještě před juniorama.
+Zatím to tak plánujeme.
+Uvidíme v lednu, ale zatím to tak plánujeme.
+A když teda teďka vezmeš aktuální stav
+a někdo do tebe přijde, přijde prostě do Atakamy,
+co je teda vlastně aktuálně ten největší, řekněme,
+největší challenge?
+Jsou to ty technický věci,
+anebo třeba vám chodí lidi, kteří jsou technicky skvělí,
+ale třeba je to s nějakou, řekněme, culture fitem, je to na prd.
+Nebo není problém v tomhle stování jeden?
+Myslím si, že je to to technický,
+že většinou neprojdou přes technický kola.
+A teď to hodně generalizují, nevím, je to role od role,
+ale většinou neprojdou přes technický kola.
+A ten soft skill, nebo jak to nazvat,
+tak ten testujete od začátku?
+Respektive je to součástí toho?
+Nebo když říkáš přes technický kolo,
+tak to je až někde dál v tom procesu u vás?
+Jo, to je až druhý.
+Já vlastně mám ten první kol vždycky se mnou,
+což není to úplně soft skills,
+ale spíš jako culture fit.
+A pak je to technický,
+pak je finální, pak je nabídka.
+Jo, jo, to jsem vlastně myslel, když jsem řekl soft skills.
+Máte taky culture fit check?
+Jo, jo, jo.
+A co jsou obecně teda u vás jako testujete?
+Ptáme tady pana Poláka.
+Hele, no tak ten culture fit v podstatě...
+Jestli máš rád bankovky, jestli ti nesvodí peníze,
+ty to držíš.
+No přesně, přesně.
+No mají ti dají si takhle jako pětitisícovku,
+tak jebo čuchnou.
+A pokud nezačne sblejt, tak čuchnou.
+A pokud jako si úplně jako rozhradu sníž,
+tak jako culture fit.
+Ok.
+Tak teď mě moc nepochválej, ty vole.
+Já jsem se vybavila úplně toho milionáře,
+jak vždycky mám o tím.
+Jo, no, no.
+Normálně jak máš, jak jsi měla kačerý příběh
+a oni skájí do těch penízků a tam se koupí.
+Tak to je prostě, to je klasický vstupní pohovor.
+Ale my už se nekupujeme těch mincích,
+to tam nikdo nemá, všichni máme bankovky.
+No jasně, normálně.
+Vůbec nemá cenu ve dvackách.
+Tak zpátky do Atakamy.
+Jak je to v Atakamě s tím kalčečkem?
+Co je to pro vás zásadní?
+Co je pro nás zásadní?
+No, my pod, nebo chtěli bychom,
+aby ten člověk byl takový jako,
+se mi napadly ty český slova,
+prostě friendly, easygoing.
+Jasně, klidně použijte anglický.
+Dokud nebude japonský, klidně použijte.
+No prostě, aby si s náma jako sednul,
+to je asi to klíčové,
+protože my máme candid and caring,
+nějaká naše company value,
+takže to je ta hlavní.
+A potom samozřejmě chceme lidi,
+který pořád se chtějí učit,
+aby byli takový, že pořád se chtějí dál posouvat,
+což proto se těším hodně na ty juniory,
+popravdě.
+A aby byli takový jako přizemi,
+nebo aby měli nějakou sebereflexi,
+protože hodně často,
+zase trošku generalizuju,
+ale u těch seniorů se potkáme s tím,
+že on mi jako už přijde, řekne,
+že tady na to má tenhle názor,
+tohle umí a tohle bude dělat a konec.
+A pak my hodáme do toho tý moje problém,
+samozřejmě, protože se neposlouchají navzájem,
+takže to jsou asi nějaký tři věci.
+Dřív jsme na to měli vyloženě jako otázky,
+že máme nějaký values
+a teď to jako jdeme zkoumat.
+Pak jsme trošku vyhodnotili, že je to blbost
+a teď už je to na tom rekruterovi,
+že vedu úplně normální diskuzi s nima
+a podle toho, jak oni se jako nějak reagují
+na ty věci, jak se chovají, tak já pak řeknu,
+je nebo není culture fit.
+Už to není jako posuzování
+nějakých separátních faktorů,
+ale už je to lidská konverzace.
+Kolik máte kol vlastně, takový klasický pohovor?
+Pro většinu těch rolí
+jsou tři kola a pak ta nabídka.
+Pokud je to
+takový ty oblíbený stav,
+principu, megastav a tyhle,
+tak ty mají, já nevím, asi pět.
+Ok. A je,
+od jakého kola jsou tam i lidi,
+řekněme, kteří budou do budoucna
+jejich kolegy, jako nějaký lidi z týmu?
+Bereš je hned na první schůzku nebo
+ty je očucháš a když teprve jsou dobrý, tak...
+Já je očuchávám
+a lidi
+od nich z týmu jsou většinou na technických kolech
+a dál. A dál. Ale čekujou si
+i ten culture fit. Nečekujou si jenom
+ty technické věci. I ten culture fit. Máte to takhle nastavený.
+Jo, jo. Oni musí samozřejmě říct,
+jestli by to byl ten fit pro jejich tým.
+Protože já můžu říct, ano, je to fit pro Atakamu
+a většinu těch kluků znám,
+protože podle mě tak polovinu z nich už jsem nabrala
+za tu dobu, co jsem v Atakamě.
+Ale oni musí samozřejmě říct, že si sednou
+s tím člověkem.
+A to mě ještě řekni jednu věc. Vy vlastně jste firma
+řekněme globální, že jo?
+Ano. To znamená, ten culture fit
+není už i reze českej, ne?
+Já dokážu si představit nějaké, řekněme, české
+startupy, které jsou takové hodně
+zemitý a svérázný, řekněme
+hodně český, s tím dobrým
+i špatným. A třeba moje zkušenost
+s firmem, který třeba byli, řekněme, akvírovaný
+nějakou americkou korporací,
+tak pak typicky,
+co se jde, jde se do sleku a mažou se emojis.
+Dělají se takový ty věci,
+že jako se to srovná, aby
+to bylo compliant, aby nikdo
+se nikdy nemohl urazit. A vlastně
+zmizí z toho ta původní kultura.
+Vy takhle v Atakamě
+jste to měli od začátku už nastavený globálně
+nebo jste taky prošli takovýmhle jako
+hupem, nebo jak to je u vás vůbec?
+– Nemyslím si, že to takhle bylo
+od začátku nastavený, taky tam přišly
+nějaký změny tím, jak jsme jako rychle rostli.
+Nemáme zakázaný
+emojis ve sleku, ale
+byla poměrně
+jako bouřlivá konverzace
+kolem emojis v job description.
+Tam jsme jich měli fakt hodně
+nasekaných a to nakonec jsme
+smazali, ale jinak
+jo, jako samozřejmě to globální
+je to česko-kanadská firma,
+máme hodně cizinců už i jako
+tady v těch našich habech Praha, Brno
+a Bratislava, takže
+už je to trošku jiný, no.
+– A kanadská mentalita, dokážeš
+to třeba srovnat s jinýma firmama, ve kterým jsi
+dělala, jakože je to
+jiný, je to blíž k Čechám, je to třeba
+jiný než americký, nebo je to podobný?
+Protože si myslím, že Kanada není USA, že jo?
+Tam bych čekal, že budou nějaké jako rozdíly.
+– Jo, takhle, já nejsem
+úplně schopná srovnat s porovnání s jinýma firmama,
+ale já, jak jsem teď byla v Japonsku,
+tak milý rok jsem byla v Kanadě.
+A jako Kanaděni jsou super
+za mě, že fakt, tak jako
+vlastně dobře doplňují tu firmní kulturu,
+že jsou takový přátelský, hodný,
+se všim pomůžou a tohle, že jako...
+– Dokud nejde o hokej, předpokládám.
+– No, jako, dělali jsme
+tady, to byla dobrá akce, protože
+náš CEO, Mike McKee,
+on je, hrál původně v NHL v Kanadě.
+– Nice. – A udělali jsme
+akci, no, a udělali jsme akci,
+že opět
+engineering vystoupil, engineering jsou u nás takový
+iniciatoři, a
+domluvili se, že si tady vlastně pronáhali kluzák
+v Praze, CEO přiletěl z Kanady,
+a hráli... – A vyklepě všechny, ne?
+– No, on přile... Mně to
+přišlo takový, jak kdyby hrál s dětma, jo, že jo?
+–
+– To je, když jsme vzali Poláka na hokej.
+– Ale byl to takový
+jako hrozně rostomý, na jednu stranu, že on měl i tu
+svoji jako hokejku, nějakej ten
+dres slavnej, asi já nevím, a hrál
+tady s těma inženýrama, a oni si to strašně
+užívali, oni se to byli úplně nadšení. – No to já bych si taky
+užíval, ty vole, hrál s hráčem Rachel, ty vole.
+– To je podstatka. – To by byla pecka, ty vole.
+– To je super, prosím tě, možná jenom bokem, jak se
+stane, že hráč NHL založí a takové. – No to je
+masakra. – Víš ten příběh zatím?
+– Nevím přesně, co se
+stalo, že šel z NHL do biznisu,
+to byla spíš otázka jako na něj asi, ale
+hodně to
+používáme i při těch pohovorech, jako kandidáti
+jsou z toho docela nadšení, no že ne? – No to se nediví,
+to je panápecka, to je panápecka.
+– Vy Google, jakže se jmenuje? – Mike McKee.
+– Mike McKee, to zní tak jako kanadský.
+– Cítím zatím ten příběh,
+že měl rád statistiky a data, tak udělal
+datovou platformu. – Jo, takhle, já tam cítím,
+že prostě měl tý ve příklep 150 km
+hodině. – A sledoval si
+grafik, jak se to zavšuje. – A sledoval si ten grafik,
+a letí ta střela.
+– No ještě teda,
+můj táta má hezky jako superhistorku
+s Kanadou, jakože vlastně měli,
+on dělal v CGI, taky kanadská firma,
+a jel tam a prostě sedli si
+tam do kavárny a řešili
+takový ty jako různý mýta, jak to snímá
+vlastně SPZ-ku a on mu říká,
+tam sedí s tím Kanaděnem a říká,
+hele, ty vady tady furt sněží
+a vlastně to nebude vidět,
+že jo, jako na sněží nebude vidět ta SPZ-ka.
+A on říká, ne, ne, ne, máme tady zákon,
+že když vlastně nasněží, tak ty si to musíš
+vyčistit. A ta říká,
+no dobře, ale tak zákon dobrý, ale tak ty lidi
+to třeba neudělají. A on říká, ne, to se musí,
+to se, to je zákon. A on říká, no počkej,
+ale co, když se to nikdo neudělá?
+A on říká, to mě vůbec nenapadlo.
+Víš, jakože to mi jako
+připodobnilo jako mindset
+nebo vůbec jako kulturu té Kanady,
+tak jako nevím, jestli to máš podobně,
+ale jako to je na to historický, jako si
+vzpomenu, když mluvím s Kanadianem nebo o Kanadě.
+A my to takhle máme, jo. To jsem mě úplně připomněl,
+to je firm od Rekio Žerve, který jsme
+Invention of Lie, myslím, že se takhle jmenuje.
+A to je právě o tom, že žije ve fiktivní společnosti,
+kde neexistuje lež. A on je první člověk,
+který ho napadne, že začne lhát
+a takhle jako vymyslí boha a tak dále.
+A všichni mu prostě žerou veškerý
+prostě slinty, protože on najednou se uvědomil,
+že nikoho ostatního nenapadlo, že by mohl
+lhát. Takže takhle se žije v Kanadě, jo.
+Jo, já nevím, jestli to je jako patern, jestli to tak doopravdy je,
+ale tu historiku si pamatuju od té doby, co mi ji řekl.
+Přijde mi dobrá.
+Mě to teď připomnělo, já ještě
+odskočím jednu poznámku
+k Japonsku, protože mi to teď připomnělo.
+Oni jak jsou strašně disciplinovaný
+a všude stojí nějaký fronty,
+na zastávkách, na památky,
+všude je kilometrová fronta.
+A nám se třeba stávalo, když jsme tam byli
+vlastně teď, tak, že jsme šli po ulici,
+zastavili jsme se a třeba jsme začali
+přerovnávat nějaké věci z batohu nebo
+vyndavat něco, prostě zastavili jsme se, nejsou potřáli.
+A normálně se za náma začala dělat fronta.
+A teď my jsme vůbec nevěděli,
+co se děje, jsme si říkali, co ty lidi dějí,
+jako co se děje, teď jsme se rozhlíželi
+a pak vyndali jsme věc z batohu,
+šli jsme dál a oni se rozpustili.
+A normálně šli dál. A já říkám,
+co se to tady děje, prostě.
+Jsou tak zblbnutý
+stát v těch frontech, oni takovši ničeho měli do mobilu,
+ale jakože, podle mě jsou tak naučený,
+že prostě...
+Stojí se, stojím prostě. Jo, stáli tam s náma
+a pak prostě jsme odešli, jak jste taky.
+Taký týmový jsem líbí.
+No tak jsme se tady tak trošku zapopli po světě.
+Já bych zase šel zpátky, trošku bych kousnul
+jednoho kyselého jablka, které se jmenuje
+oslovování kandidátů a inzeráty.
+Protože, přátelé, pojďme si říct,
+že i v roce téměř 2025
+to, co vidím
+kolikrát na Linketinu, je fakt jako hrůza.
+Jo, jako to, jak je
+vlastně celý
+ten inzerát napsaný,
+to, co tam je napsaný,
+spoustu informací člověka,
+aby se to prohnal či GPT a řekl, vytáhni mi ty relevantní věci.
+Jak si myslíš,
+Šárku, že vlastně by měl
+správně ten inzerát
+vypadat, aby tam bylo všechno,
+aby to zaujalo, aby tam nebyl bullshit
+a aby tam vlastně nechyběly
+ty úplně naprosto zásadní věci?
+Jo, určitě si myslím,
+že by tam mělo být ten důvod,
+proč toho člověka by to vůbec mělo zajímat,
+asi úplně na prvním místě.
+Mělo by tam být nějak,
+ale asi ve zkratce neúplně extrémně rozepsaný,
+co my potřebujeme od toho člověka
+a potom samozřejmě něco nabízíme
+a takový ten konec.
+Já osobně jsem spíš za ty kratší
+job descriptiony, protože si myslím, že
+ty dlouhý člověk nepřečte,
+ale zase
+nechci, když se podíváte
+pak na web a tak a my, tak prostě je to ten dlouhý
+inzerát s velkým úvodem
+o firmě na začátku a tak,
+ale za mě jsou tam
+ty vlastně tři klíčový věci
+a co byla ještě
+druhá část? Jenom ten inzerát?
+No, v podstatě, jak by ten inzerát měl vypadat,
+protože koukáme denodenně na LinkedIn
+a pořád to vlastně naráží
+na ten stejný problém, který si teďka popsala,
+a který, když půjdu na web a tak a my,
+tak tam najdu něco, co si popsala
+vlastně, že není jako správně.
+To je čím? To je tím, že to řeší i globální
+hiring a je to jeden portál, je to
+tak, nemáte to vyloženě local based, že by si
+to jako forkla ten vlastní
+styl a jela si tady?
+Nemáme,
+zase je to teď
+hodně aktuální, zase se to řeší.
+V lednu se to vyřeší, to je
+magické datum. Od ledna bude všechno vyřešený,
+ale no,
+v současných těch je to tak, jak ty říkáš,
+to je prostě globálně nastavený pro všechno
+a samozřejmě
+potom jako, my jsme to neřešili
+až tak jako s engineeringem, víc trošku s
+designem, protože já jsem teď nabírala hodně do designu
+v posledních měsících,
+nebo jako produktáky do designu
+a tam jsme to chtěli jako úplně celý
+překopat, protože náš současný
+Head of Product Experience jako říkal,
+že ty designéry to takhle jako zajímat nebude,
+že to musíme udělat prostě jinak, je to jiná
+cílovka, na jiný věci budou ty lidi
+reagovat. No a to je ale zajímavý input,
+kecám vám do toho teda, když cílovka je,
+dej mi tomu ne teda designer, ale
+někdo dopůjde k Dominikovi
+do týmu, řeší se to s Dominikem
+nebo s lidma na jeho úrovni
+a jako přijdeš a řekneš, hele
+Domčo, jako zaujíme tě tělestane
+inzerát, nebo jsem to strukturovala
+naprosto kretensky a mám jít to dodělat.
+Ptá se jich někdo,
+znám firmy, kde ne, jako se
+nikdo nikoho neptá v tomhle stovu.
+Takhle, u nás jsou hiring
+manažeři, ty, který sepisují job description.
+Od nich to vychází
+a my samozřejmě pak máme tuhletu šablonu,
+do který to tak jako nějak sázíme, ale
+on to dává dohromady, já to nějak
+zasázím a pak mu to dávám zpátky a on říká,
+jestli to dává nebo nedává smysl.
+Takže nějaká spolupráca.
+A teď jako mě napadá,
+mám pocit, že v tomhle tom se hrozně
+změnila doba, aspoň z mýho
+pohledu. Já když jsem nastupoval do CNK,
+což už teda dneska bude 6 let zpátky,
+tak to bylo opravdu tak, že se ten
+job description poslal prostě na ty webovky
+té stránky a tam už, ono se něco
+sebralo, někdo tam odpověděl a pak
+se to začalo brutálně měnit, jak prostě
+ty lidi se HR
+museli oslouvat ty lidi napřímo
+a prostě psát. A vlastně mám pocit, že začal
+být mnohem důležitější ta relevance
+v podobě té zprávy, která mě musí oslovit,
+aby mě pak zajímal ten job description
+vůbec. Jak vnímáš tuhle
+turbulenci, kam se to vlastně posouvá,
+kde jsme dneska?
+Já možná jenom řeknu teď fakt
+čistě pro moje kandidáty, nebo
+engineering kandidáty,
+my skoro, jako určitě
+víc jak polovina lidí, co my nabíráme,
+jsou lidi, kterými jsme aktivně oslovili.
+Nedá se spolehat na to,
+že až ven inzera, to teď ty lidi všichni jako
+kouzelně přijdou, takže ano.
+Což je furt dobrý číslo, to byl, řekl bych,
+ty 50. Jo, jo, jakože
+šárka je dobrá, že jo, to je jasný,
+ale to je tím podcastem.
+No, takže,
+ale ano, musíš mít jako hodně dobře
+vyladěnou tu zprávu samozřejmě, aby to bylo
+krátký, úderný, hlavně relevantní
+pro něj a prostě zajímavý.
+Já jsem,
+já tam třeba dřív jsem dával
+jakoby odkaz třeba na nějakej článek,
+kde bylo víc rozepsaný, proč náš produkt
+je třeba užitečný, abych to nesázala všechno
+do té zprávy, ale když je to bude zajímat, tak si na to klikne.
+Ale měníme to
+samozřejmě v čase podle toho,
+koho hledáme, jak ty lidi reagujou, pořád
+ty zprávy nějak přizpůsobujeme
+a teď ještě chat GPT, takže ještě
+nové myšlenky do toho.
+A trávíš nebo máš čas na to
+jako opravdu tu relevanci
+se na ní zaměřit, jo,
+příklad, jako mě ještě dneska pořád chodí
+prostě nápady,
+jak přijít někam na datovýho inženýra.
+Ty lidi nepochopili prostě, že já už dneska to SQL
+prostě dohromady nedám, jo.
+Takže jako dal bych,
+ale jako rozhodně bych za to asi nedostal dobře zaplacené.
+Ale malně běž do spořky a zkus
+delete from users
+středník boom a máš to.
+No jasně, úplně v pohodě.
+To bych zvládnul,
+byť čuměli.
+Jo, jako jestli je čas na to,
+se asi zaměřit, jo, že
+samozřejmě ty názvy těch pozic, to je
+hrozný zoo, jo, ale jo, jakože když
+prostě by si chtěla třeba headhuntit ze spořky
+někoho, tak jakože jestli víš,
+jak tam zhruba je ta struktura, koho
+asi oslovuješ, protože samozřejmě
+u těch koncových rolí typu
+developer, tam je to jasný, jo, ale pak čím
+jde člověk vejš, tak to začíná být fakt
+peklo, jo, jako prostě ta moje pozice, jako
+je na čtyři slova, jo.
+No, jako někde je to samozřejmě
+složitější to odhadnout, určitě
+mi pomáhá, když ten člověk má ten LinkedIn jako
+víc detailně vyplněný, abych
+nešla úplně to, ale
+já to dělám tak
+zase proto, jako hodně seniorní role,
+já neoslovím těch
+lidí třeba sto, ale
+prostě třeba dvacet. A
+když oslovuješ těch lidí dvacet, tak to už
+si musí dát sakra záležet, co do tý zprávy píšeš,
+protože fakt těch lidí je hrozně málo, takže
+no, takže
+takhle já to sepisuju.
+Jaká je míra tvý autonomie?
+Tady do toho trošku jako ryju záměrně,
+protože já příští týden pro váš kontext
+a pro posluchačův
+kontext, příští týden tady děláme
+velký workshop vlastně s globálním hiringem
+cyklumu, že sem přijedou,
+jako, že sem do Prahy, my se tady
+zavřeme a budeme řešit, jak vlastně
+vzít v potaz to, co ty si řešila,
+třeba typicky máme inzerát, který je dlouhej,
+jak týden před vejplatou, nikdo ho stejně
+nebude číst, maximálně či GPT
+a máme tady lokální lidi, kteří to potřebují
+ten message předat v lokálním
+kontextu, brát v úvahu lokální
+věci, ale zároveň vlastně ta firma je natolik
+velká, že lokálně by se to neuškálovalo,
+takže potřebuješ kooperaci jako na globální
+úrovni. Tohleto je věc, kterou já
+vlastně jako potřebuji nějakým způsobem jim pomoct
+nebo společně to tady jako vykopnout.
+Jak je to u tebe?
+Máš to podobně, že
+vlastně stejně do jistý míry to pak
+jde přes ten globál, nebo ty jsi naprosto
+soběstačná a maximálně použiješ z globálu
+jenom nějaký templaty?
+No.
+Myslím si takhle, jsem soběstačná
+v tom, že dáme dohromady ten job
+description s tím manažerem, jak jsem říkala
+a můžu to normálně
+jako jít a publikovat na web a nikdo
+mi to nikde jako nekontroluje.
+Ale vím, že je preference pro to mít tam prostě
+tu šablonu, aby všechny ty
+job description vypadaly stejně.
+Jinak my jsme,
+já chci jenom říct, protože my jsme dělali
+kdysi v rámci programej čárování
+meetup v Airbank
+a tam jsme řešili roli rekrutera,
+co vlastně by měl jako rekruter dělat a
+u nás jsou rekruteři jako extrémně
+samostatní, takže my vlastně
+fakt děláme všechno od oslovení,
+pohovory, zpracování nabídky,
+offer cally,
+víme pomalu o těch kandidátech víc než
+jejich vlastní ženy prostě.
+To tak nebezpečný.
+Takže my máme
+jako fakt velkou míru autonomie,
+což třeba jako jinde
+jsem pochopila na tom meetupu, že úplně nemají,
+že jsou spíš jako supportní funkce
+a řeší si to ten engineering.
+No k tomu nahrává
+další otázce, kterou jsme spolu paradoxně
+vlastně řešili v obráceném gardu,
+když jsem byl u vás v programej čárování
+a to je vlastně to sdělávání těch lidí, který
+ten hiring dělají. Protože jedna věc je
+jednodenně se tam rubat, když jsem
+v Javě, tak prostě ve springu a
+znát všechny tyhle věci, nebo když jsem
+na dotnetu, tak prostě znát jako všechny
+novinky prostě ze C-sharpu
+třinácky a pak jsem prostě hiring
+člověk, který to najednou musí absorbovat
+hrozně rychle a ještě proti němu sedí
+člověk, který má velmi
+tendenci se urazit, když nedej bože
+místo Java řekneš JavaScript, tak ten tě vyhodí
+buď on sám vyskočí v oknem
+nebo tebe vyhodí, prostě jedno z toho.
+Jak to řešíš ty? Protože to musí
+být poměrně náročný, tohleto.
+Já mě se strašně líbilo, když jsi u nás
+podcastu říkal, že se s tom jako
+angažoval a že se snažil vlastně
+jako pomáhat v tomhle.
+Já to řeším tak, že musím být proaktivní a musím
+chodit za těma klukama z inženýringu a musím
+se jich ptat. A docela i jako
+občas vyzývám,
+že máme strašně moderní stack a že je to zajímavý
+a že to mám říkat na těch pohovorech.
+Tak jsem se zeptala, jaký stack teda máme
+a jestli mi to může jako ukázat a našla jsem si to
+na nějaký stránce, kde to bylo
+rozdílený ve sloupečkách, prostě moderní,
+ne tak moderní, zastaralý. A my jsme to
+měli někde úplně dole, jako na těch plíčkách.
+A strašně jsem je tím vytočila,
+ty frontejáky, že jsem na to jako přišla.
+Tak pak kolem toho byly nějaký diskuze,
+ale pak se to nějak jako, už je to zase
+relevantní, už je to zase dobrý.
+Ale jako rýjujem do toho, no, jako ptám se.
+Já vím, že v CNQ na tohle
+dobře fungoval Milan Piskla,
+mimochodem taky host našeho podcastu,
+že měl takovou jako
+prezentaci pro HR a
+ta byla skvělá, jakože byla vlastně v high levelu,
+akorát člověk si z toho hezky odnes
+to, co podle mě potřebuje pro tu práci
+a fungovalo to velmi dobře.
+Já si myslím, že to je jediná cesta, že jako
+ta kooperace až na takový úrovni,
+samozřejmě je dobrý vědět,
+jako když někdo přijde za mnou a začne se mě
+ptát na hiring věci, tak já řeknu
+to, co vím a pak řeknu prd a teď tady
+máš Sylvi a ona si tě vezme a
+tata s tebe prostě vymlátí maximum
+a ji se ptají na co chceš a mu to musí
+fungovat i v obrácení, že jo. Vlastně když Sylvie
+řekne, no tak tady už úplně nevím, počkej,
+já tě spojím s Romanem a teď ti to vysvětlí do mrtě.
+Musí tam podle mě fungovat fakt tak jako úzká
+spolupráce, což já nevím, jak
+jinak to udělat, že jinak se ty lidi prostě
+mají tendenci urážet, nebo máš takový,
+chodí tam jako, že
+něco spleteš a mu řekne, tak to jsem
+si nevěděl, že fataka mě nevíte, co je
+reakta, svelte.
+Jako takhle se mi to asi nestalo
+přímo, ale bylo pár takových,
+který vyloženě vypadaly, že se mnou jako nechtějí
+mluvit, že se mi to jako nechtějí vůbec sdělovat
+a já jsem říká, a co jste na jakých projektech, prostě jaký
+technologie, prostě co vás, a on říká,
+no to probereme na tom
+technickým koleto.
+To byste nepochopila, jo?
+Přesně, do toho, jako fakt řeknu, že to nepochopím
+a že to nemá smysl, mi to říká, to já říkám,
+no dobře, no.
+Tak to už je docela přísnej ne-culture fit,
+to už je trošku kreté, no.
+No, no, no.
+No jako nedostal se dál v tom procesu.
+No to je dobře, to je dobře.
+No možná, to jsme ještě otevřeli, teda mě úplně zajímá
+nějaká jako horror story,
+že zatím se tady bavíme vlastně z toho,
+tak jak to chápu, high level, tak Atakama funguje,
+šárké hvězda, všichni ji milujou,
+až dvanáct kol podle toho,
+jak moc vysoko chci do Atakamy,
+a jinak jako všechno je růžový.
+Chci nějaký fuck up story,
+něco, co se vám jako při hiringu, nebo nějakej pekelnej
+kandidát, jako když jste se spálili.
+Třeba vyhodili jste nedávno někoho
+třeba ve zkušebce, stává se vám to?
+Nestává, já přemýšlím to,
+já jsem vůbec nemám připravenou žádnou
+fuck up story.
+Ty jsi přijela z toho Japonska tak rozveselená,
+že nemáš ani žádnou fuck up story.
+Já jsem právě ještě rozveselena,
+jsem ten první týden v práci,
+takže to přemýšlím,
+fuck up story.
+Takže fakt jste neměli třeba to, že jste zjistili až později,
+že ten člověk není fit, protože třeba
+mně osobně se to jako vlastně stalo nedávno,
+nebylo to úplně hezký zjištění,
+že vlastně jsme udělali jako chybu.
+Jakože takhle, stalo se, že bychom
+zjistili, že člověk není fit po tom, co nastoupil,
+ale většinou to nebylo, že by to bylo
+jako ne culture fit, ale spíš
+jako technicky, že se hodně dobře prodal na tom pohovoru
+a pak to třeba nezvládal. To se stalo.
+Ale jako culture fit
+většinou jako odhadneme, že fakt
+ty lidi jsou takový, jaký byli na tom
+pohovoru. A ten pohovor technický
+probíhá vyloženě formou rozhovoru, nebo
+máte nějaký programování
+na úrovni whiteboardu, nebo nějaký
+hackering test, nebo co děláte?
+Tak záleží na co se hlásíš.
+Když je to back-end
+Java nebo Python, tak máme
+pull-requesty, to znamená, já jim pošlu
+nějaký code review, oni si to doma vypracují a pak
+přijdou vlastně na to technický kolo
+a baví se o tom, jak na tom pracovali.
+Když je to front-end,
+tak ukazují nějaké své ukázky
+kodu, anebo je tam live coding, tam si můžou
+vybrat. To je takový nějaký hlavní
+rozdělení a pak už si to kluci dělají.
+Tam nejsme úplně unifikovaný, zrovna
+v těch technických kolech.
+Ale ty pull-requesty jsou celkem populární
+mezi kandidátami.
+A jak frčí v Talent Acquisitionu AI?
+Zmínila jsi ChangeGPT.
+Já třeba dneska už...
+Ty to tam vždycky naru mečí,
+jak já holky z Vivia, ty vole.
+To je super.
+Já nemám ústky, to musím naladit.
+Ne, úplně nad tím přemýšlím,
+jak vlastně by se to dalo
+zoptimalizovat.
+Prolevnit, že jo?
+Já třeba
+už dneska dělám normálně.
+A když máme hosta,
+tak vezmu jeho link
+na LinkedIn, dám ho do ChangeGPT,
+udělí mi summary pár otázek,
+prostě, protože už mě to zná, že on už mě zná.
+Takže dává ty otázky
+tým dialektem, nebo jak říct, jako tou formou,
+který já rád používám.
+Děláš něco takovýho? Používáš to?
+Nebo ne?
+My máme v atakámě teda Gemini,
+my nemáme požití ChangeGPT.
+Ale jo, jasně.
+Jako na otázky,
+na pohovory, i si s tím pomáhám
+na ty zprávy na Linka,
+i na ty job descriptiony,
+rejection e-maily,
+jakýkoliv text, aspoň nějaký základ
+dám dohromady s tím a pak tomu dám
+nějaký nádech, aby bylo vidět, že to psal člověk,
+že u toho seděl člověk.
+Takže jo.
+To je ještě zajímavý poslední taková věc
+tady před naším krátkým předělem.
+Ty jsi řekla rejection e-maily,
+nebo obecně jako rejection jako takový,
+nechceme tě díky moc. Jak si myslíš,
+že by vlastně měla vůbec vypadat
+tato negativní cesta
+toho člověka, tak aby i tak měl
+pozitivní zkušenost? Protože předpokládám,
+že to, že se rozejdeme teď,
+neznamená, že se to nedoučíš a za dva roky
+nepřijdeš jako velká hvězda nebo něco.
+Jo, jo. Takhle.
+Já, když odmítáme toho člověka
+po technickým kole a dál,
+vždycky z těch kluků v engineeringu
+vymlátím, co je přesně ten důvod, aby to nebylo
+jenom jako děkujeme, nashledanou.
+Takže fakt oni mi jako připravili do detailů,
+tohle bylo dobrý, tohle by šlo zlepšit.
+Pokud ten člověk se dostane úplně
+za finální kolo a vybrali jsme
+jinýho do ofru, ale je hodně dobrý,
+tak potom většinou hiring manager
+nabízí vlastně
+10 až 15 minut nějakou feedback session
+a normálně si s ním zavolá a
+řekne mu teď jako ne, ale jsi hodně
+dobrý, chceme tě do budoucna. A to nám funguje
+vůbec jako nejlíp, tyhle feedback sessions.
+Je něco třeba
+obecně u tohle celého hiring procesu,
+na co se zapomíná
+z tého pohledu, nebo je
+podceňovaný celkově třeba.
+Možná tohleto, ale napadá mě
+nějaké jiné věci, které v celém tom procesu
+třeba ostatní firmy máš pocit, že
+nad tím tak máme rukou a vy tomu dáváte
+jako extra důležitost. Mně třeba napadá z toho, co jsi
+řekla, ta relevance toho, že ti řeknem přesně,
+co jsi udělal špatně. Ne, jako nemáme
+zájem, máme spoustu jiných lepších kandidátů,
+ale na řádku 475
+tyhle ti chyběl střední.
+– Aha, aha. – Přesně. A u těch půlrekvestů
+třeba to tak fakt jako je, že mu napíšou,
+jak on to okomentuje, tak on mu napíše
+od nás k těm komentářům, tohle dobrý,
+tohle dobrý, tohle ne. Jako fakt
+doslova, jak to řekl, tak to tam komentuje.
+Ale no, jako
+ano, hlavně ta zpětná vazba
+a pak hodně, často
+nás schválí, že jsme jako rychlí.
+Mně to přijde, že jsme tak jako standardně
+rychlí popravdě, že my vlastně…
+– To je co? To je kolik dní?
+– No, na normální
+pozici tak dva až tři týdny
+maximálně to je, ale
+asi to… – Jako než dostanu odpověď
+po tom, co jsem od vás odcházel z technického
+nějakého intervju. – Ne, od prvního callu
+se mnou až po offer callu se mnou
+je to maximálně tři týdny, většinou dva.
+Pro engineering většinou dva.
+A to většinou jsou z toho jako překvapený
+ty lidi, ale nevím úplně, co je standard
+na trhu a je to firma od firmy zase, že
+podle toho, jak je velká a tak.
+Takže to jsou asi dvě nejdůležitější
+věci. – Takže rychlost
+a přesnost, co se týče poskytování
+informací zpátky. – Jo, jo.
+– Než se vrneme do velmi zajímavého
+tématu, takového posledního, který tedy mám
+připravený, musím pochválit Šárku.
+Já až budu mít jednou jetlag, chtěl bych
+aspoň z 20% bejt na tom mentálně,
+tak jako je Šárka. Já mám pocit,
+že když přijedu jako z bezdničí
+na umladý Boleslavě, tak už jsem na tom
+hůřný Šárka po letu z Japonska, takže
+velký kuraský Šárko, parádně se
+nám s tebou hovoří. Prosím tě samozřejmě
+jedna věc, já se na jednu stranu, je to tenkej
+let, ale já se musím zeptat, protože samozřejmě to, že ty
+seš žena, která se vyskytuje
+v IT, já obecně samozřejmě trošku
+mi nahrává, že mám doma prostě dvě dcery,
+takže já se osobně myslím, že víc žen
+v IT, já jsem naštěstí tady
+zrovna v tomhle, tam, kde natáčíme
+doslova obklopen ženama, takže já jsem v tomhle
+jako happy, já to mám rád, prostě já si myslím,
+že to je jako naprosto super element
+v rámci jakýkoliv firmy na tož v IT.
+Jak to ale vidíš ty
+s obecnou situací ženských?
+Jo, jako na
+férovku, je to, myslíš, že to je dobrý,
+že se to zveličuje, nebo je to špatný a mělo by se
+víc šlapat, nebo je to celý
+daleko složitější a takhle by se o tom vůbec
+nemělo uvažovat? Jak to vidíš?
+A teď se bojíme ženy jako programátorky
+anebo jako třeba... Ženy v IT, řekněme jako
+obecně. Kdokoliv v IT. Kdokoliv, kdokoliv v IT,
+protože samozřejmě i když nejseš programátorka,
+tak stejně už si
+vlastně tady na to narazila, někdo na tebe může
+jako koukat taková, no to já ti nebudu vysvětlovat
+i stejně víš, prostě, jako co je redax
+a nazdar.
+Jo, jo, takhle. Myslím si,
+že se to pomalu zlepšuje.
+Určitě vidím i třeba, když
+se jako hlásají ty aplikanti a tak,
+tak máme čím dál víc žen
+i nám odpovídá, čím dál víc žen třeba na tom
+LinkedInu.
+A takhle na tomhle poměrně jako hodně pracuje,
+protože my jsme řešili nějaké partnerství
+s Čekitas a Fampalet
+a teď byla ta
+Women in Tech konference, tam byla od nás
+Mia Bajic, takže my je docela jako do toho
+šlapem, ale jako určitě
+to zase nebudu lhát v tom inženýringu,
+jako je pořád, já nevím, třeba 70%
+furt se hlásají chlapy a 30% jsou ty ženy,
+no takže mohlo by to být lepší.
+No a
+s nějakým jako chováním
+horším vůči ženám,
+jako já jsem se
+s tím setkala asi fakt jenom v té formě,
+co jsem říkala, že občas jako koukají,
+proč se se mnou mají bavit a tak, ale
+to bylo jenom jako pár příkladů
+a jinak si myslím,
+že to jako berou spíš,
+jako nezažila jsem nějakou úplně diskriminaci
+nebo něco takového.
+Tak to jsme rádi a myslím si, že by ten poměr
+měl teda, já si rozumím, že ten poměr by měl
+být větší, ale furt se říkám, proč
+teda jako nejsou, nechoděj, nebo
+bylo i na konferencích, jo, kolikrát
+možná už jsem to tady zmiňoval, že vlastně mi říkali,
+říkal jeden organizátor
+konferencí, že má vlastně strašný problém
+s tím sehnat ženský, aby vůbec jako spíkovali,
+že pokud si ženská umíš mluvit,
+tak máš teďka aktuálně, kdyby Šárka se rozhodla,
+že budou mluvit o technických tématech,
+a to si nedělám srandu, tak můžeš obět celý svět,
+protože prostě ženský IT
+nejsou, a oni z druhé strany,
+vem si, že jsi organizátor,
+nejsou, ale každou chvíli
+někdo přijde a skopetě za to, že je nemáš.
+A to máš jako vyřešit, když říkáš,
+že my vás chceme, a není něco.
+Co s tím? Myslíš si, že to ty ženský
+prostě nebaví, nebo že třeba
+my jsme jako uzavřené pořád to IT
+vůči tomu? Já si myslím,
+že by je to i bavilo, ale možná
+je to fakt o tom jako sebevědomí,
+že možná se do toho boje jít, protože
+těch technologických ženských
+komunity hodně, že jo, to nemáš jenom
+Čekitas, ale Pai Ladies, Gragrls
+a různý to, a jako
+já třeba, jak jsem se
+dostala do toho pivce, tak jsem chodila
+na pivo a taky jsem tam něco prezentovala
+a to, a bylo jich tam jako hodně,
+takže já si myslím, že jsou, ale potřeba
+by možná trošku jako popostrčit, aby se
+víc zviděli, no.
+Máš pocit, že by jsme
+teď jako společnost, ten IT rybníček
+mohli udělat ještě něco navíc pro to,
+aby
+jsme jako, jak to říct,
+jako porazili ten
+přirozený poměr, ten poměr je nějakým způsobem
+přirozený, jo, nějaký ty ženský
+na ty školy chodějí a pak prostě dělají v IT,
+jestli bychom mohli udělat ještě něco nad rámec
+toho, aby těch ženských tam bylo ještě víc
+a nějakým způsobem jsme to vlastně podpořili.
+Já bych teda potřeboval obě dvě dcery dostat
+do IT, jako aby mě mohly živit.
+Makej na to.
+No, asi jako podporovat určitě ty
+studijní programy, nebo takhle, podporovat,
+aby se ty holky hlásily do těch studijních
+programů, už na těch univerzitách
+a co nejvíc promovat ty komunity,
+protože já třeba o těch komunitách jako vím,
+ale nevím, kolik
+lidí nebo firm o nich ví,
+nevím, jak jsou ve skutečnosti známí, protože
+já fakt se do toho hodně angažuji.
+Takže určitě čím dál
+víc firm bude spolupracovat s těmi komunitami,
+co podporují ty ženy, tím líp.
+A dávat jim
+ty šance, aby se do firm dostali
+a postupně to bude snad lepší a lepší.
+A není možná nějaká cesta,
+řekněme, jako vyloženě to promovat,
+jako, no teďka,
+zní hrozně divně, že jsme jako women friendly,
+což samozřejmě
+jsme by default, ale
+něco taky jako víc do toho tlačit,
+protože předpokládám, že třeba spoustu
+ženských má ten stejný problém, který mají junioři.
+A to vůbec nemusí být juniorky, můžou to být
+seniorky, ale ten stejný vlastně
+problém, že chlapi jsou takový, že
+i když na to nemají, tak kolikrát prostě vlítnou do dveří
+a řeknou třeba, to víte, třeba ne.
+Ženský bře mají většinou jako větší míru
+z mý zkušenosti sebereflexe, než máme my chlapi,
+tak řeknou, tyjo, na to možná nejsem tak dobrá,
+takže ve finále tam mají jako impostor syndrom
+a radši to neskusej. Jestli nějak jako
+neotevří ty dveře bokem
+přes takový jako
+nějaký, nevím, nějaký hack,
+aby se nebáli. Vlastně za cílite
+stejně jako cílíme juniony, aby se nebáli.
+To je dobrá otázka.
+No jako nemůžeš tam napsat
+chceme ženy, že jo?
+No jasně.
+To by se ozval někdo jiný asi.
+Včetně zase osobně
+třeba ta cesta toho, a teď se
+dostávám jako do toho celospolečenského
+problému, takový to,
+ta otázka kvót, jo. Mně vlastně přijde,
+že to moc jako nezafungovalo, i když bych
+jako chtěl, by to fungovalo, ale vlastně to
+kolikrát nesejí ani tím ženským, protože pak mají,
+pak můžou mít pocit, že tam vlastně jsou
+jenom proto, že to je nějaká kvota.
+To je taky vlastně stupinní, že dobrý by bylo
+to jako podporovat ze spoda, jo, nějakým
+způsobem, jo, ale to je
+one million dollar question asi.
+No jak to máte ve spořici? Jak to máš týmu?
+Hele, třeba Tomáš to extrémně podporuje,
+a je to vidět, jo. V těch datařích,
+u těch datařů je to samé.
+V těch datařích je Tomáš páčený, ale to asi by neprošlo u něj doma.
+Ne, ne, ne.
+To je ten claim.
+Ale jako, no, jako, je tam,
+myslím si, že u něj v tribeu
+je opravdu ten poměr, jako, zásadně
+dobrý, jo, oproti zbytku
+trhu, jenom tak, jako,
+co oko vidí, jo, nemám to
+na datech. U mě v tom datovém
+týmu není to úplně,
+není to úplně
+tak, jak bych si to představoval, ale
+je to stejný, jak se o tom bavíme, no.
+Třeba není kde brát, no. Třeba když
+děláme pohovor. Teď zrovna
+poslední člověk, kterýho jsem nabral,
+byla žena, a
+ale to prostě byla spíš výjimka, no.
+Tak já nevím,
+tohle asi nerozekneme, teda.
+Já jsem právě myslel, že jo, takže nejo.
+No je tak, proto jsme si pozvali Šárku, že jo, která jako prostě
+po tom jetlegu přiletí a řekne,
+vy ty tomci, takhle se to dělá, takhle
+to napravíte. A my řekneme, no i jo.
+Takže ne, takže ne.
+Na to úplně odpověď nemám. Ale
+můžeš se zeptat, Vojty Mádra, tam měl vždycky samý ženský
+jenom v týmu, ten nabíral jenom ženský.
+Jo, ale to je pravda. Já nevím, jak to dělá,
+ale. On měl jenom ženy,
+on tam žádný muže neměl asi.
+Vlastně Vojta je jedinej člověk, který
+měl jenom čistě jako ženský tým
+a pořád se mu tam hlásili ženský. Ale podle mě
+to je osobní kouzlo Vojty.
+To je skvělý. Totohle my dva asi nikdy
+nenasimuluje. Ale zkusíme se zeptat,
+jako třeba nám dá hint. Zkusíme.
+To jsme měli vidět, než jsme si ho pozvali.
+I Vojta samozřejmě byl
+naším hostem, takže budeme
+ho muset pozvat znova.
+No dobrá, já si myslím, že jsme to profrčeli úplně
+jako řekl bych, jako křížem, krážem
+a až tam půl ještě nějakou zásadní otázku,
+kterou by si chtěl jako vytáhnout z kapsy.
+AI si vytáhl.
+No ne, AI teda no.
+Tak jako dali jsme si, dali jsme si.
+Takže asi ne, asi ne. Já myslím, že jsme to tak hezky prošli
+a neodpověděli jsme na zásadní otázku,
+tak já si ji nechávám prostě,
+budu na ní přemýšlet, až pojedu dneska domů.
+Takhle já myslím, že to je zásadní otázka, kterou vytahuješ
+vždycky na konci. Tak to samozřejmě vytáhneme.
+To je jasný, to je jasný.
+No tak to zásadní, tak je jako vždycky
+konec stejný.
+Konec vždycky stejný.
+Co tě čekáš,
+a kde tě můžou třeba lidi vidět?
+Něco vyprávit,
+odpovídat, někde prezentovat.
+Na jaký mýtapě se přitulíš?
+No, no, no, kde by tě posluchači mohli potkat,
+pokecat.
+No takhle, určitě bude jeden velký
+mýtap pro engineering zase s Marianem Kamenišťákem.
+Myslím si, že je to únor
+nebo březen tak nějak
+a to bude pro platform inženýry.
+To bude zajímavé, určitě
+bude nějaký AI mýtap, kdyby jsi chtěl říct.
+Jo, jo, jo.
+Určitě bude AI mýtap na takhle mýtap.
+Kdybych chodil na všechny AI mýtapy, které vznikly,
+tak vlastně nic jího nedělám.
+Ale tím nechci degradovat.
+Máš AI mýtap, určitě.
+No vidíme, jak to dopadne. Ještě bude náš první AI mýtap oficiální,
+tak ho vidíme.
+No a pro mě úplně nejbližší akce,
+tam asi se jakoupa nepotkáme s posluchačema,
+ale já jedu vlastně na PyCon
+do Vroclavy příští týden,
+příští pátek.
+A je to první PyCon Vroclav,
+takže jim zároveň dělám reklamu.
+A jsem zvědavá, jaký to bude.
+Vypadá to, že to bude parádní.
+No a jedeš tam proto, že by tě zajímal Python,
+nebo tam jedeš rybařit?
+Já tam jedu, protože znám ty organizátory.
+Jo takhle, takhle, smetánka.
+Chtěla jsem je podpořit,
+tak tam jedu a budou to zkoušet.
+Vlastně ten rok to bude jenom jeden den
+a pokud se to osvědčí, tak už bude
+klasický PyCon i všude jinde po světě,
+takže už to bude jako na víc dní.
+To jsou lidi z Polska, kteří to tam organizují,
+nebo to odsud dělají v Polsku?
+Ne, ne, normálně je komunita kolem
+té Vroclavy.
+A tam se zůstala jak, Bajdeve, ještě?
+Jak se zůstala do komunity, do Polska?
+No já jsem totiž nabrala jednoho
+Python developera, který tam žije
+a teď se stal spoluorganizátorem,
+takže jedu do Polska.
+A na Vánoční trhy zároveň,
+protože začínají Vánoční trhy příští.
+Tak to je krásný.
+No tak jo, no tak my ti budeme přát,
+aby jsi tam koupila něco hezkého,
+aby jsi to užila,
+aby organizátorům, aby to dopadlo
+tak, jak očekávají.
+No samozřejmě, ať se ti daří, předpokládám,
+že tvoje e-mailovka teďka potom, co se byla
+prostě tři týdny pryč, je naprosto praská ve švech,
+takže ti všechno to smáš,
+má to přijet znovu.
+A moc díky, že jsi dorazila, bylo to super.
+Ať se daří.
+Já moc děkuju za pozvání.
+Měj se hezky. Čau. Čau.
+Ahoj.
+Šárka Kousalová s náma projela
+hiring, employer branding
+a vůbec celý jsme to
+prohnali křížem.
+A mně nenapadá něco, co jsme opomenuli.
+Jako my jsme byli,
+všechno, jako to bych zopakoval,
+prostě já mám set otázek a to jsme vyškrtali
+jednu po druhý.
+Hele, jako málo kdy se nám to povede,
+je to opravdu end to end, takže to bylo úplně skvělý.
+Ještě bych pochvalil Šárku, je vidět, že dělala
+podcasty, jak krásně byla pořád
+tou působou toho mikrofonu. Ty budeš mít
+úplně nejmín práce, co jsi kdy měl,
+co se týče vyrovnávání
+toho, jak někdo si začne mluvit takhle do stran.
+Ano, je pravda, že spoustu
+našich hostů za tu historii tady prostě
+kolikrát pobíhala po pokoji
+a já jsem tady běhal z mikrofonu, říkám, nevzdoluj
+sami od toho, ty vole, to nenazvůči.
+A ta krásně, ta byla úplně zablokovaná.
+Nevím, jestli to bylo třeba, že byla bloková prostě z toho
+druhého letu, ale bylo to
+velmi stabilní.
+Pro náš podcast dobře. Pro náš podcast
+jako fantastický. Ne ještě jednou
+moc díky Šáry, já myslím, že jsme si to
+užili, naučili jsme se spoustu
+nových věcí, já vím, vy hní do piši,
+že teď to bude, no ale to nebylo
+tak technický jako to. Ano, dneska
+to nebylo tak technický, ale
+osobně, čím díl
+jsem v IT a už je to tady 20 let
+plus, tak tím zjišťuju, že prostě ty
+non-technical věci
+jsou jako vlastně, nechci říct, stejně důležitý.
+Ale vlastně jo, jako do jistý míry
+jsou prostě, je to protipol tomu,
+co řešíš ty technické problémy.
+Musíš mít i veškerý ty
+šťávičky kolem pokrytý prostě.
+Souhlasno, ono, když se na to podívá člověk komplexně jako
+nějaký produkt, tak vlastně
+ty měkký věci, ty jsou
+vždycky nejsložitější, tak technologie prostě funguje.
+Protože vlastně tam jsou jedničky a nuly,
+tam to funguje dobře. Pokud to není
+firma, kde jsou jenom nuly, že jo.
+Nebo firma, kde jsou jenom jedničky, jako je
+Vivio.
+Jak se ti úplně rozsvítily oči, ty vole.
+Já jsem zvědavý, když se tomu
+přestanu smát, ty vole.
+Já taky chvíli, že se tomu tlemí celou sérii.
+Uplně vidím, jak to můžeš do toho počítače a najdout
+takhle. A nebo jsou tady jedničky,
+jako je Vivio. Úplně geniální.
+Tak já jsem rád, že jsi spokojený. Holky jsou taky spokojený.
+Já myslím, že i poslouchači jsou spokojený. Konec konců,
+přátelé, za tu cenu, co
+to máte, je to pořád zadarmo.
+I nadále díky holkám z Vivio.cz to bude
+zadarmo, takže my jedeme dál.
+Dáváme si teďka chviličku
+voraz. Už ná roztočíme
+jedenáctou sérii. Takhle,
+my ji určitě roztočíme. Otázka je, kdy.
+Jestli to bude ještě před Vánocem a nebude to.
+Nebo to bude až v tom legendárním
+datu, ten leden 2025,
+kde se všechno značí.
+Ne jenom pro Šárku a pro Atakamu,
+ale i pro nás. Takže zůstaňte
+nám naklunění, sledujte naše
+socky. By the way, máme i novej profil teďka
+na Blue Sky, což je nová sociální
+síť, kam všichni zdrhají. Co to je?
+Z X, to nevíš. Ty vole, ty nás nesleduje.
+To je peklo.
+Blue Sky, jo.
+Ty vole, čím se tlemíš, to je úplně skvělý.
+To je jak Twitter za starých dobrých časů.
+Bez Elona Muska, bez botů a bez
+reklama. Fakt jo? No, ono má
+Blue Sky app.com
+lomeno profile
+pod vocasem.cz
+na vlastní doméně všechno. To je všechno zařízené.
+Já už to nestíhám, ty vole. Prostě tady ty mladý
+lidi, jako seš ty, to prostě já nevím, kde to furt beru.
+Ty mladí nadějní čtyřicátníci.
+Ano, je to tak.
+No nic, přátelé, já si myslím, že jsme
+zase dlouhý, takže mějte se krásně.
+Pokud bychom se neslyšeli do
+vánočních svátků, tak vám samozřejmě tady
+oba dva přejeme krásné svátky
+bohatého Ježíška, hlavně zdraví
+štěstí, dávejte si pozor, ať neuklouznete
+na náledí, mějte se
+hezky a doufejme,
+že co nejrychleji v 2025
+v tom legendárním lednu
+se zase setkáme. Mějte se krásně,
+děkujeme. Mějte se krásně, čau.

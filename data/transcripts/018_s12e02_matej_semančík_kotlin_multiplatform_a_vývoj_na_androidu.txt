@@ -1,0 +1,2135 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Krásný den, velí posluchači, vítejte u druhého dílu dvanácté série vašeho nejoblíbenějšího IT podcastu Pod vocasem.
+No a samozřejmě série se rozjela a v sérii nesmí chybit její největší hvězda Petr Polipolák.
+No tak já bych řekl Stříbrná vrejla, ale ta zlatá patří Romanu, Jokerovi, Provazníkovi a Kometě Brno.
+Ano, je to tak, takže máme to za sebou, krásný den všem, my jsme rozjetí samozřejmě, máme před sebou léto, máme před sebou spoustu akcí a většinou my na začátku, že ho probíráme, jako jak jsme se měli a co si dělal.
+Sranda je taková, že my jsme včera natáčeli první díl, dneska natáčíme druhý, takže to, co se stalo mezi tím, Petře, stalo se tam něco zásadního?
+Já nevím, měl jsi puštěnou televizi, já to omylem zapnul, běžel tam nějaký hokej.
+Jo, jo, já jsem ho omylem poslouchal, no.
+Ty jsi ho poslouchal?
+Jo, jo, jo. A pak jsem, já jsem jel pak na zápas, ten jsme vyhráli, byli jsme první a psal jsem Honzovi Černýmu, jak to dopadlo v Pardubicích a už se mnou nemluví o týdu.
+Jak to vlastně dopadlo?
+V Pardubicích?
+No.
+No, Brno vyhrálo, jako vždycky.
+Jo, Brno, takže Honza Černý, ten jeho tým nevyhrál.
+Ne, ne, nevyhrál.
+Honzo, zdravíme tě, já vím, že už je to třeba měsíc po, ale to vůbec nevadí, tu ránu zase otvíráme.
+Teď to vůbec nebolí.
+Tak jo, hokej máme za sebou, díky bohu, možná vlastně v tuhle chvíli, ty jo, až ani nevím, kdy tohle jde ven, ale možná hrajeme třeba finále mistrovství světa.
+Jo, jo, já myslím, že tam někde už bude nějaký playoff, možná, je těžko říct.
+Jo, takže pokud ještě žijete hokejem, tak doufám, že jsme ještě v tuto chvíli někde v playoff mistrovství světa.
+Každopádně se připravte na to, že letos vás čekají obrovské akce a my se vlastně dneska k jedný zásadní akci tohoto léta dostaneme.
+Je to MDF Camp, který bude 2. až 3. června, už jsem to zjistil, 2. a 3. června, takže 2. jsou ty workshopy a 3. je ta konference samotná, je to pondělí úterý.
+Je to v Holešovicích.
+Já tam budu moderovat hlavní stage, budou tam další známí ksichty moderovat ostatní stage, moc se na to těšíme, užijeme si to, pokud si tam chystáte a ještě jste si nekoupili lístek, tak podvoca sem 20 je slevový kód, 20% dolů, vyděláte na to nějaký prachy a myslím si, že pokud ti je zrovna tohle sto váš chlebíček, tak si to užijete a užijete si to ještě za 20% dolů, takže to si myslím, že je úplná pecka.
+Nicméně to vůbec není všechno, teď se chystá takových akcí.
+Psal nám Honza Novotný, náš věrný poslucháč, člověk, kterýho jsme tady taky měli a je to letitý spoluorganizátor J Open Space, konference, která má na začátku J jako Java, ale já jsem tam byl, věřte mi, moc té Javičky tam zase není a je to opravdu taková ta konference, oni tomu říkají spíš nekonference, že tam přijedeš, máš pohodu, v pátek je pivko, v sobotu začínají talky, který si říkají mezi sebou sami ty organizátoři, nebo ty účastníci mezi sebou, v neděli to pokračuje, zase teda mezi sobotou a neděl
+to pivo, takže kdo přežije, vyhraje, v neděli se vyhlásí vítězové, podle toho, jak dovnitř se hlasuje, no a všichni odjíždějí s dobrým pocitem s tím, že teda za rok to dáme zase a mezi tím to by se ti líbilo, polise každý ráno chodí běhat.
+No nádhera, takže potom pivu, co ho vypiješ, tak ráno jdeš vyběhat.
+Android, prostě obecně mobilní vývoj, kterýmu jsme se tady, řekl bych, skoro roky nevěnovali, tak samozřejmě musíme poděkovat našemu partnerovi a to je Poli.
+Teď jsem to zapomněl, ta firma. Jo, Česká spořitelná se jmenuje. Česká spořitelná, ano.
+Takže teď jsem si vzpomněl, protože mi psal Michal Kosař, psal mi Michal Kosař, že slyšel ten náš úvod u prvního dílu a říkal, že kdybych měl problém s těma otevřenýma dveřma, že by chodilo hodně lidí, že mi pomůže prostě odbavovat ty fronty, takže jsme připravený přátelé, přijďte, kdo chcete a my to zařídíme.
+My to zařídíme, není to problém. Teďka dvanácté sérii, Česká spořitelná, nebo alias spořice, to je náš velký kamarád, my jim za to moc děkujeme.
+Vždycky říkáme, já jsem to teďka nedávno psal na LinkedIn, proč za nima stojíme a proč oni stojí za námi, myslím si, že to je dobrý meč, dělají zajímavý věci, ta firma se vyvíjí opravdu s takový tý klasický pobočky s tím větrákem nahoře, jak to tam hůčí a jak tam sedí ta jedna babička, tak už se to úplně evolvovalo, jak se krásně česky říká, úplně do něčeho jiného, do moderního high tech a samozřejmě zdravím své bývalé kolegy, kteří tam teďka pracují, Jirka Leinweber, Kristýna a dal
+Hezky to pověsuješ, dneska Martin Kobza říkal na Enjoy IT jednu zajímavou větu, že vlastně prvních dvěstě let, my letos slavíme dvěstě let, tak prvních dvěstě let jsme se soustředili na tu pobočku, dalších dvěstě let se budeme soustředit na ten digitál a pokud ten digitál přestane pracovat, tak můžeme nabídnout jenom kafe, protože tam už opravdu jako papír, tam nenajdeš, všechno je digitál, takže má to i svá úskaví, ale je to cesta, kterou jednoznačně jdem.
+A řekni, Kobza, že díky tomu vlastně ty dostaneš prémě až za dvěstě let, že to je na to navázané.
+To je domluvený, to je domluvený, když to teďka udělám dobře, tak za dvěstě let, já hledu hodně longevity, takže uvidíme.
+Je pravda, že politiky začaly zhrát nějakých horších nebo co, tak uvidíme, jak to dopadne.
+Každopádně přátelé, úvod tradičně dlouhej, tak jak to nesnášíte a jak my to milujeme a náš host už minutu, podle mě stojí někde před káncečkem, chudákem, ale ještě, že má telefon, protože tu bude mobilní vývoj, tak já bych řekl pro něj, tak jdeme na něj.
+Do studia dorazil náš dnešní host, Matěj Semančík, ahoj Matěj.
+Ahoj Matěj.
+Já jsem možná v úvodu řekl Matěj, protože on se píše všude Matěj, ale po cestě ve výtahu mi to vysvětlil, protože samozřejmě Matěj není z Čech, že Slováci to mají trošku jinak. Matěj, takže ty se píšeš Matěj, ale čteš se Matěj z nějakého důvodu, ty jsi mi to popisoval.
+Hej, gramatická vložka. My Slováci mekčíme automaticky po dětěnělej dítěníli, to je asi jedna z malá veci, co si pamětám ze slovenského jazyka, ale hej, tak toto funguje.
+Ano, měl jsi prvý jako Čech, který se na tomto jako sekol.
+Já tomu věřím, tomu věřím.
+Tady ti, jak říkají Slováci, dojebal jméno. To je takový jako termin z techniky.
+Jinak vlastně jsem si uvědomil, že máme takový jako slovenský start této série.
+Ano, je to tak? Minule byl Marcel, teď je Matěj. No proč ne? Samozřejmě my jsme mezinárodní podkaz.
+Vyžíráme prostě tu reprezentaci.
+To nejlepší. Tak prosím tě Matěj, už jsi pár dílů slyšel, takže víš, že vždycky na začátku my si toho hosta probereme, jak se k nám vlastně dostal, jak se vlastně dostal do IT, co ho k tomu přivedlo a co teďka aktuálně dělá prostě taková ta představovačka, takže pojď nám.
+Dobré, tak já jsem se dostal do IT tak trošku jako slepý k hostům.
+To je zajímavé, kolik lidí to tady říká.
+No jasně, to je na hodou.
+Je to štěstí.
+Hej, bylo to do štěstí.
+No, jak jsem se dostal k IT? No, tak od malička jsem se jako velmi rád hrál s počítačmi, takže videohry a těto blbiny. Postupom času jsem se nějak tak jako prehřízel k programovaniu, hlavně na středné škole.
+Prostě rovil jsem takové ty blbosti, že jsem si jako rutoval Android telefony, XDA, developers forum, nevím, či poznáte.
+Jo, jo, jo.
+Tak na to to.
+To jsem narazil hned, když jsme jako mali doma počítač s internetem, no a tak jsem se jako bavkal, nějaké jako cečko na středné, potom jako různé weby, učil jsem se HTML a prostě takové ty jako klasické jako věci, až kým jsem se nedostal na výšku, tam jsem jako študoval, ale moc jsem jako ještě vůbec nevěděl, co jako dělej.
+A vlastně jedného pěkného dňa mi napísal.
+A vlastně jedného pěkného dňa mi napísal Lukáš, náš founder, na Linkáč, že jako hládá Android jako a že ty máš jako na, vidím, že máš na profile prostě jako skill Android a to bylo jako strašná halus, protože my jsme si jako na středně se spolu, že jak my založili Linkáča, tam jsme si jako endursovali různé skilly, prostě jako šupali jeden druhému a takže jako pojďme, Android, Linux, všechno, věš, a on tam jako viděl, že tam mám ten Android, tak mi jako napísal a dali mi spravit testovat, že to je Android, to je Android, to je Android, to je Android, to je Android, to je Android, to je Android, to je Android, to je Android
+testovací úkol a prostě já jsem ho jako nějak zprával, však programovat jsem ho jako tak vedel, respektive já jsem si vtedy myslel, že budu programovat, no a zprával jsem úkol, bylo to jako strašně hrozné a kebyže prostě dneska mě někde hajrují a odoznam taký úkol, tak prostě jako mu pošlu do prdele, nechápem, jak jsem se něčím taky mohl prejít, ale povedali si, že ok, vidíme, že asi věříš programovat, ale Android úplně není tvá úplně správná,
+ale ta silná stránka, ale tak prostě doučil jsem se a vzali mě na nějaký jako internship, no a prostě jsem se postupně učil, tak jsem se dostal k Androidu.
+Ale to je geniální, takže vy jste si jen tak jako z prdele endorsovali navzájem na LinkedIn, někdo ti tam prostě, ty jsi tam booknul Android, někdo tě ho endorsoval, ono se ti to zobrazilo na profilu a to byl první vstup tu do Androidu, jo?
+Přesně, tak jako, či se týká programování na Androidu, tak hej.
+Ale ven si kde mohl skončit?
+Jako kdyby tam dal úplně něco jinýho.
+To je úplně jenom jako dvě věci, který jsem vždycky věděl a potvrduji, to je to první síla LinkedInu, to je úplně brutální.
+A pak předpokládám, že zatím musel být nějaký jako approach, že si fakt jako hrozně chtěl dokázat prostě o tom, že to jako zvládneš, protože jinak předpokládám, že bys tam asi úplně neúspěl.
+No.
+Je to tak, no.
+Tak jsem se uvědomil, že na LinkedIn mám tři takovýhle, jeden se jmenuje Master Trolling, to mi endorsovalo asi dvěstě lidí.
+Pak mám Displaying Own Endorsement on LinkedIn Profile Page Very Long, něco takové, to mluví jako kráva.
+Takže to se zvědav, kdo mi co nabídne teda.
+A teď je otázka, co chceš dělat.
+Já ti to tam neendorsovu.
+Trollit lidi pořád.
+Jo, dobře.
+Tak to ti nejdůleží.
+Takže tohle byla Matějeva cesta k Androidu a to byl ten šéf, co ti volal, to byl z Futured nebo to byl?
+Tady jsme se volali ještě The Fun Tasting.
+The Fun Tasting.
+Aha, firma, teda jsme už featured.
+Jo, featured, proč já to počtu Futured?
+Já jsem přemýšlel, jak jsi přečet Futured.
+A věřte, ale to je jako srandé, protože jako jeden z důvodů, proč jsme jako měnili brand, bylo, že lidi ani nevěděli vyslovovat The Fun Tasting.
+Všetci jsme byli jako Funtasty, Funtasy a něčo podobné a ono jsme prošli na Featured a teda z nás lidé volají Futured a Future a podobnými jako jménami, takže.
+A proč to dělají? Teď na těm přemýšlím, že já nejsem opět dement, jako anglicky umím, ale proč?
+To píšu, automaticky to čtu Futured a nevím proč.
+A vlastně přemýšlím, proč to je tam to do, že to vlastně možná máte, kdyby to bylo Futured, tak by si neřek Futured, řekneš Future, no ne?
+To to jo, ale jako Google Future, tak to už o tě nenajdeš, že jo, to je takový chvící, to Futured, jako je asi lepší na Google.
+No tomu rozumím, tomu rozumím, ale teď jako zase má to ten problém, že řekneš Futured.
+Futured, takže Futured, takže dřív se to jmenovalo jinak, pak by to tyhle provazníci uměli vyslovit.
+A teď je to lepší, je to Futured.
+Takže, a ty už jsi tak, že tam jsi řekl o deset let, devět?
+Skoro, měsť tento rok to bude děveť roků, což už jako, už jsem taky dinosaurus o firme teda.
+Ty jo, devět let, takže ty jsi nastoupil jako člověk, který měl endorsement na Android, začal ho dělat a teď jsi teda ve stavu, že o něm budeš na MDF Campu mluvit.
+Dálo by se tak povědat.
+No to je hra.
+No a co ti tam drží tak dlouho teda, co je ve Future, tak boží, že jsi se z devět let, jako je to ta...
+Možnost takhle krásně vyrůst?
+Nebo...
+No, sám se seba pýtám posledně, že to tak dlouho drží.
+Ale hej, jako já jsem rastl s tou firmou, v podstatě tam jsem měl na začátku obrovské možnosti toho rastu.
+A v podstatě robím to, čo má bavit stále.
+Urobil jsem na super projektoch.
+Mám podobně retardovaných kolegů, jako jsem já, co je jako velké plus.
+To může pomoct, jo, jo.
+Ten jako náš firmný humor je někedy...
+O tom by se jako...
+Nemohlo právě vědět, no.
+No a...
+Tak, no.
+Na devět roků ubehl nějak voda.
+Zběhlo to strašně rýchlo.
+No a teď teda děláš co?
+Takže ty jsi nastoupil jako ten zajac Androidí, ale teď už seš tam Android Tech Lead, přednášíš o tom, že ses musel zákonitě vyskylit.
+Jseš i na nějaký, řekněme, jako manažerský pozici, nebo furt seš v Android Studio a píšeš kód, jak to je?
+No, no to není až tak manažerská pozice, ten Tech Lead.
+A aktuálně fungujeme tak, že bym...
+Polovicu času se stále regulárně oprogramujem, protože jako jsme Agoška, prostě třeba buchať kód.
+Jasně.
+A takže jako polovicu času mám normálně svůj projekt, na kterém jako pracujem.
+A druhou polovicu času mám vyhradenu na Tech Leadership.
+To vlastně zahrňá rěšení architektury, technologického stacku.
+Mám nějaké iniciativy u firmy.
+Pomoc kolegom.
+Juniornějším, třeba a všetky tyto týmové věci, které pod to spadají.
+A většinou času se teda zakomenujeme Kotlin multiplatformu.
+V podstatě jako my tím, že jsme agentura, tak se snažíme mít jednotný stack a jednotu architekturu na všech projektoch.
+Takže dost to souvisí s tím, že se snažíme standardizovat různé věci, písat nějakou dokumentaci, handbooky pro engineering.
+A tak dále.
+Dostaneme se k tomu, tam rozhodně bude asi miliardu dotazů ještě.
+My už jsme se toho Linkedinu dotkli, ty tam máš napsáno I like to play with semiconductors.
+To zní hodně nerdský, tak co si pod tím máme představit?
+No asi všetko, protože jako vlastně čokoľvek v práci robíš, tak se dotýká nějak polovodičům, že?
+Jako jdeš úplně od low level embedded věcí až po high level software.
+A vlastně pro mě to je.
+To je dost také, má to být jako abstraktné, já mám jako rád být blízko tomu hardwaru, já se velmi rád hrám jako s elektronikou.
+Jak mám na to nějaký čas, teda už moc toho nemám, ale hej, má to jako zahrňovat úplně celou tu škálu věcí, které já mám a bavím.
+Takže máš nějaký IoT věcičky doma třeba, nebo i tak si to můžu představit?
+IoT, IoT, no.
+Takhle, rozblikal jsi diodu nějakou?
+Velikrát.
+No tak.
+Tak jsi IoT.
+Tak jsme doma, tak jsme doma.
+No to je důvod, proč jsme si tě pozvali, je, jak jsme říkali, vývoj, mobilní vývoj na Androidu, ale i ten kulti...
+Multikulti.
+Multikulti, Kotlin multiplatform, ten mě jako ve Featured velmi zajímá.
+Pojďme možná nejdřív na ten Android jako takový.
+Já jsem si kdysi dávno samozřejmě to zkoušel, protože to byla v jeden čas velká móda, tak jsem si nainstaloval Android studio.
+Teď jsem tam jel s tou Javičkou, pak jsem myslel, že to není úplně jako Javička, že některý věci jako nevím, Lambdy, který tam jako prostě úplně nešly, protože prostě nebyly podporovaný a tak dále.
+Jako klasicky jsem si vylámal všechny zoubky, ale třeba tu aplikaci jsem jako sestavil.
+V té době mi to přišlo takový jako velmi v plenkách.
+Jak vlastně vidíš teďka ty obecně stav toho vývoje pro Android?
+Je to jako natolik dospělý, že už tě tam nic neštve, nebo pořád si myslíš, že jsou věci, který jsou nevyřešený od začátku? Jakým stavům to vidíš?
+Teraz už mi Android přijde dost dospělý versus to, co bylo trevař před desetimi nebo devětimi rokmi, když jsem začínal.
+Jak jsi říkal, tam byla jako Java osmička. Byl bych si rád, jak si mohli zjít jako na nějakou jedenáctku možná.
+Na Lambdy jsme si museli čtovat pluginy různé.
+Takže byl to dost boj.
+Když přišel Kotlin, tak se to úplně celé změnilo. Kotlin je úplně krásný jazyk pro Android.
+A ten systém se nějak postupně vyvíjel.
+Ten Android byl ještě více než v plénkách vtedy, tak se ten API Surface toho operačního systému dost změnil.
+Stále každým rokem přibudaly nějaké nové zmeny, bombenzeně, nové featurey, takže se tam dost fajtilo s fragmentací zariadení.
+No ale...
+Vlastně už v posledních pár roků je to dost stabilné. Google už má kopu vlastních knižnic na podporu vývojárov, Jetpack Libraries.
+No už jsou nějaké dané postupy, jako Google asi chce, aby si prostě tu appku programoval.
+Na začátku bylo... Vnělo to tak, že na začátku bylo hlavu... Strašně měla to velkou hladou architektura, jako správně, jako struktura, ten kód a prostě...
+Těto jako... Věci, co považujeme za úplné základy.
+A dneska je to už dost stabilné a skor se rěší.
+Teraz, že... Hej, je to Kotlin multiplatforma, nebo Compulse multiplatforma, zase jsou nějaké nové technologie, takže...
+Bylo to dost jako divoké, teraz je to už dost zastabilizované.
+Takže to chápu, takže ta platforma se posunula od toho, že řešíme problémy sami se sebou, řešíme jak konečně v tom řešit nějaký business case, různý aplikace, různý věci.
+Hej, hej.
+OK.
+Pořád to hlavní IDčko, teď říkám pořád, protože já jsem se s jiným nesetkal de facto.
+Android Studio od JetBrainsů, nebo bylo to postavné, ne, na JetBrainsů?
+Hej, Android Studio je stále hlavné IDčko.
+Bylo to jako vždycky, ne, nebylo vždycky, ne, protože bylo Eclipse.
+Eclipse, jo, jo, jo.
+Tak prostě, když jsem písal tu první appku, zadáně, tak jsem to písal ještě v Eclipse.
+A potom jsem si už neneštěl Android Studio.
+Je to stále jako hlavné IDčko.
+Je to postavené na JetBrains platforme.
+Na IDEA platforme.
+A vlastně je to jako tu značku, alebo ten produkt Google.
+Takže oni si jako forkují, nebo nějak spolupracuješ s JetBrains.
+A je to postavené na tom.
+A je to strašně super, protože JetBrains IDčka jsou za mě úplně jako top.
+A Android Studio má na sebe nalepené hrozně velkou toolingu, který ti udělají,
+či už je to nějaké previews, když píšeš UI,
+alebo logcat.
+A kdyby jsi si měl dívat, co se na tom device děje.
+A kopa, kopa jiných, kdybychom tu mohli sedět jako hodinu a to preberat.
+Takže Android Studio pořád frčí, pořád je to postavené na IDEA.
+Je tam pořád to, že na začátku musíš instalovat bambilion různých emulátorů.
+Já takhle vždycky budu říkat, jak si to pamatuju já.
+Ty mi skvělně řekneš, jak se to vyvinulo.
+Na začátku jsem si odklikal, protože jsem si myslel, že potřebuju vlastně všechny.
+Protože různý emulátory, různých zařízení, ještě v různých verzích.
+Mluvím o tom, že mají to APIčko, takže je vlastně API 7, API 8, prostě další APIčka.
+Což teda trvá půl roku, už si to stáhnou.
+A pak teda jako spustíš ten emulátor, který zase trvá půl roku, než ti naběhne.
+A konečně si naskočí ten panáček zelenej a vidíš tam tu svoji aplikaci.
+Tak je to stále tak, ale je to velmi jednoduše.
+Teda jsi nainstaloval Android Studio a máš tam jako wizarda na začátku asi.
+Že si to možno vyklikáš.
+Když ne, tak si otvoreš nějaké tu okno, tam si to jako pozaškrtuješ, čo potrbuješ,
+se ti to stěhne na pozadí a jsi ready.
+Ale je pravda, že Android emulátor je strašně stále pomalý.
+To je jako oproti iOSu, oproti iOS simulátoru, je Android emulátor podle mě stále jako zaostává.
+A s těma APIčkami, já si pamatuju, že to byl docela hell, že jich bylo furt a furt, byly nějak jako nový.
+A to znamenalo v každém APIčku, nevím, tam byly různý, jako teďka intenty se dělaly jako jinak,
+prostě jako přišlo mi, že s každým APIčkem vždycky musím něco zahodit a něco novýho se naučit.
+To pořád platí, nebo už si to sedlo?
+Bývalo, už si to věc méně sadlo.
+Stále jako máme nové zmeny každým, každým rokem, ale už něco, už tam je tolko breaking changes.
+Kedysi to fakt bylo tak, že si musel precházet ti change logi, že čo je nové v Androidě a čo budeš muset upravit,
+když přibudali nové permissiony,
+zmenila se způsob, jak se pracuje s médiami,
+nebo se obmedzoval přístup k úložisku na tom fone,
+takže z verzie na verziu si přišlo možnost nějak přistupovat k fotkám uživatela,
+nebo s úborem musel si to nějak menit.
+Takže si myslím, že éru těchto změn už má Android více než za sebou,
+stále jako se ten OS mení, ale ne až takým radikálným způsobem.
+Ale stále se o to musí starať.
+Každý rok, kdy vychází nové nové verzii Androidu,
+navyšuje se API level a stále se o to třeba nějak postarat.
+Zbývnutí čísla a tak.
+Kam se posunul ten způsob práce s tím, že samozřejmě ten Android těch telefonů je neurékom?
+Skrypěk.
+Jsi to slovo ještě říkal.
+Tak jak s tím vlastně pracuje ten stack, jo?
+Je tam něco, co ti vlastně usnadňuje život oproti, nevím, pěti letům zpátky třeba?
+Áno. Google vydal Jetpack knižnice.
+A vlastně ty jsi zapýtal na tu fragmentáciu, že?
+Mezi různými OEMy.
+Tak tam vlastně ten API surface toho operačního systému je všade rovnaký.
+Tam jde skoro o to, že teď, kdy používáš nějaké APIčko z toho systému,
+tak ono se může chovat divně, alebo jinak u každého výrobce jiné.
+Co se většinou jako neděje, ale byly věci typu, že nevím,
+či to byly Xiaomi nebo Huawei telefony, které ti forcefully prefarbovali appku do darkmode,
+i když si ho nepodporoval.
+Ty dělali forcefully i jiné věci.
+Ne, ne, ne. Alebo v podstatě, kdy máš nějaký scheduling background task,
+že chceš, aby se ti alarm spustil, a máme tu alarm toho APIčko,
+nějaká úloha spustila za x hodin, tak prostě ten telefon to jako nespraví,
+protože se rozhodne, že bude šetřit baterku a tvoje appka není dostatočně privilegovaná na to,
+aby ti to dovolil.
+Jsou také jako nuance, ale už to není tak hrozné.
+Bývá ještě problém s tými baterkami.
+Tam je stále problém, že ti výrobcovia to sekají.
+Ty background tasky, kde můžu,
+lebo nič nevyzera lepše na popěři jako ovolený battery life.
+Takže to se obmedzuje, ale už s tým jako tak nezápasíme,
+jak jsme zvyklí zápasit.
+Už se neobjevují random dimly bugy, že Qwit ti vrátí bug na Xiaomi,
+a ty už víš, že si budeš jako půl dňa trhat vlasy,
+protože musíš řešit nějakou divnou blbost.
+No a teďka, když si vezmu klasické webové vývoje,
+vlastně od toho brutální fragmentace, kdy musel myslet na Internet Explorer,
+na Mozilla a prostě na Chrome,
+zase to dokonvergovalo do stavu, kdy vlastně to píšou pro jeden browser,
+pro jeden engine a ten funguje všude.
+Z 99% moc to neřeší.
+Pamatuju si, že u toho Androidu to bylo právě, že ta fragmentace byla jako brutální.
+Je to pořád jako nějaký topic,
+který musí řešit, nebo ty už to teďka vlastně neřešíš?
+Musíš mít stále na mysli, které verzie systému chceš podporovat.
+Většinou si dneska povíš, že budeš podporovat Android 10 a vyšší,
+a koněj řešíš.
+Takže nevím, či jsi myslel o něčem takovému.
+Takže ty si řekneš, že třeba udělám čáru desítkou,
+po deset mě to nezajímá,
+a vím i kolik třeba deviceů jsem tím odřízl od používání.
+Jsou štatistiky.
+Dokonce i v Android Studio máš nějakou štatistiku,
+když zakládáš nový projekt, vybíráš si ten API level,
+tak máš tam takový pěkný graf,
+že kolikým uživatelům se ta tvůj appka může dostat.
+Takže když teďka začnu to dělat,
+tak bych se měl držet třeba desítky, jako go to points.
+Například my v firmě štandardně
+podporujeme posledních 5 verzií systému.
+Teraz vyjde Android 16 tento rok,
+takže to zdvihneme na Android 11.
+Ale je to dost špecifické od klienta,
+že čo chce podporovat.
+Keď jako jdeš robit bankovou appku,
+tak samozřejmě oni budou chci všetko až po Android,
+nevím, 5ku, 6ku, co je velký extrém,
+ale no nej, štandardně to robíme.
+Hlavně ten Android 10 a vyššie,
+tam už nemusíš řešit tolko rozdělů
+mezi tymi API levelmi.
+To jsem se chtěl právě zeptat,
+protože dřív to bylo, že co API level,
+to vlastně úplně jiná ves,
+a teďka...
+Už tam ten rozdíl moc není, ne?
+No, to ještě se souvisí s jednou vecou,
+že vlastně, hej, když jsi si potřeboval...
+Když jsi si mál jako různé implementace kódu
+pro Android N a Android N plus 1,
+když to tak povím.
+Takže musel jsi to vyjifovat v kóde,
+že i v Build Version Number něco,
+tak prostě implementace je tato,
+a ELS prostě něco jiné.
+Teraz už má Google Jetpack knižnice,
+které toto většinou rěší,
+které se ti jako postarají o tento balast.
+Teraz hládám v hlavě nějaký dobrý příklad,
+asi takto rychle v hlavě nenajdem, ale...
+Takže Jetpack knihovně řeší nějakou abstrakci
+nad tím, že se to pod tím furt mění.
+Hej, hej, hej.
+Přesně tak.
+Když jsi se toval jako support knižnice,
+ten Google Branding to je jako kapitola samého sebe,
+protože to byl jako těž hrozný bordel.
+Teraz to už volá Jetpack knižnice.
+A některé z nich, které rěší povezme
+věci jako s aktivitami,
+nebo intentami a podobně,
+tak jsou zaobalené.
+Máš tam tu zaobalenou funkcionalitu,
+že máš jako jednotné APIčko.
+A neřešíš tu implementaci.
+A neřešíš tu implementaci, jo.
+Přesně tak.
+Čo je jako fakt super,
+že Google si to něco také opustil.
+Máš v podstatě knižnice na všetko,
+od jako základných věcí,
+jako práce s aktivitami, intentami,
+až po databázi,
+background work,
+všetko možná.
+Ještě se teda zeptám,
+taková trošku chacířská,
+jestli ta stabilita není tím jako,
+co jako novýho chceš na tom telefonu
+ještě vymýšlet.
+Protože co, tak máš tam, že jo,
+nějakej zvukovej vstup,
+máš tam gyroskop,
+máš tam kameru,
+pak máš samozřejmě nějaký ty věci,
+jako aktivity a tak dále.
+Čtečku, fingerprint,
+možná nějakej, nevím,
+ještě můžeš mít nějakej infraport nebo něco.
+Ne.
+Ale jako co novýho
+do toho chceš jít spát ještě, ne?
+Myslíš do těch deviceů?
+No, jakože,
+přemýšlím,
+jako jestli,
+jestli třeba od tý desítky
+do tý šestnáctky,
+řekněme,
+jako Apple verze,
+co tam vlastně přibývá,
+když ty telefony už hardwarem
+je jako nový,
+vyloženě koncepty nemají, ne?
+Google teda skôr se zaměřává
+na to security uživatela,
+takže vlastně ti obmedzují to,
+kam si ty můžeš do toho systému sáhat.
+Typický příklad media,
+fotky,
+soubory na telefone,
+potom
+vec, která,
+jsem si nikdy nemyslel,
+že přijde na Androvi,
+dala jako permissions
+na posílání notifikací,
+jako zobrazování notifikací.
+Jo, jo, jo.
+Takže jako to Androvi
+dlouho nemala,
+my jsme si,
+my jsme mohli v úvodcům
+otrevovat userů
+notifikací.
+S čím kvůli?
+A 24 set, ne?
+A on napíšel Google,
+že e-e,
+prostě asi,
+dáme tam,
+dáme tam,
+dáme vám tam prostě
+jako permissionu,
+takže.
+Vlastně,
+mi nahrává,
+vždycky jsem to měl tak,
+že
+Apple is víc uzavřená,
+uzavřenej systém,
+Androvi je víc otevřenej.
+Jaká cítíš ta vize
+toho Androidu?
+Jako stavuje se to,
+jo?
+Zatvárá se to.
+Zatvárá se to celkové.
+Takže v těch manifestech
+ty teďka máš
+daleko víc
+nějakou granularitu
+toho, jaký chceš
+permission levely,
+nebo jak?
+No,
+pro každou permissionu
+máš vlastně
+jak záznam
+v tom manifestě.
+Je to jen otázka toho,
+že to nepridáš
+nebo nepridáš,
+když ho potřebuješ použít,
+no.
+Dobře,
+dřív bylo třeba,
+dřív třeba bylo,
+že jo,
+přístup k fotkám,
+no tak jo,
+tak tady máš fotky,
+dělej si co chceš,
+jo.
+Předpokládám,
+že teďka už je to jako,
+můžeš jenom někam do fotek,
+ne, nebo?
+Hej,
+předtím byla jedna
+permissionná,
+prístup k suborům
+teraz od Androidu,
+nevím jakého,
+už tam museli dát
+3 permissiony,
+no,
+o,
+hej,
+to se zkomplikoval,
+prístup k tým suborům,
+Google vymyslal super
+nová pička,
+a,
+takže,
+super v odzoukách,
+no,
+samozřejmě.
+Takže,
+no,
+hej,
+no,
+zatvára se to trošku.
+Pamatuju si zase,
+budu lovit ve své
+stařičkyské paměti,
+takový divný jako
+XMLko se používalo,
+ve kterým se to Vue
+jako nerefinovalo,
+pak jste tam udělali
+prostě nějaký bindingy,
+věděl jsi,
+že byl nějakej list,
+ten jsem je jako opakoval,
+ale toho listu jsem pak
+z nějakýho backendu
+zezadu prostě
+z Javičky
+cpal data.
+Tak,
+a toto jsme
+v roce nějakým
+dva tisíce,
+nevím,
+čtrnáct možná,
+třináct.
+Jak je to teďka,
+jak se vlastně píše to UI,
+a píše se už třeba víc
+tím stylem,
+jako je,
+nevím,
+elmovský
+model Vue update,
+že to je celý,
+jako třeba to může být
+i funkcionálně napsaný,
+nebo se to inspirovalo Reactem,
+jak to vlastně dneska vypadá?
+No tak po týchto
+těmných časoch,
+čo si,
+o kterých si vrával
+jako XMLka,
+přišel,
+přišel
+Jetpack Compose,
+a to je
+deklarativný
+UI framework,
+dost inspirovaný
+Reactem,
+bych si povedal,
+a
+chtěl jsem
+povědět
+s V2i-kom,
+ale to asi
+přišlo neskůr,
+jako,
+jako Jetpack Compose.
+Takže je to
+deklarativný framework,
+ty v podstatě
+jenom píšeš
+Kotlin kód,
+a
+tím vytváříš
+UIčku,
+a je to strašně skvělé,
+já jsem si to jako zamiloval.
+Málo to
+i
+vela odporcov
+na začátku,
+myslím, že stále
+možná jako
+i má,
+ale za mě
+je to jako
+brutálný
+productivity boost,
+protože
+píšeš kód,
+hned vedle toho vidíš,
+jak se ti to jako rendruje.
+Jo, takže máš nějaký preview
+hned vedle, jo.
+Máš,
+jako i v XML,
+když jsi měl preview,
+ale
+to byl jako
+ten
+s tím,
+ještě když jsi potřeboval
+písat nějaké
+custom UI komponenty,
+tak za každým
+vytvoriš
+nějakou novou
+triedu,
+která jde
+z UIčka,
+napísat správně
+konštruktor,
+potom overrideovat
+nějaké metody.
+No,
+a
+to,
+co bys
+jako robil
+jako
+pol dňa
+v XML-kových
+UIčkách,
+tak jako
+v Compose
+napíšem za
+10 minut
+nebo
+do pol hodiny.
+Takže to je
+kotlinovský kód,
+který definuje
+ty UI elementy.
+Ano,
+jsou to
+jako kotlinovské
+funkcie.
+Vlastně
+Compose je
+napísaný
+from scratch
+v kotline.
+A
+ty píšeš
+funkcie,
+které
+renderují
+UI.
+Velmi
+se tam
+využívají
+Lambdy
+na zaobalování
+contentu.
+A
+je to
+celá
+deklarativná
+v podstatě.
+Takže
+ty jako
+krásným
+kotlinním
+DSL-kom
+nebo kotlinním
+kódom
+definuješ
+to,
+jak to UIčko má
+vyzerať.
+A potom,
+když to
+skompiluješ,
+tak na
+pozadí
+běží
+Kotlin Compiler
+plugin,
+který ti
+ten kód
+celý
+pretransformuje.
+A ty vůbec
+nemusíš vědět,
+co se tam
+na pozadí
+děje.
+Super.
+A pak
+s tím
+modelem
+pracuju
+v rámci
+UI.
+A když
+dojde k
+nějaké
+změně,
+tak mi to
+automaticky
+přerendruje?
+Ano.
+Přesně
+tak.
+Takže
+takový
+ten Virtual
+Dome
+z Reactu
+tak velmi
+podobný.
+Nevím,
+co je
+Virtual
+Dome
+z Reactu.
+Vítejte,
+když
+pocházejí
+vůbec
+základní
+práce,
+tak
+to
+znamená,
+že
+vůbec
+základní
+práce
+třeba
+není
+vůbec
+vůbec
+vůbec
+výborná.
+A třeba
+základní
+práce
+vůbec
+není
+vůbec
+vůbec
+vůbec
+vůbec
+tohle je velmi podobný, jo?
+Dalo by se povedat, že hej.
+Tak to je super, to si musím zkusit.
+Protože já mám takovou smulu, že já vždycky v každé technologii
+jako takovej ten early adopter,
+tyhle vlastně vždycky vyjme
+ty kouty prostě a slepí ty.
+Dalo by se povedat,
+že ten Jetpack Compulse,
+on je v podstatě
+deklarant,
+nevím, jak to lidi to nazývají,
+ale je to deklarativný způsob
+jako reprezentovat stav nějakého stromu
+a vlastně to UIčko nad tým
+je už len jako
+ta výhoda to,
+že to UIčko jako jde tým Compulsom
+robit. Jako Google vlastně
+týmto způsobom
+vytvoril jako UI framework,
+ale pod tým je to
+nějaká stromová datová štruktura,
+která ti reprezentuje
+nějaké nody a ty nody potom neskoro
+rendrují ten
+UI, takže Compulsa
+nepoužívá iba na UI.
+Už jsem viděl lidi, kteří Compulse
+použili na vytvoreně
+terminalové aplikace například.
+V Compulse
+se dá písat i prezentačná logika,
+jsou na to knižnice,
+že ten jako engine pod tým je
+Compulse a ty jako deklarativně píšeš
+tu prezentačnou logiku,
+architekturu, někdo na to má takto postavenu.
+On je jako
+celkom dobré rozvrstvený
+po tých vrstvách, že máš tam
+kompáler, máš tam
+jako Compulse Runtime, který
+je úplně oddělený od UIčka
+a potom na tým máš už potom
+další vrstvy, které
+už vědějí rendrovat tu UIčku
+a za mě pracovat.
+Takže ještě si to jako vykuchač,
+aby byl ten low level a potom na tom něčo postaví.
+Tak to je super. A ty jsi mluvil
+o knihovnách. Jak vlastně
+funguje řešení závislostí
+na nějakých third party
+knihovnách v tom
+Android studiu? Já mám tam nějakej
+Maven nebo
+Gradle nebo
+jedno bylo na build a jedno bylo na
+tahání závislostí, mám pocit.
+Maven a Gradle.
+Tak jako Gradle je
+defaultný build systém pro Android
+a vlastně Maven
+budeš
+používat hlavně v spojení s repozitármi,
+protože ti závislosti všetky
+jsou hostované
+v Maven repozitároch.
+Prakticky jako všetky, čo potřebuješ,
+najdeš na Maven centrále
+vlastný Maven repozitár
+a hej, takže tě to pojmi.
+Jsou spojené s tím to hlavně.
+Takže Maven je to, co je pro dotnetisty Nuget
+nebo pro nodeisty
+NPMko, tak jako
+repozitory.
+Čo se týká repozitára a těch artefaktů,
+tak hej, je to jako nějaký
+on ti udává, jakým způsobem
+uložit ti artefakty někde na
+serviry, aby si jich ten Gradle
+potom měl stěhnout a zjistit, jaké mají
+závislosti, jsou tam nějaké metadata,
+jsou tam potom Jarka
+a těto věci
+okolo toho.
+A co se teďka nejvíc vlastně tahá?
+Co je taková nejoblíbenější knihovna?
+Protože samozřejmě nebudeš, když jsi říkal, jste agentůrka,
+potřebujete, aby ve future, nebo jak my říkáme
+hezky-žesky futuret,
+aby to prostě jako frčelo,
+tak přeci nebudeš všechno
+vymýšlet znova. Tak co nejvíc taháš?
+Tak vlastně,
+ak se snažíš postavit
+nějakou modernou architekturu pro Android
+dneska, tak určitě
+řeťáš kopu Jetpack knihyčnic
+od Google, které jsou
+architekturálné komponenty, které
+za teba rěší life cycle
+té aplikace, mají tam
+view modely,
+všetky těto věci.
+No a potom samozřejmě objídeš
+bez Daggeru,
+nebo Coinu, co je nějaký
+dependency injection framework.
+Určitě Jetpack Compose
+dneska, když chceš písat user interface,
+teda, ak se chceš sebatrýznit
+XML-kami, tak jako nemusíš,
+ale
+dneska jde Compose, čo je
+jako těž závislost vlastně. V Androidě
+je jako dneska všetko závislost, že ty,
+když máš jako pure
+surový systém, tak bez závislosti
+nám nic nepostavíš.
+Teda, jak chceš, můžeš, ale
+bude ti tu trvat věčnost.
+A co nějaký, jaký hovničky?
+Nějaký Gemini, prostě
+napojení, je to něco, co už používáš
+při vývoji?
+Ako tooling? Hej, hej.
+Používám
+všetko možné, respektive zkušám.
+V Android studiu máš
+zabudované Gemini, asistenta.
+Mně to
+nejvíc pomáhá asi
+při generování
+commit messages
+a nějakému refactoringu.
+Dost nedávám
+ten autocomplete, to má věc obťažuje,
+jako mi pomáhá, to má jako hrozně
+série. Souhlasno.
+Generování dokumentací je úplně super.
+Takže jako
+těto nudné věci, čo jsem
+jako nemal rád robit,
+tak to
+znamená.
+Mě může být AI.
+Mám Gemini,
+mám
+Copilota,
+zkušám i Cursor teraz,
+ti agentické, agentové,
+tooli, tě jsou úplně super,
+Cloud Code. Prostě máš
+vlastného otroka, který ti jako bude
+refaktorovat, jako někde na pozadí a ty si
+můžeš spravit kafe.
+A nějaký knihovny, co jsou jako
+směrem k zákazníkovi, AI-kový, je tam něco?
+Co by udělat?
+Jako, že by se zaintegroval
+nějaký přímo do této aplikace
+mobilní.
+Hej, hej, jsou. Google má nějaký Gemini
+věci na Android. Já jsem
+to osobně vůbec neskúšal, o firmě
+jsme to jako těžně řešili.
+Jsou to,
+předpokladám, knižnice na
+nějakou lokálnou inferenciu,
+ani ne lokálnou,
+jako fancy
+rapper nad cloudovým
+Gemini, kterým budeš
+požít potom o svoje apke.
+Moc toto nerešíme,
+jak už máme, jak už bychom
+měli nějaký vlastný,
+nebo integrovali nějakou AI
+feature do apky, tak to asi
+pojďte se z vlastný back-end.
+Ok. Já se
+ještě jenom maličko vrátím k tomu
+viewčku, nebo k tomu
+user-facing k té části.
+Pamatuju si, že byl velmi
+populární, nebo byl jako standardní,
+myslím, že material design, kde se jmenoval
+od Google, když si dělal Androidí aplikace.
+Ale,
+co si pamatuju, ta aplikace
+mohla,
+téměř jakokoliv chtěla.
+Že to byla taková ta výhoda, že
+Apple ti řekl, jak to musí vypadat, aby to vůbec prošlo
+storem. Ty jsi na
+Androidu mohl vědět jako svoje
+takový to lidový tvoření, jak si
+chtěl. Jaký jsou teďka hlavní,
+když pominu ten materiál,
+UI směry, které jsou validní,
+protože samozřejmě nebudeš to zase dělat
+příliš jako odlišný od zbytky.
+Validné je to, co na designu je designerův firmu.
+To je jediný
+validný design. Ale potom
+ta implementace pod tím většinou bývá
+založena na materiáldizajně.
+Býval materiál dvojka,
+jako starý materiál
+se už teraz volá jako M2, materiál
+design dvojka. Teraz už je materiál
+design trojka, alebo ten
+fancy googlovský
+brand názovou
+je materiál U.
+Ten může jako dost krajší jak materiál dvojka
+a vlastně na to materiál až zakladáme
+většinou komponent, protože
+ono vlastně materiál trojka je, jako jsem
+mluvil o tých vrstvách kompozu, ono je úplně
+největší na vrchu. V materiál trojka
+artefakte máš implementované
+všetky komponenty z materiáldizajnu,
+které můžeš použít v apke
+a potom si jich můžeš
+hrozně kastomizovat. Takže my většinou
+ohýbáme, alebo kastomizujeme
+ty materiál trojkové komponenty tak,
+aby vyzeraly tak, jak ho chce designer.
+Alebo keď už
+tak si implementujeme vlastné,
+ale keď ohýbáš
+tě už ready made
+komponenty, ohýbať
+bylo bez slovo. Dají se štýlovat.
+Google má celkom jako pěkný způsob, jak jich štýlovat.
+Tak máš
+zaručenou dobrou accesibilitu
+a podobně rovnako asi jako na webe,
+že nebudeš si prostě programovat vlastný radio button,
+ale prostě použiješ ten klasický,
+ale nějak nastyluješ, tak na mobile to funguje
+rovnako. A tím teda si řešíte
+i takový tu věc, která se
+donedávna neřešila, nebo
+rozhodně ne v mých časech, takový
+dark mody a light mody.
+To už teďka vlastně se to tahá
+přímo standardně z toho zařízení
+jako takovýho, ne? Ano, hej.
+No a v podstatě
+v kompoze to funguje dobré, že ty si
+nadefinuješ tému, kterou
+nafarbíš celou tu appku,
+máš nějaké semantické
+farmné tokeny, které aplikuješ
+a ti je potom někde na spodku
+meníš podle toho, v jakém módě se nacháze
+ten device.
+A funguje tam něco
+jako jsou třeba CSS-ka na webu?
+Nějaký vlžeský stylesheet
+pro mobil?
+Jo, ale nevím, či to dokáže
+být podobné s CSS-kom, nebo já
+CSS úplně nepoznám, ale...
+Řekl bych, to, že přiřadím hexa
+nějaký barvě a řeknu, že je to primary
+a pak můžeme primary, secondary a
+active a inactive a tak dále a z toho to pak
+složím pro každý téma. Mám
+čtyři tyhle z ty barvy, to se dokážu představit, ale
+pak jsou různý jako
+transition, různý
+jako věci, které se na úrovni CSS-ka
+už se teďka řeší jako neuskutečné, s tím jdou neskutečné
+věci, jako vložené animace a tak dále.
+A primárně vlastně, jako by ten design vždycky
+tam byl, tak jestli třeba tohle řešíte v nějakým
+takým de facto, to je DSL-ko, CSS-ko je
+DSL-ko, jako kýkoliv jiný, tak nějaký,
+jestli tam je nějaký DSL-ko pro tyhle
+styly a barvy a tak.
+Máš,
+teda, mě nazýval bych to
+DSL-kom, ty si specifikuješ
+nějakou triedou
+farby té témy a potom
+do tématu tému
+jako zpristupníš někde zvrchu
+hierarchie celé, která
+jako beží na spodku
+někde pod tu hierarchiu
+a tam se věří, jako pozerať
+jaká je aktuální farba, si to vyťahovať.
+Potom máš
+jako API-čka na
+animácie a všetky
+těto věci, čo jsi vzpomínal,
+no,
+dá se spravit všechno, čo jsi
+jako popísal, ale
+asi to nefunguje jako v CSS-ku.
+Jasně, já jsem si to myslel, já jsem se musel zeptat.
+My se tady kolem toho točím,
+ale já se musím napřímo zeptat. Vlastně
+v mých dobách, kdy jsem si na tom lámal
+zoubky, tak to bylo
+primárně Java, ne-Java, protože jak víme,
+tak nebyla to úplně čistokrevná Java
+a bylo taky kolem toho, pokud si pamatuju,
+docela Halo a zas nějaký jako
+legal tahanice, až snad na úrovni
+jako Google, Oracle
+a tak dále. Což
+aby ne, když Oracle má tři čtvrtě lidí,
+kteří si dělají v legal a čtvrtinu, kteří dělají
+v product.
+A pak se to změnilo s Kotlinem.
+Kotlin je jazyk, který
+každý javistami říká, hele, tohle je prostě
+super, tohle je prostě next gen
+jako JVM jazyk a
+já ho chci používat, já ho miluju.
+Pokud vím, to je další věc,
+Genbrain C továrny, je to tak,
+vysvětli posluchačům,
+co je tam na tom Kotlinu
+tak jako lepšího, co je tam prostě to,
+co si řekl, ty vole, a tohle teďka chci.
+Je to ta syntaxe, nebo je tam zatím jiný paradigma?
+Co mě k tomu jako má vystřelit?
+Asi tak všetko.
+Má, oproti
+Java, má strašně
+oveľa krejšo syntax.
+Java je hrozně ukecaná, podle mě.
+Vyzerá to jako
+klasicky dnešný moderný
+jazyk, není to
+prostě hrozně ukecané.
+Má to null safety, takže
+ten jazyk tě nutí
+písat ten kód tak, aby si nedostával
+null pointer exceptiony, co jako
+v Java byl hrozný problém,
+častý problém.
+Lambda,
+funkcionálné věci, ten jazyk
+podporuje,
+má nějaké funkcionální
+konstrukty, dělej
+čo dělej.
+Je jako dost
+expresivný. Já myslím, že Javistovi, když
+řekneš null safety, tak už mu tečou
+slzyčky a myslím si, že na půl
+už je jako v tom, protože to, jak jsi říkal,
+to byl velký problém.
+Tam je to vyřešený, že teda máš vydefinovaný
+nějaký maybe monad, nebo máš tam
+řečený, že to je option typ,
+nebo jak to je. Definoješ typa za,
+když za něho nedáš otázník, tak
+prostě nemůže být null a to je celé.
+A ten jazyk tě potom nutí
+všade písat otázníky,
+ak si si vedomíš,
+že budeš přistupovat k null
+nebo objektu.
+Mě nedovolí
+ti jako spravit blbosti typu,
+že priradíš null do
+non-nullable property
+a podobné věci. A řeší tam
+nějaký pattern matching a tak dále, když se chceš podívat
+do tý non-nullable, nebo
+naopak do nullable, jestli tam ten
+nul je, jak to řeší. Jako vyloženě klasický
+nulček se napíšeš, if rovná se nul,
+nebo
+if nul, alebo
+můžeš dať fallback LV s operatorom
+na nějakou jinou hodnotu, která není null.
+A dá se to
+chainovat, tyhle styry? Ano, samozřejmě.
+Tak to je samozřejmě super. Jako ve chvíli,
+kdy, jako to jsem vždycky
+pomiloval na ty celý ty maybe monads,
+že se to dá, že vlastně tu nejistotu
+dokážeš s ní pracovat jako s řečescem.
+Jo. Protože i když to
+děláš, ne takhle
+deklarativně, ale imperativně, tak vlastně máš
+if else, if else, if else, a vypadá to
+hrozně, pak je to, pak ten kód je vyloženě
+prasečí, takhle ty to dokážeš
+na chainovat jako na úrovni prostě
+celý tý flow, no. Právě ještě
+když jsme písali apik v Java, tak já
+jsem používal arrow
+knižnice a tam byl optional.
+To jsem jako velmi v obluve, protože
+prostě jako je to krajší,
+já mám si tam různé mapováně.
+Tak, map bind a tak dále.
+Přesně, přesně, těto věci.
+No tak to jsi mi to prodal, teda tak to chápu, že
+Kotlin je teďka
+číslo jedna. Jak to vlastně s tím jazykem
+vypadá? Je živej,
+šlapou do toho JetBrainsí,
+komunita kolem dobrá?
+Komunita velmi,
+komunita dobrá, šlapé
+se do toho hodně teraz, hlavně s multiplatformom,
+protože Kotlin
+byl původně JVM jazyk,
+ale teraz se už rozprestral
+na věcero platformiem.
+JetBrains do toho hodně šlapé, Kotlin má
+už teraz druhou verziu, Kotlin
+dvojku, kde dost jako prepísali
+i compiler.
+Aby bol
+flexibilnější
+do voducna, rychlejší,
+takže hej, šlapou do toho.
+Je tam něco, co ti
+na tom jazyku nesedí, že třeba si řekneš
+tak tohle jako miluju to, ale
+tato část, to bych vyloženě udělal, ne?
+Tak jako každý jazyk má
+asi svoje nedostatky,
+ale
+jsou to jako feature, které by
+mi v Kotlině asi
+urahčili život, ale zase jako
+feature, které by mi urahčili život, vím, že
+budou pricházet v dalších verziách, protože
+ono se drží
+a na GitHub
+je jako repo, kde se diskutují
+nové feature, jdou do toho jazyka, je to
+open source,
+jako
+hej, aj to komunita vlastně tam
+navrhuje, jako by chceli, aby ten jazyk
+vyzeral, můžeš to voutit, takže
+hej, tak
+věci, které
+které má jako seru, tak jako vím, že
+jako prídu, ale jinak
+Kotlin super.
+Trpí to, jako některé jazyky, které se začnou
+hodně používat, že se začne
+ta syntax jako rozkročovat
+od toho původního, že třeba pak
+existuje patnáct způsobů, jak
+napsat jednu věc?
+Může se dostat, a vlastně
+o tom to máli aj na
+Kotlin Conf v minulý rok
+talk, a
+já úplně nevím,
+či se to stane, oni se dost
+jako zamýšlejí nad tím
+language designem, tak, aby nebylo
+úplně confusing, a
+aby nešlo
+robit věci jako patnáct
+těmi způsobmi,
+tak snad
+se to jako nepokazí.
+Dobře, budeme si to přát.
+Budeme si to přát.
+Tak ve stylu skoro mistrovských pardubic
+jsme si tady Matěje jako nahráli
+až před tu bránu, kde je
+obrovský nápis Kotlin Multiplatform.
+Je to tak. A mě to samozřejmě
+strašně zajímá, několikrát jsme se toho
+tady dotkli. Co to, víme, co je
+Kotlin, ale Matěji,
+co je Kotlin Multiplatform?
+Pojď to vysvětlit, ať vůbec víme,
+co to znamená.
+Kotlin Multiplatform, a.k.a. KMPčko
+nebo KMP, zkrátka.
+Ono je to v podstatě
+technologia,
+nebo způsob, který ti umožní
+napísat kod raz a spustit
+ho na věcerých platformách.
+Věceré platformy
+znamená štandardně jako Android,
+iOS, desktop,
+Linux,
+Windows nativně
+a tak podobně.
+Ta idea je
+ta, že
+ty máš nějaký common source set,
+do kterého píše sdělaný kód
+a potom máš
+věcero
+platform, platformných source setů,
+do kterých píšeš
+ten platform-specific kód.
+Jasně. A ten platform-specific
+kód věř volat z toho common kódu
+v momente, kdy implementuješ
+všetky platform-specific funkcie,
+které si označují, že mají být
+volá se to
+expect actual mechanismus
+v kotlině, že jako v common kóde máš
+expect funkciu, kterou musíš
+naimplementovat v každém podporovaném targetě
+a keď se to stane, tak skompilaš ten kód
+a potom na každé platforme
+bude běžat ta konkrétná
+funkcia
+před tu danou platformou.
+Takže v podstatě nějaká abstraktní
+třída nebo abstraktní metoda,
+která řekne, ale kdo chce mě používat,
+tak tohle si musíte pro svoji platformu vyřešit.
+Čo je jako
+velmi silný koncept, prakticky to
+funguje tak, že
+ty víš jako zavolat z common kódu
+nějakou funkci a na androide máš, v
+androidsource sete máš k dispozici celé
+Android SDK a v
+iOS source sete máš k dispozici celý
+jako foundation od
+Apple. Prostě takýmto způsobem
+povedzme si
+klasický příklad, můžeš
+vyťáhnout nazvu zariadenia.
+Máš funkci,
+na get device name,
+které je expect a potom v androide actual
+je to, přistupíš se z androide SDK
+k nazvu zariadenia.
+Na iOS máš tam
+nějaký NS něčo. Jasně.
+Objective C, cez které si
+totiž vyťáhněš a prostě máš to
+takto v common kóde.
+A vlastně
+celý ten ekosystem prostě funguje takto.
+Máš kopu knižnic,
+které implementují,
+mají implementaci pro většinu platform
+a
+s nimi interaguješ s to common source
+z dělaného kódu.
+Typický příklad networking například.
+V common kóde
+povedeš, že chcem volat request
+na tuto apinu
+a na androide se použije
+nějaké javovské
+a na
+androide http client
+a na iOS se použije
+ios http client a vrátí ti result
+do common kódu a jdeš dál.
+Takže předpokládám, že to stejný je
+na úrovni nějaký třeba databáze.
+Máš dneska už ten ekosystem tak dospělý,
+že máš network
+klientů, máš databázy,
+máš jako skoro všetko.
+Všetko, co potrebuješ
+na napísaně multiplatformné aplikace.
+A vy to ve future teda používáte
+tím stylem, že ty si nadefinuješ
+nějakou řekněme jako základní doménu,
+prostě nějaký typy, celkově si to jako
+připravíš a
+řekneš, co očekáváš od těch jednotlivých
+platform specific částí
+a tam už to začneš jenom implementovat,
+ale řekněme ta logika,
+a kompozice a to celý, jak to má fungovat
+je na jednom místě a používá se to
+na těch, ty ostatní zařízení tomu jenom,
+nebo ty ostatní platformy tomu jenom dodávají
+to, co je pro ně specifický?
+Nebo je to obráceně, že
+pro každou specifickou platformu
+se něco spouští a já to z toho
+sdílenýho jenom jako beru jako závislost?
+Ono to prakticky
+funguje tak, že
+ty až tak často nepíšeš ten platform
+specific kód, protože
+ty si ten celý stack
+architekturu vyskladaš z knižnic.
+Z závislosti.
+Máš závislosti na, máš http klientů,
+máš databázy, máš jako
+čokoliv a ty s tím kódom interaguješ
+většinou už jen z
+sdíleného
+source setu.
+Stává se samozřejmě, že si potřebuješ
+naimplementovat něco platform specific,
+takže vtedy si šáhneš do té platformy
+a bez problémů si to jako
+naimplementuješ, ale
+vlastně
+oproti klasickému Androidu
+je ten stack jako dost
+dostavený už z knižnic
+komunitnému, které máš
+buď oficiálné, alebo
+komunitné.
+A dokázal bys to srovnat třeba
+nabízí se to Flutter React Native,
+dokážeš to porovnat?
+Nemám ani s React Native,
+ani s Flutterom jako hands-on
+zkusenosti,
+ale v zásadě
+já to vnímám tak, že
+u Flutteru a React Native máš
+jakýsi vendor log, že ty se potřebuješ
+dotknout do toho
+ekosystému, aby si napísal
+nějakou aplikaci
+a zatímco u Kotlin multiplatformu
+máš tu slobodu
+od toho
+si zvolit, co chceš
+sdělat.
+Ty se můžeš rozhodnout, že budeš sdělat
+jen networking a prostě si v KMB napíšeš
+networking a zbytok apky si necháš
+jako úplně nativní.
+Alebo se můžeš rozhodnout,
+že budeš sdělat úplně vše,
+kromě UI, tak to robíme například my,
+a prostě
+píšeš jako
+většinu Kotlin kódu, který
+ti pokryje Android a tu sdělanou část
+a potom jako iOS a potřebuješ už
+jiba na napísání user interface.
+Takže jako KMPčka
+je v tomto jako dost flexibilné.
+Já jsem se chtěl
+zeptat právě, jak to využívá TV Featured.
+Takže ty tam říkáš, že tam jdete spíš do toho, co
+nejvíc mít sdílenýho.
+Hej, nám to takto dává zmysel.
+My jsme jako sice začali
+jako pomaličky.
+Měli jsme sdělat jiba jednočas apky, ale potom
+jsme si jako napísali
+celou architekturu tak, aby jsme
+věděli sdělat čo najvíc. Okrem
+toho UI, kterou teda dneska jako
+jde sdělat těž pomocou Compose Multiplatformu,
+ale to ještě jako nerobíme,
+protože UI za nás
+by malo být stále nativné,
+aby ten user dostal ten
+nativný feel.
+No, takže
+hej, takže tak.
+Vy máte ve Featured
+ještě jednu věc a to je KMP template.
+Což je věc, kterou
+nejenže používáte interně, ale pokud byste
+jí vyhodili i ven jako open source,
+to znamená lidi do toho můžou přispívat, lidi se
+můžou na tom učit, jak by to
+asi mělo vypadat. Můžeš teda říct
+posluchačům, co ta templata, tak je to templata
+předpokládám, že tam budou nějaký předpřipravený
+věci, ale jaký přesně věci
+jsou tam předpřipravený? Tak ta templata
+je v podstatě jako repozitor,
+z kterého my vychádzáme stále, keď zakladáme
+nový projekt. A my těch projektů jako máme
+viacero, takže dá mega zmysl
+mít už něco předpřipraveného, z čeho
+na čem můžeš jako hned začít buchať
+tu value
+pro customera, protože jako nechceš
+stravit týžden tím, že si budeš nastavit
+jako stack. No jasně. Takže
+v té template je
+nastavena celá architektura
+tak, jako ji používáme my. Je to jako dost
+opinionated, takže
+nepredáváme to tak, že je to
+jako jediný správný způsob, jak písat
+apky, ale prostě nám to jako takto funguje.
+A jsou tam
+natáhané už různé
+závislosti
+z KMPčkového
+ekosystému, které používáme, z kterých
+jako skladáme architekturu.
+Je tam nastavena
+navigáci apky, máš
+tam vytvorené
+prezentačné,
+nechcem to nazývat viewmodely,
+už to už nejsou viewmodely, jsou to jako komponenty.
+V podstatě jako máš tu apku ready
+tak, že prostě můžeš začít
+jako písat obrazovky. Ok.
+A
+no,
+rozmýšlám, že či
+nějak jako popísat, ať je
+knižnice, co tam používáme.
+Hele určitě, určitě. Pro mě to je osobně
+jako strašně zajímavý poslouchat, jak se to posunulo
+a čím víc mi to řekneš,
+tím já pak budu mít, až to budu zkoušet
+po večerech, jako méně bolesti, takže
+ber, že mi to snažíš
+ušetřit čas a vysvětlit mi to.
+No, tak jako to srdce toho
+ty templatey,
+ty architektury, aktuálně používám
+knižnicu, která se jmenuje Decompose.
+Je to knižnica,
+která ti umožní, alebo má
+v KMPčko implementovanou abstrakci
+nad life cycle, co je na Androidě
+velmi důležité.
+Protože Android appka má
+nějaký life cycle, na který
+můžeš, na který
+musíš reagovat.
+A
+zároveň implementuje i navigaci
+v té aplikaci, ta knižnica.
+Alebo si pomocou je schopný implementovat
+i navigaci.
+Navigaci jenom abych vysvětlil,
+to je i mezi obrazovkama?
+Ano, mezi obrazovkama.
+Ďalej
+sděláme
+i string resourcy
+a obrázky. Tam používáme
+Moco, Moco resources.
+Zase super knižnica,
+která je jako v KMPčku,
+do KMPčka narvat jedno XMLko
+so stringami.
+A vlastně běž jich používat
+multiplatformně.
+Vykopírují do každého targetu,
+do iOSu a do Androidu.
+Máš jich přístupně sdílené,
+takže nemusíš potom, nestává se ti,
+že
+iOS bude mít outdated stringy
+a Android bude mít jiné.
+Co dělej?
+Coindependence injection tam je
+nastavená.
+Lokalizace řešíte nějak?
+Ano, určitě. Lokalizace...
+Mě napadlo s těma stringama,
+jak jsi říkal.
+Když jsi říkal s těma stringama, tak jestli to mám,
+nechci to v angličtině, nechci to ve slovenštině.
+To se taky pamatuju, že tam se to řešilo
+nějakýma suffixama těch ISO kódů.
+Ano, máš tam qualifiery.
+Values.sk, .dn.
+To se riešuje.
+A vlastně ta knižnica
+to dost kopíruje od Androidu.
+Ty si
+nakopíruješ XMLka pod těmi
+folderami, které mají suffixy.
+A
+potom každá platforma
+nebo ta knižnica má nějaký Gradle plugin,
+který to pretransformuje.
+Vyexportuje do každého
+pro každou platformu nějakým
+jejich špecifickým způsobům.
+Takže v Androidi ti to zpraví.
+Android je XMLko.
+Na iOS se to vyexportuje.
+Stringy do playlistu.
+Myslím, že tam jsou playlisty,
+nebo nějaká bundle, už nevím přesně, co tam je.
+Takže hej, na to to je
+těž knižnica.
+No, co ještě
+dále, myslel bych, že se zapozri na
+Rytmičku asi.
+Ale úplně v pohodě.
+Vždy jdem pomaly, ale už nevím ani
+výpad pouškovat, ať všechno tam je.
+Hele, klasika. To je taková ta profesní slepota.
+Z toho si nic nedělej. Ještě mě zaujala jedna věc.
+Ty jsi to tady zmiňoval taky několikrát.
+A to je ten life cycle těch Androidních aplikací.
+Jestli bys možná to mohl jenom
+posluchačům vlastně nastínit, jaký
+různý stavy se tam
+jako ošetřujou
+a vlastně...
+Vím si, že normálně na tyhle ty věci třeba
+tvůrci ať backendových aplikací,
+ale na Androidu to vidíš, že jo, mám jí zaplou,
+mám jí na pozadí, teď to tam může být
+v nějakým low power modu. Dokážu si představit, že
+těch, že jako těch způsobů
+toho, kdy ta aplikace se najednou na tom device
+požádá o to, že zase může
+být ta první, která s tebou mluví. Nebo nedej
+bože, můžeš mít, už jsem zjistil i,
+teď jsem na to přišel, koukal jsem na hokej
+na telefonu a běžel mi ještě
+vedle WhatsApp a psali jsme si ty naše
+poznámky, tak jsme si normálně,
+měl jsem to na té Androidní aplikaci,
+my běželi dvě vedle sebe normálně, jako
+řízlý, řízlý okna,
+jo, což jsem vůbec, náhodou jsem tam kliknul
+a zjistil jsem, že to jde, jo, takže
+na co všechno vlastně ty musíš myslet?
+Na jaký ty stavy jako vývojá? Ty hlavně musíš
+myslet na to, že ten systém ti tu
+može zabít kedykoliv.
+A vlastně celé to plyně z toho,
+že musíš být připravený na to, že ztratí ten
+stav. To se děje většinou,
+když aplikace podporuje landscape
+mode a ty jako zarotuješ obrazovku,
+ta, uvádí se to jako
+activita, obrazovka
+na Androide, ona
+se reštartuje s každou změnou konfigurace,
+takže jedna z těch změn
+je, když zarotuješ obrazovku, ten systém
+ti tu apku úplně zabije,
+no, tu aktivitu ti úplně zabije
+a je na tebe potom restorem ten
+stav, když se ti znovu vytvorí.
+Jo, na to byly nějaký hacky,
+že když jsi to otočil, ale on to neudělal,
+bylo to nějak, víš, nějaký manifest, to si to pamatuju.
+Hej, šlo to jako povedet,
+že prostě jako tento stav
+chcem prežít a tak, ale
+hej, takže ty
+jako musíš do nějakého bundlu,
+či jako nějaký serializovatelný objekt
+uložit informaci o tom, v kterém stavě
+byla ta aplikácia,
+hlavně jako stav navigácie,
+alebo prostě... Jasně, aby
+byl tam, kde jsi byl. Aby jsi se pocitoval tam,
+kde jsi předtím byl,
+jaké fieldy jsi měl vyplněné
+v textových poliách a podobně,
+nejako ničeho horší,
+keď jako vyplňuješ jako drobný formulár,
+potom otočíš obrazovka, máš to prázdné.
+No tak to bych vraždil. Takže jako, taky bych to vraždil.
+Jasno.
+A dělej
+ten systém ti dává
+vědět, když se ta obrazovka dostane
+do pozadí a věř na to reagovat
+potom, když se dostane do poprédí a
+musíš si dávat pozor na to, aby si
+na pozadí nerobil nějaké
+operacie,
+operacie náročné na baterku,
+ideálně.
+Nestěhoval nějaké větší množstvo dát
+a podobně.
+No.
+Takže v podstatě
+mal bys si vědět,
+albo ta původná otázka byla,
+na co nesmíš jako... Ano, na co
+nesmíš zapomenout, na co vždy musíš vlastně myslet.
+Tak ty jsi to docela popsal.
+Dneska už na to až tak myslet nemusíš,
+protože jako Google
+už má implementaci Vue modelov, které
+jako ti prežijou zmenu
+tej konfiguracie.
+Tak už na to až tak velmi myslet nemusíš,
+ale stále musíš myslet trebárs na to, že
+když si tu apku dáš do pozadě,
+tak ten systém ti ho počasem může
+zabít a na tebe si uložit ten stav.
+Tak aby se správně
+jako restorel.
+Takže zatímco u některých aplikací
+vlastně ten exit state je
+ten jeden a moc s ním jako nepočítáš
+a předpokládáš, že ve chvíli, kdy se stane,
+tak už máš všechno uložený, tak tady naopak
+bereš, že to je de facto modus operandi
+a ty musíš být neustále připravený.
+To je zajímavý, to musí docela měnit
+ten tvůj mindset, když to píšeš.
+Má to i vliv třeba na to paradigma,
+který se tam jako preferuje, že třeba to píšete
+celý víc jako
+event based reaktivně nebo
+jestli
+jestli i tohleto
+tě nějakým způsobem vede, protože přeci jenom
+ta podstata tý aplikace je trošičku
+jiná, ten životní cyklus je prostě
+jiný, než když píšeš prostě klasický webovky.
+Když to tak řeknu.
+Mě musíš, mě udává
+a ti to způsob, jakým píšeš
+nebo si navrneš tu architekturu, to ne.
+Skoro tam jde o to zprávat, vědět,
+že co se s tím stavem aplikace může
+stať a myslet na to, že si ho
+potřebuješ vložit do nějakého objektu,
+nějaký safe state bundle se to volá.
+No ale vlastně,
+co se týká tých architektůr, tak jako
+ti jsou většinou jako objektovo orientované
+s nějakou
+reaktivitou. Snažíš se
+máť všade jeden
+zdroj pravdy v té aplikaci,
+a ten obzervovat. Potom,
+až ti to systém zabije, tak ti jde vědět,
+jestli si to někde uložíš a pak to znovu nahráš.
+Pokud to nemáš jako v databáze, ten stavek,
+vtedy jako vůbec nemusíš řešit.
+Jsme připomněli, že na iPhoneu mám
+OpenAI apku Žoče GPT
+a já vždycky, když ji zavřu,
+ona se znovu otevře a poznám
+to tak, že prostě už si povídám s manželkou
+a ona mi to furt odpovídá.
+A když to po druhé zabiju,
+tak to umře.
+Což nevím, jestli jako je feature.
+To je jako, to je jako celkom srána,
+že na Androidě se ti to věci jako dají.
+Ty, když chceš, tak můžeš nechat jako hrát na video na pozadí.
+Jo, jo.
+Na někom ti to jako ten systém nezabije.
+Protože on s tím vůbec nemá problém.
+Ty dáš tu apku do pozadí a my jako běžně robíme,
+nebo my jako nerobíme to, že
+killujeme network cally,
+když jako uživatel dá apku do pozadí a to ne.
+Ta apka normálně jako žije,
+ale jako se nezobrazuje.
+Takže vstane se ti,
+můžeš být jako taky divnou bagy.
+Může se s tebou jako ten systém rozprávat na pozadí,
+protože ta apka tam jako žije,
+ale naš tího systém nezabil,
+on jako mě potreboval.
+No ale to je pravda, to jste mi úplně připomněli.
+Já jsem vlastně jedna z prvních aplikací jsem psal pro kamaráda,
+který měl nebo ještě má internetový rádio
+a dělal jsem mu vlastně oficiální apku,
+že ty jsi mohl v různých kvalitách to internetový rádio pouštět.
+A já jsem tam na tohle nemyslel.
+A on říká, ty vole, ty jsi,
+ty jsi geniální, ty vole,
+já jí jako stáhnu do pozadí a mě to furt hraje.
+To je skvělý.
+A já říkám, ty vole, jak je to možný, to by nemělo.
+A pak mi právě došlo, že jako asi jsem tý nevyxitoval dobře,
+nebo že prostě ten stream jako takový,
+který šel do toho audia,
+tak jsem ho nekylnul správně.
+V podstatě to byl asi nějaký jako memory leak, nevím.
+Ale jako byla to feature,
+nádherná feature, že prostě ta aplikace
+nehrávala rádio, i když nebyla aktivní.
+Dokud jí nezabil teda.
+Právě jako to je jedna z těch věcí těžší.
+Musím dát pozor na to, jako zastavit
+těto věci, když to jde do pozadí.
+No já koukám, že v dnešní době
+vejt Android vývojář je jako super,
+že tam je spoustu věcí vyřešených,
+ale že teda některý věci pořád
+musíš na ně myslet, musíš to mít někde
+vzadu v hlavě, že teď opravdu je to ta aplikace.
+Mně teda ještě napadla úplně poslední věc
+na tohle téma. Typicky, když
+dělám, že nevím, mám backend
+v dotnetu, frontend mám v Reactu,
+tak třeba validace dají se
+řešit jako multiplatformně, ale většinou
+řešíš tak, že to, co mi přijde z Reactu,
+já tomu stejně nevěřím a musím to ještě validovat
+na backendu, protože prostě logicky
+kdokoliv si může otevřít devtools, může si vlést
+do java skriptu, může to nafejkovat na úrovni
+browseru, jak chce.
+Vás, a možná to je debilní dotaz, ale stejně
+ho položím, protože jsem tady tím známej, debilními
+dotazy. Vy něco jako backend a
+frontend řešíte u
+androidích aplikací? Protože já vlastně
+čistě teoreticky mám ten device v ruce,
+a mám ho jako
+i tou samozřejmě aplikací pod kontrolou,
+můžu tam jako taky dělat
+nějaký hacky, čistě teoreticky, ne?
+Jako když to mám rootly. Řešíte
+vy tohleto nějak?
+Řešíte vy tohleto nějak?
+Záleží od nějakého security standardu
+té aplikace, jak je to,
+no, všeobecně jako
+dodržováváme nějaké pravidla,
+ale jak máš rootnutý telefon,
+tak s týmto věcem asi úplně jako
+nevyhneš score.
+Score,
+tam jde o to, nějak obfoskovat
+ten kód, aby nebol
+zlečitatelný, jak si
+někdo tu apku dekompiluje,
+získáš apkčko velmi jednoducho, jako
+z toho si ho stěneš.
+No a co o nějaký
+apiklíče a tyhle ty věci, jak to řešíte?
+Protože to mám tím pádem na devisu, ne?
+Hej, no, tak
+apiklíče
+apiklíče
+věš jako získat
+asi normálně
+z dekompilované apky, jak věš, kde hládat,
+protože ten apiklíč tam jako prostě
+někde jako zapečený musí být.
+No jasně.
+A potom jako ulha backendu
+ještě nějakou autorizaci navíc.
+Takže my jako
+apiklíče štandardně nekomitujeme
+do repozitárov, většinou si jich
+jako nějak injectněš pomocou systémové
+préměny, jist na CIčku.
+To je asi ten správný způsob,
+ale vlastně, keď se
+někdo dostane
+k té apke, dekompiluje si ju a
+pozřeš se do kódu, tak samozřejmě, že
+jako běž ho tam najist.
+Jsou jako
+metody, jak to zamaskovat,
+věš, robit nějakou kryptografiu,
+věš, ten apiklíč,
+nevím, daj do B64
+ještě jako nějak šaflovat
+bity a byty a prostě s tím jako
+mám na tým ještě nějaký algoritmus,
+kdy obranta jim nějak
+dešifruješ,
+to jako jde, ale stále
+jako v té apke,
+jako stále v tom APKčku.
+Ok, ok.
+No já koukám, že bychom si mohli povídat tady jako
+hodiny a hodiny, protože prostě to, co Matěj
+tady vypráví je strašně zajímavý a já to
+úplně hltám. Já možná úplně jedna z
+posledních věcí, než se přesuneme na
+závěrečnou část. Vy jste kromě toho,
+že jste teda tu KMPčku, templateu
+dali jako open source. Vy máte
+i vlastní engineering handbook,
+jsem slyšel.
+Ten máte taky open source?
+Nebo ten máte interně?
+Na něm pracujeme intenzivně.
+Vlastně
+on historicky existoval dlouho,
+ale bylo to jen Rytmičko na Github,
+která je jim,
+kde byly
+vysvětlené věci
+pro našich vývojárov, že co,
+jako se nastavuje nový projekt
+a těto praktické věci.
+Teraz už k tomu píšeme
+normálně velkou
+dokumentací v podobě
+static site, kterou máme
+vypublikovanou na Github,
+kde bude
+těch informací více a chceme
+vidět, aby to bylo
+vidět i do komunity
+případných, třeba
+uchádzačů u nás o prácu,
+alebo aby klienti viděli,
+že jako pracujeme.
+V podstatě my
+nějak nechceme tajit,
+jak prostě fungujeme.
+Podle mě je dobré být
+otvorený v tomto,
+takže když chceš vidět,
+jak funguje naša architektura,
+jaké máme procesy a podobně,
+tak můžeš mrknout na Engineering & Book
+a tam to všetko bude.
+Ale ještě je dost rozkopaný,
+máme tam kopu sekcí,
+ale ty základné věci tam jsou už.
+Tak jo, tak ale
+řečím vás děkuji,
+my to budeme sledovat.
+Nás to zaujalo spolem,
+ty se věnuješ údajně
+creative codingu.
+Co to je prosím tě, co to znamená?
+Není to jako vibe coding, ne?
+Ne, naštěstě ne.
+Ale můžeš vibe codovat creative coding.
+Aha, dobře.
+Tak co to je prosím tě?
+Pro mě je to jako
+písaně kódu,
+který rendruje něco
+pěkné na obrazovku
+nebo na projektor.
+Je to
+většinou se to spáje
+jako s nějakou grafikou,
+ten creative coding.
+Ty věříš použít
+různé frameworky
+zamerané na kreslení
+cez OpenGL povětné
+a věříš v kóde napísat
+nějaké matematické funkcie,
+vzobrať vstup z audio,
+z audia,
+nebo z nějakých senzorů
+nebo jiného hardwareu
+a přetransformovat to v nějaké pěkné,
+na obrazce.
+To jsi mi trošku nahrál.
+Já vím, že ty se věnuješ i maličko DJingu.
+Tak tohle by mohla být ta VJ část,
+že jako si dáš
+nějaký dobrý track
+a podle toho začneš,
+protože samozřejmě hudba se vždycky dá
+rozkodovat digitálně
+a podle toho to dáte jako vstup
+do nějakého generování obrazců.
+Mám něco také.
+Mám to na Github, volá se to
+Astral Visuals.
+U mě je taková párty, kterou nazýváme Astral.
+Už tohle tedy nebyla,
+ale když byla, tak jsem byl vizuální
+tímto způsobem za DJa,
+jako videoprojekci,
+kde jsem měl vstup
+z mixáku k sebe
+do počítača se zvukovkou
+a prostě kódom analizoval
+FFTčkom,
+co se a kde jde,
+na jakých frekvencích
+a ten obraz se hýbal.
+Měl jsem tam různé galaxie
+a podobné,
+které ti věděly
+rozvibrovat častice
+nebo hýbat
+něčím
+na tom platně.
+Takže takto jsem to spojil.
+Která hudba je na tohle nejlepší?
+Dokážete přeci nějaký Daft Punk?
+Všetka,
+která má nějaký punch
+a beat.
+A basy, málo vela basů.
+Tak Poli,
+je čas na tvůj závěrečnou otázku.
+No tak samozřejmě.
+To je těch otázek,
+které jsme si nedali.
+Ne, to je na další díl.
+Ale přece jenom vlastně
+přetykáme do basketbalu.
+On se bál, když jsme ho brali na recepci.
+Říká, tam je strašně vela otázek.
+To nemůžeme stihnout.
+Já říkám, to ani nestihneme.
+Vypikovali jsme si to.
+Každopádně, co plánuješ do budoucna?
+Je tam něco, nějaká technologická výzva?
+Nebo něco, co bys si rád zkusil?
+Dost mě zajímá teda
+rast. Já jsem začal čítat rast knihu.
+A dost mě to uchvátilo.
+Já se trošku věnujeme i embedit.
+Alebo taky na hobby úrovni.
+Mikrokontrolery a podobně.
+A začal jsem se učit rast.
+A strašně velmi se mi ten jazyk páčí.
+A chtěl bych to nějak aplikovat
+v tomto prostředí.
+Na nějakém projekte svojím vlastním hobby.
+Mně se hrozně líbí, když to říká Slovák.
+Protože můj kolega říká,
+že se musíme zaměřit na rast.
+A já jsem doufal,
+že bych měl zabavit o rastu jako o jazyce.
+A on myslel růst jako firmy.
+Teď jsi mi to ukradl.
+Přesně. Řekl jsem, že způsob, jakým chceš rast, je rast.
+Super.
+Pecka, pecka.
+No a co nějaká konference?
+No ano.
+2. až 3. jula bude MDF Camp.
+Víš Tomáš, to je dobře to datum.
+Ty tě buděš
+moderovat.
+Což je za 14 dní btw.
+V době, kdy tohle teď posloucháte.
+Milí poslouchači jako horkou hlaviňku.
+Poslední dva týdny,
+je slevový kód.
+Koupit si lístek a přijet se podívat, co na mě.
+Já tam budu jen mezi těma géniema proplouvat.
+Ale na lidi jako je Matěj.
+Přesně.
+Když vyjde tento podcast,
+tak už bych se měl mať prichystanu.
+Matěj, já se věnuju
+dílovení na konferencích roky
+a nebudeš.
+Když vyjde tento podcast,
+tak ještě nebudem mať prichystanu
+prezentaci na MDF Camp.
+Ne.
+Budeme prezentovat na MDF Camp
+o KMP a o tom,
+jak fungujeme my s Kotlin
+u nás po firmě.
+Také víc advanced
+tipy a triky, které jsme
+aplikovali v našem technologickém
+stacku, které nám dost pomohly
+pozdělat trošku,
+jak to funguje u nás.
+Na který sejstejí ti?
+Concrete Bake.
+To musí přebyt.
+My jsme na Future Rave.
+Můžeme to asi přeběhnout,
+abych tě viděl.
+Dobrá, no tak jo, paráda.
+Strašně moc ti děkujem.
+Ty jsi z toho měl strach.
+Já mám pocit, že naopak já mám strach
+z toho, jak to tady prostříháme,
+protože to je contentu ty úplně habakuk.
+Moc díky, že jsi dorazil.
+Přejeme ti samozřejmě,
+ať máš připravené aspoň trošku
+pár slajdů na svoji přednášku.
+Ať se ti daří, ať tě Android baví.
+Já se budu těšit zase někdy.
+A z ní uvidíme naživo na MWF Campu.
+Takže moc díky, ať se daří.
+Díky za pozvání. Čau. Čau.
+Slovenská enkláva pokračovala v útoku
+na Podvocasí podcast.
+Druhý host, opět Slovák,
+a opět brutálně zajímavý.
+Matěj Semančík byl skvělej.
+Provedl nás cestou od
+dřevních dob Androidů, který si pamatuju já,
+který pořád ještě bolej,
+až do aktuálních dob, kde mám opravdu chuť
+teďka do toho skočit a vyzkoušet si to.
+Taky normálně mě to taky probudilo.
+Já jsem totiž taky kdysi zkoušel.
+Jaký jsem měl Android Studio nainstalovaný.
+Fakt jo. To je dávno, dávno.
+Taky jsem si s tím hrál ještě dobách, kdy jsem neměl iPhone
+a měl jsem právě Android. Dneska vlastně
+s chatem GPT bych to třeba
+mohl i někam dopadnout. Já si myslím, že jo.
+Samozřejmě těch dat je tolik,
+že zrovna na tohle bude ten chat nakrmený
+úplně k prasknutí.
+Ale to mě zaujalo. Ty jsi
+programoval. Ale já jsem takhle.
+Na škole jsem dělal medžavičku.
+Takže já než přešel na SQL
+co, tak předtím byla takováhle
+jako velmi krátká
+pětidobíčka, kdy jsem se snažil něco
+vytvářet. Ty vám to upečuje. Nemáš něco na GitHubu,
+že bych se podíval, jaký kód píše Poláč.
+Neblází. Je to strašně zajímavé. Neblází, neblází.
+A ne, tak starý kód to je vždycky hnusný.
+Ne, takhle, to co já jsem programoval, to ty bys si naprogramoval
+ve Wordu nebo v něčem takovém.
+To fakt ne, to fakt ne. To i kdybych měl
+někde schovaný, tak to rozhodně nebudu zveřejňovat.
+Ne, naopak, naopak. Ale já musím říct, já jsem nedávno
+šel na svoje asi devět let starý kódy.
+Nebo deset let, kdy jsem se
+učil se v Sharpem. A mám pocit, že jsem
+psal líp, než jako když to otevřu
+teďka. Fakt jo. Prostě no. No úplně jako jednoduše.
+Víš, jako takovej ten
+juniorskej přístup, že píšeš
+jednoduše, pak je úplně ten nejhorší.
+To je ten mezi, kdy si myslíš, že už to umíš.
+A píšeš strašný obfuskovaný
+prasárny prostě
+abstrakce všude. A pak teda máš ten
+seniorní, zase už víš, že to vlastně máš psát
+jednoduše. Takže na začátku je to
+super, mezi je dlouhý úsek, kdy to stojí
+za hovno a na konci je to super. No, taky
+super, dá se říct. Ale byl jsem
+překvapenej, čověče. Takže možná ten tvůj kód bude
+dobrý, ale najdi to někde. Ne, to určitě ne.
+Naštěstí to někde zmizelo,
+protože tenkrát nebyly klaudy ještě, takže
+jako to zmizelo v tom počítači,
+který už jsem zahodil někam. No, hele, já si myslím,
+že třeba jako spořici by to mohlo zajímat
+tohleto. No to rozhodně. Jo, jakože by chtěli vědět,
+kdo k nim vlastně chodí. Myslím, že třeba
+Tom by to měl zpětně vidět.
+To by mě vyhodili. Jo. To já nebudu
+to ukazovat. Ne, nebudu to ukazovat.
+Já si myslím, že ne. Já si myslím, že podle toho, co
+víme o našem partnerovi 12. série, tak
+že jako, já si myslím, že bys, že bys
+byl i tak safe. Ne, je pravda,
+Tomet vždycky říká, že prostě
+attitude is first, takže jako, je pravda,
+že attitude mám. No jasně. Ale asi
+k tomu jako vývojář potřebuješ i umět
+jako kodovat a to já neumím.
+Ne, prosím tě, v dnešní době, řekneš,
+hele, řekneš, že jsi vibe coder a je to,
+je to a jsi doma. Jo, já to já trošku,
+jak známe Toma, jak známe Spořku, tak oni
+by na tebe trošku přišli, že jsi kecal, ale jako.
+No jedno zaše. Ale já jsem zaše, tak tě maj rádi.
+My je máme taky rádi, ještě jednou moc děkujeme
+za support a samozřejmě v této
+sérii pokračujeme dál, máme
+ten playlist narvaný, teďka aktuálně
+dokonce vyjednáváme s jednou,
+co, se dvěma herníma legendama.
+No. Nebo s dvěma legendama
+herního českého světa, českého
+herního světa. Nemáme potvrzeno
+zatím ještě ani jednu, ale
+to nám nebrání v tom jako o tom
+mluvit, aspoň to jako předslíbit. No ale
+dostali jsme se do naprosto nádherný, senzační
+pozice, kdy vlastně potřebujeme tam
+hezky naskládat ty hosty a už vlastně
+připravujeme další sérii, aby jsme to tam
+nějak narvali. Kámo, já vím, že musíš
+před minutou běžet, ale
+my ještě musíme v offline sednout
+a musíme vymyslet ten offline,
+protože znova na to padají dotazy,
+jestli uděláme nějakej
+nějakou offline session. A tady
+možná bych viděl, že bysme zase mohli
+udělat nějakej frontchart třeba v třináctý sérii
+s tou spořicí. Vy docela máte velký budovy,
+co jsem koukal. Máme nějaký budovky.
+Máme nějaký. Máme nějaký, máme no.
+Je tam pár budov. Tak tam bych, tam bysme
+to třeba jako nahnali, jo.
+Oni by to dostali befelem, že prostě
+nebudou prémie, tak to nepřijde.
+Všichni přijou dobrovolně povinně.
+A budeme mít tam klaku a bude to super.
+Ale já myslím, že plán máme ty.
+Rozhodně to musíme rozjet, jo, protože ano,
+je nám to připomínáno zleva zprava,
+co vlastně dělat chceme. Jednou už jsme to udělali
+a líbilo se to
+posluchačům nebo respektive
+divákům, takže pojďme do toho znovu.
+Dobrá, tak jo, tak jsme skončili.
+Plní slibů, ale slibem nezarmoutíš.
+Já jsem třeba slíbil taky manželce, že stihnu
+něco, co teďka nemám vůbec šanci
+stihnout. Takže mějte se krásně.
+My se na vás budeme těšit zase za 14 dní
+s velmi zajímavým hostem.
+No a vy si to užívejte a těšte se
+na nás taky. Mějte se. Čau.

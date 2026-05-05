@@ -1,0 +1,2063 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Krásný den milí posluchači, vítejte u dalšího dílu vašeho oblíbeného IT podcastu Pod vocasem.
+Jako vždy i dnes naproti mě sedí usměvavý Petr Polipolák.
+A naproti mě Roman Žukr-Provazník, já tě zdravím Románku, jak se máš?
+Krásné ráno, mám se skvěle, po dobrém víkendu, kdy jsme nejdříve pařili na horách.
+Předtím jsem vlastně, to jsme se taky neviděli, to jsem byl na J Open Space, to jsme zase pařili u Telče.
+No a to bylo jaký?
+Super to bylo, super to bylo, byl jsem velmi příjemně překvapen,
+protože samozřejmě z dotnet komunity vyrazíš mezi něco, co začíná na J jako Java,
+čeká, že tě tam pobudej v průchodu, ale nakonec ne.
+Všichni byli úplně jako brutálně milí, chválili náš podcast, tebe samozřejmě zdraví
+a chválili i ve finále mojí přednášku, která byla o tom,
+jak si takový podcast úplně jako na koleni postavit, jak to děláme my,
+jak to mixovat, jaký filtry použít, jaký hardware koupit.
+A pár se jich za mnou zastavilo s tím, že se jim to fakt hodilo,
+protože přemýšleli, že by si udělali podcast, takže to možná mělo i praktický dopad
+na jejich životy, že opravdu se jim ty informace hodily.
+A dokonce jsem si dohodnul přednášku, až tak daleko jsem zašel,
+a to ještě zastřízliva, jsem si dohodl přednášku v J hlavě 15. listopadu.
+Budu mluvit o funkcionálních konceptech a jejich aplikaci
+pro objektově orientované programátory.
+Tak to bylo velmi přínosné ze všech stran.
+No jako k nákladům za podcast, to jsem koukal na tvůj LinkedIn post.
+Tam bylo si, že ty náklady jsou v ceně téhle vody, co tady se tady přednává.
+No ta voda je výrazně dražší.
+Jo, je to tak, je to tak. Líbí se mi to.
+Zrovna včera jsme měli takovou debatu o jednom projektu, který tady děláme pro Fintech
+a bavili jsme se s klukama, kteří tam má jako dvě části, jednu starší a jednu novější
+a ta novější už je napsaná s ohledem na cloud a serverless
+a tam ty náklady jsou jako úplně jiný.
+Takže mám to rád, když se to dobře napíše a když to dává smysl, tak je to levný.
+No tak pecká, no tak pecká.
+Ještě jsem zaznamenal, že nás někdo chválil v nějakém e-mailu,
+který si posílal.
+Jo, jo, jo, to byla taky příjemný, to byla taky hezká reakce od nějakého juniora,
+který říkal, hele, já tomu zas tolik nerozumím, ale vždycky si něco naučím
+a je to pro mě přínosný, tak zdravíme.
+A já to mám samozřejmě úplně stejně, já tomu taky vůbec nerozumím.
+No dneska vůbec, by the way, dneska máme hosta
+a já se tady můžu rovnou přiznat, že v tomhle oboru já jsem úplnej panic.
+Ale jako komplet, jo.
+Já nemám doma jedinou kryptoměnu, jedinej bitcoin,
+nezatěžil jsem si prostě ani po večerech,
+takže já jsem v tomhletom, dneska budu zvídat,
+no tak nádhera, tak i ty jsou potřeba, ale já, ty si tam to svoje najdeš,
+to bych se nevároval.
+Zkusím to, zkusím to, ale uvidíme.
+Každopádně dnešním hostem je Michal Zenger, za chvilku už dorazí.
+Je to další se skupinky od Miloše Lokajíčka,
+tímto Miloše zdravím, protože už nám dodal několik zajímavých hostů.
+To je nějakej talent sourcer, jo.
+To je talent sourcer, já mu vždycky občas napíšu a on říká,
+hele, Michal, jasná volba.
+Takže Michal Zenger, společnost Trezor,
+to je balidový produkt, který používám, takže já jsem samozřejmě natěšenej.
+On tam dělá software, takže ty si taky najdeš to svoje, nebojím se.
+A oni jsou Satoshi Labs, ne?
+Jo, je to tak, je to tak.
+Takže to není jako společnost Trezor, nebo to jsou nějaké dvě společnosti?
+Já si myslím, že to je propojený, jak přesně si necháme vysvětlit.
+Jo, dobře, nebudeme tady halucinovat, půjdeme se ho zeptat.
+Ano, jdeme za ním.
+Do studia dorazil náš dnešní host, Michal Zenger.
+Ahoj, Michale.
+Ahoj, děkuji za pozvání.
+Děkuji, že jsi dorazil.
+Ty jo, ale kámo.
+Ty si říká, dlužíš mi metr piva, nebo tak něco?
+Nevím, ale tohle se nám ještě nestalo za těch 40 dílů.
+Dobře mi, dal bych si ten jako placák.
+Či já ti plásnu, či...
+Dobrý, dobrý, dobrý.
+Fakt jsme to netrénovali.
+Takže, Michale, vítej, prosím tě hned na začátek nám vysvětlit.
+My jsme se tady dohadovali, jestli jsi ze Satoshi Labs,
+nebo jestli to je Trezor, nebo jestli Trezor dělá Satoshi Labs,
+jak to vlastně je.
+Jasně, no.
+Satoshi Labs je holding, který se aktuálně skládá ze čtyř companies,
+ze čtyř firm, který...
+Jedna z nich je Trezor, kde já pracuji,
+další je Tropic Square, Excel a Invity.
+Můžeme si říct, co každá z nich dělá, čím se liší,
+ale v podstatě, když řeknete, Michal, proč jsi v Trezoru,
+tak je to správně.
+Takže jsi měl vlastně pravdu.
+Pravdu, poli.
+Uznávám tady veřejně.
+To jako praca v Trezoru není úplně sranda, tam není připojení.
+To jsi tři provadlova, tyhle jste...
+Jak to řekl, tak teď tě to napadlo.
+Dobrá, tak Michale, prosím tě na začátek.
+Byť se dostaneme k těm jednotlivým částem Satoshi Labs.
+Můžeš se nám a hlavně posluchačům představit,
+co děláš, jaká je tam tvoje pozice, jak ses tam dostal,
+proč vůbec Bitcoin tě oslovil a tak prostě takový ten úvod.
+OK, OK.
+No, tak já v Trezoru pracuji na frontendu.
+Děláme to, když se do prohlížeče napíšeš trezor.io,
+tak to, co se ti zobrazí, to je moje práce, je moje dílo.
+To říká hrdě, víš.
+Hezky, hezky.
+Používám, takže jo, já mám rád, mám rád.
+Ale fakt mě to dělá radost, když to tady někde vidím.
+Teďkom zrovna právě asi se k tomu dostaneme,
+tak proběhlo hodně screenshotů a jako tetelil jsem se,
+když jsem viděl ty svoje komponenty, screenshoty jejich a tak.
+A co tam dělám, je teda ten frontend,
+což v podstatě je e-shop, aby si trezor a příslušenství okolo mohl koupit.
+Plus je tam třeba i knowledge base, aby se lidi mohli nachytřit
+kolem nějakých témat, vztahujících se k těm našim produktům
+a nebo o bitcoinu obecně.
+A jak jsem se tam dostal, napsal jsem jim e-mail,
+za půlhočku mi odpověděli z HR a byl to hezký, takový rychlej proces,
+což na mě vždycky udělává.
+Vždycky udělá dobrý dojem, když ten hiringový proces odsejpá.
+Takže to byl jako love brand, kam jsi se vyloženě hlásil napřímo.
+Přesně tak. Trezor je pro mě jako love brand a je příjemný tam pracovat
+a vidět z té druhé strany, jakoby ta komunita okolo je velmi střícná přijící.
+Je to příjemný brand, který v tom ekosystému kolem bitcoinu fakt dominuje.
+Ačkoliv máme...
+Konkurencí z celosvětově je ještě firma Ledger, která dodává výrobky podobného typu.
+Ale ten Trezor v tomhle tom fakt dominuje na škáletý love brandovost.
+Hezky. No a kdybychom začali úplně od začátku, vlastně jak jsi s IT začal,
+protože k Trezoru se pak ještě separátně dostaneme, na to se těším.
+Ale jak jsi vlastně začal s IT, s programováním?
+No já jsem, jakoby s IT a programováním za peníze.
+Došel vlastně hrozně pozdě.
+Já jsem se k programování dostal na Gimplu, kde je klasický předmět IVT,
+informatika, výpočetní technika.
+A tam prostě svoje první ify, wily, antily jsem psal v Pascalu.
+Antily. Jak to řekl, tak jsem myslel, že by jsi nějaký prostě, že jo, místo na mapě jsou nějaký antily.
+Ale musí jako antil, tyjo, jako keyword. To je super.
+Jojojo.
+Takže, jakoby na tom Gimplu.
+Na Gimplu jsme měli prostě předmět, kde se nějaký programování dělá.
+A mě to jako hrozně nebavilo, jo.
+Nebo mě to přišlo takový bezúčelný, nebo nějak mě to extra, prostě nic mě na tom nepodělalo.
+Ale to, co mě už na Gimplu hrozně pohlutilo, byl internet jako samotný.
+Ten fenomen toho volného přístupu k informacím najednou se dostal prostě k věcem z celého světa.
+Třeba i z Antil.
+I tam.
+Teď mě fakt jako nasadil, kde to vůbec je. Jakou to má top level doménu.
+Nejo, čemu to patří.
+Myslím, že si na tom jako, ne to jo, nekešijou jako ty s tou IOU doménou.
+Co jsem teďka čet, že jaký to je státeček, který tím, že jim bylo přiděleno to IOU.
+No, no, no.
+Protože to je, že jo, geograficky.
+Takže jim to dělá snad třetinu prostě HDP nebo něco takovýho.
+To můžeš mít v životě šestí, veď.
+Asi ano.
+No takže, takže ty, tam tě to nezaujalo, ale zaujal tě internet.
+No a jak jste se tam dostal frontendu? Tam asi jste nedělali, ne?
+V té době to byly paskaly a tyhle věci, ne?
+Ne vůbec to. Jako jasně tam část toho předmětu se možná věnovalo nějakýmu.
+To bylo, že jsme si udělali nadpis, obarvili ho a tabulku.
+A Marký pěkně vyříct.
+Možná ano, tyhle ty.
+A mně to přišlo takový jako dětský, k ničemu nepoužitelný.
+Ale fakt mě fascinoval ten, ten nekonečný prostor internetu.
+A je to jakoby jedna z věcí, kterou jsem zažil i několikrát později.
+Ta úplná fascinace, že ti nějaká věc nedá v podstatě spát.
+Že jakoby, já jsem pak jako na tom GIMPlu si vymohl extra vstup do tý učebny, kde ten internet byl.
+Protože to vůbec nebylo běžný mít internet doma. Bylo vytáčený připojení, bylo to pomaly drahý.
+Jasně.
+Takže my jsme se jako s profesorem tý matiky, informatiky dohodli, že nás tam pár nadšenců bude pouštět.
+A bylo to pro mě fakt jinak.
+Jenom o tom jako najednou se dostávat informacím, který mě zajímaly.
+A mě v tý době nejvíc zajímala matematika.
+Já jsem pak jako po GIMPlu sešel do Brna vyučit matematikem.
+Vyučit matematikem.
+Takže až jako na tý vysoký jsem pak měl i nějakej jako kurz UNIXu.
+A vůbec jakoby tohodle jinýho světa, protože tam tehdy na GIMPlu to byly Windowsy.
+A tam mi i ten profesor, kterej nějaký předmět kolem toho UNIXu měl, nabídl, že...
+Jeho kamarád má firmu a zhání nějakýho v podstatě interna, kterej by jim tam dodělal dokumentaci k nějakýmu jejich webovýmu projektu.
+A až tam jsem vlastně poznal, že se tím programováním dá jako dělat něco zajímavýho.
+Něco se tam dá jako vyfakturovat.
+A to mě nějak asi jako...
+Nechci říct, že to byla jakoby ta finanční motivace, která mě teprve jako až na tý výšce zaklapla.
+Ale tam mě teprve došlo, že se ty věci dejí dělat nějak smyslu.
+Určitě.
+Do té doby mě fakt jako fascinovala matematika.
+Ale tím, jak jsem pak jako přičuchl k těm počítačům, tak jsem rázem prostě začal nějak omezovat celé působení na poli matematiky.
+A začal jsem jako po večerech dělat weby.
+A vyloženě takový ty živnostenský zakázky, prostě udělejte nám tady web.
+A si bych to do týdne tam prostě dodal.
+Takže tam byl sice jako frontend, ale byl to fakt tabulkový design.
+Jasně.
+A já jsem vlastně teda jakoby začínal...
+Já jsem byl PHPčkem, kde jakoby jsme si teda jako bavili o nějakým skriptování.
+Tak to prvně bylo PHPčko Jirka Kosek.
+No jasně.
+To je zapomenutelná kniha.
+Máš ji ještě?
+Mám ji, mám ji myslím i podepsanou od něho.
+No tak tyjo, tak to už má cenu.
+Já jsem ji hledal a nemůžu ji najít.
+A to byla první knížka, kterou jsem si koupil za svý těžce vydělaný peníze.
+A tenkrát stála šestovek.
+Jako šestovek, kámo.
+A tenkrát bylo jak teďka třeba dvanáctset nebo osmnáctset.
+Fakt jako kurevsky drahá knížka.
+A jako ta mě vždycky taky pohltila.
+Jako na mě tam možnost, že ty něco napíšeš, někam to uploadneš a ono blbý počítadlo, žejo.
+Jako to pro mě bylo úplně největší zábava.
+Nebo guestbook, žejo, kámo.
+Chtít tam ho zmychat.
+Byl jsem tady.
+Ano, ano, ano.
+Takže já jsem během té vejšky pak napsal do jedné agentury umělecký.
+A oni dělali prostě weby pro Karla Gota, Lucí Bílou, Mest Český republiky.
+A to jsem vlastně během té vejšky dělal všechno já.
+To byla v podstatě jako one man show.
+A tam byl ten hezký bonus, že jsem se pak dostal na finále my.
+Jsem tam prostě jako nějak tam mohl v backstage pobíhat a s Alenou Šeredovou si dělat fotky.
+To je super.
+Ona mě tak převyšuje asi o dvě hlavy.
+Takže to bylo opravdu...
+To bylo na selfíčko se Šeredovou.
+Měl to asi vyskočit bezprávně odkamžik.
+Ta selfíčka ještě neexistovala.
+Jasně.
+No a to se bojíme o kterým roce, by the way?
+To je prostě konec devadesátek, přelom 2000.
+Já jsem maturoval 1998 a šel jsem na tu vejšku.
+Pak se mi nechtělo na vojnu, tak jsem začal dělat druhou vejšku.
+To už byla fakulta informatiky, taky na Masaryčce v Brně.
+A tam už jsem to vyloženě dotlačil tak, abych na tu vojnu nemusel.
+Ale moje účast na přednáškách takhle byla hodně limitová.
+Protože jsem většinu času už trávil faketů.
+Se šeredovou.
+Ne, já jsem pak právě už začal dělat i něco trochu víc advance.
+Protože tam se mi zase povedlo, tím jak jsem furt byl někde na těch kompech,
+tak úplně bych to nenazýval nějaký hackování,
+ale dělal jsem nějaký projekt na webu hybob.cz
+a měl jsem tam prostě přístup přes Ftipko
+a dalo se tam prostě nahrávat ty PHPčka a dělat ten web.
+Takovým tím fakt oldschoolovým přístupem.
+No a já jsem se tam dělal.
+Když jsem tam všiml, když se tam připojím tím Ftipkem,
+že je tam nějaký soubor, tak ono se tam má nějaký start,
+něco tečka start, kde bylo napsáno logout.
+A když ses tam na tu stejnou adresu chtěl přihlásit nějakým SSHčkem,
+tak ono to funguje tak, že tenhle soubor se načte,
+ten bash si ho vezme a pustí, takže tě hned odhlásí.
+Tak já jsem mu přes to Ftipko smazal, přihlásil jsem tam tím SSHčkem
+a začal jsem prohlížet weby, které tam byly hostované úplně jiné
+a tak jsem si to tam jako čekoval.
+A do toho najednou, jak se vlastně jmenoval ten takový command line chat,
+mě prostě admin toho serveru tam jako pinknul a jako,
+kdo jste, co tady děláte.
+A já ho, já se nedělám přece tady na těch stránkách.
+A jak jsem se sem jako lognul, ne, a tak jsme se dali do řeči
+a on mi pak prostě skrz to nabídl práci už tady v jedné pražské firmě,
+kde jsme dělali nějaký jaký intranetový řešení
+a ten jako svět programování se pro mě úplně jako rozjel tímhletím.
+A to ses teda posunul od PHPček přes takovýhle skriptování,
+hackování až teda k tomu frontendu. Kdy došlo k tomu přerodu vlastně?
+Ale já úplně jakoby ten frontend, backend, já jsem dělal,
+cokoliv jsem uznal za vhodný a bylo potřeba, aby jsme nějakou věc doručili.
+Takže nejsi vyhraněný tím stylem, že ty teda děláš frontend,
+ale není to tak, že už jako se položí za frontendisty.
+Já teď dělám hodně frontend, ale zároveň dělám i backend,
+protože třeba GraphQL, ke kterému se dostaneme, je backendová technologie,
+kterou já si tu servisu píšu v tom typescriptu.
+Jo, takhle.
+Ale jakoby přešel jsem třeba od toho PHPčka komplet na Javascript,
+následně typescript, protože pro mě je ten jazyk mnohem produktivnější,
+než když bych switchoval furt kontext z jazyka do jazyka.
+Takže já jsem jakoby víc od backendu přešel k Javascriptu na frontendu,
+jQuery, první verze Reactu, nebo i Angular, ale ten mě právě vůbec nevyhovoval.
+A pak teda...
+Od backendu jsem z PHPčka úplně odešel,
+ale zároveň jsem dělal i dlouho, pět let v dotnetu,
+kde po škole jsem šel prostě do klasický softwarový firmy
+a dělali jsme Visual Basic dotnet a Microsoft SQL.
+A C-Sharp taky?
+C-Sharp vůbec. Tam prostě ten kolektiv pracoval webe dotnet
+a jedinej C-Sharp byl, že jsi si to mohl automaticky skonvertovat.
+No, možná než se pustíme úplně do takový té deep programátorský debaty,
+což teda jsem rád,
+protože v začátku jsem myslel, že to vůbec technicky nebude
+a teď to vidím, že Michal přišel nakonec pro mě.
+Máme tady obecně oblast, který se chceme dotknout,
+protože ty jsi vlastně první host, řekněme, z téhle kryptoscény.
+A myslím si, že bylo by možná dobré,
+než se pustíme vůbec do nějakých našich hrátek,
+pokecat o Bitcoinu, pokecat o Trezoru, co to jsou kryptoměny,
+protože, jak říkám, ještě jsme se tady toho nedotkli.
+Já třeba samozřejmě, když to sleduje, tak asi více je Bitcoin,
+více jsou kryptoměny, ale tím, že víme, že máme posluchače,
+kteří jsou úplně jako holátka, tak kdybys třeba mohl nějak
+po lopatě těm posluchačům vysvětlit, co to jsou kryptoměny,
+co to je Bitcoin a vlastně jak na to navazuje ten Trezor.
+To je docela, zní to jako jednoduchá otázka,
+ale dá se do toho podle mě hrozně zamotat.
+Tak do hodiny to vysvětlím.
+Tak úvod do Bitcoinů.
+Tam podle mě je dobrý hned na začátku zmínit,
+že je vhodné oddělovat krypto a Bitcoin.
+Intuitivně se to používá, že Bitcoin je podmnožena kryptá
+a historicky se asi to nedá popřít, ale krypto získalo
+tak jako špatnou pověst díky všem skemům a věcem okolo,
+že je dobré oddělovat Bitcoin a krypto.
+Mhm.
+Bitcoin sám o sobě, co bys mi řekl, že je Bitcoin,
+tak já abych nezabředl do těch technikálí,
+tak je třeba vhodné říct, že Bitcoin je něco jako digitalizovaná vzácnost,
+což zní to až ezotericky, ale když se věme,
+že digitální svět je by design dělaný na to,
+že cokoliv můžeš skopírovat, filmy, MP3,
+informace je digitalizovaná, tím pádem je dostupná komukoliv.
+V nezměněné kvalitě.
+Bitcoin má vlastnosti digitální věci,
+ale zároveň je vzácnej, nesfalšovatelný,
+takže tam můžeš, a díky tomu může fungovat,
+jako digitální peníze.
+Mhm.
+A to je pro mě i jako důležité si říct,
+obecně u těch kryptoměn, řeší to nějaký problém?
+Nebo to řeší jenom to, aby ten, kdo s nějakou kryptoměnou přišel,
+něco vykašoval a pak toho Černého Petra předal,
+těm, kteří mu do toho ten cash dali.
+Bitcoin řeší problém, který by se dal říct,
+že jakoby naše peníze, ty reální peníze,
+v fózovkách reální, prostě fungují špatně.
+My si jako můžeme říct, že nepozorujeme nějaký problém kolem peněz,
+pro nás peníze fungují dobře,
+ale celosvětové peníze fungují velmi špatně,
+a i ty to můžeš na to hned narazit i tady,
+když si uvědomíš, že vlastně nemůžeš třeba peníze používat,
+jako...
+bys měl, že moderní...
+a už se do toho zamotám,
+moderní peníze ti bohužel znemožnili třeba spořit.
+Ty když si prostě necháš peníze na účtu,
+tak inflace ti je bude požírat.
+Takže jsi v podstatě nucenej do toho je investovat,
+a investice už je nějaký druh hazardu,
+je tam prostě riziko.
+A já si myslím, už jako z definice peníze,
+jako uchovatel hodnoty,
+aktuální peníze takhle nefungují,
+Bitcoin tohleto řešení nabízí.
+Bitcoin nabízí teda lepší peníze,
+a to jeho řešení je velmi elegantní,
+technicky zrušující,
+a všechny ostatní kryptoprojekty
+to buď jako tupě kopírují a nic nepřináší,
+jenom se to marketingově obalí,
+anebo zkouší něco,
+ale z mého pohledu to nefunguje.
+Jakoby dlouhodobě nebo v horizontu pěti let,
+se tohleto většinou jako projeví,
+že ta technický řešení je nesmyslný.
+A co teda vlastně u toho Bitcoinu funguje,
+že ty ho považuješ asi podle toho,
+co říkáš za ten top?
+Ten design a ten jeho účel je dostatečně omezený,
+a ta jeho jednoduchost,
+ačkoliv to umí být hodně složitý,
+je přesně to, díky čemu to podle mě funguje.
+A funguje to jenom na to,
+že vlastně řešíš, jak někomu poslat nějakou hodnotu,
+a to bude necenzurovatelný, distribuovaný, pseudoanonymní.
+To jsou ty důležitý hodnoty.
+A všechny ty ostatní kryptoprojekty v tomhle tom
+buď to jenom fakt kopírují,
+anebo zkouší něco jiného,
+jako nějaké smart kontrakty.
+V podstatě se dá popsat jako nějaký skriptík,
+který se zase distribuovaně pustí a něco splní.
+Tak v tomhle směru se to podle mě ukazuje jako něco,
+co vlastně dlouhodobě nefunguje.
+Je totiž vlastně hodně divný,
+že bys zapsal nějaký kód,
+který jakmile ho release neš, tak už ho nemůžeš nikdy změnit.
+Jsme asi zvyklí na to, že vždycky se nějaký bug najde,
+a v historii se těch bugů kolem těch kryptoměn našlo spousta.
+A tím, jak je to složitý, tak tam vždycky nějaký bug bude.
+Tak si myslím, že výhoda toho bitcoinu je,
+že tyhle ty věci nemá, nechce je mít,
+a to ono nechce je vlastně dáno komunitně,
+a díky tomu bude dlouhodobě fungovat.
+A ty jako vyučenej matematik,
+ten mi to určitě vysvětlí.
+Zatím je přeci, nebo musí být, spoustu matematiky, ne?
+Za vůbecně, jak funguje bitcoin.
+Přesně tak.
+Tý matematiky není tolik,
+ale je prostě velmi pěkně použitá.
+A zároveň je tam hezký průnik i do reálního světa.
+A díky tomu ten bitcoin má zase,
+nebo ta bitcoinová sít má nějaký vlastnosti,
+který třeba ethereum,
+jedna jakoby kryptoměna číslo dvě,
+nemá a nemá je cílně.
+Ten průnik do reálního světa je to,
+že jsou nějaký těžaři.
+Někdo musí reálně pálit elektriku,
+dávat do toho nějaký jako fyzický statek.
+Jasně.
+A jeho odměna je pak ten bitcoin.
+A pak jsou,
+součástí tý sítě jsou
+úzly, který
+je celkem jednoduchý
+si nějaký bitcoinový úzel zprovoznit.
+Takže ta sítě může být
+hezky decentralizovaná,
+distribuovaná po celé planetě.
+Zatímco třeba ethereum
+tohle těžení zrušilo,
+přešli na takzvaný proof of stake.
+Takže ty v tom ethereu
+seš jakoby
+prokazuješ nějaký
+vlastnosti tím,
+že to ethereum vlastníš. A vlastníš ho dostatečně hodně.
+Takže máš něco jakoby větší
+hlasovací právo.
+A tím bohužel to ethereum jakoby kopíruje
+to, co se nám
+svědčilo s klasickou měnou. Něco jako
+centrální banky někdo, kdo rozhoduje
+jenom svojí existencí o tom,
+co s tou měnou bude. Zatímco
+u toho bitcoinu je to hezky oddělený
+ti tižaři, ti provozovatelé nodeů,
+samotní uživatelé.
+A tady ta věc je tak krásně vyvážená
+z pohledu teorie her. A ta matematika
+tam dělá hlavně tu kryptografii.
+To, že se to teda nějak podepisuje
+veřejný privátní klíč.
+A ty teda jednoduše ověříš,
+že nějaká transakce
+je od někoho, kdo tvrdí, že je jeho.
+Zároveň si teda zapíšeš
+tyhle transakce
+jednou za 10 minut do bloku,
+který se takzvaně vytěží tím, že
+někdo počítá složitou,
+hrubou silou, těžce
+řešitelnou úlohu.
+A tím, že ji jednou za 10 minut
+vyřeší, uzavře takzvaný
+vytvoří blok, který se zapíše do toho blockchainu.
+Jakoby ta postupná
+historie těch transakcí.
+A jeho odměnou je pár těch bitcoinů.
+Jak se u takovýhleho
+systému
+vlastně
+distribuovanýho už by design,
+dochází k nějakému
+směřování nějakého vývoje,
+nějakému koncenzu? Vlastně kdo to udržuje?
+Třeba obecně.
+Zatím je přeci software, ne?
+Je zatím software, který je otevřený.
+A ten někdo píše?
+Ano, a ten píše komunita.
+Když dostaneme se k open source
+softwaru, tak bitcoin je
+nádherný příklad
+použití open source.
+Takže
+když přijde požadavek na nějakou změnu,
+musí se na něm zhodnout komunita.
+A zároveň ta komunita je tvořená i těma
+těžařema, těma provozovatela nodeů.
+Takže řekněme,
+ten vývoj je na bázi
+zhody. Takže probíhá nějaké jako hlasování,
+jestli teda se půjde doleva nebo doprava?
+Ano, schvalují se nějaký
+zlepšovací návrhy.
+Bitcoin improvement
+proposals.
+Funguje to na této bázi.
+A nic ti nebrání, abys řekl,
+já tady s touhletou cestou bitcoinu
+nesouhlasím, já si udělám svoji
+kopy, pojďte všichni se mnou.
+Takže si to forkneš.
+Takže uděláš fork, historicky takových forků
+proběhlo, ale
+tam už je zas pak jako přesah do toho
+reálního světa a možná i právě
+nějak jako jak vůbec funguje psychologie lidí.
+Zkrátka ten bitcoin,
+ten hlavní,
+ten funguje
+bez ohledu na to, že by tam byla nějaká centrální
+autorita, něco, nějaká
+organizace, která by řekla, ne, bude to
+takhle. A v tom je to taky fascinující,
+že něco, co vlastně je
+hodně o penězích, takže by tam
+člověk možná tíhnul
+k centralizaci jistotě bezpečí,
+tak funguje na bázi
+otevřenosti, na prosté transparentnosti
+a diskuze
+zúčastněných entit.
+Takže je to úplně jako nejčistší open source, jaký se
+asi dokážu představit, v tom smyslu, že kam to se to
+komunitně valí, tak
+tam to prostě jako teče, že tam není
+žádná autorita, žádný jako
+diktátor v tomhle smyslu toho. Jo, a je to
+zase jedna z důležitých vlastností. Nemůže
+pak právě přijít
+nějaký cenzor a říct
+vy, ta organizace toho
+bitcoinu, vy se nám nelíbíte,
+budete to dělat takhle a takhle, protože my
+to chceme. A to je zase jako
+důležitá vlastnost toho bitcoinu. U
+Etherea je už nějaká
+Ethereum Foundation, jsou to konkrétní lidé,
+konkrétní firmy a ta jejich centralizace,
+toho proof of stake, i znamená
+vlastně zranitelnost celého toho systému.
+Ok. Ale ještě poslední
+věc, než z toho odskočíme bokem do toho
+trezoru. Já jsem čet, že
+na jaře příští roku se chystá tzv. halving,
+což je půlení bitcoinu.
+Úplně pro mě taky.
+Co to znamená? Co to je půlení bitcoinu?
+Půlení bitcoinu je právě snížení odměny
+pro ty těžaře, kteří
+v průměru to vychází jednou za 4 roky.
+Je to, myslím,
+210 000 bloků, když se
+vytěží, tak se ta odměna
+zmenší o polovinu.
+A to je tam od začátku takhle neplánovaný?
+A to je přesně součást toho kódu. Městně
+nebrání udělat si fork a
+změnit tenhleten algoritmus.
+Tam se začínalo na 50
+bitcoinech za vytěženej blok. Aktuálně
+jsme, lepší je si možná
+říkat, kolik je to teď už za den, že je to
+900, mám tato, že nekysl,
+900 bitcoinů za den.
+No a někdy od dubna to bude už jenom
+450 a za další 4 roky
+225.
+A takhle se to bude snížovat. Tím pádem víme, že těch
+bitcoinů se, protože je to nějaká klesající
+geometrická řada, tak těch bitcoinů
+se vytěží 21 milionů
+a už nebude žádný. A zase důležitá
+vlastnost toho
+bitcoinu, víme jaká je
+jeho inflační
+politika.
+Tak tím, že se, bitcoiny vlastně
+přibývají, takže se dá říct, je to inflační,
+ale my víme přesně, kdy a
+kolik ho bude. Jo, jo, jo.
+Což u korun, dolarů, eurá
+neví nikdo. O tom, jak se politici vyspí
+a jak zrovna potřebují centré
+rání banky něco regulovat, tak si
+prostě nový...
+Ale už se pár minut tiská REN a jede se.
+V půvozovkách zapnou rotačky
+a vytiskne se to. Ok.
+Takže halving nás teď čeká.
+Je to vždycky něco, co
+už historicky proběhlo třikrát
+a vždycky to s tou cenou hodně
+zamávalo. Pro ty těžaře je to prostě
+hrozně nepříjemná věc.
+Pro ty lidi, který to drží,
+je to příjemná věc, protože
+očekávají, že ta cena
+půjde nahoru. Ta cena je
+jako v korunách, dolarech,
+ale v principu se nic nemění. Jenom
+to vede prostě... Tu soutěž toho
+těžení vede k větší efektivitě
+a tak dále.
+Tak pojďme skočit rovnýma nohama do Trezoru.
+Tak jak vlastně...
+Jak vlastně
+Bitcoin a Trezor souvisí?
+To znamená asi... Si pojďme popsat, co Trezor
+dělá a jak to spolu hraje.
+Trezor dělá takzvanou
+hardwareovou peněženku, což je důležité
+zařízení pro lidi, kteří chtějí
+Bitcoin používat a držet.
+Protože zase jedna z těch manter
+okolo Bitcoinu, not your keys,
+not your coin, což volně
+řečeno, ty když si Bitcoin koupíš
+a nejpohodlnější
+forma nákupu Bitcoinu
+jsou burzy,
+který už podlíhají regulacím.
+A takže oni
+jako vyžadují od tebe, abys jim tam
+poslal nějaký doklady, aby pak právě
+mohli případně proti...
+Argumente se praním špinavých peněz a tak dále.
+Tak ty když si tu
+nějaký kousek Bitcoinu koupíš,
+necháš ho na té burze, tak
+ta burza vlastní
+ten Bitcoin. Ona ti jako slibuje,
+že když ho budeš chtít, tak
+s ním budeš nějak nakládat,
+ale když přijde nějakej
+bad guy a tu burzu hackne,
+zase historicky se to několikrát stalo,
+tak ty o ten Bitcoin přijdeš
+a prostě ho nemáš.
+Takže se říká, jasně
+když už musíš, kup si ho na té burze.
+Jsou teda i jiný možnosti, jak
+možná
+Satoshi Leps jednu z nich nabízí.
+Bitcoin pořídit, ale
+ideálně, když si ten Bitcoin koupíš,
+hned od té burzy pošli na tu svoji
+hardwarovou peněženku.
+A hardwarová peněženka by se spíš
+mohlo říkat klíčenka, protože ona
+jako by ty Bitcoiny
+takový chytá. Kolik Bitcoinů
+se vejde na jeden trezor?
+Tak to je
+možná prozradím, že
+všechny.
+Protože tam reálně žádný ty mince
+nejsou. Ten Bitcoin se neukládá
+na peněženku. Ta peněženka ukládá tvůj
+privátní klíč a ty transakce
+jsou zaznamenané v tom blockchainu.
+Takže ta hardwarová peněženka,
+ten trezor, je jenom
+vymakané hardwarové zařízení,
+které umí
+kvalitně pracovat
+s privátním klíčem.
+A privátní klíč je tvůj
+důkaz, že vlastníš to, co
+je v tom
+blockchainu zapsané.
+Jak jsem říkal, trezor
+vlastním a ještě jsem hodně řešil
+nakolik a proč vlastně
+pořídit hardwarovou peněženku oproti
+softwarový peněžence? Popsal bys ještě tohle?
+Proč vlastně by to ty lidi měli dělat?
+Protože ta softwarová peněženka
+je zranitelnější proti
+možným útokům. Hardwarová peněženka
+je hardwarově oddělená
+od počítače nebo mobilu
+a každý ví, že
+na telefonech
+a na počítačích jsou nějaký
+věry nebo možnost
+se k tomu prostě nějak dostat.
+A jakmile se ten útočník
+k těm tvým privátním klíčům
+by mohl dostat, a těch
+způsobů je prostě spousta,
+tak ty už nemáš šanci,
+jak mu v tom zabránit. A on jako to, že
+ti ukradne ten privátní klíč, to ty se nějak
+nedovíš a najednou zjistíš, že ty
+svoje
+mince nemáš.
+Protože on prostě provede transakci a někam
+si to převede a nikdo
+nemá možnosti to vrátit.
+Že když ti někde
+skemnou kartu,
+tak ty jako zavoláš do toho
+MasterCardu a oni ti to můžou
+zklamovat a zase si k tomu dostaneš.
+Jakmile si někdo zmocní tvých klíčů,
+tak tě vlastně může připravit o všechno,
+co v tomhle máš.
+Takže ta výhoda té hardwarové
+penžinky je ta hardwarová oddělitelnost
+od počítače
+nebo telefonu.
+Což je vlastně jako ještě psychologicky,
+je to jako úplně jiný svět. Když si představíme,
+teď se bavíme o cloudech a už je všechno propojený.
+A teď jako já mám doma
+nebo někde. Kde to máš?
+Já ti to pak povím.
+Mám tu klíčenku teda.
+A teď ještě k tomu máš, pomoc mi,
+těch 24 slov.
+12 nebo 24 slov je záloha
+toho takzvaného seedu, což je
+jenom jiná forma právě jak
+si zapsat ten svůj privátní
+klíč. A zrovna těch 12,
+24 slov je
+jeden jako ze zásadních
+vynálezů Trezoru nebo
+Satoshi Labs, jeho zakladatelů, kteří vlastně
+s tímhle tím propouzlem do tojí
+bitcoinový komunity přišli.
+A adaptovalo se to, a je to teď
+jako automatický standard.
+Jenom bych doplnil, ty se nemusíš bát,
+kde máš svoji hardwareovou peněženku. Ty se máš
+bát, kde máš ten svůj seed,
+tu zálohu. Protože ty tu hardwareovou
+peněženku můžeš ztratit, můžeš jí fakt
+zahodit, ale důležitý je
+mít schopnost si ji znova obnovit.
+A k tomu slouží ten
+seed. Ale vlastně,
+já už si nepamatuji, co se mi
+stalo asi před půl rokem,
+kávsůvka, ten
+seed jsem měl někde schovaný u kamaráda.
+A nedostatečně jsem mu vysvětlil,
+jak je to jako důležitý.
+No a on to ztratil.
+Ty vole, to si děláš legraci.
+Ale dostal jsem se vlastně,
+tím, že jsem tu peněženku měl,
+tak jsem se k tomu seedu už dostal taky.
+Nevím už, jak jsem to udělal, ale prostě jsem
+tam zpátky a nemusel jsem kupovat
+nový hardware. Takže jako vlastně to jde nějak
+i obráceně. No, abys si tu
+peněženku pak zapil, tak měl bys
+mít nastavený nějaký pin, nějaký
+jako heslo, případně
+ještě passphrase. Ale
+pokud jsi teda ztratil ten seed, tak
+doporučuju okamžitě si jako
+vlastně nasetupovat, pořídit
+si druhej trezor, nasetupovat si tam
+a převízt to z toho
+ztraceného, ten, kde máš ztracenej seed, protože
+jakmile se k tomu někdo dostane,
+tak ti to může sebrat a ty se to dovíš,
+až když se budeš dívat, jak na tom tvůj
+trezor je.
+Ale když jsem to celý vlastně restartoval,
+seed jsem si udělal novej, novej
+24 slov, tak
+by to mělo být vyřešený, ne?
+No, ale jak by ses dostal k těm předchozím
+to, co jsi tam měl uložený, jo?
+No, to právě, tak to si řekneme potom.
+Co tady, jako ať tady... A u toho seedu
+je i právě dobrý, jako
+důvěřovat kamarádovi, to je zajímavý, no.
+To je nepříjemně úplně bezpečný.
+Je kolem toho zase hezká
+nějaká, jako...
+Když ty to máš kde, tak to máš kde?
+Nebo kam to lidi dávají?
+Já bych, já na to nechci takhle napřímo
+odpovídat, ale je dobrý
+to, že zase jedna
+z invencí Trezoru je takzvaný
+Shamir backup. A to znamená,
+že ty ten seed
+nemáš napsanej na, nemáš
+jeden seznam dvanácti nebo dvaceti čtyři
+slov. Furt se motáme dvanáct nebo dvaceti
+čtyři slov, ukazuje se, že dvanáct slov
+je bohatě dostačujících, jo.
+Dvaceti čtyři je trošku jako
+iluzorní pocit větší
+bezpečnosti a je to spíš jako z pohledu
+uživatele větší
+jako nižší user
+experience. Takže dvanáct slov
+stačí, ale Shamir backup
+poskytuje to, že nemusíš mít
+jeden seznam dvanácti slov, ale máš
+třeba tři. Aha.
+A s tobě k obnově stačí dva z těch
+tří nebo tři z pěti.
+A ty tyhle ty části
+toho Shamira rozdistribuješ třeba
+teda kamarádům nebo na nějaký
+bezpečný místa, abys
+omezil i to riziko
+toho, že kamarád to ztratí,
+barák zhoří. Jo, teď je
+hezká fotka, jak jsou takový ty knihobudky
+z telefonních budek a tam někdo
+dal knížku, někdo si ji vzal a tam
+byl založenej prostě papírek s tím sídem.
+Dráha knížka. No, může být,
+může být, jo. Takže je dobrý si ten síd
+dát tam, kde ty
+cítíš nějaký,
+nějakou záruku bezpečí a
+zároveň nesázet jenom na ten jeden,
+na tu jednu kopii.
+A zároveň Trezor
+umožňuje i to, že ty když se do toho Trezoru teda
+přihlásíš nějakým tím pinem,
+tak ještě je tam možnost zadat
+přímo nějaký slovní heslo
+a mít tak jakoby schovanou nějakou
+peněženku v té, schovanou virtuální
+peněženku v té hardwarový
+peněžence. Ok, ok. Takže i kdybys
+přišel od tu, někdo ti ukradl
+tu tvoji peněženku,
+dostal se k
+tvýmu pinu, přihlásil se tam,
+tak ještě by potřebal třeba vědět
+to, ten, tu
+passphrase, aby se mu ukázala
+nějaká ještě další peněženka. Můžeš tam
+nechat být tam jako defaultní
+peněženku s něčím, abys jakoby toho
+útočníka teda
+mu dal iluzi, že si už teda jako
+přišel k tomu, kdyby
+tě jako chytli, mučili. – Tě tedy jako honeypot nějaký.
+– Honeypot takovej. A nebo
+můžeš vlastně mít třeba
+jako jednu peněženku pro x lidí. Každej
+si tam zadá to svoje heslo a objeví se mu
+až tak jeho peněženka.
+Takže to taky jde takhle používat.
+Na druhou stranu doporučuju
+kolem toho zase jako nebýt úplně schizofrení.
+Ta paranoia
+tě fakt nepustí.
+– Už jsem se chtěl zeptat předtím,
+což vlastně, to jsme tady neřekli,
+těch bitcoinů sice bude 21 milionů,
+ale některý jsou nenávratně pryč, protože ty lidi
+udělali nějaký průser a
+ví se, kolik teďka zhruba takhle
+zmizelo bitcoinů. – Jako odhaduje se to na
+už nějaký jako nižší jednotky
+milionů. Jsou prostě nedostupný, což
+jakoby technologicky nijak
+nevadí. Ty prostě
+existující bitcoiny můžeš dělit,
+jak uznáš za vhodný.
+Ale ano, spousta se jich ztratilo.
+Já jsem svůj první bitcoin taky jako vyhodil
+do koše. Já jsem vlastně k bitcoinu
+došel v paralelním polis, kde mě
+donutili, tam to byl nějaký PHP
+sráz poslední sobota.
+Seděl v paralelním polis, tak
+jsem tam došel, chtěl jsem si koupit limonádu
+a oni to musíš tady, já to jsem
+o bitcoinu jeděl prd,
+tak mě prostě řekli, tady si musíš
+proměnit dvou kilo v automatu, to ti
+vytiskne QR kód a tím
+zaplatíš tu limonádu za 30 korun. Tak já
+jsem byl nadšenej, že mě limonáda
+stála 200, protože
+říkám, já nebydlel jsem v Praze,
+říkám, tak já už tady nikdy tím nezaplatím,
+že, tak jsem si prostě,
+a za ty dvě stovky, kolik jsem v nějakým
+2013 mohl toho bitcoinu
+koupit, no. Tak jsem
+zaplatil 30 korun za limču a zbytek jsem
+si nechal někde v kapse, kde
+pak jsem to vyhodil, takže.
+Ano, taky jsem přispěl k
+větší vzácnosti bitcoinu. Ano, ano,
+takže děkujeme, děkujeme. Každopádně,
+pojďme k tomu produktu. Ty
+už jsi zmínil konkurenci a
+mě vlastně přijde na to,
+jak je bitcoin rozšířené,
+že ty konkurence není mnoho,
+ty, jako, která se dá s váma srovnávat,
+jako, co k tomu přizvězuješ? Je to
+ta unikátnost toho vašeho
+řešení a řešení vaší konkurence, nebo
+jak bys to popsal? No, začal bych tím, že
+hardware is hard. Ono jako není
+fakt tak jednoduchý dělat
+něco v tom hardwareovém světě
+a vyžaduje to
+teda už docela větší úsilí, než
+to dnešní době je mega jednoduchý
+udělat nějakej softwarovej, nějakej
+jako web, že jo. Hostovat to můžeš
+v cloudu globálně, to prostě
+doručíš během pár dnů,
+ale abys jako začal skládat něco
+hardwareovýho, to možná největší
+inovace v tomhletom směru jsou 3D
+tiskárny, že jako si ten
+z myšlenky něco zrealizovat. No, ale
+hardwareová peněženka, to je vyloženě
+nějakej čip,
+nějaký věci okolo. Takže to je
+bastlířina prostě, jako by... Je to, ano,
+poctivá bastlířina
+a zároveň
+trezor není jenom ta peněženka,
+ta fyzická, ale
+je to i ten software, kterým to vlastně
+ovládáš, ten Trezor Suite.
+Takže
+ano, ten
+trezor je dělaný
+open source-ově, jako ty
+nic ti nebrání si
+začít to vlastně klonovat,
+se tam snažíme být
+maximálně otevřený,
+ale sorry, nebude
+to jen tak, abys to doručil.
+A zároveň teda třeba
+naše konkurence Ledger se
+hodně profiluje právě směrem
+a vůči
+veškerému kryptu
+jsou různý hypey, který probíhaj
+znáte možná NFT,
+tak prostě
+Ledger tomuhle jde víc naproti,
+Trezor je víc
+bitcoinovej, ačkoliv
+spoustu jiných, jinýho krypta
+si tam uložíš taky, ale když
+prostě vznikne nějakej novej
+novej chain, tak
+Ledger ho pravděpodobně bude
+mít naimplementovaný dřív než
+Trezor.
+A jaká byla otázka?
+Jedeš dobře, srovnání tý konkurence
+a vlastně, proč vás je tak mám.
+Ano, Trezor je víc
+pro bitcoinovej,
+je tam, když jsem tam prostě
+nastoupil, tak jsem cítil takový to
+omrkávání, jseš bitcoinovej
+anebo jako...
+Kolosna nebo máš nějaký.
+Jsme inkluzivní, máme
+tam jako oba tábory,
+ale minimálně na mým
+patře jako přebažujou
+Bitcoin Ultras.
+Rozumím, rozumím. No a když se
+ještě půjdeme dál k tomu produktu, ty jsi
+říkal, že děláš v TypeScriptu
+a ten celý produkt běží
+na čem? Protože předpokládám, že tam bude ještě nějaký
+jinej jazyk. Jasně,
+jakoby to, co
+ty si pustíš jako Trezor suíta, je taky
+TypeScriptová aplikace
+v elektronu, prostě pouštěná
+desktopová aplikace, ale
+je tam použitej i Rust
+a nějaký MicroPython
+prostě na ten firmware,
+to co běží na tom zařízení samotném.
+Ale upřímně k tomu já vám moc nepovím.
+To dělá prostě jinej tým
+a moje domena je ta
+Trezor.io a to, že sedím
+tam s klukama, který dělají suítu,
+tak o tom něco vím.
+Ale jakoby ta bastlířina
+to já
+jenom jako pokukuju
+a v respektu chodím okolo.
+Rozumím, rozumím, naprosto chápu. Jasný.
+No a teď ještě, my jsme se
+lehce bavili před natáčením,
+že sedíte na palmovce.
+Velmi neobvyklý. Za palmovkou.
+V undergroundu.
+Všichni sedí dneska na Karlíně, že jo?
+Tam sedí Trezor od začátku nebo
+to mělo nějakou genizi?
+Tak to, co vím z vyprávění,
+tak to pochopitelně genizi mělo.
+Jako začínali v nějaký
+hardwarový komunity
+dílně
+a pak byli někde
+v takovém jako
+řekněme v garážovém setupu.
+Ale už docela dlouho
+jsou v tom
+kanclu, který je mezi palmovkou,
+je to
+je to taková
+budova tam mezi
+trošku jakoby oldschoolovej setup.
+Je to zrenovovaný,
+ale původně to bylo, pravý kamarád mi pak
+říkal, že on tam pracoval taky v nějakých
+prostě na konci
+devadesátek tam někde působil.
+Tak Trezor
+nebo Satoshi Leps tu budovu koupili,
+zrenovovali a působíme tam.
+Taková ta část Prahy, já jsem tam
+teď byl v hospodě
+asi dva týdny zpátky, kde se
+pouří vevnitř.
+Ale oni z toho udělali nějak klub
+do nějaký desátý hodině.
+Teď jsem byl v klubu najednou, jsem si uvědomil.
+A jako už jsem úplně zapomněl, jak
+smrdí ty hadry.
+Takže je to zajímavá část Prahy.
+A ona je to hodně zajímavá část Prahy tím, jak se tam
+právě udělali ty IT komplexy,
+ten DOC a nebo
+celý ten pražský silikon velí toho
+Karlína Palmovky, tak já jezdím
+z letné tramvají, tak prostě
+na Palmovce vystoupí
+nějaká demografická skupina.
+A nastoupí úplně jiná demografická
+skupina. A já jdu ještě dvě zastávky
+dál, tak
+je to tam taková jako
+sférázná část Prahy, na druhou stranu
+má to i něco do sebe.
+Když jdeš prostě Karlínem
+o víkendu odpoledne, tak je to mrtvý,
+mrtvá část Prahy.
+Palmovka má co nabídnout.
+2047.
+To je pravda, to je pravda.
+No a když se vrátíme trošku k tobě, tak
+samozřejmě děláš teda hlavně frontend,
+říkal jsi, že i backend. A
+jsi tam jako pořád
+jako stoprocentní developer, nebo
+máš trošku na starost nějaký tým, nebo
+jak to vlastně dneska vypadá tvůj daily job?
+Vy se mi asi chcete zeptat, jestli ještě
+programuju.
+Já
+ano, já programuju a programuju
+teď asi jako nejvíc, co jsem
+za posledních deset let svý
+kariéry programoval a dělám
+to záměrně, protože mě to hrozně
+baví. A je to
+něco, kde jsem se teď zase jako
+našel po nějaký
+people managementu
+a tak dále. Takže jo, můj daily job je
+programovat, dělat code reviews,
+ale dělám zároveň se účastním
+hiringu, abych do toho týmu
+nový lidi nabral.
+A je to pro mě jako velmi
+příjemná změna.
+A to, že jsi dělal i to předtím, no.
+To, že jsi předtím dělal i nějaký
+people management. Přesně tak. Já jsem
+vlastně třeba rozjel
+pražskou pobočku Kiwi, což
+znamenalo ze dvou to
+na škálova třeba na 50 lidí,
+a tam jsem postupně
+už vůbec neprogramoval,
+a jenom jsem dělal hiring,
+one on one,
+z role nějakého principal
+inženýra, dlouhý porady,
+zepisování nějakých
+strategií. A upřímně mně
+hrozně chybělo to
+vidět za sebou nějaký jako
+hotovou práci nebo něco, jo.
+A když se teď jako zpětně
+promítnu, tak já jsem úplně
+cajk prostě 10 hodin v kuse
+programovat. Taková ta flow, kdy si dáš
+zpátka a víš, co potřebuješ
+udělat, hezky ti to odsejpá,
+uděláš si k tomu testy a máš z toho
+takovej jako tetelivý pocit kvality,
+tak to 10 hodinnou
+problém. Manželka prostě sice nasraná,
+kde jsi, až už jsi měl být dvě hodiny doma,
+nebo takhle. Před vymatněma.
+Jak říká Kato z Praga Unionu.
+Ale pak třeba jako pro mě
+tři hodiny nějakých porád
+a callů, já jsem z toho úplně vyflusenej
+a už ten den jako nezvládnu nic.
+Ale to je jiná myšlenková činnost, to jsme si
+vyzkoušeli při covidu, protože
+vlastně v 2020
+najednou prostě exploze těch
+callů a volání a najednou jsi zjistil, jak říkáš,
+že klidně vydržíš 8 hodin bastlit,
+ale 8 hodin
+si s někým telefonovat je úplně
+jako mentální effort.
+A zajímalo by mě, jestli vůbec kdy dorazí
+nějaká inovace v tomhletom směru, víš, jako je ten
+metaverse a budeme si volat s nějakýma
+braillema a je to
+zajímavá zkušenost, jak je to nezastupitelný
+ten fyzický kontakt, když chceš něco řešit,
+nebo jak vysilující je ten
+onlinovej kontakt versus
+to reální setkání.
+Tak pojďme na to, co ti dělá radost
+nejvíc, což v současné chvíli je
+Typescript.
+Jak bys ten jazyk, kdybys
+mi ho chtěl prodat, já ho teda
+samozřejmě znám, protože teď si s ním poslední dobou
+hraju kvůli Obsidianu a
+dělám si ten vlastní plugin,
+tak jsem si s ním hrál s Typescriptem
+po letech, protože si ho pamatuji
+v nějaké verzi 0 a něco.
+A byl jsem překvapenej, jak je to vlastně
+hezký jazyk, musím říct, za ty roky.
+Jak se jako, co tam všechno jde v něm.
+Jak bys to, co se tobě líbí na něm?
+Hele, mně se na Typescriptu líbí
+hlavně to, jak to ten Microsoft
+dokázal doručit. Jak
+je ta jemná hranice, protože
+ano, Typescript, řekněme si na začátku,
+Typescript, co přináší, jsou typy do
+Javascriptu, což teda
+historicky nebyl typovaný jazyk.
+A jsi nějakou PHPčko.
+Tak
+Typescript přinesl typy a
+ty typy přinášejí spoustu benefitů. Ty se
+zkrátka o nějakých chybách dovíš
+dřív, než to pustíš. A
+pomáhá to být produktivní, mít
+větší jistotu o tom, že to, co jsi napsal,
+funguje, jak má. Ale pro mě
+nejvíc fascinující je to, jak
+Microsoft vychytal
+ten mix toho
+developer experienceu, toolingu okolo.
+Protože pro mě první typy
+v Javascriptu nebyl Typescript,
+ale bylo Flow. Jo, jo.
+Flow byla vlastně
+věc od Facebooku, dneska
+meta. Byla,
+můžeme, jako
+o tom by se dalo spekulovat, ale podle mě
+v té době bylo Flow mnohem líp
+navržený z toho
+information technology
+pohledu. Bylo
+mnohem víc preciznější. A to taky
+znamenalo, že to mnohem víc prudilo. A bylo
+mnohem horší v tom jako něco
+Dělat správně. Dělat správně,
+otypovat to tak, aby ti ten
+compiler furt na něčem neřval.
+Typescript našel tu hezkou hranici
+mezi tím, kde to utnout, nebýt
+stoprocentně soundness, ale
+zároveň ti dal
+jako to good enough productivity
+a ten tooling s
+Visual Studiem nebo
+VS Codeem byl
+úplně ultimátní.
+Takže Typescript
+ta komunita adoptovala mnohem rychleji.
+Knihovny, který nebyly
+otypovaný, byly dřív otypovaný
+v Typescriptu a díky tomu prostě Microsoft
+totálně vyhrál. A je to
+i fascinující historicky,
+kde Microsoft byl a kam se dokázal
+dostat. To se mi na tom líbí.
+Samotný jazyk Typescript
+mě nějak
+nedojímá, nejsem
+nějaký jeho ultra fanoušek. Funguje skvěle
+a víc mě fascinuje
+to, co jsem popsal.
+To, jak se to podařilo doručit. Protože to je
+obecně vždycky zajímavé
+na těch technologiích sledovat.
+Byl tady Dart, nebo stále tady je
+Dart, který měl být Javascript Killer
+nebo něco takového. Neujalo
+se to. A když stál na začátku,
+jak tohle poznat na začátku? Je to už
+moc technických. Co tomu chybí, aby
+to prorazilo? To je jako fascinující věc
+v tomhle IT. A nepomohlo
+tomu i to, jak v současný
+době, nebo v době,
+kdy vlastně tlačil Microsoft Typescript,
+že tak nenápadně natlačil i frontendistům
+jako VS Code, což
+bylo z mýho pohledu zase
+něco nemyslitelný. Protože jestli byla
+frontendová komunita na něco háklivá, tak je to
+Microsoft. A on jim přines v době
+Atomu, jim přines prostě VS Code,
+který prostě byl dobrý.
+Jako vital.
+A oni to přijali naprosto
+jako na první dobrou, skoro bych řekl.
+Ano, tu zadarmo, který prostě fungoval.
+A fungoval o dost líp,
+že se vyplatila ta změna.
+Taky u toho se prostě, proč bys svičnul
+do jiného jazyka, když ti to přinese jenom nepatrné
+zlepšení. Tak zůstaneš v tom, kde jsi.
+A musíš najít tu kritickou hranici,
+že se vyplatí ta investice, která
+je vždycky oprus.
+Jsou asi nějaký extrémy lidi, kteří
+střídají jazyky každý půl rok, protože
+se to nějak baví. Ale já jako tíhnu
+používat to, co funguje dostatečně dlouho,
+než fakt najdu
+výrazný zlepšení, abych svičnul.
+No a u toho TypeScriptu se to povedlo.
+A chybí ti tam něco u toho TypeScriptu?
+Nějaká feature třeba, kterou jsi vydělal
+v nějakých jiných jazycích?
+Upřímně mi fakt nic nenapadá.
+A nepoužívám úplně nějaké advance věci,
+pár těch utility typu,
+vysvobu si něco z nějakého typu omyt,
+nebo to nějak spojím, union typy.
+Ale zase ano,
+nechci to používat moc do extrému,
+protože někdy se najdou
+takový ti typoví puristi, který
+otypujou všechno, až je to úplně
+nepoužitelný. Pak přesně
+něco napíšeš a hledáš přes
+Xpatter, kde jsi to rozbil.
+A v tom taky považuju,
+jako důležitě najdi nějaký balans,
+aby to třeba nebylo puristický,
+ale aby to plnilo svoji roli.
+A spíš
+píšeš objektově nebo funkcionálně?
+To je dobrá otázka.
+Myslím si, že vlastně React,
+to přineslo to, že ty
+píšeš hodně funkcionálně,
+ale vůbec o tom nevíš. A to mi
+přesně taky u toho funkcionálního programování
+přijde důležitý. To zase
+právě ten Facebook dal dobře, že
+funkcionální programování
+není úplně přístupný. To podle mě,
+když děláš code review
+a dostaneš pull request od nějakého
+funkcionálního
+ultras,
+tak na to čumíš a nevíš sakra, co to dělá.
+Ačkoliv je kolem toho ta mantra,
+že funkcionální kód je mnohem přehlednější.
+Ano, je to pár řádků. A ty si v těch pár řádcích
+můžeš zahrabat v nějaké definici
+teorie množin. To je taky, ty skripta na
+semestr teorie množin měly podle mě
+šest stránek a já jsem skončil v sluce první.
+Tam se mi začala vařit hlava
+a prokouzával jsem se
+tím dlouho. Takže výhoda,
+ano, já mám rád
+ten funkcionální přístup,
+ale viděl jsem spoustu funkcionálního kódu,
+z kterého jsem byl naprosto zoufalej.
+Ale jsou tam nějaké knihovny, které
+ještě tahají teďka dál. Já bych si předpokládal,
+že jo, ale... Je to tam, ano.
+Je hezká právě ta skriptová knihovna,
+která se snaží všechny
+ty monády,
+ktory tam dávat
+ve víc stravitelné formě.
+Ale pozoruju právě
+velmi nízkou míru adopce.
+Dan Steigerwald je kolem toho
+hodně aktivní. Dělá
+různý kolem toho
+workshopy nebo talky. Ale vidím,
+že lidi si to rádi poslechnou.
+Ale přesně tam není překonatelný
+ta hranice, abys do toho fakt
+investoval, abys to dokázal
+nějak incrementálně používat a abys
+tu prostě získal větší adopce. Tak mně
+přijde, že ten puristický funkcionální přístup
+je furt velmi
+okrajová
+záležitost.
+Přiznej se, máš tam ještě někdy
+nějaké eny? Nebo už to máš všechno
+otypované? Protože já jsem třeba došel k tomu,
+kdy jsem si teďka s tím hrál, že jsem,
+a to jsem, řekl bych,
+nechci říct funkcionální purista,
+ale typovej určitě.
+Tak jsem si tam, říkám, buď to teda jako
+tady se střelim do nohy
+a nedám to tam a budu prostě muset vytvořit
+nějakou prostě typovou jako
+šerednost, anebo tady dám v jednom
+lokálním místě eny a vím o tom
+a budu žít s tím dál, byť je tam
+nějaká nebezpečnost, ale sám jsem si to vlastně
+dokázal omluvit. Jak to máš ty?
+Někdy mi přijde,
+že by se eny mohl přejmenovat na nějaký
+I give up, nebo I'm sorry.
+I tried. I tried my best.
+Ale jo, nepoužívám
+to, takže když
+píšu novej kód, tak to mám
+jako vnitřně zakázaný, nebo
+radši použiju unknown
+a pak se to snažím teda nějak
+kásnout.
+Ale chápu to použití,
+když třeba jsi
+vystavený nějakýmu refactoringu
+něčeho legacy a chceš
+se s tím někam dostat. Jo.
+Přijde mi dobrý si to S-lintem podchytit,
+mý to vynucený, že to teda musíš
+aspoň tím komentem tam přiznat, že se jako
+explicitně tohleto použil,
+nějak to třeba dovysvětlit, aby ses
+k tomu mohl vrátit, buďme realisti, nikdy se k tomu
+nevrátíš.
+Ale máš tam aspoň tu
+omluvu.
+I tried.
+Ale jo, smysl to má,
+chápu, proč to tam je, ale
+u novýho kódu v CodeReview
+se snažím to pušovat, aby to tam nebylo.
+A dokázal bys teda
+ještě vůbec bez typů psát, máš pocit?
+Nebo už jsi tak jako
+zvyk? Myslím si, že bych to dokázal,
+ale myslím, že by to byl vlastně hrozně
+nekomfortní zážitek. Jako psal jsem spoustu
+javascriptovýho kódu bez typů,
+a o to víc jsem rád za ty
+typy. A asi bych
+se ptal, proč vlastně bych to měl
+dělat. Ten TypeScript umožňuje
+incrementálně to nasadit.
+Tak vůbec mě nenapadá, co bych,
+proč bych to dělal.
+Nic by mě to neulehčilo,
+neurychlilo.
+Pro mě jsou ty typy fakt zásadní.
+A že kolem toho je spoustu vždycky takový ty dva
+ostrovy na sebe stříle, jak
+jako vy jste pomalý, vy to všechno
+než to otypujete, my dynamicky
+si to uděláme jak chceme, ty zase na ně střílej
+zpátky, ale vy to máte blbě. Sice
+dřív, ale blbě. Tam se
+hodně pak postrádá ten element
+údržby nebo nějaký rozšiřování.
+Ty za dva měsíce ten svůj kód ani nepoznáš,
+nebo aspoň já tým jako trpím,
+protože tam do toho psál gitblam, ty vole, to jsem psal já.
+A ty typy toho hodně pomáhaj tohleto
+krotit, že? Tak jako jsou
+podle mě fakt užitečný.
+Kromě námi všemi vychvalovaného typescriptu
+se věnuješ
+i řekněme backendový části
+a tam jsi zmiňoval na začátku
+GraphQL především jako
+způsob apíček nebo způsob
+komunikace mezi frontendem
+a backendem. Možná teďka ještě pojďme k tomu
+backendu, tam teda píšeš taky v typescriptu
+tam nějaký node nebo tam jo?
+Jojojo, typescript a rád
+teď používám Fastify jako ten server,
+protože je krásně navrženej,
+zaměřuje se na performance a
+ano, typescript,
+backend, frontend.
+A když jsme zmiňovali teda GraphQL,
+co vím, tak vlastně ty už ho máš rád
+od doby kivy,
+že vlastně to byla taková tvoje jako
+aspoň tak jak jsi nám to říkal mimo natáčení,
+že to je prostě jedno z tvých hobby.
+Proč to máš rád? Proč je
+GraphQL pro tebe top choice?
+Protože GraphQL krásně řeší
+to s čím jsem se i potýkal
+historicky, když jsem dělal ty
+backendy, frontendy,
+když jsme to růbali.
+Velmi často prostě
+při tomhle vývoji těch webových aplikací narazíš
+na ten problém, jak dostat z backendu
+na frontend nějaký data. Klasický
+řešení, který se
+velmi adaptovalo, je restový API,
+ale to má nějaký svoje neduhy
+a GraphQL to elegantně řeší
+a díky tomu jsem
+se do toho tak nějak zamiloval.
+To, co podle mě GraphQL přináší
+úplně fundamentálně
+a navazuju na to, o čem jsme se bavili,
+je vlastně otypovaný API.
+To je podle mě ten největší benefit.
+To, že si tam pak máš nějaký
+query language, to už jsou jenom
+důsledky toho, že je to API otypovaný
+a ty už na tomhle můžeš
+stavět. Takže ty typy přinesly přesně to,
+že ty tam máš ty benefity toho, že
+ty víš, co ten server poskytuje,
+můžeš si z toho ty věci vyzobat
+pro ten frontend a nádherně
+to pak funguje s Reactem samotným.
+Tam nenáhodou
+GraphQL je taky jedna z invencí, která přišla
+z Facebooku stejně jako React
+a krásně to běží dohromady. Tak proč mě
+GraphQL baví, je, že to elegantně
+řeší problém, s kterým jsem se dlouhodobě
+potýkal a to je prostě
+ta komunikace frontend-backend.
+Já co si pamatuju,
+nebo vždycky jsem si myslel, že GraphQL
+vzniklo primárně pro mobily,
+nebo že řešilo ten problém s tím, jak verzovat
+APIčka mezi často releasovanými
+novými verzemi backendů
+na mobily a různými verzemi v jednu chvíli,
+protože na tom device to samozřejmě neovlivní,
+že jsi si to nainstaloval nebo ne.
+Je to pořád to verzování, je to jedna
+z těch velkých výhod, nebo
+už to vidíš teďka, že třeba v tom
+světě webu je to spíš
+právě ta typovost?
+Pro mě je to primárně ta typovost, ale ano,
+historicky to bylo takhle v tom Facebooku
+propagované, že oni měli úplné
+uváznutí celého vývoje na tom,
+že potřebovali
+podporovat spoustu verzí své mobilních
+aplikací. Mobil
+sice můžeš psát v React Native,
+máš tam tuto možnost,
+ale velká nevýhoda té platformy
+je to, že nemůžeš
+donutit uživatele upgradeovat,
+můžeš je k tomu motivovat, ale spousta lidí
+to neudělá, ten telefon
+už by to nestíhala takhle. Na webu ty
+prostě release než novou verzi a všichni v tom
+prožití mají tu novou verzi. Takže ty můžeš
+upalovat kupředu,
+dělat breaking changes, ty restový
+apy se s tím dají používat. Na mobilu
+tohle to nemáš. A jakmile děláš nějaký restový
+apy a máš tam nějaký field,
+který nějaká aplikace používá
+a škála toho Facebooku
+jsou prostě miliardy uživatelů, takže
+nějaká stará verze
+furt znamená desítky tisíc uživatelů,
+tak oni to museli podporovat
+a díky tomu se jim tvořil neuvěřitelný
+bastl toho apy, který
+musí furt být
+provozůschopný pro
+všechny tyhle aplikace. Já to
+považuju za
+super řešení, ale
+na mé straně já se s mobilníma
+s těmihle problémy na mobilu
+takhle nepotýkal. Ale ano,
+GraphQL řeší i tohle.
+Ale největší benefit já považuji
+ty typy, protože pak práce
+na tom frontendu je přesně o tom, že já když
+si na frontendu říkám o nějaký data,
+tak ještě než to spustím, si můžu nechat
+ověřit, že tam ty data jsou, že jsou
+tohohle typu, že je použiju v té
+reactivní komponente správně.
+Plus nějaká
+nullabilita, že nějaký data nemusí
+přijít, error handling,
+to všechno GraphQL hezky
+navržený, správně navržený GraphQL schéma
+tohle to řeší fakt jako pěkně.
+A je tam něco, co jde vyloženě blbě?
+Já si pamatuju, že jsme se jednou trápili
+třeba s uploadem souborů přes GraphQL,
+že když jsme dělali vyloženě prostě formulářovou
+aplikaci, kterou kluci chtěli v GraphQL,
+jsme říkali, není problém, ale pak
+vím, že tam byl nějaký jako
+fuckapík s uploadem. Může být,
+no, jako jsou na to řešení, že se prostě
+teda ten file přibalí k tomu
+payloadu, já to
+radši řeším tím, že se ten file
+uploadne do nějakého Temporary Storage
+v fozovkách nativně
+s nějakým restovým colem, ty dostaneš jenom
+identifikátor toho uploadu
+a pak ho pošleš jako stringový IDE
+s tím
+s klasickou nějakou GraphQL mutací,
+aby si to ten backend z toho Temporary Storage
+Jo, jakože tady ho má odkaz na něj, tady ho máš.
+Tady ho máš odkaz, řek se, případně vyhodň nějakou chybu.
+Je to podle mě lepší řešení,
+než to rvát jako uploadable
+do toho celého payloadu.
+A ty když designuješ
+na pozadí nebo
+na backendu teda to GraphQL,
+to je možná
+dobrý dotaz. Mně napadlo,
+kterým směrem jít, teda když ho budu
+designovat, dusměrem od klienta nebo dusměrem od servru?
+Já preferuju od klienta, no.
+Protože přesně i ta věc, jako ten
+clash toho, proč je tak těžký s tím
+restovým API komunikovat
+ten backend frontend, je, že prostě
+backendový vývojář má
+nějakou motivaci ten kód nějak mít
+a má o něm nějakou představu a ta je často
+velmi odlišná od toho, jak to ten
+frontendový vývojář potřebuje.
+Mně často se tam spálí na vysvětlování,
+proč bys měl mně nějaký,
+já nevím, cenu
+formatovat v tomhletom tvaru,
+když ony má ve svý SQL
+databázi uloženou nějak. A pro něho
+je to správně a je to OK, pro něho je to
+takhle správně, ale to použití na tom
+frontendu bývá jiný. GraphQL je
+krásná mezivrstva, kde se tohleto dá
+překlopit a já
+preferuju tvořit to GraphQL
+ne jakoby úplně podle designu, ale
+spíš podle domény toho, jak ten frontend
+funguje. Takže spíš jako
+takový jako domain driven design
+a to se u toho
+GraphQL schéma pak jakoby vyplatí
+i to, že ty ty
+ty ty frontendový komponenty
+tvoříš nějak
+a když to GraphQL schéma tomu jde
+naproti, tak se
+velmi minimalizuje potřeba
+nějaký ještě ruční práce s těma datama,
+když ti z toho GraphQL přijdou. Velmi
+velmi špatný, velmi typický použití
+špatně navrženýho GraphQL je, že
+tobě přijdou nějaký data a ty ještě
+přemapováváš, přeživěkáváš jině čeho.
+Aby ta komponenta s tím vůbec mohla
+pracovat. Takže to pak vede k tomu, že
+v podstatě na frontendu dělám takový ty
+task based UI, který teda
+odpovídají
+doménově tomu, co chci specificky
+udělat. Tak to GraphQL by
+mělo vypadat a takhle já bych ho měl vlastně
+poskytovat na back-endu. Jo.
+A zároveň přesně tam
+já i rád tvořím tu nějakou úzkou
+vrstvu tý GraphQL servisy.
+Já rád nechávám ten back-end dělat
+ten back-end.
+Pak udělám service,
+která jenom nějakým způsobem z toho
+back-endu ty data bere. Překlopí je
+do tý formy toho hezkýho GraphQL
+schématu. A tím, že
+to píšu v TypeScriptu, tak to všichni ti
+TypeScriptoví frontend vývojáři
+můžou i tvořit to GraphQL schéma.
+Jo. A ty kluci na
+back-endu, ať si dělaj, co
+chtěj. Jak to uznají za vhodný. A mně
+ať vystavěj třeba jednoduchý flat
+restový API nebo nějaký
+gRPC
+cokoliv, abych já
+si na ty data mohl šáhnout.
+Ale tu tvorbu, to samotný
+překlopení do toho schématu rád nechávám
+na těch lidech, který to reálně konzumujou.
+Tak to je zajímavý. Ty stojíš v podstatě někde mezi.
+No, no, no. Jak jsem dělal
+back-end i front-end, a můžu o sobě
+říkat full-stack, tak já víc jako jsem
+ten full-stack
+potok GraphQL. Jo, jo, jo.
+Plus komplet front-end. Takže když...
+Jo, promiň. Tam jsem fakt jako historicky viděl
+největší zádrhely na vývoji, když
+něco nešlo. Prostě trvá to. Kluci, proč vám
+to tak trvá? No, oni nám dali takový restový
+API a my se s tím tam trápíme.
+Proč jste jim dali takový restový API? Protože podle nás
+je správně. Tím
+GraphQL to nádherně odpadá.
+Takže když navrhujete třeba
+strukturu databáze, tak
+ty jsi tam ten, který to propoluje, ty dva
+světy, nebo jak to tam probíhá?
+Hele, já třeba do struktury
+databáze vůbec nemusím mluvit.
+Já spíš jim řeknu,
+jak bych chtěl ty data vystavit. A já
+si třeba z tý GraphQL
+vrstvy vůbec nechci do databáze hrabat.
+Já jsem radši, když
+mi někdo dá nějaký API, protože
+z důvodu třeba nějaký bezpečnosti, anebo
+jiných jako
+datových, modelových věcí,
+je dobrý, když se ty věci validujou
+na backendový servise.
+A ta GraphQL, ať je tenká vrstva, netáhá
+se tam žádný práva,
+žádná autentizace. Ať se to všechno řeší
+i na tom backendu. A ta GraphQL,
+ať to jenom překlápí do toho
+schématu.
+Když jste řešili tohleto pro Trezor,
+jak jste třeba určili, jaký
+typy dát, jaký dotazy tam budou?
+Udělali jste to klasicky tak, jak
+popisuješ, že jste nejdřív vznikly obrazovky,
+vznikly use cases a podle toho vznikly ty schémata?
+Víceméně jo, ale jakoby ta práce
+na Trezoru, Trezor.io je teď taková,
+že tam historicky GraphQL je
+a je implementovaný v PHPčku. Backend
+toho webu, toho shopu
+je PHP. A to poskytuje
+GraphQL schéma. A to přesně
+nevyhovuje těm potřebám, jak my bysme
+to na tom frontendu chtěli. Takže
+já teď, jedna
+z mojich činností je dělat tu GraphQL
+servisu a zároveň se s klukama
+na backendu domluvit, aby o nimi poskytovali
+data těma jednoduchýma
+restovýma apy. A
+odcházíme od jednoho
+schématu do druhýho. A na tom
+je jako hezký vidět to, jak to
+pomáhá, jak to najednou
+na tom frontendu znamená mnohem méně práce
+a jak je to efektivnější činnost.
+Než nechávat to schéma dělat ten backend.
+A to, jak to schéma děláme,
+fakt jako odpovídá prostě z figmy.
+Se vezmeš, jak si to ty designéři představujou
+a už víš, že tam máš nějaký
+produkt, nějaký entity,
+který přirozeně dávají v té doméně
+toho e-shopu nebo té knowledge base
+smysl. A to GraphQL tomu jde naproti.
+A hezký je to, že já to nemusím
+vystřihnout na první dobrou dokonale.
+Výhoda toho GraphQL je, že já si tam
+nějaký field nebo entity
+přidám, jednu jinou
+deprecate a nemusím ji používat.
+Automaticky vím o tom, že už ji někde v tom kódu
+třeba nemám.
+Ale tady vy děláte vlastně postupnou
+migraci, jestli to správně chápu.
+Že jedno krásného dne se to horší
+GraphQL odřízne a zůstane už to hezký.
+Na to se přesně těším.
+Ok.
+Řešili jste ještě ohledně GraphQL nějaký
+řekněme výkonový fakapíky
+nebo nějaký problémy tohle typu,
+že jo, klasika, řeknu si
+tuhle property, ta je na QN, na ní si
+řeknu tohle a už mi krásně jako
+půl karta máte.
+Protože mám čerstvou vzpomínku, možná to
+ještě naťukneme, my jsme teď minule
+jednou vydali nový produkt a kolem toho
+byla hodně jako stresující
+situace to všechno stihnout, release-nout
+včas. A přesně to
+GraphQL, takový drobnej fakap, který jsem
+si tam udělal, říkal jsem si
+jo, hezký funguje mi tady ta
+GraphQL vrstva, komunikuju se s tím
+restovým API, co tam očekávám
+velkej load, co tam dát nějakou cache.
+Přeci jenom já nepotřebuji
+ten backend provolávat při každém
+tom GraphQL requestu, dám se tam nějakou
+cache, protože některý ty
+requesty můžu krásně cacheovat do Redisu.
+No a dělal jsem to na poslední chvíli,
+s nejlepšími úmysly jsem do toho šel
+a nedošlo mi,
+že to připojení do toho Redisu vytvářím
+při každém requestu.
+Já jsem si tam prostě
+blbec.
+HOLD vytvářel připojení při každém
+requestu, my jsme to release-li den předem
+před velkým Big Bang release-em.
+Takže ono to pěkně běželo, cacheovalo se to,
+ale ten load byl malej, takže
+Takže jsi to nepoznal. Takže jsi to nepoznal, že vyžíráš
+připojení té Redisové instance.
+No a když přišel ten velký load,
+hoši, Redis chcípl.
+Oni to má deset tisíc připojení, jak to mohlo chcípnout.
+No a v té stresující
+krásné chvíli, kdy už všechno má
+být, my jsme tam měli naštěstí jako nějakou
+service page
+během toho talku, aby se to jako
+release-o a takhle, tak jsme prostě zjistili,
+že se nám ten service kolabuje,
+ten Redis, že kolabuje.
+No a poslední, co tě napadne,
+že bys vytvářel jako připojení
+při každému connectionu,
+tak jsme hledali chybu různě,
+panika, že budeme
+ten Redis mockovat v memory
+ty grafky, prostě debilní,
+prostě řešíš ve stresu.
+Naštěstí jsme na to včas přišli,
+že se to tam, tak jednoduchý prostě
+reuse toho připojení
+a release-o se to
+a za pět minut bylo jako hotovo.
+Ale ten stres, teda,
+ten je ještě ve mně teď.
+Takže to je zrovna příklad,
+kde jsem prostě si jako
+nějakou performance řešil,
+ale jinak v principu tím, že se snažím tu servisu
+grafky od vrstvu dělat
+velmi tenkou
+a cacheovat.
+To, co cacheovat je.
+Tak extra, extra tyhle ty věci
+nepozoruju. Používám data loader,
+ale na to řešení toho,
+že něco v seznamu musíš requestovat
+víckrát, tak data loader tohle to řeší
+podle mě zase velmi elegantně.
+Tak jsem s tím docela spokojený.
+A když GraphQL jsme se bavili,
+začal s verzováním různých verzí mobilů,
+tak kam máš pocit, že směřuje teďka?
+GraphQL?
+Já spíš jako pozoruju, že GraphQL
+směřuje na ty backendové straně,
+k takovým jako fundamentálním rozdílům.
+Hodně se řeší
+spojování
+menších GraphQL servis do větších,
+říká se tomu GraphQL federace,
+aby jako ty backendové týmy
+každý dělal nějakou část toho grafu,
+ono se to nějak slepilo a ten frontend měl
+jedno velký schéma,
+versus dělat to
+a dávat i na tu vrstvu
+toho GraphQL různou autentizaci,
+permissions a tyhle ty věci,
+versus dělat to víc jako
+tenký. Já právě
+té federaci moc nefundím, zažil jsem to,
+moc to nefunguje přesně z toho důvodu,
+že ty necháváš to schéma dělat lidi,
+na backendu a pro ten frontend
+to není optimální a zároveň
+jako hodně věcí se děje až v runtimeu,
+nebo to musíš nějak stageovat, že si teda
+na nějaký preproduction to schéma slepíš,
+zjistíš, že to funguje, nebo to někde krešlo,
+ale v principu ta federace
+je podle mě hodně překombinovaný
+řešení, který jde
+trochu proti principu
+toho, jak by se to GraphQL dalo dělat.
+Ale chápu tu motivaci, máš velký
+backendový týmy, ty mají svoje domény
+a chtějí tomu backendu něco dát,
+tomu frontendu dát
+to GraphQL schéma.
+Myslím si, že je na to jako lepší řešení.
+V PyDrive jsme ho zkoušeli
+aplikovat a bylo to o to zábavnější,
+že jsem se dostal jako k psaní
+kodu, který teprve píše kód. Podle mě
+se ta GraphQL vrstva dá generovat.
+Ty nemusíš nechávat ty
+backendiáky dělat to schéma,
+ty je můžeš zase nechat poskytovat to, co
+oni, to čemu rozumí
+a považují za správný, různý restový
+a jiný API.
+A zároveň chceš nechat ten frontend
+nějak smysluplně popsat,
+co oni chtějí.
+Tak jsme zkoušeli to, že ty si teda v nějakým
+konfigu popíšeš to schéma, řekneš
+tady je ta entita D z této
+mikroservisy, tímto
+restovým API
+a díky nějakým toolům, které
+kolem Javascriptu jsou vlastně
+k dispozici, šlo tenhle
+konfig překlopit do typescriptového
+zdrojáku, na který se mohl poslat
+zase všechny čeky, typové
+kontroly a až tenhle zdroják
+pustit. Ale já jsem reálně ten zdroják
+generoval. Já jsem ho generoval a tím jsem
+vlastně byl schopen dělat federaci.
+Víc backendových
+týmů mohlo poskytovat API.
+Frontend dostal jedno single
+schéma,
+ale nebylo to psaný ručně.
+Jo, ale mohl jsi do toho furt skočit, ne?
+Mohl jsi do toho skočit, mohl jsi udělat nějaký plugin,
+který část toho vygenerovaného kódu
+pozměnil, ale nemusel jsi
+jakoby nechávat celý,
+celou tu, celý to schéma psát ten
+backend, ještě aby se to pak sešlo
+s jiným backendovým schématem.
+A zaklaplo to do sebe v té federaci.
+No my bysme si mohli o těchto věcech povídat
+ještě jako hodiny a hodiny.
+Akorát teda bohužel, jednak koukám
+na hodinky a druhá věc, s kterou se chci posluchačům
+omluvit, protože my většinou jsme na ten
+zvuk pintlých, ale tady vedle neby
+my si otevřeli novou zubařskou ordinaci.
+Vypadá to, vypadá to, ale maj pořádnou teda.
+Pořádnou vrtačku, protože to je vrandál.
+Já doufám, že vy si toho nevšimnete,
+milí posluchači, to neuslyšíte, ale
+mě to tady úplně irituje. Takže
+pomalinku jdeme, jdeme k závěru.
+Takže teďka
+v nejbližší době, co tě čeká?
+Zůstáváš pořád u svýho
+kódu, pořád prostě
+TypeScript, GraphQL, pohodička.
+Deset tisíc připojení
+do Redisu.
+Čekají nás i nějaký
+nový produkty v Trezoru, které
+budou čistě softwarový, na to se
+moc těším, ale nemůžu o nich vůbec
+mluvit. Jasně. Ačkoliv už
+mě hýrujeme.
+Ano, chtěl bych se trošku
+jako ukojit svoji nějakou
+svoji puristickou dušičku na tom,
+že bych chtěl překlopit ten Trezor
+I.O. do takový jako referenční
+implementace, jak to GraphQL
+a React
+a Next.js dělat správně.
+Jestli to výhledově
+dokážeme i opensourcenout,
+toho bych byl rád.
+A chtěl bych teď ano dlouhodobě
+víc být prostě v tom kódu.
+Jasně. A zároveň jsme se bavili
+před natáčením, že
+provozuješ
+takovou jako osvětovou činnost.
+Tak chceš nám o tom něco říct?
+Mimo kolem.
+Když můžu, tak dám nějaký talk.
+Rád se podělím o
+to, co mně přišlo zajímavého.
+Byl bych rád, kdyby mnohem víc lidí toto
+dělalo. Souhlas.
+Nevím, proč to moc takhle...
+Ano, já chápu. Není to jednoduché.
+Je to stresující situace. Na druhou stranu
+Open Source
+větším tomu zahodně. Používáme
+tooly, které by bez Open Source
+nebyly. Tak mi to přijde
+jako užitečný zkoušet
+dávat něco zpět.
+Přispíváš i zpátky
+do Open Source, jak jich maintainuješ? Jako minimálně.
+Ale třeba bych chtěl zmínit, zrovna
+u TypeScriptu je hrozně pěkný, když
+najdeš nějakou knihovnu, která není otypovaná.
+Uděláš pull request do těch
+typů. Jak oni mají promakanou tu flow
+toho pull requestu. To je
+hrozně inspirativní.
+Z toho se můžu považovat za svůj úspěch, že jsem
+teda přispěl nějakým typem do TypeScriptu.
+Ale ne, nejsem
+nějakej takovej jako hardcore Open Source
+contributor.
+Na druhou stranu přijde mi užitečný i nějakým
+drobným, i když třeba si čtu nějaký
+readme a vidím tam chybu, tak jim prostě
+ten odkaz nějakej nefungující
+nebo nějakej překlep prostě pošlu.
+Je dobrý mít to trošku zažitý.
+Nemít trému, že píšeš do nějakýho velkýho
+projektu a děláš jim tam pull request. Oni
+na to řeknou.
+Takže přednášky nějaký dělám.
+Dělal jsem jich mnohem víc, ale
+zase už nemám teda tolik
+akčních novinek, ale když zrovna nějakou budu mít,
+tak většinou na Prague.js.
+Nebo nějaký back-endisti jsem taky dělal.
+Když je to prostě kolem
+TypeScriptu, back-end, front-end,
+tak se rád o něco podělím.
+Nevím, kdy tenhle ten díl vyjde,
+ale jestli to bude 31.
+Já ti řeknu, kdy vyjde. Teďka nám vyšel
+16.
+Včera, protože my točíme 17.
+Takže 30.
+Tak bych rád posluchače
+pozval na
+Má trezor má právě 31.
+Což je úterý.
+Což snad krásně vyjde.
+A je to právě meetup kolem
+našeho novýho produktu.
+O tom, co je za tím vývojem.
+Všechno, tak pokud někoho zajímá
+to, jak vlastně ten hardware vzniká,
+tak v kasárnách Carleen bude
+meetup v úterý.
+Asi někdy tak od těch 6-7.
+Najděte si to na Eventbrite.
+A určitě přijďte.
+Super. Paráda, paráda.
+No tak budeme tě Michale přát, ať se ti daří.
+Ať se ti hezky kóduje v Trezoru
+nebo kdekoliv jinde tě to bude bavit.
+Tak jako tě to v Trezoru baví.
+No a my se zase
+takhle, vypadá to, že bysme
+zase mohli dát druhý díl, když vidím, kolik
+jsme se toho nezeptali. Ale to mám pocit, že máme
+vždycky. Máme tady zajímavý lidi.
+Tak jo Michale, moc díky, ať se daří a zase někdy.
+Děkuju, mějte se. Měj se, čau čau.
+Čau.
+Tak to byl Michal Sengr
+z Trezoru. Teď jsem si vzpomněl,
+jak se mluvilo o tom
+J Open Space, tak jsme si byli s klukama
+ráno zaběhat a oni
+se zastavili asi párta pěti lidí a říkali
+hele, můžeme se ti na něco zeptat. Říkám jasně.
+Vy jak vždycky na konci
+točíte takovou tu
+to samery toho hosta.
+Nenapadlo vás aspoň jednou
+třeba říct, že no tak dneska ten host
+stal pěkně za hovno?
+A já jsem jim řekl, kluci,
+tohle vyřešíme spolim po každý,
+co tam vlastně budeme říkat.
+Už to je takový náš jako tady vnitřní mem.
+Tak už to odhalili.
+Tak to je hezký, že se do toho vžijou, že si říkají,
+co tam asi taky říkají.
+Tak co vlastně dneska budeme říkat?
+No my si vždycky děláme prdel, že to bylo úplně jiný a tak,
+ale tohle bylo úplně jiný. Co si budeme povídat?
+Je to pravda. Bitcoin jsme tady neměli,
+GraphQL možná,
+když jsme si to tady dotkli,
+tuším s Borkem. To jo, to asi jo.
+TypeScript možná takhle dohloubky
+jsme neměli.
+Takže za mě zase... Dali jsme si i bitcoiny.
+Takže vlastně jsme to podle mě na Michala
+docela vystřelili, že my vždycky posíláme
+nějakou představu, o čem se budeme bavit. A tohle tam nebylo.
+Ale je vidět, že Michale je zvyklý o tom.
+Takže moc díky a děkuji ještě jednou
+Milošovi, Lukajičkovi za dodání
+fakt fantastickýho hosta.
+Tak jo, tak máš tam
+ještě někoho? Uvidíme, no.
+Hele, něco seženem. Jinak mimochodem
+příští díl bude poslední
+v sérii a bude 42.
+Takže jsem si říkal, že
+kdybychom někdy chtěli skončit,
+tak vlastně číslo 42 s odkazem na
+stopořové průvodce, bylo ideální
+číslo, když se na to vyprdnul.
+Tak si to dnes projídla vodou příště.
+Promyslíme to. Přátelé, mějte se krásně
+a slyšíme se zase brzy.
+Čau.

@@ -1,0 +1,2706 @@
+Pod vocasem.
+Pod vocasem.
+Pod vocasem.
+Pod vocasem.
+Krásný den, milí posluchači,
+vítejte u posledního dílu šesté série,
+čili u legendární třicetšestky
+vašeho oblíbeného IT podcastu
+Pod vocasem, no a samozřejmě
+i v posledním dílu, zatím poslední série,
+nesmí chybět naproti mě sedící
+Petr Polipolák.
+A nesmí chybět ani Roman Joker provazník,
+kterého jsem, přátelé, neviděl snad tři týdny.
+A furt je to stejný, ne?
+Ne, je to lepší.
+Vždycky vidím radši, jak vidím i jiný lidi,
+tak si uvědomuji o tvojej kvalitě.
+Děkuji, děkuji, děkuji. Tak jak bylo?
+Bylo to hodně busy.
+Já jsem rád, že tady sedíme
+i důkaz toho, že se dostáváme
+zase do nějakého standardu.
+Jo, že zase normálně chodíme do kanceláře,
+nejsme na letištích a tak dále.
+Takže ty jsi cestoval, já jsem byl taky,
+já jsem byl na Lambda Days v Krakově,
+užili jsme si Polsko famózně.
+A vlastně ve spojitosti
+s funkcionálním programováním tady mám
+pozvánku na dnešek,
+protože pak, když si to posluchači
+pustí tento díl za čerstva,
+jak se tak říká, to znamená
+den, kdy vyšel, nebo vyjde,
+26. června,
+tak pořádáme společně
+s Tomášem Petříčkem, kterýho jsme tady měli,
+společně s klukama z
+Microsoftu, z praský pobočky,
+ale vlastně nás podpořil i
+velký Microsoft z Redmontu, pořádáme
+F-Sharp Conf, což je online
+konference, která
+začíná někdy, když se koukáme na ty časy
+ve tři odpoledne našeho času
+a potáhne se až tuším
+do deseti do večera
+a budou to online přednášky
+půlhodinový na různý téma,
+všechno samozřejmě ve spojitosti se F-Sharpem,
+ale začínáme tak klasicky
+v T-Time zóně, aby
+řekněme Jižní Korea, kde jsme to vždycky
+vykopávali, tak aby se štěstí hliv
+než si půjdou lehnout připojit a aby to
+končilo v době, kdy se stává v Seattleu.
+Budeme tam mít fakt zajímavý jména,
+těším se na to, je to úplně zdarma,
+takže mrkněte na www.fsharpconf.com
+a
+myslím si, že to, co se tam nabízí
+celý den, jsou naprostý pecky,
+včetně třeba mýho
+oblíbence, který je schopen
+mluvit o funkcionálním programování,
+i třeba prosí šarpisty velmi jako otevřeně
+a to je Mark Seaman, což je člověk
+z Dánska, velká ikona, i takovýhle
+lidi tam budeme mít, takže zvu.
+Hezky, pěkně. Hezky, pěkně, tak to jsem vůbec
+nevěděl, že něco takovýho děláš, ty to taky
+vidět, že jsme se dlouho nevěděli. No, no, no, ale tak to byla
+taková jako nárazovka, my jsme to dělali před třema
+rokama, když byl COVID, 2020, a to jsme
+vysílali každej opravdu
+z domova, prostě ze svých jako pracové
+a obýváků
+a nedávno se mi právě Tomáš Petříček
+ozval a říkal, hledá, tak neuděláme to zase,
+teď jsme to dělali, už to je pár let,
+ne, říkám, no, to jsou tři roky, Tomáši, no, tak jsme to
+teďka vykopli, zorganizovali,
+teď to samozřejmě honíme, protože v době, kdy to natáčíme,
+je středa, je to za pár dní,
+ale snad to
+dopadne dneska dobře, no.
+Hezky, ty si mezi tím střihneš ještě jednu konferenci?
+Já si mezi tím ještě střihnu, vlastně
+to je hrozný paradox, protože
+ty posluchači se to poslouchají, tak to už je
+konference, která už je pryč,
+která proběhla ze čtvrtka na pátek,
+nebo ve čtvrtka v pátek, to jsou ty naše devtalks,
+který pořádáme
+ve Zlíně, a
+pak už se kamaráde těším,
+budou dovolený a už nechci vůbec
+nic slyšet, vidět, kompy
+zacvaknu, vlezu do moře a
+nikoho neznám. Úplně tě rozumím, tam to ze sebe
+smeješ. Tak, smeju ze sebe
+ten prostě IT henus.
+A vracíš se zpátky do procesu.
+Jo, jo, je to tak.
+No, pěkně jsme se rozkecali,
+pojďme na dnešního hosta, kterým je
+Honza Novotný, což i pro mě
+jako pro člověka, řekněme, z dotnetovýho
+podhoubí, tak je osoba,
+kterou znám. Je to takový, jak
+ty si sám, vím, tady mimo nahrávání
+řekl, je to Jaromír Jágr
+Javy, a přijde mi hrozně cool,
+i kdyby se nakrásně stalo, že tohle bude
+už opravdu, ale navždy poslední díl našeho
+podcastu a zavíráme,
+tak my jsme vykopávali první podcast,
+nebo první díl podcastu Forkama
+o Javě, a teď ho vlastně Javou
+bychom uzavřeli, což si myslím, že by bylo úplně
+jako geniální. To je nádhera, to by nevymysleli
+ani v Hollywoodu.
+Krásný takový ten oblouk
+a jsme zpátky, takže Honza Novotný
+dělá toho strašně moc, J Open Space,
+dělal Café Mlejnek TV,
+je to obrovský Javista,
+pokud znáte FG Forest,
+jeho firmu, která myslím,
+je na Pardubicku nebo na Hradecku, to zjistíme,
+já teď si nesu úplně jistý,
+a navíc ještě dělají novou databáze
+speciálně pro e-commerce, takže těch
+věcí, který budeme řešit, je strašně moc
+a já teď koukám, že už jsem měl být minutu dole pro něj,
+takže já jdu pro něj,
+ty to připrav, dolej mu vodu, všechno,
+ať je to parádní, protože pak, když je tady má být
+Javička, tak musí to být
+a bude.
+Do studia dorazil náš dnešní
+host, Honza Novotný, ahoj Honzo.
+Ahoj. Ahoj Honzo.
+Zatímco já jsem tady protahoval ten svůj úvod,
+že ty jsi jeden z mála lidí,
+řekněme, z té druhé komunity,
+který znám už roky podle jména,
+jsi velkej, řeknu,
+Javista, velká osobnost Javi,
+a samozřejmě taky J-Open Space a těch dalších věcí,
+k tomu se dostaneme, ale řekni nám
+aktuálně, co vlastně děláš,
+jaká byla tvoje cesta do IT, takový ten klasický úvod.
+Jo, jo, díky.
+Ale já jsem za nějakou moc velkou postavu
+jako nepovažuju, jo.
+To spíš mě překvapuje,
+že u mě vůbec jako se vidí
+v tý dotnet komunity, že jo, ze který jste
+asi vy rekrutovaný. Románek.
+Tak já dělám v FG Forest,
+už je to teda pomalu 15 let,
+možná přes 15 let.
+My děláme e-commerceový věci,
+vlastně dřív jsme dělali webovky,
+děláme, já nevím,
+pro chess, pro hrát, pro kooperativu
+a tak dále.
+Takže to je moje současné zaměstnání, no.
+No a jak začaly Foresti?
+Ty seš, je to vlastně si součástí,
+ta firma je tvoje, ne? Nebo seš...
+Ne, ne, ne, ani než jsem zakládající,
+já jsem tam nastoupil, já nevím, myslím, že po pěti sedmi letech,
+oni vznikli v devadesát osm,
+já jsem nastupoval, tak po deseti,
+dva tisíci sedmi jsem nastupoval.
+Tak to vidíš, kdyby se mě někdo ptal, řeknu FG Forest, to je Honzy,
+to je jeho firma, no protože to je tak spojený dohromady,
+že já si třeba myslím do teďka, než mi z toho vyved,
+že jsi spolumajitel firmy.
+No, jsem tam jako takový inventář.
+Jo, jo.
+Takže, jak ses tam dostal?
+No, hele, já jsem původně dělal v nějaký pražský firmě
+Corpus Solutions, ty dělali pro státní zprávu,
+takže tam jsem potkal třeba
+obchodní registřík nebo sbírku listin a tak,
+ale oni ty zakázky
+pro státní zprávu jsou složitý,
+co si budem povídat, já jsem chtěl dělat
+něco, co třeba tak často neskončí v šuplíku,
+nebo prostě budem mít trošku
+větší dopad, no a v tu chvíli
+mě vlastně oslovil
+Kamil, přímo jako, což je majitel
+Forresta s nabídkou,
+abych tam zakládal hradeckou pobočku,
+kterou otvíral v té době, takže
+takhle jsem se tam dostal. A to je kdy?
+Zhruba? To je ten 2007, no.
+2007. Tyjo, tak to už je
+nějaký pátek. To jo, no, já jsem ani nevěděl,
+že Forresti jsou tak dlouho na trhu,
+přímě řečeno. Já jsem viděl, že už to je
+trošku jako fousatý, ale
+vlastně nevím, že byl úplně
+u začátku a vlastně vy jste se docela jako
+rozbublali po republice, ne?
+Ano, to bylo na začátku grafický studio, jo.
+To prostě vůbec, ale
+vlastně s nástupem internetu,
+s těm interaktivním CDčkám, který poháňali
+ty obrazovky s prezentacemi
+všude, tak začalo být jako
+zajímavý dělat i malý webový prezentace
+a to byl vlastně ten začátek, jo.
+Ty, jak řekl grafický studio, úplně teďka takový ten
+jako flashback. Říkám si v hlavě,
+existuje ještě DeviantArt,
+což byla úplně stará jako webovka,
+kde ty grafický dizajneři
+flexily ukazovali ty svoje věci.
+Musím si to... Dneska je to Midjourney
+a ty tam napičeš... Jo, jo, jo.
+Dneska už je to jinak. No a prosím tě, jaká teda byla
+tvoje cesta před Forestem do IT?
+Jak ses k tomu vůbec jako dostal?
+No, hele těžce.
+Tak, že jo,
+už jsme přece jenom fousatý,
+tak já jsem, moje první setkání bylo
+vlastně na střední škole, když jsem za
+přijímačky dostal od otce
+tenkrát PCčko
+286, ale ATčko
+s turbem, takže...
+Ale... To tlačítko měnilo všechno.
+Přesně tak. To bylo hned
+dvakrát rychlejší.
+A v té době já jsem vlastně
+byl ještě nepolíbený, protože já mám
+obchodku, já vůbec nemám
+ty začátky s IT.
+Ty jsi taky z obchodní akademie. Já mám obchodku, no.
+Tak si můžeme zaučtovat v klidu, v pohodě.
+Už bych asi moc nezaučtoval. Tak jo, to jsem nevěděl.
+To jsem nevěděl.
+Jsi šel z obchodní akademie. Já jsem šel z obchodní akademie
+do Hradce na informatiku a hrozně
+účetnictví se nikdo nebral. A já ještě
+v hlavě věděl, že jsou 5,10 pořízení materiálu
+předním, tyhle jste prostě kraviny, prostě
+účty. A mě vlastně
+podvojní účetnictví mě bavilo. Nedávno jsem
+k tomu zpětně došel, že celý event z Hrosinky
+je jako podvojný účetnictví, jakorá fajtí.
+Tak jsem si říkal, to je jasně.
+Jako pět kreditů, pojď. A ještě jsem
+na tom hrozně levěl. Tak ty ve 36. díle
+já si tady dozvím takovouhle věc. No tak to máme
+úplně vlastně stejnou historii, protože já jsem pak
+právě šel až na informatiku
+na UHKčku. No tak to je. Vlastně úplně stejná
+cesta. Akorát teda ty máš
+kdy jsi začínal na UHKčku?
+Či jo, či jo, já jsem tam šel
+2004, tuším, jsem nastupoval.
+Ne, kecám, to jsem končil.
+2001 jsem nastupoval na UHKčku.
+Jsme se museli skoro potkat.
+Vy jste spolužáci nakonec.
+Ne, teď jsme to zase návistili.
+Myslím, že 98 nebo 99 jsem tam nastupoval.
+No tak to jsme se možná museli
+překrýt, no. To vidíš, to jsou
+nehořitelné věci. A proto dělám podcast.
+A už se dozvěděl zajímavý věci.
+Čechy jsou malý, navždy.
+Je to tak, je to tak. Takže zdravíme
+naši almamater. No takže ty jsi teda
+šel na UHKčko, potom mě zajíma
+ještě o to víc a pak teda už jsi řekl
+a jdeme na UHKčku. V té době už se dělalo na UHKčku
+si dělala Java? Nebo do nás tlčili
+Delphi? Ne, ne, ne. Pascal. Já jsem dělal
+Pascal. Vlastně já jsem byl ještě, začínal jsem
+na té staré budově, na nábřeží, které potom
+otvírali tu novou,
+co je teď u nemocnice.
+No a tam byl Pascal,
+že jo. Na začátku tam vůbec myslím,
+že Java v té době nebyla. Já si taky myslím právě.
+A jak se to stalo k Javě teda?
+No já jsem
+ve čtvrtáku začal dělat právě
+v korpusu a tam
+teda oni začínali
+s Javou, nicméně oni tam měli
+takový jako jazyk čtvrtý generace, který
+se psal v XML a překládal
+se do Javy, která se pak překládala
+do bytecodeu.
+Umíte si představit, co to bylo za Bengál?
+Navíc Java v té době
+taky nebyla zrovna jako nejrychlejší,
+takže my jsme to měli ještě jako
+o jeden level dál.
+Ale pak už to bylo neunostný,
+takže vlastně po pár letech jsme
+sešli přímo do té Javy, takže tam jsem k tomu čuchnul.
+A pak ses teda dostal k forestům
+a tam seš až do teď.
+Jo, jo, to tak.
+Než se dostaneme ještě k tvým dalším aktivitám,
+musíme udělat takovou jako odbočku, protože
+ty kromě toho, že teda, jako myslím IT
+aktivitám specificky, že ty vlastně
+ještě děláš jako
+J-Open Space, což je
+konference, nekonference, ono se to vlastně jmenuje
+nekonference. Proč se to, co to je
+a proč se tomu říká
+nekonference, když je to taková vlastně konference?
+Jo, jo, ale já bych řekl, že možná
+je to vůbec jako nejstarší konference
+v Čechách, jo, nebo jedna z nejstarších,
+protože my máme letos čtrnástej ročník
+a já, co jsem se tak jako rozdížel
+okolo, tak není moc jako
+konferenci, který mají čtrnáct let,
+jako čtrnáct ročníků za sebou, no.
+A on to tenkrát začínal vlastně
+Michal Šrajer z InMightu, že ho ty potom
+koupil Avast a ten dělal, myslím,
+první dva ročníky, jo.
+A on to původně koncipoval trošku jako
+maličko litářskou akci, že
+on vlastně oslovil tenkrát
+lidi, který byli nějak jako vidět. Já jsem
+tehdy psal blog, takže jsem
+naštěstí byl zařazenej mezi ty vyvolený
+a mohl jsem se tam
+dostat, tak to bylo jako zajímavý.
+Pak to mělo nějakou přestávku
+a pak to jako
+bylo osyřelý, víceméně
+ta konference. Myslím, že jeden ročník
+pořádal fil, na tom jsem nebyl.
+Jasně. A pak, když už to vypadalo, jako že by to
+zaniklo, tak jsem říkal, to je škoda,
+protože to bylo jako výborná událost,
+no oni se tam vždycky sešli úplně jako
+neuvěřitelně chytrý lidi, takže to potom
+vždycky jiskří ten víkend.
+No a tak jsem prostě vzal to žezlo
+a začal jsem to pořádat já, no.
+Takže první asi
+tři ročníky, nebo vlastně potom obnovení
+tři ročníky jsem dělal čistě já
+a potom mě naštěstí pomohl
+Zdeněk Henek, takže teď už
+to děláme ve dvou, on už řekl by, že
+i větší část než já
+a díky tomu se to dá, no.
+No a co se obsahu týče, tak je to o Javě, nebo
+je to tak jako více vůbec? Ještě jsem nevysvětlil
+vlastně ten termín nekonference.
+Nekonference je to o tom, že
+ten program
+se dělají ty účastníci sami. Je to prostě
+takový trošku punkový,
+ale má to svý kouzlo, jo.
+Jednak
+je každej v tom nějak jako osobně
+zainteresovaný. Prostě nejdeš si tam jako
+bavit, poslouchat nebo spát, ale
+jako máš tam svoji hvězdnou
+desetiminutovku, takže je to trošku
+jako s nějakou tím, tou přípravou
+a stresíkem okolo.
+No a
+víceméně snažíme se
+to vždycky jako udržet, nebo musíme
+to udržet malý, jinak by se nestihly ty přednášky.
+Každý, kdo tam přijde, musí
+mít tu přednášku. To je
+v podstatě jako součást vstupnýho.
+Takže my
+máme takový limit 42, ale většinou
+jsme kolem 30 lidí, takže
+v sobotu vlastně probíhají
+tyhle lightning talky
+a je to celkem zajímavé.
+No a ještě vlastně díky tomu, že je to
+malý množství lidí a je to víkendovka,
+tak je tam úplně super,
+že ty lidi se mezi sebou jako fakt dobře seznámějí.
+Protože vlastně jsou tam dva večery,
+kdy s každým si potykáš,
+s každým si dáš pivko
+a seznámíte se a z toho jsou
+prostě potom takový někdy i dlouholetý
+přátelství nebo...
+Jo, jo. Zajímavý
+koncept. Úplně přemýšlím, jestli
+znám nějaký jako druhej. Už chápu pojem nekonference.
+Možná, že na moje jezdí
+na něco podobného v PPCčkách
+v online marketingu a vlastně vždycky
+si chválí přesně to, co si řek, že ty lidi
+se tam poznají a vlastně to poutu jako
+uzavřou ještě větší a vlastně spolu komunikují
+pak celý rok. No. Já vždycky, když
+koukám na ty jména, který tam jsou neopakují
+ty fotky, říkám, ale to je Arda Holan, je, to je
+Jetty, je, to jsou jako další lidi, prostě
+který z té komunity znáš, takže
+i třeba pro lidi, který už se v tom trošku pohybují,
+tak vlastně se tam objevují i docela, řekněme,
+jako známý tváře nebo z těch různých komunit
+takový ty hlasitější, který
+blokujou, píšou nebo tak. Jo, jsem takový
+škrábnem potom. Takže si myslím, že třeba i pro
+posluchače, který nás teďka poslouchají a chtěli
+by se s těma lidma seznámit, tak je to
+vlastně, si myslím, jako dobrá platforma, protože
+všechny, co znám, tak jsou naprosto
+jako v pohodě a otevřený a vlastně
+těch deset minut to podle mě každý zvládne,
+nebo byl tam nějaký megaprůšvý, že někdo,
+že ne, já si myslím, že se to dávají.
+Vždycky je to zajímavý a není to vždycky jenom o IT,
+vím, že...
+Bylo Lego, myslím, něco tam bylo s Legem,
+šachy, jo, to tam přesně.
+A i pečení chleba tam jednou bylo, ale
+jako majoritně je to samozřejmě o IT, no.
+No a jinak teda, protože
+zrovna, když se vrátím k tý ženě, tak tam už je pořadník,
+jo, jakože tam se nedostane každej a je
+tam jako nějaká centrální osoba, která vybírá.
+Ne, ne.
+Je to pan blbej phone, je to jako s tvojí ženou a s pořadníkem.
+Jo, ne, ne, na mojí ženu není pořadník.
+Ne, tam už je to hotový, ta hra je tam.
+Takže jako,
+těch třicet lidí se vždycky najde, nebo
+někdo o tom rozhoduje, jak to vybíráte.
+Ale rozhodně pořadník jako nemáme, jo.
+Já si myslím, že možná marketingu je trošku jiná situace,
+protože tam ty lidi jsou jako extroverti.
+Když to tady,
+tady to, že musíš
+jako přednášet a to, že je to o víkendu
+vyřadí jako velký množství lidí, no.
+Takže, ale jako rozhodně
+ty, co tam jsou, tak jsou všichni jako zajímaví,
+zajímaví lidi, no.
+Proč je tam to ječko? Je to Java
+only, nebo nejí?
+No, protože tenkrát vlastně to začínalo
+jako Javová. Jako vyloženě Javovská
+konferenc, nekonferenc. Ale teď už to samozřejmě
+je jako polyglot.
+A myslím si, že podobno historií má,
+jestli se znáte Netecamp,
+že jo, ten byl taky dřív jako PH-kovej,
+hlavně on je T.
+A teď vlastně už letos bude druhý
+ručník, přeměnovali to na Warpcamp.
+A je to taky už
+jako ze všech možných
+jazyků nebo platform.
+Takže my tam letos taky jako jsme říkali,
+že zamíříme a zkusíme
+nasát jako atmosféru jinde, no.
+Jo, jo, jo, trošku jako osondovat, jak se to dělá za plotem, jo?
+Jo, jo, přesně to.
+A vy to teda letos klidně to zpromují.
+Kolikátýho to bude, kde to bude?
+Jo, letos je to 6. až 8. hřína,
+je to v Telči,
+ta dostupnost je tam celkem
+jako rozumná, z dálnice
+jako ode všadě, je to střed republiky.
+A vlastně začíná to teda
+v pátek večer, je tam nějaká večeře,
+úvodní představení, kde se jako seznámíme,
+každý trošku něco řekne o sobě.
+V sobotu je ten hlavní program,
+to jsou ty lightning talky.
+A zase jako další večer
+a pokračování
+toho networkingu.
+A v neděli, sobotem workshopy,
+nějaký diskus.
+Zkuzení kroužky a po obědě se to vlastně
+rozjíždí domů.
+Máš už přehled o programu, nějaký zajímavý jméno,
+který se tam objeví, můžeš už někoho zpromovat?
+No, tak na tohle
+úplně připravený jsem.
+Jako zajímavý jména tam jsou,
+ale teď teda bych musel kouknout.
+Pohodně, pohodně, pohodně.
+Každopádně, webovky, aspoň řekni.
+www.jopenspace.cz
+Budeme sledovat.
+Tam posluchači v Leste, projďte to,
+pokud vás to zaujalo, klidně tam můžete
+naskočit a přijet se tam podívat.
+A samozřejmě, kluci, vy jste zvaný taky.
+Pokud byste měli čas,
+tak vás tam rádi uvidíme.
+To je moc hezký.
+A není to jen o oprogramování,
+byste můžli dát nějakou tu svoji datařinku.
+Na tu výčuňačinky.
+Na tu výčuňačinky a já
+bych musel něco vymyslet.
+No to já taky.
+Minulý rok jsme tam měli přednášku o kvantových počítačích,
+dokonce rozebraný jeden algoritmus.
+Ty krása.
+Takhle. V deseti minutách.
+Tak to z těch. To je masakr.
+Neříkám, že to všichni pochopili.
+Vyfrůsanej vlastně vypad takhle z toho.
+Prezentace po deseti minutách.
+No ale rozhodně to stojí za zvážení.
+Já jsem byl teď na tom Haskell tracku v Krakově
+a vlastně už jsem si nadzvičil,
+jaký to je, jenom kejvat a dělat,
+že rozumím, přitom jsem úplně dutej,
+takže já si myslím, že na tyhle přednášky klidně můžete.
+To bude úplně v klidu.
+No další věc, kterou ty děláš,
+je, nebo dělal si,
+samozřejmě záměrně,
+milí posluchači, já vím, že jste natěšený,
+ale Javičku a Evitu nechávám úplně na konci
+jako tu hlavní šťávičku,
+protože chceme to probrat Honza,
+jak je takový, že dělá hrozně moc věcí,
+tak chceme probrat další věc
+a to je Café Mlejnek TV, což,
+pokud si pamatuju, byl podcast,
+ale vy jste to zároveň natáčeli,
+nebylo to jenom audio, ne?
+Ty jsi byl spolu autorem,
+teď už vlastně
+Café Mlejnek není, je to tak?
+Už jsme nenatáčeli rok a půl,
+my to zatím máme, jakože to je
+trošku zahybernovaný,
+třeba to obnovíme, ale teď nenatáčíme.
+Takže o čem to bylo, třeba řekni posluchači,
+můžou si to najít ještě na Spotify nebo někde?
+No jasně, jsme pořád na Spotify,
+na YouTube kanál,
+ještě či jo i na Apple.
+Apple podcast?
+Apple podcast, no.
+A tak stále to jako udržujem.
+On to zakládal,
+vlastně, nebo nápad to byl
+Petra Fersmana z Dotyvery,
+tenkrát, a právě, že
+říkal, že nikdo tady nemá video,
+pojďme dělat video.
+A druhej takový jako impuls byl,
+že tady nám chyběl trošku jako
+techničtější podcast.
+CZ podcast samozřejmě
+jsou jako borci, ale
+vzdálo se nám
+aspoň v té době, že trošku jako
+od té technologie šli stranou.
+A
+tak jsme říkali, tak zkusíme
+jako
+zaplnit díru na trhu.
+No, a chvíli jsme to dělali a teď jste
+tu díru zaplnili skvěle.
+Protože řekl bych, že to, co jsme
+tenkrát jako chtěli dělat my, vyděláte
+jako mnohem líp.
+Tak teda, děkujem, děkujem, děkujem. A ten důvod,
+proč už nenatáčíte? Není čas?
+Typuju taková ta klasika rodiny, firmy.
+Hele, Petrovi vlastně on,
+když jsme to zakládali, tak on zakládal
+zároveň i tu Dotyvery firmu.
+A jemu se to rozjelo, takže
+on je teď v tom úplně útopenej.
+Takže čím dál tím víc toho přicházelo
+na mě a na jednoho člověka, nevím, jak to máte
+kluci rozdělený vy, je to jako celkem dost.
+Neptej se, neptej se.
+Schánět hosty, že jo,
+připravovat ty jako věci
+vokolo, potom zajistit střih, publikaci
+a tak. Zapojovat kabely.
+Zapojovat kabely.
+Takže toho bylo čím dál tím víc, no a já jsem vlastně
+začal pak dělat i evitů a tam
+jsem prostě přesně dal stílí, už jsem to prostě nedával.
+Něco bylo potřeba jako pustit, takže
+tohle jsem, tam jsem ukázal prstem, no.
+A ono to mělo i spojit to s
+pražírnou kávy, nebo proč to byl kafemlejnek?
+Vy jste to natáčeli v pražírně, viď?
+To bylo úplně halus. To ani vlastně
+s tím nezačínalo, že my jsme to,
+hledali jsme nějaký jméno pro podcast,
+jsem říkal, tak to nazovem kafemlejnek,
+že jo, kafe má
+k žavě blízko,
+drnčíme jako kafemlejnek, jo, měl takový
+ty konotace, jak jsi říkal, tak jako to není
+špatný jméno, takže takhle jsme se jmenovali,
+já nevím, asi dva roky už,
+no a pak nás uslovila právě
+pražírna kávy z Luhačovic,
+asi jenom kvůli tomu
+názvu a tomu logo,
+jestli nechceme udělat nějaký jako holport
+a víceméně
+potom to bylo za barter, že oni nám
+více dodávali kafé
+a my jsme vždycky udělali nějakou reklamu,
+a jeden díl jsme natáčeli tam, no.
+– Hezký. – Ty přemýšlím,
+jestli to nepřejmenujeme na nějaký jako
+Pilsner, Ulgwerd, TV, že my jsme
+nějakou francízu, co? – Já přemýšlím,
+že když se vede podvod, zase mě do nás posloví, no.
+Já myslím, že můžeme skočit rovnou
+na Javičku. Moje první otázka
+je klasická, z pohledu dotneťáka,
+musíme se u toho zastavit.
+Má smysl začínat
+s Javou v roce 2023?
+– Já bych řekl, že
+to záleží.
+– Ano, ano. – Konečně, klasická.
+– Musíme si koupit nějakou tu flašku s panákama
+a vždycky, když se řekne, to záleží. – It depends, tak
+cinkne 10 tisíc euro a napijeme se.
+– Jo, jo. – No, to je jako, co chcete dělat,
+jo. Rozhodně si myslím, jako, to není
+mrtvá platforma, mrtvý jazyk.
+Naopak bych řekl, že to se teď jako
+znova nadechlo. Po těch, já nevím,
+už to bude 25 let,
+je to starý jazyk.
+Takže já si myslím, že jako
+smysl to rozhodně má, no. A ono vás
+to možná ani neminé, protože pokud půjdete
+přes nějakou univerzitu, tak
+tam to pravděpodobně budete mít jako
+povinnej předmět, nebo
+někde možná mají C-sharpy, ale nevím.
+Třeba UHKčko, vím, že tam
+je Java, no. – My jsme měli Java, my jsme taky měli Java.
+– Jo, takže na UHKčku je Java. – No, no, no.
+– Ok. A když se teda
+podíváš, protože tím, že za ty roky už samozřejmě
+si taky bez tak vyskoušel,
+kde co, kde pořád vidíš ty výhody
+té Javy, kde jako, když k ní přijdeš,
+řekneš, jo, tak v tomhle, co tam je jako pořád
+super, je to tooling, je to performance,
+je to ten jazyk samotnej?
+– No, hele,
+myslím si,
+že je to jako
+dobrý jazyk na to, že dostaneš
+tam celkem obstojný výkon,
+zároveň neřešíš plno věcí
+ohledně zprávy, paměti a
+plnou složitostí, je to celkem jednoduchý
+na naučení a hlavně
+je prostě okolo obrovský ekosystém
+a plno dostupných materiálů a všeho.
+A víceméně zdarma, nevím, jak je to
+jako v dotnetí komunitě, já vím,
+že ten Microsoft si dost
+jako čaržoval za kdesi, co si
+a i ta kultura je tam, že asi se musí dost
+ty věci kupovat, nevím, jak hodně ten
+open source je. – He, teď se to změnilo, teď se to změnilo
+v tom smyslu, že
+máš samozřejmě komunitní verze,
+jak já myslím, že Ryder zrovna ne,
+protože my třeba používáme jetbraincí nástroje,
+protože prostě jsou podle mě lepší
+než vizuálko, ale máš VS Code,
+to můžeš dělat jako C-sharp, F-sharp, jak potřebuješ
+a dotnet jako takovej,
+u tím, že už jako v fotovkách open source,
+tak to jako tam neplatíš nic. Ale samozřejmě ve chvíli,
+kdy chci šít, nevím, do cloudu, tak samozřejmě
+jako už za to platíš. – Ale spíš mě šlo
+o takový ty knihovny a ty přidružený projekty,
+dobře? – Jo, hele, třeba jako Nugety,
+ty jsou, řekl bych, v 99%
+zdarma, což jsou
+jako prostě dependence, který si můžeš stáhnout
+knihovny použít, ale zase
+jsou tam jako firmy typu Telerik a tak,
+který jako když potřebuješ něco
+jako fakt dobrou komponentu, nebo
+specifickou, tak samozřejmě oni jsou na tom
+živý, takže furt je tam ten ekosystem,
+že musíš jako platit. Což předpokladám u Javy,
+ale jsou taky nějaký, ne, kampany, který
+jako mají dobrý, které ho neplacují. – Jo, to je taky, no,
+ale myslím si, že ten open source tam je
+jako v tom den a zakodovane jako mnohem víc.
+– To určitě to věřím, že u té Javy to bude
+větší, no. – No, takže jako tyhle
+výhody tam jsou, ale samozřejmě je to
+pořád jako jeden z nejběžnějších
+jazyků na světě, jo. Já jsem
+právě schválně, když jsem viděl ty vaše
+otázky, jak jsem si projížděl grafy
+a je to pořád jako v top
+five, jo, třetí nejoblíbenější
+jako jazyk a dlouhodobě,
+takže on prostě, ta penetracie je obrovská, no.
+– A když říkáš pořád, že to tam je,
+tak je to ta pure Java, nebo
+se posouváme někam jako ke kotlinu
+a tak dále? – Je to pure Java. – Jo.
+– Právě ten kotlin, jako, byť se to zdá,
+že tam je, třeba v tom kotlinu
+je velký, velká změna
+v tom, že třeba Android jako
+teď už preferuje kotlin, že tam vlastně
+všichni, co původně dělali Javu pro Android,
+tak teď už většinou dělají ten kotlin,
+ale jako v těch našich
+jako serverovejch
+aplikacích si myslím, že ta Java se drží, no.
+Alespoň jako podle těch grafů,
+tak více méně Java je pořád jako čtyřikrát
+větší
+statisticky než kotlin.
+A není to jako, že by ta křivka nějak
+zásadně rostla, i když známe statistiky,
+nevěřím statistice, kterou si nesfalšuju
+sám, že jo? – Jasně.
+– Takže uvidíme za pár let, no.
+Ale rozhodně si myslím, že to je prospěšný
+pro obě dvě komunity, jak pro
+kotlin, tak pro Javu, že
+vlastně vzájemně si přebírají
+ty nápady, nebo spíš
+teď ta Java si bere ty lepší nápady
+z toho okolí, že ta
+Java vlastně je pomalejší v adopci
+těch věcí, což je logický.
+Ona zase jako drží zpětnou kompatibilitu
+celkem jako dobře,
+asi nemůže dovolit nějaký jako velký
+změny a myslím si, že to dělají
+jako správně, že si počkají,
+až jak se to osvědčí a ty dobrý
+kousky si vezmou a
+zaimplementujou, no. – A jak je to třeba se
+syntaxí? Taky se tak jako zašpinuje
+postupem času, tím, že si
+přebírá nějaký ty nový věci, že třeba
+si řekneš ty, který si ji pamatuješ od nějakých
+prvotních verzí, že to už není ta
+stará dobrá Javička, jak si ji pamatuju,
+tohle už je spoustu jako syntaxů, který tam
+třeba nepatří koncepčně,
+nebo jsou v tomhle z tom ještě řekněme
+kritičtější v tom
+vyzobávání těchto
+nových věcí a furt to drží nějak
+pohromadě. Protože já třeba, že u C-Sharpu
+tohle úplně už jistotu nemám,
+že se tohle podařilo.
+U T-Javi je to jak?
+Tam velká změna
+přišla s osmičkou, tam
+byl hodně velký...
+Tam se začalo hodně
+psát, ne, když
+přímo ne, funkcionálně, tak se to
+mnohem tomu víc podobá právě díky těm
+streamům a těm dalším věcem.
+To samé, že funkce si můžeš
+předívat, proměnit, předávat
+a tak dále. Takže tam se to
+změnilo, bych řekl, vzhledu je. Ale
+jinak, co se týče syntaxe, tak ta zůstává
+hodně podobná. Oni nepřidávají
+moc klíčových slov. Když
+vidím třeba, co se děje ve světě jako JavaScriptu,
+ten opravdu jako je k nepoznání.
+Když se koukne člověk, jak vypadal
+JavaScript před deseti lety, jak kouknete na to
+teď, tak to nepoznáte. Vůbec
+nebudete tušit, o co tam
+jde. Když to si myslím,
+že v T-Javi relativně se člověk
+ještě zorientuje.
+Minimálně na úrovni těch klíčových slov.
+Zkoušíš ještě nějaké jiné jazyky
+na JVMC, kromě Javičky
+nebo ve Forestu třeba šáháte
+i do jiných těch částí
+toho JVM jako systému?
+My jsme si vyzkoušeli, to byla taková ta fáze
+takový ten hype cyklus
+polyglot programování, což byl
+taky jako zajímavý
+movement. Tak my jsme si
+vyzkoušeli groovy, skalů,
+ale více méně jsme se vrátili
+jako zpátky
+Javě. Ještě jedna věc mě zajímá,
+když se bavíme o Forestech, o Javě,
+jak vlastně vypadá typický váš
+projekt? Co v té Javě nejčastěji píšete?
+Jsou to serverový apíčka, nebo
+jsou to těžký klienti, nebo?
+No, my jsme vlastně
+stavíme
+na nějaký platformě, protože
+programovat všechno znova
+nedává ekonomicky
+moc smysl.
+Takže více méně rozvíme
+nějaký společný základ, kam padejí ty věci,
+které víme, že se opakujou a pak se
+pro klienta více méně píšou ty specifika
+a případně integrace hodně.
+A ještě
+do nedávna se vlastně dělá
+i ta webová část,
+i ten webový frontend v Javě,
+ale tam teď přecházíme na
+JavaScript, na Next.js.
+Takže tohle vlastně nám teď úplně
+pravděpodobně zmizí.
+A takže na frontendu používáte třeba
+React, Angular, nebo jak?
+Na frontendu vlastně tam je React a Next.js.
+Jo, takhle, jo, OK.
+A dřív jsme tam měli jako free marker
+a nějaký náš vlastní
+v fózovkách framework, který byl
+komponentově orientovaný.
+Jo, protože
+takhle, oni když existovali
+samozřejmě webový frameworky, který se dali
+použít, tak my máme ještě zase takový
+jako specifikum, že tím, jak jsme
+vznikali jako webová agentura,
+my máme hodně jako silný oddělení
+nebo silnou část lidí, který
+se zabejvají vlastně HTML,
+jsou to spíš prostě jako kodeři,
+ale jsou v tom jako neuvěřitelně silný.
+Jo, to prostě
+nedává smysl, aby
+Javista dělal frontend.
+Jo, jo, jo.
+A my jsme potřebovali jako vyřešit
+takovou vlastně
+problém v tom, že dřív jsme
+nejmuseli dělat jakýkoliv
+aktivní formulář a tyhle záležitosti
+a potřebovali jsme to splitnout
+tak, aby si kluci vystačili
+sami a my jsme jim fakt dělali jenom ty
+součástky,
+tu servisní vrstvu,
+takže vlastně to byl jako framework, který byl
+připravený pro ně. Ona sice pod tím byla Java,
+ale víceméně ten kodeř si složil
+celou stránku, dělali jako dynamický
+aplikační věci,
+jako rozsáhlý a víceméně bez
+nás Javistu, což nám uvolnilo ruce
+pak se věnovat víc tomu
+jádru. Takže pro představu třeba
+ty jsi říkal chess, hrát, kdyby jsi řekl
+nějakej příklad, co tam děláte, aby jsme
+si to ještě možná líp nalepili na ten text,
+jak to si popsal. Jo, jo, jo, my jsme
+vlastně měli CMS-ko, to znamená
+publikace v obsahu,
+to byly ty začátky
+Forresta, takže to je ještě na hodně místech,
+no ale víceméně to přerostlo
+jako do webových
+aplikací, takže to je takový,
+že napojíš to na zdroje klienta,
+děláš nad tím nějaké výpočty,
+vizualizuješ to, kalkulačky,
+sbírání, prostě
+v objednávě všeho možného, jo,
+prostě takový ty běžný věci.
+Tak to jsme úplně nahráli, děláte tam nějakou
+datovou analytiku, chtějí ty klienti
+nad tím sledovat prostě všechno možné,
+co se tam sledovat dá? No,
+víceméně spíš jenom prezentečně,
+my jako nemáme datový
+analytiky, nemáme tohle datový
+oddělení, což je jako velká škoda,
+ale nějak to jako
+šlo spíš jako mimo nás, nebo si to
+ty firmy řešily sami.
+No ale teď s nástupem AI,
+tak jako si myslím, že to je jako velká škoda
+a u vás velká výhoda, že do toho jako
+vidíte, protože to je velký
+plus, no.
+Takže oni si, ten zákazník
+to používá jenom ne přes vás, má na to nějakou
+zase další firmu, která jim tu analytiku dělá,
+nejspíš. Jo, přesně tak.
+Tak a my buď to pro ně zbíráme data,
+nebo potom jejich výsledky použijeme
+pro tu webovou aplikaci
+a vlastně pracujeme s tím,
+ale neděláme ty vlastní výpočty.
+Ještě k tomu vašemu Java-based
+texteku, většinu těch projektů
+si běžíte sami, nebo jste v AWSku,
+na Azureu, nebo jak to máte, co se týče
+nějakého toho prostředí?
+Historicky jsme to běhli sami, ale víceméně už nemáme
+žádný vlastní server, všechno
+pronajímáme, ale VPSka
+a máme různý provajdry,
+Linode a další.
+Asi čtyři máme takhle vybraný.
+Ještě mě zajímá jedna věc
+a to se týká dat, k tomu se samozřejmě
+z těch databázy, o kterých jsme
+dneska chceme primárně bavit, dostaneme,
+ale co je takový jako
+javácká go-to databáze?
+Je to Postgres, nebo je to MySQL,
+nebo já jsem vždycky měl,
+to je zase ten můj omezený pohled,
+já jsem vždycky říkal, když je to Java, musí tam být
+někde Oracle, tak to je jako protipol
+tomu MSSQL, když se ptáš dotneťáka.
+Ale pak se baví s javistama, všichni říkají,
+první, co si vezmu, je Postgres.
+Tak jestli vy to máte jinak, nebo jak
+vy to máte z databázy? Já bych taky vybral
+Postgres. My interně máme MySQLku,
+ale historicky.
+Protože MySQLka měla
+kdysi víc funkcí, byla lepší
+než Postgre, kdysi znamená
+třeba 15 let zpátky.
+Ale ono to prostě prorostlo.
+Jednak prostě operations na tom mají už jako tooling,
+všichni jako víme zhruba, co od toho
+očekává. Je to prorostlý do různých
+komponent, takže
+to používáme historicky a máme
+ještě Oracle kvůli klientům.
+Porty. No, ale Postgres
+jsme zatím, až teprve
+na Evitě jsme si ho vyzkoušeli.
+A když pro mě jako člověka,
+který na to vždycky kouká trošičku
+zpoza plotu, je tam ještě
+něco v celý té, jako řekněme,
+Java komunitě,
+v celým tom ekosystému,
+něco, co je tam opravdu
+jako ti přijde dobrý. A tím nemyslím teďka tu Javu,
+ale třeba nějaký další podpůrný nástroj,
+nebo cokoliv, co je takový, to je jako lákadlo,
+když řeknu mu, běž si zkusit Javu, protože k tomu máš
+A, B, C, D, a je to super.
+A já nevím,
+jak to je samozřejmě v dotnetu, já si myslím,
+že to tam možná budete mít jako taky,
+ale ten tool link zatím je jako velice
+dobrý. Jednak co se týče
+třeba profilingu, nebo
+vlastně benchmark
+toolů,
+ten debugging je tam prostě úplně výborný,
+teď tam přibyl Java Flight Recorder,
+kdy vlastně můžeš i na produkci
+si sledovat telemetry z toho
+systému, vlastně i částečně si můžeš
+debagovat a můžeš vlastně zachytit
+kus událostí,
+který si klidně se
+zrealizuješ do souboru a pak si to necháš lokálně
+přehrát, nebo vidíš vlastně
+reálně, co v té produkci se stalo, když tam
+byla nějaká chyba, můžeš to zapínat
+a vypínat podobně jako logi.
+Takže tyhle
+věci. Ještě jedna věc
+je do toho jako dobře vidět.
+Mě třeba překvapilo kluci
+frontendělci, co dělá jako Next.js, tak když
+se jich zeptám, jestli můžou debagovat dovnitř,
+jestli jako vidějí, co je pod kapotou,
+tak z hruzu zjišťuju, že oni
+jako úplně
+nedebagují dovnitř, žež to prostě v Javě
+je úplně, já můžu debagovat
+přímo až do JVMK a já jsem se na tom
+naučil strašně moc věcí.
+Prostě do všeho můžeš debagovat, do všeho vidíš,
+můžeš si to víceméně i za
+běhu poupravit některý věci.
+Tak na frontendu
+debugging je konzole.log
+a je to.
+Jo, jo, je to tak, což je ale trošku smutný.
+Jako je to, je to
+trošičko, já si myslím, že oni přes
+source mapy a tyhle sraky k tomu trošku dostanou snad, ne?
+No, jako jo, ale není to tam
+evidentně jako úplně, jako že
+to máš zadarmo, no.
+No mě teďka pobavilo, nedávno jsem na nějakém forum
+narazil na dotaz, že se nějaký mladý vývojář
+ptal, jestli je v dnešní době
+možný, jako posílat,
+jak to udělat, aby mi ze
+serveru přišlo HTML-ko a já ho jako
+zobrazil. A někdo říkal, podívej, kam jsme
+se dostali s tím, jak lidi už jsou zblblí s tím,
+že je vlastně defaultní jako React, defaultní
+Angular, že úplně zapomněli na to, že
+v našich starých jako dobách ASPček
+a tak dále, co si dělal ve skutečnosti
+bylo, že ty si jako na odpověď na requesty posílal
+prostě celý jako HTML-ko, který se
+zobrazilo a žádný JavaScript tam nebyl.
+A ty kluci, který k tomu přišli teďka,
+to jako najednou objevujou, že
+zase by to šlo přeci jinak. Pak máš
+HTML-X, myslím se jmenuje ten jako
+zase movement, který se
+snaží právě se vrátit k tomu, aby to bylo
+hypermedia, aby prostě jenom vlítalo HTML-ko.
+No je to hrozně vtipný, jak se to točí furt
+dokola. Ještě poslední věc, než
+vlítneme na Evitu. Já si
+vždycky pamatuju, že malinká
+bolest, vlastně když jsem se taky hrál s Javou,
+byla jako ta zpráva jako
+buildu a závislostí,
+že tam byl snad, tyjo, tyjo, házet
+jména, než tak mě opravil. Byl tam
+Maven,
+Gredl, jo, jo, děkuju.
+A Ant. Jo, a Ant, přesně.
+Takováhle jako svatá trojice. Jestli
+můžeš říct, jestli tohle ještě furt
+jako platí. Mně to přišlo v té době docela jako
+náročný na zprávu, nebo bylo takový jako
+mrzení, jo. Je to tam pořád,
+nebo už se celý... Ale já myslím, že Ant
+se už jako skoro nepoužívá. Ten byl, jestli
+si pamatuju, zprávně jako imperativní
+a byl jako složitý.
+Maven je naopak jako deklarativní.
+Ten si myslím, že se používá
+stále nejvíc. Respektive
+nedávno jsem viděl dokonce nějaký jako
+průzkum, jak se dělá, nevím jestli JetBrains nebo
+kdo. A tam, co byste použili
+jako build system pro novej
+projekt, který budete začínat, open source
+a majorita odpověděla, ne na
+Twitteru, to byla statistika. Majorita
+odpověděla, že Maven, jo. Což je
+jako zajímavý. Přitom Gredl
+jako dlouho se promuje jako taková ta
+víc sexy alternativa. Tak
+evidentně, evidentně to
+zase štolik jako příznivců taky
+nemělo, no. Ale myslím si, že
+jako Gredl i Maven jsou jako
+teď, jsou stále udržovaný a jsou oba
+dva velice dobrý. Ten Gredl je
+dobrý v tom, že vlastně kombinuje tu
+deklarativnost s tím, že můžeš do toho
+šáhnout a na místech jako imperativně
+si dodělat, co potřebuješ.
+U Mavenu sice taky, ale musíš pak třeba
+vyrobit plugin, jo.
+Což je to už trošku jako složitější než u toho
+Gredlu. Tam si to přímo můžeš zapřát do toho skriptu.
+Jo. Trošku si nahrávám
+na tu poslední naší část,
+ale, tou otázkou, ale stejně se
+zeptám, ty už za ty roky
+děláš Javu, znáš to všechno
+upside down, včetně to, že jsi schopnej
+prostě se dodebagovat až na úrovni
+prostě JVMka.
+Nepřichází už po těch
+letech taková ta jako programátorská
+nuda, že bys chtěl třeba šťourat úplně
+do něčeho novýho, že znáš ten, jako to
+své kledivo natolik, že už je ošáhný,
+už tě nebaví? Jo, no tak
+jako nuda to rozhodně není.
+Šťourat bych
+určitě chtěl do něčeho dalšího, ale
+vždycky dostanu před sebe nějaký
+zajímavý problém k vyřešení.
+Takže tam zůstaneš ještě.
+Přesně tak, takže řeším ten problém a neřeším
+ten jazyk tolik.
+No hledě na to, že teď
+vlastně v živě se chystá plno nových
+zajímavých novinek, který si myslím,
+že to zase posunou celkem jako dost dál.
+No a co se chystá teda, řekni to. No teď má
+vlastně v létě výjít jedna dvacítka,
+tam mají přistát
+fiber, to jsou
+lehký jakoby vlákna.
+Vlastně doteďka Java používala
+vlákna opračního systému,
+takže ty byly takový jako
+těžký, tam prostě jste vyrobili
+třeba nevím desetitisíce, nízký desetitisíce
+vláken a potom to prostě umřelo.
+Když to teď vlastně
+vyrobíte miliony a ten
+systém se jako úplně nezadejchá, dojde vám
+dřív v paměť, než by to jako umřelo.
+A to je jako nějaká abstrakce nad
+asynchroním jako kódem,
+že on se sám rozhodne, jestli z toho udělá
+těžký tret nebo jestli to ne.
+Ne, ne, tam to máš jako pod kontrolou, ale více méně
+tím, že to bude jakoby lehký,
+vlastně ty vlákna si vyřeší
+Java sama, ale více méně
+jako použije jedno vlákno
+toho opračního systému, takhle, jestli to chápu
+správně samozřejmě, je to nějaký můj výklad
+z toho, co jsem osálil. Tak více méně
+použije jako vlákno
+toho opračního systému, to těžký
+k tomu, aby vyřešila x úloh
+těch lehkých vláken. Je to něco jako, že každý
+vlákno se může stát event loopem,
+jako prostě třeba v Nodeu nebo
+v dalších těch, takže vy do toho prostě sypete
+úlohy a ono to tam odbavuje
+podle toho, jak mu přicházejí
+data. Takže
+více méně, jako bysme
+Java měla vždycky jako problém
+právě na IOU, že když jste
+nepoužívali knihovnu, která měla v sobě
+zapečené nějaké asynchronní
+zpracování, což ale taky typicky
+znamenalo, že to mělo trošku jako jiný
+API a další věci, tak to
+prostě potom někde čekalo to vlákno
+na to, až s IOU přijdou
+data a díky tomu to vlastně celý vypadalo
+jako pomalý, přitom prostě CPUčko
+spalo. Přesně tak,
+CPUčko spalo, jo. No a
+tímhle s tím vlastně bysme měli jako dohnout
+a vlastně na tom vyrostl ten Node, který
+přišel s tím event loopem a vyřešil
+tenhle ten problém toho
+IOU. No a to bysme vlastně měli dostat
+teď do té Javy a
+víceméně by to mělo bejt tak, že i
+ty starý knihovny, který s tím nikdy nepočítali,
+tak by najednou neměly
+bejt IOU bound, protože vlastně
+tím, že používají to Javovský
+API a to Javovský API má pod kapotou
+už tyhle z ty lehký vlákna,
+tak vlastně už budou
+aniž by ta knihovna o tom v době
+psaní věděla, tak tak nově začne
+využívat event loop a to IOU
+bude úplně na jiný koleji, než to
+co řeší CPUčko.
+To je jedna z těch věcí, pak je tam
+vlastně
+jak je Async Evade
+v jiných jazycích,
+tak my tam budeme mít
+strukturovanou konkurenci,
+kde se vlastně
+bude dobře dát plánovat, jak mají ty úlohy
+jednotlivý navazovat,
+který mají běžet paralelně,
+co se má stát, když třeba některá skončí výjimkou,
+jak se to má propagovat, další věci
+a vlastně bylo to,
+aniž by bylo, je to dělané přes APIčka
+a není na to
+žádný klíčový slovo, nerozšiřuje se
+ten jazyk, je to prostě jenom záležitost
+APIčka a co ještě slibujou,
+je, že tam budou vyřešený
+věci jako stacktracy, což je
+u toho synchronního programování celkem
+problém, že tam člověk vidí jenom kus,
+ale nevidí, celý ten příběh
+není zachytcený v tom stacktracu
+a tohle je něco, co vlastně oni slibujou,
+že bude vyřešený,
+že budeš vidět opravdu
+celý ten stacktrace, jak kdyby
+to bylo synchronně
+volaný, takže na to se celkem
+těšíme. A pak jsou tam ještě další
+věci, třeba, já nevím,
+jestli kolik máme času.
+Ale nepovědej, já tady na tebe úplně vysim očima
+a poslouchám, pro mě to je zajímavý.
+Zajímavý je ještě projekt Lilliput
+a to je...
+To je vlastně něco malýho, ne?
+To je taková aktivita, že vlastně
+v Javě je plno objektů,
+to je objektový jazyk a každý objekt
+má nějakou hlavičku a ta hlavička má aktuálně
+128 bytů.
+A tam jsou nějaké základní věci
+o tom objektu, plus se tam ukládají nějaké
+flagy třeba při garbage kolekci
+a dalších věcech.
+No a někoho chytrýho napadlo
+a je potřeba skutečně těch 128 bytů.
+No a tohle ta aktivita
+je o tom, že se pokoušejí
+tenhle mandatorní
+header zmenšit. Už se jim to povedlo
+na 64.
+Ještě to není jako zameržovaný, je to zatím
+nějakým preview jako v boční větvi.
+Ale už se jim to podařilo vlastně zmáčknout
+na polovinu s tím, že
+prostě máte stejný program
+a tak a nějaké
+výsledky první, které z toho jsou, je, že to
+sníží spotřebu paměti mezi 10 a 20%.
+Což není málo.
+Což není málo a ještě říkají, že
+se jim to možná podaří na 32 bytů,
+což by bylo ještě o další polovinu.
+Takže vlastně vstávající programy by
+teoreticky mohly žrát klidně
+o čtvrtinu nebo o třetinu méně paměti
+a člověk by proto nemusel nic udělat,
+což je dobrý bonus.
+To je pecká.
+Pak tam další novinka, která přijde letos,
+je rektorizace.
+To jsou vlastně, to nevím, jestli víte,
+co to je, to jsou vlastně
+instrukce na nových procesorech,
+které umožňují
+vlastně provádět jednu instrukci
+zároveň nad mnoha datama.
+Více méně si připravíte, já nevím,
+128
+longů a nad tím provedete
+na jednu jednu operaci. Ono je to vlastně
+paralizovaný, to znamená,
+v rámci jednoho nebo málo tíků
+máte spočítaný to hned pro celou
+tu sadu dat.
+To jde do toho AI světa, ne?
+Minimálně tam se o
+vektarizaci bavíme vždy.
+Vždycky, když tvoříme nějaký vektor
+store, nevím, jestli to je jednak u jedný,
+to nevím, ale skoro bych řekl, že jo.
+Že to je nějaká reakce na AI světa.
+A ono to pak zase jako se bere, jako redusně, jako do jednoho výsledku.
+Já myslím, že hodně AI to je spíš
+jako tam pořád budou hrát první grafické karty.
+Tohle je záležitost jako
+procesoru jako takovýho, který to umožňuje.
+Má to právě jak Intel,
+tak i AMD, ale mají to
+trošku jako jiný.
+A ještě zase různý verze
+procesorů mají
+některý jako ty operace emulovaný.
+Že to přímo není jako
+obvod v tom procesoru, ale něco se emuluje.
+Takže něco je jakoby na jednom procesoru
+rychlejší, na jiném zase něco jinýho.
+Takže ono to není úplně jednoduché
+pro to psát. A oni
+jako slibujou, že
+by vlastně měli
+vlastně chová se to tak,
+že vy napíšete jeden kód a ono
+podle toho, kde to běží potom ta Java,
+tak ono buď to to, když zjistí,
+že ten procesor vůbec nemá podporu,
+tak ale ten kód vezme a stejně to nějak přiloží,
+aby to na tom procesoru prostě běželo.
+A na různých procesorech by to
+teoreticky mohlo udělat nějaký úpravy tak,
+aby využilo tu sílu toho konkrétního
+procesoru, což je prostě obrovský benefit.
+A to je teda pro nějaký, když si
+říká nějaký výpočty, jo?
+Hele, hodně se to sklonuje právě v databázích.
+Protože tam prostě máš
+velký množství dát a potřebuješ
+to, co nejrychlejší prochroustat.
+Takže když můžeš to jet ne po jednom,
+ale po dávce, tak
+ty zrychlení jsou jako řádový.
+To je prostě třikrát, čtyřikrát
+to můžeš zrychlit, jo?
+Nebo i víckrát. Záleží zase na úloze
+a jak se ti to podaří dobře jako vektorizovat, no.
+No pecka, džavička jede.
+Džavička? No, no, no. A ještě je tam
+jako jedna, to poslední, já už
+nevím, nevím, dávej, dávej, dávej, pojď.
+A ještě je tam jako jedna z takových
+jako velkých rewritů nás čeká
+a to je Valhalla, Project Valhalla.
+Mají moc hezký poetický názvy, jo.
+A to je
+to je vlastně taková jako aktivita,
+která má, jako v džavě,
+zase nevím, jak je to v dotnetu, ale džava
+má primitivní typy. Jako malej int, velkej int.
+Jo, jo, jo, jo, máme. Velkej int je objekt,
+malej int je prostě,
+není to jako objekt, je to prostě
+jednoduchý ten. To je vlastně ještě
+vlastně pozůstatek z C, protože
+džava je nějaká reakce na to,
+jak se dělali
+některé věci špatně v C, jak to bylo
+komplikovaný, správná v paměti a tak dále.
+Vlastně to byl ten trigger, proč vznikla ta džava.
+No ale tyhle primitivní typy
+se tam nechaly, protože
+ten výkon je tam samozřejmě někde jako jinde.
+Tam, když máš pole
+obyčejných intů, tak je to v paměti
+vlastně uložený jako v jednom bloku
+a to zpracování je mnohem rychlejší.
+Jasně. I kvůli jako
+cacheování na úrovni jako procesoru a tak.
+No,
+ale furt to jako žilo jako dva takový
+rozdílní světy, jo. Třeba ty
+primitivní typy nemohly
+se vůbec v generikách, jo.
+Prostě pro plno věcí jsme
+museli mít jako třeba i streamy, jo.
+Jeden je stream obecně pro objektový,
+pro objekty, ale pak máme
+in-stream, long-stream a nemáme
+to ani pro všechny primitivy a není to
+všude a je to takový prostě jako klanky
+trošku, jo. No a tato vlastně
+si kladu za cíl to
+spojit, nicméně
+a vlastně s obou dvou strány,
+jo. Jednak vlastně tam
+teď přibyly rekordy do Javy,
+ale vlastně
+v rámci tý valhaly z těch rekordů se mají
+stát skutečně jakoby
+nosiče dat, že vlastně
+pak si budeš moct z rekordů udělat
+takzvané jako value type a on tě vlastně
+z toho udělá jako primitivní
+primitivní jako blok
+v tý paměti. On nebude mít
+jakoby identitu, nebude to jako objekt,
+budou tam nějaký omezený
+jakoby možnosti, s tím bude immutable,
+ale
+bude mít tu výhodu, že to prostě
+je
+zase jako uložený za sebou
+jako jeden blok, takže nebudou tam
+ty hlavičky, že jo, takže to bude paměťově
+úspornější a bude se s tím
+mnohem rychlejce jako pracovat. No a z druhé
+strany opak jakoby ty primitivy se zase
+dostanou do generik
+a mnohem víc se ty světy
+jako propojejí, což bude jako
+zajímavý, to bude jako druhá věc, protože
+která vlastně
+zautočí na tu jako nenažranost Javy,
+co se týče paměti, protože jinak, když se kouknete
+na statistiky vlastně jazyků,
+jo, tak Java pořád
+vychází jako jeden z nejekologičtějších
+jazyků, co se týče jako výpočetní
+náročnosti, jo,
+těchto věcí, ale v té paměti prohrává,
+tam neskutečně, kde třeba až já nevím
+na osmnáctý příčce.
+A ty rekordy bude teda taky,
+tak jakže, když mám dva rekordy,
+který mají stejný tvár, stejný data, tak vlastně
+jsou jakoby identický společně, když je
+kompérnou, tak jsou prostě toto stejný.
+A budou se dát dědit, nebo to budou vyloženě?
+Právě, že dětišnost tam nebude.
+Super, super.
+Tak to je pecká, to je dobrý.
+To se dost možná stane pro spoustu DTOček a takovej těch
+jako jenom posílání dat, takový jako go to
+go to struktura, řekl bych asi.
+Přesně tak, no. A já právě tý Evitě,
+která je paměťová, tak na tohle
+se vyloženě těším, protože tam budu mít velký
+benefity. A my jdeme na ní. Jdeme na to.
+Tak po deseti
+minutách dýzování
+tady máme konečně EvitaDB.
+Tak Honzo, pojď nám to představit.
+Co to vlastně Evita je?
+Hele, je to NoSQL
+in-memory databáze, která je orientovaná
+na e-commerce, nebo obecně
+nic na webový katalogi.
+A to je věc, kterou teda vy jste vytvořili
+ve Forestu, chápu to správně. Jo, jo, je to
+tak, no, v rámci grantu.
+V rámci grantu. Proč jste se vůbec
+pustili do Evity, ne?
+Mongo vám nestačilo, ostatní databáze
+vám nestačily, chtěli jste to
+dělat po svým. No,
+má to trošku
+jako delší historii, tohle už je
+taková i ta poslední etapa toho.
+Ale my vlastně
+děláme e-commerce projekty a
+už to bude přes deset let.
+A na začátku jsme měli normálně
+MySQL databázy a nad tím nějaký
+Spring MVC
+a v tom dostaneme začínali.
+No nicméně nám jako klienti
+rostly a dostali jsme
+se do fáze, kdy to moc
+nedejchalo. A přece už jsme měli klienta,
+kterým jsme byli zvyklí
+třeba na e-shopy s desetitisíci,
+dvacetitisíci produktama.
+A čekal nás klient, který
+produktů měl mít přes to tisíc a hlavně to bylo
+B2B klient, takže
+on tam měl vlastně k každému produktu
+ještě třeba dvacet různých cen.
+Takže ty ceny to byly v milionech.
+A my jsme prostě věděli, že to současné
+řešení to vůbec nemá šanci
+udejchat. A hlavně, že
+nějaké parametrické úpravy toho současného
+řešení nám jako přinesou
+třeba zrychlení jako v řádech desítek
+procent, ale to nás prostě nezachrání.
+Prostě budeme pořád
+jako na vteřinách
+responsů a někdy
+jako i v větších vteřinách
+responsů a to prostě jako nemůže takhle fungovat.
+Takže my jsme věděli, že musíme udělat
+nějaký jako zásadní switch
+někam jinam, dělat něco jako radikálně
+jinak, aby jsme se dostali prostě třeba
+na faktor deseti jako
+zrychlení. No a tam
+jsme si dělali a nebylo moc času.
+Jako známe, jak tyhle ty věci
+jako fungujou. Takže jsme měli jinou
+šankrku, že s tím musíme rychle něco
+udělat. Takže jsme si dělali nějaký jako
+rychlý spajky na různý technologie,
+ale jako fakt jsme neměli
+časí dohloubky a všechno nám přišlo
+jako celkem komplikovaný a hlavně
+my máme tak, my máme
+projekťáka a nebo i ten produkt
+má jako plnou funkcí, ten náš.
+Čímž pádem jako
+se potom chce hodně věcí
+a zjistili jsme, že by to bylo
+celkem složitý v těch technologiích
+jako dělat. Všechno nám přišlo, že
+má jako řadu jako
+nedostatků, takže jsme
+zkusili, jak by to šlo
+udělat nějak jako v paměti,
+protože pamět je král, jestli bychom nedokázali
+ty nejpalčivější problémy si nějak
+jako vyřešit. A vznikl nějaký prototyp,
+tenkrát se jmenoval Eva,
+který jsme pak jako nasadili
+a vlastně ho provozujeme doteď.
+To je jaká alfa verze Evity.
+To není ani alfa verze, to je úplně
+nějaká prvotní
+jako generace, kde byly jenom
+nějaký nápady jako vyskoušený,
+na tom jsme si nějak jako uvěřili, že tudy
+cesta jako vede a to zrychlení tam skutečně je.
+Ale samozřejmě to mělo jako
+plno nedostatků, jako musíme
+jako musíme dodržovat jako řadu
+pravidel, aby jsme s tím jako fungovali.
+Takže jsme věděli, že jako do budoucna
+by to chtělo jako uchopit ještě trochu líp.
+No a vlastně přišla šance
+nějakého grantu Evropské unie,
+kde bychom si vlastně mohli
+vlastně
+zaplatit tři roky nějakého
+výzkumu, vývoje na tohle téma, takže jsme
+takže jsme potom drapsli
+a vlastně společně s Univerzitou Hradec Králové
+jsme si vyvinuli
+více méně jako by nástupce,
+kde z toho původního
+z té původní
+z toho původního prototypu není nic. Vy má
+jako by nějakých základních nápadů,
+který se nám jako osvědčili.
+Jaký je ten textek zatím?
+V čem je to napsaný? Je to Java-based?
+JVM-based? Hle, je to Java.
+Je to Java na JVM-ku.
+A zvolili jste Java, protože
+zase zpátky u toho kladiva,
+protože to známe, anebo protože
+třeba i s ohledem na to, jak jsme se bavili
+o rekordech a o těch jako výkonnostních věcí,
+které se chystají, to je i do budoucna
+dobrá volba?
+To kladivo bych řekl,
+že je takový argument
+silnej, více méně takhle.
+Ten problém je jako složitý sám o sobě,
+takže ve chvíli, kdybychom
+zvolili jiný jazyk,
+který by byl třeba jako hodnější.
+Třeba já nevím, Rust,
+jazyk nebo podobné záležitosti,
+tak my budeme prostě mít dva problémy.
+Najednou my se budeme prostě učit jazyk,
+budeme chtět řešit tu celkem těžkou doménu
+a zcela nevyhnutelně
+budeme prošlepávat
+slepý uličky, což jsme si prostě
+nechtěli dovolit. Navíc
+ty věci, které jsem vám dneska říkal,
+co se do té Javy plánuje,
+jsou známé už nějakou dobu.
+To znamená, já jsem měl nějaký
+výhled na to, co tam přijde
+a věřím tomu, že
+to bude
+dostatečný pro tyhle věci.
+Nahlédě na to, že nejsme jediná databáze, která
+je v Javě napsaná.
+Lucene s Elastikem jsou Javabased,
+Tavka je based, což není teda databáze,
+ale je to prostě běžně používané
+jako tool, který procesuje obrovské množství
+dát. QuestDB je
+Javovská záležitost.
+A hlavně
+vlastně
+když nám to nebude stačit,
+tak ta Java má celkem dobrou interoperabilitu
+s C.
+Třeba v tom QuestDB to hodně
+používají, že na těch
+exponovaných místech prostě se převolá
+C. A je tam prostě
+ta exit strategy do těch
+jako výkonnějších vod na místech, kde to
+má opodstatnění. Ale 80%,
+90% je v té Javě
+a dá se tam využívat všech těch
+výhod. A ty jsi říkal,
+že to je teda no SQL databáze
+a zaměřujete se nebo umí to pracovat
+teda s nějakýma semistrukturovanýma
+datama, ale a nějaký prostě
+XMLka nebo JSONy.
+Tímhle způsobem pracuje to třeba
+i s videama. Potřebovali jste řešit něco
+takového, jakože úplně nestrukturovaný data, obrázky?
+Ne, ne, ne, no toto ani není dělaný.
+Jako my jsme potřebovali hlavně
+vyřešit takový to, co vám řeší
+standardně raleční databáze.
+Do raleční databáze, jak je nebudete
+spát, jako nejspíš videa, obrázky,
+na to jsou mnohem lepší nástroje.
+Takže
+víceméně
+ono
+na tý datový úrovni, to je
+jako Key Value Store,
+kde používáte
+jako append only struktury, to znamená,
+on to nikdy
+nevěří.
+On nepřepisuje starý data,
+jenom víceméně furt appenduje na konec,
+pak je tam nějaká fáze
+při čištění, kde se vyházejí
+pohrobky a začíná se
+s aktuální verzií. Je to podobné tomu,
+jak fungují třeba LSM stromy,
+akorát, že LSM stromy se tam nechávají
+bloky historické, propadávají.
+U té Evity my to optimalizujeme na to,
+že tam je vždycky ten živej dataset,
+se kterým pracuje ten katalog.
+Tam ani není jako cílem
+si udržovat historicky všechny data.
+Tím, jak jsem říkal, že to je
+in memory, tak byť té paměti
+je teď už celkem dost, tak pořád
+ale je tam základní premisa,
+že všechny indexy se musí vejít do paměti.
+Když se nevejdou, tak vám
+prostě ten katalog nenastartuje.
+Tím pádem tam prostě ani
+nechceš mít historický data,
+chceš tam mít jenom ten živej
+dataset, ale který chceš mít rychlej.
+Protože třeba u ostatních
+databází to je taková šedá zóna,
+kde ta databáza si rozhodne,
+co vlastně v pamětí mít bude,
+co bude mít na disku.
+Takže tam máš potom někdy takovou
+neúplně předpokládanou
+latenci, když zrovna se položíš
+dotaz, kde třeba ten index opravdu
+si čáhne na ten disk, tak se to tam
+projevit musí. Když to my vlastně
+tady garantujeme, že ty indexy
+jsou vždycky v paměti.
+Takže vždycky tam chová se
+to potom předvídatelněji.
+A je to teda svižní.
+Tak to je super.
+Dotazujete se na ty data taky přes
+Javu nebo používáte nějaký Python nebo něco jiného?
+Ne. My vlastně
+máme celkem
+dost těch protokolů.
+Můžeš to používat jako embedovanou databázi.
+To znamená přímo ve své aplikaci
+si můžeš nahodit jako evitu
+a bavíš se přes její apy a jdeš
+jako přímo. Což je ta nejrychlejší varianta,
+protože tam není žádný protokol mezi tím,
+žádný překlady, nic. Prostě rovnou
+se ptáš.
+Nicméně takhle provozujeme
+ten starý prototyp,
+ale má to i jako nevýhody.
+Když otáčíš aplikaci, otáčíš
+s tím i tu databázi.
+Ta databáza na začátku si musí ty indexy
+natáhnout do paměti, takže ti to
+jako zpomalí start. Potom, když
+hledáš nějaký memory leak
+svý aplikaci, tak je problém ho najít,
+protože prostě ten
+heap dump je velikej
+a je tam plno dat, který jsou tam legálně
+a vůbec ti nepatřejí. Ty jsou tý databáze.
+Takže ty vlastně hledáš nějaký jako kousíčku.
+Hledá se to prostě mnohem
+hůř, než když máš jenom svoji aplikaci
+a vidíš na koláčovým grafu,
+hele, tady má čtvrtinu
+nějakej můj objekt, který tam nemá mít čtvrtinu.
+Tady tu čtvrtinu prostě neuvíš.
+No, takže další varianta je
+vlastně provozovat to jako separátní
+proces, takže máš potom
+nějakého tenkýho Java klienta, vedle toho
+ti běží jako jiný JVM, kde běží
+ta databáze a
+vlastně baví se to
+mezi sebou přes gRPC protokol.
+Tam jsme se nepsali prostě nic vlastního
+a použili jsme gRPC, což nám vlastně
+odemklo i to, že toho klienta teď
+můžeme jako dělat kdykoliv jinde.
+Máme teď vlastně jeden
+doktorant nám píše i
+C-Sharpovej driver, máme nějaký
+jako základ napsanej, ten doufám, že letos
+by se mohl jako dotáhnout do toho stavu,
+v jaký máme i tu Javu a zase ten použil
+prostě gRPC protokol,
+krásně to jako funguje.
+A je tam ještě jako výhoda
+toho, že i ten klient,
+když to máš embedovaně, nebo
+to provozuješ přes klienta, tak se tam
+používají stejné rozhraní. To znamená, ty můžeš
+jako říct s tou embedovanou
+variantou, pak se rozhodneš, že to chceš mít jako
+separátní proces a jediný
+co, tak změníš jako jeden
+úvodní jako klausuli,
+kde si nahazuješ místo toho serveru,
+toho klienta, ale pak veškerý apy
+vlastně na aplikaci nemusíš sáhnout
+a všecko ti bude fungovat stejně jako předtím.
+A potom ještě jsou další
+dva protokoly, který tam máme
+a to je GraphQL a RESTový
+protokol. To znamená,
+a to je celkem jakoby výhoda,
+že je to samopopisný,
+vlastně ve chvíli, kdy vytvoříš fevitě
+schéma
+a popíšeš ho,
+tak máš automaticky,
+jakmile zapneš jako GraphQL rozhraní,
+tak máš k tomu jako GraphQL schéma
+s veškerou dokumentací,
+se vším a to schéma odpovídá
+vlastně tvým datům. Není to jako
+generický schéma, který by říkalo jako
+tabulka a v tom přes value byly ty hodnoty,
+ale když máš prostě tam
+jakoby entitů s názvem
+produkt, tak v GraphQL
+schématu uvidíš prostě get product
+a vidíš tam přímo ty vlastnosti
+a jedeš jakoby do hloubky,
+vidí to i ty relace, takže opravdu
+to funguje jako grafovej
+graf, já nevím,
+ne grafová databáze, ne, ale prostě
+tak, jak funguje GraphQL, když prostě
+do hloubky tam, kde potřebuješ, tak to vlastně
+jako hezky vypadá. Podobně je
+nadizajnovaný i ten rest.
+Když
+budu chtít s tím pracovat na úrovni
+toho vývojáře, takže předpokládám, že tam
+bude několik teda SDKček, který nějakým
+způsobem teďka jako funguje, takže buď můžu jít
+přímo, jak se říká, přes GraphQL,
+můžu jít přes rest,
+má to vevnitř nějaký vlastně jako
+dialekt SQLka, můžu si napsat nějaký
+jako řekněme jako RAW
+dotaz, nebo musím používat tyhle
+z ty mezi knihovny. Máte třeba nějaký
+jako by vlastní studio, takový to klasický, když
+si k tomu připojit a dělat s tím
+jako větší vifikundace? Hele, ono, to je
+otázka peněz, vlastní studio.
+Ono to má, má to vlastní
+a by šlo udělat jako SQL parser
+a nějak to namapovat, ale ono to
+nedává, nedává to
+jakoby smysl, jo. Tam je ještě jedna
+taková jako myšlenka, která za tou
+Evitou jako stojí. My jsme se tam hodně inspirovali
+tím, jak funguje GraphQL,
+protože vlastně
+jeden z těch
+jako výkonnostních problémů na těch
+na těch e-shopech nebo katalozích
+je, že oni typicky se tam
+zobrazuje velký množství
+provázaných informací.
+Tam na řadu
+ušopů, když koukne,
+tak tam je prostě plno číslíček,
+plno jako nějak v propojených informací
+a když to
+píšete nad klasickou databází, tak zatím
+prostě jsou jako desítky, ne, ale jako
+stovky nějakých dotazů
+a když ne dotazů, tak se tam hituje
+nějaká cache, prostě je to jako složitý.
+Je tam jako plno, plno věcí se musí
+jako províst.
+A my jsme, my jsme vlastně chtěli
+to udělat tak, aby bylo
+těch, aby ideálně se
+co nejvíc výpočtů provedlo
+jako v jediném dotazu.
+Nebo aby to šlo víceméně třeba
+i nějak jako dávkově, stejně jako
+v GraphQL můžeš použít, v rámci jednoho
+requestu poslat víc queries.
+Jasně. Jo, tak vlastně takhle celý je to
+nadizajnovaný. Což má jako by
+tu výhodu, že
+ta databáze vidí
+celý obrázek toho, co ten
+klient potřebuje a dokáže
+mnohem líp optimalizovat. Já v rámci
+jako by toho výpočtu
+si můžu zachovat nějaký mezi výpočty
+a použít to vlastně
+při odpovědi
+na jako by další.
+Další otázky, jo. Typicky
+koukáš na kategorii
+s výpisem produktů, že jo, tak hlavní
+co tam je, je ten výpis produktů,
+který jako potřebuješ. No ale vedle toho máš
+třeba jmeníčka, jo, nebo další
+záležitosti. Nebo facety takový.
+Přesně tak, jo. A proč se na to
+ptát jako dalším dotazem,
+když ono to jako souvisí s těma produktama,
+protože to musí odpovídat. Ve chvíli, kdy se
+produkt jako vyprodá,
+zmizí, tak musí zmizet prostě i z těch
+facetů, nebo dokonce
+vlastně u nás se to chová i tak,
+že ve chvíli, kdyby jsi měl kategorii, kde se
+vyprodá poslední produkt, zmizí,
+tak i ta kategorie ti sama zmizí z těch jmeníček,
+jo, co se prostě propisuje skrz ten web
+úplně všude. Takže
+jako je velká výhoda, když se můžeš zeptat
+na ty produkty a říct, a by the way,
+v rámci stejného dotazu, budu potřebovat
+ještě jako tady to menu, takhle nějak
+jako by poskládaný potřebu, facetový filter
+a tyhle ty věci. A teda ta báze
+to má v jednom dotazu, víš,
+že to jako najednou bude, vlastně,
+že to bude štít jako by najednou, takže ona
+už si nějaký, nějaký části
+těch výpočtů,
+který měla, který musela udělat kvůli těm produktům,
+tak si vezme i pro ten facetový
+filter. Tím se to jako vyzdílí
+a zaplatíš méně času za ty výpočty, no.
+A se portíte i takový ty
+jako řekněme geospatial typy,
+že najdeme produkty
+nevím, rozmezí prostě
+deseti kilometrů v perimetru, takový ty věci.
+Zatím ne, ale to je jenom
+matematika, jako tam, jako máme to
+v plánu, je to jako ticket, no.
+Jo, a ještě vlastně s tím
+SQLkem to souviselo, proč jsem vlastně o tom
+takhle začal mluvit, je to, že
+vlastně v tom SQLku nemáš
+potom jako způsob, jak předat
+tyhle ty dodateční jako
+data, jo. Vlastně tím,
+že my to vracíme jako
+v objekty, tak my můžeme říct,
+tak tady se zeptal na produkty, tak tady máš list
+těch produktů a pak tam prostě máme
+nějakou něco jako asociovanou
+mapu,
+který dostaneš i ty další
+jako vypočtený data, jo. Hierarchickou
+strukturu toho menu, kde to prostě
+jenom vezmeš, ostiluješ, nemusíš s tím vůbec
+nic dělat, máš tam vypočtený, kolik
+to má podřízených kategorí, kolik
+je třeba v těch podkategoriích
+produktů a další věci, jenom to prostě vizualizuješ,
+jo. Což vlastně tím,
+že to zvládne ta databáze, tak
+se ušetří takovej
+ten kognitivní load těch programátorů,
+který to potom jako používají,
+jo. Protože když máš vlastně
+databázy, když typicky
+jako, že ty programátory řešejí nějaký
+biznesový zadání, to kolikrát samou
+sobě je komplikovaný, a druhá
+věc je, že pak řešejí ještě technický
+problémy, jak to vůbec vlastně udělat, jo.
+A čím víc, čím myslnější
+ta databáze, tím jako
+mým těch technických problémů musí řešit
+a řešejí víc ten jako biznes, což
+je jako výhoda, no. A když to teda
+začnu prakticky používat, tak
+jsou tam nějaký vlastně
+relace, nebo ty jsi říkal, že to je ve skutečnosti
+key value storage?
+To je na tý
+nejnižší úrovni, ale jinak je to víceméně
+ten základní objekt
+je tam entita. Entita. Jo, což
+by se dalo říct, že je dokument,
+ale... Ale není to
+silný schéma, takže
+může se to měnit v čase, nebo ne?
+Samozřejmě, v čase se to může měnit, ale
+jakmile to schéma máš, tak ti
+nedovolí z toho jakoby uhnout. Jo, takhle.
+Jo, není to takový jakože do elastiku
+si uložíš jeden dokument
+makovej a druhej takovej. No, takhle
+to není. Takhle to není. Jakmile prostě tam
+uložíš makovej dokument, tak ono to už
+potom bude takový schéma. Tak je to makový schéma.
+Což ale myslím si, že je jako dobrá věc,
+jo, protože pak z toho lezou
+kolikrát jako dost zvláštní
+jako vznikne ti tam jako nepořádek,
+aniž bys chtěl, jenom protože někdo
+udělá nějakou, nějaký typo.
+A najednou, najednou jako
+proprta, se ti tam objeví úplně proprta,
+která tam nemá být, dokumenty začnou ve vyhledávání
+chybět a podobné jako záležitosti.
+Já s tebou naprosto souhlasím, protože i u těch
+nových school databází stejně tam, že nějaký
+schéma vždycky máš, vždycky ty data lezou
+v nějakým tvaru, který ty očekáváš.
+A buď ho máš na databázový úrovni,
+nebo ho máš na úrovni mapperu, který z toho
+anonimního Jasonu, to musí stejně
+nějak vytvarovat do nějakého typu, pokud jsme teda
+ve světě jako strongly type jazyku.
+No, no, no, přesně tak. Takže ono to vlastně funguje
+tak, ono to tam má režimy
+takzvané evoluce,
+když seš úplně jakoby jednoduše
+to začít používat, tak neřešíš žádný
+schéma, začneš z toho sypat ty entity a ono
+se to z nich naučí, jo, jak to
+má vypadat, jaký jsou tam jako
+relace a tak, ale jakmile
+už jednou tam zapíšeš nějakou strukturu,
+tak všechny ostatní entity musí být
+jakoby podobný, takže ono se to jako umí samo
+naučit. A nebo můžeš říct
+tohle je striktní téma a nesmí se
+z toho uhnout. Jo. A nebo můžeš mít
+jako ještě semi
+variantů, kdy řekneš, tak tohle je
+základní schéma,
+tam se nesmí uhnout, ale když někdo přidá
+novej atribut, tak se ho nauč. Tam mi to třeba
+jakoby nevadí, jo. Nebo použije
+novou karenci, novej jazyk, jo, takže
+můžeš si takhle jako selektivně říct, co
+se to může doučit, nebo
+ne. A my vlastně to schéma
+jako potřebujeme mít silný,
+protože aby jsme mohli udělat ty
+GraphQL a restovat. Jo, jo, jo.
+Ve chvíli, kdy ty tam nasypeš to
+schéma, tak dostaneš vlastně
+open upy, popis
+restovýho protokolu.
+Jo, jo. To bez schématu
+neuděláš. No jasný, bez toho to nejde.
+A když já přidám novou propertu v průběhu
+čase, tak se stane, že je optionu,
+že jako, protože ty starý třeba
+dokumenty ji nemají, já jsem ji teďka přidal
+novej, který ji rozšířil, tak ty
+starý logicky je to jakoby volitelná tím pádem
+nebo nulébl, nebo jak vy to tam
+pracujete s nejistotou. Když přidáš,
+když přidáš povinnou, tak ji musíš
+dát jako defaultní hodnotu. Jo, takhle, tak ji musíš
+dát default, když se to nastaví na ty starý.
+Takže ono se potom jako doplní k těm starým, no. Jak tohle funguje
+v Mongo třeba? Če tam taky máš vnořený
+potom různý properties, že jo?
+Ale co je v Mongo, tak tohle
+z toho jako vůbec na úrovní databáze neříš.
+Tam prostě spešt jasný, jako na zdar hodiny.
+Tam akorát samozřejmě, co řešíš, je to IDčko,
+který má být jako
+prostě nějaký unikátní způsob,
+jako vytáhnout ven, ale jinak to,
+ten payload, jako to je na tobě.
+No to je právě, to je to sexy,
+ale zároveň to tě nakope v praxi,
+protože stejně vždycky, pokud
+to celý nepíšeš nějakým jako dynamickým
+způsobem, tak i tak i v dynamických
+jazycích prostě ty data v hlavě
+mají nějaký tvár vždycky, takže
+stejně dojíte k tomu, že někde potřebuješ hlídat
+tu konzistenci toho
+a jo, že ti to leze z databáze správně
+zapsaný a dojíte do ještě
+k tomu úplně stejně, takže proto
+naprosto chápu tuhle tu cestu, kterou se
+u Evity vydali. No to musíme vytvořit.
+Máš ještě dva týmy, že jo? Máš ten
+backendový tým, který se stará třeba o to schéma,
+ale pak máš frontendový tým, který ho
+konzumuje, nějak ho zobrazuje a tak jo.
+To schéma budu řešit už jenom kvůli tomu,
+aby ty lidi se dohodli a tady vlastně
+ho máš jako implicitní, už jenom tím, že
+oni založí nějaký atribut, dají tam description,
+dají tam typ, tak frontendělci vidějí.
+Já jsem právě v té první verzi,
+jak se dělá, vlastně nad tím děláme
+nextový rozhraní, tak jsem
+čekal, kolik bude dotazů.
+Jo, a minimum,
+jako oni prostě viděli to schéma
+a poradili si, tam jako tak
+jako samopopisný, že nepotřebali
+další. Navíc ještě
+vlastně, když se to používá z toho GraphQL,
+tak už máš vlastně k dispozici hotový
+editory, který vezmou to
+schéma a vlastně dělají ti auto-completion.
+Takže oni, a tím, že to tam
+je kontextově správně, když jako
+proklikáváš do hloubky, myslím, tam vlastně
+na tomhle dělal kolega Lukáš Horných
+a myslím si, že to je jako udělané úplně
+superově, co se týče kontextu a toho.
+Takže vlastně tím, jak tvoříš ten dotaz,
+tak ty se zároveň to schéma, se v něm
+orientuješ a ono tě to vede.
+Fakt tě to navádí.
+A vlastně i to rozdělení na queries a mutations,
+tak ono vám to pak pomáhá v tom, co jsou
+teda ty změnící operace a co jsou
+jenom pročtení, se kterýma můžeš pracovat
+jinak. A to jsme mimochodem právě přebrali
+i pro ten vlastně, pro ten javovský
+základ, že Evita
+je postavená hodně immutable.
+Až na úroveň té datové vrstvy,
+jak jsem říkal s tím append only
+storem, tak ona ale takhle funguje
+i jako vnitřně.
+To znamená, ty entity jsou immutable.
+Takže tam, když si načteš v Javě entity,
+tak na ní můžeš číst.
+A ve chvíli, kdy chceš udělat nějakou
+změnu, tak ji musíš takzvaně
+jako otevřít. Ono ti to vrátí builder.
+Na builderu voláš ty
+mutační metody a ve chvíli, kdy
+ji vlastně absurdneš zpátky,
+tak ono si to vlastně udělá seznam
+mutací, který jsi tam provedl.
+Takže když bys tam udělal třeba, já nevím, přidání
+a hned odstranění, tak se to eliminuje
+a vůbec se to nebude chybovat a tak dále.
+Takže vlastně se vezme jenom seznam mutací,
+netlogu, protože to je
+logická sede operací,
+kterou tam potřebuješ udělat.
+A jakmile to aplikuješ,
+tak vzniknou nový verze
+Entit, ale i nový verze Indexů
+a všeho. Tam prostě se nic
+neupdatuje in place.
+Tam vznikají vždycky nový verze.
+Což jako zjednodušilo.
+Některé věci to trošku se
+zesložitilo při programování,
+ale celkově to úplně
+zjednodušilo tu práci s tím
+a tu předvídatelnost.
+Ta imutabilita tomu dala úplně jiný
+nádech.
+A ono to tak trošku tlačí i ty vývojáře k tomu,
+aby tu imutabilitu
+zanesli do svýho kódu.
+Protože když ta databáze chce po tobě,
+aby si v tomhle s tom přemýšlel,
+tak čekal bych, že mě to maličko bude kopat do kotníků,
+abych to aplikoval dále.
+Tento způsob, ne?
+Hele, musíme s tím taky nazbírat zkušenosti.
+Víceméně to, co z toho dostaneš,
+je read-only a musíš udělat ten step navíc,
+aby se zůstal k tomu možnost to modifikovat.
+Ale
+další komplikace je,
+když s tím potom komunikuješ
+bez nějakého prostředníka,
+bez nějakého toho driveru, tomu říkáme,
+a používal bys přímo to gRPC,
+tak tam musíš dávat
+přímo potom na zápis ty mutace.
+Nebo i přes to GraphQL,
+musíš tam prostě dát ty mutace.
+Což je prostě jakoby zdlouhavý.
+Proto si myslíme, že
+pokud se to bude mít,
+že se to bude chtít používat z nějakého jazyka
+na ten zápis,
+čtení je OK,
+ale při tom zápisu tam pravděpodobně
+bude chtít vyrobit nějakou malou vrstvičku,
+která přidá tyhle buildry
+a přidá tam ty setry, na který jsou
+programátoři zvyklí a nebudou muset
+řešit ten překlad do těch mutací.
+Čím jste se
+vlastně inspirovali při tvorbě
+Evity?
+Spoustu věcí, které tady řešíme,
+to jsou známý věci,
+ale zároveň mně přijde, že jste to použili
+velmi kreativně. Odkud jste tak
+sondolovali kolem?
+No něco máme
+vlastně z té praxe,
+takový jako zárodky některých věcí,
+prostě ve Forstu
+se vytváří jako podobu fakt jako patnácti let,
+tak jsme jako vybrali to, co se nám
+osvědčilo a to jsme
+tam jako aplikovali.
+Pak velká inspirace byla právě to
+GraphQL.
+Tam třeba i na úrovni
+vlastně té Javy,
+tak tam máš možnost si načíst
+jako graf těch entity, ale ne načítáš to
+po jednom, nespojuješ si to.
+Prostě když chceš mít jako produkt
+a chceš k tomu
+i třeba značku nebo zařezení
+v kategoriích a k těm
+kategorími ještě štítky,
+libovolně do hloubky, tak ono to funguje jako graf.
+Ty se rovnou prostě v tom dotazu řekneš,
+ale chci tohle z toho načíst, tam si to vrátí
+už hezky popropojovaný
+jako graf objektů.
+Pak vlastně co se týče toho
+query language, tak my tam vlastně
+používáme nějakej vlastně
+vypadá to jako sada vnořenej
+funkcí.
+Je tam použitá
+polská notace, kde máš vlastně na začátku
+něco jako název funkce,
+závorky a argumenty.
+Ty mezi argumentama můžou být jako vnořený
+funkce. Takže vlastně ti to tvoří takový
+jako strom toho
+dotazu.
+Takže vlastně třeba když to používáš z té
+Javy, tak tam vlastně chybí ten
+prostředník toho psanýho textu, toho
+jako psanýho SQLka,
+ale rovnou tam i tváříš objektovej
+strom toho dotazu, který
+přímo ten stroj použije, takže
+tam odpadá prostě
+nějaký injection problémy a další záležitosti,
+protože tam nikdy nefiguruje ten string,
+rovnou prostě jsou to ty objekty.
+A hlavně se nám to jako ve Forestu to používáme
+už přes deset let,
+možná patnáct.
+Tenhle ten jako tuhle myšlenku,
+tenhle z těch jako dotazů, který ti plujou
+tím kódem ve formě stromu.
+Protože se s tím úplně parádně
+pracuje, když tam třeba máš
+nějakou,
+dejme tomu,
+chceš, aby část toho dotazu se ti tvořila
+na frontendový vrstvě,
+ale když ti to přichází do té servisní vrstvy,
+tak tam na tím potřebuješ udělat třeba nějakou analýzu
+a z hlediska třeba nějakých oprávnění
+tam potřebuješ přidat nějakou další podmínku,
+která ti zajistí, že
+se tam jako nedostane k něčemu, co nemá.
+Což když ti, když jako ti
+plujou někde stringy, tak se to dělá
+strašně blbě, takže většinou
+potom lidi dělají to,
+že mají jako metody s omezeným počtem
+parametrů, což je potom zase jako
+neflexibilní, protože čím víc
+parametrů je, čím víc kombinací je,
+tak tím je to opíčko
+horší. Pak se předávají DTO objekty
+a už se skoro blížíme
+k tomu stromu dotazů,
+který je tam, kde vlastně chceš bejt.
+A potom přes Visitor Pattern
+si to můžeš proiterovat, přeskládat,
+udělat úplně cokoliv.
+Takže vlastně z toho to vyšlo.
+To máš na úrovni
+jelovskýho protokolu nebo dotazování
+vlastně do té evity, ale
+velmi podobný je to i v tom GraphQL,
+a RESTu. Tam jsou nějaké
+specifika, které mají
+logiku v tom daném protokolu,
+ale my jsme to schválně designovali ten jazyk tak,
+že když si dáš vedle sebe dotaz
+v Javě, v C-Sharpu,
+v RESTu, v GraphQL,
+tak to vypadá vizuálně
+jako velice podobně. Pochopíš
+z jednoho druhýho,
+je to tam strašně jednoduchý.
+Takže vlastně jsme se na to dívali
+i takhle, aby jsme opravdu měli ten stejný
+pohled skrz různý protokoly.
+Protože co, když se bude potom
+back-endák,
+bavit s front-endákem a on řekne,
+tady ti posílám tohle,
+tak on si se to pak přemapoval.
+Čím méně toho bude přemapovat,
+když to tam uvidí, tím líp pro všechny.
+Takže i takhle jsme na to nalíželi.
+Promiň, pojď.
+Mě ještě jedna věc,
+protože vím, že na začátku to Honza říkal,
+že spolupracovali s UHKčkem,
+naší alma mater. Jak tam pomohlo
+to univerzitní podhubí?
+Jak vlastně probíhá ta spolupráce?
+Jo, jo, hele, takhle.
+Ten grant byl boží v tom,
+že my jsme se mohli dovolit
+to skutečně ověřit
+ty naše hypotézy,
+že to je posazený
+nějak do reality.
+Tam vlastně ten projekt fungoval tak,
+že my jsme věděli, jak vypadá
+API toho,
+zhruba API, který se používá v e-commerce,
+co od toho potřebuješ.
+Když se koukneš na všechny
+ty e-shopy, oni jsou svým způsobem
+si podobný.
+Jasně, tak řešejí podobný problém domenově.
+Řešejí domen.
+Takže je možný tam dát nějaký jednotný
+API, který si nejspíš sedne.
+A vlastně tak, že jsme vytvořili nějaký
+API, jazyk, ty funkce,
+který to musí mít.
+Zároveň jsme měli už nějaký data z provozu
+a nějaký data, který nám
+propůjčili ty naše zákazníce
+na testování. Takže jsme měli
+reální data, reálnej provoz
+a nad tím API. A teď jsme
+ten projekt udělali tak, že
+vznikly tři týmy, dva na univerzitě,
+jeden ve Forestu a dělali jsme tři
+paralelní implementace téhož
+na stejných datech, se stejnýma
+vstupama a úplně na začátku
+byly krom nějakých funkčních
+testů, který testovali,
+že to opravdu vrací to, co to má vracet,
+tak byly napsaný i výkonnostní testy.
+Takže vlastně kluci hned už
+v záhy, já nevím, po dvou měsících
+nějakého vývoje
+jsme mohli pouštět ty testy
+a vzájemně jsme porovnávali,
+jak si na tom stojíme, což bylo
+pro všechny jako škola.
+S tím, že ten jeden tým
+na UHKčku to stavěl na Postgresu,
+druhej na Elastiku.
+Jsme chtěli vybrat databáze, na kterých se to
+nejčastěji staví, musí to být
+jako open source free databáze, protože na nich
+se to skutečně jako nejčastěji
+staví, takže tohle si myslím, že ty
+zástupci to relativně jako charakterizujou
+a všichni měli úplně stejné
+podmínky, stejný úkol
+a sledovali jsme teda, jak si s tím jako poradíme.
+Takže to bylo jako super,
+že jsme si tohle mohli dovolit.
+Já jsem jako původně trošku čekal,
+že víc třeba tam bude
+jako doktorantu, nebo že se dostaneme
+k profesorům a tak, ale většina
+toho týmu byly studenti.
+Naštěstí ty studenti jako jsou
+některý jako fenomenální. To bylo pro mě
+jako velký překvapení,
+že člověk jako furt
+má tendence
+jako jít po seniorech
+a lidma služce zkušeností a tak,
+ale jako ty studenti někdy...
+Jsou otevřený, víš?
+Jo, jako klobouk dolů.
+A i kolikrát, co se týče třeba
+nějaký čistoty kódů a dalších věcí,
+třeba ten Lukáš Horných, to je vlastně
+kluk, který mu je, myslím, nějak kolem 25,
+fakt jako celkem jako mladej.
+Ale co se týče jako pohledu
+na ten kód, na strukturování,
+na tu čistotu, tak jako
+klobouk dolů tam jako
+i já jsem
+byl rád, že tam některý věci
+jako odhalil a dostal to jako
+taky jako na vyšší úroveň.
+Takže opravdu tam byly lumeni celkem v těch týmech.
+Na to jsem měl kliku.
+Tak to je super. Jaký obecně
+teda lessons learned jsi z tohohle celého
+odnes? Kromě toho, že teda máme teďka
+funkční evitu a k tomu se ještě dostaneme, jak se k ním
+můžou dostat posluchači, ale teďka
+teda kromě toho stavu, ano, evita
+existuje a je dobrá a makáme
+na ní nějaký jako boční,
+třeba ověřil jsi nějaký hypotézy
+týkající se toho texteku, nebo naopak jsi
+naučil nějaký nový věci, jak fungují databáze,
+data provázanost, grafy?
+Jo, no já osobně jsem se naučil
+strašně moc, o těch databázích člověk
+jako vidí dovnitř mnohem
+víc, než jsem viděl dřív.
+Já můžu doporučit, já nevím, jestli znáte
+Andy Pavlo, se jmenuje
+profesor, učí na Carnegie Mellon
+a je to jako velká ikona, co se
+týče databází. A on ty
+svý přednášky nahrává, takže
+vlastně to, za co studenti jako draze
+na Carnegie Mellon jako platí,
+tak je volně jako dostupný a internetu
+a jsou tam jako neuhyřitelný věci,
+protože on třeba se mu daří sehnat i
+hosty prostě ze Snowflakeu
+a z dalších těch
+a rozebírá, jak to tam mají vnitřně
+jako udělaný a teď to porovnává s ostatníma
+databázama jako obrovská
+jako škola. A dá se tomu rozumět, nebo musíš
+pít několik semestrů matik?
+Ne, ne, ne, dá se tomu rozumět,
+no, jakože on taky, je to tam
+jako semestr, začneš s tou první,
+má různý kurzy na různých
+úrovních, takže člověk do toho jako
+pronikne, no.
+Jenak co se týče potom toho jako srovnání,
+tak ty hypotézy jsme se jako
+řekl bych potvrdili,
+ono samozřejmě,
+asi ty prototypy by vypadaly jinak,
+když by to dělali profíci,
+který mají jako 20 letý zkušenosti
+s Elastikem,
+jo, tohle
+z toho pořád jako byli studenti, který
+pro některý to bylo na začátku jako celkem
+jako nová věc, jo. Nicméně
+jako přiznejme si, když firma
+začne dělat jako e-commerceový projekt,
+má 20 let zkušeností s Elastikem
+jako v tomhle prostředí, nebo ne.
+Takže mně připadá, že jako ty závěry,
+které jako vzešly z těch týmů a nebyly tam
+hloupí lidi, že jsou relativně jako
+relevantní, jo. A tam
+tam se jako víceméně jako potvrdilo,
+že třeba oproti Postgres databáze
+my jsme tam dosahovali jako 100x lepších
+výsledků, jo. I vůči Elastiku
+10x, jo. Samozřejmě
+neznamená to, že my jsme jako tolikrát
+rychlejší na všetký use case,
+my jsme jako na ten náš jako use case,
+jo. Tam je zase jako výhoda v tom,
+že jako tím, že my se specializujeme
+na ten jako, na ty katalogy,
+na ten e-commerce, tak my ty funkce
+dokážeme jako líp pokryjit, jo. Ony jsou
+obecní, jo. Elastik,
+samozřejmě, když budeme prohledávat jako logi, jako
+Elastik, tak budeme úplně jako
+strašně na tom, jo. Ale
+pro tyhle naše jako úlohy
+jsme zoptimalizovali.
+Jste prostě domain driven databáze, ne?
+Je to tak, je to tak, no.
+S tím, že pak se i hezky
+mám vlastně na
+na tý naší sajtě Evita
+DBIO,
+tak jsou i výsledky toho výzkumu a jsou tam
+papery vlastně od kluků, který
+jako popisovali, když to implementovali na týdenní
+technologii, jaký těžkosti
+tam jsou. A skutečně
+jako z toho vyplývají celkem jako
+zajímavý závery, jo. Třeba ten postgrep,
+byť byl jako
+výkonnostně na tom jakoby mnohem hůř,
+tak stejně se tam dělali úplně strašní
+zkratky, aby to aspoň takhle fungovalo,
+jo. Třeba ta první verze, která byla
+skutečně v takový ty normální formě, jak se
+zabily už jako v ranní fázi,
+protože na základě těch
+výkonnostních testů se ukázalo, že třeba
+jako import toho datasetu
+tam jako trval na začátku několik hodin,
+jako v 4 plus hodin, jo.
+Přitom my jsme to tam nalili za 20 minut,
+tak v tu chvíli jako, jo.
+A další věci se na tom jako
+odhalovaly. Takže pak kolikrát
+se jako zjistilo, že byť jako ta databáze
+poskytuje nějaký funkce,
+že jako celkem na první pohled
+vypadají dobře, jo. To mi ten problém řeší.
+Tak ve chvíli, kdy to jako nasadíš
+na větších datech,
+tak najednou zjišťuješ, že ten výkon
+tam prostě z toho nedostaneš.
+Takže stejně ji nevyužiješ, stejně jdeš do nějakých
+jako kompromisů, řešíš to nějak
+jako jinak, jo. Takže nakonec
+třeba ta raleční databáze byla využitá
+jenom jako indexy,
+ale pak ty data byly uložený jako
+blob tam prostě v tabunce, jo.
+Jasně, jasně. Jako ten dokument.
+Což potom pak jako je otázka,
+jestli ti ta, k čemu ta raleční
+databáze, kde jsou ty výhody, jo. Stejně je potom
+negraduješ, jo.
+No, jelikož my už
+totálně přetejkáme do basketbalu,
+jak se říká, ale mě tohle
+téma strašně ještě zajímá a já bych chtěl,
+aby nějakým způsobem jsme to nechali jako by
+otevřený i pro ty naše posluchače, aby
+si to mohli sami vyzkoušet. Takže
+poslouchám pod vodcasem, jsem úplně
+natěšený na Evitu, chci si
+to vyzkoušet. Co mám
+teďka udělat, kam mám jít, co mám udělat?
+Jo, já ještě teda disclaimer,
+je to pořád alfa verze,
+ještě jako nemáme jedničku a ještě tam budou
+jako ostrý rohy, některý věci tam
+jako doděláváme. Nicméně,
+můžeš si stáhnout docker image
+a za pár vteřin ti to běží.
+Máme
+v Jarka jsou publikovaný na Maven Central,
+na GitHubu si to můžeš vyčekoutovat,
+skompilovat, pustit si testy.
+Dotentí SDKčko děláte, ne?
+Dotentí SDKčko děláme,
+to je taky na GitHubu, ale to je jako
+hodně rozpracovaný.
+Plus máme vlastně na
+EvitaDB.io, je přímo jako běží
+ten Evita server, jsou tam otevřený
+ty protokoly, je tam nalitý nějaký schéma,
+který je jako by naše forestí
+s nějakým demo datasetem,
+takže když se chceš
+jenom to rychle vyzkoušet, podívat se,
+jak vypadá to schéma, jak vypadají ty dotazy,
+tak můžeš vzít jako libovolné ního
+grafky klienta, ukázat jim na URL
+a už se s tím můžeš hrát.
+My to používáme i vlastně
+v rámci dokumentace,
+že vlastně
+když dokumentace
+tento jazyk na té
+sajtě, tak tam jsou příklady, které právě jdou
+na to demo. A my to vlastně
+cross-ověřujeme, máme automatizovaný
+testy, které zpouštějí příklady
+proti těm datům a vlastně
+nám to celý ukáže, že nemáme
+nějakou zastavou dokumentaci.
+A já vám to tam můžu mutovat a vy mi to jednou
+za hodinu otočíte zase na ty demodata?
+Ne, je to retownly.
+Je to retownly, jojo.
+Já to si říkal právě.
+Jestli chceš mutovat, tak si stáhni dokry image
+a stáhni si zip s těma datama, ten si jenom
+rozbalíš, ukážeš volume a můžeš
+si lokálně to zamutovat, jak chceš.
+Paráda, paráda. No hele,
+Honzo, to jsou jako neuvěřitelný věci.
+Já si to určitě půjdu vyzkoušet.
+Úplně na závěr, klasická otázka.
+Co budou další kroky? Tebe
+jako Honze Novotnýho.
+Budeš teďka šlapat ještě víc do Evity
+nebo ti čeká ve Forestu
+zajímavý projekt, kromě teda toho, že
+musíme říct posluchačům, že jsi stával dneska
+asi v půlpátý, takže předpokládám, že
+nejbližší cesta povede někam do Peřin.
+To je projekt sám o sobě.
+Vlastně až večer do Peřin.
+No ne, já teď ještě se budu chvíli zabývat Evitou,
+protože my to teď začneme
+nasazovat do produkce zase na nás
+samých, což je taky...
+Dogfooding, pěkně. Přesně tak, to je dogfooding
+jako nejvyššího režení, že tu databázi si
+opravdu vyzkoušíme a budeme provozovat sami.
+Takže takhle, já bych
+chtěl ještě, jestli můžu si dovolit takový jako
+call to action, kromě na pozvání na
+Jopenspace, který už padlo, tak
+ještě nabízím pro mě
+tím, že jsem vlastně zatím
+Evita projektem, tak je důležitý jako získávat
+nějaký feedback, nejenom
+jako od nás. My samozřejmě
+máme nějaký bias, nějaký
+naše scénáře, ale to neznamená, že jsme
+jako, že někde jinde neřeším něco
+jinak, nebo nemají jiný potřeby. Takže
+pokud by nějaká firma, nebo
+nějakej tým řešil e-commercevý projekt,
+uvažovali by na tou Evitou a byli
+takový jako váhaví, jestli jo, nebo ne,
+tak tenhle podcast je na to příliš
+krátkej, můžou mě kontaktovat,
+kontakt je na těch
+webovkách Evita DBIO, já za nima klidně
+přijedu, můžeme udělat nějakou hodinou,
+dvouhodinou session, kde to rozeberem,
+jak se to pro ně hodí, nebo ne
+a budu mít mnohem kompletnější
+jako obrázek
+o té Evitě. Takže...
+To zní velmi dobře, posluchači, kdybyste chtěli
+využít jídla možnosti, mít Honzu
+dvě hodiny k dispozici, tak a probrat
+Evitu, tak to si myslím, že je
+to je výborná záměnka
+k tomu, aby přijel Honza a mohli jsme si dvě hodiny
+povídat. Přesně.
+Napíšem tě zejde.
+Super. Honzo,
+těšilo mě opravdu jako osobně,
+že jsi dorazil, že konečně po těch letech,
+co tě sleduju zpoza plotu, jsem
+tě konečně mohl poznat i face to face.
+Moc přeju, ať se ti daří, ať se vám
+Evita rozjede, já si ji osobně vyskouším
+a to smůžu já k tomu napíšu
+přes víkend nějaký F-sharpí vrapr
+nad tím dotytím s DKčkama, aby se to dalo líp
+používat, koryž je to imutabilní, tak dofrčit
+z té nádhera. Ať
+se daří a moc děkujem,
+že jsi dorazil. Jo, díky za pozvání.
+Díky. Měj se fajn, čau, čau, čau.
+Tak to byla zase brutální informační
+nálož. Myslím si, že to bylo
+zase tradičně super. Já jsem
+hrozně rád, že jsem ho konečně viděl face to face. Fakt jako
+mě to lidsky vlastně udělalo dobře,
+že jsme se poznali, seznámili,
+potřásli si rukou, protože jedna věc
+je bejt z jinýho texteku,
+druhá věc je, že prostě musíš respektovat to, když
+je někdo prostě zabiják a je hrozně dobrý
+být, dělá džavu.
+To zní blbě, jo, ale...
+Ale prostě on to byl super,
+hrozně se mi to líbilo. Já mám hrozně rád lidi, co jsou
+nadšený do toho, co dělají. A když jsem začal mluvit
+o Evitě, tak to si úplně viděl, jak mu...
+V očičkách se rozdělili. No, no, no, přesně.
+Jako hrozně ho to bavilo. A taky teda
+mě to zaujalo velmi. Protože to jsme
+tady ještě neměli, ne? Někoho, kdo by si dělal svoji databázy.
+Ne, ne, ne, to je úplně poprvý.
+A vlastně se mi líbí, že i se rozhodli, že
+budou řešit specifický problém, specifický
+segment. Řeknou, hele, je to e-commerce,
+že samozřejmě na full search
+v lozích to nebude dobrý,
+jak zminoval. Ale zase, když chci
+mít katalogy, když chci mít facety, když chci
+mít prostě tyhle ty věci, který řeší
+99,9% e-shopů,
+no tak můžu na to mít speciální
+databázy. A podle mě to je úplně
+super. To je ten způsob, který si myslím,
+že se vlastně má dělat. Že
+na specifickou doménu aplikuju specifický
+řešení. Ne, že vezmu jednu
+prostě MSSQL a prdnu ji
+na cokoliv, protože pak nejdeš v typický
+use case, kdy ti to prostě schoří, jak Johanka
+Sarku, protože prostě to na to
+není dělaný. Takže mně se tohle líbí, já jsem
+z toho nadšený, vyskouším si to. Vyskoušej a
+určitě bychom mohli pak o tom poreferovat, to mě zajímá
+taky. Pak to myslíš jako v další sérii?
+No kdyby třeba, velá rozhodnutí. Kdyby třeba,
+nedej vůdě, že uvědomuje si, že jsme vlastně na konci.
+To je vždycky takový zároveň
+smutný, než? No takhle, je to
+jenom, máme to ve svých rukách. Honza říkal
+tady mimo záznam, že to je vlastně hrozně
+chytrej tak, že kdykoliv na konci
+té série můžeme říct bye bye a už jenom
+novou neotevřít. Jasný. A
+každej ví, že vlastně jenom jsme jenom
+nezačali, ale není kolem toho žádný patos, protože
+s každým tím koncem série
+je to takový malý jako konec.
+Takže uvidíme. Já bych to viděl, užijeme si léto.
+Už teď je asi 37 tisíc stupňů,
+mám pocit. No to dám, to tady už je
+neúnosně teď. Takže užijeme si léto,
+trošku se opálíme, dáme se
+do frcu, no a uvidíme.
+Co? Uvidíme.
+Přátelé, uvidíme. Vypadá to nadějně,
+řekl bych. Teď jsem řekl do frcu,
+tývej, není to, že když chceš něco zastavit, že to dáš do frcu.
+Já jsem říkal, že se dáme do půlcu.
+A teď můžeme věřit do frcu. Což si otevřel zase
+úplně jiný interní
+joke. Jo, jako když chceš
+něco prodat, tak to dáš do frcu, ne?
+Neříkáme se to. A co jsi řekl teď, že se dáš
+do frcu? Já jsem do frcu, já jsem chtěl říct do půlcu.
+Jo, do půlcu. Jako, že se dáme,
+že budeme ve vůni a začneme sedmou tady.
+Vlastně hlavně se nenávej do frcu,
+protože to bychom tě už nemuseli vidět.
+Jdi se do půlcu a přejd. To je dobrý, mě byste nikdo nevykoupil,
+abych tam byl furt. Tak jo, přátelé,
+jak vidíte, je nejvyšší čas skončit.
+Mějte se krásně, přejeme vám
+krásné léto. My dřív než v srpnu
+určitě to nevykopneme
+a pokud to nikdy ještě vykopneme, kdyby ne,
+tak nás těšilo, kdyby jo, tak se těšte
+na další sérii. Mějte se
+krásně. Čau. Čau.

@@ -1,0 +1,2378 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Krásný den velí posluchači, vítejte u dalšího dílu vašeho nejoblíbenějšího IT podcastu Pod vocasem,
+no a samozřejmě i ve třetím díle deváté série naproti mě sedí, jako vždy,
+perfektně oblečený, připravený, usnivavý, natěšený Petr Polipolák.
+Přátelé, naproti mě dneska sedí Roman Joker provazník,
+ale opravdu ve vůni, tyjo, ty máš nějaký nový parfém, ne?
+Tyjo, ty jsi to všimnul si, že?
+No, no, no.
+No, mám, mám, já to mám totiž kvůli naší společní kolegini,
+mé bývalé šefce Luzce.
+Ano, ano.
+Já jsem si ho totiž jako včera koupil a ona se dělala srandu,
+jestli si ho jako hned vyzkouším, tak říkám, že naopak,
+že to ráno ještě přeženu, aby až dotočíme, aby to furt cejtila.
+Tyjo, brutální, brutální.
+Tak musím tě říct, že jsem to necetil a že mi psala včera,
+že to mám zmínit.
+Ty jsi, jo, jo, jo, jo.
+A tímto zdravíme Luzku Kromovou, protože dala nám šťávičku na začátek.
+Ale já si pak čuchnu, jo.
+Já jsem tomu jenom připravený, ale samozřejmě určitě to voní.
+Počucháme, počucháme.
+Dobrý, tak já jsem se bál, že jsem to hned na začátek přepálil,
+tak dobrý.
+Ne, ne, ne.
+Tak teda, Luzko, tohle máš u mě.
+No nic, jdeme na dnešní díl.
+Chtěl probrat. Za prvé, co říkáš na nejnovější ČGPT.
+Já jsem si to zkoušel a je to zase, ty vole, jako nabušený.
+Já jsem, teďka jsem vlastně připravoval prezentaci na,
+já jsem byl včera v Brně prezentovat a připravoval jsem přes ní
+a jel jsem teda hodně dalíčko.
+Nevím teďka, co myslíš konkrétně za funkcionalitu novou,
+nebo jestli myslíš všeobecně jako ten model zase.
+No, no, no, jasně to. Čtyři O.
+Jo, jo, jo, ale jede to hrozný bomby.
+A když jsem používal to, že mi to generoval ty obrázky,
+tak já jsem fakt zvědavej, kdy se to zastaví.
+To už je fakt neuvěřitelný, co ty dokážeš s tím udělat
+a jak to vypadá reálně. Je fakt jako pecká.
+Takže jsem zvědavej s tou pětkou, kterou oni avizujou,
+jestli to teda už opravdu bude něco, co ani nepoznáš,
+že si generuje někde nějaká neuronka.
+Mě zaujalo, že teda vlastně jim vylepšili pricing.
+Pro a píčko. Že vlastně to dělají víc a víc dostupný.
+V podstatě některý lidi na Twitteru se začali hádat,
+jestli není nejlepší zrušit celý to plusko.
+Tento subscription a jít prostě do fríčka,
+protože možná pro běžnýho frontu uživatele,
+jak my rádi říkáme, tak to možná stačí.
+No jasně, jasně. Hele jo, možná že jo.
+A ještě by mě zajímalo, jestli zlepšili to s Tonadem.
+Nevím, jestli to víš, když tak nám napište, milí posluchači.
+Jestli to zvětšilo i počet tokenů.
+Mně se občas stalo, že jsem se Sinátorem v autě hrál hry.
+Takový to dávají nám otázky přes ten voice mode modul.
+A ono mi to jako, šlo to čím dál do kratší diskuze,
+že mi řeklo, hele, vyčerpal jsi všechny kredity,
+zase se vozvi za 12 hodin.
+A to si právě myslím, že u té nový verze
+vylepšili právě v tom ten pricing,
+že ty, když zůstaneš u té subscription,
+tak máš víc těch tokenů a máš lepší limity
+a všechny tyhle ty věci.
+Takže možná, pokud jsi takový ten intenzivní uživatel,
+by narušit.
+No jasně, jasně. No tak pecka, pecka.
+Tak nám dejte vědět, milí posluchači, jak se vám to líbí
+a ty už si chtěl jít dál.
+Ne, ne, já jsem chtěl ještě říct jednu zajímavou věc,
+nebo chtěl jsem pozdravit našeho bývalého hosta,
+který tady byl, Vojtu Mádra,
+který dělá podcast Program HRování
+a pozvali mě, ještě teda nevím, kdy to bude,
+ale milí posluchači, pak když chcete slyšet
+mě trošičku navážňo, řekněme,
+víc jako navážno, což není úplně…
+Kráso, tak to si dám teda.
+Jo, protože pro lidi, kteří se mnou nepracujou normálně,
+tak nemají moc šance tuhle notu zažít,
+tak jsme si povídali asi hodinku
+a bylo to docela zajímavé.
+No uvidíme, co na to řekneme.
+To je románek navážno, tak řekněme jenom jako také
+jako highlighty.
+Ale probírali jsme obecně…
+Jako lidský?
+Komunity, práci, jako spolupráce technických lidí
+s hiringem, se e-chárem a s těma věcma,
+takže tam jsem jako rozdával lásku a moudra,
+jak se říká.
+No já nedávám, to je vážný románek,
+to bude docela prdel.
+Takže pokud chcete slyšet mě navážno,
+tak si určitě dejte nejnovější díl programu e-chárování,
+až bude oznámen.
+Určitě to bude asi někde na Linketinu a na Sockách
+a možná to dokonce bude i s videem,
+protože mě točili, za co se předem omluvám.
+To jsem se chtěl zeptat.
+No tak to je pecka, ty to dáš na Linkáč určitě,
+takže to uvidíme.
+Jo, je to tak, je to tak.
+No, dost bylo tady sebečuchaček,
+ať už to znamená cokoliv.
+A pojďme na dnešního hosta.
+Já tady řeknu jenom takový úvod,
+aby jsme ho tím nerozněžnili
+a pak už to nebudeme opakovat,
+ale milí posluchači, člověk,
+který tady za několik málo okamžiků
+bude s námi sedět,
+hrál 41 zápasů za A reprezentaci,
+dal 8 gólů,
+19 za 21,
+kde střel 7 gólů, má 4 tituly
+v České lize se Spartičkou,
+je to vítěz poháru, superpoháru,
+dvojnásobný vítěz první rakouské fotbalové ligy,
+trojnásobný vítěz rakouského poháru,
+rakouského superpoháru, první dánské fotbalové ligy
+a dánského poháru
+a můj velký idol
+z dob, kdy jsem si ho pěkně honil v Pro Evolution Socceru,
+toho hráče samozřejmě
+a je to
+Libor Sionko.
+A to ne.
+A není to proto, že by
+Libor Sionko byl jenom bývalý
+skvělý fotbalista, ale je to
+další příběh
+člověka, který změnil kariéru, který
+potom, co dělal 20 let
+něco jinýho, tak se vrhnul
+do IT. A já tyhle příběhy úplně
+miluju a tímto musím říct, je to především
+tady pol jeho práci, že ho jsem dotáhl
+a překecal ho, aby si tady
+jako s jedním ze svých fanoušků vlastně sedl
+a pokecal, tak ze několik málo
+okamžiků, no už je připravený na čáře
+de facto. Ho přivítáme ve studiu
+a zjistíme, jak to vlastně
+bylo s tím přechodem
+po úspěšné fotbalové kariéře
+k, doufejme, budoucího úspěšného
+IT-áka. Je to tak, Libor se vydal
+cestou dat a já se na to moc těším.
+Tak jdeme pro něj. Jdeme na to.
+Nebudu znova celý ten výčet
+těch úspěchů říkat, protože to bylo dlouhý
+jak týden před vejplatou, takže jenom
+řeknu, že s námi skutečně sedí
+Libor Sionko, bývalý a řekl bych
+stále vynikající fotbalista,
+byť už to není ten hlavní,
+ta hlavní náplň jeho práce. Ahoj Liboré.
+Ahoj, čau Liboré.
+Tak já jsem strašně rád, že jsi dorazil. Já jsem samozřejmě poli
+ve chvíli, kdy mi psal, že s tebou spolupracuje,
+tak jsem ho otravoval pořád, říkám, hele, toho musíme
+sem dotáhnout, ale jenom proto, aby moje
+spartňacké srdíčko si zaplesalo,
+ale především proto, že vlastně Liboré,
+ty jsi udělal takový ten přeskok, který
+my máme úplně nejradši, kdy člověk
+po nějaký kariéře si řekne dobrý,
+tak jako bylo to fajn, ale
+potřeba se posunout zase někam dál.
+A já tyhle příběhy osobně zbožňuji, protože
+myslím si, že ten IT svět by to
+měl být úplně otevřený a měl by
+čím dál tím víc brát lidi,
+i ne, který mají za sebou 20 let
+matfizu a věnují se jenom těmhle s těm věcem.
+Takže já jsem strašně rád, že ty jsi
+jeden z nich, ale kdyby náhodou teďka
+někdo přistál z Marzu a nevěděl vůbec
+prostě, kdo je Libor Sionko,
+tak stejně, jestli bys nám mohl aspoň trošičku
+a hlavně posluchačům říct
+svojí životní drahu od těch začátků,
+samozřejmě od těch studijních,
+sportovních, až k tomu okamžiku,
+kdy jsi řekl, tak to SQL-ko vlastně
+není úplná kravina.
+Tak když začnu úplně
+od začátku, tak jsem
+původem z Ostravy, jsem přímo
+rodák z Ostravy, vyrůstal jsem v Ostravě,
+no a
+jak už to tak bývá,
+pocházím z fotbalový rodiny, můj táta hrál
+fotbal, hrálo výkonnostně, hrálo
+za baník Ostrava, hrál ligu,
+hrál s baníkem dokonce titul,
+no a přivedl mě a
+společně s mými
+dvěmi
+bratry k fotbalu, takže my jsme
+velice fotbalová rodina,
+se kdo nemám, jsme vlastně
+čtyři chlapi v rodině
+a
+začal jsem hrát fotbal, začal jsem asi
+od česti let,
+s tím, že jsem
+začal chodit do sportovní třídy,
+sportovní školy, která byla sloučena
+vlastně s tím fotbalem
+a věnoval jsem se jak škole,
+tak hlavně fotbalu,
+bych řekl, ale já jsem byl
+dobrý student, nechci se úplně
+chválit, ale měl jsem
+dobrý studijní výsledky už jak na základní
+škole, tak na střední škole a
+cítil jsem v sobě takovou
+nějakou zodpovědnost, nerad jsem chodil nepřipravený
+do školy, když mě někdo nachytá s tím, že
+něco neumím, takže jsem byl
+možná až příliš zodpovědnej někdy
+a při tom fotbale jsem se neučil
+jako špatně.
+Nicméně studoval jsem
+potom na střední
+škole, problém byl, že jsem v Ostravě
+dlouho hledal, kam se posunu
+z té základky, kam půjdu,
+co bude pro mě zajímavý
+a naskytlo se,
+otevřel se experimentální
+obor výpočetní technika
+na Hornické. – V té době experimentální.
+– V té době experimentální obor
+– V jakém to bylo roce jenom, aby jsme si udělali?
+– Hele, tak to chceš po mně moc.
+– Zhruba, zhruba.
+– Tak je mi 47, tak když se vrátíme
+zpátky, jak to je v nějakých
+14 letech, no tak
+je to před 30.
+– Jasně. – 33.
+– Tak si dovedeme představit, jak to mohlo vypadat,
+jenom tak jako pro představu, super.
+– No je to 33 let zpátky a
+bylo to na střední průmyslové škole
+Hornické, elektrotechnicko-hornické.
+Takže byli jsme jedna třída,
+a
+začala se tam vyučovat
+výpočetní technika programování,
+takže tohle mě hodně zaujalo, protože
+to jsem říkal, hele, to by mě zajímalo,
+to jako vypadá dobře.
+– A bavilo tě tam
+programovat, nebo tě bavilo, jak fungují ty počítači,
+nebo co tě tam chytlo v tom?
+– No, to je přesně to, já do té doby neměl počítač,
+já jsem do té doby
+jsem si hrál občas, když
+mi půjčil soused Atari,
+nebo něco takového, tak jsme si zahráli hry,
+ale já jsem vůbec jako PCčko neměl.
+Takže na základě toho,
+že jsem se dostal
+přes přijímačky, tak mi rodiče koupili
+tehdy 286-ku počítač
+a měl jsem 286-ku a to bylo
+jako, ne, že si na tom budeš hrát hry.
+– To mám naučit. – Ne, ne, to mám
+naučit, samozřejmě.
+Takže jsem nastoupil
+na střední průmyslovou školu
+výpočetní technika
+a začal jsem
+tak nějak nasávat, co to ta
+výpočetní technika programování je,
+takže jsem
+začal úplně, nebo začali jsme
+jednoduše v Basicu, programování
+v Basicu, nějaký databázový systémy
+a takový věci.
+– A u toho jsi chodil
+normálně na tréninky, hrál fotbal? – U toho jsem hrál
+fotbal, chodil jsem na tréninky,
+ale musím říct,
+že jak ta škola pokračovala,
+já jsem v 16. letech
+potom podepsal první profesionální smluvu
+s Baníkem Ostrava a začal jsem trénovat
+s Ačkem a to je nastal problém, protože
+Ačko trénovalo vždycky
+ráno, dopoledne.
+Tak
+že já jsem od 16. let
+musel přejít na individuální
+studijní plán a tím pádem jsem
+studoval vzdáleně tu školu
+a ten studijní plán
+spočíval v tom, že
+předmět, který jsem měl
+maximálně dvakrát týdně,
+tak jsem měl jednu zkoušku za půl roku
+a jinak jsem měl čtvrtletně zkoušky,
+generální zkoušky, takže
+ty učiteli v podstatě
+mi řekli, hele, odsaď, podsaď se to nauč,
+skripta nebo sešity,
+tak si musíš sehnat všechno
+a tak jsem měl
+a já jsem do té školy nemusel chodit,
+akorát jsem musel plnit ty zkoušky.
+Takže
+já jsem to měl hodně jako samostudium
+ty poslední dva roky,
+což jako, co si budeme nalávat,
+potom je to složitý, že když chybíš
+při tom výkladu, ne všechno je v učebnicích
+a tehdy upřímně
+nějaké učebnice výpočinění techniky
+skripta to vůbec neexistovalo.
+My jsme měli třeba na výpočinění techniků,
+to nebyl ani učitel,
+to byl člověk z praxe, který nás to učil.
+A
+na některý předměty
+potom jsme měli učitele,
+kteří se to učili jakoby
+týden před tím, než nám to
+jako potom přednášeli.
+No jenom, že já už jsem měl ve třídě,
+jsem měl třeba takových pět, šest kluků,
+kteří byli v tom výborní
+a pracovali už ve firmách v praxi
+no a ty tu učitelku úplně
+jako rozebrali, jako rozplakali,
+protože ty toho měli, ne desetkrát,
+stokrát víc, takže bylo to
+hodně složitý v té době.
+No nicméně mi to hodně dalo
+a musím říct, že
+kdybych nedělal fotbal,
+tak bych v tom určitě zůstal
+jako už tehdy. – Už od začátku.
+– Už od začátku, protože mě to bavilo, ale
+díky tomu, že jsem podepsal
+profesionální smlouvu, udělal jsem potom maturitu,
+to jsem musíme
+někoho pochlubit, to jsem udělal, maturitu jsem udělal
+za sedm. – Jo. – Vražky.
+– Takže trojka. – Tréninka má ty brď.
+– Trojka z češtiny,
+dvojka z vypočítní techniky,
+jednička z matiky a jedna z programování.
+Protože fakt mě to zajímalo,
+fakt mě to bavilo. – Libor má
+lepší maturitní výsledky, než já,
+který neměl individuální plánek.
+– Ty jsi na to neměl čas, Románku. – Jo, jo, děkuji.
+– Takže to jako
+hovoří asi za vše, že
+mě to fakt jako bavilo a zajímalo.
+A člověka, když něco baví,
+sami víme, tak se mu to učí líp.
+No,
+nicméně, když udělal jsem maturitu,
+a tím to haslo. – Jasně.
+– A ještě můžu to tady zastavit, Libore, protože já vlastně jsem
+taky jako v podstatě, nebo tou dobou
+možná si to dovedu trošku představit, tu tvůj kariéru.
+Já jsem vlastně hrál hokej a vím,
+jak jako hodně času člověk tráví
+na tom stadioně, plus ještě má
+tu školu. Jaký to bylo, jo?
+Protože kolem ty tvoji vrstevníci, předpokládám,
+chodili ven, taková ta klasika, hráli
+bendy prostě někde a furt někde lítali.
+A ty jsi tohle jako nemohl vlastně
+dopřát, aspoň já jsem si to tenkrát nemohl dopřát,
+protože dost často jsem prostě byl buď to škola,
+nebo jsem dělal úkoly, a nebo jsem teda
+byl na tom stadioně. – A nebo jsi seděl v autobusa
+a jel buď na trénink, anebo z tréninku domů.
+– To jsem měl štěstí, já jsem bydlou v stadionu.
+Takže vlastně,
+jaký to bylo, jo? Jak jsi to vnímal
+tenkrát a jak to vnímáš dneska zpětně?
+– Hele, je to úplně stejný, tak jak
+to popisuješ, tak jsem to zažíval já.
+Já jsem na základní školu
+odcházel jako, už ne s aktovkou,
+ale s baťohem, ale v ruce jsem měl,
+protože my jsme tehdy fotbaloví míče
+jako nebyli společní,
+ale každý měl na trénink svůj.
+Takže jsem měl takhle v síťovce balón
+a šel jsem do školy a kopal jsem si do toho balónu
+skrz tu síťovku
+a takhle jsem měl do školy.
+Ze školy jsem měl rovnou na trénink
+a v tréninku jsem se vracel
+kolem šestý, sedmý večer
+a to si pamatuju, my jsme měli
+tréninkový centrum, kousek od
+šachty, maršál Jermenko
+a my jsme na haldě tehdy postavili
+baník Ostrava,
+tři tréninková hřiště, tam jsme chodili trénovat.
+A já s těma horníkama,
+co měli ty černé oči, tak tím autobusem
+jsem přijížděl domů.
+A teď ty moji kamarádi, ty vrstevníci
+seděli už na zápraží baráku,
+pili tam nějaký čučo nebo jako.
+A já jsem šel
+dělat domácí úkoly, protože jsem přijížděl
+hrany půl sedmá, sedmá.
+No ale nikdy jsem
+nelitoval toho, že... Nikdy jsem si
+neřekl, já bych tady chtěl sedět s váma.
+Já jsem
+vyrůstal vlastně, my jsme měli družstevní byt,
+tři plus jedna,
+my jsme dvanáct metrů čtvrdeční pokoj
+a tam jsme byli tři braši.
+A já jsem
+od začátku takhle,
+já bych chtěl tím fotbalem,
+nebo jo, samozřejmě miloval jsem fotbal,
+tak bych se chtěl jednou,
+bych chtěl si postavit svůj dům
+a chtěl bych jako... A to mě hnalo
+dopředu, protože jsme
+vyrůstali takhle
+a já jsem měl tenhle
+motor, tuhle vizi a
+samozřejmě škola byla základ, to jsem
+chtěl
+udělat jako dobře, abych
+v případě, že přijde nějaký zranění,
+abych se měl k čemu vrátit,
+nebo na čem stavět.
+Ale takhle jsem já
+koukal dopředu, ale přesně mi mluvíš z duše,
+to byl denodenní
+chleba, ale nikdy jsem
+si nestěžoval,
+abych na ten trénink nejel, nebo něco. Já jsem to bral
+jako, já tam musím.
+Takže...
+A ještě druhá věc tam, jak to
+vnímali tvoji bráchové, kteří říkali, že hráli
+taky fotbal. Třeba u nás to bylo prostě tak,
+že táta vždycky přišel a řekl, hele, škola
+na prvním místě, děj se, co děj.
+A vlastně i to mě vlastně nutilo vždycky
+mít ty studijní výsledky prostě dobrý.
+Tak jestli to bylo stejně, nebo jestli to víc byla
+ta tvoje vnitřní motivace opravdu, jako
+se vzdělávat a vlastně i ta touha toho,
+že ti to vlastně bavilo, jak jsi popisoval.
+Hele, my jsme všichni tři bráši,
+jsme úplně stejní, jo.
+Takže mám staršího, já jsem prostřední.
+Starší, je o rok starší
+a ten se taky velice
+dobře učil.
+Potom šel na gymnázium, dělal
+lálkové nějakou vysokou školu, dneska dělá
+marketingového ředitele pivovaru.
+A
+můj mladší brácha, tak
+ten vystudoval vysokou školu
+v Ostravě a zůstal v Ostravě
+a má dobrý zaměstnání,
+takže my jsme jako, my jsme se
+všichni dobře učili, jo.
+Starší brácha hrál fotbal tak, jako já,
+hrál taky v zahraničí, v Německu,
+pak se vrátil do Čech,
+ta jeho kariéra byla slušná,
+samozřejmě
+asi by si představoval lepší,
+ale když usoudil, jako, že co se týče
+fotbalu, tak
+je toho dostuž, a že se bude
+muset realizovat jinde, jak se realizoval jinde
+a taky se, jakoby
+svičnul a funguje dobře
+a má se dobře, jo, takže
+takže my jsme, my jsme
+samozřejmě ta priorita, táta
+fotbal, fotbal, ale ten nás
+nikdy nemusel nutit, on nám ukázal cestu a my jsme
+šli a mě vůbec nenapadlo, jako
+táta mi nikdy neřekl, ty jo, musíš na
+trénink, nebo to, jako vůbec,
+jo, to my jsme šli automaticky,
+my jsme chtěli, jo.
+Takže to by se podařilo,
+díky tomuhle vnitřnímu drajvu, jednak
+vlastně, když teda pominu teďka na chvilku
+tu fantastickou fotbalovou kariéru, u toho teda
+udělat za skvělý známky,
+udělat maturitu, ale v té době předpokládám
+se vlastně, jakoby rozešla ta cesta
+toho tvýho
+vzdělávání po té, jako řekněme,
+akademické sféře a toho fotbalu,
+protože pak už to dostalo přednost.
+Přesně tak, já už, potom už mi zůstal
+jenom ten notas
+a ty počítačové hry, protože
+já samozřejmě jsem jezdil na ty
+soustředění a já jsem trávil, já nevím,
+150 dní v roce na hotelích a různě,
+no tak měl jsem sebou
+notas a pařil jsem hry, že?
+Takže to je to, co...
+– Musím se zeptat, co jsi pařil?
+– Tak bylo toho víc,
+ale když můžu zmínit, tak jako
+miloval jsem Fallout. Viděl jsem tady
+v kuchyni, že tam máte robota Fallouta.
+Takže je mi to úplně jasný.
+Dneska dokonce jsem zjistil,
+že je seriál, tak jsem ho hned
+zkouknul během třech dnů.
+– A dobrý? – Jo, výborný, výborný.
+První série vyšla
+a smart.
+Mál jsem se, je to pecka.
+Doporučuji, doporučuji.
+– Tak super, takže ty jsi pařil Fallout,
+u toho jsi teda budoval svoji fotbalovou kariéru.
+Mě by zajímalo vlastně v té době,
+když už tě to...
+Zajímalo tě IT, zajímala tě ta technika,
+zároveň teda jsi se vlastně věnoval něčemu úplně jinýmu.
+Koukal jsi už na takovej ten překryv
+třeba, jaký je technický zázemí
+kolem fotbalu? Já samozřejmě předpokladám,
+že v té době ještě
+Goaline Technology a všechny tyhle stylicy,
+to bylo v plenkách, no minimálně u nás,
+že jo, to nic takového neexistuje,
+ale už třeba nějaký sbírání dat
+a tak dále, koukal jsi už na to trošku ITácky
+i na ten svůj vlastně, jakoby,
+na tu svoji fotbalovou pozici z toho, řekněme,
+datovýho pohledu?
+– Hele, musím říct, že co se týče sbírání dat,
+tak úplně minimálně. Jediný co,
+jak jsem si sbíral data, jakoby o sobě,
+ale klasický Excel a odehraný minuty,
+starty a takový, jo, jsem si udělal tabulku.
+– Takhle jsi to sám zapisoval, jo?
+– Jo, jo, protože někdo si vedl statistiky,
+samozřejmě v papírově v podobě
+a nebo jim to,
+některým hráčům to sbírali rodiče,
+no a já, protože jsem měl to písíčko,
+tak v přestávkách,
+když se mi naloudovala
+nová mise, tak jsem si tam
+doplnil
+prostě nějaké minuty, starty,
+takže mám jako celou tu kariéru,
+ale řekněme tu prvoligovou
+a reprezentační a jednadvacítku,
+mám prostě zmapovanou
+v tabulce, no.
+– A to jsi přepisoval nebo využíval si nějakých datových zdrojů,
+který tam byly dispozici?
+– No jednoduchý, dohrál jsem zápas
+minutáž, pokud jsem odehrál
+celý, tak jsem si napsal minutáž,
+starty, góly,
+prostě soupeř, datum
+a takový jako jednoduchou, takže dneska
+si dokážu dohledat,
+kde, kdy jsem hrál, prostě jaký zápas,
+kolik minut, no, takže.
+– Tyhle je Borgl normálně průkopník
+sbírání dat, jako v českých fotbolech.
+– Datasexuál.
+– Ale je to zase, já jsem nechtěl použít to tvoje oblíbené slovo,
+ale je to tady další datasexuál, ty jo.
+– Ty máme rádi. – Tak to je super.
+Používáš ty data pak ještě nějak na nějakou
+jako by sebeanalýzu, nebo hrál jsi s tím,
+nebo to bylo vyloženě jako pro zajímavost,
+kdyby ses náhodou někdy chtěl ohlídnout zpátky?
+– Bylo to spíš jako pro tu zajímavost,
+když se budu ohlížet zpátky
+a třeba se chlubit vnoučatům jednou,
+tak kolik jsem toho odehrál,
+takže můžeme udělat nějakou sum
+a průměr a tyhle,
+ale to je asi tak všechno.
+– Takže když se bude vnouček ptát,
+tak řekneš, prostě tě nezvy,
+tady jak paviján by se pijal do Excelu,
+tam to máš všechno vypsaný.
+– Přesně, přesně, dostane flešku.
+– Flešku, tady máš dědu a my jsme.
+– Nástuduj si dědu a vrať se,
+až budeš něco umět.
+– To je skvělé.
+– Ještě mě zajímá jedna věc,
+samozřejmě musíme tam chviličku zůstat.
+Já myslím, že se tě na to ptá Greg,
+ale ta otázka prostě je na snadě.
+Když ohlížíš se občas zpátky
+za tou fotbalovou kariéru,
+to byla znamená první otázka vlastně,
+jestli máš takový ty okamžiky,
+jestli na to, co jsi dokázal, ohlížíš,
+anebo teďka už tím vůbec nežiješ,
+je to uzavřená kariéra, necháváš to pro toho
+vnoučka s USBčkem?
+– Tak ono to řeší
+to moje okolí.
+Na rovinu kamkoliv, tak jak jsem tady,
+tak se o tom bavíme.
+A když jsem poprvé přišel do Adasty,
+tak tam je taky někteří koukali
+a fanoušci někteří fotbaloví a tohle,
+tak co tady děláš. A to samozřejmě
+na prvním pivě, o čem se budeme bavit,
+tak nebudem se bavit o kódů,
+takže kamkoliv přejdu,
+tak to téma je jasný
+ze začátku,
+ale nemám problém se bavit o čemkoliv jiným.
+Ale ten fotbal mi bude asi
+pronásledovat do konce života,
+ale já si nestěžuju, to ne.
+– Já si myslím, že když tě pronásleduje úspěch,
+to je lepší, než když tě pronásledují faily.
+– To máš pravdu.
+– A ta druhá otázka samozřejmě je,
+když teda už tě tyhle otravové,
+jako jsme tady my spolim, nutíme se ohlížet zpátky,
+který je ten okamžik,
+který si řekneš, když už tam koukám,
+tak tam to zablesklo, tam to bylo super.
+– Hele, těch okamžiků
+třeba v tom fotbale je víc.
+Nedokážu vypíchnout jeden wow,
+protože
+i když jsme nebyli úspěšní na mistrovství světa,
+hrál jsem na mistrovství světa.
+Tohle je pecka.
+Dneska, když vím, jak je složitý se tam dostat
+a jak to tam pak vypadá,
+jak je ta organizace,
+od toho všeho,
+je to fakt neskutečný.
+To je top level, který můžeš dosáhnout.
+Takže účast na mistrovství světa
+je nádherná, i když jsme nepostoupili
+ze skupiny, ale hrál jsem na mistrovství Evropy
+taky výborný.
+Všechny zápasy, kvalifikace,
+ještě když se ti podáří dát branka,
+vítězná branka, to jsou momenty,
+které ti zůstanou v hlavě
+a když zavřu oči, tak jsem tam pořád.
+No a na ty klubové úrovni
+čempion z lig ze Spartou.
+To byly nejkrásnější zápasy
+od zápasu.
+Já vím zrejme Madrid
+přes Barcelonu,
+tady jsme porazili Láci, postoupili jsme dál.
+Těch vzpomínek mám víc,
+takže nedokážu
+upozadit některý
+a nemám moment jako jeden, ten top-top.
+I když jeden se tomu blíží
+a to bylo, když jsme ráli
+kvalifikaci na Slovensku, vyhráli jsme 3-0
+a já jsem dal dva góly, na třetí jsem přihrál,
+takže to bylo asi...
+Když skandoval ten stadion,
+ti fanoušci to moje jméno, táta tam skoro brečel
+na tribuně, tak to byl asi
+jeden z nejkrásnějších momentů.
+Tak to je krása.
+Nechybí ti ta emoce dneska?
+Samozřejmě ten sport to generuje
+úplně jako jiným způsobem,
+ten jako vylejvá jiný hormony.
+Tak to SQL-ko, když si to projede pěkně,
+tak to je taky hezký.
+Kluci, je to tak, že
+co mi chybí, mě nechybí já,
+když jdu kolem fotbalovu, kolem hřiště
+a tak to nemám, já bych si kopnul,
+já bych si jako to. Mě chybí ta kabina.
+Mě chybí ta alegrace, ta zábava,
+ty emoce v té kabině,
+jak pozitivní, negativní,
+ta parta, jo.
+To je to, protože od 6 let
+žiješ v nějakým kolektivu
+a kopeš prostě za jeden tým,
+a sdílíš ty pozitiva, negativa
+a hlavně ty pozitivní
+jsou jako pecka, že když něco
+dosáhneš, vyhráš titul,
+to je úplně, to je něco.
+A to třeba
+těm klukům dneska závidím, jo.
+Když cítím, že ta sparta
+letos to bude dobrý.
+Doufejme.
+Tak doufejme, samozřejmě nechceme
+to zakřiknout, tak já bych
+tam chtěl bejt jako s nima.
+Užijící to. Třeba jako maser.
+Jo, protože
+protože
+tak
+to je pecka, jo. A to
+musíš zažít, abys věděl, jako o čem to je.
+Na té tribune je to nádherný taky, jo.
+Ale pak v té kabině a
+když jsi součástí toho úspěchu,
+to je to, co ti
+po té kariéře chybí.
+A neláká tě dneska, či já třeba, tak samozřejmě,
+já jsem vyschnul 19, jo, s tím
+hokejem, ale našel jsem si vlastně
+nejnižší možnou ligu hru dál
+a vlastně to je ten důvod, proč to hraju.
+Protože přesně ta parta, ta kabina,
+ta sranda, tak nelákalo tě nikdy
+nebo nehraješ někde nějakej, prostě
+z nějakej, nevím, tým někde u vás
+třeba na vesnici, buď kde.
+Hele, nehraju, nehraju na vesnici
+je jeden takovej fakt,
+řekněme, když kluci a to mě
+zrazovali, bývalí jako ligoví
+fotbalisti, říká, hele, když seš kopnout
+třeba za vesnici, tak tam musí být
+aspoň tři, čtyři bývalí hráči,
+aby jsi to s nima kopnul, jo.
+Protože jinak budeš otrávený, ti kluci
+prostě nemají tu úroveň
+a budeš to mít složitější, a ty budou
+na tebe koukat, daj ti balon, že něco vymyslíš,
+ale když si prostě něco vymyslíš,
+přihraješ a už ji nedostaneš zpátky,
+říká, budeš otrávený, jo, takže tomu jsem se
+trošičku vyhybal, chodil jsem rád
+s klukama
+takový ty charitativní zápasy
+o bývalých fotbalistích hercích, to máme tam
+několik možností týmu,
+no nicméně jsem se si před třemi
+lety natrhl něco v kyčli,
+bursu nějakou,
+teď chodím na nějaké obstřiky a nevypadá
+to dobře, takže už jsem tři roky
+do toho nekopořádně, protože
+dokážu běhat,
+kontrolovaný pohyby, v pohodě všechno, ale
+kdyby to mi někdo
+vrazil a na to nebyl připravený,
+tak si můžu ublížit,
+jsem jako před
+nějakým složitějším zákrokem
+v kyčli a tomu se vyhýbám, takže
+už jsem tři roky do toho
+nekop, každý se mě ptá, mám spoustu nabídek,
+jako hele, pojď si na nás kopnout tenhle Hans Palku,
+takhle, takhle, teď se mi dokonce
+můj kluk začal hrát Hans Palku, tak jsem si říkal,
+hele, že bych šel s těma mladýma třema, jenom tak
+jako si kopnul, že by se mi to jako líbilo, jo,
+ale
+vyhnul jsem se tomu,
+protože ten rozum zvítězil,
+no, takže, ale mrzí mě to, mrzí mě to,
+protože bych si kopnul.
+No a když jsme u toho, já
+slyšel jsem, že hraješ golf, jestli jsem správně
+pochopil, tak jakýma sportama to dneska
+nahrazuješ?
+Tak máš pravdu, hraju golf, hraju ho hodně,
+běhám,
+snažím se běhat, jako
+udržovat fyzičku,
+hodně jezdím na kole
+a holduju, řeknu, nějaký
+ty vysokohorský turistice, to mám rád,
+jo, jezdíme hodně do Alp s manželkou,
+jo, takže to jsou takový,
+mám rád hory, mám rád ten klid,
+no, takže i u nás
+Šumava, Krkonoše a kdekoliv,
+a
+co není úplně sport, tak jsem motorkář,
+začal jsem po kariéři jezdit na motorce,
+na Harley, mám partu
+a takhle výjíždíme na výlety, ale to není moc
+o sportu.
+Na to jinak bacha, protože jsem četl
+nějakou statistiku, když jsem si taky říkal, mám od
+18 papíry na velkou mašinu, že si konečně
+koupím tu motorku a nějaká statistika říká,
+že po 40 jsi nejrizikovější,
+ne ty 18 letý, 20 letý
+fakt sápci, co se na tom někde omotají,
+ale v tomhle věku, kdy
+konečně si ji koupíš, sej si to užít
+a hned to někam pošleš, takže opatrně, Libore.
+Já jsem opatrnej, je
+fakt, že nehledám moc rychlost
+a já si motorkáři,
+vědíš, že Harley není postavený na to,
+že seš tam zalehlej, ale
+je to víc o kochání se.
+Pojďme ještě zpátky
+do té části, kdy ty už si s tou
+aktivní kariérou jako fotbalista
+skončil, ale ještě si úplně
+neskočil do toho, řekněme, datovýho
+IT světa, ty si po
+hráčský kariéře
+působil jako manažer České fotbalové reprezentace.
+Otázka jasná,
+jak na to vzpomínáš, jaká to byla práce?
+A zajímá mě to teďka zase kolo
+z toho našeho pohledu, jak
+moc třeba Česká reprezentace už v té době
+využívala IT, technologie,
+data, měření, jak se to vlastně třeba posunulo
+od té doby, kdy jediné, co se dalo
+s počítačem dělat, bylo mastit fallout
+mezi tréninkama na hotelu
+a v té době, kdy ty už si tam
+byl aktivní jako
+manažer.
+Tak když jsem nastoupil
+u České fotbalové reprezentace,
+tak u nás
+zatím nějak
+zásadně ty technologie
+nevstupovaly do toho tréninku
+a těch zápasových
+statistik,
+ale začalo se to rozvíjet.
+My jsme přijali prvního analytika
+za mého působení
+do
+realizačního týmu.
+Samozřejmě pominu nějaký,
+jako už jsem
+řešil nějaké rozpočty a tohle, co byla
+moje práce, ale co se týče
+čistě fotbalových věcí,
+tak jsme zrealizovali
+nákup VEST,
+GPS VEST, který
+tyhle data začínají samozřejmě
+sbírat po tréninku. Máš všechny výstupy,
+kdo, kolik, co naběhal.
+Začali se používat na utkání.
+Nicméně na klubový úrovni
+už ty vyspělý kluby, nebo respektive
+ty bohatší kluby, už to měli
+jako Sparta, Slávie, Plzeň,
+už s tím trénovala.
+Fungovalo to tak vlastně, že
+v zásadě je několik
+společností, který tohle
+prodávají. Ne všechny jsou úplně
+kompatibilní spolu, ale
+ta představa je taková, že
+když ti přijde hráč, já nevím,
+souček z Anglie,
+tak se fitness coachové
+se spojí a vymění
+si nějaký společný data, co se týče
+tady toho.
+A ty data samozřejmě potom
+reprezentačním srazu
+pakli, že bude
+klub chtít a bude si chtít
+analyzovat, kolik toho tady naběhal,
+natrénoval, včetně zápasu,
+tak je může dostat.
+Takže tohle se začalo
+rodit za mého
+působení a nevím
+v jaké fázi je to dneska, protože
+říkám, ne všechny, já nevím,
+West Ham měl firmu A,
+my jsme měli firmu B
+a ne všechny tyhle
+softvery spolu spolupracovali,
+komunikovali dobře.
+Nicméně existuje nějaká firma,
+která tady má, nebo
+jakoby je top
+a ty top kluby většinou používali tohle.
+Takže začalo se to rodit, začalo to
+fungovat a dneska, když vidíš fotbalisty,
+jak mají většinou, buď to mají na prsou
+tady pása, nebo většinou mají
+tady takovou, že mají ty vesty a ten čip.
+Je tady takovou boudy za krkem,
+tak to mají takovou
+tu podprsenku.
+To jsem se chtěl zeptat, na co mají tu podprsenku?
+No a tohle...
+To je datová podprsenka.
+No v tom máš prostě zastrčený
+tady ten čip, protože jinak
+bys to... Ono dřív se
+třeba, my jsme měli klasický sport tester
+a měli jsme třeba ten pás,
+ale na útkání to nebylo nic příjemné, jinak ti to
+padalo a jednak jsi to měl tady
+na zpracování na prsou,
+občas se ti to trefilo a nebylo to
+příjemné, takže my jsme to
+třeba museli používat při tréninku,
+jo, ale na zápas jsme si to
+nebrávali, jako třeba na přátelské,
+jo, jo, tak tam se to, ale v tom
+útkání a dneska ty kluci mají
+vlastně, jim to nic nevadí,
+nevadí jim to, takže mají tyhle z ty
+vesty, mají ten GPS čip
+a v zásadě na lavici
+sedí, jo, analytik a ten
+ty data má live, jo,
+takže ten vidí,
+jo, ten běží teďka tolik kilometrů
+v hodině, jo,
+a všechny různý a dá se z toho
+analyzovat i, že já nevím,
+že už neběhá tak rychle, jo,
+nějaká únava,
+kolik toho naběhá, takže
+z porovnání začátek, konec,
+jo, takže dokážu
+z toho jako usoudit,
+že už mi tam neběhá dostatečně
+tak, jak na začátku, tak pravděpodobně už se
+šetří, tak jestli není čas ho vystřídat, jo, takový.
+– Jo, jo, jo. Takže vlastně
+máš pocit, že to dneska ty
+trenéři dokážou používat i takhle, jako, že třeba
+podívám se prostě o poločas, jak ty lidi běhají,
+řeknu si, hele, tohodle asi vystříjáme v šedesátý,
+protože vypadá, že je vadné.
+– Tak je to tak,
+že v zásadě je tam ten
+analytik a ten ty
+data, ty nejdůležitější nějaké informace,
+pak, když je tam nějaká
+extrémnější anomálie u nějakého hráče,
+jo, tak tohle sdělí
+koučovi a ten buď s tím
+dotyčným hráčem si promluví, hele,
+cítíš se blbě, nebo jsi na koplej, nebo
+tohle, takže takhle to funguje
+a může se to využít.
+– Je úplně uvěřitelný, kam se to posouvá.
+Já jsem teďka byl na mistrovství světa v hokeji,
+na zápase. – Já jdu dneska.
+– Já vím, já vím, no, to ti závidím trošku.
+No a v podstatě tam
+na té tabuli vlastně najednou ukazují,
+kdo dal dneska nejtvrdší střelu.
+A já pak jako pochopil, že oni vlastně teďka už dávají
+normálně čipy letos poprvý, asi poprvý,
+do toho puku. A ten puk
+vlastně generuje spousta statistik i pro ty diváky,
+předpokádám, že možná
+i pro ty hráče. Vtipný je, že pak říkají,
+když vypadne puk ven, prosím vás, vraťte ho
+nejbližší úvařená, ten výška není, dejte si ho
+do kapsy, jako není to asi úplně za pět korun.
+Ale vlastně
+vím, že fotbal s tímhle začínal
+táta můj, tady byl taky, že jo,
+Petr Polák ze CGI, tak tenkrát
+se snažili prodávat, myslím, že do teplic
+software, který vlastně
+byl vyložený jako modul pro toho
+trenéra analytickýho a který byl vlastně
+schopný z toho vysosat nejenom
+všechno o tom svým týmu, ale třeba přijela
+prostě Sparta, tam byl dobrý střelec, věděli jsme, že
+kope pravou a nejčastějiž kope do pravý části
+brány a dalo se na to
+vlastně nabrýfovat ten tým, aby ten tým byl ready
+na to, jak vlastně hraje
+ten soupeř. A to samé v hokeji,
+vlastně dneska, jako když přijdu už ani na NHL,
+vlastně už je extraligový týmy, tam mají
+vždycky jednoho trenéra, který má ten obrovský tablet v ruce,
+že jo, a řeší veškerou tu analytiku
+sebou. Ale máš pravdu, protože třeba
+ve fotbale dobrý golman,
+kdysi, řekněme, dneska je to
+taky posunutý díky té analytice
+jiné, jinam, tak dobrý golman
+si dělal sám statistiku těch
+střelců pokutových kopů, jo.
+A věděl, hele, on, já nevím,
+75% toho
+kopl do prava, jo. Takže, jo,
+dobrý brankáři opravdu věděli,
+kdo tam kope penalti, kam jich, já nevím,
+posledních deset, kam jich kopl, takže
+o tom věděl, jo. A ještě takový bombonek,
+my když jsme dělali organizaci
+na mistrovství Evropy,
+tak
+samozřejmě jsou nějaké
+kapacity, co se týče lavičky, hráčů,
+realizačního týmu a tak dále, no ale
+potom na tribuně máš kapacitu pro
+analytický tým, že.
+No a my jsme měli
+jednoho analytika, jednoho kameramana,
+nároďák. No a teď
+ty ostatní týmy, když jsme hráli proti ním,
+tak tam sedělo třeba šest až deset lidí.
+Jo, ten měl analytický tým,
+jako a my jsme byli
+trošku v plenkách a
+máme jednoho člověka a druhý, co to natáčí.
+A oni měli šest až deset
+lidí, takže a dneska
+se ten sport
+tímhle směrem jako ubírá
+a je to spoustu důležitých dat,
+který se dají využít a když
+nevyužiješ, tak
+ti to třeba těch, já nevím,
+pět, deset, patnáct
+procent ti to pomůže, anebo
+nepomůže.
+Jo a
+pak když chceš být na špici, tak musíš využít všechno.
+A nepřijde ti to moc?
+Jakože už toho je,
+že už toho je fakt jako moc, protože já třeba
+když se koukám, viděl jsem nedávno nějaký
+závěry z NFL, z amerického
+fotbalu a ten je tím ale
+už jako brutálně prošpikovaný.
+Tam už to máš i při tom utkání
+jako divák. Na tebe
+valej, protože u toho prodávají samozřejmě
+Amazoní, že jo, AVS-ko,
+tak do tebe valej neuvěřitelný
+množství naprosto pofiderních
+z mýho poledu už statistik a vlastně
+už vlastně i ten fokus mě jako diváka
+není na tom sportu, neže bych NFL
+nějak sledoval, ale přijde mi to zajímavé jenom
+sledovat právě kvůli těmhle s tím, jak je to daleko.
+Myslím, že to je nejdál možná z těch sportů
+obecně v tomhle s tom.
+Co když fotbal dojde tak daleko,
+že já budu koukat na Real Madrid
+z PSG
+a už budu čumět víc do tabulek
+než na fotbal.
+To si myslím, že nenastane, protože
+pořád to, co se děje na hřišti, tě přece zajímá.
+Jako mě tyhle s ty doplňující
+informace zajímají. Některé z toho
+mě nezajímají a to
+zahodím.
+I když mi to tady blikne na té obrazovce,
+někdo něco řekne,
+ale tohle číslo mě třeba nezajímá,
+tak to tak mám. Ale některé
+jsou opravdu
+hodně zajímavé ty čísla
+a něco to vypoví
+anebo ti to napoví o tom hráči.
+Ale mě jako
+hráči, když jsem byl na hřišti,
+tak některé statistiky
+byly pro tebe zajímavé, které jsi
+snevet, které prostě, já nevím,
+nějaké.
+Někdo vycucil v novinách, že řekne, že si
+dál
+jako hráč, že zajímavý, že seš
+dobrý, protože máš sílu v posledních
+minutách a dal si třeba 50%
+všech golů si dal od
+75. minuty později.
+Tak co to řekne ten nový ty?
+Já ho v 75. nevindám, protože on bude
+mít jako sílu.
+On mi střílil ty goly,
+že polovinu golů střihl
+prostě po.
+Takže dá se to využít.
+Když se do toho dobře koukáš,
+tak to můžeš zhodnotit.
+– Když to otočíme zpátky
+k tomu vlastně, k té práci
+na tom fačru, tak jaká to byla
+práce?
+– Tak pro mě to byla
+samozřejmě, já jsem začal jako
+první jsem dostal nabídku, byl jsem
+manažer reprezentace do 21 let.
+Dělal jsem u 21-ky
+téměř dva roky s Vítěvlavičkou.
+No a potom
+byl odejít
+trenér Jarolím od Ačka
+s manažerem panem Šetrlem.
+Nastoupil Jarda Šilhavý.
+Já jsem dodělával práci v 21-ce
+no a tehdy
+dneska u soudu
+sedící pan Berber
+mi nabídnul
+funkci,
+že mě povýší, že se mnou
+spokojený, nebo že jsou se mnou spokojení.
+Ne on,
+bych to uvedl na pravou míru,
+že jsou se mnou, protože on byl místopředseda
+fotbalové asociace, ale
+nabídli mi prostě povýšení
+k Ačku, což samozřejmě jsem přijal,
+protože tenhle post je jenom jeden,
+v České republice a
+je to hrdost,
+je to práce u
+národního týmu, takže tam jsem
+působil téměř čtyři roky
+a bylo to super. Byla to velká škola.
+Bylo to dobré,
+že jsem začínal u ty 21-ky,
+kde je to v menším, opravdu je to
+v menším. Nechci říct, že je trošku
+skrytá pod křidlité toho Ačka,
+ale už jenom rozpočtově
+a tohle všechno je prostě někde jindé.
+Když toto Ačko je na očích
+dneska, přijde to
+do jakýkoliv hospody, tak tam máte 30 trenerů,
+30 lidí, ví, jak to máš dělat.
+Takže seš pod palbou kritiky,
+je to hodně náročné
+i co se týče toho tlaku, protože
+ne všichni vědí, co je
+pod pokličkou, protože je jednoduchý
+si to naplánovat, udělat to takhle,
+ale ve finále zjistíš, že k tomu máš úplně jiný
+prostředky a že to takhle nelze, musíš to udělat jinak.
+Nemáš prostor to zdůvodnit,
+proč to děláš jinak, takže...
+A všichni tě kritizují. Takže ten
+post, jak manažera,
+ale hlavně trenera
+národního týmu, je nesmírně náročný.
+Jak
+trenérsky,
+tak na psychiku,
+tak to ustát všechno, protože
+chceme všichni vyhrávat,
+že všichni proto dělají všechno, ale
+každej na to má
+jiný názor, jinou cestu a
+ta kritika je dneska v době
+sociálních sítí a to je obrovská
+a nesmíš se na to koukat,
+abys to přežil.
+To věřím. No a v podstatě
+ten mandát vypršel, nebo
+ty už ses rozhodl, že už toho je moc, nebo
+jak vlastně potom proběhla ta
+tranzice dál? Hele, já jsem k tomu měl trošku
+víc důvodů, některý byly interní,
+některý byly takový...
+Jako ten hlavní důvod byl, že
+já jsem se jednak realizoval
+ve fotbale, něco jsem si dokázal
+i na tom manažerském postu
+fotbalovým, ale
+co se týče rodinných
+záležitostí, moje dcera mi roztla,
+má mi syna, ale ta se chtěla
+teď budu mluvit o dceři, ta se chtěla
+dostat
+skrz sport, skrz univerzitní
+sport, což je golf, do Ameriky
+na univerzitu a já jsem
+trávil hodně času jako manažer,
+neměl jsem tolik možností
+se jí věnovat úplně na 100%,
+a teď já jsem si prostě řekl, hele, já jsem
+si splnil všechno, co jsem chtěl a teď
+je tady moje dcera, které by chtěl pomoct
+s tím jejím sportovním
+životem, tak je,
+že ji podporovat, jezdit po turnajích,
+každý ví, nebo ten, kdo zná
+prostě na téhle úrovni golf, tak je to
+něco podobného, jako bys měl doma
+tenistu, tenistku a
+to totální support,
+prostě máš kolem ní třeba pět
+lidí od trenérů,
+fyzioterapeutů a nevím, mentálního
+kouče dneska
+a si jiždíš
+Českou republiku, Evropě,
+u zahraničí turnaje, do toho
+ona má taky individuální studní plán, takže
+jsem si řekl, že bych si vyčítal,
+kdybych já si tady jako
+plnil svůj sen, nebo jako
+něco jako, a jí v tom
+nepomoh a nebyl ten support,
+takže to byl
+hlavní důvod, proč jsem se sám
+rozhodl ukončit své působení
+na asociaci a k tomu jsem
+měl i nějaké osobní důvody, ale
+těm se moc nechci vyjadřovat.
+Jasně, no ještě než skočíme teda do toho
+úplně tvýho IT
+aktuálního života, poslední věc,
+která vlastně fotbalově mě zajímá,
+je, co říkáš na ty úplně
+poslední vymoženosti ve
+fotbale typu VAR, musím se zeptat,
+protože tam je ta technika, kdy
+budeme se bavit o tom, že sbírat data je dobrý,
+jasně. Goal line technology, tady
+asi neznám nikoho, kdo by chtěl vyhrát jako
+neférově, to si myslím, že je věc teda
+jasná, je dobrý, když pípnou hodinky,
+že balón opravdu přišel jako celý čáru.
+Tam je teda taky čip v tom balónu?
+Tam jsou, pokud já jsem na to koukal, jsou kamery.
+Je tam asi jako bamblion kameren,
+který to sbírají, ale nedivil bych se,
+tak kdyby dnešní balóny měly čipy, to bych se nedivil.
+Ale co jsem včera na to koukal
+na YouTube, jak to funguje, tak možná ta
+první verze byla, opravdu myslím, že sad
+asi osmik kamer, který tu bránu mají
+jako prošpikovanou skrz na skrz.
+Ale jsme u toho VARu.
+Co říkáš na VAR? Protože tady, co člověk
+to názor? Hele, je to hodně
+rozporuplný. Já jsem z počátku
+jsem si říkal, hele, bude to
+férový. Bude to férový, konečně,
+hlavně ty situace v 16.
+ruky, penalti,
+fauly.
+A co
+máme my velkou nevýhodu? My nemáme
+u toho VARu kalibrovanou čáru.
+To je co?
+Kalibrovaná čára je to,
+že ty máš záběry z kamer,
+ale ty nedokážeš přesně
+udělat to, co my vidíme třeba, když je
+Champions League, udělat ten úhel
+tu čáru, protože
+ty se můžeš orientovat podle stříhu trávy
+nebo tak, ale ty úplně přesně nezjistíš.
+Jako, když to, jo,
+tak,
+a tahle technologie stojí ještě další velký peníze
+a zatím třeba v České republice nebo
+v Lize, tohle není.
+Jo, a to je velký
+handicap, co se týče VARu u nás.
+Takže my se orientujeme samozřejmě podle
+podle těch kamer,
+těch různých záběrů,
+což za mě je dobře,
+nicméně jsem,
+nevěřil jsem tomu, když
+když dneska se na to
+se ohlídnu, kolik chyb ten VAR
+udělal.
+Já mám rád fotbal,
+mám rád ty emoce,
+když seš na tom hřišti a dotkne se tě to
+negativně, tak je to průser,
+ale já mám rád to,
+jak se potom o tom v těch hospodách bavíš.
+Jo, jo, jo, jo.
+Protože kdybychom to měli robotem řízený,
+tak tam nemáme ty diskuze.
+Jo, tak se budeme bavit o hezkým gólu,
+ale ty, jako ty
+hádky a tohle byla, nebyla ruka, byla,
+nebyla penaltá, tohle je super.
+A tohle mě baví, jako,
+samozřejmě teď, když už nejsem na tom hřišti,
+to mělo poškodit, tak mluví mi nějak.
+Ale dneska mě to baví
+a baví mě to o tom diskutovat. Já si zavolám
+s nátou, bavíme se o fotbale a bavíme se
+o těchto situacích. A co mě mrzí,
+je tak, že ten VAR nevždycky rozhodl,
+protože když jsem viděl ten VAR a říkám,
+tyjo, tak to není penaltá, a oni to písknou.
+A říkám, tak to jsem, takže
+jestliže my se neschodneme, ani když
+nám to ten VAR ukáže, a stejně máme
+jako třeba 50-50,
+tak je to složitý.
+Nicméně ten VAR aspoň pomohl
+tomu, že se odstranilo
+tu simulování těch penalt
+a těchhle z těch situací.
+Já vím, že ten VAR nepomohl
+úplně všemu, ale třeba
+když si uvědomíme, jestli byla písknutá
+penalta, kdy ten
+hráč simuloval, kdy jsme my
+potom viděli v televizi, tyjo, když ten se
+vůbec nedotk, tak tohle
+už nemáme, že? Takže minimálně
+tomu to pomohlo a těmhle s těm zásadním
+situacím. Nicméně
+pomohlo to úplně stoprocentně ve všem.
+Takže já pro ten VAR jsem,
+ale
+kdyby se
+podařilo tady mít
+tu kalibrovanou čáru, která by výrazně
+pomohla, i když dneska se budeme dívat
+Real Madrid
+s Bayernem zápas,
+i když to nebyla chyba VARu,
+byla to chyba Rozočích,
+kteří nepochopitelně
+mi tady v lize Rozočí
+nemávne třimetrový offside,
+mě tam řevělo na tribune, proč to nemávne,
+když je to úplně...
+To je úplně jasný. On to nechá dohrát,
+ono mě to přijde jako, že se zdrží
+hra o půl minuty, minutu,
+když to stejně offside byl.
+Takže mají ten pokyn jako ty
+hraniční nemávat, pak se to zhodnotí
+tím VARem, no nicméně v takovém zápase
+dojdu k tomu, že
+on to mávne okamžitě a on to okamžitě
+pískne, což jako nahrává tomu,
+ale udělají to schválně, protože mi to přijde
+jako opravdu v takovém utkání
+taková chyba jako v Roská.
+Tak a teďka
+ještě se vrátím trošku na konec
+tý fotbalový kariéry. Tak teďka vlastně
+skončila ta fotbalová kariéra. Tam nutně
+musela být nějaký druh prázdnoty.
+Jako teď to skončilo, ty jsi
+přišel domů, že říkáš si tak a teď co?
+A teď teda předpokádám, že tam
+přišla nabídka z toho fačru někdy za nějakou
+dobu a pak teda začal ten
+IT svět. Tak jestli bys nám popsal
+tohle tvoje přemýšlení. Teď jako
+najednou prostě skončí ten sport a
+najednou přecházíš někam jinam. Jak to
+vlastně probíhalo v tvý hlavě?
+Tak ta prázdnota, já bych to nenazval prázdnotou.
+Člověk, že já jsem skončil s fotbalem
+v 35 a byl jsem
+jako vyčichlej. Tak jak jsem říkal, já byl
+150 dní v roce na hotelích, pořád
+pryč. O víkendu
+děti, rodiny
+vždycky byly na hřištích, na výletech
+a já byl na hotelu a hrál jsem zápas.
+Folau dohranej už taky.
+To už dávno.
+To už se třepal
+na nový díl, ale
+ale
+tohle mi chybělo. Trošičku ten
+rodinný život a věnovat se jako dětem
+a takže já jsem
+tu prázdnotu jsem vyplnil
+tak, že jsem dva roky nic nedělal.
+Já jsem byl doma,
+chodil jsem rád golf, vozil jsem děti
+do školy a
+byl jsem takový, prostě skákal
+jsem kolem baráku a fakt jsem si dal
+voddah. Dva roky jsem opravdu
+se trošku flákal.
+Potom moje děti začaly, nebo hrály golf,
+začaly trénovat a já bych
+tomu začal
+i trošku rozumět po trénerské
+stránce, jak jsem si udělal licenci
+trénerskou třetí třídy na golf
+a pomáhal jsem u nás na klubu Profíkovi
+prostě trénovat děti.
+No a za půl roku on odešel
+a mně spadlo 50 dětí
+týdně trénování, takže já jsem
+trénoval u nás na klubu děti
+golf.
+Tak to jsem
+měl jako náplň na odpoledne, ale musím
+přiznat, že měl jsem jako
+různý kategorie a když mi přišly úplně
+ty nejmladší, třeba kolem pěti, šesti,
+let, tak to nebyl moc trénink,
+to bylo jako hlídání mateřská škola.
+Já jsem byl tak po hodině tak vyčichlej.
+Já jsem stále vždycky sedl,
+dál jsem si pivo a teď jsem
+seděl a mé jsem obdivoval ty učitelky
+ve školách. – Že nejsou v černých
+chronikách. – Že tohle je jako, to by
+měl někdo zažít. Já měl deset dětí
+a po hodině jsem byl úplně
+vycuclej jak balón.
+Prostě to bylo šílený.
+A to byl sport, to se mi nepotřeboval
+jako nechat sedět v lavicích
+a fakt to bylo náročný.
+Ale trénoval jsem asi
+50 dětí a pak
+v tom období po těch dvou letech mi přišla
+ta nabídka z té futbalové asociace.
+Tam jsem byl nějakých
+pět let.
+A když jsem skončil na asociaci, tak
+jsem chviličku,
+tak jak jsem už nastínil, tak jsem
+jezdil s dcerou, dělal jsem ten support,
+jezdili jsme turnaje, golf.
+No a do toho
+moje manželka dělá pro jednu firmu
+a
+v té firmě, ona spoluproduce je
+zaťákem a teďka seděla u počítače
+a se to pamatuje jako dneska.
+A už po XT trošku si na něho
+zanadávala, protože
+tyjo, on zase mi to nedodal,
+tohle nemá na to čas.
+A já tak říkám, hele,
+tak já se to naučím.
+Já se na to kouknu a zkusím
+třeba ti pomůžu v té firmě.
+No a otevřel jsem počítač
+a začal jsem hledat, no a říkám,
+tak čím začnu? Tak jsem si našel Python.
+Takže, že bych se jako
+měl, ve škole jsem měl
+Basic, Pascal a tohle,
+tak jsem začal jako Pythonem,
+nějakým samostudiem, nebo respektive
+na Udemy jsem si našel kurs
+a začal jsem si jako denně,
+jsem se začal učit Python.
+Začalo mě to bavit, znovu, zpátky
+a teď jsem jako, najednou jsem zjistil,
+hele, tohle znám, tohle umím, tohle je stejný,
+tohle jako, že samozřejmě není to úplně stejný,
+ale nějaký principy a tohle tam
+jako sedí úplně stejně. Říkám, no to už jsem se učil.
+Takže mi to jako
+do hlavy šlo docela jako,
+nechci říct rychle, protože už mám
+taky svůj věk a potřebuji někdy mít klid,
+ale bavilo mě to
+a někam jsem se posouval.
+No a jak už ten život má ty náhody
+a tohle, tak já jsem,
+šel jsem si zahrát u nás
+turnaj na golfovým hřišti
+a šel jsem s jedním naším členem
+a ten
+přitáhl
+novýho člena.
+A teď hrajeme a ten můj kamarád
+mi říká, co děláš?
+Říkám, no hele, učím se IT zpátky, učím se Python
+a jako chci manželce a to.
+A on říká, tady Pavel
+je vlastně, ten by ti mohl pomoct.
+Ten to je CEO jedné
+vůbec asi z největších firm IT
+v České republice. No a já jsem šel
+ve flightu s Pavlem Kyselou, že?
+No tak
+jsme se dali nějak do řeči
+a on mi říká,
+hele, jestli to myslíš vážně s tím IT, tak
+bychom se mohli potkat a třeba ti
+jako někam nasměruji, nebo ti budu moct pomoct.
+No tak říkám, jojo, vyměníme si čísla
+a já jsem mu pár dní
+na to zavolal, hele,
+jako fakt mě to zajímá, tak
+a on mi říká, tak víš co, tak dáme si devítku,
+dáme si jako zase golf a
+pobavíme se o tom. No tak jsme si dali devět jamek
+u nás a pak jsme si sedli na kafe
+a on mi řek, jako
+tak jsme měli nějakou debatu a teď říká,
+hele, násvada stře, teďka tlačí bota tady,
+jestli jako, jo, data,
+SQL a tohle, jestli o tom něco víš.
+A já říkám, no, nevím, ale
+nemám problém se naučit, jako, nebo
+protože jsem takový, jako, hladový.
+No tak mi říkal,
+hele, klubci ti něco od nás naposílaj,
+podívej se na to a
+když to budeš jako umět, aspoň na nějaký
+úrovni, tak zavolej
+a my ti dáme nějaký vstupní test,
+jo, nějaký úrovně,
+nějaký séš a
+a uvidíme, jestli něco
+z toho bude. No takže mi posáhali
+prostě SQLko, nějaký kurzy, tohle,
+takže já jsem přes Udemy, zase jsem si něco vyhledal
+no a začal jsem se učit, tak jsem to nějakým
+způsobem,
+to bylo tak nějak v září
+a já během
+září, říjnu, listopadu, asi nějaký
+tři měsíce jsem v tom jako ležel,
+no po třech měsících jsem zvedl telefon a říkám,
+hele, tak možná něco je to,
+tak přijď k nám do Adostry, tak, takže
+dali mi test, no a
+v únoru jsem nastoupil, takže
+takže jsem
+nastoupil, samozřejmě
+nebudu říkat, jsem prostě
+nebo byl jsem, doufám,
+že už nejsem úplně junior,
+ale byl jsem juniorní, no ale
+takhle jsem se vlastně dostal do Adostry,
+ta mi dala přijitost, díky
+životní náhodě, takže jsem
+milovník golfu, tak jak Pavel Kysela,
+tak jsem se prostě
+tímhle způsobem
+dostal do Adostry, no a ta už
+mi pomohla, co se týče nějakého rozvoje
+a dalších kroků.
+No a ty se teda teďka věnuješ
+víc tomu SQL-ku a víc těm datům
+a nebo tě láká
+takový to klasický aplikační
+programování, ten Python, ty
+skriptíky, jak to máš?
+Hele, přiznám se, že
+ten Python mě strašně láká.
+Mám ho v tom backlogu nachystaný,
+ale když
+přijdu domů, tak jsem tak vyčichlej, že
+už do té hlavy prostě nic nedostanu
+a na to, abych vstal
+brzo ráno a tu hodinu tomu věnoval,
+tak na to ještě nejsem úplně ranní ptáče.
+Tu jsi dal nám konec konců dneska, tu jsi
+ranní hodinu. To je pravda, ale
+prostě to, mám to
+v backlogu, mám to tam nachystaný, protože bych to
+chtěl umět. Chtěl bych ten Python umět
+jako daleko víc,
+protože jsem ho zarazil tím,
+že jsem začal vlastně
+dělat SQL a tyhle z ty
+datový věci. Mám to
+tam. Mám to tam nachystaný.
+Takže teďka samozřejmě
+se realizuju v tom datovým světě,
+ale tohle
+prostě ještě musím dát.
+Jedna věc, který jsi určitě musel všimnout,
+když jsi přišel do IT, že to je taková
+z mýho pohledu, já pořád říkám,
+to je dobře placená, chráněná dílna. Už jsem to tady říkal
+několikrát. Je taková jako divná
+sebranka divnejch lidí, ty ITáci.
+Nebo vždycky to kolem toho oboru tak trošku
+bylo. Teď už se to samozřejmě, řekl bych, lepší,
+ale pořád to je velmi specifický
+obor. Jak to vidíš, Tykor, když to
+třeba porovnáš s tím, že jsi byl s
+fotbalistama, byl jsi s manažerama
+z FHR
+a najednou prostě jsi v IT světě.
+Jak to do sebe zapadá, tyhle
+archetypy?
+Hele, tak samozřejmě.
+Ten IT svět je hodně zkreslený, protože když se podáš
+nějakýkoliv americký film, tak tam máš nějakého
+mastného, tlustého s copem, prostě
+zavřenýho ve sklepě, blázna.
+A dneska už
+takhle. Taky jsem říkal,
+tyjo, teď tam vejdu a uvidím jich
+tam tolik. Minimum.
+Jako minimum. To bych řekl
+procento.
+Takže byl jsem jako milé překvapenej.
+Protože
+jsem si připadal jako, nebo jsem si říkal,
+tyjo, nejsem na to starej, protože jsem
+jako IT mají. Teď přijdu do té firmy
+a vidím, že tam jsou daleko starší lidi než já.
+Jo, seniorní lidi, kteří
+umí hodně.
+Takže se tam cítím dobře.
+A ten obraz, řeknu to tak,
+seděl jsem s týmem,
+Adastřím týmem
+v hospodě
+a jako ITák tam vypadal jenom jeden.
+Jo, tak to je. Nebudu ho jmenovat,
+protože by se naštoval.
+Ale jeden vypadal
+jako vyhazovač z baru, prostě nařachanej,
+oborec, jo. Takže
+není to tak, že bys vešel do hospodu
+a pojíval se k tomu, že to jsou ajťáci
+a tam nesedím. Nemáš šanci
+to poznat, jo. Myslím si, že to nepozná
+nikdo.
+Takže ten obraz je jiný, než
+se maluje, prostě hlavně v těch
+filmech. A jak ti to sedí, jako
+teď v porovnání s tou kabinou, že jo.
+Jo, jakože teď jako samozřejmě má
+to zase nějaký určitý archetypy, jo.
+Nechci se jim dotýkat, ale nepřepokádám,
+že třeba, nevím, Tomáš Rybka se vydá
+směrem IT, jo, jakože vlastně každý
+je nějakej. Tak jako
+co ti tam vlastně nejvíc rezonuje,
+co se ti vlastně líbí na té IT komunitě?
+Hele, jako
+nedá se to porovnat, jako fotbalová kabina
+a IT skupina, to je
+prostě dnebe a dudy, to
+nejde, ale
+mě baví to, že to jsou
+všichni fajn lidi, samozřejmě ta
+konverzace se jako
+směřuje hodně tímhle, jako
+tímhle směrem, co se týká, já nevím,
+jo, prostě těch problémů,
+IT problémů, ale já
+jsem rád, že jsem poznali spoustu
+jako sportáků, kteří
+jsou v IT a dokážeme
+se, my jsme naladěni jako na stejnou
+notu, jo, takže se bavíme o sportu a ne
+proto, že se baví o fotbale, jo,
+ale mám tam kamaráda, který
+hrál basket,
+jo, působil basketu a to
+a máš jako sobě
+blízko, protože znáš ten sportovní
+svět a znáš ten IT svět, takže se dokáže
+bavit o tomhle, o tomhle a tohle mě baví,
+jo, a
+je
+poznal jsem spoustu jako
+zajímavých, dobrých lidí a
+mě baví se bavit o tom IT,
+protože já pořád nasávám a získávám
+informace a ptám se, že a
+tohle mě posouvá někam dál, takže
+tím, že jsem jako na začátku,
+tak pořád sejtím, že
+ty informace jsou pro mě obohacují,
+jako mě obohacují a
+posouvají mě
+pořád dopředu, jo, a
+ne všechno si zapamatuju, protože
+už jako taky tu hlavu nemám na všechno,
+ale ty důležitý věci si pamatuju a potřebuji,
+nebo ty
+které potřebuju ke svý práci,
+tak ty mě hodně zajímají.
+A je něco, co tě vyloženě překvapilo, že jsi o to
+očekával úplně jiný a pak ses musel
+srovnat s tím, že v tom světě to nějak funguje?
+Hele, vyloženě překvapilo,
+asi nedokážu říct,
+že to byl, já něco byl šok, jako
+když, ale když
+takhle řeknu.
+To má nějaký procesy,
+cokoliv, jo, co třeba
+se vůbec nebyl zvyklý. Řeknu třeba,
+co se týče bankovnictví, jo,
+protože ty, když se jako učíš
+z nuly, řekněme,
+učíš se nějaký SQL,
+učíš se přes Udemy, nebo jakýkoliv jiný
+prostě platformy a
+tak se učíš na nějaký jednoduchý
+databázi, prostě zákazník, tady
+faktura a tohle, prostě.
+No, no, nějaký joiny.
+A pak přijdeš do ty banky a koukneš
+na tu databázi
+a ty, jo, teď ti spadne brada a řekneš
+do prdele, pardon.
+Takže,
+prostě je to
+tak, že
+ty se naučíš na nějakým modelu, nějakým
+základním,
+fakt jednoduchým, ale pak přijdeš a hlavně,
+jo, a věřím, že to je i v jiných
+těch segmentech, ale třeba ten bankovní
+model je tak obrovský, rozsáhlej
+a to byl
+třeba velký šok, jako skok
+v tom se zorientovat a zjistit, jako, že
+tyjo, tak tady
+se člověk musí otáčet, než to všechno
+pochopí a to a
+druhá věc je, když to chceš pochopit i biznisově,
+aby ti to dávalo smysl, ty data,
+že jenom někam nepřesouváš tohle
+a já jsem trošku typ, že
+když to dělám, tak bych chtěl vidět, jako
+ten smysl toho, ten
+biznisově, možná mi to o to díl
+trvá, protože to chci pochopit, proč je tady tohle,
+proč je tady tohle, jo.
+A tím, že do toho vkročíš, jako
+opravdu z nuly a
+ne u všech projektů seš, jako, že
+se buduje ten projekt a ty na to
+koukáš, že vlastně to stavíš
+s tím týmem seniorním a vlastně
+se na tom učíš, tak to není pro tebe
+jako jednoduchý. Takže tohle jako velkej skok byl.
+Takže vlastně
+zasekli jsme se u toho, že
+teda si se domluvil s Adastrou,
+začal jsi tam pracovat a najednou
+střih, že jo, Polák přichází
+v listopadu, že jo, teď někdy v prosinci, nebo já nevím
+kdy, prostě najednou mi tam přistane e-mail,
+prostě jako vlastně nová
+externí síla, že jo, Libor Sijonko
+říkám, tak to je asi náhoda, že jo.
+A teď vlastně proběhla první zkůzka
+a Honza Divko za mnou přišel, který tady
+taky byl a říká, hele, tak on tady je ten
+Libor Sijonko, ten, co hrál fotbal
+za Spartu. Říkám, cože? A pak
+vlastně mi to začalo nabíhat, jo, vlastně,
+že tak jsem si, jak našel jsem
+nějakej článek právě, kde to popisovalo, že si dělal
+IT ještě před fotbalovou kariérou a všechno
+mi to začalo docházet, tak jak vlastně
+jak vlastně si skrz
+tu Adastru došel až ke spořce?
+Jaká byla ta cesta?
+– Tak já jsem v Adastře
+tím, že jsem začal vlastně
+na SQL
+chviličku, nějaký, já nevím,
+třeba půl měsíce jsem
+v externím týmu pracoval v
+monetě ještě, jo, kde
+jsem měl možnost si konečně šáhnout
+na ten datový model
+bankovníctví a
+spadnul jsem, nebo
+patřím pod křídla mentora
+Tomášek na to chvíle, který prostě v tom
+bankovníctví je hodně silnej a
+ty kompetence má na starosti,
+no a ten věděl,
+jaký mám já, jakou
+schopnosti, nebo, jo, jaký je můj
+záběr a díky němu samozřejmě
+jsem se objevil v týmu pro spořitelnu,
+kde děláme ve snowflakeu
+a já jsem
+tam hodně spokojený v tom týmu. Já musím
+říct, že tak jak
+když hraješ fotbal, tak
+ty úspěchy přijdou jenom, když to funguje
+v kabině. Ještě jsem v životě, že se mi
+teda mě se nestalo, že jsme vyhráli titul
+v týmu, kde bychom byli rozhadani v kabině,
+nebo to nefungovalo v kabině. Naopak, když to
+nefungovalo v kabině, jak jsme ho nezískali.
+A stejně tak, když pracuješ
+v dobrým týmu, ať už je to
+kdekoliv v IT nebo tohle
+a cítíš se tam dobře, tak
+to funguje a šlape to.
+Takže já mám,
+doufám i, že budu mít
+na tyhle týmy štěstí
+a cítím se tady dobře,
+cítím se dobře v tom týmu a mám
+díky tomu možnost třeba teď působit
+ve spořitelně, kde jsem hodně spokojený
+a
+věřím, že se i posouvám
+já profesně dál,
+takže jsem platnej pro tu spořitelnu,
+to, co tam děláme.
+A co říkáš na Snowflake? Tady už to padlo několikrát,
+to já vždycky tady po limu se
+rozsvítějí očička, když se řekne Snowflake.
+Hele, já jsem,
+začal jsem na Oracle,
+začal jsem na Oracle původně,
+potom jsem přešel samozřejmě díky tomu,
+že Snowflake je jakoby
+cloudová budoucnost, tak jsem přešel na Snowflake
+a
+taky se mi rozářily oči tady,
+protože jsem
+jako s tím
+jsem s tím spokojený,
+to, co to obnáší, co to umí,
+jako
+jo, myslím si, že je to budoucnost,
+líbí se mi v tom pracovat a líbí se mi
+v tom prostě se vzdělávat a posouvat
+dál jako Snowflake určitě.
+Děláš i s nějakou
+datovou vizualizací, nebo
+vlastně jak funguje Snowflake,
+nebo Polity, můžeš určitě k tomu
+přehodit pár svejch inputů.
+Hele, ono je to ještě o tom, že
+Snowflake umí nějakou datovou vizualizaci
+si udělat i sám, že jo, když vlastně si uděláš
+nějaký datovej set, tak tam vidíš vizualizaci,
+ale jako nepředstavujeme si to jako Tableau Report
+nebo nějaký Power BI Report, jo, je to
+taková jako rychlovka, rychle si to jako
+v segmentu si data a tak, takže s tím předpokládám,
+že přicházíš, Libore, často do styku.
+Co se týče Tableau,
+tak na tom máme člověka tady
+ve spořitelné, který řeší tuhle
+odnož, já jsem chviličku
+řešil Power BI v monetě,
+ale teď momentálně moje práce
+nebo náplnění není, co se týče
+těch analýz a těchhle z těch věcí,
+takže tohle zatím
+neřeším, co se týče našeho
+projektu. My tam vlastně,
+ty tam teďka s tím týmem Adastrim děláš
+vlastně jeden datovej produkt, jo, asi nemusíme
+mluvit o jaký, ale vlastně jeden konkrétní
+datovej produkt, což v podstatě znamená
+nějaký konkrétní dataset, který by potom,
+a to je to, kam se teďka z Poška
+posouvá, jako by jsme měli odevzdat
+nějaký jiný části banky, která si ho potom bude
+zpravovat. Ale předpokládám, že tam je to víc
+o tom SQLku, málo o té vizualizaci.
+Je to vlastně něco, co ti vyhovuje, nebo
+by si se časem chtěl i posouvat směrem k té
+vizualizaci těch dat, která může být
+zase zajímavá pro nějakého koncovějšího
+zákazníka? – Hele, mě víc,
+a to se přiznám, mě víc baví ten kód.
+To pozadí toho,
+ne, že být schovaný,
+jo, ale řešit
+ty problémy,
+nebo ty takový
+ty tásky, že jak to vyřešit,
+tohle, jak se musíš prostě zamyslet
+a vymyslet vlastně
+nějakou logiku, a tohle
+mě na tom hodně baví.
+Zatím necítím se
+na to
+být nějaký prezentátor,
+nejsem takový exhibicionista,
+že bych něco prezent... Nemám rád prezentace, jo,
+takže to, že jste se mě, jako,
+že jste mě sem dostali, je úplně...
+Nikdy jsem
+nebyl ten, který
+se hnal
+mezi novináře a takový, já jsem byl
+radši opravdu takový ten schovaný,
+ten arbejter.
+A cítím to tak i v tom IT,
+že mě baví opravdu ten kód
+a ty střeva a vyřešit to
+uvnitř a navenek
+prostě, kdo to bude prezentovat,
+kdo to vizualizuje,
+vycucá z toho ty data a udělá ten report.
+To bude prostě
+back and jack v budoucí, to je...
+Já jsem ještě jako s tím pajtném, protože k tomu se stejně doběhne.
+Je to tak, kuci, je to tak.
+Tak už to vypadá, že to půjde tímhle směrem.
+A ještě teda vlastně
+mě napadá kombinace zase
+s fotbalem.
+Jaký máš pocit, že jsi přenes vlastnosti
+do toho IT? My jsme tady měli Davida Píchu,
+David vlastně
+dělal vlastně na policii, dělal vyšetřovatele
+a Roman tady o něm prohlásil
+vlastně, že to je senior, jenom o tom ještě neví,
+protože samozřejmě už měl to myšlení.
+A zase u tebe já cítím
+takovou tu systematickou houževnatost,
+něco takového, co ten hráč, aby byl
+na vrchalový úrovni, musí mít.
+A věřím, že se to musí propsat i do toho
+IT. Je to na trénování, protože třeba chce
+pochopit nejdřív, proč ten
+datovej model existuje, protože vypadá
+tak, jak vypadá se zatím za biznis.
+To je vyloženě vidět, že prostě Libor
+trénuje. Je to tak,
+že jsem takový úrputnej,
+že kolikrát, když to neleze do hlavy,
+tak to stejně otevřu a říkám,
+já to prostě dám.
+Chci umět, chci tomu rozumět
+a je to takový, že v tom fotbale
+nedostaneš nic zadarmo, že ta dřina
+je tam velká,
+hlavně ty zimní přípravy
+a to, co jsme absolvovali a to cejtím,
+že mám tu
+houževnatost a tohle
+i za tím monitorem, že kolikrát
+k tomu sednu
+byt zbytečně třeba o víkendu,
+protože na to musím
+být připravený a tohle musím umět.
+Takže kolikrát u toho sedím díl,
+než by bylo třeba,
+což není vždycky dobře,
+ale cejtím to v sobě,
+že to chci umět
+a jsem nechci být přistížený,
+když se mě někdo na něco zeptá
+a říct, jako já nevím.
+Tak jak jsem to měl v té škole,
+tak to mám tady. Když teď jsem pořád na začátku
+a to nevím, občas ode mě
+ty lidi slyší.
+Jasně.
+Kde se vzal ten tvůj vnitřní motor?
+Já tím přemýšlím od začátku,
+jak jsi říkal, tři brachové v malé místnosti
+a každej ten vnitřní motor měl.
+Ale nepřemýšlel jsi nad tím,
+proč to tak máš, odkud se to vzalo?
+Protože tenhle pattern evidentně ve vaší rodině
+se nějak vyskytuje geneticky.
+Hele, nedokážu. Tohle nedokážu popsat.
+To je prostě ve mně
+nebo v nás
+a cejtím to takhle.
+Asi jsme byli takhle vychovaní,
+ale nikdo nám na ty paty nešlapal
+nebo nás tomu nenutil.
+My jsme prostě to cejtili a cejtíme to stejně
+dneska.
+Takže pro tebe představa,
+a řekneš, už mám hotovo, dám se ruce za hlavu,
+to prostě ty pojedeš do důchodu,
+když to tak řeknu. Jak ty to vlastně vidíš
+jako dlouhodobě?
+No to úplně čověče ne.
+Musím říct, že si dokážu taky dáchnout.
+Je fakt, že když, takhle, bavíme se o tom,
+když mám před sebou nějakou výzvu, nějaký problém,
+tak dokážu u toho strávit ten čas,
+ale dokážu si taky dáchnout.
+To jsem udělal po té kariéře
+a samozřejmě IT mě baví.
+Takže chtěl bych v tom se posouvat dál,
+chtěl bych se vzdělávat,
+chtěl bych být platnější a platnější,
+ale tím, jak ten život se ti,
+nechci říct dneska,
+že se ti život krátí,
+ale chci si taky užívat.
+A chci mít to volno
+a chci si užít to svoje volno.
+Takže rozdělil bych to na ty dvě části.
+A teď momentálně pracuji v IT,
+ten fotbal mi nechybí,
+nechybí mi z toho manažerského
+postu, na fotbal chodím,
+koukám na fotbal jako fanoušek,
+stýkám se s lidmi okolo fotbalu,
+tohle je fajn,
+ale baví mě ta komunita IT
+a ty lidi.
+Poznal jsem hodně zajímavých lidí,
+dobrých lidí,
+protože všechno se točilo kolem fotbalu.
+A dneska se to točí i kolem IT
+a mám možnost
+najít nový přátel,
+nový lidi z jiného oboru
+a tohle je fajn.
+Mně se líbí,
+že dokážeš říct,
+že dokážeš odpočívat,
+protože si jedna věc
+a na to jako bacha,
+ale myslím, že je zrovna tebe varovat,
+v tomhle je to naprosto zbytečný,
+ale kolem IT je jedna věc
+a to je typicky syndrom vyhoření,
+to, že lidi to přepálejí,
+chtějí prostě dosáhnout,
+vyřeší všechny problémy hned,
+okamžitě a dá tomu celý život
+a pak vlastně dojdu do té fáze,
+že vyhoří, což
+nevím, jestli vlastně ve sportu se úplně
+tak jako, když pominu fyzicky, dá se ve sportu
+vyhořet nějak jako, tak jako je to
+daný třeba v IT typicky?
+Hele, jsou případy známé, případy,
+kdy někdo s tím šlehl,
+skončil, jo, nebo že toho měl,
+ono to je taky náročný, je to
+náročný život, ono, lidi
+vidí jenom ten, jo, přijdu dneska
+na fotbal, přijdu na Spartu
+a vidím, no a to je super tohle, ale zatím
+je obrovská dřina, že, a vůbec se tam
+dostat, aby si hrál tam
+na tom stadioně před těma lidma,
+byli a ne každý tu cestu jako
+zvládne, že, nebo
+nebo ji v polovině skončí,
+protože je to dřina, než se tam dostaneš.
+A
+znám pár hráčů, kteří
+byli výborní, ale nezvládli
+to prostě, že v té hlavě
+už bylo to moc.
+Ale ty teda odpočívat umíš, takže jako
+když se zakousneš, tak se i zakouslej, ale
+taky víš, kdy pustit a jít
+na golf, jestli to tak řeknu.
+Je to tak, je fakt, že třeba
+pro mě je ten golf obrovský relax,
+takže když přijedu domů a tím, že mám
+tu výhodu, že bydlím prakticky na golfovém
+řišti, tak tam přeskočím
+plot a jdu si třeba zahrát
+na hoďku na dvě jenom, jo.
+Ale
+asi to každej zná, kdo v tom oboru teďka
+pracuje, já to znám, taky
+jedu v MHD nebo jedu v autě
+a už mi to v hlavě šrutuje, jak to vyřeším
+a už mi pořád, jo, a teď ti to v ty palici
+vlastně, co jsi tam udělal, proč ti
+to padá, tohle, jako.
+A vlastně to není jako
+8 hodin skončití, 8 hodinovka
+a jedeš a zavřeš to tohle,
+protože v té hlavě to máš, že?
+A mně se to stane třeba i večer
+ležím v té posteli, chci usnout a říká
+aha, takhle, už to mám, už to mám.
+A jediný to nutkání
+je takový, řekl jsem, hele, otevřu to ještě,
+ještě to tam napíšu, nebo to nechám na ráno, že?
+Takže prostě
+poznávám to i v tomhle směru, takže
+kdybys měl jako
+vymezit ten čas, který
+trávíš tady tímhle s tím, tak to není 8 hodin,
+ale opravdu je to daleko víc, protože
+některý ty nápady
+a třeba potom dní 8 hodinovým
+a cítím to kolikrát, že už
+dojíždíš tu 8 hodinu
+a nemůžeš to vyřešit, protože
+říká ty a už do toho koukáš, no a najednou si
+odpočináš a najednou cvak,
+no jasně, teď tady tohle, jo?
+Protože potřebuješ být taky odpočatej od toho, takže
+jsem proto, že musíš dobře
+odpočívat, aby si taky dobře pracoval,
+protože když nebudeš odpočívat, pojedeš non-stop,
+tak jednak
+riziko vyhoření je velký a jednak
+ta chybovost, anebo ten
+nápad ti naskočí jako jinak, že?
+Takže tak jak ve fotbale,
+když nejsi odpočatej, neporáž dobrý výkon,
+tak fajty musíš taky odpočívat.
+To je blbý na to majitý, že pak
+tě to napadne, ještě máš možnost to ještě
+opravit na tom počítači.
+Jo, když bys byl pracovník ve šroubárně,
+tak počkáš na všech tu ráno, že jo?
+Že by ses šel odnechat
+otevřít továrnu, jak já, které dvě ráno
+si vzal klíče od toho.
+Jo, no přesně, přesně, a šel si střílet na bránu.
+Hele, no a ještě, když se otočíme
+vlastně kolem těch technologií,
+tak ty jsi změnil samozřejmě Snowflake,
+na kterým dneska děláš, což je prostě high-tech,
+že jo, Data Warehouse.
+Máš tam nějaký
+technologie, po kterých třeba pokukuješ,
+jo, vedle toho Pythonu, říkáš si, hele,
+tohle bych si chtěl vyzkoušet, to mě jako zajímá.
+Jo, třeba i věci kolem AI,
+že rezonuje to všude. Jsou to věci,
+které tě zajímají, nebo nějak sleduješ?
+Hele, já
+pokukuju, lehce tam
+naznačil si, nebo řekl si to, já
+opravdu mám v tom backlogu ten Python,
+protože s tím se setkávám i pořád,
+denně, jo, protože napsat si
+nějaký jednoduchý skrip, něco,
+co ti zjednoduší, někde něco
+zautomatizuje, tak to by bylo super.
+Jo, takže na tohle koukám.
+Snowflake, Snowflake bych chtěl dotáhnout
+prostě do nějaký, jakoby,
+co nejvyšší úrovně,
+abych tomu opravdu rozuměl, protože v tom vidím, jako,
+velkou budoucnost, takže
+teď se přiznám, nepokukuju
+mimo tyhle dvě věci
+po něčem, protože
+pak, když je to neumíš
+na nějaký úrovni dostačující, nebo
+řekněme, uspokojivé pro tebe,
+tak se nechceš učit něco,
+takovat, že, takže já bych chtěl
+opravdu v tom Snowflakeu se posunout
+na hodně vysokou úroveň,
+jo, dostat se do
+Pythonu na takovou tu
+výpomoc,
+jo, kde to, co mi nestačí
+je skvělko, tak si vyřeším tady,
+jo, a pak uvidíme, co dál.
+Jasný. No jinak Python teda doporučuji,
+já jsem teďka si doma stavil, asi jsem to tady už říkal,
+streamlitovou apku v Pythonu,
+Python jsem nikdy předtím nedělal, protože já jsem ještě
+ten starý data inženýr, co dělal jenom
+to je skvělko, a
+já jsem to udělal za dvě hodiny, prostě,
+jakože doma s chatem GPT uděláš apku,
+prostě jak nic. No tak kors s chatem GPT,
+který jako Python ti cpe vzporem spodem,
+jo, přesně, přesně. Já bych to chtěl třeba v dotnu,
+on ti je stejně nad cpem. Jo, a co třeba Python? No jasně.
+Ale už jako to,
+pak až se do toho pustíš, tak chat GPT
+musí být ten nejlepší kámoš, no, protože fakt jako to bylo
+hrozně jednoduchý. Tak už se s ním samozřejmě
+potkávám, setkávám, protože
+takhle než něco googlovat, hledat,
+že v dokumentaci, tak
+máš tady chat GPT a
+dokážeš si tím pomoct, takže to je
+velký plus.
+Jo, samozřejmě
+já jsem třeba ještě takovej, nevím,
+jestli jsem staromodní nebo co, ale nechci, aby to udělal
+všechno za mě, já na to chci jako přijít.
+Jo. Takže nějaký
+to gro, ale když už fakt nevím, tak to
+využiju, jo, ale. Jo, takhle, jo, jo.
+Tak to nemám, člověče. Nemáš?
+Nemám, jo. Já taky se nechám vysvětlit, třeba proč.
+Jo, to jo, to si nechám,
+ale jako nechám si to prostě, dej mi to řešení
+a já pak si jako procházím a říkám si
+jo, takhle, jasně, ale nechám to jako na něm,
+což jako hrozně to zrychle. Jo, máš pravdu,
+když se mi včasový tísní, tak jsem taky prostě to řešení
+jsem si, jo, a pak na tom řešení
+jsem to vlastně, jsem se to naučil. Jo.
+Říkám, jo, jasně, tímhle způsobem, jo,
+ale je fakt, že ho využívám tak, jak
+asi každý ajťák dneska, tak jako hodně.
+No, Libore,
+abych tady s tebou mohl sedět ještě hodiny a hodiny.
+Je to strašně zajímavý a opravdu,
+a myslím, že posluchači to potvrdí po tomhle díle,
+že je to zajímavý nejenom zdaleka, nejenom z té
+futbalový roviny, ale i z té IT a z toho
+přechodu. Je to bomba.
+Nicméně čas se blíží, takže
+musíme dát tu naši
+oblíbenou závěrečnou otázku, to je,
+jaké jsou tvoje nejblížší plány
+do budoucna, Libore? Co teďka?
+Nejblíž kromě golfu, ten je jasnej, ten tam
+cejtím, to je jistota.
+Tak moje plány, samozřejmě,
+tak, jak jsem nastínil.
+Golf a Python, jasně.
+Samozřejmě rád
+bych se chtěl jako posouvat
+fajty trošku na vyšší a vyšší úroveň.
+Už jsem zmínil, že jsem spokojený
+v tom týmu, kterým pracuju, takže
+rád. Kabina dobrá tady.
+Kabina dobrá, když bude spokojenost z druhé strany,
+tak to budu úplně nadšenej.
+Takže, hele,
+plány. Budu se posouvat
+a třeba si tady sednu s váma
+za rok, za dva a budeme se už bavit v odbornějc.
+Takže to bych řekl
+jako jeden z těch plánů, že
+si udělíme si plán a potkejme se
+za nějakou dobu a třeba
+uspokojím ty zalité ajťáky
+s tím culíkem, ty masné kluky
+v těch sklepích
+i
+nějakou prostě
+IT peckou, kterou oni ještě nemají
+zmáknutou.
+No hezky, tak to znělo úplně famozdě.
+No to beru jako slib, to tady máme
+nahraný, to už se nedá vymýšlet.
+No jasný, tak to už jsem v průseru.
+To jsme domluvení. Normálně touhle otázkou končíme,
+ale dneska bych dal ještě jednu.
+Tak blíží se svátek fotbalu
+Euro. Jak to vidíš?
+Koho ty poješ na vítěze
+a tak a tak?
+Hele, Francie bude velice silná,
+Španělsko, že? Ale já
+přeju prostě těm našim klukům,
+aby to dotáhli co nejdál.
+Máme dobrý tým,
+mám tam spoustu kamarádů,
+máme dobrý realizační tým,
+takže já jsem fanda českého fotbalu
+a přál bych si nějaký úspěch
+na týhle z tý úrovni. Tak já budu Euro
+stoprocentně sledovat a budu fandit.
+Super, super. Tak budeme držet palce
+nejenom českýmu týmu, ale i tobě,
+jak se ti daří fighty, jak se ti daří ve věcech,
+který děláš. No a jsme domluvení
+za dva roky, od teďka prostě
+se vidíme. Tak, nastavím si tady timer
+za dva roky. Tak jsem si
+ušil, bič, tak vám pěkně děkuji.
+Hele, Libore, my moc děkujeme,
+bylo to opravdu zajímavý, jak jsem říkal
+na začátku, všichni lidi,
+co chtějí skočit do IT, ty bariéry
+prostě musí být takový a poslouchejte ty lidi,
+který to změnili, tu kariéru.
+Já jsem hrozně rád, že jsi ukázal, že ta cesta
+je a teď cesta je pro všechny,
+to si myslím, že je ta správná cesta, jak
+tenhle obor do budoucna udělat zajímavějším
+a otevřenějším a ty seš toho
+živým důkazem. Moc díky, že jsi přišel,
+že jsme pokecali, pro mě, jak jsem říkal, to byla
+čest, teď se jdeme fotit
+a měj se hezky,
+ať se daří. Kocí, já moc děkuji za
+pozvání a jsem rád, že jsem měl
+možnost si s vámi popovídat, díky. Děkujeme, ahoj.
+Čau. Ahoj.
+Libor Sionko,
+bývalý výborný reprezentant
+ve fotbale a nyní budoucí
+geniální Python programátor,
+aktuálně
+snowflake kouzelník,
+ale pro mě strašně
+zajímavý vhled do hlavy
+někoho, kdo to má prostě
+hozený jako jinak. Mně to přijde
+hrozně dobrý,
+že on je ten typ,
+že to chce pochopit, chce se to naučit,
+že to nebere, že ho přeci jenom, co si
+budeme povídat, ten člověk má za sebou
+fantastickou fotbalovou kariéru, ten určitě
+nemusí chodit od
+devítě do pěti do práce
+jenom proto, aby přines domů
+vejplatu, ale
+bere to úplně jinak a mně se to
+strašně líbí. Já jsem jako opravdu z dnešního dílu
+nadšen, nejen proto, že jsem ho teda konečně
+potkal naživo, ale i to
+vlastně, co říkal. Pro mě to bylo velkým překvapením,
+protože myslím si, že pokud je tady archetyp
+ajťáků, tak je tady i archetyp fotbalistů
+a Libor
+ho velmi úspěšně rozbil.
+Jo, souhlasím. A je to o tom, co říká
+Tomáš Mec neustále,
+je to o tom mindsetu, o tom attitude
+a ten, když máš, tak se naučíš
+kde co.
+Jenom jako nemůžeš očekávat, že jste
+BB senior za půl roku, což ten Libor
+jako krásně střízlivě říká,
+ale vlastně my jsme tímhle s tím dílem chtěli
+apelovat na lidi, lidi choďte do toho IT,
+nebojte se toho, není to prostě
+kouzelnictví, je to prostě něco, co se dá
+naučit stejně jako jakýkoliv jiný obor.
+Takže prostě pojďte do toho.
+Slovy klasika, to byla řeč jako víno.
+Já už nemám, co bych dodal.
+Mějte se, milí posluchači,
+krásně, Poli, tebe jsem zase rád viděl,
+my se uvidíme zase za nějakou dobu
+u dalšího dílu. Těším se.
+Máme naplanovaný zase zajímavý hosty,
+i když teda z mýho pohledu tohle byl
+highlight, ale máme teda ještě další
+taky zajímavý, no, uvidíme, co všechno
+nás ještě čeká v téhle sérii.
+Každopádně zachovejte nám přízeň, poslouchejte
+pod vocasem, sledujte nás na Sockách
+a za 14 dní zase. Jdeme dál,
+mějte se krásně. Čau.

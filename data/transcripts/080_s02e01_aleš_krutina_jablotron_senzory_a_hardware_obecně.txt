@@ -1,0 +1,2091 @@
+Pod vocasem.
+Pod vocasem.
+Pod vocasem.
+Krásný den, milí posluchači, vítejte u dalšího dílu
+IT podcastu Pod vocasem.
+I v druhé sérii tu se mnou sedí
+skvělý, jedinečný, krásný
+a na našich interních projektech vždy
+stoprocentně korektní Petr Polipolák.
+Děkuji Románku
+a samozřejmě Roman Joker provazník.
+Člověk, bez kterého si tenhle podcast
+nedovedete představit. Co on tady všechno připravuje
+na začátku, to prostě si nedovedu představit,
+že by jsem to dělal sám. Je pravda, že hned na začátku
+jsme dneska si zažertovali
+na tohle téma, protože
+Poli odešel pro našeho hosta,
+já jsem to tady všechno připravoval, všechny ty kabely,
+všechno jsem to tady dával, jako vždycky dohromady,
+protože mám na starosti konec konců
+i ten finální mix.
+A kdy přišel Poli, tak já jsem se na něj podíval
+a říkám, hele Poli, jakou část
+tý přípravy máš úplně nejradši, co tě
+nejvíc jako baví?
+Moc jsi mě tím povolil, já jsem tak
+přemýšlel, co by se dělalo, kdyby tě třeba přejelo
+autobus, jo. No tak to je konec, no.
+To je konec, to je konečná. Já nevím, co bych tady dělal.
+To je konečná, to už bychom asi nic
+dalšího extra jako nenatočili.
+Ne, ne, ne. Románko,
+ještě mi řekni, jak jsi se měl? My jsme se dlouho
+nenahrávali, nenatočili. Jaký to bylo?
+Je pravda, že když jsme to natáčeli
+na konci minulého roku, tak jsme trošku čítovali,
+protože jsme se bavili, že už je novej rok,
+ale ještě byl ten starej. Teďka skutečně
+dneska je jedenáctýho ledna, takže
+vy to uslyšíte za šest dní, takže už jsme
+v tom aktuálním roce, ve kterém to i vysíláme.
+Takže se můžeme
+konečně bavit opravdu, co se dělo o Vánocích.
+Já nevím, co ty si dostal, Vodižíška, ale já jsem
+dostal covid. To je hezký,
+takže jsi byl hodnej. To je krásný dárek, já byl strašně
+tak strašně hodnej, že jsem dostal covid.
+22. jsem se nechal otestovat,
+jen tak ze srandy říkám, pojedu za rodinou,
+budu ten rozumnej člověk,
+pro jistotu si skočím na PCR-ko,
+tak jsem tam skočil, vytřeli mi krk
+a v noci, asi v jednu ráno
+mi přišla SMS-ka, hele, jste pozitivní,
+máte smůlu. Kam? Tak, to je super.
+No a 23. už to začalo, zimnice,
+horečka, 24. pro pocený trička,
+místo toho, abych měl radost z nového
+Xboxu, tak jsem ležel v horečkách.
+Bylo to super. Takže čekám, mám pro tebe
+dobrou zprávu, na Omikron to nefunguje,
+takže možná dostaneš i Omikron. Super, tak to jsem rád,
+že mě čekají další skvělý svátky.
+Třeba už na Velikonoce se dočkám.
+Jasný. No a co ty?
+Hele, dobrý, já už vlastně, no, Vánoce byly
+skvělý, dostal jsem Airpody nový,
+jsem si hrozně přál, protože... Jo, ty jsi na tyhle
+věci. No, jasný. A jinak
+dobrý, my už jsme stihli i jedny hory, teďka
+vlastně o víkendu jsme byli na honách. Bylo to super,
+člověče. Sinátora třeba půl roku
+jsme dali poprý do ski school.
+A? A dobrý? Pecka, nějaký
+Kuba se jmenoval ten učitel, po deseti minutách říká
+hele, on má jakou poruchu držení pozornosti.
+Já jsem to měl taky, já si myslím,
+že takhle to vypadá. Jo, takže
+zlomil nad ním hůl po deseti
+minutách. Po hodině nám řek, tak jak
+kroutil hlavou, říká, to nepůjde.
+Takže jsme tam ještě zahlídli jinou
+školku, tam jsme ho dali a paní ho
+chválila od začátku dokonce, že je skvělý,
+že se naučil víc věcí než jiný děti.
+Tak pak jsme šli do té předchozí
+a chtěli jsme vrátit peníze za tu druhou půlku,
+kterou jsme si předplatili. A oni říkají,
+jo, vy jste měli Kubu, no, a on ten Kuba,
+on na to s těma dětma moc neumí.
+To jsi vybral skvělýho učitele.
+Říkám, pecka, takže nám vrátili půlku
+peněz a Peťa teďka si
+krásně se naučil ty základy
+a ližuje dál, takže dobrý.
+Peťa, budoucí ledecká.
+No to jsem zvědavej.
+Dobrý, hele, tak aby jsme se dostali dneska k tomu našemu
+hostovi, musíme říct našim
+posluchačům, že náš host,
+první host druhé série,
+je člověk, o kterém já osobně
+nic moc téměř nevím, ale
+ty už s ním máš určitou historii za sebou, je to tak?
+Hele, Aleš je úplně
+geniální osoba, Aleš Krutina,
+by the way. My jsme spolu dělali
+v dobách Jablotronu, kdy jsme oba byli
+v Jablotronu a zažili jsme tam
+za prvý spousta srandy, ale zároveň je to
+člověk, který je jeden z nejchytřejších lidí, co
+znám, takhle to řeknu. A
+je hrozně zajímavý ho poslouchat, takže
+na dnešek se fakt těším, je to samozřejmě specialista
+přes hardware, development a podobný
+srandy, takže myslím si, že se
+máme opravdu na co těšit, protože svýho
+času dělal v Jablotronu podstatě
+CTO pro celou skupinu, takže
+jako opravdu člověk na svém místě.
+No tak paráda, tak jdeme pro něj. Jdeme pro něj.
+Ve studiu už s námi sedí náš
+dnešní host, Aleš Krutina. Ahoj Aleši.
+Ahoj, ahoj. Ahoj Aleši,
+vítám tě tady u nás v Praze.
+Moc jsem se na to těšil, protože už jsme
+spolu dlouho neměli šanci si pokecat.
+A tak vzhledem
+k tomu, že děláme podcast, tak nás napadlo
+pozvat ty zajímavý lidi, který kolem sebe
+máme a známe a ty jsi rozhodně neměl
+taková ta klasika, když tři náplavy
+se robili na Václaváku a první,
+co řeknou je, tak vítáme vás tady
+u nás v Praze. Klasika.
+Je to daný hodně tím, že jsme se o tom bavili
+asi před pěti vteřinama, ale samozřejmě
+jsem to tam musel zmínit, protože tady u nás
+pod vocasem je v Praze. Jo, hoši, já jsem
+v Praze poprvé,
+tak koukám dole a doprava, co tu všechno je
+a nestačím se divit. Je to tady hezký.
+Tak určitě, tak určitě. Mají to tady hezký.
+No tak jo, jsme rádi, že jsi dorazil
+a věříme, že se ti to s náma bude líbit.
+A my máme samozřejmě připravený
+všechny možné tematické
+celky kolem hardwareu,
+ale můžeme zabroucit i nám,
+protože víme, že ty jsi člověk mnoha činů
+a mnoha oborů
+a takový jako nad,
+dejme tomu jako nad ten hardware, co se
+té technické stránky týče, takže to je jako rozhodně
+taky zajímavé. Konec konců uvidíme,
+kam dojdem. No já bych možná začal
+úplně tím, co vlastně teďka Aleš dělá.
+Jo, super začátek.
+No to je jako hned krásná
+odpověď na úvod, já nedělám nic.
+No tak to je nádherný, tak to je paráda.
+Jak říká můj kolega, který tady šéfuje
+Scrum Master, člověk, který nedělá nic, dělá svoji práci
+dobře, protože všechno už dělají ostatní.
+Hele, mě teďko,
+já jsem, že v létě skončil
+v Jablotronu
+a nikdo, a bohužel už si nepamatuju
+to jméno, kdo to byl, mi jako říkal,
+že vlastně jako v polovině toho
+profesního života je dobrý si dát jako pauzu
+vlastně. Jo, že máš jako
+relativně nějakej peníz,
+drží tě ještě zdravý, seš takým
+tom ještě jako dobrým produktivním jako
+věku, tak jsem se zařek, že to
+jako zkusím. Takže teďko vlastně
+už třetí měsíc jsem tak jako
+vysmátej a výbírám si jenom
+takový jako highlighty a užívám si.
+Hezky, takže normálně se ptáme
+na konci, co tě čeká, ale jako tohle je plán
+skutečně, teďka chvilku si dát
+voraz. Jo, teď je to jako částečně plán,
+samozřejmě jako do toho je to trošku
+jako, když si pořídíš dodávku,
+najednou zjistíš, co máš jako kámošů, takže
+to je jako s tím časem je to dost jako
+stejný, že jakmile se jako vyvalí,
+že máš čas, tak samozřejmě
+se jako ozvou různý lidi a tak,
+takže, ale to je fajn, že máš
+jako čas se jim jako pověnovat
+a zkusit něco jiného
+zase atáknout. Ale ono to je docela teďka
+řekl bych, módní trend,
+takový ty sabatikaly, takový to, že člověk
+si dá delší pauzu,
+aby se trošku refrešnul a rozmyslel
+co se životem a co s kariérou a co
+s rodinou a tak vůbec sám se sebou,
+takže já si myslím, že tenhle trend možná
+jako uvidíme a uslyšíme
+častěji u těch lidí. Co jsi zatím
+odpozoroval, které kromě toho, že máš hodně kamarádů,
+kam tě to třeba zavedlo, třeba myšlenkově, protože
+předpokládám, že když je člověk hodně,
+vím to od nás, hodně v té práci
+položenej, tak kolikrát
+i ta dovolená musí být aspoň čtrnáctí
+denní, aby ten mozek se odpojil, což u tebe
+ty už jsi tři měsíce doma, tak ty už musíš být v podstatě
+disconnected kompletně, ne?
+No hele, překvapivě jako jsem čekal,
+že to bude třeba jako
+čtrnáct dní, tři týdny
+nebo tak, že jako bude na to
+odpojení, ale u mě to
+trvalo třeba jako dva měsíce, než jako
+asi dáno i tím, že ta
+jako předchozí práce byla fakt hodně
+jako intenzivní. Spoustu
+kontaktů, spoustu takových těch jako dozvuků,
+že postupně se to šíří,
+že člověk skončil, tak se ti
+ozývají další a další lidi a ti tě vlastně
+jako zase stahávají zpátky do těch
+starých vod. Tak mě to fakt
+trvalo asi tak dva měsíce, než jako jsem
+úplně vygumoval a přepnul se jako
+dál. No a pak samozřejmě
+přestaneš jako číst knížky typu
+Data Sheety a podobně a začneš
+číst jako knížky
+Belletricky a podobně, což
+jako člověka jako
+přepne taky do jiného jako myšlení
+a světa a tak.
+Dobrý, no a mám čas sledovat jako
+spoustu věcí, na který jsem předtím neměl
+čas, jako i právě třeba z techniky,
+že máš na jednou čas
+poslouchat nějaký podcasty třeba.
+To víme o jednom docela dobrém.
+To chválíme, no, tuhle aktivitu.
+No my jsme na začátku
+říkali, že vy dva už máte
+určitou historii za sebou. Možná bychom jí mohli
+trošičku naťuknout, protože
+já očekávám tam
+už jenom, jak se na mě, vy tam samozřejmě
+poslouchači nevidíte, ale tady podle se na mě
+culí a jsme mu naskočili
+ty myšlenky a ty vzpomínky
+na společný čas. Tak co vy dva jste
+spolu vlastně tvořili?
+Hele, to bylo krásný a možná, já to nechám říct
+z Alešovo pohledu, já to jenom uvedu
+v tom smyslu, že my jsme
+vlastně měli na starosti ještě s mým kolegou
+Pavlem Kastnerem jeden startup,
+který financoval Jablotron
+a jedním z majitelů byl
+Aleš Krutina. Takže vlastně
+Aleš byl majitel firmy, kde já jsem byl CEO
+by the way, to byla jako velká firma
+od dvou až třech lidi. A to jsme byli tři.
+Takže jako opravdu
+startup se všem všudy, který nakonec
+Jablotron zaříznul. Ale
+jak to vlastně vypadalo z tvý strany
+a jak to vůbec začalo, ta věc?
+Já bych toho
+prošířil. On to totiž jako
+ano, všechno, co říkáš, je pravda. To byl
+ten jeden startup, ale vy jste jich měli
+několik v řadě vlastně. To je pravda.
+Financoval
+Jablotron. Tak já jsem to sledoval
+přeci jenom trochu z pozdálí.
+To byla taková boční aktivita
+Jablotronu a spíš
+tak jsem tam předsmrdával
+a snažil se tomu nějak
+koupit pomoci. Ale
+to byla dobrá aktivita.
+Ale jediný, co si z toho člověka
+odnesl, byl spíš dobrá nálada a úsměvy.
+Ale jo, tak
+nevím, jestli chceš říct, o čem byl
+ten startup postavený.
+Vlastně to mám říct já. Klidně to řekni.
+Klidně to řekni a pak doplňujeme.
+Celá myšlenka vlastně byla o tom
+oslovovat firmy,
+které nejsou schopné zapojovat
+svoje standardní
+produkty nebo zařízení do klaudu.
+A cílem
+bylo teda jim v podstatě udělat
+jakousi takovou platformu,
+takový plug-and-play
+modul, který
+oni by tam
+zastrčili a nějaká
+malá integrace kolem toho by se udělala
+a oni by dosáhli na služby
+klaudový
+a mohli by zákazníkům nabízet všechny
+tadyhle rozšířené řešení.
+Což ale pak
+celý to zhavarovalo
+na nějaké technické připravenosti,
+respektive nepřipravenosti toho řešení.
+Takže z Petra se stal výborný
+prodavač teplé vody.
+Ano, ano.
+Ale tak to asi nejde dělat startup bez toho.
+Hele, k tomu ještě nutno dodat, že ten klaud byl
+Jablotroní. To nebyl klaud, jak my tady známe.
+Já jsem se právě chtěl zeptat,
+jak to bylo navázané na Jablotron,
+na ten jeho core business.
+Tak on ve finále Jablotron svůj klaud má
+ke všem těm svým přístrojům.
+K tomu se potom dostaneme taky, doufám,
+Románku, ty máš veselou historiku z natáčení,
+tak doufám, že ji zmíníš
+na tohle napojenou. Ale každopádně
+ten klaud byl vlastně jedním
+z těch kóru, který jsme tam prodávali
+a tam to dost zhavarovalo.
+Prostě nebyli jsme schopní ty produkty
+připojovat tak rychle, aby to mohlo
+fungovat. Ale máme z toho několik
+krásných, zajímavých a zábavných večerů
+s Alešem a dalšíma lidma, který
+do toho byli zapojení. Protože vlastně
+bylo hrozně zajímavé
+z mojej pozice sledovat ten
+spin-off firmu, která je napojená
+na nějaký core větší firmy.
+To znamená, ta firma to financuje,
+má nějaký know-how a ty vlastně seš
+ale mimo tu firmu. Takže se jako dozvíráš
+zajímavý věci o té velké firmě
+a nejseš její součástí.
+Opravdu to byla pro mě osobně zajímavá zkušenost.
+Asi ještě víc pro mě než pro Aleše,
+protože my jsme tam byli denodenně
+zaměřený jenom na tu věc, ale bylo to opravdu
+jako...
+Tak my jsme tam ještě vstupovali vlastně
+s polům majitele
+design poolu, který tam měl
+přispívat po té hardwarové stránce.
+Každý tam měl tu
+rolátí stakeholdru, tam bylo právě hromada.
+Já do dneška ani nevím, kdo všechno.
+Poslední kolečko uvozu.
+Jasně. A možná
+pojďme dál, protože tohle je věc,
+která byla určitě zajímavá, ale z toho
+tvýho pohledu, pokud se zaměříme opravdu
+na tu tvou aktivitu, tak tam bylo určitě spousta
+zajímavějších věcí a věcí, kterým jsi se zvěnoval
+intenzivněji. A hlavně ta část
+spojená ze blotronem jako taková.
+To znamená, ty jsi tam byl v podstatě v nějaké
+pozici CTO, možná i
+přes inovace jsi tam zaměřoval
+na různý věci. Co to obnášelo
+a co tě na tom třeba i nejvíc
+bavilo? Jo, ale tak ta
+cesta byla taková ve zkratce
+jako podivná,
+tak jak jako různý věci
+v Jablotronu jsou.
+A myslím to jako v dobrým tohle.
+Že tam člověk jako
+potkává takový nenadálý
+jako situace.
+Já jsem vlastně jakoby
+zakládal s dvouma společníkama
+design pool. Následně
+Jablotron tam měl
+50% v tomhle design poolu.
+Ještě jestli můžeš posluchačům vysvětlit, co to
+přesně znamená design pool?
+Design pool je v podstatě firma,
+která poskytuje čistý
+servis zákazníkům, který si nejsou
+schopní vyvíjet svoje věci.
+A to je na
+hardwarový úrovni, které se bojíme.
+Převážně na hardwarový úrovni, ale dneska
+už ten hardwar, já si myslím, že to
+zmizelo. Že jako firma, která
+řeší čistý hardwar,
+že už je dinosaurus.
+Že to postupně dá
+pryč. Takže tam bylo
+i spoustu softwarových aktivit.
+Nebo skoro bych řekl, že víc než
+polovina.
+A ten zákazník, který přijde a není schopný
+tohle si pokryt sám, tak
+dostane full service.
+Opravdu nemusí kupovat tooly, nemusí kupovat
+nástroje, licence, blablabla.
+Všechny tyhle věci.
+Plus je tam ta synergie, že ten design pool
+má těch zákazníkům nějakým
+spektrum větší,
+tak v sobě akumuluje
+nějakou znalost, kterou ty
+zákazníci pak můžou vyčerpat.
+Takže tohle jsme zakládali.
+Jablotron tam měl 50%.
+Měl to být, nebo pořád stále je,
+abych o tom nemluvil,
+tak vlastně takový dvorní
+design pool pro Jablotron,
+aby si tam mohl sáhnout, když mu
+v core týmech dochází kapacita.
+Tak ten design pool se měl zčásti živit
+venku, aby
+náklady nebyly pro Jablotron tak vysoké,
+když o ty tam úplně nešlo.
+Ale z velké části to mělo
+sloužit vlastně jakoby dvorní
+dývoj pro Jablotron, dodávat
+coreový věci, který třeba
+ani nechce pouštět jakoby
+mimo barák, aby je měl jakoby
+pod kontrolou. No a následně z toho
+design poolu, protože
+v těch úplných začátcích
+jsme měli problém právě
+se zadáváním práce od
+Jablotronu. Byla tam taková
+takový období krátký, tak
+já jako tehdejší si
+jsem dost řval a řval jsem natolik, že
+mě v podstatě ty majitelé
+řekli, hele, tak když jsi taký drý, tak
+s tobě dělat. Přesně, tak
+pojď a budeš jako organizovat,
+protože to bylo v roce 2015, což byl
+takový jako silnější akviziční
+rok Jablotronu, kde toho pokoupil víc,
+takže v tom holdingu najednou bylo těch firm
+víc, právě tam byl i Petr
+vstupoval v tohle období
+a těch aktivit jako startupových
+nebo akvizičních bylo relativně
+hodně, tak tím začala moje dráha
+vlastně v Jablotronu takovou jako koordinací,
+aby se kolo nevyvíjelo
+dvakrát někde, tak
+nebyly tam žádný vlastně středně
+dubý vývojový plány, takovýhle
+věci, tak tohle tam vlastně
+připravit, udělat, bavit
+se s těma lidma. Bylo to
+zajímavé, protože ty firmy v tom holdingu, což
+se asi možná ani neví, jsou
+relativně hodně svébytný.
+To není úplně tak
+navázané na
+tu kórovou firmu, což je Jablotron Alarps,
+ale každá ta firma si jede
+tak nějak na sebe, takže je to
+hodně o takovým specifickým
+dialogu, protože tím prostě nemůžu
+v uvozovkách nařídit,
+co mají dělat, musí se s nima hodně
+bavit a přesvědčovat. Když
+nějakou myšlenku máš, tak musíš
+o tom dost silně přesvědčit,
+aby oni ji akceptovali.
+A v tom holdingu bylo v nějaké období
+jako 10, 15
+firm možná, takže to bylo jako velmi
+rozmanitý. No a následně
+vlastně po tom, co se Jablotron
+rozhodl ten holding vlastně zrušit,
+propustili se všichni ty lidi
+z holdingu a do toho ještě
+bylo jakýsi personální
+zemětřesení v té kórové firmě Jablotron
+Arms, tak na pozici CO
+si sednul majitel a
+mě si stáhnul vlastně zpátky
+na pozici CTIO
+se to jmenovalo, teda
+Chief Technical and Innovation Officer
+a tam jsme nějak
+vyválčili. Ta pozice byla zvláštní, protože
+jak je CO majitel, tak je to takový
+jiný. Takže vlastně
+on tam vytahává
+nebo chodí tam i témata, který vlastně
+by v pozici
+toho standardního C asi nechodili.
+Že není tam vlastně
+ten interfejs, který zajišťuje většinou
+ten CO, že přichází
+vlastně se schválenýma hotovýma věcma.
+Takže tady právě bylo spoustu
+aktivit i kolem
+startupů a tihle všech věcí.
+Do toho jsem byl aktivně
+furt zatahovaný,
+což mi vyhovovalo. Mě to bavilo.
+Teď doplním vlastně, CO byl
+Mirek Jarolím, protože všichni
+mimo firmu znají pana Dědka
+a pan Dědek už
+vlastně nefunguje v této struktuře.
+No teď zase trošku už
+zase. Zase stoupil do toho.
+Tam jako ve vlodrovnutích
+změn se jako děje poměrně
+dost a dost jako by často
+a je to tak, ale
+jako ta firma je tak postavená, takže
+si myslím, že ji to ve výsledku ani nějak
+jako neškodí, ale občas se tam
+takhle něco jako změní, sesypé,
+rozhodne, udělá se jako.
+Ale je to tak, jako by pan Jarolím tam
+byl vlastně ten CO,
+kdo to tam byl in charge.
+Tak tyhle pozici, Aleši,
+co tam vlastně bylo tvým úkolem?
+Protože ty jako technický člověk, věřím, že
+na jednu stranu jsou lidi, který
+z té technické role krásně přejdou na tu
+silsáckou koordinační roli,
+už se tolik nevinou té technice,
+ale jsou lidi, který prostě to nemůžou opustit.
+Mají to pořád rádi. Jak to máš?
+Já jsem určitě jako by ten hands-on manažer
+jako v tomhle tom, já bez toho
+jako byt nemůžu, bez té techniky.
+A tady se to i potkávalo v tom,
+že vlastně přicházel do Jablotronu
+konec nějakého jako produktovýho
+cyklu, takže ten úkol
+byl veskrze jednoduchý. Vlastně
+ten stávající produkt, který Jablotron
+má, který je na trhu už
+víc než já nevím 12 let, možná ještě víc,
+tak vlastně připravit
+platformu pro
+jako nějakej
+novej běh toho produktu.
+Takže v podstatě ta moje role byla
+taková jako by namíchaná, jednak tam fungovat
+jako ten CTO
+v té manažerské roli,
+a druhák
+v podstatě jsem tam fungoval
+jako solution architect
+toho řešení, protože
+ta pozice v Jablotronu nebyla
+a já jsem vlastně připravoval všechno
+kolem, aby tam mohla vzniknout,
+ale do té doby jsem to jako by suploval,
+takže jsem připravoval vlastně veškerý koncepty,
+co se týče právě
+rozvoje hardwareu, rozvoje i těch
+vývojových skupin, tam se hodně změnilo
+i jako by procesně
+spousta věcí dokumentačně, celý nový
+dokumentační schéma jsme jako vlastně
+realizovali a na každý rok jsem měl
+vždycky jako jedno takový silný téma
+a potom jsem jako vyšel.
+Můžeš nám prozradit něco, co se třeba
+chystá, ještě není na trhu,
+něco takového, co můžeš posluchačům říct?
+Může, ale mimo záznam samozřejmě.
+No, můžu, protože konkurenční
+doložku nemám, takže
+můžu mluvit o čem chci, ale
+ono to spíš jako souvisí z
+trendy a není to asi jako nic
+super tajnýho, je to
+to, co se jako, to, co hýbe
+světem vlastně na všech
+frontách, ve všech jako
+firmách a to je prostě
+Embedded Linux. To je něco, co jako
+to mění jako pravidla
+hry, vlastně je to další taková vlna
+v té elektronice, kde to jakoby
+přichází a
+tak stejným stylem nebo
+směrem jsme se vlastně vydali i my,
+že jsme připravovali vlastně
+novou hardwareovou platformu na to,
+aby na tom mohl běžet jako Embedded Linux
+a to sebou nese
+jako spoustu otázek,
+tak nových
+jako hrozně bylo zajímavý
+vlastně sledovat, že najednou musíš jako
+najít nový dodavatelé, řešíš
+cybersecurity, což v těch předchozích
+jako jednoučelových zařízení
+člověk moc nemusel řešit, tam
+prostě si našel toho odborníka,
+který zná ten jeden konkrétní čip
+a ten naprogramoval vlastně
+a teď se tady ta hra celá jakoby
+mění, takže i jako ty kompetence lidí,
+struktura těch týmů,
+vůbec jako kompetenční složení
+lidí v těch týmech musí být
+úplně jiný, takže my jsme budovali vlastně
+novej softwarovej tým na Embedded
+Linux.
+Já jsem chtěl ještě jenom, abychom to zasadili
+do určitýho kontextu, protože možná ne, třeba
+každý posluchač vlastně ví,
+co je ten core business Jablotronu. Já to třeba
+vím, že já jsem velkej fanoušek Jablotronu, já tu firmu
+mám jako nekriticky rád, jako upřímně,
+protože jednak jako mám rád
+pana dětka, mě přišel jako dobrý druh podnikatele
+a mám doma
+to zařízení, mám myslím, že
+110, možná 100, možná 100
+ústřednu, takže všechno přesto
+zautomatizovaný, pěkný. Takže se bavíme
+o těch ústřednách, o těch
+pierčidlech, o detektoru
+pohybu, detektoru kouře, o detektorech
+rozbití skla. To je ten core business,
+který řešíme. Nejsou tam ještě
+nějaké další věci, které se třeba za ty roky
+k tomu nabalejí, protože předpokládám, že Jablotron
+je, říkal jsi, že je to
+mnoho firm, už mnoho firm, je to
+velká firma, ale ten core business
+je pořád zabezpečovačky, security,
+budovy, je to tak?
+Je to tak, je to, jako kdybych to měl
+na nějaký procenta dát, tak je to
+určitě přes 90%, je
+tohle to vlastně tvoří
+core business toho Jablotronu
+a ten dosah, ta je vlastně
+ta oblast, kde se Jablotron stal
+jakoby globální firmou.
+To jsou ty produkty, který dokáže dostat
+vlastně mimo hranice České republiky.
+Pak jsou tam další, jsou tam zajímavý projekty,
+jakoby, který s tím vlastně tak trošku
+souvisí, což
+jsou vlastně nějakej teplnej
+komfort, zdroje
+tepla a hlavně teda
+rekuperační věci, větrání,
+to kluci ze Zlína, že jo, jakoby
+začali řešit
+a to je určitě taky jakoby nadějní,
+ale to jsou všechno vlastně jako, to je nějakej
+business development, který jakoby přichází.
+Pan Dědek vždycky jako říkal, a podle mě
+to mu to pořád bude platit,
+že ten produkt vlastně moc nemá rád,
+že by rád měl jako
+produkt, který nosí
+jako větší radost a štěstí
+tím lidem, protože, jak říkal,
+kdyby lidi nebyli hajzli, tak
+nemáme práci.
+Nepotřebuješ zabezpečovat.
+Ale tak jako tím směrem se to vlastně jako rozvíjí
+i ten stávající produkt, jo, vlastně se k tomu
+řešení a hledají komplementy,
+tak aby to tím lidem jako
+přinášelo víc než jenom jako
+tu primární funkci toho zabezpečení,
+což jsou i nějaký jako řekněme
+přilepený automatizační úlohy
+a tak dále, tak ten produkt trošku jako
+posouvá dál samozřejmě.
+Možná mě k tomu jenom napadá, že vlastně
+Jablotron, tak jak já to znám, protože
+Jablotron díky tomu, že jsem tam dělal znám,
+vlastně podkytil celý ten proces,
+že v podstatě si vyrábí ty věci,
+má i svoji výrobní firmu
+a zároveň řeší i to, co se stane,
+když to začne houkat, ten alarm.
+Takže v podstatě i tu službu security zatím,
+což není možná tolik vidět, všichni jako známe
+právě ty pirka a tak,
+jak jsi to popsal ty romane,
+ale v podstatě i to je něco, co dělá
+docela zásadní část toho revenu.
+Jo, tak myslím si, že právě v Čechách
+jakoby dominuje díky tady té
+jako triádě, že
+je tam vlastně ta
+výroba, distribuce
+a zároveň i ta jako služba na konci,
+že ten ekosystem je zavřený.
+Dneska až vlastně po výjezd,
+což je vlastně
+takový typ frančízy,
+která se jmenuje Kruh,
+kterou vlastně Jablotron zřídil,
+tak i ten zásah už je
+pod nějakou
+kuratelou Jablotronu a zároveň třeba
+i software, který je jako na pulty,
+že i konkurenční pulty
+dost často využívají software Jablotronu
+pro řízení pultu.
+Já tady možná vrazím takový typ pro posluchače,
+než se vrhneme na ty
+deep hardwareový věci. Pokud třeba vám manželka
+nebere telefon, ale vy víte, že je doma,
+protože samozřejmě pořád má někde
+pohozený telefon a nekouká na něj, nemá vyplý
+vyzvánění, nadálku zapněte
+na Jablotronu pirčidla,
+ono to začne houkat v celém baráku,
+jí to probudí, běží k telefonu,
+protože to potřebuje odkodovat,
+protože samozřejmě zapomněla na pin a už vidí,
+že jste ji valali. Jo, takhle jenom je nadálku
+si kdykoliv, když je na zapomene.
+Naštěstí teda nejsme připojení na půlcentrální
+ochrany, protože jinak by tam funezdili bezpečáci.
+Ale geniální věc, takový jako tip.
+Tip, jak využít Jablotronu na vzdálenou
+zprávu manželky.
+Super. A když jsme u toho, Románku,
+nechceš tady nazdílet ten tvůj,
+tu tvůj záležitost s Jablotronem,
+tam se mě to Aleše dost zajímalo.
+No já to, takhle, já to nebudu asi nikdy
+nikomu pouštět. Aleševi to pustím,
+protože já jsem kdysi dávno,
+a to je fakt rok 2014, jsem našel
+chybu v zabezpečení, velmi
+triviální chyba s velkým
+bezpečnostním dopadem,
+ale dobrý hoch Roman, který říkám
+už od začátku tu firmu má rád,
+tak jsem tam zavolal, našel jsem si
+infolinku a říkám, hele, dejte mi někoho,
+kdo u vás řeší security chyby
+v tom zabezpečení, protože
+řeknu to jednoduše, mohl jsem ovládat
+cizí ústředny na dálku. Cizí ústředny.
+Říkám, cizí ústředny,
+nebo minimálně projíždět si nějaký log,
+kdy se kdo zalogoval a tak dále.
+Prostě chyba. Protože jsem zkoušel v brousru
+věci, který normální uživatel neskouší,
+ale tak to udělá vývojář.
+Tak mi tam někoho dali, říkám,
+dám vám na to tejden,
+pak to pošlu na loopu a na živě na CZ,
+pokud to neopravíte, protože tohle si nesmíte dovolit.
+Za tři hodiny to bylo řešený,
+volali mi zpátky, že děkujou, prodloužili mi
+nevím, o rok půl centrální ochrany jako poděkování
+a tak. Takže jsem si uvědomil,
+že i u tak obrovský
+firmy se dějou
+velmi jako triviální fuck-upy,
+ale zároveň a tím apelů
+i na posluchače, protože to je
+ajťácký dopad, když najdete
+chybu, zkuste ji nejdřív nareportovat
+té firmě, dát jim nějaký čas, oni se
+s tím třeba nějak vypořádají, většinou ještě
+budou rádi, když to uděláte u Google, tak na tom
+ještě budete milionáři, než
+to budete někam posílat
+na nějaký portály,
+který je se psou a spadnou
+výmakci, je úplně zbytečně. Takže tohle byla
+taková chyba, já tě pak pustím, já jsem to video nahrál,
+já jsem to pustil, aby viděli, jak se to stane,
+jako takový prostě bug report,
+takže pak ti to ukážu, myslím, že se se pobavíš, ale od té doby
+už jsem to zkoušel, už to samozřejmě nejde,
+takže naučili se to. Já ji bohužel
+znám, tu chybu.
+A i tohle bylo jako součástí vlastně
+týmní role,
+tohle dost často chodilo právě ke mně,
+že jsem ty lidi odbavoval a snažil jsem
+se s nima nějak domluvit,
+protože to je jako nestandardní.
+Ty chyby jsou, chyby se stávají, občas je to
+jako bizarní, občas za to ani ten
+jako jablotron nemohl, že
+prostě pořád hodně
+silnou roli tady v tom celém, jako řetězci
+máte monter, tak když on je lajdák,
+tak mnohdy prostě
+jo, čtyřikrát
+ho to buzeruje, že má změnit
+nějaký standardní heslo, on to neudělá,
+tak to prostě neudělá a tam už
+jako těžko a pak to trochu jako nevinně
+dopadne na ten jablotron, že
+ale to tak chodí.
+Tak víš, tak jste možná byli spolu v komunikaci ještě dřív,
+než jsme se tady sedli.
+Já se půjdu podívat teďka do mailu schválně,
+jestli jsem si tam s Alešem nepsal v roce
+2014.
+Tak to ne, 2014 určitě ne, já jsem přišel
+2015. No, tak to už by se pak nestalo.
+To je jasný.
+Tak jo, Aleši, přijeděme k tomu hardwaru jako takovýmu.
+A úplně na začátek bych se zeptal,
+jak ses vůbec k hardwaru dostal,
+byla to taková ta standardní cesta,
+že jsi si s tím hrál doma,
+nebo jak to celý začalo, ta tvoje pohádka?
+Ty jo, no,
+tak to je jako dlouhá historie,
+jestli chceš, jak jsem začal úplně od mala.
+Tak já jako pocházím
+z města, kde sídlila Tesla,
+takže úplně jako malej
+jsme vždycky lezli za tou školou,
+kam vyhazovali ty křápy a z toho jsme
+jako vyrvávali ještě s bráchou
+tehda součásky
+a různě jsme z toho něco jako
+stavili blikačky na kola, já nevím co.
+A pak
+jsem šel, že jo, na střední,
+na sdělovací
+vlastně digitální komunikace.
+No a pak na výšku,
+prostě na elektrofakultu, tak jako pořád
+jsem se kolem toho jako točil,
+ale jako řeknu, že já úplně
+vlastně jako čistý hardwareák jako nejsem.
+Já jsem k tomu vlastně
+přišel na chuť až jako na doktorátu,
+kde jako najednou mi to dávalo
+víc jako smysl, kde člověk
+došel jako úplně do hloubky
+jako toho problému. Trochu jsem si
+vzpomněl na vašeho předchozího hosta,
+jak mluvil o kaskádových stylech,
+tak úplně stejným
+jako způsobem vlastně
+se děje i v tom jako hardwareu,
+že jako relativně
+hodně lidí umí nějaký
+jako kusy hotový toho hardwareu,
+ale jenom velmi málo lidí už dneska
+dojde až do toho fundamentu,
+jako na čem to stojí, což je
+jako pro ten opravdový
+hardwareový design vlastně strašně důležitý.
+To je jako změna, která tam probíhá.
+No tak takhle nějak jsem se
+jako k tomu dostal, ale
+jako s svým zaměřením
+já jsem spíš jako firmverář
+a ještě víc možná jako high level softwareář.
+To mě vždycky jako bavilo
+víc a teď.
+Teď jako úplně jako to s úžasem
+sleduju, jak to začíná vlastně
+do toho hardwareu zpátky pronikat.
+Že dneska vlastně tyhle
+ty high level jazyky
+jsou absolutně jako použitelný
+pro jako i v tom hardwareovým
+vývoji nebo firmverovým jakoby vývoji
+pro hardware.
+To je jako taková nová vlna, která
+tam přichází a to je fakt jako úžasný
+jako sledovat. Najednou vlastně
+lidi s dotnetem jako jsou
+jako master of all.
+To je možná
+dobrá část, u toho se zastavme, protože
+posluchač si možná představí,
+dobře máme nějaký hardware, nějakou desku,
+kterou designujeme, nějaký plast,
+když se bavíme třeba o
+jablotronu, ale co to vlastně
+dneska je? Jako co vlastně taková firma
+toho tvýho střihu vlastně
+dělá má na starosti? Kam se to posunulo?
+No hodně, že jo, je to
+tak v hardwareu
+obecně nebo v elektronice co pět let
+revoluce, takže tam vždycky
+přijde nějaká nová technologie
+a teď je to o
+nárůstu toho výpočetního
+výkonu versus potřeba.
+Že vlastně tenhle ten poměr
+se za posledních pět let strašně
+pohnul. Ono, když se člověk
+podívá, co má v kapse,
+co ty stroje dneska dokážou,
+tak ten embedded svět je ještě trošku pak
+jiný v tom, že vlastně
+a to je takový zrádný na tom trhu
+možná, že všichni ty zákazníci
+jsou vychovaný na tenhle standard toho mobilu
+a chtějí to od
+zařízení, u kterých ale
+nejsou ochotní je nabíjet každý den.
+Chtějí, aby na tu baterku vydrželi
+jako dva, tři roky, možná víc
+dneska ještě a v tom je jako ten
+rozdíl, v tom je ta challenge vlastně pro ty lidi,
+co dělají jako to tvrdý embedded,
+že mít vlastně
+GUI nebo obecně ten uživatelský
+projev na téhle úrovni
+a přitom ale si udržet tu spotřebu
+a tomu jde ta technika
+naproti. To je něco, co
+určitě postupuje
+a otvírá se to vývojově.
+Zatímco předtím byly svázaný tooly
+ohromně, že
+co čip, to toolchain v podstatě,
+tak dneska jako
+tam dochází k strašně silný
+hardwareový abstrakci, že jsou prostě ty
+takzvaný haly, hardware
+abstraction layer, který úplně vlastně
+odstraní
+vlastně jakoukoliv
+potřebu znalosti nějakého
+specifické funkce
+toho hardwareu a umožňují
+abstraktně pro to psát komukoliv
+vlastně. To je jako obrovský
+jako obrovská změna, která se tam
+jako by stala.
+To je to, když jsme si psali, to jak jsi změňoval,
+že tady se otvírá svět novejch zákazníků
+i třeba pro firmy našeho střihu, je to tak?
+Přesně tak, jo. To je jako vlastně
+to se mi dařilo jako v Jablotronu
+přes strašný úsilí
+a teď trošku jako litu, jak
+to jako opadlo vlastně tady
+ta linie, co jsem odešel. Vlastně
+vybudovat si ten dodavatelský vztah
+s tímhle typem
+jako by firem je pro ty
+firmy, jak říkáš, jako toho
+našeho bývalého střihu.
+Vlastně je složitý, protože ty zákazníci
+vlastně
+ty nezajímá, že jo, jak
+dosáhneš jako ty finální jako
+funkce. Oni chtějí prostě jako výsledek
+a když ale přijdeš
+jako k tomu dodavateli
+a začneš se jako bavit o tom,
+co chceš
+jako dokázat, vyvinout,
+naprogramovat, tak
+pro ně je to úplně jiný svět.
+I ta spolupráce je
+mnohem jako složitější. To je, když
+se rozhlídnu po vaší jako
+kanceláři, tak tady se neválí
+prostě plošní spoje a tak dále.
+A najednou ty lidi, když je propojíš třeba
+až na té vývojářské úrovni,
+tak jsou zvyklí na nějakou míru
+vlastně jako sobě statučnosti
+těch jako dodavatelů, že
+příkladně tě pošlou jako železo
+a řeknou ti, hele,
+poslal jsem ti to, stačí si k tomu
+připojit nějaký linární zdroj, třeba nějaký
+diametral, dej si to tam do série.
+Kdyby jsi to dával náhodou paralelně,
+tak prostě tě musíš vyvážit
+oba dva ty zdroje a pak si to
+přeměř a je to v pohodě.
+Teď jsem si představil, že něco takového se ozve
+v mým kanclu, tak budu mít pocit, že jsem si splet
+budovu. Přesně.
+A tyhle ty dva jazyky
+různých kmenů je potřeba vypropojit.
+A to je vlastně nejvíc práce
+těch manažerů,
+solution architektů, jako porozumět si,
+aby ta firma pochopila,
+nebo i ty tví lidi pochopili,
+aha, oni tam nic takového nemají.
+Jenomže když pak dojdeš zase do toho světa
+Embedded Linuxu, tak z té druhé strany
+se ozve, cože vy tam nemáte
+za Play Firewall na tom?
+To se zvláznili.
+Tak zase je ten druhý
+pohled, že jsou blázní
+ty na té druhé straně a tohle propojit
+je neuvěřitelně
+složitý, ale spěje to
+tam, spěje to tam určitě.
+A nám se to u dvou dodavatelů
+jako povedlo úplně
+luxusně, teda na to jsem byl fakt jako
+pišnej, že se to jako
+tohle prorazilo. Bylo to
+jako v oblasti cyber security,
+kde to, kde jako jsme našli
+vlastně dodavatelskou firmu,
+která primárně obsluhovala
+automotiv, takže jako
+to byla ta podle mě první vlna, je to
+automotiv, ty si to odbili,
+teď jako jdou ty ostatní vlastně sektory,
+včetně teda nás, takže těžíme
+z toho jejich jako by know-how
+a oni dělali, že jo, právě black box,
+grey box, white box testing, tadyhle ty
+jako by přístupy uměli
+pak jako, byli už dál, uměli
+prostě jít až dovnitřku toho hardwaru
+s osciloskopem si odměřit nějaký jako
+signály, protokoly a tak dále
+a snažili se vlastně to rozbít,
+že jo, jako by prorazit tu bezpečnost.
+Takže, jestli to chápu správně, tak ten trend
+obecně v tomhle světě jde trošku
+naproti lidem jako jsem já,
+který by to třeba zajímalo, ale
+nemají to vzdělání, já mám vyloženě softwarový vzdělání,
+ale ne hardwarový, což když
+možná teďka, když si vezmu nějaký
+Rapsberry Pine nebo něco, tak tam možná
+ještě budu schopen to podle nějakých
+tutoriálu na YouTubeu dát dohromady,
+ale vlastně nic světobornýho.
+Takže, teď to už se
+vypadá to, že to už se lepší, že v podstatě
+já s dotnetem budu schopen,
+pokud budu mít dostatečně dobře
+napsanou nějakou abstrakci nad tím
+hardwarem, tak budu schopen i na to
+vyvíjet, jako bych vyvíjel jiný druh aplikace.
+Jo, jo, to zrovna byla jako oblast
+dotnet core, což jako se
+vylíhlo, ne až tak jako dávno
+nějaký transformovaný původní mono,
+tak my jsme
+vlastně jako, následně jsme teda zjistili,
+že jsme jako jední z mála na světě, který si
+lajsli to dát vlastně do živýho produktu.
+Super. Což
+já to mám zprostředkováně teda, ale
+z konference s Microsoftem, tak ty
+se úplně jako křižovali, když zjistili,
+že jsme to jako udělali.
+Ale to je přesně jako ten
+svět, jo, tam to dává vlastně
+prostor i na nějakou dopřednou
+kompatibilitu, to se mi na tom jako by hrozně líbilo,
+že vlastně člověk neví,
+tak jak byl ten produkt jako
+na trhu třeba 12 let, tak když si
+jako představíš, co bude za 12 let,
+tak jako musí
+ta architektura být jako postavená
+tak, aby něco umožňovalo.
+A tohle to samozřejmě jako by
+otvírá trošku nějakou pandořinu skřínku
+s tím, že se ti najednou mění
+výrazně jako nároky na ten hardware,
+najednou jako je tam potřeba dost místa,
+dost operační pamětiče, se žere ten
+framework a tak dále. Ale
+máš jako ten benefit v tom,
+že tam jako pustíš spoustu
+jako věcí a seš krásně
+odstřiženej od všech těch jako proprietárních
+protokolů, co tam někde běhají,
+od nějakého rádia a tady těch jako
+fyzických vrstev, který tam jsou.
+Nemusíš to vůbec vlastně jako by řešit.
+Takže funguje něco jako třeba právě u dotnetu,
+když byl dotnet standard, který měl určitý
+verze a říkal, pokud si chtěl,
+protože třeba dotnet core, ten musel splňovat
+určitou verziu de facto dotnet standardu,
+tak ať jim bylo dané,
+jaký API má k dispozici.
+Takže i u toho hardwareu, to jde teda
+tímhle směrem, že ty vytvoříš
+hardware, který musí
+splňovat nějaké rozhraní toho
+API, když to tak řeknu,
+musí zajišťovat nějakou funkcionalitu,
+která je programově dostupná
+a tím je do budoucna zajištěna
+nějak verzovaná
+kompatibilita.
+Tak tam to vede vždycky na ty dva scénáře.
+V tom embedded světě tohleto pořád
+je ještě, je jako
+tvoje odpovědnost, nebo odpovědnost
+toho vývojáře, aby jako si tu hranici
+toho systému tam nakreslil,
+popsal, že jo, dneska všude se cpe
+restový API a podobné věci.
+Tak přes tyhle jako pseudo
+standardní rozhraní. Ale ten datový
+objektový model musíš ty vymyslet
+a držet ho jako firma vlastně.
+A poskytuješ ho pak tím dalším, který na to
+jako by navazujou, to jako je funkční.
+Pak máš možnost, že jo, nějakých jako
+standardních posixových jako rozhraní,
+ale ty jsou jako značně
+limitní v tomhle, tam úplně jako
+nevyhoví jako by všemu.
+Ale myslím si, že to tam postupně jako
+doleze, že nikdo jako tyhle
+ty rozhraní do právě
+jako do toho Embedded Linuxu
+postupem jako doplní.
+Ono i když se podíváš, třeba my jsme používali
+distribuci Yocto,
+tak což je vlastně taková zvláštní
+jako distribuce toho
+Embedded Linuxu, kterou udržují firmy
+jako Intel a tyhle ty velký hráči
+záplatují to, takže nemusíš řešit
+jakoby tolik security.
+Ty distribuce, tak
+myslím si, že to do toho začne jako vlastně
+přibývat, že ty standardní
+sběrnici, které už jsou leta v tom hardwareu,
+takže postupně budou
+jako by nabalovat i nějaké jako ty objektový
+modely, které začnou být jako standardní.
+Ale to je zatím jako hudba, hudba
+jako budoucnosti, zatím
+pořád jako když
+jako vývojář se rozhodne špatně
+nebo ten architekt, když to jako
+neřízne správně ten systém,
+tak je jako problém, no. Tak prostě
+za nějakou chvíli dojdeš do úzké
+cesty. Ale vidíš, Polite, zajímavý, jakým to
+jde směrem všechno, že se to otevírá těma
+sám. Když jsme tady měli, na Alešově
+místě seděl Richard Vlas, tak ten
+mluvil, že to stejné se de facto děje
+s umělou inteligencí, s machine learningem
+a s těma věcma, který od toho
+od těch lidí v bílých pláštích,
+ať mají v ruce pájku nebo dělají nějaký
+datový prostě analýzy modely, tak
+najednou je to pro ty provazníky,
+který to pak dostanou v tom
+Visual Studio nebo v tom Rideru a začnou
+proto psát nějakej už reálnej
+software třeba na enterprise levelu.
+To je zajímavý.
+Tohle je hrozně zajímavý i v tom hardwaru, by the way.
+Jakoby vlastně, já jsem to
+viděl na
+stackách pro různý komunikační
+moduly, co byly dřív, že dřív byl
+prostě softwareovej stack,
+který jsem musel strčit do toho
+jako čipu, obslohoval vlastně
+nějakej CAN nebo něco.
+A dneska,
+nebo postupem času, si to dostalo
+do toho křemíku, takže dneska už
+všechny ty mailboxy a všechny ty věci jsou
+vůbec neřešíš, jenom ti tečou.
+A myslím si, že to stejné se děje v tom
+AI momentálně. Že teďka jsou
+vlastně jakoby knihovny a
+frameworky, který se musí implantovat
+do toho čipu, jsou sice
+knihovní prvky hotový
+a tak dále, můžeš si zavolat nějakou
+funkci OpenCV,
+třeba na kamerový věci
+a tak dále, tak můžeš dneska už na
+embedded dostat levou zadní.
+Ale postupně
+je
+vidět a je to takový silnej
+trend, jako teďko, ty poslední době,
+že ty výrobci čipů to dostávají
+do toho křemíku pořád. Sice jenom jako
+dílčí části té technologie,
+není to nic jako světoborného, ty větší
+aplikace musíš pořád jakoby dotvořit,
+ale taky to tam jakoby vede. Takže jednou
+jako Romané...
+Jednou si něco napíšu. Přesně, jednou
+budeš všechno, to je prostě pecké.
+Jednou budeš všechno. To je dobrý, to si
+někam napíšu.
+To si necháme
+napsat na náhrobní kámen.
+Jednou budeš všechno, ale ne z těchto.
+No samozřejmě obligátní otázka
+z mojí strany, právě jsme se toho
+teď dotkli, jak
+se to posouvá hardware dohromady
+právě s machine learningem, s AIkem.
+Jestli tam vidíš nějaký trendy, já vím,
+že teďka funguje TinyML, něco,
+čemu se věnujou kluci tady u nás, by the way,
+protože konec konců většina
+těch machine learning projektů, který u nás
+ve firmě řešíme, tak jsou spojený s nějakým
+hardwarem, protože tak to prostě je.
+Jak ty vidíš tenhle trend?
+No, jako je to tam
+zase skoro,
+já to vidím jako dimensionálně podle
+toho prostoru, že začaly jako 1D
+aplikace, zvuk a tady ty různý
+věci, pak přibylo jako
+2D, což je jako obráz,
+pak nějaký sekvence obrazů
+a tak dále, tak jako postupně
+se to jako vyvíjí a u toho
+embedded je to spojený prostě s tím výkonem,
+který tam na to je, že ty
+první vlastně, když to přišlo, tak
+a plus ta spotřeba pořád,
+to já musím jako by připomínat, že potom
+vlastně chceš relativně jako velký
+psí kusy, tak v okamžiku, kdy to máš
+někde strčený do zásuvky a neřešíš jako
+napájení, tak je dneska si to doufnu říct
+vlastně úplně jedno, jestli to rozběhneš na PCčko
+nebo na nějaký jako by platformy.
+Ale když se bavíš o tom, že to máš v kapse
+teda, nebo nikde, nějakej
+jako senzor, IoT svět
+a tyhle ty jako by věci,
+tak tam už to začíná být
+samozřejmě jako by složitější a dostat to jako
+do týhle aplikace, tak myslím si, že dneska tam je
+perfektně zvuk. Všechno, co se týká
+jako by zvuku, detekce
+nějakých jako urban sounds
+a střelby a nevím, co všechno dneska
+vlastně už je. My jsme měli
+jako první vlastně, a nevím, jestli je to dotažený,
+se přiznám, jsme měli jako
+detektor třištění skla.
+Jsme se snažili jako na tomhle
+vlastně postavit, naučit,
+protože přichází kalený skla,
+lepený skla a podobně, kde
+ten klasický princip, ten zvuk je úplně jinej
+vlastně najednou a ta
+plejáda těch skel je taky
+strašně široká, tak aby ty detektory
+fungovaly i do budoucna dobře,
+tak jsme se snažili vlastně
+je naučit tadyhle.
+A ten, co mám, já tak ten, já jsem myslel, že funguje
+u té detekce
+toho skla, že teprve ten zvuk
+vlastně nastartuje nějaký čidlo, který je
+snad natlak, nebo že se změní tlak, když se
+rozbije sklo, je to tak? Jsou tam
+dva trigry, jeden je
+vlastně nízkofrekvenční vlna,
+jak ta cihla narazí do toho
+skla, tak ho zmáčkne
+jako buben. Jasně, a ono to udělá takovou
+tu vlnu. Udělá tu vlnu, na tu se spustí
+vlastně a čeká na zvuk
+toho tříštění. Takhle? Že už
+proletěla cihla a sype
+se to sklo, tak tam je vysoká
+nebo vysokofrekvenční
+složka, na kterou to tam čeká. Protože první, na co jsem
+se ptal toho technika, říkám, tak manželka mi tady
+rozbije nebo děti skleničku a mě to začne houkat.
+Říká, nebojte se, to je natlak, to až
+vám proletí právě ta cihla tím oknem,
+tak teprve pak se to zpustí. A to tě moc uklidnilo.
+To mě moc uklidnilo, protože většinou děti cihly
+mi neházejí. Zatím ještě do okna. Jasně.
+To je dobrý.
+Dobrá, ještě tady máme potom takovou věc
+spojenou s covidem.
+Jak to vlastně vypadá v tom
+hardwarovém světě po tom, co přišel
+k nám covid.
+Jak ty dodavatelsko-odběratelský
+řetězce fungují dneska?
+Pořád je to tak, že se
+dost věcí vozí z Číny, nebo se
+tato mapa trošku překreslila, jak to dneska je?
+No, ale toto je
+samozřejmě úplná katastrofa.
+To se úplně zhroutilo, jako vlastně celý ten
+trh. Ještě tomu dost
+nepomoh Apple, který vlastně
+donutil hlavního výrobce
+silikonových waferů, což je ten
+RAW, základní materiál,
+ze kterého se dělají všechny
+ty čipy.
+Ho donutil přejít na obligátních
+pět nanometrů pro nový
+e-plácky čipy
+a tím sežral obrovskou
+kapacitu tady té fabriky.
+A na ty vlastně tradiční
+čipy, které byly embedded,
+je potřeba si zatím představit, že jsou to
+aplikace Railway, Automotive,
+kde musí ten výrobce garantovat
+u Railway třeba 50 let
+dodávku těch čipů.
+Tak ty jsou jako na starý technologii
+a tak ty úplně
+zmizely z toho trhu, protože tam
+ten prostor prostě jako není
+a ten prostě celý ten dodavatelský
+řetězec se úplně jako rozsypal
+bezprecedentním způsobem, dokonce ani ty lidi,
+co v těch velkých
+firmách nadnárodních, Texas Instruments,
+ST Microelectronics,
+ty hegemoni,
+tak jsou tam lidi, kteří tam pracují
+prostě 20-30 let a nepamatují
+si tu situaci, že by nastala
+jako kdy.
+Takže to se změnilo dramaticky.
+Tam jsme těžili z obrovského právě,
+tam se ukázalo, že
+být jako inovativní
+může být i výhra v nějaký okamžik.
+I v tak tradičním
+oboru jako je security
+nebo konzervativní.
+Že právě, že jsme měli zvolenou
+novou platformu čipů,
+která byla na nízkých nanometrech,
+tak pro
+novou verzi toho systému
+jsme měli čipů jako dostatek,
+protože tady ty nový
+nízkonanometrový technologie
+o 40 nano níž,
+tak ty dostupný
+jsou, byly.
+Ale takový ty klasický,
+právě na tom se to teď obortí,
+že dneska není ani problém,
+ten procesor ve výsledku taky člověk
+vybere na tom trhu sežené nějak,
+zejména u nových projektů teda,
+ale ty tradiční součástky,
+co tam byly ze silovače,
+nebo to by člověk ani nikdy
+v historii nepředpokládal, že to nesežené.
+Tak to je to, co dneska vlastně zastavuje
+tu výrobu. No a cokoliv
+se vyrobí a objeví
+na trhu, tak sežere automotiv.
+Prostě logicky.
+Ale to je i ten problém, který dneska automotiv má.
+Nedostatek čipů tohohle typu.
+Třeba Románek už svoji škodovku má,
+ale když se chtějí koupit novou dneska, tak prostě...
+No a to měl za 5,12.
+Ale další problém je, že
+to automotiv se i díky tomuhle
+vlastně dostává z výrobce
+aut i do toho, že to jsou normálně
+výrobci softwaru, což není úplně
+věc, kterou oni jsou zvyklí
+historicky dělat, protože
+Volkswagen, BMW, všichni umějí
+geniálně auta za ty staletí,
+prostě kdy se tomu věnujou od těch kol
+až opravdu po krásný auta.
+Ale věnovat se softwaru, a to vím moc dobře,
+je trošičku jiný biznis, včetně toho
+jiný specifika, co se týče
+nároky na lidi a tak dále, takže já jsem se
+před dvouma rokama, před třema jsem se bavil
+na nějaký konferenci jsem byl
+s lidma ze Škodovky, ze Škody auta, říkají
+všechno je krásný, funguje to hezky,
+ale máme ten problém, že my najednou se musíme starat
+o software a to tady v té
+Boleslavě nikdo zas tak dlouho nedělá,
+aby se na to dalo spolehnout.
+Takže otázka je,
+co to pak vlastně dělá s tím hardwarem,
+protože na jednu stranu to zblížení
+směrem ke mně, k těm normálním
+výběrářem je hrozně kůle, mi se to líbí,
+ale druhá věc je, že to vlastně dělá
+i větší nároky u těch firm na to, aby
+zajistili nejenom ty šikovný hardwareáře,
+ale i ty lidi na ten software.
+No tam vůbec je jako vlastně,
+to máte snad tady nějakej
+scénář.
+To je jako další taková
+oblast, kterou trefuješ teďko,
+jako takový
+silný paradigma vůbec toho embedded.
+Protože původně embedded je vlastně
+jako z nějaký definice
+vestavený zařízení, prostě do kterého
+se jednou někde nalil software,
+perfektně se to protestovalo křížem
+krážem a
+vypálilo se to do těch pamětí,
+aby to ani přepsat nešlo ideálně
+a tak to bylo.
+A dneska s nárůstem
+jako té konektivity,
+tak i v automotivě
+je to krásně vidět. Dneska ty automobilky
+vlastně,
+nebo ty projekty, které se tam řeší,
+tak začínají jako používat
+vlastně dálkově
+něco jako web servisu, abych to připížel
+vlastně, kdy si vlastně
+ty ten software tam nemáš
+a oni ti dodají jako tu platformu toho
+hardwareu a když si na zimu vzpomeneš, že chceš
+jako sedačky vyhřívat,
+tak si dotáhneš ten software, který ti vlastně
+ovládá ty sedačky, dostane se to
+jako do toho auta
+a kde je to embedded.
+Najednou vlastně jako skoro až je to
+takový děsivý, že se ti na palubce
+pak jako
+ukáže blue screen of death.
+Nebo že máš na palubovce
+shop, že si do toho auta
+dokoupíš přímo v palubovce, že
+chceš ty spirály oživit,
+který máš v těch sedačkách. To je neuvěřitelné.
+A to je to tedy děsivý teda.
+Tak to je ta Tesla tady tímhle směrem,
+že jo, velice. Ty jsi dneska tu Tesla zmínil,
+ale to byla jiná Tesla.
+Trošičku jiná Tesla.
+No ale jako i z pohledu
+těch dalších odborností zrovna jako
+QA, tak jako
+si můžete představit, co to znamená, že jakoby
+otestovat takovýhle software a to
+samozřejmě váží ten produkční cyklus,
+kdy jsi schopný jakoby ten výrobek
+dát jakoby na trh, protože
+ta dílka toho testování je
+jako nepoměrně delší. A to je ještě
+jako druhá věc v tom MBRI.
+To jsem jako když jsem poslouchal jako váš
+taky předchozí podcast jako na téma QA.
+Tak mi jako napadlo,
+že tam je jako dost velký rozdíl v tom, že většinou
+jako v softwareu testuješ na přítomnost
+chyby. Ale v hardwareu
+nebo v tom MBRI světě se většinou jako
+používají techniky, které testují na absenci
+chyby. Což je jako úplně jinej
+vlastně jako význam.
+Protože takhle ty testuješ, testuješ
+pomůže vůči, že jo dneska
+automatizovaný testy, všechno zrychlí
+jakoby dřív se to klikalo teda.
+Tak simulace
+vlastně toho chování toho uživatele
+přesto vlastně jakoby jdeš, máš ty scénáře.
+Ale v embedded jako
+furt platilo a dneska už se to
+malinko jako opouští a je to podle mě
+chyba, že jsi vlastně musel protestovat
+veškerý vektory, který tam jakoby
+jsou a ten prův, který jsi dával
+a i na to byla certifikační autorita
+ti řekla ano, je otestováno
+vlastně na absenci chyby. Používaly se
+formální metody, normálně jako
+matematika, nějaká lineární transakční logika,
+která se na to jako aplikovala.
+Takže byl ten proces výrazně
+jako složitější a teď se
+jako by od toho pomalu jde jako dál
+a dál, protože vlastně z toho
+časového hlediska, jako
+kdyby jsi to měl dělat, tak jako
+ten produkt, když to úplně zkrátím, by byl
+jako strašně drahej vlastně. Že bys
+jako hodinu vyvíjel
+až jako dva týdny testoval
+vlastně. No ale
+jestli se od toho jde dál,
+otázka, jak to bude u takových těch věcí,
+který nemůžou prostě selat, ať jsou to
+nevím, nebo neměly by, teda nemůžou,
+to samozřejmě neexistuje, ale neměly by, jako jsou letadla,
+jako jsou rengeny, protože třeba jak jsem
+mluvil o té formální verifikaci, tak
+o tom já jsem naposledy slyšel, kdy jsme řešili
+s Martinem Dětským, kterýho zdravím
+software právě do
+rengenů, do nemocnic, který nevzniká,
+takže mně přijde specifikace a já
+to napíšu. Ne, ta specifikace vlastně se
+matematicky ověří, že dává smysl a to teprve
+se z toho se vygeneruje vlastně kód,
+který jde mimo de facto vývojáře.
+Že ten kód vzniká
+jako matematický důkaz toho,
+že to je v pořádku. Ale pokud
+teda tohle my dáme bokem
+a budou to tady bastlit
+provazníci, kteří o tom nic nevědějí,
+jestli se neotvírá tady obrovská
+díra pro to, aby to bylo nespolehlivé.
+No tak zase ono to má
+přesah, když zazpomínám
+na svoji pozici solution architekta,
+s tou architekturou.
+Jako architekt vlastně musíš dobře
+nastavit hranice toho systému, kde si řekneš
+tohle je nějaká kritická
+funkce a tohle jsou nějaké komfortní systémy,
+ty ať jako selžou v uvozovkách.
+Takže jde tomu jako nějaký... A takhle to je
+podle mě dneska. Že i ty
+automobilky jako drive-by-wire
+a tady ty technologie vlastně
+tam není jako šance, aby
+to selhalo. Prostě tam
+dva ze dvou systémy, nějaké zálohy
+a podobné věci. Tak to
+se tam pořád drží, ale spíš
+jako pomalu cítit ten trend,
+že se to v některých těch
+oblastech jako povoluje.
+A možná, že zase až bude nějaká kauza,
+že někde Tesla něco
+nabourá, takže se to zase jako vrátí
+zpátky. Jako čertví,
+jak to jako dopadne. Ale je to jako krásně
+pozorovatelný, jak to jde v takových různých
+jako vlnách. A ty
+myšlenky se vlastně jako vrací.
+To je taky jako hezký pozorovat,
+že jak říkal
+pan profesor Ostracký, kterýho zdravím
+on asi nebude poslouchat, tak ten
+vždycky jako říkal, všechno už tu bylo.
+Všechno už tu bylo,
+jenom je potřeba jako se na to podívat
+z jiného úhlu pohledu a
+použít jinou techniku, jiný materiály,
+ale jako ty principy se
+furt točejí. A to je dobře, podle mě, protože se to rozvíjí.
+To je velká pravda. Když se kouknu na AI,
+tak vlastně jako deep learning už je tady
+třicet let, ale až dneska vlastně
+začíná fungovat a opravdu se nějak
+jako uplatňovat v té praxi.
+My se bavíme
+o tom prolínání
+hardware, software. U software
+už je roky velký trend
+open source a vůbec to, že
+spoustu věcí už nemusíme kupovat
+ani nemusíme vymýšlet, prostě si je
+vezmeme od nějakých maintainerů, který chudáci
+nemají nic jiného na práci, než
+ve svém volným čase podporovat
+Fortune 500 companies.
+Jak to funguje
+v hardwareu? Je tam taky takováhle
+nějaká, řekněme, vlna toho, že
+spoustu věcí už je zadarmo, nebo
+jsou to společné nějaké
+volnočasové aktivity?
+Jo, jo, jo. Je to
+určitě taky, je tam cítit posun
+ve firmwaru určitě,
+tam to funguje vlastně stejně. Dneska
+na Stack Overflow najdeš cokoliv.
+Vlastně, co potřebuješ.
+A na dalších webech.
+Začaly některý
+i ty firmy dělat
+balíčkovací podporu typu
+na GET a analogicky.
+Ale to, co je spíš cítit
+v tom opravdujím hardwareu, je
+zvýšená integrace.
+Dneska vlastně, když si vezmeš
+ten čip
+takzvaný SOC, což je
+system on chip řešení,
+kdy vlastně opravdu místo toho,
+aby designer navrhoval
+x nějaké bižuterie kolem toho
+a spojení různých
+čipů a vymýšlel, jak si tam bude posílat
+mezi tím data, tak dneska to koupíš
+na jednom čipu, dáš k tomu
+jeden kondenzátor, nějaké
+odpory někde, aby si dal
+logické úrovně tam, kde mají bejt
+a je hotovo. A všechno je vlastně integrované
+v tom čipu.
+A jde to dál, že
+v těch vyšších designech, tam, kde se
+třeba hodně řešila
+rampa měť
+a procesor, což byl
+high speed design, to je vždycky
+pro ty designery taková ta první
+vlna toho návrhu,
+že gigahercový signály
+a najednou každý zahnutí
+té trasy způsobí nějaké
+rušení a neprochází to na certifikacích
+a tak dále. Tak to se vlastně taky mění
+a je trend těch výrobců
+tohleto zcuknout
+dohromady. No a pak
+vlastně k tomu čipu
+je vždycky nějaká komunitní podpora,
+nějaké
+SDK, který
+vlastně je ready to use
+v podstatě dneska.
+To se změnilo. Jako úplně
+komunita v hardwareu,
+že bys měl někde portál, kde
+si prolejzeš schémata,
+spíš to jako ubývá.
+Že už v tom není
+vlastně až tak velký
+umění, nebo jak to říct,
+udělat jako, vytvořit
+schéma, udělat to jako zapojení
+na ty normální
+věci
+v tom commercial gradu
+potřební elektroniky, tak tam už
+jako není nič, jako nic.
+Ani ty firmy to nějak jako netají,
+jako právě, protože tam není úplně
+jako nějaká velká přidaná hodnota.
+A takže dneska už je vývoj spíš o tom,
+že takový ten craftmanship, že vezmu si
+ty věci, které existují a jenom je dám dohromady,
+abych dal vzniknout
+ničemu reálnímu, že to není vyložený,
+že bych si otevřel, já nevím ani v čem se to, nějaký cat,
+nebo já nevím, v čem se to vůbec dělá, nebo v nějakým, nějaký
+editor, nebo vývojový prostředí
+a v tom začnu úplně from scratch?
+Jako toto vývojový
+prostředí pořád ještě určitě budeš otevírat
+a ještě je nějakou řádku, jako i let, protože
+ten plošňák je svým způsobem umělecké dílo.
+Tam, jako, co
+plošňák, to je jako originál, ale jako
+to, co tam funguje v těch jako
+relativně slušně zavedených firmách, jsou building blocks.
+Že jsou prostě nějaký
+kusy, jako toho
+kódu, layouty předpřipravený
+vlastně, že to tam plácneš
+celým, řekneš si ten a ten zdroj
+a celý ho tam vlastně jako i položíš,
+pak si řekneš tuhle komunikaci taky,
+tam celou položíš už nalajoutovanou
+a řešíš to propojení
+a řešíš to, kde ty
+můžeš vlastně v tom propojení udělat tu chybu.
+Aby to, tam je
+jako strach každého layoutera,
+jsou EMC testy, který
+se pořád zpřísňujou, to je ještě další věc,
+že to, co bylo před deseti lety,
+tak bylo
+na úplným jiným levlu než je dneska.
+Dneska tam přibývají jako vyšší
+frekvence a mnohem
+jako striktněji se to vlastně jako testuje.
+A to je co za testy?
+Vyzařování elektromagnetického
+pole a odolnost
+proti elektromagnetickému pole,
+elektromagnetická kompatibilita, aby když
+si pak pustíš to zařízení,
+tak aby se vám nevyply mobily.
+Jo, nebo nezabilo
+to dědovi pacer třeba.
+Třeba ano.
+Nebo ti nezačalo fungovat očkování jinak, než bys dělal.
+Jo.
+My jsme nakousli pojem
+Embedded Linux na začátku
+a říkal jsi, že to je
+v podstatě revoluce.
+Co to vlastně je? Dokážeš to trošku
+vysvětlit od začátku, aby posluchač
+věděl i třeba takový, který začíná
+vůbec s hardwarem.
+O co jde?
+Předně si myslím,
+že je dobrý si to projít jako
+od začátku,
+když někdo
+fakt začíná.
+Bez zkratek.
+Nejdřív rozblikat si tu letku,
+jak my říkáme.
+Napsat si ten program v C.
+Ale ten trend,
+který končí tím Embedded Linuxem,
+je, jak už jsme o tom mluvili,
+nástupem vyšších jazyků.
+To klasické
+ANSI C, které tam bylo
+leta letoucí.
+A to je taky hezký bomot,
+že ANSI C samozřejmě
+není nejlepší jazyk,
+ale jsou v něm nejlépe
+popsaný všechny jeho chyby.
+To je proč vlastně jeho
+vývojáři mají rádi.
+Ale už tohle se mění a přichází se
+i v těch firmwareových částech
+na C++, kde
+to dává nějaké další
+možnosti.
+A to, co je ten další krok,
+je přítomnost toho operačního systému.
+To je něco, co dělá ten
+rozdíl. Zatímco,
+když si představíš zpátky, když
+chtěl operační systém, tak buď si
+někde někde,
+našel a implantoval, nebo si
+z velké části schedulery psal třeba
+i sám. To byla určitě jedna
+etapa v tom hardwareovém vývoji.
+Říkalo se tomu vždy kolotoč,
+že ty pomalé úlohy,
+které nepotřebovaly rychlou obsluhu,
+tak tam člověk udělal
+nějaký jednoduchý task
+scheduler.
+A dneska vlastně spoustu těch věcí
+odstíní ten
+operační systém. Najednou
+věci, které jsou složité, nějaké end-to-end
+čifrování a podobně,
+nový
+knihovny
+na nějaký složitý komunikace,
+teď mě zrovna nic nenapadá,
+tak ti to hrozně
+akceleruje ten vývoj.
+Protože vlastně ty si řekneš,
+vymyslíš si zařízení, které chceš udělat,
+použiješ klidně
+malinu,
+nějaký základ, kde hardwareově to máš
+podchycený. A vlastně můžeš
+okamžitě začít
+a můžeš si potahat z těch
+tak overflow všechny ty examply
+a snažit
+zlomit do toho.
+A nemusíš na úplně tý spodní
+úrovni řešit každý
+detail, což by ti
+strašně dlouho
+přidávalo čas do toho
+projektu.
+Minimálně v tom rapid prototypingu,
+který potřebuješ udělat,
+aby se zákazníkovi ukázal první
+řešení. To je
+úplně neskutečně úžasné.
+To je opravdu tak dramatická
+změna
+zase toho přemýšlení
+a třeba
+ty startupisty. Je to úplně
+fantastická věc.
+Přemýšlím, jak to teda mění strukturu
+těch firm nebo těch týmů.
+To znamená, že to je víc lidí
+dělá podobnou věc
+nebo jak bys to nadefinoval?
+Máš tam
+určitý jednotící prvek, což je
+ten operační system.
+Ten embedded Linux ten ti dělá
+jakýsi rámec. No a pak už
+to znáte. Pak už je to vlastně high level
+software, tam jakýkoliv
+jiný. Takže stavíš si ten tým.
+Změna v tom hardwareu je v tom, že vůbec ten tým
+najednou potřebuješ. Protože historicky
+se ho vůbec jako... To byly
+cizí lidi, tohle to zlý.
+S tím asi nekamarádil.
+A teďko najednou vlastně
+ty layoutéři až po toho
+Linuxáře sedí v jednom
+kanclu. Protože musí se
+bavit, musí se domluvit.
+A samozřejmě to vede na takovou
+tu shadow zonu, že
+pořád ještě je tam něco navíc, že
+dost často musíš do kernelu toho
+Linuxu psát drivery. Protože máš
+specifický hardware, když si tam
+něco vymyslíš svýho,
+tak potřebuješ vlastně do device tree
+a do těchto věcí dostat
+ten tvůj device.
+Takže pořád je tam ještě taková vyšší dívčí
+vyhřek, což je
+zásah do toho kernelu.
+Ale postupně je to
+pořád přístupnější a přístupnější. Ty drivery
+jsou dneska nějak templateovaný
+a podpisaný a tak. Ale
+pro hardwareový vývoj je to
+velká změna. Vlastně to
+úplně mění toto paradigma
+toho
+jako kdybych to měl přiblížit,
+že vlastně potřebuješ třeba
+dva layoutery
+a máš na to, já nevím, sedm
+Linuxářů.
+Ty tě uživí jako ten tým
+v takovémhle poměru. Vlastně se to začíná
+otáčet.
+Blížíme se k závěru, Aleši.
+Samozřejmě obligátní otázka i po tom, co jsi nám řekl
+na začátku, že teďka jsi zdal takovej voraz.
+Co tě čeká? Určitě už
+o tom přemýšlíš. Nějaké nabídky taky přišly.
+Ty jsi jeden z nejšikovnějších lidí, který znám.
+Tak povídej, přeháňej. Máš nějaký
+už jako aspoň drobný plány,
+kam se budeš
+ubíjet dál?
+Ubírat, sorry.
+Mně
+jako i v rámci
+jablutronních aktivit, tak mě to
+jako dovedlo ke spolupráci
+s jedním
+investičním fondem, který
+vlastně řeší
+private equity fond,
+který nakupuje
+fundy.
+A tak
+tam i v rámci jablutronu jsem s tím
+jablutron byl nějakým jako částečním
+podílníkem tady toho fondu původně.
+Tak to
+mně přišlo jako taková
+parta velmi jako zajímavých
+lidí. A v rámci jako
+udržování nějakého jako běhu,
+abych nezlenivěl, tak
+tam jako s ním
+některý aktivity jako pomalu
+rozbíhám a to mě jako by
+baví. A je to trošku samozřejmě
+jako jiný svět.
+Ale o to zajímavější
+najednou máš možnost jako
+obrovského srovnání přes
+mnoho a mnoho jakoby firm.
+Oni se zaměřují na technické
+a technologické firmy, proto je mi to jako
+vlastně blízko. Tak
+to je něco, kde se teď jako
+trošku pohybuju, ale jenom tak jako
+opatrně. Já vám si pořádno to je.
+Jsi krásný, že bych čekal cokoliv a tohle ne.
+To je fakt dobrý. To je fakt dobrý.
+A ty jsi myslel, že ho tady nahajdujem, víš?
+No to jsem doufal. Já tady totiž mám pro něj i ten
+hrníček. Já to tady mám. Já jsem říkal,
+hle, to jestli, to, že uvidí
+Poliho, jestli ho nedostane, tak až
+ten hrníček, co tady pro něj
+máme podcastovej, tak nám skočí
+na HR to podepsat ještě teď.
+Jasný, já už tam připravenu tu templateu.
+Právě to jsem chtěl říct, že ještě
+druhá varianta.
+Jo, jo, jo.
+To je jako taková nějaká firma CN
+něco. Ty jsou dobrý.
+Jo, jo, tam dělají dobrý. Všechno na CN začíná dobře.
+Všechno, co je dobré, jo.
+To je teda zajímavé a
+vůbec ten hardwareový svět
+chceš opustit nebo na čas opustit
+nebo jak tohle, jak na tímhle přemýšlíš?
+Ještě mám jako druhou věc
+a to je takový jako
+o tom mluvím opatrně
+a potichu, že
+za tu řádku let v Jablotronu byly
+jako některý projekty
+pro který nebyla úplně podpora.
+Ono to do Jablotronu třeba ani tolik nepatřilo.
+Takže mi některý ty
+produkty v uvozovkách
+zabili, byť jako hezky a
+s non-challency, jak je jim.
+Jasně.
+Ale jsou tam jako
+pár věcí, který chci určitě zkusit.
+Takže teď
+půjde zrovna jako do výroby
+nějaký jako jeden produkt, který
+chci jako dotáhnout a
+vyzkoušet. Tak to je taková jako
+druhá linie, takže si to tak jako
+jsem si to nabalancoval, abych si mohl doma
+jako bastlit a trochu
+jako dělat některý
+ty hardwareový věci a zároveň
+aby člověk jako využil
+jako nějaký svoje know-how,
+který
+jako načerpal. Rozumím, že to překvapilo,
+že i jako tady ten svět těch jako
+skoro řeknu jako konzultací
+nebo tak
+je relativně jako širokej a ještě
+mě nic jako fascinovalo, že tím firmám
+fakt jako dokážeš pomoct.
+Což jako jsem
+jak jsem z toho jiného světa
+té techniky, tak jsem nikdy moc vlastně
+jako by nechápal jako Deloity
+a tadyhle ty všechny jako společnosti.
+Ale teď, když to člověk vidí zblízka,
+tak najednou jako vidí, že
+v tom fakt je jako ta hodnota,
+že jako ty lidi jsou občas za některou
+radu, kterou ty považuješ jako za úplně
+normální běžnou věc prostě,
+že to tak je, tak pomáháš
+s takým tím aha efektem,
+což je příjemný, že seš tam jako chvilku,
+otevřeš ty oči, oni řeknou
+aha a ty jdeš pryč. Jasný, jasný.
+No tak či onak, ať se
+rozhodneš jakoliv, budeme ti přát
+hodně štěstí a hlavně úspěchy
+v budoucnu, já věřím, že ty se dostaví určitě.
+Tak hlavně
+ať tě ta nová
+a užij si to. Ale strašně
+moc děkujem, že jsi dorazil, bylo to super.
+Já děkuju a přeju hodně štěstí
+do season 2. Děkujem, děkujem.
+Začíná skvěle, takže doufujeme, že tak bude
+pokračovat.
+Tak jo, čau. Ahoj.
+Tak to byl první host druhé
+série podcastu Podvodca jsem
+Aleš Krutina, byl výborný.
+Já tyhle lidi úplně žeru, ty jo.
+Jsem rád, že se ti líbil, já jsem
+o Alšovo kvalitách věděl, takže
+rozhodně splnil moje očekávání.
+Ale úplně miluju ten mindset těch lidí,
+co vlastně vystoupají až do
+C-levelu, ale furt si nechávají
+ty ruce zašpiněný od
+toho hardwareu nebo od nějakého
+bastlení, nebo když to jsou vývojáři, tak od
+kohodují, že neodpojejí se
+od toho světa úplně,
+ale snaží se zůstat nějakým
+způsobem relevantní a my jsme se pak o tom ještě bavili
+mimo nahrávání,
+že je to samozřejmě všimná tím
+těžší, že ten svět zrychluje
+a zrychluje i v tom hardwareu,
+ale už úžasné, mě se to strašně líbilo.
+Já mám rád, když řekne větu
+a si cítíš a vidíš,
+kolik znalostí zatím je.
+Jo, já za jednou větou, že je dva roky
+bastlení a
+učení se, no je to skvělý, bylo to super.
+Mě se to moc líbilo, těším se
+na dalšího hosta, kterýho budeme
+točit vlastně už zejtra. Je to tak, no.
+Takže teď zase pomaličku zrychlujeme
+i my. Nicméně ještě
+my se rozloučíme. Jedna důležitá věc.
+Na našich webovkách
+www.podvocasem.cz
+máme takovou novou fíčurku,
+což je nahrávání
+vzkazů. Takže pokud náš posluchač
+nebo posluchačka bude chtít nechat
+vzkaz a my si ho tady pak pustíme v Etheru
+přímo, tak tam přijde, klikne
+na nahrávat, může se to poslechnout
+a pak dá odeslat. Nám se to uloží
+na cloud, v klidu je to levný,
+hodíme to na ten blob storage,
+o kterém tady mluvil
+Jarda z konferomatiku, takže nás to stojí
+0, 0, 0, nic, takže můžete klidně
+se tam vyhádřit, co se vám líbí,
+co se vám nelíbí, nemusíte nic
+zepisovat, rovnou nám to pošlete.
+Krása, těším se na první příspěvky,
+protože je tady použijeme a pobavíme se
+společně. První byl tvůj, ale ten jsem
+smazal teda. Dobře si udělal.
+To nešlo publikovat.
+Tak jo, přátelé, mějte se
+krásně, my se s vámi těšíme,
+byť budeme nahrávat už zítra
+naslyšenou zase za 14 dní,
+no a můžete se těšit na našeho dalšího hosta,
+kterým bude Borek Bernard, takže i jemu
+můžete posílat dotazy. Těšíme se,
+mějte se do té doby krásně.
+To je ale pičovina, viď? Co?
+Nemůžou posílat dotazy,
+když my to
+nahráváme zítra. No, můžu
+vyposlat zase příště, rozumíš?
+No, ale na dnešní.
+Na Borkově nemůžou posílat. No, to ne, no, to ne.
+To nestihnou.
+No. Hledáš, že tady ukecáme
+pár líčí, že to tam nahrávají o voni.
+Jo, takhle. Dobrý, no tak jo.
+Takže zase někdy. Čau.
+Čau.

@@ -1,0 +1,2262 @@
+Pod vocasem.
+Pod vocasem.
+Pod vocasem.
+Pod vocasem.
+Krásný den, milí posluchači,
+vítejte u dalšího dílu vašeho oblíbeného
+IT podcastu Pod vocasem.
+No a myslím si, že by to byl řík
+skoro až biblických rozměrů,
+kdyby naproti mě neseděl jako vždy
+usměvavý, navoněný a připravený
+Petr Polipolák.
+Co k tomu dodat, když si vytasil biblit, jo?
+Takže naproti mě pouze a jenom
+Roman Joker provazník opět ve formě.
+Jak říká můj brater Kristovi Rohy.
+Krásné ráno,
+krásný den, nebo podle toho, kdy nás
+posloucháte. Jak ty to máš s podcastem?
+Kdy ty posloucháš? Hele, zásadně v autě.
+Zásadně v autě. A nebo doma, když
+mají nádobí, to je moje nejoblíbenější
+domácí činnost, by the way. Fakt?
+To seš takhle na domácí práce?
+Ne, ne, na žádnou jinou, ale
+tato konkrétní. Jo, takhle.
+Mytí nádobí mě z nějakého důvodu
+vlastně uklidňuje. Takže u toho si vždycky pustím podcast,
+když mám zrovna chvíli a jedu.
+Já mám taky, přemýšlím,
+která z těch domácích prací, já jich teda taky
+nedělám mnoho, ale vlastně vždycky
+žena po mně chce, abych vytřel,
+protože mám jako takovou tu sílu
+prostě zatlačit ten mop a vydrhnout
+tu podlahu. A vlastně přitom
+taky jako úplně vypnu, takže jsem třeba
+schopnej poslouchat
+písničky nebo většinou zda pustím
+hudbu než podcasty, ale
+když už se bavíme jako obecně
+o podcastech, tak zajímavý je
+náš kolega
+Viktor, společně se spojí vlastně taky
+kolegyní, která sedí o kancel vedle
+a konec konců jeho přítelkyní
+Bětkou, tak byly o víkendu střílet
+a zorganizoval jim to náš
+třetí kolega, mimochodem host,
+kterého jsme tady měli, bývalý
+detektiv Národní centrály pro boj s
+organizovaným zločinem David Pícha,
+není velký, je v Šárpi, stále
+myšikovný a právě jim zorganizoval víkend,
+že ho měli na střelnice a teď se učili, já nevím, co tam dělají,
+ale podle mě tam, že ho vyskočejí
+jak Tackleberry z Policijní akademie,
+že s tou bouchačkou, že s tou autou
+dělají kotou a ty to tam rastřílejí,
+nevím, představuju si to, podle mě to tak není, ale
+nějakým takovým způsobem prostě tam stříleli
+na všechny strany a
+ten instruktor, který je
+ved, takový ten typický maskáčovej
+typ, že jo, holínky, maskáče,
+zvráň, takový ty americký
+brejličky, všechno, řekl bych všechno
+jenom ne, IT člověk, tak
+první, co jim řekl, když zjistil, že jsou o Davida
+píchy, že si mají poslechnout náš
+podcast, jo, říkají, posledně
+tady si tenhle podcast, tam byl David pícha
+a on byl hrozně vtipnej a je to dobrý, takže
+Viktor byl úplně hotovej z toho,
+že někdo týzuje takovýhle maskáčovej
+střílecí typ, týzuje IT podcast,
+takže podle mě to úplně definuje
+nádherně ten reach, kterýho jsme dosáhli.
+To je jako, já už se bojím jít do hotelu, prostě,
+abych se v tom nechtěl potnit. Já bych se tam nevěděl,
+někdo zbouchačka. Jo, nebo.
+Takže to bylo zajímavé. No nic,
+pojďme na dnešního hosta,
+tím je můj, vlastně
+další z bývalých kolegů, další
+z toho portfolia těch zajímavých lidí,
+který jsem v životě potkal, jmenuje se
+Tomáš Muchka a je to
+UX designer, a pozor,
+to se tě bude líbit, ve společnosti
+Good Data.
+Aha, a Good Data.
+Nevím, děkuju, ale pamatuju si,
+že kdysi dávno, když se to rozjíždělo,
+tak mi dokonce nějaký rekruter volal a chtěl mě tam dostat.
+Takže Good Data dneska probereme,
+takže tam budou, jakmile je tam
+Data, tak to budou i tvoje věcičky.
+Ale vlastně Tomáš, to si pamatuju,
+je hrozně šikovnej designer,
+UXák
+a podle toho, co jsme se bavili,
+tak vlastně má přesahy do různých jiných věcí,
+který dneska probereme, takže si myslím, že si
+ve finále porokňáme obak.
+Pojďme na to. Jdeme na něj.
+Do studia dorázel náš dnešní host,
+Tomáš Muchka. Ahoj Tomáši.
+Ahoj pánové, ahoj Tomáši.
+A na Tomáše prozradím, než se nám teda
+představí on sám, že celou dobu poslouchal
+za dveřma. Takže co jsme si tady
+říkali, takový ten úvod, představovačka,
+to všechno on už ví.
+Všechno ví. Něco tě překvapilo Tomáši?
+Nepřekvapilo.
+Vzpomněl jsem si na svý časy
+ještě v Sistine těch officech,
+tak mi to tady tak připomnělo.
+Jo, takže neposlouchal si,
+víc si koukal, jaký máme krásný
+ofisy v centru Prahy. Přesně tak.
+Já myslel, že v Sistine těch officech se jako
+poslouchal za dveřma. Víte, si to blbým ochopil.
+Jo, jiná kultura. Jiná kultura, prostě.
+Co se děje? Vidíš ty lidi
+s těma hrníčkama, tyma naravnaný.
+Tak jo, tak Tomáši,
+ještě jednou vítej, pojď se
+nám představit pro poslouchatě, kteří by snad
+nedej bože o tobě v životě neslyšeli.
+Jo, dobře, tak jo.
+Tak už jsem říkal
+Tomáš Muchka, to už jste mi krásně představili.
+Kluk ze Šumavy,
+kteří se přistěhovali.
+Zrovna koukám na tvoje tričko, co to máš?
+Výlav Šumava, krásný.
+Jo, jo, to jsem si vzal teda úmyslně,
+protože jste mi poslouchal ten váš díl,
+kdy jste tam měli jinýho UX designera
+a říkali jste, že byste je všechny
+vždycky poznali v tom davu.
+A já jsem si říkal, tak já se teda
+obleču, tak jak bych se chtěl oblíct a jestli by mě
+teda lidi typli na toho designera.
+Jo, jakože hned jsem ti jako sjel,
+když jsi přišel poprvý a taky bych to typnul,
+přímě řečeno. Jo, prostě ty UX designeri
+jsou prostě poznat, podle mě.
+Jo, já ho poznám podle obliče.
+Tak to je lepší. Pro mě to úplně nebylo.
+To je lepší. Tohle AZQ jste byl těžký
+pro mě ráno. Tak prosím tě, co zrovna
+děláš, Tomáš? My jsme říkali, že děláš
+v GoodData,
+ale co tam přesně děláš?
+Jo, no,
+v GoodData dělám teďko pět let a je to
+ta pozice toho UX designera
+a je to
+napříč celou tou platformou. A ta GoodData
+je jako specifická tím, že to je opravdu platforma,
+že nevyvíjíme konkrétní produkt pro
+koncový uživatel, že to není ten B2C
+segment typický, ale víc je to
+pro nějaký firmy, kteří to zase
+ještě dál přepoužívají,
+ještě dalším firmám typicky, takže
+je to takový, že
+připravujeme spíš sadu nástrojů, sadu
+nějakých use caseů a oni si
+s tím teprve jako nad tím staví tu vlastní solutionu,
+dejme tomu. Já jsem koukal na LinkedIn,
+že ty jsi oficiálně principal UX
+designer v GoodData, jestli to je
+oficiální role, je to tak? Jo, je to
+oficiální, sklízím s tím hodně úspěchů,
+hlavně takhle právě, když přijdeme zpátky na Šumavu.
+Že přijede principál,
+čekáme cirkuzit. Přesně,
+jak manžel ti rodičům teďka říkal a nedávno
+u večeře, že mám tu pozici toho principála.
+Tak se tak jako
+viděl jsem ty zvyžený obočí a
+co si to v té Praze zase vymýšlej.
+Hele, to se mění, prostě dneska už nás poslouchá
+kde kdo, až překvapenej, že prostě to začnou
+lidi chápat, co znamená principál, co znamená fajtý.
+Já si to představuji, jak v tom slunce se
+no vy to nevíte, ty velké
+zvíře z Prahy.
+Takže
+UX principal v GoodData.
+Takže máš pod sebou už nějaký
+tým, nebo je to one man show,
+jak to tam máte?
+Ne, nejsem v tom manažerským tracku, takže já
+pod sebou vyloženě lidi nemám,
+ale krafám do práce hodně lidem.
+Krafáš? Jo, jo. Chodíš, ukazuješ
+prstem do monitoru z těch korporátních
+obrázků, jo? Tak, nemám tu zodpovědnost
+za ně, ale jako říkám jim
+a radím se s nima, radím jim,
+když o to mají zájem.
+My když jsme si psali,
+o čem bychom dneska vlastně obecně chtěli
+pokecat, tak jsme žonglovali
+řekněme s dvěma termínama. První je
+UX, což je věc, kterou jsme tady
+probírali s Kubou Kašparem
+a kterou si myslím, že naši posluchači už docela
+jako znají, ale věc,
+o který jsme se vlastně
+chtěli bavit dál a která třeba pro mě
+zas tolik známá není,
+je DX, což je zkrátka, jestli to chápu
+správně, pro Developer Experience.
+Můžeš třeba vysvětlit v první řadě,
+jak se tyhle dva termíny
+vůbec jako lišejí?
+Jo, jo, říkáš to dobře.
+Je to teda jako Developer Experience
+a já většinou,
+je to takový jako moderní buzzword,
+bych řekl poslední dva roky
+třeba, kdy se
+o tom začíná hodně mluvit
+a no, jako
+v zásadě je to o tom,
+že je to jako jiný typ
+uživatel, jiná persona, ale s tím se
+jako váže i to,
+že ty lidi mají jiný potřeby, jsou to ty
+developery, já bych řekl, že to bude hodně pro vás
+a ještě, co jsem
+jako u toho hodně viděl, bylo,
+že většinou, jestli člověk najde materiál,
+ale začne zjišťovat, co je jako DX,
+tak dost často se tam mluví o nějakých
+jako interních potřebách těch lidí,
+že my děláme DX do firmy,
+znamená, zajišťujeme, že všichni mají
+licenca na IntelliJ IDEU,
+nebo IntelliJ IDEU, že všichni mají
+přístup, nevím, Jenkins,
+TeamCity, že všichni mají ty notebooky,
+co chtějí, mají ty myši, co by chtěli.
+Takhle někdo do toho skryje
+to, že jako developer mám všechno,
+co potřebuji ke svý práci.
+To ale asi není úplně to, kam
+ten termín DX
+obecně míří, ne? Když to dám
+vedle UX, tak bych čekal, že to je spíš něco,
+co mi třeba umožní
+lepší developer work,
+jako psaní třeba kodu v rámci nějakého IDE
+nebo v rámci nějaké platformy,
+ale to, že dostanou licence, nemusím
+o ně žádat, nevím, teď plácnu třeba přes džíru,
+což by bylo strašný, tak
+to asi do toho nepatří, ne?
+Říkáš to naprosto správně,
+jako pro mě, nebo tím,
+já se zabývám v rámci developer experience,
+tak je to ta expertní zkušenost, ten expertní
+prožitek, to znamená, že my opravdu
+se snažíme vlastně udělat ten produkt
+tak, aby se dobře používal
+a aby ten uživatelský prožitek
+pro ty naše
+uživatele, kteří jsou mimochodem
+developři, tak byl byl co nejpříjemnější.
+A když se teda
+zaměříme na ten developer experience,
+v čem se liší
+od toho UX experience z hlediska
+toho uživatele? Je mi jasný, že klasický,
+řekněme, jako BFU,
+je to to zkrátka,
+běžný fronta uživatel, nebo
+bigfuck, user,
+to bylo ono, se od toho
+developerskýho, liší,
+řekněme, jako určitým levelem
+chápání toho, co s tím softverem
+dělá, ale je tam něco vyloženě
+jako těžkýho, co třeba
+u těch klasických aplikací pro normální
+uživatel by bylo výrazně lehčího a u toho
+pro developry je to větší challenge?
+Já bych řekl, že to je
+hodně o tom mindsetu těch lidí,
+že opravdu,
+seš sám developer, tak
+jak sám uvažuješ
+o těch nástrojích a jaký
+okolo nich máš potřeby,
+tak o co jsem tak běžně viděl,
+kde jsme se hodně setkávali,
+potkávali na tom, jak má třeba vypadat
+aplikace, nebo cokoliv jinýho,
+tak bych řekl, jako nejkrásnější
+příklad toho byl, že vždycky,
+když jsme dělali ty UIka,
+i třeba v APčku,
+tak se nám hodně stávalo,
+že k nám přišly právě ty devlopři, co to kodí,
+ale říkali, to je ten
+fond, ten je strašně velkej,
+tam by se dalo ještě, a tak strašně
+plejtváte tím místem, tam by se nechalo
+uspořít ještě tolik místa, tam by se toho vešlo
+o tolik víc, tak mám pocit, že
+hodně ty devlopři jsou nastaveny právě z těch
+ide, na to, že tam má být všude fond 11,
+12, a
+potom by jim tam něco ukáželo, oni říkají,
+to je tak plejtvavý, tady by se toho nechalo
+ještě tolik říct, tak to bych řekl,
+že je takový výrazný rozdíl, ale
+to nepřičítám tomu, jestli to chtějí mít
+růžový, modlý, zelený, to je v zásadě
+jedno, a je to o tom mindsetu těch lidí,
+jestli chtějí víc jako kondenzovaný
+informace, a co vlastně potřebujou
+pro tu svoji práci, takže když ten developer je
+opravdu zvyklý na to, že pracuje v ide,
+a většinu toho času tam kouká
+do toho kodu, debagu jeho třeba,
+tak ty potřeby jsou
+prostě úplně jiný, než
+když někdo
+jako je koncový uživatel,
+jako na chvilku přiběh k nějakému
+typu interfejsu, něco tam potřebuje
+udělat, a vlastně jenom chce získat tu informaci,
+ten interfejs není ta jeho práce.
+Takže hodně se to liší, opravdu
+my tomu jako v tom
+v té UX hantírce říkáme
+persony, takže hodně se to liší
+ta persona od persony. A ta persona
+to je jako archetyp toho uživatele
+vlastně. Jo, jako skupina
+uživatelů, který nějakým způsobem chtějí používat
+tu věc. Tak, a my jsme se
+jako UXáci řekli, že je strašně super
+tyhle věci personalizovat, takže my
+když vidíme takhle tu skupinu těch uživatelů
+a chceme, aby k tomu měli
+třeba i ty vývojáři a všichni v tý firmě nějaký
+vztah, tak je jako zhlukneme do jedný,
+tam si vybereme nějakého typického
+zástupce a dáme mu nějaký osobnostní
+vlastnosti, aby se ti dobře o něm
+povídala a řekneme, heleť, a tohle je ta persona.
+Jo, jo, jo. No a
+když o tom mluvíš, tak vy se zaměřujete
+víc na, jako v Gudetě
+se víc zaměřujete na tu jako
+externí DX nebo na tu
+interní. Teď mi jde o to, jestli vlastně předpokládám,
+že to řešíte i u vás, protože vlastně
+v tom vašem nástroji se i vyvíjí, že jo.
+Jako není to jenom o těch komponentech,
+který tam kdo poskládá, ale někdo to musí,
+ty komponenty se mu musí hezky skládat.
+Jo, jestli to můžeme správně.
+My se v Gudata zaměřujeme
+určitě na tu externí. Já jsem to právě spíš
+chtěl uvědět jako protipříklad, že občas
+jako pod tím DX, jako někdo chápe
+tu interní záležitost.
+Poslouchal jsem třeba nějaký konkurenční podcast,
+nebudu jmenovat, ale...
+No, stavl se mi to
+jednou, dvakrát.
+Ti odpouštím.
+Dobře, děkuji. A naposled, no.
+Dobře, dobře. A tam právě hodně jako
+zmiňovali, je to jako víc ten
+interní use case, ty interní potřeby.
+Ale my, když se bavíme o DX,
+tak je to opravdu ta externí.
+Ta externí. Jak se
+našim zákazníkům bude používat Gudata, jak s ním
+budou pracovat? Nevím, jestli mi dáš
+zapravdu, ale já jsem si všiml takového trendu
+právě u těch vývojářů, že od toho
+tradičního stylu, kdy si představíš
+ID, který je zaprasený
+informacema, máš tam
+solution tree, máš tam
+různý prostě podmenu, máš
+tam debugger, máš tam prostě watchery,
+pak tam máš prostě ten malinkatej
+kousek toho kódu, který bys měl
+dělat. Takže od tohohle, třeba
+z poslední verzi Ryderu, který
+dokonce nabízí nový UI, který je
+totálně čistý, že se vlastně
+dostávají i vývojáři, řekněme
+do toho trendu, nechci říct těch
+copywriterů, ale toho, že mám prostě takový ten
+full focus ze novej mod,
+že mám jenom kód, maximálně
+k tomu pár
+kontextových informací, ale ne víc
+než potřebuju, ale mám jenom primárně
+ten kód, na který čumím a o kterým přemýšlím.
+Takže vidím tenhle trend i u těch
+vývojářských nástrojů, že to malinko
+jde od toho zapraseného stylu do týdličí
+čistoty. Je to zrovna
+výjimka, která potřebuje pravidlo, nebo
+to ty, Tome, taky vidíš, že
+i vývojáři už jdou, řekněme
+tímhle s tím jako čistším směrem
+v tom důležitosti?
+K tomuhle já nemám žádný
+jako kvantitativní dotaz, jsem to nikdy neviděl
+na velký škála, ale shodou okoností jsme
+zrovna nedávno, jsme se dívali
+pod rukam, jak u nás interně,
+tak na pár lidí mimo Good Data
+a zajímalo mě, jak právě pracujou s nástrojema
+a typicky mi ukazují svoje
+ide, a zajímalo mě
+právě, jak moc se ho personalizujou, jaký
+doplňky do něj stavujou, jak fungujou
+a překvapilo mě, že, nebo
+překvapilo, měl jsem to očekávání
+právě z mých mladických let si pamatuju
+NetBeans, Eclipse
+a přišlo mi, že tam je takový jako malý průřez
+ve prostřed, kde opravdu ten kod člověk vidí, ale
+panel tady, panel tam
+a všechno, a že dneska už to
+tak úplně není, nebo aspoň ty lidi, se kterýma já jsem se
+bavil, tak ty už to takhle opravdu neměli
+a většinu to, ten prim, tam určitě
+hrá ten kod
+a v podstatě zavírali všechno ostatní
+a vlastně se
+k tomu dostávali, až v momentě, kdy to opravdu potřebovali
+tak to si otevřeli v terminál
+tady měli ten solution tree
+jo, ten explorer, ale
+jinak to měli i zavřený
+Ty jsi nastínil výbornou věc
+jak hodně sledujete data
+o tom, jak ty klienti použijí, protože tak
+jste datová firma
+takže by se to nabízelo, je to něco
+co
+je tam prostě jako zásadní
+kulturou pro každýho sledovat
+tyhle data a na základě toho tvořit
+rozhodnutí, jak bude vypadat třeba ten zle
+Je to takový mix
+my sledujeme data o tom, jak
+naši zákazníci s tím pracujou
+ne, že bychom se snažili jako špehovat
+naše zákazníka, ale prostě máme
+data o tom, jak se která featurea třeba používá
+jak se s ním pracuje
+na druhou stranu je tam, do toho určitě
+vstupuje takový jako to
+ten thought leadership
+ta předslava té firmy, jak má fungovat
+a tohle se prostě potkává
+a na základě toho se potom jako vyvíjí
+takže není to úplně tak, že bychom jako
+reaktivně jenom sledovali data
+Protože já vždycky nad tím přemýšlím, že já jsem
+datovej člověk, takže mě to samozřejmě baví
+ale zase, když se nepodíváš na tu druhou stranu
+co vždycky říkal Ford, kdyby jsem se ptal lidí
+co chtějí, tak mě řeknou
+rychlejší koně, takže kdyby člověk reagoval
+jenom na ty data, tak vlastně dojde k tomu
+že možná začne ztrácet na tom trhu
+Jo, myslím si, že jo
+že firma, která jako dlouhodobě nemá vizi
+tak nemá šanci úspět
+Já se možná ještě zpátky vrátím
+k tomu developer experience, protože to je pro mě
+samozřejmě věc, která mě velmi zajímá
+a velmi láká. Obecně, co je na tom
+nejtěžší, když děláš developer experience?
+Je to o tom správném rozlišení
+mezi těma archetypama těch
+uživatelů, nebo co je taková
+řekl bych, jako královská disciplína
+toho, když teda někdo bude chtít skočit
+do developer experience?
+No, to asi dozáleží
+na tom, jako kdo
+do toho chce skočit. Pro toho UX
+designera, kdybych chtěl začít dělat
+developer experience, tak si myslím, že ten skok
+není zas tak velký, protože používá ve směstí
+samý nástroj, opravdu se mu tam změní ta persona
+pro koho to dělá
+tak je to zase od té komunikace
+takže já, když jsem i přeskočil vlastně
+víc jako k té developer experience
+tak pro mě to bylo opravdu o tom použití
+těch jako velmi obdobných nástrojů, co už jsem
+znal, takže tam si s nima dával rozhovor
+dělali jsme jako hloubkový rozhovory, abychom
+víc pochopili ty jich potřeby
+pak vlastně, tam může být i výhoda dokonce
+protože najednou, když děláš na software
+rovním produktu, tak máš
+to těchhle jako archetypů, tak jich
+máš celý kancel
+že máš kam jít
+snáš se třeba jako dělat nějaký
+nějaký hallway testy, to znamená
+opravdu synkov odchytný, říkáš, ale já bych to potřeboval
+probrat, třeba bych si to
+vlastně mohl věřit, tohle je když
+když ta cílová persona
+není ten developer, ale je to
+nedej bože nějaký účetní
+tak je těžší se k ním dostat asi, je těžší se k něm dostat
+no a nebo to skončí s tím, že
+třeba ty naivní, takový jako naivní
+přístup k ty věci může být, že
+já sice dělám software pro účetního
+ale testuju si ho tady s developerem
+a to nemusí dopadnout úplně dobře
+Máme takový jako příběh, co si pamatuju
+jako z minulosti
+kdy jsme právě dělali
+developer experience a
+byl to nějaký trial, nějaká trial
+verze a končilo to tím, že
+ten jeden můj kolega tak
+to vlastně na konci šel ukazat
+na naší jako firmní právničce
+a říká, no tak ona jako skapala
+na tom, že musela nainstalovat to Ruby
+a jsem říkal, no
+tak to není úplně ta persona, jako
+kterou bychom tady jako chtěli jako to představit
+že si ten firmní advokát
+nebo ten právní, která půjde a nainstaluje si tam
+ten trial a nainstaluje si při tom Ruby
+a vyzkouší si to
+Ale i advokát po večerech může
+No, čí z Vergilia por Gira
+Přesně tak, měla o to
+zájem, byla strašně hodná, nebo je pořád
+strašně hodná, ale
+prostě to úplně nesedlo a myslím si, že to pro nás
+nebylo moc relevantní v té chvíli
+No a jak to teda je, když bychom
+nešli do nějakého konkrétního příkladu, já jsem třeba koukal
+na stránkách, že se zaměřujete na data
+pro embedded
+Jak k tomu dojdete
+a jak vlastně jsou ty konkrétní kroky
+Jakože přepokádám, že teda
+nějak zjistíte tu oportunitu, že by mohla
+být zajímavá, konec konců my jsme
+ji zjistili taky, je to fakt jako super věc
+Prostě při ty embedded, jakýkoliv zařízení
+má jako miliardu dat
+který nejsou zpracovaný a je potřeba s nima
+nějak pracovat a zajímavý je to pro ty firmy
+Ale jak teda
+jak to teda postupuje, jako step by step
+Teďka teda najdete ty firmy, nebo ty firmy
+už máte a začínáte zjišťovat
+prostě pomocí vlastně standardního procesu
+který by si dělal i s tou účetní
+Co je pro ně zajímavý třeba
+v tom dashboardu, aby viděli
+My spíš to děláme, že
+úplně ustavíme tu platformu jako takovou
+že my prostě postavíme
+říkáme, hledajte se, my jsme analitická platforma
+a my se vlastně
+postavíme na to, že když k nám dostanete
+vaše data, tak my nad tím můžeme zpracovat
+analitiku, můžete si nad tím
+postavit vlastní dashboardy, vlastní
+vizualizace, případně
+dneska máme i takový ten headless use case
+nevím jestli to je tak jako známý
+jestli to nějak rezonuje, ale v zásadě
+to vlastně říká, hledajte se, nestavte si
+nad tím ty dashboardy, ale my budeme vaše jako
+konzolidační místo, uděláme vám jako
+semantickou vrstvu a nad tím
+vy si to můžete napojit do jakého
+nástroje chcete, to může být jako různý
+Tableau, Power BI, tak dál
+že vlastně není potřeba u nás ani dělat ty dashboardy
+ale sloužíme jako takový konzolidační
+bot z hlediska
+vlastně business data
+bych řekl, ještě bych to úplně neplec
+třeba s tím, co dělá
+Snowflake a různý tyhle jako Data Lakes
+anebo Data Warehouses
+ty jsou jinde, jo, ty jsou jako pod náma
+my je většinou používáme jako zdroj dat
+takže nikdo přijde, skonzoliduje si všechny ty data
+do toho jednoho Data Lakeu
+a pak říká, no jo, a pořád jsou to takový ty
+jako raw data, tak já už je tady mám jako na jednom
+místě, to je super, ale já bych jim potřeboval
+dát nějaký význam a to je
+vlastně ten core, ty good data
+my jim dáváme ten význam
+a potom jestli už to končí tím, že si
+nad tím postavím ty dashboardy
+a ukážu je uživatelům
+nebo dám přístup k těm dashboardům těm uživatelům
+anebo jestli naopak já si nad tím postavím jenom
+tu semantickou vrstvu, jenom takový ten takzvaný
+logický datový model
+a pak to jako napojím do zase
+jiných aplikací, do jiných produktů
+to už je vyloženě na tom zákazníkovi
+takže my máme tady ten use case
+nebo na ten se jako primárně orientujeme
+říká se tomu embedovaná analitika
+to je vlastně bych řekl ta část
+kde jako postavím ty dashboardy nebo postavím
+vizualizace a pak
+máte nějaký portal
+nějakou vlastní aplikaci
+nebo třeba řeknu příklad
+s Heurekou, ale to je jenom ilustrativní
+Heureka, když si vždycky prohlídne ten produkt
+tak tam dole jsou nějaký grafy, jak to funguje, jak to nefunguje
+tak to by vlastně mohla být good data
+a oni by se prostě do té svojí stránky
+prostě zaembedovali vlastně
+jenom tu část té analitiky, kterou potřebuje
+ani to nemusí být celý ten dashboard, může to být jedna vizualizace
+může to být dokonce jenom číslo
+a jak už si s tím potom jako poradí, to už je na nich
+Tak tady se diváku je omlouvám
+já jsem Embedit pochopil v jiném slova smyslu
+ale tohle mi dává mnohem větší smysl pro vás
+a konec konců
+ještě tam teda jenom takovou vzůvku
+já jsem to měl pozdějiště v otázku, to je možná
+jeden z důvodů, že vlastně jste schopný
+zůstat konkurenceschopný, protože
+dneska miliarda firm používá Power BI
+ale ona může zároveň používat GoodA2
+protože ta může být pod tím, rozumím tomu správně
+Jo, může být, tenhle use case je
+poměrně mladej
+bych mu zase nechtěl
+že to je ten náš core, jako daleko víc
+těch firm opravdu používá
+to, že my jsme pro ně ta
+vizualizační vrstva a oni nás
+někde i někam embedují, tak říkám ať už celý
+ten dashboard nebo jenom jednu vizualizaci
+nebo cokoliv mezi tím
+a ohledně toho
+Power BI, jako jo
+to je hodně známý, řekl bych, že pak je hodně známý
+ještě Tableau a nebo Looker
+proč my jsme konkurenceschopní
+je, že se snažíme nějakým
+způsobem odlišit, třeba oproti tomu Power BI
+oproti těm ostatním
+a pak určitě v tom hraje i roli to
+že ne každý chce jít do Microsoftiho
+ekosystemu, ne každý chce jít
+do Googlevského ekosystemu, takže oni se tak
+hezky rozebrali
+Looker patří Googleu, Microsoft je
+Power BI, Tableau je koupený
+Salesforce a my jsme
+v tomhle takový jako nezávislí
+On tě tak, Polly, krásně unesl do toho svýho
+já jsem si mylý posluchači, že dneska to bude
+opravdu ping-pong, že já se zeptám na to, co
+zajímá mě z toho lidska developera
+pak tam hodí, Polly, otázku na Good Data
+z pohledu milovníka dat
+a dneska to bude totální, co chcá hrát
+Já se tě umoval, já jsem trošku
+utekl, mě to hrozně zajímalo, to jsem zvědavý
+Pořádku, pořádku, Polly, nezapomeň
+ty posluchači, ty nejsou důležitý
+děláme to pro sebe, my dva děláme to pro sebe
+Tak je to dobrý. Takže můžu, teď se ptám já
+Dobře, seš na to. Dobře, takže teď já si
+Tomášem malinko zase stáhnu k sobě
+nebo jedna věc, která mě zajímá
+obecně a to možná
+překrývá ty naše dva světy
+to jsou nástroje. Jasně jedna věc je, že
+Good Data je nástroj pro lidi, který chtějí
+s těma datama nějak fungovat dál
+ale teďka by mě spíš zajímalo
+z hlediska Tomáše, z hlediska
+tvýho denního jobu, jaký
+nástroje normálně používáš? Protože teďka, když se řekne
+UX nebo UI nebo cokoliv, co začíná
+na U, tak mě napadne třeba
+Figma nebo něco takovýhleho, což je
+takový, jako řekl bych, dnešní
+go-to tool
+Používáš to nebo
+jaký nástroje obecně, Tome, používáš
+dennodenně? Jo, to je super otázka
+já už jsem tady tak jako přikivoval
+v půlce té otázky už jsem přikivoval
+že jo, jo, jo, Figma
+Je to jako, ve frtně jedeme
+Figmu, jako v UX oddělení
+plus dneska už to probulblává
+a už to začíná být dost mezioborový
+takže už se k tomu připojují i lidi z marketingu
+už se k tomu připojují právě copywritery
+řekl bych, že ten čas, kdy
+se to jako muselo brát a takhle se to
+jako házelo, jako ty škatulky
+a vždycky někdo
+vexportovali se nějaký obrázky a copywritery
+k tomu něco dodali nebo marketing
+tak to už je naštěstí pryč a dneska už se úplně
+nechá krásně iterovat nad
+tím jedním asetem
+v té Figmě
+Je už ani taková ta paipa, jako já jsem to
+dodělal, teď si to vem do svýho, ty si to
+importuješ do svýho toolu a to, takže teďka
+jedete ve Figmě jako share
+Jo, my jsme začínali v budětě, když já jsem
+tam nastupoval, tak tam byl rozjetý sketch
+o to jsme po nějaký době ta Figma
+bych řekl, jako poměrně přejela
+nic proti sketchi, mám hodat
+ale ta kolaborace,
+kterou Figma vlastně přinesla, tak
+to byla jako pro nás
+velká výhoda, když jsme přijeli
+na Figmu. Hele, ještě dořeho skočím,
+když jsme spolu dělali tenkrát před
+mnoha, mnoha, mnoha lety, co jsi ty
+používal za ten nástroj na ty wireframe
+to byl sketch, nebo co to bylo? Ne, to byl
+balsamik. Balsamik!
+Jo, já jsem to nedávno hledal v pavnití
+říkám, co to bylo za tool, to se
+používá ještě, nebo žije to?
+Je to jako moje srdcová záležitost, já to mám
+fakt krát, ale už jsem ho nepoužil
+podle mě tak rok a půl, možná dva
+Jsi ho měl do salátu, ne?
+Jo, to bylo ono, no.
+To dělá taková parta, nevím jestli tady ještě jsou
+pořád tak malý, ale taková jako fakt partnička
+nadšenců, moc se mi líbil ten jejich příběh
+a to je jako hodně jednoduchý nástroj, ale
+to je to taková jako alternativa
+řekl bych o trošku
+víc
+jako uživatelsky procítěnej
+tuška papír
+tuška papír to je opravdu jako základ
+a tohle už se teda dělá na počítači
+No to má i ten design takový, jako bys to kreslil ručně
+Což má teda velkou výhodu pro toho UX designera
+hlavně v těch počátečních fázích, protože
+není nic horšího, řekl bych, že se to stává
+jako, to je takový ten hřích toho začínajícího
+UX designera, nebo i vizuálního
+designera, když tam přijde a teďko
+on jim tam dodá ten design a ono to je obarvený
+a má to všechny ty linky
+a používá to všechny ty komponenty, protože
+dneska všichni mají tu komponentovou library
+A oni už si zvyknou, víš, jak to?
+No, jako zvyknou, ale hlavně
+se všichni začnou dohadovat o tom, jestli ten
+search box má být napravo nebo nalevo
+a jestli má mít jako takovýhle zrovna
+velikost, ale to přece vůbec
+není to, o čem jsme se chtěli bavit v tu chvíli
+V tý chvíli jsme chtěli řešit
+jestli vlastně tady ten typ
+UI, který vůbec splňuje ten use case
+jestli vlastně to, co jsme chtěli, to tady
+ty požadavky, co jsme na to měli, tak jestli opravdu
+to splníme
+tím, co jsme si tady jako připravili
+jde nám možná dokonce o nějakou cestu, možná, že tam
+ani žádný wireframe být nemuseli, že to mohlo
+být jako jenom popisem
+nebo ukázka nějaký, nějaký jako storyboard
+takže vlastně jako čím
+seniornější jsem a nemyslím si o sobě,
+že jsem nějak extrémně seniorní
+ale čím díl v tom doboru jsem
+tak tím jdu jako zpátky víc k těm kořenům
+takže tabule
+dneska teda v době jako covidu
+a těch remote officeů, tak je to
+hodně miro
+na tabletu něco načmárat, ale
+to není jako žádný grafický tablet
+to je opravdu úplně ten nejtypičtější
+tablet, tuška, něco tam
+rychle načmárat, předat tu myšlenku
+dohodnout se, jestli to je ta cesta, kudy chceme jít
+a já už jsem v tu figmu
+jako otevřel jsem ji za poslední rok
+ještě xkrát, ale
+naposled jsem ji dělal jako design
+to za poslední rok
+asi jednou
+No, teďka tak ty vlastně si mluvil o tom, že
+ten Balzamix jsem měl rád z toho
+důvodu, že řekněme
+popřel
+to, že tam je nějaký design jako grafickýho typu
+nějaký barvičky, nějaký fonty
+od začátku tím, že bylo, že mě to neumožňoval
+že řekl, tohle neřešte
+proto neexistují jako tool
+ale u té figmy, co já jsem viděl
+když jsem s tím na posledy pracoval
+a není to tak dávno, tak tam mám pocit, že
+se zase vracíme k tomu, že ty lidi
+byť iteriou jako všichni
+ale iteriou už nad poměrně finálním
+produktem, z hlediska toho, jak to vypadá
+že už tam jsou finální barvy, že už tam jsou
+kolikrát finální CSS
+kolikrát se to vygeneruje
+nebo vyexportuje do různých
+formatů pro
+ty různý role v rámci toho projektu
+nepopíráme
+teda tímhle s tím, že teď frčí
+figma zase to, že bychom možná měli
+zapomenout na ty barvy a zapomenout
+tak si říká, jestli button je vlevo nebo vpravo
+ale spíš se jako věnovatý flow
+nezabíjí tohle ta figma?
+Tohle je podle mě vždycky o těch lidech, kteří
+to používají. Ten nástroj samotnej
+za to nemůže, to je prostě takový, to dali jste
+mi do roky kladivo. Tak se nedívte, že
+buším. No, ale
+to kladivo za to nemůže.
+I v té figmě je možný začínat
+od nějakých jako naivních
+nebo nějakých opravdu drátěných modelů a postupně
+to dělat tu evoluci
+toho designu. To, že
+to samozřejmě svádí k tomu,
+že když už tady mám naimportovanou tu
+knihovnu, o kterou se stará ten tým lidí,
+tak proč bych ji nevyužil, proč to musím dělat znova?
+Tak to je jiná věc.
+Ale i v té figmě je spousta
+knihov, jen spousta doplňků a věřím,
+že jsou tam i takový, kteří vlastně jako
+mokujou ten
+stav třeba z toho balsamiku.
+Vím, že třeba kolega, koled
+asi nějakou takovouhle připravu taky měl v oblivě balsamika
+a ten tool jako takovej
+není určený dneska už
+pro tu kolaboraci, není
+tak jako vyspělej, takže ta figma
+nabízí hodně možností navíc. Takže on si vlastně
+vytvořil takovou pseudo knihovnu, kterou si do té figmy
+naimportoval a vím, že v ní
+takhle jako s těma zákazníkama začíná, když s těma
+dělá zákaznícky projekty
+a baví se o těch prvních iteracích
+dashboardů, tak začíná tam. A nebo
+to mi rovnou, to je jako taková alternativa.
+Teďka ve světě vývojářů
+je obrovská móda, teda teď je to
+jako obrovská móda všude samozřejmě s AI,
+ale takový ty pomocníci,
+takový ty kopájeloti a tyhle ty věci,
+což pro vývojáře je super věc.
+Má něco takovýho
+UX, DX, designer
+k dispozici takovýhle AI tool,
+který ti pomáhá
+s tou rutinou?
+No,
+vím, že jsou zase plug-iny do té figmy,
+který nějakým způsobem s tím pracují.
+A podle mě je to tak jako na začátku,
+začínáme si s tím spíš jako hrát,
+hledáme tam ty use cases,
+samozřejmě viděl jsem všechny ty videa, kde dneska
+produktový manažér nakreslí, nakreslí
+na papíry, kvotkafe
+nějaký UI-ko a řekne
+chat GPT, nebo chat, nebo
+GPT.
+A řekne, heleť, tak teďko
+mi s toho udělají. A ono mu to opravdu složí
+CSS-kový kód.
+To je strašně cool. Mě to teda
+jako ze všeho nejvíc připomnělo časy
+Java Swing, kde jsem měl pocit,
+že přesně takhle jako to fungovalo a to
+jako z toho lezlo úplně jako šílený.
+Takže jsem fakt zvědavý, jak
+jako optimalizovaný ten kód jako z tohohle
+bude lézt, ale věřím tomu, že tohle se vyřeší.
+Ale
+vlastně, jestli
+kdyby ta otázka směřovala na to, jestli
+se bojím, že mi třeba jako umělá
+inteligence sebere práci, tak to je něco,
+co jsem viděl na konferenci
+řešit už cca
+pět let zpátky. A já
+s toho upřímně jako strach nemám. Já mám
+naopak pocit, že mě to tu práci může ulehčit.
+Že mi to může přesně zbavit ty repetitivní
+části.
+Na co se mi to docela líbí dneska je
+vlastně nějaký generování zase jako
+kopy textů. My ta nemáme
+jako v Google Data dneska explicitního
+copywritera, tak si s tím jako hrajem.
+Ale pořád to není
+něco, co by šlo jako přes
+nějaký chat GPT nebo přes něco takového.
+A rovnou to šlo do produkce. Pořád je tam jako review.
+Ale takový ten první nástroj toho, kde
+vlastně člověk cítí, že
+tam vytuhne na dlouho.
+A ve skutečnosti to nepřidává žádnou
+velkou hodnotu, tak tam je to super.
+Je fakt, že místo takových těch lorem i psům
+generátorů už můžeš si nechat vygenerovat
+text, který dost možná bude tak dobrý,
+že ho tam ve finale necháš na těch stránkách.
+Jo, jo, jo. Už tam nebude muset být tady toho.
+Jo, jaký placeholder prostě.
+Ale dovedu si představit to, co říkáš, že budeš mít na jednou
+vlastně nějaký flow a ono ti řekne, hele tady
+v tom flow bych třeba navrch jako zjednodušení
+nebo vlastně nějaký jako ty různý věci.
+Ty budeš kurátor té věci, to znamená ty rozhodneš,
+jestli ano nebo ne, ale že to je já jako
+tím může tu situaci spíš zjednodušit,
+než by tí komplikovalo. To taky nemyslím si,
+že se stane.
+Který třeba typický vývojář nevidí,
+protože vývojář vidí, hele je tu button
+a teď ještě já ho budu muset oživit, protože
+oni když kliknou, tak na back-endu se má něco stát.
+Ale musí toho tam být víc, je to tak.
+Jo, já se tady rovnou,
+já nevím koliká ta je minuta,
+tak já už se jako vymezím a řeknu, že já
+teda vlastně jak vůbec ty bugy neřeším.
+Neřešíš. Já bych je řešil maximálně
+způsobem nějaký accessibility,
+ale neřeším
+vlastně naší kolot,
+brand paletu,
+tak tam jsou vyrůženě vizuální
+designyři, kteří vlastně s tímhle pracujou
+a já jsem tam daleko víc o to, abych se
+opravdu staral vlastně
+o ten prožitek toho uživatela, o tom, aby
+vlastně jaký on z toho má pocit, jestli se mu to
+používá dobře nebo ne. To je to, co myslím
+právě. Takže ty třeba řešíš víc
+tu flow, než to jestli tam je
+tabulka a dva buttony? Jo,
+přesně tak. Ok. A k tomu,
+aby tu flow si správně
+nadesignoval, ten proces
+myšlenkové je jako
+máš nějakou, jako řekněme,
+jako u filmů si jim říkáte storyboard,
+nějakej prostě, jako že jdu od A do Z
+a ty u toho softwaru si řekneš
+dobře, tak teďka chceme, aby fungoval
+dobře, nevím, export do PDFka, nějaká taková
+kravina třeba, nebo prostě export někam.
+Tak ty vymyslíš, jak by ty kroky
+měly jít po sobě, aby to bylo co nejpříjemnější
+nebo jaká je vlastně to
+gro tý práce?
+Jo, bych řekl, že jako
+mrtivá většina tý práce je vlastně ta komunikace
+okolo, což je pořád,
+když to dělá člověk sám pro sebe, tak
+super, ale když ta firma má hodně lidí,
+tak už je tam hodně komunikace
+a já jsem
+vlastně jako UX designer, ale i
+já konkrétně, tak hodně se
+účastníme tý části, kde vyřešíme vlastně, co
+chceme řešit, což dneska je to
+takový ten buzzword, říká se
+tomu product discovery,
+pak, ale pomáháme jako
+UX designeri s tím, když už se
+jako vymyslíme, co jsme chtěli vyřešit,
+dejme tomu, to jsou ty exporty do toho PDFka,
+tak i tu část
+jak, takže my jsme jako
+komunikační pojítko
+mezi tím engineeringem, mezi těma
+developerama a z druhé strany zase mezi
+product managementem, kteří vlastně se
+starají o ten produkt jako takovej,
+aby jako splňoval ty
+KPIčka, splňoval ty OKRs,
+já nevím, jaký všechny frameworky ještě dneska existujou,
+vlastně, aby to
+neslo peníze typicky,
+a z druhé strany je ten engineering,
+který se zase typicky snaží o to, aby se jim to
+dobře vlastně v tom pracovalo, aby
+byli schopní škálovat ten produkt,
+a mezi tím
+jsou ty designeři a ty říkají, no tak
+se o tom pojďme pobavit, pojďme vymyslet, co je
+ten nejlepší způsob, jak toho dosáhnout,
+a zároveň se ještě snaží, aby to ty uživatele
+ještě chtěli jako používat, to je ideální.
+Nemusí to tam být vždycky, mně přijde,
+že jako ty lidi, nebo ty designeři okolo toho
+bývají jako dogmaticky a říkají, já jsem ten
+hlas toho uživatele a já tady potřebuju
+být jako vyslyšenej,
+je to vždycky
+v nějaký domluvě, a třeba ta firma nemá
+strategii, že chce být pro všechny,
+že chce být jako co nejvíc inkluzivní,
+může chtít fungovat jenom pro určitou
+sortu lidí, pro určitou jako
+skupinu, nebo
+může říct, heleď mi tady vlastně
+jako umyslně tady do ty části nechceme
+investovat moc
+vlastně zdrojů pro ten co nejlepší
+uživatelský zážitek, no a pak ten designer
+tohle, když ty firmě je, tak
+to jako musíš respektovat, že
+třeba tady zrovna, nevím,
+managementi konzole nedostane
+tolik lásky, jak říkají
+developeri. A nebolí to potom,
+nebolí to potom, když vidíš, že ty potřeby
+jsou jako jiný, když ty byste ještě tak jako
+vyvoněl a už to jako nejde, protože
+nejsou ty finance a zaměřuje se to
+jinam potom. Může to bolet?
+Tak může to vyvonět v osobním čase, ne?
+Jasně, jasně. A pak to jako ještě,
+a tady ještě, pane řediteli, ještě jsem
+chtěl vám ukázat jednu variantu.
+Tak já teda většinou ty designeri ten přesah
+do toho, že by bylo, že něj ještě zakomitoval
+nějaký změny, ten tam úplně není, takže
+když tam takhle jako podstřím ten
+vajfkem a řeknu, tady jsem to chtěl ještě vyvonět,
+tak myslím si, že to tam jako skončí.
+Myslím si, že žádnýho designer nebaví
+dělat se do šuplíku. Jasně.
+Hele a stalo se vám někdy naopak, že jste si řekli
+do téhle oblasti my vůbec nebudeme investovat,
+tam bez tak nikdo nepoleze a pak jste zjistili
+z trafiku, že půlka lidí lezla jenom tam,
+jako nebo plácnu, půlka samozřejmě
+to je moc, ale že třeba nějaká taková
+ale skrytá fíčura, kterou jste nechtěli moc
+propagovat, tak byla objevena
+a vyrostla? To je
+hezký dotaz, ale upřímně si
+teďka na nic nespomenu.
+Možná jsem vám tady za pár minut přihlásil
+a řeknu, ježiš, teďka jsem... Můžeš, kdykoliv, kdykoliv
+se přihlásím. Ale teď mi nic nenapadne, teda.
+V pohodě, tak než ti to napadne,
+ty jsi zmínil ještě jednu věc a to je
+product discovery. Můžeš
+vysvětlit pro tupce mého typu, co to
+vůbec je?
+Jo, a tím vůbec nechce naznačit,
+že seš tupec. To řekl Román.
+To jsem řekl já, já si, to je v pohodě,
+já si můžu nadávat sám sobě, jak chci, to je moje výhoda,
+že jo, to jako nikoho neuráží a
+můžu sám sebe dehonestovat, jakkoliv
+chci, takže v pohodě. Ale superdatas, protože
+to teď hrozně rezonuje.
+Jo, já jsem koukal minulý týden, bylo WebExpo
+a koukal jsem, že tam na to bylo taky x
+nějakých přednášek. Takže co to je?
+Šup. Jo, jo, jo.
+Já tě nechci
+vystresovat, víš, jak se vyleká,
+ale já no úplně jsem vdychtivý
+tý informace. Jo, jo, jo.
+Já to trošku natahuji.
+Ta product discovery je to opravdu
+o tom vlastně, když hledáme,
+co budeme dělat, takže jak jsi tam začal
+šerchnovat s tím slovem co,
+to je to ono. Takže to je to co?
+To je to co, takže opravdu typicky
+ta firma přijde, já nevím, nějakej ten
+sabat, někde se sletí a
+vymýšlí ty OKRs a vymýšlí
+vlastně, kam ta firma má jít, má nějakou vizi
+a teďko oni teda ví, že by
+něčeho chtěli dosáhnout,
+bývá to, jako řekl bych,
+v nejlepším případě,
+se to nechá nějak změřit, toho, čeho
+chceme dosáhnout. No a teďko je to
+na těch týmech, aby se dostali k tomu,
+co teda mají dělat,
+aby to dosáhli
+a to typicky bývá,
+nebo to je nejlepší praktis
+v dnešním světě,
+která se doporučuje také, že by se tam měl
+právě podílet, že by tam měla nastoupit
+ta product discovery a vlastně si dívat,
+jak ten produkt, v jakým směrem ho
+upravit, nebo co tam přidat, tak,
+abychom dosáhli toho cíle,
+že hledáme, co vyvíjet,
+no a pak nastoupí ta product delivery
+fáze, kde se řeší to,
+jak to vlastně implementujeme.
+Tím, že ono to je
+product discovery framework, tak předpokládám,
+že už k tomu existují
+nějaká pravidla
+nebo sada nějakých nástrojů, sada nějakých
+možná i ověřených metrik, který
+na tom musím použít, abych teda šel
+správným stylem, je to tak?
+Jo, jo, jo, je to tak.
+Já jich
+pár takhle zmíním, čímž ale neříkám,
+že jsou to ty jediný a jediný správný,
+je to spíš něco, co dneska jako nejvíc
+rezonuje, hodně to staví
+na takovým, tomu říkají product discovery
+trio, což úplně
+neříká, že už nikdo jiný
+se tam nemůže dostat, ale typicky
+to je ten zástupce toho UX designu,
+nějaký zástupce engineeringu
+nebo technické, ten je tam typicky nějakou
+feasibility, ten UX jak je tam zase ten hlas
+toho uživatele, aby ten
+prožitek odpovídal tomu, co jsme
+od toho chtěli a ten
+třetí člověk bývá ten produktový manažer,
+který vlastně má na strosti v tím způsobem
+jako vlastní ten produkt a
+měl by vlastně zodpovídat za to, kam se posouvá.
+A vy když vymýšlíte, co
+v tom produktu bude,
+tak v rámci toho product discovery
+já předpokládám, že to je jako začerovaný
+nebo začerovaný, to je správný slovo,
+že to je prostě kruh, že to je věc, jako že
+to ověřím, rychle otestuju
+a pak teda jdu zpátky a měním
+třeba nějaký svoje assumptions, nebo
+má to, je tam nějaký cyklický
+vývoj zatím? Jo, je, mně se líbí
+jak jsi zmínil to slovo assumption, nevím
+jestli už jsi jako naprýfovanej
+právě tou discovery, nebo tě to napadlo?
+To mě napadlo samozřejmě.
+Já jsem s tebou vždycky rád pracoval.
+Děkuji, děkuji, já taky, děkuji.
+Ta genialita se nezapře.
+No, takže
+tam opravdu je to jako hodně
+je tam ten krátký feedback loop,
+na tom to staví a co třeba pro mě bylo
+novýho, protože
+vlastně typicky ten proces,
+co budu říkat, oni to obšlehli
+od právě od toho UX designu.
+Dneska, když se říkne něco jako
+design thinking, design proces,
+tak bych řekl, že to obsahuje
+většinu toho, co dělají ty produkťáci.
+Já je mám jako ve velké úctě, ale
+tohle prostě si tak jako převzali
+s toho UX designu, který má trošku asi
+jako delší tu historii.
+A
+právě, co
+tady jako novýho, co mě třeba
+jako předtím úplně nenapadlo, nebo
+jsem se s tím nesetkával v tom UX designu, typicky to
+probíhalo tak, že
+uděláme, řekneme si
+nějaký ten cíl, chceme něco, nějakou feature,
+udělá, teďka nastoupí ten designer, tak to
+jako nakreslí a teďko oni mu řeknou, heleď,
+nakreslí ještě jednu
+variantu, tak on nakreslí dvě varianty
+vlastně toho samýho a teďko se to
+testuje a zjišťuje se, jaká třeba funguje líp.
+Udělá se ten usability
+test nebo ten hallway test a
+pak se to jako, se řekne, heleď,
+tak jo, tak tohle fungovalo tady, tohle tady,
+nějak se to zmerčuje dohromady
+a jde se to vyvíjet. A to je takovej ten,
+jako by řekl, hodně jako
+pipeline-ovej proces nebo takovej ten
+typický proces. A ta
+product discovery
+vlastně dneska přichází právě s tím,
+že se možná nemají úplně testovat ty
+prototypy nějaký jako solutiony,
+kterou už jsme si jako mysleli, že to bude
+export přes kliknu na tlačítko
+a řeknu exportuj takový a makový.
+A dneska se daleko víc pracuje s něčím, čemu
+se říká Opportunity Solution 3,
+co znamená, mám tam nějaký jako cíl,
+to je takovej ten
+kořen toho stromu nebo
+takovej ten základ.
+A z toho jdou ty listy,
+dejme tomu, to jsou jako na první úrovni nějaký
+opportunity. Ty typicky
+ten člověk nebo ten produkták
+tak jako si postupně zbírá
+vlastně feedback od zákazníků
+nebo kde naopak vidí konkurenční výhodu
+a teďko máme
+třeba konkurenční výhodu, která nám umožní
+splnit ten cíl, tak
+cíl může být, že chceme být atraktivní
+pro developery a my vidíme,
+že už dneska používáme tady nějaký
+naše speciální SDKčko, tak my už máme
+jako konkurenční výhodu oproti ostatním,
+tak ta oportunita může být, že jestli ještě
+chceme zvýšit ten dosep pro ty developery, takže třeba
+zlepšíme to SDKčko.
+A nebo to může být zase nějaký jako detraktor,
+který nám brání v tom rozletu
+nějaký stížnosti těch zákazníků,
+takže z toho skládáme
+ty opportunity a každá ta oportunita
+se potom ještě může mít jako x nějakých
+solution, jak bychom
+konkrétně, co to vlastně znamená
+zlepšíme SDKčko, tak tam
+může to být zlepšení jenom dokumentace,
+protože zjišťujeme, že sice máme konkurenční
+výhodu a že ty lidi vlastně
+nejsou schopní jí pochopit,
+nebo to může být o nějakých marketingových
+materiálech, nebo opravdu přidáme jako funkcionalitu
+SDKčko, případně vydáme úplně
+jiný SDKčko, protože máme třeba jenom jedno
+developery, mají jako preferenci v jiném
+jazyce. A
+nad tímhle,
+tohle teď, kdybychom chtěli otestovat, tak se dostaneme
+k stromu, který mám 40
+solution. A my chceme zvednout to
+KPIčko, nebo je to nějaký kvartální
+plán, a máme 40
+solution. Tak jak zjistíme, jaká z nich je to
+zlatý vejce, protože my hledáme ty zlatý vejce přece.
+No a tady nastupujou ty
+assumption, jak Roman teďko vymyslel.
+Super, děkuji.
+Až tam na to dám kopirat.
+A vlastně takže si
+jako rozebereme ty solutiony, který nám
+dávají největší smysl.
+A řekneme si, co by vlastně muselo platit,
+aby to jako sedlo,
+aby to zafungovalo.
+Tak to assumption musí být, že
+člověk, nebo ten developer
+bude hledat tu dokumentaci,
+nebo že když
+budeme chtít vydat to nový SDKčko, tak tam může být
+assumption, že je jako
+hodně lidí, kterých stojí o ruby.
+Plácnu, nevím, proč změnil
+dneska už po druhých ruby.
+Taky nevím.
+Nikdy jsem v ním nedělal.
+Tak nevím. Třeba ti to láká.
+Asi jo, asi jo.
+Nějaká taková ta jako skrytá, latentní potřeba
+prostě psát ruby. Přesně tak.
+Takže
+a tady ty assumptiony si pak dáme na jednu hromadu
+a vlastně teďko si řekneme, hele
+a teďko my bychom chtěli vlastně otestovat ty assumptiony.
+Nebudeme testovat žádný konkrétní design,
+ale
+uděláme si třeba výzkum,
+budeme se ptát tě lidí na otázky,
+nebo si uděláme nějaký jako wireframe,
+nějaký opravdu jako flow něco,
+ale cílem nebude jako otestovat jednu z těch solution,
+jednu z těch 40, ale pokrýt
+ty nejdůležitější assumptiony, který máme.
+Takže my připravujeme dneska třeba
+prototypy, kteří testují ty assumptiony samotný,
+ne žádnou konkrétní solutionu
+a na základě toho, který ty assumptiony nám fungují
+a který ne, tak potom můžeme
+odřezávat celý kusy těch stromů.
+Takže nám z toho stromu,
+který měl 40 solutions, bydou tři
+a ty potom třeba můžeme ještě otestovat
+konkrétní už tři solutiony, víme, že ty mají největší perspektivu
+anebo už si z nich
+jednu vybereme.
+Tak jak o tom povídáš, tak já jsem měl
+pocit, že ten původní
+proces,
+kterým jste šli,
+tak se hrozně rychle uzavřel. Řekli jste
+tři solutions a už jste šli tím směrem
+a už jste moc nekoukali doleva a doprava.
+Teď je takový jako košatější
+a filtrujete to přes ty assumptiony na něco,
+co ve finále by mělo dávat
+větší smysl pro toho zákazníka, aby ten produkt byl
+prostě lepší. Jo, já když já jsem začínal
+teď, už to bude nějakých deset let
+pomalu s tím UX designem, tak to přesně takhle bylo.
+Ke mně jako k designerovi
+tak pracoval jsem v korporátu.
+Ale pořád jsme říkali, že jsme jako startupový korporát.
+Roman, když tak může povědět, jak to u nás vypadalo.
+No jasný šmariát.
+To strašně bolí.
+Já se omlouvám posluchačům.
+Tak tady se otvírají starý rány nožem.
+Prostě rezavím.
+Tak tam to každopádně bylo tak, že už se k nám
+jako dostalo, asi ke mně jako
+k designerovi, už se dostalo k rozhodnutí,
+že budeme dělat takovouhle
+featureu. Jakou konkrétní jednu solution.
+A už předtím někdo prostě si řek
+nějakým způsobem, že odcekal všechny ty ostatní
+další možnosti.
+Takže se hned na začátku udělal několik řezů.
+Nevím, setkal se v bandách těch lidí
+a ty to odcekali.
+Designerovi se dostalo, tak ty budeš dělat export do PDFka.
+On připravil dvě možnosti
+a zase jedna z nich se jako zařízla hned.
+Nebo velmi brzo
+mohl připravit nějaké jako prototypy.
+Ale dneska ten rozdíl
+opravdu vidím v tom, že napřed se na hromadu dát
+jako všechny ty možnosti
+a pak se hledají ty nejvíc perspektivní.
+Zatímco když to hned na začátku začne řezat,
+tak je velká šance, že tě vlastně
+uteče ta, která by opravdu byla
+jako perspektivní.
+Že jestli si ji tam někdy jako omylem zahodíš,
+protože si je nedá všechny na ten talíř.
+To mi dává velký smysl.
+Je na to nějaký, doporučil bys nějaký
+zdroj, kde se o tom člověk může něco zajímavého dočíst.
+Protože mám pocit, že to teďka začíná
+rezonovat i ve firmách, jako je ta naše třeba.
+Že si začínáme tím produktem,
+či klient občas opravdu přijde s ptákovinou
+a je potřeba jako ho
+aspoň minimálně mu ukázat, že ty cesty
+můžou být jako zajímavější.
+Dneska podle mě
+takový jako největší ambasador
+téhle myšlenky je Teresa Torres.
+Takže já bych doporučil,
+myslím si, že se to jmenuje Continuous Discovery Habits.
+Jestli se nepletu snad.
+Snad ne.
+Takže Teresa Torres, určitě největší
+propagátor. A ono to, jestli se nepletu,
+tak to vychází z těch knížek
+od Marty O'Kagan, tak to je takový
+jako produktový manažerský guru
+a celý to Silicon
+Silicon Hill.
+Ne, Silicon Valley. Si pletu Silicon Hill,
+je tady Strahov.
+To je lepší.
+To je blíž.
+Jak jsem tam dlouho žil, tak
+mi to zůstal v paměti.
+Silicon Hill je Strahov.
+Já jsem taky nevěděl, to je dobrý, to jsem líbí.
+Nakolik, tak Silicon Hill a celá ta
+společnost nám a ty zajišťování,
+ty sítě, měli jste tady mimochodem někoho,
+jestli se nepletu, kdo to dělal.
+Tak to se jmenuje Silicon Hill.
+Hezky. Každopádně Silicon Valley
+je product manager, myslím, že se jmenujou.
+SVPM.
+Takže tam bych se určitě podíval.
+Tank Agent, to je myslím takový to Inspired,
+Empowered, takový jako krásný názví
+těch knížek. Ale určitě bych začal
+tou Terezo Torres, která
+mi přišla, že to jako nejvíc vzala
+jako uceleně, ta knížka není nijak dlouhá,
+je to hodně čtivý. Takže tam
+bych šel pro inspiraci rozhodně.
+Já se ještě zeptám, jak do tohohle celého zapadá
+Design Sprint,
+což je praktika, kterou my tady ve firmě
+poměrně často
+používáme a z mého pohledu
+teda já jsem skoro tady tlačil,
+aby se tím musel povinně začít
+skoro každý projekt,
+ze kterého smrdí to, že to je víc než jenom
+nějaký interní tool pro
+interní potřeby toho zákazníka, když to vypadá
+jenom trošku produktově a nemají
+to úplně promyšlený end to end, že bychom
+na ně měli naskákat s tím Design Sprintem.
+Jaký ty máš třeba zkušenosti
+s Design Sprintem a je to
+zase v mém vidění, jako
+je to pod
+proces nějakého toho Product Discovery
+nebo je to věc, která ho doplňuje
+nebo kam vlastně do téhle mozaiky
+toho zjištění, co zákazník chce, kam to zapadá?
+Jo, to je skvělej
+dotaz, to se mi moc líbí. My tam
+Design Sprint občas taky praktikujeme
+a řekl bych, že v poslední době právě s tím příchodem
+Product Discovery, tam
+toho prostoru pro Design Sprint jako
+takové je míň, ale v zásadě
+zase Design Sprint je jako sada technik,
+která se vlastně použije, objeví se tam
+uživotelský testování, dost často je tam na začátku
+ať už interní nebo externí výzkum,
+je tam nějaký alignment,
+je tam ta fáze, ty
+diverkence, kdy každý dělá ty, navrhne
+to řešení, jaký si myslí, že je nejlepší
+a pak zase konverkence přes to testování.
+Takže mně se ta
+technika jako taková moc líbí,
+ta Discovery vlastně
+spoustu z těchto věcí zase si bere
+a nechá se začlenit ten Sprint
+jako součást té Discovery,
+ona úplně ideálně je,
+a my tam nejsme, prosto upřímně,
+my tam jako dneska nejsme, je
+ta Discovery si dělá jako kontinuální, tam je
+ještě to slovíčko Continuous Product Discovery.
+To jsme zjistili,
+že je pro nás poměrně složitý, myslím si,
+že hlavně tím, že jsme jako v B2B segmentu,
+prostě bejt schopný
+s těmi zákazníkama
+na nějaký týdenní
+bázi, ještě třeba per tým,
+tak můžeme mít, řekneme, deset týmů
+k jednou týdně se
+zákazníkem v kontaktu, tak to je bloce
+ca. 40 zákazníků, kteří jsou s náma ochotný
+se jako bavit opravdu,
+tak je to poměrně složitý tohle
+nastavit, takže
+my dneska jako víc děláme
+tu Product Discovery na nějaký konkrétní téma,
+vlastně podobně zadaný jako ten Design Sprint.
+Takhle mně přijde, že ten Design Sprint jako takovej
+bývá ještě jako víc
+úzce zaměřenej,
+že tam opravdu už se jako bavíme dost často
+o nějaký solušně, já si pamatuju ty příklady
+z toho Google Design Sprint
+knížky, tam dělali nějakej ten
+web pro ty kafé, si se napletu
+a takovýhle věci, tak tohle bývá
+ještě jako o trošku otevřenější, protože tam začínáme
+vyložit nějakým KPIčkem nebo OKR
+a říkáme, něčeho chceme dosáhnout
+a
+teď jako teprve začneme přemýšlet,
+jak se k tomu můžeme dostat a
+vlastně co konkrétně máme dělat
+u toho Design Sprintu, já jsem to víc
+jako vnímal, zase
+spíš jako je to víc zlimitovaný asi tím časem,
+tam je ten Design Sprint typicky
+bývá týdenní, my jsme si třeba na to
+prodali Discovery, když máme takovýhle jako větší téma,
+jako honosnější,
+tak si na to dáváme třeba i měsíc,
+ale jako může se to překrývat,
+my tomu jako za potom toho měsíce tomu říkáme
+Design Marathon, už nám bylo blbý říkat,
+že jako sprintujeme měsíc,
+no ale v tom případě
+teda jak to prodat pak tím
+zákazníkům, a teď nemyslím prodat,
+abychom na tom vydělali, ale to, aby to chtěli,
+protože jeden z typických vždycky
+kontraargumentů proti
+Design Sprintu je, no ale tyjo, teďka týden
+tady budeme jako, vlastně nebudete
+vyvíjet, teď tady týden budeme zavřený,
+teď tady budeme v úzovkách jenom jako přemýšlet
+a to je dost peněz. A ono samozřejmě
+najednou stanou to jako dost peněz.
+U toho Product Discovery,
+tak jak to chápu, tím, že to je Continuous,
+tak ono vlastně to jako může bejt
+trvat, buď tyhle z ty maratony,
+nebo to může bejt ještě delší. Jak to teda
+jako prodat?
+Jako obecně, jak tohle z toho,
+tuhle z tu praktiku, je to
+třeba to, že se to skryje
+v rámci vývoje,
+že vždycky nějakej ten den si zase
+jako vlezeme a budeme přemýšlet,
+co by se dalo zlepšit, nebo
+jde to nějak vůbec tahle časová nálečnost
+jako rozpustit. U toho teda Design Sprintu
+tam je to jednoduchý, tam je to omezený tím týdnem
+a tam víš, co prodáváš. Ale u tohohle
+Product Discovery, čímže jsi řekl, že to je ještě delší
+a že to je de facto nekonečný proces,
+jak to teda rozpustit
+do té ceny toho celkovýho vývoje,
+aby to někdo chtěl?
+Tady asi dost záleží na tom,
+co vlastně za software se dělá, tím nemyslím,
+jestli je to analytická platforma
+nebo něco jiného, ale
+tohle je fakt jako typický nástroj pro
+produktový manažery, jak vlastně
+hledat ty příležitosti, jak s tím pracovat.
+Takže my,
+který děláme kontinuálně produkt
+10 let, 12 let,
+tak je to vlastně jako nástroj, jak ty
+produktový manažery by měly pracovat.
+Pstyk se zákazníkem, to je to continuous
+na tom, jsem v kontinuálním
+styku se zákazníkem a
+dává mi to jen ten návod na to,
+jak vlastně sbírat ty podněty
+a potom, když přijde ta uzréta doba
+a někdo mi řekne, heleť, já bych teďko chtěl zlepšit
+tady tu popelku,
+o kterou jsme se doteďka nestarali,
+tak ten člověk už vlastně řekne, aha,
+tak já vím, tak si projde teďko ty
+starý rozhovory, nebo ty
+proběhly rozhovor s těma zákazníkama,
+má už tam vytipovaný místa, který říká, heleť,
+tak tohle by tady mohlo fungovat, tohle byla nějaká
+silná oportunita, která mě v té době třeba
+nezajímala, dneska už mě zajímá a složí
+si z ní ten strom. Pak ho ještě doplní,
+udělá si nějaký rozhovory interní,
+externí a začne jede ten
+Opportunity Solution Tree. Takže tohle je
+vlastně jako reaktivní, nebo může být
+jako reaktivní věc na to, když přijde
+ten objektiv, nebo ten key result,
+který ho chceme dosáhnout,
+tak takový to, aha, a co teď?
+Co mám teďko dělat, když si tady
+jako management vrcholovej uvědomil, že chce
+tohle? Já si nejsem jistý, jak aplikovatelný
+to je, to je
+třeba na nějaký software house,
+nebo na nějaký jako projektový vývoj, čímž
+neříkám, že to nejde. Podle mě je tam pořád krásná
+ta myšlenka toho assumption testingu
+a samozřejmě záleží na tom,
+s čím do toho jde ten klient,
+ten zákazník, který za to chce zaplatit
+a jak moc on už je jako
+přesvědčený o tom, že
+přece on ví, co chce.
+No, je to pravda, je to pravda a mám pocit, že
+jí tam jako pomocí nějakých dobrých
+příkladů, typicky mě napadá
+na naší poslední partnership konferenci
+James Lennon vyprávil o jednom hezkým
+příkladu, kdy klient přišel s hotovým produktem,
+vím přesně, jak to chci
+a on se začal ptát dobře, jak jste k tomu došli
+a zjistilo se, že nějaká máňa
+z jednoho oddělení někde zjistila
+tři věci a ten produkt nakonec
+úplně přetvořili díky tomu, že tam tu
+product discovery implementovali.
+No, takže jako, ale vždycky bude klient,
+který to nebude chtít.
+Ale je fakt, že u těch produktovek a u těch
+software houseů to může být jiný
+a že tam asi musíme popřemýšlet,
+jak tyhle věci aplikovat.
+Protože to hned otáčíš ty peníze.
+No jasně.
+Okamžitě, co mě to bude stát v té firmě,
+jsou to interní peníze,
+byť samozřejmě přechápu, že se to taky kalkuluje,
+ale je to trošku jiný case.
+Možná ještě poslední věc z tohle ranku,
+k tomu všemu nahrávám,
+mít na to nějakej super cool nástroj.
+Napadá mě nějakej product board
+nebo na co, jaký tool se
+zrovna tohle z toho hodí?
+Nebo jede to taky v miru?
+Předpokládám, v miru to asi jde taky, ale...
+Jo, jako pro mě je to spíš ten framework,
+ta metodologie, jak s tím pracovat.
+Ten nástroj je pro mě osobně potružnej.
+Jedeme to v miru.
+Ten product board si myslím, že je taky
+dobrý příklad. Myslím si, že je teda v jejich životním
+zájmu a že to opravdu dělají,
+že jsou takový ty evangelizátoři,
+zrovna ty product discovery.
+Takže oni jsou nástroj pro ty produktáky,
+takže by opravdu se měli
+snažit, nebo vidím, že tam
+je snaha tady ten trend
+razit a mít i tu podporu
+přímo v tom svým nástroji, v tom product boardu.
+Jsou určitě
+i další. Myslím si, že se to hodně překrývá
+i s nástrojima pro designery
+nebo respektive pro výzkum. Já jako
+UX designer nebo v GoodData jsou jako UX designeri
+dělají výzkum. Nemáme tam přímo
+dedikovaný lidi jenom na UX
+research. A zase část
+tý continuous product discovery je o tom,
+že opravdu se bavím s těma zákazníkama
+a umím si poznamenávat ve vhodným
+formatu ty věci, co mi vlastně
+ten zákazník říká.
+A potom se k něm zase musím být schopný
+vrátit zpátky. Tak jestli to potom už někdo
+dělá do PowerPointu, anebo jestli si to
+píše do měra, to už je na něm.
+Já myslím, že co se týče
+těchto věcí, které jsme do teď probírali,
+tak já jsem asi Tomáše vysál úplně
+řekl bych do mrtě. Takže
+Polly, tvé dotazy týkající se
+obecně GoodData, BI toolingu
+a tak dále. Pojď na to.
+Teď už máš konečně prostor. Já už jsem začal
+vysávat, za což se teda omluvám zpětně.
+Takže bych ma to jenom rád navázal,
+ale samozřejmě tak těch dotazů
+kolem GoodData mám mraky.
+První, co vlastně ty už si nastínila,
+to by mě zajímalo, jak dneska v té konkurenci,
+která tam je,
+vlastně GoodData dokáže přežívat
+to jako velmi dobře. Když jsem koukal na poslední
+Magic Quadrant, pokud budeme
+považovat Magic Quadrant za nějakou Bernouminci,
+což jako taky vím, že komunita
+se pře, ale jste tam,
+což je vždycky lepší, než tam nebejít za mě.
+A samozřejmě,
+jak bojujete s těma hlavníma,
+což podle toho Magic Quadrantu, když u toho zůstaneme,
+ty už to zmínil, Tableau, Power BI,
+je tam ještě Click, který teda
+já mám osobně hrozně rád.
+Tak jak v téhle, v tomhle
+moři prostě se neutopit?
+Jo, já na tom mám dvě odpovědi,
+tak si na ně počkejte dneska,
+jako na obě teda, prosím.
+Ta první je, já nevím, jestli sledujete
+teďko na jedničce,
+je ta série
+Volha se to jmenuje, znáte to?
+Slyšel jsem o tom, ještě jsem to neviděl.
+No, tak tam je ten Krištof Hádek,
+on tam hraje toho hlavního,
+toho standu Pekárka, a když se ho někdo
+zeptá na takovouhle krásnou otázku,
+tak on se vždycky tak zamyslí a říká,
+a můžu vám odpovědět proti otázkou?
+Což pak nevidíte,
+jak skvělý kolektiv tady máme.
+Tak to je jako taková ta
+odpověď, co jsem si říkal, že musím
+tady aspoň jednou zmínit.
+To je dobrý, to si napíšu.
+Puste si to. Zdobřele doporučuju,
+když tam má tyhle záběry a říká,
+můžu vám odpovědět proti otázkou.
+A teďko pojďme
+do té vážní odpovědi.
+Tak pro nás je to o tom, že hledáme,
+jak v té konkurenci
+uspět. A třeba pro GoodDate
+to byla nějaká změna strategie,
+kterými jsme se zaměřili právě víc
+na tu developer experience.
+My jsme vlastně řekli, hele, my už nejsme
+primárně ten nástroj pro ty
+lidi, kteří si to tady jenom tak chtějí
+naklikat, nebo už nejsme takový ten jako
+konzolidační bod, že end-to-end
+platforma, která to zařídí úplně od A
+do Z, všetně všech
+konzolidací, transformací a všeho.
+A daleko víc jsme řekli, hele,
+tady je něco, čemu říkáme
+Composable Analytics. Možná, že tomu tak neříkáme,
+možná, že s tím přišel ten Gartner,
+abych teď nevzal kredit někomu.
+Ale určitě jsme to byli my.
+Takže my jsme si tam našli to zase
+jako tu cestu. A ta Composable
+Analytics je právě o tom, že daleko více
+snažíme zapadnout na nějakýho stacku, který
+už je vytvořenej, což je něco, co
+dlouhodobě vidíme, když přijde
+nějaká nová evaluace
+a právě se takhle dostáváme do těch
+technických firm, tak oni jako typicky
+no tak my, nevím, plácnou
+teďko, my podporujeme
+Postgre, no ale my máme MySQL,
+no tak si to převejte na Postgre. Neřekne,
+jako vůbec nikdo neřekne, jako že
+vyvěží celý svůj stack
+jako předělat. To je ale dobrý nápad, pojďme zase.
+Přesně tak. Takže
+to je ta
+Composable Analytics, jako přepojit se do toho
+stacku, který už tam funguje, nesnažit se jim tam
+nutit jako svoje technologie, tam
+nějakým způsobem teďko jsme, a zase
+víc se jako přiblížit třeba i těm developerům,
+protože daleko víc vidíme vlastně DBT,
+nevím, jestli znáte nástroj DBT,
+jestli vám to něco říká. Mně ne.
+Je to jako nástroj právě, který
+je jako primárně,
+je to hodně o SQLku, je to o těch
+transformacích právě, a on jako
+udělal takovou jako, řekněme, revoluci
+v téhle oblasti, kde
+jako těch
+transformací, a je to
+primárně nástroj, nebo oni si přišli s tou personou
+a pojmenovali ji Analytics
+Engineer. A vlastně
+ten jako job tohohle člověka,
+nebo jak oni ho popisujou, a my jako máme
+jako velmi podobně zadefinovanou tu personu
+dneska, tak oni vlastně říkají,
+helejte se, to jsou vlastně původně
+ty data analyst,
+ty lidi, ty analytici, ale oni se snaží
+aplikovat software development
+nebo software engineering, best practices
+na to, co dělají. Oni nejsou typický
+jako úplně ty developři,
+kteří by vyvíjeli dotnetový aplikace,
+ale vlastně jako by hodně
+stáli o to mít všechny ten
+kód, nebo ty data, spíš ty data
+teda, než ten kód, tak mít to
+zdokumentovaný. Hodně stojí o to
+umět verzovat tu analytiku,
+jako co jsou tam ještě
+takový jako další, kolaborovat nad tu
+analytikou, mít
+možnost si udělat preview kdykoliv
+nad těma datama, nebo i nad těma
+metadata. Takže my vlastně jako
+přemýšlíme o tom podobně a snažíme se
+teďko právě vyvíjet nástroje pro tady ty,
+nebo ten produkt přizpůsobit vlastně
+tady těm lidem, těm
+analytics engineers.
+To je zajímavé, já jsem tady měl připravenou otázku, jestli to je tím,
+že třeba míříte na nějaký
+firmy geograficky, nebo
+jako určitým zaměřením,
+ale vlastně vy nad tím přemýšlíte na úplně
+jiný úrovni, jo, jakože, tak jak to
+slyším, tak jsi zmínil předtím Embedded
+nebo Headless, prostě koukáte
+na to, jak ten uživatel
+s tím potřebuje pracovat,
+s tím nástrojem a je vlastně jedno, jestli to je
+výrobní firma, nebo já nevím,
+prostě určitní firma, říkám to dobře, nebo?
+Jo, jo, říkáš to dobře,
+nám do daleko víc o ten use case,
+kde nejsilnější jsme určitě dneska v tom
+Embedded, to znamená, někdo
+to chce vzít a dát si to jako ideálně
+k sobě a chce, aby
+vlastně ideálně to oni chtějí, aby ty lidi nepoznali,
+že se používá good data.
+Jo, jo, jo, jo, jasně.
+Takže v takových těch webovkách tady je krásný dashboard,
+tak ve skutečnosti to je nějaký
+API, který leze k vám a vy poskytujete
+ty data, nebo celý už ten dashboard
+připravený?
+Jo, jo, přesně tak, úplně naivně, taková ta nejjednodušší implementace
+bude iframe, budiš mu země
+pardon, v pohodě, budiš mu země
+lehká,
+webkomponenty
+nebo reactivní SDKčko máme,
+takže těch těch možností, těch pajtní
+SDKčko, těch příležitostí
+je tam na mnoha úrovních hodně.
+A zůstává platný, že jste
+silný v US, nebo
+kde dneska vlastně ty zákazníky najdeme
+nejčastěji?
+Jo, US, určitě US,
+řekl bych, že poměrně
+jako Pacific,
+respektive Azie,
+ale i v Evropě máme zákazníky.
+Kolik vlastně good data má dneska lidí, jenom pro představu?
+Je to v řádu stovek,
+řekl bych, že dneska je to tak do pětiset,
+nevím úplně teď to konkrétní číslo,
+a z toho zaměstnaneckého čísla,
+co jsem dostal, já to asi moc nevyčtem.
+Ok, ok. Ale furt platí,
+že máte v sobotu zakázáno pracovat?
+Co si tak pamatuju, rozhovor s Romanem
+Staňkem, tak ten říkal, že vyloženě
+chce po svých zaměstnancích, aby
+v sobotu byli s rodinama a
+nesměli otevírat kom, říkali, že třeba
+samozřejmě v neděli, když už něco hoří,
+tak jo, ale že to má, že po tom pracovním
+týdnu, že ta sobota by měla být
+výsostnej čas
+pro tebe nepracovní.
+Platí to pořád?
+Já o tom nevím, ale já na to...
+Aha, tak promiň, ty jsi to nevěděl, tak máš volno v sobotu.
+Pro mě je to novinka, no.
+Ale já nejsem na žádný obsý pozici,
+takže já nemusím řešit tady
+ty hořáky těch...
+Já myslím, že on to měl obecně, že to měl obecně,
+protože zase známe obecně
+lidi z IT,
+že když tě nějakej
+problém opanuje,
+tak opanuje tě v pátek v pět,
+tak je hrozně těžký v sobotu
+v osm ráno na něj nemyslet, takže...
+Tohle já si pamatuju taky ještě, jsem to měl
+hlavně v HPčku a myslím si, že to je
+chyba teda. Jako upřímně si myslím,
+že to je strašně super tu myšlenku, jako
+v těch sobotu v osm hodin zmotnit,
+ale ze svý zkušeností můžu říct, že žádná z myšlenek,
+co byla zmotněna v sobotu nebo v neděli,
+se do produkce nedostala.
+To je zajímavá myšlenka.
+To je dobrý.
+No a já ještě mám jako jeden takový dotaz,
+který mám v hlavě dlouho
+a říkal jsem si, že ty bys mi na tom
+mohl najít nebo rozklíčovat tu odpověď.
+Já když koukám
+na ty moderní nástroje,
+zase podle nějakých rankingu,
+prostě Power BI, Tableau,
+Klik, tak oni jsou dost
+odlišní na straně toho
+UXka, nebo vůbec
+tak, jak se dají používat.
+Proto já miluji Klik, protože
+ty jejich dynamický filtry, kde já prostě vidím
+krásně celý dashboard,
+teďka mě zajímá jako
+nějaká
+věc, dejme tomu
+jenom lidi z dotnetu. Třeba když
+zůstanu u nás ve firmě, kliknu si na lidi z dotnetu,
+teď to prostě kombinuji s třema dalšíma
+filtrama a já si pak vzpomenu, že ten druhej
+filtr, který se tam zakliká, já nechci, tak já ho
+odkliknu a mám to zase
+zafiltrovaný bez toho jednoho filtru, který jsem si
+teďka vybral. Geniální věc, hrozně
+mě to baví. Power BI je skoro nemožný
+to takhle udělat. Je to fakt
+mnohem složitější věc. Je to něco,
+že to je jako vyloženě
+valid rozhodnutí nedělat
+to, protože už prostě to
+nevím, dneska není možný, nebo mají jiný
+klienty, nebo nevím, jak to
+podchytit, pojmout. Já bych tohle
+spíš jako přidal
+nebo
+pojmenoval, nebo přidal
+k těm, prostě k ty plný roadmapy.
+Já myslím, že dneska ty nástroje, teda
+bych se do toho nezamotal, že dneska ty nástroje
+moc dobře ví o tom, co ta konkurence dělá
+a jak fungujou a ty
+validní věci, co dostávají třeba
+jako feedback od zákazníků, že by tam chtěli
+taky, ale ten cross filtering, nebo
+obecní práce s filtrem, a to je jako jeden
+ze základních kamenů. A
+i třeba GoodData tam má jako
+nedostatky, nebo nemovíme
+o vlastně věcech, které bychom tam chtěli
+dostat, ale soutěží to prostě s prioritem
+a jako cokoliv jinýho, a loci v PowerPi
+aj řekli, že tohle, aspoň
+takhle já si to myslím, že
+tohle prostě pro ně nemá tu prioritu.
+Nemyslím si, že by tam bylo jako nějaký
+vyložení, může se stát, že tam bude nějaký technický
+omezení, ale spíš bych
+si řekl, že ne.
+No naráží to zase na nějaký to product discovery, co
+teda je vlastně důležitý a není, jaký jsou ty
+samšny, ale prostě tohle mě vždycky jako...
+Já jsem fascinovaný, jak to byste rozářeli
+očička, když jsi mluvil o nějakých filtrech.
+Teď to někdy ukážu, to se ti taky rozáře.
+Jako, asi ne, kámo, jo,
+prostě tyhle tak jako, je to hezký,
+jo, ale že bych tady slintel nějakých
+kliků, jsem si teda dělal, už nedělám,
+to začalo být čím dál složitější, ale
+to je nádhera pracovat. Tebe baví
+utrácet, protože pak to tam vidíš.
+Jo, takhle, abys měl nový řádky.
+To si myslím, že je ideální
+pro nějaký bankovní aplikace
+v tom případě, mě nelbí zapřemýšlet
+za dostatota. Já se na to pak podívám,
+Poli, ale myslím si, že tohle jako
+mysl sičku v očičku nevytvoří.
+Já si tady ještě neodpustím teda jednu poznámku
+k tomu kliku, já jako vidím, jak jsi z něho nadšený
+a to je dobře.
+Vždycky je to právě o těch personách.
+Přesně ještě už mu toho klikání, dej mi to.
+Měl až strašný bordel do toho mikrofonu
+s tím, jo, je to sliště, děkuji.
+Ježíš, tak to se omluvím. Ne, v pohodě, pokračuju.
+Tak,
+chtěl jsem říct, že zrovna u toho kliku je zajímavý,
+že oni se jako, na jaký ty persony
+se orientují, zrovna jednou jsem se tam
+u nich díval na ty, jak developer portály,
+jak to funguje, tak někde mi to vrátilo
+v čtyřstovku stránkou, už neexistuje,
+někde tam byl jenom nadpis, tak je vidět, že oni
+se prostě nezaměřujou dneska, nebo
+já si z toho vyvozuji, že se třeba nezaměřujou právě
+na tu developer personu, na ty lidi,
+kteří by to měli nastavovat, respektive
+si nemyslí, že pro ně, že by to nikdo měl
+nastavovat přes pomocí nějakého kódu,
+pomocí nějakých SDKček a podobně.
+Tomhle se ta naše vize, bych řekl, jako s níma
+zrovna míjí. My jsme šli
+jako daleko víc těmhle směrem a ještě
+k těm všem SDKčkům a tak, já jsem chtěl
+ještě zmínit jeden ten buzzword vlastně
+a to je Cloud Native, jestli tohle
+s váma nějakého rezonu. No jasně, tak to je
+klasika. Tak Good Data vydala tu Cloud Native
+versi, to je takový, jsou dva roky zpátky,
+jestli se nepletu. Takže jako my opravdu se víc snažíme
+přibližit ty komunitě, která rezonuje s váma.
+Viděl jsi Roman teďko Cloud Native,
+rozářel se oči jemu, když jsi mluvil o filtrech,
+tak ho to nechalo chladným. Jasně,
+nechápu, ale dobře.
+No super, a ještě
+taková otázka na závěr
+v téhle sekci, jaký tam vidíš
+nějaký jako trendy
+v tý UX, v tom UX designu
+pro business intelligence nástroje,
+jo, protože já z toho
+svýho pohledu, velmi zjednodušenýho samozřejmě,
+si říkám, jako všechny komponenty už jsou
+vymyšlený, jako ve finále dost často
+stačí sloupcový graf, teďka když se jako
+zaměřím opravdu na tuhle část, tak
+co tam vidíš zajímavýho, co nás
+čeká v příštích letech?
+Určitě si myslím, že to
+bude ještě prohloubení,
+jako o čem je ten BI nástroj,
+hodně je to o nějakým storytellingu, já chci říct,
+předat nějakou story, ani tak nechci
+předávat i konkrétní data, ale ty lidi nejspíš
+nad tím chtějí dělat nějaký akce,
+chtějí se podívat, jak krásně utrací a podobně.
+Takže
+dneska, co já si myslím, že tam
+bude dál, bude ještě
+užší integrace ty
+analytiky do nástrojů
+třetích stran, do nástrojů
+do nějakých vlastních aplikací. Myslím si,
+že čím dál méně lidí
+chce odebírat
+nebo chce sledovat nějaké dashboardy,
+takže ten směr bude, že to bude zaintegrovaný
+přímo do nějaké konkrétní
+aplikace. My už to vidíme v těch apkách typu
+Revolut a tak, kde ta analytika
+je tím prolezlá úplně celá, ale my si to
+nevšímáme, toho nevšímáme,
+protože tam pořád něco někde svítí,
+přichází mi upozornění, že se něco stalo,
+někde jsme hitnuli nějaký threshold
+a podobně, vidím tam výdaje příjmy,
+ale nevidím to už formou těch dashboardů,
+takže tohle si myslím, že je ten trend, který
+už tady je a bude pokračovat
+a druhá věc je
+určitě jako vliv umělý
+inteligence na
+vlastně tenhle sektor a co to vlastně
+znamená ty dashboardy vlastně
+jako, jestli já jako člověk ještě
+musím dělat, anebo už mi ta umělá inteligence
+v tom sama najde ty zajímavý věci.
+Takže ty filtry už budeš mít třeba
+předpřipravený, takže na ty výdaje
+on pozná, že v tvým je prázdno,
+ale přepne ti to na manželku a tam uvidíš
+ty tři stránky těch výdajů, takže
+já i budu vědět, jak tě uspokojit.
+Hezky, hezky, tak to se těším.
+A ještě mi řekni prosím tě na závěr jednu věc,
+když se tak podíváš na tu svoji cestu
+v Good Data, podíváš se
+teďka na ten nástroj, na to, kde jste,
+je tam něco, na co seš
+extrémně hrdej, kde třeba se říkáš,
+jo tak tady je to super, tady nám to zafungovalo,
+tady to opravdu,
+za mnou ta práce je vidět.
+Jaký taková část?
+Já nad čem jsem pracoval, když jsem
+tady jako v Good Data, tak
+to byla ta část toho
+logického datového modelu, kde vlastně
+jsme, jsem asi jako hodně tíhnul
+k těm víc technickým tématům celou dobu,
+tak pro mě je to vlastně tato část,
+kde vlastně jsme se
+snažili, vlastně novej
+koncept, něco, co pro většinu lidí je neznámý,
+což je ten, ten ta semantická
+prostorologický datový model, přiblížit
+vlastně, nebo nechat je vlastně s tímhle
+pracovat a
+my jsme to vlastně jako hodně připodobnili
+tomu těm typickým, typickým
+datovým modelům, kterým si člověk skládá i jako
+z databází. Teďko samozřejmě
+jako člověk si řekne, jo jsem na tom, kde je
+tam hodně práce, na druhou stranu čím díl
+v tom člověk je, tak tím víc nedostatku tam vidí,
+takže já bych to třeba viděl
+tak jako kontroversně vůči tomu, jak
+moc úspěšný to je, ale určitě je to ten
+největší díl práce, který jsme tam odvedli
+a pak je to ten příklon k té developer
+experience, kde si myslím, že dneska
+začínáme sklízet toho oce, kde nám to vlastně
+ty zákazníci říkají, jo to je
+opravdu platforma, která jako
+pro mě funguje, nebo říkají
+helejte se, tohle je jako opravdu
+ta vaše dokumentace, vlastně
+díky ní jsem schopný jako s tím pracovat,
+ta developerská dokumentace, nebo
+ty SDKčka, ty jsou super,
+určitě není jako čistě moje
+práce, já jsem tam tak jako jeden z mnoha,
+ale je vidět, že ten směr dává smysl
+a že nám funguje teďko.
+Super, tak jo, hele,
+no, já si myslím, že bychom tady
+mohli sedět hodiny a hodiny a povídat si,
+protože to máš, kromě toho, že je nabušený
+informacema, tak je sdílnej, je
+ze sebe dostat směrem k posluchačům,
+což je super.
+Úplně tradiční otázka na závěr,
+co plánuješ dál?
+No, teď půjdu do kanclu, ale to asi
+nebylo ono.
+Ale klidně, on totiž nikdy nikdo
+tu otázku nepojal, takže se ptáme
+na následujících deset minut, takže klidně
+můžeš být první.
+Byl bych první, no, bylo by to mnoha věcech
+tady dneska, koukáme.
+Já ti na závěr zase vrátím zpátky
+tady ten swag, kterým jsi tak cvakal.
+Ještě si tady můžu zacvakat.
+Tak dál
+bude to určitě teďko pokračování v typu
+discovery a myslím si, že co v nás
+bude v následující době zajímat,
+bude i to AI, tak generativní
+AI, uvidíme, co se tam bude dít. Čímž
+teda neříkám, že to máme na roadmapě
+a všechny ty disclaimery a tak, co k tomu
+patří. To je spíš, kde já vidím
+osobně nějakou příležitost
+pro ten
+analytický stack, jak se posunout.
+Ještě mi napadá, máte vy
+jako GoodData nějaký akce, kde
+je možný se podívat třeba trošku
+pod pokličku? Máme,
+hodně jsme ať
+aktivní, byl bych řekl, jako v té datové
+komunitě. Tady to kolegu,
+nevím, jestli jste někde slyšeli, Jan Sobusta,
+Jacek, teďko byli,
+já myslím, že jsem tady u vás v podcastu
+zaslech Data Talk jako
+podcast, tak nedávno jsme tam byli.
+Tak nedávno tam právě byl
+a teďko jsme měli nějaký po delší
+době první meetup přímo u nás v kanclech,
+takže věřím, že tohle bude dál pokračovat.
+Super, super, dobrý vědět, začnu
+sledovat. Tak jo, ale Tome,
+ještě jednou moc díky, že jsi
+k nám dorazil, že jsi nám to všechno
+popovědal, bylo to...
+Musí být, jsem spokojený.
+Teď už mám svoje bingo tady, bočka tam.
+Ne, moc díky,
+bylo to super, hrozně rád jsem tě po takový době
+viděl, ať se daří, ať to všechno
+frčí, no a zase někdy.
+Ať se daří, Tome. Děkuji za pozvání.
+Čau. Čau. Ahoj.
+Tak to byl další ze zajímavých hostů
+našeho podcastu Tomáš Muchka,
+co jsi na něj říkal? Tomáš Muchka byl skvělej,
+my jsme byli trošku horší na začátku,
+jako aspoň to je moje hodnocení.
+Ale já jsem byl hrozně zvědavej.
+No. A proto jsem se tam
+začal ptát na věci, který
+trošku nás vyvedly z kontextu, ale jinak
+jako já jsem si, pro co jsem si přišel,
+tak to jsem si odnesl. Podle mě super, ping-pong,
+jak to každej si řekl, to sví,
+možná kdybychom to zmíchali, že do levýho
+do levýho sluchátka to půjde,
+tvoje otázky do pravýho moje, tak krásnej myšláš.
+Tak to bude solidní bramboračka.
+Ale jako
+speciálně ta část o Product Discovery
+mě hrozně bavila a hezky to Tomáš
+vysvětlil. Super. Já jsem byl rád,
+že jsme zužitkovali zase takovej
+ten network těch lidí, se kterými
+jsme se kdy v práci setkali,
+takže podle mě jako super,
+super zdroj vůbec, ty starý známý.
+100%. Dneska jdu
+čověče na oběd s
+Milanem Borůvkou, kterým jsme tady měli,
+je vlastně šef engineeringu z PriceFX
+a s Michalem Těhníkem,
+což neboli Midstech, což je můj
+taky bývalý kolega ještě z Dobvendava, který
+je teďka v Product Boardu
+a dělá tam něco. Já musím vlastně zjistit, co tam dělá,
+protože on byl takovej člověk, který taky
+zažil spoustu věcí,
+třeba dělal i
+pro grafový databáze a tak dále.
+Úplně má taky takový
+rozprostřenej do prostoru
+v tom IT světě, takže jdu
+dneska s ním na oběd, tak možná jsem
+přitáhnul Michal Těcha, že bychom ještě
+projeli Product Board.
+Super, super. No tak jo, to se máme na co těšit.
+Ty si užij teda oběd, to zní velmi zajímavé.
+Je to v Karlíně zase?
+Už nemůžeme dávat další vtipy na Karlín.
+Dobře, já už ho nebudu říkat.
+Jak tam jedeš, prosím tě?
+Tak jo, přátelé,
+mějte se krásně a zase
+za 14 dní.
+Ať se daří. Čau.

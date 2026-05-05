@@ -1,0 +1,1522 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Vážení a milí posluchači, vítejte u prvního dílu třetí série vašeho nejmilovanějšího IT podcastu Pod sluncem,
+který vysíláme opět z našich útrop CN Group.
+Kousek od vocasu, no podcast se jmenuje jak jinak než Pod vocasem.
+My vám přejeme krásný den, naproti mě sedí Petr Polipolák.
+A naproti mě sedí Roman Džokr, provazník. Románku, ty jsi ve formě dneska.
+Já jsem odpočatej, já jsem teďka byl dva dny, jsem sjížděl Alpy, takže...
+Všim se, tak jsem opálený?
+No trošku jsem si všiml, já jsem si myslel nějaký muře a ty jsi byl falpák.
+Ne, ne, ne, falpák, ale zapomněl jsem, že když vyjedeš do 2000 a začne to svítit, že by bylo asi dobrý se namazat.
+Jo, jo, jo.
+Tak už si to budu pamatovat pro příště.
+Ono je sluníčko, je i tam, no.
+Je to tak.
+No máme tady první díl třetí série. Ohlasy, musím říct, jsou zatím veskrze pozitivní a především na tvoji osobu musím vyzdvihnout.
+Já jsem nad tím přemýšlel nedávno právě cestou do Rakouska, že vlastně na to, jak ty vůbec nemáš žádný, řekněme, mediální vzdělání, ani takový ten otravnej základ, tak jsi fenomenální.
+Musím tě tady pochválit, musím tě tady vystřihnout takhle z fleku pochvalu.
+Já nevím, co bych na to řekl. Já jsem úplně červený.
+Zatku teď.
+Baví mě to a doufám, že tahle série, kterou dneska načneme mým milým bývalým kolegou Milanem Burůvkou, že rozhodně nebude poslední.
+No to já taky doufám. A s Milanem se na to moc těším. Milan nám dokonce přinesl i dárek.
+Jako první z našich hostů nám přinesl dárek.
+Máme úplně první dárek od hosta. Jsou to krásný věci, různý takový ten firmní svek, ale myslím si, že minimálně některý věci na tom sveku jsou vtipný a je potřeba je rozebrat za malou chvíli s naším hostem.
+Souhlas. Jdem pro něj.
+Podvoca sem už s námi sedí náš dnešní host Milan Burůvka. Ahoj Milane.
+Ahoj kluci.
+Ahoj Milane.
+Děkuji za pozvání.
+No já děkuji, že jsi dorazil, protože my jsme se o tom bavili spolim krátce před začátkem, že to je další, že ty jsi další z lidí, který jsem si musel pozvat do podcastu, abych je po těch mnoha letech, kdy jsme spolu trávili nejednu pracovní hodinu, abych tě zase viděl.
+Takže musím říct, že vlastně my se známe už poměrně dlouho. Pracovali jsme spolu s Milanem ve Vendavu, ale už ani jeden z nás tam není.
+Takže prosím tě Milane, na začátku představ se posluchačům, co vlastně děláš a pak samozřejmě se.
+Jak se dostaní k tomu, kde vlastně to děláš?
+Tak moje jméno je Milan Borůvka, mám na starosti engineering ve firmě PriceFX. Původem jsem back-end developer, Java programátor.
+Pracoval jsem ve firmách jako je Sistine, u Romana Staňka a potom přes startupy jako JetMinds, Vendavo jsem se dostal do PriceFX.
+A posunul jsem se od programátora vlastně na manažera engineeringu.
+Takže už tvoje denní práce s kódem zas tak moc nesouvisí, v tom smyslu, že bys měl otevřený IDčko a něco se tam jako komitoval ne?
+Já mám otevřený IDčko v podstatě denně, pořád používám IDEU, takže jako několikrát týdně řeším něco, čtu kód, mergeu v GITu a připravuju, připravuju buildy, občas používám nějaký SSHčko a tak, takže pořád se držím vlastně blíž tomu kódu.
+No tak to je super, to je super.
+Ale ne front-end.
+Ne front-endu teda, ale Javascriptu ne.
+Jasně, tomu rozumíme.
+Chápem.
+Tam se to mění moc rychle.
+Ne, naprosto chápem.
+A kolik lidí máš na starosti, že máš čas ještě na tyhle hands-on věci?
+Tak já mám teďka na starosti zhruba 70 lidí, což jsou vlastně jak back-end vývojáři, front-end vývojáři, QA, automation QA, dokumentace a performance, performance inženýři.
+Když jsme říkali vlastně, že jsi senior VP of engineering.
+V PriceFX, co je vlastně PriceFX za firmu?
+Můžeš říct, co děláte, nějakou historii a tak dále?
+Jasně, tak PriceFX je startup.
+Oficiálně jsme vlastně německá firma registrovaná v Mnichově.
+A vlastně tři zakladatelé jsou moji známí, s kterými jsem pracoval už v minulosti, třeba v Fariby.
+A naším produktem je vlastně SASová aplikace pro pricing, price optimization.
+To znamená, pomáháme firmám.
+S optimalizací cen, s právou cen a s procesama, který jsou kolem toho.
+Takže máme přes 150 zákazníků, jak B2B, tak B2C.
+Takže z poslední doby tam máme nějaký hezký známý jména, typu třeba Heineken,
+nebo Shell, Michelin, Toshiba.
+A nebo i ty starší máme zajímavé firmy, třeba jako švýcarskou firmu,
+která vlastně se rozhodla, že inovuje svět prodávání
+lyžarských permanentek.
+Ta firma se jmenuje Ticket Corner.
+Takže vlastně ty ceny těch permanentek počítají něco tak jako podobně dynamicky,
+jako třeba letenky.
+To znamená, mají takový pravidla, že když si na podzem kupuju
+permanentku na jarní prázdniny, tak ji budu mít za lepší cenu,
+než když budu čekat až na poslední chvíli.
+A nebo třeba tam vlastně do toho vstupuje, hraje roli třeba počasí.
+Nebo takový pravidla, jako že prémiový švýcarský středisko
+prostě na vrcholu sezony.
+Weekendu musí stát nejvíc.
+Takže ten náš software je hodně flexibilní
+a každá ta firma v tom řeší trošku jiný problém.
+A pro nás to samozřejmě znamená, že my stavíme takovou platformu,
+která umožňuje ostatním definovat ty pravidla, popisovat ty výpočty
+a vlastně ten software implementovat až pro ty potřeby toho zákazníka.
+Takže vlastně všechno, co se týče cenotvorby,
+tak vy jste schopný to pokryt už?
+Jsme schopný pokryt všechno.
+To znamená od nějaké analýzy.
+Přes analytiky, to znamená business intelligence.
+Přes takový ty standardní procesy typu price setting,
+to znamená zpráva nějakých ceníků a kalkulace cen,
+kde máme třeba hodně partnerů i firmy tady v Čechách,
+který třeba pomáhají tím firmám třeba s nějakým web scrapingem
+a získáváním dat o cenách třeba konkurence,
+tak to do toho vstupuje a vlastně kalkulujeme ty ceny,
+dokážeme posílat do nějakých ERP systémů,
+kde se potom ty ceny uplatňují,
+až nějakou zprávu rabatu nebo software pro obchodníky.
+Takže máme firmy, který mají třeba 800 tisíc obchodníků
+a vlastně tím výstupem je nějaká třeba PDF s nabídkou
+nebo smlouvá s digitálním podpisem přes DocuSign.
+Ale ta poslední část, která je teďka hodně populární,
+je vlastně nějaká oblast optimalizace a optimization,
+kdy kromě našeho řešení, které jsme měli,
+tak jsme vlastně provedli akvizici firmy ve Francii,
+takový firmy asi o 20 lidech,
+Brenus Analytics, a tady ty kluci vlastně měli řešení,
+které začaly vyvíjet na univerzitě v Toulouse.
+Ten engine se jmenuje AMAS, Adaptivní multiagentní systém,
+který vlastně původně vyvíjeli pro nějaké optimalizace tam
+a v Toulouse je vlastně Airbus pro tajto oblast.
+Ale vlastně zjistili, že se teda aplikovat je na jiný problémy
+a jeden z těch problémů je vlastně optimalizace v oblasti pricingu,
+takže já mám vlastně v týmu i několik vývojářů vlastně z Francie
+a ty dále rozvíjí tady ten engine, který jsme začlenili do toho našeho softwaru.
+Jsi tam hezky zmínil, já jsem se chtěl zeptat, kdo je vlastně váš klient,
+jako tam je několik těch business streamů.
+Jsi nám tady přinesl krásnej dárek na hrníček,
+na kterým vlastně si děláte legraci trošku z Excelu,
+jest In Peace Excel.
+Jak to souvisí s Excelem?
+Když si představím ten tool, tak mně to přijde jako něco extrémně sofistikovanýho,
+co dokáže pomoct tu cenu vyladit do nějakého super detailu.
+A tam mi úplně nesedí to, že by to mělo konkurovat Excelu,
+nebo respektive, že by Excel měl konkurovat vašemu toolu.
+Jasně, a to byste se kluci divili, protože je pořád spousta korporací,
+která vlastně tady tu cenotvorbu dělá v Excelu,
+které je samozřejmě náchylné na chyby.
+Ten proces se v tom nedá.
+Tak kontrolovat, prostě někde kolujou Excely přes Outlooky
+a vlastně i docela velký korporace jako na tom stavějí.
+Takže původní myšlenka PriceFX byla ta,
+dát vlastně tady tu cenotvorbu firmám v té době 2011,
+jestli takovýhle software mohli dovolit půměrně jenom velký firmy,
+ne třeba e-shopy.
+Takže myšlenka byla vlastně taková demokratizace cenotvorby,
+poskytnouty ji jako za fair subscription jako SaaS
+a vlastně nahradit tím Excel.
+To znamená vlastně spousta věcí se tam dá jakoby naklikat
+a pak je nějaká další vrstva, kdy vlastně člověk popisuje
+jakoby vzorečkama něco, jako je Excel, ten výpočet.
+Až časem, jak jsme začali říkat, větší a větší zákazníky
+třeba z B2B, tak se tam vlastně přidala ta vrstva třeba groovy,
+jako programovacího jazyka, který se používá pro ty výpočty.
+Tak to by u nás fungovalo, nemohlo by.
+Excel už jsme dávno vymítili.
+A co se týče té skladby těch zákazníků, předpokládám,
+že stále ještě je tam nějaký vstupní bariéra.
+Třeba může si to dovolit nějaký opravdu malej podnikatel?
+Nebo jak to máte pro tenhle segment opravdu pidi podnikatelů?
+Je to spíš fakt na small, medium businesses
+a teďka hodně zákazníků jsou spíš ty větší korporace.
+Takže z začátku, no to bylo tak, že cílíte,
+že vždycky v tom podnikání máte nějakou vizi a cíl.
+A myšlenka byla cílet na ty malý zákazníky, střední zákazníky.
+A první vlastně zákazník PriceFX byl Bosch,
+jako jedna jeho divize.
+Takže řekla jako tenkrát, dnes už to neplatí,
+ale tenkrát řekla, že nám se to líbí, super sas,
+tak si to vemte, hoďte nám to do datacentru.
+A nasaďte to na Oracle, který nepodporujete a tak.
+Ale to jsou strašně ranné době a to už dávno tam nejsme.
+A vlastně jako v podstatě před pár lety asi byla otázka,
+jestli jako být v cloudu nebo ne.
+A dneska se to vlastně jako, ta otázka už jako nepadá.
+Takže dneska ty zákazníci s tím problém nemají.
+Takže vy to máte kompletně cloudový řešení?
+Máme to kompletně cloudový řešení.
+A jaký cloud používáte primárně?
+Máte to namixovaný nebo jedete?
+Máme to namixovaný, takže z začátku ještě my jsme používali náš private cloud.
+To znamená, my jsme si pronajímali spoustu stovky
+jako Linuxových serverů po světě v nějakých datacentrech,
+který jsme měli vlastně jakoby zautomatizovaný
+a tam jsme deployovali ten software.
+A následně potom jsme se rozhodli přejít do AVS-ka.
+Takže jsme v AVS-ku a rozlížíme se i po Google Cloudu
+a i máme nabídku právě od jiného jakoby menšího takovýhleho cloudu.
+V podstatě my, když jsme přecházeli do toho AVS-ka,
+tak jsme si řekli, že nechceme mít moc závislostí a dependencí na AVS-ku.
+Takže je tam vlastně ta vrstva toho Kubernetes,
+která nám umožňuje poměrně snadno přejít do jiného cloudu.
+Ale zároveň předpokládám, že stejně využíváte nějaké specifika těch cloudových služeb,
+protože my třeba, když právě řešíme cloudový projekty,
+tak se snažíme, aby, řekněme, třeba ty aplikace jako takový, aby běželi do kruhu v Kubernetes,
+ale ty věci, v čem je ten cloud silnej, když je to třeba na Amazonu S3ka,
+nebo to jsou věci, které si vlastně nechceš hostovat v tom Kubernetes,
+chceš to využít jako manageovanou službu, jak vy to vlastně řešíte?
+Určitě, tak S3ku třeba používáme a vlastně i kdybychom šli do jiného cloudu,
+tak S3ku pořád používat můžeme.
+A vlastně, co vím, taky Tomáš Lamro mě říkal, že k té S3ce jakoby jiný provideri poskytují stejné API,
+jak to má S3ka, takže případně bychom to řešili takhle.
+Vždycky tak, my to řešíme jako pragmaticky, asi podle účtu, za hvězdko se díváme,
+že tam byla velká diskuze a rozhodnutí ohledně třeba CloudWatche a logování.
+Teď jsme přišli na nějaké naše loky a grafanům a zbavili jsme se třeba cloudu,
+odluče.
+Pro prizingovou firmu, hlídání těch nákladů a tyhle věci, to musí být taková jako pod,
+asi obsese, ne? Když jste na ty čísla a teďka jako kde, který cloud je výhodnější,
+která služba. Řešíte to zase třeba nějakým centrálním způsobem, tohleto?
+Řešíme to tak, že vlastně samozřejmě podle mě potom nasazení nebo nastoupení do toho
+AVSka člověk jako pak zjišťuje, jak to bude jako, kolik to bude stát.
+Měl nějaký představy a někdy se ty představy dost jakoby liší.
+Takže vím, že se tam prostě řešily věci vůbec, jako kolik toho logujem a kolik stojí
+logování. A tady ty věci, takže máme tam prostě dva lidi, kteří třeba koukají na ty náklady.
+Když jsi v cloudu, používáte tam i vloženě nějaký serverless randy nebo všechno se spíš
+drží, co se týče těch aplikačních věcí v nějakých containerech?
+Jasně, máme tam, máme tam lambdy, ale jsou to spíš
+takový.
+Jako okrajový, okrajový věci jenom.
+Tak nějaký backgroundový joby.
+Backgroundový joby a hlavně ta architektura je tak, že vlastně ta hlavní aplikace je jakoby
+javová a potom samozřejmě třeba pro ty, pro ten optimization engine jsou tam nějaký
+jakoby containerový, běhají tam containery právě na ty optimalizační úlohy.
+Ten optimalizační engine běží jinde.
+Pricing scientisti používají hodně jako R, Python.
+Jasně.
+Python.
+Python.
+Takže tady ty věci třeba, když je potřeba propojit, tak se to používá tam.
+Hm.
+Jaký je vlastně ten text?
+Takže teď jsme to už uskočili do cloudu, ale v čem je to primárně napsaný?
+Je to Javička, je to Groovy, je to Kotlin?
+Je to krásná Javička.
+Krásná.
+Tak jako já to věnuju, jak to bylo, že jo, prostě historicky v té době se rozhodovalo, v čem to napsat.
+Bylo tady pár, pár vývojářů, který byli všichni Javisti, takže základ je v Javě a mělo to velmi pragmatický, vždycky jako kořeny, co se týče návrhu, takže z začátku to byla opravdu taková garážovka, že to bylo hostovaný někde u Krysa, asi v garáži u Mnichova a hodně, hodně tam vlastně základ jsou nějaký open sourceový technologie, takže vždycky prostě MariaDB, SQL, Postgres, Java, takový jako základní používání, které jsou vlastně vlastně vlastně vlastně vlastně vlastně vlastně vlastně vlastně vlastně vlast
+vlastně vlastně vlastně vlastně vlastně
+Samozřejmě dneska třeba v dnešní době by to rozhodnutí možná vypadalo jako jinak a když mluvím vlastně o tom našem hlavním produktu, tak nesmím zapomínat, že tady vedle máme ještě Integration Manager a Platform Manager, to jsou takový jako další moduly, který vyvíjí tady tým kolem Michala Výcha a ty používají zase třeba Apache Camel pro integraci dát a ty třeba používají Spring a Spring Boot, takže není to tak, že nemáme žádný Spring.
+Takže vlastně je to velmi jako poměrně jednoduchá javová aplikace, která má nějaký jako základní paterny, který tam jsou, má restový apy a k tomu se psal frontem.
+V té době zase prostě byla volba tenkrát jako Google Web Toolkit, což byla dobrý pro pár kluků, který psali jako v javě a produkovalo to nádherný, nádherný, jaký jako Enterprise prostě UI, plný jako tabulek,
+který toho měli strašně moc, což oceníte až jako v okamžiku, když vlastně já jsem dostal jako za úkol jeden jako z mých projektů v poslední době byl přepis celého tohle uživatelského rozhraní,
+který tady třeba 6 let, 6 let, 7 let jako existovalo, který bylo postavený fakt na jako hodně dobrých jako knihovnách, co se týče těch tabulek, gridů, prostě sortování, performance, optimalizací,
+což bylo to SGWT, Smart Google Web Toolkit.
+A měli jsme to vlastně od nuly přepsat do nějakého Javascriptu, přičemž je to začalo, že vlastně z začátku se vůbec nezdálo, že ten projekt je jako, že přepisujeme celý jako několik let jako UI a začalo to prostě takovým tím vezme jako část aplikace a dostaní do Salesforceu, tak někdo vzal prostě Javascript a v té době vzal ještě Ember, takže tam to bylo jakoby, co pro mě bylo určitě jako poučení, bylo to,
+že třeba ta knihovna, kterou jsme měli,
+byla mnohem jako výkonnější, než potom, když jsme hledali jako by ve světě Javascriptu knihovnu, která by uměla jako všechno to, co jsme potřebovali, až nakonec vlastně to skončilo tím, že jsme si ty gridy museli jako z 90% napsat sami a vlastně tam řešit i jako tu performance toho rendrování a tak.
+A druhý poučení bylo, že samozřejmě technologie, jako prostě vybrali jsme si Ember, ale v nějakou dobu jsme museli jako přepnout na React, protože nejenom jako z toho,
+ale i třeba z personálního.
+To jsem se chtěl právě zeptat, jestli ten hiring pool nehrál roli trošičku.
+Hiring pool hrál velkou roli, protože prostě Ember tady jako moc lidí dělat nechce. Jednou jsme došli do stavu, že já jsem hledal jako jiný firmy v Praze, který používají Ember.js, což v té době dokonce bylo zonky, já myslím, že třeba v Product Boardu to chvíli používali, ale už jako dávno, a třeba zonky, takže jsme udělali takový malej Ember.js meetup.
+Jako opravdu malej, že přišli tři lidi, ale.
+Přišlo asi pět lidí z zonky a pět lidí od nás, tak jsme si udělali jako Ember meetup. Vyměnili jsme si ty zkušenosti, a to už je taky pár let, a od té doby jsme přepnuli jako na React, a je to určitě jako dobrý rozhodnutí, mnohem líp se nabírá, není to asi v dnešní době, je to prostě, jak to tady možná někdo říkal, za Reactě nevyhoděj, nebo jako.
+Tak React je jako fajn, samozřejmě i v tom Reactu.
+Prostě, když jsme do toho nastoupili, jak byl React Redux, že potom přišly hooky, teďka prostě tam řešíme, jak dělat jako formy, takže tam se přepisují věci jako na recoil.
+Jakoby i jenom v té oblasti toho Reactu je tam jako prostor pro refactoring a přidělávání věcí.
+Jak se tohle balancuje? Protože když tak přemýšlím, v podstatě to je neustálej rozhodování mezi tím, jestli budeme dělat ový featurey, nebo budeme odstraňovat.
+Nějaký technický dluh z minulosti, máš tam na to nějaké specifické pravidlo, jak se k tomu jde postavit, nebo?
+Musí se to asi vysvětlit dobře jako product managementu a product ownerům a vlastně vyhradit na to ten čas, těch týmů máme jako víc, takže se to se jako v čase nějak vybalancovalo podle toho, jaký featurey se dělali v kterým tom týmu.
+Nevím, jestli na to máte nějaký lepší trik vy, ale není to jako jednoduchý.
+A myslím si, že určitě to poučení pro mě nedělá to.
+A jedenkrát jsme stáli samozřejmě jako, my jsme měli jako několik modulů napsaných v tom membru a vlastně jako viděli jsme, že chceme přijít do Reactu, takže tam mohly být jako dvě možnosti.
+Buď se teď jako zastavíme a zase budeme nějakou dobu všechno přepisovat, anebo se vybereme nový modul, ten napíšeme jako v Reactu a pak to postupně budeme přepisovat třeba do Reactu.
+Tak my jsme se vybrali tu druhou cestu a vlastně jsme udělali to, že vlastně ta naša aplikace třeba webová jsou jako dvě aplikace.
+Tváří se, že vypadají stejně a jakoby ty překliky, když se přechází z jednoho nebo do druhého, tak lidi to nepoznají.
+Prostě uživatelé to nepoznali, toho jsem se třeba bál.
+Takže takhle jsme to udělali a jak jsem poslouchal, tady ten problém má v podstatě jako docela dost firem.
+Buď je, že jako zamrzli na nějakém jako Angularu jednice, dvojce a vlastně jako pak se rozhodnou, že to přepsat celý.
+Takže si myslím, že to vlastně není jako špatný řešení, protože nikdo neví, co prostě...
+Prostě v javascriptový komunitě bude hot.
+Další věc je prostě ten typescript a flow.
+Takže já jenom jako i tady na tom malým projektu jsme začali jako s ničím, pak byl typescript, pak bylo flow.
+A já vždycky doslouchám nějaký podcast a říkám klukům, ty jo, jako teď říkali, že flow jako umírá, typescript vede.
+Tak nějakou dobu to ještě chvíli jako zase držel flow a už to máme zase všechno v typescriptu.
+Takže to je prostě neustálý jako přepis. Ale na druhou stranu, říkal jsi 2.11, že jo, byl vznik 2.11?
+Jasně.
+Tak je jasný, že když se bavíme v roce 2022, o 11 let později, tak ty technologie prostě zastarávají a to je podle mě problém,
+který tady vždycky byl a bude to prostě, pokud ta věc má přežít nějaký cyklus, tak hot budeš přepisovat.
+Jasně.
+Víš, teda ještě jako vlastně říkáš 70 lidí, že máš pod sebou, to už je jako docela slušný číslo.
+Jak to řešíte projektově? Máte tam nějaký scramový týmy nebo nějaký menší týmečky,
+které se zaměřují?
+Na různý fíčury nebo jak to funguje?
+Jasně, tak začátku vlastně to bylo tak, že prostě bylo pár jako javistů a pak jsme začali dělat ten frontend,
+takže jsme přidávali jako javascriptaře a dělali jsme se jako backend frontend.
+Což škáluje do nějaké doby, dokud stand-upy netrvají díle jak třeba 15 minut a najednou to začne být jako neúnosný.
+Takže vlastně jak jsme to rozdělali je to, aby ten tým vlastně sečal organizovat podle těch oblastí,
+na kterých pracují a ty lidi začaly.
+Umít jako větší znalost jako ty domény, tak jsme si to pokusili dát dohromady nějak podle těch domén,
+těch modulů a třeba aby nějak, jak si to se dělalo jako lidsky, i ty týmy.
+Takže vlastně to základní dělení je takovýhle a tam zase nastává ten problém,
+který je vlastně taková komunikace přes ty týmy, aby se backendiáci bavili s backendiákama,
+frontendiáci s frontendiákama, takže to řešíme.
+Prostě tím, že v každých tých týmech jsou nějaký seniornější lidi, kteří jsou zase součástí nějakých
+jako pravidelných meetingů a skupin, kdy se vyměňují a baví se každý týden třeba o architektuře
+backendu a frontendu.
+Takže máte i dohromady třeba nějaký společný backlog, aby to všechno šlo jedním směrem,
+aby se ty týmy trošku nerozkrýžily?
+Ja, jasně no. Jakoby, že okromě engineeringu my to máme organizovaný tak, že můj vlastně nadřízený je
+Tobi, který je v UK a ten je CPTO, takže je Chief Product and Technology Officer
+a vlastně zaštituje jak jakoby produktovou organizaci, tak engineeringovou organizaci.
+Takže v každém tom týmu my tam máme vlastně jak backendiáky, frontendiáky, prodakounry,
+dedikovaný QA a vlastně ve spolupráci jakoby s produktovým týmem prioritizujeme roadmapu
+a backlog a co bude.
+Co budeme dělat.
+Pořád držíme jakoby nějaký koncept jakoby major release, který releaseujeme třeba,
+jako technicky samozřejmě bychom mohli releaseovat jako hodně často,
+ale říkám, že releaseujeme prostě jako několikrát denně.
+Releaseujeme nějaký jako každej měsíc, releaseujeme nějaký jako enhancementy a třeba backfixy
+a potom vlastně máme do roka nějaký jako dva major release, který jsou většinou načasovaný
+nějaký customer eventy třeba v Evropě a v Americe a v té době vydáváme nějaký jako ty major release,
+kterým je třeba jako marketingová kampáně a tam se třeba představí jakoby nový modul.
+Takže ve spolupráci jakoby s produktovým týmem se vzdáváme tohleto dohromady.
+Takže jestli to chápu správně, vy máte ty týmy postavný kolem těch řekněme domén a kontextů,
+kolem těch jednotlivých věcí.
+Ovlivně je to nějak i tu architekturu?
+Architekturu toho softwaru? Vede to třeba k nějakýmu, řekněme jako, nechci říct, že to je microservice stylu,
+ale přeci jenom důvod, proč bych rozsakal velkou aplikaci na nějaký menší servisy,
+většinou je buď personální, že chce, aby ty lidi se dohodli, nebo chci jasně definovat nějaký ten kontext boundary,
+abych to měl přesně jako tu aplikaci správně rozdělenou. Tak jak je to u vás?
+Ta hlavní aplikace je vlastně jakoby javovej monolit, kolem kterého vznikají nějaké ty servisy.
+Tak samozřejmě třeba ten optimalizační engine stojí stranou,
+pak tam máme nějaké servisy pro třeba konverzi do PDFek a nějakých jiných formatů.
+Teď tam Petr Novák vyvíjí nějaký cluster manager, který umožňuje, je to napsaný v Kotlinu, používá Ktor framework.
+Takže vznikají tady takovýhle servisy, ale ta velká část je prostě ten javovej monolit,
+a myslím si, že bylo dost těžký to jakoby roztrhát na nějaké jako menší servisy,
+a nemyslím si, že by se to úplně jako vyplatilo. Takže taková ta funkcionalita kolem, jo.
+Na rozdíl třeba od toho platform managerů tam vlastně kluci jako používají víc, jako mikroservisy,
+a refaktorovali to víc. A to hlavní jako necháváme zatím takhle.
+Jak jsi popisoval skladbu těch týmů, tak tam vlastně nikde nebyl žádnej specialista na data.
+Je to tak, že ty lidi se taky odpověděli?
+Jako a priori zaměřují na data všichni, nebo tam máte i nějaké oddělení,
+které jsou nějaký data scientisti, data inženýři, kteří se zaměřují vyloženě na data,
+protože ten produkt je silně datově zaměřený, že jo?
+Jasně. Já jsem ještě neřekl to, že vlastně velká část, to základní dělení, jak to máme ve firmě,
+vlastně řekněme, já jsem součástí jako produktů a engineeringů,
+co znamená, my stavíme tu platformu, která musí fungovat pro všechny.
+Pak je tam část jako firmy, která je třeba Customer Solutions,
+který vlastně implementují ten software pro ty dané zákazníky na těch projektech,
+protože jak počítá ceny třeba Bosch, je jiný, jak počítá Michelin.
+Takže vlastně tam jsou ty lidi potom třeba u těch projektů, které se týkají třeba optimalizací,
+tam jsou taky lidi, kteří jsou speciálně jakoby pricing scientisti, data scientisti,
+kteří vlastně jim pomáhají se stavbou těch modelů,
+které se pak používají pro optimalizaci.
+A potom v rámci toho našeho týmu, tak tam máme několik spíš produktových organizací,
+právě data scientistů, pricing scientistů, kteří pomáhají vlastně se stavbou těch modelů
+pro ty nejčastější use cases, který vlastně jakoby řešíme, což je třeba price recommendation,
+jako lidi kupují nějaký zboží, doporučují tomu nějaký relevantní.
+A těch use cases máme asi základních jako 12.
+Jako máme zajímavý, jako často vlastně ten náš software se stává teďka takovým jakoby pricing enginem,
+že ne vždycky jako nutně ten software musí používat jako koncový uživatelé přes třeba uživatelský rozhraní.
+A máme nějaký jako zákazníky, který to používají takovým jako headless modu, řekněme,
+kdy používají naše apy a musíme být jako stabilní pricingový engin, který je jako vysoce dostupnej.
+A oni mají třeba i několik jako brandů, jako webů.
+Který používají naše apy třeba proto, aby dokázali jakoby real timeově nebo co nejrychlejc odpovědět
+třeba na jednouchou otázku, jako za kolik tohle můžeme nabídnout.
+Že třeba jeden jako zajímavý zákazník velký je v Americe, což je nějaká firma, která se specializuje jako na transport aut,
+jako třeba z různých dealerství, z různých jako rohů Ameriky do různých rohů.
+A vlastně takových firm je hodně a je hodně poptávek.
+A lidi je to tak.
+Vlastně z těch webů chodí jakoby poptávky a ten náš jako optimalizační engine vlastně musí jakoby na ty stovky požadavků reagovat
+a nabízet jakoby optimální ceny, za který jsou schopni to jako nabídnout.
+A když se bavíme o tom, že vy to tomu zákazníkovi ušijete na míru podle toho, jak funguje ten jejich biznis a ta jejich cenotvorba,
+co se k tomu používá pro toho konfiguračního inžiniera?
+Já se teď již pamatuju ještě z dávných dob, kdy jsme se tomu spolu věnovali někde jinde,
+že tam byl nějaký řekněme domain-specific language někde mezi, který mi to vlastně umožňovalo relativně jednoduše napsat takový pravidla.
+A ty jsi mluvil o Groovy, je to tak, že používáte nějaký takovýhle jazyk nebo máte vlastní DSL-ko, jak to funguje?
+Neřekl bych, že máme úplně DSL-ko nad Groovy, ale máme nějaký jako interní API, který je dostupný v Groovy,
+který je vlastně dokumentovaný, dá se to dohledat normálně i public na internetu, vygooglit, takže naše jak REST API,
+tak Groovy API, no. V podstatě myšlenka je ta, že v jádru máme nějaký jako Groovy sandbox, který jako zakazuje všechno to, co my jako nepovolíme.
+A vlastně publikujeme jaký jako metody a třídy, kterým ty naše jako konzultanti mohou používat.
+Takže to je asi, to je to naše API. Dokonce teďka máme jednu otevřenou pozici na člověka, který se bude věnovat jako interně.
+Vyloženě jakoby jeho záležitost.
+Tím zákazníkem budou v podstatě partneři a naši implementační konzultanti.
+Třeba mě samotnýho Vytrcela bavilo.
+A jako rozvíjet tady to API a rozvíjet to a vylepšovat ho, no.
+My jsme stáli dřív vlastně jako prvních pár let, tady třeba tady ta konfigurace se dělala jakoby přes webovou aplikaci.
+Takže tam byl nějaký jako základní editor, syntax highlighting.
+A pak přišel vlastně kolega a měl myšlenku, že aby to jako škálovalo, což je pravda.
+Protože na tom na tom projektu třeba pracuje víc tady těch konzultantů.
+Tak jsme se jako museli hold přiznat, že vlastně jako se jedná jistou formou jakoby softwarovýho vývoje.
+A to, že tam jako lidi chodí jako přes webovou aplikaci a editujou tam nějaký skripty.
+Tak samozřejmě naráželi na různý jako problémy v té kolaboraci.
+Tak vlastně.
+Chceš to verzovat kromě jiného?
+Chceš to verzovat.
+Chceš to verzovat.
+Řešit jako mít třeba nějaký jako poznámky.
+Jako komity.
+Proč, co, kdo změnil.
+A nebo to chceš přeníst na produkční prostředí.
+Takže vlastně to už jako taky hodně lep.
+Tak nejdřív jsme vyvenuli nějaký jako command lineový tool jednoduchý, který to dokázal jako přes API vždycky jako stáhnout.
+Takže to šlo za verzovat.
+A potom zase deploynout.
+A to bylo v době vlastně.
+Pak jsme si řekli jo, co kdyby jsme na to postavili ještě něco jako lepšího.
+Nějakou jako nadstavbu.
+Tak jsme řešili, že se vezmem Eclipse jako IDE.
+A napíšem nějaký.
+Nějaký pluginy.
+A protože já jsem měl radši IDE.
+IDE a vlastně JetBrains poskytují jako open source.
+Vlastně IDE.
+A můžeš do toho psát pluginy.
+Já jsem v minulosti nějaký plugin do toho napsal.
+A tak jsem vlastně vytvořil nějakou první verzi tady toho.
+Čemu dneska říkáme PriceFX Studio.
+A vlastně.
+I vlastně lidi z Customer Solutions týmů.
+Který si chtěl občas zaprogramovat, tak do toho jako přispívaj.
+A to se dostalo úplně.
+Úplně to dostalo.
+To je takový jiný rozměr.
+Takže dneska.
+Vlastně jako veškerý vývoj můžu udělat z toho studia.
+Můžu tam debugovat.
+Testovat.
+Verzovat to.
+Je to fakt hezký no.
+Takže.
+Tohle ještě PriceFX Studio.
+Takže vývojářský, pohodlý.
+A ta přívětivost v kombinaci s tou sílou toho ekosystému kolem.
+Je to tak no.
+Je to prostě.
+Není to jakoby customizace, že by vlastně.
+My musíme řešit třeba že jo.
+Upgrady.
+Tak já nemůžu jakoby releasnout něco, co není zpětně kompatibilní.
+Tak abych řekl.
+Teďka milých jako 50 zákazníků jděte a přepište si vaše logiky.
+To nejde.
+Ale pro ty implementační konzultanty.
+Právě ty už mají dneska pohodlý tady v té idei.
+Vlastně to nabízí jako.
+Doplňuje to ty funkce, které tam jsou.
+A jsou k tomu exempli.
+Takže to je jako pěkný projekt.
+Tak si myslím, že se fakt povedlo.
+A když se bavíme o těchto specifikách.
+Ty cenotvorby.
+Které vedou právě k takovýmhle jako zvláštním toolům.
+Nebo vlastně postaveným samo pro sebe tooly.
+A jsou tam nějaké další specifika celého toho oboru?
+Protože já zase vzpomínám na ty věci, které jsme řešili.
+Třeba byly to databáze.
+Kdyžsi dávno jsme si dali.
+To byla SubHANA.
+Nebo něco takového se to jmenovalo.
+Tím množstvím dat, které spravujete.
+Je to vlastně v cloudu.
+A pro zákazníky.
+Musí toho být strašně moc.
+Jsou tam nějaké třeba věci, které jeden specifický druh.
+Ty databáze vám tohle vyřeší?
+Nebo jaké jsou obecně specifika softwaru pro cenotvorbu?
+Já bych řekl, že tam je několik důvodů.
+Proč firmy řeší cenotvorbu.
+Tak buď je tam nějaký procesní důvod.
+Že v tom chtějí mít pořádek.
+A mají stovky lidí v salesu.
+A vlastně to musí nastavit nějaký.
+Jako pravidla, pořádek, approval flow a tak dále.
+Jiný firmy řeší to, že prostě.
+Typicky firmy, který jsou třeba.
+Prodávají náhradní díly nebo komponenty.
+Tak mají třeba desítky tisíc, stovky tisíc.
+Jakoby produktů.
+Jsou firmy, který třeba prodávají náhradní díly.
+Ještě na nákladňáky prostě třeba z padesátých let.
+A tam je fakt trapný.
+Když potom někdo jako nacení třeba metrovej kabel.
+Že stojí víc než třeba dvoumetrovej.
+Takže tam je třeba velké množství dát.
+A potom ty optimalizace, tak to už jsou jakoby.
+Opravdu už jako pak třeba umělá inteligence.
+A my opravdu tam tu umělou inteligenci v tom máme.
+V tom engine.
+Tak.
+Specifika.
+Určitě pro některé ty use cases potřebuješ velké množství dát.
+My jsme šli tou cestou vlastně těch.
+Tam byla zase nějaká historie databází, které jsme zkoušeli.
+A asi nejsme úplně jako firma, která by se dovolila SAP Hanu zaplatit.
+Takže.
+To bylo dost drahý, co si pamatuju.
+Všechno kde je SAP je drahý.
+Jojo, ano vlastně to.
+To dobrý no.
+Je tam vlastně jako v té době i Oracle release-nul in-memory databázy.
+Ale ve výsledku vlastně to vyšlo úplně zázračně úplně stejně.
+Proto zákazníka stejné miliony dolarů.
+A každý to priceoval jinak.
+Tak my jsme šli tou cestou, že vlastně se zjistilo to, že není úplně potřeba.
+Jako in-memory databáze, pokud ty servery běžej jako na SSD disků jako ty query.
+Takže jako ten základ třeba pro tu analytiku je Postgres.
+A pro Postgres existuje vlastně i jakoby klastrovaná verze, která se jmenuje Green Plum DB.
+Green Plum databáze.
+Takže ta vlastně funguje podobně jako byly tyhle SAP HANA Oracle in-memory.
+Asi to není tak jako úplně zralý.
+A.
+A.
+A.
+A.
+A.
+A.
+A.
+A.
+A.
+A.
+A.
+A.
+A.
+A.
+A.
+A.
+A.
+A.
+A.
+A.
+A.
+A.
+A.
+A.
+A.
+A.
+A.
+A.
+A.
+A.
+A.
+provider nebo nějakou vlastní databázi.
+Tak daleko to není. Vyřeší to
+AVS-ko více méně za vás.
+Jasně, jasně. I tady ty databáze.
+Jsme připomněli ještě používat, když tam je
+takovýhle množství dát, potřebuje to být
+rychle vypočítený a tak dále. Nějaký ty
+distribuovaný systémy typu Hadoop,
+Spark. Nepoužíváme.
+Tohle nepoužíváme. Máme jako, co se
+týče vlastně celý, jako
+třeba jeden velký zákazník je
+MediaMarkt Saturn, což je takový jako
+německý datárt, který je asi
+nevím, ve osmnácti
+zemích jako Evropy. V Čechách není známý.
+A ty vlastně, to je jeden
+z našich jako prvních zákazníků,
+ale jako
+jeden z největších zákazníků
+a specificky je v tom,
+že vlastně oni jsou v biznesu customer.
+To znamená, ceny, který tam počítáme,
+tak jdou vyloženě jako
+buď do obchodů, anebo online.
+A některý vlastně se počítají a jdou tam
+rovnou někde nějak jako schvalovací
+flow. A tam je
+to tak, že vlastně ty ceny
+se rekalkulují
+několikrát, několikrát třeba denně,
+protože tam vstupují jako data o konkurenci,
+oni mají fakt jako sofistikovaný
+strategie, třeba v různých
+jako zemích jiných. A tam
+vlastně, abychom byli schopní to jako
+přepočítat, tak tam máme vyloženě
+jako na aplikační úrovni
+ta Java běží nějakým jako klastrům,
+kde je víc nodeů a vlastně
+jsou tam nějaký jako master-slave
+a ty kalkulace se dají
+vlastně distribovat, takže
+víc nodeů si to
+jako by rozhodí a pokud tam nejsou závislosti
+mezi těma řádkama, že někdy tam
+můžou být závislosti, že třeba
+nějaká televize má pravidlo, že musí stát
+jako 20% víc než jiná vždycky,
+když se hejtne s tou první cenou.
+Ale jako některý věci se daje hodně dobře
+jako paralelizovat, takže jako nezáleží
+ani na pořadí, kdy se to přepočítá, dá se to
+rozhodit takhle do víc nodeů.
+To je krásný, úplně tam vidím ten machine learning
+zatím. Já jsem čekal, kdy zvedneš
+už tu položenou
+otázku od Milavy.
+To je jako, mám žádnou nebo tisíc
+otázek, jakože reálně toho
+je spousta, ale
+možná vlastně kolem
+tvorby těch cen jako takovej,
+jak tam ten machine learning funguje?
+Jako pracujete, učíte ty,
+takhle, máte tam neuronky a učíte ty neuronky
+z těch dat, který tam vznikají, nebo
+jak tam ten machine learning vypadá?
+Já bych řekl takhle,
+většina těch zákazníků
+neřeší prostě problém, že jim má
+napovídat ceny jako umělá
+inteligence nebo neuronový sítě.
+Většinou ty problémy, který řešejí,
+jsou spíš toho procesního rázu,
+nebo prostě toho množství dát.
+A vlastně,
+jedno z takových základních
+mod, který PriceFX
+mělo, bylo to, že
+my jsme, když přijdeme
+k zákazníkovi, tak se nesnažíme
+tvářit, že my
+víme, jak mají v té doméně
+vlastně priceovat.
+Nebo jak mají tu cenotvorbu dělat.
+Protože většinou ty lidi v té doméně
+pracují desítky let.
+Takže se nesnažíme být jako ty
+konzultanti, který tam přijdou a řeknou,
+hele, vy všechno děláte špatně. Teď tady přijdeme
+s naším frameworkem a softverem
+a vyřešíme to. Vždycky to začínalo
+tak, jako my vám dáme
+ten software, vy nám řekněte,
+jak to děláte, pojďme to tam společně
+rychle dostat. A potom
+se můžeme pokračovat dál.
+Takže to je asi jedna věc.
+Druhá věc je ta,
+že vlastně ten
+nebo machine learning, často to jsou vlastně
+nějaké spíš statistické
+výpočty, které tam jsou potřeba.
+A opravdu to je nějaké
+AI, umělá inteligence,
+ta je spíš v tom optimalizačním engine,
+který máme
+třeba v tom týmu,
+na kterém pracujeme s těma
+francouzskýma kolegama.
+To je opravdu i ten
+multiagentní systém
+adaptivní.
+On to je jako poměrně
+složitý, ale popisou toho vždycky
+máte třeba to
+hejno ptáků
+anebo hejno ryb. A vlastně
+každej ten jednotlivéc,
+ten agent, který má nějaké metody,
+kdy proskoumává to okolí,
+může se nějak rozhodnout, může jednat.
+A pak společně to hledá
+ty lokální
+minima a maxima
+a hledá takhle
+optimální ceny.
+Takže je to něco spíš na úrovni,
+takového toho EDA,
+Explanatory Data Analysis, a z toho hledáte
+ty paterny, než že by se tam
+jako ve velkým
+pracovalo s neurónkama.
+Chápu to správně nebo ne?
+Jako základní věc, jako vždycky
+u tady těch optimalizačních úloh je vzít si
+ty data a najít nějaké statisticky
+významné
+atributy,
+podle kterých by mělo být
+nějaké rozumné množství.
+Podle kterých
+můžu rozdělit
+nějakých segmentů,
+k kterým můžu přistupovat podobně
+a nastavovat
+ty pravidla
+pro tu danou skupinu, pro ten daný segment.
+Jasně. A k tomu ještě
+napadá jedna otázka. Ty data
+při té cenotvorbě
+jsou data toho zákazníka. Jak tohle funguje
+biznisově? Ty data vy můžete používat
+k učení čehokoliv dalšího,
+tak abyste zlepšovali ten produkt i pro toho
+zákazníka, nebo jak se tohle domluvá?
+Samozřejmě pro nás jako
+data zákazníka,
+jsou samozřejmě svatá. To znamená,
+že máme jako
+multitenantní systém a nesmí se stát,
+že by zákazník A
+viděl data zákazníka B.
+Takže tohle je hodně přísně odděleno.
+To si dobře představím. A máme nějaký
+volitelný
+program, kde
+máme třeba produkt,
+který vlastně
+dokáže
+specifikovaný
+data jednotlivých zákazníků
+vzít, nějaké
+benchmarkovat a poskytováme
+zpátky těm zákazníkům, ale s tím
+musí souhlasit.
+Aby viděli, jak to vychází
+třeba v podobným modu větví.
+A ještě máme
+poslední data.
+Já tady vidím tvůj blaženej výraz. Já se úplně
+stydím ti do toho skočit. To klidně dalších
+20 minut si povědejte, kluci. To je úplně v pohodě.
+Ještě mě tam napadla jedna otázka.
+Na začátku jsi zmiňoval business intelligence.
+Jak s tímhle pracujete? Máte na to
+nějaké externí tůly, nebo si tvoříte
+nějaké vlastní věci?
+Jak to tam vypadá?
+Jasně. Tak my vlastně
+máme tam analytický modul,
+který používá...
+Je to vlastně nějaký BI,
+který je napsaný v Javě
+nad tím postgresem. Takže člověk tam může
+používat 10 druhů
+grafů, definovat si
+datamarty,
+takový to star schema
+z datasourců.
+A dohle jsme se
+jako napsali sami.
+A jinak ve firmě
+používáme ještě tablo, ale to asi není úplně tak.
+Jo, jo, jo. Jasně, jasně.
+Ale to tablo už
+jako nějakým způsobem nedodáváte
+k těm zákazníkům, k těm dáváte
+to, co jste si vytvořili sami. Tím dáváme to,
+co jsme si vytvořili sami, no. Jasně.
+A jim to stačí, nebo oni si na to třeba nastavujou
+ještě nějaké svoje řešení, vizualizátory,
+nebo možná i nějaké další datové zdroje,
+se kterýma vy třeba a priory nepracujete, nevíš.
+Co se má pro tu základní
+analýzu, pro
+pricing analytiky, ty používají
+tady ten modul,
+ty grafy třeba, ty analýzy jdou potom
+exportovat do nějakých dashboardů, který tam
+taky jdou vytvářet u nás.
+Máme jako pár
+případů zákazníků, kdy vlastně
+přes to API si tahají data
+třeba do tabla a používají to
+dál, anebo máme třeba integraci
+s Excelem, tak...
+Samozřejmě nechceme.
+To jsem se chtěl zeptat, jestli
+firma, která chce zabít Excel, používá Excel?
+No musíš občas
+se s tím nepřítelem bavit, aby
+prostě to potom...
+Protože jsi ho blíž, než dál toho nepřítele.
+Je to tak, tak ono to je asi
+přehnanýho, protože
+máme vlastně ještě jeden takový
+modul, se jmenuje Excel Client,
+což je poměrně sofistikovaný
+rozšíření
+do Excelu, který právě řeší to,
+že je pořád hodně uživatelů,
+který jako, i když
+mají to pricefix,
+tak si jako rádi třeba stáhnou
+vidět jako velký grid na webu.
+A když si to stáhnou do Excelu, tam si mění
+ty čísílka, ty ceny a pak zmáčkají tlačítko
+a ono se jim to nahraje jako zpátky.
+Tak to je jako, jsou zákazníci,
+pro který je tohle hrozně důležitý.
+Já jsem šťastný, že to máme
+jako člověka, který prostě dělal předtím
+jako dotnet a C-sharp
+a na Macu tam
+vyvíjí tady ten Excel Client.
+Ale to nejde, jako ten Excel prostě
+pořád jsou místa, kde je fakt
+jako nenahraditelný, ale zároveň
+prostě zabijí. Jako mám důkaz
+prostě v Dánsku, v tom vedli
+databázy lidí, jak budou očkovat během
+covidu lidi a v Dánsku
+jsou rodní čísla některý začínající na nulu.
+Což ale Excel
+smaže. Takže těm pádem
+oni neinformovali, já nevím, pětisíc lidí
+dánů, který prostě byli špatně nebo pozdě
+naučkovaný, takže Excel zabijí, přátelé.
+Je to tady.
+My jsme tady
+v první sérii měli Lucie
+Novou, což je velmi
+schopná manažerka, řekl bych, na velmi
+podobný úrovni, jako je Milan, taky
+VP of Engineering, nevím, jestli možná
+už je v touhle dobou taky senior VP.
+Každopádně její velká,
+taková, řekl bych, pochopitelná
+obsese byla kvalita QA,
+testování a všechny tyhle
+dobroty kolem. Jak
+se testuje a hlídá kvalita
+PriceFX?
+Tak samozřejmě základ je mít
+v každém tom týmu jako dedikovaný
+QA. Lidi, který
+postupně se stávají podle mě
+víc jako z nějakých jako
+manuálních testerů, tak jsou
+jako znalci té domény
+a vlastně přispívají
+v době jakoby
+designu k tomu,
+abychom psali dobrý software.
+A pak samozřejmě základ je automatizace,
+takže to, co my jsme udělali první, bylo
+soustředili jsme se
+na ten backend
+a pokryli jsme to vlastně hodně jako
+integračníma testama,
+který píšeme pomocí SPOCu,
+to je vlastně takový framework
+v Groovy, v tom se píšou
+testy hezky, takže tam
+na základě nějakých těch
+servis a endpointů, tak máme
+napsaný jako tisícovky
+testů, který
+běžejí vlastně
+proti databázím, která
+se jakoby rychle čistí mezi
+těma testama. Vlastně vývojář se
+vždycky vyvine, v rámci toho
+testu se řeší jenom jakoby základní data,
+který si tam přidá a
+kontroluje to, jak to
+vlastně
+proběhlo. To si myslím, že byl
+jako největší posun.
+Co bylo jako těžší období,
+tak je samozřejmě, když si vezmete,
+že máte třeba
+dost jako flexibilní
+uživatelský rozhraní, který jsem
+popisoval tu první generaci a nahrazujete
+to něčím novým
+a rozšíříte ještě tým,
+takže máte spoustu jakoby
+nových lidí, který jako
+třeba úplně nepsali
+to původní a třeba je nový
+prákounry, tak to bych řekl, že je takový, jako to byla
+taková výzva, kdy
+vlastně jakoby mít tu
+paritu všech těch jako funkcí,
+které byly v tom starým
+a zároveň, aby se to chovalo do detailu úplně
+stejně, to znamená nejenom ty
+optimistické případy, ale
+vlastně jako, jak třeba reagovalo na
+nějaký chybející data to UI,
+jako jestli to bylo jako tolerantnější
+nebo ne, co se stalo, když
+místo stringu přišlo číslo nebo tak.
+Tak třeba ten framework a knihovna,
+kterou jsme používali tam, tak byla jako
+třeba tolerantnější v některých
+těch částech než potom. A samozřejmě
+pro nějaký pak konzový uživatel
+to je jedno, že jo, ty vidějí třeba chybu.
+Tak tam jsme jako
+kromě těch standardních
+testů, který se píšou jako
+komponentových testů a unitestů vývojáři
+v JavaScriptu, tak jsme začali
+hodně jako automatizovat
+jako by na jako end-to-end testy.
+Takže
+Joker si určitě pamatuje.
+My jsme teda se vydali
+cestou, že jsme zkusili
+myslím, že to bylo CodeStep.js
+takový to klasický jako framework,
+který používal Selenium
+a WebDriver. A skončilo to
+samozřejmě jako vždycky. To znamená, jak ví to peklo
+prostě těch
+sem hodíme ještě dvě vteřiny, ať to počká.
+Jo, jo, jo.
+A já jsem věděl,
+že takhle jako
+šikovný kolegové
+a komunita na Twitteru právě
+mluví o tom Cypress.js.
+Tak jsem to jedno
+odpoledne nevydržel, jako
+v pátek. A vyskoušel jsem to.
+Úplně mě to nadchlo, protože
+to fakt vypadalo, přesně to video, jak tam
+popisuje ty výhody toho Cypressu, tak mě to
+mluvilo z duše. Jako to, co jsem
+už několikrát zažil.
+A měli to fakt jako hezky zdokumentovaný,
+že já prostě jsem za chvíli, jestli tam rozdělal nějaký příklady,
+tak jsem to ukázal jako kolegům
+v práci.
+A začali jsme to
+používat a už tam máme jako takový malej tým,
+který vlastně píše
+a věnuje se jenom jakoby pokrytí
+toho produktu tady těma
+end-to-end testama
+Cypressu.
+A kromě toho tam, jelikož my
+samozřejmě, že pak ještě máme
+nějakou jako matici, jako
+verzi ve smyslu, že na nějaký
+vývový verzi jako pracujeme,
+nějakou verzi budeme vydávat
+tady do měsíce, nějakou verzi
+máme teď v produkci, tak máme
+třeba vytvořený takhle jako testovací prostředí,
+kde vlastně QA je zodpovědný za to,
+že se tam držuje data
+v tom jako
+v rámci toho jednoho tenantu, my tomu říkáme partition
+a ty testovací
+data se vlastně
+klonují, třeba
+on demand mu každou noc, jakoby do
+těchto jednotlivých
+prostředí, takže
+potom je dobrý, když někdo reportuje
+třeba bug, tak je jednoduchý se
+podívat, jakoby projít si ty matice,
+jakoby v té matice kouknout na ty verze,
+jestli to je současní
+produční verze, frontend, backend
+a tak. Takže to se jakoby
+taky osvičilo.
+Takže automatizace je v podstatě
+nějaká, co nejvíc
+logování, co nejvíc
+vývoje,
+držení informací, když pak po nějakým
+zpětným reportingu, abych se k tomu dostal.
+To je asi ta cesta teda. To je ta cesta.
+Pořád, pořád, jako
+zase nebudu říkat, že prostě 100%
+je automatické testování.
+My hledáme právě ty části,
+které třeba zaberou hodně času
+a ten tým jako teďka
+cíleně pokrývá tady ty části
+automatickýma testama a pořád
+tam je jako část toho
+manuálního testování nebo
+nějakého exploratory testingu,
+že v každé ty části máme opravdu
+testery, který to procházejí a proklikávají
+taky. A máte tam nějakou
+řekněme dohodlou konvenci
+třeba, když já to chci testovat
+z hlediska UI, tak aby mi šli vývojáři
+naproti, nechali mi někde nějaký značky
+nebo v podstatě i tu třeba stavili
+v tom domu, ono pak je jedno, jak to vypadá,
+ale v tom domu mi to postavili třeba
+semanticky, tak abych já to mohl
+líp testovat.
+Tak samozřejmě bylo to
+taková konvence, používáme tam ty
+data atributy
+a bylo to
+takový jako coaching, mentoring,
+spolupráce. Jinak my právě ještě
+třeba ten frontend, tak máme v tom Reactu,
+tak používáme
+Undesign, design systém,
+který poskytuje nějaký
+komponenty a na základě
+nich jsme si vytvořili nějakou naší
+vlastní komponentovou library,
+kdy vlastně máme zase
+člověka, který udržuje
+storybook a ty komponenty, základní
+ty stavební kameny,
+který UX maluje
+ve Figmě a který pak dál
+používáme v rámci těch ostatních
+týmů. A už v nich
+přidáváme podporu pro lepší
+testování. Takže ty už když už je hotová,
+tak je testovatelná, má nějaký
+UI. Tak samozřejmě.
+Tak tady můžeš tvrdit cokoliv, klidně řekni,
+že jo. Ne, tak prostě
+nic není. Tohle je ta
+myšlenka, určitě tam není to
+úplně stoprocentní, ale ten směr,
+to je ten směr, kterým chceme
+jít. A on to pak
+trochu i souvisí s tím, že třeba
+náš produktový tým zbírá informace
+o tom, jak se ten produkt používá.
+Takže taky potřebuje nějaký zase identifikátory
+pro, já nevím, každý, každou akci, co
+ten uživatel udělá, analizují to
+prostě někde v mix panelu.
+A mně se úplně vrátili starý časy, kdy jsme dělali
+ve Vendavu to testování na UI
+a tak dále. A vlastně
+je zajímavý, že vždycky to skončí
+u toho, z hlediska toho automatizačního
+testra nebo toho vývojářa automatizovaných
+testů, že za nějaký čas
+ten produkt zná
+poměrně dost
+a vlastně do jistý míry je pak
+nositelem tý znalosti, jak to má fungovat.
+Máte to tam taky tak? Nebo
+bavili jsme se vlastně i o tom s Lucí,
+že kolikrát chodějí za QA
+nový vývojáři se zeptat,
+jak má ten software vlastně fungovat,
+protože oni to testujou
+a vědějí, kdy je to dobře a kdy je to špatně.
+Určitě tak je.
+Není to jenom jako QA, jsou tam
+prostě pořád tady jsou lidi, který tady jsou
+třeba hodně let a já jsem
+jako už tady s tím softwarem něco zažil,
+takže je tady pár
+takových lidí, který jsou
+znalci v té úvlasti.
+Ale když nevidí, tak můžou zaťukat u Milana.
+No asi, on jim poradí.
+Takže to máme, testři,
+samozřejmě vývojáři back-end,
+front-end, data scientisti.
+Jak budete s hiringem
+v dnešní době, Milana, jak je to služitý?
+Tak
+základ
+je být vidět,
+což vy to řešíte formou
+podcastu.
+My se snažíme,
+my se snažíme,
+buď máme vlastně jako rekrujtra,
+který oslovuje kandidáty,
+podporujeme tady Prague.js,
+jsou dobrý jako javascriptový
+meetupy jednou za měsíc,
+takže to vlastně
+sponsorujeme,
+navštěvujeme potom třeba restaurační podniky.
+To děláme taky,
+ale...
+A vlastně si myslím, že díky tomu
+jsme byli o tom
+známější v rámci komunity.
+A jinak, co se týče hiringu,
+byly doby, kdy tady opravdu nebylo jednoduchý
+jako sehnat jako dobrý
+javascriptový třeba vývojáře.
+Mluvíš v minulým čase, to už je pryč?
+Já si teda myslím, že doba se trochu
+změnila. Opravdu si myslím, že bylo
+jedno takový období, kdy to bylo
+hodně složitý a kandidáti, který
+chodili, tak měli hodně velký vždycky
+nároky a ego.
+A neměli zas tolik znalostí.
+A to je jako pár let zpátky.
+Já myslím, že se to pak trošku
+srovnalo.
+Minimálně ta nabídka byla
+vyšší, třeba kvalitnější.
+A v nějaké době
+jsme si říkali,
+že vlastně můžeme se podívat
+jako za hranice.
+Já mám vlastně bývalýho kolegu
+Roberta Macháčka,
+s kterým jsem pracoval kdysi v Systemetu.
+A v té době vlastně, předtím,
+než to koupila HP, tak založili pobočku
+ve Vietnamu.
+On se stal
+šefem
+pobočky vývoje softwaru
+pro HP ve Vietnamu.
+Pak HP zavřel všechny pobočky, které měly
+mít nejdvěstě lidí.
+On tam žije asi 15 let.
+Takže jsme ho vlastně
+obohatili i ten tým
+o kolegy z Vietnamu.
+Máme tam pár lidí QA,
+pár lidí vývojářů. Udělali jsme to tak,
+že na začátku ty první
+jsme pozvali
+na měsíc k nám.
+Takže tady s náma strávili měsíc.
+Potom tady byli
+třeba na Allhands a tak.
+Takže jsme se měli šanci
+poznat osobně.
+A docela to funguje.
+Ale byly tam nějaké takové ty šoky?
+Pamatuješ mi, když jsme letěli do státu, tak amíci dostali
+příručku, jak se mají k nám chovat,
+jak mají číst ty český narážky
+a tu ironii a sarkazmus.
+Bylo to něco
+podobného ražení?
+Já si myslím, tak určitě to bylo
+třeba vůbec
+ten život
+přijet.
+Třeba po počku tam v Danangu,
+to je hezký město
+na pobřeží u moře.
+Oni přijeli někdy v únoru
+tady do Prahy a zajsli jsme
+samozřejmě do typicky český
+hospody v Karlíně
+a vůbec třeba to jídlo se vybral.
+Tak to pro ně bylo složitý.
+Ale jsem měl kolegy, kteří byli zvyklí
+právě pracovat třeba v tom
+HP nebo
+z Evropy, takže
+myslím si, že to nebyl zase takový
+úplně velký šok.
+To je třeba
+větnám je moje
+cílová destinace plánovaná.
+A to znamená,
+máte tam třeba i benefity
+pro zaměstnance. Jděte tam na měsíc,
+čtrnáct dní pracujte, čtrnáct dní tam buďte
+u moře, něco takového.
+Bylo tam pár kolegů, kteří se tam takhle podívali
+a nějaký úplně takový program
+na to nemáme.
+A teď to bylo samozřejmě těžký s tím
+vůbec covidem.
+Co se týče PriceFX, tak my
+od začátku
+vlastně ta firma
+byla zvyklá fungovat jako remote.
+Na prvních čtyři roky ona neměla
+ani office. V okamžiku, kde
+já jsem nastoupil, to bylo nějak
+2015, 2016,
+tak jsme ho vlastně hledali jako první
+kancelář a to bylo tady v Praze, takže
+tady je hlavní kancelář.
+A do té doby to bylo pár jednotlivců
+někde rozmístěných po Evropě, který
+pracovali také na dálku.
+My jsme jako hodně flexibilní.
+Znovu třeba máme
+bring your own device policy, takže
+lidi si můžou vybrat
+na
+jakým hardwareu pracují.
+My to nějak jako kompenzujeme
+finančně, ale
+pořád si myslím, že
+nejsme úplně jako tradiční
+tady v tom. Když máme třeba 400 lidí,
+tak máme bring your own device policy.
+To je super.
+To je super a musím říct, že jsi mě překvapil
+tím, jak jsi říkal, že vlastně ta
+doba toho hiringu byla složitější
+než je třeba dneska, protože já mám
+pocit, že dneska to je opravdu jako
+pain. Voproti právě
+třeba pár letům zpátky, ale možná
+je to jiná zkušenost tím, že jste produktově zaměřený,
+že máte nějaký konkrétní stack,
+těžko říct, ale jako mám pocit,
+že ten boj je teďka
+čím dál těžší než naopak.
+Možná se teďka lidi bojí přeskakovat
+vzhledem k té situaci
+obecně ve světě.
+Může být. Jako právě zajímavý
+je, to jsem se zase naučil
+u konkurenčního podcastu
+CZ Podcast, tak v tom minulém díle
+ten hacker tam
+popisoval právě jako termín
+great resignation, jestli to o něm slyšeli.
+Že vlastně jako v Americe a v západní
+Evropě se to konzultovali
+s tím
+šéfikem z Anglie, tak je
+vlastně normálně to na Wikipedii jako
+great resignation teď jako období.
+Že vlastně jak skončil ten covid,
+tak je bruská vlna lidí,
+který dávají jako výpovědi
+a chtějí dělat třeba
+buď jako jít sami na sebe
+a korporace v Americe
+má jako bruský problém tady s tím.
+Tady to ještě asi není, ale...
+Že lidi vyloženě dropujou tu kariéru
+na korporátním levelu a jdou dělat na sebe,
+nebo startupy a tak dále.
+Mají k tomu asi jako různý důvody,
+ale jsou opravdu články
+o tom, jak prostě firmy
+přicházejí u lidi a třeba ten
+turnover je jako 50%, jakože s tím
+přicházejí o znalosti
+a to knowledge,
+kterou v těch firmách měli.
+Možná třeba jim v tomhle pomohy ten covid,
+kdy zjistili, že jsou schopní fungovat
+totálně remoutně, totálně
+soběstačně. Možná třeba to byl takový
+ten kopanec. Vám to ale
+zafungovalo se říkal tím, že vlastně vy jste
+od začátku remout, tak covid vám více
+méně asi zafungoval možná jenom
+do karet, ne? Jako když samozřejmě
+když vezmu kolem ty
+miliony mrtvejch, ale jako
+víš, jak to myslí?
+Ne, jasně, já si myslím, že jsme na to byli fakt jako dobře
+připravený, protože jsme tak jako fungovali
+i s těma kolegama, že jo, prostě někdy
+je pravda, že prostě v době, kdy
+opravdu bylo těžký tady nabírat,
+tak jsem vůbec neřešil nějaký, jako jestli ten kolega
+je v Praze nebo v Ostravě,
+kde máme třeba kancelář.
+Mám kolegy, který prostě pracují
+z Vysočiny, někde prostě
+tam na samotě u lesa
+na statku
+prostě ze 14. století
+a teď tam a pracují buď o tamto
+nebo třeba z Sůstí nebo
+ze Zlína. Jako kdokoliv
+byl dobrý,
+tak jsme řešili jako místo, no.
+A má to nějaký vliv, nebo
+vnímáš to třeba ty, že to má
+nějaký vliv na produkt?
+Protože je produktivita vývojářská,
+kde si myslím, že izolace je naprosto v pořádku
+vlastně chtěná. Podle mě třeba takový ten typický
+setup typu open space,
+to je úplně jako debilní setup pro developera,
+který se potřebuje soustředit. Na druhou stranu
+pak jsou pozice, které potřebují komunikovat.
+Kolikrát se za 10 minut dohodneš
+líp než hodinu na telefonu,
+když jste spolu v jedné místnosti.
+Jak ty to vidíš
+u těch jiných než vývojářských rolí?
+Takhle, já bych se ještě vrátil
+k těm vývojářům,
+a zase by to nevyznělo. Já si myslím, že je opravdu
+důležité, aby se ty lidi bavili.
+A my jsme měli štěstí to, že
+ty vývojáři a ty týmy se stihli
+poznat třeba před tím covidem.
+Takže oni měli opravdu,
+hodně z nich mělo vybudovaný
+i mimo lidský vztahy.
+Mimo lidský.
+Sociální.
+Sociální vazby.
+Že opravdu byli třeba kamarádi
+a znali se a tak potom
+když se to přepne do toho remote modu
+jako během covidu,
+tak jako prostě oni neváhají
+a zavolají a všechno to funguje jako krásně.
+Přišlo pár jako novějších kolegů,
+který jsme třeba viděli
+jako nastoupili první den
+a pak jsem je viděl jako za půl roku.
+Ale to se dalo, podařilo
+myslím nějak jako absorbovat.
+Ale určitě to nenahradí normálně tu...
+My teď řešíme to samý,
+že vlastně začínali jsme
+třeba nějaké jako větší, novější
+věci. A vlastně v nějaký
+moment jsme museli jako zavolat
+a říct, jo hele, pojďte všichni se sjedem
+třeba jako v Hradci, tam budeme
+dva dny zavřený, půjdeme na večeři.
+A vlastně až u té tabule
+se objevilo jako
+spoustu těch problémů, který já
+ani nevím, na který bychom narazili potom.
+A třeba jsme je tam jako vyřešili.
+Takže jako do budoucna,
+co chci udělat, je, že kdykoliv budeme teďka
+zase začínat nějaký jako větší, novější
+věci, tak vzít ty lidi jako
+někam odjet
+na dva dny. Výjezdní zasedání.
+Výjezdní zasedání, no.
+Ok, super.
+No, máš to jenom, Ánku, ještě dvě
+takový hezký otázky. No, jenom
+to už jsou takový ty sumírovací, protože
+my časově blížíme ke konci.
+Zajímá mě, ty seš
+v PriceFX už nějakou dobu, máš už něco
+za sebou, nějaký revrighty. Když se podíváš
+teďka dozadu,
+co považuješ obecně za
+ten největší úspěch od té doby, co tam seš?
+Co tě jako
+těší, když se podíváš a řekneš, jo, tak tohle jsme
+ve finále, jsme udělali dobře.
+Tyjo, tak
+určitě mě těší to, že jsme byli
+schopní tady postavit
+jako poměrně
+velký engineering team, který má
+podle mě pořád dobrou kulturu.
+Těší mě, že jsem byl dvakrát
+zvolený MVP, Most Valuable Player
+po způsobě.
+Takže
+tím chci říct, že
+já si myslím, že to, no,
+že
+atmosféra,
+v engineeringu si myslím, že je dobrá.
+Mám tam pořád
+spoustu jako
+dobrých kolegů,
+kamarádů,
+tak a vlastně
+vydáváme nový a nový verze,
+máme větší a větší zákazníky,
+takže myslím si, že jako se to podařilo
+dostat do nějakých
+jako
+procesů, ale tak, aby
+se neudusila úplně jako ta
+kreativita a ta zábava.
+To zní skvělá,
+to zní skvělá.
+A naopak, když se podíváš
+zpětně nějaký jako fakapík, který by
+se sklidně odpustil zpětně viděnou?
+Tak fakapík,
+ty jo. Já myslím, že
+třeba u toho přepisu
+chtělo to jako předvídat
+víc, jako co nás čeká
+a nastavit ty očekávání
+jako líp, protože
+to bylo jako poměrně
+dlouhý období a není úplně jako
+jednoduchý jako vysvětlit
+třeba tomu top managementu, proč to jako vlastně
+a
+takového
+tak trvá, protože
+ono je něco jiného, když někdo
+si vezme jako novej
+třeba ten, jako to nový webový
+UI a začne na tom dělat, implementovat
+nový jako projekty,
+tak vlastně
+nezná nic jinýho, ale jako
+přesvědčit lidi, aby přišli
+z toho,
+z toho, na co byli zvyklí jako několik
+let a znali tam jako všechny
+ty jako detaily a jak to
+funguje.
+Na novej
+jako web, který vím,
+jako představující,
+přijde vám to strašně cool
+a jim prostě
+můžou vadit úplně jako základní
+věci, který prostě třeba až
+jako musí vůbec hned napadnout.
+Tak tam to bylo, to bylo jakoby
+velký projekt, no. To bylo větší, než se zdálo.
+Je vtipný, jak se kohokoliv
+zeptáš, kdo prošel Revritem.
+Nikdy to nekončí jako
+totálně růžová cesta s unicornama
+a střílenýma motýlkama.
+Vždycky je to velká, velká bolest, no.
+No je tam nějaká ta uncertainty
+vždycky, že jo. Tím to asi bude, ne?
+Jakože prostě predikovat se to nedá a člověk má
+pocit, že se to vždycky dalo predikovat trošku víc.
+Jako lidi jsou
+v zásadě vývojáři, jsou
+jako optimisti, že jo. Takže
+ono je, vždycky to vypadá,
+že to půjde rychlejc, než to pak jako
+ve výsledku třeba jde, no. Jasně.
+To bylo asi manage expectation,
+nastavit očekávání, no.
+Tak to jsme se koukali do minulosti,
+no a teďka na závěr, pohled
+do budoucnosti, jak to vidí dál
+Milan. Jasně, tak
+dostali jste samolepku s unicornama.
+Je to jasný, kam míříte, ano.
+S jednorožcema, takže
+samozřejmě náš cíl je být
+další, tentokrát to je
+jako český, česko-německý
+unicorn, to znamená firma
+s tou miliardovou valuací
+po vzoru product boardu.
+Ale jinak
+jako cíl je pokračovat takhle
+a získávat větší
+zákazníky a hlavně, aby
+hlavně, aby ta platforma jako pěkně
+fungovala a pořád
+to byla zábava.
+No tak jo,
+Milane, my ti strašně moc děkujeme, že jsi dorazil.
+Přejeme, ať jste co nejdřív
+unicorni, ať co nejdřív
+můžete vykešovat
+svoje akcie, ať jsi
+spokojený, ať se ti daří.
+No a doufám, že se uvidíme
+zase dřív než za šest let, nebo něco takového.
+Tak jo, díky moc
+kluci za pozvání a děláte to dobře.
+Děkujeme. Děkujeme, měj se krásně. Čau.
+Čau, čau.
+My v tuhle dobu vždycky rekapitulujeme našeho předchozího
+hosta, zrovna jsme si spolum dělali legraci,
+že bychom mohli poprvé říct,
+to bylo strašný, to byl hrozně špatný host,
+to už tady nechci nikdy vidět, nicméně i tak
+zase by to nebyla pravda,
+protože Milan byl jako tradičně
+fantastický.
+A pro mě Datov je hrozně zajímavý produkt,
+se kterým Milan pracuje,
+protože já teda o PriceFX
+musím říct, jsem slyšel už několikrát,
+teďka nezávisle na sobě,
+jako zvenku prostě koukající
+a fungující v tomhle oboru
+nebo v tomhle světě IT.
+Takže myslím si, že mají kluci slušně našlápnuto.
+Vypadá to, když popisoval
+ty jednotlivý klienty, který mají, tak to už
+jako solidní značky.
+Já jsem úplně čuměl, protože já si pamatuju ty začátky,
+ještě i vzhledem k tomu,
+že já jsem dělal de facto v konkurenční firmě
+na začátku a vím, že to byla malinkatá firma,
+která teprve začala pokopávat
+kotníky těm velkým hráčům a teď
+v podstatě tady máme budoucího Unicorna,
+řekl bych, už jednoho z velkých hráčů,
+ať se na to koukáš jakoliv.
+Takže udělali obrůzkej kus cesty
+a jako Milan
+všechna čest, ale
+jak říkáme, já jsem s Milanem pracoval, takže
+nejsem překvapen, Milan je hlava a zároveň
+strašně fajn
+lidský člověk, takže
+takový to držení té správné atmosféry
+v tom týmu a aby vývojáři
+byli produktivní, ale zároveň, aby byli
+nechci říct šťastný, to je zase
+úplně nehappy, ale prostě, aby byli v pohodě,
+aby to tam bylo příjemný, tak to si myslím,
+že u Milana je v podstatě
+built-in feature.
+To bylo skvělý, potom jsme vlastně, když jsme
+donahrávali tenhle
+díl, tak jsme tady chvilku kecali.
+No chvilku, my jsme tady kecali šťastně 25 minut,
+ale už to nešlo publikovat.
+No jasný. A bylo to super, jako je to
+fakt super člověk a rád s ním někdy zajdu třeba na pivko
+nebo cokoliv takovýho.
+No a zrovna jsme se o tom bavili, že bychom mohli udělat nějaké
+hre Union těch lidí,
+který spolu kdy pracovali,
+což bychom mohli vlastně překrýt i
+přes náš podcast
+a vytáhnout si ty různý hosty,
+který jsme měli. To je dobrý nápad.
+A udělat si nějakou pořádnou kalbu, takže to je všechno,
+ale je to otevřený. Těch možností je tak strašně
+moc dneska, že je to tam.
+No tak jo, máme za sebou první díl
+třetí série. Začneme
+okamžitě plánovat další a další
+hosty, aby vás to i nadále bavilo,
+aby jsme měli tady s kým si povydat.
+Jak já říkám, ne povídat, ale povydat.
+To má Poli.
+To mi hrozně líbí, hrozně.
+Je tam Mado Boleslavština. Je to tak.
+No a my se uslyšíme zase
+při troši štěstí, když se ženeme
+přes Velikonoce správného hosta
+zase za dva týdny. Super, budu se těšit
+a mějte se do té doby krásně.
+Taky. Čau. Čau.

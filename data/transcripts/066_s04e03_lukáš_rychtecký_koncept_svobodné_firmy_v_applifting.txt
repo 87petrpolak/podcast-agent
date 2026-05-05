@@ -1,0 +1,2141 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Krásný den, milí posluchači, vítejte u dalšího dílu vašeho oblíbeného IT podcastu Pod vocasem.
+Naproti mě sedí, jako vždy, Petr Polipolák.
+A naproti mě vonavý Roman Žukr, provazník, ale Román Kruh.
+Čau, čau, čau. Tak jaká? Ty jsi včera vrátil z nějaký cesty, viď?
+Jo, jo, jo, byl jsem v Dráždenech povídat něco o spolupráci s Panasonikem, to je vždycky fajn.
+Protože na to jsme v oddělení hrdý, takže jsem rád, že se to povedlo.
+No a dneska jsem zpátky. Vlastně včera jsem přijel v noci, přijel jsem sem a dneska zase natáčíme brzo ráno.
+Přátelé, 7 hodin 15 minut, ale máme to tak nejradši, jsme zjistili.
+Je to tak? Kolik hodin jsi spal dneska?
+Dal jsem si sedmičku.
+No tak to je dobrý. Já jsem myslel, že třeba máš nějaký třihočky za sebou nebo něco takového.
+To bych tady vůbec nemohl bejt.
+Ne, máš to takhle, že když se nevyspíš pořádně, tak nefunguje.
+Ale fakt jsem nepoužitelný. Jako sedm nebo osm hodin nic jiného neberu.
+No je pravda, já jsem se včera vlastně taky moc nevyspal, nebo spal jsem taky sedmičku a mohl jsem spát déle,
+ale jak si se mi nezadařilo vypnout Netflix, protože čumím na novej seriál, který je úplně boží, jmenuje se The Playlist, jestli se o tom neslyšel.
+Kámo, viděl jsem první díl.
+Jo, už to viděl.
+Viděl jsem první díl.
+Super.
+Je to bombice.
+Co na to říkáš? Je to bombice. Trošku mě, nevím proč, mě trošku odradilo to, že to je vlastně fiktivní příběh.
+Píšou, že to je fiktivní příběh. A ono jako potom ten příběh takovýhleho úspěšního člověka vždycky, podle mě dost podobnej tomu, co oni tam se snaží předvádět.
+A jako ten první díl byl úplně bomba, takže se těším dál. Takže prosím tě hlavně nespojiluj.
+Já nebudu spojlovat, ale dojel jsem včera právě čtvrtej díl a už jsem to musel vypnout, abych to nebingenul celý a nechávám si to, že to dneska doťuknu.
+A je to teda musím říct opravdu, pokud jste to milí posluchači neviděli, dejte si to na Netflixu, je to jenom šest dílů a nejsou moc dlouhý, jsou kolem nějakých 50 minut.
+Je to právě o začátcích firmy Spotify. A ty říkáš, že to je fiktivní. No je tam spoustu věcí, které jsou i v té knižce, kterou jsem o Spotify četl.
+A zajímavý je, to uvidíš od toho druhého dílu, že každý díl je z pohledu někoho jiného. Takže třetí díl je z pohledu jejich právničky, čtvrtý díl je z pohledu jejich CTO, nebo toho jednoho z těch zakládejících programátorů, nebo hlavního programátora.
+A každý ty stejné věci vlastně vysvětluje po svým, jak je viděl, nějakým tom časa. Je to hrozně zajímavý.
+Zajímavý je i, že vlastně je to takový koncept de facto svobodný firmy, což i v tom štetým díle se tam hodně zmiňuje.
+Jinak ještě na tohle téma doporučuji, pokud jste nečetli knížku The Spotify Play, právě o tom, jak zakladatel Daniel Eck porazil zbytek toho hudebního průmyslu, tak doporučuji, ta knížka je docela dobrá.
+A je tam zajímavý, že člověk by čekal, že to je technologická knížka, že třeba bude, já nevím, 80% o tom, jak řešili mikrotorent, jak řešili přepis, prostě to jejich protokolu, aby zahazoval pakety, ale byl rychlejší a tak dále.
+To tam moc není, ale je tam to, jak třeba dlouho vyjednávali s těma nahrávacíma společnostma, jak prostě spal po hostelích, po hoteli, že by prostě ušetřil co nejvíc peněz a mohl jezdit na ty jednání.
+Že vlastně ten život toho zakladatele startupu, technologickýho de facto, končil u toho, že objížděl EMI, Universal a prostě tyhle sty a snažil se je doprosit se těch práv, aby to mohli dělat všechno legálně.
+Že to je zajímavý, zajímavá knížka.
+Což tam je malinko vidět, že vlastně to jako hodně musel zkomunikovat a přesvědčovat lidi kolem, takže jako rozhodně doporučuji.
+A po dlouhé době to byl opravdu seriál, který, když jsem tam viděl, že tam je, tak říkám, hele, jdeme do něj, takže jsme to hned se ženou puštili.
+No já jsem tady trošku zaspojloval, že to malinko souvisí s tou svobodnou firmou a to je konec konců i téma, které budeme řešit dneska.
+Jsi to krásně připravil dneska, ten oslý ústek.
+To je jení ústek, to je most oslý dneska.
+Ano, pozvali jsme si Lukáše Rycheckého ze společnosti Uplifting, která podle toho, co mi Lukáš minulý týden na obědě vyprávil, a to byl i ten důvod, proč jsem ho sem okamžitě dotáhl, říkal, my jsme svobodná firma, my to děláme trošku jinak a říkám, a to je téma, která je třeba tepat v našem podcastu.
+Ano, ano, já jsem o tom jenom četl, s Lukášem jsem na obědě nebyl a je to opravdu zajímavý koncept, takže já se opravdu těším, co nám Lukáš poví.
+Ale on mi před deseti minutama psal, že má pět minut zpuždění, to je možná čas, abych pro něj šel.
+Učíkej mu.
+Po peripetých s uložením kola u nás v kanceláři, teď ti pak někdy řeknu, Poli, je tady dokonce kolárna.
+No ona tu je, ale Cyril tam nechtěl dát svoje kolo, protože ho položil za příliš cenou věc, aby ho nechal někde v nějaký kolárně.
+No tak Lukáš se toho nebál, kolo tam uložil, dorazil a je tady s námi ve studiu. Ahoj.
+Na zde pánové.
+Ahoj Lukáši a neboj se, ta kolárna je určitě nějak zabezpečená.
+Já jsem pan vypravil.
+Já jsem pan vypravil, velice secure a navíc na klíčích byl nějakej kovošrod Československu, ti říkám ochu, kámo, ta klíčenka.
+Ta se předává z generace na generaci.
+Už sto let.
+Tam si Laurin s Klementem ukládali první kola, ti říkám.
+Já se tam už jsme někdy podívali.
+Ne, ne, dej si to, je to super zážitek.
+No nazdar Luky, tak ty jsi k nám dorazil, možná na začátek řekneme takovou zajímavost.
+Lukáš chodí na pivo nebo na oběd s Cyrillem Sahulou, zároveň Cyril Sahula chodí s Dominikem Oštěkem, Lukáš chodí s Dominikem Oštěkem taky na jídlo a já jsem byl teďka s Lukášem a předtím s Cyrillem.
+Takže vlastně ještě mi chybí, aby si dokreslil ten čtverec úplně kompletně, každej z každý, tak abych já šel ještě s Dominikem, tímto s Dominika na oběd a máme to komplet.
+Ten máme si udělat ta komunita, je to obrovský ta komunita, těch lidí je spousta.
+Takže vlastně my jsme se minulý týden s Lukášem bavili a padlo spoustu zajímavých věcí a jedna z nich byl uplifting, svobodná firma a tak dále, říkám, ale musíš přijít k nám, musíme to probrat.
+Takže vítej a pojďme hned na začátek, představ se našim posluchačům, co děláš, kde to děláš a tak dále, takový ten klasický úvod.
+Ok, tak nazar ještě jednou, já jsem Lukáš, celou kariéru jsem programátor.
+Poslední rok se to trochu změnilo, přešel jsem do role solution architekta a vlastně chcem se rovnou dostat do toho, do toho upliftingu, jako máš jako lajnu.
+Hele jak chceš, jak chceš úplně, to je tady, to je free, tady klidně můžeš jako, nebo jestli třeba co ti chutná, klidně dáme to.
+Tak já začnu od začátku té kariéry, ne?
+Jasně, jasně dáme.
+Bavili jsme si i o tom vlastně, jakým stackem jsem prošel, jak já jsem,
+skromně řeknu, jsem dělal asi jako všechny mainstreamový jako
+technologie, i na škole jsem dělal C-Sharp jako,
+na nějakém domácím úkole, takže já se i tam mám odkotnutý.
+Začínal jsem na průmyslovce na nějakém asi Delphi a já jsem to nesnášel.
+No jasně, to je objektový Pascal, že jo?
+Já jsem nesnášel programování.
+Jo, ty jsi nesnášel programování, já myslel, že Delphi jsi nesnášel.
+Já to vůbec nerozuměl, jo, protože to programování bylo,
+ty jsi chtěl potřebovat rozblikat nějaké diody a to jsi dělal tak,
+že jsi je prostě jako někam jako do nějakého stacku do buněk přesouval
+nějaké čísla a ty si pak sčítal.
+Víš, jako mi to nedávalo smysl, jako tohle rozbliká ty diody.
+Když je ti sedmnáct, tak přece jenom máš trošku jiný zájmy.
+Takže já jsem šel na elektriku a fel.
+Tam mi to přestalo bavit asi po prvních čtrnácti dnech.
+Když jsem zjistil, že to není ono a vlastně ta algoritmizace,
+co jsme tam dělali v Javě, že prostě se učíš opravdu základy programování,
+že musíš se sednout s těmi lidmi z těch gimplů, kteří to často jako neznali,
+dneska už to v těch gimplech je.
+A tam jsem si řekl, ale tak já vlastně chci programovat.
+Takže tě zpátky hodilo programovat?
+Jo, jo, jo. Vlastně díky klasickému felu,
+my znechutili tu elektriku, která mě bavila na té průmyslovce,
+který jsem jako rozuměl.
+Děkujeme felu.
+Ale vlastně se to celkem jako otočilo.
+Takže já jsem prošel jako standardně felem,
+tenkrát to byl STM,
+dneska už se zase jmenuje nějak jako jinak,
+ale je to vlastně něco jako to OI.
+Myslím, že o ty hlavní dvě
+jakoby branche,
+buď to děláš na tom felu, tam máš ty
+paly vyhazovací, nebo děláš na FITu,
+tam máš zase pary vyhazovací, takový slavní předměty.
+Aha.
+No a vyhrával jsem během toho programu.
+Už myslím, že od prváků
+na
+na té elektrice už jsem začal
+programování, bych to ani tak nenazval,
+to byl šablon, že o co si budeme povídat.
+Všichni jsme tam byli.
+No a o to to šlo, že to byl prostě nějaký PH,
+pak Čík dala tu džavu, hečko,
+všechny tyhle ty věci.
+A
+pak jsem byl nějak
+jo,
+na té škole Čík dělá tu džavu,
+to byl jako mainstream, to byl jako mantra, co do nás
+docela tlačili, že vlastně
+ta bolest, kterou procházíte,
+to je ta správná bolest.
+Takhle se dělají ty robustní informační snadky,
+je to v těch velkých bankách,
+v těch pojišťovnách, tak je to jako správně.
+Že to nemá být jednoduchý, že to musí bolest.
+Jo, jo, jo, přesně. A já jsem si říkal,
+jo super, já chci dělat ty velký, jo,
+prostě do těch bankách dělat ty
+jako fakt velký věci.
+To je jako tvrdák, jo, fakt se mi to jako líbilo.
+Ale bylo mi jako divný, protože jako
+udělat jako semestrálku, kde máš
+jako tři obrazovky, z toho
+jedna je validace formuláře,
+druhá je prostě zobrazení těch dát, jo,
+například na nějakých webových aplikacích.
+Protože to jako je tak bolestí, trvá to dlouho,
+nehledě na to, že
+ten kód, který tenkrát
+ještě, což já nevím,
+jak je to jako na dotnetu, ale na Javě
+to bylo, že byly ty jako ty
+ty servery,
+že se tam deployovalo spousta aplikací na jeden server,
+jo, to bylo, že máš ten velkej silnej počítač,
+dneska to máš stejně, že
+kora máš počítač, ten ti běží do krví imidže,
+tak tenkrát to bylo v rámci té JVM-ky.
+Tak ti to prostě nefungovalo,
+se deployovalo třikrát, pak začalo
+náhodně fungovat, to není jenom moje
+zkušenost, jo, to děli všichni,
+spousta lidem to znechutilo vůbec jako jít, jako dělat
+Javu prostě, kvůli tomuhle, protože to
+jako nedá se na to spolehnout,
+já vůbec nechápu, že ty lidi v těch korpech tam
+sedějí a jsou s tím v pohodě,
+skončil jsi na drogách. No, tak jsem
+začal koketovat, zkušel jsem v MTV
+ještě jako jiný ty, jiný jazyky,
+jsem si říkal, hrubý Python,
+tenkrát bylo Node.js na hypě,
+to začínalo, vypadalo to hrozně cool,
+říkám, tyjo JavaScript, to už jsem
+trošku něco dělal, začal mi jedna
+semestrálka, abych viděl, že Node.js jako nejde dobrá
+cesta. Tak JavaScript na servru, že jo.
+Nějaký lidi mě teď nebudou mít rádi, ale
+ne, tak pojď, tady naopak
+můžeš mít silný názory, jo, tady
+naopak jsou oceňovaný a my je máme rádi,
+protože já si myslím to stejný, jako
+Node, Node, Node.
+No, jasně, souhlas.
+No, tak já jsem
+dokončil tu školu,
+už jsem
+nějak je trošku znal jako ten Python,
+a to bylo vtipný, ten krásný zabránek
+z Usetechu, to bylo,
+já byl na PhD, jo,
+nějakých prostě tři měsíce, něco takovýho,
+se mnou představujte, mě to dělal
+PhD, to mi nedává úplně jako smysl.
+Počkej, to neříkej, řekni, byl jsem na PhD,
+říkaj, jak to skončilo. Já byl na PhD
+a já jsem pak to vzdal, bylo to pro mě slabý.
+Přesně, bylo to moc jednoduchý.
+Mezi tituly to neuvádím, že nechci.
+Nechci se povýšovat nad vámi, hovorej.
+No, no to celý,
+to je prostě
+ten státní sféra
+a to školství je
+je jako další zbytečná bolest,
+kterou plně člověk nepotřebuje procházet,
+tak jako ji neprochází, no.
+No a Honza Beránek mi říká na snědní,
+hele, mám tady pro tebe jeden projekt,
+tady jako, to je prostě, tady
+prorajivku.
+Říkám, to zní super, to bych chtěl dělat.
+Přijďme, přijď. A já, čkej,
+já jako nemám tým.
+Já jsem tady byl ze školy, já jsem programátor.
+No, tak jsem prostě řekl kámošům,
+spolužákům, no a jako
+za týden jsme měli tým
+a ve třech jsme to začali dělat.
+A to už mělo nějaký název?
+Ne, ten tým, jestli už
+ne, ne, to bylo v rámci toho
+ne, ne, to bylo v rámci toho
+usertechu tenkrát.
+On stavil produkt jako prorajivku.
+A co jste tam stavili?
+Bylo to, nebo to ještě
+existujeme, jsou sečteno.
+A je to
+zjednodušeně,
+ta motivace je, když jsi CEO firmy,
+je potřeba vidět jako do čísel.
+Ale to, co ti dává účetnictví,
+je prostě strašně podrobný
+a často tam jako nevidíš ty data,
+který potřebuješ. A ty potřebuješ vidět jako
+jakých mám pět top největších klientů,
+který mi nosí jako revenue, jako cashflow,
+jako basic tyhle ty pohledy.
+Ale ty účetní systémy
+jsou dost jako nepříjemný.
+No, tak ty jsou hlavně kvůli jinému
+ten use case, no přesně. Takže my jsme jako stavili
+reporting nad tím, plus použil
+nějaký APIčko.
+No, takže vlastně takhle to začalo, tak jsem
+začal dělat Python, do toho jsem dělal
+projekťáka a do toho jsem dělal ještě jako frontend.
+Tam byl nějaký JavaScriptů.
+Takže ty jsi ze školy rovnou skočil do toho,
+že jsi kromě programování musel sehnat lidi,
+do toho jsi řešil
+ten vývojový cyklus,
+projekťáctví, všechno tohleto.
+To je slušný start.
+Slušný start.
+Co vám budu povídat, tak jako
+velice brzo jsem zjistil, že ty věci
+nejsou tak, jak jsem si je představoval.
+Mojí první styk jako
+s korporátním prostředím, sice z vinků,
+ale kdy s tebou prostě vytírají podlahu,
+protože jako jsem ten
+mladý ucho, který přišlo, neví, jak to
+funguje, neví, na co se má dát pozor.
+Umít to technický delivery nějak,
+protože Čech programoval prostě pět let v tu dobu najednou,
+už v praxi, ale
+vlastně
+fungování s klientem, prostě tajemší ty,
+myslím, že to jako sám znáš asi.
+Takže to bylo dost jako divoký.
+A
+takhle to jako pokračovalo, pak tam byly nějaký projekty
+zase pro Home Credit.
+No a to mě jako
+v ten moment jsem byl
+tom dost utopený, takže si říkám,
+hele, já chci vlastně jako víc programovat.
+Jsem to vlastně studoval, baví mě to
+a teď tady jediným, co jako moje
+programování bylo dělat sumy jako fekcelů, že jo.
+Odpovídat na nějaký jako maily
+a zjišťovat, proč jako
+něco není, když víš, že to jako jde udělat a tak.
+No takže jsem výšel
+to programování.
+Teď už to jako moc nedělám, ale
+jsem jako třeba
+8 let jako jel hodně to, že jsem si každý
+rok učil nový jazyk. Jasně.
+Ne jako nejenom přirozený, ale jako programovací.
+Učil znamenáný, že jsem chtěl pochopit, co se tam děje, jo.
+Ne, že jsi člověk profík, samozřejmě to jako
+to nejde, že tam máš ten steak a ty věci okolo.
+No a takže jsem prostě
+jako koketoval s nějakýma
+různýma, koukal jsem tenkrát jako na ten Haskell.
+Což vypadá strašně sexy,
+ale jako vlastně
+furt jsem neviděl, jak s tím začít.
+Pak už tenkrát,
+tenkrát už lítal jako na Twitteru
+Clozer. Říkám si, heď mi nejde
+ty závorky, co to je.
+Tak jsem si říkal,
+tak kterýž zkusím, tak ten Clozer.
+To se nedá číst, konec.
+Tak jsem si jako učil, jako Haskell, jak si dělá.
+Tobě Haskell přijde čitelnější, než Clozer?
+To je pro mě. Ještě ne. Já si myslím, že
+teď už. Ale na začátku to jako vypadalo,
+jako čekaj, když jsou ty závorky, pak tu Haskell mi
+najednou chyběly, jo. Protože tam je všechno
+expresšná, ale jako není jako
+uzavřená opticky, tak mi to jako
+vlastně jako vadilo, jo. Ale
+ale o to ani nejde. Nespí o to
+pochopit, jako jak modelovat ty problémy.
+To mi přijde na tom vlastně to nejzajímavější, jo.
+Proto si myslím, že má smysl i dneska se třeba
+naučit jako Erlang. Protože ten prostě
+jazyk řeší
+typický problémy úplně jiným
+způsobem, než to děláš v Javě.
+Jako ty to přece to nauha můžeš přeníst a vyřešit to
+v Javě úplně stejně, jo. Prostě jako
+není nic překvapivýho. Já jsem takhle se
+bavil třeba na pohorovách s lidma, který
+programovali burzu opravdu ty core systémy
+a bavíme se o tom, jak tam funguje
+něco v Clojure. No a
+on mi to popisuje. Říká, jo
+to funguje jako takhle, my jsme to dělali v Javě,
+jsou v Clojure implementovaný ty
+atomický věci. No jasně, protože
+to je prostě design pattern z roku 72, že jo.
+Jako není jako nic novýho,
+akorát, že ten člověk to prostě dělal
+opravdu už těma rukama v tom bahně, že jo.
+V té Javě, že jo. Což samozřejmě není úplně příjemný.
+Nemáš tam takový ty pěkný věci
+jak v tom Clojure, z pohledu jako
+high level věcí, že jo. No ale já jsem tě
+o toho trošku odklonil. To by teda, ty jsi
+nejdřív předtím ještě skočil do toho haskelu.
+No, no, no, no. Jsem do toho haskelu,
+s ním jsem se jako hrál a těch samozřejmě
+quicksortů mi pěrá hrozně hezky, že jo. To je takový ten školní
+pseudocode. Ale jako pak
+přejít jako trošku dál,
+je už jako náročně jistý
+v té hlavě. Celý monádičky a tak.
+No jasně, to je jako mi
+přišlo, já vlastně chápu, co se tady
+jako děje, jo. Celá ta kategorie, která mi
+přijde, že je jako problém sám o sobě a teď jako
+místa bych řešil ten
+programovací problém, to modelování, tak já se tady
+už si bych porozuměl algebrickým strukturám,
+že jo. Co bym pověděl, já úplně
+nejsem člověk, který byl silnej na algebru, že jo.
+Hele, viděl jsi někdy track
+těchto lidí, nebo jak vypadá track
+na funkcionální konferenci
+pro haskelu? Ne. To jsou fakt lidi, kteří
+vypadají stejně. To jsou jak IBM,
+lidi ještě v těch košilích s krátkým
+rukávem, ještě tu tuštičku za to.
+To fakt vypadá, že přestáli ze sedmdesátých let
+prostě z nějaké kanceláře
+nebo z nějakého vědeckého pracoviště
+je vyflusli na tom trackovní, kde se za sebou
+toho vypráví něco, čemu nejde
+rozumět. A podle mě zase se vracej zpátky
+do roku 72. Všichni jsme spokojení,
+jim si dobře pokecali. Takže to,
+z toho si nic nedělejte. Podle mě to patří k tomu jazyku.
+Asi to tak jako je, no.
+A pak samozřejmě
+říkám, furt to běhalo na tom Twitteru,
+říkám ty závorky, tyjo, to je takový,
+jako no, tak tomu jako trošku dám.
+Trvá to
+14 dní.
+A myslím si,
+že naopak je to spíš jako,
+proč je to jako nečitelný, na první pohled,
+je spíš jako vin na mainstreamových jazyků.
+A což jako není, žejo, Fsharp,
+což je prostě cečková syntaxe.
+Naopak mi dneska přijde strašně,
+strašně jako nečitelná a komplikovaná.
+A jako je tam houspla hacků, svousta hacků, žejo.
+Víš, jako najednou
+přidáš prostě,
+přidáš jako Error Functions do Javascriptu,
+tak ty měníš jako syntax,
+měníš Highlighter, měníš Compiler,
+měníš nějaký Lintry prostě, jo.
+Teď jako všechno v nějakých verzích,
+teď ti lidi, ale teď nemůžeš napsat tady tu závorku,
+protože jako něco, a ten musí napsat tlustou šipku,
+ale jako tenkou.
+Nedává to vůbec smysl, jo.
+Já si i tak to trošku myslím,
+jenom rychlý intermezo,
+že kdyby člověk si učil programovat,
+tak si myslím, že ten Clojern,
+nebo i Lispový, jasně na začátku,
+je vlastně jako dobrý, protože říká,
+že je to funkce, sčítání je prostě funkce.
+Nazdar. Všechno úplně stejný.
+Najednou to je konzistentní, jo.
+To, že neznáš funkci násobení, budíš,
+ale přečteš to. Říkneš, jo, tady je funkce hvězdička.
+Já vlastně nevím, co dělá,
+ale vím, co se jako děje v tom kódu.
+Jakoby pohledem, jo.
+Takže
+ten track byl takhle,
+a já jsem, říkám, koketoval s tím Clojernem,
+říkám, no jo, ale jak my tady děláme v Pythonu,
+a já dělám dost věcí, jakovým guerilla stylem.
+A měli jsme tam tenkrát administraci
+napsanou
+v Google Clojern Compiler.
+To je to, v čem je napsané Gmail, jak to tady zmiňoval Aleš.
+To furt mimochodem funguje. Myslím, že i Google
+Docs jsou v tom napsaný,
+jo, prostě. Což je takový
+hodně old school Javascript,
+spíše se velice objektově
+v takovém tom jako Javascript
+kompatibilních věcích od deset let zpátky.
+Myslím už tomu.
+Takže jsem to dělal vlastně v tom,
+víš, jak vypadá jako Javascript na administraci,
+že jo. Tam máš prostě modální okno generický,
+validace možná formulářů
+a nějaký Ajaxový snippety, jo.
+Old school těžký, jo. Ale
+vlastně jako těch pár desítek řád
+tu Javascriptu ti udělá prostě...
+Parádu. Parádu jako, zamálo, jo.
+To je možná jako další téma,
+který jako dneska úplně
+jako je nepochopený, si myslím, spousta
+lidem má v industry, hlavně jako frontend nějakama.
+No, tak jsem...
+A už to bylo jako těžký jako maintainovat, jo.
+Potom byla furt nějaký jako vazby mezi tím, co je
+v kontroleru, jo, v šabloně, jo, Ajaxy,
+jo, a pak se ti to už
+trošku jako cyklí. Říkám,
+jsem to napsal jako to SPAčko tenkrát.
+Tak jsem za víkend přepsal jako 70%
+toho do Clojerscriptu.
+Jako si ji dostli. Protože jak je to jako
+generický, tak je to jakoby v pohodě, že jo.
+Prostě ty formuláře se zgenerovaly
+z Janga
+a já na to navěsil nějaký jako listenery.
+Víš, jako že to vlastně bylo...
+No počká, a to jsi udělal, to jsi znal chvíli Clojera?
+Už to jako přepsal? Já si myslím jako, no...
+Jako, nebo součástí, ještě nedej bože, učící
+se křivky starovnou aplikovat. No ne, tak jako,
+no... To je hodně gerilajtko.
+Jako bylo to tak, no. To je super.
+Bylo to tak, no. Protože
+tak Čech si udělal nějaký jako domácí
+úkoly, že jo, petproject, ale
+jako si to nevošaháš. Ty musíš, ty
+nemusí k nám, ty, úplně jako... My takhle
+jsme se půlku věcí naučili v produkci, tyvo.
+Prostě, úplně stejný styl, ale
+ale funguje to. A to jsi byl kde?
+Tohle jsi dělal kde? To bylo ještě v UserTechu tenkrát.
+Ale ono to šlo z toho důvodu,
+že ten frontend byl minimální,
+jak jsme si řekli, že jo.
+A jako, tam byl jako jedinej.
+A kluci řekli, hele, jako vlastně asi jako klidně, jo.
+Říkám, takhle to vypadá, líp se to pak jako seká.
+Jinak tenhle ten Clojera scriptivý kód
+byl jako samozřejmě jeden z nejhorších, co jsem kde napsal.
+To si budeme jako povídat, jo.
+Ale líp by se to jako maintainovalo, jo. Já jsem furt stragglel
+s tím, kdy máš nějaký state na tom frontendu
+a teď se tím má někde updatovat.
+Jak se tahle věc jako designuje, že jo. To prostě bylo jako
+hell. Pak takhle jsem tam
+měl prostě normálně
+takový ten
+ala jako flux pattern, že jo.
+Tam jako, ale to funguje. Máš tam nějaký atom,
+že jo. Čistý jako, čistý views,
+který ti jenom zobrazujou ty hodnoty,
+které převádějí to do hotumulu, no.
+A jseš dál, jako.
+Takže takhle ty jsi skočil ze školy
+přes to, přes Haskell až
+ke Clojure. A jak to teda ta tvoje cesta vypadala
+dál? No, to jsem pokračoval
+a já jsem se cítil, že tam
+už nemám moc jako kam růst. Že už by to bylo jenom
+jako made, jako pokračuješ na těch
+projektech. A já říkám,
+až si dělal se Clojure. Takže Clojure
+tě chytlo natolik, že se řek, že s tím spojí
+kariéru. Tam ještě spojený s tím nějaký jako
+struggle s tím Pythonem.
+Jako ten jazyk
+vlastně za to jako nemůže. Může za to jako
+ty lidi v tý komunitě a to, jak
+se to jako dělá, jo. A myslíš si to, už se smějš?
+Ty to znáš? Že prostě
+Python, nebo hodně jako věci
+v Pythonu je jako jako v Ruby, jo. To je
+prostě, oni tomu říkají metaprogramming.
+Ale jako to je hrozně vznešený
+název. Jenom pro jako za runtimeu
+vytvářených tříd.
+To znamená, když tam máš někde chyby, tak oni ty třídy jako
+neexistujou. Jasně. Takže prostě ve
+stacktraceu máš věci, která není.
+Takže buď se to nedá přečíst, nebo
+nebo to odkazuje na file, který
+samozřejmě neexistuje, protože to generuje za runtimeu.
+Jo. Což je jako docela maintenance
+hell. A když máš věci, jak bylo
+populární před deseti rokama,
+convention over configuration,
+že jo. Nejhorší slogan
+ever bych řekl, jako jo. Ten krávitr
+šel super, že Čech nemusí jak v té Javě mapovat
+deset věcí. Jo, jo, jo. Když se prostě jenom
+nastaví pravidla a jde to. No jasně. Přejmenuješ
+ale jinak složku a najednou ti přestane fungovat
+něco jako puka systému, jo.
+My se tomu tady smějeme, ale ono to tak
+prostě jako je, jo. Metody jsou
+pojmenovaný render, potržítko něco, no tak to
+něco musí být stejný jako další deset věcí, že jo.
+Hm. No a jak jsi
+teda, tak po tomhle všechno, jak jsi teda
+vlastně jako skončil až v
+upliftingu? Já furt jako vyhlížím
+tu cestu. Jo, jo, jo. Ta cesta je,
+říkám, hele, chci dělat Closure. Kdo dělá Closure?
+Já samozřejmě jsem znal jako Jirku Knesla,
+že jo, který tu dobu psal
+blog a hodně postoval o tom, i o tom
+Hezku a tak. To ještě do Flexiany.
+Tak ještě předtím jsem vlastně
+byl za Jirkou,
+teď si nevím, řekl mi jeho jméno, Penzešem, správně.
+Jasně, Penzešák a máme domluvenýho, to bude jeden
+z hostů této série. No, no, no. A vlastně říkám, hele,
+to jsou asi jedině dvě firmy, které dělají Closure v Čechách.
+A on říká, ale my v Closure vlastně nic
+teď neděláme. Říkám, to je škoda.
+Takže jsi byl v Top Punks, ne? Taky jsem tam byl.
+Mně to bylo sympatické. Já jsem říkal, hele, jako
+na tom trhu, já jako nemůžu jít jako
+do normální firmy, protože už z toho,
+co jsi slyšel, jo, já jsem dost jako
+vlastně zvyklý od začátku kariéry
+dělat si ty věci ne úplně po svým, ale prostě
+hele, tady to máš, jako vyřeš ten problém. Já tě úplně
+rozumím. A nehraje se tady na žádnou politiku,
+nikoho to moc jako nezajímá, jako když máš problém
+s budžetem, tak je to zase jako tvůj problém, jako jo.
+A já nechci říct, že dává ti to na nějakou
+volnost řešit ty věci, jo. Ale je tam
+ten ownership, a to vlastně mě to tak obaví, jo.
+Že to není jako, tady je ten můj
+píseček a dál jako ani
+nešáhnu. Hele, 16.50,
+tak už neodpovídám ti na mail a jdu domů,
+protože za deset minut to nestínu.
+Tak to je jako, když nemáš takovýhle mindset,
+tak těžko můžeš jít jako do spousty firm.
+A
+takže Top Monks mi přišlo jako
+fajn firma. Protože jsem studoval ještě dobu, no.
+A Flexiana, no. A takže to...
+Přišel Kýrkovi a začal dělat clouzery
+na full time. Přesně, na full time, jo, jo.
+Což je, co se píše, rok 2017.
+No. No. A tam jsem
+prošel několik projektů.
+Ten jump
+do toho byl taky něco, protože jsme dostali první projekt,
+jako jaký startup,
+který psal ten člověk jako
+podle mě poprvé v clouzru, takže já jsem
+jako tam taky stragglel, že jo. Prostě to bylo
+jako docela... Říkám, že jsem viděl v clouzru
+věci, že se budu
+někdy usnout, jako.
+Teď to jako vypadá, a si říkáš,
+no tak to je přesný důvod, proč nedělám v clouzru.
+Říkám, ne, tak chci říct jenom ten hnůj, můžeš udělat prostě
+i v tom clouzru, že jo.
+Říkal Dominik tady, ne, že správný javista napíše javu
+v jakýmkoliv jazyce, že jo. Tak, má pravdu.
+Jo, je to úplně stejný, jsou tam nějaký
+přece jako principy, který ty lidi jako nedodržují,
+jenom ti říkají, to je funkcionální,
+protože to je ve funkcionálním jazyce.
+Akorát, že vůbec, že jo.
+No, ale pak tam byly jako zajímavý
+jako projekty, který byly v pohodě, měli jsme
+velice volné ruce,
+nevím, švédský startup
+Zimpler,
+můžu říct, to není nic stejného si myslím,
+tak to bylo jako super, samozřejmě dělali
+takový jako servisy,
+a to jako byla
+hodně craftsmanshipová firma, jo,
+mě chybilo takový to jako,
+že jsem furt, že jo, Agile manifesto,
+já jsem v tom jako knížkách ponozený docela jako
+celou dobu, jako od té výšky,
+a jsem říkal, a když ti někdo pánové neprogramuje,
+jako, proč to někdo je to TDDčko, jako WhatsApp,
+jako jo. Všichni tady jako říkají tyhle
+ty Martin Fowler, že jo, prostě,
+a Ken Beck a Douglas
+Krakvortek, je to super.
+A nikdo to nedělá vlastně, jako WhatsApp, jo.
+A, no a pak jsem se tím
+Flexionem uviděl, že jako, že to dělají ty lidi,
+jako jo. – Takže ve Flexioně se jede i
+Extreme Programming, pánový program. – Jo, jo, docela jako, jo,
+je to prostě, no, a myslím si, že to je normální.
+A ono to jinak, by the way, nejde, protože Flexion je full remote.
+– Jo. – Moc jako s těma kolegama
+nemůžeš jinak dělat.
+No, takže se jako prostě párovalo,
+celý, celý ty týmy jsou tam jako takový dost
+autonomní, že tam není projekťák,
+klient může mít svýho projekťáka, ale prostě
+tam jsou jako seniori,
+a ty lidi prostě si jako musí
+jako domluvit. Samozřejmě je tam nějakej filtr, občas
+ti přijdou lidi do týmu, kteří jako
+jsou seniori, ale nejsou jako schopni
+takhle fungovat autonomně, no, tak se s nimi
+asi jako rozloučíš, no, ale to jako
+šlapalo v pohodě. Měli jsme tam,
+moje jako nejlepší zkušenost mimochodem s TDDčkem
+byla, kdy za náma přišla
+product ownerka a říká, hele, kluci,
+já ten jmenuji jako servisu,
+to byla ta původní, který vychází celý systém,
+že obří monolit v realsech.
+No, tak to zní krásně. Já jsem realsový programátor
+úplně jakovanej, samozřejmě, že jo.
+Okorát, že vůbec. Vždyť jsem to udělal semestrálku
+a řekl jsem si, to dělat nechci.
+A ona říká, hej, já bych se potřeboval
+pomoct, ty kluci, co to vyvinuli, už tady
+jako nejsou, prostě nás to jako tlačí,
+a říkám, hele, Aniko, ale jako
+my nejsme rubisti.
+A říká, no, to není vlastně o Ruby,
+ono to je o těch realsech. Tam stojí
+hrozně magie, o Ruby tě naučím za půl hodiny, si myslím, jo.
+Ale je tam spousta magie
+a těch konvencí, který
+ti udělají tu magii. No a říká, hele,
+fakt bych třeba vytrhnul ten zpatej a říkám,
+OK, ale jako počítej s tím,
+že budeme pomalí, no. A my jsme prostě čtvrt roku
+pár hodin vyprogramovali, jako denně, třeba
+tři, čtyři hodiny. Jo, že jsme koukali
+na problém, potřebovali jsme rozsekat tu servisu,
+přidat tam nový věci, nebo servisu,
+do nějakých servis, přidat tam nový věci.
+No a dělali jsme to tak, že jsme samozřejmě,
+tam máš jako integrační testy,
+jo, to je prostě, realsys jsou na to heavy, no jo,
+ale jsou integrační, takže, ale často
+by byl napisán, že porušují veškerý vrsty
+abstrakce, takže změníš jednu věc a spadne
+ti šedesát integrační cestu, ale ty nevíš proč,
+jenom v tabulce přestanevá v tomhle sloupečku tahle
+hodnota, ale proč, já vůbec netuším.
+No takže takhle jsme jako reverzně
+zjišťovali, jak ten systém funguje,
+s kolegou, nebo s kolegama vlastně takhle,
+a prostě jsme se vždycky sedli,
+každý se koukal do koudu zvlášť,
+pak jsme za dvě hoďky spoupárovali, a pak zase
+sedli samostatně, víš, jakože takhle jsme to rotovali,
+no a pak jsme se říkali, OK, tady uděláme ty čáry,
+ty abstrakce, ty boundaries toho systému,
+no a jako
+skončili jsme tak, že jsme jenom ten systém
+vnitřně rozsekali, ale furt to byl monolit,
+ale vnitř jsme tam udělali ty explicitní boundaries,
+ty alá interfacy, když je to v Ruby,
+ale jsme říkali, ne, tady ta třída
+šáhá sem, že místo, abys udělal
+join databázy jedný, tak jsi to
+hortoval přes tu Ruby, protože jsi věděl, že to budeš
+potřeba vytrhnout. No ale jako
+bylo to bolest z toho důvodu,
+že to prostě trvalo strašně dlouho,
+já si připadal blbě, já říkám, takový elementární věci
+my tady děláme týden,
+ale jako my jsme to dali a ona byla jako spokojná,
+takže vlastně asi jako win-win situace, no.
+A říkám,
+je to vlastně jedno, protože když umíš jako
+slušně programovat a dodržuješ ty
+practices, tak ti to
+jako navede, jo, tam není, ono tam jako
+furt je v tom, že tam jako není quick win, jo, tam není
+nějaká hacková cesta, jakože, aha,
+my to jako rychle dáme, ne, to je právě tak.
+Musíš si to odřít. Musíš si to odřít a jak říkáš
+vždycky vzít ty ty rybářský kalhoty,
+prostě a... Ponořit se. Ponořit se
+tam, no.
+No a tam jsi teda, takže tohle jsi řešil
+teda ve Flexianě, ale
+to není teďka tvůj aktuální
+píseček. Ty jsi pak přeskočil,
+já vím, že ty jsi byl v Digitů nějakou
+chvíli. Jo. Kde už teda
+nejseš. Můžeš teda říct, jak jsi se zůstal
+z Flexiany do Digitů, pokud to byl jedinej
+tenhle krok a jaký to tam bylo?
+OK.
+Já to trošku znám, tak už
+nevím, co sníješ, ale pojď.
+Hele, ten skok byl takovej, že
+tam byl nějaký projekt, my jsme si úplně nerozuměli v té
+Flexianě s tím CTO.
+A já to i viděl,
+já jsem, ten projekt se nevyvíjel
+dobrým stylem a já jsem
+to viděl jako svojí chybu, že nejsem tomu CTO
+schopný to vysvětlit. Bylo vidět, že to je jeho první
+klouže projekt. Jo a říkám, hele, tohle si myslím,
+že je blbě z těch lidí důvodů, protože
+už jsem tam byl, takhle to dopadne.
+Neskrátce, třeba
+se psaly jenom integrační testy, nesměly se psát
+jako unitesty. Integrační, ale tím stylem,
+že jsou, líkuje abstrakce všude,
+takže máš prostě rozbitý jakož
+zase... Nevíš, kde se co rozbilo de facto.
+Prostě nevíš, co se děje. Jasně.
+No, tak a v tu chvíli tam byl jsem takovej
+plonkovej a to já samozřejmě jsem vždycky dělal
+nějaký věci, třeba hiring a tak, jo, takže to je
+jako v pohodě. A nějak si ke mně
+jako dostal Digitook, no, který potřeboval jako CTO
+a říkám, hele, vlastně asi všechno,
+jak si hádat s těmi lidmi, jak programovat, tak
+můžu jako přijít do té pozice,
+to zkusit, no.
+Tak tam jsme se úplně nerozuměli
+se CEO a...
+A šel jsi teda
+do Upliftingu. Šel jsem do Upliftingu
+po vlastně roce, v podstatě.
+V podstatě roce, no.
+A tam?
+Tam děláš co? Tak. Pozice
+se jmenuje Solution Architect
+a Partner, co znamená to vznešeně. Jo, jo, jo.
+Tak co to vlastně je? Hele, Solution Architect
+je... My tomu říkáme interně
+guru totiž, jo. Ok, ok.
+Já hned to myslím, jako co to je, jo.
+A proč se to jako, nebo ten Solution Architect
+je, že ty guru pozice jako zvenku
+lidi nerozuměj a hlavně lidi z korporátu,
+že jo. Pro ně to je úplně něco nepředstavitelnýho.
+Takže spíš
+je to jako ve zkratce, ale co...
+Nějaký jako název. A to Solution Architect
+už si lidi představěj, jo. A ta moje
+pozice je vlastně
+částečně zložená ze dvou jako židlí,
+jo. Takový, ta klasická, kterou jsem dělal
+celou dobu, jo. To technický delivery.
+Já umím ten projekt prostě od začátku
+zanalizovat, navrhnout,
+naimplementovat, dodat, že jo. Do té produkce,
+což je jako další věc, že jo. Jako, že spousta lidí
+jako vlastně umí
+programovat, ale jako jim chybí to do té
+produkce, jo. Takový to, jak to diplojinu, jak se
+to diplojinuje, jak se tam peky, jako
+balíčky se řeší a tyhle věci a tak.
+A takže tohle to jsem,
+což jako umím, že jo. To je jakoby
+jasný z toho, co jsem tady celou bude říkal, no.
+A ta druhá část je vlastně
+jako ten business. Já jsem
+sice s klientem byl vystrčen jako
+v komunikaci celou dobu, nebo minimálně s
+product ownerem, vždycky třeba z jakého
+korporátu, jak jsem tady měl ty rajivky a home kredity.
+Tak
+tak ale tady je to trošku
+ještě dál v tom, že na mě je jako
+přiníst ten business, uzavřít to
+a budovat vztah s tím klientem, no.
+Což jako bylo takový,
+já tam mám spolužáka z výšky
+a vlastně
+jednoho dobrýho kamaráda, který teda hezky staváš, mě ví,
+dostal mě ke cloužiru mimochodem taky, jo.
+To byl on, jo? Jo, je to Honza
+Minárik, možná jak ten nějaký
+realsista bude poslouchat, tak ho asi zná, protože
+on pořádal ty
+hrubé meetupy. Jo.
+A on dělal Hezkl tenkrát
+a dělal Hezkl, byl na
+pajitním srazu.
+A tam se jsou kecali a navočkoval
+mě do cloužiru. Tak to je dobrý. A on ho pak vlastně
+nedělal, to byl ten for, že on mě navočkoval,
+pojď ho dělat a my jsme ho chtěli dělat spolu
+a nějak jsme se jako nesetkali časově a jakoby
+biznisově, jo, to nesedlo. Ale teď
+spolu vlastně jako dělám. On říká, hele,
+nechceš jít sem k nám?
+Říkám, Honza, ale já neumím prodávat. To jsi nikdy nedělal, že jo?
+To je mi naprogramovat a možná se jako pobavit
+s tím klientem, ale se naučíš.
+No, tak jsem tady a dělám to, no.
+A děláš teda to, že napůl
+teda s tím děláš nějaký sales nebo
+děláš sales support. Jo, jo.
+A zároveň se staráš o tu delivery,
+o tu kompletní prostě tak, aby
+to bylo od, řekněme, od plácnutí
+ruky až do produkce. Přesně tak.
+Super. A tady v upliftingu
+výrazný rozdíl, asi bych řekl,
+ve srovni se spoustou firem, je, že
+ten sales v upliftingu
+dělají technickí lidi. No jasně.
+Všichni jsou ex-programmátoři.
+Říkám ex, oni třeba kluci programuje, tam
+někdo po večerech nějaký solidity jako kontakty.
+Napíšiš ještě teda kod nebo? Jo, jo, jo.
+Včera jsem zrovna tam si něco ještě psal.
+Zrovna včera něco v klužru.
+Ale už to není moc, ne? Jak kdy,
+ale je to strašně nárazový. Takže ty jste si úplně jako popsal
+tu moji, jako
+můj náplň práce, který je úplně de facto
+stejný. Taky jsem si říkal, že to máte hodně společný.
+Jako úplně stejný. Ale to musí přece, jako
+ten Jarda Jagr teďka taky tam
+jako sice stojí za těma hráčema, ale už si
+nezabruslí, jako. No právě, proto se ptám,
+kolik píše kódu, protože Jarda už
+jako dá dvě kolečka, ale ten
+ty góly už nestřílí, že jo? Ne, ne.
+Hele, tam je, jako z toho, co jsem
+říkal, to možná jako vyplývá, jo. Tam je
+potřeba se podívat na to, co je
+důležitý. Není vůbec
+důležitý, jako jaký jsou nové frameworky.
+Je důležitý ten
+craftsmanship a to jako software design
+a ty jako practices. A ty jsou stejný.
+Jo? A to, jestli
+se ptáš vlastně, jak programuju. Hele,
+já třeba mám
+na starosti jako bank ID, to není nic jako
+tajnýho. To je v
+Javě, ale to jako neznamená vlastně,
+že tam nemůžu udělat jako analýzu a
+s těmi lidmi jako code review a říkat
+vlastně, jak ten systém třeba
+jako navrhnout, jo? Nebo jak některé věci implementovat.
+A to, že to pak udělá ten můj
+tým, to už je jako věc druhá.
+No vlastně je tam otázka,
+jestli ty seš v tím v pohodě, jestli tě to baví, jo?
+Protože ta náplň je najednou jiná,
+že jo? S mou toho javovskýho stacku
+sice v upliftingu. Ještě
+než se vrhneme na to, jak uplifting funguje,
+do toho hlavního tématu dnešního dne,
+což je svobodná firma. Protože ty jsi mi říkal,
+že vy jste vlastně svobodná firma. Můžeš
+mi jenom v rychlosti říct, co vlastně děláte. Vy teda
+děláte nějaké řešení pro zákazníky, dodáváte
+software nebo jenom
+body shopujete, což mě vlastně ani nepřijde z toho, co říkáš,
+že byste mohli body shopovat. Jaká je
+náplň upliftingu, co děláte?
+Já to,
+jak řekl, že uplifting dělá dvě
+věci nebo dva hlavní fokusy.
+Jeden je,
+stavíme digitální produkty
+úplně už od toho momentu, kdy přijde
+třeba někdo s nějakým nápadem
+a klidně řekne, hele, já mám 300 tisíc a chci
+udělat tohle. Co mám dělat?
+Samozřejmě to nepostaví za 300 tisíc
+mobilní aplikace a tak dále.
+Ale my říkáme, OK, hele,
+tady máme na webu, na blogu
+popsaný ten validační proces,
+tady jsou materiály, tady jsou naše case,
+tady, volně dostupný. Udělej si
+tyhlety kroky, ten domácí úkol,
+my se tě na ně klidně koukneme,
+řekneme ti, jestli to dává smysl.
+Výstupem toho budeš mít
+nějaký data z trhu. Můžeš mít
+klidně klikatelný prototyp, klidně si udělej
+sám v tý Figmě, to je úplně v pohodě,
+pokud nemáš vlastně na to UX, ale není to nic špatnýho.
+Výstatkem může být, že potřebuješ prototyp,
+který má tři screeny.
+To vlastně k tomu doiteruješ. A můžeš si to udělat
+sám. Budeš mít ty data, budeš
+vědět, jaké segmenty
+trhu, jaká je typická persona.
+Už z toho dokážu možná odhnout,
+kolik budeš potřebovat peněz, můžeš jít za investorem.
+Už vlastně od tohle momentu jsme schopni
+ti pomoct.
+A můžeš přijít v tom momentu, že máme
+nějaké peníze a potřebujeme mobilní apku.
+To je klasické use case. A teď
+řekl bych, že většina software houseů
+říká, že programem bude to stát UX.
+Jak víš, že ty lidi vlastně tuhle věc
+potřebují?
+To nevíte, ale
+Roman se tady směje.
+To dopadne pak tak, že
+když to naprogramuješ a dodáš,
+tak na ten trh dodáš produkt, který nikdo nechce.
+Je zklamaný zákazník, jsou zklamaný
+u nás lidi, protože programovali
+něco, pracovali na něčem, co nikdo nepoužívá.
+Já se směju, ale
+vyhořelý startupista
+má ocenavý pláč.
+Mně se otevřelo asi 12 ram
+na zádech, nejenom tam.
+V pohodě, Poli, všichni jsme s tím byli.
+Taky jsme asi startovali tři věci, které schořily.
+To jsem rád.
+Takže vlastně
+tlačíme zákazníka do toho, aby
+udělal tu validační fázi. On již může mít hotovou,
+to je v pohodě. Jsou i takový edukovaní, kdy přijde
+už jsem ji udělal, ten domácí úkol, tady mám
+suhlý canvas, a už mám
+klidně svýho UXáka, nebo on je UXáka,
+on je produkták, potřebuji udělat design, nebo
+mám designera, potřebuji pomoct v UX,
+nebo potřebuji naklikat na programovat
+tu appu. A samozřejmě
+ještě i rozmluváme toho, ale fakt potřebuješ dvě
+platformy a udělat screening
+a videa a tyhle ty věci.
+To bude stát dvojnásobný budget.
+No to lidi potřebují. A pak zjistíš,
+že stačí ti udělat statická
+stránka, prostě postaru.
+Jenom abys validoval, že ten trh to chce vůbec.
+Přesně tak. A uděláš to prostě jenom,
+i kdyby jsi to udělal v ph, což neříkám,
+že tak musí být, ale
+je to úplně v pohodě. Až do toho
+konce toho, takže ta implementace,
+ta delivery, nasazení
+někam do cloudu, pravděpodobně s tou infrastrukturou,
+nebo naopak ještě
+doručení těch appek do nějakých storů.
+Takže děláme celý ten chain.
+A ta druhá strana je samozřejmě
+nějaká hybridní práce s korporacema.
+Ono se tomu asi člověk nevyhne.
+Z těch velkých
+jmén bych jmenoval
+třeba jako ERSTE, kde
+děláme třeba Georgia. Pokud máte ERSTE,
+tak znáte Georgia.
+Jak si říci, že děláme Georgia, to neznamená, že
+Uplifting dělá celý Georgia. To vůbec ne.
+Samozřejmě je to appka
+deploynutá se v několika zemích,
+modulární, na tom dělá desítky
+lidí, jenom vývojářů.
+Ale vlastně jsme součástí
+toho produktu.
+Jablotron,
+Heureka a tak dále.
+Kolik vás je v Upliftingu?
+Myslím si, že něco
+lehce pod 200 je teď.
+To už není malá firma.
+Teď jsme
+v novém patře.
+A přímá konkurence
+vaše,
+to je kdo třeba? To je strašně specifické,
+protože oných tam bude spousta.
+Záleží hrozně
+na nějakém casu.
+Myslím, že Top Monk se bude
+konkurence. Vlastně jo, když to říkáš.
+To je fakt.
+Zároveň každý, kdo
+dělá nějaké subdodávky softwaru, bude
+konkurence. S TRV bude
+rozhodně konkurence, ale tam je třeba
+rozdíl v tom procesu, že
+ti říkáme, přinesi to zvalidovaný, nech
+ti to nebudeme programovat.
+Není to for,
+takhle jsem odmítal klienty, protože
+je to pak nepříjemný.
+Ty se s nimi stejně budeš hádat, oni řeknou, že to
+nefunguje, ono to technicky funguje a vede to
+jenom na problémy.
+No ale ono tohle funguje, že jo?
+Promiň teda, Pauli, že jsi mi do toho skočil, ale
+teď jsem zase vzpomínal na jeden první z projektů tady,
+co jsme dělali se v Sharpem, který měl dvě fáze.
+Takže přišel zákazník, řekl, co chce.
+My jsme řekli, ne prostě,
+hle, běž i nám. V tom, co ty chceš, v tomhle
+skoupu za tyhle peníze, v tomhle časovém
+horizontu, to prostě nejde.
+A ať ti to řekne x ostatních firm.
+My do toho nejdeme, na Férovku, a byla to velká firma.
+No a oni přišli za dva nebo za tři měsíce
+s čepicí v ruce a říkali,
+jo, vlastně jste měli pravdu, všichni nás poslali
+šípku úplně stejně a my si ceníme toho, že jste
+nás na poprvé poslali do někam.
+A tím spíš asi to myslíte vážně.
+A vlastně jsme začali s tím a spolupráci.
+Takže je vlastně vtipný,
+že součástí toho
+pre-sales je i říct,
+jako kámo, ty ses posral v kyně a to nebude
+fungovat a nechoď s tím sem za náma.
+Ne, to je úplně geniální. A teď jsem si vzpomněl
+na partnership konferenci James Lennon z Cyklu, mu toto
+vyprával přece o velký automobilce,
+která vlastně celý ten nápad založila
+na tom, že to řekl nějaký jeden Ferda z jednoho
+udělení a když se ho šli zeptat, tak ten se zeptal
+doma babičky nebo koho. Vůbec to nefungovalo
+od začátku. Jakože i velký
+firmy dokážou udělat takovýhle peklo.
+Takže to vám funguje tenhle styl
+upřímnosti? Zřejmě jo, když
+na asi dvěstě a loni nás bylo
+podle mě tak třeba o sedmdesát
+míň. No a výborně, takže vy rostete
+rychle a
+vy máte teda
+tu svobodnou, nebo jedete styl svobodný
+firmy. A u toho rostete.
+A to jsou dvě věci, které už v tuhle chvíli
+mě jako skřípou, jestli se vůbec, jestli to je vůbec možný.
+Ale řekni možná na začátku
+teda, uplifting je svobodná
+firma. Co to znamená vůbec svobodná firma?
+Pro nás vždycky, já ti řeknu upřímně, slyším
+svobodná firma, asi
+víte platy navzájem a to je všechno celotavé.
+Přesně, přesně. Ve Forbesu jsem četl takový článek, tam
+znamená, nebo v tom pojetí,
+jaký máme my, že
+informace
+veřejně jsou transparentní, jako veškerý
+informace v podstatě, a že
+ty foundry, nebo ty
+jako řekněme legální majitelé
+firmy, oni jako
+přímo nerozhodujou o
+strategii té firmy, nebo o nějakým
+směrování. Což znamená,
+u nás, uplifting
+je řízený
+nějakou meritokratickou radou.
+Což znamená,
+z toho slova merito, že do té
+rady je člověk volenej po nějakém,
+může být zvolenej po nějaké období,
+kdy je v té firmě,
+je volenej vlastně těma lidma. Takže každý
+v upliftingu má prostě hlas a
+dává hlas svým kandidátům.
+Stejný hlas. Jo. Takže
+ano, přesně. Člověk, který dělá na recepci, má
+stejný hlas jako já, nebo jako
+prostě tam náš nejlepší IOSák.
+Fakt? Jasně. Až takhle to je? Jasně.
+OK. A
+jednou za čas jsou nějaký takovýhle volby, jo?
+Jo, jo, jo. Myslím, že jsou každý rok, snad se napletu.
+Byly teď zrovna v říňu.
+Každoroční období volební.
+Jo. Samozřejmě jsou tam nějaké jako
+omezení,
+kdy vlastně člověk může,
+je tam šest membrů v tom,
+v té radě. Je tam
+podmínka, že v té
+radě musí být alespoň jeden majitel firmy,
+který má více než 45%, což je interní věc,
+já myslím, že to asi. Asi záleží na tom,
+jak to ve firmě je nastavené, jo?
+Ta rada dělá strategické rozhodnutí,
+ne jako mikromanagementové rozhodnutí.
+Dám příklad, jo? Byl tady covid,
+samozřejmě ekonomikou to prostě nějakým
+způsobem hejbe, teď se trošku možná blížíme
+do něčeho podobného. Tak to je třeba
+věc, kterou bude muset řešit rada, jo?
+Od začátku roku je problém s nějakou inflací.
+My jsme letos vydali vlastně
+jako hodinovky dvakrát.
+To je věc, kterou řeší rada, jo?
+Což znamená, že se musíš podívat
+do těch nákladů, jestli to z těch marží utáhneš,
+co to vlastně znamená,
+protože když přidáváš,
+tak přidáváš všem
+procentuálně, jo? To vlastně není
+jako, že přidáš jenom někomu. Jasně.
+Takže přidáváš všem, což i
+plyne z toho, že ty platy jsou
+transparentní.
+Tam je ale i k tomu další
+jako podstatná věc.
+Ten kompetenční model, to znamená můj
+kariérní postup v té firmě,
+je explicitně napsaný
+na našem internetu v Notionu.
+Jsou tam jako, jsou tam ke
+každý technologii. Je tam tím, že
+bříček vyloží něco pod sázlem. Jo, je tam Notion,
+je tam Java, je tam prostě designer
+a tak dále, že? Všechny tyhle ty pozice
+tam jsou. I ty vlastně
+back office, HR pozice tam samozřejmě
+jsou takhle rozepsaný. Mají
+nějakého svého garanta, který
+se o to stará, že jo? Samozřejmě
+všechno tohleto děláme tím startupovým způsobem,
+čili vykopne se nějaký draft, teď se to jako
+vyuší něčím malým vzorkům, pak se to jako
+trošku shapeuje, že jo? Protože někdy
+to nestřelíš správně, no a pak se to jako
+vypadá stabilně, tak se to dá. Třeba
+za rok se to předělává. Třeba teď upravujeme
+javovský kompetentiční model, jo? Takže
+jenom chci říct, že je to vlastně celý
+takový jako v pořádku, jako in progress.
+A
+jako in progress ve smyslu, že se
+čas od času k tomu člověku dostane a
+si to jakoby zaktualizuje, jo?
+A i tu aktualizaci třeba řeší ta rada?
+Nebo to je třeba věc? Tam má garanty
+a tím přijde už jako
+s tou představou, jak to bude.
+To už by byl zase velmi velký detail pro ní.
+Jo, jo. A ten kompetentiční
+model je navázaný na ten plat potom. Jo.
+A není teda,
+dneska se ta diskuze samozřejmě točí
+v těch klasických firmách
+o tom, že tady Ferda má o 5000
+víc než já a já bych chtěl taky o 5000.
+Tak neposouvá se
+tato komunikace na úroveň,
+že vlastně ten kompetentiční model není spravedlivý,
+protože Javista má větší
+distanci vydělat peníze než já, chudák,
+prostě nevím co, PHPčkář třeba,
+nebo co já vím. Ne, protože PHPko neděláme.
+Jsem zase střelový. Jo, jo.
+Ale ne, protože to je jako, že
+jsi senior,
+jako nemá vliv na technologii.
+A ještě je ostatní, že
+ona se tato odměna
+skládá z nějakých bedžů,
+abych to nazval. Jsi team leader, máš tam
+něco k plusu. Jasně. A záleží ještě na velikosti
+těch týmů samozřejmě.
+Ty můžeš být prostě,
+třeba seniorní UXák,
+a do toho být jako junior frontend dělákev.
+Asiže na podjektu, kde můžeš dělat, jako vyvobuje,
+a zase to má jako na to vliv, protože to má nějaká přidaná hodnota.
+A podle toho máš prachy.
+A podle toho máš prachy. Dobrý.
+Hele, ještě ta, mě hrozně zajímá,
+jak říkáš, transparentní, transparentní.
+Jo, jako nějakej pěkný příklad
+toho, jak to jako v tý firmě funguje.
+Prostě jo, já nevím, jo.
+Typicky prostě, teď jsi
+třeba koupil cyklu před rokem,
+a samozřejmě na začátku to řešila
+nějaká úroveň managementu,
+než se to začalo komunikovat dál.
+Jo, jak by tohle třeba fungovalo v upliftingu,
+dejme tomu, že přijde prostě velkej hráč
+a chce vás koupit, to v tu chvíli rozhoduje
+ta rada, ta rada s tím jde za všema, nebo
+jako jak by to vlastně probublá tou firmou.
+Já si myslím si, že tohle to by řešila rada,
+a asi by to,
+a doufám si tvrdit,
+že by to bylo formou jako, že by lidi
+by volili. Že by normálně byl půl,
+a lidi by si jako volili.
+Mám dobrý příklad,
+když si ozním úzku, tak já si
+taky skočím na tu můlu.
+Před rokem a půl,
+nebo dvěma, jsem šef tu domluvil v upliftingu,
+ale už jsem tam byl na nějakých
+partys, protože se znám s těmi lidmi,
+tak oni seděli v šandlovce,
+v takových ofisech prostě někde
+dole, bylo jim to malé.
+No a teď
+potřebovaly větší
+kanceláře. Takže
+skončilo to tak, že tam byly na konci,
+já nevím, myslím si, že jako dva
+office houzy. Jeden byl prostě krásnej,
+jako fancy river,
+v nějakým našem silikonu voli Karlín, že jo?
+Který samozřejmě v kostech měsíčních
+je trošku bolestivej.
+A nebo nějakej
+prostě jako ušmodlený kancelár jak na Stolukách,
+nebo na Chodově, že jo? Kde nikdo moc jako nechce jezdit,
+nikdo se moc jako nepohybuje, a podle mě, když tam
+jako nejdeš autem z ofisu do ofisu na Sousku,
+tak tam jako lidi nechoděj, že jo?
+A ty lidi
+si zvolili jít jako do Karlína.
+Ale bylo to tak, že oni viděli,
+hele, ale znamená to, že měsíční kosty budou
+takhle velký vůči těm
+letěm? To znamená, že nemůžeme
+třeba zvedat hodinovky tak rychle,
+plošně a tak dále a tak dále, jo? Jsou tam nějaký
+konsekvence a ty lidi jsou si toho jako vědomí.
+– Takže ten dosah těch hlasů je
+i u té, řekněme, administrativní
+office prostě. – Ale finální slovo
+má samozřejmě jakoby radá, že jo? A ten způsob
+byl, že radá říká OK, tak se zase bude jako
+volit, jo? Z toho pléna.
+Další příklad
+je, kdyby si chtěl třeba mít v kuchynce
+čerství ovoce celý den, což je dneska
+takový standard, my už to máme, ale je to příklad,
+tak kdyby přijel Roman a říkal, hele, já chci
+tady mít jako ovoce, přijím, je to dobrý nápad,
+poptáš se kolegů a ti řeknu, hele, to je vlastně
+super nápad. A jak to ty zařídíš?
+No tak uděláš prostě draft,
+normálně proposal,
+se píšeš, hele, bude to znamenat tohle,
+bude to dělat tadyhle člověk, neopotřebně na to
+roli, která se o to bude starat, odhaduj
+měsíční kosti takovýhle.
+A s tím draftem přijde za tou radou, ona ti to
+připomínkuje a pak si to vrací. To funguje jako
+prostě, když si děláš nový standard, no. To je zajímavý.
+Jak se tohleto ty jako budgetuje?
+Protože vlastně třeba budgety se dělaj,
+že jo, 15 minut na rok,
+ty máš nějakej čas ho připravit,
+je to hotový, odešleš to
+a pak vlastně do jistý míry už
+všechny nápady, který přijdou po tom, co máš
+schválený budget v nějaký větší firmě,
+tak se musí do toho budgetu vejít a ty třeba
+řekneš, hele ty, tak to bude tak za rok, protože
+teďka už na to nemám prachy. Tohleto znamená,
+že vy ten budget, nebo vy ty
+jako přehled o tom, co se děje finančně
+s tou firmou, musí být dost
+jako dost dynamický asi, ne?
+Je. Tak samozřejmě
+ten budget nějak jako plánuješ, jo? Mně třeba
+tady to jako roční plánování
+budgetu vlastně přijde strašně jako,
+se koukneš z okne a říkáš si, hm, takový bych tak potřeboval,
+víš, jakože na ty věci, protože
+nemůžeš dohlédnout do těch detailů.
+Takže to funguje,
+funguje to tak, že on tam je samozřejmě i nějak
+jako office budget, který jako můžeš vyčerpat.
+Každý jako
+uplifter má jako budget, který může vyčerpat.
+Dám příklad, já když potřebuju nějakou licenci
+a je to třeba za pětset korun, tak já ji můžu
+koupit. Mám firmní kartu společnou
+a můžu ji koupit a nemusím se s někým schvalovat.
+V podstatě, jo?
+Já myslím, že tam možná, abych nekycal
+na tahletu věc, tam potřebuji aspoň jednu
+uplifter, který mi řekne, jo, jasně,
+kup to. To je prostě, potřebujeme to tady na projekt
+koupit, já nevím, centry. Centry
+znamená asi drahý, ale nevědě se o to
+budgetu. Pak je tam nějaký další level, to je třeba
+v deset tisíc, tak když za,
+budeš za tím guru
+na projektu, nebo myslím, že tam je nějaký
+jako technologický
+jako lídr, jo? Když to bude za Javu
+něco, já nevím, jako licenci na něco, tak to prostě
+jdeš za ním a on říká, jo, to dává smysl,
+použijem to na těch projektech. A on má
+vlastně nějaký budget v rámci, který
+může jako fungovat.
+A ta rada se
+tím nezabývá, jo?
+To už je moc velký detail.
+Myslíš si, že to může fungovat, kdyby vás bylo, já nevím,
+sedmset. Ta představa toho
+jako dennodenního referenda o
+ničem, jo, jako jenom tak přemejším na hlas, jo?
+Jak by to mohlo fungovat?
+Oslýmu jste chystli dva.
+Ta rada se schází jednou ze čtrnáct dní.
+V krizových režimech každý týden.
+Je veřejná,
+je to všechno nahraný, takže když to nestihneš,
+musíš zpustit takovéto video.
+A ta tam jako, ty,
+co chceš řešit na radě, musíš poslat jako
+upfront, jo? Prostě
+do kanálu, na Slacku, myslím, nebo
+v Notionu. Možná v Notionu
+je tam nějaký board na to.
+A tam vlastně jako nedělal, jo, takže
+bych nekecal. No a ona se tím jako
+zabejvá, že jo? A
+u sedmiset
+lidí, no, vedeš krásně na to, čemu
+my jsme už jako dávno přišli, a to je jako
+nějaká tribalizace, jo? Protože
+dvěstě lidí je, nebo sám víš, že jo?
+Jako, mě když někdo řekne,
+že má tým na projektu, tam
+dvacet lidí, tak já mu říkám, OK,
+možná tomu říkáš jako tým, ale to jsou třeba jako
+tři týmy. Ne, ne, to je jako jeden tým,
+a my spolu všichni komunikujeme.
+Já ze zkušenosti tomu moc nevěřím. I z toho, co
+jsem se dočetl jako v literatuře, jo? Nějaké
+ty čísla je kolem sedmi, pokud se jako nepletu,
+protože pak tam vzniká obrovský overhead, že jo? Protože
+ten graf prostě najednou... Jasně.
+Komplitní, že jo? Úplný graf, jo?
+A takže ty, když máš jako dvěstě
+lidí, no, tak to rozmíníš do nějakých
+uplifting tribe, což je takový ten
+core-ovej, bych to jako nazval, jo?
+Kde je jako nejvíc lidí, ten původní, pak je tam
+enterprise, kde je vlastně celý
+jako javovský vývoj, což už to slovo
+říká, že jo? Co se tam bude dít.
+Pak máme DxO,
+který dělá hodně jako developer experience
+věci, dev portály, dokumentace,
+ale pro výhoře. SDKčka dělá, jo?
+Že se snaží vlastně firmy, který mají
+produkt postavený na tom, že máš nějaký SDKčko, tak
+jim pomáhat v tom, jo? Takže to je vlastně jako
+to UXO pro ty vývojáře, ale přenáší
+ti to nějaký revenue, cloudovej
+tribe, a
+snad jsem asi nezapomněl na nikoho
+dokážet. To zní trošku jako Spotify
+model, jako podle toho, co jsem
+tak jako si v rychlosti čet, že jo? Tam máš taky
+ty triby a to vlastně. Jo, jo.
+Spotify model, to je vtipný, no. Jak vlastně
+všichni viděli to video, všichni se to
+snaží následovat, Spotify to nedělá.
+Protože od toho upustil.
+Ale ještě mě zajímá jedna věc, já jsem si ještě,
+že jsem na to koukal včera, když jsem
+připravil nějaký otázky na předevčí den.
+Dobrý, dobrý, dobrý. V pohodě, tady
+se může i lejt. Spadlo nám od rána, ale lejeme
+dál, lejdeme dál. Lejeme dál. Lejeme dál.
+Když teda máme
+v podstatě svobodnou firmu, kde máme nějakou
+radu, která se mění, tak jaká je tam
+role toho CEO? Protože CEO máte,
+co on vlastně dělá,
+je to jenom, nazvali jste ho CEO,
+aby to bylo jako navenek srozumitelný
+pro normální firmy, nebo jaká je ta,
+jaký je ten důvod? Možná i veště hlavou tady.
+Samozřejmě, to navenek
+to potřebuješ CEO, to je jedna věc.
+A druhý founder je COO.
+A oni se spíš jako staraj, nebo
+vlastně ten vráček se stará jako o tu vizi,
+o tu strategii. Filip tomu jako
+je víc, bych řekl, v té operativě,
+která se jako děje a řeší jako spoustu
+věcí kolem toho a zároveň jako to ještě dělá
+také jako iOS, jako programově ve Swiftu,
+jo, někde.
+Jo, ale
+ale jako jo, no, je to tak, že
+oni jako udávají tomu nějaký směr a koukají
+spíš na tu strategii, co se týká nějakýho
+nějaký jako vize salesový
+a tak dále, jo, nebo vlastně
+stavění produktu z té firmy,
+že jo, protože sice to je jako software
+house, že tak řeknu, ale vlastně
+můžeme jít
+jako hledat nějaký níž na tom trhu, který
+chce být hodně specifický, což už trošku děláš
+produkt z té firmy. Jo. Tak vlastně jako
+jeho role je tohle a spíš se starat o ty lidi
+a vidět tam tu vizi jako dlouhodobě
+a předávat to dál
+a tak to jako
+funguje celý, no. A ty jsi říkal,
+že vlastně dobře máte, tak máte tam nějaký triby,
+které jsou kolem nějaké, řekněme jako znalostí,
+ale tvůj denodenní chleb,
+teda odplácnutí si,
+potom ano, dodáme tenhle ten software,
+vy na něj máte prachy a trh ho chce.
+Jak to pokračuje? Ty teda jdeš do těch jednotlivých
+tribů a vytáháš si ty lidi, který potřebuješ
+a uděláš si vlastně vlastní
+tým, že tu je UXák, tu je
+frontend, tu je backend, tu je databázista,
+nebo jak to máš?
+Přesně tak. Přesně tak, děkuji. Jo, jo.
+Vrátě tomu říká
+Entrepreneurship as a Service. Jo, jo, jo.
+Že vlastně, hele,
+kdyby jsi udělal firmu
+a softwarovou, tak zjistíš,
+že to je všechno, než dělá software.
+Úplně všechno, jo. A teď to začne
+prostě od legal věcí, prostě
+accounting, a teď nemyslím jako vztah s tím klientem,
+ale prostě účetnictví, řešení
+nějakých kanceláří, jako nějaký
+device si potřebuješ v kancelách mít
+a tak dále, tak dále, že jo. No a
+tohle to jsou nějaký služby,
+který ten Uplifting
+poskytuje. A já vlastně jako
+si ty služby můžu jako
+nakoupit, jestli mi jako rozumíš. Jo.
+Že vlastně, já když potřebuji vyřešit jako NDAčko
+nebo draft smlouvy, tak já prostě
+si řeknu prostě
+na legal a oni mi jako dají ten
+standard, což my u té transparentnosti,
+my to máme normálně jako na webu v GITu, jo.
+Jako je to verzovaný, tedy
+standardní NDAčko a nějaké jako
+scope of worky, prostě jako defaults
+jako na webu. Jo, jo.
+Ze kterých ho jako vycházíme, jo. Všechno to je
+a je to jako psaný dost lidsky,
+jo. Jako člověk
+jako já to může pochopit.
+No, takže vlastně
+ano, jdu a vyzobuji si ty lidi. Samozřejmě
+v rámci
+asi tě napadne nějaká prioritizace nebo strategie,
+jasně, ale tak oni ty dealy
+prosto jsou odevřený, některý
+trvá díl, než se to jako commitne,
+tak prostě většinu je to jako první
+vyhrává, no. Bych řekl, jo, z tohohle
+pohledu. Pokud tam není nějaká
+jako dlouhodobá strategie.
+Tak, je to celý zajímavý. Zajímá
+mě jedna věc. Je tam nějakej
+prvek, který máš pocit, že je nefunkční
+oproti tomu, oproti tý klasice?
+Jo, já bych neřekl nefunkční, je to
+specifický. Ta firma není pro každýho.
+To firma není pro každýho.
+A určitě znáte takový ty typy
+lidí, kterým prostě jako
+funguje to, že se jako
+schovají někde v korpu a tu práci
+svojí třeba dělají jako dobře. Jo, já neřekám, že ne,
+že by se tam prostě schovávali pod stůl, ale prostě
+tak jako, hele, od byla jako
+16.30 a já jdu domů, ping.
+Teploučko, smrat. Přesně, přesně. A jako
+oni můžou dělat tu práci dobře. Tak ta firma
+není jako pro tebe, si myslím, jo.
+Protože ti to asi jako nebude sedět
+ten mindset, víš, tady jako je větších tak jako
+na tu branku.
+A jdou sem lidi i, jsou ti lidi
+v té firmě kvůli třeba tomhle jako nastavení
+té svobodní firmy, jo. Jak ty věci fungují,
+že to můžou ovlivňovat. A že prostě
+je
+to takový, asi bych možná řekl jako
+nějakým způsobem víc jako fair, že víš jako
+co se děje. Já jsem ještě
+nezmínil jednu docela podstatnou věc
+v rámci svobodní firmy a to
+máme nějakej etik check.
+Jo. To znamená, že když přinesu biznis,
+tak já musím eticky checknout.
+Je to nějakej checklist. Že to chcete dělat.
+Že to chceme dělat. Jo. A
+protože vlastně jako
+nechci želat s každým klientem.
+Jo. Teď
+nechci, že nějaký můžou být klienti toxický, že jo.
+Tak to často nevodiliš na začátku, ale budou nějaký
+brandy, který asi úplně
+ti jako nepřidají.
+A děláte i nějaký technický checky v tom smyslu,
+že přijde zákazník a už má třeba v hlavě
+trošičku v čem by
+rovnou chtěl, abyste to dělali. Nebo vy jste
+vyloženě o tom, řekněme,
+solutioningu v tom smyslu, že prostě
+přijde někdo, kdo má problém a vy mu dodáte řešení
+a sami si vyberete, co
+na to použijete. Dobře, kdyby
+třeba přišel teďka někdo za Honzou
+Černým, že chce něco v Angularu jedničce,
+tak, nebo v jQuery,
+tak vím, že ten deal nedopadne.
+Protože prostě Honza řekne, ne, já na to nemám
+lidi, nemám tady ani, oni to nechtějí dělat, prostě
+ten stream už je jinde.
+Máme to na Blacklistu dokonce.
+Máme to na Blacklistu, ale na Black, že
+Honza Černý, takže to je Blacklist.
+Honzu seznám vlastně. No ano, to je Honzu
+seznám, přesně tak.
+Tak jak to je u vás tohleto? Plně stejně.
+Jo. Jako ten Angular jednička
+zrovna, hlavně se...
+To byl příklad, jo, já nevím. Ne, ne, ale to je jako dobrý příklad, jo.
+Ono, toto
+to je věc, kterou jsem chtěl říct
+vlastně až jako na konci, jo, ale já budu vypadat
+jako Ape Simpson, jo,
+jak prostě nadává na ten mrák, jo.
+Prostě Old Man
+at Cloud, jo. To jsem já, když dělám code review,
+jo, prostě nebo se bavím s
+jako
+mladšíma vyvářama o generaci, jo,
+který prostě se tam pláce jako
+po hrudi, jak umějí
+dělat frontend jenom prostě v této verzi
+knihovny, jo. Teď jsme jako u nějakého
+on to bude poslouchat, či
+Martin Nutz, který mi řekl, no ale
+Angular jednička je úplně jiná než Angular dvojka,
+no to není jenom nová verze knihovny, jo.
+Já říkám, no jo, ale ten design pattern, který
+se tam jako děje, nebo těch několik, je úplně
+stejný jako prostě v jiných, jo, jenom
+prostě to píšete trošku jako jinak.
+A to jako je
+věc, která mi dělá jako velký,
+s tím jako dost jako
+bojuju, jo, ale on to už teda nakouse radou,
+že jo, takže já už to úplně do toho
+nechtěl zase se jako vracet, nevám
+co víc k tomu jako by říct, jo.
+Ale jinak, ano, my jsme docela fokusovaní
+spíš na nějaký konkrétnější věci,
+ale to je spíš z toho důvodu, že prostě ty lidi
+na tom trhu jako nejsou a oni to moc jako dělat nechtějí.
+A ten technický
+ček si děláme
+a i často jako rozmluváme, jo, protože se
+co jako hodně rozmluváme, se děje
+to, že přijde někdo a chce to
+právě jako v nativu, jo, říkáme,
+to bude si jako zobrazovat data a jeden formulář,
+jo, to prostě můžu udělat ve Flutteru
+a dostat polovinu nákladu.
+Co rozmluváme je React Native.
+Já mám vlastně dobrou zkušenost, jo. Kluci říkali,
+to je krep. Já si myslím, že React
+je krep, takže to z toho implikuje,
+ale praktickou zkušenost
+s tím jako nemám. Ale kluci to
+u nás jako bouchají v Dartu a dělají tyhle věci
+ve Flutteru. Na druhou stranu z toho pak
+zkompiluješ i desktopovou apku, jak ono má na ty platformy.
+Takže já myslím, že to je vlastně jako v cajku.
+OK, takže tohle máte
+dost podobný a
+jak funguje, ty jsi to trošku nastínil,
+ale možná tak jako, abysme
+to ucelili, jak pracujete s klientem.
+To znamená,
+jsou tam nějaký specifika tý svobodný
+firmy, jak vůbec ten proces s tím klientem
+od začátku do konce funguje, nebo
+je to prostě stejný? Specifika, možná
+budu v tý transparentnosti,
+že se jako, nám prostě jako
+vadí takový, co tady vzniklo, že jo,
+v těch devadesátkách, takový ty vendorloky
+a tyhlety věci, jo. Takže
+jak už jsem to nastínil s tou smlouvou,
+snažíme se prostě mít obecnou
+smlouvu, obecný
+lindáčko prostě, veďme ideálně všichni
+jako stejný, někdo chce nějaký upravit,
+jasně, ale vycházíme z toho obecního,
+který je jako na webu. Z tý templajty prostě.
+Z tý templajty, jo, prostě a
+je to jako krátký, není to přesně takový
+to jako, když si bereš hypotéku
+u nějakého banky, která ti dá
+třicet stran, jo, a
+Fontem osmičkou. Jo, jo, přesně,
+přesně, takže to je možná to
+trošku jako jiný, snažíme
+se ty lidi
+jako naučit ty věci, jo.
+Já třeba teď mám klient... Ale teďka
+jenom pro lidi myslíš ty zákazníky. Jo, jo,
+ty programátory u těch zákazníků třeba. Jo.
+Jo, ale i klidně toho zákazníka, jo, když přijde s tím
+startupem, tak my ho naučíme ten validační proces.
+Já mám příklad, jo, my teď máme zákazníka,
+u který prostě trošku má
+problémy s testováním, nemá to, má nějaký
+lidi na QA,
+ale vlastně oni jako klikají a tu automatizaci
+moc neumějí, takže
+s tímhletím jsme jim pomohli, s tou automatizací,
+jako jak psát ty testy, připravit to,
+no a teď tě budeme jako edukovat, jo, ty jako
+jeho lidi, jo. Říkáme, hele, jako abyste tady
+dlouhodobě u nás měli tým testerů, to je
+pro tebe strašně drahý, že jo, to nedává smysl, jo.
+Tak, tak pojď, my ti to jako naučíme,
+jo, zaškolíme
+ty lidi, oni to budou psát, budeme dělat to jako to
+code review, že jo. Protože když to píše Gerkinů,
+je to zase kód, tak jako proč ne?
+A vlastně, tak to je možná ten přístup je
+trošku jako jinej, protože nám jde o to, aby jako dotáhl
+ten produkt. A on je to
+oslým úseň na to, že ono to jako funguje, jo.
+To je jako s tím presalem, jo, že prostě,
+když někomu řekneš, hele, to nedává smysl,
+já to dělat nebudu, tak vlastně jako
+tohle je lepší, než mu říct, hele, my tady máme svůj
+jako frameworkčí ček, jo, a potom to jako
+zaháčkujem, a ty pak 20 let
+nesmíš to dělat s někým jiným, jo.
+To je pravda, to děláme taky, že vlastně rozmluváme
+tyhle s ty vendorloky od začátku, no.
+Třeba i na cloudový úrovni a tak.
+Jo, jako já si myslím, že to je cesta k
+lojalitě z obou stránek, jo, že
+v podstatě to je ta nejlepší možná.
+Prostě jako, nechceš to dělat jinak,
+jako proč bys to dělal, pokud nejseš zrovna nějaký
+hajzlo, jo, jakože rád.
+A zároveň teda, ještě abych
+uzavřel tu část toho, jak jsi říkal, že
+to není pro každýho, ta firma.
+To předpokládám, že bude těžší
+ty lidi sehnat, ale asi budou potom lojálnější
+zůstat v té firmě. Teď mi to bereš,
+teď jsem se nadechval na tuhle zázku. Fakt jo? No jasně.
+Přesně jsi to řekl. Tak to děláme jako do budoucna.
+Tak to je, je těžší ty lidi
+sehnat, zároveň
+se, víš, asi to znáte
+sami, jako blbě,
+podle mě se nedá vyhrát jako
+souboj s lidmi na trhu
+cenou. Podle mě to nejde.
+Nevyhraješ to dlouhodobě.
+Prostě můžeš to hrát rok, dva, vykrovácíš.
+Jo? Samozřejmě viděli do toho házit,
+že jo, český startupy,
+který jsou fundovaný z Ameriky.
+Takže ty umějš zatopit od začátku. Ty ti umějš
+zatopit od začátku, jo. Ale vlastně ten funding tam
+asi jako nebude celou dobu, jo. A pak
+si jako nadělej možná jako
+z cashflowu za problémy, ale tak to už jako
+jejich věc, takže to my neděláme, no.
+A vzhledem k tomu, jak ty platy jsou transparentní
+a musí být aligned jako i s těmi lidmi, kteří
+jsou 5 let v té firmě a berem tě na stejnou pozici,
+tak je to velice komplikovaný a přesně je to
+těžší jako najít ty lidi, ale o to víc tam jsou jako
+srdcaři, no. Takže když už někdo
+projde k vám, tak třeba tu fluktuaci
+máte malou? Máme malou.
+A jako hodně
+pomáháme jako ve smyslu,
+že hele, neumíš to, tak si to jako můžeš
+jako naučit, je to jako v pohodě, jo.
+Snažím se, že víš, najít tu cestu
+těch lidí, kteří tam jsou. A děláte
+i třeba i to, že ty lidi můžou kdykoliv,
+dobře nahyrovali jsme tě jako na UX track
+Plácnu, ale teď jsme se bavili, že
+o Honzu Labíkovi, který vlastně oznáš
+jako kodéra, teďka dělá product owner proxy,
+protože je mu to blížší srdce a
+baví ho to víc, tak je to možný
+tak i u vás takhle svědčovat? To je přesně standardní
+běžná cesta, co ty lidi v té firmě dělaj.
+Super. Je to tak.
+Hele, ještě mě zajímá jedna věc, jo. Jak
+se tam řeší obecně nějaký spor?
+Protože tohle všechno zní dobře a já to vlastně
+naprosto s tebou souhlasím, mám
+to taky tak rád, máme i taky týmy jako
+malinkatý, nebo snažíme se o to tak, aby
+těch konexí nebylo moc,
+ale vždycky dojde k tomu, a včera jsme to
+měli taky, když jsme měli nějaký architektonický meeting,
+a vlastně snažíme se dohodnout. A každý má
+názor. Jak se řeší spor v tomhle?
+Výborně, další ostý můstek.
+Jak se řeší spor,
+je explicitně popsaný v Notionu.
+Má to jako několik bodů.
+Tak to je přímo postup. No jasně, to je postup guideline.
+Ne kecám, on není možná
+v Notionu, on je dokonce na GitHubu veřejným.
+Takže když jde k nám jako
+vývojář, tak si chci, že podívá, jak ta
+firma jako funguje zvenku.
+Super, no a povedej. No a funguje to tak,
+že záleží jako na
+velikosti toho jako sporu.
+Když se hádáme o středníkách, tak to půjdeme
+na pivo a dohodneme se.
+Ale samozřejmě jako první instance je,
+že se zkusíme dohodnout sami. Druhá je,
+že tam vezmu svýho team membra.
+Nefunguje, jo? Vezmu tam svýho jako team leadera.
+A které jako by
+nějakým způsobem jako vejš.
+A já to teda z hlavy jako nevím, protože jsem
+jako na šesti jako i sport řešit jako nemusel.
+Ale je to explicitně popsaný. A je to přesně o tom,
+aby jako tam, jak nemáme ten management,
+tak aby si jako ty lidi nebyli tím zatěžovaný.
+Že prostě ten člověk tam,
+ten tvůj team member tam může nám udělat jako mediátora.
+Řekne, hele ale počkej, tak si pojďme říct
+ty fakta, jako jo, tohle jsou zatím jenom emoce.
+Jak to jako bylo. Jo a teď on ti tam
+spíš jako udělá prostředníka, obě strany
+se sklidní, přinávají tam někdo třetí, kdo je
+jako, u toho jako nebyl, že jo, tak
+to bude méně emotivní.
+Taková terapie.
+Malinko. Ale funguje to.
+Funguje to, no. Tak to je super. A není tam
+to, že tak stejně přijde
+šéf firmy a řekne, ale já chci to. A bude to tak.
+Ne. Ne. To tam není. To tam není, no.
+To tam není. To je dobrý. Ale je to možná i z toho důvodu,
+že oni jako v Ráti a i Filip
+jsou jako
+asi libertariáni, no, nebo prostě jako
+jo, mají takový mindset, že
+vlastně ta firma, proč
+ta firma je taková, jaká je,
+je důvod ten, že
+když chceš jako lepší svět,
+tak máš dva způsoby. Buď
+budeš křičet kolem sebe, že to ostatní mají dělat
+jinak, nebo to začneš dělat jinak.
+Tak chci vrátit tu druhou cestu. A sami
+to dělaj jako jinak. A dělaj to
+tak, jak chtěj, aby ten okolní sebe vypadal.
+Což je mi vlastně strašně sympatický.
+Zároveň je to obrovská odvaha, že jo.
+Je to těžký, jo. Prostě představ si, že máš to svoje
+dítě. Já to znám, prostě s těma startupama.
+Najednou vlastně ti ho jako
+przní dvěstě lidí, jo. Jako když to tak řeknu, jo.
+Jakože vlastně na to musíš být v připravenej
+hlavě, aby si byl ochotnej tohle přijmout.
+Protože jinak ti to bude hrozně drásat.
+Rozhodně, jo. To
+platí i u toho kódu, že jo. Když pak
+vidíš, jak ti tam někdo jako naformátuje
+věci, tak bys ho flipnul. Ale...
+Právě o to asi musíš odosobnit a možná
+dát ty myšlenky a soustřední
+o level vejš. Říct jako teď už kód
+je vlastně pro mě v tuhle chvíli implementační
+detail něčeho, čeho chci dosáhnout na vyšší úrovni.
+A pak už mě to nebolí. Protože už
+je mi to jedno, jestli tam jsou
+mezery nebo tabulátory, jestli
+je to C-sharp nebo F-sharp. Protože
+pak už vlastně je to pod
+tvým radarem de facto. A tak to asi
+možná chápu i u těch zakladatelů té firmy.
+Ale já myslím jako, že
+bysme tady u toho mohli sedět podle mě ještě tři dny.
+A stejně bych na konci řekl to,
+neděláte třeba denní
+procházku firmou nebo něco takového.
+To by bylo hrozně zajímavé vidět to jako zevnitř.
+Přijď. Přijď?
+Nemyslím sebe, myslím na všeobecně.
+Pro lidi zvědku úplně
+nemáme.
+Ale přijďte kluci, nebož pojedete okolo
+a řeknu Damianovi, on vám
+udělá kafe, teda
+flat white s labuťí.
+Já můžu udělat.
+To jak doma, to dělá žena.
+Já možná s labuťí a flat white, ale ne tu labuť.
+Takže to
+on vám udělá a ukážu
+vám celý ten ten. A ta firma,
+jak je takhle svobodná, tak
+mám jako firmní auto. A když ho chceš, tak se
+prostě zabukuješ, prostě v kalendáři.
+Jo, jo, jo.
+Takže jako je firmní auto a ty si ho potřebuješ.
+Jedeš na výlet s rodinou.
+Jo, jo, jo.
+Je to Mustang žlutej.
+A dajím Ačku s raketou.
+Takže na liže. Dobrý.
+Víš, jenom chci říct, jak to vlastně je.
+A není to, že přijde prostě jako
+šéf a říká
+já mám celou teď na víkend zabukovaný.
+Tak je to o diskus říct, hele já vlastně tam jedeme
+tady ke klientovi něco, něco.
+A jako je to spíš ta diskuze.
+Není to jako force, no.
+To je fakt hustý.
+Jako asi přijdu.
+No, přijďte. Je to zajímavý vidět
+úplně jiný svět.
+Může to být fakt jako pecka.
+No tak si ji uveď, tu otázku. Já jsem se nadechoval.
+Jdu na to, jdu na to.
+Takže Lukáši, blížíme se ke konci.
+A naše obligátní otázka je, co plánuješ
+do budoucna.
+Já dělám věci spíš jako
+evolučně než revolučně.
+Nemám moc nějaký velký plány, ale spíš
+nějaký topiky, na který jsem zaměřenej.
+Jsme samozřejmě jako rodina.
+Jsme jako dva kluky,
+takže ten čas se jako
+zabere, ale někdy je to fajn, někdy
+to je velice náročný.
+Kolik jim je? Pět a pět, takže
+pět měsíců a pět let. Proč to jo?
+Ne, ne, ne.
+Ty jsi nefakoval ten form, pět měsíců a pět let.
+Takže ty máš z Brusu nový dítě teďka.
+To je Alfa Release.
+To je ještě v záruce.
+A v produkci teda pět let.
+To už je legacy skoro.
+Takže to je
+tak. Pak samozřejmě
+nějaký zdraví.
+Co si budeme povědat,
+tak s příbývajícím věkem
+už to třeba je znát.
+Člověk sedí prostě dvacet let ve škole
+a pak celý den v práci,
+dělá nějaký nevhodný sport.
+Co děláš pro zdraví?
+Kromě toho, že jsi přijel na kole.
+Jo, jo, přijel jsem na kole.
+Dobře jim, si myslím, že dobře jim.
+A
+hýbu se správně, no. Chodím do Sokola.
+Chodíš do Sokola?
+Jo, jo, já jsem Sokol.
+Ty, já jsem dal sokolskou kartičku taky kdysi.
+Ty, já jsem jedinej ne Sokol tady.
+To doporučuju. To je super.
+Není to fokusovaný na jednu věc.
+Prostě není to o tom navrát svaly,
+ale spíš být celkově vyváženej, spevněnej.
+To je prostě kruháč pro old schoolery.
+Nechceš udělat marketing?
+Přesně tak.
+Jsem hodně na kole, mám tři kola doma.
+Takže tak.
+To je tohle. A to poslední je samozřejmě ta práce.
+Já jsem teď
+změnil ten fokus z toho
+víc technického do toho biznisu
+na spoustu věcí, co se učit. Ono to celé
+je sice jen komunikace, ale právě jak je to
+softový, tak je to o to, možná
+pro mě, technického člověka, náročnější.
+Že ty hard věci jsou takový,
+tam je princip, kouknu, jasně.
+Vidíš ty paterny všude.
+Ono to prý vidíš pak i v komunikaci,
+než si vybudeš nějakou paměť.
+Tak je to tahleta věc, ale samozřejmě já
+furt čtu nějaké
+knížky, ale jak už tady zaznělo, jsou to obecní
+věci kolem software designu. Nebude to
+prostě jak
+udělat novou věc v releaseu
+Node.js 14.3. To jsou
+věci, které jsou outdated v době, když vyšly.
+Proto taky nikdo nepíše knížky
+o frontendu. Protože to než napíšeš
+a projde to korektůrou, tak už to si můžeš zapálit.
+Protože si furt můžeš koupit
+v dotisku od O'Reilly tu věc
+Takže to je asi jako...
+No a co čteš netechnickýho? To mě zajímá.
+Jo, netechnickýho.
+Netechnickýho hodně čtu
+jako bych řekl jako
+ekonomický věci. Možná to nastínil jako Dominik.
+Takže my jsme spolu takoví s tom souznění.
+Takže teď mám tam třeba
+rozečtenýho Bastiat'a.
+Což jako
+doporučuji po někoho, pokud chce
+jako jenom trošku pochopit nějaké
+ekonomické principy.
+Tak pán Kay to napsal před asi
+150 lety, ale vlastně tady je to úvod
+dneska nechává. A je to psaný hrozně jako
+selsky. On to psal jako sloupek do
+novin totiž. To je fakt super
+čtení. A vždycky tam přijedou, popisují
+nějaký příklady, jak fungují
+nakupci rudy z Francie a z Belgie.
+To je takový jako... Starý příklady.
+Starý příklady prostě úplně lidí
+v odfochu. A on tam popisuje, jak ty principy
+fungují a nebo nefungují.
+Tak třeba tohle mám jako rozečtený.
+A řeším, že mě nejlepší smát.
+Já ještě čtu Decameron. Fakt?
+No, je super, ale strašně se tomu směju.
+Můj středoškovský čtyrnáctský denník tvrdí,
+že jsem to četl. Ano, já to
+taky nečetl právě. Každý čtyrnáctský denník
+to tvrdí. Přesně, můj taky to tvrdil,
+protože jsem se stáhl ze stejné stránky.
+Vlastně jako já v roce 2002, nebo
+já nevím, 2004. No, to ještě
+dřív, kámo. To ještě jsem musel
+fejkovat, že to vůbec je na internetu. Přesně.
+Takže to je zrovna teď vtipní,
+že jo. Ale čtu tohle, je to fakt
+srandovní. To je prostě jako, to je normálně
+jako roko z renesanze.
+Tyjo. Je to fakt dobrý.
+Tak teď jsme to prodali.
+Proč mi tohle neřekl? Učitelka na středí.
+Přesně. Tak ono, když si říkám,
+hm, tady přečtem si něco z období renesanze
+a teď se to jmenuje jako bokáče,
+říkáš, tyjo, zase bude někdo, jak tam se táhli
+přes kopec, jo. Víš, jako
+prostě, tak to vlastně jako
+vůbec není, jo.
+No a kdy čteš? Jako máš dvě děti, sportuješ,
+pracuješ? Já to mám
+rozdělený. Já hodně poslouchám audioknihy.
+Takže na kole jedu
+audioknihy do Maxima
+a po večerech čtu knižky, který nejdou
+v audioknihách, protože to bych pak někde jako
+neutáhl, že jo. A moje, samozřejmě můj
+reading list je jako prakticky nekonečný.
+A máš public profile na Goodreads?
+Mám, ale úplně
+není aktualizovaný. Ale česká
+bibliografická databáze,
+tu mám docela aktualizovanou. Jo, tak já se ti
+tam připojím, abych... Protože oni občas ty knižky,
+jak nejsou tak a tak, tak
+že jako český dávám tam, a ty
+jako hlubický tam, ale
+říkám, no, mám hodně ty technický
+knižky, že jo, to musíš číst jako
+hardwarovy. To prostě nějak nejde.
+Okáno, hele,
+ty jo, jakož vždycky geniální
+pokec. Moc díky, že jsi k nám
+dorazil. Já doufám, že my dva spolu
+zase zajdem na nějaký oběd, abysme
+rozebrali ty detaily.
+No já musím zajít
+na latečko s labutí, teda. To musíš.
+To bylo na flat whites, říkám, na flat whites, říkám.
+Jako možná i jako
+cappuccino ti vdělá. Jo, jo.
+A nemusím si, v Karlině se lidi chodí bossy,
+nemusím chodit boss, ne? Můžu přijít na ublečení.
+Ne, my jako, my, my, jako tam nejsem
+firma, kde jsem si batikovaný u ublečení.
+Ale dáváte to, doufám, do zavařevočky.
+No to určitě ne.
+Ty kráso, co to je
+za karlinickou firmu. Ale já nevím, ale jako
+bez pách, růžovej.
+Ale jenom když máš i rýžojsky. Jo, dobrý, dobrý, dobrý.
+Tak teď už jsme to trošičku
+vytrollili, celý Karlin, kam zdravíme.
+Hele, ještě jednou moc díky, že jsi dorazil, bylo to super.
+No a zase někdy, jo,
+a samozřejmě děkujeme, to ještě musíme říct na závěr,
+děkujeme za skvělý a plivký swag.
+Mně se líbí, tady to začíná být trošku, jak když přijdou
+lidi ke krauzuli, to se mi líbí.
+A tady kromě, musím říct, tady máme,
+tyjo, to se musíme dát na Twitter,
+kulicha, tyvole, a ten je úplně jako boží.
+No, už se těším na zimu. Skvělej, jo.
+Akorát nevím, jak se tady budou tvářit přijenku, až
+začnu chodit v kulichu uplifting. To je až na ruby, ne?
+Jo. Ty vole, na ruby?
+Nevidím. No, to...
+Nejde to úplně two-sided, ale
+i tak, hele, super. Díky moc
+za swag, díky moc za pokec a
+ať se daří. Ať se daří, Luky. Kluci, já vám děkuji
+za pozvání. To bylo super. Dějte se. Čau, čau.
+Čau. Tak.
+To byl Lukáš Rychecký, mně se to moc líbilo,
+Románku. No, to jsme tady.
+Svobodná firma má něco do sebe.
+Rozhodně zajímavý koncept. Rozhodně si myslím,
+že bychom se tam mohli zajít podívat,
+dát si to dobré kafe a trošičku
+se poptat i těch lidí, jestli je to skutečně
+tak růžový, jak to vypadá. Jo, jo, jo. Ale já bych
+tomu i věřil, protože... Jo, jo.
+A zajímalo by mě, jestli se třeba dá
+vytrhnout nějaká konkrétnost
+z toho systému a použít
+v jiné firmě, nebo jestli to musíš jako
+opravdu celý vzít z futra.
+Z futra se říká? Se neříká z futra? Z futra?
+Z gruntu, ne? Z gruntu třeba
+to vezmem. A co já ti budu povydat?
+A musíš to vzít opravdu celý, aby to fungovalo
+jako celek. Je to možný.
+Možná některé ty prvky typu
+transparentnost, samozřejmě asi u těch
+platů to vždycky narazí na to, jak ta firma
+je podstavená, ale určitá míra
+třeba to, že plujou
+nějaké informace víc,
+nebo třeba i ten systém těch garantů.
+To je to, co
+jako už tady dlouhý dobu i říkám,
+že třeba pokud je nějaká technologie nová,
+tak by měl být někdo, kdo je
+za ní zodpovědný a kolem něj se ty
+lidi jako nabalujou a on to prosazuje,
+protože samozřejmě někdo musí být i
+garantem toho, že když odejde,
+tak po něm zůstanou lidi, který budou
+technologie schopný pokračovat dál. Myslím si, že
+některé ty prvky se určitě dají aplikovat
+i na jiné firmy, i u nás, podle mě.
+Jo, souhlasím a
+beru to vážně, že teda jsme pozvaní
+na to flatfightko tam prostě zlabutí
+a Lukáši ozvu se.
+Hele, nandej sandále, jedeme do Karlína.
+A ponožky dovnitř, tak to ti nepustí uhranit
+z Karlína.
+No tak jo, přátelé, mějte se krásně,
+my se na vás budeme těšit zase
+za čtrnáct dní a pokud to dobře dopadne,
+tak bysme se za čtrnáct dní
+měli pobavit o Skale, což je
+další zajímavý
+jazyk a vlastně máme takovej
+trošku technologický dluh v tomhle směru, protože
+už několikrát tady padla i od
+různých startupů, že ji lehce používaj.
+Ale my jsme ji ještě neprobrali.
+Těším se na ní. Vlastně
+ve firmě jsme si ji částečně dotkli
+na některých projektech, takže i proto se na to fakt
+těším a hlavně teda
+z mýho pohledu, co se big data týče,
+protože tam je to velký téma, takže
+těším se, těším se a těšte se taky. Tak jo.
+Mějte se hezky. Čau, čau.

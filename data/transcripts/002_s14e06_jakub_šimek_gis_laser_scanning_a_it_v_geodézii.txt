@@ -1,0 +1,2343 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Krásný den milí posluchači, vítejte u posledního dílu čtrnácté série vašeho nejoblíbenějšího IT podcastu Pod vocasem.
+No a samozřejmě i naposledy v této sérii naproti mě sedí, seděl a jako vždy sedět bude Petr Polipolák.
+Petr Polipolák, Roman Žukr pro vás dní krvná se Pod vocasem, přátelé znáte to.
+Ano, krásný den, nebo krásné ráno, krásný večer podle toho, kdy nás posloucháte.
+Není to důležitý, důležitý je, že jste si nás i naposledy v této sérii pustili.
+A my dneska otevřeme téma, které jsme za těch pět let, co vysíláme, vlastně ještě neotevřeli.
+Což to není ani možný.
+Ano, já jsem taky si říkal, jak se to stalo, že jsme se tomuhle přímo nevěnovali.
+Je pravda, že jednou jsme to tak lehce naťukli, což našeho hosta trošku iritovalo.
+No ne, byl samozřejmě slušný, neřekl nám, že jsme úplně idioti,
+ale že vlastně jsme se dopustili drobné nepřesnosti, což my vždycky,
+protože my jsme samozřejmě spolim takový ti dva, že vždycky, když je někdo opraví,
+tak to neberou nějak zle, ale říkají, tak pojďme si o tom promluvit víc,
+bereme to jako vlastně opener ke konverzaci.
+Tak jsme mu napsali zpátky, říkáme, že jsi tak chytrý, tak nám to pojď vysvětlit.
+No a skutečně se tak stane a za chvilku náš host dorazí do studia
+a budeme se dneska bavit o GISu a o GPSkách a o těchto věcech,
+o souřadnicích, o tom, jak se vůbec programují takovýhle systémy.
+Já se na to hrozně těším.
+Přátelé, všichni to používáme. Já jsem zrovna díky tomu dojel i v době,
+kdy je, přátelé, 15 čísel sněhu. Já vím, že vy to možná poschováte v době,
+kdy už kvetou fialky, ale dneska tak nasněžilo, že já jsem vlastně díky tomu,
+jako díky Wazeu jsem dorazil dobře a myslím si, že to spolu tak může hezky souviset.
+Myslím si, že to bude krásný uslý můstek hned ze začátku, ale ty si říkal,
+ještě než se vrhneme na našeho hosta a než poděkujeme našim partnerům,
+to hned záhy, tak ty si říkal, že máš nějaký zajímavý use case z tvého OpenClaw.
+No je to tak, ale víš, nad čím já přemešlím, že ta časoprostorová smyčka
+nás zabíjí čím dál víc, protože Bůh ví, až to vyjde ten díl.
+Tak kde vůbec OpenClaw bude? A já si teda myslím, že ho koupí Meta asi tak zhruba
+za miliardu dolarů. Teď jsem nevěděl, čet nějaký článek.
+Ne, jako vážně, teď si nedělal si legraci. Teď se jako, než jsem sem dorazil,
+nebo včera třeba, tak jsem čet, že Meta se o to pere s OpenAI,
+OpenClaw, což je teda jako vlastně nějaké jiné řešení, že si uděláš
+z vlastního robota. Přátelé, pokud to někdo budete zkoušet,
+uděláte to naprosto izolovaně od všech věcí, protože pak to dělá
+opravdu Bůh. Je hodně dobrých youtubových videí, který ukazují,
+že třeba, když ho necháš tradit třeba na trhu, tak jako taky opak
+nemusíš mít žádný peníze. Takhle, a ty nemáš nějaký vlastní
+zkušenosti s tím? Ne, hele, já jsem pořád ve stavu, že jak jsem lama,
+tak to prostě nastavu, tak aby to bylo opravdu odizolovaný,
+aby to dobře fungovalo. Přes ten terminál vždycky vlezu do ČGPT,
+tam ČGPT mi něco řekne, takhle už jedu prostě asi třetí noc a ještě
+pořád nejsem v cíli, jo. Takže jako tady jako opravdu mi chybí skill,
+tak se ho snažím dohnat tady přes ČGPT po nocích, ale až to bude
+fungovat, tak to vlastně bude taková tvoje osobní asistentka, která ti
+prostě bude řešit maily, bude ti řešit kalendář, takové ty
+věci, které tě nebaví a nechceš je řešit. Jo, jo, jo, okej.
+No tak to jsem zvědav, s čím přijdeš, jaký budou výsledky.
+No já na tohle téma jsem dneska ráno vlastně cestou metru četl velmi
+zajímavý, relativně krátký, ale zajímavý článek o tom, že zase
+z toho, řekněme, mýho developerskýho ranku, kde popisujou,
+že tak jak dřív velmi rychle vznikal technický dluh, tak v dnešní
+době toho agentického vývoje vzniká kognitivní dluh, to znamená,
+že ty týmy jsou sice schopný relativně čistý i za pomocí
+nějakých guide rails a těchto věcí, prostě ty ty ty agenty
+donutit, aby vygenerovali relativně čistý kód, ale generují ho tak
+rychle, že vlastně ztrácejí schopnost pochopit, co to dělá,
+proč to tam je, jak to zapadá do toho většího celku, jak to
+zapadá do té architektury a že vlastně dochází k tomu, že
+když se pak v určitý okamžik začnou kupit ty nové a nové
+featurey, tak vlastně tým ne, že by technicky nebyl schopný
+doručit nebo dostat je do té celkové architektury.
+Ale už vlastně nechápe, jak to tam zapadá, protože vlastně
+jakoby ten ten z toho technickýho kódovýho dluhu se přesunul
+vlastně ten dluh do kognitivního, do mozku těch vývojářů a
+těch členů toho týmu, že vlastně už nechápou, proč to tam
+je, co to tam dělá, jak jsi to tam dostal, že samozřejmě kdysi
+nebo kdysi, já říkám kdysi, no to je jenom možná pár měsíců
+zpátky ještě nebo možná rok, kdy se vyvíjelo v vozovkách
+postaru, že si člověk sednul, uvařil si kafe, otevřel si to
+IDčko, že jo, teď se zamyslel, prolámal si ty klouby a teďka
+vlastně přemýšlel nad tím a psal testy a to vlastně se tak
+brutálně zrychlilo, že už nemáš ten boot in do toho mozku,
+aby jsi uvědomil celý ten kontext, celou tu doménu, proč to
+vlastně děláš, k čemu to vede, jak to zapadá docelku.
+Teď to tam prostě narubeš a najednou se může stát, že po nějaký
+době seš jako otrávený tou neznalostí a vlastně se začne
+zpomalovat vývoj, ne technicky, ale kognitivně, což je příliš
+jako strašně zajímavý.
+Jo, takhle, že vlastně nakonec to bude kontraproduktivní.
+Já jsem jako přemýšlel vlastně, protože nad tím přemýšlím
+furt, že prostě ty featurey začneme sekat mnohem rychleji.
+Celý ten svět se tím vlastně zrychlí, ale jako je zajímavý
+to, co říká, že vlastně to, že tomu nebudu rozumět a vlastně
+mě to bude štvát, tak mě to možná jako spálí, že prostě
+dojde nějakým jako vyhořením, nebo já nevím, jak to říct.
+No, jsem na to zvědavej, protože mám pocit, že kdo to dělat
+nebude, tak prostě nebude konkurenceschopnej jako dneska
+ty featurey, prostě nasekáš jako deset jich za dobu, kdy jsi
+jim dřív udělal jednu.
+Ano, to je pravda, to je pravda, ale pak samozřejmě,
+a to je taky věc, o kterou jako i u nás o tom uvažujeme
+nahlas, co to vlastně bude znamenat na té druhé straně
+týpajpy, protože vlastně ve chvíli, kdy zrychlíš ten vývoj
+toho software, ale to tím nekončí, že jo, ty pak máš prostě
+další stage, jako máš testing, jako máš prostě nějakou
+dokumentaci, jako máš nabůtování těch lidí, pokud je to prostě,
+nebo nějaký zaškolení, že jo, pak máš tomu další a další
+procesy, tak pokud zrychlíš jednu část toho pásu,
+tak to vytvoří tlak v jiných těch fázích, to je, že se může
+stát, že vlastně vývojář bude mít dávno hotovo a bude to stát
+někde.
+U nějakých paní Jarušky, která řekne, ty vole, my to další
+nejsme dávno jako vůbec připravený na to, protože potřebujeme
+zaškolit lidi a ty budou v dispozici až za dva měsíce a tak dále.
+A takže už jenom tohle správně naplánovat, víš sám, že s tý
+pásový výroby taková, když se zasekne jedna část, tak to stojí
+celý, posílám pozdrav zpátky do Mladé Voleslavy, tak to bude,
+bude to zajímavý sledovat, rozhodně, rozhodně.
+Vlastně, abych dokončil filozofické kolečko, ty vlastně jako
+uživatel nechceš, aby se ti ta aplikace měnila každý den
+šestkrát, protože ji potřebuješ rozumět, že jo, to vlastně nebude
+fungovat, takže tohle bude fungovat, když na konci bude zase
+nějaký robot, který s tím bude vracovat, což samozřejmě jako
+dneska už si dovedu úplně v pohodě představit, ale stejně
+ten robot bude na konci dělat něco, teda doufám, kde tam ten
+člověk bude, jo, tak uvidíme, jak to dopadne.
+– No, náš host už čeká, takže ještě než pro něj doběhneme,
+tak samozřejmě musíme poděkovat partnerovi této série a to je
+Česká spořitelná za to, že s námi v celé sérii jaksi jela
+po našem boku, pomohla nám ten kognitivní dluh celého podcastu
+offloadovat, takže my za to strašně moc děkujeme, samozřejmě
+děkujeme i našim podporovatelům na Hero Hero, no a já si myslím,
+že opravdu zase jsme se rozkecali a ten chudák tam podle GPSky to našel,
+a teď tam čeká. – Teď tam mrzne v těch minus pěti, pojďme pro něj.
+– Ve studiu s námi sedí náš dnešní host Jakub Šimek, ahoj Kubo.
+– Ahoj. – Čau Kubo, čau čau.
+– Tak prosím tě Kubo, já jsem tě tak trošku představoval na začátku,
+kdy jsem říkal, že ty jsi nám tenkrát napsal, že jsme se dopustili
+jakési nepřesnosti, což přátelé, pokud se to stane, klidně nám
+jako pište dál, ale já se bojím, že nám zaplníte mailovku,
+protože to, že se dopuštíme nepřesnosti, tak to si myslím,
+že je modus operandi u nás. – My budeme mít toho robota,
+on se bude omluvat za nás. – Jo, jo, to je dobrý nápad.
+Takže Kuba nám napsal, že jsme byli v GPSce, o její nepřesnosti,
+abych tak řekl, ale k tomu se samozřejmě dostaneme,
+probereme to, my jsme říkali, a já jsem to říkal i posluchačům
+na začátku, říkám, když budete mít takovejhle pocit,
+nebo dojdete k tomu, že jsme byli nepřesní, klidně nám napište
+a my vás pozveme, a přesně to se stalo Kubovi,
+takže Kuba tady s námi sedí, Kubo, prosím tě, přestav se našim posluchačům,
+řekni nám, odkud jsi přišel, jak ses dostal do IT a takový ty věci.
+– Dobře, tak jo, já jsem, teda Kuba, dostal jsem se sem,
+protože jsem trošku hnídopich. – A to máme rád.
+– Nemohl jsem to nechat bejt, byla drobnost možná,
+ale dostal jsem se do IT. Já jsem se teda původně dostal
+jako ke geodézii, sežal jsem na střední školu,
+geodetickou, tady do Prahy, a pak jsem se snažil dostat
+na MatFest, tam jsem se teda dostal, to bylo takový škobrtnutí.
+– Dostal teda nakonec. – Byl jsem tam, byl jsem tam první semestr,
+a pak jsem si to řekl, že asi není nic pro mě,
+a šel jsem pokračovat zase v geodézii, a vlastně tak nějak
+v průběhu celé té doby tam vždycky to IT někde jako bylo,
+a mě hlavně teda bavilo jako počítat, matematika a takovýhle.
+A pak se na vejšce nám jako ukázali MATLAB
+a takovýhle věci, a najednou vlastně se mi to spojilo
+s tím počítáním, protože jsem najednou zjistil,
+že když někde udělám chybu na papíře,
+tak to musím přepočítat celý, ale v tom MATLABu najednou jsem
+změnil kousek kódu a jelo se dál prostě.
+A takhle jsem se k tomu nějak prokousával,
+ale že bych chtěl do IT, to jsem nevěděl dlouho.
+To jsem až někdy v pátí roku, jsme měli jeden předmět s učitelem,
+a ten nám to ukázal takový v té svý kráse,
+že prostě psal hezký malý funkce a najednou ten složitý
+problém vypadal hrozně jako jednoduše, takže jsem si říkal,
+tam to chci dělat prostě.
+Hezky, pěkně. V čem jste to tam psali, nebo v čem?
+To bylo v C++, Celestin, ale většinou Python to byl.
+Ten je na to, v té komunitě je asi tak nejrozšířenější,
+bych řekl, že má nejvíc knihoven a tak.
+Takže ty seš teda vystudovaný geodet,
+chápu to správně. A živí se tím doteďka.
+Do jistý míry. Do jistý míry.
+Tak nám prosím ti řekni, jak se tyhle ty dva světy geodézie
+a IT u tebe spojily vlastně. První bylo teda tohle to takový
+tyžové to inicieční, že jsi teda viděl,
+že se teda hezky udělá v C++, ale jak to pokračovalo dál?
+No, já jsem vlastně už v průběhu vejšky na magisterském začal
+pracovat ve výzkumáku geodetickým, kde jsem si jako
+našel úkol, že tam měli vyvinutej nějaký skript,
+protože tam jsem měřil tíhový zrychlení a oni měli
+nějaký skript, který dokázal
+z těch naměřených dát získat lepší výsledky.
+Ale ten skript byl jako dlouhá špageta a nebylo to publikovatelný
+někde jako na veřejnosti, takže jsem měl za úkol to
+jako přepsat do nějaký Python aplikace.
+Co se v komerční svaře vůbec neděje takováhle věc,
+že se objevil jako špatný skript?
+No to byl jako prostě, to byl jako jenom prostě text,
+tři tisíce řádků nebo a nešlo s tím moc jako nic dělat
+bez zasvěcení.
+Jasně.
+No a takže jsem se vlastně přičichl k tomu psaní toho kódu
+a potom právě přišel ten moment v tom páťáku na výšce,
+kdy jsem si řekl, já už nechci ani v tom výzkumáku bejt
+a chci prostě jít někam programovat.
+A tak jsem právě si začal hledat potom práci.
+To bylo vlastně v období, kdy vyšel chat GPT.
+Aha.
+A takže v té době vlastně jsem si začal hledat práci, no.
+A potom od roku 23 jsem nastoupil do Atlasu, kde pracuji
+a to už je jako čistě vývoj.
+To je čistě vývoj.
+Jo.
+A tam se věnuješ předpokládám stále do jistý míry tý geodézii.
+Jako těm prostorovým datum.
+Prostorovým datum.
+Možná prosím tě na začátek pojď nám ještě vysvětlit, co to geodézi je.
+Protože když se to řekne, tak jediný, kdy já jsem se s tím kdy setkal,
+je, když jsme stavili barák a potřeboval jsem se ho nechat zaměřit.
+Jo, tak to je asi tak jako...
+To mě teď čeká.
+To ti čeká, jo.
+No, když se vyměříš pozemek.
+Tak to je asi tak jako všechno, co vím o geodézii.
+Tam přišel pán s paní do bar...
+To byš hodně?
+Jo, jo, takže s takovýma, že jo, různýma prostě vyfikundacema začali se tam jako měřit.
+A teď na sebe, on řval na tu paní, řval nějaký čísla, on asi to zapisoval a on se asi popoběhl kousek dál.
+Pak tam zapíchl takový, že jo, ten, tu páborku a zase ona mu to zaměřila a tak.
+Tak to je všechno, co vím.
+Což teď pokládám, že je brutálně až kriminálně málo.
+Takže popiš posluchačům, co je geodézie, co všechno to řeší a vlastně, co třeba i tebe na tom uhranulo.
+Dobře.
+No, vlastně ten svůj zážitek, co jsi říkal, to je vlastně jako asi maximum, co se může běžný člověk setkat jako s geodetem,
+ale samozřejmě to pole působnosti je mnohem větší.
+Já jsem právě v té, někdy v devíce, kdy jsem si vybíral tu školu,
+tak jsem někdy v tom katalogu na webu viděl to Střední proměsová škola Země Měřická
+a jsem si říkal, co to je tyjo, tak jsem kouknul na Wikipedii a tam bylo, že geodet
+pomocí matematických a fyzikálních metod určuje tvar a rozměry země.
+A blablabla a říkal jsem si, tak to nechápu, tak to chci jít, tam chci jít prostě.
+Tak jsem tam šel a právě jako ta geodézie se dělí asi na dva takový jako směry, jako vyšší a nižší
+a ta nižší dělá právě tyhle ty všechny věci, se kterými se člověk může jako setkat.
+Stavby a katastrofy nemovitostí.
+A takovýhle tyhle ty věcičky, zaměřování pro projekty a takovýhle.
+A potom je ta vyšší a ta právě řeší jako tvar, rozměry země a jako z velkýho měřítka ty problémy.
+A různý jako rotaci země a takovýhle problémy. GPSky tam do toho patří a nějaká kosmická geodézie,
+takže to je takový jako...
+Kosmická geodézie, jo.
+No tak to souvisí s těma GPSkama primárně.
+Jo, takhle.
+A nějakýma takovýhlema.
+Já myslel, že jako dva kosmonauti s tím.
+S těma fáborkama zaměřují mezinárodní stanici, jak je dlouhá a velká.
+No ale třeba na měsíci jsou odrazný hranoly, když se tam odvezli, tam jsou postavený odrazný hranoly,
+kam se posílá poprsek světla a měří se, jak je měsíc daleko od nás.
+A jako jestli se vzdaluje nebo přibližuje, tak jo.
+Ty kráso.
+To je hustý.
+Rotace země, já myslel, že země není kulatá nebo takhle.
+Jak to teďka je?
+Já vám to tady rozseknu jednou pro vás, že země je kulatá a my bychom si všichni přáli, aby byla placatá,
+protože by se to extrémně zjednodušilo.
+Hezky by se to měřilo vy.
+Právě, to prostě.
+Víš, že se mu již nespíš jinak přepadneš z toho vodopáru.
+Pojď, pojď, pojď.
+To koule do toho přináší akorát problémy, prostě.
+No tak pojďme možná do toho, co děláš ve firmě Atlas.
+Co vlastně je tvůj denní chléb z tohohle, z toho ranku?
+No...
+Můj denní chléb je vlastně...
+Já spíš představím si, co dělá ta firma.
+No já si...
+Prostě ta firma začala v podstatě už před revolucí,
+protože moji kolegové pracovali v pražským projektovým ústavu jako programátoři
+a dostali za úkol znaměřených dat od geodetů namodelovat terén,
+aby to projektanti mohli používat.
+No a potom, když přišla revoluce, tak si řekli,
+tak vezmem tohle z toho a zkusíme prostě to...
+Jako...
+Zkusit to na trhu komerčně.
+No a z tohohle vlastně teda vznikla Atlas.
+A dneska je to vlastně CAD systém pro...
+Specializovaný pro geodety a pro projektanty.
+Především pro projektanty dneska,
+a to projektanty jakovej věcí, jako je vodovody, kanalizace,
+cesty, vodní toky a takový věci, kde je vlastně
+jako esenciální vědět ten průběh toho terénu.
+Mhm.
+A ty tam děláš co?
+Ty udržuješ ten systém, rozvíjíš ho nebo máš to na starosti?
+Po nějaký jako jiný linii?
+Jaká je tam vlastně tvoje role v tomhletom?
+Já mám vlastně na starosti přidávat
+jako feature, který jsou potřeba.
+Že vlastně tam jako...
+Máme různý třeba setkání s uživatelem a takhle,
+a tak tam člověk jde, teď se s nimi baví,
+pak ví, co má jako dělat, protože
+slyší, nebo máme jako obchodňáka, který jako k tomu lidi volaj, že
+my jsme tam potřebovali tohle, tohle, tohle prostě, tak
+člověk to tam nějakým způsobem odbavuje.
+A to je předpokládám klasická, stará, dobrá desktopová appka,
+prostě tlustej klient, kterýho si nainstaluješ,
+a ono to chvilku loaduje, a pak se zobrazí mapa,
+a všelijaký divný uživatelský prvky, rozhraní a tyhle věci.
+Takže je to vyloženě hodně, řekněme, domain specific,
+je to pro geodety od lidí, kteří to dělají.
+Jo, tohle je jako hodně domain specific.
+OK, OK.
+Ty jsi říkal, jak dlouho se to vyvíjí, ten software, 30 let?
+No, jako nějaký...
+Našel jsem tam zdroje jak třeba z 1988.
+No ty krááááááááááááá.
+No a v čem je to napsané, C++?
+Ty původně to bylo v Cčku a teď je to v C++.
+Jako primárně C++ pořád?
+Primárně C++.
+Ty krááááááááááá, no tak dej si kafe,
+protože teďka mě zajímá jedna naprosto zásadní věc.
+Jak prosím tě vypadá codebase takovýhle věci,
+která žije teda 40 let, plus?
+No občas je to divočina, ale je to jako...
+Jak je to vlastně napsaný?
+jaká je zatím myšlenka,
+jaký je to paradigma, asi jako
+objektově to možná ještě ani pořádně nebude, ne?
+Je to objektově. Vlastně celý
+ten atlas stojí na tom,
+že má,
+abych to popsal, ten CAD systémy
+obecně, když si to člověk představí,
+že má třeba nějaký půdorys a teď tam
+jsou nějaký prvky, já nevím, třeba
+kanalizace, nějaký bod, blablabla,
+tak je to, často jsou to jako
+ty objekty
+jsou rozvrstvený ve vrstvách,
+ale nemají vlastně nějakou přímou
+souvislost na sebe.
+Zatímco u nás je to vymyšlený tak, že
+ten, všechny ty objekty
+jsou jako ve stromový struktúře.
+Takže vlastně uživatel, když
+chce přidat jakýkoliv objekt,
+jakýhokoliv typu, tak to musí pověsit pod
+nějaký jiný, což přináší nějaký výhody
+a zároveň nevýhody. Takže je to vlastně
+objektově, to jádro je napsané objektově,
+jsou to COM objekty,
+takže je to i rozšiřitelný
+jako do dalších jazyků,
+takže je to jako objektově.
+A potom jsou tam různý věci kolem
+a to už je, jak si každej píše sám.
+Hezky, pěkně. A kolik vás je v týmu?
+Je nás tam pět a jeden externista.
+Pět a jeden externista. A to jsou všechno
+C++ kaže, jo?
+Všichni umějí C++.
+Všichni umějí C++.
+Co se týká třeba performance
+nebo vůbec těchto věcí, já jsem
+dlouho jsem neviděl nikoho,
+kdo dělá na klasický tradiční
+jako desktopový aplikaci, která má takhle
+dlouhou historii. Mě to zajímá, tam musí být
+strašně moc bubáků, nebo třeba
+moc věcí, že třeba si narazil na něco
+a říkal, ty vole, to geniálně vymyslel před těma
+třema dekádama. Třeba
+už jsem se ptal na tu performance. Je tam
+něco, co tě třeba jako
+překvapí v dobrým?
+No vůbecně jako ten výkon
+toho, že se tam sporacovala docela
+velký množství dát, tak aby to jako
+nějakým způsobem doběhlo.
+Že jsou jiný softvery, který
+prostě s takovýmhle množstvím dát
+mají problém. A přitom bych čekal, že
+když tam jsou třeba desítky a stovky
+vývojářů, tak to budou mít odladěnější
+takovýhle věci.
+Vedete ty diskuze vůbec
+o nějaký potenciální
+vlastně klaudifikaci, jestli to vůbec
+jako dává smysl versus jestli to vůbec
+jako je vhodný. Protože pak přemejším nad tím
+koncovým uživatelem, jak s tím pracuje,
+jestli vlastně někde prostě potom v terénu,
+nevím, jestli vlastně s tím pracuje v terénu, to nám možná pověst,
+jestli pak vlastně není výhodnější,
+aby to měl na mobilu, na tabletu, co já vím,
+připojený z dálky a
+ten tlustý klient bude jaksi tenčí.
+No v terénu s tím nepracuje.
+Tam probíhá sběr dat
+přes nějaký přístroje a pak se to jenom
+vysype do počítače.
+A co se týká toho klaudu, tak my jsme
+to jako řešili, jestli to nějak
+řešit tady z toho. Ale
+dospěli jsme k tomu, že většina těch zákazníků
+používá nějaký ty
+OneDrive a takovýhle. Nebo když
+je to nějaká firma, tak to mají
+jako to ve firmě na
+FTP-ku ty soubory a
+jako oni to netahají ven. Mají to prostě
+někde u sebe a sdílejí si to
+po sítě a vlastně jako nikdy jsem to
+neslyšel nějakou potřebu, že by
+byla takováhle potřeba jako
+klaudu nebo něčeho. Jediný, co
+potom možná je třeba,
+že ty data jsou občas tak velký,
+že jako zpracovávat to někde
+na desktopu by bylo pomalý a tam je
+zase problém s tím přenosem. Jako když jsou to třeba
+desítky gigabajtů data, než se to přenese
+po síti.
+To jsem se chtěl zeptat vlastně, jak
+velký data nebo jak
+velký je třeba jeden takovej projekt, který
+si tam otevřeš. To jsou teda
+v gigabajtech se bavíme, jo?
+No ty vstupní data můžou být v gigabajtech.
+Ty kráso. Já jsem
+teda koukal ještě na váš web a
+vy tam zmiňujete něco, čemu se
+říká AYA nebo AJA.
+AYA. AYA. A AYA.
+Je to aplikační jazyk Atlas. Atlas.
+Co to je a proč
+to vzniklo? To vzniklo někdy v
+90. letech a
+vlastně to je
+interpretovaný jazyk jako na základě
+C++ a vzniklo to kvůli tomu,
+aby uživatelé si mohli nějakým
+způsobem ovlivnit chování toho
+těch objektů. Aby prostě
+měli možnost jako s tím zpracovat
+víc než, že mu tam člověk udělá někde
+checkbox a takovýhle.
+Ale jelikož jako naši
+uživatelé jsou primárně prostě
+projektanti a to
+teď ty prostě úplně, jakmile
+vidějí nějakou kousek kódu, tak jsou
+z toho úplně špatné.
+Takže jako je to boj.
+Ale ono se to ujalo,
+protože jsou tam třeba,
+jak jsem říkal, že ty objekty jsou ve stromový
+struktúře, tak tam právě
+ta výhoda je v tom,
+že jak to vysí pod objektem, tak při každém
+překreslení se vlastně přebíjí
+rajty vlastnosti prostupně směrem dolů.
+Takže třeba vlastně
+vezmu si třeba
+bod a na něj si pověsím
+text a do toho
+textu si dám, že tam chci mít souřadnice
+toho bodu. A když s tím hejbu,
+tak furt se mi mění
+ten popis. A
+tenhle ten popis, tak tam se dá napsat
+prostě nějaký ten scripty I,
+kdy se to může skáčet v tom stromě a vypisovat
+se tam různý informace ostatních objektů.
+Ale jestli to dokážou
+napsat tři lidi, tak to je hodně.
+K tomu souživatelu.
+Tak vidíš, jak se ta dědičnost
+dokáže krásně prakticky použít.
+Hezky, hezky, hezky.
+A ty říkáš pět lidí, tak
+jak vlastně vyvíjíte, jo?
+Je to nějaký aláskram, jo?
+Dá se tam vůbec aplikovat nějaká takováhle
+agilní metodika nebo framework
+vývoje, nebo jak vlastně jste zvyklí vyvíjet
+v tom týmu? To prostě,
+no tak jak to plyne, bych řekl.
+Že ODD, obchodňák
+Driven Development, jo? No tak nějak, jo.
+A nebo, a potom si občas dělají
+i věci jako takový ty interní, co uživatel
+nevidí, že se třeba něco potřebuje přepsat,
+tak se prostě řekne, máš to na
+strosti ty a ten to pak třeba přepisuje, no.
+No a tak mi teďka řekni, jak teda
+probíhá u vás ten release management?
+Takže vy někam na
+Ftípko uploadnete novou verzi, nebo
+vy vypálíte na
+CDčka novou verzi
+a rozešlete vejlem? Na CDčka už ne,
+ale udělá se prostě, celý se to
+zbuildí, podepíše se to, aby to
+Windowsy nehlásili jako antivir
+a dá si to na web.
+A potom uživatelům se zobrazí, že je k dispozici
+nová verze. A vy stáhnou a přeinstallujou
+a mají to. Jak často releaseujete?
+Jo, tak dvakrát ročně třeba.
+Ale ono to je občas to,
+občas to hapruje ty data.
+Jo, jo, to je jasný, to je jasný.
+To já ještě přemýšlím, jak přemýšlíš nad sebou, jo.
+Jakože je to vlastně velmi úzce
+specializovaný, zároveň propojený s tím
+tvým jako předchozím odvětvím.
+Dobrý si představit, že bys
+jako někdy jednoho dne, nedej bože,
+opustil Atlas a jako kam bys
+vlastně chtěl směřovat, jo,
+ve chvíli, kdy vlastně je to takový jako hodně
+specializovaný, jako ve všech ohledech, jak se o tom
+bavíme. Přemýšlíš nad tím někdy?
+Občas nad tím přemýšlím, jako
+kdybych někam uměl jít
+někdy, tak bych chtěl, aby to bylo jako
+zajímavý, jako tady. Že to je prostě
+nechtěl bych dělat nějaký
+jako klasický vývoj
+jako typu webovky nebo něco
+takového. Muselo by to být něco trošku
+v oboru, třeba něco s tím laserscanem
+nebo něco takového. Takový, nějaký
+firmy asi tady jsou, který se věnují nějakým
+takovým zpracováním, jako dát
+a takhle. Jako to, myslím si, že je
+kam se jakoby posunou v tomhletom
+oboru.
+Hele, co je třeba konkurencí toho
+nástroje? Je to ve světě
+něco, na co, k čemu
+vzlížíte a inspirujete se?
+No tak, jako největší tyhle ty firmy jsou
+asi, bych řekl, AutoCAD a MicroStation.
+Co jsou všeobecně známý, si myslím,
+CADy.
+Ty jsi říkal C++,
+vy tam teda nemáte vůbec žádnej jiný,
+když ještě pomilu tu Aju,
+nějakej jiný programací jazyk,
+třeba nějakej C Sharp? No, máme tam.
+Jo, je tam. Protože píšeme
+ve vizuálu, takže
+tam je to hezky propojitelný i se
+C Sharpem. Jo, a jaký je
+poměr toho C++ka
+a C Sharpu? To bude málo. To bude
+třeba, si myslím, jestli 5%,
+tak
+5% C Sharp. Jo, ale
+možná méně spíš, bych řekl. Aha, a na co ho tam máte?
+Nevím, no, proč jste ho zavedli, teda?
+No, to tam zavedl
+kolega přede mnou. Nevím, co byl ten původní
+impuls, proč ho tam zavést,
+ale píšou se v něm
+ty dialogy, gujička
+a používají se třeba
+dotnetí nějaký
+komponenty, který prostě
+ty tam už jsou, tak nevím, třeba
+na nějaký zapisování do Excelu
+a takovýhle, že člověk si udělá
+wrapper kolem toho a může to používat
+dál. Takže předpokládám, že to je celý
+vyloženě Windows Specific, že nemá to
+linusovskou verzi nebo Macovskou.
+Bývala nějaká Unixová
+verze, ale to se dávno odřízlo.
+OK.
+My tady máme otázku, jak řešíte interoperabilitu
+s jinými CAD systémy,
+jako DXF,
+DVG, formáty a podobně. A vlastně
+mě k tomu ještě napadá,
+v čem vlastně konkurujete,
+proč si někdo vybere vás a nevybere
+si právě ten AutoCAD?
+Jo,
+nás si vyberou, protože
+ten náš software je specifický
+tomu nášemu trhu.
+A teď myslíš českýmu trhu?
+Českýmu trhu, případně
+slovenskýmu. A že to je taková
+komunita. A myslím si, že naše konkurenční
+výhoda pro tu naši
+komunitu, nebo jak bych to nazval,
+je to, že vlastně oni mají
+přímou linku k nám, že si zavolají,
+můžou mít nějaké
+připomínky, když jim něco nefunguje,
+nebo by chtěli, aby to fungovalo jinak, nebo
+chtěli nový funkce.
+To asi do autokedu nemůžou zavolat, že tady mě to teďka nefunguje.
+Volat tam můžou.
+A dovolají se do Indie, klasicky.
+Nebo dneska už open club jim možná odpojí.
+Hele, a ta interoperabilita,
+jak to řešíte, ty formáty?
+No, to je přes ty formáty, to DXF,
+DGN, DVG,
+což jsou vlastně, DXF je
+volný format a ty dva jsou,
+to jsou proprietární těhle z těch společností dvou.
+Jo. Ale vy je podporujete?
+Vy umíte z nich číst? Jo.
+Jo, OK.
+Ty jsi zmínil
+planning a vlastně, když jsme se psali
+v rámci přípravy, tak jsi i říkal, že to je věc, která
+vás teďka baví, který se jmenujete,
+kterou, do který docela šlapete.
+Tak jestli bys mohl vysvětlit zase nám
+totálně geodety nepolíbeným,
+co to vlastně je,
+na co se to používá, proč je to cool?
+Jo. Já začnu, jak to bylo
+v historii, tak geodet používal
+totální stanici, nebo jako v historii,
+už novější historii, ale totální stanice
+a ta vlastně... A teď co, prosím, to tady?
+To je jaká punková kapela.
+To je vlastně to, s čím
+ti přijeli zaměřit ten...
+Jo, tak tu trojnožku a tyhle ty věci.
+To tam postavili a vlastně
+v principě je jednoduchý. Postavíš se na známej
+bod a tam máš úhloměr a ten
+nastavíš na jiný známej bod a změříš
+úhel a dál dílku a když si to
+představíš z půdorysu, tak už můžeš začít kreslit,
+protože takhle si vyneseš ty body do mapy.
+A ten laserscanning funguje
+podobně, akorát tam se točí
+zrcátko, tam se svítí ten laser
+a on to střílí všude.
+Všude do prostoru ty body.
+Takže on změří prostě jako třeba během
+minuty změří třeba milion bodů v prostoru.
+Jo, takhle.
+Ale když tam nemá tu druhou trojnožku,
+tak vůči čemu to měří?
+No, to je složitější,
+ale taky. Jako v nejvěnodušším případě
+se postavím na známej bod
+a rozlepím si všude štítky,
+kde budou známý body další
+a on je změří. A potom se probíhají
+transformace těch mračen
+do té soustavy, který člověk potřebuje.
+Takže teďka, když budu mít geodeta,
+tak mě to čeká příští měsíci, tak přijde
+s čím? Přijde s tou trojnožkou ještě?
+Buď s GPS-kou, anebo
+s totální stanicí.
+Totální stanice, to znízkilo.
+To je dobrý, totální stanice je fakt dobrý.
+A vy teda tomu laserscaningu se teďka nějakým způsobem
+teda jako věnujete, nebo jak to zapadá
+do toho, do atlasu třeba?
+Není to jako naše nějaký hlavní téma,
+ale je to tam spíš kvůli tomu, že
+ty projektanti pracují
+často s velkým územím a to, než by
+geodet naměřil klasickým způsobem,
+tak to budou prostě třeba i týdny práce.
+Takže oni to mají prostě třeba nalítnutý,
+nebo to pozemním scanerem
+si to nascanujou.
+Nalítnutý znamená co?
+Jo, nalítnutý dronem s laserem, anebo s fotákem.
+Jo, takhle.
+Takže ještě vy si tam pošlete drony,
+který mají tahle ten scanner a on si to tam odtrhne.
+Ale to většinou dělají nějaký geodetický firmy třeba,
+který to pak dodávají projektantům
+a my s těma datama musíme pracovat.
+A vlastně my, jako naším úkolem,
+není nějak se jako úplně
+zaobírat tím laserscanningem,
+ale připravit nějaký
+algoritmy a způsoby,
+jak to očistit, aby se oni dostali
+z těch dat, co oni potřebují.
+Což je vlastně terén.
+A tam je teda daleko větší asi množství sebraných borů, ne?
+Protože když půjdu s tou totální stanicí,
+tak vlastně jako škrtnu tady, pak jdu zase dva metry,
+škrtnu tady, ale tady ti těch bodů
+vznikne prostě
+jako násobně bambilion, že jo?
+No to úplně změnilo způsob práce
+vlastně toho geodeta v terénu.
+Že dřív jako prostě trvalo, já nevím,
+třeba 600 bodů za den změřil.
+Čau, tak to byl dobrý, dobrá vycházka
+tyho stanici.
+No to záleží, jako když měřil na jednom místě
+hodně hustě jako nějaký věci,
+tak to změřilo rychle.
+Ale dneska prostě těch bodů
+za dvě hodiny člověk pozbírá miliony
+a miliony, takže to prostě
+jako úplně změnilo vlastně paradigma
+té práce, no.
+Ale je k tomu teda
+laserscaningu i potom nějaký
+tool na post-processing?
+Jako když si uvědomím, kolik těch
+bodů nazbíráš a teď potřebuješ
+v tom mít nějaké jasno, jak se s tím pak dál pracuje?
+Většinou ty výrobci mají už nějaký
+software,
+do které to vlastně natáhnou
+ty surový data.
+A z toho vysypávají něco, co už jde potom
+dát do jiných software.
+Takže tam se to zpracuje,
+když je to víc jako mračen,
+tak se to na sebe napojují,
+některý to klasifikují a pak už si prostě
+už se po tom posílají zpracovaný
+data, nebo jako zpracovaný.
+Hele, ještě zeptám se pro kamaráda,
+co když tam někdo jako před chvilkou
+navez zeminu, jo, a ona ta zemina je taková
+jako...
+Tak je to idioten, kamaráda.
+Ona tam ta zemina je a teď jako na tom se možná
+nedá založit ten dům,
+jako řeší to i tohle,
+že teď vlastně ten můj pozemek vypadá rovně,
+kamarádův pozemek,
+no my ho máme spolu.
+Tak ten kamarád je moje žena.
+Tak toho znám.
+Jo, znáš, znáš. A navezli to teď to rovně,
+ale samozřejmě předtím to byl kopec.
+Tak teď jako dokáže tohle,
+je to ještě práce geodetax?
+Tohle už musí posunout nějaký statik
+nebo stavař nebo někdo.
+My to akorát změříme, kolik je tam tý hlíny,
+ale jestli si na tom může stavět,
+to nedochává říct geodet.
+Jestli nás poslouchá někdo ze stavebních firm,
+tak si teďka mi určitě zavolaj,
+protože bychom pochopili, jaká jsem lama,
+jak se nám dělá vědět.
+No takže vy teda neřešíte vejšku
+v toho bodu, nebo řešíte to?
+Jo, taky.
+Takže když tamhle kamarád, kamaráda,
+když zničí celý ten terén,
+jako změní jeho povahu,
+tak vlastně by se to muselo přeměřit,
+když tam udělá z roviny spát
+nebo ze spádu rovinu?
+No pro nějaké stavení domů to určitě.
+To je zásadní vědět,
+jak je tam průběh toho terénu.
+Ok, ok.
+Ještě jsem slyšel jednu zkratku,
+což je LIDAR,
+což se teďka taky hodně používá.
+Myslím si, že je to vlastně ve spojení
+s těma autonomníma vozidlama.
+Je to něco, co s tím souvisí?
+To je vlastně ten přístroj,
+který dělá to měření.
+Aha, takže to je tak,
+že když já budu dělat laserscanning,
+tak budu mít LIDAR,
+čítá je, zaměří je,
+já je pak seberu.
+A jak teda vypadá u vás ta pipelina?
+Teď najednou teda místo pěti bodama
+sebraných tady s tetkou,
+co jsme dělali po večerech prostě,
+takže teď mám prostě 10 miliard bodů
+a jdu do atlasu.
+Co vy s tím uděláte?
+No, nejdřív si to tam člověk nahraje,
+aby se vůbec podíval,
+co tam má a nemá.
+A potom musí prostě přijít
+nějaký proces čištění,
+protože pro ty projektanty
+nebo ty uživatelé vlastně
+je zbytečný,
+že tam má stromy
+a že tam má domy
+a takovýhle věci.
+Takže se prostě musí nasadit nějaký...
+A ono to zachytí i to okolí?
+Všechno.
+Od čehokoliv se to odrazí.
+Takže teď jsou tam vidět
+různý fragmenty prostě lamp
+a takovýhle věci.
+To tam jako nesmí být,
+protože pak z toho nejde
+vlastně namodelovat ten terén.
+Takže musí přijít nějaký algoritmy,
+který to jako odfiltrujou
+tady z té věci
+a potom často ty data
+jsou stejnak zbytečně hustý,
+takže pak přichází i nějaký třeba ředěný ředění,
+že stačí třeba jeden bod na metr čtvereční,
+aby člověk jako nakreslil vrstevnice
+nebo něco takového.
+Takhle jsem se chtěl právě zeptat,
+jak moc je ta síť vlastně hustá,
+kolik je to bodů,
+jestli opravdu,
+když tam bude stát postava,
+jestli ji uvidím vymodelovanou,
+jak ve starých hrách,
+když jako se jelo poprvé v poligonech,
+nebo jestli je to jenom opravdu pár bodů na metr.
+No tak to, co leze z těch přístrojů,
+tam může být jako nějaký řádově třeba desítky bodů
+na metr čtvereční.
+No vlastně si dneska hrajou i mobily, ne?
+Jakože reálně vlastně...
+Apple to má.
+Apple to má, takže je schopný tím vlastně udělat ten portrét,
+vysvítit úplně jinak,
+to je neúžitelné.
+Že Apple má v telefonu lidary.
+Jo.
+A oni to tam mají kvůli té rozšířené realitě,
+že vlastně chtějí mít,
+že člověk bude mířit do místnosti tím,
+aby měli zachycený ten vlastně prostor,
+aby tam mohli doplňovat ty svoje objekty.
+Jo, gaučat tyhle ty věci.
+Jo, OK.
+Takže tady to ředění, jak říkáš,
+že vlastně se za prý teda budeš mít méně bodů,
+ale taky musíš odstranit teda lampy a podobné věci,
+tak to všechno nabízí ten software,
+který dělá ten laserscanning?
+Nebo to musíš dělat v té pipeline?
+To nevím, jestli to dělá ten software.
+Asi jo, ale my to máme taky.
+Tady jste u nás.
+Tyhle ty algoritmy.
+Ne, tohle to jsou čistě jako exaktní algoritmy.
+Tohleto, co ty popisuješ, říkal jsi jako zkrátku CAT,
+ale když se bavíš s geodetama,
+což ty seš druhej geodet v životě,
+se kterým jsi se kdy bavil,
+tak ty říkaj jako GIS.
+Tak kdy jsou ty vlastně informace sebraný z terénu,
+jako řekněme GIS data a kdy to jsou jako CAT data, jo?
+Jenom můžeš celá ty zkrátky vysvětlit
+a vlastně kdy se to prolíná
+a kdy naopak je to přesně dané.
+Já předpokádám, že GIS znamená,
+že je to jako v prostoru
+a ty CAT, že to jako je možná 3D,
+ale teď je to otázka, jestli jsem si to sám nevyvrátil, nevím.
+Rozmutej mi to, prosím tě.
+No, ten rozdíl je v tom, že CAT,
+každý vlastně, každý ty softvery jsou docela jiný.
+No.
+CAT je, když třeba projektant kreslí budovy,
+tak tam prostě klikám,
+kreslí ty půdory, sníháč, ty bokory,
+ty a takovýhle věci,
+zatímco GIS je takovej jako v jiným měřítku,
+že tam člověk má data,
+já nevím,
+o tom, jak prostě proudí někde tekutina
+ve vodě, jako v přírodě
+a takovýhle jako,
+víc jako do geografie.
+Aha.
+Tam to je víc jako, CAT je pro průmysl
+a pro kreslení výkresů
+a GIS je pro takový geografický analýzy.
+Jako přesundat mezi tím je,
+že třeba, nevím, třeba Praha,
+nevím, eviduje sítě
+a geodes prostě, když se něco kope,
+tak změří ty sítě
+a potom to ale ten výkres pošle,
+jak na Prahu,
+ale oni si z toho vytahují jenom čáru,
+jenom třeba tady je prostě optický kabel
+a potom mají ty data,
+ale oni už ne to, jako ne evidují
+jako všechny možný, jako technický detaily
+kolem toho, jenom že tam mají čáru,
+že tady vede něco, aby se to nepřekopilo příště.
+Jo, jo, jo.
+OK. Když už jsme toho trošku dotkli
+a já jsem samozřejmě už tady na to několikrát
+narazil tu naši nepřesnost,
+ohledně nepřesnosti GPS-ky,
+tak můžeš nás opravit,
+můžeš to vzít na přesnou míru
+to, co jsme kdysi tady řekli
+a jak ti to zarezonovalo,
+jak se říká, že jsi nidopich, tak pojď to opravit
+a pojď možná i do toho celého
+vlastně tu GPS-ku ještě zahrnout,
+protože ty jsi říkal, že se pro určitý měření dá použít,
+tak vlastně pojď nám to,
+pojď nám ještě probrat tuhle část.
+Dobře, tak s tou nepřesností to je tak,
+že skutečně já mám pocit,
+že američani to spustili v 70. letech,
+něco takového, to si nejsem jistý.
+A vlastně až do roku 2000,
+tak oni do toho signálu vkládali
+nějakou rušivou vlnu,
+aby prostě asi sovětský svat
+nemohl posílat rakety
+naváděný prostě americkou GPS-kou,
+to by šli trošku proti sobě.
+Jasně. A v roce 2000
+to tam vlastně přestali vkládat
+ty rušivý vlny. A tím vlastně
+nastartovali to, co vidíme dneska,
+ten, že všechno,
+prostě každý zařízení má GPS-ku,
+vlastně každý den to člověk používání
+si to vlastně neuvědomuje.
+No a ta nepřesnost byla kolik?
+V řádu metrů? To bylo v řádově
+povoleně 300 metrů třeba.
+300 metrů? Takže když jsem chtěl v roce
+1999 použít GPS-ku,
+tak jsem měl 300 metrů nepřesnost.
+Ale... Což si asi nechtěl.
+Já nevím, kdy jsem začal používat GPS-ku, ale...
+Já nevím, kdy jsem zjistil, že ta věc vůbec existuje,
+ale... A teď především, kdy přišly ty první
+takový ty, jak se jmenalo, tom-tom, ne?
+Navigátory, to je ty takový ty navigace,
+tak to muselo být... Tam někdy po roce 2000.
+Jo. Ale u nich právě tam byl
+problém. Jeden z důvodů, i proč to pak zrušili,
+je to, že právě geodeti přišli na to,
+jak to obejít. A vlastně
+to se vlastně používá do dneška.
+Že oni zjistili, že když budou mít
+nějaký známej bod, a tam vezmou
+jednu tu anténu a tam jí dají,
+tam vědí jako souřadnice toho bodu,
+a tam vlastně učujou tu polohu,
+tak z těch známejch souřadnic
+pochodili. A skalibrovalo se to
+a dokázalo se dostat
+třeba na nějaký asi metry nebo
+nějaký nízký metry.
+Takže geodeti ojebávali GPS-ku before it was cool, jo?
+A to se vlastně používá
+dodnes, protože
+když jde geodet měřit s GPS-kou,
+tak jsou sítě permanentních stanice,
+to jmenuje. Má třeba
+katastrální úřad má vlastní,
+nebo firma Topcon má vlastní, a to jsou
+prostě nějaký síti po republice
+rozmístěný
+na známejch bodech
+jako tyhle stanice. A když člověk měří,
+tak mu vlastně real-time přijdou korekce
+a on se prostě dostane
+na centimetrovou přesnost.
+Počkej, takže ta stanice někde je
+a já se k ní jakože připojím
+od jinut a ona mi řekne, jak jsem daleko
+vodní, pod jakým úhlem a tak dále, jo?
+Nebo... No, dneska už je to tak, že
+se nepřipojuje člověk přímo na ní,
+ale že jsou třeba víc jich
+v okolí a ono to vygeneruje
+virtuální jako tu stanici
+někde blízko vás a tam
+napočítá tu korekci přímo pro to místo
+a vlastně, protože
+jak letí ten paprsek tou
+atmosférou, tak tam prostě se to láme
+všelijak a dorazí jako nepřesnej.
+Ale ona stojí na známém bodě,
+takže dokáže pak určit korekci pro ten
+pro to místo, kde já měřím s tím.
+Takže to je důvod, proč dneska vlastně
+všechny ty aplikace v mobilu jsou takhle
+přesný, jako je to takhle škálovat?
+No tyhle jsou nepřesný ty v mobilu.
+Protože tam to měření
+probíhá jinak a tam
+není jako ta dobrá ta
+anténa, aby mohla to určovat tímhle způsobem.
+No jasně, ale když dneska vlastně otevřu
+Waze, tak ten Waze jako za vteřinu
+ví, kde jsem, jako pro mě
+v kvalitě, která mi stačí. No a tam nedostává
+žádný korekce. To je prostě čistě
+ta technologie, jak funguje, bez korekcí.
+Ale myslím, že ono to má i chvilku jako nakešovaný.
+Že vlastně se do telefonu ukládá tvoje poslední
+lokace, takže když
+jako vývojář mobilní vlastně chceš
+k tomu přistoupit, tak tam jsou
+snad dva módy. Jeden je jako
+Last Known a druhej je Life.
+Chvilku to vidí, že když si otevřeš
+nově teďka, aby si to otevřel, tak on si myslí,
+jestli ještě nakladně možná, jo. Nebo někdo
+je to používal naposledy, že chvilku mu to trvá.
+No to mě ještě připomíná
+a ty jsi asi
+jedinej tady z naší trojice
+ve studiu, která je, kde je
+schopnej mi tohleto celý vyvrátit
+nebo potvrdit. Já jsem slyšel, že dřív,
+že když vlastně chtěla policie někoho
+sledovat, tak to fungovalo velmi
+podobně, co jsi popsal, že vlastně
+zapínali a vypínali
+nebo byli schopný, možná to nebylo,
+že bylo, že zapínali a vypínali, ale byli
+schopný podle vzdálenosti od tří
+vysílačů na mobilní telefon
+vlastně zjistit, jako nějakou triangulací,
+kde se asi tak nacházíš, jo.
+Že to byl asi podobný princip, který ty si říkal,
+že je víc těch stanic
+a podle nějaký vzdálenosti, podle síly signálu
+od týhle či od týhle, byli vlastně
+jako schopný, když tě chtěli sledovat.
+Myslíš jako teďka signál jako BTS-ky?
+No, no, no, signál jako prostě starý, prostě GSM
+modu, prostě klasický, prostě teď
+asi by si tě napíchli, zavolali by
+Izraelcům a napíchli si tě úplně jinak, ale
+v těch starých dobách to prý bylo, že
+opravdu, jak byly ty různý vysílače, tak si to tak jako
+povypínali a tím, jak se to připojilo
+na jiný a mělo to nějakou vzdálenost.
+Je to pravda, nebo to je
+jako urban legend? To by mělo být možný,
+protože jestli to je zvíce, jako
+na stanic přijde stejný signál
+a s nějakým časovým spožením, tak jako
+a pokud ten čas je měřen dostatečně
+přesně, tak jako asi to jde zjistit
+potom ta triangulací, kde
+odkaď to přichází, ten signál.
+Já jsem neuvěřitelný, já jsem úplně
+tady, jak v Jiříkové vidění. Jednou jsem
+slyšel nějaký, že
+já nevím, jestli je policie, nebo
+kdo vyvinul software,
+že když se stane třeba střelba někde
+jako v obydlený zástavbě
+a lidi to natáčejí, tak prostě
+z těch spožení těch signálů se dalo zjistit
+jako kde, odkaď střílá. Že prostě
+někde v New Yorku je tisíce oken
+a někdo tam vystřelí a teď, když to někdo natáčí,
+tak to jako pak jde dopočítat. Taky těma
+dle metru. Jo, jo, jo.
+Ty kráse, to jsou neuvěřitelný věci.
+Ale to nevím, jestli si nevymýšlím.
+Říkali nám to, myslím, nějakej učitel někde
+na výšce. Vám to třeba někdo vyvrátí,
+my pozveme pak a budeš takhle posouvat, já ladám.
+Jestli nás poslouchá někdo,
+kdo měří zdálenost střelby
+a my jsme byli nepřesný, prosím vám,
+napište nám, běžte na podvodcasem.cz
+a najděte si naše e-maily
+a napište nám a můžeme o tom příště pokecat.
+Přesně. Prosím tě,
+Kubo, ty jsi byl ještě součástí
+jedný velmi zajímavý věci a to je
+výzkumnej projekt HEDUR na ČVUT.
+Můžeš nám to představit,
+co to vlastně je a co jste
+chtěli dokázat v rámci toho projektu?
+Vlastně to inicioval
+jeden kolega
+ze ČVUTu
+v rámci projektu
+a to nějak vycházelo z jeho
+myslím diplomky a
+dizertace a vlastně
+ten projekt byl o tom, že
+my tady máme
+před revolucí
+prostě
+se spojovaly ty zemědělský půdy
+tak jako do těch
+jednotná
+zemědělská družstva.
+Znikaly takový ty, jak vidíme,
+obrovský lány, prostě polí,
+ale to jsou
+docela nepříznivý
+pro to, jak se to vlastně chová
+ta příroda, že když třeba naprší,
+tak teď to tam jako začne ta voda
+stejkat po tom poli a níčí to
+prostě to pole jednu polodinu
+za druhou.
+Tam nesou žádné remísky, nic?
+Nic, tam není nic takového.
+To je třeba hezky vidět, když se člověk podívá na nějaký ortofotosnímky,
+když si přejede někde
+na Jižní Moravě do Rakouska
+a teď najednou z velkých lánů jsou tam
+takový malinký políčka a tam to prostě
+zastaví nějaká ta brázda
+mezi těma polema.
+No a právě
+cílem toho projektu
+bylo z ortofotosnímků jako nadzvičit
+neuronovou síť, která dokáže říct,
+že pozor, tady je ta
+erozní rýha, musí se s tím
+počítat při projektování těch
+pozemkových úprav.
+Aby to prostě není člověk
+nejenom ty plodiny, ale i třeba tu nějakou
+infrastrukturu pro ty zemědělce
+a takhle.
+Takže aby to prostě nesteklo na nějaký
+ty satelitní baráky, které jsou tam
+prostě polí postaveny.
+To je zajímavé.
+Jak jste se dostali daleko v tomhle projektu?
+Uskutečnilo se to?
+Ten už je hotovej, teďka jenom vlastně
+na naší straně probíhá ta implementace
+do praxe. Takže teďka vlastně
+jako jsem ve fázi, že píšu
+nějaký
+uživatelský interfejs pro uživatele,
+který se nechtějí zabývat neuronovýma
+sítěma.
+A to jak vypadá? Prosím tě, popiš to.
+No, oni vlastně
+mají nějaký ten svoj otevřený to prostředí
+v tom Atlasu a teďka
+si tam prostě řeknou, že no tady
+najdi mi tady
+v té oblasti prostě místa, kde by to mohlo
+jako hrozit a on pak při
+projektování jako bude vědět, že
+jak to naprojektovat, aby třeba
+zabránil ty volie tu nemat jít.
+A jak vypadají
+ty neuronky, jak jste k tomu přistupovali?
+Byl to jako klasicky jako experimenting
+ve smyslu, prostě zkoušeli jste
+různý neuronky, který jste
+trénovali, nebo jste šli nějak
+najisto, jak to vypadalo? Byly tam dvě.
+Já si teda úplně nevyznám v těch
+technických detailech těch
+řešení, co oni používali, ale testovali
+se dvě a
+no prostě máme tam
+dva kolegy, každej z jiný katedry a každej
+prostě testoval své řešení
+toho tréninku, jak to
+se
+nejlíp natrénovat, aby to poznal.
+A právě ty trénovací data, ty byly
+vzatý, no to je
+VUMOP, to je Výzkumný ústav
+Meliorací a ochrany půvny.
+To je hrozný slovo, ale oni se předem jmenovali,
+už jsou monitoring, takže už se nemusím
+takhle babrat s tímhle slovem.
+Asi ví proč. A oni prostě
+dlouhý roky obkreslovali ty rýhy
+z ortofota, takže oni měli prostě
+snímek a měli k tomu nakresený
+vektorově poligony, kde ty rýhy
+skutečně jsou. A to pak vstupovali
+do toho trénování těch neuronek.
+To je dobrý, dobrý. Hele, nezmenilo to, nebo
+neovlivnilo to někdy na LLM-ka?
+Jakože by se do toho
+vývoje, nebo
+trénování zahrnuli
+ty LLM-kový modely, který
+prostě samozřejmě mají zase nějaký
+výhody toho, že prostě sbírají jako data
+jinakým jiným způsobem.
+Vůbec tohle nebylo? Do tohohle ne.
+Ale teďka mám jeden takovej svůj projekt, kde to
+testuji jako nějaký zkoušet
+LLM-ka s těma prostorovýma datama,
+ale to je jako zatím ve fázi testování.
+Jako tvůj home projekt, jo?
+Ne home, jako pracovní. Jo, takhle.
+Celkově tohle musí být
+docela asi jako technicky
+náročný, jak vlastně se
+ty udržuješ, jakože teď
+jednou za tebou přijdou, kdo, hele,
+budeme tady prostě dělat jako detekci
+erozního poškození. Jak jako
+do tohohle naskočíš? Přeci, nebo
+to je pořád z týho oboru,
+nebo ty jsi tak jako verzatelní, že prostě
+ti to jedno, pokud to jenom trošku smrdí,
+jako geodezy, pokud tam jako je
+latitude, longitude, tak jdeme do toho, jako nebo?
+No, to je ten základ, že prostě
+jsme, prostě ten geodezy
+a ten GIS je vlastně obor, že
+vlastně, já nevím, jak bych
+to popsal, ale že
+slouží ostatním, jakože nemá
+moc vlastní agendu, jakože by,
+takže vlastně... To je to servisní vložení.
+Servisní jako obor, že přicházejí
+lidi, mám tenhle problém, tenhle, takže
+vlastně známe nějak ty základy
+a potom je to vlastně o tom navnímat
+toho člověka, co je ten jeho problém,
+který by jako chtěl vyřešit.
+A většinou je to o tom, jako
+buď to najít už nějaké existující řešení,
+anebo vymyslet nějaký, jako
+algoritmy, které by tomu pomohly,
+tomuhle. Přijde to
+nouhou tak jako unikátní a super,
+i pro dnešní dobu,
+nepřijde tam
+občas někdo, kdo vám řekne, vlastně,
+že hele, chtěli bychom tohle, a vy si sednete
+a řeknete, ty to by byl vlastně super startup,
+pojďme na to udělat speciální appku
+prostě do mobilu a budou jí používat
+miliony lidí na světě.
+Jako nevznikají tam takovýhle úvahy někdy.
+No ty tam vznikají docela často, ale
+tý práce je tolik, že člověk nemůže
+najednou si vyčlenit tady
+část mozku, aby pracoval na takovýhle
+věcech. Tak nám, tak mi něco pošli,
+já to pošlu do kopru.
+A nebo člověk zjistí, že už to existuje.
+Což podle mě bude horší a horší
+v tomhle stovu.
+Když jste dělali na tomhle
+projektu pro ČVUT, ještě jedna
+věc mě zajímá, jak se vlastně tohle jako testuje.
+Jo, protože jedna věc je to naprogramovat,
+vymyslet a druhá věc je,
+jako vzali jste to, co už jste
+měli dřív, už to bylo nějak jako
+manuálně pokreslený,
+prostě popsaný a teď jste to
+porovnávali s tím, co vám vyšlo
+v rámci toho
+tý vaší detekce, nebo
+jak se takováhle věc vlastně jako zjistí,
+že je správně, protože opět se bavíme,
+tohle není
+jako klasický softwarovej projekt,
+tady těch bodů a těch dat je najednou
+strašně moc a vůbec jenom jako pochopit,
+jestli to mám správně, nejenom po nějaký
+jako formální stránce, musí být docela těžký.
+To já nevím přesně, jak to testovali,
+ale ono to je vidět, takže jako, že
+no to je o to jasný, když na to člověk
+koukne, tak vidí. A jako jak dělali
+nějakou jako porovnání úspěšnosti,
+to si nejsem úplně jistý. V tom jsem nebyl
+jako vyloženě v tom týmu, který dělal
+tu neuronku.
+Takže to testování bylo klasicky kouknu a vidím,
+takže tam bylo prostě x lidí, kteří to porovnávali.
+To už bude v nějakých zprávách potom
+asi popsaný.
+No my, když si vzpomeneš na jeden
+nejmenovaný projekt v Cienku, tak tam byla
+vlastně porovnání jako v podstatě
+dvou fotek, když to tak řekneme,
+takže jako dalo by se to
+testovat tímhle způsobem, ale musíš ještě
+testovat, že ta neuronka neblbne.
+To tam samozřejmě musí fungovat, ale když je to
+velká škála, tak se to vyplatí.
+Ještě než tenhle projekt opustíme,
+je tam něco, na co vzpomínáš zpětně,
+že byla opravdu pro tebe technická
+výzva? Něco, ty jsi řekl, tyhle tak
+teďka budu muset dojít do nějaký
+knihovny, teď si tohleto všechno
+se nadrnčet, nebo najít si na internetu
+nějaký specifický znalosti, který se úplně
+neválejí klasicky na stack overflowu?
+To ani ne,
+totiž nebyl jsem jako
+zapojený vyloženě v tom,
+v toho groho
+toho věci, takže pro mě bylo spíš jako
+pochopit, co vůbec ty
+eroze a takovýhle věci.
+A potom teďka mám jako
+výzvy kolem toho jako ty implementace,
+protože tam jsou nějaký věci jako
+jak třeba pak filtrovat ty výsledky
+a takovým způsobem, takže tam
+je něco, nebo jak to vůbec spouštět,
+jako tu neurónku, jestli jako
+někde na servru nebo u uživatelé,
+takže tam jsou jako výzvy teďka v tom
+dokončení toho projektu
+a uvedení do praxe.
+A to uvedení do praxe je otázka měsíců,
+týdnů, nebo jak jste daleko?
+Mělo by to být s příštím releasem.
+Což jste říkal dvakrát za rok, že releaseujete.
+Do léta by to mělo být.
+Do léta by to mělo být, tak já ti napíšu na poci
+a ty mi řekneš,
+že příští release už to bude.
+Tak to bude ten další.
+Tradiční témat tohle podcastu,
+když se bavíme s někým, kdo je z takhle
+specifického oboru, tak je,
+jak na něj vlastně dopadá aktuální
+trend, co se týče AI, jazykových
+modelů a vůbec všech těch geniálních
+věcí, který denodenně zjišťujeme,
+že se s tím dají dělat.
+Tak jak ty používáš AI při práci
+a jak naopak vlastně na celý
+ten geodetický svět to AI,
+nebo vlastně samozřejmě jazykový modely
+v dnešní době dopadá?
+No tak na mě to bych řekl
+dopadá zcela zásadně, protože jak jsem řekl,
+tak já jsem v tu chvilku,
+kdy jsem začínal dělat
+každodenně programování, tak začal
+chat GPT, takže
+to bylo výborné, protože oni mě tam
+posadili před celou tu codebase
+a jeď, takže
+tam není dokumentace nic, takže
+to bylo takové jako trošku
+hození do vody, takže díky chatu
+GPT jsem to zvládnul.
+Ale já jsem
+snažil jsem se jakoby ze začátku ho nepoužívat,
+abych se to jako vypsal. Jsem si říkal,
+to není možný, abych to začal hnedka
+používat bezhlavě, protože pak nebudu
+umět napsat cyklus, takže jsem
+jako, že by to
+za mě psalo code, jsem začal používat
+až teďka někdy v poslední době, jakože
+že mu řeknu, napiš mi tuhle tu třídu,
+která bude umět tyhle ty věci, tak
+to jedu až teďka. A je to teda dobrý,
+jako to musím říct.
+A potom se snažíme i nějakým
+způsobem to, jednoduše jsme to testovali,
+jak to jako zpřístupnit uživatelům
+tou umělou inteligenci, protože tam
+je třeba databáze
+a jak jsem už říkal na začátku, tak
+jakmile těmhle s těm lidem
+uchážete jako třeba
+SQL-ko, tak se začnou křižovat.
+Tak jsem si říkal, jak by se to jako
+dalo nějak použít, protože tam
+aby oni tam měli možnost psát si nějaký
+filtrující výrazy na tu
+databázi, takže jsme třeba
+otestovali, že člověk vezme
+jako strukturu té tabulky, jako
+sloupce a typy sloupce, vezme
+tu otázku, pošle to do Gemini
+na apičko a on vrátí
+přímo ten dotaz SQL-kovej.
+A takhle si člověk může vlastně jednoduše
+lidským jazykem vybírat cokoliv z té
+databáze. To funguje až překvapivě
+dobře, to mě překvapilo.
+Nebo vlastně, jak jsme se bavili o té
+A je, tak tam jsou nějaký, že se řešej
+průniky, poligonů
+a řezů a
+teď se musí vlastně ale dát
+nějaký podmínky, s čím
+se to křížit a s čím se to nekřížit.
+A do toho se právě zapojuje ta A ja,
+což taky všichni z toho byli špatný, takže jsme tam
+testovali nějaký, že popsat v tom
+promptu, jak funguje ten jazyk,
+nějaký základní konstrukce
+a poslat ten dotaz uživatele, který
+řekne, že nechci, aby se to křížilo
+se šachtama. A taky to nějakým
+jako způsobem funguje.
+To je zajímavý. S Tomášem Trnkou
+vlastně, který tady byl dva díly zpátky,
+což je CEO Carvága,
+tak ten vlastně tvrdil, že SQL-ko
+je úplně ultimátní jazyk.
+Že vznikl a nikdy nezanikne
+právě proto, že už nemůže
+být blíž k tomu jazyku těch lidí, kteří
+se dotazují, že vyber mi z tohohle,
+kde je něco větší než to.
+A ty teda tvrdíš, že tvůj uživatele
+i SQL-ko je pro ně naprosto...
+Protože oni neprolezli vůbec většinou
+žádným jako softwarovým ničím.
+Takže oni vlastně...
+A tam ani jako nebyl... Není, že by to nechápali,
+ale použijou to jednou za čas
+a nepamatujou si, že když hledají text,
+tak tam mají mít nějaké úvozovky a takovýhle
+věci. Jo, jo, jo. Ta syntaxa je
+pro ně vlastně zbytečná jako složitá. Chápu, chápu.
+OK. Ty jsi říkal
+databáze. Pojďme se ještě vlastně říct,
+kam se tyhle data...
+Je to standardní SQL-kovská
+databáze typu Postgres, MySQL,
+MSSQL, nebo
+georeti používají nějaký specifický
+druh storage pro tohle?
+No, v GIS-ech tam jsou
+historicky třeba shapefile, což je
+taková souborová databáze,
+taková zastaralá. To už by se nemělo
+používat. Ale moderní je třeba geopackage,
+což je vlastně
+normálně souborová databáze, která
+ale už podporuje
+práci se souřadnicema
+a různý jako souřadnicový...
+Že třeba
+v GIS-ech právě fungují
+databáze, prostorový databáze, já nevím,
+jestli jste se s tím někdy setkali. No právě, že vůbec.
+Když má třeba člověk... Já jsem jenom
+geospatial funkce z SQL-ka,
+takový to, že najdi mi něco v perimetru
+a 200 kilometrů a ber
+v potaz zakřivení země nebo neber,
+to je nejdál, co jsem se dostal. Jo, no to jsou právě
+tohle, což má třeba tabulku člověk.
+Tabulku bodů a tabulku poligonů
+a vlastně joinuje je ne na základě
+klíčů, ale na základě nějakých prostorových
+vazeb. Takže třeba jako
+chci jenom body, které leží
+v těch poligonech. A takovýhle...
+Ale my tohle nepoužíváme,
+my jako na ukládání těch našich dat
+vlastně používáme klasický soubory,
+že třeba body a jsou binárně
+serializovaný jako na disku
+a takovýhle.
+Tak to musí být pak docela pain to jako
+loadovat, ne? To musí jako performance heavy,
+jako že když to furt taháš jako ze souborů
+z disku, které... No oni jsou nakašovaný
+a ono se... Oni je většinou hodně,
+takže se to čte vždycky z disku
+a i tak to běží docela dobře.
+Aha, aha. A ty jsi teda říkal
+ještě jednou prosím mě řekni jméno té databáze,
+která je teda specificky pro ukládání
+těch dat. No, geopackage.
+Geopackage. To je takový asi standard
+v dnešní době na geografický data.
+Ok. A
+víš nějakou tu šťávičku za tím,
+jak ty data jsou vlastně jako ukládány
+v takovémhle druhu databáze, že protože
+vlastně tam jako nějaký indexy nebo něco, to asi nedává
+spisovat. Tam jsou prostorový indexy.
+Tam jsou prostorový indexy. Tam vlastně,
+když je hodně těch dat, tak se nad tím udělají prostorový
+indexy a to se vlastně
+ty data se rozkategorizujou
+do nějakých prostě zmenšujících
+se obdelníčků, abych
+prostě věděl, že když chci hledat
+body v okolí, abych neprojížděl sekvenčně
+celý soubor, ale prostě jenom nějaký
+určitý výsek bodů. Proto jsou potom
+vlastně třeba Google,
+ty věci jsou tak rychlý, protože
+samozřejmě neprohlídají
+sekvenčně Google Earth celou zemi.
+No, jasně. A na tohle
+databází vy teda používají, nebo
+ty uživatelé používají to Gemini, aby nemuseli
+použít SQL? To je klasická SQLková
+databáze. V smyslu shapefileu, anebo
+i z toho geopackage vyleze prostě ta
+SQLite databáze a nad tím
+oni si pak můžou udělat nějaké svoje dotazy
+a tak. Hele, ono ještě jedna takováhle
+zajímavá věc, kterým si vzpomněl na ten projekt,
+který jsme kdysi dělali pro jednoho
+švédskýho dopravce,
+kde vlastně jsme taky ukládali,
+když jsme teda ukládali, že v NoSQL
+v kosmosu jsme ukládali různý body a pak jsme
+se právě nad nima přes ty listy jako
+geodotazy
+dotazovali.
+Ale my jsme tam měli teda
+ještě jeden problém a to byl čas.
+Protože jedna věc je mít věci
+uložený v prostoru
+v čase nula a když se ti ještě
+mění a když se ti to jako pohybuje,
+tak je to daleko větší komplexita.
+U vás ale by čas nezášítané?
+Tam u nás moc ne.
+Tam akorát jako čas, kdy to třeba
+vznikly ty data, tak to je jako důležitý
+pro nějaký jako
+ale neřešíme to na úrovni
+databáze tady z toho nějakého.
+A ani neřešíte třeba porovnávání to, jak ten terén vypadá
+teďka a vypadá za...
+To jo, to jo.
+Ale tak se odtěží něco
+a jako geodotaz měří před a po
+a uživatel to má uložený někde na disku
+a potom spočte třeba rozdílovej model,
+aby věděli jako kolik
+kubíků tý zeminy bylo
+a takovýhle.
+Ale že byste řešili něco vyloženě pohybujícího se
+a teďka jako
+ještě měnícího tvar, tak to asi...
+To si neuvědomuji, že byste něco takového řešil.
+Mě napadá,
+budeš možná vědět, jak vlastně dneska,
+když otevřu mapy, jo, CZ třeba,
+mapy.com se to jmenuje,
+tak tam jsou ty vrstevnice, že jo, všechno
+si tak říkám, jako jak to nazbírali,
+jako jaký využívají data.
+To jsou data, který oni si někdy nakoupějí
+nebo jsou to třeba, já nevím,
+participujete na těchhle datech nebo...
+Data, co používá třeba
+seznam, tak
+v Česku to jsou normálně
+státní data, státní mapový dílo.
+To jsou všechno,
+dneska už jsou úplně ke ztažení skoro všechny,
+kromě nějakých archivních,
+tak to si člověk může postahovat
+a v zahraničí používají, to je takový
+projekt, jmenuje se to Open Street Map,
+a je to takový komunitní projekt,
+kde si člověk postahuje vlastně mapy
+z celého světa.
+Tam, když si používá třeba knihovnu, myslím, že Leaflet.js
+se jmenovala, tak ta vlastně si dokázala
+velmi jednouši embedit si mapku
+do svý webový aplikace
+nebo prostě na web a ta právě
+používala Open Street Map, no bo ty jsi mohl
+teoreticky vlastně měnit ten mapový podklad,
+ale většinou se používala právě Open Street Map,
+protože s tím nebyly žádný licenční poplatky,
+žádný API klíče, nic. Jak je na tom
+vlastně Open Street Map? Je to...
+Jedna věc je,
+že to má, že zase se bavíme o tom čase,
+za prezistovaným nějakým čase nula,
+ale vlastně ten svět se vývíjí,
+furt se staví nový věci, bourají se silnice,
+staví se silnice, bourají se baráky,
+staví se baráky, rozdělují se
+pole a tak dále, tak
+jak na tohle vlastně tyhle ty provideri
+jako reagují? Jak často se to třeba přeskenovává?
+To se ne... nebo nevím, jestli
+tam je nějaký skenovací vrství, ale to je komunitní.
+Tam člověk jsou
+jako se tvoří Wikipedie, tak lidi
+sednou a mají ortofotosnímek
+a kreslejí tam, někde se jdou
+projít, vidějí novej dům, tak jdou a jdou
+ho tam nakreslit.
+Tak jak já získám ortofotosnímek?
+No to...
+těch providerů je hodně jako v dnešní době,
+ale to všechno, co vidí člověk na seznamu,
+a oni tam mají vlastní nějaký ortofoto,
+kde si to člověk zobrazí, nějaký editační režim
+a tam nakreslí novou silnici
+a takovýhle.
+To je krásno. Takže OpenStreetMap
+je opravdu celý od začátku do konce
+jako ryzek komunitní záležitosti.
+Ale nevím, jestli tam třeba
+neimportují nějaký
+právě třeba lokální, národní, nějaký
+datový sady, to nevím.
+Ale primárně je to takhle komunitní.
+No co mě překvapuje, ještě když je to takhle
+Open Source, tak jakým způsobem
+vlastně ty mapy
+vevodějí celému světu.
+Jako reálně, že vidíš
+najednou Američana v San Francisco, jak si otevře mapy
+prostě, protože tam je
+nějaká přidená hodnota, nějaká ta
+vrstva nad tím, tak vlastně přemýšlím,
+čím to je, jako když máš ten podklad stejný
+a můžeš vlastně udělat si startup B,
+který bude používat stejný podklad,
+tak v čem to vlastně teda tkví?
+No a mně přijde, že to tam jako dělají nadšenci.
+Já jsem si tam teda hlásil a nevzali mě, ale...
+A teďka slyší
+posluchači ze seznamu, jak to udělali.
+Zásadní chybu.
+Ale já si myslím, že prostě to tam dělají jako
+secaři, který to jako baví.
+Že tam mají prostě kartografii a mají tam
+různý takový jako funkcičky,
+který člověk jako...
+Nejsou v těch Google mapách.
+No a je to prostě nějaká jako
+speciální větev i pro mě.
+Já si taky pustím někdy Google mapy,
+ale někdy mapy CZ a dost často,
+když jsem prostě někde v lese,
+chci se projít, tak to je přesně chvíle, kde
+nevidím důvod, proč tam pustím něco jiného.
+A mají dobrou komunitu si myslím v Česku.
+Že nahlašují lidi jako nějaké
+problémy a když se někde něco změní
+v terénu, tak to nahlašují.
+Takže ta komunita si bude dělat
+taky dost, bych řekl.
+Jedna věc mě zajímá, když se
+bavíte ve firmě
+o tom, že by třeba přišel někdo novej.
+Jak do takového oboru vůbec
+jako probíhá hiring?
+Protože podle mě už jenom to, že jak vám někdo přihlásí,
+tak musí být předfiltrovaný,
+že vůbec jako musí vidět, o čem se bavíme.
+To už musí být jako totálně
+specifická knowledge, už na vstupu.
+Jak hireujete?
+Jak tohleto vlastně u vás funguje?
+Těžko.
+Protože
+jsou dvě varianty, kdo k nám může přijít.
+Buď to je to geodet
+a nějakým způsobem má zájem o programování,
+anebo to je programátor
+a má zájem o tuhletu
+disciplínu. Takže
+asi teda spíš ten první případ,
+protože nevím, jestli by někdo vylezl
+z IT fakulty a řekne si, to budu dělat
+tady sto.
+Jo.
+Ale právě
+u těch prvních,
+u té první skupiny je zase problém v tom,
+že ty lidi, co jdou studovat
+prostě stavební fakultu geodézy,
+tak jako to jdou dělat,
+protože to chtějí pak dělat.
+A vlastně ani jako je to programování nezajímá.
+Takže měli jsme tam třeba
+kluka, který jako
+geodet, který jako tak nějak ho bavil
+o programování a pak brzo zjistil, že
+vlastně nebaví to každodenní
+programování toho jako produčního kódu.
+Že baví ho si napsat nějakej
+script Pythonu a tak, ale
+jako asi to není
+pro něho jako ta každodenní práce.
+Takže těžko.
+A jak často to vlastně potřebujete? Jsi říkal, že vás je
+pět.
+Takže jako máte třeba teďka otevřenou
+nějakou pozici? No otevřenou pozici
+jako vyloženě nemáme, to nemáme.
+Ale kdyby někdo šikovnej teď to
+zaslech a řekl si, tyjo tohle by mě zajímalo,
+tak určitě by ti měl napsat. Jo, nějakej
+asi by se tam dalo něco vymyslet, kdyby ho to
+někdo měl zájem, ale nevím, to jako, to není na mě.
+To je zajímavé, jsi říkal, že vlastně
+ty geodeti jako nechtějí programovat.
+Já teda přemýšlím, jestli v dnešní době
+se tomu vlastně jde vyhnout, jo.
+Protože když si vezmeš
+a jsme zase zpátky u toho, jak dneska
+lidi pracujou s jazykovýma
+modelama, ty stejně
+končíš u toho, že
+de facto tak jako, že trošku programuješ.
+Protože mu říkáš, co chceš, co očekáváš
+na vstupu, co očekáváš
+na výstupu. Já myslím, že ještě za pár let
+se to opravdu vycizeluje do té formy,
+že budeš de facto programovat
+v tom LLM-ku, jenom se budeme všichni tvářit,
+že přeci s ním mluvíme anglicky, ale jako
+vůbec neprogramujeme, ale stejně budeš
+mít ty stejné pravidla,
+tam budeš aplikovat, aby si měl aspoň
+trošku nějaký výstup, který jako očekáváš.
+Tak myslím si,
+dá se tomu vlastně jako dlouhodobě
+jako vyhnout i u těchto lidí,
+nebo jak vlastně na tom vůbec geodeti jsou.
+Mně to zní z toho, co ty říkáš, že jsou tak jako
+oldschooleři, že tyhle ty věci
+znají brutálně, ale ten novej svět
+je trochu míjí.
+No jako asi se to mění,
+ale furt to jsou prostě lidi,
+který si vybrali jako
+práci, často, že je to v terénu,
+takže jako chtějí měřit
+a jako, že by jako chtěli
+programovat, to úplně k tomu netíhlo.
+Já to vždycky říkám, že
+ten geodet by měl u mě trošku
+něco si naprogramovat, protože
+jsem slyšel kolikrát, že
+já jsem tady dostal úlohu a dělal jsem jí
+týden. A jsem si říkal, no
+mě by to trvalo čtrnáct dní to naprogramovat.
+Ale pak už bych to měl vždycky.
+Jasně.
+Když jsi říkal, že chtějí dělat v terénu,
+ale z toho, co jsi popisal, že už tam můžeš mít drony
+a teď tam máš ten laserscanning a tak dále,
+myslíš si, že ta práce
+bude vždycky o tom terénu, nebo třeba
+jakoby o tom, že člověk je v terénu,
+jestli to nedokonává
+dokonverguje do nějakého stavu, že
+potřebujeme udělat práci v bodě XY,
+pošlu tam deset dronů,
+oni to naskenujou, teď mi to pošlou přes cloud
+zpátky a mě se ubyví v atlasu
+prostě novej file ke stažení a já to tam
+začnu jako s tím pracovat, ale nebudu
+muset vůbec jako člověk opustit kancel.
+To si myslím, že skoro určitě.
+Nevím, jaký je ten
+časovej horizont, ale takhle
+nějak si to jako představu. A možná
+asi ne třeba, že z kancel tam pošlu ty drony
+kvůli nějakým těm legislativním problémům,
+to je docela přísný, to nemůže lítat všude,
+ale tam dojedu,
+otevřu kufraut a tam to vylítne
+a za hodinu se mi to vrátí a budu to mít.
+A ty algoritmy, jako u měla
+inteligenci do tohohle taky šahá
+hodně, takže si myslím, že už ani nebude
+tolik to zpracování,
+ale prostě mi to vyplivne,
+počkám hodinu a budu to mít zpracovaný.
+To si myslím, že přijde.
+Ale co se týká těch staveb, tak tam
+určitě ne, protože tam
+ten geodet musí přijít a říct
+těm zedníkům, tady postav tu zeď
+a takhle, takže musí vytloukat nějaký
+hřebíky a takovýhle. To si myslím, že
+už jsem viděl i nějaký roboty, co to dělají,
+ale to bude jako delší
+horizont určitě než...
+Takže geodet tam zatluče takovou tu
+plastovou krabičku s těma červenýma tečkama.
+A nebo na stavbách různý hřebíky
+do betonu a tak.
+Aha.
+No to uvidíš, to je těka, když budeš stavec,
+tak ti tam bude obcházet panáček a bude ti to tam...
+Už se nemůžu očkat.
+Prosím tě, ještě mi řekni,
+Kubo,
+ty máš vlastně
+jako unikátní dva skily, to znamená
+baví tě ta geodézie a zároveň tě baví
+programovat daleko víc, než to třeba baví
+ostatní v tvým oboru.
+Je nějakej tvůj
+home projektík nebo něco, na čem děláš?
+Protože mě by vlastně přišlo do jistý míry škoda,
+že to je jenom, tak jako jenom,
+teda jako to budeš dělat jako v práci.
+Úplně s tebe cítím ten potenciál
+propojit tyhle ty dva světy do nějaký úplně jako nový věci.
+Vím, že Poli už se na to ptal, většinou se říká,
+nemáme na to čas, musíme chodit do práce a tak dále,
+ale máš třeba na GitHubu
+nebo někde nějaký jako svůj projektík,
+kde si zkoušíš nějaký úplně jako
+nový věci v tom oboru, který jsi takhle
+krásně protnenou v těch dvou oborech.
+– To asi podle mě má každý
+programátor, že občas pošle něco
+do šuplíku a takhle to
+právě, nechci říkat
+něco, jako co tady nikdo
+neříkal, ale nemám na to čas, jakože
+věnovat se nějakýmu svýmu
+hobíku. Jako mám určitě v hlavě nějaký
+projekty, ale
+podle mě nikdy nedopadne.
+– Jo a je to něco, co můžeš nazdílet, nebo
+je to jenom nápady? – Jo, třeba mám rád
+karetní hodu Shithead, jestli to neznáte,
+nebo Magic Card se to jmenuje.
+Taková extrémně návyková karetní
+hra, tak si furt říkám,
+že bych někdy v životě
+k tomu si sednul a udělám nějaký,
+aby to šlo hrát online.
+Existuje jedna verze, ale to
+je příšerný.
+– A něco z tvýho oboru bylo,
+že ně? Jakože třeba propojit gamifikaci
+a geodézy, třeba jakože
+v deset zaměřených borů dostaneš
+itchym. – To jsem přenešel
+ze srandy, že bych udělal třeba v tom kedu jako
+trona, ale to by mi
+asi neprošlo.
+– No a ještě, když se těm obloukem vrátíme zpátky,
+ty jsi začal s chatem GPT, jsi říkal,
+říkal jsi, že teďka už koduješ teda s AIKem,
+tak ještě mě zajímá, co dneska používáš.
+– Teď používám Gemini.
+Protože já jsem ze začátku používal
+výhradně chat GPT a vždycky, když jsem
+zkusil Gemini,
+tak to mě to házelo
+hrozný blbosti. Já jsem zvyklý
+psál na anglický kávesnici, takže jsem psal
+bez háčku, bez čárek
+a teď mi to prostě začalo odpovídat polsky,
+nebo jsem si překlepil v Y a Z,
+a on vůbec nepochopil,
+o čem mluvím. A teďka vlastně
+nějak už je to zpoplatněný ten chat GPT,
+myslím, nebo jako vždycky
+mi to píše, že už se nemůžu ptát,
+tak jsem přišel na ten Gemini a zjistil jsem,
+že to možná je lepší.
+– Já teda musím říct, že když jsem teďka nastaval Open Cloud,
+tak mě Gemini úplně hrozně vytáčel,
+protože mi vždycky napsal, no máš to blbě,
+je v tom terminálu, máš tuhle chybu,
+tak tam skopíruj tohle, dvě tečky
+a tam nic nebylo. A já mu píšu,
+ty jsi mi tam ale neřekl, co mám skopírovat.
+On, je, sorry, no to se stane. A takhle to dělal
+tři hodiny v kuse.
+Se vždycky zabiju, tyvo. – A mě to občas taky blbne,
+tady v tom, že to nedopíše třeba.
+– No, no, no. Ale on jako samozřejmě,
+vůbec se to nedá jako skorigovat, že mu říkne,
+že neděláš to fakt blbě, ne, on to dělá blbě tři hodiny
+v kuse, je konzistentní, jo.
+No a nějaký cloud, kurzor, neskoušel jsi?
+– No, to ne, to jsem, jako clouda
+občas použiju, ale kurzor to jsem neskoušel.
+– A clouda ve stylu, jako že jdeš na
+cloud AI, nebo v tom
+CLI modu, že ho máš lokálně
+rozběhlej, nebo lokálně? – Ne, nebo přes
+prohlížeč. – Přes prohlížeč jenom, OK.
+Přemýšleli jste vy v Atlasu
+o nějaký integraci, ještě větší
+obecně AI-ka do toho vašeho
+do toho vašeho
+produktu? – Jo, je tam nějaká
+idea ve smyslu,
+jak jsem říkal, že to, ten
+software je vlastně strukturovaný
+do těch com objektů, takže by se
+vlastně nad tím napsal nějaká
+knihovnička v Pythonu a
+potom by uživatel se vlastně mohl
+nějakým způsobem pracovat,
+že by to generoval ten Pythoní
+kód, který by pracoval s těma našema objektama.
+Ale to je spíš tak jako
+takovej ten
+do budoucna plán.
+– A je hrozně vtipný, já jsem si, když jsem
+položil ten dotaz, hned představil
+nějakýho chatbota nebo něco
+a jak vlastně
+Kuba začal
+odpovídat velmi specificky,
+já se úplně zapomínám, že vlastně u toho sedějí
+ty georeti, to je moje úplně jiný jako problém.
+Předpokládám, že třeba pro ně by nějakej
+chat byl vlastně úplně jako zbytečnej,
+že oni v těch věcech
+jsou tak deep, že potřebují možná úplně
+jiný jako ten vstup
+a jinak ovládat ten software,
+než přes nějaký jako jednoduchý textový vstupy.
+Možná, jak jsi říkal na to, aby jim pomohl s tím SQLkem,
+ale jinak vlastně jako, jak by vypadal
+takovej AI asistent
+u takovýhleho softwaru vlastně.
+– Já si to umím představit, že by to vlastně
+dělalo věci typu,
+že nepodporujeme
+export do nějakého formátu.
+Tak mu řeknou, no a tady mám tyhle body,
+vykopni mi to do tady toho formátu.
+A nebo prostě tam bude nějaký
+seznam funkcí, tak prostě vem tyhle body
+a pro každej bod tady
+zavolej tuhle funkci.
+– Já si skoro říkám,
+že ten váš obor je vlastně dneska vlastně
+výhoda. Teď jsem měl takovou jako fakt
+zajímavou diskuzi s jedním vendorem, který mi ukazoval
+a už to jako mají připravený,
+že normálně toho skenuje
+sasovku klasickou, koukne se na ty procesy
+a normálně ji skopíruje jedna ku jedný
+přes agenty.
+UI ti to udělá tak, jak ty potřebuješ.
+Ty můžeš mít jiný UI jako než tvůj kolega,
+protože jsi zvyklý třeba jinak fungovat.
+A prostě normálně to je jako vykradený
+ta věc. Jako v podstatě, jo.
+Nevím, teď jsem chtěl říct v dobrým,
+tak já nevím, no já to chci poslouchat
+jako zhodnutí sám, ale
+tím, že vy tam máte furt ty vstupy,
+které musí vzniknout z toho venku, z toho terénu,
+tak to ještě prostě chvilku počká.
+Ale já jsem byl úplně vyřízený z toho,
+co to dneska dokáže udělat.
+A to je vlastně, ti to skopíruje ty procesy
+a máš to hotový, jo, jako ta sasovka i zde.
+No, ale zase tahle,
+že jo, tenhle ten obor,
+co dělá Kuba,
+tak to je úplně tak specifický,
+že jenom do toho nabůtit. Vlastně, Kubo,
+máš pocit, že už tomu rozumíš
+komplet, týdoméně?
+Ne, určitě ne. No vidíš, já jsem si to myslel tak trošku.
+To bude trvat ještě. No, no.
+A to je člověk, který s tím pracuje den o deně a řeší
+naprosto specifický věci, i třeba
+v kontextu, jako,
+nějaký lokální legislativy,
+že jo, samozřejmě tohle je hodně napojený
+obecně na státní zprávu, že jo.
+Takže jako tahle ten svět
+možná je naprosto safe,
+protože
+ta vstupní gate je
+natolik jako uzoučká, že tam opravdu
+se protlačí jenom lidi, který, jak říkal Kuba,
+buď to jako zajímá a jsou to geodeti
+a chtějí trošku programovat, nebo programátoři,
+ale nedokážou zase představit
+moc programátorů, kteří řeknou,
+tybe, já budu dělat geodezy, jako to je fakt jako cool.
+Tohle si myslím, že možná safe, ale jak si říkal,
+jinak takový ty sasovky klasický,
+i když teda, včera jsem čet
+nějakej článek o tom,
+že vlastně ty usasovky si nekupuješ
+jenom ten produkt jako takovej,
+ale máš tam dokumentaci,
+máš tam podporu, máš tam celý
+ten jako support kolem,
+máš tam i to, že když si to
+koupíš a je to dostatečně drahý,
+tak ti za to v korporátu nikdo nevytáhá za uši,
+protože přeci takhle se to dělá,
+nedej bože, aby si chtěl šetřit náklady a koupil to
+od nějakých garážovkých, a když si to
+postavíš sám, tak vlastně najednou máš
+problém na svý straně, včetně maintenance a tak dále,
+takže jako uvidí se, jak
+moc vlastně jsou ty sasovky o té
+funkci jako takový a jak moc jsou o tom
+aparátu kolem a o té
+governance, kterou ti k tomu jde
+automaticky, ale uvidí se, no.
+To je i, co mi přijde, že v tom
+GISovým světě jsou dva hráči,
+jako je Argis, to je vlastně proprietární
+takový velký software a potom je Quagis,
+což je vlastně podobná věc, ale
+open sourceová, ale vlastně na úřad si
+nikdo ten Quagis nedá, protože
+tam není žádná podpora, nic,
+není kam zavolat a prostě žádná
+instituce si nepořídí jako Quagis
+jako hromadně pro celou firmu,
+že by to tam nainstalovali všem uživatelům.
+No, proto si myslím, že i v tom
+sasovým světě, jestli to někdo začne
+aplikovat do praxe, že vlastně fakt začne
+to jako používat skrz ty agenty,
+tak to budou menší firmy, který to
+pak až později inspirovat ty
+třeba korporáty, který by se
+k tomu třeba dostali, ale to jako
+předjímáme. No, to si myslím,
+bude dobrý to sledovat, ale myslím si, že
+korporáty jsou daný,
+prostě zvyklí na určitej styl
+hry a měnit ho, že
+prostě tam ta jistota toho, že
+někdo mu na to dá dvě razítka navíc, to co přesně
+to, co říkal Kuba,
+jo, prostě ono to může být
+stokrát technicky lepší, to druhé řešení,
+ale proč nemá
+státní zpráva, prostě open office
+a má Microsoftí office, že jo?
+Jako při tom prostě ten work v tom otevřeš
+úplně stejně, jo? Myslím si, že
+přesně AI, a o tom jsme se minule
+bavili, dorazí
+na ten limit toho člověka,
+že člověk si prostě, jako
+když ho půjdeš nejkoukat na toho kapra, on si ten rybníček
+nevypustí, takže vymyslí důvod,
+proč některé věci nejdou, jo?
+Uředník to zastaví.
+Přesně, uředník to z kula ty vrazítka
+Tady mi nebudete dělat ty svoje umělý inteligence.
+Tady máme Jarušku a tam mám na to náš tempel.
+Já teda omlouvám se, pokud nás
+poslouchá nějaká Jaruška, já ji vždycky
+použijem jako referenční paní Jarušku,
+ale jsou jiné.
+A samozřejmě jsou to jenom zdaleka ženy, samozřejmě.
+Ano, ano, ano.
+Tak, je to tvoje.
+Je to naše, je to moje, závěr je jasnej.
+No, Kubo, co plánuješ
+do budoucna, co tam máš teďka v pipeline,
+ať už jsi nějaký třeba
+veřejný povídání, jsme se vlastně nezastavili,
+jestli máte nějakou známou
+konferenci třeba, kde se schází
+tato komunita,
+nebo
+v tvým osobním plánu, co tam
+dneska vidíš v Šuplíku?
+No, co se týká nějakých těch konferencí,
+to je v tom oboru celá těžký, že tam
+není moc lidí, kteří se tímhle zabývají.
+Takže my máme jako konferenci
+setkání uživatelů jednouročně,
+ale to vlastně pro veřejnost
+moc není, tam se nedozví něco, co by ho úplně zajímalo.
+Tam ani se nejede
+po těch technických detailech, protože to je
+spíš představování nové funkcí uživatelů.
+Jasně, jasně, jasně.
+Žádná geodézie, konf, není, jo?
+No, jako občas
+jsou nějaký, ale to jsou většinou pro
+odborníky, jako
+lidi z vejšek a takovýhle, takže to
+nikomu moc neřekne, že by byla nějaká
+vyloženě GISová konference v Česku.
+ESRI mají, jako právě
+ARGIS, ale jinak si nevybavu
+nějakou, že by to byla nějaká masovka, jako
+pro developery.
+Mohli by třeba nějaký
+organizátoři konferencí
+udělat nějaký GIS,
+jako panel, nebo něco takového.
+Ten obor by si zasloužil
+trošku propagovat mezi
+developery třeba. No a jak to vidíš do budoucna,
+co se týče toho oboru, kam se bude
+dál vyvíjet? No určitě
+tou umělou inteligencí. To si myslím,
+že ještě
+to není jako na té každodenní
+bázi vidět, ale tam to bude
+určitě jako v tomhle směru
+fičák, si myslím.
+A poslední taková tradiční otázka.
+Můžou tě posluchači někde vidět nebo slyšet?
+Budeš se někde pohybovat?
+Někde mluvit? Protože já si myslím, že zrovna ty jsi
+takový správný popularizátor. Ty by jsi
+měl víc bejt vidět, víc bejt
+slyšet. Je radost tě poslouchat
+a i vidět to nadšení, což samozřejmě posluchači
+před tady video nemáme, tak to nedokáží
+úplně navnímat jako vizuálně.
+Ale ty bys asi měl být trošku aktivnější
+plánovat něco? Nemám nic v plánu. Jak to?
+Nevím, jakože my nemáme žádný
+akce, já to nevyhledávám.
+A jsem se dostal omylem kvůli tomu
+hnídopíštví.
+No tak potřebujeme
+víc hnídopichů. No dobře, ale minimálně
+teda posloucháš podcast pod vocasem, jinak bys
+nemohl být hnídopichem, že jo?
+Tak
+že vlastně jako zajímají tě ty
+já nevím, softwarový paterny,
+který třeba můžou
+jako být zajímavý někde v jiném oboru,
+tak proč to vlastně posloucháš?
+No, já jsem to začal
+poslouchat nějak z začátku, protože jsem si říkal,
+že už to dělám, tak musím si
+k tomu něco najít a
+hledal jsem si nějaký
+IT podcasty a nějak to někde na mě vyskočilo
+a vlastně potom mě to začalo bavit,
+tak jsem to začal. Bylo to pro mě
+jako způsob nějakého
+vzdělávání, víš, jako ze začátku.
+Ze začátku, teď už to zná,
+tak teď už je to jenom pro
+ktanci a poslechu. Ze začátku to, jako samozřejmě
+je to furt pro vzdělávání nějaký,
+ale ze začátku jsem to bral
+vyloženě jako vzdělávání.
+Ze začátku jsi to nasával a teď už nás opravuješ.
+Takže to byl Jakub Šimek,
+budoucí moderátor
+podcastu, podvodcov jsem.
+Jakubo, hele, moc díky, že jsi dorazil.
+Bylo to skvělý, bylo to úplně
+jiný, protože jsme říkali, po pěti letech
+jsme konečně nakousli tohle
+téma a pokud by si, prosím tě, ve svým okolí
+měl dalšího hní dopicha, klidně
+z jiného oboru, který by byl schopnej
+tak jako ty, velmi poutavě
+a velmi informativně o tom
+pokecat, tak budeme jenom rádi,
+když ho za náma pošleš. My ti přejeme,
+ať se ti daří, ať se ti hezky
+kóduje, no a
+budeme tě sledovat, ať se rozhodneš
+cokoliv dál v tomhle oboru dělat, tak nám
+dej vědět, protože kdyby jsi třeba zalužil nějaký startup,
+tak rozhodně rádi si o tom poslechneme,
+protože myslím, že potenciál je tady
+v tobě obrovský, takže ať se daří.
+– Děkuju. – Měj se hezky.
+– Třeba jsem řekl nějaký nesmysl
+a spustím řetězovou reakci.
+– Není do pichu.
+– Jo, takový to, tenhle reagoje na tohle,
+který reagoje na tohle.
+No tak jo,
+tak to se zjedám, jak to dopadne.
+Hele, měj se krásně, díky.
+– Já taky díky. – Čau, čau.
+– My vždycky s úsměvem říkáme, že
+tentokrát to bylo úplně jiný a že
+tentokrát jsme se bavili opravdu o
+jiných věcech a řekl bych,
+že tentokrát je to skutečně pravda,
+protože to, co jsme s Kubou
+tady naťukli, tak to jsme
+opravdu za pět sérií vůbec ani se k tomu
+pořádně nepřiblížili a bylo to
+mega zajímavý.
+– Úplně souhlasím, přesně,
+bylo to fakt jiný, ale
+tak relevantní k tomu, co my děláme
+jako denodenně. Vlastně, když s tím
+se tady bavíme, já jsem sem přijel.
+Zase odjedu.
+Reálně to všichni používáme
+a málo se o tom bavíme. Vlastně
+mě překvapuje, jak
+ta komunita je hrozně úzká.
+To není větší, že se to
+nenabůstuje skrz hlavně
+tu GPS-ku, protože tam
+je potenciál ty věci řešit
+a tam asi nějaký konference musí být.
+– Asi jo, ale jak říkal, jsou
+velmi odborní. Asi právě můžu představit, že ty lidi
+to, co řešejí, je na tak
+brutálně odborný bázi.
+Jako kdyby se sešli, nevím,
+programátoři Assembleru a teď si tam ukazovali
+prostě, kde jak jsou
+nuly a jedničky. Prostě je to,
+není to podle mě vůbec mainstreamová
+záležitost v tom smyslu, tak jak teďka vnímáme
+softwarový vývoj
+a je vidět, že opravdu nejdřív asi musíš
+projít fakt tu ČVUT a prostě pochopit
+všechny ty věci a pak teprve
+vůbec můžeš v tomhle oboru jako fungovat.
+Je to brutálně zajímavý. – No a mně se
+teda ještě líbí ten osud, který nám sem toho
+Kubu zaválil, takže děkujeme Kubo,
+že jsi byl hnídopichem, protože jinak by tě
+posluchači neměli šanci takhle slyšet.
+– Rozhodně, rozhodně, jak sami vidíte, mít názor,
+stát si za ním, napsat,
+nebát se opravit tady tyhle
+z ty dva žvatlaly, je to úplně
+v pohodě, napište nám, my budeme
+velmi rádi, když dorazíte, můžeme o tom
+pokecat a myslím si, že
+těch oborů, který se dá
+takhle projet úplně
+jako do mrtě, já si kolikrát říkám,
+že žijeme ve strašný bublině, že vlastně
+ty si myslíš, že každej kolem tebe používá software,
+každej kolem tebe umí programovat,
+každej kolem tebe prostě přeci je ty vole
+v cloudu, no a pak se vlastně baví s někým,
+který dělají 40 let, tady
+vezmála software, který
+je prostě klasický
+fat client instalovaný,
+prostě rozdává se pomalu, ještě
+nedávno na CDčkách, který je z nějakého
+FTPka, který prostě pracuje
+s těma datama úplně jinak, řeší
+úplně jiný problémy, je to hrozně zajímavý,
+jestli opravdu třeba děláte v oboru, který je
+úplně jiný, než my tady za těch
+14 sérií projíždíme,
+fakt napište,
+napište nám, je to zajímavý
+to probrat, já jsem si dneska teda zase
+jako odnesl spoustu věcí, musím říct.
+To je 100%, já taky, moc díky
+Kubo za to, no a my
+jsme na konci naší série, přátelé.
+Ano, přátelé, je to tak, jak
+jsme slibovali na začátku této série,
+tak se skutečně stalo, dojeli jsme
+tu sérii, nacházíme
+se tedy někde na rozmezí Q1
+a Q2 2026, to znamená,
+že my teďka, potom
+co se vrátíme ze svých dovolených,
+tak my roztočíme
+možná nějaký bonusky pro
+vás, pro naše subscribery a podporovatelé
+na Hero Hero, no a
+pak asi zřejmě to vypadá, že se
+pomalu začneme připravovat
+na sérii 15.
+No na další sérii, my prostě musíme tu
+ordinaci v Ružový zahradě porazit v těch sériích.
+No ježiši, maria, anebo tak, kde čas
+krok za krokem, tady je takový
+prostě model,
+který je potřeba zničit
+a bejt lepší.
+Jasně. Přesně tak.
+No tak my vám na závěr samozřejmě teda ještě
+poděkujeme našemu partnerovi této sérii,
+protože opravdu, jak jsem říkal na začátku,
+děkujeme za to, vážíme
+si toho, jsme si toho vědomi
+a víme, že i v dnešní době samozřejmě ta doba
+je z mnoha úhlu pohledů
+složitá, takže samozřejmě ten support
+nebereme jako samozřejmě a opravdu
+díky moc za to, doufáme, že
+ale i kdyby nebyl, tak samozřejmě za všechno
+moc díky, protože ještě v tuhle dobu,
+kdy to točíme, úplně nejsme ještě dohodlí,
+takže uvidíme, jak to dopadne.
+Každopádně České spořitelně
+opravdu velké díky za všechno,
+ať se daří, tak či tak.
+No vám díky za poslech.
+No a co my si budeme přát do té
+15. sérii? No my si budeme přát
+před ní, ať se nám povedou ty naše dovolený.
+Tak to jo, to jo, ale
+už jsme mluvili tak často, že si myslím, že poslouchají
+a říkají, že už se vrátíte kůži.
+Jo, jo, jo, dobře.
+Tak já předpokládám, že i ta
+15. a protože už tam máme nějaký jména,
+bude nažvejklá stejně jako ta 14.
+Tak na to se těším já,
+na zajímavý další nový příběhy, který přicházejí.
+No tak jo, takže mějte se
+krásně, přátelé, co vám daří.
+Buďte zdraví.
+Kdybychom se náhodou neslyšeli a všechno jsme to
+zavřeli, tak to se taky může stát, ale
+já si myslím, že všechno dobře
+dopadne a že se uslyšíme
+zase u prvního dílu 15. série.
+Do té doby se mějte krásně.
+Čau. Čau.

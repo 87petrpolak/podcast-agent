@@ -1,0 +1,2089 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Krásný den, milí posluchači, vítejte u druhého dílu páté série vašeho oblíbeného IT podcastu Pod vocasem.
+Naproti mě jako vždy dneska tradičně ve vůni Petr Polipolák.
+A naproti mě Roman Žouker provazník, který u každého slova, které jste slyšeli, zved krásně tu pusu.
+A já jsem otevřel tu tlamu.
+To máš úplně naučený z toho rádia.
+No tak je to potřeba, no.
+Je to skvělý, je to skvělý, když bych to takhle uměl, ty brdila.
+To je úplně super.
+Ale potěšilo mě, minulý týden mě zastavil náš kolega Zdeněk Randa, který, jak víš, nikdy nebyl náš fanoušek.
+Vždycky, když jsme se ho zeptali, jestli nás poslouchá, tak si vymyslel nějaký debilní důvod, proč tak nečiní.
+Ale tentokrát přišel, protože chtěl poradit něco s Cognitive Searchem, tak jsme se srazili v kuchynce.
+Takže přišel s odznáčkem normálně podcastu Porvo, co jsem.
+Takže troll.
+Takže troll, ale začal mluvit o tom předchozím díle s Martinem Procházkou, že se mu strašně líbil a že díky tomu vlastně opravdu nás konečně začal tady v páté sérii poslouchat.
+Tak to jako začínáme být slavný.
+Jestli nás Zdeněk Randa poslouchá, tím tě Zděndo slavíme, tak zdravíme, tak to už je pecka.
+Tak to je jebavič.
+No a jinak teda samozřejmě musíme zmínit tvůj brankářský výkon, který byl naprosto neuveřitelný, přátelé.
+Máme opět takhle v zimě CN Hockey a Roman se rozhodl, že půjde do brány a bylo to zase pecka a bylo to fakt vtipný.
+No vtipný to bylo, já jsem zapomněl, jak to strašně bolí. Já vždycky jednou za rok si to zkusím.
+A pak mám dva dny svalovou horečku, protože ty svaly, který u toho zatínáš a používáš normálně vůbec, jo, nevyužiješ.
+V té bráně to je jiný pohyb. Navíc ještě jsem tentokrát neměl brankářský brusle, takže jsem byl na těch klasických, které jsou trošku vejš a máš jiný pohyb v kotníkách.
+Takže jsem celkově byl takový dorubaný jak pes. No dám to ještě tuhle středu, protože dneska natáčíme v pondělí třeba dvacátýho,
+takže ještě tuto středu to dám a pak zase věším lapačku na křebík minimálně na rok a uvidí se, co bude.
+Ale musím tě pochválit, minimálně si všechno v oblík tak, jak máš.
+Takže můj kámoš a náš kolega Tomáš Hode, který chytal na druhé straně, tak si betony v oblík v obráceně a zjistil to v polovině zápasu.
+My jsme slíbili Tomáši, že se ti smát nebudeme, ale promiň, to bylo fakt naposled.
+To bylo epické, to bylo skvělý. No nic, nechme hokeje, protože dneska já bych hrozně nerad ztrácel čas.
+Řekni mi, kdyby jsi mohl sem někoho pozvat, nějaký fakt jako jméno a kdyby přišlo, jak by jsi z toho byl hotovej, nějakou svoji hvězdu.
+No hele, já bych ti tu hvězdu i řekl, ale ona přijde za obdíl, takže to nebudeme ještě odpízovat.
+Dobře, ale takovej ten pocit, který máš, když si pozveš někoho a on fakt přijde, koho si chtěl snad.
+To je pro mě Tomáš Petříček. Tomáš Petříček je obrovská osoba F-Sharp Community, je to člověk, který aktuálně se vrátil z Londýna,
+učí zpátky, myslím si, na matfizu, programovací jazyky. Je to prostě, no uvidí sám je to renezanční člověk, na co se ho zeptáš, tak on prostě ví.
+A byl to vlastně pro mě i první člověk vůbec, který mi kdy, a to už k tomu se pak spolu přijde do studia a vrátíme, který mi ukázal F-Sharp a to už je teda jako nějakej pátek.
+A zároveň je strašně jako skromnej, nápomocnej, všechno. Všechno ti řeknu, nebudem se zdržovat, jdeme pro něj.
+Už se těším, už se těším je vidět, že se v tom chceš porochnit, jdeme na to.
+Jdeme na něj.
+Ve studiu už s námi sedí jeden z mých vysněných hostů, Tomáš Petříček. Ahoj Tomáši.
+Ahoj, ahoj Tomáši.
+Tak ho to pobavilo, že to je můj vysněnej host.
+No to jo, no já jsem myslel, že budeš mít Billa Gatesa nebo takhle.
+Ne, ne, ne, ne, já jsem to hned říkal Polimu tady před chvilkou, když jsme natáčeli ten úvod, že pro mě ty jsi vlastně jedna z největších hvězd vůbec F-Sharp komunity, člověk, který je zároveň jako strašně milej, nenafoukaný.
+Vlastně musím říct, že když jsem byl kdysi dávno, jsem měl přednášku v Londýně v Codenoudu, tak Tomáš zjistil, že nemám kde spát a jeho první reakce, a to podotýkám, měl malý dítě, ještě tenkrát první, říkal, tak pojď spát k nám normálně jako couchsurfing v Londýně.
+Říkal, tyvej, tady máš prostě malý dítě, co kdyby byl masovej vrah, ty mě prostě pozveš do můjho trdě a byl úplně v pohodě, přístřešek, úplně bez problémů, ráno snídaní, ještě večer jsme dali drink jako totálně nehvězdný manýry, takže já jsem rád, že tě tady mám, pro mě jsi vysněnej host.
+No tak aspoň, že tě naše děti nepošlapaly moc v Londýně, tohle to vzpomínáš ještě dobře, já jsem myslel, že jako.
+No to je dobrý, to je dobrý. No ale pro ty posluchače, co tě vůbec neznají, což si teda myslím, pokud trošku sledují mě, tak ví, že já sleduju tebe, takže tě musí znát, ale i tak, kdyby náhodou někdo teďka prostě přistál a nevěděl vůbec, která by je, tak představ se nám trošku.
+No tak já se věnuju F-Sharpu, jak asi by posluchači zjistili přes tebe a to zhruba od doby, kdy to bylo jako utajený někde na Microsoftštích stránkách, jako pod research download weird things.
+A taky od doby, kdy se to teda každej den měnilo. A no mimo F-Sharpu, tak jsem, dělám různý akademický věci, takže jsem dělal doktorát, který byl jako spíš o teorii programovacích jazyků a teď se věnuju věcem tak nějak kolem programování, víc mě jako by zajímají, jak s tím člověk, jak s tím člověk interaguje a tak.
+A k tomu se určitě dostanem.
+A část z toho, část z toho jsem tady.
+A dělal v Anglii, no. Takže teď jsem se po asi jedenácti letech vrátil do Prahy.
+Tak a tam bych já určitě rád začal, protože ty si vlastně tu svoji, řekl by, nejslavnější část zatím svý tvorby právě strávil v Anglii. Ale jak jsi tam dostal? Jaká byla ta cesta?
+No, jak jsem se tam dostal? Já jsem se kdysi, kdysi účastnil nějaký soutěže Microsoft Imagine Cup a jako celkem náhodně jsme se tím dostali do nějakého středoevropského kola, který právě bylo v Cambridge.
+A což mě jako přišlo, že je to tam hezký, že to opravdu vypadá zajímavě.
+A hodně se jezdí na kole, že jo?
+No, tak to taky, tam se jinak dopravovat nedá. A to bylo někdy jako na konci Gimplu a potom ještě, když mě Microsoft udělal MVP, tak mě pozvali na nějakou konferenci, co tam měli a já jsem zrovna připravoval svoji bakalářku, což bylo jako, myšlenka byla překládat,
+nějaký C-Sharp nebo .NET do JavaScriptu. A before it was cool jsem. A našel jsem, že na webu Microsoft Research mají nějaký projekt na čtení toho bytecodu .NETovýho, tak jsem člověkovi napsal, jestli by to na to nešlo použít a že tam budu a jestli se nechce sejít.
+No a člověk byl Don Sime a říkal, no tohle sice jako tam je, ale to nemůžeš použít, to vůbec jako není zdokumentovaný a nic.
+Tak chceš to napsat s F-Sharpu? Tak jsem řekl, tak jako asi klidně jo, to je F-Sharp. No a pak jsem jako z konference si nepamatuju nic, ale celý odpoledne mě Don vysvětloval, co je F-Sharp.
+A to je prostě jaký rok?
+No nevím, když jsem dělal bakalářku, pak si to najdi na webu, ale tak jako...
+2.4? 2.5?
+No to asi později zase.
+2.6?
+Třeba jako...
+Tady jsi ročník možná.
+Asi 2006.
+To je 2006, jo.
+To by mohlo být tak nějak.
+No a to teda, to byla verze F-Sharpu kolik tak? 1.1.18?
+1.1.18, přesně si to povídám.
+To byla právě ta doba, kdy to byly jako 1.1. něco a vždycky se to celý změnilo.
+Takže Don tě vlastně pozval, ať to, co ty si původně chtěl dělat jako v C-Sharpu a prostě kompilace do Javascriptu, což teda zdravíme teďka Fable a ostatní projekty po 18 letech, který naskočili na tohle,
+tak ty...
+Tebe jako teda nabútil do F-Sharpu, ale ty jsi nějak jako, aspoň já si to furt mám v hlavě, že ty vlastně jsi zodpovědný za nějaký části, nebo ty jsi mu nějak pomáhal s tím F-Sharpem, ne? Nebo jak to je?
+No tak já jsem, on teda, tak on mě to tam za ten půl den jako vysvětlil a já jsem mu potom měsíc psal vždycky v noci mail, v jednu napsal mail jako, tady to nějak nejde udělat a on mi do druhý raní vždycky odpověděl, ne, ne, to musíš takhle, takže já jsem mohl jako od dvou do tří ještě kodit.
+No a pak ho to asi přestalo bavit, tak mě tam pozval na internship.
+Do Microsoft Research.
+Do Microsoft Research, takže to jsem se jako poprvé...
+Ještě než jsme se tam přestěhovali, tak to jsem poprvé byl v Anglii na tři měsíce a pak na půl roku.
+No a tak jako s tím F-Sharpem, já myslím, že moje hlavní jako výpomoc tomu byla, že jsem se to jako snažil použít jinak, než on myslel, že to bude někdo chtít použít, takže...
+Takže ty jsi prochopával ty slepý uličky, ne?
+Takže já jsem jako vždycky něco zkusil udělat, pak jsem mu napsal, že tohle nejde, nebo nevím, jak to udělat a on mi jako přes...
+V pátek večer...
+Takže napsal, hm, nejde a v pondělí řekl, tak si stahni novou verzi F-Sharpu, už to jde.
+Takže myslím, že jako tak to, co jsem tam používal, tak to byly nejvíc ty quotations, což je způsob, jakým jako můžeš číst z F-Sharpu F-Sharpovej kód právě pro překládání do JavaScriptu v té době, teď už to teda Fable dělá jinak, ale takže kolem toho a pak ještě v té době jako vznikaly...
+Jasně.
+A další věc, co jako ještě v té době vznikala, byla, že Don psal knihu o F-Sharpu, Expert F-Sharp a to byl taky zábavný proces, kde jako napsal nějakou kapitolu, myslím, že jako nejvíc tohle je vidět na části o objektově orientovaném programování.
+A pak já jsem to jako po něm četl, byl jsem tam jako nějakej reviewer nebo co a vždycky jsem mu jako řekl, tady to jako tady to vysvětlení je nějaký strašně složitý nebo tady ten kód je fakt jako divnej.
+A no a Don potom samozřejmě jako přes víkend přepsal, jak to v tom F-Sharpu funguje, pak přepsal tu kapitolu, řekl, že je to dobrý.
+To je až takovýhle punk zatím, jo?
+No jo.
+Tyjo.
+Takhle vzniklo.
+Takový to, jak má, jako F-Sharp má, že můžeš psát implicitní třídy, což znamená, že jako člověk napíše prostě type něco a teď do závorek argumenty konstruktorů.
+Jasně.
+A ty jsou pak jako implicitně vidět v celém zbytku tý třídy, takže není potřeba definovat konstruktory a není potřeba definovat takový ty fieldy, jak se to tam vždycky skopíruje.
+Jasně.
+Což teď už asi jako v hodně jazycích není, protože to jako všechny štvalo, no.
+Ale.
+Ale.
+F-Sharpu tohle nebylo a v té verzi 1.1.18, jo, tak tam člověk musel, musel prostě explicitně definovat konstruktor a to ještě dost divným způsobem.
+A když tohle jako bylo vidět na tom papíře, na tom elektronickém papíře, tak se jako Don řekl, no tohle fakt nejde.
+Říkal, tak nepůjdu spát, dám tomu tři hoďky a přepíšu to celý.
+Jasně, jasně.
+Ale jaká je práce s takovýmhle člověkem, protože vlastně už jenom v tom, co popisuješ, já jsem s tím slyšel tenkrát i nějaký podcasty, vlastně on vysvětluje, jako on, protože on je původně pokud jim Australand, že se dostal do Anglie, to vlastně je jako genius, ten člověk musí přemýšlet trošku jinak, jak tobě se s ním jako spolupracuje na lidský úrovni.
+He, tak já myslím, že jako vidět, že když se do něčeho zažere, tak prostě s ním není jako rozumná řeč, tokuď to není hotový.
+Jo, jo.
+Což pak...
+Perfekcionalista takový.
+No a asi, jo, jo, myslím, že asi, jo, z části. No a určitě jako prostě se jít zaseknout se, zaseknout se jako v práci do deseti pro něj není problém, ale pak tam další den nemusí chodit.
+Jasně.
+Takže, no je to jako takový lehce náhodný, plný překvapení, ale jinak jako velký části designu F-Sharpu jsme vždycky probírali pohodlně.
+V hospodách taky, takže myslím, že jako velmi, velmi příjemný.
+Tak to je super. A to byl teda začátek tý, tý, řekněme, anglický cesty, kdy teda ty jsi tam, Don říkal, hele, už mě lezeš na nadvě, já tě chci mít radši tady u sebe, ať si tě můžu jako víc tady jako zkorigovat tvojí práci.
+Takže ty jsi tam vlastně přestěhoval, nebo začal jsi tam, řekněme asi, jako bejt častěji?
+No já jsem tam jako jel za Donem do Microsoftu na ty tři měsíce, pak na půl rok, pak jsem se vrátil sem, dodělal jsem tady magistra a vlastně jako když jsem, když jsem tam v tý Cambridge byl, tak mě napadlo, že vlastně bych se tam mohl jako přihlásit na doktorát.
+A to jsem pak udělal a myslím si, že i díky tomu, že jsem měl jako referenci od Dona, který sám je z Cambridge, jako z univerzity,
+tak mě tam...
+Tam vzali a pak jsem se tam teda přestěhoval.
+No a jak se vlastně studuje v Cambridge, jak se žije? Mě to město, kdy jsem se tam byl, kdy se podívat, tak jednak jako ta architektura, to opravdu vypadá jako takový to staroanglický město,
+prostě se všema těma starýma domama a prostě jako celý je to krásný, ta historická část, ale zároveň teda jako velmi moderně, jako mě to přišlo jako žijící to město,
+což je možná daný tím, že tam je ta univerzita, jsou tam ty mladý lidi.
+Já byl v Oxfordu, je to podobný?
+No ne, jako Oxford.
+No to opravdu, to opravdu jsem netahej.
+Ale to nejde, to nejde.
+Takže jak se žije v Cambridge?
+Ale jo, je to teda úplně stejné.
+No, tak já myslím, že to je jako hezký tím, že je to docela, no ona se Cambridge dost zvětšila teda v poslední době ještě,
+ale pořád je to takový jako docela malý město, kde člověk všude dojede na kole, dojedeš prostě o víkendu na hlavní náměstí, na trh,
+na koukou.
+Koupit čerstvý saláty z místního pole, ale zároveň je tam jako špičková IT scéna a kulturně to taky dost žije, takže myslím, že jako v tomhle je to fajn město.
+Má to takovou tu jako starou, starou část ve prostřed, kde prostě jako plno turistů a je to tam hezký, ale člověk musí jako zalézt trochu za roh a tak.
+A pak to kolem má všechny jako takový nový.
+Vící research, jako laboratoře na všecko a tak.
+Tak myslím, že jako je to asi trošku zajímavý tím, že to město jako nevím, jak úplně si představovali, že bude růst kdy.
+Asi to jako.
+Jakože urbanisticky.
+No myslím si, že urbanisticky je to trošku jako.
+Divoký nebo.
+No tak jsou prostě kolem všechny takový ty jako naházený velký baráky, že jo.
+Jo, jo, jo.
+To je takový ten neduch, který.
+Kolem Prahy je vidět taky, jo.
+No, no, no.
+Ale teda univerzita je jasná, takže ty IT firmy se tomu přizpůsobili a nastěhovali se tam, takže jakože ty lidi tam vlastně můžou zůstat v podstatě celý život a nemusí třeba do Londýna nebo někam za v podstatě lepší prací nebo za zajímavější prací.
+No oni tam, jednak tam nějaký IT, je tam docela dost IT firm, ale taky o tam teď prostě lidi dojíždějí do Londýna.
+No a v Microsoft Research, jaký to tam vlastně je?
+No na čem třeba Microsoft Research?
+Microsoft Research nejvíc pracuje nebo třeba přichomejtnul se i k nějakým zajímavým projektům, který v té době se rezonovaly?
+No oni tam dělají jako, teda ono se to asi docela změnilo za třeba posledních těch patnáct let, no.
+Když jsem tam začínal, tak to bylo prostě jako čistě výzkum v tom, že nabrali dobrý lidi a nechali je dělat, co chtějí.
+Měli tam lidi, co dělají nějaký programovací jazyky.
+A měli tam lidi, co dělají, a to bylo docela jako zábavný, zábavný projekt kompilování takového velmi malého programovacího jazyku do DNA.
+Do DNA, jo.
+No jasně.
+Takže, takže to jako...
+Kompilace do čehokoliv, než to bylo dostavit do DNA.
+No tak, když to jde do JavaScriptu, proč to i do DNA?
+Je to taky kód.
+Je to taky kód.
+No, to fungovalo tak, že to jako DNA má tu dvoušrubovici, kde se to jako...
+Dvě věci na sebe navazujou podle těch jako odpovídajících dvojic.
+A myslím, že to jako trik byl, že se vygenerujou ty jako jednotlivý řetězce, tak aby se to nějak jako navázalo částí.
+A pak ty zbytky se jako od...
+Na to se může zase navázat něco jinýho.
+A tím, jak se to jako navazuje a rozvazuje, tak když prostě v té zkumavce s tím jako zatřepeš, tak to dělá ten výpočet.
+No.
+No.
+DNI garbage collector, protože se jako části těch jednotlivých vláken jim tam jako zbyly v té vodičce a potřebovali je uklidit, aby se tam nenavazovali a nespomalovali výpočet.
+Tyjo, no tak to jsou neuvěřitelný věci.
+A ty teda, takže ty jsi zůstal v Cambridge, ty jsi spolupracoval s Microsoft Research, pak jsi tam teda udělal PhD, co vím.
+Jo, jo.
+Ale nezůstal jsi v tom smyslu, že by jsi zůstal v Microsoft Research.
+Ty jsi šel pokud...
+Když jsem šel do Alan Turing Institute, je to tak, a tam se svinoval čemu?
+No ono to všechno bylo tak, že se to dost překrývá, takže já jsem jako dělal něco, dělal jsem doktorát, mezi tím jsem jako dělal něco s Microsoftem, pak jsem jako...
+Ale zhruba po doktorátu jsem jako přišel do toho Alan Turing Institute, což je institut, který dělá jako data science a machine learning.
+A já jsem se tam dostal, protože se mi podařilo na nějakou...
+A já jsem se tam dostal, protože se mi podařilo na nějakou...
+A já jsem se tam dostal, protože se mi podařilo na nějakou...
+A já jsem se tam dostal, protože se mi podařilo na nějaký projekt získat jakýsi grant, který měl Google, primárně asi proto, aby se mohl skamarádit s novinářema, ale já jsem se jim tam tak nacpal s projektem na programovací nástroje na datovou žurnalistiku, nebo to bylo to téma.
+A myšlenka byla, a to bylo inspirované přímo F-Sharpem, kde přes type providers se dá dost jednoduše pracovat s datama, přistupovat k datům a napsat něco, co jako...
+A myšlenka byla, a to bylo inspirované přímo F-Sharpem, kde přes type providers se dá dost jednoduše pracovat s datama, přistupovat k datům a napsat něco, co jako...
+A myšlenka byla, a to bylo inspirované přímo F-Sharpem, když to jako je v tom článku, tak jako tam vidíš, kolik teda má ten politik kuřat, ale nemůžeš si na to kliknout a dát si view source a zjistit, proč má tolik kuřat.
+A myšlenka byla, a to bylo inspirované přímo F-Sharpem, kde přes type providers se dá dost jednoduše pracovat s datama, přistupovat k datům a napsat něco, co jako...
+nějakým prvním dashboardem, ale možnost si ho
+editovat, už se to docela děje.
+Oni to lidi dělají, no.
+Mě jako...
+Tak ten můj projekt je v takovém
+stavu, že to docela funguje, ale
+nikdo to pořádně nikde nepoužívá.
+Ono,
+přece jenom ty novináři,
+mají dost specifický
+požadavky v tom, že
+získají CSV
+soubor dopoledne a do
+odpoledne to potřebují hotovit.
+Takže to je jako jiná
+rychlost, než na jaký funguje
+akademická sféra.
+Ale myslím, že lidi
+tohle dělají, no.
+Pak je jako zajímavý problém, a to myslím, že
+potom měli pojednání někde v New York
+Times, kde tyhle věci začaly dělat první,
+že vlastně to jako lidi
+moc nepoužívají.
+Že jenom jako některý šťouralové,
+ale že to není masovka, že by si to předělali.
+To jako množství lidí, který to fakt používá
+nějak, je vlastně tak malý,
+že se jim to ne...
+Že jim to jako nepřijde zajímavý dělat.
+Hele, a když se řekne Alan Turing Institute,
+to zní samozřejmě
+velmi honostně, jak velká je to meta
+třeba pro někoho, kdo
+má rád matematiku, kdo má rád
+datovou vědu, kdo má rád tyhle věci.
+Je to něco, kam spoustu studentů
+by se chtělo dostat a pro tebe to byl nějaký
+life achievement, nebo to je jenom
+fancy název pro, řekněme,
+nějakou průměrnou, nebo průměrný
+institut? Tak já jsem tam
+samozřejmě zase byl dřív, než to bylo cool.
+Ty jsi strength setter,
+to je jasný.
+Takže když jsem tam
+přišel já, tak tam nebyl nikdo.
+Ale ne,
+tak to je taková divná
+instituce, protože vlastně
+třeba Microsoft
+Research, tak ten prostě lidi zaměstnává
+a oni tam jsou.
+Ten Alan Turing Institute, tak ten má
+dost složitou strukturu,
+že to jako vzniklo z části
+jako spolupráce,
+různých univerzit.
+Takže tam třeba jako z univerzit
+prostě jsou nějaký lidi na nějaký
+jako den v týdnu,
+což pak jako v praxi znamená
+let's alls.
+Zaměstnávají nějaký lidi,
+mají vlastní research
+software engineering team,
+což jsou jako lidi, který
+spíš programujou, ale
+jako na akademických projektech,
+aby to nějak fungovalo.
+A aby z toho byly jako
+rozumný výstupy. Takže,
+to je jako věc, co tam fakt je.
+No a pak mají takový různý,
+jako, když jsem tam já začínal,
+tak měli
+pozice pro jako lidi
+po doktorátu,
+což myslím, že na to byl docela
+jako přetlak.
+A pak jako tak
+různě zřizujou pozice
+prostě
+podle toho, jak je zrovna napadne.
+Takže ta organizace je fakt
+jako složitá.
+A cíl je,
+tak nějak jako propojit lidi
+v Británii, který dělají věci kolem
+data science, machine learningu
+a zároveň
+mají nějaký jako
+cíle to dělat aspoň
+z části prakticky.
+A jsou tam ty cíle stanovený třeba nějakýma soukromýma firmama?
+Že tam přijdou a řeknou, hele, my třeba
+vidíme trend biznisově takovej a makovej
+a chceme vás chytré hlavy, abyste
+se tímhle směrem podívali.
+Je tam nějaká spolupráce?
+Jakoby na komerční sféře?
+Oni mají jako nějaký v rámci toho
+institutu programy, z kterých
+se věnují nějakým
+tématům. Jedno bylo
+kolem healthcare,
+zdravotnictví, jedno
+je kolem
+jako průmyslových
+machine learning pro průmyslový věci.
+A
+jako v rámci těch projektů
+mají různý partnery s firmem
+a s nima různě
+vymýšlejí a dělají projekty.
+Takže to je to.
+A to je to před, když jsi tam začínal
+nebo teďka je to hlavní téma healthcare?
+Teď jich mají
+asi jako pět takovýchhle témat.
+Tohle jsou dvě, který si pamatuju.
+Pak měli spolupráci s
+GCHQ, se špionama,
+ale nedělali
+teda, ta co by řekli,
+tak nedělali, nedělali
+nic super tajnýho, spíš to bylo
+jako různý nástroje.
+A ty jsi tam dělal projekty pro nějaký to konkrétní silo?
+Nebo tak to bylo napříč?
+Já jsem tam byl tak jako ještě
+náhodnější element.
+Takže já jsem tam původně přišel na rok
+s tím, že jsem měl
+vlastní peníze,
+vlastní projekt a jen jsem
+jim tam, protože
+člověk, co tam byl
+jako první ředitel, tak jsem ho znal z Microsoftu.
+Takže
+jsem říkal
+hele, mám tenhle projekt,
+vypadá to, že by to souvislo
+s tím, co tam chcete dělat, můžu tam
+sedět u vás.
+No klidně, nikdo tu není.
+Tady máš kartu.
+Takže jsem tam jako rok seděl a pak jsem
+se zapojil do projektu, který
+byl
+v rámci
+toho teda špionskýho.
+Bylo to AI for Data Science,
+kde jako cíl
+byl, nebo cíl,
+který měli ty chytrý
+lidi, co dělají AI a machine
+learning a byli tam,
+tak měli cíl
+zjednodušit takovou,
+tu jako nudnou předpřípravu
+dát. Prostě mám
+nějaký jako data a teďko v tom
+jsou věci dvakrát,
+je to ve dvou různých souborech, který
+sice jsou o tom samým, ale v úplně
+jiný struktuře, něco tam
+chybí,
+někde je jako v CSVčku
+zakodovaná čárka jako
+nějakej čínskej znak,
+prostě standardní věci
+a chtěli jako napsat tooly, který by
+tohle nějak
+pomáhali lidem,
+tím řešit.
+A bylo to asi jako
+čtyři, pět různých projektů, který
+vlastně jako to všechny,
+z každého vznikalo něco
+jinýho, takže já jsem
+tam jako přišel s tím, že když
+no, jednak s tím,
+že by bylo jako hezký, kdyby to bylo nějak
+líp integrovaný v nějakým
+notebookovým systému,
+aby to jako člověk mohl i ty třeba
+interaktivnější věci z toho používat.
+A
+takže jsem tam
+chvíli dělal na něčem, což byl
+takhle jako projekt notebooků,
+jak by to
+mělo vypadat, kdyby se to udělalo správně.
+Což samozřejmě
+jako vede k tomu, že to nikdo nebude
+používat, ale to je vedlejší.
+A používal
+se to ještě? Protože jsem tě viděl právě
+hrát se s těma, to byla nějaká kombinace jakoby
+Jupyter notebooků s F-sharpem,
+že jsi vlastně jako kombinál markdown a kód
+a všechny tam fungovaly nuget
+reference, stavování balíčku a tak.
+Funguje to používání?
+Tak tohle teďko jako funguje, protože
+to jako, tak F-sharp
+jde používat v tom dotnet interaktiv,
+což je
+já nevím, což je nějaký
+jako rozšíření standardních
+Jupyter, nebo jako
+kernel pro standardní Jupyter notebooky
+pro F-sharp, docela
+dobře udělaný, Microsoftem
+podporovaný.
+Funguje to i ve Visual Studio Code teďko,
+že máš prostě
+takový ten notebook v tom,
+že
+to je jako, na tom
+jsem jako chvíli něco
+dělal,
+když byl editor
+a tom ještě, dej mu
+pán Bůh věčnou slávu,
+nebo jak to je.
+A jako,
+takže k tomu jsem
+jako trošku něco, ale
+tady ten projekt byl spíš
+jakoby jednak
+vymyslet to, aby mohlo
+v jednom notebooku být víc jazyků.
+Což některý systémy dělají,
+ale je to jako trošku těžký
+tím, že když si mezi různýma jazykama
+chceš předávat různý data,
+tak to jako úplně
+nejde.
+A druhej cíl byl,
+aby tam člověk nemohl dělat,
+nebo cíl byl jako mít nějaký
+nějaký graf
+závislostí mezi těma jednotlivýma
+buňkama v tom notebooku
+s tím, že
+když něco změním, tak všechno, co na tom závislosti
+závisí, bude nějakým způsobem
+znevalidněný.
+A aby člověku se nestalo
+takový to, že jako zedituji
+jednu buňku někde na začátku,
+pak ji jako pustím,
+pak pustím něco, co na tom závisí, pak ji zedituji
+znova a pak pracuju s tím
+starým stavem, který já ale už nejsem schopnej
+znova jako vyrobit.
+Tomáši, ty kromě toho,
+že děláš spoustu aktivit, ke kterým
+se dostaneme, Karlova univerzita,
+prostě tvá výuka tady,
+tak ty, co si pamatuju,
+tak máš i firmu F-Sharp Works,
+nebo nějakým způsobem
+si v ní participoval. Já nikdy nevěděl,
+je to jako tvůj vlastní firma, nebo máš to s lidma
+z komunity, nebo co to vlastně je.
+No, tak to je další věc,
+která vznikla dost náhodně.
+A to jako, takže
+já jsem
+si v Anglii v jistou dobu
+jako založil firmu,
+protože jsem dělal
+hodně různých F-Sharpových školení
+a jsem tam měl nějaké konzultování kolem toho
+a pak jsem se jako bavil
+s pár dalšíma lidma
+z komunity, se Scottem Vlašinem
+a s Matthiasem Brandewinderem,
+že jako všichni máme
+nějaké svoje firmy,
+aby jsme mohli dělat F-Sharpový školení,
+ale ani jednomu z nás se nepodařilo
+vyrobit si webovou stránku.
+Tak jsme si jako řekli,
+no tak uděláme si jednu webovou stránku
+na tři lidi, to možná zvládneme.
+To je F-Sharp Works.
+A když se tam
+čtenáři půjdou podívat, tak uviděj,
+že už nám to zas moc nejde,
+protože tam poslední aktuality
+máme z doby před covidem, ale
+buď již no.
+A certifikát nemáte?
+No certifikát nemáme, protože ono to není ani firma.
+Je to jenom webstránka a tak to jako
+účetnictví je od ní oddělené.
+Takže, ale cíl byl
+prostě,
+jednak myslím, že v F-Sharp
+komunitě bylo
+jako z části problém,
+že vlastně tam nebylo moc jako
+větších společností,
+takže když někdo
+se dotáčí,
+toho pouštěl, tak vlastně neměl úplně
+jako, no se mohli lidi
+bát, že prostě na to nenajdou,
+nenajdou lidi.
+A jako F-Sharp
+work z části prostě cíl byl
+říct, no tady je jako
+dost lidí a jsme větší
+a jenom jsme takový chaotický,
+ale buď již.
+Tak to je, řekl bych, jedna z vlastností, příjemných vlastností
+té komunity jako takové, ta chaotičnost
+určitá.
+No to, je tam
+dlouhá tradice.
+Takže,
+F-Sharp work si jako spolupráce,
+teď nás tří, ještě tam byl Phil Trailford
+ze začátku, ale ten pak
+začal pracovat na něčem
+jiným. A Phil už moc v komunitě není,
+ne? Nebo jako? Já myslím, že on to jako
+furt, furt dělá a používá,
+jenom prostě
+už nezvládá mluvit.
+Jo, takhle.
+Ono jako docela,
+a tak já taky myslím, že když
+jako teď někdo přijde dělat F-Sharp
+prostě po covidu,
+tak já už toho
+taky za stolik jako nedělám, takže.
+Nemáš tolik přednášek. Nemám tolik přednášek,
+tak už to jako
+s těma dvěma dětma nejde moc stíhat.
+K tomu rozumím. Ale,
+takže myslím, že
+v té komunitě jako jsou, jsou takový,
+je tam pár takových von,
+a některý ty lidi, který tam byli
+úplně ze začátku, tak ty vlastně
+jako vymizeli už dřív,
+takže. Zase je to
+dobrý, že tam jako přijdou, přijdou
+noví lidi, který mají novou energii
+dělat nový věci.
+To myslím třeba teď kolem Fable.
+Tam jako
+vlastně ty lidi, to je úplně, úplně
+nová, nová vlna F-sharpistů.
+A když jsme to tak teda naťukli, tak
+co ty a Fable, já si pamatuju,
+když jsem tady startoval první F-sharping,
+a to vlastně jsem startoval díky tobě, protože
+zase, jak jsem říkal, to máš naprosto jako
+nehvězdný manýr, říkám, hele, víš, já jsem tam
+stál s tou čepicí ruce, říkám, prosím tě,
+já bych tady chtěl začít F-sharpový
+jako meetupy, přišel bys tam
+jako mi dát přednášku, on říká,
+no, to zrovna budu v Čechách, jo, jasně, v kolik tam mám
+být, víš, a hotovo 20, jo. Takže Tomáš
+přišel, nastartoval to,
+myslím, že to má přednáška 10 věcí,
+které se dají v F-sharpu dělat, což bylo úplně skvělý,
+protože těm novým členům
+té komunity ukázal, co všechno se v tom dá dělat.
+Ale byla tam jedna věc, na který jsme se už tenkrát
+vlastně jako, nechci říct neschodli,
+ale Tomáš říká, no, jediný,
+kdybych měl říct, na co F-sharp není dobrý,
+je na dělání webů. A já říkám,
+a já ti dokážu, že prostě to není
+pravda, že v tom ty weby přeci musí jít.
+Pak se objevil Suave,
+což byla knihovna, která vlastně
+k tvorbě webů na backendový straně
+jako přistupala velmi funkcionálně,
+ukázala, že to strašně funguje.
+A vlastně teď jsme zpátky
+u Fable, kde ten funkcionální
+přístup vlastně z toho
+backendu už i přetek na frontend
+vlastně do celého fullstacku. Takže
+jak ty teďka na to koukáš, Tomáši,
+na web a na F-sharp
+a na tohleto spojení, který jsi
+před těma mnoha, mnoha lety tak jako
+podtrhl, že možná nebude ideální pro F-sharp?
+Já myslím, že teď už to ideální je.
+To je jako v době,
+kdy člověk musel používat
+ASP.net, webforms
+a výustek,
+tak to opravdu
+v F-sharpu moc nešlo dělat.
+Ale
+Tak to bylo celé jako mutabilní.
+To nešlo dělat asi v ničem.
+To nešlo dělat ani v F-sharpu, opravdu.
+Ale
+tak jako Fable
+jednak udělal to,
+že teda samozřejmě
+na serveru to suave, co jsi říkal,
+a teď Žiráf a Saturn,
+tak to jsou knihovny, který
+to dělají pěkně, že se
+dají komponenty skládat a tak.
+Vlastně jako
+to asi díky
+to asi
+jako z části fungovalo tím, že
+prostě vzdali snahu dělat to stejně
+jako F-sharp, že to je
+jako knihovna, která teda teď už to
+jako běží na nějakých těch ASP.net
+jako základních věcech, že jo.
+Ale v rámci toho
+si to jako ten návrh těch knihoven
+už je funkcionální.
+A má to dostatečně
+velkou komunitu kolem toho na to,
+aby se to udrželo a jako
+není to projekt jednoho člověka.
+Takže díky tomu
+tomu to má jako
+nějakou dlouhodobější jistotu
+a funguje to hezky.
+A stejný je to
+z client side, kde
+díky takový tý ELM
+architektuře
+jde psát věci
+funkcionálně a
+vypadá to parádně.
+Máš radši tu původní
+syntaxi nebo tu felizovskou,
+kterou vlastně zajít až až
+jeden z velkých členů komunity, který už jsme tady
+mimochodem taky měli na pokecu na F-sharp,
+tak ten
+zavetl trošku takovou jinou syntaxi, která
+ve finále je taková pro někoho přívětivější.
+Na který straně ty seš? Nebo to větej jedno?
+Mně je to asi jedno. Já
+hlavně jako dost projektů, který s tím dělám,
+tak jsou takový
+dost jako pomalý.
+Takže mám prostě pár věcí
+ve Fable, který jsou nějaký
+jako
+že na něčem
+pracuju, vždycky jako za rok tam chci něco
+přidat.
+A dá se to vůbec? A když to jde
+za rok jako neupdatenu NPM k nějaký
+balíčky, no tak to je pak vždycky peklo to jenom
+vůbec rozjet. No právě, nedá.
+Proto jako
+hodně, a já myslím, že tohle
+jako zajímavý problém obecně pro
+jako softwarový
+inženýrství.
+Jako rychlost vývoje
+versus rychlost těch
+závislostí. Protože jako občas máš
+prostě něco, co jako z principu
+potřebuješ dělat pomalu.
+A na to jako
+to prostředí vůbec není jako stavěné.
+Takže
+já to jako dělám tak, že
+hodně věcí prostě tam mám
+tak, aby to žádný dependence nemělo.
+I když to znamená, že
+prostě nemáš jako všechno. Cool.
+Nemáš tu pohodu, kterou
+kterou bys mohl získat, ale
+třeba jako ty
+elm style architektura
+to vlastně jde jako napsat na
+nějakých sto řádků jako vlastní
+minimální blbou
+implementaci. No
+a pak ti to jako NPM update
+rozbije, že jo. To je
+zajímavý přístup. A myslím si, že tohle třeba,
+když máš nějaký já nevím interní
+tooly a takový věci, který se jako
+nemění moc rychle, ale
+nebo projekty, který jako
+lidi dělají po večerech jen tak pro
+zábavu, tak to vlastně
+má jako jiný styl
+vývoje, než to, co prostě děláš.
+Přijdeš každý každej
+den do práce, uděláš NPM update
+ráno. Jdeš na kafe. Za pět minut
+za pět minut to jako zpravíš ty chyby
+a jedeš, jo.
+To je zajímavý přístup, člověči. To mě
+vůbec nenapadlo, ale je pravda, že samozřejmě ta dynamika
+těch interních projektů je úplně
+jiná, než to, když to musíš
+rychle vyreleasovat, ideálně prostě
+za pár sprintů hned s ním ven a otestovat
+na trhu. Je nějakej
+teďka tvůj petprojekt,
+na kterým teďka jako nejvíc
+pracuješ právě třeba
+v spojitosti s tím webem nebo i s
+Fablem? Tak já to spíš
+jako používám pro svý různý
+jako experimentální
+projekty.
+To, co mě
+teď hodně zajímá, je
+jakoby programovací
+prostředí nebo systémy,
+kde
+myšlenka je
+jako podívat se dohromady na to, jak
+vypadá jazyk programovací a jak
+vypadají ty nástroje kolem toho a co
+třeba jako je možný udělat, když by ty
+nástroje vypadaly jinak. Nebo kdyby
+ten jazyk jako vypadal trochu jinak,
+jak by mohly vypadat jinak nástroje a tak
+takže mám
+takový jako rozdělaný
+projekt, kde myšlenka
+je, že budu
+reprezentovat
+program ne jako zdroják jako
+prostě textový soubor,
+ale jako nějakou jako posloupnost
+interakcí k pomoci, kterých
+to vzniklo, což může
+být jako
+nadefinovat nějakou funkci
+nebo jako doplnit
+do ní nějaký chování,
+ale taky to může být
+přeměnovat něco, jako rename
+refactoring, nebo třeba
+pustit nějaký kus kódu
+jako v replu interaktivně
+a myšlenka je, že když
+bude mít člověk takhle tu jako posloupnost
+toho všeho, co se stalo,
+tak
+samozřejmě z toho jsem schopný jakoby
+zrekonstruovat nějaký finální
+kód, kdybych chtěl, ale
+zároveň by to prostředí mohlo
+jakoby mnohem víc vědět o tom, jak
+to vzniklo a proč
+to může být v obozovkách.
+Takový event sourcing programování.
+Přesně, přesně.
+A tak
+taky jako tím člověk
+může docela si usnadnit
+problém s merge konfliktama, když
+prostě něco jako přemenuju
+přes 20 000
+souborů, tak
+mám 20 000 změn,
+ale když něco přemenuju a jenom
+si prostě do logu zapíšu, přemenoval
+jsem tohle na tohle,
+tak to jako merge
+prostě přidáš do toho logu společného
+a je to hned.
+A to je, souvisí to nějak s tím,
+co ty jsi měl i na webu
+Context Ever Programming, je to
+něco s tím nebo to jenom tak mi tak skočilo,
+jenom jako, že to zní podobně?
+Nesouvisítosti.
+To asi s tím nesouvisí.
+To někdy bude, třeba uvidíme,
+to nevylučuju,
+ale zatím
+to je spíš takový jako
+nápad a jak by to přesně
+mělo vypadat, to ještě úplně není.
+Jak na takovýhle nápad
+narazíš, jako určitě v tom případě náhodně,
+ale teď si dělám alegraci,
+ale je to tak, že to je tažený třeba
+s někým, s kým jsi se o tom bavil,
+nebo třeba nějakej, nevím,
+zákazník zatím je, nebo to je čistě
+z toho, z té tvý potřeby, kterou najednou cítíš,
+že chceš vyřešit?
+To je dobrý dotaz. No asi je to,
+asi je to určitě
+prostě z nějakýho
+jako z něčeho, nad čem jsem
+pracoval, kde mi přijde,
+že jako
+tam je něco nešíkovně.
+Myslím si, že jako většina
+věcí, který dělám, je prostě
+z toho, že jsem se jako něco snažil udělat,
+a štvalo mě to.
+A
+tady je to asi dost
+dost jakoby zase motivovaný
+těma TypeProviders ve Fsharpu,
+kde člověk jakoby
+píše ten kód tak, že máš
+nějakej jako objekt
+a na tom dáš tečka něco, tečka něco,
+tečka něco, tak i tomu
+říkáme dot driven development.
+A
+a je to jenom, že prostě z toho auto
+komplítu člověk něco vybere.
+A
+tam třeba jakoby
+je jako,
+když přistupuju k nějakýmu datovýmu
+zdroji, který do toho mám nějak namapovaný,
+tak někde prostě na začátku si
+můžu vybrat třeba, když přistupuju
+k nějakým datům o zemích,
+jednu z více zemí.
+A pak jako dodělám něco dál a
+třeba jakoby v textovém
+editoru je jako
+není to těžký, ale
+může člověk způsobit
+furu problémů si tím, že jako
+blbě zedituje
+něco, co na začátku dělal.
+Jsou tam nějaký mezery, nebo
+tak, nebo tak, jako blbě vybereš.
+A
+to asi je jako něco, co
+jsem dělal a pak mně
+přišlo, že jako možná, aby se ten
+program dal reprezentovat nějak šíkovnějc.
+Já jsem mluvil o tom, že ty
+ses po delší době v Anglii
+vrátil zpátky do Čech. Možná
+první otázka, proč ses vůbec
+vrátil? Byl to Brexit?
+Ne, ne, tak Brexit
+bych určitě jako rád obviňoval.
+Ale asi
+úplně nemůžu, protože to nás jako
+osobně moc vlastně nezasáhlo, když
+já jsem byl v Británii na
+univerzitě a to je prostě mezinárodní
+prostředí, kde stejně
+to tak jako
+zatím pořád ještě je.
+Z části to
+jsou osobní důvody, máme jako
+rodiny, rodiny tady v Praze, takže
+můžou pomáhat s dětma.
+Ty jsi prostě potřeboval servis
+těch babiček. Přesně, přesně, no.
+Tak
+to je určitě důvod.
+Pak taky, když dcera začala
+chodit v Anglii do školy, tak
+tam mají jako dost přísnej
+režim, co se
+co se, jak se to říká,
+rodinný důvody pro absenci
+týká, to tam jako neberou.
+Až takhle jo? No fakt ne, to na tebe pošlou
+sociálku. Ty krása.
+A tam je to povinný už od tří
+tam se chodí do školy od
+no od kolika? Od čtyř.
+Do školky, jako předškolní. No jako to je škola.
+Od čtyř je to škola. Jo počkej, to už je
+to není jako, protože tady máš poslední rok školky
+už máš povinnej, že jo, to je povinné
+předškolní vzdělávání, ale tam už se bere, že
+od čtyř už musí. Tam už se od čtyř chodí do školy.
+Aha. To na to samozřejmě jako
+ten první rok žádná škola není.
+No jasně, no tak. No ale jako naučejí
+se tam s částí číst,
+takže. Ty jo.
+Takže ty jsi potřeboval větší volnost prostě.
+Takže, takže nám přišlo, že jako jezdíme
+prostě na všechny, na všechny dovolený
+do Čech, protože chcem vidět
+rodinu, ale už jako nestihneme žádný
+jiný dovolený pro sebe, že jo.
+Tak to je, to byl jako osobní
+důvod.
+Pracovně
+mně vlastně přijde, že tak já
+jsem byl na univerzitě v Kentu,
+v Canterbury,
+která je jako
+má skvělou programming languages
+skupinu s furou jako dobrých
+zajímavých lidí, ale vlastně
+jako nemá až zas tak hvězdní
+studenty. Takže
+ta výuka tam třeba není, není zas
+taková zábava. Tak to mi,
+to mi jako jednak přišlo, že
+kdyby bylo, že ta jako
+na Karlovce, na MatFizu bude
+lepší.
+No. A je? No je,
+je. Jo. Ty ses vrátil
+a učíš, jestli to už tu zprávně
+design of programming languages, což
+sám tvrdíš je takový jako slepenec všeho
+možného, co tě zajímá. Co se tam
+vlastně studenti naučí? No,
+tak, no
+naučí se jak navrhovat programovací
+jazyky, že jo? Ne.
+Mně přijde,
+že u těch programovacích jazyků se
+vlastně jako hodně mluví o takových
+dost technických aspektech,
+jako jestli je to funkcionální,
+imperativní, jaký to má jako
+scoping proměných a tak.
+Ale tyhle všechny věci
+jsou jakoby
+dost často jako ty
+jazyky mají nějaký jako, nějakou
+filozofii, nebo nějaký přístup,
+nebo mají
+jako nějaký, nějaký možnosti
+toho návrhu, který tak jako
+dost často prostě vzniknou
+historicky, nebo náhodně.
+Ještě, ještě se k náhodnosti.
+A cíl toho
+předmětu je podívat se
+na všechny možný jakoby
+systematičtější přístupy, jak se bavit
+o nějakým návrhu jako
+struktury toho jazyka, nebo stylu
+toho jazyka. Takže bych měl
+bejt potom schopný třeba
+myšlet trošku líp nad tím, kdybych si chtěl vytvořit
+vlastní programovací jazyk. Asi
+na co se zaměřit, co je to důležité, co není.
+No a tak já jsem to
+pomenoval languages, protože to je takový
+jako zní to dobře, že jo. Ale
+já si myslím, že tohle to je
+jako co člověk prostě dělá, když
+dělá nějaký knihovny, nebo nějaký
+tooly. Takže
+jakýkoliv jako API je
+do jistý míry programming language.
+A
+ovšem se jako
+dá nějak jako systematicky
+se to dá systematicky
+nějak zkoumat. Takže
+v tom předmětu jsou věci,
+který jsou
+takový celkem jako
+všeobecně v tý akademický komunitě
+známý a používaný jako nějaký
+jako formální modely.
+Kde, když si udělám formální
+model, tak pak o tom můžu
+do jistý míry formálně
+jako dokázat něco. Třeba,
+že nejde API
+použít k tomu, abych se dostal do nějakýho
+jako nevalidního stavu.
+Takový to make invalid
+states inrepresentable
+v F sharpu, to je příklad.
+Ale
+taky se jako dají
+programovací nástroje
+zkoumat pomocí nějakých
+jako experiment,
+pokusech na lidech,
+což
+je jako
+oblast,
+která na první pohled to zní
+jako, že to bude asi trošku otrava,
+ale nebude to tak těžký.
+Tak jako ukážu moji knihovnu
+někomu a zeptám se, o co si o tom
+myslí, nebo změřím, jak dlouho mu to trvalo,
+nebo jí to trvalo.
+Ale když pak
+člověk se snaží podívat,
+jak to opravdu se musí dělat,
+aby to bylo správně,
+aby z toho byly nějaký smysluplný výsledky,
+tak je to vlastně docela jako složitý.
+Nebo co se dá
+dělat, a to lidi taky dělají,
+je jako analýza
+nějakých existujících zdrojáků z GitHubu.
+A...
+kde taky jako se o tom dá,
+můžu prostě zjistit,
+jak lidi používají něco,
+ale zase,
+když to udělám naivně, tak mi vyjdou blbosti.
+Možná trošku jako provokativní otázka,
+ale potřebujeme teda v roce
+2023 vůbec nový jazyky?
+Já mám pocit, že těch jazyků je strašně moc,
+jak na backendu, tak...
+Dobře, na frontendu stejně všechno skončí v Javascriptu.
+Ale potřebujeme vůbec teda
+nějaký nový jazyk? Potřebujeme nad tím přemýšlet
+ještě jinak, nebo nestačí nám to, co už máme?
+A třeba to chytřejí, právě třeba
+za pomocí, nevím, nějakých AI
+mechanismů, nějakých prostě
+copilotů, to aplikovat jinak?
+Tak já si myslím, že jednak je to jako
+otázka, kterou si pravděpodobně ve stejným
+podcastu pokládali lidi už
+v roce 1969, že jo?
+A jako... nevím, jestli bych
+chtěl programovat ve Fortranu,
+Kovolu nebo v Algolu.
+Tak ještě byl Lisp,
+takže dobrý, no. Tak to bych asi přežil.
+Ale...
+A určitě prostě
+možnosti myslím, že jsou.
+Co mi přijde, že je zajímavější, je, že
+bych jakoby...
+A to je
+i jako to, co mě teď zajímá.
+Přijde mi, že vlastně ten
+jazyk samotnej je jenom
+jako část toho celého prostředí.
+A že jakoby mnohem...
+To, co si myslím, že potřebuje mnohem
+víc než nový jazyky, je
+jakoby nový nějaký programovací
+integrovaný systémy.
+A typická reference
+na tohle je Smalltalk, kde
+prostě člověk má jako ten
+image, ve kterém všechno žije.
+Jsou tam ty objekty, ale
+zároveň... A to jsou i ty
+jakoby aplikační objekty, ale zároveň
+jsou tam jako objekty toho systému
+samotného. A
+v rámci toho mám prostě
+i jako editor a nějaký
+object browser, kde si můžu jako ty
+věci procházet a měnit.
+A
+tam je opravdu jakoby integrovaní,
+prostě to prostředí
+pro to programování a upravování
+nějakýho systému jako
+zaživa.
+S tou samotnou jakoby aplikací,
+která v tom běží.
+A myslím si, že
+to je jako něco, co je hodně zajímavý.
+Když se člověk
+kouká jenom na ten jazyk,
+tak to jako úplně nevidí.
+Protože fakt je potřeba jako vidět, jak
+se s tím interaguje.
+A myslím, že to je jako něco, co
+umožňuje zajímavý
+věci, které
+třeba by člověka nenapadly
+nebo nejdou tak dobře dělat,
+když se kouknu na jazyk jako
+prostě nějaký formální
+syntax.
+To, co říkáš, mě to strašně připomíná
+velmi slavnou přednášku. Teď
+bych to řekl správně. To se jmenuje The Future of Programming.
+Kde ten přednášející
+schálně vypadá jako ten IBM
+týpek z nějakých 60. let.
+S tuštičkou ještě a to.
+A vlastně je to hrozně proukativní
+přednáška, kdy on říká, že jako bych
+se vrátil včas a říká v budoucnosti
+už nebudeme vůbec psát kód,
+to je strašně zastaralý přístup. Budeme mít
+periférie, kterým třeba jako
+popíšeme nějaký problém
+a oni už to udělají za nás. Že vlastně
+popisuje to, že
+možná v téhle době, jak
+vzniká software, že to je ještě
+strašně jako manuální
+humpolácká práce. Když to tak řeknu, že
+píšu ve finále, to je jedno jaký mám
+ID, ale píšu prostě furt kód,
+což on tam jako proukativní říká,
+možná to celý, celý ten software vzniká
+úplně špatně. Že to psaní kódu
+je moc ručný.
+Je to tohleto možná zkoumat úplně jiný
+přístupy, jak vlastně vyřešit
+software ve nějaký problém?
+No, tak tahle přednáška,
+já myslím, že on jako
+všechno, co tam jako, o čem tam
+mluví, tak jsou jako skrytý reference
+na nějaký prostě sedmdesátkový
+jako projekty, který
+někdo ponotný dá,
+v CLSD vymyslel.
+A
+který jako,
+když měl člověk hodně
+velkou představivost a vlastně si myslím,
+když jakoby víš, jak vypadá
+programování teď, tak dokážeš
+jakoby si z toho
+udělat, si z toho udělat tu legraci
+a říct si, jak by to mohlo vypadat jinak.
+Ale myslím si, že jo, jakože
+to naše jakoby,
+že
+to jako programování, kde prostě
+píšu nějakej kód, že
+to je
+něco, co jako
+asi má dost alternativ.
+Ostatně ono,
+když se člověk koukne na nějaký data science
+notebooky, tak to už je jako
+příklad toho, kde to jako takhle
+nikdo nedělá, že jo. Nedělám notebook,
+takže prostě si sednu, napíšu
+celý notebook a pak to jako
+zkompiluju. To je jako...
+– Zrovna tak, když si vezmeš, jak se učí děti
+programovat, protože třeba obě dvě cery
+vždycky jim dám si hrát s nějakým
+studio.com
+org, tak vlastně to je všechno vizuální.
+To je drag and drop, ono dává za sebou nějaký posloupnostní
+nebo nějaký pravidla, ale
+že by tam šla psát javascript, ono
+či to může vygenerovat, ale je to jenom jako pro zajímavost,
+kdybys to psala ručně,
+ale když on na to prostě jako tahá,
+tak to je všechno jenom jako vizuální způsob. A vyřeší
+to úplně stejně, byť to jsou jako
+triviální problémy programovací, ale
+jde to, jo. Možná, jestli
+i tohle není cesta jako výsile těch jako
+editorů vizuálních, nevím. No, mám pocit, že jo.
+Ano, někde se to ukazuje, u nějakých
+takových low-code, no-code
+věcí jako třeba prostě na
+tady Robotic Process Automation, UiPath
+a podobný věci, ale
+tam zase to není nic komplexního,
+jo, co vy vytváříte prostě
+v F-sharpu jinde. Tak otázka
+je, nakolik to, co vytváříme, je ve skutečnosti
+komplexní jako tím
+problémem, anebo je to komplexní tím, že
+nejsem schopen to napsat jednoduše? Jasně, jasně,
+jo, jo. Mně se zdá,
+že tam je jako
+trošku problém v tom, že jako
+u těch hodně jednoduchých systémů, nějaký
+ty low-code, no-code věci,
+tak to jako funguje dobře,
+dokud mám fakt jako problém,
+kterej tam jde jako
+snadno vyřešit. Ale pak je
+jakoby zajímavý problém, teď potřebuji
+něco jako trošku složitějšího
+a dost často
+ta odpověď je, no tak to už nepůjde,
+jako přepište to do F-sharpu.
+Ale kdybych
+jako měl možnost se nějak jako
+dostat o jednu úroveň hloubš,
+a tam to nějak udělat, tak
+a to si
+myslím, že je něco, co třeba ten Smalltalk
+se jako snažil, snažil udělat.
+Oni o tom mají
+nějakej jako článek z časopisu
+Byte, kde
+popisujou takovou představu, jak tam jako
+přijde ten uživatel
+a bude používat tu nějakou simulaci,
+simulaci nemocnice
+prostě napsanou ve Smalltalku
+a pak zjistí, že jako už
+chce jenom simulovat nemocnici, že se tam chce
+přidat nějakou jednotku, tak se jako
+v tom Object Browseru najde ten
+případnej objekt, něco tam jako
+poedituje, v dalším kroku
+už si jako píše vlastní třídy
+a v dalším kroku už přepisuje jako
+Core Runtime Smalltalku
+na nějakou jinou platformu, že jo.
+Ale to, že to prostě
+v rámci toho jednoho prostředí jde
+jakoby přejít k těm
+víc jakoby
+silným nástrojům,
+tak to tam jako má jinou.
+A to je jeden z těch
+jazyků, který teda ty považuješ jako
+za dobrý, protože já jsem se právě chtěl zeptat tím, že
+učíš tenhle ten jazyk a máš
+přehled o těch jazycích, který kromě samozřejmě
+v Sharpu a teda
+teďka kromě Smalltalku, který teda jazyk
+je takovej, kde si říkáš, to tam
+mají dobře vyřešený, nebo to se mi obecně líp.
+No tak, já si myslím,
+že ten Smalltalk jako je zajímavý
+spíš tím, že je tam to prostředí.
+A to asi je jako u...
+To je
+to, co mě jako přijde zajímavý, no.
+Co mě jako přijde zajímavý,
+nebo
+zdá se mi, že jako zajímavý byl
+prostě JavaScript v nějakých
+devadesátkách na konci,
+kde to jako všichni používali
+tím způsobem, že jako skopíruju
+nějakej efekt z nějaký jako jiný
+Geocities stránky.
+A
+že to mělo takovou... A tak to bylo
+tím, že to jako nikdo nepoužíval na nic
+složitýho, ale
+mělo to
+jako by
+takovej styl, kterej nějak
+jako by podporoval takovou aktivní
+komunitu kolem toho.
+Takovouto hacker culture. No, no, no.
+A nebylo to i tím, že se vlastně ten JavaScript
+psal plain? V podstatě takhle jsme
+se ho učili všichni, že jo? Otevřu si zdroje,
+skopíruju, upravím, aby mi tam
+místo snižení padaly, nevím,
+vykřičníky, dám to na svůj web.
+A teďka najednou prostě
+já jsem ten JavaScripter.
+Protože tím, jak se to minifikuje a glyfikuje, tak vlastně
+to jde proti tomu, že jo? To nejde, no.
+A
+tak to si myslím, že byla jako zajímavá,
+zajímavá prostě fíčura
+ne až tak toho jazyka, že jo? To je
+furt prostě stejnej divnej
+JavaScript, ale
+toho jakoby stylu použití
+a tý komunity kolem toho, no.
+Bavili jsme se tady o jazycích,
+který se Tomášovi líbí.
+Nabízí si otázka, kterej jazyk
+z mainstreamu si neopak říká,
+tyjo, tahle si nezaslouží takovou popularitu.
+Ajajaj.
+Tím jsem přemýšlel.
+Žádnou dobrou odpověď nemám, ale
+myslím si, že co si jako nezaslouží
+popularitu je cokoliv, co
+jako nemá žádnej repl,
+nebo tak, co se jako nedá, nedá psát
+žádným způsobem interaktivně.
+Ať si každej doplní jako
+za domácí úkol.
+Co vůbec dělá
+popularitu toho jazyka, nebo jak to vzniká, že
+je něco populární? Co si myslíš, co zatím je?
+Protože to přeci nemůže být ten
+jazyk jako samostatnej,
+nebo samotnej jazyk.
+Protože v tom případě by přeci byly ty nejlepší věci
+nejpopulárnější, ale tak to zdaleka není.
+A nejenom teda v IT, by the way.
+To je, myslím, zrovna jako téma,
+kde
+by se jako hodilo víc
+akademickýho výzkumu, protože na to
+nikdo moc dobrou odpověď nemá.
+Existuje nějaký článek,
+teď nevím, jak se to přesně jmenuje, něco jako
+Principles of Adoption of
+Programming Languages, kde se to jako
+snaží z části
+popsat.
+A
+mám pocit, že jako jedna
+myšlenka je, že dost často
+se spopularizovaly věci,
+který mají nějaký nýš na začátku.
+Dost často
+z oblastí, o kterých si
+programátoři ani nemyslej, že je to pořádný
+programování.
+Takže prostě PHP,
+který jako vzniklo
+na psaní
+webserverů, kde
+někdo, kdo pořádně programoval ty
+mainframey, si jako neříkal, že
+tohleto je něco, co má smysl vůbec
+dělat. Nebo
+tak Python, ten určitě jako
+vzniknul nezávislé,
+ale pak se jako rozšířil
+dost kolem data science, a to je
+zase něco, kde si jako programátoři dost dlouho
+říkali, to si tam něco jako patlaj.
+A že, že právě tyhle jako oblasti,
+kde si někdo něco patlá,
+tak pak vyjde najevo, že
+to je jako fakt velký programování.
+Ale už
+je jako moc pozdě na to, aby se
+tam jako něco vymyslelo jinak.
+– Baví tě osobně ještě programovat?
+Jako za ty roky, co se tomu
+věnuješ, máš z toho
+ještě tu radost, kdy píšeš
+kód a říkáš, jo, teď jsem to geniálně
+vymyslel, teď to funguje. – No, tak
+myslím si, že jako hodně, hodně
+lidí, který
+od programování získají furu
+dalších povinností, tak
+když se k tomu občas
+dostanu, tak mě to baví, ale
+je to čím dál méně častější.
+– Už neprogramuješ tolik. – Ale tak samozřejmě,
+že jako
+no rozhodně
+ne jako na tom
+na tom levlu, kdy jsem jako
+dělal nějaký open source projekty
+prostě, nebo dělal
+jako komerční programování.
+Teďko jako
+co jsem tak poslední dobou
+stihnul programovat, tak jsou spíš
+jako nějaký prototypy,
+experimenty a tak.
+Menší věci, no.
+Ale
+třeba třeba se to zase změní,
+můžu doufat.
+– Tak hlavní činnost, proměň Novánku,
+je ta, je škola?
+– No já jsem jako
+na takový té pozici
+normálního jako akademika,
+kde
+vtip je, že 50%
+tvého času je jako výzkum,
+50% je výuka a 50%
+jsou administrativní úkoly.
+Naštěstí
+tak to jako bylo dost v té Anglii
+a musím říct, že jako příjemná
+věc na MatFizu
+nebo na tý Karlovce je, že
+tam tý administrativy jako
+není tolik.
+V Anglii si jako mají takovou
+posedlost procesama a jako
+pravidlama a
+to vygeneruje ohromný množství jako
+zbytečný administrativy.
+Takže dělám, dělám
+dost výzkumu a dělám nějaký
+jako učení
+a ono se to tak jako trochu překrývá,
+že jo. To je jako ten ideální
+ideální případ, no.
+A výzkum je jednak prostě
+to, co
+jsme tady rozebírali, jako
+vymyslet nějaký interaktivnější
+programovací prostředí,
+pak potom člověk jako musí
+teda
+musíš mít nějaký jako dostatečně
+důvěryhodný prototyp, který jako
+ukáže, jak by to fakt mohlo vypadat
+a pak
+kolem toho jako člověk píše nějaký
+akademický články a jako snažit
+se jako
+vysvětlit, co opravdu na tom je jako ta
+zajímavá věc, aby to případně si
+mohl někdo přečíst a jako udělat pořádně,
+že jo.
+A pak další téma, kterýmu
+se ještě věnuju, jsou jako
+z historie programování, což mě
+právě přijde zajímavý tím, že když se
+podíváš na ty jako sedmdesátý
+léta, tak tam jako
+vzniklo dost věcí.
+Smalltalk je tak jako jediná věc,
+kterou lidi budou znát,
+ale vzniklo jako
+docela jako množství dalších
+různých zajímavých jako divných
+projektů, který,
+když si to člověk přečte teďko, tak
+jako úplně nedávají smysl,
+protože se prostě o programování už
+přemýšlí jinak.
+A co mi přijde,
+že jako zajímavý problém je
+pokusit se tyhle věci nějak
+jakoby zrekonstruovat
+a popsat tak, aby si z toho člověk jako
+dneska mohl něco vzít.
+Ale čím to, že teda v sedmdesátých letech byla taková
+ale produktivní vlna
+nových myšlenek ohledně programovacích jazyků,
+je to nějaký doběh jako
+LSD od Woodstocku, nebo
+čím to je?
+Tak určitě z části,
+jo, ale jinak si myslím, že je to
+možná i tím časovým odstupem, jo.
+Že prostě je to doba, která
+je dobře
+popsaná docela díky tomu, že ten
+Xerox PARC je prostě taková
+jako legenda, která
+je až jako mýtus mezi programátorama,
+tak je to prostě popsaný.
+Víš se jako,
+víš se do jistý míry, co tam jako
+vznikalo.
+A
+určitě tím,
+že jakoby vzniknul
+nějakým smyslů jako novej
+nový jakoby
+prostředí, nová infrastruktura, že jo.
+Začaly se dělat prostě grafický věci,
+tak jako lidi to začaly používat
+na kdecos.
+Myslím si, že jako podobně prostě, když se
+třeba za nějakých 20 let lidi
+podívají na jako raný doby webu,
+tak taky jako
+když se, když se to
+podaří nějak jakoby popsat, co
+to jako v té době bylo, tak
+tam budou taky nějaký jako šílený
+nápady.
+A když se na to koukneme archeologickým
+pohledem, je tam nějaký,
+nějaký poklad, kterej když se takhle v tom hrabež
+si vykopal a je třeba škoda, že už je zapadaný
+prachem, něco,
+jaká myšlenka, přístup?
+No, tak
+co mi přijde zajímavý,
+je třeba projekt Pygmalion,
+což bylo jako
+no,
+programming by demonstration,
+což znamená, že
+jakoby v nějakým tom
+grafickým prostředí člověk jakoby
+interagoval s tím
+systémem, že tomu jakoby krok po
+kroku říkal, jak to má počítat,
+nebo jak to má jako
+provádět nějaký, nějaký akce,
+a ono to
+potom umělo jakoby z těhle akcí
+zaznamenat, nebo vyrobit,
+vyrobit program.
+Ta jako, takový asi
+nejsnesitelnější
+vysvětlení toho je,
+mají příklad v úvodu
+nějakýho jako industrial
+robota, kterej se
+programoval tak, že prostě člověk tu ruku
+toho robota jako dotáhl tam, kam
+měla bejt, že jo, pak tomu jako zmáčknul
+ty, ty chňapáky,
+a posunul to někam,
+pak je asi jako roztáhnul,
+a ten robot si jako zaznamenal ty, ty
+kroky. Ty jednotlivý úkroky a... Takový
+jako makro. Jo, jo, přesně, no.
+Přesně. Makro prostě
+nahraný tím fyzickým manipulováním
+s robotem.
+A...
+A pak to jako pouštěl, že jo, a mačkal ty auta,
+nebo co to má dělat.
+Ale... A podobným způsobem
+se
+jako myšlenka byla v tomhle
+programovacím systému, jako podobným
+způsobem budu jakoby
+instruovat ten počítač, jak má,
+jak má jako dělat nějaký kroky.
+A...
+No, ale jako...
+To je... Je o tom
+fakt moc, moc jako hezká, hezky
+napsaná práce, která má jako
+různý šílený odkazy na, na
+umění a tak. Ale...
+Že by to jako šlo
+pustit, to úplně ne. Takže
+je vlastně dost jako divný... Těžký,
+těžký pochopit, co to teda vlastně přesně
+vůbec dělalo. Je k tomu
+zdroják, je jako
+appendix one, nějaký
+doktorský práce ve
+Smalltalku 72.
+Ale aby to někdo
+jako OCR-oval
+a pak jako zprovoznil,
+tak to úplně se ještě nikomu nepovedlo.
+Z části i proto, že v tom
+Smalltalku 72 se jako používají
+různý smilíci na něco.
+Aha. Takže... Takže to není,
+že programátor byl veselej, ale je to důležitý
+syntaxe, jo? Ne, ne, myslím si, že smilík je nějaká
+jako Turtle Graphics.
+Jedna z věcí, který, když
+budete hledat na webu Tomáše Petříčka,
+tak na vás vyskočí je Tomáš P.
+Net, což je tvoje osobní stránka,
+kde
+ty máš takový jako zajímavý
+myšlenky, blogposty, vlastně vidět
+to, jak ty jsi jako rozkročenej,
+řekl bych, jako renezanční osoba,
+to, že prostě různý
+oblasti proskoumáváš.
+Co mě tam padlo první do oka,
+bylo coefekce. Já jako vůbec nevím, co to
+jsou coefekty. Efekty si možná
+většina ještě jako ITáků dokáže nějakým
+způsobem vysvětlit, ale co
+jsou to coefekty? Tam o tom máš celý jako
+nějaký úryvky.
+No já tam o tom dokonce mám celou doktorskou práci.
+Celou doktorskou práci.
+Takže si můžeš přečíst
+tyto jenom dvěstě stránek.
+Já bych to potřeboval trošičku jako…
+V jedné rovnici se mi povedlo použít
+i tři subscripty naraz.
+Ne, je
+to jakoby… Tak ta motivace
+byla, jak jsi
+říkal, efekts, to je jakoby cokoliv, co
+ten tvůj program dělá světu.
+A coefekts
+byla jako myšlenka podívat
+se na to, co ten program dělá.
+Co ten program od nějakého prostředí potřebuje.
+Což může být
+jako píšu
+píšu něco, co má běžet na mobilu,
+tak to potřebuje přístup k nějakým
+zdrojům typu jako GPS
+senzory a tak.
+A
+nebo když
+jiný příklad je z nějakých jako
+data flow languages, nebo
+takový to jako simulace
+počasí, kde mám
+nějaký jakoby grid a
+mám napsanej popis toho, jak vypočítám,
+můžu čítat hodnotu pro jeden bod
+a se potřebuje dívat na nějaký okolí.
+Jasně.
+Prostě plus mínus jako pět bodů třeba.
+A
+ty efekty
+tak to jako
+je takovej obecnej pojem,
+ale zároveň
+i jako v programovacích jazycích
+je to něco, co se dá jako
+trackovat v typovém systému.
+Takže
+můžu mít prostě
+napsaný, tahle ta metoda
+bere string,
+vrací string a zapisuje do souboru.
+Což třeba jako
+v Hasclu
+určitě v nějaký jako podobě je
+a v různých jako experimentálnějších
+jazycích to je taky.
+A myšlenka coEffectu
+byla jako trackovat
+v tom typu, mít v typu
+popis toho, co to jako potřebuje,
+aby to mohlo běžet navíc.
+Takže mi typ řekne
+jako tahle funkce,
+bere string a
+vrací string, ale přistupuje
+k GPS.
+Nebo
+tajta funkce jako bere
+pole
+a potřebuje
+přístup k třem políčkám před,
+třem políčkám po, nějaký jako
+aktuálně vybraný.
+To je zajímavý přístup, když si vezmu,
+že jsem tě hodně viděl
+vlastně jako plně funkcionálně programovat
+nebo tohleto paradigma hodně
+podporovat i ve svých přednáškách.
+To je vlastně trošku ale bokem tohleto, ne?
+Já bych čekal, že když potřebuji
+z GPS-ky vlastnu string,
+tak mu bude předcházet funkce, která
+z GPS tu string mi ho vytáhne
+a pak už to předá jako pure závislost
+do téhle funkce.
+No...
+Víš, že mi to přijde zajímavý
+na to takhle koukat.
+Já myslím, že ta snaha funkcionálního
+programování, prostě mít
+tu sandwich architekturu,
+kde mám nějaký hnusný přístupy
+ke všemu, pak jako krásnou
+pure logic jako
+napsanou funkcionálně a pak
+zase nějaký hnusy.
+To je ten anglický chleb asi.
+Tak to je určitě jako
+myslím rozumný, no. Ale
+prostě stejně někde
+k těm věcem člověk jako přistupovat
+musí.
+A když to v tom
+typovém systému jako podchytím,
+tak
+to pak jako i pro to
+funkcionálního
+programátora je přijatelnější.
+OK. A
+neházelo ti klacky pod nohy
+to třeba, že člověk je právě
+zvyklý myslet nad tím
+určitým způsobem a teďka vlastně ty
+jako na to koukáš jinak, z jiný řekněme
+osy. Šlo ti to
+v pohodě celé tohle skoumání
+těch koefektů nebo?
+Tak. Neříkal jsi
+třeba, jestli to není jako úplně nepřirozený pro tebe
+teďka, když už jsi zvyklý ty věci komponovat
+takhle sandvičový, jak jsi to popsal.
+Tak já si myslím, že tam jako spíš bylo
+jako těžký vymyslet, co to
+vlastně teda
+co to vlastně jako je, že jo. Máš
+prostě u těch efektů je nějaký
+celkem jako zažitá
+představa, co to jako může znamenat.
+To, co bylo zajímavý
+na téhle práci bylo jako, že
+když člověk jako začne objevovat
+všechny ty jako jiný věci, který do toho
+stejného schématu zapadaj.
+Že jako já jsem k tomu přišel, říkal jsem
+si tak jako nějaký tyhle ty
+IS nebo tak. To jsou jako
+věci, který jsou jako zdroje,
+kterým přistupuješ.
+Ale pak,
+když to jako člověk napíše ten
+systém a vyjde
+najevo, že se to dá použít třeba na to
+počasí, nebo že jako
+samotný přístup k proměnejím
+se dá nějak
+jako tímhle způsobem
+omezovat nebo kontrolovat.
+Jako zjistíš, že to
+vlastně jako vypadá jako něco,
+čemu lidi říkají linear
+nebo substractural type
+systems, kde
+to jsou jakoby systémy, kde
+můžu třeba
+proměnou použít
+jen jednou. Takže mám programovací
+jazyk, kde jako
+když mám proměnou definovanou, tak
+ji smím použít jen jednou.
+Nebo právě jednou.
+Což zní jako
+naprosto šílený způsob, že jo.
+A nebo mi to jako
+dá se udělat, že to bude
+počítat kolikrát proměnou
+používám.
+A to zní jako
+takhle, když se to popíše
+jako dost kravina,
+ale
+vlastně takový ty ownership typy
+zrastu jsou, jako
+vycházejí z podobný teorie.
+A ještě se to dá použít k tomu,
+že když jako vím, že proměnou
+použiju právě jednou, tak v takových jazycích
+pak jako nemusím vůbec řešit
+garbage collection. Protože prostě
+všechno je jako
+vím, kdy uvolnit paměť.
+A tak. A je to
+staticky kontrolovaný.
+Další zajímavost z toho tvýho
+webu, na kterou jsem narazil, byla
+polemika, zda by mimozemštění pochopili
+lambda calculus. I když, jak jsem to tak
+projel, tak mi přišlo, že to byla spíš
+tak jako polemika o matematice, filozofii
+a tak jako celkově asi o vnímání
+nějakých jako pravd. Prostě
+mnoha, z mnoha
+pohledů. Pochopili by teda
+mimozemštění lambda calculus, nebo?
+Než na to, jaký by to byly mimozemštění.
+Ale tak ten
+post byl reakce na
+Phila Woodlera, který má takovou tu
+jako slavnou přednášku, kterou s Oblibou
+někdy dělal, kde se
+svlíká do lambdamana.
+To doporučuji, jinak se to nevědět, jestli jste...
+Ale nějakou verzi, kde se svlíká málo,
+si doporučuju.
+Pak to možná je trošku
+přes. Ale
+a ten má právě jako argument,
+že lambda, že
+lambda calculus, který má prostě to jako
+pravidlo
+tý jako
+lambda application,
+který formálně je podobný
+jako nějaká inference v logice.
+Takže tím,
+že je to jako dva úplně
+jiný světy, který prostě formálně
+spolu souvisej,
+takže
+jakákoli civilizace by takovouhle věc
+musela vymyslet.
+A mě to jako vždycky trošku
+šilovalo, protože když si člověk přečte
+něco o filozofii a matematiky,
+tak jako ví, že
+tohle je jako taková
+základní otázka, kterou
+nebo ten obecný problém,
+jako jestli je matematika
+nějakým způsobem jakoby
+nezávislá na člověku,
+nebo jestli je prostě to jako
+sociální konstrukt, který vzniká
+z našeho nějakého jako
+interakce se světem.
+Tak to je prostě to, co
+tam ty filozofové řešejí už
+několik tisíc let.
+A když jako Phil Wadler přijde
+a bez jakýkoliv reference na to
+řekne, je to jako takhle,
+tak mě to je rozčilovalo.
+Takže to je reakce na to.
+Takže to je reakce na to, no.
+A právě
+jako ta pojinta
+je, že když si člověk
+jako řekne, že matematika je
+ten jako ideální
+svět, který existuje bez
+bez jakého vztahu člověku,
+tak pak jako
+budíš, pak prostě
+by lambda calculus
+existovaly, kdyby žádný lidi
+a mimozemštění nebyli.
+Ale když to jako bereš
+jako něco, co je jakoby
+zkonstruovaný na základě toho, jak
+my jako fungujem ve světě,
+tak pak už to záleží
+na tom, jak ty mimozemštění budou fungovat,
+že jo. Když prostě budou mít jako
+a
+když budou fungovat ve světě, kde jsou jako
+hodnotlivě jasně identifikovatelný
+objekty, nějaký entity,
+tak
+určitě budou jakoby sdílet
+nějaké třeba počítání s námi,
+protože prostě, když jsi schopný
+rozeznat skleníčky, tak tě zajímám,
+kolik jich je. Jasně. Ale
+kdyby jako mimozemštění
+existovaly v nějakém jako
+plynovitém světě,
+kde prostě hranice
+věcí nejsou jednoznačný,
+tak myslím, že ani nemusí
+jako mít... Počítání. Nemusí
+mít integery, budou mít jen flouty.
+Od floutových mimozemštěnů jsme
+se dostali až na úplný závěr.
+Já bych chtěl především říct
+strašně poděkovat Tomáši, že si dorazil,
+protože jako vždycky, když
+Tomáše o něco požádáte, odpověď je
+jo, jasně, není problém, v kolik tam mám být.
+Byť teda... To prosím tě, neříkej
+veřejně.
+Možná to jenom učí mě, já tady mám lehký filtr,
+ale děkuju za to. Ať se necel, jdi klidně
+o sobou. Každopádně,
+Tomáši, moc díky, že jsi dorazil, bylo to skvělý.
+Já tady mám ještě samozřejmě spoustu dotazů,
+ale já si je nechám pro sebe soukromně,
+až půjdeme na ten slibovaný oběd, co už jsme
+si říkali nějakou dobu, že dáme
+společně se zbytkem
+F-sharpy komunity a F-sharpyho Microsoftu
+v Praze. Možná
+úplně poslední věc, teď jsem si tak jako nahrál.
+Microsoft docela začal šlapat
+do F-sharpu tady lokálně v Praze, co tomu
+říkáš? Jaký z toho máš pocit?
+No já myslím, že to je super, no.
+Tak já mám pocit, že jako
+to zjistíme na tom
+obědě, ale vlastně
+mi přijde, že je super, že Microsoft
+technický věci začal dělat v Čechách,
+což myslím, že je obecný
+trend, že prostě
+možná
+se naučili díky covidu,
+že se dá pracovat i jinde než v Redmondu.
+A jestli to povede k tomu,
+že bude v Čechách větší
+prostě vývojový centrum,
+tak super, no. Bude tu jako
+fůra dalších zajímavých věcí,
+zajímavý lidi a tak.
+Super. Přišel ve správnou dobu,
+zdá se. Ještě
+možná Tomáš, úplně poslední otázka,
+takovou klasiku máme. Co novýho
+plánuješ? Něco, co teďka
+máš před sebou, nějakou challenge.
+Tak jsem pál, že se nezeptáš. Neboj.
+No, tak rád bych se
+někdy vyspal, to jako
+nevím. Dobrý plán.
+To ne, to teď ne.
+Co mám
+rozdělanýho, tak to je o tý jako
+historii programování. Mám
+takovej projekt, kterej
+tak nějak jako po večerech vzniká
+už několik let.
+Což je snaha podívat se
+jakoby na nějaký zajímavý
+místa vývoje v programování
+historicky.
+A popsat to jako nějaký jako interakce
+mezi základníma prostě
+myšlenkovýma přístupama nebo kultury.
+Jako je
+takovej ten jako
+hacker přístup, kde prostě
+chci mít jasný
+přehled o tom, jak věci fungujou.
+A jako plnej přístup k tomu
+stroji a tak.
+Po takovej ten jako inženýrský přístup,
+kde se snažím mít nějak jako
+rozumný nástroje, abych
+i když prostě
+vím, že lidi nejsou bezchybný,
+tak abych jakoby dokázal
+nějak jako se zlepšovat.
+Po takovej ten matematický
+přístup, kde prostě si řeknu jako program
+je matematická entita
+a jediný, co s tím musím udělat je
+dokázat, že je to správně a tak.
+Tak co mám
+jakoby za rozdělaný projekt
+je kniha, která by jako
+popisovala zajímavý
+místa z historie
+jako interakce těhle různých
+přístupů. Takže když se člověk třeba
+podívá na vlastně
+a to je dobrý příklad, protože
+to člověka vůbec nenapadne, že jo. Ale
+programovací jazyk jako samotnej
+prostě to, že to je jako
+myšlenka, jako že to je
+jako koncept, že prostě mám
+něco jako jazyk, tak
+to jako vůbec nebylo
+obvious
+v nějakých prostě v době,
+kdy se programovaly
+takový ty obří monstra,
+takže člověk jako dělal díry
+do té pásky, že jo.
+To jako žádný jazyk nebyl.
+Nebo na ENIACu, kde se programovalo
+tak, že se přepojovaly dráty.
+A
+to jako v nějakém
+bodě prostě vznikla jako myšlenka,
+že budeme mít něco jako programovací
+jazyk a bude to jako nezávislý
+na tom stroji.
+A tam je jako jednak
+nějakej vysloveně prostě
+biznisovej vliv, že
+lidi, co používali
+počítače, tak potřebovali,
+aby ty programy šly přenést
+z jednoho na novej. Což
+v té době nešlo. Takže to je jako čistě
+prostě biznisová jako motivace.
+Pak do toho přichází
+nějaký matematický myšlenky
+kolem jako formálních gramatik
+a tak, že to je něco, čím bych mohl
+tyhlety jazyky popisovat.
+No a pak jako
+další vliv je prostě
+z těch hacker
+přístupů, kde jako
+už na nějakém ETSACu,
+což byl prostě druhej nebo první
+jako rozumnej počítač na světě,
+tak si lidi
+začali psát jako v podstatě
+interpretry.
+Ehm, kde to jako
+načetlo tu pásku do paměti
+a pak to jako stokrát pomalej
+jako simulovalo ty instrukce,
+aby to jako mohlo vyprodukovat nějaký
+log.
+A vlastně všechny tyhle ty tři
+jako problémy se jako v jednu
+dobu jako spojily
+do jednoho a vznikly z toho programovací
+jazyky. Takže
+cíl je popsat nějaký takovýhle jako
+zajímavý, zajímavý místa historie.
+A budeme to moc někde sledovat? Bude to
+publik? No jako zatím to
+není, ale
+někdy, někdy to nějak
+bude, uvidíme.
+Dobrá, no tak jo, tak my ti budeme
+držet palce. Ještě jednou moc díky, že
+si dorazil, ať se daří, no a budu se těšit
+zase někdy. Čau. Díky za pozvání.
+Měj se fajn, čau, čau.
+Tak to byl Tomáš Petříček.
+Jedinečnej člověk.
+Já jsem si, neodpustil jsem
+si to. Šel jsem do našeho FŠRP-o
+kanclu, když jsem šel pro náš podvod casí
+svek, abych mu dal hraniček a další věci.
+Otevřel jsem dveře a říkám klukům, co
+už tam seděli, říkám, hoši, je mi to líto,
+ale už nejste nejlepší FŠRP-isti v budově.
+Tak na mě koukali Landis Karleva.
+Říkám, je tady Tomáš Petříček,
+taková rozhářený v oči. Jo, tak to,
+tak jsem pozažil podobnou věc.
+Tvůj novej kolega z FŠRP-ingu.
+Jindra. No Jindra. Tak ho
+potkal na chodbě, až tam jsem pochopil,
+co znamená Tomáš Petříček pro váš svět.
+Jako ty na něj koukali, kdyby pro mě.
+Jak na zjivení. Kdyby tady Jarda Hager přišel kolem
+a já na něj koukám, to je stejně, jako. Fakt
+neuvěřitelně. Tak to se krásně
+dokreslilo, to, co jsme tady zažili,
+protože, jak jsi říkal, vždycky si
+pamatuji to slovo, ne nezančení taktových potrch.
+Jo, on je jako
+fantastický, ale jedna věc mě zaujala,
+a to je ta, vem si, že člověk
+v průběhu toho života
+furt má sklony k takovým jako plánování
+a takový to, kde se vidí za deset let a za
+patnáct a za dvacet. Mně přijde, že
+Tomáš je člověk, kterej jako
+nejdál vidí do středy, kdy jsme se bavili,
+že půjdeme spolu na oběd ještě s lidma
+z toho, z pražskýho Microsoftu.
+A dál ne, jako jo,
+že on, k těmu to tak chodí, když se
+zeptáš úplně jako náhodně,
+ale tím, jak je jako hlava otevřená a
+zvídavá, vlastně je to vědecký člověk.
+Tak prostě to jako přijme
+a vlastně z toho jako
+benefituje a je geniální.
+No jedna z našich úplně skvělá myšlenka, úplně z jinýho pohledu, je, že jsem
+právě přemýšlel, že
+mnohokrát mi napadne nějaká věc, že bych
+ji jako nějak rozpracoval nebo něco s ní dělal, ale
+samozřejmě to zahodím, protože není čas, jiný plán, není něco.
+A on to nevzdává.
+On prostě jde a jde si za tou věcí,
+což přesně je o tom mindsetu, kterej má,
+jakože nemá nějaký, asi jako
+všichni máme nějakej cíl, jo, ale
+že on vlastně se spíš zaměří na to, že tohle
+je teď problém, kterej chce řešit a řeší. Jo.
+A pak z toho vypadávají prostě mimozemštění
+a podobný věci, jo. Jo, no to super.
+Super. Super. No, těším se
+za týden budeme
+mít, nebo za čtrnáct dní samozřejmě
+z pohledu posluchačů, budeme mít dalšího
+zajímavýho hosta. Ještě ho
+neprozradím, ale už ho mám potvrzenýho, takže
+pátá série frčí. A pak
+řekl bych, uzavřeme moji
+první půlku, a pak máš ty
+tři hosty, to bude zase tvoje
+půlka MI,
+AI, MI, víš, já jsem zpočítal
+Michel Lernicka AI, MI,
+Michel Lernicka AI je pro mě MI. Jo.
+Takže MI prostě bude všechno, bude to
+super. Bude to AI střihnutý jednou
+takovou jako osobnější záležitostí,
+ale nebudeme víc prozadřovat. No tak, paráda.
+Tak jo, těšilo nás, mějte se
+krásně za čtrnáct dní zase u dalšího dílu
+podcastu Podvoz a Sem, no a
+my jdeme bydlet. Čau. Mějte se, čau.

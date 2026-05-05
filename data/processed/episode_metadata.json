@@ -1,0 +1,1204 @@
+[
+  {
+    "episode_id": 1,
+    "title": "S15E01 - Tomáš Nováčik - Demo scéna, programování dispečinku a vyhazovy z práce",
+    "guest_name": "Tomáš Nováčik",
+    "date": "2026-05-04",
+    "duration_minutes": 78.0,
+    "topics": [
+      "Cloud & DevOps",
+      "Kariéra"
+    ],
+    "summary": "Startujeme 15. sérii a hned do toho šlapeme z vostra. Do studia přišel skvělý Tomáš Nováčik z Garwanu, se kterým jsme zavzpomínali na dřevní doby Demo scény na Slovensku, probrali jsme jeho šílené eskapády při programování software pro monitoring vozidel a pokecali bez obalu, jaké to je nechat se dvakrát vyhodit z práce.",
+    "transcript_file": ""
+  },
+  {
+    "episode_id": 2,
+    "title": "BonusOFFka #1 - Naše startup fails",
+    "guest_name": "BonusOFFka #1",
+    "date": "2026-04-13",
+    "duration_minutes": 3.1,
+    "topics": [
+      "AI & ML",
+      "Startupy",
+      "Data & Analytics",
+      "Česká IT scéna"
+    ],
+    "summary": "Psali jste si o to a tady to máte! Sedli jsme si do studia jen my dva a otevřeli skříně narvané kostlivci z naší startupové éry. Co nám (ne)vyšlo, jaké chyby jsme (ne)udělali a jak jsme se z toho (ne)poučili - dozvíte se v hodině a půl velmi osobního povídání.",
+    "transcript_file": "data/transcripts/001_bonusoffka_1_naše_startup_fails.txt"
+  },
+  {
+    "episode_id": 3,
+    "title": "S14E06 - Jakub Šimek - GIS, laser scanning a IT v geodézii",
+    "guest_name": "Jakub Šimek",
+    "date": "2026-03-30",
+    "duration_minutes": 86.0,
+    "topics": [
+      "AI & ML",
+      "Kariéra"
+    ],
+    "summary": "Byť je to šokující, stále existuje téma, které jsme za ty roky v #PodVocasem neprobrali, a to je GIS a IT v geodézii. Naštěstí se nám ozval Jakub Šimek, který nejen že tomuhle všemu rozumí, ale navíc je náš stálý posluchač, a tak jsme kromě GIS, GPS, LiDARu a dalších 10 000 věcí probrali též naše nepřesnosti o nepřesnosti v GPS. Chcete-li s námi nakouknout do světa, který normálně neznáte, dejte si poslední díl 14. série.",
+    "transcript_file": "data/transcripts/002_s14e06_jakub_šimek_gis_laser_scanning_a_it_v_geodézii.txt"
+  },
+  {
+    "episode_id": 4,
+    "title": "S14E05 - Tomáš Jurásek - Event-driven systémy, ADRka a Architecture governance",
+    "guest_name": "Tomáš Jurásek",
+    "date": "2026-03-16",
+    "duration_minutes": 80.7,
+    "topics": [
+      "Architektura",
+      "Kariéra"
+    ],
+    "summary": "Po delší době jsme opět zabrousili do světa commandů, eventů, event-driven systémů, ADRek a jiných dobrůtek. Do studia dorazil skvělý Tomáš Jurásek, který to nejen školí, ale dokonce tomu fakt rozumí, a tak jsme to probrali pěkně horem spodem. Dejte si další skvělý díl plný deepdivu!",
+    "transcript_file": "data/transcripts/003_s14e05_tomáš_jurásek_event_driven_systémy_adrka_a_architecture_governance.txt"
+  },
+  {
+    "episode_id": 5,
+    "title": "S14E04 - Tomáš Trnka - OBT, Keboola a 30 miliard tokenů za měsíc v Carvagu (EAG)",
+    "guest_name": "Tomáš Trnka",
+    "date": "2026-03-02",
+    "duration_minutes": 94.6,
+    "topics": [
+      "AI & ML",
+      "Kariéra",
+      "Data & Analytics"
+    ],
+    "summary": "Proč je SQL stále nejlepší dotazovací jazyk, na co se hodí mít Keboolu a za co v Carvagu spálili jen za leden 30 miliard tokenů? Nejen o tom jsme si #PodVocasem povídali s Tomášem Trnkou - CDO firmy EAG. Máte-li rádi auta a data, pak je tohle díl, který si nesmíte nechat ujít!",
+    "transcript_file": "data/transcripts/004_s14e04_tomáš_trnka_obt_keboola_a_30_miliard_tokenů_za_měsíc_v_carvagu_eag.txt"
+  },
+  {
+    "episode_id": 6,
+    "title": "S14E03 - Denisa Faltová - Jak aplikovat AI ve firmách",
+    "guest_name": "Denisa Faltová",
+    "date": "2026-02-16",
+    "duration_minutes": 73.3,
+    "topics": [
+      "AI & ML",
+      "Kariéra",
+      "Česká IT scéna"
+    ],
+    "summary": "Pozvání do studia přijala naše kamarádka a odbornice na aplikaci a využití AI ve firmách Denisa Faltová, se kterou jsme to vzali klasicky od podlahy a kromě tradičních AI-based témat jsme zabrousili i do etiky, školství a jiných odvětví. Pokud přemýšlíte, jak vlastně celý trend uchopit a aplikovat ve vaší firmě, bude tento díl další pošušňání pro vás!",
+    "transcript_file": "data/transcripts/005_s14e03_denisa_faltová_jak_aplikovat_ai_ve_firmách.txt"
+  },
+  {
+    "episode_id": 7,
+    "title": "S14E02 - Martin Michálek - Rychlost webů",
+    "guest_name": "Martin Michálek",
+    "date": "2026-02-02",
+    "duration_minutes": 83.5,
+    "topics": [
+      "Kariéra",
+      "Data & Analytics"
+    ],
+    "summary": "Máte rychlý web? A mohla bych ho vidět? :) Do studia #PodVocasem dorazil odborník na rychlost webů a mimochodem neuvěřitelný sympaťák Martin Michálek, který nás uvedl do problematiky měření rychlosti webů, metrix a též vysvětlil, jak předcházet problémům při používání Reactu a Next.js. Další hoďka a půl nabušeného povídání - dejte si!",
+    "transcript_file": "data/transcripts/006_s14e02_martin_michálek_rychlost_webů.txt"
+  },
+  {
+    "episode_id": 8,
+    "title": "S14E01 - Martin Vágner - Custom vývoj v Salesforce",
+    "guest_name": "Martin Vágner",
+    "date": "2026-01-19",
+    "duration_minutes": 85.1,
+    "topics": [
+      "Kariéra",
+      "Data & Analytics"
+    ],
+    "summary": "Vítejte v roce 2026 a vítejte v nové sérii - letos pro vás máme spoustu novinek! Čtrnáctou sérii vykopáváme povídáním o platformě Salesforce a o tom, co všechno s ní lze provádět a jak ji customizovat. A protože máme rádi příklady z praxe v opravdu velkých firmách, naše pozvání přijal Martin Vágner z České Spořitelny, se kterým jsme se tomu podívali na zoubek.",
+    "transcript_file": "data/transcripts/007_s14e01_martin_vágner_custom_vývoj_v_salesforce.txt"
+  },
+  {
+    "episode_id": 9,
+    "title": "S13E06 - Jiří Kosek - O legendární PHP knize a XML",
+    "guest_name": "Jiří Kosek",
+    "date": "2025-12-01",
+    "duration_minutes": 96.3,
+    "topics": [
+      "Architektura",
+      "Kariéra",
+      "Data & Analytics",
+      "Open Source"
+    ],
+    "summary": "Poslední díl roku 2025 se vrací o více než 20 let zpátky a my si společně s autorem legendární knihy o PHP3 Jirkou Koskem zavzpomínáme na doby, kdy většina z nás objevovala krásy webu a hltala všemi doušky právě Jirkovu knížku. Kromě boomerského vzpomínání nesmí chybět ani pohled do současnosti, deep dive do zákoutí XML a nebo třeba pokec o tom, jaké to je být součástí W3C konsorcia.",
+    "transcript_file": "data/transcripts/008_s13e06_jiří_kosek_o_legendární_php_knize_a_xml.txt"
+  },
+  {
+    "episode_id": 10,
+    "title": "S13E05 - Karel Svrček - Do nitra AI v aplikaci George",
+    "guest_name": "Karel Svrček",
+    "date": "2025-11-17",
+    "duration_minutes": 92.3,
+    "topics": [
+      "Kariéra"
+    ],
+    "summary": "Ještě než uzavřeme šťastnou 13. sérii, pozvali jsme si do studia skvělého Karla Svrčka z České Spořitelny, se kterým jsme probrali vývoj AI v aplikaci George a velkolepé plány do budoucna s jejím využití napříč celou firmou. Nevynechali jsme ani oblíbenou technickou šťávičku, takže se například dozvíte, jak se vlastně definuje a ukládá \"myšlenka.\"",
+    "transcript_file": "data/transcripts/009_s13e05_karel_svrček_do_nitra_ai_v_aplikaci_george.txt"
+  },
+  {
+    "episode_id": 11,
+    "title": "S13E04 - Honza Jaroměřský - Z třinecké extraligy do IT",
+    "guest_name": "Honza Jaroměřský",
+    "date": "2025-11-03",
+    "duration_minutes": 91.7,
+    "topics": [
+      "Startupy",
+      "Kariéra",
+      "Data & Analytics"
+    ],
+    "summary": "Máme tu další příběh přestupu z vrcholu sportovní kariéry do světa IT. Do studia za námi přijel Honza Jaroměřský, dvojnásobný vítěz extraligy ledního hokeje a dnes již bývalý obránce Ocelářů z Třince, který po konci své hokejové kariéry vyměnil hokejové vybavení za laptop a začal se věnovat svému AI startupu pro individuální trénink mladých sportovců. Jaká byla jeho kariéra a co všechno se musel naučit, to se dozvíte v dalším díle podcastu #PodVocasem.",
+    "transcript_file": "data/transcripts/010_s13e04_honza_jaroměřský_z_třinecké_extraligy_do_it.txt"
+  },
+  {
+    "episode_id": 12,
+    "title": "S13E03 - Vojta Barta - QA v roce 2025",
+    "guest_name": "Vojta Barta",
+    "date": "2025-10-20",
+    "duration_minutes": 89.0,
+    "topics": [
+      "Ostatní"
+    ],
+    "summary": "Protože myslíme na všechny své posluchače napříč IT spektrem, opět se vracíme k tématu QA, automatizace a hlídání kvality. Až z Ostravy za námi přijel zkušený \"kvalitář\" Vojta Barta, se kterým jsme nejen zavzpomínali na zlaté časy ve Vendavu, ale též probrali jeho více než osmnáctiletou kariéru v QA a jak se za tu dobu vnímání QA změnilo.",
+    "transcript_file": ""
+  },
+  {
+    "episode_id": 13,
+    "title": "S13E02 - Jindřich Skeldal - Brány Skeldalu, herní business a simulace herce ve VR",
+    "guest_name": "Jindřich Skeldal",
+    "date": "2025-10-06",
+    "duration_minutes": 88.9,
+    "topics": [
+      "Startupy",
+      "Kariéra",
+      "Data & Analytics"
+    ],
+    "summary": "Po delší době je tu opět ryze herní díl a my jsme měli tu čest ve studiu přivítat legendu české herní scény Jindřicha Skeldala, se kterým jsme se nejen vrátili do dřevních dob herního vývoje, ale též jsme probrali jeho nejnovější počiny jako Tribe Nation nebo simulátor herce ve VR. Samozřejmě nemohl chybět ani výhled do budoucnosti her v Čechách a spousta zajímavých myšlenek.",
+    "transcript_file": "data/transcripts/012_s13e02_jindřich_skeldal_brány_skeldalu_herní_business_a_simulace_herce_ve_vr.txt"
+  },
+  {
+    "episode_id": 14,
+    "title": "S13E01 - Honza Láznička - Data engineering v Billigence",
+    "guest_name": "Honza Láznička",
+    "date": "2025-09-22",
+    "duration_minutes": 93.5,
+    "topics": [
+      "Kariéra",
+      "Data & Analytics"
+    ],
+    "summary": "Jsme zpátky a v plné síle! Vykopáváme 13. sérii, opět se silným partnerem v zádech a opět se mrkneme na zoubek datařině. Dneska přišel Snowflake Hero Honza Láznička, který nás světem dat provedl a ještě nám pověděl něco o své velmi netradiční zálibě. Jo a taky jsme oznámili živák! Tak šup pouštět a komentovat!",
+    "transcript_file": "data/transcripts/013_s13e01_honza_láznička_data_engineering_v_billigence.txt"
+  },
+  {
+    "episode_id": 15,
+    "title": "S12E06 - Tomáš Sušánka - Vývoj hardwarové peněženky v SatoshiLabs",
+    "guest_name": "Tomáš Sušánka",
+    "date": "2025-07-14",
+    "duration_minutes": 80.0,
+    "topics": [
+      "Kariéra",
+      "Bezpečnost",
+      "Data & Analytics"
+    ],
+    "summary": "Dvanáctou sérii uzavírá CTO Trezor.io a velký nadšenec do kryptoměn Tomáš Sušánka, který s námi probral zákoutí vývoje hardwarové peněženky v SatoshiLabs a jaké aktuální bezpečnostní výzvy musí jeho tým řešit. Ať jste fanoušci Bitcoinu a kryptoměn obecně, nebo si jen chcete rozšířit obzory, poslední díl série podcastu #PodVocasem pro vás bude jako stvořený!",
+    "transcript_file": "data/transcripts/014_s12e06_tomáš_sušánka_vývoj_hardwarové_peněženky_v_satoshilabs.txt"
+  },
+  {
+    "episode_id": 16,
+    "title": "S12E05 - Víťa Hubený - Od kódu k businessu",
+    "guest_name": "Víťa Hubený",
+    "date": "2025-06-30",
+    "duration_minutes": 86.6,
+    "topics": [
+      "Startupy",
+      "Architektura",
+      "Kariéra",
+      "Data & Analytics"
+    ],
+    "summary": "V předposledním díle dvanácté série za námi přišel skvělý Víťa Hubený z České Spořitelny, se kterým jsme mimo jiné probrali, proč by se programátoři měli odprostit od svého techstacku a zaměřit se víc na business. Zajímá vás, jak se v České Spořitelně aplikuje shift-left přístup a jaké to má výhody? Pak si dejte další hoďku a půl #PodVocasem.",
+    "transcript_file": "data/transcripts/015_s12e05_víťa_hubený_od_kódu_k_businessu.txt"
+  },
+  {
+    "episode_id": 17,
+    "title": "S12E04 - Jiří Dobrý a Daniel Pojhan - Když kód pomáhá",
+    "guest_name": "Jiří Dobrý a Daniel Pojhan",
+    "date": "2025-06-16",
+    "duration_minutes": 87.7,
+    "topics": [
+      "Kariéra",
+      "Bezpečnost",
+      "Data & Analytics"
+    ],
+    "summary": "Po dlouhé době jsme přivítali ve studiu dva hosty najednou. Jiří Dobrý a Daniel Pojhan přijeli z nedaleké Plzně, aby nám představili koncept hackathonů \"Když kód pomáhá\" a rozebrali s námi, jak může každý vývojář během jednoho víkendu výrazně pomoci lidem se zdravotním postižením. Co vznikne, když se spojí láska k technologiím s dobrým úmyslem? Dejte si v nejnovějším dílu podcastu #PodVocasem!",
+    "transcript_file": "data/transcripts/016_s12e04_jiří_dobrý_a_daniel_pojhan_když_kód_pomáhá.txt"
+  },
+  {
+    "episode_id": 18,
+    "title": "S12E03 - Aleš Holan - Od budovaní Shellu k budování startupů",
+    "guest_name": "Aleš Holan",
+    "date": "2025-06-02",
+    "duration_minutes": 77.8,
+    "topics": [
+      "Startupy",
+      "Kariéra"
+    ],
+    "summary": "Jak se liší budování české pobočku Shellu v 90. letech od budování nových nadějných startupů dnes? Na co by měli foundeři myslet, co jim nejvíce chybí a jak poznat, kdy má cenu pokračovat? Na to všechno nám odpověděl \"dvorní dodavatel hostů\" našeho podcastu a Poliho starý známý Aleš Holan, který toho za život prošel více než dost a nebojí se sdílet své postřehy.",
+    "transcript_file": "data/transcripts/017_s12e03_aleš_holan_od_budovaní_shellu_k_budování_startupů.txt"
+  },
+  {
+    "episode_id": 19,
+    "title": "S12E02 - Matej Semančík - Kotlin multiplatform a vývoj na Androidu",
+    "guest_name": "Matej Semančík",
+    "date": "2025-05-19",
+    "duration_minutes": 82.2,
+    "topics": [
+      "Startupy",
+      "Kariéra",
+      "Data & Analytics",
+      "Česká IT scéna"
+    ],
+    "summary": "S blížícím se mDevCamp 2025 jsme si prostě museli sáhnout na jednoho ze speakerů a poptat se, co nového ve světe mobilního vývoje pro Android. Je pořád vývoj software pro mobilní zařízení bolestivý proces, nebo už se to za ty roky posunulo? A co s tím udělala rostoucí popularita jazyka Kotlin? Dejte si další díl vašeho oblíbeného IT podcastu.",
+    "transcript_file": "data/transcripts/018_s12e02_matej_semančík_kotlin_multiplatform_a_vývoj_na_androidu.txt"
+  },
+  {
+    "episode_id": 20,
+    "title": "S12E01 - Marcel Veselka - QA pomocí AI agentů ve Wopee.io",
+    "guest_name": "Marcel Veselka",
+    "date": "2025-05-05",
+    "duration_minutes": 83.8,
+    "topics": [
+      "AI & ML",
+      "Kariéra",
+      "Data & Analytics"
+    ],
+    "summary": "Série číslo 12 startuje a konečně se vracíme k tématu, které jsme vykopli v první (!!!) sérii - a to QA a testování obecně. Do studia dorazil milovník kvality a chytrých řešení Marcel Veselka, se kterým jsme probrali využití AI při automatizovaném testování. Pokud vás zajímají autonomní testy, pak je tohle díl přímo pro vás!",
+    "transcript_file": "data/transcripts/019_s12e01_marcel_veselka_qa_pomocí_ai_agentů_ve_wopeeio.txt"
+  },
+  {
+    "episode_id": 21,
+    "title": "S11E06 - Martin Šafránek - Data Vault",
+    "guest_name": "Martin Šafránek",
+    "date": "2025-04-07",
+    "duration_minutes": 92.4,
+    "topics": [
+      "AI & ML",
+      "Kariéra",
+      "Data & Analytics"
+    ],
+    "summary": "Datovým dílem to začalo a datovým dílem také tuto sérií zakončíme. Do studia dorazil nabušený Martin Šafránek, který nás uvedl do metodiky Data Vault, vysvětlil na co je to dobré a na co si dát pozor. Pokud je datové modelování vaší doménou, tak si tohle užijete ještě o chlup víc.",
+    "transcript_file": "data/transcripts/020_s11e06_martin_šafránek_data_vault.txt"
+  },
+  {
+    "episode_id": 22,
+    "title": "S11E05 - Radek Teichmann - BFSI v MoroSystems",
+    "guest_name": "Radek Teichmann",
+    "date": "2025-03-24",
+    "duration_minutes": 91.3,
+    "topics": [
+      "Cloud & DevOps",
+      "Architektura",
+      "Kariéra"
+    ],
+    "summary": "Dneska jsme si pozvali do studia CTO společnosti MoroSystems Radka Teichmanna, abychom probrali specifika BFSI domény a jak se k tomu postavili v MoroSystems. Samozřejmě nemohla chybět tradiční technická šťávička, microservices, cloudy a jiné dobrůtky. Dejte si další hoďku a půl nabušenou technickým pokecem se zajímavými lidmi #PodVocasem.",
+    "transcript_file": "data/transcripts/021_s11e05_radek_teichmann_bfsi_v_morosystems.txt"
+  },
+  {
+    "episode_id": 23,
+    "title": "S11E04 - Martin Hron - Od Battle AI v Mafii 2 k Security research v SentinelOne",
+    "guest_name": "Martin Hron",
+    "date": "2025-03-10",
+    "duration_minutes": 93.4,
+    "topics": [
+      "Kariéra",
+      "Bezpečnost",
+      "Česká IT scéna"
+    ],
+    "summary": "Po nějaké době jsme opět zabrousili do světa security a k tomu si pozvali hosta více než povolaného. Martin Hron je offensive security researcher v SentinelOne a to by to hrálo, abychom se nezeptali na druhy útoků, malware a spoustu dalšího. A protože je Martin renesanční člověk, pověděl nám i o své epizodě v 2K Czech, kde pracoval na legendární Mafii 2.",
+    "transcript_file": "data/transcripts/022_s11e04_martin_hron_od_battle_ai_v_mafii_2_k_security_research_v_sentinelone.txt"
+  },
+  {
+    "episode_id": 24,
+    "title": "S11E03 - Dan Falta - 3D design ve hrách",
+    "guest_name": "Dan Falta",
+    "date": "2025-02-24",
+    "duration_minutes": 92.9,
+    "topics": [
+      "AI & ML",
+      "Cloud & DevOps",
+      "Kariéra",
+      "Bezpečnost",
+      "Data & Analytics",
+      "Podnikání & Produkt",
+      "Open Source"
+    ],
+    "summary": "Další výlet do světa her a herního designu. Tentokrát jsme si pozvali Dana Faltu, který nám vysvětlil, jak vznikají 3D modely do her, jak funguje celá pipeline a proč je lepší Unreal engine než Unity. Pokud vám něco říkají hry jako Need for Speed, Brány Skeldalu, nebo třeba WRC, jste tu správně!",
+    "transcript_file": "data/transcripts/023_s11e03_dan_falta_3d_design_ve_hrách.txt"
+  },
+  {
+    "episode_id": 25,
+    "title": "S11E02 - Filip Kinský - SmartGuide",
+    "guest_name": "Filip Kinský",
+    "date": "2025-02-10",
+    "duration_minutes": 86.5,
+    "topics": [
+      "AI & ML",
+      "Startupy",
+      "Kariéra"
+    ],
+    "summary": "Šťávičková série pokračuje! Do studia přišel CTO služby SmartGuide Filip Kinský a kromě tradičního deepdive do střev služby jsme prosvištěli i téma udržitelného cestování, navigace v uzavřených prostorech a proč je lepší ve startupu použít React Native.",
+    "transcript_file": "data/transcripts/024_s11e02_filip_kinský_smartguide.txt"
+  },
+  {
+    "episode_id": 26,
+    "title": "S11E01 - Jirka Mareš - SQL a Oracle",
+    "guest_name": "Jirka Mareš",
+    "date": "2025-01-27",
+    "duration_minutes": 89.9,
+    "topics": [
+      "Kariéra",
+      "Data & Analytics"
+    ],
+    "summary": "Jedenáctá série vašeho nejoblíbenějšího českého IT podcastu startuje a jak je naším zvykem, startujeme z vostra! Do studia přišel SQL kouzelník a znalec všech zákoutí Oracle databází Jirka Mareš, se kterým jsme si dali deepdive do hlubin databázových dotazovacích jazyků. Pokud je JOIN váš denní chléb, bude vás to bavit dvojnásob!",
+    "transcript_file": "data/transcripts/025_s11e01_jirka_mareš_sql_a_oracle.txt"
+  },
+  {
+    "episode_id": 27,
+    "title": "S10E06 - Šárka Kousalová - Employer branding a talent acquisition v IT",
+    "guest_name": "Šárka Kousalová",
+    "date": "2024-11-25",
+    "duration_minutes": 78.6,
+    "topics": [
+      "Kariéra",
+      "Data & Analytics"
+    ],
+    "summary": "Desátou sérii uzavíráme pokecem o tom, jak nejlépe propojit budování firemního a osobního brandu s hiringem. K tomu jsme si pozvali skvělou Šárku Kousalovou, která kvůli nám přiletěla až z Japonska. Dejte si finale grande série!",
+    "transcript_file": "data/transcripts/026_s10e06_šárka_kousalová_employer_branding_a_talent_acquisition_v_it.txt"
+  },
+  {
+    "episode_id": 28,
+    "title": "S10E05 - Honza Jiroušek - Energostack",
+    "guest_name": "Honza Jiroušek",
+    "date": "2024-11-11",
+    "duration_minutes": 88.0,
+    "topics": [
+      "Kariéra"
+    ],
+    "summary": "V předposledním díle desáté série k nám přišel na pokec skvělý Honza Jiroušek a vzal nás na do světa IoT a energa. Jak moderně měřit spotřebu energií, jak vypadá sensor pro měření kvality ovzduší a jak osázet senzory vysokoškolské koleje v zahraničí? Dozvíte se v hodině a půl zajímavého povídání.",
+    "transcript_file": "data/transcripts/027_s10e05_honza_jiroušek_energostack.txt"
+  },
+  {
+    "episode_id": 29,
+    "title": "S10E04 - Filip Pýrek - Serverless na AWS",
+    "guest_name": "Filip Pýrek",
+    "date": "2024-10-28",
+    "duration_minutes": 69.0,
+    "topics": [
+      "Startupy",
+      "Cloud & DevOps"
+    ],
+    "summary": "Svou návštěvou nás poctila jedna z hvězd českého AWS nebe a oficiální serverless hero Filip Pýrek. Řeč byla samozřejmě o cloudu, serverless, funkcích a vývoji obecně, ale zabrousili jsme i k jeho startupu. Šťávička included!",
+    "transcript_file": ""
+  },
+  {
+    "episode_id": 30,
+    "title": "S10E03 - Riki Fridrich - Vývoj JavaScriptu za posledních 20 let",
+    "guest_name": "Riki Fridrich",
+    "date": "2024-10-14",
+    "duration_minutes": 85.3,
+    "topics": [
+      "Kariéra",
+      "Data & Analytics",
+      "Podnikání & Produkt"
+    ],
+    "summary": "Chtěli jste ho - máte ho! Do studia dorazila legenda československého webového vývoje Riki Fridrich a společně jsme projeli vývoj JavaScriptu od batolete až po krizi středního věku, dotkli jsme se HTML a CSS a samozřejmě jsme nevynechali legendarní jQuery. Co dříve nebo později zabije React a proč by měli nováčci umět HTML bez knihoven? To vám v hodince a půl příjemného povídání řekne Riki!",
+    "transcript_file": "data/transcripts/029_s10e03_riki_fridrich_vývoj_javascriptu_za_posledních_20_let.txt"
+  },
+  {
+    "episode_id": 31,
+    "title": "S10E02 - Tomáš Belák - Pohled do útrob Integray",
+    "guest_name": "Tomáš Belák",
+    "date": "2024-09-30",
+    "duration_minutes": 72.2,
+    "topics": [
+      "Startupy",
+      "Cloud & DevOps",
+      "Kariéra",
+      "Podnikání & Produkt"
+    ],
+    "summary": "Pokračujeme ve \"startupovém šťávičkování\" a tentokrát jsme se s Tomášem Belákem podívali do útrob integrační služby Integray.com, která nabízí hodně zajímavých technologických výzev. Vychutnejte si ponor do integrací, Dockerů a tvorby custom SDKček v Pythonu a Node.js",
+    "transcript_file": "data/transcripts/030_s10e02_tomáš_belák_pohled_do_útrob_integray.txt"
+  },
+  {
+    "episode_id": 32,
+    "title": "S10E01 - Honza Kuchař - Jak SW pomáhá při asistované reprodukci",
+    "guest_name": "Honza Kuchař",
+    "date": "2024-09-16",
+    "duration_minutes": 80.9,
+    "topics": [
+      "Startupy",
+      "Architektura",
+      "Kariéra",
+      "Data & Analytics",
+      "Podnikání & Produkt"
+    ],
+    "summary": "Čekali jste dlouho, ale nakonec jste se dočkali. Je tu první díl už desáté série a my opět vykopáváme ve velkým! Do studia dorazil Honza Kuchař, aby nám pověděl něco o specifikách asistované reprodukce a jak tomu z technického pohledu pomoct. Nechyběla ani oblíbená šťávička, takže jsme probrali PHP, Event Sourcing, PostreSQL i Domain Driven Design.",
+    "transcript_file": "data/transcripts/031_s10e01_honza_kuchař_jak_sw_pomáhá_při_asistované_reprodukci.txt"
+  },
+  {
+    "episode_id": 33,
+    "title": "S09E06 - Tomáš Krátký - Data Lineage v Manta a exit do IBM",
+    "guest_name": "Tomáš Krátký",
+    "date": "2024-07-01",
+    "duration_minutes": 89.1,
+    "topics": [
+      "Startupy",
+      "Architektura",
+      "Kariéra",
+      "Data & Analytics"
+    ],
+    "summary": "Devátou sérii zakončujeme příběhem o tom, jak Tomáš Krátký a jeho tým založili startup Manta, který po letech růstu nakonec vzalo pod svá křídla IBM a posunula data lineage na novou úroveň. Máte-li v oblibě grafové databáze a dobré startupové konce, díl číslo 54 je ten pravý pro vás.",
+    "transcript_file": "data/transcripts/032_s09e06_tomáš_krátký_data_lineage_v_manta_a_exit_do_ibm.txt"
+  },
+  {
+    "episode_id": 34,
+    "title": "S09E05 - Tomáš Sedláček - Dataddo",
+    "guest_name": "Tomáš Sedláček",
+    "date": "2024-06-17",
+    "duration_minutes": 75.5,
+    "topics": [
+      "Kariéra",
+      "Data & Analytics"
+    ],
+    "summary": "V předposledním díle deváté série jsme s otevřenou náručí přivítali CTO společnosti Dataddo Tomáše Sedláčka, který s námi koukl na střívka této datové služby ze všech možných úhlů. Pokud vás zajímá vše kolem jazyka Go, tak tohle bude díl přímo pro vás!",
+    "transcript_file": ""
+  },
+  {
+    "episode_id": 35,
+    "title": "S09E04 - Milan Piskla - Vývoj ve světě IoT a Embedded",
+    "guest_name": "Milan Piskla",
+    "date": "2024-06-03",
+    "duration_minutes": 75.6,
+    "topics": [
+      "AI & ML",
+      "Kariéra",
+      "Data & Analytics"
+    ],
+    "summary": "Za půlkou deváté série jsme to opět stočili k ryze hardcore IT tématu a to IoT a Embedded. Měli jsme tu čest přivítat našeho skvělého kolegu, hlavní mozek i srdce Embedded and IoT v Ciklum Western Europe a náš velký vzor Milana Pisklu, který nás tímto světem provedl a zahrnul nás, se skromností jemu vlastní, tunou zajímavých informací. Milan je super, dejte si!",
+    "transcript_file": "data/transcripts/034_s09e04_milan_piskla_vývoj_ve_světě_iot_a_embedded.txt"
+  },
+  {
+    "episode_id": 36,
+    "title": "S09E03 - Libor Sionko - Z fotbalové reprezentace k Pythonu a Snowflake",
+    "guest_name": "Libor Sionko",
+    "date": "2024-05-20",
+    "duration_minutes": 80.0,
+    "topics": [
+      "AI & ML",
+      "Architektura",
+      "Kariéra",
+      "Data & Analytics"
+    ],
+    "summary": "Ve třetím díle deváté série vám přinášíme další unikátní příběh kariérního přestupu do IT a jméno dnešního hosta bude fanouškům fotbalu určitě povědomé. Libor Sionko - fotbalový reprezentant, několikanásobný vítěz ligy i poháru, vítěz rakouské i dánské ligy... a nově též ajťák. Jaké byly jeho začátky, jak se prolíná svět techniky a fotbalu, proč odešel z manažerského postu fotbalové reprezentace a co ho v IT nejvíce láká, to se dozvíte v dalším nadupaném díle #PodVocasem.",
+    "transcript_file": "data/transcripts/035_s09e03_libor_sionko_z_fotbalové_reprezentace_k_pythonu_a_snowflake.txt"
+  },
+  {
+    "episode_id": 37,
+    "title": "S09E02 - Jakub Najberk - Implementace SAP v Automotive",
+    "guest_name": "Jakub Najberk",
+    "date": "2024-05-06",
+    "duration_minutes": 75.0,
+    "topics": [
+      "Kariéra",
+      "Data & Analytics"
+    ],
+    "summary": "Ani v deváté sérii nepolevujeme v prozkoumávání všech koutů IT a tentokrát jsme se mrkli na zoubek SAPu a především jeho implementaci v Automotive industry. K tomu jsme si pozvali Románkova starého známého z Mladé Boleslavi Jakuba Najberka alias Najbika, který nám vysvětlil nejen samotnou historii SAPu, ale především to, jak taková implementace probíhá a kde se vlastně berou všichni ti SAP konzultanti.",
+    "transcript_file": "data/transcripts/036_s09e02_jakub_najberk_implementace_sap_v_automotive.txt"
+  },
+  {
+    "episode_id": 38,
+    "title": "S09E01 - Vojta Tůma - Keboola",
+    "guest_name": "Vojta Tůma",
+    "date": "2024-04-22",
+    "duration_minutes": 104.5,
+    "topics": [
+      "Startupy",
+      "Kariéra",
+      "Data & Analytics"
+    ],
+    "summary": "Keboola je už v českém startupovém prostředí pojem, ale je to stále ještě startup? A jak se změnila firemní kultura po prvním kole investic? A na čem vlastně celá Keboola běží? A proč jel Vojta na konec světa na motorce?! Samé otázky! Těch otázek bylo ještě víc a všechny nám je Vojta Tůma, toho času Field CTO Kebooly, zodpověděl. Dejte si parádní výkop deváté série.",
+    "transcript_file": "data/transcripts/037_s09e01_vojta_tůma_keboola.txt"
+  },
+  {
+    "episode_id": 39,
+    "title": "S08E06 - Dušan Vystrčil - LLMs a GenAI v DataSentics",
+    "guest_name": "Dušan Vystrčil",
+    "date": "2024-03-11",
+    "duration_minutes": 73.8,
+    "topics": [
+      "AI & ML",
+      "Kariéra",
+      "Data & Analytics"
+    ],
+    "summary": "Na závěr jsme si pozvali Dušana Vystrčila z DataSentics, který nám pověděl o své cestě z marketingu až k implementaci GenAI. Jak se taková implementace testuje, kolik toho chatbot udrží v kontextu a jak bude vypadat programátorská práce za 5 let? Dozvíte se na konci 8. série #PodVocasem!",
+    "transcript_file": "data/transcripts/038_s08e06_dušan_vystrčil_llms_a_genai_v_datasentics.txt"
+  },
+  {
+    "episode_id": 40,
+    "title": "S08E05 - Karel Matějka - Herní vývoj v Unity, pixelart a Bzzzt",
+    "guest_name": "Karel Matějka",
+    "date": "2024-02-26",
+    "duration_minutes": 98.1,
+    "topics": [
+      "Data & Analytics"
+    ],
+    "summary": "Ani v osmé sérii nemůže chybět herní vývojářské okénko a ani tentorkát nemíříme nízko. Do studia dorazila legenda českého herního vývoje Karel Matějka, jehož pixelartová plošinovka Bzzzt dobyla herní svět a my jsme se tomu samozřejmě podívali na zoubek.",
+    "transcript_file": "data/transcripts/039_s08e05_karel_matějka_herní_vývoj_v_unity_pixelart_a_bzzzt.txt"
+  },
+  {
+    "episode_id": 41,
+    "title": "S08E04 - Honza Difko - Datový deepdive do České Spořitelny",
+    "guest_name": "Honza Difko",
+    "date": "2024-02-12",
+    "duration_minutes": 93.7,
+    "topics": [
+      "Cloud & DevOps",
+      "Data & Analytics"
+    ],
+    "summary": "Po delší době jsme opět zabrousili do datového světa a bylo nám velkou ctí přivítat obrovského sympaťáka a neskutečně nabušený \"datový mozek\" Honzu Difka, který nám vysvětlil, jak Česká Spořitelna pracuje s daty, co plánují a jaké tooly jsou teď v kurzu. A neopomenul ani svoji životní vášeň pro cestování.",
+    "transcript_file": "data/transcripts/040_s08e04_honza_difko_datový_deepdive_do_české_spořitelny.txt"
+  },
+  {
+    "episode_id": 42,
+    "title": "S08E03 - Ivo Musil - IT Security v roce 2024",
+    "guest_name": "Ivo Musil",
+    "date": "2024-01-29",
+    "duration_minutes": 93.5,
+    "topics": [
+      "AI & ML",
+      "Kariéra",
+      "Bezpečnost",
+      "Data & Analytics"
+    ],
+    "summary": "V třetím díle osmé série jsme si vzali konečně na paškál dlouho opomíjené téma bezpečnosti v IT. Do studia přijel CTO společnosti Corpus Solutions Ivo Musil, který nás do problematiky uvedl a nakonec jsme se dostali až k tomu, co by si IT mohlo vzít ze světa rugby. Další nabušená devadesátiminutovka je tu!",
+    "transcript_file": "data/transcripts/041_s08e03_ivo_musil_it_security_v_roce_2024.txt"
+  },
+  {
+    "episode_id": 43,
+    "title": "S08E02 - Martin Děcký - Microkernel OS",
+    "guest_name": "Martin Děcký",
+    "date": "2024-01-15",
+    "duration_minutes": 96.5,
+    "topics": [
+      "Data & Analytics",
+      "Open Source"
+    ],
+    "summary": "Opět je tu deepdive, jak ho máte rádi a dneska to budou pro změnu mikrojádrové operační systémy. Do studia jsme nalákali Martina Děckého z firmy Kernkonzept, aby nám vysvětlil nejen úplné základy microkernel OS, ale taky řekl něco o svém letitém působení na Matfyzu, v Huawei a nebo třeba o tom, proč už 20 let spravuje open source operační systém HelenOS.",
+    "transcript_file": "data/transcripts/042_s08e02_martin_děcký_microkernel_os.txt"
+  },
+  {
+    "episode_id": 44,
+    "title": "S08E01 - Ondřej Šika - DevOps",
+    "guest_name": "Ondřej Šika",
+    "date": "2024-01-01",
+    "duration_minutes": 92.4,
+    "topics": [
+      "Cloud & DevOps",
+      "Architektura",
+      "Kariéra"
+    ],
+    "summary": "Ani v roce 2024 nebudete bez vašeho oblíbeného podcastu #PodVocasem, protože za námi do studia dorazil znalec DevOps, Kubernetes a jiných divočin Ondra Šika a jak je dobrý zvykem našeho podcastu, vzali jsme to komplet od podlahy. Je libo Kubernetes, Helm charts, IaaC, DevSecOps, nebo jakýkoliv jiný Ops? No tak si dejte první díl nové série!",
+    "transcript_file": "data/transcripts/043_s08e01_ondřej_šika_devops.txt"
+  },
+  {
+    "episode_id": 45,
+    "title": "S07 - Bloopers aneb co se nepovedlo",
+    "guest_name": "S07",
+    "date": "2023-12-21",
+    "duration_minutes": 7.2,
+    "topics": [
+      "Cloud & DevOps",
+      "Data & Analytics"
+    ],
+    "summary": "Bonusová vánoční epizoda je tady! Během těch 42 dílů se nám toho spoustu nepovedlo a náš kamarád (a autor skvělého zvukového obalu) Lukáš Jan Marek nelenil a udělal sestřih toho naprosto nejhoršího. Pozor! Pokud si to hodláte pustit k vykrajování perníčků, tak radši zažeňte děti pryč, protože je to velmi explicitní.\n\nJo a mrkněte na Lukášův Soundcloud, je tam kopa super muziky! \nhttps://soundcloud.com/lukisjama\n\nTak šťastné a veselé a v roce 2024 u dalších sérií naslyšenou!",
+    "transcript_file": "data/transcripts/044_s07_bloopers_aneb_co_se_nepovedlo.txt"
+  },
+  {
+    "episode_id": 46,
+    "title": "S07E06 - Tomáš Grošup - Cesta z fintechu do compiler týmu v Microsoftu",
+    "guest_name": "Tomáš Grošup",
+    "date": "2023-11-13",
+    "duration_minutes": 81.6,
+    "topics": [
+      "AI & ML",
+      "Architektura",
+      "Kariéra",
+      "Data & Analytics"
+    ],
+    "summary": "Sedmou sérii a celkem 42. díl s námi #PodVocasem uzavřel člen F# compiler týmu z Microsoftu Tomáš Grošup, který nás provedl jeho zajímavou životní cestou. Co ho nebavilo ve fintechu, jak moc je Excel funkcionální a kolik unit testů mají v Microsoftu pro F# compiler? Dozvíte se během nabušených 80 minut!",
+    "transcript_file": "data/transcripts/045_s07e06_tomáš_grošup_cesta_z_fintechu_do_compiler_týmu_v_microsoftu.txt"
+  },
+  {
+    "episode_id": 47,
+    "title": "S07E05 - Michal Sänger - BTC, Typescript a GraphQL v Trezor.io",
+    "guest_name": "Michal Sänger",
+    "date": "2023-10-30",
+    "duration_minutes": 77.5,
+    "topics": [
+      "Cloud & DevOps",
+      "Architektura",
+      "Kariéra",
+      "Data & Analytics"
+    ],
+    "summary": "Trvalo nám pouhopouhých 40 dílů, než jsme do agendy zařadili pokec o Bitcoinu a kryptoměnách obecně. A když už k nám Michal Sänger přišel, tak jsme kromě Trezor.io probrali i Typescript, GraphQL a jiné frontendové dobroty. Dejte si předposlední díl série!",
+    "transcript_file": "data/transcripts/046_s07e05_michal_sänger_btc_typescript_a_graphql_v_trezorio.txt"
+  },
+  {
+    "episode_id": 48,
+    "title": "S07E04 - Michal Těhník - 8 let v Productboardu",
+    "guest_name": "Michal Těhník",
+    "date": "2023-10-16",
+    "duration_minutes": 87.2,
+    "topics": [
+      "Cloud & DevOps",
+      "Architektura",
+      "Data & Analytics",
+      "Podnikání & Produkt",
+      "Česká IT scéna"
+    ],
+    "summary": "Ve studiu #PodVocasem jsme měli tu čest přivítat 6. zaměstnance Productboardu a nadšence do Staff Engineeringu Michala \"MicTecha\" Těhníka, se kterým jsme probrali jeho posledních 8 let v Productboardu. A nepokecali jsme jenom o tradičních tématech jako monolith vs microservices, architektura a změny ve firemních strukturách, ale dotkli jsme se i bolestivého tématu layoffs a jak je udělat správně.",
+    "transcript_file": "data/transcripts/047_s07e04_michal_těhník_8_let_v_productboardu.txt"
+  },
+  {
+    "episode_id": 49,
+    "title": "S07E03 - Tomáš Blaho - O Mafii, Warhorse Studios, programování grafiky v AAA titulech a pekle herních enginů",
+    "guest_name": "Tomáš Blaho",
+    "date": "2023-10-02",
+    "duration_minutes": 116.5,
+    "topics": [
+      "Architektura",
+      "Data & Analytics"
+    ],
+    "summary": "Znáte Mafii 1 a 2? A Forzu Horizon? A Kingdom Come? A Ori and the Blind Forest? Co kdybychom vám řekli, že k nám do studia dorazil někdo, kdo má prsty v programování herní grafiky pro tyhle AAA tituly? A kromě vzpomínání na dřevní doby vývoje vlastního LS3D enginu pro Mafii jsme se mrkli do střev nejznámějších herních titulů současnosti, včetně legendárního CRYENGINE.",
+    "transcript_file": "data/transcripts/048_s07e03_tomáš_blaho_o_mafii_warhorse_studios_programování_grafiky_v_aaa_titulech_a_pekle_herních_enginů.txt"
+  },
+  {
+    "episode_id": 50,
+    "title": "S07E02 - Marcel Šerý - Cesta low-code startupu Jetveo",
+    "guest_name": "Marcel Šerý",
+    "date": "2023-09-18",
+    "duration_minutes": 69.8,
+    "topics": [
+      "Startupy",
+      "Cloud & DevOps",
+      "Kariéra"
+    ],
+    "summary": "Až z dalekého Brna k nám dorazil CTO společnosti Jetveo Marcel Šerý a společně jsme probrali cestu jeho low-code startupu. Jaké chyby v týmu udělali, proč není dobrý nápad vytvářet abstrakci nad ASP.NET serverem a kterého programátorského hříchu lituje nejvíc? Dozvíte se v druhém díle sedmé série vašeho oblíbeného IT podcastu #PodVocasem.",
+    "transcript_file": "data/transcripts/049_s07e02_marcel_šerý_cesta_low_code_startupu_jetveo.txt"
+  },
+  {
+    "episode_id": 51,
+    "title": "S07E01 - Antonín Kučera - Data v Livesport",
+    "guest_name": "Antonín Kučera",
+    "date": "2023-09-04",
+    "duration_minutes": 101.8,
+    "topics": [
+      "Cloud & DevOps",
+      "Kariéra",
+      "Data & Analytics"
+    ],
+    "summary": "Což takhle dát si sedmou sérii? Nu což, staniž se! A rozjedeme to hned ve velkým! Do studia totiž dorazil Head of BI ze společnosti Livesport Tonda Kučera a prozradil nám, s kolika daty pracují, jak ovlivňují výsledky utkání chování uživatelů a jak do toho celého zapadá mánie kolem generative AI.",
+    "transcript_file": "data/transcripts/050_s07e01_antonín_kučera_data_v_livesport.txt"
+  },
+  {
+    "episode_id": 52,
+    "title": "S06E06 - Jan Novotný - Java, jOpenSpace a EvitaDB",
+    "guest_name": "Jan Novotný",
+    "date": "2023-06-26",
+    "duration_minutes": 90.4,
+    "topics": [
+      "Architektura"
+    ],
+    "summary": "V závěrečném dílu šesté série nás #PodVocasem navštívil Honza Novotný z FG Forrest a vzali jsme to tradičně zleva zprava. Kromě očekávaných témat jako Javička jsme narazili i na Honzovu ne-konferenci jOpenSpace, Kafemlejnek.TV a nebo jeho poslední počin s magickým jménem EvitaDB. Pokud se zabýváte e-commerce, bude vás tenhle díl bavit dvojnásob!",
+    "transcript_file": "data/transcripts/051_s06e06_jan_novotný_java_jopenspace_a_evitadb.txt"
+  },
+  {
+    "episode_id": 53,
+    "title": "S06E05 - Michal Hošna - Livestreaming v CDN77",
+    "guest_name": "Michal Hošna",
+    "date": "2023-06-12",
+    "duration_minutes": 74.1,
+    "topics": [
+      "Kariéra"
+    ],
+    "summary": "O tom, co vlastně znamená přenést videobsah z jednoho koutu světa na druhý, kdy je latence opravdu problém a jak vyšplhat ze supportu do core týmu nám přišel povyprávět Head of Livestream Engineering ze společnosti CDN77 Michal Hošna. Máte-li rádi streaming, Rust, Cčko a punkový firmy, dnešní díl vám bude chutnat.",
+    "transcript_file": ""
+  },
+  {
+    "episode_id": 54,
+    "title": "S06E04 - Tomáš Metz - Engineering v České Spořitelně",
+    "guest_name": "Tomáš Metz",
+    "date": "2023-05-29",
+    "duration_minutes": 82.1,
+    "topics": [
+      "Data & Analytics"
+    ],
+    "summary": "Pro někoho jsou banky symbolem zastaralosti a zkostňatění. To ovšem zdaleka neplatí pro Českou Spořitelnu, jejíž Head of Engineering Tomáš Metz nám popsal, jak se tvoří banka budoucnosti. Chcete-li vědět, jestli ve \"Spořce\" vede React nebo Angular, zda-li zůstávají u Javy a jak Tomovi pomohly zkoušenosti z McKinsey & Company, už teď bušte do tlačítka play!",
+    "transcript_file": "data/transcripts/053_s06e04_tomáš_metz_engineering_v_české_spořitelně.txt"
+  },
+  {
+    "episode_id": 55,
+    "title": "S06E03 - Tomáš Muchka - Developer Experience v GoodData",
+    "guest_name": "Tomáš Muchka",
+    "date": "2023-05-15",
+    "duration_minutes": 77.0,
+    "topics": [
+      "Kariéra",
+      "Data & Analytics",
+      "Podnikání & Produkt"
+    ],
+    "summary": "Roman opět sáhl do svého bezedného měšce zajímavých ex-kolegů a vytáhl Principal UX Designera ve společnosti GoodData Tomáše Muchku, který nám povyprávěl o UX, DX, product discovery a jak to celé pasuje do sebe.",
+    "transcript_file": "data/transcripts/054_s06e03_tomáš_muchka_developer_experience_v_gooddata.txt"
+  },
+  {
+    "episode_id": 56,
+    "title": "S06E02 - Filip Dvořák - Inteligentní automatizace s Filuta.ai",
+    "guest_name": "Filip Dvořák",
+    "date": "2023-05-01",
+    "duration_minutes": 71.4,
+    "topics": [
+      "AI & ML",
+      "Startupy",
+      "Kariéra",
+      "Data & Analytics"
+    ],
+    "summary": "\"Softwarové inženýrství je hravá forma jak vyjádřit komplexní myšlenky.\" Nejen toto prohlásil náš dnešní host Filip Dvořák ze společnosti Filuta.ai. Máte-li chuť na hoďku a čtvrt nabitou AI, symbolickými a jazykovými modely, automatizací a kdovíčím ještě, dejte si další díl podcastu #PodVocasem.",
+    "transcript_file": "data/transcripts/055_s06e02_filip_dvořák_inteligentní_automatizace_s_filutaai.txt"
+  },
+  {
+    "episode_id": 57,
+    "title": "S06E01 - Michal Augustýn - Programátorský pokec o Avastu (a špetka hejtu na Scalu)",
+    "guest_name": "Michal Augustýn",
+    "date": "2023-04-17",
+    "duration_minutes": 75.7,
+    "topics": [
+      "Cloud & DevOps",
+      "Architektura",
+      "Data & Analytics",
+      "Česká IT scéna"
+    ],
+    "summary": "Šestou sérii vykopáváme ryze programátorským pokecem s Michalem \"Augi\" Augustýnem, se kterým jsme probrali jeho dlouhou cestu Avastem, kariérní postup, microservices, conventional commits, monorepo... no prostě ten náš oblíbený mišmaš.",
+    "transcript_file": "data/transcripts/056_s06e01_michal_augustýn_programátorský_pokec_o_avastu_a_špetka_hejtu_na_scalu.txt"
+  },
+  {
+    "episode_id": 58,
+    "title": "S05E06 - Michal Halenka - Vaříme datový bujón v DataSentics",
+    "guest_name": "Michal Halenka",
+    "date": "2023-03-27",
+    "duration_minutes": 82.7,
+    "topics": [
+      "Kariéra",
+      "Data & Analytics",
+      "Podnikání & Produkt"
+    ],
+    "summary": "I v posledním díle páté série jsme si dali něco z Poliho ranku a pozvali si Michala Halenku - datového architekta firmy DataSentics. Michal se s námi podělil nejen o zkušenosti ze správy linuxových serverů na kolejích, ale vysvětlil i rozdíly mezi tím, jak vyvíjejí řešení tradiční programátoři a datoví vědci.",
+    "transcript_file": "data/transcripts/057_s05e06_michal_halenka_vaříme_datový_bujón_v_datasentics.txt"
+  },
+  {
+    "episode_id": 59,
+    "title": "S05E05 - Petr Polák - Z výpočetního střediska Chemopetrolu do top managementu CGI",
+    "guest_name": "Petr Polák",
+    "date": "2023-03-13",
+    "duration_minutes": 82.8,
+    "topics": [
+      "Kariéra",
+      "Data & Analytics",
+      "Podnikání & Produkt"
+    ],
+    "summary": "Tentokrát jsme si dovolili jednu velmi osobní finesku a pozvali si do studia dnes již bývalého viceprezidenta kanadské IT společnosti CGI Petra Poláka, který nám pověděl o své životní cestě a co si z ní odnesl. Pokud vám to jméno přijde povědomé, pak máte pravdu - je to skutečně Poliho otec. A že jablko nepadlo daleko od stromu, se můžete přesvědčit už teď.",
+    "transcript_file": "data/transcripts/058_s05e05_petr_polák_z_výpočetního_střediska_chemopetrolu_do_top_managementu_cgi.txt"
+  },
+  {
+    "episode_id": 60,
+    "title": "S05E04 - Tomáš Mikolov - Word2Vec, neuronové sítě a pravda o práci v Silicon Valley",
+    "guest_name": "Tomáš Mikolov",
+    "date": "2023-02-27",
+    "duration_minutes": 115.0,
+    "topics": [
+      "Data & Analytics"
+    ],
+    "summary": "Dnes nás navštívil jeden z nejcitovanějších vědců v oboru umělé inteligence, držitel ceny Neuron za excelenci ve vědě a autor přelomového algoritmu Word2Vec Tomáš Mikolov. Probrali jsme nejen jeho začátky s programováním vlastní verze Warcraftu, ale hlavně jeho neuvěřitelnou kariéru v Microsoft Research, Google a Facebooku.",
+    "transcript_file": "data/transcripts/059_s05e04_tomáš_mikolov_word2vec_neuronové_sítě_a_pravda_o_práci_v_silicon_valley.txt"
+  },
+  {
+    "episode_id": 61,
+    "title": "S05E03 - Radim Čebiš - Engineering ve Vendavu",
+    "guest_name": "Radim Čebiš",
+    "date": "2023-02-13",
+    "duration_minutes": 76.0,
+    "topics": [
+      "Startupy",
+      "Kariéra",
+      "Data & Analytics"
+    ],
+    "summary": "Po delší době se opět vracíme do temných vod pricing softwaru a nevzali jsme si na pokec nikoho menšího než Engineering Directora firmy Vendavo Radima Čebiše, se kterým jsme to probrali tradičně zleva zprava. Jak se časem vyvíjí tech stack původně Java-based firmy a jak do toho zapadají akvizice ostatních firem? Vše se dozvíte v příjemné \"hoďce a čtvrt\" strávené #PodVocasem.",
+    "transcript_file": "data/transcripts/060_s05e03_radim_čebiš_engineering_ve_vendavu.txt"
+  },
+  {
+    "episode_id": 62,
+    "title": "S05E02 - Tomáš Petříček - Microsoft Research, Alan Turing Institute, design programovacích jazyků a F#",
+    "guest_name": "Tomáš Petříček",
+    "date": "2023-01-30",
+    "duration_minutes": 84.5,
+    "topics": [
+      "Data & Analytics",
+      "Podnikání & Produkt",
+      "Open Source"
+    ],
+    "summary": "V druhém díle 5. série nás navštívila legenda funkcionálního .NETu Tomáš Petříček a kromě tradičních témat, jako je F#, jsme probrali i jeho cestu do Cambridge, Microsoft Research, Alan Turing Institute a nebo třeba to, zda-li by mimozemšťani pochopili Lambda Calculus.",
+    "transcript_file": "data/transcripts/061_s05e02_tomáš_petříček_microsoft_research_alan_turing_institute_design_programovacích_jazyků_a_f.txt"
+  },
+  {
+    "episode_id": 63,
+    "title": "S05E01 - Martin Procházka - Performance .NET aplikací",
+    "guest_name": "Martin Procházka",
+    "date": "2023-01-16",
+    "duration_minutes": 75.3,
+    "topics": [
+      "Kariéra"
+    ],
+    "summary": "Vykopáváme už 5. řadu podcastu #PodVocasem a tentokrát jsme si vzali na paškál platformu .NET a její výkon. Jakých chyb se vyvarovat, jak rychlost kódu měřit a může za všechno Entity Framework? Více se dozvíte pod tlačítkem \"Play\"",
+    "transcript_file": "data/transcripts/062_s05e01_martin_procházka_performance_net_aplikací.txt"
+  },
+  {
+    "episode_id": 64,
+    "title": "S04E06 - Aleš Lednej - Black Bison Tech a Salesforce",
+    "guest_name": "Aleš Lednej",
+    "date": "2022-12-05",
+    "duration_minutes": 77.8,
+    "topics": [
+      "Startupy",
+      "Architektura",
+      "Kariéra",
+      "Data & Analytics"
+    ],
+    "summary": "Čtvrtou sérii nám pomohl uzavřít CTO startupu Black Bison Tech Aleš Lednej, který s námi projel nejen datové dobroty, ale i specifika vývoje software na platformě Salesforce.",
+    "transcript_file": "data/transcripts/063_s04e06_aleš_lednej_black_bison_tech_a_salesforce.txt"
+  },
+  {
+    "episode_id": 65,
+    "title": "S04E05 - Jirka Pénzeš - Startup Studio",
+    "guest_name": "Jirka Pénzeš",
+    "date": "2022-11-21",
+    "duration_minutes": 89.1,
+    "topics": [
+      "Startupy",
+      "Architektura",
+      "Data & Analytics"
+    ],
+    "summary": "Přišel, viděl, pokecal a navíc stanovil nový rekord v délce jednoho dílu podcastu na téměř devadesáti minutách. Jirka Pénzeš - technická hlava stojící za Startup Studiem s neskutečným přehledem. O čem je Startup Studio, co jsou PWAčka a jestli se vyplatí investovat do Flutteru?",
+    "transcript_file": "data/transcripts/064_s04e05_jirka_pénzeš_startup_studio.txt"
+  },
+  {
+    "episode_id": 66,
+    "title": "S04E04 - Ondřej Pelech - Scala",
+    "guest_name": "Ondřej Pelech",
+    "date": "2022-11-07",
+    "duration_minutes": 83.9,
+    "topics": [
+      "Architektura"
+    ],
+    "summary": "Scalu jsme měli v hledáčku už dlouho, ale až Ondra Pelech se nad námi slitoval a přišel nám tento prostor zaplnit zajímavým povídáním. Téměř hodina a půl deep dive do útrob Scaly je tu pro vás!",
+    "transcript_file": "data/transcripts/065_s04e04_ondřej_pelech_scala.txt"
+  },
+  {
+    "episode_id": 67,
+    "title": "S04E03 - Lukáš Rychtecký - Koncept svobodné firmy v Applifting",
+    "guest_name": "Lukáš Rychtecký",
+    "date": "2022-10-24",
+    "duration_minutes": 78.0,
+    "topics": [
+      "Startupy",
+      "Kariéra",
+      "Data & Analytics"
+    ],
+    "summary": "Svobodná firma - každý o tom mluví, ale málokdo to ve skutečnosti dělá. Jak to v takové svobodné firmě vypadá a je to jenom o otevřených platech, nebo je za tím ve skutečnosti víc? Nejen o tom jsme si povídali s Lukášem Rychteckým ze společnosti Applifting.",
+    "transcript_file": "data/transcripts/066_s04e03_lukáš_rychtecký_koncept_svobodné_firmy_v_applifting.txt"
+  },
+  {
+    "episode_id": 68,
+    "title": "S04E02 - David Pícha - Od boje s organizovaným zločinem k programování",
+    "guest_name": "David Pícha",
+    "date": "2022-10-10",
+    "duration_minutes": 71.6,
+    "topics": [
+      "AI & ML",
+      "Kariéra",
+      "Data & Analytics",
+      "Open Source"
+    ],
+    "summary": "Dneska jsme ve studiu #PodVocasem přivítali bývalého detektiva Národní centrály proti organizovanému zločinu (NCOZ), který se po 20 letech boje se zločinem rozhodl změnit kariéru a dal se na programování. Jak ho napadlo změnit obor a jaké jsou první krůčky? Dozvíte se v dalším dílu vaše oblíbeného podcastu.",
+    "transcript_file": "data/transcripts/067_s04e02_david_pícha_od_boje_s_organizovaným_zločinem_k_programování.txt"
+  },
+  {
+    "episode_id": 69,
+    "title": "S04E01 - Dominik Moštěk - Funkcionální programování v Javě a role \"hostujícího profesora\" v Ataccama",
+    "guest_name": "Dominik Moštěk",
+    "date": "2022-09-26",
+    "duration_minutes": 67.1,
+    "topics": [
+      "Data & Analytics",
+      "Podnikání & Produkt"
+    ],
+    "summary": "Už jsme chtěli odejít do zaslouženého podcastího důchodu, ale nakonec jsme se nechali překecat na ještě jednu sérii. A když teda novej díl, tak pořádně! Do studia jsme zlákali \"hostujícího profesora\" Dominika Moštěka ze společnosti Ataccama, se kterým jsme hodili řeč o funkcionálním a objektovém programování, jak ho aplikovat v Javě, jak poznat code smell a o spoustě dalších zajímavých věcí. Dejte si!",
+    "transcript_file": "data/transcripts/068_s04e01_dominik_moštěk_funkcionální_programování_v_javě_a_role_hostujícího_profesora_v_ataccama.txt"
+  },
+  {
+    "episode_id": 70,
+    "title": "S03E06 - Cyril Sahula - Artificial Intelligence v recruitmentu, Azure Cloud a Kotlin v Jobno.one",
+    "guest_name": "Cyril Sahula",
+    "date": "2022-06-20",
+    "duration_minutes": 83.9,
+    "topics": [
+      "Startupy",
+      "Cloud & DevOps",
+      "Kariéra"
+    ],
+    "summary": "Poslední díl třetí série uzavírá náš bývalý kolega a toho času CTO startupu Jobno.one Cyril Sahula, který k nám přijel popovídat o Azure Cloudu, aplikaci Artificial Intelligence v recrutimentu a nemohlo chybět ani malé shrnutí technologií a jazyků na JVM. Tento díl je tak dlouhý, že si ho můžete pouštět přes léto po částech, aby se vám nestýskalo.",
+    "transcript_file": "data/transcripts/069_s03e06_cyril_sahula_artificial_intelligence_v_recruitmentu_azure_cloud_a_kotlin_v_jobnoone.txt"
+  },
+  {
+    "episode_id": 71,
+    "title": "S03E05 - Jakub Kašpar - UX, Dark Patterns a Design Sprint",
+    "guest_name": "Jakub Kašpar",
+    "date": "2022-06-06",
+    "duration_minutes": 76.9,
+    "topics": [
+      "Startupy",
+      "Cloud & DevOps",
+      "Podnikání & Produkt"
+    ],
+    "summary": "Po ryze technických tématech jsme zabrousili do trošičku méně technických vod a společně s Kubou Kašparem jsme mrkli na zoubek UX, designu, design sprintu a spoustě dalších zajímavých věcí. Pokud máte v browseru neustále otevřenou Figmu a kečup vybíráte podle lahve, bude pro vás dnešní díl #PodVocasem rajskou hudbou.",
+    "transcript_file": "data/transcripts/070_s03e05_jakub_kašpar_ux_dark_patterns_a_design_sprint.txt"
+  },
+  {
+    "episode_id": 72,
+    "title": "S03E04 - Jakub Veverka - Docker, Kubernetes a OpenShift",
+    "guest_name": "Jakub Veverka",
+    "date": "2022-05-23",
+    "duration_minutes": 74.5,
+    "topics": [
+      "Cloud & DevOps",
+      "Architektura",
+      "Data & Analytics",
+      "Open Source"
+    ],
+    "summary": "Čtvrtý díl podcastu #PodVocasem potěší především milovníky kontejnerů, Dockeru, Kubernetes a OpenShiftu. Navštívil nás starý známý Kuba Veverka z RedHatu a probrali jsme to pěkně od (dockerizované) podlahy. Pokud jste netušili, proč jsou kontejnery cool, tak teď už to určitě víte.\n\nDisclaimer: Byť nosí Kuba firemní logo na tričku s patřičnou hrdostí, jeho názory byly ryze osobní.",
+    "transcript_file": "data/transcripts/071_s03e04_jakub_veverka_docker_kubernetes_a_openshift.txt"
+  },
+  {
+    "episode_id": 73,
+    "title": "S03E03 - Vojtěch Mádr - Xamarin a personalizovaná videa v Motionlab",
+    "guest_name": "Vojtěch Mádr",
+    "date": "2022-05-09",
+    "duration_minutes": 63.1,
+    "topics": [
+      "Startupy",
+      "Kariéra",
+      "Data & Analytics",
+      "Open Source"
+    ],
+    "summary": "Známá postava .NET komunity, milovník mobilního vývoje a znalec Xamarinu Vojta Mádr nás přišel navštívit a společně jsme si #PodVocasem povídali o jeho cestě z humanitní rodiny až do pozice CTO startupu Motionlab. Krom jiného jsme naťukli i věčný problém nedostatku žen v IT a nakonec jsme zabrousili i do nového Vojtova podcastu.",
+    "transcript_file": "data/transcripts/072_s03e03_vojtěch_mádr_xamarin_a_personalizovaná_videa_v_motionlab.txt"
+  },
+  {
+    "episode_id": 74,
+    "title": "S03E02 - Radim Špetlík - Computer Vision a visionPigeon",
+    "guest_name": "Radim Špetlík",
+    "date": "2022-04-25",
+    "duration_minutes": 78.2,
+    "topics": [
+      "AI & ML",
+      "Startupy",
+      "Kariéra",
+      "Data & Analytics",
+      "Podnikání & Produkt"
+    ],
+    "summary": "Po delší době jsme se opět vrátili do divokých vod umělé inteligence a strojového učení a společně s CTO startupu visionPigeon Radimem Špetlíkem jsme probrali computer vision a jeho nepřeberné možnosti. Věděli jste, že se dá z barvy obličeje rozpoznat tep nebo relativní hladina cukru v krvi? A jak to souvisí s tím, co nabízí visionPigeon? Dozvíte se #PodVocasem.",
+    "transcript_file": "data/transcripts/073_s03e02_radim_špetlík_computer_vision_a_visionpigeon.txt"
+  },
+  {
+    "episode_id": 75,
+    "title": "S03E01 - Milan Borůvka - Tech stack v PriceFx",
+    "guest_name": "Milan Borůvka",
+    "date": "2022-04-12",
+    "duration_minutes": 70.4,
+    "topics": [
+      "Startupy",
+      "Kariéra"
+    ],
+    "summary": "Podcast #PodVocasem startuje třetí sérii a tentokrát se Džoukr a Poli podívali na zoubek technickému zázemí firmy PriceFx. Jak funguje engineering v budoucím unicornu, proč přepsat komponenty z Ember do Reactu a zbavíme se konečně Excelu? Nejen o tom se nám rozpovídal SVP of Engineering Milan Borůvka.",
+    "transcript_file": "data/transcripts/074_s03e01_milan_borůvka_tech_stack_v_pricefx.txt"
+  },
+  {
+    "episode_id": 76,
+    "title": "S02E06 - Honza Vrubel - Data Engineering v DHL",
+    "guest_name": "Honza Vrubel",
+    "date": "2022-03-28",
+    "duration_minutes": 60.3,
+    "topics": [
+      "Kariéra",
+      "Data & Analytics"
+    ],
+    "summary": "V závěrečném dílu druhé série nás navštívil datový mág Honza Vrubel, aby nám představil, jak se v DHL zachází s daty a jaká cesta vede od hrubých dat až po voňavé reporty v prezentacích managementu. Pokud vám něco říká ETL, Oracle Data Integrator, Teradata, Tabular nebo třeba PowerBI, bude tohle díl přímo pro vás.",
+    "transcript_file": ""
+  },
+  {
+    "episode_id": 77,
+    "title": "S02E05 - Aleš Roubíček - Clojure",
+    "guest_name": "Aleš Roubíček",
+    "date": "2022-03-14",
+    "duration_minutes": 60.2,
+    "topics": [
+      "Cloud & DevOps",
+      "Architektura"
+    ],
+    "summary": "Enfant terrible českého Twitteru, milovník Clojure, funkcionálního programování, přímočarosti a čistoty kódu. Pro Aleše Roubíčka alias Rarouše bychom našli možná stovky dalších důvodů, proč si ho pozvat do studia #PodVocasem, ale dneska jsme naťukli především jazyk Clojure. Jak je u Aleše dobrý zvykem, došlo na řadu silných názorů, výborných myšlenek a pár explicitních výrazů. Dejte si - za tu hoďku to stojí!",
+    "transcript_file": "data/transcripts/076_s02e05_aleš_roubíček_clojure.txt"
+  },
+  {
+    "episode_id": 78,
+    "title": "S02E04 - Luboš Hradecký - Web Accessibility",
+    "guest_name": "Luboš Hradecký",
+    "date": "2022-02-28",
+    "duration_minutes": 58.3,
+    "topics": [
+      "Data & Analytics"
+    ],
+    "summary": "Po delší době jsme opět sáhli do vnitropodnikového šuplíku hostů a vytáhli našeho milého kolegu a znalce webové přístupnosti Luboše Hradeckého. Jak udělat váš web, aby byl přístupný i pro návštěvníky se zdravotním omezením a který web to dělá vyloženě blbě? Nejen to se dozvíte v dalším díle podcastu #PodVocasem.",
+    "transcript_file": ""
+  },
+  {
+    "episode_id": 79,
+    "title": "S02E03 - Zdeněk Merta - Event Sourcing, CQRS a Domain Driven Design",
+    "guest_name": "Zdeněk Merta",
+    "date": "2022-02-14",
+    "duration_minutes": 70.0,
+    "topics": [
+      "Architektura",
+      "Podnikání & Produkt"
+    ],
+    "summary": "Už delší dobu jsme měli v TODO listu téma Event Sourcingu, CQRS a DDD a konečně se nám podařilo si pozvat odborníka s praktickými zkušenostmi ze stavění bankovních systémů. Co je Event Sourcing, proč ho dělat a kdy ho naopak nedělat? Co je task-based UI a není nakonec lepší starej dobrej CRUD? Dozvíte se v neskutečně nabušených 70 minutách dalšího dílu podcastu #PodVocasem.\n\nOdkazy:\nhttps://www.eventstore.com\nhttp://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf\nhttps://en.wikipedia.org",
+    "transcript_file": ""
+  },
+  {
+    "episode_id": 80,
+    "title": "S02E02 - Borek Bernard - Monorepo, Multirepo, VersionPress a Shoptet",
+    "guest_name": "Borek Bernard",
+    "date": "2022-01-31",
+    "duration_minutes": 60.7,
+    "topics": [
+      "Data & Analytics"
+    ],
+    "summary": "Po eskapádách na elektrokole k nám do studia konečně dorazil i znalec frontendových technologií a git mág Borek Bernard, abychom to probrali tak nějak z gruntu a omrkli jeho práci na VersionPressu, Shoptetu, ale i další zajímavá témata jako třeba nekonečnou bitvu mezi monorepem a multirepem.",
+    "transcript_file": ""
+  },
+  {
+    "episode_id": 81,
+    "title": "S02E01 - Aleš Krutina - Jablotron, senzory a hardware obecně",
+    "guest_name": "Aleš Krutina",
+    "date": "2022-01-17",
+    "duration_minutes": 70.1,
+    "topics": [
+      "Ostatní"
+    ],
+    "summary": "Druhou sérii jsme se rozhodli vykopnout pěkně z vostra a tak jsme si pozvali bývalého CTIO z Jablotronu a člověka s neskutečným rozhledem nejen ve světě hardware Aleše Krutinu. Jak probíhají inovace v Jablotronu, co vlastně aktivuje senzor na tříštění skla a kdy se svět čipů otevře širší komunitě programátorů? To tlačítko, které hledáte, je PŘEHRÁT...",
+    "transcript_file": "data/transcripts/080_s02e01_aleš_krutina_jablotron_senzory_a_hardware_obecně.txt"
+  },
+  {
+    "episode_id": 82,
+    "title": "S01E06 - Lukáš Svoboda - CSS v roce 2022",
+    "guest_name": "Lukáš Svoboda",
+    "date": "2022-01-03",
+    "duration_minutes": 55.3,
+    "topics": [
+      "Cloud & DevOps",
+      "Kariéra",
+      "Česká IT scéna"
+    ],
+    "summary": "S novým rokem uzavíráme první sérii #PodVocasem a uzavíráme ji stylově. Doslova! Do studia dorazil odborník na CSS a lektor Czechitas Lukáš Svoboda a společně jsme probrali stav webu a jeho stylování na začátku roku 2022.",
+    "transcript_file": "data/transcripts/081_s01e06_lukáš_svoboda_css_v_roce_2022.txt"
+  },
+  {
+    "episode_id": 83,
+    "title": "S01E05 - Jaroslav Holaň a David Ryšánek - Confer-O-Matic",
+    "guest_name": "Jaroslav Holaň a David Ryšánek",
+    "date": "2021-12-20",
+    "duration_minutes": 55.3,
+    "topics": [
+      "Startupy",
+      "Data & Analytics"
+    ],
+    "summary": "V adventní náladě jsme se #PodVocasem sešli s klukama ze startupu Confer-O-Matic. Jak se daří virtuálním konferencím v čase pandemie a jak se dá vůbec na něčem dohodnout, když máte ne dva, ale sedm zakladatelů firmy? Nejen to nám řekli Jarda Holaň a David Ryšánek.",
+    "transcript_file": "data/transcripts/082_s01e05_jaroslav_holaň_a_david_ryšánek_confer_o_matic.txt"
+  },
+  {
+    "episode_id": 84,
+    "title": "S01E04 - Lucie Nová - Na hraně mezi Dev a QA",
+    "guest_name": "Lucie Nová",
+    "date": "2021-12-06",
+    "duration_minutes": 69.0,
+    "topics": [
+      "Data & Analytics"
+    ],
+    "summary": "S energií sobě vlastní k nám do studia #PodVocasem vtrhla vichřice vtipu a šarmu jménem Lucie Nová, aby s námi pokecala o hlídání kvality v softwarovém vývoji, kariéře v IT a nakonečném souboji developmentu a QA. Zatím nejdelší díl první série, ale rozhodně stojí za to!",
+    "transcript_file": "data/transcripts/083_s01e04_lucie_nová_na_hraně_mezi_dev_a_qa.txt"
+  },
+  {
+    "episode_id": 85,
+    "title": "S01E03 - Richard Vlas - Machine Learning a Artificial Intelligence",
+    "guest_name": "Richard Vlas",
+    "date": "2021-11-22",
+    "duration_minutes": 53.4,
+    "topics": [
+      "AI & ML",
+      "Architektura",
+      "Data & Analytics"
+    ],
+    "summary": "Co je to neuronka? Jakej je rozdíl mezi Machine Learning, Deep Learning a proč se to furt plete? A mělo by autonomní vozidlo přejet dítě nebo radši bábu? Nejen to vám v třetím díle IT podcastu #PodVocasem prozradí náš milý kolega Richard Vlas.",
+    "transcript_file": "data/transcripts/084_s01e03_richard_vlas_machine_learning_a_artificial_intelligence.txt"
+  },
+  {
+    "episode_id": 86,
+    "title": "S01E02 - Tomáš Látal - Elm",
+    "guest_name": "Tomáš Látal",
+    "date": "2021-11-08",
+    "duration_minutes": 61.3,
+    "topics": [
+      "Architektura"
+    ],
+    "summary": "Proč je Elm úplně nejvíc nejlepší způsob jak psát webové single page aplikace? Proč se nespoléhat na nezdokumentovaná API jazyka? A bude někdy v Prostějově v coworkingu avokádové latté v akci? Dozvíte se v druhém díle IT podcastu #PodVocasem, kam jsme si tentokrát pozvali Tomáše Látala.",
+    "transcript_file": ""
+  },
+  {
+    "episode_id": 87,
+    "title": "S01E01 - Tomáš Horáček - SwiftUI a mobilní vývoj",
+    "guest_name": "Tomáš Horáček",
+    "date": "2021-10-25",
+    "duration_minutes": 59.4,
+    "topics": [
+      "Data & Analytics"
+    ],
+    "summary": "První díl nového IT podcastu #PodVocasem je tu! Jako hosta jsme si pozvali vývojáře, nadšence do funkcionálního programování a také amatérského herce Tomáše Horáčka, aby nám vnesl světlo do temných zákoutí mobilního vývoje. Co je SwiftUI a čím se liší od UIKit? Je programování v Xcode radost nebo bolest? A co ostatní alternativy typu React Native? No už se nezdržujte čtením popisu dílu a utíkejte si to pustit!",
+    "transcript_file": "data/transcripts/086_s01e01_tomáš_horáček_swiftui_a_mobilní_vývoj.txt"
+  },
+  {
+    "episode_id": 88,
+    "title": "S01 - Upoutávka",
+    "guest_name": "S01",
+    "date": "2021-10-13",
+    "duration_minutes": 1.4,
+    "topics": [
+      "Ostatní"
+    ],
+    "summary": "Nový IT podcast PodVocasem již 25. října 2021 na všech streamovacích platformách!",
+    "transcript_file": ""
+  }
+]

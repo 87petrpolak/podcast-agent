@@ -1,0 +1,2489 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Krásný den, milí posluchači, vítejte u prvního dílu osmé série vašeho nejoblíbenějšího IT podcastu Pod vocasem.
+No a samozřejmě po čtyřicáté třetí naproti mě sedí můj nejoblíbenější spoluhostitel všech podcastů všech dob, Petr Polipolák.
+A naproti mě Roman Džoukr pro vás dních kamarád a člověk, kterého jsem teď snad měsíc neviděl, přátelé.
+A teď to má úplně jiný feeling, květ.
+To je úplně neuvěřitelné, když jsme se moje objeli, když jsme se viděli.
+No, vlastně to jsme dlouho nedělali, páč, kdybychom se objímali v době, když jsme spolupracovali, tak to by skoro bylo na to, aby jsme dostali nějaký výdýkací dopis.
+To je pravda.
+Tak jak se daří? Jak je ve spořce?
+To je kráso, jak to zkrátit. No hele, dobrý, je to jízda. Je toho hodně, ale všichni jsou na mě hodný, takže zatím jsem podle mě pochopil tak asi procento a to jsem to o procento přehnal.
+Jo.
+Já jsem volal do Sporsky, než jsi nastupoval, že se mě varoval, že na tebe musí být hodný, jinak si tam dojedu prostě na to Antala Staška, že to bude lítat.
+Jo, já vždycky, když přijdu, tak je vidět, že tam je korandál a oni, když mě vidějí, tak se sklidnějí, tak to si řekli.
+To je ono, to je ono, říkám, že jde pro vás pan Polák a chovejte se k němu slušně, jinak si ho bereme zpátky.
+Řekl jsi Pep Polák, to je můj e-mail teď, Pep Polák.
+Pep Polák, ty máš ještě zajímavou e-mailovou adresu, ty máš polák z česka.cz.
+Ale když jsi Petr Polák, tak není úplně jednoduchý vymyslet si e-mailovou adresu.
+To je skvělý ráno, to je super. No tak super, jsem rád, že jsi dorazil, jsem rád, že spolu zase vykopáváme osmou sérii.
+Já, co se byl pryč, tak jsem se byl podívat Vyhlavě, tímto zdravím kluky z komity CZ, který mi tam poskytli celý den přístřeší, zásobovali mě kafem.
+A bylo to vlastně v budově bejvalé české spořitelny Vyhlavě, což je taky vtipný, kudy si to předělali na takový jako pankovější kancli.
+A že ještě jednou zdravím kluky z komity CZ.
+A no říkali vlastně, jakože se jim to strašně líbí.
+Dostával jsme docela, nebo oba dva jsme dostávali pašáky, že pod vocasem, že je dle jejich slov nejlepší český IT podcast v současní době.
+A byli z toho úplně nadšený.
+Během té přednášky mi vlastně i říkali, že přišli na tu moji přednášku díky podcastu.
+Takže vlastně, kdyby jsi třeba někdy poli někde přednášel, tak si tady klidně udělej reklamu, protože začíná to fungovat.
+Ne, hele, no já jsem byl teďka na konferenci poprvý s Českou spořitelnou, tam za mnou chodili lidi a říkali, jo, vy děláte to pod vocasem.
+Říkám, no, dělám. A úplně mi to vykouzlo vždycky úsměv na tvář, takže fakt to jede, fakt to jede.
+Ale řekl jsi jim, že umíš jiný věci.
+To jsem zapomněl.
+Takže oni už si myslí, že jsem jenom podcast.
+Jo, je to tak.
+No takže já jsem si tam takhle objel pár přednášek a samozřejmě notišil jsem se na tebe.
+Já přemýšlím, co se ještě zajímavého stalo od té doby, ale ono to je tolik, že se to vlastně nedá úplně jako...
+Přátelé, vždycky, když přijde nějakej host, tak Románek říká, nebavte se tady v té kuchynce, všechno si řekneme do héteru.
+A my jsme to fakt tady jako hodně drželi, takže teďka máme chuť si tady pojít třeba hodinu, ale ten host už čeká.
+No, host už čeká, ale máme dneska zajímavýho hosta, jmenuje se Ondřej Šika, já jsem ho potkal na JOpenSpace, ale už jsem o něm věděl další dobu.
+Je to člověk, který se jmenuje DevOps, CICD, Pulumy, prostě ARMový templatey, pipeliny, nasazení.
+Navíc je to člověk, který aktuálně na tohle téma píše knížku, což zas tak často člověka píšícího knihu na nějaké téma tady nemáme.
+Takže já se na něj osobně hrozně těším a teďka koukám, mám dvě minuty, abych ho vyzvedl před KFCčkem, jinak mi uteče a to bych nerad.
+Tak jdeme pro něj, jdeme pro něj.
+Ve studiu už s námi sedí náš dnešní host, Ondra Šika. Ahoj Ondro.
+Ahoj, ahoj Ondro.
+Tak Ondro, prosím tě, jak jsem na začátku tě uváděl, říkal jsem, že jsi člověk, který mě zaujal na JOpenSpace, svojí přednáškou, ty jsi tam tuším probíral VPNku, jak to řešit v moderní době.
+Ale než se dostaneme k těmhle s těm věcem, na začátku řekni nám něco o sobě, jak ses dostal do IT, prostě takový ten klasický úvod.
+Jo, tak já jsem Ondra, teďka se zabývám DevOpsem a cesta do IT u mě byla zajímavá. Já jsem v zásadě se kolem programování, nebo spíš jako tvorby jakýchsi bizerných stránek začal jako motat od malička.
+A jsem měl její internet doma poměrně brzo, protože táta dělal nějaký projekt.
+Takže měli jsme vytáčený spojení a tady tyhle ty dneska už old school věci.
+A mě to bavilo, bavilo mě i hardware, rozbírat počíteče, takový ty koaxiální sítě, to táta měl v kanclu, takže to bylo dobrý.
+Kolem toho jsem se motal, pak jsem se zkoušel tvořit nějaký webovky. Vím, že mě hrozně fascinovaly, že prostě táta mi vytvořil nějakou hrozně hloubou šablonu s třeba barevnýma pozadíma a já jsem si mezi tím jako proklikával a vůbec jsem nechápal, jak to funguje.
+Z tohohle jsem se dostal k ph, který jsem podle mě první rok používal jenom pomocí funkci include, abych nemusel v těchto webech psát jako menu furt znova v každý stránce.
+A takže takovýma jako punkovýma pokusama jsem se jako něco si jako stvořil a když jsem byl o 15, začal jsem na střední, tak kámoši rozježděli nějaký e-shop a potřebovali někoho, kdo se bude programovat, takže já jsem do toho s nima šel a to byl vlastně jako první nějaká moje jako reálný job,
+kdy jsem za to dostal i začal.
+Bylo to jako na dnešní úroveň, jako to, co jsem tam tvořil, je jako hrozný. By the way, je to u mě na Githubu.
+Fakt?
+Jo, jo, jo, je to repozit, ono to nebylo ani v Gitu v té době, dřív jsem verzoval, takže prostě skopíral to vedle, jak to fungovalo.
+Final, final, potržítko, jedna.
+No přesně tak, takových těch nových dva, nových tři pokus, tam bude v tom repu dost, je to jenom snapshot, ale bylo to jako ERPčko k těm našim systémům, dělalo to faktury, dělalo to interní,
+interní jako něco.
+Dělalo to jako Slack, včetně kontextu těch objednávek a tady tyhle jako věci, tiskovalo to štítky, dělalo to sklad, takže jako dobrý.
+To byla ta pozitivní část, ta horší, že jsem to vlastně napsal bez jakýkoliv znalosti programování, angličtiny a jenom z nějakých PHP návodů na někde prostě na, nevím jestli na Rootu nebo ABC, Linuxu, něco takovýho.
+Koskovou knížku jsi měl?
+Co?
+Koskovou knížku jsi měl?
+Ne, ne, ne, ty jsi měl vyloženě už z internetu.
+Jo, to už bylo z internetu, to už bylo, rok 2008 teda, takže to nebylo tak brzo, ale byl to jako dobrý punk, přihlášení, prostě dosečně si zapsal uživatelský IDčko, byl přihlášený, hesla v databázi, že by se to mělo šifrovat vůbec, to prostě taky nebylo, takže jako fakt pekelný, ale jako biznisově to fungovalo, ten e-shop pořád jako se vyvinul a dneska furt ještě jede, ale byly to takový jako dřevní začátky nějakého programování.
+A tam mě to jako bavilo, takže pak jsem dělal všechno možný, dělal jsem nejdřív PH, pak jsem se přesunul do Pythonu a v zásadě dělal jsem jako různý projekty, až jsem se na dlouhou dobu vyskytnul na Slashpoolu a to bylo zase velká náhoda, jenom Slashpool je těžba Bitcoinu, dneska už je to Brainspool, ale já jsem se prostě kdysi, když tady byl, začínal trezor, stál Bitcoin tuším 80 dolarů,
+tak mě ten trezor přišel hrozně zajímavý, Bitcoin mě přišel hrozně zajímavý, no a tak jsem si řekl, jestli by s tím jako nechtěli pomoct, tak jsem napsal Slashovi, že mě to přijde dobrý a že bych jako s tím rád pomohl a on mi řekl, že teďka nikoho nepotřebují, ale že kluci z poolu někoho schánějí.
+Takže takhle jsem se přimotal k Slashpoolu a Bitcoinu a tam jsem strávil asi pět let, primárně jako software engineer na backendu v Pythonu a tam už jsem jako hodně začal přičíhat k infrastruktuře.
+A k tomu jsem si jako rozdělal školení, nejdřív to bylo jako jedno školení ročně a pak to bylo častější a častější, až jsem teda si řekl, že OK, budu se těma školeníma, DevOpsem a konzultacema zaobírat jako full time a někdy v roce 2017, 2018 jsem teda jako šel plně jako freeland a zabělal jsem se DevOpsem, takže od té doby se motám kolem DevOpsu.
+A jaký byl skok z toho zaměstnaneckého poměru, nebo ať to je jedno, jakou to možná mělo právě.
+Hlavní formu, ale prostě z toho, že děláš pro jednu firmu, že najednou děláš na sebe.
+Hle, ono to nebyl moc skok, ono to bylo jako hodně postupný, že já jsem toho měl těch víc a víc těch jako side věcí a takže to v zásadě bylo, jo teďka už se začnu věnovat teda těm svým věcem a já jsem vždycky jako byl takový podnikavý, takže jsem zkoušel všechno možný a vlastně jsem jako se ani jako nebál, nebo necítil jsem žádnou jako žádnou strávu.
+Nebo obavy, že jako půjdu jako freelance. Já jsem i před tím slážpůlem dělal nějaké věci freelance, takže jsem jako už věděl, jaký to je, věděl jsem a v té době už to teda bylo jako finančně výrazně jako lepší, ale na začátku jsem jako byl jako hodně loukost, věděl jsem, že prostě, jo občas ty prachy nejsou, občas jsem někam letěl a věděl jsem, že jako nemám prachy naspátek, tímhle tenku a musím počkat, až mi nějaký přijdou zpátky, takže tyhle si době už jsou teda za mnou, občas na to vzpomínám jako rád, když jsem jako
+dává 30 dolarů za taxíka z Jísrou do Klebemsau, tak jsem šel pět hodin po Londýně pěšky v noci, takže jako nějak jsem se jako nebávnul, tak to je pecká, no a teď teda si v rámci svý, můžeme to říct šikalaps, jak to vyříkáš?
+– Dělám primárně já, ve firmě nás víc a zavíjáme se teda jako stavbou těch infrastruktur pro klienty, no stavbou i správou infrastruktur pro klienty.
+– A kdo jsou třeba klienti, můžeš někoho prozradit?
+– Asi můžu, jedny jsou třeba třináctky železárny, takže jsou tady ty jako velký.
+– Máš i lístky na hokej, nebo něco takového, nenabížej to?
+– Já vůbec nevím, že něco s hokejem dělají.
+– No třinásovný mistr extra ligy, zdravím.
+– Takže děláme něco pro Čechnu centra, co ještě z těch veřejných, máme nějaké i státní věci, ať už jsou to státní pokladna,
+což je teda organizace, která byť teda vypadá, že je to něco s penězma, tak je to servisní organizace IT Ministerstva financí.
+Je to zrecyklovaný prostě barák i s tou původní firmou, takže dělá to něco jiného než původně.
+– Já jsem si to řečtala.
+– To je státní pokladna, že to vypadá jak v Hobbitovi, jak přišli do té hory, a tam je prostě ten drak s tím zlatem.
+Není to nic takového, jo?
+– Ne, je to opravdu jako IT servisní organizace.
+– Že tam seděl Stanivra moc.
+– A jako některý projekty tam jsou jako velmi pokročivý, což je super.
+– Takže to možná teďka odbočíme, takže z tého pohledu státní zpráva, není to tak, že kdo nic neumí, jde do státní zprávy?
+Už se posunulo se to?
+– Já si myslím, že někde jo, samozřejmě je to jako různý, někde je jako těžkej punk, někde je to jako fakt hezky udělaný.
+Ale co se třeba týká těch státních věcí, tak prostě máme Azure on-premise a už to není o tom, že to je IT v dřevní době,
+ale už jsi tam schopný prostě dělat i tu infrastrukturu třeba pořádně, formou kódů a tak dál.
+Ale samozřejmě ne jako všude, samozřejmě jsou tam jako zkosnatější části, modernější části.
+Takže asi stát je takový jako větší korporát, ono je to jako podobně jak jinde.
+– No a ty zmínil jsi to školení, tam je to asi jasný. Co ta firma, na co se hlavně zaměřuje?
+– Jo, v zásadě vývoj a pravost infrastruktůr.
+To znamená, máš nějakou firmu a teďka to může být jako startup nebo nějaký enterprise,
+každý má trochu jinou potřebu. Když máš ten startup, tak třeba můžu zmínit PIKy.cz,
+což je, dneska se to jmenuje Forendors, my si znáte, je to něco jako Patreon, Česká alternativa k tomu.
+Tak tam se jim taky staráme o infrastrukturu. Je to o tom, že oni teda jsou jako malí,
+nemají na to lidi, skilly, takže pro ně je jednodušší, když si to jako úplně outsourcujou
+a typicky o tom, že tomu jako nechtějí věnovat čas. Ty lidi jsou tam samozřejmě v těch startupech
+většinou jako hodně šikovný, hodně schopný, ale mají tam zase,
+– Jo. – Jo. – Jo. – Jo. – Jo. – Jo. – Jo. – Jo. – Jo.
+Ale jsou taky jako velmi, velmi jako striktně nastavený, jako čemu chtějí věnovat čas,
+co je posouvá, co je pro ně jako jednodušší outsourcovat. A pak ten druhá strana zase
+jsou ty jako korpy, kde tam ty skilly nemají a chtějí s tím pomoct, anebo no,
+tam spíš jako stavíme, než provozujeme, protože oni si to chtějí provozovat sami.
+Takže jako velká část těch zákazníků, že jim to vysvětlíme, naučíme je s tím,
+– Jo. – Jo. – Jo. – Jo. – Jo.
+Což je třeba, což jsou ty
+třiněcké železárny. Tam musím říct,
+že je super to, že
+tam je pár schopných lidí
+a prostě zaujali
+kubarnety, řekli si, hele, to je cesta,
+pojďme to postavit a opravdu
+za chvilku
+v tom skoupu těch korpů,
+za pár měsíců jsme se dostali
+z toho, že o kubarnetech a kontajnerách
+nevěděli nic, na to, že do toho
+nasuzovali první aplikace a do produkce
+potom za dalších pár měsíců
+nezačali s core systémama,
+ale už s něčím, co
+mělo pro ně nějaké
+menší interní věci
+a teďka zase
+právě už musím zmínit ty třiněcké železárny,
+tak jsem jim něco říkal
+o KeyClouku, o SSOčku,
+jestli se to dá napojit na jejich LDAP a oni, jo, to by nás
+zase zajímalo a velmi
+rychle jsme udělali smyškovaní
+a nějak jsme to nadesignovali
+a už si to tam implementovali,
+což je super.
+Kde sedí IT třiněcký,
+železáren? V Třince.
+A věcky, když se s náma mají...
+Přemýšlel jsem, jestli to je
+dlouhodobě chytrý, jestli tam ty talenty
+jsou schopný nějak nahnat, ale asi jo.
+Tak třeba i do Polska, pak to mají kousek.
+To je pravda.
+Co já vím, tak talenty tam mají.
+Nevím, jak celý
+obrovská firma, ale ty lidi, s kterýma
+dělám, tak ty jsou super. Věcky
+když chcem něco
+řešit ráno, tak oni
+vždycky se říkají ráno pražského času,
+protože oni tam i na to...
+I ty s IT chodí prostě jako od sedmi
+do práce. Takže ty jsi přišel vlastně,
+jako bys šel do Třince, když železáren. V zásadě, jo.
+V zásadě, jo. Takže když říkáš jako
+ráno, tak oni jsou schopní v 7.15
+máme po stand-upu, takže...
+Já koukám, jak jsi
+šokovaný polit, jo.
+Co? No jak jsem šokovaný?
+Ale ne, v Suvka, v Suvka, no tady já,
+když jsem přišel v 7 do cyklumu tady,
+hezky pěkně, tak jsem normálně
+tu byl sám, že jo. No počkej, byli jsme spolu
+tady. No jasně, jasně, tady v kancu, že jsem
+byl sám. Teď přijdu v tý spořce, normálně v 7
+a tam už třeba pět lidí sedí taky.
+Takže jako i pražský, i pražský
+jako korporáty jsou schopní začít pracovat v 7 hodin.
+No na tohle mám teorii, že to je i
+kvůli tomu, jak vypadá ráno doprava, jo.
+Takže ono, buď jako přijedeš v 7.15, no přijedeš
+v 8.15 a to se vyjel o 15 minut
+později, jo. To je pravda, to je pravda.
+No dobrá, my jsme to tady nezakecali
+třinickýma žilizádrama, my jsme si tě vlastně
+Ondro pozvali primárně kvůli tomu,
+co děláš, což je vlastně, dalo by se to možná
+říct v podstatě pod tím jedním
+magickým slovem devops,
+což je termín, který už roky rezonuje,
+ale mám trošku pocit, že za ty roky
+se vlastně to jeho vnímání strašně vyvinulo.
+Takže, co devops
+na začátku roku 2024
+vlastně znamená?
+Jo, devops
+je za mě
+jako, a ono takové,
+devops je takový jako magický
+slovo, jak jsi říkal, každej si pod tím
+představí něco jinýho, ale
+důležitý je asi to, že
+je to nějaká jako
+sada procesů,
+nástrojů,
+který jako využíváme k tomu, aby jsme byli
+schopni teda
+líp a rychlejiš
+dostávat primárně
+věci z vývoje do produkce
+a bezpečnější cestou
+automatizovaně
+a i s nějakým
+feedbackem zpátky zase z toho
+operations, z toho vývoje.
+Devops má v logu, nebo ve znaku tu
+osmičku, takže je to v zásadě
+takový jako proces nekončící,
+kdy teda vývojáři něco vyvinou
+a teďka, že jo,
+to projde nějakýma pipeline-ama,
+ideálně všechno automaticky, nějakým
+review, dostane se to prostě
+velmi rychle do produkce
+a zase z té produkce zbíráme
+nějaký logi, metriky
+a ty poskytujeme zpátky těm vývojářům
+a je to takový jako koloběh.
+A ty jsi říkal, že to je vlastně sada nástrojů,
+sada postupů,
+já se často setkávám s názorem, že
+devops je kultura, což já
+teda nevím, co si úplně pod tím představit,
+nebo prakticky, co tím ten člověk myslí,
+ale velmi často to vidím, že je devops
+kultura. Jak to vidíš ty, je to jenom o těch
+nástrojích, nebo to je o nějakém mindsetu
+toho, že pro mě vývoj nekončí
+jako komitem? Je to jako
+o tom mindsetu taky.
+Ono v hromadě
+těch firmách, kde
+něco
+vzpomáháme zavádět, tak je to o tom
+změně přístupu k tomu, jak se to dělá.
+Že ten
+dřív ten
+jako narrativ byl, prostě já to tady
+komitnu,
+a on se o to někdo postará, někdo to zběvodí,
+nebo maximálně já vemu nějaký jarka
+a ty teďka někdo bude manuálně zpát na nějaký server
+a dám mu
+k tomu application properties a
+zpátky žádný feedback nebude,
+tak to už se mění.
+Já si myslím, že kultura to asi je.
+Je to o tom, že teda chceme
+víc spolupracovat a teďka
+nemusí to být nutně o tom, že
+ty stejné lidi to vyvíjejí
+i provozujou, byť to má svoje výhody, to má
+svoje nevýhody, tak to ale může
+být o tom, že ty lidi spolu výrazně víc komunikujou
+a měnějí i nástroje,
+jak spolu komunikujou. Vys
+nemusí spolu komunikovat
+po tiketech v džiře,
+ale můžou spolu komunikovat
+po kódu a nějakých
+pull requestech v githubu nebo v gitlabu.
+Takže za mě
+jo, je to kultura.
+Je to o tom změnit ten
+mindset na to,
+chceme to
+teda dělat efektivnějiš a kvůli tomu
+musíme teda zavádět nějaké věci,
+jako automatizace, co největší
+a
+nějakým způsobem se
+připravit na tady to
+na
+na
+na to, že teda ten proces bude
+bude trošku jiný.
+A ono, za ty roky vlastně to slovo, jak se
+vyvíjí, vyvinul se i to,
+co pod tím teďka vidíš, protože třeba
+z mého pohledu na začátku to bylo hodně o tom,
+že teda developři budou
+zodpovědní za ten proces, jako co nejdál,
+ale s tím, jak
+roste komplexita některých projektů
+a samozřejmě někdy tě prostě nepustí do produkce
+jako vývojáře, mají to stejně oddělené
+kvůli security, kvůli datům, kvůli
+GDPR, kvůli čemukoliv jinýmu,
+tak dochází k tomu, že
+vznikají nějaké ops týmy,
+vyvinul se to celkově,
+jak to vidíš?
+Já si myslím, že jo, že ta první
+idea byla, toho DevOpsu
+přišlo z takových těch firm typu Google,
+kde teda mají ty týmy
+postaven trošku jinak, kde mají ty týmy spíš
+produktově, než by je měli
+jako po těch vrstvách typu
+vývojáři, delivery a
+třeba operations,
+tak tam mají prostě tým,
+kde ty lidi v zásadě dělají všechno
+od vývoje, po ten provoz,
+a právě k tomu vyvinují nástroje typu
+Google Cloud, Kubernetes a podobné
+věci, aby právě ty vývojáři to mohli
+v zásadě
+provozovat. Jo, protože do tý doby,
+kdyby vývojáři museli
+chodit někam do servroven a tam
+nosit servry a strkaty
+do reku, tak to samozřejmě
+není úplně efektivní, když ale
+vývojář si může pustit
+výjemko Kubernetes cluster v cloudu
+a má hromadu věcí připravených,
+tak v zásadě ten provoz je výrazně
+jednodušší. Jenomže ta komplexita
+jeho rostla a
+u některých firm
+tenhle ten princip prostě nedálo
+použít, ať už z důvodu, že ten tým je
+jako roztrhnutej i třeba
+jako dodavatel je prostě externí,
+ať už jsou to jako velký korpy
+státní zpráva, tak
+tam jako neuděláš to, že
+ten vývojář, který to bude vyvíjet,
+bude zároveň ten, kdo to bude provozovat, tam to
+jako ani nejde, ale
+takže ten DevOps se za mě jako vyvinul
+z toho jako
+you build it, you run it, do toho
+je tady nějaká
+sada, jako
+jsou tady nějaký lidi, kteří buďto
+dělají to lepidlo mezi těma vývojářema
+a těm operations,
+a nebo je to teda jenom
+ta jako užší integrace a ten samotný
+proces, že to není o tom, že nutně
+ten vývojář musí
+do té produkce, ale
+když dostává nějakou zpětnou vazbu,
+když je tam udělaný ten tooling,
+když prostě nasazení
+vypadá tak, že já komitnu, tady
+ta verze se má nasadit v nějakého gitu, pak
+na to dají tři lidi palec nahoru a ono si to samo
+nasadí, tak to za mě pořád jako
+splnilo ty podmínky toho DevOps
+procesu, ale můžou na to
+v zásadě sahat úplně jiné lidi.
+Mně to nepadá teda, když se podíváme na
+DevOpsáka, tak jako co by měl
+mít za ty hlavní skily, aby jsme řekli
+to je dobrý DevOpsák? Máš to takhle nějak v hlavě?
+Za mě
+je to jako chtít
+to automaticky,
+chtít to automatizovat, chtít
+všechno automatizovat ideálně.
+Já jsem se k DevOpsu dostal
+z programátora
+a myslím si, že
+z mýho pohledu, co vidím v okoví,
+tak většina dobrých DevOpsáků
+přišla z toho světa
+dev, než z toho světa ops.
+Primárně kvůli tomu, že ty operations
+a je to v povaze
+té role,
+tak jsou se všim novým opatrný,
+neradě riskují
+a všechno chtějí mít
+ideálně
+pod svojí kontrolou
+a jo, teďka si píšu, teďka ovládám
+ten shell script, nebo teďka píšu
+do toho bše přesně to, co to má udělat,
+v každém kraku se můžu zastavit
+a to, že
+prostě to teda nechám automatizovat
+a budu spolíhat na to, že jsem to automatizoval správně,
+není pro ně tak
+přirozený, si myslím.
+Takže a pro ty vývojáře samozřejmě
+to přirozený je psát nějakej kolt
+nebo psát nějakou automatizaci
+a takže
+pro mě přijde, že ten mindset toho vývojáře,
+pojďme,
+tady je nějaký problém
+jako delivery, nebo prostě chceme tady nasazovat,
+tak máme několik možností
+bouchat to ručně, nebo to vyřešit kódem.
+A mnohem jako víc těch
+vývojářů, jako vidíte,
+pojďme to vyřešit nějak automatizovaně,
+jako ten primární
+způsob, jak to dělat.
+Ono, v současné chvíli
+mám pocit víc a víc různých
+jako Ops, Tomáš, Cloud Ops,
+Sec Ops, prostě milion,
+cokoliv Ops, čekám, kdy budou Ops Ops,
+můžeš říct
+vlastně, co ty termíny znamenají, který teďka
+frčejí a proč se to vlastně takhle začíná
+teďka ještě granularizovat
+na nějaký jako pod Ops?
+Hele, mně přijde, že jsou to jako buzzwordy.
+Jo, je to hype jenom.
+Jako nepřijde mi, že by to bylo
+něco jako,
+jaký je rozdíl mezi DevOps a Cloud Ops,
+asi, že Cloud Ops bude v cloudu,
+ale,
+nebo prostě
+jako DevSecOps nebo SecOps,
+tak zase mně přijde, že jako
+security by měla být jako esenciální
+součástí věci, takže
+jestli něco je jako DevOps nebo
+DevSecOps, tak bych jako netvrdil, že
+ty, co jako
+dělají DevOps, tak jako
+kašlou na security, to podle mě ne.
+Spíš prostě
+jako hype
+DevOps už je tady dlouho, tak pojďme vymyslet jí.
+Jo, někdo měl dobrou doménu a potřeboval si ji odubodnit.
+Co mi ale dává smysl
+třeba FinOps, nebo zase
+není to tak, že bychom jako FinOps
+vymysleli, nebo že bychom
+jako prachy začali řešit, až
+se...
+jako s příchodem FinOps, ale
+je dobrý si zamyslet, zvláště jsme v cloudech
+na jako finanční stránku těch věcí
+a třeba optimalizovat i
+na základě jako kostů. Takže
+tam ten pojem FinOps asi
+smysl dává, ale
+jinak v zásadě všechno se tomu otáklá
+jenom toho stejného, jo. Ten core
+zatím je prostě zjednodušit
+a dělat jako delivery
+jako bezpečnější a pravost jednodušší.
+Jsou nějaký postupy, koncepty,
+něco, co za ty roky, co DevOps sleduješ,
+už teďka vidí, že jsou obsolete?
+Že už by se asi neměli dělat?
+Ono mně přijde, že ty
+postupy a ty koncepty jsou
+v zásadě pořád up-to-date, protože
+ono to nebylo nic jako
+úplně tak specifickýho. A když se
+podíváš na ty koncepty, typu
+chceš automatizovat. Jasně.
+Chceš mít feedback toho,
+jak to vlastně žije v tý produkci.
+Tak to jsou věci, který
+jsou podle mě jako
+velmi dlouhodobý.
+Že to není něco
+o tom,
+že
+, jako teďka už feedback z produkce
+nechcem. Nebo, že prostě
+automatizace je špatná.
+Přijde mi, že
+jak se vyvíjí ty nástroje, tak ty se vyvíjí
+hodně. Některý technologie
+je úplně zastaralé a vymřelé, ale
+ten koncept nebo ten proces,
+tak ten je v zásadě furt stejný.
+Jestli používáme Jenkins nebo GitLab CI,
+tak v zásadě ten koncept
+automazice, co tam je pořád, to, že
+dneska víc se přikválíme
+k tomu GitLab CI, než k tomu Jenkinsu,
+tak je věc druhá,
+konceptně mi to přijde, že
+to je jako velmi stabilní, protože ten koncept
+je takový velmi esenciální.
+Je to jako daný tím, že to je víc
+filozofie, než třeba programovací jazyk.
+Jo, přesně tak. Ten koncept je prostě
+pár jako téma typu
+chceme automatizovat,
+chceme prostě mít věci formou
+kódu, chceme spolupracovat
+prostě nad půlrekvestama a ne nad
+dokumentací a taky to mám v tihře
+a podobně. Takže
+konceptně mi to přijde pořád
+stejný a
+jenom ty technologie se mění.
+A je tam nějaká vyložení jako bad practice?
+Něco, co třeba na začátku jsme si
+mysleli, že je dobrá cesta a teď se to
+vyložení ukázalo, že tudy ne? Nebo
+všechno zůstalo v podstatě
+časem netknutý a jenom to leštíme?
+Hele, přijde mi, že
+z těch postupů
+tak je to dobrý.
+Možná jedna věc taková jako
+overhype cloudu, serverless
+a mikroslužeb. Prostě
+jo, cloudy jsou super, pak se podíváme,
+že vlastně pokud uděláme
+ten lift and shift, že to, co jsme
+měli prostě na VMwareu
+u sebe v baráku, teď to přesluheme do
+Azure, tak je to třikrát tak dražší
+a řekneme, jo, protože
+hele, končí nám jako tady support
+Heveru, pojďme to rovnou udělat takhle
+a optimalizujeme to někdy v budoucnu.
+To někdy v budoucnu znamená jako nikdy
+a samozřejmě
+tak ten jako overhype třeba
+na cloudu je
+a dneska už jako dost firm to
+jako vidí a
+nejsou jako tolik jako hele
+ten Azure je prostě jako must
+ale
+samozřejmě když to děláme dobře, tak i na tom
+cloudu se ty kosty dají jako velmi
+velmi jako hodně katnout
+jako FinOps a chceme řešit ty ceny
+na druhou stranu pokud jako provozujeme
+sub, který úplně jako škálovat
+jako nemůžeme, nebo je to prostě
+věc, kde stejně běží pod tím VMK
+a nemůžeme to přepsat do nějakých
+do nějakých lumped, tak
+s tím jako se to dělá blbě.
+Takže jedna věc jsou jako cloudy
+pak mě
+přijde, že
+no jako to
+asi. Takovej ten prostě
+moment jako lift and shift
+to z nás není na to nešánem, jenom to prostě prdenem
+do cloudu, tak to vidíš jako antipatern.
+Já si ale myslím teda, že podle toho
+cloud adaption frameworku
+to je snad jako první věc, kterou bys neměl dělat.
+Jakože vyloženě, jakože to vezmeš a
+budeš tomu jenom dražší. No jasně.
+Ale jako
+setkáváš se s tím taky a ono
+jako to si budeme povídat, tak lidi
+jsou ti schopni říct, no když to všechny jako
+dát si, když to do toho cloudu představíš, tak to
+bude jako levnější, že jo, protože my to
+umíme škálovat, to, že vy to neumíte škálovat,
+to je ta druhá věc.
+Takže to je jedna věc. Pak
+rozbít všechno na microservisy, to se taky
+jako ukazalo, že to se není úplně
+optimální. Jo, zvlášť když máš prostě
+malý monolit,
+tak ho rozbiješ na 10 microservis
+a najednou řešíš problémy jako v distribuovaném
+tracingu, v aplikaci,
+kde tě třeba vůbec jako netrápí škálování,
+takže to je jako druhá věc.
+A
+co je zase za mě teďka,
+a zase to souvisí
+trochu se na cloudama, je jako
+zamykání se do cloudu.
+Asi dost lidí už jako zapomnělo na zamykání se
+do Oracleu a do tady těch technologií
+v devadesátkách, takže
+dneska prostě, když píšeme něco cloud native,
+tak jasně má to svoje výhody
+vys, ta cena provozování v tom cloudu
+a musíme si ale jako
+být jistý, že teda
+v tom cloudu budeme chtít být dlouhodobě,
+nebo že teda budeme v tom
+konkrétním cloudu, když to spíšeme specificky
+pro ten daný cloud. Takže
+já se, já rád
+využívám jako cloudy, protože nemusím
+řešit ten, to železo pod tím,
+ale snažím se teda ty aplikace
+dostat do stavu, aby byly
+jako víc cloud native a aby
+a
+abych použil jako open source,
+který běží v těch cloudech a dá se
+nějak rozumě zmigrovat.
+Takže, že budu používat kubernatý sávé,
+nebo v Azure, jasně neudělám to,
+že to přesunu jako ze dne na den vedle,
+ale není to tak hrozný, jako
+kdybych prostě používal třeba
+ECS.
+Tak první, co určitě manažeři třeba v třiněckých železárnách
+řeší, je, jak se měří
+vůbec výkonnost nebo úspěšnost DevOps.
+Máte na to nějaký metriky, jak to děláte?
+Tyjo,
+osobně žádné
+jako metriky nemám, nebo nemám žádný
+jako framework,
+podle kterého bych to měřil, ale
+ta úspěšnost je podle mě
+to, za jak dlouho
+jsi schopný teda věc z vývoje
+dostat do produkce
+a jakou máš třeba
+chybovost tady toho procesu
+a jak stabilní máš, jako uptime.
+Takže to jsou podle mě nějaké věci,
+které bys mohl měřit
+a
+na co to má asi největší
+impact je ten
+cyklus toho,
+kdy prostě
+ty feature dostanu do toho
+provozu, ať už je to automatické,
+automatizace testů, automatizace nasazení
+a teďka samozřejmě
+ta automatizace může být úplná,
+že já to komitnu a když to splním
+všechny testy, tak se mi to dostane do produkce
+a je to v řádu jako hodin
+v Čechách, který
+v tomhletom stavu jako moc
+firem není, typicky proto, že
+nemají tak jako neprůstřelovým
+testy, takže
+tam vždycky rád někdo za to dá palec nahoru,
+než to pustí do světa,
+ale
+i tak ten proces
+může být jako velmi,
+velmi zkrácený a
+rozhodně jako
+díky DevOpsu jsme schopni nasazovat
+v zásadě každej den
+místo jednou za kvartál
+nebo jednou za měsíc
+a samozřejmě když nasazuješ
+jako často, tak má to
+své výhody i nevýhody, častěji to rozbiješ
+na druhou stranu, když nasazuješ často
+to, co
+to rozbilo, tak typicky
+identifikuješ líp než v balíku prostě
+změn za půl roku, který se prostě
+mergeoval, tak nějak
+prapodivně, takže
+za mě ta největší
+metrika, která se dá asi sledovat je tohle
+ten čas
+jak to dostaneš do produkce
+a ještě možná s kolika lidma
+to dostaneš do produkce,
+že ten tým může být výrazně menší
+a ty DevOpsáci jsou primárně
+o tom teda, že
+tvoří ty automatizace a koukají na to,
+že to funguje, než že by jako fyzicky
+to přihazovali prostě z těch jednotlivých
+stageí a nasazovali to.
+Ale cítím z toho, že ty metriky se na těch projektech
+neřešejí úplně ve 100%, tak znamená to,
+že to je často tím, že prostě ta firma je odhodlaná
+jít do cloudu třeba z prému
+a vlastně ta metrika je v tu chvíli sekundární,
+protože to je nějaká vize, kterou jako firma mám?
+Já myslím, že jo.
+Jako nesetkal jsem se
+s tím, že by po mně někdo chtěl
+hele, teďka prostě
+jsme nějak jako změnili ten
+proces a
+chtěl bych jako výstup toho,
+kolik, nebo jak nám jako trvá
+nebo prostě
+jak moc jako
+kolik času se zkrátil tento
+nasazení, nebo prostě tyhle ty metriky
+jsem jako nikdy
+nikomu nedával, nikdo jako po mně nechtěl.
+Takže ono to spíš jako
+je poměrně jako
+citelně poznat, že když to
+zautomatizuješ, tak najednou ten skok je jako takovej,
+že ty lidi si toho všímají,
+ale že by se pak
+jako optimalizovalo,
+jako nechci říkat, že asi
+nikde to tak není, ale
+já jako nemám moc zkušeností,
+že by se jako řešilo,
+jo tady
+když uděláme tady tu automatizaci, tak nám to zkrátí
+ten proces o tolik a tolik, spíš je to o tom,
+ty lidi jsou jako zavolen prací
+a tady máme
+teda nějakou
+možnost něco automatizovat a co těm lidem
+rozvážet ty ruce jako nejvíc,
+takže pokud jako ten
+operations team třeba, který se
+stará i o to nasazování, nebo naopak
+vývojáři, kteří si to nasazují do nějakých dev environmentu,
+tak jako den z týdnu
+tráví tím, že prostě nasazují ty devy,
+tak to je asi dobrý kandidát
+na toto optimalizovat a ten čas
+využít nějak jako rozumnějš,
+takže spíš
+tam není,
+jako nepůžíváme
+takovou metriku,
+že bychom se snažili
+optimalizovat nějaké číslo,
+ale spíš hledat ty
+painpointy a
+ty potom odstraňovat a samozřejmě,
+když odstraňíš to, co ti žere den času,
+tak najednou i na to další odstraňování
+máš najednou větší prostor a můžeš
+se věnovat tomu, co ten
+core toho biznesu
+potřebuje.
+Jasný, to dává smysl. A ještě mě napadla
+jedna otázka, jak jsi mluvil,
+máte, nebo jak se vůbec
+dotýká toho devopsího světa,
+ten teďka trend nebo hype AI,
+je tam něco, co se dá použít
+právě na tu optimalizaci, o které jsi mluvil
+před chvílí, nebo všeobecně?
+Za mě AI a devops
+je jakož, jako velká část
+devopsů stojí na infrastructure as code,
+takže já používám
+v zásadě dva nástroje,
+chat GPT,
+a GitHub Copilot,
+a oba umí
+velmi dobře pracovat
+s Terraformem a s ostatníma věcma,
+co se týká třeba Kubernetes a podobně,
+takže já jsem schopnej
+velmi rychle si bootstrapnout nějaké věci
+pomocí chat GPT,
+když já chci vědět
+nějaké koncepty,
+a za mě je super v tom, že třeba
+tady chci použít
+tohle konkrétní SSOčko
+s tímhle konkrétním toolem
+a prostě napiš mi
+k tomu Kuba na tím manifest.
+On mi něco udělá,
+ne vždycky je to ideální,
+ale je to velmi použitelný,
+no a potom Copilot používám asi jako
+většina vývojářů dneska,
+pokud nejste svázani nějakýma zase
+korporátníma polisy,
+na chytrý
+Intellisense. Takže v zásadě
+Copilot je za mě autocomplete, který
+za mě dokáže
+dopisovat ne
+poslední názvy
+prměnejch, ale bloky kódu.
+A umí to velmi dobře.
+Na začátku, když začínal, tak jsem si dělal
+screenshoty toho, wow, toho je prostě pecka
+a chtěl jsem si to dělat někam, jako dělat nějakou
+stránku na webu toho, co to vlastně umí.
+A když jsem se přistihnul, že dělám
+tady za pět minut pátý screenshot,
+tak jsem si řekl, že na to sedu.
+Že to je taková pecka,
+že za chvilku to bude používat každej.
+Ale tady ty dva nástroje používám
+jako hodně.
+Pak jsou nějaké
+speciální nástroje,
+že viděl jsem, myslím, že jsem
+byl Kubio nebo něco takového, je to nějaká
+automatizace,
+že vlastně
+posle ku tomu píšete nějaké příkazy,
+co to má dělat.
+A tam zase nejsem úplně zastánce
+tohohle přístupu, protože
+tomu řeknete
+prostě vytvoř mi kubernatní klastr,
+máte tam prostě připojený amazoní účet,
+on vám ho vytvoří.
+A to už se dostáváme k těm jako
+bad practice z toho DevOpsu.
+A to je jako moderní no-code
+přístup. Mně prostě přijde, že
+jasně klikání je
+jako hezký, když je to malej scale,
+ale jakmile
+se to jako rozroste, tak je to jako
+neudržitelný. Takže ty tooly, který
+mi jako pomáhají generovat kód, tak ty jsou
+za mě super. Ty tooly, který
+mi to jako dělají
+prostě, že mu jako ručně řeknu vytvoř mi
+namespace, tak místo toho, abych napsal
+jako kubectl create namespace,
+tak napíšu prostě
+create namespace on kubernatní klastr
+a on mi ho vytvoří, je to stejný.
+Ale za mě oba ty přístupy jsou
+špatně. Ideální je
+prostě mít nějaký GitOps a tam
+strčit prostě ten objekt.
+Chci vytvořit namespace, nebo nechci vytvořit,
+ale chci mít namespace
+deklarativně, commitnout to,
+prohnat to tou mašinérií
+a on se vytvoří. A tam pak
+vidím ten trace, kde, kdo a
+můžu s tím pracovat výrazně líp.
+A máš pocit, že tyhle no-code
+platformy v tom DevOps světě mají svůj
+potenciál tohoto trošku demokratizovat,
+aby to použalo víc lidí, nebo tady to není
+to správný místo?
+Já si myslím,
+nebo takhle,
+za mě ten velká
+a esenciální část toho DevOpsu je
+právě Infrastructure as Code.
+Takže ty tooly, které ti pomůžou tvořit
+ten kód, tak
+pomůžou. A teďka
+to není jenom DevOps, teďka je to v zásadě
+cokoliv. Já jsem teďka měl
+jednoho kámoše ze Scouta,
+potřeboval nějakou praxi
+do školy, tak pro mě psal nějaký
+takový
+transformace dat, co prostě vypadlo
+z nějakých naskenovaných PDFek
+a
+on jako nebyl,
+není jako super scout programátor,
+je mu 18, je na střední,
+dělal to v Pythonu, s kterým
+jako si něco hrál, ale ve škole to ani neměli,
+ale řekl jsem mu, hele, tady
+tohle je vstup, tohle je výstup,
+tady máš prostě ukáz,
+co potřebuji z nějakého PDFka dostat,
+do jaké formy,
+tady máš GPT a tvoř.
+A
+on tvořil, ten kód jako není nejhezčí,
+to si budem povídat, ale jako
+ubouchal to. A úplně podle mě stejně to
+bude platit i s tou infrastrukturou,
+akorát tam si myslím, že je
+trošku problém v tom, že on vás to jako
+nic jako nenutí k tomu
+to dělat pořádně a dělat to formou kódu.
+U toho programování
+se jako objevují nějaký
+jako no-code klikadla, ale
+za mě ten problém je pořád ta udržitelnost,
+ale není to tam tak jako častý,
+jakože když přijdu do Azure, tak
+primárně,
+otevřu portál a teďka si tam klikám, prostě
+vytvořím si výjimko, vytvořím si sít, vytvořím si
+Kubernetes a
+není to o tom, že bys přišel do Azure a to ti řekl
+a prostě chceš vytvořit výjimko,
+tak vem tenhle kousak komitního
+do repozitáře a
+uděluj si nějakou automacici k tomu. Takže tam si myslím,
+že jako ty tooli ti
+pomůžou, ale ten fundament je trošku
+jinde.
+Ale k tomu musím říct
+jako jednu pozitivní věc, že se to mění
+a jak Azure, tak ten ti teda dokáže
+vypsat ten
+Azure Resource Management, ale třeba
+Google, Google Cloud
+ti už, když seš na konci toho
+procesu třeba vytváření toho klastru nebo
+toho výjimka, tak na konci máš buď to
+vytvořit, nebo stáhni si
+KURL nebo GCloud
+CLI, který to vytvoří, a nebo
+přímo Terraform. Takže
+Google už je jako schopnej ti
+vytvořit zase
+jako nějakej, aspoň
+základ Terraformu, který si pak
+naintegruješ se zbytkem ty infrastruktury,
+ale
+takže posouvá se to.
+Já jsem tě chtěl jenom vlastně
+trošku dostat zpátky, protože Polit je úplně
+nádherně těma svýma otázkama
+dohnal, ty už měl dělat nahonu
+nějakého nahánětě, člověče, úplně jsi měl zahnal krásně
+do rohu na to téma Infrastructure as a Code,
+kde už jsme se krásně rozjeli,
+ale i třeba kvůli posluchačům,
+nováčkům, juniorům, který vlastně ten termín
+pořádně ještě neznají,
+teď už jsme se tady o něm chvilku bavíme,
+můžeš vlastně vysvětlit jenom teda
+ten Infrastructure as a Code, Polumi, tyhle ty věci,
+co to vlastně je, co to řeší
+a pak budeme pokračovat.
+Takže Infrastructure as a Code je
+vlastně způsob, že píšeme
+infrastrukturu formou kódu.
+Není to, že bychom klikali v tom cloudu,
+ale píšeme, popisujeme
+tu infrastrukturu formou kódu,
+typicky deklarativně, takže to
+není skrip, který mi vytvoří
+Kubernetes Cluster, ale je to
+deklarativní popis, chci mít
+Kubernetes Cluster a ten tool
+se vždycky podívá do toho
+koncovýho cloudu,
+zjistí, hele, cluster tam není, vytvořím ho
+při příštím běhu, zjistí, hele, cluster tam je,
+tak nebudu vytvářet nic.
+Takže Infrastructure as a Code je vlastně
+o tom, že pojďme
+vytvářet tu infrastrukturu
+z kódu a to má několik
+velkých benefitů.
+Vlastně
+nad tou infrastrukturu jsme dřív zase pracovali
+s tím, že chtěl jsem
+cluster, tak někdo mi poslal
+ticket, čiže potřebuju cluster s těma
+parametrama a já jsem ho teda
+nějak v tom naklikal, ideálně jsem to
+potom napsal někam do dokumentace, což
+víme, jak funguje, takže
+bylo to
+velmi manuální činnost.
+Dneska je to o tom, že
+pokud chci ten cluster,
+tak já v nějakým nástroji, ať už je to Pulumi,
+ať už je to Terraform, si popíšu,
+takové má vypadat ten cluster,
+komitnu to a teďka
+velká výhoda toho Infrastructure as Code je,
+že je to kód
+a můžeme využívat
+tůle, který tady vývojáři používají
+10 plus let, a to jsou
+merge requesty, code review,
+automatické testy, protože když jsem
+měl naklikat ten cluster, tak já jsem
+ho naklikal, ale
+ideálně to po mně
+někdo zkontroloval, což, co si budem povídat,
+spíš se nedělo než dělo.
+Automatizovaně to po mně nikdo zkontrolovat nemohl,
+do té dokumentace jsem to
+mohl napsat, typicky na začátku
+jsem to tam asi napsal, při dalších úpravách
+už jsem to nedělal, takže
+jako
+tohle. Na druhou stranu, když to máme
+formou kódu, tak já prostě vytvořím ten
+kód a teďka ani nemusím
+já jako ten operations člověk vytvořit
+ten kód, ale pokud ten vývojář je trochu
+zvídavej nebo znavej, tak si řekne
+já potřebuji ten cluster, tak já pošlu ten
+pull request a tomu člověku
+z ops to velmi šetří práci,
+nebo to může být tak, že
+ty devopsáci
+připravují nějaké templaty, který
+ty vývojáři použijou, takže budou mít
+nějaký stavební bloky, který prostě potřebují
+teďka nový testovací prostředí, který
+obsahuje všechny tyhle věci, tak je modul
+toho testovacího prostředí, oni ho jenom neinstancujou
+s velikostma,
+s těma požadavkama, chci tam postgres, chci tam
+kubernetes, chci tam S3 bucket a podobně
+a já jenom jako
+obsák, oni pošlou pull request,
+teďka ono to projde nějakým automatickým
+čekem, může to projít nějakou
+automatickou security analýzou, když tohle to vypadá
+OK, přijde mně pull request,
+já se na něj podívám, zjistím, že to dává smysl
+nebo když to smysl nedává, tak to
+vokomentuju, oni upraví, je to
+kód, je to pull request, takže upraví,
+já na to dám palec nahoru, zameržuju
+a nějaký automat mi to nasadí.
+A takže to je
+vlastně infrastructure as code,
+hodně se dneska používá i termín
+GitOps, kde v zásadě
+je to o tom,
+že zdroj pravdy sedí v
+Gitu, ne v
+tom koncovém zařízení, což je
+další jako velký
+benefit, protože
+dejme tomu, máme ten kubernetesí klastr
+a teďka, že jo,
+chcem tam něco provozovat, tak
+buďto to můžem teda provozovat manuálně,
+když se tam budou přes kubectl a teďka, když
+mám to kubectl, tak to můžu dělat buďto
+z nějakých zdrojáků a teda snažit se
+mít ten insync, ty zdrojáky
+někde versus ten klastr,
+ale někdo tam bude něco dávat ručně,
+někdo to tam bude dávat
+buhvijak a pokud
+mám, a teďka, že jo, samozřejmě ta pravda
+je to, co běží, ale
+já, když
+jako mám ten GitOps přístup, tak
+já se nesnažím
+nesnažím jako mít
+pravdu v tom klastru a backupovat ten klastr,
+ale mít to někdo v depozitáři,
+vidím, kdo kdy udělal, co kdy udělal
+a v zásadě, když to celý
+spadne, tak DR-ko může být,
+vytočím to znova, nasypuju toho, připojím
+do toho starý data a jedu dál.
+Takže GitOps je v zásadě
+infrastructure as code a automatizace, která
+se stará o to, že to, co je v tom
+Gitu, mi promítá do té produkce.
+A jedinej způsob, jak to dostat do té produkce,
+není vlézt na ten klastr, ale
+nebo vlézt do toho cloudu, ale
+vlézt do toho repa, commitnout to,
+projít si tím kolečkem toho merge requestu
+a pak se to automaticky nasadí.
+Tohle zní skvěle,
+my to samozřejmě používáme taky, ale
+kde by si řekl, že to má nějaké nevýhody?
+Má to vůbec nějaké nevýhody?
+Tak nevýhody jsou, že
+je to jako složitější
+na to jako naběhnout.
+Když prostě chci kubernetes,
+tak v tom cloudu je prostě mnohem jednodušší
+přijít, naklikat ho a decit.
+Když chci něco do toho
+kubernetes nasadit, tak je zase jednodušší
+helm install, než
+chci tvořit nějaký argo.
+Takže ty nevýhody
+jsou podle ta vstupní bariéra,
+kdy musíš udělat
+jako i pro menší projekt nějaké věci
+vokovo a
+musíš se naučit stůlama,
+které vlastně nejsou
+bezpodmínečně nutné na to, aby si splnil
+ten task. Prostě když potřebuji pustit něco v kubernetes,
+tak to nepotřebuji sáhnout
+na GitOps, nepotřebuji sáhnout na Infrastructure as Code.
+Jsem schopný to naklikat,
+ale do budoucna tě to jako dožene
+s tím, že jako údržba
+toho bude jako složitější a
+náročnější, ať už časově, tak
+primárně jako časově.
+A jak bys to dělal u projektu, který třeba na začátku
+jsou dost takový dynamický,
+v tom smyslu, že vlastně nevíme,
+jaký bude ten
+finální setup, čistě jako
+dev prostředí. Je třeba ten způsob,
+že si to nejdřív v mnoha verzích
+různě jako naklikáme a když doiterujeme
+k nějaký, řekněme, jako úvodní
+architektuře, pak to teprve
+zautomatizujeme, aby jsme mohli jít na
+TES, na UAT, na produkci,
+nebo bys si s tím začal úplně s prvním komitem?
+Já s tím začítám s prvním komitem,
+ono to možná může být jako způsoben
+tím, že já, když ty
+zkušenosti mám, takže pro mě to, že
+budu používat Argo, to, že budu používat
+Terraform, v zásadě není,
+že se musím naučit novou věc,
+takže to je jedna věc, proč
+to jako můžu vlastně použít
+od začátku. Druhá věc je, že
+já už mám hromadu těch stavebních bloků připravených,
+to znamená, pro mě je
+i pro malý projekt rychlejší
+to postavit prostě pomocí
+Infrastructure as Code, než to klikat.
+Ale chápu, že prostě pokud
+něco testuješ a řekneš si,
+OK, tak teďka vlastně vůbec nevím, jestli to
+budu dělat v Azureu, jestli to budu dělat v AWSku, jestli to budu dělat
+v Digital Oceanu, tak
+si tam něco naklikáš,
+ale velmi brzo, když se teda rozhodneš
+tu dvě cesta, bych se to snažil
+přepsat, protože dostávat
+tu infrastrukturu z toho naklikaného stavu
+do toho Infrastructure as Code
+je docela těžký. Neříkám, že to nejde,
+ale vyžaduje to podle mě
+zbytečně moc práce, takže čím dřív
+s tím začnu, tím líp.
+Nebo
+se dohodnout s někým, kdo ti
+ten začátek udělá, ty to budeš potom
+rozvíjet. Hodně těch našich
+zákazníků je, že my jim to prostě připravíme,
+nějakým způsobem rozvíjíme ty velký
+koncepční věci, ale
+tu údržbu si dělají oni,
+ukážeme jim, že prostě pokud tam nepotřebujete
+dělat něco super složitýho, tak
+zvednout počet nodů v klastru se dělá
+tady zvedneš toho čísla, komitneš to a to je celý.
+Takže místo toho, aby jsi to naklikal
+v tom cloudu, že tady klikneš na plusko,
+a za mě bych
+chtěl spíš jako touhle variantou,
+když jako úplně experimentuješ a fakt netušíš
+nic, tak si to naklikej a
+vyzkoušej si, co ti dává smysl, ale
+jako v brzký fázi bych se zaměřoval
+na to dostat to do toho cloudu, protože
+jak se ti to rozjede, tak
+je to problém.
+A v případě nějakého projektu, kde
+třeba mám, kromě vývojářů, i tým,
+který je zodpovedný za tu infrastrukturu, řekněme
+kvůli těm legislativním důvodům
+nebo prostě kvůli tomu, že ty vývojáři
+toho nejsou úplně schopní právě
+třeba zohlednit ty FinOps
+a potřebuje tam někoho, kdo na to kouká.
+Odkud jde teda
+ten prvotní požadavek
+na tu infrastrukturu, nebo kdo je vlastně
+za to zodpovedný? Má to teda
+vydeployovat, nebo napsat to tam
+ten dev team a obsáci
+na to kouknou, nebo mají dev team
+jít za obsákama říct, ale já teďka budu potřebovat
+možná další dvě servisy, můžeš
+mě to připravit, nebo jaká je ta flow?
+Je to hodně různý.
+Někde prostě ti vývojáři
+dají jarka
+a ty si je nasazují úplně koliv,
+takže jestli budeš mít v Tomcatu, v JBossu
+nebo jestli budeš mít v Kubernetes, tak je ti to jedno.
+Typicky tam, kde prostě
+ty vývojáři dodávají ty jarka
+jako posledních deset let,
+tak tam se od celé toho
+to stará
+ten obs,
+takže možná jsou tam
+jako dev obsáci, kteří právě píšou ty
+dokerizace, pipeliny a tak dál,
+ale vývojáři
+třeba končí fakt těma jarkama.
+Pak ale, když máš typu firmu,
+kde máš jako různý technologie,
+kde v zásadě máš
+prostě nějaký frontend v JavaScriptu
+nebo v TypeScriptu, máš prostě backendy
+v Gočku nebo v Javě
+a teďka prostě tam
+přiběhne prostě nějaký dataři
+s Pythonem, tak
+jim řekneš, ale my jako neumíme
+všechny tyhle ty věci dopodrobna, připravte nám
+aspoň do kří imidže a my vám k tomu
+připravíme nějaký templaty na
+helmí bavíčky a když budete chtít prostě
+si pustit
+pustit tady
+nějakou apku v Javě, tak
+tady máte prostě, kam ji strčíte,
+tady mi řeknete, jaký imidž
+tam mám použít, jaká je konfigurace
+a to je v zásadě všechno, když budete chtít
+něco specifického, tak to nějak jako spolu
+dohodneme, ale jako hodně často bejvá,
+že ty jako devopsáci
+připraví takovýho nějaký jako
+univerzální bavíčky,
+který
+které
+vývojáři používají a je to třeba o tom,
+hele, chcem sice postavit
+novou servisu, ale typicky s recyklujem
+ten bavíček, který jsme měli jako v podobným
+servise předtím.
+Ty jsi tady zmiňoval několik řešení, který tohle z toho řešejí,
+třeba pulumy,
+máš jo, myslím cloud formation,
+na Azure máš armový templaty,
+oni obecně, pokud vím, jsou vlastně dva
+přístupy, kdy třeba ty armový templaty
+v případě Azure, ty jsou vlastně jako stateless,
+kde jenom jako řeknu, deklarativně chci tam
+mít tohle, ale on už
+neřeší třeba, že tam mám nějaký služby,
+který jsem tou změnou odebral, jestli to správně
+chápu. U pulumy naopak ten
+stav tam je, jestli
+to říkám dobře. Jaký jsou výhody
+a nevýhody těchto dvou přístupů?
+A který bys použil třeba?
+Já nejčastějiž používám
+teda Terraform, co se říká zprávy těch
+cloudů. Výhoda,
+nebo já podívám třeba
+Terraform a Ansible, který je asi takový
+jako univerzálně známého. Ansible nemá
+state, Terraform má state.
+Jo, byť Ansible není úplně na zprávu těch
+klastrů, nebo zprávu té infrastruktury,
+tak oni mají přesah
+jako mezi sebou
+a jsem třeba schopnej vytvářet jako
+na AVSku výjimka Ansiblem,
+jsem nejsem schopnej vytvářet tým
+Terraformem. Výhoda toho stateu je,
+že my víme, co jsme vytvořili
+a je to opravdu jako
+plně deklarativní způsob, že já
+když mám něco v tom kódu, tak je to
+zadatelné na tom kódu, když to z toho kódu
+vytrhnu, tak to
+jako, tak on vidí,
+že tam už jako chybí tady ta věc a odebere
+z toho kódu, což je super v zásadě,
+protože nám tam nehníjou nějaké staré věci
+a neplatíme za to, co už nepoužíváme.
+No a co data? Co když to má
+nějaký stav, to, co jsi odebral? Takhle,
+to, že to odeberu
+ještě nemusí znamenat, že
+tím smáznu data, samozřejmě
+jako můžu, hromada těch věcí
+má i třeba zámky, takže já jsem
+schopný, když to nastavuju, tak třeba
+v databázi prostě řeknu, hele,
+jako nedovol můj odebrat, pokud
+jako explicitně neodevřu ten zámek, i ten
+terraform má nějaký takovýhle věci, ale
+za mě, když
+prostě budu chtít tady pustit
+jako třeba 10 kubé na těch nodů,
+tak řeknu, chci 10 nodů, on mi jich pustí 10.
+Když pak řeknu, no, chci jenom
+2, tak se podívá, 8 mi jich smaží.
+Takže, když tohle uděláme
+jako s něčím, co tu state nemá, tak on
+řeknu mu, hele, pust mi tady
+zase 10, pustí 10, pust mi 2,
+on vidí, 2 tam jsou, a to, že tam
+ten zbytek už není. Tak určitě nic neudělá.
+Je to záležité, jako nástroje
+od nástroje, ten ansiblo to třeba neudělá,
+u toho
+ežerárem, nevím,
+je možný, že on jako je chytrý
+v tomhle, že je odebere, že si tu
+state vlastně dělá jako ad hoc,
+ale některý ty nástroje nedělají vůbec,
+tak to samozřejmě pak je, pak musíš
+tu state někde jako zpravovat,
+takže to je věc druhá,
+na druhou stranu to není takovej problém.
+Ještě jedna věc, kterou s klukama
+docela řešíme poslední dobou, je
+Architecture Decision Record, což je
+v podstatě záznam jako důvodů,
+kdy jsme k čemu došli z hlediska architektury,
+nějaký jako vlastně, je to log
+různých rozhodnutí. Jak se tohle řeší
+v případě infrastruktury? Máte
+vůbec něco takovýho, třeba, že si zapíšete
+Decision Record třeba právě
+s ohledem na ty FinOps?
+A pokud jo, sedí vám to někde
+u toho kódu jako takový, nebo to spíš
+dáváte někam do wiky, jako by pokračovalo?
+Hele, moc to
+jako neřešíme, což neříkám,
+že je správně, ale
+já osobně
+tyhle ty věci se snažím držet
+co nejbliž tomu kódu, i všechny jako
+dokumentace.
+Typicky, když to máš blízko toho
+kódu, jsi schopný to nějakým způsobem,
+a teďka nemyslím jenom ty Decision Records,
+ale jako obecně dokumentaci,
+tak jsi schopný zase nějakým
+automatizovaně
+vytáhnout a zběvodit z toho, co jsi.
+Takže za mě
+držet tyhle věci
+v kódu jsou dobrý přístup.
+I jako dokumentace
+k těm různým infrastrukturám, projektům
+se snažíme držet v těch repozitářích s tím kódem,
+protože tam máš
+pak dobrou šanci, že když píšeš
+ten
+kód
+pro tu danou
+pro tu danou infra, a zároveň
+k tomu píšeš dokumentaci, tak to bude
+jakž takž i in sync, a samozřejmě
+nejlepší dokumentace je ta, která
+kterou nemusíš explicitně psát, ale
+a teďka to nejsou ty Decision Records,
+ale ta dokumentace, tak
+když prostě mám
+psát jako dokumentaci, tady jsem vytvořil
+kubernatí klaster, tak je mnohem jako lepší
+mít způsob, že podívám se
+na ty zdrojáky a tady vím,
+že tohle mi vytváří klaster, tak z toho nějakým
+způsobem vytáhnout, jo, je tam tenhle
+ten klaster má tyhle ty jména a
+tyhle ty vlastnosti, jo, takže
+čím mít tu dokumentaci musím
+explicitně psát a čím víc jsem jí schopnej generovat,
+tím jako je větší šance a tím
+je to jako udržitavnější, že ta
+dokumentace bude in sync a že bude jako
+dobrá.
+Jedete Infrastructure as a Code vždycky
+nebo máš pocit, že tam je nějaká jako
+rozhodovací matice, že třeba když ta firma je
+nedostatečně velká, tak to nedává smysl
+nebo to jedete prostě pokračovat?
+Hele, mně to dává smysl jako všude, jak jsem
+říkal, já když něco
+dělám, tak to dá
+tak jako začítám rovnou
+s nějakou Infrastructure as Code
+typicky je to
+Terraform pro infrastrukturu
+a Argo pro kubernety
+s čím se, co je ale trochu problém
+je, že když máš jako
+zákazníka, který mu to chceš vytvořit, on si to pak
+bude zpravovat, ty mu to vytvoříš, ty mu prostě ukážeš
+jak to má dělat v tom, jak to má
+zpravovat tím Terraformem, jak to má dělat v tom Argo
+no a pak ti za rok
+řeknou, že my jsme chtěli pomoct, tak ty se
+podíváš, podíváš se do toho repa a tam
+vidíš poslední komit je tebou a když si
+zeptáš, vy jste na to nesáhli, oni řeknou ne, my jsme
+s tím jako živě pracovali, říkáš jako
+a kde jsou ty komity, oni říkají, no my jsme
+to klikali, no tak
+tohle to je v zásadě jako druhý problém
+že byť to uděláš jako
+a teďka je asi jedno, jestli začneš
+od nuly nebo jestli a
+a něco
+naklikáš a pak si to snažíš transformovat
+nebo jestli teda to nějakou
+formou vedeš, pak máš
+prostě kus zase manuálních úprav
+je to jako stejný, všechny ty manuální
+úpravy se velmi blbě backportují
+zpátky, ne že to nejde,
+ale je to trochu
+jako složitější. Je to příliš, když přijde
+paní na vánoční úklid a pak
+přijde v lednu do toho stejného baráku, že už to vůbec
+nepoznává.
+Oni to naši posluchači neúplně
+vidí, samozřejmě logicky,
+ale Ondra má na sobě
+tričko Kubernetes, který tak krásně
+vyslovuje Kubernetes, což je zajímavý, protože
+někdo říká Kubernetes, někdo
+říká Kubernetes, ale ty říkáš
+Kubernetes, což mě zaujalo.
+A mně přišlo, že dneska řekl všechny
+tři verby, které jsi řekl. No a právě jsem
+sešel taky zvědět, jak to vlastně je správně.
+Jak se to vyslovuje správně, Kubernetes?
+Kubernetes.
+To bylo trošku návodný.
+Nevím. No nicméně
+se u Kubernetes, Kubernetes, jak
+chcete, milí posluchači, zastavme.
+Všiml jsem si, že ty to máš už díky tomu
+tričku docela rád, je to tak?
+Jo. A je to pro tebe jako go-to
+platforma? Za mě je to
+jako primární
+nebo první volba,
+po který sahám, když chceme něco provozovat.
+To znamená, když
+spravujeme nějakou infra, nebo když
+potřebujeme provozovat nějaký
+kus softwaru, tak první
+volba je, pojďme to dát do Kubernetes.
+Pokud tam není
+žádný důvod, proč ne,
+tak to je v Kubernetes, není to
+jako, že dejte mi důvod, proč bych to měl dát
+do Kubernetes, spíš dejte mi jako důvod, proč bych
+to tam neměl dávat. Jo, takže když
+vemu, nevím, třeba frontend, tak pokud
+je to statický frontend, může to být klidně prostě
+S3 bucket a
+nějaký CloudFormation,
+ne CloudFormation,
+no to je jedno,
+třeba Vercel. Jo, prostě
+když mám nějaký next,
+tak strčím to do Vercelu,
+mám prostě k tomu
+CDNku z krabice, mám k tomu
+jako hromadu věcí, který vlastně nemusím
+řešit, tak jo, tam to smysl dává,
+ale když mi prostě, řekneš,
+potřebuji tady provozovat nějaký Javík backend,
+potřebuji tady provozovat nějaký frontend k tomu
+v PHPku, tak já řeknu,
+ale dejme to do Kubernetes a kde pustíme
+to Kubernetes, to už je jako druhá věc,
+ale primárně v Kubernetes.
+A kde bys ho teda teďka pouštěl? Protože
+máme, že jo, na Azure máš AKSko,
+na AWSku vlastně můžeš mít
+ho taky rozje na Google, dá už se teďka,
+to asi nabízí už každej cloud, ne?
+Jo, v zásadě každej cloud, od velkejch,
+malejch i těch lokálních poskytovatelů
+provozují, jako poskytojí
+Kubernetes, což je super,
+a teďka kde bych ho pustil, to velmi
+záleží na tom, o čem to je.
+Pokud jsi v Amazonu, tak asi nedává
+smysl si říct, že třeba v Azure Kubernetes je
+lepší, když oni jsou v zásadě velmi srovnatelný,
+takže prostě, když používáš
+jeden z těch cloudů, tak to pustíš tam,
+kde jsi, když bych si měl vybrat na zelenou
+se, tak podle velikosti projektu,
+pokud víš, že tam bude potenciál,
+že tam je potenciál na nějaký
+větší růst a využívání těch
+cloudových služeb, tak
+prostě jdi do AWS a Azure,
+pokud prostě chci pustit Kubernetes, nechci se o to
+moc starat, tak můžu zvolit nějaký menší cloud,
+jako je DigitLotion nebo Hetzner,
+říkám menší cloud v porovnání s tím
+AWS, jako je výrazně menší v porovnání
+s tím KFC tady v Čechách, je to sakra velký.
+Ale zároveň v Čechách
+jsi prostě schopný v českých radiokomunikacích
+v AWS hostingu
+pustit Kubernetes nebo nechat si
+zpravovat Kubernetes a
+provozovat to tam. I když máš
+on-prem řešení, tak dneska už
+jako setup Kubernetes
+jsou tady distribuce, jako je Rancher Kubernetes
+Engine, tak to jsi schopný si pustit
+velmi jednoduše i u sebe v on-premu.
+A taková ta
+tradiční zásadní otázka,
+dáme tam úplně všechno, včetně databázy,
+včetně věcí, který prostě má nějaký
+state, i když víme, že půjdeme do cloudu,
+nebo je to
+všechny stateless věci
+poběží v Kubernetes, protože můžou to kdykoliv
+jak jsi říkal, prostě downscalovat, upscalovat,
+whatever, a ty věci, který mají
+stav, třeba strčím do nějakých separátních
+managovaných služeb, databáze
+s nějakým backup plenem a tyhle ty věci. Jak to řešíš?
+Když máš možnost
+používat managované služby,
+zase je tam trade-off,
+chci se o to starat sám nad Kubernetes,
+takže byť mi
+Kubernetes řeší to, že
+smažu nějak, že vím prostě, chcít mi něco,
+tak mi ho přeplánu někde jinde,
+ale furt si musíš řešit backupy, furt si musíš
+hlídat nějaké věci, samozřejmě
+máš managované služby, které to řeší za tebe,
+jsou dražší, takže si vyber ten trade-off,
+jestli se ti to vyplatí, strka do těch
+managovaných služeb a někdy pak máš
+prostředí, kdy to vůbec nedává smysl,
+typu seš v bance, tam máš prostě
+databázisty, který si databáze provozujou
+nějakým způsobem a ty vlastně vůbec nemáš
+jako přístup k tomu, jak na to sahat,
+takže tam pak v těch Kubernetes běží
+typicky ty
+jenom ty aplikáče,
+ale jo, takový ten
+přístup, jako hele, cokoliv, co má stav,
+jako do Kubernetes nestrakat, mně přijde jako
+asi jako zbytečný,
+jako jaká si obava,
+na druhou stranu, když si nad tím začínáš,
+tak typicky je samozřejmě jednodušší začínat těma
+s těmihle věcmi a osahat si to a pak tam
+strakat ty věci, které mají stav.
+Jak se koukáš na takový ty služby
+typu Container Apps na Azure,
+já myslím, že na AWSku
+to má určitě taky obdobu, kdy vlastně máš
+nad Kubernetes
+klastrem postavenou službu,
+která, jako ty víš, že tam někde zatím je,
+ale už se ani nedostaneš k tomu, aby jsi třeba
+manageoval ty nódy, nebo aby jsi tomu nějak jako
+výrazně na to šahal po tý
+hardwareový stránce, nebo nastavoval nějakou sílu,
+jenom vyloženě tam prostě deployuješ do kroví
+kontejnery a řešíš nějaký
+networking mezi sebou a to je vlastně
+that's it, včetně nějakého škálování.
+Jak ty to vidíš? Jsou dvě věci. Jednak
+máš,
+když mám třeba Amazon, tak to máš
+EKS, Kubernetes a pak
+ECS, jejich vlastně vlastní
+implementace kontejnerů. A
+teďka rozdíl je v tom, že
+to
+EKS, to Kubernetes je prostě pořád
+Kubernetes, být s nějakýma manažovanýma
+jako manažovaným
+Kubernetes mástrem a
+manažovaným manodema, takže ty prostě řekneš, jak to má být
+velký, ale furt je to jako Kubernetes.
+A pak máš druhou věc, to ECS,
+kde si myslím, že to není postavit nad Kubernetes,
+ale má nějaký vlastní způsob, jak to dělat
+a tam teda
+opravdu strkáš ty dokry
+a ono to něco dělá.
+Já mám radši ty Kubernetes,
+protože
+ta zpráva mi přijde,
+že je jednodušší pořád,
+můžeš to zprávovat
+hromadou open source nástrojů,
+můžeš to přesunout případně jinde, můžeš mít prostě
+jednodušší testovací prostředí,
+než by to u těch ostatních
+nešlo, ale přijde mi, že to je jednodušší.
+Ale co je druhá věc,
+tak dneska už to začíná
+v Amazonu, v Azure,
+u těch ostatních, těch menších poskytovatelů
+spíš ne, tak jsou
+Kubernetes, který mají
+normální Kubernetes management,
+Kubernetes API, takže můžeš použít Argo,
+můžeš použít veškerý tooling, který máš,
+ale ten workload je serverless.
+To znamená, že ty nemáš Kubernetes
+nody, ale prostě jenom pouštíš ty
+konkrétní pody, pouštíš ty
+konkrétní docílí imidže a ono
+si to manažuje ten podvozek
+jako po svém, takže ty neřešíš, že potřebuješ
+přidat node nebo že ti dochází místo v klastru.
+Můžeš tam toho pustit, kolik chceš, ale
+manažuješ to přes to Kubernetes API a to si myslím,
+že je jako zase zajímavá
+cesta. A je to pak teda, řekněme,
+přístupnější pro ty lidi, kteří mají třeba
+teďka z Kubernetes strach, protože, co si budeme
+povídat, Kubernetes je fantastický
+nástroj a za historii prostě vyřešil
+spoustu věcí, ale taky existuje
+nespočet stránek typu
+Kubernetes disasters, kde si můžeš
+přečíst, co všechno se
+s tím špatně stalo a k čemu to vedlo.
+Může tohle z toho třeba ten strach trošku
+si myslíš odstínit? Já si myslím, že
+ten, jakože, že obecně manažovan
+Kubernetes, a je teďka jedno, jestli jsou
+pod tím jako výjemka nebo nejsou,
+tak ten strach trochu jako odstínujou.
+Za mě,
+já když dneska,
+možná je to jako
+radikální teorie, ale moje teorie je taková,
+že pokud bych měl dneska někoho naučit
+provozovat nějakej software,
+provozovat to jako
+produkčně, tak je mnohem jednodušší
+toho jako novýho člověka zosvětit do provozu
+v Kubernetes, než prostě
+v provozu třeba na výjemku. A teďka proč?
+Protože pokud chci
+provozovat něco v Kubernetes, tak
+Kubernetes
+hodně věcí unifikuje, což je za mě jako
+super, že
+unifikuje
+všechny věci.
+Když já chci provozovat něco na výjemku,
+a teďka i kdybych to měl s dokrem, tak prostě potřebuji
+budu najednou vědět, jak funguje
+SSH, kam to tam vlastně mám strčit,
+jak to tam budu aktualizovat,
+teďka potřebuji, že jo, mít nastaven
+propoje na SSH, další
+věci. Když ale mám Kubernetes,
+tak já mu řeknu, když chci podpustit
+tenhle ten dokří imeč, tak napíšu
+deployment, k tomu napíšu servisu,
+k tomu napíšu ingress. V zásadě to je
+to jako bare minimum, který potřebuju.
+Takže jsou to tři amla, který mají,
+každej má prostě třicet řádků,
+a teďka, buď to řeknu,
+no a teďka dáš kubicitil apply, a ono to tam je,
+což teda spíš nechceš, řekneš, jako
+teďka mi tohleto strč do
+toho Argo repozitáře, takže komitnizo na tohoto
+místo. Jo, kdybych teda jako
+nezaučoval do toho Argo, prostě řekl,
+ale nasled si to prostě s tří command line,
+nebo až to dělat z ruky, tak pořádně přijde, že
+někomu, kdo vůbec neví, jak fungují
+SSH, tak prostě stáhni si tady
+binárku kubicitil,
+potom tady skopíruj tenhle
+příklad, který ti prostě ten cloud vypsal,
+nebo stáhni si ten konfigurát, který ti ten cloud
+jako poskytne, a najednou jsi připojený
+k tomu klastru a můžeš s tím jako velmi
+jednoduše pracovat. A za mě ta
+velká výhoda Kubernetes je, že unifikuje
+tu platformu, a já když přijdu do nějaký firmy,
+tak jasně, jsou tam rozdíly, používáme
+Argo, nepoužíváme ho, používáme Helm,
+používáme Customize, ale jako
+in general, když prostě přijdu a chci
+si tam zorientovat, tak já se
+připojím k tomu klastru, dám kubicitil,
+get ingresses, a teďka mi ukáže
+všechny public endpointy, dám
+get services, vidím všechny interní servisky,
+dám get deployments a vidím, co tam je
+nasazený. A teďka je úplně jedno, jestli
+je to jako banka, nebo jestli je to startup,
+ale ten...
+To foundation je stejný vlastně.
+A můžeš možná ještě tady padali
+Helm, Argo, můžeš tyhle pojmy
+vysedlit pro posluchače?
+V zásadě, Helm je
+bavíčkovací systém pro Kubernetes,
+já když píšu ty kubernatí
+file, tak jsou to statický
+jable, tím Helmem jim můžu dát
+trochu jako dynamičnosti, typu
+zapínat něco na základě nějakých
+parametrů, měnit nějaký hostnamy,
+takže můžu mít počty instancí, doménů
+v devu a v pradu, takže používám stejný
+bavíček. A takže
+v zásadě je to o tom,
+že teda nepíšu ty konkrétní kubernatí objekty
+jako je deployment, jako je servisa,
+ale nějakým způsobem zabalím
+a můžu to poskytovat prostě jako
+tohle to je nějaký
+balík, který někam nasazuju.
+Takže to je jako řekněme verzovaný
+balík těchto
+jable filů s možností nějakého
+dynamického skriptování.
+Jo, přesně tak.
+Tady k tomu bych ještě navázal na
+jednu věc, kde to kubernatí jsme dával
+jako velký smysl a to je, že
+krásně určuje
+tu dělici čáru
+mezi tím pravozem
+toho softwaru a třeba dodavatelem a vývojářema.
+Protože my jsme v hromadě organizací
+jako zavedli to,
+že teda ta platforma, na kterou nám budou
+dodavatele dodávat, bude právě Kubernetes.
+Takže co my očekáváme
+od těch jako dodavatelů
+píšem to prostě do výběrek
+my chceme, aby aplikace byla
+určená pro Kubernetes a očekáváme
+prostě helm balíček a očekáváme
+k tomu nějaký dokříjímyček.
+Takže přijde dodavatel a řekne mi, tady chcem dělat
+pro vás tady tenhle systém
+a řekne mi, dobře, dostanete svůj namespace
+v testovacím klastru, dostanete namespace
+v produkčním klastru, kam teda vy neuvidíte,
+ale my to tam budeme nasazovat
+a vy nám prostě dejte ten balíček a my si ho tam
+potom třeba tím Argem, k tomu se dostaneme za chvilku,
+nasadíme. Když
+neumíte, tak my vám s tím pomůžeme, ale
+důležitý je, že prostě ty vývojáři
+nám teda v tomhle případě teda připravej
+i ty kubernatí manifesty, když je to
+interně ve firmě, tak to spíš
+nebo můžou připravit i neopsáci, jak jsem říkal,
+že prostě připraví nějaký ty templaty,
+ale je to o tom, že
+je tam jako velmi jasný řez,
+o co se stará ten dodavatel, o co se pak
+stará ten provozovatel. Takže
+já pak prostě se starám o tu jednu
+unifikovanou platformu, to je Kubernetes
+a na ní mám prostě hromadu těch
+hromadu těch jako připravených
+připravených
+aplikací od těch dodavatelů.
+A jak to tam vlastně chci provozovat,
+tak jak jsem tady, jsme se bavili o
+Infrastructure as Code a GitOpsu,
+tak právě
+tak
+jedna z těch
+možností, říkali jsme tady, že
+Terraform, Pulumi, tak to je
+GitOps pro tu infrastrukturu, pro
+zprávu těch klastrů, zprávu sítí
+v tom klaudu a Argo
+je nástroj pro GitOps
+v rámci Kubernetes, to znamená,
+já když chci do toho Kubernetes něco nasazovat,
+tak můžu udělat tenhle install,
+kubectl apply a nebo zase použít
+Infrastructure as Code a
+rozvěc nějaký Argo, tomu říct,
+že tady je repozitář, všechno, co v tom repozitáři je,
+tak nasazuj a pak to nasazení
+pro mě znamená,
+vytvořím nějaký Kubernetes objekt,
+hele, nasaď mi tenhle balíček
+s těma hové parametrma do tohoho klastru,
+takže o tom je to Argo,
+že se mi vlastně stará o tu GitOps část
+pro to Kubernetes.
+Takže když bych se podělal na tu pipeline, tak míš se to,
+aby jsi měl v nějakém kroku, teda nějaký
+jako vyloženě kubectl
+apply, tak tam máš teda
+zavolání toho Arga, nebo jenom
+aktivace, nebo on stačí jednou a on už
+kouká do toho repozitáře a tam, co se děje,
+tak on už rovnou cpe. Je to o tom, že kouká
+do toho repozitáře
+a takže těch
+jako přístupů je několik.
+Já nastavím ten repozitář a teda co chci
+nasadit, to vemu, komitnu do toho repozitáře
+a decito, nebo zameržu a dál.
+Toho samozřejmě můžu zase
+automatizovat, takže pokud mám nějaký
+testovací prostředí, kam chci
+nasazovat jako automatizovaně,
+ale pořád chci dělat GitOps, tak v zásadě
+v té pipeline místo kubectl apply
+bude nějaký automatický komit,
+takže prostě mi řekne
+teďka mi do toho
+nebo možná ne komit,
+může to být spíš pull request, takže prostě mi to řekne
+hele teďka v tom Argo repozitáře,
+který se stará o to GitOps, což není
+ten repozitář s tou aplikací, ale je to repozitář
+s tím, jak se to nasazuje, s jakýma parametrama,
+tak v tomhle tom
+repozitáři, která mi to vytvoří pull request,
+hele aktualizuju třeba verzi toho,
+co chci nasazovat, nebo počet instancí,
+co chci nasazovat, tam se mi pustí nějaký
+cejčko, který v tom devu může být velmi jednoduchý,
+prostě pokud to projde
+nějakým lintem, nebo nějakou statickou
+navizou, tak to zamerčuje, ono se to
+zamerčuje a to Argo si sleduje ten Git
+a jak říkám, GitOps je o tom,
+že teda to, co je v tom Gitu, má být
+zrcadlem do toho klastru, takže
+on si načte ty změny v tom Gitu a nasadí je.
+Mě ještě úplně vyvstala, jak
+tady o tom krásně mluvíš, jedna zásadní
+otázka, která se taky velmi často řeší
+a to je otázka jako secretu, jo, je několik
+vlastně způsobů, buď ty secrety
+můžeš mít, řekněme, nastavený někde
+na tý Bill pipeline a ona ti
+prostě to pak dojde v nějakým keyvoltu, nebo
+už jsou připraveny v keyvoltu a ty ho to jenom
+prolinkuješ, nebo můžou
+být určitě způsoby jiný.
+Jak to vidí Ondra, kam vlastně patřej
+v tomhle celý tý pipeline,
+kam patřejí secret věci?
+Jo,
+secrety patřej do nějaký
+jako, do nějaký platformy,
+která řeší secrety,
+rozhodně nepatřej do
+plantextu do GITu, byť
+někdy je to jako na začátku opravdu nejjednodušší
+a když jako
+začínáme, tak jako občas si tam máme
+ono, když se pak podíváš, kde jsou jako
+jinde, že jsou prostě v nějakým Excelu,
+kterým má příslu půlka firmy, tak ono to asi jedno,
+jestli to jako bude v tom GITu nebo ne.
+Na druhou stranu, jako ten ideální
+přístup je, nemíte
+v tom GITu, ale mít je zase nějak rozumně spravovatelný,
+takže
+Azure Key Vault,
+Secret Manager v AWSku,
+v on-premu se dá použít
+HashiCorp Vault, ten se dá teda použít
+samozřejmě v těch cloudech, ten mám zase, já rád,
+protože já rád používám ty věci, které se dají
+použít jako všude,
+nebo potom jsou jako mnohem jednodušší
+metody, jako je Seal Secrets,
+nebo prostě komitnout ty secrets
+do GITu, ale zašifrovan, ať už je to
+PGP, nebo je to nějakej jako nativní
+způsob.
+Co se týká třeba toho
+Terraformu, tak Terraform
+je od stejných autorů jako
+Vault, takže tam,
+pokud si
+používat nějaký secrety, buď to použiju
+Vault, nebo teda smůlu,
+můžu tam prostě PGPčkem něco zašifrovat,
+komitnout do REPa. V Kubernetes
+máme těch možností někovek, já
+jako osobně preferuju ten Vault,
+protože ten umí věci typu rotace secretů,
+takže já mu jenom prostě řeknu,
+že tenhle ten pod se smí
+si stáhnout tyhle ty secrety.
+Výhodou toho je, že ty pody mají nějakou identitu,
+takže oni se zeptají toho Vaultu, dej mi ten
+secret a nemusím tam řešit jako
+ten
+pod se zeptá toho Vaultu, ten mu
+řekne teda OK, jsi v tomhletom namespaceu, máš
+tenhleten service account, takže jako si
+pro ten secret můžeš sáhnout a ten
+Vault ještě může dělat to, že třeba pokud
+si ten pod bude sát pro secret
+databázy, tak on si na té databázi
+pro každej ten pod vytvoří novýho uživatele,
+ten secret bude mít nějaký
+DTL, takže když ten kde líkne, tak po týdnu
+třeba všechny, všechny secrety už jsou dávno
+jako zratovan, což je super.
+Na druhou stranu, pokud nechceme řešit
+tenhleten složitější setup, nejjednodušší
+způsob v Kubernetes je použít
+sealed secrety, co to je?
+Je to v zásadě, že v klastru je nějakej
+nějakej
+private key,
+my tou asymetrickou
+kryptografii to zašifrujeme, ten náš
+konkrétní secret proti tomu danému secretu
+v tom klastru a to komitneme do gitu,
+takže v gitu máme prostě v objekt secret
+nebo respektive v objekt sealed secret,
+který má v sobě ty data
+zašifrovaný a jenom když
+máme přístup k tomu klastru, tak jsme schopni
+otevřít nebo až ho nasadíme do toho klastru.
+Takže tohle je asi to,
+jak se to řeší.
+Takže to jsme měli DevOps, to jsme měli
+Infrastructure ZCO, to jsme měli Kubernetes,
+to je skoro na knihu, ne?
+Krásně, ty jsi borec oslých
+můzků, ten je věřitelný.
+Tak samozřejmě měli jsme připravenou část, kdy
+Ondra se chystá na
+psaní knihy nebo je v nějakém procesu,
+tak poveď nám víc, Ondro.
+Píšu knížku,
+já jak mám
+hromadu těch školení, mám zkušeností
+zhromadu věcí, tak se teďka ty věci
+snažím se sumarizovat do knížky.
+Už teda jako víc než rok
+se to snažím.
+Kolik máš už napsaný,
+přiznej se.
+Mně přijde, že poslední rok mám tak jako 80%
+a furt píšu a furt se to nemění.
+To je, jak se softverem, to je, že zbývá dodělat druhou půlku.
+Takže
+ne, že bych teda jako furt psal,
+ale
+snažím se to dotáhnout.
+Obdivuji vlastně všech
+někdo knížku napsali, protože
+je to jako
+pracný a ta idea
+vlastně, proč se dá do knížky, je o tom,
+že hromada těch
+technologií, přístupů už se tak jako ustálela
+a já bych
+chtěl ucelit vlastně tu věc,
+nebo jako uceleně
+pojmout vlastně celý ten DevOpsí stack
+a jak to dělat a
+mít to jako nějakou foundation
+na to, jak třeba potom
+v některých firmách jako zavádět ty věci
+do praxe.
+Já totiž
+hromadu vlastně konceptů nebo
+problémů, kterých řeším, jsou jako dost stejný.
+Některý ty věci jsou čistě jako
+architektonický nebo jsou prostě jako
+koncepční a
+takže to byla vlastně ta
+motivace, hele,
+pojďme tyhle všechny věci vzít, udělat
+z toho nějakou knížku a
+jako
+mít nějaký takovýhle základ.
+Já jsem čet knížky typu SRI
+od Google, ty knížky jsou skvělý,
+ale jsou jako za mě jako
+hodně, tam ta koncepčnost je jako
+jenom ta koncepčnost, tam je říkají prostě,
+hele, používej nějaký
+distribuovaný systém komputingu,
+ten musí umět to a to, prostě
+tady state toho musí držet
+něco, co má Paxos algoritmus
+a ve výsledku ti řeknou hromadu
+toho jako backgroundu, ale neřeknou ti
+použij Kubernetes. A já bych to chtěl
+spíš dostat do toho, hele, do toho
+prakticky, jo. Hele, tohle jsou ty
+tohle jsou ty
+ty jako věci, který potom požadujeme,
+takhle to chceme dělat a tohle jsou zároveň
+ty nástroje, který na to můžeš využít
+a nějak udělat aspoň nějaký jako intro
+do těch nástrojů, aby když si to přečteš
+jako vývolař, který třeba
+není devopsák, tak aby jako řekl, OK, podle
+toho nějak můžu postupovat a zároveň
+jako když jsi nějakej manažer, tak aby jsi
+řekl, jo, tyhle ty jako řešení
+nám dávají jako do budoucna, do budoucna smysl.
+Jo. Vem mu
+tak ukázku, jednu jako kapitolky,
+ona teda není úplně jako na začátku
+tý knižky, ale je to jedna z prvních,
+který jsem jako začal, tak bylo...
+Nezačal jsem od začátku, jo? Nezačal jsem od začátku.
+Dělal jsem tak jako
+hodně na přeskáčku a nějak
+to jako, tak udělal jsem se jako
+jako mindmapu a jak já jsem z toho začal vyzubávat
+ty témata typicky, ty, které mě jako zajímaly,
+jsem napsal... Jasně, jako první.
+A pár jako v uzovkách článků
+z tý knižky už jsem někomu rozposlal právě,
+abych si pak ušetřil práci
+v budoucnu, ale když teda vemu
+jednoto téma, který tam třeba řeším,
+tak jsou to takový
+věci typu
+používání interních certifikátů a používání
+takových těch jako domen.local
+anebo domen jako vůbec,
+prostě lomeno jira a to je všechno.
+Vy jsi prostě... To je něco, co
+když si na začátku řekneš jako pořádně, hele,
+vykašleme si na interní autoritu,
+pojďme všechno stavět letným kryptem,
+tak si ušetříš mrtě práce s tím,
+že nemusíš všude všechno podvehovat
+a co máme jako
+enterprise zákazníky, tak
+ten rozdíl toho, jak bych to dělal
+jako ve startupu a jak to budu dělat
+v jejich prostředí, a teďka
+se můžeme bavit jenom třeba o těch
+autoritách, že hromadu času prostě
+řešíme to, aby všude byly správné
+certifikáty, tak to je něco, co
+jsi schopný si jako
+vyřešit. A jasně
+můžeš mít prostě svou jiru
+na jira.corp
+nebo můžeš mít prostě jira.corp.com
+kde nemusíš řešit podvořování
+certifikátů, ty browsery se tomu bránějí
+čím dál víc a víc
+a najednou si ušetříš
+jako hromadu práce. Takže
+to jsou ty věci, který v té knížce
+jako rozebírám, jo, proč
+třeba dělat tady tím stylem
+a nejenom tohle, ale
+vlastně jak si to celý postavit, jak si vybrat
+jako kde to budu provozovat, jak si
+vybrat ty technologie. Některý tam jako
+někde jako moc na výběr nedávám, prostě
+použijete Kubernetes, jo,
+ale kde je třeba budete používat, tak to
+už je na vás. Takže
+o tom to je, no.
+Jak funguje ten proces?
+Dáváš si s někým nějaký feedbacky?
+Ty si říkal, že posíláš články někomu,
+aby si sušetřil práci, to znamená nějak
+si to necháváš oponovat? Jo, nějaký jako
+reality check tam mám,
+ale ještě to jako není ve stavu,
+kdybych jako někomu dal
+tohle si přečti a řekně mi, jestli to
+jako je celá knížka
+jako ready nebo ne.
+Ten proces je typicky takový, že
+abych se k tomu dokopal, tak musím
+no, tak typicky jdu do čajovny a tam to
+píšu v čajovně, kde zda jako
+internet moc není a
+a mám na to klid a nějak jsem si jako
+navíc, že tam píšu, jako drobný problém
+je, že ten barák, v který mi ta čajovna se teďka bourá,
+takže čajovna teďka
+není, ale
+ale typicky se na to
+jako musím vyhradit nějaký větší blok,
+abych se do toho dostal a
+píšu to, no.
+Říkáš, že internet tam není, protože první, co mě napadlo je,
+používáš na to nějaký AI, který tě s tím trošku
+pomáhá.
+Tak internet tam je takový jako, ne, že úplně není,
+ale je...
+Aby jsi nečuměl na YouTube prostě takový internet.
+Takový ten je akorát.
+No, takový ten jsou, jsou.
+Jako máš ode mě dneska ten.
+Jo, jo, zhruba, a ten je dobrý.
+AI, já jsem to jako
+rozdělal jako ve fáze,
+kdy AI jako vůbec nebylo, takže
+nějaká část je úplně bez AIka,
+někde, někde
+jako mi to doplňuje, doplňuje
+věty, když píšu, já to teda píšu v Notionu,
+protože jsem jako přinešel,
+kde je to, nejspíš pak budu muset nasázet
+někdo nějakýho Wordu nebo do něčeho takovýho,
+ale ten Notion mi právě, já ho používám
+jako hodně rád, takže tam to píšu, tam nějaká AI
+jako built-in je, takže je to v zásadě,
+že mi to jako doplňuje, doplňuje
+ty věty jako samou od sebe,
+ale že bych tam jako měl jako hromadu
+toho AI, to se říct jako nedá,
+nebo když jsem
+vzdělal nějaký jako, jak poskladat
+kapitol, jak jsem si nechal poradit, já to AI
+používám jako hodně na všechno
+možný, takže něco tam je,
+ale ne, že bych mu řekl, hele, teďka
+napiš odstavec na tohle téma
+a nechal jsem si to celý napsat, tak jako nemám.
+– Takže otázka, jestli to byly česky nebo anglicky,
+je jasná, je to teda anglicky? – Ne, je to česky.
+– Je to česky, jo? A tobě Notion radí
+v češtině? – Jo, ono v zásadě všechny
+ty, všechny ty,
+všechny ty AI služby,
+jak čit GPT, tak toho. Já teda
+primárně, když se ho
+ptám na něco, typu, jak bys to udělal, tak to dělám
+v angličtině, ale když píšu text,
+tak píšu prostě česky
+a ono mi to prostě doplňuje
+ty zbytky těch věd jako česky.
+– Je fakt, že já to taky střídám, jak se bavím
+česky, GPT, jednou česky, jednou anglicky.
+– On to taky střídá, by the way.
+– Že mi odpovídá, jo? – No, že já mu
+třeba pošlu anglický text, řeknu mu
+předluž mi to do češtiny a zkrať to,
+že jo? On mi to dá
+a pak se chvilku povídáme, on najednou svične do anglištiny
+a tak to taky střídá. – Jo, na mě občas
+začaly odpovídat i polsky, že úplně nepoznam.
+– Jo, to je druhá věc. – Můj specifický styl češtiny.
+– To se mi děje u toho Edonu, když si můžeš
+teďka si moje povídat, že jo? Což je skvělý
+pro děti, doporučuji. Vymýšlí hry,
+prostě dává to hádanky a podobné věci.
+Tak to občas přeskočí do ruštiny, do polštiny,
+světiny, styfory. – Ok, takže to bude teda
+česká knížka. – Takhle, primárně to bude
+jako pro český publikum,
+já přemýšlím, že to zkusím dostat
+i do anglištiny, ale primárně
+mám tady jako většinu biznesů v Čechách,
+většinu zákazníků v Čechách, takže
+to bude primárně v češtině
+a pak to
+zkusím v angličtině a uvidíme, jestli se to
+jako projde, ale
+uvidíme. – Kolik stránek to má?
+Bude to mít, plánuješ?
+Bude to nějaká bychle prostě, ala jako...
+– Hele, nemyslím si, že to bude úplně bychle,
+na druhou stranu úplně nemám,
+takhle nebude to jako 50-stránkový
+e-book, chci, aby to bylo jako fyzická...
+– To bude tak JavaScript the good parts, jo, který má
+tři stránky. – No,
+chci, aby to bylo
+jako v printu a chci, aby to podle mě těch
+třista stránek to známít bude,
+dvěstě až třista, nevím,
+ale
+jako nechci, aby to bylo jako takový
+ten typ, jako marketingový e-book,
+kde je prostě 20 stránek a
+kupte si všechno ostatní.
+Samozřejmě neříkám, že nekupujte si to školení
+nebo konzultace, ale
+chci, aby ta knížka
+sama o sobě byla jako přínosem.
+– No, ono vlastně dneska, aby jsi to napsal
+v češtině, v anglištině by měl být taky jednodušší, ne,
+než jako, nevím, desetletkátky. – Podle mě to
+nativní čtenář pozná, jako to je,
+já jsem, já nejsem, že jo, nativní
+jako anglištinář, ale podle mě tam pak potřebuješ
+opravdu nějakého někoho sečtelího, kdo ti
+udělá tu oponenturu,
+korekturu, prostě, jestli
+i gramaticky, jestli to dává smysl,
+jako AI ti to udělá, aby to stačilo
+v obchodním styku, to je podle mě úplně v pohodě.
+Ale u té knížky,
+nevím, no zase
+není to beletrie, možná u té technické literatury
+to není takový, jo. – Jako já si myslím, že ta gramatika
+bude v anglištině u mě lepší, než v češtině,
+protože já
+jsem se nějak jako odvyknul třeba psát
+jako diakritiku, takže ta knížka
+musí projít jako velkým posprostředí.
+– Takže když napíšeš někomu, mejte se,
+jo, mějte se, to mám, no nejražitější.
+– Takže oni vytahují vlastně šampon, přesně.
+– Hele, já jsem ale,
+jak já jsem dřív
+přešel, já jsem vlastně
+přestal psát diakritiku, když jsem přešel na
+Vinnux, kde se jako, kde v té době jako
+čeština a český přepídání moc
+jako nebylo, zvlášť v tom bizarném cizapu, co jsem měl já,
+tak jsem na to úplně jako kašlel,
+přepídání klávesnice bylo tak složitý, že jsem to
+prostě nedělal a po nějakém
+čase, a ani jsem si toho já nevšim,
+ale někdo mi řekl, že já už tu diakritiku nepíšu,
+ani když píšu něco v ruce, takže
+a ještě co je na tom zajímavé, já to nevidím,
+jo, já prostě když napíšu něco v ruce,
+což je teda jako velmi, jako
+– Zřídka. – Velmi
+zřídka, tak
+já tam tu diakritiku nemám,
+a takže hodně často,
+právě když se bavíme o těch AI nástrojích, tak
+prostě řeknu jako GPT,
+hele, tady je tenhle ten text,
+udělej z něj česky, jo, dej tam tu
+gramatiku, jsem na to dřív používal
+něco od nějakých brňáků, jmenoval se to
+ohákování CZ, což byla nějaká
+jako pre-AI
+knihovna, která to používala,
+no tak dneska je čit GPT, a když to máš
+integrovaný se všema těma toolama, tak to jenom
+označíš, řekneš doplnit diakritiku,
+boží. – Máme, máme. – Tak vidíš, tak teď
+už jenom gramatický chyby kapslo,
+kam můžeš na novinky diskutovat, ty vole, to je paráda.
+Hele, prosím tě, ještě
+řekni, už víš, kdy to vyjde, máš
+nějaký deadline, aspoň vnitřní?
+– No, těch se mě už několik,
+takže radši nebudu nic říkat.
+Chtěl jsem to
+hodně na Vánoce,
+to se nepovedlo, letos na Vánoce,
+to se nepovedlo, takže nevím,
+– Příští Vánoce, jo? – Příští Vánoce už by to mělo
+být, doufám, že to bude teda dřív než příští Vánoce,
+naštěstí
+to se týká, co se týká
+lednu, tak většina těch jako
+korporáčních zákazníků, tak jako nic moc nedělá,
+tak to budu mít
+čas na psaní. – Slušení v posilovně,
+takže tak. – No, jo, jo.
+Běhaj po lesech. – Takže
+snad brzo, no.
+– A nějaký pricing už tušíš,
+kdyby tak mohla stát ta knížka?
+– Hele, já si…
+– Nebo to nebudeš určovat ty? – Co?
+– Nebo to nebudeš určovat ty, nebo vydavat?
+– Takhle, já si to chci vydat sám.
+– Jo, takhle, OK. – A nechci to vydat, takže
+já to jako dopíšu a teď to prostě vytisknu
+a rozdám, chci to udělat jako pořádně.
+– Jasně. – Ale nechci to,
+nechci vydavat to, protože
+já nepotřebuju, aby ta knížka byla
+jako v knihkupectví, protože ten
+jako nejlepší jako
+DevOps Sales kanál si myslím, že si udělám já
+lepší než vydavatel. – No to určitě. – Takže
+nepotřebuju, aby mi to on nabízel.
+Jasně, nějaký náklady spojený s tím a nějaký
+risk s tím spojený je, třeba to bude
+jako propadák, ale… – Nebude, já si ji koupím.
+– Do toho… – Tak je to vyřešený.
+– A do toho jsem jako ochotnej jít,
+do toho riziku. Mám na kniha.sika.io
+nějaký formuár, kde se
+asi třista lidí jako zapsalo,
+že už ta knížka zajímá. – Že kniha.sika.io
+– Přesně tak. – Já se tam jdu zaregistrovat,
+povídej. – Takže
+tady
+nějaký jako
+zájem tam asi je,
+takže vyhledat si to chci sám
+a říkám si,
+že cena by mohla být jako tisícovka
+až dvě
+a přemýšlím, že bych to spojil
+i s tím, že dejme tomu
+jako půjdeš na kurz, dostaneš slavu na knížku,
+koupíš si knížku, budeš mít slavu na kurz,
+takže aby mi to trochu
+spojilo ten
+i ty
+nějaké třaty školení. – Super, já jsem tady
+dal formuář, byl úspěšně odeslán. – Taky.
+– Taky, brzy se vám ozvu.
+V případě jakýchkoliv dotazů, pište na
+andrejzavinacika.io, což my rozhodně uděláme.
+Ondra, já vím, že ty musíš běžet,
+my bychom se mohli povídat do nekonečna,
+protože ty jsi úplně nabušenej všim.
+Jenom mi řekni poslední věc, než
+dáme obligátní otázku na závěr.
+Jak jsi tohle všechno naučil? Je to jenom praxe,
+nebo když odejdeš z firmy,
+tak teďka vlítneš na
+Twittery a na odbornou literaturu.
+Jak to rozsebe všechno tohle, co to leješ?
+– Hele,
+jako hodně zkouším,
+hodně experimentuju a velká výhoda
+toho, že jsem se toho tolik naučil,
+bylo to, že jsem vlastně začal dělat ty konzultace,
+protože když jsem dělal
+dřív jeden stabilní job,
+tak jsem řešil jeden set problémů, ale jakmile jsem
+začal dělat konzultace, tak jsem
+najednou řešil hromadu
+různých problémů, různých firm. Neříkám,
+že každý byl jinej, hromada se toho opakovalo,
+ale hromada byla, hele,
+a když seš konzultant s
+vyšší hodinovkou,
+tak oni ti neřeknou, hele,
+budeš tam tady na full time provozovat
+něco jako manuálně,
+ale spíš si tě najmou na to, hele, potřebujeme
+to dostat do nějakého stavu, nebo potřebujeme vyřešit
+nějaký problém, takže potom máš
+mnohem víc
+přístupů k tomu učení a typicky
+ten boost těch skillů
+mi dal to, že jsem vlastně dělal
+hromadu různých klientů
+a že jsem dělal ty věci
+pořád znova a znova
+v různých
+prostředích, takže to asi
+ten stav, kdy jsem teda
+odešel z toho službůlu, kdy jsme to dělali nějakým
+způsobem, kde jsme si to prostě
+nadesignovali, vytvořili,
+okopávali, tak potom, když to stavíš,
+stavíš a stavíš a
+trochu jinde s různýma změnama,
+tak to byl asi ten největší boost
+toho učení.
+Super, to jsem si myslel, že je skvělá rada pro naše posluchače,
+tak Boli, je tvůj?
+Obligátní otázka, tak vedle toho, že plánoješ
+dopsat knihu a prodat milion kusů,
+tak co ještě plánoješ teďka do
+blízké budoucnosti, řekněme?
+Do blízké budoucnosti?
+Můžeme jít na podcast na téma DevOpsu,
+tady jsem se nechal inspirovat na J-Open Space
+s kvělou přednáškou.
+Děkuji, děkuji, děkuji. Rád ti s tím pomůžu, až to budeš řešit.
+Ale říkám si, že nejdřív kniha,
+potom podcast, tak bych se nerozjížděl
+věci paralelně.
+A nic asi, žádnou velkou
+věc teďka neplánu.
+Furt mám v hlavě akademie,
+že bych stvořil nějakou DevOps akademie,
+v zásadě od nuly
+do nějakého použitelného
+hajdovatelného stavu,
+ale zatím je dost práce,
+takže toho je trochu stranou.
+Super.
+No Ondro, my ti strašně moc děkujeme,
+že jsi dorazil. Já, jak jsem tě viděl
+na tom J-Open Space, tak jsem tušil,
+že to bude dobrý, ale samozřejmě,
+jak to tak vždycky bývá, tak si to ještě
+z N násobil. Dozvěděli jsme
+z toho strašně moc. My ti opravdu
+ještě jednou moc děkujeme, že jsi dorazil,
+že jsi nám vykopnul osmou sérii. Ať se daří.
+Knihu já osobně si kupuju.
+Už jsem zaregistrovaný.
+Ať to frčí, ať se ti rozjede
+akademie, no a doufám, že se zase někdy
+někde uvidíme a kdyby si potřeboval
+pomoct tím podcastem, určitě mi napiš. Teď už máš
+i můj e-mail u té knihy, takže není problém.
+Super, děkuji. Díky moc.
+Měj se krásně. Čau.
+My jsme se tady mimo Ether spolum bavili
+samozřejmě kromě tradičního, že to byl
+skvělý host, protože byl a byl nabušený
+jak hovadu, to rozhodně.
+Ale my teď řešíme jenou věc,
+kterou ve chvíli, kdy vy tohle posloucháte,
+my už jsme zcela jistě vyřešili, protože jinak byste
+to nemohli poslouchat.
+Kdy to vyrýsovat?
+Já si totiž myslím, že my to teďka
+točíme, abyste věděli, je
+1.12., dneska začíná
+Advent of Code, já jsem měl připravený na začátku
+i úvod, že vás vlastně uvedu do
+novýho roka, že řekneme, prostě
+přejem vám všechno nejlepší 2024, blablabla.
+A pak jsme zjistili,
+prosince, ale pak budeme
+mít trošku tlak to přetáčet
+na začátku ledna, takže já si
+myslím, Poli, že bychom tenhle díl
+měli pustit 1.1.
+2024, protože to bude
+vtipný, že to je prostě
+1.1., on si ho stejně do 1.6.
+ráno nepustí, protože to všichni půjdu teprve spát.
+Ale tím bychom krásně
+odstřelili celý ten rok
+a nedokážu si vlastně představit
+pro naše posluchače lepší start do nového roku,
+než to vykopnout podkástem, ale teďka čekám
+tvůj obhajův. – Hele, za mě klidně
+a vlastně paradox je, že v tuhle
+chvíli posluchač je chytřejší než my.
+– Jo, že on ví, jak to dopadlo.
+– A my ne. – Co navrhuješ?
+– Hele, nechme to, dáme to na prvního, protože
+já jsem teda, nebudeme úplně
+prozrazovat detaily, ale možná,
+že třeba ještě posluchače čeká něco jiného před
+koncem roku. – Jo, no protože já jsem ti řekl
+ještě nějaký game changer.
+No vlastně můžeme klidně, můžeme říct,
+že pak, když je Lukáš
+Marek splnil
+to, co slíbil, tak jste si užili
+skvělý bloopers mezi svátkama,
+naše přeřeky, prostě takový
+jako funny díl, který vás možná
+bavil. A nebo je tady možnost, že
+ten hajzlík se na to zase vyprd,
+protože už ho urguju tři střetě roku.
+A tohle je první
+věc, kterou od nás slyšíte od posledního
+díru sedmé série, takže uvidíte sami.
+– Ano, takže přátelé, dejte nám prosím tě na
+hodnocení od jedný do desíti,
+jak se vám líbilo tady zakončení tohohle dílu,
+protože podle mě bylo super. – Bylo to fantastický.
+– Mějte se krásně a pokud je
+dneska prvního, tak
+hezkej novej rok. – Všenej, do nového roku,
+ať jste zdraví, ať se vám daří.
+No a my se těšíme na dalších
+pět dílů osmé série vašeho
+IT podcastu pod vocasem.
+Čau.

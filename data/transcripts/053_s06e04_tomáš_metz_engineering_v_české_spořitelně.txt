@@ -1,0 +1,2391 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Krásný den, milí posluchači, vítejte u dalšího dílu vašeho oblíbeného IT podcastu Pod vocasem.
+Jako vždycky naproti mě sedí dneska usměvavý a po Vltavaranu dokonale odpočatý Petr Polipolák.
+A naproti mě Roman Joker, provazník. Ano, odpočatý, to je správný slovo.
+Potřeboval jsem na to jeden jako fuckfest den, kdy jsem si opravdu dal totálně jako ležerní režim.
+Ty jsi si vzal v pondělí syka, já jsem na to koukal.
+Hlavně jako na chicken shit prostě.
+Ty vole, normálně jsem ho nakonec zrušil, protože jsem tam měl nějaký koli, já jsem si nemohl ani odpočinout.
+Ale ne, dobrý, jako nebudu si stěžovat, naštěstí jsem mohl být doma.
+Mně totiž ten den nastupal člověk, tak hrozilo, že půjdu do kanclu a to bych fakt nedal.
+Jo, jakože fakt mě boli nohy. Letos jsem to nejvíc přehnal.
+Jo, jakože jsi to napálil někdy, jo?
+Jo, jo, já totiž, já se přiznám, jsem koukal na čas mojí ženy, která běžela stejný úsek v noční loni.
+A já jsem prostě jí chtěl porazit, jo?
+Jo, no jasně.
+Takže jsem prostě běžel úplně nesmyslně rychle, i když prostě bych se na to vyprd, tak bych to nějak dal,
+protože přece prostě pořád ta mužská konstituce těla je jiná než ta ženská.
+Takže jako, moje žena běhá líp než já na to, že je ženská, ale prostě čas jsem měl lepší,
+ale prostě nesmyslně jsem to přehnal.
+No a jak to bylo, jak to vzala žena?
+Ne, úplně v pohodě, úplně v pohodě.
+Jo, v pohodě, takže uvažil jsi z párky.
+Ona si kouka, prostě mě letos dala, letos zabihla to největší převýšení,
+který tam vůbec na tom Vltavaranu je, ten úsek jako vlastně nejtěžší z tohohle pohledu.
+A úplně se usmívala se, když přibíhala, prostě mě opravdu, neuvěřitelně.
+A nej, takový ten usměv, ty vole, takový ten, víš, že už poslední, když tebou jebne vozem.
+Takový ten týpek, takový to meme toho týpka, jak má to kapé.
+Jo, jo, jo, jo, Harold Payne, myslím, že jo.
+Tak ne, vypadala fakt v pohodě a mám pocit, že to i její dokonalestence byla rychlejší než moje.
+Tak vidíš, tak to je paráda, takhle mě jsi stoužil, to je fajn.
+No ale Románku, ty jsi nakonec nebyl...
+Já jsem nakonec nejel a nebylo to z důvodu, že bych se bál,
+byť jsem se samozřejmě bál, ale už jsem měl bobky 14 dní dopředu,
+ale nakonec kombinace rodinných trablí a komplikací vedly teda k tomu,
+že místo toho jsem byl v Brně, což je teda taky samozřejmě...
+To je docela příjemné.
+To je taky smutný, že jsem musel do Brna, což je strašný už, jak se to řekne.
+Ale nakonec to bylo s dobrým koncem, protože jsem tam byl podívat na mistrovství světa,
+nebo mistrovství republiky, teda mistrovství světa ne, mistrovství republiky ve street dance,
+který teda dcera vyhrála, takže máme doma jako mistrinní republiky.
+Tak já myslím, že to je dosti účinní, docela dobrý.
+To je vidět, pokom to dítě je samozřejmě, kde je pohybově nadanej.
+Já jsem tě teda dlouho tancovat neviděl, ale o to víš, mě to teďka zajímá,
+máme nějaký další interní akce, tak to tam musíš představit.
+To jsem chtěl říct, že 22. června se chystají Deaf Talks ve Zlíně,
+což je obrovská interní akce, kde budou nejmící tři stage,
+že já podvoca jsem live a bude to obrovský, tak tam dost možná mě uvidíš tancovat.
+No teď si na to dám jako speciálně pozor, jako já po tom, co jsem viděl tvojí dceru
+ještě se zlatou medailí na krku, tak to se na to těším.
+Takže to byl ten důvod, proč jsem nebyl nakonec na Votavaranu,
+ale příští rok, pokud zas do toho neskočí nějaká taková ale věc,
+tak se budu snažit jet, no.
+No my tě milenádi zařadíme samozřejmě.
+No a když už probíráme ty akce, člověči, tak mám radost,
+včera jsme se dohodli, už je to zařízený, objednanej hotel, koupený lístky,
+jedeme s naší funkcionální krů, ne teda s celou,
+ale jedeme na Lambda Days do Krakova, což je každoroční akce,
+teď je to tuším desátejroční.
+A tradice vaše už vyběříte.
+Je to už naše tradice, máme to rádi z mnoha důvodů,
+zaprvé vždycky je to jako jízda, protože teď tam jedeš tím Krakovi
+a vlakem s tím jídelákem a teď ti tam furt prostě nějaká ta polka
+nosí ty pivka, takže dojíždíš už jako hrozně veselej,
+ale zároveň ten program bývá hodně hardcore,
+kolikrát tam je takovej ten jako Haskell track,
+kdy vlastně jenom přijdeš, tak jako posloucháš,
+kyveš tou hlavou, víš úplný prd prostě o čem mluví,
+ale třeba jsou tam nějaké věci, že to cinkne,
+že ti to třeba něco rozšíří nějaký obzor,
+nebo že ti to nějak zaujme.
+A celkově je to prostě super.
+Krakov je krásný, oni to přesunuli,
+dřív to bývávalo v únoru, což je napr.
+Teda jako Krakov je furt hezkej v únoru,
+ale není to taková jízda, jako když je tam v létě.
+A my vlastně na začátku černa,
+myslím, že minulý rok jsme tam byli v červenci,
+což bylo ještě lepší, protože bylo fakt teplo.
+Teď zatím to úplně jaro nevypadá,
+ale teďka na začátku černa
+je desátý ročník, jedeme a těšíme se.
+Takže už jsem kusově nadšenej jako ten červen.
+Jen s tím, že na začátku bude
+Krakov, na konci
+bude Zlín a Dev Talks, tak vypadá,
+že to bude našlapaný.
+No tak jo, tak jdeme na toho dnešního hosta.
+Dneska jsme docela dlouhý, koukáš.
+Dneska jsme dlouhý, no a tak zase máme co říct.
+Jsme se dlouho neviděli. Já mám taky pocit,
+že to je nějaký dlouhý. Je to dlouhý, jo.
+No tak dobře, takže jdeme na toho hosta.
+A to je náš, taky de facto,
+když to tak vezmu bývalý kolega,
+a byť už je v delší dobu z našich vod odplul,
+Tomáš Mec, který je v současnosti
+po jeho štaci v McKinsey
+a v různých jiných společnostech,
+nebylo jich teda zase tak moc,
+pokud vím, tak zakotvil jako
+Head of Engineering v České spořitelně,
+což pro nás si myslím bude zajímavý
+z mnoha důvodů, jednak samozřejmě
+chceme vědět, jak to vypadá
+s TechStackem a vůbec, jak vypadá
+Engineering České spořitelně ve velký bance
+a zároveň, jak se mu daří, protože
+prostě jsme ho dlouho neviděli.
+No přesně tak a ta jeho cesta samozřejmě je zajímavá v tom,
+že to už je, my jsme si volali
+a on říká, že není žádná rockstar
+a říkám, no rockstar nejseš, ale jako
+vlastně IT star už seš, protože dostat se
+na takovouhle pozici není úplně
+jednoduchý, takže i ta osobní
+stránka věcí mě bude hodně zajímat.
+No tak jdeme pro ní. Jdeme pro ní, už se zadvěříme určitě.
+Ve studiu s námi sedí náš dnešní host
+Tomáš Mec, nazdar Tomé.
+Tak jaká je, jak se daří člověče, dlouho jsme se neviděli
+naposledy, myslím snad
+na Danově svatbě, což už je taky
+tři roky. No to už je zatraceně dlouho,
+to jsem se zrovna od někaď vracel.
+Z Chorvatska jel z toho, z lodičky.
+Z lodičky, takže furt jezdíš
+na lodi? Furt jezdím, furt mě to baví,
+no už jsem pokročil do dalšího stádia,
+takže budoucí kapitán.
+Až takhle? Aha, takže abšte jdeš, kde tohle
+končí, prosím tě, budeš mít vlastní katamarán, nebo?
+Hele, kapitán, který
+se mnou dělal praktickou zkoušku, říkal,
+že z lodi máš radost dvakrát,
+když jí koupíš a když jí prodáš.
+A jo, a to už jsem slyšel, člověče,
+to je nějaký typický nábořní
+mem. Jo, je to nábořní joke, no
+ta údržba té lodi je
+strašný. To tě stáhne z kůže, jo?
+To tě stáhne z kůže, musíš platit přístav
+a vyndání z lodi a vyčištění
+a opravy a nový plachty a
+někde škrtneš a už to řešíš, ne?
+Vlastně to je jako nepříjemně
+drahý koníček, to si to radši půjčím.
+No nicméně, my jsme tě teda
+nepozvali, byť je to téma, který bychom mohli
+tepat spolu hodiny. To dáme taky někdy.
+Ale nepozvali jsme tě úplně kvůli
+nábořní dopravě a hrátkám
+na moři, ale kvůli tomu, že ty jsi aktuálně
+Head of Engineering z Český spořitelny
+a vlastně člověk, který
+když se podíváme na tu svoji kariéru, tak ten
+už toho proběh taky strašně moc.
+Jak jsme říkali, jsi navíc náš bývalý kolega,
+takže svýho času jsme tady spolu taky
+vymýšleli spoustu funkcionálních
+zajímavostí, ale k tomu se všemu dostaneme.
+Na začátech, pokud nedej bože tě
+někdo nezná v tuhle chvíli ještě,
+řekně nám něco o sobě, jak
+ses vůbec dostal k IT, taková ta
+klasická představovačka.
+Jo, jo, jasně. Já si myslím teda, že mě
+málo kdo zná, krom těch, co se mnou
+pracovali.
+Takže, jak jsem se dostal k IT, to já jsem
+začal programovat asi v sedmi letech.
+V čem?
+Turbopascal 3.0.
+Protože já jsem jako z nějakého záhadního důvodu
+přes status se dostal vlastně k PC-čkový
+platformě a já jsem přeskočil takový ty
+didaktiky, ty spektra, ty
+basicy a tyhle ty věci, takže jsem se rovnou dostal
+k tomuhle, ale to byly fakt takový jako
+pí hrátečky. Nějak jako vážněji,
+to bylo někde na Gimplu, to bylo
+nějakých jako dvanáct, třináct, jsme měli nějaký jako
+dva, tři kámoše ve třídě a začali jsme
+se do toho víc
+opírat. Tyjo, žádný internet,
+žádná literatura, teď jsme si ty věci jak
+jako různě pučovali, že jo, jedna knížka
+na sto lidí.
+Takže to byly dobře dřevní doby, ale jako chytlo
+mě to, bavilo mě to, takže pak jsem z toho
+je odmaturoval a
+nastoupil jsem na fakultu
+aplikovaných věcí Západu České univerzity,
+obor software of
+engineering, computer science.
+To je v Plzni, ne? To je v Plzni, to je v Plzni,
+přesně. A potom
+jsem vlastně ještě strávil rok na
+univerzitě v Regensburgu na fakultě
+matematiky, tam jsem dodělával diplomku
+a dal jsem si tehdy, mě to
+jako zajímalo, že o neuronový sítě.
+Vidíš poly, no vidíš to.
+Ale to už je chlupatá technologie.
+To už je hodně chlupatá technologie.
+Já říkám, že já mám ten základ,
+že jo, ta matematika, statistika
+a ty dřevní doby, kdy jsme si ty neuronovky
+programovali sami, a pak
+dlouho, dlouho nic
+a dneska máme data science, takže
+takže jako
+základy chápu, ale jako ne,
+že bych tomu jako extra dohloubky rozuměl
+v dnešní době.
+No, v škole, tím jak jsem byl
+v zahraničí, dělal jsem tam diplomku pro zahraniční firmu
+na zahraniční univerzitě, tak jsem tam pak, že jo,
+zůstal, takže jsem se dlouhý léta pohyboval
+v jako majoritně německy
+mluvících zemích, Německo,
+Rakousko, Švýcarsko
+a potom nějaké jako Holandsko, Francia
+a podobně. Už je ten DACH region, jak my
+říkáme. Ten klasický DACH region, přesně, to byly
+hlavně jako RPčka a telekomunikace
+a jsem tam nějakej zakázkový vývoj
+nějaký aplikace. No a pak
+vlastně 2011,
+myslím, že jsem se právě objevil v Cienku
+a rozšířil jsem to o
+severní Evropu.
+Takže spolu jsme tady dělali jak dlouho?
+Nějakých cirka 6 let, něco takovýho.
+A koncem
+roku 2017 jsem nastupoval
+už do McKinsey & Company, takže
+když to tak řeknu, dlouho jsem se bránil
+velkým firmám, tak jsem si potom rovnou
+nastupoval jako největší konzultačky
+na světě.
+Takže to byla jízda, 4 roky
+3 měsíce, role Global Director
+of Engineering, takže týmy od Indie
+po San Francisco,
+globální scope,
+lítání po planete.
+Naučil jsem se hrozně moc, jako
+velmi si to
+chválím. Ty lidi mi chybí,
+ty jsou jako úplně neskutečný.
+A
+1. října
+loňskýho roku jsem nastoupil
+teda do Český spořitelny.
+Pravda, mezi tím jsem si tam ještě střihnul s váma
+odbočku. Interim Head of Engineering
+pro Pík a Klopenburg. Ale teda
+od října jsem Head of Engineering and Platforms
+pro Českou spořitelnu.
+No tak to je úctyhodná
+cesta. Když si tak podíváš zpátky,
+vlastně, co
+samozřejmě vždycky ty zítřky
+jsou jako nejsvětlejší, tak když to má člověk
+správně nastavný, tak teprve to správný nás čeká.
+Ale když si tak podíváš dozadu, co bylo
+tak jako největší jízda? Byl to ten přerod
+z toho, že si skočil ze středně velký v té době firmy
+ze Sienka do McKinsey, což
+muselo být, jak prostě jako skočit do Vrtule?
+Jo, to byl jako
+gigantický šok.
+Ne, jakoby řekněme kvůli velikosti té firmy.
+Ona, ta firma je hodně
+distribuovaná, takže
+to moje okolí pořád se pohybovalo
+prostě do nějakých stovek
+lidí, řekněme 300, 500.
+Akorát se to hodně točilo.
+To, co byl ten největší
+kulturní šok,
+je ten mindset v té firmě,
+ten způsob fungování té firmy,
+že přece ten background je
+opravdu jako consulting,
+takže jako naučit se
+v podstatě mluvit jiným jazykem.
+A teď nemluvím o angličtině,
+ale o tom způsobu vyjadřování.
+Takže it depends, bude to 10 tisíc euro,
+něco takového.
+It depends.
+It depends.
+No jako samozřejmě.
+Ano, i ten způsob formulace,
+ale ten jejich strukturovaný
+problém.
+Strukturovaný vyjadřování.
+Ano, naučil jsem se tam dělat slidy,
+sice ne na úrovni integrativního konzultanta,
+ale dneska mi to velmi pomáhá.
+Dostaneš se k věcem,
+ke kterým se nemáš obvykle šanci dostat.
+Já jsem nastoupil,
+za tři měsíce potřeboval někdy něco pomoct
+a stál jsem před CEO boardem firmy,
+která vydělává v miliardách dolarů.
+Tak je to opravdu
+kulturní šok.
+Takže tenhle přerod do toho globálu,
+do jiného levlu
+a do jiného úplně jako způsobu práce.
+A ty jsi lítal po celém světě,
+to znamená, ty jsi se spodíval, jak jsi říkal,
+od San Francisco až po, nevím, Bangladesh.
+No, až někam do Japonska.
+Až někam do Japonska.
+Vynechal jsem Austrálii, no.
+Tak to bylo dneska asi tour the earth, ne?
+No, některý bych si odpustil.
+Jo, jo.
+Příběhy s jetlagem si dáme někdy u piva.
+Jo, jo, tak to je klasika.
+Ale je tam něco, co tě třeba výrazně
+jako šokovalo někde, řekněme,
+jako z profesionálního hlediska,
+že třeba si plácnu, kolikrát někdo přijede na východ,
+teď si myslí, že tam je zděj na oslech
+a teď najde nějaký brutální prostě technologický centrum,
+který ho vůbec by nečekal v těch místech.
+Nebo naopak si přijel do San Francisco
+a jsem byl vždycky šokovaný tím,
+jak je tam špatně připojený k internetu,
+opravdu České republice, třeba ve státech,
+nebo Silicon Valley, jako v té době bylo,
+když jsme tam lítali.
+Něco takového?
+To jsme měli, že jo, projekt
+a museli jsme do Filadelfia a říkali nám,
+jste bílý, vy nejezdíte
+dál jak pět stanic od centra metrem.
+Jo, až takhle.
+Takže jednou jsem takhle nějak blbě
+jel metrem, v New Yorku jsem
+nějak si blbě vybral mašinku
+a přesně jsem skončil někde
+a teď jsem vylez a přesně seš ten jedinej
+bílej na tom peronu.
+První, co se stalo, že se k tobě vydal
+jako černouk dva metry deset,
+říkám, hm, tak to bude zajímavý.
+A on úplně milej,
+jste se ztratil, říkám, no, kam potřebujete
+na většině.
+To musíte tam, tam, tam, já s váma klidně
+podám, to ukážu. Takže jako měl jsem
+naopak jako velmi pozitivní ty zkušenosti
+s těma lidma. A profesně, nebo
+profesionálně nějaký?
+Profesně,
+jako, já asi
+to nemůžu brát úplně jako brnou menci,
+protože ty mý kolegové byly všude na světě úplně
+skvělý. Ale samozřejmě u těch
+klientů, tak tam je to potom jako
+různorodý, takže. Tam ta kultura už
+asi je poznatná. Ta kultura je jiná, no, a tam to
+občas bylo jako, že mě to hodilo 10,
+15 let zpátky, jako když studuji v místnosti a potřebuješ
+vývojářům vysvětlit, tak vůbec funguje git.
+A píše se rok 2020,
+tak to ti přijde jako hodně bizarní, no.
+No a to, ty se dostalaš do tohohle levelu,
+že jsi s těma řešil tyhle
+jako nízko levelový
+věci, řekněme? Já jsem, já jsem,
+jedna z těch rolí, co jsem tam měl, krom toho
+leadershipu, byla expertní,
+takže jako občas to bylo, mykaž děláš
+ten capability building, či se jako
+snaží přenést ty zkušenosti a znalosti
+k těm klientům. No a
+občas to opravdu hold bylo až takovýhle,
+no. Vypadně od toho, já ti to napíšu.
+To bylo, že máš tři dny
+na to, aby si posunul o 15 let.
+Jo, jo, jo.
+Čelenský. Čelenský acceptit, no.
+Docela čelenský. A já si jako vzpomínám, když jsme
+se tak jako bavili, ještě když jsi byl tady, tak jsi dost často
+se vracel, říkáš Mekáč, že jo?
+Jo, jo, jo. Zkrátka Mekenzí.
+A čím to, čím to, že ta firma
+generuje takové, takové
+kvalitní kolegy, vlastně jako mají něco,
+dělají něco jinak, nebo
+jak to vidíš?
+No jako určitě, že jo. Jako v těch státech
+to jméno rezonuje hodně tam, že jo.
+Potom chce dělat každý, kdo to trochu
+myslí vážně s nějakým budoucím leadershipem,
+že tam je to stupenka
+do toho vyššího světa.
+Naopak jsme tím třeba trpěli technologicky
+tady v Evropě, kdy o té firmě vlastně
+skoro nikdo nic nevěděl, takže jako
+vyzobávat si ten talent bylo těžký, protože přece
+jenom rezonují tady takový ty klasický
+high-tech firmy.
+Ale pak jako, když jsme si to vysvětlili, tak
+ty lidi byly jako moc fajn a přidali se.
+No, já bych řekl, že je to možná opravdu
+tím, že ten převistý poptávky
+po té práci McKinsey je obrovský,
+takže si opravdu můžeš jako hodně, hodně
+vybírat. Já jsem mluvil s jedním
+člověkem, který kdysi dávno prodal
+svou firmu Accenture a nějakou dobu tam musel
+fungovat. A on říkal,
+no, McKinsey
+to bere Ačkový lidi,
+když to jako nějak zklasifikujem,
+a dělá z nich A+, nebo A++.
+Takže vybírá si ten
+toptalent a ještě ho jako vybrousí
+ten diamant. No a Accenture
+ten bere tak ty Cčka a dělá z nich B+.
+No.
+Tak bral si.
+Já jsem to jako hands-on experience člověka,
+co tam pár let fungoval.
+Tak já slyšel ještě jinou historiku, že tam byly
+dřív jedničky a nuly, a teď jsou tam jenom nuly.
+Ale...
+Nebudu říkat,
+kdo mi to říkal.
+No a měl by teda dneska
+člověk třeba přemýšlet nad tím,
+že by šel do McKinsey. Jako doporučil
+bys to pořád?
+Doporučil bych to určitě, protože ty věci,
+co se tam člověk naučí, asi jen tak
+nikde tak rychle nezíská. Jako jasně,
+že je získáš, ale tam je to opravdu jako rychle.
+Je to fakt jako bootcamp.
+Jo, ale
+tři na jednou, bych tak řekl.
+Protože tam ti to jako nutí
+jet po té lince té komunikace,
+po té lince toho leadershipu a potom po nějaký
+ty expertízy. A všechny tři na jednou, tam se s tím
+jako nikdo nemazlí, nikdo nečeká.
+Ten systém je fakt jako vymazlený
+na to, aby ty lidi opravdu
+posunoval velmi rychle.
+Takže jako tadyhle z toho je to super.
+Co se týče technologie,
+tak jako řekněme ten úplně klasický software
+engineering.
+Tam nelze čekat úplně, jako nějakej tam je,
+ale jako není to to gro.
+Pokud se ale jako
+ta doména jsou data,
+data science, advanced analytics,
+machine learning, ale na tyhle ty věci,
+tak jako tam se člověk dostane
+k neskutečným věcem.
+Ty data scientisti jsou jako poměrně velký,
+McKinsey hodně investovalo
+do toho, aby je nabralo. Oni měli
+i nějaký akvizice, že je známý Quantum Black,
+který se specializuje jenom
+a pouze na to. Mají nějaký další
+podobné akvizice, teďka
+měli jednu nedávnou, co se teď
+říkalo spíš jako ML Ops, takže oni
+do toho fakt šlapou. A řekněme, že
+ty data, ke kterým se tam člověk dostane,
+ty datový sety, to množství
+a řekněme, i ta doména,
+tak jako tam jsou
+jako neskutečný příležitosti.
+Takže jako pro lidi, kteří zajímají tyhle
+ty směry, geniální
+místo.
+No a teda ještě, jako jsme trošku
+přeskočili tu část, ty jsi začínal,
+jsi kódoval, zvykal si od sedmi let
+a kde se to svičlo do toho,
+že jsi jako víc ty věci konzultoval,
+lomeno, manažoval a vlastně
+jako přišel jsi tam
+přirozeně, nebo tě to
+táhlo tě to tam, nebo
+jak to bylo vlastně?
+No já jsem se k tomu, bohužel
+bohudí těžko říct, dostal poměrně brzo,
+že ty vývojáři většinu tyhle ty věci
+moc dělat nechtějí, ale když je člověk
+zodpovědný za tu dodávku, tak to někdo řešit
+musí. Takže já jsem jakoby
+nějaký koordinace těch projektů, dodávek,
+prací, zadání, requirementů,
+specifikací a podobně začal dělat
+jako velmi brzo,
+abych řekl tak jako, už jako dva roky po škole
+nebo něco takovýho, že jo.
+Když jsme dělali tady spolu, tak jsme dělali
+i s takovýhle věcí, že jsme
+vykopávali projekty a jezdili
+na workshopy s klientama
+a no a co si budem povídat,
+když jsem dostal po domykenzí, tak už jsem si naklal
+to jako nehrál v práci, že jo.
+To už jako skončilo,
+takže to je tak maximálně jako večer
+nebo o víkendu.
+No já se do toho musím vstoupit, já jsem to tady slyšel,
+já jsem slyšel tady od někoho, říká, no
+Tomáš říkal někde, že mu to jako
+vlastně tak trošku chybí a že po večerech
+se stejně k tomu kódu sednul.
+Tak je to takový ten rumor nebo je to pravda?
+Je to pravda, je to pravda.
+Bylo to těžký teda vlastně?
+No jako je to hodně těžký, protože z toho, že prostě,
+když to řeknu v uvozovkách, sedíš
+celý den u stolu v klídku, si tam vytváříš
+ten kód, je za tebou vidět prostě aspoň
+třeba nějaká funkcionita, obrazovka
+a píčko, nějaký testy, že
+aspoň něco je za tebou vidět.
+Máš vidět práci hned instantně.
+Vidíš práci, vidíš nějaké výsledky, tak jako v té leadershipové
+pozici, ještě už od toho příliš daleko.
+Tak tam už jsem si to musel
+přesvědčnout mentálně, že vlastně
+mě těší, že ty týmy fungujou,
+že ty týmy dodávají,
+že to frčí, že se o to třeba
+ideálně nemusím příliš starat a jede to
+samo, že se to podařilo dobře nastavit,
+takže musíš si v tom najít
+toto jiné pěkné,
+co tě potěší.
+A dá se aplikovat
+něco z toho, co jsi aplikoval
+na vývojářský úrovni
+v tom tvým levelu, nějaký
+postup, nějaký přístup, protože jak jsme se bavili,
+ten výsledek je prostě jiný,
+i ta, říkám, instantnost, ta okamžitost
+toho, jak rychle vidíš
+výsledek a teď mi ze zelená testa mám pocit,
+že jsem něco udělal a když půjdu domů, tak už
+nebudu mít blbej pocit, že jsem dneska vlastně
+něčeho nevysáhl, když to u tohohle levelu
+je to takový, jako funguje to, nefunguje to,
+dobře, jak jsi říkal,
+týmy fungujou, tak to asi je dobrý, asi dělám svoji práci
+dobře, ale dá se něco, nějaká
+praktika, cokoliv přeníst z toho vývojáře
+do toho výdra?
+Nedá se přeníst přímo ten skill,
+že to nejde, ale
+minimálně ten strukturovaný přístup,
+ten problem solving, který
+potom třeba ten mykáč vyloženě brousí,
+že vlastně my o těch věcech přemýšlíme hodně
+logicky, že jo, sezbíráme si nějaký
+fakta, utřídíme si to,
+vyhodnotíme si to, to funguje
+pořád, ale ty se na to potom můžeš kouknout,
+takže vlastně ty svým způsobem
+programuješ tu organizaci
+a vlastně ty vytváříš ten
+funkční mechanismus
+tý organizace těch lidí, těch
+týmů, aby to šlo a to se zase
+dá nějak jako měřit, to se dá nějak poznat,
+že jo. Jo, ty řekneš, hele, tadyhle ten
+tým má nějaký problémy, má dodávky,
+co tam chybí, tak jako normálně by si
+mu tam dělal nějakou, že jo, optimalizaci
+koudu, tady víš, že potřebuješ přidat nějakou
+roli, nebo někdo se potřebuje v něčem
+dozdělat, takže dá se to v tom najít.
+Jako jako algoritmizace týmu.
+Já to jako, aby to neznělo, jako že to je
+kompletně odosobněný pořád, protože opracujeme
+s lidma, ale svým způsobem, když designuješ
+tu organizaci, tak se to blíží
+jako určitým těm skillům, jako
+dekompozice koudu, na menší části
+nějaký z odpovědnosti.
+Kontrakty, jak se sebou budou povídat.
+No, přesně, jo, takže dá se to v tom principiálně
+najít, ty paterny tam jsou. Zároveň
+jako, tak to, jak říkáš, ze zelenalá plocha,
+tak já ty ze zelenalý plochy
+vlastně hledám denně, abych jako
+aspoň jednu měl, i v tom jako manažerském.
+Říkal zelený testy. Jo, promiň, no, jako
+rozumíme se. Jasně.
+Aby jsi měl ten dobrý pocit z toho, že jsi něco udělal.
+No, no, jasně, no. Tak to vlastně podle mě v tom manažerském
+aspoň, nevím, jak to máš, ty to máš, jako
+je to prostě podle mě taky, mít tam
+aspoň jednu věc, kterou dotáhneš ten den, aby jsi měl
+dobrý pocit, že jsi to jako udělal, a ony
+spousta věcí jenom jako vykopneš, že jo, protože
+já jsem to teďka začal aplikovat něco jinýho,
+já si dělám v pátek checklisty toho, co se
+v ten týden podařilo, jako
+na jakých jako údobních, a ono je to pak docela hezký,
+protože zjistíš, že jsi to udělal docela dost,
+ale není to úplně jako když programuješ.
+No to je podle mě jako přesně jako
+lidi jako ty, vlastně pak mají takovej ten syndrom,
+že vlastně nic neudělali, ne, že tohle je dobrý,
+si to hezký dopsá, no, no, no, no, vlastně ne.
+To je pro mě, to jako ten list není veřejný,
+ale to je pro mě. No, jasně, jasně. No a to takovýhle
+review udělám taky, no, jo, úplně to samý,
+takže když se mi podaří vyházet
+zrelu pár kartíček v pátek, tak
+je tam jako, to uspokojení tam jako
+přijde, no. Ale je to přesně jak říkáš,
+Poli, no, jednu věc za den
+mít jako odfajfknutou.
+Jo, jo, jo.
+Tak jo, pojďme skočit do Český
+spořitelný rovnýma nohama.
+Tak jak se stává o citome?
+No, asi úplně nepřekvapivě
+bylo to přes McKinsey kontakty.
+Vlastně jeden
+z partnerů, se kterýma jsem pracoval,
+tak mě tam vlastně potom seznámil
+v tehdy relativně novým členem
+boardu. Vlastně já jsem
+nastupoval v říjnu Loni a
+Martin Kobza nastupoval rok přede mnou,
+takže tam byl cirka rok.
+On je
+CEO, Chief Organization Officer,
+takže má na starosti vlastně celý
+operations, celý IT,
+back office, takže vlastně všechno
+to, co ta banka
+někde na pozadí dělá.
+Kolik to je lidí v jeho případě?
+Jenom tak pro představu.
+Ty brdě, někde jsem ty čísla
+viděl. Jsou to tisíce. Jsou to nějaké
+jednotky tisíců, no, jako jestli to je
+tři a půl tisíce, tři a dva a půl,
+ale fakt úplně přesně. Já jsem ty čísla někde
+viděl, já si je nepamatuji. Jasně, jasně.
+Chodí kolem mě příliš mnoho čísel.
+Jo, jo, jo, to si jdu představit.
+No, takže jako s Martinem jsme si sedli,
+přemejšlí mi o spoustě věcí
+jako velmi podobně, dávalo mi
+smysl to, co tam plánoval,
+začít dělat. Potom, když jsem
+měl v uvozovkách
+pohovor se zbytkem
+bordu, takže náš CEO
+Tomáš Salomon, ten to má taky jako v hlavě
+srovnaný tu vizi, jako kam
+tu spořku chce posunovat.
+Tak
+tak jsem si řekl, že jo, no.
+Super, super. Teď tam seš teda i dlouho?
+Půl roku? Sedm měsíců
+a kus. Sedm měsíců a kus.
+A kolik máš pod sebou lidí?
+To jsou taky nějaký, kolik to je zhruba?
+Ono je to složitější,
+my tam máme, že jo,
+maticový řízení,
+takže mám jako svoji líny.
+Tímto je to
+head of, ne engineering,
+ale platforms, takže já mám na starosti
+všechny datový, všechny
+integrační platformy v bance,
+plus agilní kouče,
+jako ty nositele těch
+změn a ty agility.
+A
+v tý matici mám na starosti
+všechny řemesla, crafty,
+gildy, jak tomu kdo chce říkat,
+který se týkají
+technologie, takže softwarový inženýry,
+datový inženýry, testery,
+business analytiky, datový
+specialisty, UXáky,
+security, infrastrukturu,
+IT support.
+Doufám, že jsem na nikoho nezapomněl,
+aby se nevrazil.
+Mám těch nevzal asi deset, takže...
+Jsme jednoho tývka,
+na kterýho zapomněl.
+Prostě jak když pivák dostane z hlavíka,
+teďka to tam jmenuje.
+Snad jsem na nikoho nezapomněl.
+Ale opravdu je to tak.
+Když jsme šli od auta,
+tak si říkal, že teda
+už se tam zorientoval.
+Řekněme, že jsem se zorientoval.
+Jak dlouho to trvá v takovýhle škále?
+Vůbec si to nedobudu představit.
+Já jsem ty první tři měsíce do toho konce roku
+neměl v podstatě nic jiného,
+než schůzky s lidma, který jsem viděl
+poprvé v životě.
+To bylo to...
+Pak už se mi teda začaly opakovat aspoň ty moje nejblížší,
+s kterými pracuju, ale jako jinak to bylo
+seznámit se opravdu se všem a zjistit,
+co dělá, jak to zapadá do toho
+celkovýho kontextu.
+Samozřejmě se mnou chtěl mluvit biznis,
+chtěli se mnou mluvit lidi z auditu,
+z risku, z compliance, z legal,
+ze strategického týmu.
+Samozřejmě s bordákama se potkávám.
+Takže kalendář byl
+plnej velmi rychle a velmi velmi.
+Už jsem přesto nevyhrabal.
+– Hele, co jsi používal za nějaký tool
+na mapování tohohle? Protože předpokládám,
+že první věc zase, když se vracíme k tomu
+programátorskému přístupu, je,
+teď bych si to začal dávat do nějaké mapy,
+abych vůbec věděl, který systém patří k čemu.
+– Já používám myšlenkový mapy.
+A je poměrně hodně veliká.
+– Já se budu představit.
+Co je na té M2, nebo co máš
+to otvírat, nebo ho už?
+– Celkem to nespíš bych
+potřeboval tak 8 monitorů, nebo něco.
+Já bych to, že jako různě
+zoomuju a jezdím a zavíram ty větře
+a podobně.
+– Tak možná pojďme teda na ten technologický píseček.
+Ta otázka,
+která musí přijít, je, co je teda
+hlavní technologie, nebo jaký tam máte hlavní
+technologie v České spořitelně.
+Je mi jasný, že řekneš, děláme všechno,
+ale určitý směr, nebo určitý
+textek tam musí být danej, ne?
+– Jo, jo, jasně. Ano, jako ta
+zoo je tam poměrně velká,
+oni jsou tam, že jo, i nakoupený krabičky, který to
+trochu komplikují, tak do těch se ani jako nesnažím
+koukat, to je jako... – To je krabička, to se nepotvírá.
+– To je krabička, že jo, má to nějaký tým,
+který se o to stará, ale
+nelezem do toho.
+Nemáme mainframe
+třeba už asi tři roky
+zavřenej.
+A to, že tam byly čtyři corebankingový systémy,
+takže
+byl jsem docela
+mile překvapenej, že tam jako
+není mainframe COBOL a podobný
+věci. Takže řeknu,
+když to řeknu, taková ta nejtradičnější
+technologie, co tam je, je Oracle,
+který je právě u corebankingovýho
+systému a u mě, u Data Warehouse.
+Co se týče,
+řekněme, té aplikační vrstvy,
+tak je tam poměrně
+hodně kódů v Javě,
+je tam poměrně velký tým
+a jako velký systém, který je v .NETu.
+Frontend,
+tak ten je jako hodně masivní,
+to je Angular s TypeScriptem,
+s tím, že se vlastně teďka
+překlápíme do Reactu a TypeScriptu
+postupně, takže hledáme ty cesty,
+jak to kombinovat.
+Ano, je tam spousta kódů v SQL
+a v PLSQL v tom datovém světě,
+data scientisti jedou vlastně klasicky
+Python, že jo, ty mají svoje
+databricksy na modely.
+Plus tam teda ještě
+máme u Data Lakeu, jsou
+nějaký kombinace právě Python,
+PySpark, případně Java, protože
+tam je vlastně velký hrubovej klaster.
+Co pak
+tam ještě máme?
+My jsme si
+vlastně teďka během toho prvního
+kvartálu řekli, co vlastně chceme
+používat a jak to chceme zjednodušit.
+Takže vlastně
+říkáme, že pro backend
+chceme používat JVM Kotlin
+do budoucna, takže vlastně začínáme
+ty nový věci psát v Kotlinu a překlápit
+to do Kotlinu.
+Na frontendu chceme jít tou cestou
+TypeScriptu, Reactu, plus máme
+pro ty client-facing aplikace
+máme GDS, což je George Design
+System, takže ten teďka vlastně
+můžeme rozšířit i o
+komponenty a
+možnosti pro používání
+pro interní aplikace,
+abychom to měli jako unifikovaný.
+Jo, ano, zapomněl jsem
+samozřejmě Swift, iOS
+a Android Kotlin pro nativní aplikace,
+jako dvě mobilní platformy tam jsou pořád,
+s tím, že to GDS, co je samozřejmě určený
+i pro ty mobilní platformy.
+A to bych řekl, že je tak jako
+v krabičce ten směr, který chceme,
+takže vlastně Kotlin,
+TypeScript React, Swift, iOS,
+Kotlin, SQLP, SQLVL
+a Python a PySpark nám tam samozřejmě
+zůstanou. Jo, pak máme nějaké jako
+specifické interní platformy, ale to
+asi nejdůležitý. Je teda fajn, že
+kluci napsali vlastní procesní
+engine, abychom se zbavili takových
+těch různých, já jsem ji nikdy
+v životě neměl rád, jak se tomu
+říkalo, takový ten standard
+na business procesy BPM, že jo?
+Je to možný. No, tak jsou
+tam takovýhle ty kvíko-pohrobky
+a ono je to prostě strašně
+heavy a úplně to nevyhovuje.
+Tak vyrobili
+interní platformu jako process engine
+a byl jsem k tomu takový trochu
+skeptický, že jo, tadyhle k těm věcem,
+ale mají to pěkně udělaný.
+Ono to
+následuje pattern BIMu, jestli znáte.
+BIM je vlastně
+virtuální mašina pro Erlang.
+Tak vidíte, jak to umí škálovat přes
+ty stroje, ty sdílení pamětí, takže jako
+principiálně paternově je to podobný,
+technologicky to není na BIMu,
+ale je to podobný, takže běží
+nám to na privátních
+kontakty.
+A škálo je to pěkně
+a tam jsou opravdu nějaké stovky tisíc
+instancí těch procesů v běhu
+a řeší to a automatizuje to
+vlastně celý ten back office,
+takový ty rutinní tásky a furt se do toho přidávají
+další procesy, aby se ta banka
+automatizovala, digitalizovala.
+Takže to je naše interní platforma
+na tyhle ty věci.
+Tak to vypadá, že jedete docela
+dopředu. Myslím si, že pro někoho
+třeba, kdo má furt banku
+jako takový ten etalon toho
+smralosti, zasmrádlosti,
+tak tohle může být docela šokující překvapení,
+protože React, jasně, no tak to je
+klasika, ale i třeba
+to, jakoby ten odklon od Javy
+ke Kotlinu, což teda zajímavý je, co tak
+sleduju u Javistů, vůbec
+se tomu nebránějí. Přijde mi, že
+čekal bych nějaký větší pushback a
+když jsme se bavili včera
+s Javistama ohledně nějakého výhledu
+technologií, tak Kotlin
+chtějí dělat a vlastně dost možná víc než
+jako klasickou starou Javu.
+Je to tak, no, že vlastně ten Kotlin
+způsobil to, že vlastně to, kolik to byla,
+jedna osmička, že ono to
+stagnovalo jak dlouho, deset let,
+to bylo prostě, jasně, rostl ten ekosystém
+těch knihoven open source'ových a těch
+frameworků a různých
+prostředí, to bylo jako super, ale stagnovalo
+to, tak se tím JetBrains úplně jako nedivím,
+že to chtěli nakopnout.
+Myslím si, že i oni jsou ten důvod, proč se ta
+Java zase začala hejbat a začala
+postupovat dopředu, ale řekl bych, že ten
+Kotlin mezi tím jako získal tu trakci
+a je poměrně oblíbený a ještě
+to, já se neslyšíš úplně rád,
+slyší na něj i C-sharpisti.
+Jo. Jo, samozřejmě některý
+chtějí zůstat u toho dotnetu, u toho C-sharpu
+a některý říkají, jo, Kotlin je fajn, do toho já se
+jako překlopím. Hele, já se jako
+aktuálně C-sharpistu moc nedivím, protože ten
+jazyk zmutoval v něco, což
+tady už jsme několikrát říkali, což už
+já úplně nechápu, takže
+dává to smysl. Dává to smysl, no, jasně, no.
+A obecně teda dotnet
+ten budete ořezávat, nebo jak to máte?
+No, tím, že jsme si zvolili to omezený
+množství platform, protože přesně nechceme dělat úplně
+každou technologii, je to náročný,
+tak jako tam bude s postupem
+času nějaký postupný
+odklon, ale nějaký jako přirozený, to nebude
+jakože, hele, a zejtra to začneme všechno přepisovat
+do kotlinu, to samozřejmě nemá smysl.
+A oni vlastně,
+vlastně ty, řekněme, dotnetový vojáři patří
+podle mě v týmaticový
+struktuře, oni jsou na tom
+i relativně dobře. Já vím, že se tam nějak změnilo
+číslování, ale oni už vlastně jedou
+na nějakých těch potomcích toho dotnet kóru.
+Jo, jo, ano, teď je
+sedmička a bude teďka
+v listopadu bude osmička
+a vždycky sudí jsou LTS, long term support.
+Jo, jo, jasně, no. No, takže
+vlastně oni jsou i teďka na těch jako relativně
+nových verzích, oni už taky, že jdou do
+kontejneru jako všichni. Jo, takže je tam
+odkon od těch klasických windowsích serverů
+a vlastně. Od starýho frameworku.
+Jakoby od toho starýho frameworku, vlastně nějaký části
+tam ještě jsou, ale postupně to čistějí
+a nečistějí to vyloženě tak, tak to jdeme jako úplně
+zahodit rovnou do kotlinu, ale spíš to jak
+modernizují v rámci toho stávajícího stacku,
+takže jako ještě pár let to tam
+jako určitě, určitě bude.
+Co se týče nějakého cloudu,
+obecně vždycky, když se řekne cloud a banky,
+tak to zní jako tyho, z toho smrdí
+nějaký průser, ale vy
+určitě nějak jako částečně v cloudu
+už jste, ne? Jo, jo. Vlastně ta
+cloudifikace tý banky je jeden z těch důvodů,
+proč jsem tam šel. Aha. To je jako jeden z těch
+úkolů. Takže tam je
+vlastně takhle. Ta banka prošla
+asi před čtyřma a půl lety
+nějakou agilizací, takže řekněme
+ty, ta biznisová část
+banky, retail a korporát
+už jsou v tom agilním setupu,
+takže máme ty triby, domény,
+skvody, máme product owner, jo, všechny tyhle
+ty věci tam jsou. A
+zrovna ten korporátní tribe
+a korporátní myšlení, jakože vyrábí
+aplikace a služby pro
+korporátní klienty,
+tak vlastně ty začaly vyvíjet
+bych jako nekecla,
+rok a půl, dva zpátky, novýho
+George jako George for Business
+a ten už je vlastně rovnou cloud
+first.
+Ty už to rovnou prostě dělají na
+cloudu, v kontejnerech, používají
+cloud native technologie, takže ty už
+frčejí tímhle tím směrem.
+A samozřejmě teď se postupně začínají přidávat
+i ty ostatní biznisový triby z toho
+retailu. Ano, George jako takovej
+George platform je cloudovej od
+začátku, ale řekněme
+ty naše servisy, který do něj dodávají data
+a jsou z něj integrovaný, v tuhle chvíli
+majoritně ještě běží on-prem,
+ale běží na tom, řekněme, privátním
+cloudu. Zdrtivý většině, takže
+máme openshiftový klastry,
+takže vlastně jako my postupně to převádíme
+z těch původních,
+kluci tomu říkají LAF,
+Linuxová farma,
+je tam toho pořád
+poměrně dost, takže vlastně teďka modernizujeme
+aplikace z toho klasickýho
+JEE stacku, který běží na těch Linuxových
+serverech do těch kontejnerů
+a ty vlastně týmy si můžou i rozhodnout,
+jestli chtějí teďka do toho privátního
+cloudu, nebo to budou chtít rovnou
+posunovat do toho cloudu.
+Takže jako kontejnerizace, řekněme,
+je ta cesta, přes kterou chceme jít.
+Ono to má ještě nějaké svoje specifika,
+tak jako tlačím
+do nich asynchroní komunikaci,
+message driven, kafku
+a tyhle věci.
+Přece jenom to je na tu banku
+jako velký posun, ale jako
+budujeme tam tuhleto prostředí, tyhle ty
+platformy, tyhle ty integrační paterny
+právě proto, abychom potom mohli
+z nás tu aplikace třeba z toho
+on-premového, open-shiftového
+klasteru přesunout
+do toho cloudového.
+Takže ty máš ještě prostor jít k těm týmům
+a říct, hele, tady to nevolej napřímo,
+tady z toho, udělej to přes
+message bus. Jako, že si jdem nějaký
+recoding těho sněma.
+Vypadní o to, ne? Ale taky se to nedělá.
+No, to úplně
+ne, ale minimálně, že
+ten, ta role
+toho head of engineering je vlastně v nastavování
+té technologie, ways of working,
+co od toho chceme, kam
+chceme smířovat, takže to řešíme
+přes tadyhle tu maticovou roli. A jak je tohle těžký?
+Jakože tak ty bys jako rád
+občas třeba možná si někde
+šáhnul na klávesnici, ale vlastně ta role
+vlastně tě nutí do toho jít víc
+jako směrem těch messageí, těch vizí, že jo,
+tak aby prostě se to propsalo do té
+firmy jako celku. Jak je tohle
+pro tebe komplikovaný? Tak jako pro mě
+toho jako sdílet není žádnej problém,
+že jo. Ještě aby se ty věci
+začaly dít, to je ta horší část.
+Ale vlastně svým způsobem
+ty lidi a ta zpětná vazba
+od těch lidí je pozitivní, že vlastně
+tím, že se to bude zjednodušovat, nebude tam
+toho tolik, budou moct si to
+víc sdílet, tak je pozitivní.
+Plus já, co se týče
+tadyhle těch principů práce,
+co chceme jako v tom
+engineeringu dělat, já to dělám
+s těma lidma komunitně. Jo, protože
+tím, jak mám pod sebou to řemeslo, třeba jako software
+and data engineering, který v sobě mají blíž,
+tak když jsme řekli, potřebujeme si definovat
+nějaký engineeringový starty, ke kterým
+pardon, standardy,
+ke kterým se všichni zavážeme,
+že budeme dodržovat, budeme je dělat, budeme
+implementovat v těch týmech, tak jsme to vytvářeli komunitně.
+Přece jenom těch technologů
+jsou tam jako stovky, tak jsou tam nějaký ty
+seniorní
+představitelé z těch týmů.
+Měli jsme na to
+takový krásný problem solving
+workshop, který vedl
+můj kolega.
+A byl jsem
+sám pozitivně překvapený, co si ty lidi
+řekli, že by vlastně opravdu chtěli dělat.
+Já jim to nemusím říkat, oni si
+o to vlastně sami řekli, sami si to vytřídili,
+sami si to odprioritizovali,
+teď si k tomu sami dopsali
+nějakou dokumentaci, nějaký ty návody
+a říkáme, a tohle je to, co chceme dělat
+a takhle to budeme dělat.
+A ono to bylo s tím, co jsi měl v hlavě ty, že by si asi chtěl?
+Já jsem nikoho nechtěl nutit, já jsem se
+toho radši ani neúčastnil, abych je
+neovlivňoval, ale pak, když jsem
+snědl si o ty výsledky, tak ten výsledek
+je opravdu super.
+Tak jak když manželka ti vnuchne její nápad obě
+a pak řekne, vidíš, jak jsi to hezky vytvořil.
+To je něco takového.
+A radost máme oba.
+Tak to je super.
+To znamená, že vlastně spoustu věcí
+tím pádem se tam dělá dost, řekněme,
+koncenzuálně, což mě překvapuje,
+že bych čekal u banky zase takovýto řízení
+jako ze zora směrem dolů,
+nebo...
+Já to na ten koncenzuální způsob mám celý život,
+bych tak řekl.
+Samozřejmě jsou určitý momenty, kdy člověk
+musí říct, musí to být takhle,
+ale zase nepřijdu a neřeknu
+a bude to takhle a tečka,
+ale řeknu k tomu, protože.
+A teď tam, jasně, jsme v regulovaném
+prostředí,
+padáme pod kontrolu členo B,
+zároveň máme
+matku ve Vídni, RST, tam má
+taky svýho regulátora, takže ano,
+risk, legal, compliance, tenhle ten
+aspekt je tam vždycky,
+ale zase dá se s těma lidma mluvit,
+je to nějakej proces, musíme si ho projít,
+musíme se nad tím zamyslet,
+ale ve výsledku to funguje.
+Ty už jsi se toho de facto dotknul.
+Má softwarový vývoj v bance
+nějaký specifika oproti jiným, kdy se podíváš
+zase zpátky, čím jsi prošel? Předpokládám
+tím, co jsi právě říkal, ty
+compliance a security a všechny tyhle
+ty věci, ta kontrola,
+to musí do jistý míry
+zvazovat, je to tak?
+Hele, nemusí.
+Třeba když to vezmu z pohledu security,
+tak to McKinsey bylo výrazně drsnější,
+ale na druhou stranu ty lidi vlastně
+v tom infoseku, information security,
+oni jsou tam od toho, abyste to spolu
+vymysleli. Samozřejmě v McKinsey
+ten mindset byl vyloženě takový jako proaktivní,
+pojďme to vymyslet, tady je to občas,
+to nejde, máme na to nějakou směrnici,
+tak to člověk musí trošku...
+Ne, to ne, to je jako,
+musíme si to vysvětlit, protože tam je
+to je celý ořízení rizik,
+samozřejmě nemůžeme si jen tak jako dovolit
+nějaké velké faily, takže já bych řekl,
+že tohle to máme pořešené a vlastně
+to, co jsem tam začal
+rozjíždět, je vlastně platform engineering
+jako nástupce, že jo,
+DevOpsu, DevSecOpsu a to, co já
+vlastně s tou engineeringovou platformou těm lidem
+chci dát, je, aby oni tohle nemuseli řešit.
+Takže pokud budete vyvíjet na téhle
+platformě, tak máte vlastně automaticky
+čeky za prostě risk and compliance,
+protože ta platforma jako taková je tak
+postavená a vy, když se pohybujete
+v rámci ní a co vám ta platforma dává,
+tak máte vyřešených, já nevím, 98%
+tadyhle těch věcí.
+Což nám dává nějaké jako,
+zabezpečuje to, že to funguje
+tak, jak by mělo a že
+jsou tam ty splněné ty požadavky, které vlastně
+z pohledu regulatora musíme splnit.
+Takže vlastně já se snažím těm
+technologům to prostředí
+zjednodušit, zpřímočařit,
+aby se mohli soustředit na tu práci.
+To, co je specifické
+pro tu banku, ale to bude pravděpodobně
+specifické pro asi jako každou velkou firmu,
+je komplexita.
+Protože tady se bavíme jako opravdu o
+stovkách aplikací,
+tisících různých prostě
+APIček, integrací, takže
+je to jako obrovský a ta
+pravděpodobnost, že se tam něco
+rozbije někdy, tam prostě je.
+Takže tyhle ty mechanizmy,
+jak vlastně nastavit ty prostředí a
+ty
+takové
+quality gatey, řekněme,
+aby se to rozbijelo co nejmíň,
+to je ta challenge. Zrovna včera
+jsme měli nějaký KPčka, že máme
+prostě nějakých, já to přesně si
+nepamatuji, říkám, 15 tisíc
+change ročně, který prostě
+jdou do produkcí. A teďka
+jak, a máme tam nějaký prostě
+nízký stovky těch, který způsobili
+nějakou formu incidentu.
+Tak jak tohle to číslo budeme
+snižovat? Jak se na to soustředit?
+To je ta challenge.
+To není jako, kluci tam mají normální,
+GitHub a mají tam GitHub Actions,
+některý mají Jenkinsy, tohle jsou takové věci, které
+zjednodušujeme, mají tam OpenShift,
+mají tam AKSO,
+takže tohle jsou věci, které tam relativně
+jsou. Jasně, budujeme úplně
+moderní CICD pipeline,
+budujeme nový prostředí v cloudu,
+ale to se vlastně nelíší příliš od toho
+softwarového vývoje. Ten datový
+engineering je trochu jiný, ale taky, není to tak,
+že by se kluci, holky připojovali
+do Oracleu nějakým SQL
+developerem a tam to bušet.
+Kod mají v GitHubu, dělají si code review,
+je tam CICD pipelina,
+u toho corebankingového
+systému mají dokonce jako unitový testy
+na PLSQL kód, takže ty to tam
+jako frčejí. To je jako
+velký respekt tomu týmu, že
+na týhle technologii mají vlastně vybudovaný
+ten moderní developerský workflow
+a funguje to.
+Tam asi teda hodně práce bude pro QAčku,
+jak je to tam vůbec s testováníma s kvalitou?
+Testování je taky pode mnou,
+překvapivě.
+Máme dvě
+automatizační platformy a vlastně
+to je to, do čeho teďka hodně šlapeme.
+Vývojáři si zvolili
+Cypress, protože
+prostě jsou nějak na něj zvyklí.
+Já na něj mám svůj názor, ale oni
+to píšou, ten kód.
+A potom vlastně QAčka
+jako takový, tak používají robot
+Framework. Takže pořád jsou tam
+trošku dva světy, že nějaký testy si
+píšou vývojáři, nějaký testy píšou
+QAčka.
+Ale taky
+tu metodologii se snažíme zjednoutit.
+Zrušit, zunifikovat.
+Vlastně, žeho David je
+představitel ISTQB, tak
+moje head of testing je
+zakladatelka ISTQB tady
+v České republice. Takže
+taky certifikace těch testerů na
+ISTQB, ta metodologie.
+Ale funguje to poměrně dobře.
+Já jsem zažil tři velký
+releasey a řekněme,
+a už tam byla statistika
+dlouhodobější, že se nám snižuje
+to množství těch incidentů
+po releasech. Je to viditelná
+tendence. Jde to dolů.
+A budeme přidávat další a další automatizaci
+hodně jako regresních testů.
+Zrovna předevčídem jsem seděl s klukama
+z Operations, že bychom
+obohatili naše
+automatizované testování
+Chaos Engineering. To testovat tu resilience.
+Takže rozjíždíme nějakou další
+iniciativu, jak dělat tyhle ty věci.
+Takže jedna ta cesta je jít teda v úroveň
+vejš, mít tu platformu, která pomůže
+vlastně řešit ty věci. Druhá věc je to
+zjednodušování.
+To musí zabrat hrozný množství času.
+Když si představím, kolik věcí se musí
+odseknout a zkontrolovat, že až je
+odseknu, takže to bude fungovat dál.
+Není to vlastně
+nakonec ta zásadní
+časová zátěž těch lidí.
+Pracovat na tom, aby to odsekli.
+Protože je hezký koukat na ten předek.
+Za chvíli to bude růžový. Ale teďka se musíme
+zaměřit na to, aby jsme to odsekli.
+A odstranili.
+Tak jak s tímhle s tím bojujete?
+Ono to je ještě
+o trochu komplikovanější. Úplně klasický.
+Protože musíme začít od biznesu.
+Protože spousta těch aplikací, služeb
+je tam kvůli nějakým biznes caseům.
+Takže my musíme začít
+o evaluací s biznesem, jestli ten biznes case
+pořád dává smysl.
+Jestli ho chceme udržovat, podporovat.
+Jsou tam case,
+které se udržují historicky z nějakých důvodů.
+Ale jsou vlastně
+ztrátový.
+Takže...
+To je potom těžší konverzace
+s tím biznesem, kdy ten tým biznesovej
+si tam prostě řeší
+nějakou skupinu uživatelů
+a říkat mu, hele, ono to nedává úplně
+smysl. Ještě přijde nějakej
+technolog, kým vykládat o tom.
+Že jejich biznes nedává smysl.
+To se nesetkává úplně
+s pochopením.
+Nedá se mi se nezeptat. Aktuálně
+samozřejmě velká moda AI,
+coding asistenti,
+vlastně AI už je prolezlý úplně všim.
+Jak tahle moda zasáhla českou spořku?
+No, tak jasně, že zasáhla.
+To se nedá přehlížit.
+V dnešní době.
+Pracujeme na tom.
+Máme tam několik různých věcí
+z různých oblastí.
+Dokonce tři týdny zpátky
+jsme měli velkou konferenci interní
+v Ostravě, majoritně
+pro lidi z poboček,
+kteří o tom, že ho slýchají a teďka
+na internetu ty články AI vás nahradí.
+Přijeli, strachovali se.
+Oni ty lidi neví,
+a když nevíš, tak je to blbý.
+Takže měli jsme tam skvělý
+ekonomiční,
+externí speakery
+a jeden byl
+specializovaný na AI a ten tam přesně měl
+ty zletní myšlenky, co všechno ta AI nahradí.
+Já jsem pak říkal pořadatelce,
+to ti jako moc děkuju, jít na stage
+přesně po tomhle tam člověkovi.
+Takže já jsem musel to letadýlko
+zase usadit na zem a úplně ho nerozbít.
+Takže
+vysvědlíš to těm lidem úplně jednoduše,
+že ten svět toho
+Terminátora a Matrixu se fakt
+nestane. To nejde. A proč?
+Takže to bylo moc fajn.
+Ale každopádně pak jsme pro ně měli nějaký
+reální ukázky, jak už
+ty machine learningový modely nasazujeme.
+My tam máme
+data scientistovej tým,
+který je u
+tribu personalizace, takže oni se vlastně
+zabývají tím personifikovaným poradenstvím
+v té oblasti toho financial health
+a fitcoach a tadyhle těch věcí.
+Nevím, jestli máte někdo, George,
+byl pilot toho fitcoacha asi dva měsíce
+zpátky. Je vlastně na základě těch
+informací, který o tom klientovi máme,
+tak mu to vlastně doporučuje,
+nějaké věci pro zlepšení jeho finančního zdraví,
+tak to už opravdu vychází z těch machine learningových
+modelů.
+Potom jsme se zabývali
+nasazením machine learningových modelů
+v incident managementu
+na helpdesku a podobných věcech.
+To já vím jako je historicky, že má
+jako neskutečný impact,
+že vlastně teďka to mají, teďka akorát
+dojeli pilot, že vlastně když přijde nějaký
+incident od našeho nějakého kolegu,
+kolegy a jedno jestli to napíše
+do toho incident managementu
+nebo volá na helpdeska podobně,
+tak ono už to tomu
+člověku z toho supportu napovídá,
+tohle by mohlo být řešení.
+A máme tam jako fakt
+vysoký, asi 87%
+hit, že to první,
+co mu nabízí z těch pěti, je přesně ono.
+Takže ten pilot se opravdu poved.
+Já historicky vím,
+že v těch velkých organizacích tohle dokáže
+snížit ten počet ticketů na incident
+managementu až jako o 40%,
+30-40%, fakt je to jako veliký.
+Protože přesně tímhle jsme začali
+a teďka zintegruješ si to do Slacku,
+do Teams,
+zintegruješ si to do intranetu
+a lidi to tam napíšou a on jim řekne,
+ale tohle by jsi si mohl vyřešit sám.
+Takže jako snížuje to ten load, případně to
+zrychluje to vyřešení toho problému.
+Tak to je ta jedna, která už
+funguje v pilotu.
+Druhá je, že my bychom do toho chtěli
+nalít celou tu knowledge base
+kolem těch incidentů, celý ty popisy
+a všechno a přesně
+dát těm lidem přes chat GPT
+k dispozici to rozhraní, který je natrénovaný
+jenom vlastně tadyhle na tu část.
+Takže zase nějakým způsobem těm lidem
+poskytnout rychlejší odezvu
+na jich problém.
+A těch GPT si obecně jako hrajeme víc.
+My ho máme momentálně zintegrovaný do intranetu.
+Teďka je to tři pětka,
+protože tu čtyřku nám tady v Evropě ještě
+nepustili. Takže si s tím
+mohl jako kdokoliv ve spořce hrát.
+Takže jsme to měli puštěný asi tři týdny
+na intranetu. Opravdu tisíce
+lidí denně si to zkoušelo, jak to
+funguje. Bylo nesmírně vtipné,
+kolik nás ty tři týdny stálo.
+170 dolarů.
+Fakt?
+Jo, to je
+prostě, je to ta tři pětka,
+není to ta, co si to jako retrénuje dál.
+Je to ten základ, ale prostě
+na tom provozu to byly takhle smíšný
+prachy. To je smíšný. Já jsem čekal
+nějaký tisíce dolarů. Já jsem čekal, že řekneš
+170 milionů.
+Tisíce dolarů.
+Nějaký nesmysl jsem čekal.
+A on to je nesmysl nakonec.
+Nesmysl to je, no.
+Takže teďka si hrajeme s tou
+čtyřkou a tam máme plány typu, že tam
+nalejeme celou naši předpisovou
+základnu, abychom se v ní několik vyznali,
+dokázali se v tom rychleji orientovat, že to je kombinace
+naše předpisy, ČNB předpisy,
+RST předpisy, RST, tak budá to předpisy,
+evropský předpisy, no je
+neskutečně komplikovaný.
+Celou konfluenc tam chceme nalít,
+abychom prostě viděli. Samozřejmě všechny
+naše zdrojáky, protože už jsme testovali
+přepisy nějakých technologií
+z A do B přes chat GPT
+a jako generuje to,
+když to člověk trošku jako potrénuje,
+putuní, tak to generuje smysluplnej
+kód, takže na takovýhle ty rutynní akce
+bychom to rádi začali využívat
+nějakým pilotům.
+Voice boty tam máme, chat boty,
+takže dneska, když se dozvolají,
+bať už interní lidi na helpdesk,
+nebo už to začínáme testovat i s klientama,
+tak tam s nima mluví robot, povídá si s nima,
+zjišťuje vlastně, co mají za problém
+a pak je přímo jako přepověd,
+takže chceme tím nahradit ty AVR
+a takový to pro blá blá blá
+zvláštěte jedničku,
+že na interní lince už to taky běží.
+To je strašný, já vždycky mačkám nulu,
+okamžitě.
+Kolegové ukazovali úplně skvělý case,
+že tam volá někdo jako strašně naštvaný,
+prostě fakt se jako vzteká zprostej
+a on když zjistí,
+že mluví s robotem a ne s člověkem,
+tak on během deseti vteřin se uklidní
+a řekne mu, co chce, protože ví,
+že asi to pochopí, že na to nemá ječet.
+Že to jako mu fakt jako ten robot...
+Že ho stejně nevytačí.
+To je zajímavý psychologický efekt.
+To je super.
+To je jako super, no.
+A ještě něco jsme tam měli teď...
+No ty jsi mluvil o GitHubu,
+protože předpokladám, že i Copilot.
+Copilot, no, no.
+My vlastně teďka rozjíždíme...
+My máme GitHub, ale máme ho teďka on-premový,
+protože to historicky nějak vzniklo
+a jsem říkal, že to je jako nesmysl
+sásový GitHub, takže přesně teďka
+řešíme sásový GitHub a v těch licencích
+už je samozřejmě Copilot.
+On ten Copilot teda už běží v nějakým
+pilotu u některých týmů, u některých lidí.
+Ta odezva je velmi pozitivní, takže
+tam je jediné, co jsme museli zajistit,
+aby, že jo, zase nějaký compliance,
+že on se nesmí učit na našich zdrojácích.
+No, to jsem se tě řekl.
+Ale to je nastavitelný.
+On je to nastavitelný u toho účtu
+a u té Enterprise verze se to dá nastavit.
+Se dá zaříznout, že má jenom s open source.
+Ne, ty můžeš, když ho o tom máš
+jako na svoje vlastní zdrojáky,
+tak on se nad nima jako učí,
+ale nepustí to někam dál.
+Jo, to je lokálně.
+To je stejné jako s tím chat GPT, když ho máš vytočený
+u sebe v Azure Subscription, tak do toho můžeš pustit
+svoje data a on je nikam dál nepustí, že jo.
+To jsem se chtěl zeptat, jak to vlastně prošlo bankou
+tohle, takže jo.
+No, protože máme ty separátní instance,
+který krmíme našimi datama a mají tomu přístup
+jenom naši kolegové, takže to je normálně řešitelný,
+ten biznis mu to byl jasný, že vznikne
+a to je úplně v pohodě.
+To bychom se mohli vytočit.
+Úplně v pohodě, vysvětlili jsme si to.
+Bychom si mohli vytočit u nás tu čtyřku.
+Tak ta čtyřka, nevím, podle mě ještě
+furt nejde, ne?
+Ale ve státech můžeš.
+Ve státech jo, a ono velmi rychle předpokládám,
+že to bude tady a pak to je v celé určitě.
+Tak my si s tím samozřejmě hráme všichni,
+že jo, pořád. Tak ty jo, teď na chat GPT
+už je každej, alespoň hodinu denně, ne?
+No, tak samozřejmě.
+Jak jinak.
+No a nějaký to generativ AI, že jo, prostě to začínáme
+inkorporovat taky, že jo, do marketingových
+newsletterů a podobných věcí.
+To se dá, no. Jenom jsem teda
+musel našemu marketingu vysvětlit,
+jak je to s intelektuálním
+vlastnictvím. Bude trošku vyděšený.
+Jasně, jasně, jasně.
+No a přemešlím,
+když tam máte nějaký, dejme tomu zkušený
+starý pardály, který prostě samozřejmě jsou
+zvyklý, zaplať pán Buzaně,
+předpokládám tam jako prostě stavit
+tu infrastrukturu leta.
+Jak je složitý tyhle lidi motivovat
+dělat tyhle nové věci?
+No,
+to je jako oříšek, no.
+Ale řekl bych, že to není o věku,
+je to opravdu spíš o jednotlivcích
+a tom jejich mindsetu.
+A jako tenhle ten obrázek
+jsem si udělal poměrně rychle.
+Že vlastně ta,
+jakoby,
+ty lidi jsou sformovaný tím prostředím,
+ve kterém dlouhou dobu jsou, že jo.
+Takže to není jako nic
+k výčítání, tak to prostě je ten
+systém tam nějak fungovat, takže se v něm ty lidi
+nějakým způsobem chovaly.
+Takže vlastně měníme teďka tu prostředí,
+takže jako změnit mindset, změnit kulturu,
+ownership, takhle s těma věcma začneme.
+My máme i od prvního února
+vlastně novýho
+kolegu, který vede celý HR
+a on ho vlastně, to klasický HR
+teďka taky předělává do
+tý agilní podoby a už to není
+HR, ale má tam dva,
+dvě domény,
+employee experience a
+L&D, learning and development.
+Jo, takže vlastně my spolu hodně
+spolupracujeme o to, jakým způsobem
+rozvíjet ty lidi, jak měnit tu kulturu
+v tý firmě a tohle samozřejmě jde ruku v ruce.
+Hele, třeba
+v tom operations u toho incident
+managementu, ten kolega, který je do toho
+načinej, tomu je prostě přes 50
+a to je jako totální načinec do
+AI, ten si platí tět GPT
+i zoma soukromně, aby si s tím mohl hrát.
+Takže fakt to není jako o věku,
+je to opravdu o mindsetu těch
+lidí a tam je to daný tím, co dělají.
+Když vezmu třeba svoje kolegy u
+DVHčka, tak to jsou prostě takový ty typický
+kolonisti, ty tam prostě sedějí,
+ty to tam prostě pořád sunou
+a jako o co si budem povídat, oni ten
+data warehouse drží už 20 let, jako na
+velmi vysoký úrovni,
+obrovský množství dat, obrovský množství
+ETL-ek a oni vlastně
+každý den odcházejí ty data
+k tomu regulatorovi prostě včas
+a do RST.
+Releasy daří se, vlastně nejsou
+výpadky, takže potřebuješ oba
+typy těch lidí, jak ty
+superprogresivní
+a nemusí to být prostě 25 let
+vývojář po škole. Jasně, jasně.
+No ale všeobecně mi to zní tak, jak o tom
+mluvíš, jako
+zvenku jsem bych hádal,
+že to není tak progresivní, jak to popisuješ.
+Jste v tom jako banka výjimka,
+nebo
+ty
+ostatní banky máš pocit, že jdou v stejným směru?
+Asi musí logicky, ale jestli
+se jim daří to prosazovat v tomhle tempu
+jako u vás?
+Já nemám jako úplně visibility
+do těch ostatních bank. Krom teda teďka
+jedný zcela náhodou, já jsem byl minulej
+týden v Barcelonie na McKinsey Eventu
+Digital Banking,
+takže krom toho, že jsem potkal kolegy
+jako tady z českých bank, tak jsem
+potkal kolegy z nějakých pětiset bank
+jako Evropa, Blízký, Východní,
+některý i z Azie.
+A byla tam jedna pěkná přednáška
+v rámci, který bylo
+hlasování,
+tak mě jako překvapilo, že i když jsme vzali
+takovýhle globální vzorek, tak jenom nějakých
+cirka patnáct procent těch lidí
+se už považuje za nějaký digitální lídry.
+A to, co mě překvapilo
+ještě víc, je, že nějakých
+někde mezi třiceti, čtyřiceti procenty
+jsou to fakt ještě ty tradiční
+banky. Prostě do toho
+jako jasně mají nějaký
+digitální kanály, nějak něco dělají v IT,
+ale je to banka z IT.
+Není tam ten přerod,
+jsme hejtech firma, která
+s hodnou okolností podniká v bankingu.
+Je to oddělený.
+Je tam ten třicet procent, jsme jako na cestě,
+ale ještě se nepomnožujeme jako za
+kompletně digitální.
+Takže ten, tohle byl
+podle mě velmi jako reprezentativní vzorek.
+Tady v Čechách právě kolegové ty
+hodně šlapou do
+toho AI, tam to bylo vlastně
+v rámci těch přednášek, kdy tam dokonce měli jako
+case, ale to jsou teda
+v
+jediných, o kterých vím.
+Neříkám, že to nedělají, ale
+byli tam uvedený jako příklad
+a že to mají jako velmi pokročilý.
+To si budete muset pozvat kolegy z jiných banků.
+Každopádně takováhle změna, jak to tak
+popisuješ, to asi nejde jinak než
+totální jako přestavbu všeho, protože
+tak, jak jsi říkal, to, co tam
+se snaží zavádět, teď si
+zmiňoval lidí z různých jiných oddělení
+typu prostě HR,
+dá se vůbec ta banka změnit
+na
+závěr?
+Na technologickou moderní firmu, která
+ještě teda jako side effect poskytuje půjčky
+a hypotéky, jinak než
+tím, že teda se to vezme úplně
+jako upside down?
+Podle mě nedá.
+Ta naše výhoda je v tom, si myslím, že tam
+proběhla už ta agilizace, čili, že došlo
+k té reorganizaci a minimálně
+u toho biznisu
+jsou to ty mixovaný týmy.
+Biznis pracuje s tou technologií dohromady,
+je to jeden tým, čili ten
+squad je opravdu mix všech těch
+skillů. Ještě to není ideální,
+pořád jsou tam nějaké možnosti zlepšení,
+ale aspoň ten biznis už je prostě
+v tomhletom světě a chápe tu
+přidanou hodnotu a už mají ten
+novej způsob práce.
+Pak jsou ty,
+zní to blbě,
+jako by ta stará banka v uvozovkách,
+který prostě jedou pořád
+ještě v té klasice, ale jako
+strategický tým má teďka vlastně za úkol
+zagilizovat i tyhle části
+té banky a dostat
+to prostě do toho jednoho
+velkého konceptu. Dobrý je,
+že
+, ten board si uvědomuje,
+že tu technologii fakt jako potřebuje.
+Uvědomují si to všichni ty představitelé toho
+boardu, takže je tam i ten risk,
+i ty finance, není to prostě jenom
+u toho CEO. Ví,
+že to potřebují, že to nejde jinak.
+A vlastně i Tomáš Salmonáš, CEO,
+jako tomhletom hodně vizionářský,
+on se
+v uvozovkách zamiloval do toho
+customer centric nebo life centric designu,
+takže jako ten push na ten design,
+dělat ty věci správně,
+dělat ty researche,
+zamyslet
+se nad tím,
+je jakoby hodně vidět.
+On o tom, že hodně mluví,
+jestli ho vydáte na LinkedInu,
+tak ty posty tam máš.
+Takže jako pochopili, že
+musí něco zmínit, že tím
+tradičním způsobem to dál nepůjde.
+A zrovna ten minulej týden na tom
+summitu to ukazovali v číslech, kdy oni mají
+o benchmarkovaný tak nějaký jako stovky
+globální bank, jaký rozdíly to
+vlastně dělá
+v nějaký retenci, v získávání nových
+klientů, v udržení klientů, ve spokojenosti.
+Když už se to dneska jede přes ten digitál
+a dneska ten
+mobil máme v ruce všichni, to je vlastně primární
+kanál a tím se nic
+jako jen tak nestane.
+Jasně. To jsi mi trošku nahral
+na to, my jsme tady
+minule měli Tomáše Muchku, se kterým jsme řešili
+product discovery a vůbec jako
+ten způsob toho od tý myšlenky,
+od těch prvních představ,
+až po tu implementaci. Předpokládám,
+že i tohle se vlastně v tý bance
+vlastně muselo zmínit. Jakým způsobem
+teďka vlastně to probíhá, když třeba řešíte
+vznik nějakého novýho produktu
+nebo koukáte na to vlastně vůbec
+produktově? Jo, jo, jo, koukáme
+na všechno produktově, jo, už v tuhle
+tu chvíli. I vlastně ty, já to říkám, i ta
+nakoupená krabička je produkt a ačkoliv
+jí nevyvíjíme, tak ten tým, který se
+o ní stará, je svým způsobem produktový,
+protože má ten relationship s tím
+vendorem a řeší se tam nějaký, že jo, funkcionality,
+ty požadavky, implementace a podobně.
+Takže produktově
+se přemýšlí hodně.
+Tam je vlastně, to jsou
+nějaké jako stovky lidí,
+který mají roli CJ,
+Customer Journey Expert, což je
+určitá, řekněme, odnoští user experience,
+která se soustředí právě na toho
+klienta a ty jsou rozesetý právě
+po těch skvodech a vlastně řeší
+ten daný business case
+a tu customer journey pro ten daný
+případ, takže tam se jedou
+ty výzkumy, dělají se ty rozhovory s těma
+klientama, dělají se AB
+testování. Produkťáci,
+za mě by to,
+tam je jako rezerva, tam by se to
+jako dalo hodně zlepšit, ale pořád se jako přemýšlí
+teda už jako produktově.
+Není to čistě jenom jako nějakej
+držím budget a nevím prostě co,
+ala projekťák. Takže oni si
+to v tom svém skobu toho skvodu
+řeší, že je tam produkťák,
+jsou tam technologové, je tam UXák,
+jsou tam tyhle ty CGOvé, jsou tam pořád
+analytici, protože jak je ta banka
+velká, komplexní, spousta aplikací,
+tak ten analytik je tam pořád zapotřebí,
+aby ohlídal, že se nám to někde
+nerozpadne. Ale ta banka
+vlastně chce hodně zjednodušovat.
+Těch aplikací jsou tam stovky,
+vyšší stovky
+a chceme jich
+hodně nízko,
+150 nebo něco takového.
+Ale jak jsem říkal, to je konverzace s biznisem
+nejdřív. A snažíte se
+tenhle přístup aplikovat i pro ty
+interní aplikace, tak i pro ty aplikace?
+Neděláme rozdíl.
+Neděláme rozdíl.
+Jestli to je prostě do Georgia
+nějaká ta kostička, nebo jestli to je
+interní aplikace, nebo jestli je to pro naše kolegy
+na pobočkách, tak jako to
+neřešíme vůbec. Zrovna s těma
+pobočkama je to teďka jako masivní,
+protože, nevím jestli jste to
+zaregistrovali, ale se změnou loga,
+brandu, strategie, tak přichází
+i jako jiný způsob obsluhy
+klienta, takže máme jako nový obslužný model.
+Teďka vlastně dolešťujeme
+první generaci úplně novýho
+digitálního obslužního modelu
+a momentálně rolujeme
+nějaký taky hrozný číslo 2,5
+3 tisíce iPadů
+na pobočky. Stahujeme
+vlastně počítače, notebooky
+a všechno jde do Georgia, všechno
+jde do toho tabletu
+a kvůli tomu musíme zjednodušovat,
+protože to zařízení tě trošku
+jako omezuje, takže jako ano,
+pořád je to frontend do těch našich systémů,
+ale vlastně ty tradiční
+aplikace půjdu všechny pryč postupně.
+A máte nějaký feedback od těch
+paních na pobočkách,
+protože to je,
+nezapomeňme, to je vrstva banky, se kterou
+paradoxně ještě starší část obyvatelstva
+se vlastně potká jako první, protože já,
+když půjdu do banky, tak já se vezmu telefon.
+Když půjde moje máma do banky,
+tak zaťuká na dveře, otevře a teď
+uvidí tu, že jo, milušku, která tam sedí
+taky 40 let. A znají se,
+ještě spolu chodí na kafe, takže
+oni už, ona už bude vědět jítuško, co potřebuješ.
+Jak tyhle na to koukají? Ty musí
+mít jiný majince trošku, ne? No, samozřejmě
+musíme myslet i tadyhle na ty obyvatele,
+to je samozřejmě vymyšlený. Takže sice
+všechno primárně jdeme tadyhle tím digitálním
+kanálem, ale jsou tam ty
+záložní cesty, ale přesto
+a je to docela jako zajímavý,
+dneska i ta babička mývá ten
+smartphone, jo, a
+my dokážeme, za první, takže
+oni jim teďka třeba jako pomůžou nainstalovat toho
+Georgia, nastavit toho Georgia, dojít si tím,
+projít si tím onboardingem a
+ukázat jim, že jak to tam vlastně mají a že to je
+docela jednoduchý. Oni ty lidi samozřejmě k tomu
+budou mít nějaký velký respekt,
+ale minimálně pro tu
+obsluhu na té pobočce už se ten
+George dá použít, jo, tam je takový
+to, že, nebo případně ten
+bankéř může vzít ten iPad
+a nechat tu babičku, tvojí máti,
+přicházet se do toho
+do toho Georgia pod její
+identitou a vlastně provést jí tím
+pomocí s tím, jo, takže jako
+potřebujeme ty lidi do těchto kanálů dostat,
+ale samozřejmě záložní cesta tam je.
+Samozřejmě tak chceme ty věci, typo jako
+už chceme jít bez papírově, takže podepisovat
+ty dokumenty digitálně a...
+Já jsem teďka řešil vance už jako to prstem
+šmáráš na tabletu. Jo, jo, jo, to je moc příjemný,
+podpis tím. Jako podpis prstem je fantastická
+věc, to si zkuste někdy. Jo, ale už
+před x lety, já když jsem ve spořce něco řešil,
+tak tam měli normálně iPad s
+Apple Pencilem a můžeme se podepsat
+Apple Pencilem, ne prstem, ale Apple Pencilem, no.
+Jo, samozřejmě i tohle to jsou věci,
+které si dají vylepšovat, že jo, máme bankovní
+identitu, takže pokud jí máš, tak to
+můžeš vyřešit přes tohleto, že jo,
+kicka, know your customer, kterou musíme ze zákona
+dělat, ano, víme, je to otravný, ale my musíme.
+Jo, tak zase, zase už to
+může proběhnout komplet digitálně
+a zlepšujeme to pořád.
+Přidáváme tam vlastně jako by další, další
+procesy, vlastně do toho,
+do toho, do toho tabletu a do toho
+střorče. To jsi mi ještě nahrál teďka na jednu
+otázku, která mě napadla, je
+nějaká, nějaká regulace, nějaký
+nařízení, u kterým ty jako na to koukáš
+skrz prsty a teď víš, že tebe,
+člověka, který jako kouká do budoucnosti
+a je to ten jako high-tech člověk
+a je vizionář, že tě to
+jako evidentně blokuje, prostě v tom třeba
+to ještě dotáhnout vo level
+někam jinam, ale existuje debilní
+zákon nebo debilní nařízení
+nebo něco takového.
+přichází nová regulace
+a měli jsme s ní trošku obavy, jak
+vlastně bude utahovat ty šrouby,
+jak říkajíc, nakonec to není tak
+zlý, ale určitý moment to vypadalo,
+že budeme
+nucený, podobně jako v Německu, zpracovávat
+data našich klientů na území České republiky.
+Ne na území
+Evropské unie, ale nakonec
+to tak není, jo, můžeme
+Stačí Frankfurt, jo.
+Nebo jiné datové centrum,
+nemenované, že jo.
+Ne, jako chvilku,
+to tak vypadalo, co oni samozřejmě, ty cloud providers
+na to zareagovali a že jo, jak Microsoft,
+tak AWS, Google, teďka nevím,
+oznámili, že vlastně tady v Praze bude taky
+zóna. Nic se
+na tom nemění, bude tady zóna, což je
+jako fajn, ale
+jako trošku, trošku mi to
+jako znepříjemnilo
+večer.
+To chápu, no vlastně všeobecně
+máš pocit, když se trošku vrátím k tomu cloudu,
+že jako jednoho dne
+bude všechno na cloudu, nebo to vlastně
+ta legislativa nedovolí, je vždycky
+něco zůstane na nějaký vaší
+infrastruktuře?
+Hele,
+víc než o té legislativě
+a té regulaci, protože jako regulator
+ti to jako nemůže nařídit.
+Regulator vyžaduje, aby to mělo
+nějaké prvky, že jo, zabezpečení,
+kontroly, kvality,
+řízení a podobných věcí.
+Takže on jako úplně neřeší,
+kde to je, pokud nezačne existovat
+takováhle nějaká směrnice, která říká
+ho, prostě data o, prostě PII
+data o svých klientech musí zpracovávat,
+na svým muzemí, OK, tak pak
+se s tím budeme nějak vyrovnávat, ale jinak
+toho ten regulator jako opravdu neřeší.
+Takže je to spíš jako o nás,
+jakým způsobem si to nastavíme,
+abychom dokázali prokázat,
+že všechny ty požadavky od toho
+regulatora právě na tu bezpečnost,
+bezpečnost dat a všechny tyhle ty věci jsme dokázali
+splnit. A ty prostředky
+na to jsou, takže ve svý podstatě je to jenom
+práce.
+Tak ještě tady mám zranku,
+který nazývám osobní rozvoj.
+A v podstatě
+pár dotazů, tak jako směrem
+na tebe. Když jsem
+nad tím přemýšlel, tak věřím, že spousta lidí
+by třeba
+chtělo šéfovat velkýmu
+týmu v České spořitelně a třeba
+se tam z nějakého důvodu nedostanou.
+Tak možná i aktivní máš sám sebe.
+Jaký ty
+vlastnosti máš pocit, že ti dostali tam,
+kam ti dostali?
+Možná tohle zkus nějak popsat, jo?
+Jestli tam vidíš nějaký svoje benefity. Já vím, že
+to je těžký, ale teď se klidně chval.
+No to je...
+To je těžký, no. Tak jako jak sám sebe vnímám,
+to je blbá otázka.
+To se ptejme jich lidí na feedback.
+My si je pozveme někdy.
+Jo, klidně. Chceš jména?
+Nemůjte slušný.
+Nemůjte slušný.
+Jaký skillset prostě?
+No, no, no. Já jsem, že on na to téma
+měl pár přednášek a
+ta hlavní message je,
+že to jako vůbec není o té technologii, že jo?
+Jako je super, že ji rozumíš, že jsi schopen
+s těma lidma mluvit, ale ve výsledku
+tohle ti jako úplně nepomůže.
+Ale jako lidi můžou být úplně
+v pohodě s tím celý život prostě
+programovat. Já to chápu.
+Jako mě by to asi nějakou dobu
+taky bavilo. Takže hlavně,
+že jsou spokojení.
+No, co mě tam
+dostalo, no.
+Tak já ti trošku ti pomůžu.
+Tak byl tady jeden náš host, Petr Polák
+se jmenoval, táta můj. A ten mluvil
+hodně o pracovitosti.
+Že má pocit, že je hodně
+pracovitej, ale jako
+asi to není všechno, protože věřím, že těch pracovitých
+lidí tam kolem běhá spousta.
+Ale je to třeba nějaká...
+Jo, jako já třeba, jak tě vnímám, když tady povídáme,
+tak jako, že
+mám pocit, že máš jako nějakou
+míru empatie v tom
+smyslu, že jako dokážeš pochopit to prostředí,
+kde zrovna seš a reagovat
+na to správnýma slovama,
+nebo jo, správným kontextem.
+Jo, to je pravda, no. Akorát to je
+asi věc, kterou mám vrozenou.
+Jako do nějaký míry seš
+jako se schopen naučit cokoliv, ale ano.
+No, to pochopení toho prostředí,
+identifikace těch paternů,
+ať už jako co v tom prostředí je, a že
+jak se to správně řeší,
+tak ano, tohle mi funguje, tak říkajíc
+automaticky, to mi určitě si myslím, že pomohlo.
+No, a co se týče
+vlastně toho, jak se posunout do toho
+leadershipu, bavili jsme se o tom.
+Zapomeňme
+na všechno, co jsme dělali předtím,
+to je vlastně úplně jiná oblast.
+Je ta komunikace,
+jako to asi řekne
+jako úplně každý coach na tyhle ty věci,
+ta komunikace je fakt jako zásadní.
+U sebe považuji výhodu
+za to, že jsem schopen mluvit jak s těma
+technologama, jejich jazykem,
+tak prostě s tím boardem,
+jejich jazykem, takže takovej překladač,
+abych to řekl, případně s tím
+biznisem zase, takovej překladač.
+To pomůže hodně, protože
+pak nedochází k těm
+nedorozuměním. A jako
+opravdu spousta mojí práce je leštit
+ty nedorozumění, aby se všichni
+strany vzájemně pochopili,
+takže takový
+jako facilitátor bych řekl tý komunikace,
+takže to je jako jedna věc.
+Další je
+podle mě důležitá,
+nebo úplně nejdůležitější pro toho lídra
+je ta autentičnost. Ty lidi
+ode mě nemůžou slyšet něco jiného, než vidí,
+že dělám. A zase
+je to úplnej no-brainer, ale jako
+podle mě je to ten základ. Ty lidi by mi
+nevěřili a neměli bychom vybudovaný ten
+řekněme důvěryhodný vztah,
+kdyby nevěděli, že žiju
+to, co říkám a to, co po nich
+chci. Takže
+když jsem byl
+na úrovni řekněme týmu a chtěl jsem
+po týmu, aby psali unitový testy,
+tak jako kdo psal unitový testy první?
+Já. Přesně.
+Chceš prostě, chceme
+zautomatizovat něco, kdo první začal automatizovat?
+Já. Takže ten
+role modeling. Takže lead by example.
+Lead by example, ten role modeling je jako
+to je absolutní nutnost.
+Protože jinak seš prostě žvanil
+pro ty lidi.
+Asi.
+A nikdy jsem nebyl a nikdy nebudu
+určitě příznivě z nějakého micromanagementu,
+takže vy máte, že o svojí práci,
+já vám nebudu říkat, jak máte dělat
+svojí práci, jasně, máme nějaký mantiny
+nebo máme nějaké pravidla.
+A vždycky jsem říkal, kdykoliv máte
+jakýkoliv problém, tak ze mnou přičte
+a vyřešíme to. První, jako řešíme
+to, nějaké konsekvence a podobně,
+to se pak jako pobavíme.
+Ideálně, když se jakoby nic neděje,
+já nepotřebuju nějaký status
+reporty, pokud najdem nějaký projekty
+s nějakýma termínama a člověk to jenom hlídá.
+Já nepotřebuju vědět, co děláte.
+Pokud dodáváte, pokud vaši stakeholders,
+vaši klienti jsou uspokojení a nepřijde
+ke mně zpětná vazba,
+že nedodáváte, tak když
+o vás neuslyším, tak je to ideál.
+Jo, tím líp, tak když děti
+nezlobějí.
+Takže, ale říkám, jakmile ucítíte
+nějaký problém, nějaký blokr, někdo vám
+nějaká závislost není. Přijďte,
+okamžitě jdeme řešit. Takže je takovej
+ten bulldozer na ty
+roadblocky.
+To je v tom leadershipu taky důležitý.
+Ještě mi řekni jednu věc, jak vlastně
+v tomhle celém stíháš
+udržet to tempo,
+kam se celá industry pohybuje,
+protože na jednu stranu
+taky máš nějaký omezený čas, máš
+nějakou rodinu, taky ta loď čeká na tebe
+přístavu, byť teda půjčena.
+A ty musíš
+jedna komunikovat s lidma, jedna řešit
+operativu, ale zároveň vlastně
+jako řešit budoucnost, vymýšlet koncepty
+a ještě vlastně zjišťovat,
+co se stalo na poli, ve kterém
+ty působíš, to znamená celý jako IT.
+Industrika se posunula za ty dva dny,
+co ses nedíval. Jak tohle řešíš?
+Co děláš mezi druhou a čtvrtou ráno?
+Jo, je to...
+To samozřejmě nikomu
+nedoporučuji.
+No, to je těžká věc.
+Já mám jako vyselektovaný nějaký kanály,
+kudy to ke mně proudí,
+takže mám nějak jako hodně profiltrovaný,
+vyčištěný Twitter feed, který beru
+opravdu jako feed. Já sam nejsem moc
+aktivní, ale sleduju, řekněme,
+ty důležitý lidi z oboru a když se mi objeví
+někde někdo, někoho narazím,
+kdo mi přijde jako zajímavý nebo se věnuje
+něčemu, co mi přijde, že bude,
+tak si ho přidávám, takže tímhle tím způsobem
+se aspoň dostávám k novinkám.
+Strávím každý den aspoň chvíli nějakým čtením
+nějakých takovýchhle věcí,
+jako z těch novinkovejch.
+Mám strašně moc
+nevřečtených knížek.
+Případně kapitola 3,
+že jo, záložka.
+Takže musel jsem to
+trošičku, trošičku vyselektovat.
+Ale pořád tedy,
+jako ne všichni impulzivní nákupy knížek,
+které jsi určitě přečtil.
+Jo, jo, přesně, to zůstává.
+To se taky
+nezměnilo. No a jako
+není to příliš jako často,
+ale ještě pořád si v tom jako kódu
+občas pohrabu. Vždycky, když mi něco
+dává smysl, tak si to musím jako vyzkoušet.
+No a v čem píšeš?
+S čem si hraješ? S kotlinem?
+Teďka nebo...
+Nebo nějaký funkcionální?
+No, hele, typni.
+Začátek na F a končí na sharp.
+Jaký Elm?
+Ne, dobře, jako u Elmu se držím,
+protože tam mám jako nějaký...
+Srdíčko. Srdíčko, přesně.
+Tam mi přijde jako super ta komunita a co vymejšlí.
+Mimochodem je jakoby takový
+spinoff.
+Gren. Kdy to začíná jako
+komunitně, protože jako Evan
+je takový uslej, nebo věnuje se
+jiným věcem, takže ten jazyk jako takový
+se nerozvíjí. On teda se nepotřebuje rozvíjet, on funguje
+dobře, ale vzniklo tam
+prostě jako velmi silně
+inspirovaný tímhle jazykem
+na frontend a že ho Richard
+Feldman, který byl v Elmu, tak
+už asi dva roky píše
+jazyk, který se jmenuje Rock, který má
+taky MLková syntaxe,
+ale zamýšlený právě na backend.
+Takže to sleduju jako hodně, protože
+to by mi přišlo jako super kombo.
+A to má být JVMkový, nebo úplně nějaký vlastní?
+Hele, oni to píšou v Rastu a kompilují
+přímo prostě do
+Bináry.
+Chvilku jsem si
+potykával s Okemlem, ale
+ten...
+Prostě chybí mi tam ta jednoduchost toho Elmu, on je to jako
+dobrý jazyk, silnej jazyk, ale
+nedostal jsem se
+k tomu v tom napsat něco většího.
+Takže momentálně si hraju,
+jsem zmiňoval Beam, takže ne,
+bych se jako psal v Erlangu, ale
+Elixir, Phoenix a LiveView.
+Přijde mi to právě super v tom, že se
+vracíme trochu k té jednoduchosti, že
+nepotřebuješ manažovat stav
+na backendu a v databázi,
+pak mít APIčka, pak to samý
+dělat na frontendu. Je to jako
+úplně ridiculous. My jsme s tím dělali
+nějaké experimenty a moc se
+mi to jako líbí. Je to funkcionální,
+že jo, škáluje to,
+ten jazyk je trošku jinej,
+ale pořád jako příjemnej.
+Ten ekosystém je už dostatečně bohatý,
+komunita je pěkná,
+taková taky vstřícná, takže momentálně
+Beam,
+Elixir, Phoenix, LiveView.
+A zkoušel jsi trošičku
+to funkcionální semínko zasadit
+jako ve sporce, maličko?
+Hele, velmi maličko, lidi to ode mě
+jako slyšej, že jo, ale
+tady musíme brát v potaz, že jo, kolik potřebujeme
+lidí, kolik je těch lidí na trhu.
+Jako hele, jasně, že by se mi to líbilo
+a jsou nějaké části, kde si myslím,
+že by to dávalo velký smysl.
+Protože já s tím mám historicky
+právě, řekněme, u toho infrastrukturního
+kódu, u toho platform engineeringu, velmi dobrý
+zkušenosti. Tam jsme právě něco měli
+jako v OKEMLu.
+Funguje to skvěle. Stabilný,
+výkonný, bezchybný
+téměř.
+Jo, to je super. Jo, jako, moc rád by.
+Já doufám, že třeba s tím kotlinem se lidi
+trošku dál dostanou, že tam jsou, že jo,
+jako rutiny máte těchto sejkou,
+ale má jim, myslím, i kotlin, že jo, tadyhle ten princip.
+Že je tam ta práce
+s těma, že jo, třeba kolekcema, jsou tam ty
+funktory a tyhle ty věci, že se k tomu jako lidi
+postupně dostanou. K tomu do interioru vlastně.
+Jo, že nemusí půjžat for cyklus, ale že existuje
+map a podobný věci.
+Nice.
+Ale třeba kluci
+v TypeScriptu reaktují už na tohle, to jako
+funguje úplně. Jo, tam si ty jsou dál. Ty jsou jako fakt dál
+v tomhletom, no. Ten TypeScript, co jsem koukal,
+ten má union typy a má jako...
+Furt mi tam chybí ADTčka, furt čekám,
+jako jestli se těmi dokopou, ale...
+Aspoň něco.
+Ale jako co jsem koukal, tak jako TypeScriptistí
+už jsou dál v tomhletom. Jo, jo, je to tak.
+Ono i ten reakt je trošku nutí k tomu přemýšlet
+nad tím jako jinak. Přesně tak, přesně tak.
+To je paráda. No krása.
+To jsme se bavili o tom osemním rozvoji, to je
+prostě paráda, že si tady můžeš
+pokecat s Tomem,
+i ty, i já, jako by tady seděli dva tomové.
+Je to tak, je to tak, je to tak.
+A proto to děláme, proto to děláme
+taky Bajnový. Přesně tak, přesně tak.
+No tak jo, Tome, hele,
+samozřejmě klasická otázka úplně na závěr,
+protože my už jsme tady... Už přetekáme
+do basketbalu. Už přetekáme do basketbalu, ale mě to baví
+dneska. Je to super, je to super.
+Plány do budoucna.
+No. No.
+Kromě tý lodě, která ti čeká za třetý.
+Tak to je, to je prostě, to je dovolená,
+tam vypínám, tam dobím baterky.
+No, jako ta journey
+v tý spořce je docela zajímavá.
+A ten důvod, proč jsem tam šel, byla
+vlastně ta škála, jo. Už nepracuju v organizaci
+se stovkama lidí, pracuju v organizaci
+s tisícema lidí.
+A zlepšit to
+je jiný, jiný úkol.
+Takže tam se
+na pár let určitě vidím.
+Doufám, že to neposlouchá Martin, když říkáme
+jenom pár let.
+Máme tam nějaký tříletej
+plán, takže ten já bych jako velmi,
+velmi rád bych se toho zúčastnil a prokázal,
+že tu organizaci jsme schopni jako posunout,
+změnit a udělat
+z ní opravdu víc technologickou firmu.
+No a
+dál já moc jako nepřemýšlím.
+Jasně, jachtíčka super,
+domeček někde na jihu
+super, ale to jsou takový
+jako plány. Člověk plánuje,
+život mění. Já to
+moc neřeším, tyhle ty věci. Já si užívám
+většinou tady a teď.
+A ještě poslední věc, ty jsi zmiňoval,
+že jsi byl teďka na nějaký interní konferenci.
+Můžu tě někde posluchači
+slyšet, vidět live?
+Budeš někde prezentovat?
+Chválím, řekl jsi posluchači, ne diváci.
+Taky jsem se ten
+brain switch, tohle to bylo
+to neuvěřitelné. Hodně jsem vypočetl.
+Na poslední chvíli to. Poli máš pašáka dneska.
+Tohle byla
+interní, takže z tý samozřejmě
+jako veřejný záznam není.
+Já mám na starosti
+mimo jiné ještě employee branding u nás.
+Developer branding,
+řekněme.
+Takže samozřejmě mám tam kromě
+vás, kdy jsme se dohodli
+jako takhle tak tam od našeho
+marketingovýho týmu, už se znám
+pořadu, audio i video
+a podobně, který se budou muset zúčastnit.
+Takže pár věcí se asi na LinkedInu
+časem objeví.
+Jasný, tak tě tam budem sledovat.
+Tak pozdravuj Krauze od nás.
+Povím, že nebudeš jako hostři.
+Takový ten dvouminutový
+raritka.
+Freak nakonec.
+Vyteří se
+freak nebo geeky, nebo obojí.
+Ale super.
+Díky moc, že jsi dorazil.
+Bylo to opravdu potěšení a radosti
+zase konečně vidět, pokecat
+a budu se těšit, když se zase někde srazíme
+a dáme řeč. Vždycky to stojí za to.
+Měj se. Díky za pozvání.
+Moc díky Tomáš, měj se. Čau.
+Vážení posluchači, nebudu vám lhát.
+Teď to tady už pět minut zkoušíme
+dotočit. Ten závěr, tu
+konečnou sladkou tečku, kdy si řekneme
+jak to bylo zase dobrý, jak byl Tomáš
+skvělej, jak jsme nečekali, že banka se
+dokáže tak modernizovat a
+posunout z těch dřevních dopaž takhle do moderních.
+Po každý jsme se na nějaký
+kravině zasekli. Poli tady
+už má ten svůj
+to svojí nemoc s Mavou.
+Takže my se s vámi okamžitě
+loučíme. Mějte se krásně.
+Těšilo nás, bylo to skvělý a za
+14 dní se na vás budeme těšit zase.
+Porovat zase. Ty jsi to vystřih, Románku,
+teď úplně nádherně. Tak to nebude, sr, končíme.
+Já ještě chci říct, Rom, posluchači
+máte smůlu, že jste nebyli u těch
+předchozích verzí, který mě
+prodloužili život asi o pět let.
+Ale takhle krásný. Mějte se krásně.
+Za 14 dní se těšíme znova
+a třeba tam bude ještě něco mezi
+nějaký překvápkou. Mně se líbí, že jste
+vůbec nerozplystečka. Že jo, že jo.
+Ne, vůbec. Čau. Čau.

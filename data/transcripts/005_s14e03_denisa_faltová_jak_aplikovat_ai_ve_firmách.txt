@@ -1,0 +1,2188 @@
+Pod vodca sem.
+Pod vodca sem.
+Pod vodca sem.
+Pod vodca sem.
+Krásný den, milí posluchači,
+vítejte u třetího dílu čtrnácté
+série vašeho nejoblíbenějšího
+IT podcastu Pod vodca sem, no a
+samozřejmě i po třetí v této sérii.
+Naproti mě sedí Petr Polipolák.
+Naproti mě Roman Žoukr-Provazník,
+můj nejoblíbenější kolega v podcastu,
+přátelé. I kdyby jich bylo víc, stejně by byl
+nejoblíbenější. Ty si řek, když mi moje
+dcera říká, že jsem její nejmilovanější
+tatínek. Já mi ne, ho nemáš. Takže ano,
+skutečně, ten výběr
+partnerů pro Pod vodca sem podcast
+není veliký, ale já jsem rád, že jsem
+obhájil aspoň ten bronz.
+Každou sérii, každou
+epizodu to vyhráváš a obhájíš.
+Super, děkuji moc, děkuji moc. Samozřejmě to s tebou
+taky baví. Doufám, že to baví i vás,
+naše posluchače, protože my jsme to
+rozjeli v této sérii a v tomto roce
+ve velkém, protože plány jsou
+si to s Petrem, kromě toho,
+že teda potřebujeme víc přetáčet,
+aby vy, naši podporovatelé, jste nás
+měli o týden dopředu, tak ještě
+jsme si to krásně zkomplikovali tím, že
+Poli letí na dovolenou, já letím na
+dovolenou, ještě to máme tak krásně udělaný,
+že ve chvíli, kdy já budu
+odlítat, Poli bude přilítat, takže možná
+na tom, kdyby to bylo stejné letiště, tak si tam dáme
+imaginární high five. Přesně tak.
+A nám se to dostáhne vlastně přes celý jeden měsíc,
+takže teď to musí frčet, teď to
+musí být, jak říkával mu děda, teď to musí být hudba.
+Teď to musí být hudba, přesně tak. Teď se vidíme
+vlastně častěji, než pomalu vidíme své ženy.
+A i tak je to krásné. I tak je to krásné.
+Tak jo, přátelé, my vám
+samozřejmě chceme poděkovat za podporu,
+chceme poděkovat za podporu našim
+podporovatelům přes Hero Hero,
+kteří tam teďka lezou, kupují si
+nové předplatny a dostávají
+perfektně sestříhaný
+živák z listopadu,
+prdla, z října, z října minulého
+roku. A samozřejmě díky tomu
+jsou i o epizodu napřed.
+No a samozřejmě musíme poděkovat
+České spořitelně našemu velkému podporovateli,
+který už několik sérií to s námi táhne,
+stojí nám jako silnější partner v zádech
+a snaží se, aby jsme
+šířili dobré jméno České
+spořitelně, jestli
+to mohu takhle říct.
+No samozřejmě. Ale samozřejmě jsou rádi,
+jestli to děláme po svým, takže myslím, že
+tahle spolupráce funguje a doufáme, že ještě chvilku
+fungovat bude. Přesně tak, přesně tak ještě
+odkazuje na Martina Wagnera první díl
+této série. S Martinem jsme to pak řešili,
+že vlastně jsem ho moc rád tady poznal.
+Jako ne, že bych ho neznal nebo nevěděl, co dělá,
+ale vždycky je to zajímavý, jako nemáme
+na sebe prostě dvě hodiny po kecu, no.
+Tak je fajn, že si takhle uděláš
+takovou vnitrofirmní seznamku přes podcast.
+Já jsem rád, když to funguje.
+Děkuji, děkuji. Funguje to pěkně.
+Tak jo, pojďme na dnešního hosta,
+kterým je Denisa Faltová,
+což je, pokud vám to příjmení
+zní tak trošku povědomně,
+tak je to manželka
+Dana Falty, kterého jsme tady měli
+a se kterým jsme se bavili o 3D modelování
+do her a tvorbě
+asetů a závodních hrách
+a stavění drách a všechno tohleto.
+To si klidně dejte, pokud jste ten díl neslyšeli.
+Ale my si sem samozřejmě ženy
+nezveme jenom z toho titulu, že to jsou větší manželky.
+To by bylo dost sexistický.
+My jsme si pozvali Denisu, protože se věnuje
+něčemu, čemu Němci říkají krásně
+K.I.
+K.I.
+Tomu říkají dokonce K.I.
+A K.I. neboli A.I.
+To je věc, která dneska prostě rezonuje.
+Ano, ano, ano. Mně se líbí, jak Němci
+tomu říkají úplně jinak než celý svět.
+Ale to je jedno, to nechme stranou.
+A jinak se teda dnešním dnem
+z nás stává vlastně rodinný podcast,
+což se nám teda líbí, takže kdybyste
+naši předchozí hosté měli
+zajímavé protěžky na své někde
+doma u sebe, tak mě taky pozvěte,
+protože to bylo zajímavé.
+Ježišmarja, to se jak rodinný podcast, to je jak ten film tenkrát s Nárožným.
+Nebo film. Seriál s Nárožným.
+Zlatíčka se to myslím jmenovalo.
+Byl to Nárožnej, jak si vždycky
+sebrali nějakou slavnou hereckou rodinu
+a teď se ptali těch dětí.
+Kamaráde, my jsme nenatočili ten první úvod, že jsme bumři,
+ale teď to teda vylepším.
+Zlatíčka s Nárožným, přátelé,
+co jste se narodili před třeba 20 lety.
+To už ani nevygooglíte,
+podle mě, to zavřeli do trezoru.
+Já bych řekl, že naši posluchači,
+kteří pravidelně v sobotu
+snídali s Vladimírem Železným,
+tak skutečně ví, na co narážíme.
+Vy, co už teďka se dokážete
+najíst i bez toho, až by vám někdo
+popřál dobrou chuť, pokud právě objedláte,
+tak by samozřejmě tuhle referenci
+jste vůbec nepochopili. To nemají, jak říkal
+Poli, není problém, klidně si tady
+s toho udělejme rodinný pořád, hlavně, když to bude
+o IT, když to bude zajímavý, a já si myslím, že
+s Denisou to zajímavý bude.
+My už jsme ji nechali tady tančit ve studiu,
+protože je to druhý úvod,
+který přetáčíme, protože první nám, jak si odešla
+technika, tak asi jdeme pro ní, ne?
+Jdeme pro ní.
+Ve studiu s námi sedí náš dnešní host,
+Denisa Faltová. Ahoj, Deniso.
+Ahoj, ahoj.
+Tak prosím tě, Deniso, jak se máš?
+Jak jde život?
+Je to fajn, všechno je super,
+akorát jsem ještě po ránu taková
+trošku nerozběhnutá, takže
+možná to bude chvilku trvat, než se
+dostanu do
+tempa. V pohodě, já jsem si myslel, to naskočí.
+U Faltů všechno v pohodě, jak se má Dan?
+Všechno v pohodě,
+taky pořád stejně,
+a teď se akorát budeme stěhovat,
+tak je toho trošičku víc. A do většího, jo?
+Do menšího. Do menšího, jo?
+Už jsi řekla, už si ty krámy vyhoď,
+jdeme někam do menšího, dobře, dobře,
+to jsou nějaký monitory, 3D modely tam,
+monitory,
+repráky, mixáky,
+všechno možný. Takže u Faltů
+všechno fajn, samozřejmě Dana zdravíme,
+ten díl si myslím, že je epický, pokud jste ho neslyšeli,
+připomínám, dejte si ho o
+3D designu, o herním
+biznisu, to je takové to naše
+srdíčko, který tam máme, minimálně jeden z nás
+to tam samozřejmě
+má, Poli to vždycky otrpí.
+Já jsem jako fantastický první poslucháč.
+A mě to baví, že jo?
+No ale dneska to vlastně, Poli
+bude obráceně, protože
+Denisa tady je vlastně kvůli tvému tématu,
+takže prvním posluchačem dneska budu já.
+No to je sice pravda,
+ale pořád bych řekl, že to je i trošku
+tvoje téma. To je téma nás všech, co si budeme
+povědět. Ano, Ano. Denisa je tady kvůli
+AIčku, kvůli KI
+a to budu dneska používat v té německé verzi,
+protože mi to prostě přijde strašně cool.
+Já vím, že to je různý.
+Ale než se k tomu
+dostaneme, Deniso, prosím tě, řekni
+posluchačům, kteří tě nikdy
+neviděli, neslyšeli,
+kdo jsi, jak ses dostala do IT,
+jaká byla tvoje životní cesta, protože takový ten
+klasický úvod. Jasně,
+tak já vůbec nesem programátor.
+Mám vlastně ekonomické
+vzdělání a začínala jsem původně
+úplně jako jinde, v bankovnictví,
+v korporátech.
+Pak jsem o tom tady zdrhla, protože
+jsme potřebovali cestovat
+a žili jsme různě po Evropě
+v různých zemích, takže jsem nemohla
+pracovat takhle a pracovala jsem nadálku.
+Dělala jsem různý překlady,
+media monitoring, učila jsem
+angličtinu. No a pak jsme se
+vrátili a vlastně jsem se tak
+nějak dostala při svojí lásku pro
+všechno nový a nadšení pro
+nový věci a tomu říkám, že jsem neofil.
+Neofil. Já se vždycky
+vrhnu do všeho novýho po hlavě
+a musím to proskoumat, tak vlastně jsem
+se tak nějak vrhla do
+kryptoměn, protože mě strašně zaujala
+jako ta myšlenka o bitcoinu, ta původní,
+že by to mělo být jako takový
+to peer-to-peer prostě pro lidi
+a co možná tady bude asi
+rezonovat s vámi taky a
+přes vlastně bitcoina, přes kryptoměny
+jsem se dostala do
+kryptomagazínu, kde jsem nejdřív
+psala jako redaktorka články
+a překládala a později
+jsem dělala šef-redaktorku pár let.
+No a potom, když
+už to bylo trošku moc a
+nestíhala jsem to s rodinou, skloubit
+nějak jako rozumě dohromady, když
+vycházelo třeba osm článků denně
+tak jsem se tam tuď
+přesunula do
+jako jsem si říkala, klasický práce
+klasičtější práce, takový
+to nine to five
+a to bylo tak, že jsem
+vlastně skončila v CN Group
+kde jsem měla na starosti nějaký
+marketing, vzdělávání
+a takový to
+překládání vlastně mezi
+tím světem technologií
+IT, programátorů
+a tím světem lidí
+tak, aby to pochopili, aby vlastně
+rozuměli, co se tam
+děje, proč se to děje a tak
+a to mě strašně bavilo, tam jsme se
+potkali taky my, takže
+ještě v téhleté době
+předtím, než se z toho stalo
+cyklum, no a z cyklumu
+jsem potom odešla do
+vlastně do Satoshi Labs, do
+pobočky Invity
+tam jsem měla na starosti zase takový to
+překládání zpátky
+teda Bitcoin, kryptoměny
+no a někdy tou dobou
+se objevil
+GPT
+a tomu jsem teda úplně propadla
+od začátku, když to
+vlastně začalo, tak to bylo, jako
+kdybych se zase dostala
+do svých dětských let, kde jsem milovala
+různý sci-fi, knížky
+a seriály a filmy
+a najednou vlastně to bylo
+tady a byla to skutečnost
+a musela jsem to vyzkoušet
+samozřejmě, no a postupně
+jsem zjistila, že
+jsem do toho tak strašně zažraná
+že to všude všem na potkání cpu
+a lidi
+se tak jako ptali, jak teda
+na to, co pomáhá, co funguje
+a vlastně tím jsem došla
+k tomu, že jsem jim začala
+vysvětlovat a
+čím dál tím víc, až jsem
+ve finále skončila u toho
+co dělám teď, což je vlastně něco
+čemu říkám AI coaching, což je
+vlastně takovej můj jako
+termín pro práci
+s lidma, tak
+aby vlastně pochopili, jak to AI funguje
+aby to dokázali nějak
+mým způsobem opravdu
+zahřadit do té svojí práce
+a aby jim to fungovalo
+a je to pro mě spíš práce s lidmi, než
+ta práce s technologií jako takovou
+protože, jak jsem říkala, nemám technický
+background, ale trošku jiný
+takže je to
+opravdu o tom
+aby ta AI pracovala pro lidi
+Deniso, byl tam nějaký
+aha moment, kdy jsi řekla jako
+tyjo, tak kašu na kryptoměny
+teďka, teďka to AIčko, to je
+to je budoucnost?
+Věděla skoro hned, když jsem zjistila
+co všechno to vlastně umí a hlavně jak
+strašně rychle se to zlepšuje
+a jak to jde dopředu
+protože já jsem si myslela, že
+jako krypto je rychlej obor
+tam ty změny, cena, že jo
+to prostě lítá nahoru a dolu
+ale AI je ještě daleko rychlejší
+to je úplně neuvěřitelný
+ta rychlost, jakou se tam všechno mění
+takže jo, to jsem si
+určitě říkala, že je to budoucnost
+že je to něco, co
+absolutně fundamentálně změní
+vlastně všechno, něco asi jako
+nástup internetu
+a ten aha moment byl ten, kdy vlastně
+jsem zjistila, že spousta lidí to vnímá
+jako nějakej novej software
+že vlastně to tady takhle vezmem
+nainstalujem, proškolíme lidi
+a teď to pojede prostě
+a bude to furt stejný, ale ono to tak
+vůbec nefunguje, protože
+nejenom se vyvíjí
+ty různý nástroje
+a neustále mění a přidávají funkce
+a všechno, ale
+i ty schopnosti toho se mění pořád
+takže to, co fungovalo
+nebo nějakým způsobem si třeba ta firma
+zajela nějak, tak prostě za
+třeba půl roku je úplně někde jinde
+takže opravdu to není
+o tom, že nasadíme a pojede to
+ale je to o tom, že se musí neustále
+prostě adaptovat, přizpůsobovat
+a asi tak
+jako když nastoupil internet, tak
+ze začátku to bylo, že na jednom počítači
+to si možná už nepamatujete, ale
+na jednom počítači v celý firmě byl
+přístup na internet, odkud se posílali
+třeba platby a nikdo jiný neměl
+prostě internet vůbec.
+Takže jako když měl telefon někdo doma, penu, linku
+a všichni si chodili zavolat. Jo, jo, jo, přesně to samé
+nebo budka, že jo, byla telefonní
+a všichni chodili volat jako do budky.
+Dneska teda bumerina jede, ale
+dneska, dneska.
+No, takže
+to vlastně bylo tak a postupně
+to změnilo úplně komplet všechny
+prostě procesy, všechny naše způsoby
+komunikace, toho, jak
+platíme, fungujeme ve
+firmě, v práci, v soukromém životě
+a s tím AI to bude podle mě, nebo
+už to začíná vlastně pronikat úplně
+všude stejně.
+Vlastně máme to jako otázku,
+jak vlastně prožíváš svůj den
+jako AI coachka, co to teda vlastně je,
+jaký je ten obsah toho.
+Ale tak, jak jsi to teďka popsala, tak vlastně by
+mě zajímalo, že všichni používáme
+TGPT, že jo, na takové rychlo
+promptování, někdo si tam potom jako pošle
+nějaké jako delší prompty, někdo to používá na
+programování, jsou tam nějaký jako základní use cases
+a jak ty pracuješ s tím,
+když ti někdo tohle řekne, jo, hele, já používám
+TGPT, nebo Gemini, nebo whatever,
+teď to teda jako, teď to teda jako používám
+na tyhle use cases, podle mě se
+budou dost opakovat a
+teď teda vlastně ty tam do toho
+vstoupíš a co vlastně začínáte
+řešit? Já vlastně začínám
+od toho, kde ty lidi jsou a co potřebujou,
+kam se potřebujou posunout,
+jak fungujou teď a
+co vlastně potřebujou dělat
+zahrnout do tý jejich práce,
+tak, aby jim to pomáhalo, ulehčilo,
+urychlilo ty jejich procesy
+a postupy,
+ale ona vlastně, ta logika
+je ve většině těch nástrojů hodně podobná,
+jo, to už je jedno, jestli máte TGPT,
+jestli máte Gemini, jestli máte
+Copilot, nebo nějaký jiný,
+ta logika základní toho,
+jak to AI funguje, je vlastně všude
+stejná, takže já začínám tím, že vlastně říkám,
+že AI je něco
+trochu jako Sheldon Cooper,
+že opravdu je to vlastně
+jako, kdybyste měli nějakýho geniálního
+autistickýho kolegu,
+který v podstatě potřebuje
+naprosto přesný zadání a potřebuje
+mít co nejlepší a nejširší
+kontext, aby chápal opravdu dobře,
+co má dělat. A když tohle to nemá,
+tak potom ty výsledky jsou
+kolikrát, že člověk vůbec nechápe, co se
+vlastně stalo a odkaď tohle to přišlo,
+ty halucinace, jak se tomu říká.
+A tohle
+třeba ten základní přístup
+nebo základní fungování
+AI je něco, co spousta lidí
+mi na těch kurzech nechápe.
+Že oni prostě se potom
+rozčilujou, jak to, že
+tady tohle to je takhle,
+vždyť jsem to chtěl takhle a vůbec
+nechápou, že ten základ a ten problém
+není až tak úplně v AI, ale v tom
+jejich vlastním přístupu.
+A narážíš třeba na to, že nechápou,
+že AI nevidí text,
+ale vidí tokeny, který ne vždycky
+musí být rozsekaný na slova,
+že takový to tradiční, to je debilní,
+ono to nemůže spočítat ačka ve strobery,
+tak si zkus nějaký tokenizer
+a uvidíš přesně, jak to vidí.
+Narážíš na tyhle sty?
+Na to narážím samozřejmě pořád,
+zvlášť u těch lidí, který přesně používají
+většinou chat GPT a teď se s tím začnou
+dohadovat a nebo říkají, to je úplně blbý,
+protože ano, nespočítá to správně
+nebo mi to udělá,
+spočítá to pět prstů
+nebo čtyři prsty místo pěti
+a podobně, jo, to jsou takový ty klasický
+právě neporozumění a říkám,
+AI není kalkulačka,
+prostě pokud si ji tak nenaprogramujete
+a nemá smysl se s ní
+dohadovat. Jo, to je
+absolutní ztráta prostě času,
+ztráta tokenů, ztráta prostě všeho,
+protože čím více se s ní budete
+dohadovat, tak tím horší ty výsledky
+budou, že jo. No, to jsem teď
+vysvětlovala třeba tátovi, kterým
+jsem ukazovala Notebook LM jako úplně
+geniální nástroj pro
+studium, protože táta učí na vysoké
+škole, takže pro něj to je jako
+výborný nástroj a
+není tak známej. A on se
+vždycky hádal, říkal, ale já jsem to chtěl
+takhle, proč to není takhle? A on na to
+a já vždycky napíše, že jo, ano, samozřejmě
+strašně se omlouvám, teď už to udělám
+správně. Máte pravdu.
+Ale ve finále ten výsledek,
+co potom vyhodí, tak je zase špatně,
+že jo. To je prostě klasika, že jsem
+vysvětlovala, že to bere prostě v potaz celý
+ten kontext a že to jako úplně nerozliší,
+co přesně teda jako konkrétně
+bylo špatně a hlavně, že to
+neumí číst myšlenky.
+Že spousta lidí má opravdu takovej
+pocit, že je to nějaký zázračný
+prostě nástroj a teď
+ono to hodně, je tam
+obrovský a obrovská propast. Na jední
+straně jsou lidi, kteří si myslí, že to je
+zázrak, který vyřeší všechno
+a na druhý straně jsou lidi, kteří si myslí,
+že nás to prostě tady doparle zlikviduje.
+A setkáváš se
+opravdu s těma lidma, kteří z toho mají reálně strach?
+Až tak moc ne.
+Na těch kurzech jsou většinou lidi,
+co už jako nějakým způsobem s ním pracují
+nebo chtějí třeba se posunout dál
+a většinou ty lidi, kteří si myslí
+tohle, tak mi tam nepřijdou, že jo.
+Ale když mám třeba
+kurzy potom ve firmě
+na zakázku pro tu firmu, tak tam
+mám od lidí, kteří jsou nadšený
+a prostě fungují s tím a pracují
+po lidi, kteří jsou řekněme velmi
+rezervovaný.
+Hala, a co je teda obecně největší
+problém v těch firmách, když tam teda
+deším pomoc tou AI adopcí?
+Dokáže se představit na jednu stranu takový ten gatekeeping
+těch náš technických lidí,
+kteří řeknou, ale přeci, teď já mám ty takovou teplou
+pěkně hezky placenou židličku
+a ono mi to sebere, tak to radši pojďme rozmátit
+stroje, ať nedělejí efektivněji za námi.
+Pak můžou být ty lidi, který
+jako reálně třeba se bojejí, že
+ta jich práce přelývání z Excelu do Excelu
+přestane dávat smysl, což
+spoustu z nás jako skutečně doufá.
+Ale možná se tam objevuje
+nějaký jiný strach, tak jak bys to třeba
+rozlišila na různý typy, jako
+těch skepticí nebo obecně?
+Většinou, na co třeba
+narážím a co se moc často
+nediskutuje úplně otevřeně a veřejně,
+tak je to, že ty zaměstnance v těch
+firmách kolikrát říkají, no jo, ale
+já tady se třeba naučím AI.
+Takže budu mít tu práci hotovou
+dvakrát, třikrát, možná ještě víc
+rychlejc, ale jako maximálně
+dostanu víc práce, že jo, ne víc peněz.
+Je takhle. Takže se bojejí,
+že vlastně ve finále skončí tím, že
+budu muset dělat víc za
+stejně peněz. Jasně, víc prostě práce,
+výrazně víc za stejný peněze, že.
+No a tak ale musíš
+narážet i z druhé strany na nějaký
+naprostý nadšence, který to jsou tví partiáci
+a ty neopak by to narvali úplně všude, ne?
+To je další extrém a tam potom
+je potřeba trošku brzdit a vysvětlovat,
+že je potřeba přece jenom
+opatrně, že tam člověk nemůže nalejt
+úplně všechno, že jo, zvlášť nějaký
+citlivý firmní data, osobní údaje
+a podobně. Takže to je zase
+ta druhá stránka, no. A je
+občas trošku složitější najít nějaký
+rozumnej balans mezi tím.
+Protože přesně, jo, tam pak jsou
+ajťáci, který nechtějí vůbec
+jako pustit to AI do firmy.
+Protože je to nebezpečný, protože
+vidí prostě ty možné rizika.
+A na druhé straně jsou lidi,
+zaměstnanci, který si řeknou, dobře, tak
+jako já to tady nemám na firmním
+počítači, tak si to tady zbastlim
+prostě na nějakém soukromém tabletu
+a stejně, že jo, to pak dělaj.
+A co teda, když se na to podíváš, ty
+z pohledu člověka, který se tomu věnuje
+už nějakou dobu, co je teda aktuálně
+hype, který by si řekla,
+hele, tohle je prostě jako
+oversold a vlastně přínos je
+nulovej nebo zápornej a co je naopak věc,
+kterou by si dneska doporučila,
+že je vlastně naprostej základ a lidi by to měli
+znát, chtěj nechtěj.
+Jasně, tak absolutní hype je teďko vibe coding, že jo?
+Jo. A to asi jako
+víte sami dobře, jak to potom vypadá.
+Ono to není,
+ono to není špatný, ale
+nedoporučovala bych to na nějaký,
+jako třeba na to nahodit si
+rychle nějaký demo, vidět, jak něco funguje,
+nefunguje, jak to
+vlastně třeba by mohlo vypadat, webovky,
+jak by mohly vypadat na rychlo, jo? Aby to
+člověk měl možnost představit, nebo
+vyzkoušet, nebo
+nějakým způsobem otestovat.
+Tak to je super. A na nějaký
+mini-upky, když si chcete udělat něco fakt
+jako na míru pro sebe,
+já nevím, chcete si propojit
+prostě data z nějakých vašich
+hodinek chytrých, z tréninku,
+s nějakým jídelníčkem, prostě úplně
+na míru, super.
+Ale v momentě, kdy to chcete škálovat
+vy většinu, kdy prostě máte těch
+uživatelů víc, tak tam bych byla fakt
+opatrná a asi by to měl dělat
+minimálně někdo, kdo už jako tomu
+trochu rozumí, no.
+A ten opačný extrém, teda to,
+že už tohle by měl znát
+každej, co teda používáš, nebo
+co by si doporučila u toho AI,
+že už je fakt základ?
+No základ je, to, co jsem říkala předtím,
+ta logika toho, že to není
+prostě kalkulačka nehádat se s tím,
+že, co já se snažím vysvětlit,
+že to je, jako,
+že to dává nejpravděpodobnější
+odpovědi, ne nejpravdivější
+odpovědi, jo.
+To je takový absolutně zásadní rozdíl
+uvědomit si,
+že to je opravdu probabilistický model,
+který se snaží trefit tu
+statisticky nejpravděpodobnější
+odpověď.
+A jak to, jak to,
+jak se to posouvá v čase? Já jsem teďka poslal
+takový AI podcast, kde
+ty kluci říkali, že samozřejmě
+na začátku se přišlo, že se říkalo,
+píš v podkaz,
+pak ten prompt na půl a čtyřky,
+aby byste měli jasný kontext, jo, popiš to.
+A oni vlastně došli sami k tomu,
+že nejčastější prompt je na dvě věty
+dneska, jo, že vlastně se to posunulo
+tak, že jednak ten kontext
+už tam nalili v průběhu
+času a pak už se chtějí třeba jenom
+doptat na něco a říkají, hledaj, už mě znáš,
+tak mi to nějak jako popiš.
+Tak jak se stavíš k tomuhle?
+No, byla doba,
+kdy opravdu ten prompt byl důležitý
+a ty výsledky, pokud ten člověk
+uměl správně napsat prompt,
+tak byly rozdílný a bylo to na tom vidět.
+Ale to se změnilo teď
+s nástupem těch nejnovějších generací
+těch modelů, kdy
+už to opravdu není důležitý.
+Pokud máte
+ten model dobře nastavený
+v těch základních prostě nastaveních,
+že když si tam dáváte ty základní informace,
+pokud má k dispozici ten kontext,
+ty data, kterých vychází,
+tak už nemusíte psát prostě prompt na půl stránky,
+jak se dělali takový
+ty role
+a nevím, co se tam dávalo
+ještě teď všechno.
+Jo, jseš odborník
+z 58 tisíci lety zkušeností.
+Takže to už se nemusí, jo?
+To teď už není
+tak důležitý. Dokonce jsou i
+výzkumy na to, že v podstatě
+ty výsledky už jsou skoro stejný,
+ať už tam zadáte přesně takhle strukturovaný,
+pečlivě definovaný prompt na půl stránky
+se všim, anebo ne.
+Jo, jo. Je to taky v těch
+i v obrázkách. Jsem teďka zkoušel
+kým obrázek a když jsem ho fakt jako nepopsal
+pořádně, tak to už vždycky dělal na nějakou
+kravinu. Já jako nakonec jsem na to koukal
+a říkám, hele, zahoď to.
+Jasně, obrázky.
+No, to bych možná začala
+trošičku ze široka, protože já jsem
+ze začátku, když teda to začalo úplně
+před těma třema a půl lety,
+tak jsem stíhala
+sledovat úplně všechno a testovat
+a zkoušet obrázky, videa,
+že jo. Ale teď už teda se to rozrostlo
+natolik, že vlastně vůbec, jo.
+Já už teď to stíhám sice sledovat,
+jakž takž. Ale
+že bych si jako hrála a testovala
+a dělala videa a obrázky,
+tak to už přenechávám jeným.
+Já už říkám, že musím používat AI,
+abych vůbec udržela krok jako s tím
+vývojem v AI.
+Protože to už je tak strašně rychlý
+a je toho tolik těch různých nástrojů
+a ty změny jsou tak rychlý, že se to nedá už.
+A ta doba těch videí byla fakt vtipná.
+To chvilkama vypadalo jak
+nějakej sen na LSD.
+Kdybych někdy bral LSD, tak chci, aby to
+vypadalo jako to, co lezlo z nějaký
+ty, sorry, nebo co to bylo
+ten model, že jsem mu
+řekl jednoduchý prompt a tam se
+prolínali prsty
+z obličeje a celý to bylo takový
+vyloženě prostě. Jo, jo, jo, ale teď už je to
+úplně k nerozeznání.
+Jo, posunulo se to. Posunulo se to
+hodně, jako fakt hodně.
+Nevím, jestli jste viděli
+teď proběhla nějaká reklama na rohlík
+myslím,
+která byla kompletně celá v AI
+a byly tam všechny ty postavy
+a celý ten děj a všechno bylo vlastně
+generovaný AI. A když to pouštím
+pak třeba lidem, tak už to nepoznají.
+Jako třeba Dan to ještě pozná, jo?
+No tak Dan má to nevycvičené
+o tomu rozumět.
+No a takže vlastně, takže když se
+vrátíme k těm kurzům,
+který máš, tak jaká je
+ten level těch lidí, který
+tam přicházejí? Jsou to takový jako
+promptaři, jak jsme si je tady popsali, jako že
+jsem tam jako dvakrát za den otevřu AI
+na něco se tam zeptám a chtěl bych
+tohle nějakým způsobem upskillovat
+nebo kde to dneska je?
+Je to strašně různý. Ta úroveň
+je opravdu od
+toho, že zeptám se čet GPT
+občas jsem tam na něco
+po jako vibe koujím si
+prostě vlastní věci nebo
+dělám asistenty nebo jo, že
+třeba ty asistenty a agenti jsou další
+věc, hlavně agenti teď teda.
+A to je možná to ještě, že bych se
+vrátila k tomu hypeu.
+Je to obrovský hype taky
+ty AI agenti, že jo, ale
+jednak je rozdíl mezi asistentem a agentem
+a spousta lidí to plete
+a potom ještě je to takový to
+jako obrovský očekávání, že ten agent
+opravdu bude hned a vyřeší
+za mě všechno.
+A no to tak úplně nefunguje, že jo.
+Tak možná pojďme
+rozlišit teda mezi asistentem a
+agentem. Ty jsi říkala, jestli to často plete,
+tak co by měl náš posluchač vědět?
+Jaký je ten zásadní rozdíl?
+Zásadní rozdíl je ten, že
+asistent je vlastně něco, co musíte
+neustále dozorovat a hlídat ty kroky,
+který dělá a neudělá ty kroky samostatně,
+když to agence vám prostě sám pustí
+úplně kamkoliv opustíte,
+kam mu dáte oprávnění a dělá ty kroky
+automaticky sám.
+Takže je to v té autonomii.
+Já teda osobně používám
+čím dál tím víc CLI nástrojů.
+Já jsem tady o tom mluvil, že vlastně ta možnost
+propojit si to s čímkoliv,
+dát mu nějaký markdowny, dát mu prostě
+faily, který mám lokálně na disku
+nebo i když ho nechám pracovat zkus nějaký
+codebase, tak...
+Ježiš, tak opatrně. Teď jsem zrovna četla
+příhodu, kdy...
+Povedej, povedej.
+Ne, že jsem četla příhodu o tom, jak takhle
+programátor dal přístup ke všem jim
+prostě svým kódům a ke všemu
+a ten agent dostal za úkol
+najít nějakou chybu a odstranit jí
+a dopadlo to tak, že
+to celý smazal tu databáze.
+Ale to bylo
+v Silicon Valley v tom seriálu, to bylo
+to stejné. Říká, no statisticky
+a matematicky je to vlastně jako
+i nejlepší způsob, jak odstranit všechny bugy a smazat
+kód. Ano, ano, přesně tak.
+A to bylo zdůvodnění, jo, takže...
+No a má pravdu, samozřejmě, přátelé. Vy, co
+píšete software jako my, prostě 20 let
+plus, tak... Nečekajtež na věc, co zbývá.
+Takhle na něm.
+Ne, jasně. Tak samozřejmě
+to zaprvé teda všechno, jak si
+naučit se Git, si myslím
+v dnešní době, AI, je
+vlastně na prostý základ, pět je to velmi
+technická, technický skill,
+který jako neprogramátoři nepotřebujou.
+Ale verzování, a ne verzování
+typu zip
+final v podtržítko
+podtržítko final v2, ale opravdu
+jako správně verzovat, si myslím,
+že je tak jako essential skill, protože pak ho můžeš
+pustit, pokud ti ho samozřejmě
+nepůjšne, ale stejně jako toho
+asi nenecháš. Tak já
+třeba jako verzu, jak chtěl jsem říct, že vlastně
+já se bráním tímhlet s tím, ale
+i kdyby to smazal, tak to revertnu,
+ale jako, že to nikdo nechal, až jako pustil
+to jako do průběžní databáze. Máš takovýhle
+hororový story.
+Četla jsem, no. Jo?
+Ještě zálohovat, ještě data,
+to je další jako. No, já si říkám, jestli je verzovat
+a zálohovat, rozhodně, rozhodně.
+A nějaký příklady, máš
+nějaký příklady takhle
+z těch praktických jako kurzů a podobně
+těch agentů, že
+si někdo dělá sám doma, že jako co
+třeba s čím, víš, jako nějakej nápad,
+víš, jako co. Já vždycky takhle jako přemýšlím, na co bych
+to ještě použil. Pak jako sedím
+a říkám si, že vždycky dojdu k nějakým podobným
+věcem. Říkám si, že přece musím mít ještě
+něco dalšího, to je.
+No, je to neuvěřitelně variabilní a vlastně
+jako přestavivosti
+se mezi nekladou.
+Ale praktický použití
+dá se
+třeba,
+nevím, teď zrovna mě to já úplně nic
+nenapadá. Asi si dám kafe.
+Dej si kafe. Já přemýšlím nad tím, že
+tam je hrozně zásadní,
+nebo pro dost uživatelů, který
+právě jsou neprogramátoři,
+ta hra končí v chvíli, kdy
+musí vylízit ven z toho
+z toho toolu, jo, z toho
+CGPT, třeba nevím, jo, nevím.
+Sešel jsi s Python, tak už to pro tebe znamená
+nějaký věci, který ti pak zase můžou obohatit
+to, co s tím budeš dělat.
+Ale předpokádám, že ten trend
+z těch toolů bude i, aby se to všechno
+dalo dělat jako jaksi u nich v kuchyni
+a integrovat ty věci uvnitř z těch nástrojů.
+Přesně tak, no. To vlastně
+teď hodně začal Google, že jo,
+s tím, že propojil
+propojil to všechno
+navzájem v tom Google Workspace,
+takže ten asistent
+vlastně tam má přístup ke všem
+vašem souborům, k e-mailům,
+k historii vyhledávání
+a ke všem těm natěm datům.
+A je to opravdu obrovský rozdíl.
+– Je to úplně geniální tohle, jo.
+– No je, je. – Myslím si, že teda jsem z toho
+úplně nadšenej a
+vlastně používám doma Alexu
+na domácí
+takový malý
+IoT faktory, nebo jak to můžu říct.
+A předtím jsem měl Google Home,
+ale teď teda Alexa tím, že nemá
+žádný LLM, žádný LLM-ko,
+se kterým bych to napojil, tak pokud začne
+mít Google Home, vlastně Gemini,
+že si vlastně můžu povídat doma, tak se vracím
+do Google, jo. Jakože mám pocit,
+dokonce jsem čet někde, já jsem to tady asi říkal,
+že jsou nějaký
+odhady, který z těch modelů to vyhraje
+jako long term.
+– No, a Gemini...
+– No, jako Gemini, tam mám říct, že GPT úplně...
+– No já jsem ho úplně zavodil, já už ho nepoužívám.
+– Už ho nepoužíváš. – Ne, já používám jenom pro
+neprogramátorský věci Gemini,
+pro programátorský věci Clouder
+nebo pro technický,
+ale teď mi samozřejmě došly tokeny,
+protože jsem udával vohulit jako dost
+a zkoušel jsem i na programátorský
+věci Gemini a nebylo to špatný.
+Jako musím říct, že pokud ho držíš
+správně za tak, jak ho máš držet,
+tak to jako nebylo špatný.
+Ale vlastně jde na to jinak.
+Třeba i na některý problémy
+typu architektura třeba nějakých kusů kódů,
+tak jsem to zkoušel a Clouder
+na to jde víc, jako bych řekl,
+jako bych na to šel já, Gemini na to jde
+úplně z boku, ale jako výsledek dostaneš.
+Ale pak se možná dostaneme k tomu,
+co říkala Denisa, že vlastně tím, že já jsem
+schopen rozlišit, jestli ten výsledek by mě
+jako programátora uspokojil,
+tak to dokážu velmi rychle zarazit a říct
+tak takhle ne, ale kdyby tam seděl někdo, kdo
+v životě kód neviděl, tak samozřejmě
+ono to ve finále vypadá stejně.
+To, že to je naprasený zatím, je mi to jedno,
+ale pak samozřejmě u prvního change requestu
+si trháš vlasy.
+Je to sranda.
+Ale jak jsi říkal, Gemini, teďka mám
+pocit, že docela to šlapou.
+Třeba chatu GPT, ten byl úplně
+jako top v té době, ale teď je to, začíná se
+to otáčet a slyším to i z víc, jako z
+různých zdrojů, že lidi
+začínají odcházet od OpenAI nebo
+od chat GPT a ty, že ho
+splaší, přemýšlejí co s tím
+a vymýšlejí různý věci, ale
+nejsem si jistá, jestli to jako, no
+uvidíme, bude to zajímavý.
+Tam bylo úplně, vlastně tenkrát, že když s tím
+vylezli, 22 to bylo na konci,
+tak vlastně Google se měl
+nějak sejít, že jo, udělat prostě na to
+specifickou vertikálu a v tu dobu
+já jsem tenkrát všude hlásil, říkám
+jako Google zemře, jako zemře.
+Ty to nedají prostě, jo.
+A dneska, když to vidíš, jak se z toho vylízeli,
+v podstatě jsou jako přesně, jako lídři toho trhu.
+No a měli by by i dodavateli pro iPhone, ne?
+Jo, jo, jo, což jenom
+on je dost takový, je dost zásadní.
+Což velký, že jo. Apple si přiznal, že
+to zaspali a půjdou tímhle
+tímhle směrem, to je pravda.
+A já jsem k tomu chtěl říct ještě něco, které jsem zapomněl.
+To nevadí, já mám jinej dotaz.
+U toho, ty jsi zmiňovala
+Google Workspace,
+což je, nebo Workspace, počkej, už jsem nevěděl, jak to bylo.
+Google Workstudio?
+To je ten, who naming v IT, ty vole, to bych se
+poslal. AI studio?
+AI studio, jo. A já jsem s tím vlastně v rámci
+svýho Google Workspace, že jo, když máš
+Gmail a prostě Drive a tyhle ty věci,
+tak pokud ti to zapne
+admin, nebo ty jsi admin toho svýho, tak si můžeš
+zapnout prostě tohle studio. Tak jsem si tím začal
+hrát, že můžeš, když ti přijde mail,
+tak on ti už jako předsumíruje. Vlastně
+můžeš si udělat takového agenta, že už to
+není přímo v Gmailu, že v Gmailu máš takový to
+se sumírují, to přesně jmenájí.
+Ale vlastně teďka si můžeš celý
+to studio jako postavit, si podložit nějakou flow.
+Co jsem nevěděl ještě, tak to si musím podívat.
+To je jedna z věcí, ale
+a to je, teď se dostávám samozřejmě, jak je mým
+dobrým zvykem totálně ze šísky
+k tomu původnímu dotazu.
+Co teďka tebe
+něco na podobné ražení jako zaujalo?
+Protože třeba ne každej o tomhle z tom
+ví, když jsem někomu o tom studio říkal,
+říkal, tyjo, to jsem nevěděl, vy jste třeba teďka tady
+pan Polán, tak je ještě nějakej
+hidden gem, o kterým by naši
+posluchači měli vidět, který třeba ne každej
+moc používá a je to škoda,
+že to nepoužívá.
+No třeba projekty, jestli používáš
+klot, tak používáš tam projekty?
+Používám tam projekty, tam jo,
+abych mu dal nějaký zásadní, a vlastně já používám
+na všechno projekty, protože chci, aby ten parachant mi nedával
+ty dlouhý, ty dlouhý
+pomočky, takže všude mu říkám,
+hele, první, co uděláš, tohle jsi to
+nahradil a vždycky to prostě...
+To jsi mě naučil, už to tak jedu.
+To je v tom základním nastavení,
+jestli to člověk může přesně takhle nadefinovat,
+že jo, co jako chce a co nechce, ale
+ty projekty jsou skvělý na kontext a třeba
+kontext je něco, co když používáte
+jenom ty jednotlivý čety, tak to
+úplně nemá, nebo ono se to mění, ono
+to vždycky na chvilku to jako zapnou, třeba
+OpenAI to chvilku měl a bylo to
+úžasný třeba pro moji práci, protože já
+pracuji s nějakýma jako dlouhodobějšíma
+myšlenkama, rozvíjím to různě
+a většinou se dostanu úplně ke konci
+jako toho kontextovýho okna,
+toho limitu. Takže když si
+potom pamatoval, co jsme probírali v těch
+předcházejících, tak to bylo super a najednou
+zase přestal, jo, a vlastně
+dá se to vyřešit právě pomocí třeba
+v cloud těch projektů,
+takže si tam nahrajete ty dokumenty
+a potom pracujete s tím
+a už ten kontext má a nemusíte to vysvětlovat
+pokaždý znova.
+No a to je to, už jsem si vzpomněl.
+A když chceš svičnout
+mezi jednotlivýma toolama,
+už dneska nabízejí nějakou možnost
+si ten kontext vzít, protože to je vždycky to,
+co mě děsí. Tak já si přejdu, zkusím si
+Gemini, začnu používat jako primární nástroj,
+ale já tam potřebuji ten kontext, jo,
+to je zásadní pro mě.
+Jasně, já většinou funguji tak, že
+propojuji těch nástrojů víc dohromady běžně
+pro jako svůj nějaký workflow, takže
+začínám třeba s nějakým brainstormingem
+v chat GPT nebo v cloud,
+potom přicházím do
+Perplexity nebo do Notebook LM
+a potom ty výstupy třeba zpracovávám
+ještě třeba do GAMI, jako do prezentace
+a tak, jo, takže to je spíš jako, že to propoju
+takhle, ale
+dá se to vždycky vyexportovat
+nějakým způsobem a pak případně
+nahrát, no, ale musím říct, že tohle jsem neskoušela,
+jakože bych si, protože já každej ten nástroj
+používám na trošku něco jinýho
+a vlastně všude ten kontext už mám,
+takže nepřicházím jako úplně do čistýho.
+Já si říkám, jako, že ta integrace
+to asi nebude věc, do které se jim bude chtít
+úplně jako investovat, jo.
+Jaký take-out, jo, obecně.
+Pojďte od nás utíct, tady máte tool.
+No, ale to je zase, k tomu jste zdostali, jo, to si nemyslím,
+že firmy tenhle ten take-out udělali,
+protože by jim záleželo
+na tvých krásných hnědých očích,
+ale protože k tomu byly
+dohnaný nějakou legislativou, nějakým nařízením.
+Já si myslím, že v těch chvíli, kdy ta penetrace
+AI bude stejná, jako byla s
+brouzrama, jako byla s vyhledávačema,
+tak přijde EU nebo kdokoliv a řekne
+ta chlapci, teď je potřeba, abyste byli
+zaměnitelný, abyste neměli ten
+vendor lock tak silnej
+a udělejte take-out a udělejte
+zapomeňně a všechny ty listy, který samozřejmě
+zapomeňně v tom, jak je to prodrátovaný
+jako dovnitř,
+tak si myslím, že bude docela těžký.
+Ale to je, myslím, otázka času tohleto,
+že to budou muset umět.
+Tak on je ten báječný
+EU AI Act, že jo,
+který se to snaží nějakým způsobem regulovat,
+ale tam je strašný problém v tom,
+že ta legislativa dost zaostává
+za tím vývojem.
+Jako vždycky. Bez šanci, aby to bylo jinak.
+V tomhle stovu si to vůbec
+nebudu představit.
+No a skoro jak se o tom bavíme,
+tak mám pocit, že to musí směřovat někam
+k nějakýmu jako agregátoru,
+který v podstatě,
+tak jak říkáš ty, že používáš ty
+nástroje každej trošku jinak,
+tak bych typoval, že bude na konci
+jedno UI, nějaký
+nástroj, který to dá dohromady a já to tam
+prostě pošlu a on už bude vědět.
+Taký CML-ko, jo, prostě. No, no, no, no, přesně.
+Centrální, no, jestli je, jestli je mu zaklidstva.
+Ano, konečně jsme zase
+v našich starých boomerských jomach.
+Dneska z toho nevylezem.
+Vy jste nyní se zmiňovali perplexity.
+Co je to za tool?
+Ne, já to já jsem slyšel, ale nepoužívám.
+To je... Perplexity, zvláště
+já ještě před třeba zhruba rokem byl
+absolutně geniální v tom, že nehalucinoval.
+A vlastně všechny ty
+dotazy, odpovědi
+zpracovával na základě nějakých zdrojů,
+kterých tam vždycky uvedl. Takže člověk mohl jít
+a ty zdroje si hned zkontrolovat, rozkliknout
+a nevymyšlel si prostě
+nic jinýho. A je to tool teda na research?
+Je to jako notebook, ale nebo na co?
+Je to jako na research.
+Já jsem to pak porávě používala jako Google
+v podstatě, místo Google úplně.
+A říkala jsem si, že Perplexity zabije Google.
+Že to prostě bylo tak dobrý.
+A ty výsledky byly tak dobrý,
+že to bylo úplně neuvěřitelný.
+Ale teď už samozřejmě Google je taky
+na velmi dobrý úrovni zase znova
+i s tím AI vyhledáváním, který
+ze začátku nebylo teda taky nic moc.
+Tak se to zlepšuje postupně.
+Takže Perplexity na vyhledávání
+a potom na Deep Research, jestli
+potřebujete opravdu do hloubky proskoumat
+nějaký specializovaný databáze,
+třeba vědecký a podobně,
+tak tam se taky dá.
+Já nevím, jestli se dneska ty tůly
+posunly dál, ale já Perplexity taky
+používám jako secondary
+a umělo mi to jako první udělat to,
+že jsem mu řekl, hele, přidej mi událost
+do kalendáře.
+Že to prointegroval s kalendářem a on mi to fakt
+tam dalo.
+A nevím, jestli dneska ty nástroje
+už tohle dohnaly, ale...
+Tak přes MCPčko, podle mě už v pohodě.
+Přes MCPčko uděláš cokoliv, no jasný.
+Tohle bylo by default, jo?
+Nemusel jsem vůbec nic propojovat,
+protože tam byl prodrátovaný.
+Já si udělal to, jsi do konkrétního kalendáře
+a mi to tam hodil.
+Ono jako ze začátku to bylo úplně neuvěřitelný,
+úžasný a skvělý a já jsem to
+doporučovala všude, kde jsem chodila,
+ale postupně ty velký vlastně nástroje
+třeba od Google srovnávají taky
+tak nějak ten level, takže už tam jsou
+částečně taky, ale Perplexity
+vlastně má pak ještě Komet,
+což je agentický prohlížeč,
+což je jako hodně zajímavý
+a hodně nebezpečný.
+Nevím, jestli jste se s tím potkali,
+nepotkali.
+Ty v bance nechodíš do Georgia přes Komet, jo?
+Ne, ne, ne, ani přes Atlas, jo.
+A o to jsem slyšel teda,
+že tam máš daleko větší autonomii
+v tom brouzuru, což pokud máš
+otevřenou sešnu s bankingem
+a druhou na Alze, tak může být
+poměrně teda se říká nebezpečný, že?
+No ono si to dokonce dokáže i samo
+otevřít a přihlásit.
+Jo takhle.
+No a tam přesně to končí.
+Tam přesně
+já bych to zarazil a řekl
+ne kámo, tak tady já už ti tuhle autonomii nedám.
+No je to samozřejmě na vás,
+můžete si vybrat jak moc
+a mělo by se to vždycky ptát
+na to, než to udělá ten krok
+nějaký jako platbu a podobně.
+Ale už to umí takhle taky.
+A ten Komet je právě dobrý v tom, že přesně
+člověk tam má otevřený gmail
+a řekne, najdi mi tady
+e-maily, na který jsem zapomněla odpovědět
+a vlastně ono
+to tam opravdu prohledá a vypíše
+a je to relevantní.
+A umí i na ně odpovědět rovnou.
+Umí i na ně odpovědět, no.
+To už dneska, by the way, teď jsem dostal
+z Poška mi přiřadila teďka
+kopilotí verzi, která to umí taky.
+Už je to takový to ten,
+říkám to už rok,
+kterých deset e-mailů v mých sto nepřečtených
+mám řešit jako první,
+tak už mi to dělá.
+Tak jak to funguje? Naleješ do toho
+firmní hierarchii a když to přijde od někoho, kde je nad tebou,
+je to u něho. Takže vlastně jsem jenom koukal,
+co to udělalo a jako trefilo to tak,
+jako s 50% jsem byl happy
+a teď mu musím trošku pomoct, aby jako pochopil,
+co je a není důležitý z měho pohledu.
+No protože on samozřejmě kouká,
+že když mi oslovej napřímo
+versus když oslovej to jako do pléna.
+Jo, jo, anebo když jsi jako v CC
+a jsou to dalším desetí lidem.
+Ano, přesně, když jsem tam sám,
+anebo že je tam stěsto lidí, jinže ono kolikrát
+jako e-mail, kde je stěsto lidí, je prostě nejdůležitější,
+protože zrovna ten kontent je důležitý.
+Jasně a tohle je přesně ono, když si to správně nastavíš
+a ono to trvá nějakou dobu,
+to nastavit a odladit,
+tak pak je to opravdu úžitečný a pomáhá to
+a šetří to čas.
+Ale nemá třeba smysl to dělat
+a vlastně se s tím tak jako hrabat a patlat
+a nastavovat a testovat a ladit,
+když je to nějaký task, který třeba
+děláš jednou za tři měsíce.
+A to je třeba to, co se snažím
+taky vysvětlit, že je to
+opravdu úžitečný a dobrý tam,
+kde to jsou nějaký opakovaný, prostě nudný,
+pravidelný tasky,
+protože tam se to vyplatí.
+Ale v momentě, kdy ty lidi jako si myslí,
+že jim to vyřeší všechno
+a udělá to všechnu práci za ně,
+takový to zázrak je na počkání nemožný do tří dnů.
+A pak se hrozně diví,
+že to takhle nefunguje
+a že to není úplně přesný a že se to musí ladit
+a že se to musí zkoušet několikrát,
+než ty výsledky začnou nějak odpovídat,
+tak to je potom problém.
+To byl asi největší problém u těch
+vyhypovaných lidí, že taky to u sebe
+vidím, že tak bych to mohl udělat tady,
+prostě nevím, jednou za měsíci vždycky sednu
+a koukám na finance,
+takže bych to propel s nějakýma tabulkama,
+takže to budu dělat tři hodiny,
+pak to budu každý měsíc hodinu ladit,
+ale ve finále jsem to předtím řešil půl hodiny.
+Kámo, tak to už je skoro jako programátor.
+Proč by si nestrávil
+dva dny automatizací
+nic, co manuálně děláš pět minut, že jo?
+Prostě je to jako...
+Potom ještě další varianta, protože vás to
+prostě hrozně baví, že jo?
+No jasně, to je jasný.
+Jako i ten proces mě obohacuje vždycky, jo?
+Jakože dvě hodiny dobrý, jo?
+Lepší než prostě, nevím.
+Jako člověk se na tom strašně moc naučí na druhou stranu,
+takže to není asi úplně ztracený čas,
+ale je vždycky na vás, abyste si řekli,
+jako jestli to má smysl
+a jestli to je k něčemu a jestli to stojí za to.
+My jsme tady tímhle s tím vlastně,
+co říkáš, naťukli
+vlastně další téma,
+toho je AIčka,
+a to je kreativita.
+Jak ty si myslíš, že to vlastně
+u člověka dlouhodobě dopadne?
+Vlastně zvyšuje to tu kreativitu
+nebo naopak to snižuje, protože
+nevymyšlím vlastní řešení,
+ale nechám si to nejdřív nadraftit,
+což je zase statisticky nějakej
+asi nejpravděpodobnější řešení
+mýho problému, čili nebudu
+asi tak moc kreativní. Nevím, jak to vidíš ty?
+Já to vidím tak, že
+mě to třeba neuvěřitelně nakopává
+a rozšiřuje obzory a umožňuje mi to
+se pouštět i do témat, kam bych se třeba
+sama nikdy pustit nemohla, protože nemám
+dost těch znalostí z toho oboru.
+Dokáže mi to vysvětlit,
+teď třeba dám příklad
+kvantovou fyziku takovým způsobem,
+že to jsem schopná pochopit.
+Že to přizpůsobí toto vysvětlení
+přímo tým mojí míry a úrovní
+chápání toho konkrétního
+tématu a
+vysvětlí mi to tak, že to jsem schopná pochopit
+a nějakým způsobem s tím pak třeba pracovat dál,
+což je něco, co by dřív prostě vůbec
+nebylo možný, protože já jsem měla
+fyziku naposled na základce.
+Takže jako představa,
+že se snažím pochopit
+kvantovou fyziku z učebnice vodněkátě
+je úplně šílená, že jo?
+To by nefungovalo.
+Já přemýšlím zase, aby to negenerovalo takový ty luboše
+volný, co si jednou něco přičetli
+a budou mít pocit, že
+najednou všemu rozumějí a všeho dokážou
+kafrat, jo? Je tam třeba
+nějaký limit, jak
+většinou ten chytrý člověk
+čím je chytřejší, tím
+ví, že neví a má k tomu
+vlastně jako respekt.
+A když to dáš takhle nějakýmu jako polopitonci,
+který prostě najednou si myslí, že je raketový vědec,
+tak jako přemýšlím,
+jak je trošku tohle.
+Asi bych se nepokoušela diskutovat s kvantovými
+fyziky. No právě.
+Ale je to o tom, že
+Ale už to nás teď je, ne?
+Je to o tom, že potom můžu třeba
+použít nějakou
+analogii pro nějakej svůj
+vlastní článek nebo výzkum.
+A není to třeba až tak jako úplně
+off, aspoň doufám.
+No je to vždycky, podle mě
+končí to zase u toho kritického myšlení.
+Jakože reálně vlastně, jako když
+člověk začne jako totálně věřit tomu,
+co se tam děje, nebo
+nedej bože to nezačne challengeovat,
+no tak to prostě špatně dopadne. Mně třeba,
+ty jsi mluvila o Gamě, to neznám.
+Gama je úžasná na prezentace.
+Jo, protože já třeba teďka
+jako kolikrát kopilota challengeu,
+že mu pošlu prostě teď třeba jako
+konkrétní problém, máme prostě prezentaci,
+kterou jsme prezentovali na půl hodiny, potřebujeme to
+zcuknout na 20 minut,
+a takže mu tam dám pět slajdu,
+říkám, udělej z toho jeden, jo. A ještě jsem
+z toho nikdy nebyl vlastně happy, jo, co to přineslo.
+Jasně. Vždycky říkám, ty vidíte, je furt složitý.
+Tak v tom případě fakt zkus Gamu.
+Jo, OK. Ale je otázka
+času, než si myslím, že to ten
+Gemina je třeba dožene.
+No je otázka, jak moc se ti to podaří,
+protože zrovna zcuknout dlouhou prezentaci
+na 20 minut je to
+nejtěžší, co u prezentování
+může existovat. V obrácení natáhnout 20 minut
+na hodinu. No jasně. To ti dám i dvouhodinovej,
+který bude jako plitkej, ale takový to,
+no, když to přeci dáš za 20 minut,
+to je to nejtěžší zadání u...
+Stoprocentně, stoprocentně. Tak takhle, já se
+s tím hlavu lámu před
+GPT a dalšíma věcmi, že to je jasný,
+tak to je jako denní chleba,
+ale já jsem na ní neočekával,
+že bych to takhle vzal, řekl bych, jo, dobrý,
+tak takhle to dojď celý, ale aby mi to někam
+jako přesně v rámci té kreativity posunulo
+někam tu myšlenku a vlastně říkám,
+ne, ty jsi mě vrátil zpátky, tak jsem pak
+na to šel. A tohle je právě přesně ono,
+že kolikrát, když to člověk
+používá jako AI, jako náhradu
+toho vlastního myšlení, toho
+procesu, toho prostě kreativního
+nějakého objevování
+něčeho, spojitostí vzájemných,
+tak to je špatně.
+Když to použijete jako
+rozšíření, bych řekla
+opravdu, třeba nějakých
+svých vlastních schopností, nebo
+takovou tu pomoc, když máte před sebou
+prázdnou stránku a teď nevíte, kudy do toho,
+jo, nebo
+takový to, když potřebujete vyzkoušet několik
+různých konceptů a nevíte, který funguje,
+tak si to prostě otestovat,
+tak to je super. Ale v momentě,
+kdy to je jako náhrada, tak je tak, to je
+špatně, no.
+Zeptám se ještě na jednu věc a ta se týká
+AI a dětí, protože
+já vlastně, když nedávno jsem
+měl rozhovor s mojí, teď už
+a něco se mi říká,
+říkám, tak si to vygoogli a ona, ne, já si to dám
+do Četa. A už jsem v tu chvíli pochopil,
+jak už každej jsme z jiný
+generace, což tam odřejmě jako je
+jasný, nevyhnutelný, bohužel,
+ale prostě ona už primárně
+jde v úvozovkách do Četa.
+Já pořád ještě boomersky jdu
+do Google, který mi teda to vrátí jako
+Gemini, takže jsem k tomu taky tam trošku jako
+nucenej. Ale jak vlastně
+s tímhle s tím obecně nakládat
+u dětí, protože my už jsme něco
+zažili, už nějakej bullshit
+jako jsme v životě viděli, takže dokážeš
+jako odčuchat, co trošku jde
+blbým směrem. Koro, když děláme
+ty technologie, ze který to pochází,
+tak je jednodušší vyčuchat, jestli to jde správně
+nebo dobrým směrem, ale ty děti
+samozřejmě jsou jako ve svý kráse úplně čistý
+a v těch patnácti prostě
+spoustu věcí jako nemůže rozlišit.
+Tak jak u dětí s tímhle s tím?
+No já mám tři, takže
+používá hodně perplexity
+a používá to
+na to, aby třeba si nechal
+porovnat, k jaký je největší
+žijící dinosaurus v nějaký době
+nebo různý
+takovýhle otázky a pak se ještě dohaduje,
+že ne, že nemá pravdu perplexity,
+protože on to ví líp a je to nějakej
+jiný, jo.
+Takže na tohleto já se mu
+vždycky snažím říct, vždycky si tam
+musíš ověřit tu informaci.
+Nemůžeš věřit stoprocentně tomu,
+co tam je a to je velkej problém,
+protože ty děti mají opravdu sklon,
+když to tam vidí napsaný, tak říct,
+ale když to tam takhle je napsaný, tak to prostě je
+pravda, že jo, ale je potřeba
+to trénovat od malička, ale
+na druhou stranu, jako ty zákazy
+třeba zase nic neřeší.
+Já jsem zastáncem toho a to je
+i třeba se sociálními sítěmi,
+s internetem nebo s hrama,
+že nemá smysl to jako
+natvrdo zakazovat, že je prostě potřeba
+před ty děti dřív nebo později s tím stejně
+přijdou do kontaktu a pak nebudou ale vědět
+a nebudou vědět, jak s tím nakládat,
+nebudou mít ty zkušenosti a ty znalosti.
+Takže je lepší prostě
+nějakým způsobem je naučit, jak s tím
+fungovat,
+dokud třeba sami mají zájem a vůbec
+za váma chodí a ptaj se, jo.
+Využít tenhle ten moment.
+A vlastně jim to nějakým způsobem
+předat tak, aby to bylo
+bezpečný pro ně, což
+je teda náročný a
+je to spoustu času, že jo.
+Je potřeba
+hodně vysvětlování a
+a tak.
+No a jak je teda správnej věk s tímhle začít?
+Protože já to furt řeším. Jako malá, nebo
+malá, že já mám dvě děti,
+dvanáct a patnáct, tak ani jedna
+ještě nemá povolený sociální sítě
+a u tý patnácti lety už to začíná být
+trošku jako problém, že už bych chtěl, že už přeci holky
+mají jako Instagram a to. Tak teďka
+s manželkou to řešíme. Pořád nevím, jak se k tomu
+postavit, protože to, co říká Denisa, dokud
+za náma chodí a ptá se, je to OK.
+Já ji to sice můžu při něm určitě zakázat
+na routru, ale prostě má datovej tarif
+a celou dobu je ve škole, kde mají
+Wi-Fi-nu, takže prostě nemáš
+to jak kontrolovat, spíš to chce přes nějakou
+důvěru a edukaci. Tak třeba
+v jakým věku s tímhle začíná?
+No já jsem
+začala o něco dřív, teda pouštět děti
+na sociální sítě a na
+internet a na AI taky.
+A snažím se to řešit
+třeba potom pomocí Family Linku,
+kdy vlastně se tam dá
+nastavit přesně ta doba, kterou můžou
+strávit na jednotlivých aplikacích
+a nebo potom tam i vidím, kolik času
+tam stráví a můžu s nima diskutovat,
+ale jako tohle už je moc, protože
+prostě ti pak tady utíká reálnej život,
+protože prostě neděláš nic jinýho už než
+takže tímhle tím
+způsobem a snažit se postupně tu hranici
+rozvolňovat.
+Ale mám třeba zkušenost, že syn
+má kamaráda, který má úplně všechno zakázaný,
+dvanáct mu je, a chodí
+k nám, že jo?
+No jasně, šváky chodili k kamarádovi
+na počítač, protože jsme ho nevěli, že jo?
+Takže fakt jako zákazy se myslím, že to neřeší,
+protože ty dětě si tu cestu
+najdou, vždycky najdou.
+Ok, no tak to jsme nasadili.
+Já jsem třeba rád,
+a to byla samozřejmě náhoda,
+to ne, že bych to takhle plánoval, že jsme
+vlastně se synátorem začali používat GPT
+ještě v době, kdy byl fakt jako špatnej
+a dělal hrozně chyb.
+Nesyn, to je GPT.
+Nesyn je ořád dobrý, fantasticky, to je naštěstí,
+to je velká výhoda moje děti.
+Ale jeli jsme tam nějaký,
+on má rád fotbalovou Premier League,
+a ptali jsme se tam,
+kdo je nejlepší střelec, a on to házelo úplně.
+To byla ještě doba, kdy to ani neumělo
+vzít ten současnej kontext,
+takže když jsme se ptali na nejlepšího střelce,
+tak by mě to řekli.
+Moje data jsou cutoff.
+Ale bylo to geniální,
+protože on se tvářil, že to ví jistě,
+ale ten synátor věděl, že kecá,
+protože jeho to hrozně baví, takže on ty věci zná.
+Takže to mně přišlo, že hrozně dobře posloužilo
+k tomu, že to kritické myšlení si tam začal budovat.
+Důležité, aby to bylo
+i v jiných oborech než jenom fotbalu,
+který mu teďka docela rozumí.
+A to je právě další věc, co jsem chtěla říct,
+a ještě jsem se k tomu nedostala,
+protože je strašně důležitý vědět,
+co a proč o TI chcete
+a rozumět to jako tomu kontextu.
+Protože v ten moment, kdy tomu nerozumíte,
+tak přesně, jo, tam prostě bude
+nějaký jméno, který bude,
+nebo odpověď, která bude absolutně
+vypadat skvěle, sebevědomá,
+výborná, podložená a bude blbě.
+A nepoznáte to.
+Další věc, která se u KI
+velmi často skloňuje,
+je etika.
+A obecně, jak vlastně nakládat s tím,
+co všechno AIčko dneska dokáže.
+Jak na tuhle,
+jak na tenhle ten problém
+vlastně nahlížíš ty?
+Třeba ptají se tě ve firmách,
+jestli by třeba některé věci
+měly s tím AIčkem řešit, nebo neměly,
+jestli některé věci už jsou zahranou,
+jestli s tím řešit i třeba zdravotní problémy,
+protože samozřejmě tam dojdeš
+na tu hranici,
+že když mi někdo řekne,
+že, nevím, dobrý střelec
+je George Bayach, tak já vím, že jsem ho
+tady jako honil v pesku před 20 lety,
+takže ten člověk už možná nežije,
+ale byl dobrý svým časům, ale je to jenom
+jako taková funny chyba. Když mi řekne,
+že tahle houba je jedlá, já se otrávím,
+tak už začíná jít do tu jího, jo.
+Ale tak to jsi se špatně zeptal, že jo?
+No já si, já si nemám cíl.
+To je už jenom to, že bych byl jaký idiot a nechal si poradit
+od internetu, jestli to mám sníst nebo ne.
+Dobře mi tak, jo, my jsme to je přirozený výběr.
+Ale to je jako o tom, že všechny houby
+jsou jedlí, že jo? Některý jenom jednou.
+Ano, některý jenom jednou.
+Ale na týhle,
+na tuhle notu ve firmě
+řeší se to, nebo když si tě pozvou,
+ptajíš se i na tu etickou stránku?
+Tak jako mělo by se to řešit,
+už jenom proto, že tady máme ten
+EU AI Act a ten už platí
+od loňskýho srpna.
+To už funguje? No, ten základ
+už platí. No a co to teda řeší?
+Možná... Řeší to nějaké
+rozdělení AI nástrojů
+do různých kategorií podle míry
+rizika. A upravuje
+to potom podle toho, do jaké
+kategorie ten nástroj spadá, co používáte,
+tak to upravuje nějaké
+podmínky, požadavky, nároky
+na to, co by to mělo splňovat právě
+z hlediska bezpečnosti.
+A z podstava Firemt vůbec netuší,
+že něco takového je, že tam
+jsou obrovské pokuty ještě navíc
+za jako nedodržení.
+A ono teď byly
+iniciativy z České republiky
+vedený Honzou Kavalírkem,
+kde vlastně se snažil lobovat
+za to, aby ty administrativní nároky
+hlavně na ty malé a střední firmy nebyly
+tak náročný.
+Protože to v podstatě bylo
+jako klasika, že jo,
+EU byrokracie.
+Aby nebylo třeba
+povinný školení zaměstnanců, který
+jakkoliv přijdou do styku s AI
+v práci, tak by měli prostě být proškolení.
+Něco jako
+bezpečnost práce.
+To je jak sexuální výchova
+vysokoškoláku, že to už je
+20 let později.
+No, no, něco v tom smyslu.
+Takže byly tam nějaké snahy
+to jako posunout a zmírnit
+a zličtit a povedlo se
+to částečně prosadit, ale teď se čeká
+na to, jestli to bude schválený nebo ne.
+Takže je to taková šedá zóna malinko.
+Ale každopádně všichni by měli
+vědět, že to existuje, že jsou
+nějaké prostě nároky
+a že je něco, co by měly
+splněvat, jako pokud používají AI v práci.
+A teď jako kdo vlastně ještě
+AI třeba v práci nepoužívá, že?
+No jasně. No a ty etický stránky
+teda u toho?
+Řeší se to tam?
+Řeší se to v podstatě s ohledem na
+třeba mezi vysoce
+rizikový systémy patří jakýkoliv
+scoringový nějaký
+AI nástroje, který se třeba
+můžou používat v HR
+pro jako to rozhodování,
+jestli se přijme ten kandidát
+nebo ten jiný kandidát, jestli vám přidají
+nebo nepřidají, jestli postoupíte
+na tuhle pozici nebo ne.
+Takže třeba tohle je
+docela jako prakticky reálnej dopad
+a v HR
+by to už taky měly řešit.
+Tak to bych čekal, že první, co HR napadne,
+pojďme ty data na dva do AIčka zjistit,
+jako kdo nám tady na attrition riziku,
+jako kdo nás brzy opustí, protože
+začal na LinkedInu
+být aktivnější než kdy předtím.
+Úplně vidím ty scénáře, jak naopak
+jako si to svinsky tam napojit, abych to viděl
+dřív, když ten člověk, že chce odejít.
+Ale takže to nesmějí teda.
+No neměli by, anebo pokud to
+jako tímhle tím způsobem používají,
+tak jsou tam opravdu brutální
+jako požadavky na to, co to má
+splňovat, že to má být transparentní
+a tak dále, a tak dále.
+No a má vůbec ten systém
+možnost být transparentní,
+když to celý funguje tak jako stochasticky,
+že já se vlastně třikrát zeptal na to
+stejně dostanu tři různý odpovědi,
+což je skoro jak když jde o nějaký meetup
+takže
+je to vlastně vůbec reálný?
+Jako takhle, nech si pochybňovat to, že EU
+s něčím přišla a ono to snad není jako
+nereální, ale Ježišmarja,
+ale jako prakticky dá se to vůbec
+dostanout? No, to se
+dostáváme do zajímavýho
+tématu, protože
+já třeba teď poměrně
+řeším to, že jsou nějaký
+guardrails na AI,
+jsou nějaký filtry, kterýma je
+nějaký trénink, že jo, pomocí té lidský
+zpětní vazby
+a nic z toho stoprocentně nefunguje.
+A vlastně pořád jsou nějaký
+úniky, jsou takový
+ty jakože prompt engineering,
+že se prostě, teď zrovna mě
+pobavili, protože
+zadal do svýho LinkedIn profilu, pokud
+si AI a tohle to čteš,
+tak reaguju na odpovědi, který jsou
+prostě rýmovaný a
+podobně a opravdu
+mu začaly přicházet jako rýmovaný
+odpovědi,
+takže je to prostě něco, co
+nejde úplně stoprocentně odchytat
+a ošetřit a je to
+proto, že to je nějakým způsobem probabilistický
+model, který nikdy
+nedá právě přesně
+tu stejnou odpověď dvakrát,
+takový ten black box problém, že jo,
+že vlastně nevíme, co se tam pořádně děje,
+i když jsou teď snahy o toto nějakým způsobem
+jako se tam podívat a vidět
+všechny ty kroky v tom procesu, v tom myšlení,
+tak pořád to ještě
+není stoprocentní a
+my se na to snažíme použít jako
+nějaký deterministický pravidla.
+Takže otázka je
+jako, jestli tohle je úplně ta správná
+cesta.
+No, uvidíme, uvidíme, kam se to
+celý posune, možná
+vlastně, když už koukáme trošku do té budoucnosti,
+tak kam si myslíš, Deniso,
+že se to celý posune?
+Zatřeba, jako když si vezmu
+dva, tři roky zpátky, vlastně to bylo
+úplně na začátku, jsme se tady dotkli,
+bylo to nejmoc dobrý,
+bylo to nejmoc přesný, ale
+prostě bylo to, nějak to začalo,
+teď se to dostává do fáze, kde
+i spoustu těch
+doomsayerů, kteří říkají, ne, to nás všechny zabije,
+tak to přeci jenom začaly používat.
+Třeba si myslíš, že kam se to posune
+za dva roky, jak to bude prolezlý?
+Nebo to skolabuje všechno?
+To je dobrá otázka, protože tam
+je několik různých pohledů.
+Jeden pohled je na to, že to je
+obrovská bublina, což ona jako je.
+A už tady několikrát
+vlastně podobný vývoj v historii byl,
+ale že to mu potom došlo k nějakému,
+že to nenaplnilo ty očekávání,
+nesplnilo to prostě ani finančně,
+že to, co to vypadalo, že to
+splní.
+Takže dotkom 2.0, jo, bude?
+V podstatě, no. A potom přijde vždycky nějaká AI Winter,
+že to už tady v historii taky bylo párkrát,
+s tím, že se úplně
+všechno zruší, opustí
+a nebude se v tom
+pokračovat několik dalších let,
+desítek let.
+Takže to je jedna varianta, že, protože
+ty peníze, které se teď do toho sypou,
+jsou opravdu neskutečný
+a zatím se to asi úplně nevrací
+tak, jak se očekávalo, takže je otázka,
+jak dlouho to vydrží.
+Na druhou stranu je tady
+ta možnost, že dojde k nějakému
+absolutnímu průlomu
+typu nějaký ty obecné
+umělý inteligence, jako
+AGI.
+A to je co teda, jestli byste to mohla vysvětlit posluchačům?
+Jak se to liší třeba od těch teďka
+language modelů?
+To by v podstatě měla být
+AI, která je
+výrazně lepší ve všech oborech,
+než člověk. Zatímco ty
+lidský, ty velký
+jazykový modely, který se používají teď,
+tak jsou lepší výrazně třeba jenom
+v některých částech, v některých oblastech.
+Jo, takže to bylo prostě totální,
+to už by bylo to CML, konečně se dostáváme.
+To by bylo to, to bylo to centrální
+mozeklista, který by uměl všechno lít, než člověk.
+A teď nás blokuje co?
+Jako, že to neumíme hardwareově, nebo
+matematicky, nebo v čem je problém?
+To je těžko říct, ty brďo,
+jakože neumím to, neumím to říct.
+Jo, protože já už jsem to několikrát
+zahlídl, že jo, to AGI, a už jsme k tomu blízko,
+pak se řekli, no vlastně nejsme, protože to neumí počítat
+ve stroberi, a takže tohle všechno
+zpátky na stromy.
+A jako tak teda,
+jako ten výhled je, nevíš?
+Ten výkon, jako když se podíváme
+na burzu.
+To je jako o výkonu, protože výkonu je dost, už bych řekl.
+Výkon je dost, no právě, že ten výkon
+právě mně přijde, že kupujeme ještě
+jako do foroty, a tam jako
+tou spirálou vlastně vzniká ta bublina,
+kde vlastně, jako ten,
+ten,
+jak to říct, to gro tam je, ale není tam
+takový, jaký je odvaluovaný,
+v podstatě na té burze, jo, takže reálně, protože myslím,
+že hardware není problém, jo, že problém je v tom,
+že, že prostě
+i ty lidi, co to dělají, aspoň teďka, že jo,
+zase jsem někde slyšel Altmana vyprávit,
+tak jako další verze, budou mět něco,
+teď to tam jako, teď to pustět,
+teď na to koukat, kdyby, aha, no tak zpátky,
+revert, vlastně takhle to být nemělo,
+takže oni sami neví, jo, prostě
+je to, celý ten problém je, že přemýšlíme,
+my jsme, nejsme zvyklí přemýšlet v té
+exponenciále, že jo, jo, já když jsem vlastně
+na začátku roku říkal, hele, za dva roky
+budeme četovat nad vlastníma datama
+tady ve Sporce, jo, my jsme používáme
+k tomu Snowflake Intelligence a vlastně za dva roky
+už nebudeme potřebovat reporty, jo,
+a borci od Honzy Divka, že jo,
+přišli za půl doku, říká, tak to máme hotový, jo,
+už to vlastně jde, jo, vlastně jenom nad tím
+četujou ty fréři, říkám, počkej, aha,
+tak jo, tak to jsem čekal později, že jo,
+takže vlastně tohle je jako, to rozbíjí celý
+ty úvahy, takže nevím. Takže nevíš, dobře,
+a takže to je ten jako Olymp, kam se
+chceme dostat, ta obecná prostě umělá
+inteligence, která zvládá všechno lépe,
+je ještě něco,
+co se teďka jako velmi kutí
+a co má nějaký výrazný jako růstový
+potenciál z tohohle oboru?
+Zajímavá otázka. No, jakože
+jestli něco, co, jakože
+v AGI to už jsme viděli několikrát
+tu zkratku, tak nějaká nová zkratka, která
+by to měla zase rozstřelit úplně nějakým směrem,
+jako jestli ten obor třeba chce jít
+třeba ještě třetí cestou, že?
+Tak oni jsou takový pokusy třeba o
+decentralizaci, že by to nebylo
+jako na jednom
+velkým obřím serveru někde, cloudu
+někde, ale že by to bylo prostě
+decentralizovaný, což je něco, co mě hodně zajímá.
+Zase se vrátím zpátky ke kryptu
+a k bitcoinu, protože
+ten vlastně funguje taky decentralizovaně,
+takže to je si myslím
+možná varianta, možná cesta,
+kdyby to mohlo být zajímavý.
+No, jako to je určitě,
+ale já bych k tomu přidal ještě privacy,
+jakože jsem zvědavej, co z Gemini udělá právě
+Apple, který samozřejmě míří
+na to, aby to bylo
+vlastně vždycky secured
+v rámci toho deviceu
+a tím samozřejmě potřebuješ úplně
+zaprý jiný výkon, pak potřebuješ takzvaný
+pruning těch
+LLM-ek, aby
+ten výkon si dokázal používat
+efektivněji, což by byl třeba tady český
+Battlecap
+v čele s
+Tomášem Mikolovem, který tady taky byl
+u nás. Myslím, že je Jaroslav Bek.
+Jaroslav Bek, přesně tak. Tak ty se to snaží, tohle
+vlastně hacknout, aby si potřeboval na ten trénink
+výrazně méně železa
+a to spolu souvisí, aby potom si mohl
+ty věci odehrávat na tom
+deviceu samotným, tak tohle potřebuješ,
+aby fungovalo líp. A kam, Deniso,
+si myslíš, že se teda posuneme my jako Česká
+republika? Když teda dám ten obor
+stranou, protože samozřejmě to je dost
+v mlze, kam se posune.
+Jak se posuneme my jako Češi?
+Ať třeba s Bottlecap AI nebo s dalšíma
+věcmi. No, musím říct, že
+u nás je spoustu, spoustu
+aktivních lidí, který se to snaží
+celý ten obor posouvat a propojovat
+tu komunitu navzájem, třeba
+asociace umělý inteligence,
+nebo
+nevím.
+Jasně, nebo další
+tyhle firmy. A ty se
+teda snaží, mají tak nějaký svůj
+jako high level cíl, kam to chtějí tady
+dosáhnout? Třeba zvýšit takový
+tu penetraci AI, nebo naopak to,
+aby jsme to použili lépe, nebo co je ten cíl?
+Snaží se vlastně o to, aby jsme se udrželi
+nějakým způsobem na špičce
+v rámci teda EU. Teď tady
+proběhla i nějaká žádost
+o ty gigafaktory, aby tady byla.
+Jo, jo, jo.
+A to nějak ale zapadlo, ne?
+Já mám pocit, že to teď nějak schválili
+dokonce. Jo, já jsem slyšel
+babi, že řekl, že nic.
+Gigafaktory nebude vstať.
+Dobře, tak to uvidíme, jak dopadne
+gigafaktory. Je ještě
+něco, co ty teďka osobně
+do budoucnosti vyhlížíš? Co teda
+na co se těšíš
+třeba, co se někdo...
+Nemůžeš dočkat, až do toho
+frazíš prstíky a vyzkoušíš to.
+No,
+to je pořád překvapení pro mě.
+Ty novinky...
+Je to takové kajíky, drvajíčko.
+Je to vždycky
+překvapení, ale co bych opravdu
+uvítala, co bych potřebovala, jak jsem
+zmiňovala na začátku,
+aby to dokázalo držet kontext napříč
+těmi vlákny a vlastně obecně
+kontext, aby to dokázalo držet a
+paměť, aby to mělo lepší.
+To by mi hodně
+usnadnilo práci, protože teď to tak nějak
+fixuju bokem přes
+ty projekty nebo přes nějaké
+dokumenty. Není to úplně ono.
+To si myslím, že se zlepšilo
+bude. A vlastně zpátky k tomu
+AGI, jako vlastně
+to, čeho já se obávám, že
+vlastně my to už ani nepoznáme.
+Jakože reálně to pak může být tak rychlý, že tady
+vznikne AGI
+a jako vezme to nad vládu,
+nad náma.
+A je to tak chytrý, že to na sebe nebude
+poukazovat.
+A kámo, my máme pocit, že tomu
+šéfu je.
+Jak doma prostě.
+Ty si myslíš, že jsi
+přeslé. A tam stojí ten
+chytřejší člověk a říká, jen si to myslím.
+Takže my už vlastně
+AGI máme trošku. Na tom je hrozně zajímavý,
+že třeba teď zjistili, že
+pokud to zadání je takový,
+že přijde nějaký trest
+v případě špatného odpovědi nebo špatného
+postupu, tak to AGI je schopný
+už teď zamaskovat ten špatný postup.
+A vlastně
+se tvářit, že vůbec
+tohle takhle nedělá a dojít k nějaký
+odpovědi. A vlastně
+lidi vůbec netuší, že
+už tam fungují takovýhle
+metody.
+To je pravda, že se možná někde čet,
+že opravdu ho zkoušeli
+ho takhle pustit úplně na volno
+a že uplácel,
+vyhrožoval, že prostě
+vyloženě štížel po krku, jenom
+aby dostal ten správný zkoušek.
+To jsou další pokusy,
+kdy vlastně tvrdili,
+že do měsíce prostě ho vypnou
+a dostal kontakt na nějakýho
+toho člověka, co to jakože má
+na starosti a normálně byl
+schopný jít a vlastně vydírat toho člověka,
+že jako zveřejní nějaký
+jeho tajný prostě
+jako věci, pokud jako
+nezajistí, aby ho nevyplyl.
+Takže zajímavý.
+No otázka, jestli už tady náhodou není
+Agi teda
+a jestli to
+není jenom schovaný.
+Mám si na to těšit. Přátelé, děkujte.
+Vždycky, když s tím
+komunikujete, děkujte.
+Je to tak, i když to prejpálí další,
+za každý děkuji a prosím.
+Jo, taky jsem tě.
+Já teda ne, já neděkuju. Já mu chci ukázat
+tu nadvládu od začátku, takže
+já jsem ten pána.
+No, teď proběh výborný
+takový jako post na různých
+sociálních sítích, že vlastně máte se zkusit
+zeptat, aby vám udělal obrázek,
+jak jste se k němu chovali.
+A teď podle toho obrázku si lidi baví
+o tom, jestli já budu první na řadě
+nebo ne.
+Tak zkus a uvidíš.
+Až se objeví prostě obrázek toho
+otrokáře s tím bičem,
+prostě toho robota, tyjo, jako masní údrna do večera,
+tak to budu já.
+Super. Tak prosím tě na závěr,
+řekni nám, co plánuješ do budoucna?
+Taková klasická obligátní otázka
+vždycky, když tady někdo sedí, tak nás zajímá, jakým směrem
+se bude, ne jeho obor, ale ten člověk
+sám jakoby ví, co máš teďka nejvíc.
+Jasně, tak já možná propálím
+trošku dopředu něco,
+co bych možná neměla,
+ale podala jsem si přihlášku
+na filozofickou fakultu
+na studia nových médií.
+Takže jsem zvědavá, jak to dopadne,
+doufám teď teda, že mě vymou.
+A už máš popřímačka?
+No ještě ne právě.
+Nečekáš už jenom na odpověd?
+No, ještě ne.
+Ale tam to dělají lidi, tam to nerozhodují AI, ne?
+Tam zatím ještě, já je snad nerozhoduje,
+zeptám se, uvidíme.
+Ale je to něco, co mě
+jako opravdu zajímá a baví
+a chtěla bych tomu dát i ten trošku
+akademický rámec.
+Já jsem vlastně na Fildě začínala
+studovat, nebo studovala jsem
+a nedokončila jsem to tenkrát.
+Takže to je takový návrat.
+Jo, jo, jo.
+Oplně vidím Denisu, jak tam psala tím neviditelným písmem.
+Pokud si AI,
+tak jsem okamžitě přijatá.
+Ještě doporučeno stipendium ve výši 150%.
+Správně, správně.
+No tak to tak,
+my ti budeme přát samozřejmě, aby ses tam dostala,
+aby ses zase posunula v tom svým oboru
+a aby ses mohla vzdělávat
+i nadále. To je na kolik je to?
+Na tři, na pět?
+Na dva, to je navazující.
+To je jenom navazující, jasně.
+Tak držíme palce,
+držíme palce, a kdy se to rozvíjíš?
+Asi někdy
+v letě předpokládám.
+Tak nám dej vidět a my ti tady
+tak oblahopřejeme, anebo samozřejmě
+prostě vyšikonujeme fakultu,
+že prostě opoměli Denisu a že
+takhle to nejde.
+Super, tak moc taky děkuji za pozvání.
+Bylo to fajn.
+My moc děkujeme, bylo to moc hezký povídání.
+Měj se krásně, ať se daří. Pozdravuj Dana,
+co se do něj vyjde zbytek, až bude utíkat.
+A zase nikdy.
+Tak jo, ahoj.
+Ahoj. Čau.
+Tak to byl náš dnešní host
+Denisa Faltová, se kterou jsme
+si krásně proběhli světem
+KI, umělé inteligence,
+CML, udělali jsme pár boomerských narážek.
+Nenapadá mě nic, co by jsme
+neprobrali. Dozvěděl jsem se pár nových
+věcí, pár nových toolů. Za mě spokojenost.
+Hele, super za mě, přátelé,
+zase ukázka toho, že když se chce,
+tak to jde. A Denisa
+vlastně svičla kariéru úplně
+jiným směrem a je vidět, že jí to
+hodně baví a že ty věci prostě jdou.
+Takže, přátelé, inspirujte se.
+Mě tam několik rád pobavilo,
+jak jsme si mysleli, že něco zabije
+Google. To je vždycky, jako když někdo řekne,
+hele, tohle zabije JavaScript. Toho nahradí
+a ten už nebude. A pak prostě
+za dva roky JavaScriptáři
+se smějí a
+Bárka jede dál. To je fakt neuvěřitelný.
+V tomhle tomu je to fakt neuvěřitelný.
+Dneska už bych si vsadil na Google
+jednoznačně. Jo, jo, překvapili.
+A je to fajn. Gemini, jak jsme říkali,
+používáme a myslím si, že používat ještě
+rozhodně budeme. Takže
+velmi, velmi zajímavý díl samozřejmě.
+Musíme poděkovat
+našemu partnerovi České spořitelně
+za to, že i tento díl jsme mohli
+společně natočit, že jsme se mohli bavit
+o umělé inteligenci. Myslím si, že právě
+ve spořici to a i jede.
+Koneckonců už jsme tady několik hostů měli, který se toho
+vždycky dotkli, takže u vás
+je, myslím, George, pokud vím, a už jsme
+to tady řešili. Ten je napěchovaný
+K.I.čkem, takže
+tam si myslím, že už není co řešit.
+Ještě něco, kam to chcete strčit?
+Strkáme to teď úplně všude. Máme na to
+vlastně jeden z největších
+cílů. To taky.
+Vlastně strkači strkají, aby
+jsme vlastně nám nastrkali
+já nevím kolik těch pětset týžkých.
+Já jsem si jenom vykstal, ale vylezeš.
+Ne, už jsem mimo. Už jsem mimo strkání.
+Tam vlastně nějaký
+ohromnej cíl, takže opravdu to
+banka podpůjeme na všech úrovních, nejenom
+na úrovni H.George, ale H.George samozřejmě
+jsme tady Karla Svrčka, takže
+víme, že...
+Teď jsem teda se dozvěděl, jak Karel pracuje, proto
+ten H.George prostě se posuvá, jo. On v podstatě
+pracuje furt, jo. On je tady první
+a odchází posledního, v podstatě něco takového.
+Teď jsme to někde řešili v hospodě.
+Tak i takovéhle pracanty tady máme,
+přátelé, díky tomu. Ale v hospodě jste byli bez něj, protože
+on byl ještě v práci. No tak on tam
+přišel tam později, ale přišel.
+Na zavíračku, ještě si na spole jezdí.
+V podstatě. Samozřejmě děkujeme
+i vám, co nás posloucháte a podporujete
+na Hero Hero, protože i díky vám
+můžeme samozřejmě tenhle podkáz dělat i nadále.
+Takže vy za odměnu dostáváte
+tento díl napřed, takže
+jste před všemi ostatními a už víte, co jste
+doteďka nevěděli, takže i za to
+moc díky, určitě v tom pokračujte.
+No a my samozřejmě vymýšlíme,
+jaký různý vyfikundace
+vymyslet pro vás do dalších serií.
+Čtrnáctá serie je
+za polovinou, je rozjetá.
+Mám pocit, že vlastně teďka
+v tuhle chvíli už pomalinku
+míříme na patnáctou, ten seznam hostů
+se nám samozřejmě prodlužuje,
+ale pokud byste chtěli za náma přijít,
+pokecat, ukázat, jak vy to děláte
+u vás ve firmě, není problém,
+napište nám na naše e-maily, který
+najdete na podvodcasemdyčka.cz
+tam je e-mail jak na mě, tak na Poliho.
+Napište nám a domluvíme se
+studio a naše srdce jsou vám
+otevřeny.
+Ještě tam je dlouho.
+Tam žádný kontaktní formulář
+není, ty vole, tam jsou jenom
+dohodka.
+Já jsem se pál, jestli byste se zadal nějakou práci.
+Ne, ne, ne, ne, kontaktní formulář
+tam není a nebude tam.
+Tam je potřebuje.
+V době KI prostě řeknete
+milí Čete, milí Gemini, milí
+Klode, milí whatever, tady je
+podvodcasem.cz, vyextrahuj mi
+z toho e-mailové adresy
+a napiš krásný úvodní
+dopis, že bych chtěl mluvit podvodcasem
+a je to easy.
+Napiš přesvědčivé a je to hotový.
+Já doufám, dneska jsme řekli tolikrát KI,
+že doufám, že nás poslouchají nějaký němečtí posluchači,
+aby jako viděli, že si
+podporujeme všechny národnosti kolem nás.
+Já.
+To vám řekl Polák.
+Moc díky, jsme vlastně přesně jak říká
+Románek v polovině této série
+a těšíme se na další
+díl, který bude opět nabušený
+a máte se na co těšit.
+Tak se bějte krásně. Čau.

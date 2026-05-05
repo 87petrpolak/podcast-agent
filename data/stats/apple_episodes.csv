@@ -1,0 +1,89 @@
+Show Name,Episode ID,Episode GUID,Episode Number,Episode Title,Release Date,Duration,Unique Listeners,Unique Engaged Listeners,Plays,Average Consumption
+"PodVocasem",1000765978026,"S15E01",1,"S15E01 - Tomáš Nováčik - Demo scéna, programování dispečinku a vyhazovy z práce",2026-05-04,4682,23,9,134,0.34367512954330187
+"PodVocasem",1000761028894,"BonusOFFka1",NaN,"BonusOFFka #1 - Naše startup fails",2026-04-13,185,72,54,112,0.7463963963963964
+"PodVocasem",1000758148043,"S14E06",6,"S14E06 - Jakub Šimek - GIS, laser scanning a IT v geodézii",2026-03-30,5157,75,53,607,0.6324865878094499
+"PodVocasem",1000755504034,"S14E05",5,"S14E05 - Tomáš Jurásek - Event-driven systémy, ADRka a Architecture governance",2026-03-16,4840,102,69,613,0.6083151029006644
+"PodVocasem",1000752393440,"S14E04",4,"S14E04 - Tomáš Trnka - OBT, Keboola a 30 miliard tokenů za měsíc v Carvagu (EAG)",2026-03-02,5676,107,81,732,0.7005361153372456
+"PodVocasem",1000749915402,"S14E03",3,"S14E03 - Denisa Faltová - Jak aplikovat AI ve firmách",2026-02-16,4401,116,74,694,0.6595346668860526
+"PodVocasem",1000747647319,"S14E02",2,"S14E02 - Martin Michálek - Rychlost webů",2026-02-02,5011,96,70,662,0.695085395463314
+"PodVocasem",1000745691961,"S14E01",1,"S14E01 - Martin Vágner - Custom vývoj v Salesforce",2026-01-19,5107,79,55,459,0.5721930435515413
+"PodVocasem",1000739071066,"S13E06",6,"S13E06 - Jiří Kosek - O legendární PHP knize a XML",2025-12-01,5779,110,90,846,0.7236483191492709
+"PodVocasem",1000737036199,"S13E05",5,"S13E05 - Karel Svrček - Do nitra AI v aplikaci George",2025-11-17,5541,109,70,733,0.5743887517405695
+"PodVocasem",1000734984653,"S13E04",4,"S13E04 - Honza Jaroměřský - Z třinecké extraligy do IT",2025-11-03,5503,83,61,509,0.6794716572997423
+"PodVocasem",1000732592234,"S13E03",3,"S13E03 - Vojta Barta - QA v roce 2025",2025-10-20,5342,95,71,692,0.6546040316065341
+"PodVocasem",1000730344807,"S13E02",2,"S13E02 - Jindřich Skeldal - Brány Skeldalu, herní business a simulace herce ve VR",2025-10-06,5333,91,63,690,0.6598825888156471
+"PodVocasem",1000727804344,"S13E01",1,"S13E01 - Honza Láznička - Data engineering v Billigence",2025-09-22,5613,99,62,542,0.524784635955133
+"PodVocasem",1000717118190,"S12E06",6,"S12E06 - Tomáš Sušánka - Vývoj hardwarové peněženky v SatoshiLabs",2025-07-14,4800,112,80,660,0.6228255208333333
+"PodVocasem",1000715077436,"S12E05",5,"S12E05 - Víťa Hubený - Od kódu k businessu",2025-06-30,5198,104,78,777,0.7068787551425104
+"PodVocasem",1000713035366,"S12E04",4,"S12E04 - Jiří Dobrý a Daniel Pojhan - Když kód pomáhá",2025-06-16,5263,81,56,506,0.610589181872987
+"PodVocasem",1000710808268,"S12E03",3,"S12E03 - Aleš Holan - Od budovaní Shellu k budování startupů",2025-06-02,4671,101,72,675,0.6792490424379625
+"PodVocasem",1000708943290,"S12E02",2,"S12E02 - Matej Semančík - Kotlin multiplatform a vývoj na Androidu",2025-05-19,4933,93,67,576,0.6783631849580072
+"PodVocasem",1000706308780,"S12E01",1,"S12E01 - Marcel Veselka - QA pomocí AI agentů ve Wopee.io",2025-05-05,5030,105,80,667,0.6742857142857143
+"PodVocasem",1000702440694,"S11E06",6,"S11E06 - Martin Šafránek - Data Vault",2025-04-07,5543,103,66,569,0.5633537620264516
+"PodVocasem",1000700545180,"S11E05",5,"S11E05 - Radek Teichmann - BFSI v MoroSystems",2025-03-24,5480,100,72,682,0.641720802919708
+"PodVocasem",1000698537023,"S11E04",4,"S11E04 - Martin Hron - Od Battle AI v Mafii 2 k Security research v SentinelOne",2025-03-10,5605,100,73,686,0.6702016057091882
+"PodVocasem",1000695432098,"S11E03",3,"S11E03 - Dan Falta - 3D design ve hrách",2025-02-24,5575,80,59,508,0.7121121076233184
+"PodVocasem",1000690740003,"S11E02",2,"S11E02 - Filip Kinský - SmartGuide",2025-02-10,5188,86,63,526,0.628642125836008
+"PodVocasem",1000685580935,"S11E01",1,"S11E01 - Jirka Mareš - SQL a Oracle",2025-01-27,5393,114,82,826,0.6988070956177761
+"PodVocasem",1000678116381,"S10E06",6,"S10E06 - Šárka Kousalová - Employer branding a talent acquisition v IT",2024-11-25,4714,119,79,622,0.6149748826132065
+"PodVocasem",1000676431451,"S10E05",5,"S10E05 - Honza Jiroušek - Energostack",2024-11-11,5281,90,56,492,0.579284226472259
+"PodVocasem",1000674661989,"S10E04",4,"S10E04 - Filip Pýrek - Serverless na AWS",2024-10-28,4143,116,79,632,0.6882339966873913
+"PodVocasem",1000672973462,"S10E03",3,"S10E03 - Riki Fridrich - Vývoj JavaScriptu za posledních 20 let",2024-10-14,5117,128,103,928,0.7779155266757866
+"PodVocasem",1000671244403,"S10E02",2,"S10E02 - Tomáš Belák - Pohled do útrob Integray",2024-09-30,4332,86,55,485,0.6736321372586914
+"PodVocasem",1000669648673,"S10E01",1,"S10E01 - Honza Kuchař - Jak SW pomáhá při asistované reprodukci",2024-09-16,4853,94,63,593,0.6707783297017419
+"PodVocasem",1000660744586,"S09E06",6,"S09E06 - Tomáš Krátký - Data Lineage v Manta a exit do IBM",2024-07-01,5348,104,83,838,0.7781395633162649
+"PodVocasem",1000659218207,"S09E05",5,"S09E05 - Tomáš Sedláček - Dataddo",2024-06-17,4531,102,64,552,0.6569233299146187
+"PodVocasem",1000657620112,"S09E04",4,"S09E04 - Milan Piskla - Vývoj ve světě IoT a Embedded",2024-06-03,4535,113,78,744,0.621313090905543
+"PodVocasem",1000656098984,"S09E03",3,"S09E03 - Libor Sionko - Z fotbalové reprezentace k Pythonu a Snowflake",2024-05-20,4800,113,88,805,0.7552949852507375
+"PodVocasem",1000654630944,"S09E02",2,"S09E02 - Jakub Najberk - Implementace SAP v Automotive",2024-05-06,4499,98,74,685,0.7715047788397421
+"PodVocasem",1000653158910,"S09E01",1,"S09E01 - Vojta Tůma - Keboola",2024-04-22,6270,113,88,976,0.7724365217145841
+"PodVocasem",1000648715999,"S08E06",6,"S08E06 - Dušan Vystrčil - LLMs a GenAI v DataSentics",2024-03-11,4430,117,82,713,0.7184059732592464
+"PodVocasem",1000646827784,"S08E05",5,"S08E05 - Karel Matějka - Herní vývoj v Unity, pixelart a Bzzzt",2024-02-26,5885,94,75,696,0.721166326217032
+"PodVocasem",1000644991912,"S08E04",4,"S08E04 - Honza Difko - Datový deepdive do České Spořitelny",2024-02-12,5623,131,90,1179,0.6786603005920341
+"PodVocasem",1000643324872,"S08E03",3,"S08E03 - Ivo Musil - IT Security v roce 2024",2024-01-29,5611,93,72,729,0.7428974958942016
+"PodVocasem",1000641662811,"S08E02",2,"S08E02 - Martin Děcký - Microkernel OS",2024-01-15,5791,92,61,648,0.6511190528030752
+"PodVocasem",1000640203810,"S08E01",1,"S08E01 - Ondřej Šika - DevOps",2024-01-01,5545,112,86,864,0.7693192064923354
+"PodVocasem",1000639383273,"S07 - Bloopers",NaN,"S07 - Bloopers aneb co se nepovedlo",2023-12-21,435,51,31,107,0.8317782285327924
+"PodVocasem",1000634582226,"S07E06",6,"S07E06 - Tomáš Grošup - Cesta z fintechu do compiler týmu v Microsoftu",2023-11-13,4897,105,76,864,0.7265069965090386
+"PodVocasem",1000633042893,"S07E05",5,"S07E05 - Michal Sänger - BTC, Typescript a GraphQL v Trezor.io",2023-10-30,4650,101,82,791,0.9997189396358991
+"PodVocasem",1000631423088,"S07E04",4,"S07E04 - Michal Těhník - 8 let v Productboardu",2023-10-16,5229,106,79,959,0.761854245373227
+"PodVocasem",1000629852182,"S07E03",3,"S07E03 - Tomáš Blaho - O Mafii, Warhorse Studios, programování grafiky v AAA titulech a pekle herních enginů",2023-10-02,6993,119,97,1345,0.8037569382107197
+"PodVocasem",1000628205646,"S07E02",2,"S07E02 - Marcel Šerý - Cesta low-code startupu Jetveo",2023-09-18,4188,85,48,536,0.6268329681442777
+"PodVocasem",1000626653855,"S07E01",1,"S07E01 - Antonín Kučera - Data v Livesport",2023-09-04,6110,96,68,783,0.672701854882706
+"PodVocasem",1000618300908,"S06E06",6,"S06E06 - Jan Novotný - Java, jOpenSpace a EvitaDB",2023-06-26,5425,98,77,724,0.7149083043355591
+"PodVocasem",1000616579159,"S06E05",5,"S06E05 - Michal Hošna - Livestreaming v CDN77",2023-06-12,4446,84,59,405,0.7084029518240045
+"PodVocasem",1000614815129,"S06E04",4,"S06E04 - Tomáš Metz - Engineering v České Spořitelně",2023-05-29,4925,125,95,1176,0.8503423350253807
+"PodVocasem",1000613012729,"S06E03",3,"S06E03 - Tomáš Muchka - Developer Experience v GoodData",2023-05-15,4619,90,59,499,0.5940727911284309
+"PodVocasem",1000611255692,"S06E02",2,"S06E02 - Filip Dvořák - Inteligentní automatizace s Filuta.ai",2023-05-01,4282,80,52,470,0.6728281177020085
+"PodVocasem",1000609225909,"S06E01",1,"S06E01 - Michal Augustýn - Programátorský pokec o Avastu (a špetka hejtu na Scalu)",2023-04-17,4541,90,63,567,0.7195282487949302
+"PodVocasem",1000606019679,"S05E06",6,"S05E06 - Michal Halenka - Vaříme datový bujón v DataSentics",2023-03-27,4959,74,52,800,0.9895249151147518
+"PodVocasem",1000603874035,"S05E05",5,"S05E05 - Petr Polák - Z výpočetního střediska Chemopetrolu do top managementu CGI",2023-03-13,4967,77,54,454,0.6119401033836306
+"PodVocasem",1000601744546,"S05E04",4,"S05E04 - Tomáš Mikolov - Word2Vec, neuronové sítě a pravda o práci v Silicon Valley",2023-02-27,6898,143,116,1621,0.8106200844675764
+"PodVocasem",1000599267489,"S05E03",3,"S05E03 - Radim Čebiš - Engineering ve Vendavu",2023-02-13,4561,76,47,531,0.6468254884085899
+"PodVocasem",1000597174216,"S05E02",2,"S05E02 - Tomáš Petříček - Microsoft Research, Alan Turing Institute, design programovacích jazyků a F#",2023-01-30,5073,76,53,494,0.6436007967879486
+"PodVocasem",1000594561077,"S05E01",1,"S05E01 - Martin Procházka - Performance .NET aplikací",2023-01-16,4519,76,44,640,0.5819027264998079
+"PodVocasem",1000588745622,"S04E06",6,"S04E06 - Aleš Lednej - Black Bison Tech a Salesforce",2022-12-05,4665,72,37,337,0.4688400619268786
+"PodVocasem",1000586908571,"S04E05",5,"S04E05 - Jirka Pénzeš - Startup Studio",2022-11-21,5345,75,51,648,0.6485438104147178
+"PodVocasem",1000585279546,"S04E04",4,"S04E04 - Ondřej Pelech - Scala",2022-11-07,5033,60,43,366,0.6620471554407577
+"PodVocasem",1000583639264,"S04E03",3,"S04E03 - Lukáš Rychtecký - Koncept svobodné firmy v Applifting",2022-10-24,4678,81,62,925,0.9875223663167229
+"PodVocasem",1000582102632,"S04E02",2,"S04E02 - David Pícha - Od boje s organizovaným zločinem k programování",2022-10-10,4296,72,50,549,0.7243430581419409
+"PodVocasem",1000580611301,"S04E01",1,"S04E01 - Dominik Moštěk - Funkcionální programování v Javě a role ""hostujícího profesora"" v Ataccama",2022-09-26,4026,69,46,452,0.6510507786345276
+"PodVocasem",1000567083805,"S03E06",6,"S03E06 - Cyril Sahula - Artificial Intelligence v recruitmentu, Azure Cloud a Kotlin v Jobno.one",2022-06-20,5035,76,43,419,0.5439894423247792
+"PodVocasem",1000565356597,"S03E05",5,"S03E05 - Jakub Kašpar - UX, Dark Patterns a Design Sprint",2022-06-06,4613,66,48,641,2.3873703433642737
+"PodVocasem",1000563283327,"S03E04",4,"S03E04 - Jakub Veverka - Docker, Kubernetes a OpenShift",2022-05-23,4467,91,64,675,0.7554200892011503
+"PodVocasem",1000560006566,"S03E03",3,"S03E03 - Vojtěch Mádr - Xamarin a personalizovaná videa v Motionlab",2022-05-09,3785,47,26,226,0.5401219820680738
+"PodVocasem",1000558562129,"S03E02",2,"S03E02 - Radim Špetlík - Computer Vision a visionPigeon",2022-04-25,4690,41,26,238,0.579640126891674
+"PodVocasem",1000557201465,"S03E01",1,"S03E01 - Milan Borůvka - Tech stack v PriceFx",2022-04-12,4222,69,43,408,0.8055286662684763
+"PodVocasem",1000555413650,"S02E06",6,"S02E06 - Honza Vrubel - Data Engineering v DHL",2022-03-28,3618,55,35,298,0.8788381325694758
+"PodVocasem",1000553906155,"S02E05",5,"S02E05 - Aleš Roubíček - Clojure",2022-03-14,3615,60,44,383,0.7470539419087137
+"PodVocasem",1000552404867,"S02E04",4,"S02E04 - Luboš Hradecký - Web Accessibility",2022-02-28,3499,38,17,134,0.524330259773469
+"PodVocasem",1000550993196,"S02E03",3,"S02E03 - Zdeněk Merta - Event Sourcing, CQRS a Domain Driven Design",2022-02-14,4200,56,38,350,0.6929294217687075
+"PodVocasem",1000549484346,"S02E02",2,"S02E02 - Borek Bernard - Monorepo, Multirepo, VersionPress a Shoptet",2022-01-31,3644,58,39,295,0.66367008592301
+"PodVocasem",1000548075609,"S02E01",1,"S02E01 - Aleš Krutina - Jablotron, senzory a hardware obecně",2022-01-17,4205,60,44,407,0.7010701545778835
+"PodVocasem",1000546751080,"https://podvocasem.blob.core.windows.net/podcast/episodes/s01/S01E06.mp3",6,"S01E06 - Lukáš Svoboda - CSS v roce 2022",2022-01-03,3318,49,28,198,0.5989408421596486
+"PodVocasem",1000545471502,"https://podvocasem.blob.core.windows.net/podcast/episodes/s01/S01E05.mp3",5,"S01E05 - Jaroslav Holaň a David Ryšánek - Confer-O-Matic",2021-12-20,3318,31,24,187,0.8067335549981527
+"PodVocasem",1000544050926,"https://podvocasem.blob.core.windows.net/podcast/episodes/s01/S01E04.mp3",4,"S01E04 - Lucie Nová - Na hraně mezi Dev a QA",2021-12-06,4140,55,41,414,0.9250197628458497
+"PodVocasem",1000542665615,"https://podvocasem.blob.core.windows.net/podcast/episodes/s01/S01E03.mp3",3,"S01E03 - Richard Vlas - Machine Learning a Artificial Intelligence",2021-11-22,3203,55,41,537,0.9903045440354213
+"PodVocasem",1000541068599,"https://podvocasem.blob.core.windows.net/podcast/episodes/s01/S01E02.mp3",2,"S01E02 - Tomáš Látal - Elm",2021-11-08,3676,58,35,390,0.6266603504558927
+"PodVocasem",1000539587453,"https://podvocasem.blob.core.windows.net/podcast/episodes/s01/S01E01.mp3",1,"S01E01 - Tomáš Horáček - SwiftUI a mobilní vývoj",2021-10-25,3562,79,55,513,0.759536315112403
+"PodVocasem",1000538628154,"https://podvocasem.blob.core.windows.net/podcast/episodes/s01/S01_Upoutavka.mp3",NaN,"S01 - Upoutávka",2021-10-13,85,45,37,128,1.3312418300653595

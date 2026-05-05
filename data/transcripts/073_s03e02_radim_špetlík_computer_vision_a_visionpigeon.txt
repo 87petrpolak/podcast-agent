@@ -1,0 +1,1696 @@
+Vážení a milí posluchači, vítejte u dalšího dílu IT podcastu Pod vocasem.
+Naproti mě opět sedí je usměvavý, natěšený, jako vždycky, Petr Polipolák.
+A naproti mě je Roman Žoukr-Provazník, který to dneska natočil až na počtvrté,
+což je teda rekord, jinak to střílíš na poprvý vždycky, Románku.
+Hele, není každej den posvícení, no?
+Ne, dobrý, mě se to líbilo, já jsem se pobavil vlastně asi třikrát předtím, takže dobrý.
+Jo, jo, jo, no, já jsem se bál, aby jsme to neměli takový ten klasický démon smíchu,
+teď nevím přesně, jak se tomu říká, ale většinou, když se něco natáčí a rozesměješ se,
+tak už se z toho nikdy nedostaneš, takže naštěstí jsme to zastavili,
+už jsme zase vážní, normální, tak jako vždycky.
+Tak jako jsou naši posluchači zvyklí. Jak se máš, Románku?
+Hele, já měl za sebou strašnej týden, protože jsme připravovali dceru na přijímačky
+na osmiletej Gimple a ten nátřesk je tam brutální a protože je celá po mně,
+tak samozřejmě úplně dorubala matematiku první den, takže druhý den jsme to nějakým způsobem
+se snažili ještě se doučit, ale skončilo to tak, že když manželka viděla,
+jak já tam pobíhám hlavu v dlaních a samozřejmě ještě jsem na ní vytahoval
+nějaký rovnice, který oni vůbec ještě nemůžou vědět, řekla,
+víš co, seber se a jeď na ten fotbal. Takže mě poslala hrát žilakap,
+že jo, na fotbal a dokonce to dobře dopadlo, aspoň v téhle z té části,
+protože já jsem nastřílil čtyři góly a dvě asistence a byl jsem strašně,
+strašně smrtelný tam, no smrtící smrtelný. Co ty?
+No krasavec, no senátor ještě teda nad přijímačkama nepřemýšlí,
+ale ve svojich tři a půl letech teda začal číst.
+To dobrý, že jo.
+Takže teďka mám takovou historku, jak jsme šli spolu na veřejné záchodky,
+on ještě ani nedošáhne na tu mušli, že jo, tak ještě do normálních záchodů,
+že jo. On je většinou rychlejší než já, takže jsem se potom vzal dveře,
+teď je kolem mě a zpívá si Géberit, Géberit a říkám, kde to vzal.
+Musí to přečet na tom splachovadle, tyjo.
+Tak to je dobrý, zrovna G není úplně jednoduchý písmeno pro ty děti ze začátku.
+Hele, on zvládá úplně všichni písmena, kromě K.
+On prostě místo K říká T, normálně říká R, říká Ž,
+ale prostě chybí mu K, no, tak každý mu něco chybí.
+Hele, je mu opravdu třeba poli, on je mu třeba třináct.
+Říká o toho, říká o toho, tak budeme mu věřit.
+Tak fajn. No prosím, že ty jsi dneska připravil dnešní díl opět de facto sám,
+protože tím, jak já jsem měl hlavu v pejru a furt jsem někde řešil jiný věci,
+tak ty jsi dneska připravil hosta otázky, na mě jsi nechal jenom tu technickou přípravu,
+ale zbytek vlastně celý v tvý režii.
+Takže řekni mi, co mě dneska čeká, protože já se přiznám, já to fakt nevím.
+Zaplať pánbu, že jsem ty kabely nechal na tobě, protože tak bychom nenatáčeli.
+Dneska nás čeká, prosím tě, Radim Špetlík, což je CTO startupu,
+který se jmenuje Vision Pigeon.
+A já Radima znám, respektive, no znám ho zprostředkovaně přes CEO
+tohodle startupu Honzu Kotka a čeká nás Machine Learning,
+protože ten startup a ten produkt je vlastně hlavně o Machine Learningu
+a nějakých recommendations do e-shopů, myslím si, že se máme na co těšit.
+Takže to zase takový ty tvoje dobrůtky, co ty máš rád.
+Moje dobrůtky, ale já jsem si stoprocentně jistý, že do toho zabrousíš potom svým,
+v té svý rovině taky. Těším se na to.
+Tak uvidíme. Tak jo, tak jdeme na to.
+Máme tady dalšího hosta třetí série podcastu. Podvoca jsem.
+Super.
+Ve studiu už s námi sedí náš dnešní host Radim Špetlík. Ahoj Radime.
+Ahoj. Ahoj Radime.
+Tak kluci, vy se vlastně znáte zprostředkovaně.
+Aspoň podle toho, co říkal Poli před natáčením, tak vy máte takový ten společný sociální bod
+toho člověka, který vás dal dohromady a který, co jsem tak správně pochopil,
+ve startupu Vision Pigeon funguje na pozici CEO. Je to tak?
+Přesně tak. Já jsem se to před chvílí snažil říct.
+Jo, jakože to já dneska uvedu, ale ty to prostě umíš na Románku tak pěkně.
+Je to hezký, ale teď mám pocit, že snad dáme to ještě jednou.
+Mně se to líbilo.
+Jo, chceš to tak nechat?
+No jasně.
+Dobře, no tak pokračuj teda.
+No tak pokračuju. Tak Radime, já tě tady vítám.
+A samozřejmě s Honzou jsme zažili spousta věcí, které se týkají startupů.
+A z těch startupů jsme vedli několik a všechny neúspěšně, to máme společný.
+Ale tenhle vypadá opravdu na šláple.
+Tak Radime, možná nám nejdřív řekni, co děláš, co je za tebou a pak se dostaneme k těm jednotlivým bodům.
+Dobře, tak já to zkusím, ale začnu tím, že bych nejdřív poděkoval za pozvání, takže díky za pozvání.
+My taky díky.
+My děkujeme.
+No a teď, co jsem zač, tak já jsem primárně doktorant na FELu na ČVUT.
+Jsem pod panem profesorem Matasem, to bych se chtěl hned pochlubit,
+protože pan profesor Matas je dla vědeckého výkonu nejvýkonnější vědec na ČVUT.
+Tak obecně to, co děláme, je počítačový vidění, takže já jsem nějaký, jdeme tomu,
+specialista aspirující v počítačovým vidění.
+No a to vlastně dělám na 100% a těch zbejvajících 20 do 120 dělám startup s Honzou teda.
+Takže to jsem já.
+Hezky, jak jste se s Honzou prosím tě poznali?
+No, já mám jednoho nejmilejšího bratrance.
+Vlastně teda všichni moji bratrance.
+Bratranci jsou nejmilejší a tenhle teda taky.
+No a ten si říkal, no hele, tady mám Honzu Kotka, o které vím, že si chce dělat startup
+a mám tady Radima, který říká, že by mu přišlo milý, kdyby ty věci, který ji používá
+a který vidí, že občas taky fungujou, tak kdyby se třeba nasadili někde, kde by to mohlo pomoct.
+A já obecně mám takovou vizi, že bych chtěl pomáhat lidem.
+Tohle je teda to, co děláme, o čem asi ještě budeme povídat.
+Tak je taky v přeneseném slova smyslu nějaké pomáhání lidem.
+Takže nás dal dohromady a z toho to celé vzniklo.
+Hele a bylo to takové to nutkání, jakože akademický člověk má chuť to konečně aplikovat
+někde v reálném prostředí, nebo byl tam takovejhle ten jako prvotní,
+ta jiskra, že jsi řekl, to, co dělám v akademické svéře je super,
+ale potřeboval bych to ověřit, ty svoje teze a ty svoje znalosti na tom trhu práce,
+který kolikrát funguje trošičku ve finále.
+A jinak?
+No tak ono, spíš je to tak, že já právě v té akademické svéře vidím,
+že ono to většinou nefunguje a většina těch publikovaných věcí jsou zejména udělané tak,
+aby to dobře vypadalo.
+Jako v těch paperech, aby to vypadalo.
+V paperech, přesně tak.
+A to, že to pak nefunguje, tak člověk to třeba se snaží vyřešit v dalších paperech.
+Řekl, nejim to nefunguje a nám to funguje.
+To je skutečnost, ním to taky nefunguje, ale jinak.
+Takže jako takhle se to tak posolá dopředu, ale jsou věci, které vlastně fungujou nějak,
+když si člověk dá bacha.
+No a u těch jsem si říkal, že by vlastně bylo jako škoda je nepoužít.
+Takže nějaká taková, takový nutkání vzít to, o čem člověk ví, že by to fungovat,
+mohlo nasadit to a vlastně tím nějak jako zlepšit svět.
+Něco takového tam bylo.
+No a já jsem jako původně vlastně měl trochu, měl jsem jinou představu,
+vlastně jsem chtěl dělat nějaký medical.
+Pomáhat léčit a tak, ale tam jsou obrovský problémy s datama,
+což vzhledem k tomu, že computer vision současný je převlečený machine learning,
+převlečený strojový učení, který jako potřebuje mnoho, mnoho dát na trénování
+i na učení v některých oblastech a při určitých metodách,
+jako to je složitější otázka, tak každopádně jsme se nakonec rozhodli,
+že zatím medical dělat nebudeme a že to třeba budoucnou uděláme nějakou odnož
+a prostě budeme se soustředit na pomoc doktorům.
+Ono s tím vlastně souvisí, že ty data nejsou dostupný zejména,
+protože se lidi jako bojí o to, aby se náhodou někdo nedozvěděl hladinu jejich cukru
+nebo já nevím, krevní destičky, takovýhle věci, tak se nepodepisují,
+že by chtěli součastnit výzkumu a typicky součastnějí výzkumu,
+až když umírají a zase to jsou hodně.
+– Špatný data.
+– Ale máš to furt takový tý upozaděný pipe, že bys to jednou tomuhle se rád vynoval?
+– Určitě, určitě. I výzkumně, i třeba to pak aplikovat.
+Typicky to tak bývá, že když člověk dělá ten výzkum na špičkový úrovni,
+tak se pak objeví nějaká firma, jako je to třeba u nás laboratoři,
+a řekne, vy děláte skvělej výzkum, chceme prostě vám dávat peníze na to,
+abyste dělali skvělej výzkum, který zároveň by se nám taky trochu mohl hodit,
+a pak člověk jako vlastně i má přímo si šahá na tu privátní sféru,
+i když vlastně je v té akademické.
+– Jasně, jasně. Tak pojďme možná přímo ke startupu Vision Pigeon.
+První, co mě napadne, když to vždycky zopakuju, jak jste přišli na ten název?
+– Tak to jsem vymyslel já. Měli jsme na to takovou schůzečku,
+ve které jsme probírali různý názvy, jak chcem působit na veřejnost,
+tak jsme si definovali, jak chcem působit na veřejnost.
+Vyšlo nám z toho něco hrozně nudného, stejné, jak se jmenují všechny ty ostatní naši konkurenti.
+No a já říkám, no tak by to mohl být Vision Pigeon.
+Jako vlastně, řekl jsem to z legrace, ale on je pravdou, že holů má velmi dobrý vidění,
+vidí téměř 360, takže to je jeden z těch promyšlenějších názvů, co tam padly.
+Ale je to samozřejmě blbost, že jo, všichni se nám za to smějou,
+ale jako tak, aspoň si nás podíváme.
+No přesně tak, jako víš co, teď se smějou a pak řeknou, tyjo, to bylo geniální.
+Přesně, přesně, to jako nikdy nevíš, jak to bude.
+A padly tam nějaký úplně jako blbý názvy, který si pamatuješ, že to ani nemůžeme snad říct?
+Takhle, ano, většina těch názvů, který se tam vymysleli, jsem zase vymyslel já.
+A popravdě, jak se nepamatuji.
+Popravdě všechny byly dobrý, samozřejmě.
+Já jsem v jednu chvíli začal říkat názvy a takhle to skončilo.
+Naming is hard, no.
+Naming is hard a vždycky u těch startupů, jako my jsme nad tím trávali třeba týden.
+Jako když já jsem měl svoje startupy, vlastně to je...
+No ale to je všude. Já když třeba zakládám nový projekt na GitHubu, nový repo,
+já si myslím, že třeba skoro jako třetinu času, co tam do toho kontribuju,
+tak první 30% je vymýšlení toho názvu.
+Jakoby to nebylo jedno, když to můžeš přejmenovat kdykoliv později.
+Ne, prostě to je zásadní věc a naming je, na tom to stojí a padá.
+Jasně, no to je úplně zásadní.
+Tak pojďme trošku pod slupku toho názvu.
+A co Vision Pigeon dělá?
+No, je otázka... Nebo takhle.
+My co teď děláme je, že zejména se snažíme postavit nějaký produkty pro e-shopy,
+který jim pomáhají s doporučováním produktů pro zákazníky.
+Protože dělám počítače vidění, tak jsou momentálně všechny postavený na počítače vidění.
+Začali jsme s tím.
+Já bych řekl, z pohledu počítačového vidění nejjednoduším,
+a to je nějaké vyhledávání vizuálně nejbližších.
+No, myšlenka je, že člověk přijde na stránku s produktem, kde jsou prostě obrázky, nějaké věci,
+takže by třeba ten zákazník mohl chtít se podívat i na věci, které vypadají hodně podobně,
+třeba by se mu i líbily víc, a pak je otázkou, co se děje dál.
+Protože samozřejmě tam se dá optimalizovat dál, záleží, jaký si člověk zvolí kritérium,
+zovat, že bude zobrazovat ty vizuálně nejbližší a jakoby v podobný cenový úrovni,
+nebo dražší, nebo levnější, atd., atd.
+A dá se z toho samozřejmě zamotat nějaká historie, třeba nákupů toho člověka,
+že třeba by se mu mohly líbit ještě nejenom úplně vizuálně nejbližší,
+ale s nějakým specifikem, třeba červený límečky, když nakupu oblečení.
+Takže to je jeden z těch produktů.
+Další produkt je zase na tom...
+Postavený na tom obrázku.
+Když máme modela, který je vyfocenej na fotce a je oblečenej kompletně,
+tak takovýhle fotky typicky prodává jenom jeden kus oblečení,
+aby se ukázalo, jak to vypadá na modelu.
+No a ten model nemá jenom jeden kus oblečení,
+má třeba kterýčku i kalhoty a boty,
+takže my detekujeme kterýčku kalhoty a boty
+a zase se snažíme najít z toho katalogu toho klienta ty nejbližší produkty.
+Který, kdyby si člověk chtěl zkompletovat ten look toho modela,
+tak aby mohl.
+A zase se tam dá zamotat spoustu dalších věcí.
+No a teďka pracujeme na dalším produktu,
+který se jmenuje Crossel, což asi něco i znamená.
+A každopádně, když by náhodou někdo nevěděl, co to znamená,
+tak pojinta je, že zase člověk nakupuje.
+No a...
+Když si někdo prohlíží trýčko, tak třeba by se mu mohl hodit i kalhoty, že jo?
+A klobouk, nebo co já vím, kabelka, zase nějakýho stylu.
+Takže tam je zase spousta věcí, které se dají nabízet,
+dá se v tom optimalizovat.
+Anatomika pracujeme a už to z nám brzo budeme mít hotový.
+A ještě se doptám na tu první feature.
+A to je tak, že já tam vlastně uploaduji jakoukoliv fotku,
+nebo je to tak, že já si vyberu jednu tu fotku v tom e-shopu
+a na základě toho se mi to začne vyhledávat.
+Nebo jak to funguje přesně?
+Ten produkt, který teď máme, tak je, že ke každý věci,
+kterou ten e-shop zobrazuje, tak je tam několik fotek typicky.
+A my si vybíráme tu fotku, o které si myslíme, že je nejhlavnější,
+což je zase nějaká úloha.
+A z této fotky, které si myslíme, že je nejhlavnější,
+tak se snažíme vyhledat ty vizuálně nejbližší.
+Další úloha je to, co jsi říkal ty,
+a to je, že přijdu na stránky, někde jsem si vyfotil něco, co se mi líbilo.
+Nebo sebe třeba, že?
+Jasně.
+Předchozí bundě, dejme tomu, a chtěl bych podobnou bundu si koupit znova.
+Tu samou. Takže to je další úloha, taky se dá řešit.
+My jsme ji dokonce měli hned vedle téhle, o které mluvím,
+ale on ji vlastně nikdo nechce, což je pro mě trochu překvapivé,
+ale zatím ji nikdo nechce, spíš tyhle, o kterých jsem zatím mluvil.
+A teď, když říkáš, že nikdo nechce, či já jsem koukal,
+že vaší referenci je třeba Zoot, a z všechny tyhle věci, co jsi popisoval,
+tak už někde jsou nasazený a můžeme je používat?
+U Zootu máme nasazené to vyhledávání nejbližších,
+a pak máme další klienty, například Foodshop,
+kde máme nasazený ten shop-to-look,
+čili to vyhledávání těch kusů v oblečení na těch modelech.
+A to poslední?
+Zatím nemáme nasazení nikde, protože na tom pracujeme.
+Těch klientů máme víc, ale popravdě řečené,
+já úplně nevím, jak si stojíme, to by věděl Honza,
+ale myslím si, že teď máme několik klientů rozjetých
+v takový zkušeným periode, kde se koukají, jestli se jim to líbí nebo ne.
+A o těch platících vím zejména o dvou, to znamená Zoot a Foodshop.
+Když jsme se bavili o těch fotkách, přináší tohle nějakou, řekněme,
+jako větší...
+Větší požadavky na to, jak ty fotky mají vlastně vypadat,
+tak mají vznikat třeba, co se týče rozlišení nebo pozadí,
+protože spoustu shopů si to třeba fotí opravdu,
+když řekne, hele, Mařeno, nafoť mi to tady na stole,
+což pro tebe tím, že to jsou stupní data, předpokládám,
+že může být trošku problém, když to není třeba z profesionálního studia
+nebo je součástí toho vašeho řešení třeba nějakých guidelines,
+jak by ty fotky měly vypadat?
+Je to, přesně jak říkáš, je to vlastně jako složitý problém,
+protože my teda používáme k vyhledávání těch nejbližších
+konvolučních neuronových sítě, kterýma vlastně komprimujeme
+ten obrázek do nějakého vektoru, který se dá srovnávat
+s těma ostatníma vektorama, který máme v databázi.
+No a jedna nemilá vlastnost těch neuronových sítí obecně,
+nejenom konvolučních, ale i nejenom konvolučních,
+je, že co neviděli, tak člověk neví, jak to dopadne.
+Takže mě vlastně bylo, nebo myslím si, že je rozumný
+nestavit jako hotovou věc v případě machine learningu,
+zejména na computer vision, ale vlastně stavit nějaké
+jako pipeliny, které až se to objeví, jakože se objeví
+vždycky nějaký prostě novej způsob ocení nebo nová věc,
+kterou jsme nikdy neviděli. Tak aby bylo co nejjednodušší,
+je zařadit do našich trénovacích, validačních a testovacích setů,
+aby jsme byli schopní velmi rychle ty naše modely dotrénovat
+a tomu zákazníkovi dodat tu věc, kterou chce.
+To jako by vlastně to stavíme, nebo vlastně já to stavím,
+tyhle ty naše machine learningové produkty tím pipelineovým způsobem.
+Já velmi sleduju vývoj v autonomních autech,
+což je věc, která mě baví. Sleduju Andreja Karpátyho z Tesly,
+který tam teda zřejmě teďka končí. A on teda na mnoha konferencích,
+na kterých měl příspěvky, zejména na workshopech okolo autonomních aut,
+tak právě jako popisoval tu změnu z toho starého machine learningu,
+kde se vlastně dělali ty jako jednorázový hotovky do toho novýho způsobu,
+kde se dělají pipeline.
+A budete si to zajímavě vidět, že když oni prostě detekují nějaký novej případ,
+že se prostě někde stalo něco, co nemělo, na což mají spousta heuristik,
+jak to vyhledávat, tak se jim to prostě dostane velmi rychle do databáze
+a oni na to dotrénují model a pak to vydají jako beta verzi
+toho svýho autonomního řídícího systému.
+Takže jako by vlastně jsem to postavil nebo stavím to jako ten Andrej,
+a zatím to vypadá, že se to osvědčuje, tato strategie.
+No ono, říkám, no tohleto je, nikdo úplně neví, jak se to má dělat,
+zrovna tohle, ale vzhledem k tomu, co jako vím a zažil jsem si s neuronovýma sítěma,
+tak si myslím, že tohle je jako nejrozumější postup.
+Jako příprava na tu budoucnost, v podstatě to, co přijde.
+No spíš jako by přestat tvořit ten jeden nástroj o jednu hotovou síť,
+ale mít spíš jako pipeline.
+Kde mám, v jedné části je ta síť a před ní je, jak sbírám data,
+jak je anotuju, jak to učím a jak to pak zpátky nasadím do provozu.
+Takže to je to, čím oba dva myslíte tu pipelineu,
+to znamená, už to není jeden v podstatě monolitický řešení,
+ale je to série nějakých kroků, které se dají vyměnit tak,
+aby to bylo připravené na ty budoucí změny.
+Ano.
+Jo, OK. Ano, by to pochopili lidi, kteří nejsou na tom vašem levelu, včetně mě.
+Říkáš to přesně. A já ještě se otočím kolem toho produktu,
+tak popsal jsi teďka to v podstatě AI řešení.
+Končí ten váš produkt s tím AI-kem, nebo tam máte nějaký UI,
+který je potřeba, jak si mám představit vůbec ten produkt,
+kde začíná a končí?
+No, samozřejmě my to teďka máme tak, jak to je,
+což je jako hodně na začátku.
+A ty práce, kterou by si myslíme normálně mohl dělat zákazník,
+tam nějaký prostě nastavovátko, protože těch věcí je opravdu hodně,
+který se dá jako kustomizovat v celým tom produktu,
+tak bychom byli rádi, kdyby si tohle teda dělal ten zákazník
+a teď to děláme my.
+Případně se ještě docela často teďka stává,
+že prostě ten zákazník třeba chce něco, co tam není,
+takže my to musíme nějak dodělat a pak teba zjistit,
+jestli to chtějí ostatní, oni naštěstí většinou chtějí.
+Takže jsme teprve v té fázi, kdy máme, jako backendově ten produkt,
+řekněme, hotovej, nebo nevím, asi nebude nikdy,
+ale prostě tak nějak, že to funguje.
+A na tom frontendu v úvozovkách v tom UI tam nemáme téměř zatím nic,
+máme jenom něco, čemu říkáme dashboard,
+což je věc, ve které ty zákazníci se můžou podívat, jak jim to funguje.
+Jakoby jedna z prvních věcí, kterou jsem říkal,
+že by bylo dobré dělat, je být schopný,
+dělat A-B testy, protože zrovna u těch e-shopů se těžce obhajuje,
+že to, co je pěknější, když to budu ukazovat na té stránce,
+že to je podobnější, tak to jsme se vždycky shodli u těch zákazníků.
+Že oni tam třeba měli nějaké řešení, které bylo třeba pomocí atributů,
+které já osobně nesnáším,
+abychom tam měli atributy typu, má to náhradní kšandy,
+tak to je dobrý atribut, protože toho bych si rozhodně vyhledával,
+nějaké oblečení. Takže samozřejmě vždycky jsme byli lepší vizuálně,
+ale jestli to líp prodává, to je velká otázka.
+Takže my jsme tam zakomporovali od začátku možnost dělat A-B testy
+a ten dashboard máme připravený na to, aby se ten zákazník jednak mohl koukat
+na výsledky těch A-B testů a pak, když se ten A-B test ukončí,
+tak aby si i dál mohl sledovat, co se s tím řešením děje,
+nějakou proklikovost.
+A pak jako vlastně záleží, co nám všechno ten zákazník dovolí,
+kam dovolí, abychom se podívali s našimi analytickými skriptami.
+Ono je to jako by GDPR a lecos, takže tam je třeba vždycky být opatrný,
+ale co dovolí, na čem se dohodneme, tak pak jsme schopni v tom dashboardu
+ukazovat a vyhodnocovat.
+Pojďme se podívat trošku pod tu technickou pokličku.
+Jaký je ten stack, který používáte? Je to klasický Python stack,
+TensorFlow, nebo používáte tam něco speciálního?
+No tak TensorFlow nepoužíváme, protože když já jsem začínal s neuronovýma sítěma,
+což já jsem teda začal o trochu později, než většina světa,
+protože u nás v laborce právě pan profesor Mata s těm sítím vůbec nevěřil
+ze začátku a prostě jeli jsme klasický starý machine learning,
+zejména SVM, teda s různýma karnelama.
+A když teda jim uvěřil, tak jsem hned naskočil do neuronových sítí
+a zjistil jsem, že TensorFlow má spousta problémů.
+Jeho největší problém je, že má staticky kompilovaný graf,
+což v zásadě člověku způsobí, že se tam velmi obtížně upravují
+například velikosti vstupních obrázků, což pro konvolutní sítě je hodně nepříjemný.
+A spousta dalších věcí, že se tam blbě debaguje a tak.
+Takže už jsem v té době se...
+Jo, a ještě teda jedna velmi nepříjemná věc pro libovolnýho výzkumníka mladýho,
+který začíná, je, že TensorFlow v té době si zabral celou paměť grafiky,
+protože prostě to nástroj, který je udělaný pro velký korporace,
+kde to je jedno, tam si prostě 80 grafek někdo nálekuje a běží mu tam experimenty.
+Na u nás v laborce jsme začínali s tím, že jsme si sdíleli grafky,
+typicky 6 lidí na jednu grafku a občas my s tím nejsme shodili.
+Takže to mě vedlo k tomu, že jsem začal používat to, co už mějí zkušenější kolegové,
+a to je teda PyTorch.
+PyTorch, který vyvíjí nějaká serijná společnost mety už teďka, že jo.
+A ten teda nemá staticky kompilovaný graf, krásně se v něm debaguje
+a nezabírá si celou paměť grafky.
+Což už teď je mi jedno, protože máme jako mnoho serverů teďka na škole,
+takže počítat si může a chci.
+Ale tehrá mě to pálilo a každopádně se mi líbí
+to, že si je můžu jednoduše debagovat a že můžu libovolně měnit ten graf za pochodu.
+Jak se provádí ten průchod grafem, tak já ho vlastně můžu měnit
+a nemusím mít strach, že to bude problém v budoucnu.
+Tady padlo novej a starý machine learning.
+Jaký je mezi tím rozdíl?
+To byla otázka.
+Potřebuji vysvětlit, protože vy tady oba dva se tak jako tady kejvete,
+jo jasně, starý tenkrát, co to bylo jinak, blablabla.
+Ale pro člověka, který je úplně zvenku, jak byste to nějak jednoduše vysvětlili?
+No tak tam je jako víc pohledů, jo.
+Jeden pohled je třeba, že se dá říct, než nastoupili konvoluční neuronové sítě,
+tak počítačové vidění nefungovalo, jo.
+A od té doby, co nastoupily sítě, tak jako fungovalo, no.
+Takže, nebo funguje nějak v uvozovkách.
+Ale je rozhodně jako mnohem, mnohem účinnější, efektivnější,
+má mnohem větší performance na...
+všechny úlohy, jo.
+Pak říkám, tam je problém třeba s overfittingem, ale rozhodně funguje.
+Takový jako jeden pohled.
+Druhý pohled je, ve starém machine learningu například,
+člověk měl nějaký záruky, jo.
+Třeba, když se používalo to SVM-ko,
+tak pro SVM-ko existuje nějaká teorie učení,
+kde existuje nějaká vápní červoněký z dimenze,
+kterou, když člověk použije, tak si může spočítat,
+jak velký potřebuje dataset, aby vybral ten nejlepší klasifikátor,
+který existuje v funkci těch klasifikátorů, který používá.
+Jinými slovy, aby nedocházelo k overfittingu,
+respektive aby to, co viděl na validačním sadě,
+tak aby pak viděl na testovací sadě.
+Takovýhle záruky pro neuronový řitě neexistují.
+U těch, že on nebo slyšel jsem, myslím, ve vašem třetím díle prvního podcastu,
+že tady padlo...
+Padl název lineární regrese.
+Tak lineární regrese má...
+To si doma nepamatuju ještě.
+Jo, určitě.
+Tak má zase jako taky garance, že tam člověk ví,
+kdy ta lineární regrese funguje, co musí předpokládat o datech,
+když ji používá, tak jaký teda tam musí bejt.
+A když nejsou, tak ví, že fungovat nebude.
+A u neuronových sítí tam žádné takové poučky nejsou.
+Tam se v zásadě mluví jenom o nějakých kapacitách,
+třeba těch sítí, se něco naučit.
+A pak, jak člověk doufá, že to tak nějak bude fungovat,
+samozřejmě si musí dát bacha na to, na čem kontroluje, že to funguje.
+Takže, jestli to chápu správně, přechod ze starýho do novýho machine learningu
+je o tom, že se ztratili určitý záruky, který byly v tom starším,
+ale otevřeli se nový možnosti, který ten starší způsob neumožňoval.
+No, v zásadě tak asi by se to taky tak dalo.
+Já to taky takhle chápu.
+A ještě možná bych to rozdělil nebo oddělil od sebe.
+Teďka vlastně ta podmnožena toho machine learningu klasického je deep learning.
+Ještě tak mě radíme oprav.
+A ten mnohem víc souvisí s těma neurónkama, s tím obrovským množstvím dát,
+který vlastně zlepšuje ty řešení právě tím,
+že do toho nacpeš co nejvíc dát, který můžeš a tím vlastně vylepšuješ tu věc.
+Což vlastně v případě obrázku je dneska možný,
+protože ty datasety jsou veřejně dostupný,
+setkávám dnes Adeně, že by si člověk řekl,
+hele banka, to už má spousta dat na tento konkrétní problém
+a zjistí se, že ne, že reálně ty data prostě chybějí.
+Nebo co říkal Radim o těch zdravotních datách,
+že lidi je nechtějí dát.
+Tak ty data existují, ale nikdo ti je nedá.
+Jo, přesně tak.
+Ono je otázkou, jestli ten learning musí být úplně deep.
+Protože takhle jednak je otázkou další, co je to deep.
+Ale když se člověk podívá, tak ten percetronní algoritmus
+byl publikovaný, on ten byl teda uveřejněný dřív v roce 1952,
+publikovaný v 1956 s rozmblatem.
+A něco jako neuronová siť už je tu, nevím, 80 let.
+Takže...
+To je komplikované.
+Ono to má víc z těch rovin, nebo aspoň za mě,
+před těma 80 lety nebylo to železocve dneska,
+nebyly dostupné ty data, které jsou dostupné dneska.
+A ono se tak jako hezky sešlo.
+A to je podle mě důvod, proč teďka posledních pět let
+se o vůbec machine learningu tolik mluví.
+A to je důvod, proč tu dneska sedíme my tři
+a bavíme se vůbec o tomhle tématu.
+Před deseti lety by to téma moc nebylo.
+Přesně, tam je ještě třetí pohled, a to je pohled jako výpočetní.
+Že nějaký nástup toho, čemu dneska teda říkáme deep learning,
+nebo obecně convolution sítí.
+Deep learning je jedna věc, zejmé tomu,
+ale my to používáme zejména ve spojení s neuronovýma sítěma.
+Tak to bylo umožněné až tím,
+že jeden deep learning...
+Doktorant implementoval tu neuronovou sítě v kudě,
+co je plus plus kuda,
+a začal to počítat na obecných výpočetních jednotkách NVIDIA,
+na těch kudách.
+Až od té chvíle se vlastně ukázalo,
+že možná na tom něco bude.
+Ale nebylo to tím, že ta sítě by byla nějaká deep,
+ale že měl kvantadat.
+A byl schopný je rychle počítat, ty kvantadat.
+A tohle vlastně je věc,
+ke které se teď ten Andrej Karpátyn
+vrátil na svým blogu velmi nedávno.
+Že ono vlastně teď tenhle rok uběhlo 33 let
+od zveřejnění vlastně jako hotovýho
+neuronovýho učení, tak jak ho teďka používáme.
+Stochastický granitní sestup,
+neuronový sítě, nějaký nelinearity
+a ukazovat to na MNISTu.
+MNIST je datase, kde jsou ručně psaný číslička.
+Jsou to malý pixly 16x6.
+16x6, 32x3, záleží na verzi.
+No a on se ptal od tohohle zveřejnění,
+kam jsme jako došli za těch 33 let.
+A to je opravdu jako milej článek,
+doporučil se ho přečíst.
+A on vlastně došel k tomu,
+že jsme se posunuli v oblasti množství dat,
+které k tomu učení používáme.
+A pak teda jsme si našli, dejme tomu nějaký ještě
+pomocné metody nebo triky,
+jak to učení ještě trochu vylepšit.
+Ale to, k čemu došel vlastně asi nejzajímavější,
+je, že už kdyby v té době,
+kdy to Lekun zveřejnil,
+jakoby ten algoritmus zpětné propagace chyby,
+čím se ty neuronové sítě učejí,
+tak kdyby použil mnohem větší dataset,
+tak by se dostal,
+na mnohem nižší testovací error,
+než v té době, když používal prostě nějaký malý dataset.
+Takže zdá se, že ta váha je prostě v těch datech.
+A ta sítě vlastně asi nemusí být úplně deep,
+samozřejmě jsou, jo.
+Ale jako nemusí být nutně deep,
+aby to vlastně pěkně fungovalo, jo.
+Tak navážu, radějme na tu moji předchozí otázku
+kolem Pythonu, TensorFlow.
+Jaký používáte knihovny,
+jaký používáte machine learningový modely,
+tak jako pro zajímavost pro posluchače,
+který by třeba chtěli začít s nějakýma různýma modelama.
+Tak co tam používáte vy?
+Ano, tak já se teda taky vrátím k odpovědi na tu otázku,
+protože jsem vlastně ještě nedokončil, že jo.
+Takže, jak jsem říkal, používáme Python,
+používáme PyTorch,
+no a co se modelů týče,
+tak já vlastně si ty modely stavím víceméně sám.
+Vždycky se snažím postavit co nejmenší
+pro ten úzký, který používáme.
+Je tam, jako ta naše architektura,
+že to máme vždycky rozdělit na nějaký backbone
+a na nějaký hlavit, který dělají různý věci.
+Backbone to je síť, která vyrábí feature,
+nějaký ty vektory těch příznaků,
+který člověk pak různě používá.
+No a na tom ta hlava, to je vždycky nějaká
+jakož specifická věc, která řekne,
+tak třeba budu detekovat ty jednotlivý věci.
+Takže ten backbone typicky je teďka ResNet,
+nějaký ResNet.
+A tu hlavu si dělám, jak potřebuji.
+Myslím, že na ty detekce používáme
+klasický konec, klasickou hlavu
+z paperu z Focal Loss,
+která se zdá, že funguje.
+Co tam máme dál?
+Všechno tohleto běží v klaudu.
+Máme od Microsoftu, od Azure kredity,
+za který děkujeme.
+Tam můžeme pálit spousta procesorových
+od času.
+A vy jste v takovém tom Microsoftím startup
+programu, že vám dávají ty kredity?
+Co už jsme tady, myslím, měli kluky z...
+A oni se teďka přejmenovali, ty z Confirmatic.
+Tak ty mají to podobné.
+Takže stejný program, jo.
+Já si myslím, že to jí říkali,
+že má Microsoft Sponsorship a my máme to samý.
+Jo, OK.
+Takže to používáme a máme to celé navrhnuté
+jako mikroservisy, protože z mnoha důvodů.
+A zejména teda jeden z těch důvodů je,
+že jednak ten jeden náš nejvrchnější
+software architekt říkal,
+z takové epizodické příhody jeho zkušenosti,
+a tak já mu věřím, co mám dělat, že jo.
+Takže říkal, že jako začínali v multirepu,
+kde měli prostě ty servisy, jo.
+A pak teda, že se rozhodli,
+a tak týden do toho monorepa uděláme
+prostě ten monolit.
+No.
+A dva roky to přepisovali a furt to bylo na nic
+a furt to nefungovalo.
+A on říká, že se jako myslí, že tyhle ty monorepa,
+že jsou jenom pro velký společnosti,
+který prostě můžou mít tým na to,
+aby jenom řešili to, že to, aby to fungovalo,
+jo, monorepo.
+Což teda, já jsem byl na stáži v Microsoftu,
+bych se chtěl pochlubit, jo.
+Teda výzkumní laborce, to je třeba říct vždycky.
+A tam jsem teda byl taky donucenej používat
+to jejich šílený monorepo.
+A musím teda říct, že to nebylo vůbec příjemný, jo.
+Takže jednak části moje epizodická příhoda,
+části jeho a došli jsme k tomu,
+že tady uděláme mikroservisy, multirepo
+a na tom teďka jedeme v Azure.
+A specificky jaký služby tam používáte?
+App-servisy, nějaký serverless, nějaký?
+No, vlastně tam používáme zejména Service Bus,
+ve kterém používáme,
+používáme fronty a potom používáme tably,
+které nevím, kde jsou, ve Storage Accountu, ano.
+No a pak ten celý zbytek nám běží v kuberněťoušovi.
+V kuberněťoušovi.
+No.
+A nějaký storky pekelný s kubernetí?
+To já naštěstí nemám, protože my máme ještě jednoho kolegu,
+kterej teda se nám stará o celý tyhle ty kubernetťouše.
+A on je jako velmi, velmi šikovnej a spíš ty příhody jsou jako na jeho straně,
+ale ty jeho příhody jsou typicky jakože třeba kus něčeho,
+třeba my používáme GitLab a ty jeho pipeliny buildovací,
+tak kus těch, nebo vlastně asi všechny ty buildovací pipeliny
+běží u něho doma na serveru, protože, že jo, na tom GitLabu to stojí peníze.
+No.
+A.
+E.
+E.
+Střeba jako nejmilejší příhoda je, že nám to jednou vypadlo, že jo, samozřejmě.
+No a tak jsme jako řešili, co se stalo.
+No a on nám říkal, že on ten počítač má tak jako dole v garáži a že tam přišla kočka,
+která ho nemá ráda a prostě to tam nastříkala a že přímo do větráku je to rozneslo
+po celém tom serveru a takže takhle jsme jako přišli o pipeliny,
+ale jinak asi nic, jako z mý strany rozhodně. Já jsem takovej, že vlastně je to velmi,
+velmi čistá práce.
+Velmi čistá práce s jednou výjimkou, protože v cloudech obecně je velmi drahý počítat
+na grafkách, což já jsem už viděl z nějakých svojich jako předchozích zkušeností,
+tak jsem kluky předvědčil, že si musíme postavit vlastní serverovnu, což jsme teda udělali
+a jako skutečně fyzicky jsme si postavili serverovnu. Vzali jsme prostě vrtačky a koupili
+jsme sádru karton a nehořlavej a tak a postavili jsme si serverovnu, no a v té serverovně
+tam máme nějaký serveríček s nějakýma grafkama, tam já si učím modely, takže jako by bohužel
+se musím starat o to, aby tenhle ten v úvozovkách on-premise nějak jako fungoval,
+abych já si tam mohl učit ty neuronky, ale jinak jako mám velmi čistou práci.
+A zbytek je teda v cloudu.
+Zbytek je v cloudu, no.
+A když mluvíš o čisté práci, je tam taková ta typická startupová bolístka, že stejně si nesete
+nějaký technický dluh, anebo je to opravdu, že jste třeba ochotní ty featurey, tu rychlost
+vydávání pozdržet ve jménu toho, aby ten dluh nenarost, aby jste to napsali správně?
+No, to je jako velká otázka, na kterou vlastně asi úplně neznám odpověď, ale já jsem
+vždycky pro to, aby jsme to dělali čistě a někdy se mi podaří kluky přesvědčit, no,
+ale někdy taky ne. Já si nevím, jak na tom teďka, jako nejsem si jistý, jak na tom teďka
+jsme.
+Spíš si myslím, že to, co nás nejvíc páli, je to, co už jsme zmiňovali, a to je to, že nám
+chybí nějaký user interface pro zákazníky, ale jinak jako technologicky si myslím, že to
+asi jako není nejhorší, že jsme zbytečně se nesnažili prostě něco deployovat, i když bysme
+věděli, že to je třeba architektonicky špatně. Spíš jsme to jako přepsali, nebo jsme to
+vzali a hodili jsme to do knihovny nějaký naší vlastní, aby jsme to zašli sdílet mezi těma
+mikroservisema.
+A nevznikaly nám jako nepříjemný problémy.
+A všechny ty mikroservisy jsou napsaný taky v Pythonu, nebo máte tam nějaký technický mix
+jiný?
+Je to v Pythonu.
+Super.
+A ještě se doptám tady, ty jsi říkal ResNet, bavili jsme se trošku o těch modelech, a
+fungují vám tam přetrénovaný váhy z public datasetu, nebo jak s tímhle pracujete,
+trénujete to from scratch? To může být ještě zajímavý pro posluchače.
+Jo, jo, trénujeme vždycky from scratch, respektive teď už, když třeba dostáváme
+nebo trénovávám, tak používám ty svoje starý nebo starší přetrénovaných sítě,
+ale ty veřejný nepoužíváme, nebo respektive veřejně dostupný. Asi by nevznikal žádný
+jako legální problém, ale já nějak ty věci dát dělám čistě, takže jsem prostě od začátku
+klukům vysvětlil, že to prostě musíme udělat na vlastních datech, a tak jsem to celý
+postavil na vlastní datech.
+Dobrá. Napadá ti Románko ještě nějaký dotaz kolem Vision Pigeon, nebo bys měl
+mohli přeskočit k té práci?
+Já jsem jenom měl ještě otázku týkající se těch dashboardů, jestli vlastně to je věc,
+která, ty jsi říkal, že moc vlastně UI to nemá, ale tohle je věc, která de facto je postavená
+na UI, takže tam máte nějaký React, nebo Angular, nebo v čem to je napsaný.
+Je to, s tímhle nám pomáhal zase ještě jiný kolega, a ten to napsal, myslím, ve Svelte.
+Jo.
+Ale jako tohle se vlastně vůbec neúčastním, jo. Já jenom vím, že tam je nějaký Svelte,
+to čemu se říká frontend, a že to nějak komunikuje s něčím, čemu se říká backend,
+což je ve Flasku, jo. Flask a ten si někde běží, co já vím.
+Ok, ok. Já tohle jsem chtěl doplnit ten stack, abych to měl komplet. Ok.
+Přeskočme na tu tvůj stoprocentní alokaci, která je teda na ČVUT,
+protože tam mě zajímá taky několik věcí. Tak možná první věc, co tam teda vlastně děláš,
+co tam jsou teď nějaký otevřený projekty, na kterých pracuješ. Asi se to točí kolem Computer Vision,
+což jsem vysloval na začátku, ale možná nám prověz víc.
+Je to tak. Ano, možná by to nejzajímavější mohlo být to, na čem jsem vlastně dělal v rámci svý diplomky.
+Na čem všude teďka nedělám, zejména teda i kvůli covidu.
+Hned jak jsem nastupoval na doktorát, tak jsem dělal na, dejme tomu,
+vizuálním počítání srdečních, vizuálním počítání tepů srdce.
+Jo.
+A když má kameru a ta kamera sleduje člověka, vidí jeho obličej, tak je známá věc, že tam dochází jako k lehký změně barvy,
+jak v tom obličeji pulzuje krev, jo, vždycky to lehce zčervená.
+OK, tady na sebe koukáme.
+No, a tohle se jako, to existuje, normálně už to je publikovaný, myslím, že s tím poprvé přišli z MIT.
+A moje úloha, nebo to, jakou jsem si vybral tu úlohu, tak byla zdokonalit to tak, aby se to dalo použít
+na trenažérech. Jo, předtím, když je člověk do posilovny, tak prostě si tam musí vzít něco na prs nebo to,
+což mě to vždycky otravovalo, tak jsem si říkal, třeba by se to někomu hodilo, že prostě tam bude kamerka,
+která bude koukat na jeho obličej a bude mu říkat v váštěpě XYZ.
+Takže s tímhle jsem začal, pak jsme se rozhodli vlastně, že budu trochu pokračovat v tom vývoji
+a že se budeme snažit pomáhat cukrovkářům, protože naše pracovní hypotéza je,
+že z nějaký interakce, dejme tomu jako oka a okolí, by se čistě kamerou dalo uvozovat
+na relativní hladinu cukru v krvi, což by se dalo použít v mnoha use casech
+a ušetřilo by to spousta vpichů jahly do těla. To jsme teda začali,
+i ve spolupráci s endokrinologickým ústavem.
+Bohužel přišel covid, takže teď je to stoplý ty naše experimenty.
+No a tudíž jsem se začal věnovat jiným věcem a ty jiný věci, kterým se venuju teď,
+tak tomu pracovně říkáme, je takový souhrn a je to nějaká jako analýza slabých signálů v obraze.
+No a to jako nejkonkrétnější, co teď dělám je, že třeba člověk dostane obrázek,
+kde jsou nějaký odrazy, třeba když se podíváme z okna,
+tak tam vidíme nějaký odrazy tady z vnitřního prostředí.
+Když jsou rozsvícené světla, tak tam jsou vidět světla.
+No a jedna z těch úloh, na které jsem vlastně pracuje,
+je, že se snažím odmazávat ty odlesky těch oken.
+To jsou typicky velmi izolované reflexe, velmi izolované odlesky,
+takže já se snažím odmazat je, aby nevadily v té fotce.
+Tohle má zase jako mnoho mutací, tahle ta úloha.
+A vlastně se už pohybuju teďka na úrovni inpaintingu.
+Inpainting je, že člověk dostane obrázek, třeba smaže tam kostičku,
+dá místo něčeho, co je na tom obrázku černou barvu,
+nebo tam udělá masku třeba okolo člověka, když se mu tam nelíbí.
+A úloha inpaintingu je, aby to doplnila něčeho, který se mu tam nelíbí.
+A úloha inpaintingu je, aby to doplnila něčeho, který mu vizuálně nevadí.
+A úloha inpaintingu je, aby to doplnila něčeho, který mu vizuálně nevadí.
+Že už nepozná, že tam něco bylo.
+Takže to je to, čem si teďka věnuju aktuálně.
+Takže tam je spousta Computer Vision věcí.
+Je vidět, že se tomu věnuješ dlouhou dobu.
+Co považuješ za největší úspěch Computer Vision,
+když se na to podíváme v globálním měřítku?
+Co bys považoval za největší úspěch?
+Já si myslím, že zajímá na to, že začala fungovat.
+To je velký úspěch.
+Myslím si, že to už začíná pomalu mít
+velký impact v robotice.
+Protože robotika byla do roku 2013 slepá v zásadě.
+Což takový roboti jsou k ničemu,
+který nejsou schopni vnímat prostředí.
+Ale jestli vám říká něco firma například Boston Dynamics...
+Na to jsem se zrovna chtěl zeptat.
+A ty mě děsejí. Kdykoliv vidím další video,
+tak čekám jenom, kdy bude Skynet.
+Je to tak.
+Naštěstí, my o beznámení se situací víme,
+že ty videa jsou vždycky velmi dobře připraveny.
+A že to není tak horké, jak to vypadá.
+Díky bohu.
+Ale je to velmi impresivní,
+když člověk vidí ty humanoidní roboty,
+jak tam jsou schopni pobíhat.
+No ale oni do něj třikrát kopou,
+než on spadne. Říkám, neprovokujte ho,
+takhle začne válka.
+Je to tak?
+No ale to je jako...
+Já očekávám,
+a vlastně je to taky jedna
+z možných dalších věcí,
+které by se případně daly dělat,
+je, že jak stádne
+evropská populace,
+ale i ta medická, dejme tomu,
+zejména evropská,
+tak se objevujou
+potíže, které jsme
+doteď neznali.
+Oni se teda objevují, ale pomaličku už se objevují,
+že prostě bude mnoho starých lidí,
+o kterých
+nebude mít kdo pečovat,
+no a ty prostě budou
+sami doma, nebudou moc nikam
+chodit a pak rychle umřou.
+Takže na tom už se určitě
+pracuje,
+že typu
+Philips se pokouší
+postavit, nebo vstaví
+asistenční roboty, které jsou zase schopný
+nějak jako vnímat prostředí a díky
+Computer Vision budou schopný pomáhat těm
+jako starým lidem.
+Další obrovská aplikace, kterou už jsem
+zmínil a která už teda taky ten svět
+jiná pomalu mění, je autonomní řízení
+v té Tesla.
+Doporučuji se podívat na nějaký
+poslední video, co to už
+umí. Je spousta lidí ve
+Spojených státech, který se živějí tím, že jezdí
+po San Francisco, mají v autě
+kameru a natáčejí,
+co to auto dělá, když.
+A za posledního
+já nevím, rok, je tam vidět
+obrovský posun dopředu.
+Ty auta začínají
+řídit
+už
+líp než lidi. A takový ty
+situace, které nezvládaly, jako že tam je
+úzká mezera ve vedlejším pruhu
+mezi autama a přede mnou je nákladě,
+tak se tam to auto musí zařadit, tak už
+to taky umí. A to je
+jakoby, tam my jsme viděli, že ten postup
+těch pipeline funguje
+a to je podle mě
+jako obrovský game changer v doprave.
+Já jsem hrozný
+fan da toho.
+Tak si zahrajeme trošku na vizionáře.
+Takže, kdy se projedu
+vlastně self-driving,
+jak autem z Mladé Boleslavy do Prahy?
+Z Mladé Boleslavy? Až tam budou
+nakreslený čáry, já ti to řeknu
+kdy, ty vole. Samozřejmě tam mířím.
+No ne, tak
+kdybys byl účastníkem toho beta programu
+Tesly, tak už tam můžeš jezdit.
+Tam jako, to funguje i tady,
+to bude fungovat všude. Já si myslím, že
+tady nebude problém, no.
+A legislativně není žádný problém?
+Úpřímně nevím, jo.
+Já jsem to neskoumal, pač zatím si
+nemám v plánu koupit Teslu.
+Když bych rád, ale zatím to nejde v plánu.
+Mám auto,
+který má radar a má
+teda taky nějaký asistence.
+A když já ty technologie
+trochu znám, jo, trochu vím, jak funguje
+radar a velmi dobře vím, jak funguje
+hlídání v těch pruzích.
+A když se jdu, jako,
+co dělá to moje auto, tak já bych
+ho nenechal řídit na trase
+Molesla v Praha, ale
+tu Teslu rozhodně, jo.
+No, by the way, řešili jsme to
+s Richardem, trošku se to posunulo.
+A v podstatě, když tam máš tu starou paní a to dítě,
+tak to auto, nebo ten algoritmus,
+nebo vůbec ten model, začíná přemýšlet tak,
+jak sníží to
+riziko na minimum, aby se tobě nic nestalo.
+V podstatě, přemýšlí na tím
+z pohledu toho řidiče.
+Jo, jestli jako náraz dítě, to je menší, než náraz
+starého paní, aby ty jsi byl v pohodě.
+To jsem líbí. Což je vlastně
+reálně úplně stejně, jako bys na tím
+přemýšlel tu chvíli ty. No jasně.
+Tak mě raději by opravil, jestli nečet
+něco jiného, ale já jsem to takhle navnímal
+teďka z posledních pár paperů, který jsem čet.
+Já bych to opravil.
+Protože lidský tělo
+je jako hodně nedokonalá věc.
+A
+když člověk chce něco udělat,
+zejména třeba pohnout
+rukou, tak nejrychlejší
+zpráva od
+ruky do mozku
+a zpátky trvá 100 milivteřin.
+Když člověk dělá
+rychlý pohyby, takový ty, že třeba hází
+míček, tak to vůbec nedělá mozek. To dělají
+motor neurony v páteři.
+To jsou prostě naučený pohyby,
+který se odpály a už se nějak udělají.
+Takže je nějaká představa, že by člověk
+jako rozhodoval o tom, když
+jede v autě, jestli se razí babičku nebo dítě.
+To nemá šanci člověk.
+Prostě ten ani nestihne
+otočit rukou, na to, aby nad tím přemýšlel.
+Možná by přemýšlel, ale rozhodně
+nestihne otočit rukou.
+Takže to je ta svalová
+paměť, o které se tak jako legendárně
+mluví.
+Já to ještě trošičku otočím.
+Zajímavý pro každýho
+developera, který poslouchá tenhle podcast,
+může být, jaká je ta tvoje,
+jak je ten tvůj denní chleba.
+Protože je to odlišný od toho
+developerského světa trošku.
+Víc čteš papery, je to víc research.
+Jak vypadá ten tvůj běžnej den,
+když děláš takovýhle řešení?
+Když dělám
+Vision Vision. Třeba.
+Jo.
+Tak typicky
+vstanu ráno třeba v deset
+a sednu. Jo, takhle.
+To je dobrý, dobrý stan. Zastávej si, kolik chceš.
+Někdy v jedená se záleží.
+Ale stanu, až se vyspím.
+No a pak
+takhle. Když dělám na nějakým
+machine learningu,
+tak
+většinou, ještě před tím, než
+si vůbec sednu v počítači, tak
+jen tak sedím třeba někde jinde
+a přemýšlím, jak by to vlastně mělo
+být a proč by to tak mělo být.
+Protože
+u toho, co dělám, je jako
+jedinej nepřítel a to jsem já
+sám. Že tam jako vlastně velmi
+obtížný se udrže v mantinelech
+čistýho myšlení.
+Abych neudělal nějakou jako hrubou
+chybu, která se pak
+jako velmi nepříjemně obrátí proti
+mě, až se to všechno dopočítá
+a zjistím, že to teda tak by nemělo.
+Takže jako si tak nějak přemýšlím, jak by to
+mělo být a když jsem s tím spokojený, tak
+si teda sednu počítači, otevřu si
+PyCharm.
+Typicky já to mám udělaný tak, že
+mám tam nějaký
+automatický deployment z mýho
+lokálního disku na nějakou vzdálenou
+mašinu, kde třeba si nejdřív
+postavím síť, vyskouším
+si, že všechno funguje, udělám si tam
+deset sanity checků, protože
+ty jsou třeba,
+protože ten největší problém jsem já
+sám a zejména to, že
+s těma neuronovýma
+sítěma, ono
+to vždycky funguje, i když je tam chyba,
+vždycky se to něco naučí,
+takže si tam udělám spoustu sanity checků,
+což mě zabere nejvíc času
+a pak teda
+přichází, když mi to nějak
+funguje, tak přichází
+jakoby velká
+příprava dat, což
+v tom setupu, který my děláme
+vlastně není, tam
+přichází jakoby výroba nějakýho
+dejme tomu ty pipeliny,
+která může být různá, ale většinou
+obsahuje nějaký anotační
+tool, který si člověk musí jako
+napsat, buď když si to anotuje sám,
+když má nějaký výzkumnej projekt
+ve škole, nebo
+mu to třeba někdo anotuje, my máme
+anotační tool a máme anotátory,
+takže součástí těch
+našich pipeline jsou prostě živý anotátory
+a proto jsme museli vytvořit tool, takže
+tam dejme tomu půlka
+práce je příprava
+datasetu spojená, no
+spíš to víc, spíš tři čtvrtě
+práce je příprava datasetu
+spojená s
+anotačníma toolama,
+pak je nějakých 10% přemýšlení
+a pak je nějakých 15%
+nějakého piecharmování.
+Jasně. Čili, když to srovnáš s tím
+klasickým developmentem, tak je tam jako zásadní
+rozdíl v tom, že
+vidím tady kolegy, mají furt otevřený
+nějaký paper, s kterým to nějak porovnávají,
+pracují s tím tímhle způsobem, pak přesně
+anotují data, to znamená hledají tu
+pravdu a tu pravdu prostě
+srovnávají s tou svojí neuronkou.
+Máš pocit, že se to bude jako posouvat
+tím směrem k tomu developmentu
+tím, jak bude víc věcí známejch
+a bude to takový jako víc, nechci říct
+stereotypní, ale bude to mít jasnější
+proces, jak vlastně ten člověk pracuje.
+Včera dneska je to hodně research, že jo.
+Když Románek dostane produkt nebo projekt,
+který má dělat, tak už prostě
+máš nějaký mechanismus, jak jedeš, že jo.
+A není to tak, že by si řekl, teďka otevřu tady
+nějaký jako best practice nějakého
+jiného projektu, podle kterého bych jel.
+Mně přijde celý ten cyklus, jak to Radim popisoval,
+strašně dlouhej. Jako od vlastně
+toho nápadu, potom
+vlastně první nějaký debugging, tak to,
+co si popsal, to jsou desítky minut
+a přijde mi ten první
+feedback, jestli jdu správným směrem, nebo ne.
+Jako hrozně pozdě, z mýho
+developerskýho pohledu, který
+není v tomhle stunkovaný.
+Ne, tak ano, tam
+opravdu záleží na tom, co člověk
+asi chce dělat, protože samozřejmě
+oni jsou jako předpřipravený
+sítě, například,
+který člověk
+prostě může použít a
+už to nějak funguje a něco to dělá.
+Tak ten feedback
+je velmi rychlý, já jsem to viděl i v tom
+Microsoftu na té stáži, že oni vlastně,
+když dostali nějaké zadání,
+tak teda
+vzali si paper a ty papery mají
+typicky nějaký
+gearhubový nebo gearhubový repo,
+stáhli si ten kód,
+spustili to, což bylo
+v rámci teda spíš jako hodin
+a jak jsme to spustili,
+vyskoušeli na tom ty svoje data,
+tak věděli jako zhruba,
+jestli to funguje nebo ne. Takže jako
+pokud
+člověku nevadí, že jde tady
+nějakou cestou jako předpřipravenou,
+tak samozřejmě
+to může být i docela rychlý,
+když se
+vždycky rozhoduju já, tak já
+jsem rád prostě v těch věcech
+hrabu dole a vím
+rád, co tam je, jak to funguje
+takže mě to vlastně zabírá
+trochu díl, ale zase pak
+jsem schopnej to jako precizně ladit,
+třeba když se mi tam děje něco, co se
+mi nelíbí. Takže tam
+asi záleží prostě, já spíš
+nejsem jako computer vision
+inženýr, protože právě ten
+computer vision inženýr spíš postupuje tu cestou,
+že prostě vezme, co je hotovýho,
+vyskouší to, funguje, nefunguje a jde dál.
+Tak to já spíš nedělám.
+Možná je to blbě.
+Kdo ví.
+Je to
+spousta cest, které
+ke správnému řešení, co se data science týče.
+Ale ještě mě napadá,
+kdyby teďka si začínal
+jako data scientist a
+určitě nás poslouchají lidi, kteří s tím začít chtějí,
+nebo je to zajímá, co bys jim doporučil?
+Jaký stack, jak začít, co si přečíst,
+jaký videa sledovat?
+Jo, já bych rozhodně
+zvolil
+studium.
+Jsme zase u toho. To je to jak s Richardem.
+Jak to říkal Richard?
+Doktorát z matematiky
+neuškodí nebo něco takového?
+Je to tak, je to tak.
+Tam zase záleží hrozně
+na tom, co člověk chce dělat.
+Když
+jako člověka baví
+dělat věci, které už fungují,
+vlastně, těší to v ostatní
+a tak, tak ten inženýr
+je skvělá cesta.
+Je tam třeba nějaký studium, aby
+člověk viděl, co se děje.
+Ale
+bohužel teda vlastně, bohužel
+v machine learningu je třeba vždycky to studium.
+Protože
+u nás
+na škole, na kterou teda bych rád
+zase upozornil, že to je velmi dobrá
+škola, zejména teda OIčko,
+že to je velmi, velmi dobrý program.
+Tak. Co je OIčko?
+Otevřená informatika, což je program
+na felu, bakalářský a pak teda
+i inženýrský.
+Tak tam vyučujeme
+jednak teda samozřejmě
+matematiku, což je základ.
+A pak jako velmi,
+velmi sehodící
+předmět optimalizace,
+který se přesně použije
+jako v různým machine learningu,
+nejenom v tom
+s neuronovýma sítěma.
+A máme tam samozřejmě
+i specializovaný předměty na neuronový sítě
+a ten klasický machine learning,
+zejména teda
+další předmět, který se jmenuje rozpoznávání
+a strojové učení.
+Tam to se toho přímo čiší.
+No a tam, když si
+tohleto člověk vystuduje,
+tak v zásadě
+může jít do
+libovolný firmy nastoupit jako
+machine learning inženýr.
+Když by člověk jako to nechtěl
+studovat celý, tak bych doporučil
+využít institutu
+celoživotního vzdělávání,
+což je věc, která se hodí
+a umožňuje člověku, který nestuduje
+univerzitu, si zapsat třeba jenom
+jeden předmět, jo, a zejména
+bych teda zvolil RPZ a optimalizaci.
+A tam se jako dozví
+jenom ten jeden předmět.
+Ale...
+Nechybí ti pak souvislosti nějaký,
+když seš jenom v tom jednom předmětu?
+No, já...
+No, to je nepříjemná otázka.
+Samozřejmě, že chybějí, ale ten člověk si to uvědomí
+a pak si nastudujejí ty ostatní, že?
+Door opener pro
+tu samou věc, co jsi popisoval.
+No, no, takže, ne, tak to jako je.
+A vlastně jsem skeptický
+k tomu, že by člověk
+mohl být jako
+schopnej
+inženýr, když si
+neprojde tím klasickým
+vzděláním, že jako je samozřejmě spousta
+kurzů a všeho a člověk si třeba
+naimplementuje
+zpětnou propagaci
+všechny ty
+jako metody
+a pochopí, jak to funguje,
+ale jako nemá tu širší znalost
+a i když je pravdou, že zrovna
+teda ty neuronové sítě jsou hodně
+o těch jako
+příhodách, jo, o tom, co zrovna funguje
+a co ten říká, že funguje
+a nefunguje, tak furt je tam,
+jako spousta základů, které je třeba znát
+z obecnějšího, jako strojovýho
+učení, jo. Takže
+já bych doporučil
+studium, jo. A pak samozřejmě
+ve studiu, tam je jasný, když už studuju,
+tak
+na ty neuronové
+sítě
+PyCharm, jo, a PyTorch
+a na tu
+Lingebru Matlab, no.
+Ale ono teďka už se to i v tom
+i v tom PyTorchu
+nějak dá, ale není to nic moc.
+A nějaká třeba knížka, která ti
+teďka otevřela mysl?
+Těch je moc, těch je moc.
+A já bych začal
+teda panem Strengem
+Introduction to Linear Algebra.
+Tam se člověk
+jako naučí používat
+lineární algebru, nebo teda maticovou,
+která je
+super důležitá, jo,
+ve mnoha ohledech. No a pak
+může pokračovat jako libovolně,
+ale ty machine learningový věci,
+třeba je velmi dobrá
+kniha od Moriho.
+Teď jsem zapomněl, jak se jmenuje, něco, něco
+machine learning, asi Introduction to Machine Learning.
+A tu bych
+nechal až jako nakonec, jo,
+protože ještě před tím, než se tam dojde,
+tak si vlastně člověk musí pořád,
+měl by pochopit nějakou
+statistiku, jo, aby pochopil
+statistiku, jak funguje statistika, jak potřebuje
+pravděpodobnost. Aby pochopil pravděpodobnost,
+tak potřebuje, no. Takže
+jakoby doporučuji to prostě vystudovat.
+Já hrozně přemýšlím nad tím,
+jak vidím, jak ta poputávka
+po těch data scientistech
+roste a jaký jsou
+požadavky, který tady popisuješ na ty lidi.
+A jako je klíčem nějaká
+jako automatizace
+částečná, tak aby to mohly dělat lidi,
+který prostě nebudou
+takhle vystudovaný, nebudou mít za sebou tolik
+věcí, že to bude jako zjednodušení
+pro ty lidi, který na tom chtějí dělat.
+Protože já vlastně nevidím jinou cestu, jo, jako když
+vidím, kolik těch dat kolem nás
+je a jak to prostě bude v dalších letech,
+tak jak s tím?
+No,
+jako ať každý dělá, co je mu milý,
+jo, ale já
+jsem přesvědčený, že když
+nějaký, jako
+když kdokoliv začne
+používat něco, čemu nerozumí,
+tak z toho nic dobrýho nevznikne.
+Jo, jako
+pak objevují se jako hrozný
+chyby, jo, že ty lidi prostě něco
+si myslejí, že takhle to funguje, naklikají
+si to, oni z toho něco vzají,
+všichni
+jsou šťastný, no a pak to má
+jako daleko sáhlý
+nepříjemný důsledky. Takže
+jako tak říkám, jo, je prostě
+hodně úrovní, asi si myslím, že záleží
+na úrovni, co člověk jako potřebuje.
+Spíš bych věřil tomu,
+že ty lidi nebudou třeba vůbec,
+než že budou třeba špatně kvalifikovaný.
+Jo, že si myslím, že ta technologie
+více méně
+v rámci desetiletí
+má potenci
+jako spoustu těch
+málo kvalifikovaných
+pozic nahradit.
+Já přemýšlím, jestli není do budoucna
+cesta to, že vlastně tyhle z ty lidi,
+jako je Radim, jako je Richard,
+v podstatě vymyslejí
+nějakou managovanou službu, kterou pak
+ty lidi, kteří jsou o x levelu
+níž, jako jsme my, už použijou a v podstatě
+ji zkomponujou s nějakýma jinejma,
+ale na takový ten jako exploratory
+způsob na to, že teprve musím objevit,
+že tohle jde a že tuhle službu
+lze poskytovat, podle mě se tomu jinak
+nevyhneš, než tím, že tomu jsou i lidi, kteří
+vědějí, co dělají, čtou papery,
+jsou nastudovaný. Protože když to pak dostanu
+na cloudu jako službu, která rozpozná něco
+z obrázku, jestli je to zase
+pudlík nebo koláč, nebo z tweetu,
+jestli jsem naštvaný nebo ne, tak
+to už je v podstatě craftmanship,
+to už jako skládáš do sebe, že jo, ty služby.
+Tam už to je vyřešený,
+ale vždycky musí někdo ten problém
+vyřešit poprvé, že jo, takže tam asi.
+No já jsem jako mířil spíš tam,
+taky dneska už jako programujete
+trošku jinak, než se programovalo před deseti, patnácti
+lety, čiže jako některý ty věci,
+je jako už dneska neotevřeš, já nevím, assembler nebo něco.
+No jasně, tak jdeme vejši, že jo, čím dátě.
+No, no, no, no, tak jako touhle cestou jsem myslel,
+jestli se to nebude v podstatě, no,
+zjednodušovat je asi hloupý slovo, jo, ale
+jako rozumíte, co ti myslím. No jasně, ale
+to je furt, když vejši proto, protože třeba
+v tom našem levelu je tam Don Symes
+z Microsoft Research, který na úrovni
+kompileru vyřešil problémy, které už ty řešit
+nemusíš, v podstatě máš
+volný ruce, ale kdyby to před tebou
+neudělal, tak nemáš ty možnosti, takže
+jako do budoucna si myslím, že na takových
+lidech vlastně ano, my, co nemáme
+ty maskový kapacity tohle udělat sami,
+tak budeme muset stavět, jako to
+půjde podle mě i s tím programováním, jako
+obecně, jako obor, půjde dál
+a vejš, budeš tím dál tím víc abstrahovaný
+o to, že to běží na nějakým stroji,
+že tam je nějaký fonem, nebo schéma, to už
+tě vůbec nebude zajímat, to už tě nezajímá teď,
+ale myslím si, že to půjde ještě vejš.
+Tak možná, co myslíš, ředíme u
+machine learningu, je tohle
+do budoucna ta cesta, jak to vlastně strčit
+těm masám, nebo?
+Jakoby já už jsem
+jednou řekl ne, ale teď, když
+vás poslouchám, tak si říkám, jestli
+možná jsem se nezmílil,
+což je jako klidně možný, jo, tam
+rozhodně to už teďka fungujou
+služby, například
+od Google, ale i ten Amazon to má,
+že tam pošlu obrázek a ono mi to něco
+udělá, jo. No,
+já jenom říkám, že jako
+to funguje, na nějakým prostě
+funguje to,
+až na to, že člověk musí znát
+jakoby limity toho řešení. Jasně.
+A ty, když jako nemá žádný
+background, tak není schopnej si je
+uvědomit. A pak prostě
+aplikuje někde něco, co
+jako vlastně neměl, jo. Jo, rozumím.
+Takže to je to, co říkám. A
+samozřejmě je otázka, jak
+na tohle uvědomění musí být kvalifikovaný,
+takže možná, že máte pravdu.
+Radíme,
+blížíme se k závěru. A takže
+bych se chtěl zeptat, tak jako už řekl bych
+tradičně, co ty osobně,
+zažil jsi toho spousta, co osobně
+považuješ za svůj největší úspěch
+do sávědní kariéře?
+To je velmi složitá otázka.
+A já
+zatím za svůj
+největší kariérní úspěch
+považu to, že
+můžu studovat
+pod panem profesorem Matasem.
+To je jakoby kariérně
+nejvíc a
+z toho jako všechno plyne.
+Protože jedna věc,
+pro kterou jsem se
+rozhodl už dávno, je, že
+vlastně bych byl rád,
+aby jsem
+vždycky byl
+pod někým, abych pracoval s někým
+nebo studoval s někým,
+kdo je mnohem chycejší než já.
+Abych se měl co naučit.
+Jakoby ve chvíli, když bych
+cítil, že jsem tam ten nejvejš,
+tak už by se mi to nelíbilo a prostě
+chtěl bych změnit místo. Nebo aspoň,
+když už náhodou by se někdy stalo,
+že bych se dostal na podobnou úroveň
+jako ty okolo mě, tak bych tam chtěl zůstat,
+aby jsme prostě měli možnost
+se furt nějak posouvat dál.
+Takže za mě to je momentálně
+teda rozhodně
+moje doktorský studium
+a pak se uvidí, co se stane.
+A z těch aplikací, čeho si vážíš nejvíc?
+Já mám pocit, že se točíš dost často kolem
+healthcare. Je to něco,
+co je takový tvoje téma
+nebo je to něco jiného?
+Jo, já bych rád
+u toho zdravotnictví byl,
+ale říkám, na mě to je jako problematické.
+Já mám ještě trochu výhodu, že já si rád
+bastlím. A teď si teda
+už moc nebastlím, protože
+neděláme ty
+neděláme ty
+tu healthcare, ale
+vlastně hodně
+se teď hrabu softwaru
+a je to teda mimo jiné
+i tím, že člověk, když se něco vždycky bastlí,
+tak to prostě se žede
+jako kvanta času šílený.
+Což zase na druhou stranu
+si nemůžu dovolit, pokud
+chci, aby ten můj doktorát nějak
+pokračoval. Že když se člověk
+podívá, jak to teďka
+funguje v té akademii, tak
+ten dřív,
+než se na něco přišlo,
+než se něco vyzkoušelo, tak to prostě trvalo
+šíleně dlouho, vždycky minimálně
+jeden rok, nějaká
+velká otočka. A teď
+se prostě objevují články,
+každý den jich sto na archivu,
+což je takový veřejný web, kde se
+uveřejňují ještě
+nepublikovaný články.
+No a vzhledem
+k propojení světa
+a grafkám,
+tak
+ta rychlost toho vývoje
+je prostě obrovská.
+Takže já když teďka bych něco rok
+si někde bastlil a napsal jeden článek,
+tak prostě na tom budu mnohem hůř,
+než ten čínskej student, který za
+tu dobu udělal, nevím, třeba tři nebo čtyři
+papery, protože protočil
+100 tisíc hodin
+na grafkách.
+Máš pocit, že to je jako
+lepší strávení času
+nebo prostě tím, že jsi vlastně
+trošku nucenej tím okolím dělat
+máš pocit, že to je pořád
+při nějakým dodržení kvality,
+se kterou jsi spokojnej?
+Já se tomu bráním právě.
+To se člověk zjistí jednoduše, když se podívá
+na Google Scholar, jak to má z publikace.
+Takže já se tomu bráním.
+Já právě velmi nerad dělám
+tyhle ty, já nechci
+urážet čínský studenty, ale prostě
+většina těch jejich prací je, že
+vezmou ResNet,
+ResNext, na to
+napoje nějaký už hotový
+další sítě a celý to
+projedou
+s nějakýma vygenerovanýma
+datama, který ještě někdo nikdy negeneroval
+a jihle jsou o 0,5%
+lepší na nějakém
+datasetu. Což jako
+je fajn, že je dobrý se
+posouvat po těch malých krocích
+a akorát já se
+radši prostě soustředím na nějaký
+hlubší myšlenky,
+kterých je jako pomálu,
+který by třeba pomohli
+jak posunout celý odvětví
+jako dál ve všech směrech,
+ne třeba jenom na jednom datasetu.
+A to teda
+hodně dlouho trvá,
+alespoň teda z osobní zkušenosti
+a taky se to teda musí povízt.
+Ono v našem,
+u nás
+v té laborce,
+tak
+ze zákona
+délka doktorského studia
+je maximálně 7 let
+a my máme
+median délky doktorského studia
+u nás v laborce 7 let.
+Takže jako u nás se prostě nepospíchá.
+A já
+zase děkuju,
+panu profesorovi, že mě jako netlačí,
+abych prostě dělal tyhle ty rychlý články
+a že mě nechá
+přemýšlet si nad těma
+nějako těžkýma, zajímavýma věcma.
+No to zase, proč bys pospíchal, když
+jednak se ti tam líbí, jsi tam s někým,
+ke komu vzlížíš, kdo tě posouvá dál,
+tak to bys byl blbej, abys jistou odbyl za 4 roky
+a nazdar hotovo 20.
+Úplně jsem myslel na to samý.
+Jakože není důvod nikam spěchat, pokud je to
+někdo, takováhle ikona, ke který
+ty vzlížíš a má tě co naučit, no, to rozhodně.
+No a...
+A nějakej průšvih, neopak?
+No mnoho.
+Jako právě
+říkám tam problém toho
+machine learningu je, nebo těch neuronových sítí,
+že to prostě funguje vždycky.
+Vždycky to něco vrátí.
+Vždycky to něco vrátí, takže já jsem se
+už jako vytrénoval si myslím dostatečně
+na to, abych byl velmi
+opatrnej, abych si prostě desetkrát
+to překontroloval, že to mám dobře,
+protože se mi prostě mnohokrát stalo,
+že jsem na něčem dělal, třeba čtyři
+dny, pak jsem to teda pustil,
+byl jsem nadšený z těch výsledků,
+už jsem to chtěl jí odprezentovat, tak říkám si
+ještě jednou si to zkontroluji a bylo
+to tam, že jo, takže jsem to znova
+musel. Ale tak daleko, že třeba by jsi
+uříct posturu, že bys šel dál než
+z tý laboratoře, protože samozřejmě v rámci toho
+safe prostředí, tak to je i u nás,
+kolikrát se člověk vysměje sám sobě, ještě to
+pozdílí, jaký byl blbec, ale
+druhá věc je, kdybych měl jít se zákazníkem a tam
+mu to ukazovat, to už je jiný level, takže nic, takhle
+daleko to nedošlo. Tak to je dobrý,
+to je v pohodě.
+To je v pohodě, no to je zase vždycky jako hezký, jak
+vlastně to zadání vlastně u toho
+klasického developmentu jasný, že jo, to tlačítko
+má být zelený a má být vpravo nahoře
+a víš přesně, že jsi to dokázal nebo ne,
+to vlastně v rámci
+těch neuronek je
+trošku jiný zadání a vlastně jiný proces.
+Jo, tam jako jediný, čeho
+je mi vždycky hrozně líto, tak jsou lední
+medvědi, že jo, protože vlastně člověk pálí
+takovýho proudu, když počítá
+na těch grafkách a když si,
+to už si, i proto si teď dávám bacha,
+že my už opravdu máme velmi
+silný stroje teďka na
+felu a když to člověk
+jako se mu to nepodaří a rozjede
+to na všech strojích, tak prostě umírají
+lední medvědi a já nechci, aby umírali.
+Rozumím, rozumím. Takže to bys
+myslel dělat něco jiného, ale utýct do lesu
+třeba, tam štípat dříví.
+Ne, tak aspoň, abych umíral co nejmíň.
+Jo, ok, ok, dobře.
+Každopádně bitcoiny tam netěžejí
+asi, nevolím se s tímhle přístupem.
+Nevypadá to. No a tak ta poslední
+otázka je, co plánuješ ty osobně
+a na co se můžeme těšit v tým pojetí,
+tak vypadá to teda, že víc
+ledních medvědů přežije, ale co to bude dál?
+Je to tak.
+V zásadě zase záchrana planety,
+to je jako populární.
+Ale ne, tak já bych
+rád nakonec nějak ten
+svůj doktorát dodělal a bylo
+by skvělý, kdyby jsme
+v rámci toho mýho doktorátu vymysleli nějaký
+technologie, které by jako
+pomáhali lidem víc, než že by jim třeba
+ulehčovali nakupování.
+Že to je jako, už
+podle mě úctyhodný zásluh,
+úctyhodný, nějaký prostě
+doporučování toho, co člověk
+by hledal nějakýma hloupýma
+tributama půl dne, tak to tam prostě uvidí hned.
+A ten cíl
+nějakej další je
+jako, jsou
+dva takový, který mě vlastně
+celkem zajímá. První je
+ten medical a druhej je ten
+jako vlastně jako armádní.
+Což vlastně nemá teďka
+souvislost s ničím, co se děje. Já tohle
+to říkám už hodně dlouho. A mě
+totiž vadí, když je
+lidem ubližováno, ani si to nezaslouží.
+Takže jakoby
+existuje výzkum,
+mnoho výzkumu na
+kvadroptéry. Teď jsou
+ty populární, ty autonomní
+malý letadýlka, jo. Ale
+už se dělá na kvadroptérách,
+který lítají velmi rychle, třeba
+50-60 km v hodině.
+Jsou v zásadě autonomní
+a prostě dělají spoustu věcí, jo.
+Takže mě by třeba zajímalo,
+možná, že to k tomu dojde,
+dělat na nějakých
+obranných kvadroptérách,
+anebo obranných systémech proti těhletě
+nepříjemným
+hrozbám, které přicházejí
+z technologií, se kterou vlastně mám
+jako co
+dočinění, no. Tam
+samozřejmě těch věcí je hrozně moc,
+kam člověk může
+zaměřit svoji pozornost, ale
+říkám, jakoby buď lidem
+pomáhat z něčeho,
+vždycky je to nějaké pomáhání lidem
+a buď je to,
+aby jim nebylo ublíženo, anebo
+když už jim ublíženo je tak, aby
+na tom byly líp.
+Tak to je úctyhodnej,
+pěkný plán, tak budeme ti přát
+teď, ať se tímto směrem vydáš,
+ať se to podaří.
+Byť je to samozřejmě ambiciozně, ale že toho stále...
+Jo, díky, ono to hlavně nezávisí
+vůbec na mě, že jo. To je další věc, kterou jsem
+se naučil, že
+napravdě podobno,
+že se věci poskládá, jak se poskládá,
+je téměř nula, takže
+uvidíme, co se stane a budu věřit,
+že zrovna se potkám
+se správnýma lidma, ty zrovna
+budou potřebovat správné věci a všechno
+dobře dopadne. Ale jedno za čas se to vždycky poskládá.
+Jedno za čas se to stane.
+Byť to statisticky není pravděpodobný,
+stává se to. A my ti to budeme přát.
+Doufujeme, že za mýho života.
+Tak jo, hele, moc díky, že jsi
+mezi nás dorazil a
+no ať se daří. Já ti budu držet
+všech deset nebo dvacet palců,
+dvacet prstů, aby
+se to podařilo a aby
+tady bylo líp. Moc díky.
+Ať se daří, Radim, měj se krásně.
+Taky díky, taky se mějte krásně.
+Tak tohle byl taky pěkný
+dípeček s Radimem. Jak se ti to líbilo,
+Románko? Já to neumím úplně posoudit.
+Jak to pro tebe bylo díp?
+Já se spíš těším,
+co na to řekne naše věrná posluchačka Kačka,
+která vždycky píše,
+nevím jestli to je nějaký eufemismus k jejímu
+osobnímu životu, že to chce vždycky hodně díp.
+Tak
+co řekne tady na tu desetiminutovku,
+kdy já jsem tady jen tak
+tiše kýval, tvářil jsem se,
+že rozumím tomu, co mi Radim
+říká. Myslím si, že to bylo
+asi dost díp i na ní.
+Ale přišlo mi, že Radim
+některé ty věci vysvětoval
+velmi prakticky a i pro takového
+AI pitomce, jako jsem já,
+tak jsem byl schopný některé koncepty pochytit
+a přišlo mi to strašně zajímavé, třeba ta fáze,
+kdy mluvil
+o tom skenování
+barvy v obliče,
+aby zjistil, jestli se ti to srdce
+roztahuje nebo smršťuje
+nebo i ty další věci.
+Prostě to je ta celá
+množina věcí, které
+se s tím dají udělat a je to
+úplně geniální obor. Bohužel já na to
+nemám bůňky, ale
+být takhle naskilovaný matematicky,
+matematicko-statisticky
+jako Radim, tak asi se dokážu představit,
+že to je obor, který by mě bavil.
+Jo, já si myslím, že i Kačka si přijde
+na svý, pak jsme se dostali k těm praktickým věcem,
+který právě popisuješ a ty mi přišly úplně
+super. Zároveň tam
+padlo to, co já jsem chtěl,
+aby tam byla taková ta každodenní
+činnost, rutina, která prostě
+obsahuje tu práci toho
+machine learning specialisty. Takže já jsem
+spokojený. No, ty jsi vlastně odběhl
+na záchod a my jsme se s Radimem ještě chvilku bavili
+mimo záznam a bylo
+hrozně hezký, mluvil o tom, jak
+ti dokáže v historii, nebo
+v tvým životě, jak ti dokáže
+buď přibrzdit, nebo naopak akcelerovat
+to, jakýho máš učitele na matiku.
+Tak jsem si tak postěžoval historicky
+na svoji cestu s matematikou
+už od základky
+a on říkal, že je úplně
+skvělý, když ti někdo v tomhle
+tom pomůže, proto ono vzlíží k tomu svýmu
+profesorovi, že pak docházíš k jim
+prozřením, že jedna věc je třeba naučit se
+ty vzorečky na střední škole,
+na výšce, ale pak vlastně pochopit
+ty matematické souvislosti, že najednou
+ti to jako docvakne
+a ty už nevidíš ten vzoreček, ale vidíš
+zatím tu zákonitost, že vlastně
+z toho naučení se, seš
+u pochopení. A bylo to
+hrozně, jsme si krásně pokeceli, bylo to super.
+Jako opravdu paráda.
+No každopádně přátelé, budeme rádi, když nám dáte feedback
+na tenhle díl, jak se vám líbil
+a pokud by se vám líbil, tak bysme
+určitě u Machine Learningu zůstali i v dalších
+epizodách či sériích a
+jeli bysme dál.
+Hele, tomu se stejně nevyhneme. Když ty jsi
+takovej fanoušek do tohoto, jako to bych ti nemohl
+udělat, že bych řekl, ne, už mi sem nikoho neboť.
+Jsi hodnej. Ne, bylo to super.
+Já ti děkuju a máš pochvalu
+za skvělýho hosta. Já díky
+a jak říkám, doufám, že se to
+byl líbit i vám a vidíme se,
+slyšíme se zase za čtrnáct dní. No snad jo,
+tak jo. Mějte se krásně. Čau.
+Čau.

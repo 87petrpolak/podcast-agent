@@ -1,0 +1,1164 @@
+Pod, pod sasem.
+Pod, pod sasem.
+Pod, pod sasem.
+Krásný den, milí posluchači, je tady další díl vašeho oblíbeného IT podcastu Pod, pod sasem.
+Opět tu s vámi sedí, kdo jiný než usměvají heboučky krásně dneska, oholený Petr Polák.
+A Roman Joker provazník, ty jsi si všimnul, no geniální Roman.
+No koukám na to, ty jsi jak úplně jak dětskou prdelku to máš.
+Já jsem to měl pár měsíců zpátky tak, že jsem neoholen, zůstalo já nevím tři týdny.
+Jo.
+Což jako roste jako dva chlupy vlevo a tři vpravo.
+No já jsem si toho nevím.
+A právě, právě, že pak už to bylo dokonce vidět a Lukáš Marek, který tady sedí se mnou,
+tak mi říká, hele, všechno doma dobrý? Já říkám, proč?
+On říká, ty teďka vypadáš přesně, jak má vypadat herec, když ho chtějí ukázat ztrápenýho,
+rozvádí se, tak takhle přesně vypadáš těma vousama.
+Jo, no tak vidíš, tak dobrý, takže teď si zase v pořádku, všechno je tak, jak má být.
+Říkám dobrý, dobrý, už jsem oholen a zase všechno je ve formě.
+Tak fajn, no tak jak ses měl od minule?
+Od minule? Přemýšlím, no hele, dobrý, já si myslím, že...
+Přemýšlím, co se stalo, tak se toho stalo strašně moc, jo.
+No právě, právě, jako nevím, co bych vypíchnul, jo, tak jako nějakej sportík byl.
+Hele, včera jsem byl běhat, vyběhl jsem si na hrad, protože se už připravu na Vltavaran, jako...
+Nevíš, jo, jako, co si budem povídat.
+Dobře, takže vyběhl jsi na hrad.
+Vyběhl jsem na hrad a jako v domění, že samozřejmě tam nikdo nebude, takže jako všichni turisti si mě fotili,
+jak jsem měl jazyk na vestě, fantastický, ale v životě jsem si neuvědomoval, jak je to tam opravdu hodně do kopce,
+takže jako já se považuji za takovýho, jako že docela běhám, tak jsem normálně šel chvilku pěšky, člověče.
+No tak vidíš, no to je smutný příběh.
+No já jsem tomu sportu tradičně moc nedal, ale pohli jsme dál v organizaci naší dotnetí akce,
+kterou chystáme v Hradci Králové, což mimochodem pro nás bude, pro nás jako pro nás dva,
+bude nádherný důvod, proč tam jet a proč se podívat i na naší lokální pobočku.
+Co se dá dělat, je to nutný?
+Je to nutný, jmenuje se to Dotnet na Lejvárna, zní to krásně, je to 2. května o 4 hodin v knihovosti,
+hodinovně v Hradci Králové, myslím, že to je akademická knihovna, nebo jak se říká, research library.
+To je prdějo.
+Zkumná knihovna.
+Asi.
+No to má, no má to takovýhle nějaký divný název.
+Každopádně se můžete těšit na 4 výborný dotnetí dolky, bude tam Kubernetes, budou tam Azure Container Apps,
+budou tam microservices a bude tam i něco, co se týče škálovatelnosti, o tom, jak spadly servery díky špatný performance atd.
+Takže myslím si, že to opravdu je akce, na kterou...
+se vyplatí zajít, bude to zdarma a budeme tam mít spoustu ještě dobrýho občerstvení, že jo, chlebíčky atd.
+Takže milí posluchači, pokud vás to zaujalo, mrkněte se na meetup.com, lomeno nalejvárna, takhle jak to slyšíte,
+nalejvárna je to samozřejmě informační, nebude se tam chlastát, jo.
+Jenom aby se vědělo.
+Ale bude to dobrý, takže doražte.
+Super, jak říká můj kamarád, chlebíčky prodávají, takže já si myslím, že jsi pár živých duší teďka získal.
+Já doufám.
+No tak jo, tak jdeme na dnešní díl. Dnešní díl bude opět velmi speciální, protože přijde velmi speciální host a já ještě neřeknu proč.
+Protože tu naši historii, kterou já s tím hostem mám, tak chci probrat živě, chci, aby byl překvapen, abych viděl i tvojí překvapenou tvář.
+Nicméně už teďka můžu říct, že to je cloužervý vojář a řekl bych unfunterrible českého twitteru, ale šroubíček.
+Nemůžu se dočkat, protože pochopil jsem, že...
+Takže se neuvidíte poprvý, takže na to se těším a zároveň samozřejmě funkcionální programování, to bude zase taková ta tvoje kuchýňka.
+No já už se těším.
+Tak jsem zajedovej, co se rozvím.
+Tak jdeme na to.
+Do studia už k nám dorazil náš dnešní host, Aleš Radauš-Roubíček. Čau Aleši.
+Na zdárom čo.
+Čau Aleši.
+Čau. Já jsem tak rád, že tě vidím. Jak dlouho jsme se neviděli fyzicky?
+Fyzicky.
+To bylo tenkrát před Edenem, ne?
+Takhle nás přijeli policajti.
+Tak to mě zajímá.
+Ne, ne, ne.
+To není zase tak dlouho.
+No, to je, ne, určitě 4-5 let jsme se neviděli, podle mě.
+3-4.
+No, možná 3-4.
+Jo, počkej, když jsi tam nebyl, to bylo s Činčurákem.
+No, právě, právě, ano, ano, to bylo s Jirkou Činčurou. To jsou takový ty reference na komu.
+Ty jsi tam měl být a nebyl jsi.
+Já jsem tam právě záměrně nešel, protože jsem viděl, jak to skončí.
+Takže jo, takže fyzicky jsme se neviděli.
+To bylo na Lambdapu.
+Po Lambdapu.
+Jo, ano, a viděli jsme se, ano, přesně tak, na Lambdapu.
+No, já musím říct na začátek, Aleš Rubíček, já si myslím, že posluchači už ho znají,
+protože pokud znají český vývojářský Twitter, tak v podstatě je to člověk,
+kterýho 100% už o něm slyšeli, člověk s vyhraněnými, leč velmi zajímavými názory
+a taky člověk s poměrně dlouhou vývojářskou historií, takže to, co tvrdí,
+není jen tak, že by si to vycucal z prstu, ale většinou je to podložený tím,
+že už si ničím prošel. A já hned na začátek musím říct jednu věc,
+já jsem to už sliboval, my máme s Alešem určitou historii a vlastně musím říct,
+že Aleš je jeden z lidí, který stáli u toho, že já jsem se začal vědět ve F-sharpu.
+Hezký.
+Protože my jsme, a to už je teda opravdu, ale ano.
+Děkujeme Aleši.
+Český korporaci, můžeme říct, nebo byli jsme nasazeni do korporace
+a Aleš tenkrát říkal, hele, píchneme tam RX, píchneme tam reaktivní extenze.
+Já jsem říkal, vůbec jsem nevěděl, o co jde, říkám, klidně.
+No a pak pomalinku, jak mě do toho začal namáčet ten čumáček do toho jiného myšlení,
+tak pak nějak někde padlo F-sharp, tak já jsem se na to kouk
+a od té doby už jsem odešel od OOP a od C-sharpa a těchto věcí
+a vrhnul jsem se jiným směrem.
+Ale musíme říct nahlas, že to byl vlastně Aleš Roubíček,
+ta první jiskra toho, kdy Roman Provazník si namočil čumáček
+v něčem jiném než v OOP. Takže Aleši, díky ještě jednou.
+Není záč, ale taky jsem mu rovnou říkal, ať se vysere na F-sharp.
+Ať jdu dělat kouřen. A to je pravda.
+A to je mimochodem ten důvod, proč tady dneska s námi jsi.
+Takže Aleši, my už jsme tě samozřejmě tak představili,
+ale i tak řekni něco o sobě, co děláš, kde pracuješ,
+aby posluchači věděli.
+Tak ahoj, já jsem Aleš.
+Dělám jako hacking monkey v Top Monks,
+kde jsem už za chytam 8 let.
+Takže jsem tam dlouho, to je asi jediná firma,
+kde jsem tak dlouho vydržel. Asi díky tomu,
+že se moje role často mění, takže si můžu zvyzkoušet
+různý joby v jedné firmě, což je fajn.
+No a teďka děláš teda co, když měníš joby v rámci jedné firmy?
+Co je teďka poslední Alešův job?
+Teďka můj denní chleba je zase programování.
+Zase programuješ. A v čem píšeš? Primárně Clojure?
+Hele, teďka poslední skoro tři čtvrtí rok dělám na projektu,
+který jsme převzali, který je napsaný v Clojure scriptu.
+A dobrý?
+Ne.
+To byl asi daný tím, že jste ho převzali, předpokládat.
+Tak jo, ale já vím, že ty jsi člověk,
+který prošel strašnou spoustu zajímavých projektů.
+Můžeš nějaký zmínit z historie, čeho jsi dotknul?
+My jsme v kuchynce tak trošku naťukli ty věci,
+o kterých jsme se otřeli nějakým způsobem oba,
+nebo aspoň jsme o nich věděli.
+Ale vím, že když už tenkrát jsem tě poznal,
+tak jsi byl člověk, který už měl jizvy
+z takových větších projektů, starších.
+Tak já jsem nastupoval, jako moje první firma byla Atlas.cz.
+S tím jsem měl hodně velký štěstí,
+že jsem tam otkal spoustu zajímavých lidí a přátel na život,
+za co jsem věčnej, kteří mi pomohli rozjet se v zajímavém projektu,
+protože Atlas tenkrát se bojoval o druhou příčku
+českého internetu v návštěvnosti,
+takže ta scaling a další věci byly důležitý,
+psát věci efektivně a tak, aby utáhali ten provoz.
+Pak jsme zažili merch, kdy náš hlavní nepřípad,
+přítel nás koupil, nebo fond koupil nejdřív já, pak nás,
+takže oni byli ti, kteří to mergeovali,
+takže od nás tam většina nezbyla.
+Pak jsme založili startup s Pavlem Doleželem,
+který se jmenoval Tuareg.
+Tam jsem dělal na projektu, který se jmenoval Techloop,
+ne, Drop, ty tečka, což byl takový klon Yelpu.
+Tam jsem si čuchnul hodně právě k reaktivním extenzím
+a k funkcionování programování pomocí linku.
+Což byl takový můj kick tady do toho.
+Taky jsem tam hodně experimentoval s různými jazykama,
+jako je Boo, což je dotnetí Python,
+což je silně typové, a čuchnul jsem si tam na to Boo.
+Bylo zajímavé hlavně v tom, že to umí metaprogramování,
+což je docela zajímavý koncept, který fakt v Clojure ocenil.
+Který z těch projektů byl takový největší challenge,
+ať už třeba technicky, nebo i, to můžeš říct,
+z té lidské stránky, protože já jsem taky zažil pár těch
+expozicí, a jedna věc je, když projekt je technicky challenge,
+a druhá věc je, když se ti třeba během chvíle změní tým,
+nebo se ti změní celý to klima kolem.
+Tak jak ty to máš?
+Tak to jsou určitě challenge.
+Největší challenge bylo vždycky být schopný pracovat
+po tom, co člověk vyhořel.
+A to už jsi zažil?
+Párkrát už, jo.
+A jak je to dlouho? Třeba poslední?
+Na poslední.
+No.
+Už to bude skoro deset let.
+Tak to je dobrý, tak to je fajn.
+Co tomu předcházelo?
+To je jako dlouhý a dlouhý hodiny programování,
+nebo je jako opravdu náročná skupina lidí kolem?
+No, ale nikdy to není jedna věc.
+To, když se dostaneš do takovýchhle situace,
+tak to většinou je, že to nefunguje nikde.
+Oká.
+No tak pojďme na to veselý.
+Jasně.
+A to je Clojure.
+Tak prosím tě, vysvětli posluchačům, co je Clojure
+a proč by to v případě, že nás posluchají vývojáři,
+a chtěli by si to zkusit, proč by si to vůbec měli chtít zkusit?
+Clojure je datově orientovaný jazyk,
+který je primárně postavený tak, aby byl hostovaný
+na nějaký platformě, která už má nějakou historii.
+Je napsaný s bolestma, zkušenostma v jazycích,
+jako je C++, Javička, C Sharp.
+Clojure původně se jmenoval Cilio,
+což znamená C Sharp, Lisp, Java.
+Původní myšlenka byla,
+mít jeden kód, který poběží na obou platformách
+a nad tím mít přenositelný kód,
+který můžeš jednoduše přihazovat z Javi do dotnetu
+a bude ti fungovat.
+A kdo za Clojure stojí? Kdo je ten tvůrcem?
+Tvůrcem je Rich Hickey, který si po těch útrapách,
+po nějakých 20 letech profesionálního programování
+v komerčním sféře, kde dělal real-time systémy
+a bankovní systémy a podobné věci.
+Pardon?
+Kdy dělal tady ty systémy a byla to obrovská bolest,
+tak poznal Lisp, jako Common Lisp,
+což mu přišlo jako fajn,
+že se v tom dá dělat spoustu zajímavých věcí,
+ale vlastně to skoro nikdo nepodporuje.
+Nikdo to nechce v korporátech udržovat,
+nebo aspoň v té době,
+což je někdy za polovina dvotisícovek.
+A od té doby změnilo se to,
+že Clojure má větší penetraci po korporátech?
+Právě díky tomu,
+Clojure je primárně hostovaný jazyk,
+tak se to změnilo, hodně se to změnilo,
+protože JVM je všude.
+Rich potom uznal,
+zvážil možnosti JVM a dotnet runtimeu
+a zjistil, že dotnet má statické myšlení,
+když to JVM ve spodu je dost dynamická,
+což Clojure je dynamický jazyk,
+takže jmu to vyhovuje víc.
+Takže tu dotnetní část prostě zabil
+a začal se věnovat stabilizaci tý javový,
+který pak vznikla Clojure,
+který je jedna nula.
+A díky tomu, že JVM je všude v korporátech,
+tak dostat jí tam Clojure je poměrně jednoduchý.
+Vzpomínáš si, když ty ses vlastně úplně poprvé
+s tím jazykem setkal,
+co bylo takové to,
+že tě na tom hned uhranulo,
+nebo ty už si znal třeba LISP,
+a jenom, že to bylo na JVM,
+tak ti to sedlo?
+Spoleně jsem nebyl LISPář,
+já jsem Clojure poznal vlastně na pražských lambdách,
+na meetupu,
+kde,
+jsem tam byl hlavně,
+protože mě zajímalo RX,
+tenkrát ještě F-Sharp,
+a vůbec prostě funkcionální programování
+i v C-Sharpu,
+a v čemho skriptu ještě moc ne.
+A ze začátku jsem to moc nechápal,
+že přišlo mi to dost zvláštní,
+blbě si to čte,
+protože závorka je před názvem,
+místo za názvem,
+což mozek strašně trpí u toho.
+A celý je to takový
+závorka,
+závorkovaný,
+ale divně se tam prostě pracuje s mapama a tak,
+a všechny takový ty věci,
+jako zapouzdření
+a dělat na všechno předpisy,
+tam nejsou prostě jako denním chlebem,
+takže je to pak zjistit.
+Takže když k tomu víc přičuchnete
+a zažijete si,
+tak zjistíte,
+že to jsou vlastně ceremonie,
+které děláte úplně zbytečně,
+zbytečně navíc,
+protože to, čemu říkáme abstrakce,
+jsou ve většině případů konkretizace
+a ty vám znamožňují dělat flexibilní systémy,
+které jsou snadno rozšiřovatelné.
+A to je vlastně důvod,
+protože jsem ti rozmluvil však.
+Všichni milují pattern matching,
+ale vlastně pattern matching je úplně
+zabetonování konkrétních pravidel
+a hodnot prostě do kódů.
+Místo toho, aby si abstrahoval,
+tak si konkretizují.
+I když to není if, tak je to if.
+Takže tím, že to je,
+tím, že to není JVM,
+se předpokládám,
+že ta škála typů těch programů
+nebo typů softwaru,
+je vlastně cokoliv.
+Jaký druhé aplikace
+ty v tom teďka píšeš?
+Hele, já, co jsem v tom psal věci,
+tak u nás, co používáme v TopMonks,
+tak je náš Insight,
+který je vlastně původně díkal
+jako dashboard nad mončítama,
+jestli si pamatujeme.
+Jo, jo, jo.
+Potřeba jsme trošku vidět dodat,
+který generujeme z reportování hodin,
+tak, aby bylo vidět,
+co se v té firmě děje.
+Takže máme nějaké hezké pohledy na to,
+co...
+jak si vede celá firma,
+jak jednotlivý projekty,
+jednotlivý části firmy,
+jednotlivý lidi a podobně.
+A pak různý pohledy přes to,
+přes různý role,
+který chtějí vidět
+trošku jiný reporty.
+Tak to je prostě práce s datama.
+Jasně.
+To je zajímavé,
+s tím jste začínali kdy,
+třeba dneska,
+asi kdyby jste s tím začínali,
+tak takový ty platformy,
+typu Power BI, Tableau,
+jsou věci, který se dají vlastně dneska.
+To jsou různý sračky.
+Těžkotonážní věc,
+který to, co chceš udělat,
+prostě trvá týdny.
+Já mám tady,
+za chvilku napíšu SQL script,
+vezmu ho,
+obalím ho prostě výučkem
+v Clojure scriptu,
+udělám k tomu funkci na back-endu,
+která si šáde na ten SQL
+a mám prostě to záhoďku,
+mám hotovou feature,
+prostě,
+nebo dřív,
+to záleží.
+A hlavně celý to mám dynamický,
+živý,
+když tu feature vytvářím,
+tak furt vidím,
+co se tam děje,
+jakým je to stavu.
+To tady v těch systémech,
+ale jako je to hezký,
+když najdeš někoho v korporátu,
+kdo chce utrátit miliony,
+tak to dává smysl,
+ale ty nástroje jsou bullshit,
+prostě ti nedají,
+nedají ti nic navíc,
+prostě musíš v tom všechno těžko udělat,
+aby jsi z toho dostal nějaký data,
+ty jsou syrový,
+ale my v tomhle máme
+jako high-level metriky,
+který se snaží řešit
+a ukazovat na konkrétní problémy
+v té firmě,
+byznysový problémy,
+nejsou to prostě jenom,
+kdy nám teď takhle tyčou peníze,
+ale tady ten projekt
+prostě pro nás je rizikovej,
+protože z něho máme nízkou marži
+a máme tam vysokou koncentraci
+na zákazníka
+a je to problém,
+který by nás mohl
+během pár měsíců
+třeba tu firmu zavřít,
+být důvodem,
+proč tu firmu zavřem.
+Takže nám prostě to ukazuje signály,
+které nám slouží k tomu,
+aby jsme se mohli rozhodovat
+v tom, co dává smysl
+a nedává smysl.
+Velmi zajímavý názor.
+Snažíte se to prodávat ven,
+takovýhle tool,
+pokud ho vlastně povolíš
+za takhle zralej,
+konkurenceschopnej tímhle
+s těm toolům,
+který já zase miluju?
+Ne, ten tool je napsaný na míru.
+Nelze to škálovat dál?
+Jde to snadno upravit,
+ale nemáme v tom
+prostě žádný potřebu
+to prodávat.
+OK.
+Máme jako,
+víme, že lidi u firmy
+by to chtěli,
+že je to,
+že jsou pro ně nějaké ty věci zajímavé,
+co s tím můžeme udělat,
+ale
+nás živí úplně jiné věci,
+takže tady to je spíš jako
+pro to,
+aby jsme viděli do toho,
+jak my fungujeme.
+To je naši konkurenční výhoda.
+OK.
+Když jsme u těch aplikací,
+napadá ti nějaká aplikace,
+která může být známá
+jako širší veřejnosti,
+která je napsaná v Closure?
+Tak nevím,
+jestli širší veřejnosti,
+ale je na tom postavená Newbank,
+což je největší brazilská banka aktuálně,
+která je v tom napsaná
+from scratch,
+včetně v Datomiku.
+Mají tam několik tisíc vývojářů,
+který píšou čistě
+v Closure,
+v Closure Scriptu
+a v Datomiku.
+Jo, jo,
+to jsem někde čet,
+to je pravda.
+A čet jsem teda i,
+že částečně to používá někde Apple,
+někde Facebook.
+Nevíš o tom něco víc,
+co by bylo zajímavé
+pro posluchače?
+Ale pamatujete na HipChat?
+HipChat?
+Jo, pamatuju si HipChat,
+ano, ano, ano, to bylo, to bylo,
+ty krásu, vůbec nevím,
+o čem se ho víme.
+To bylo ještě předtím,
+než přišel Slack,
+tak byl HipChat,
+teď nevím, jestli,
+ty, od koho to byl HipChat?
+Od Atlassianovi.
+No, jo, pamatuju si,
+to byl ta v podstatě komunikátor, no.
+OK, tak to bylo v Closure.
+V Closure Scriptu byl napsaný ten frontend.
+Například.
+Jsou v tom napsaný
+jako dost zajímavých projektů
+a David Nolan,
+což je maintainer Closure Scriptu,
+tak dělají ve startupu,
+startupu, který se jmenuje...
+Teď jsem to zapomněl.
+To je jedno.
+Ale zabývají se tím,
+že dělají chytrý klíč pro auta.
+Dělají vlastně platformu,
+která je skinovatelná,
+univerzálně,
+nebo je to white label,
+který, když za ním přijde automobilka,
+chceme chytrý klíč.
+Přes telefon chci říct,
+hele, tam je ten Yoda,
+bude mít jednorázový přístup do kufru,
+tady děti můžou otvírat jenom zadní dveře
+a podobně,
+tak mají vlastně vdělanou platformu
+a přes ten telefon to můžeš pak i otvírat,
+když máš ten jejich receiver v sebe.
+A to mají udělaný vlastně,
+sice je to napisání v React Native,
+ale v Couchescriptu.
+No to jsou fakt zajímavé reference,
+musím říct,
+protože člověk by si řekl,
+že zas tak rozšířený to není.
+Circle CI bylo třeba napsaný
+from ten,
+ta předchozí verze byla celá v Couchescriptu.
+Tak to je super.
+Hele možná, když už jsme se dotkli,
+toho Couchescriptu a Couchescriptu,
+můžeš vysvětlit, jaký je mezi tím rozdíl?
+Jak jsem říkal,
+Couchescript je od základu psaná,
+byla hostovaná na nějaké platformě.
+Z začátku si myslel říct,
+že .NET a Java jsou ty, které dávají smysl
+a pak zjistil, že vlastně JavaScript
+je dneska úplně všude.
+Od malých zařízení,
+běží vám to na ESP,
+běží vám to v Tesla monitorech,
+běží vám to ve SpaceX dashboardech.
+Takže bylo,
+prostě rozhodnutí,
+že udělají Clojure
+portovanou do JavaScriptu
+a to je Clojure Script.
+Někdo říká,
+že to je dialek, nejí to dialek,
+je to prostě Clojure, která běží
+JavaScriptu, včetně prezistovaný datový struktura
+a celý základní knihovny,
+která je
+prostě jednak jedný.
+Takže tím pádem pokryješ v podstatě
+celý ten full stack, to, co má být na serveru,
+si napíšeš v Clojure, to, co chceš,
+aby bylo na frontendu, bude v Clojure Scriptu
+a
+furt nevyskakuješ z toho svýho toolingu.
+Je to tak, no.
+Ale jsou lidi, kteří mají na backendu
+cokoliv, není to problém.
+Někdo píše
+backendy v Node, někdo píše
+prostě, já nevím, v Railsech,
+kde to, není to problém,
+ale když chcete mít prostě
+efektivní, účinný tým,
+tak když používáte na frontendu
+Clojure Script a na backendu Clojure,
+tak to dá velký smysl.
+A když máte ještě na databázi jako datamek,
+Dream Machine.
+Já se pamatuju,
+když se mi tenkrát Clojure ukazoval,
+že jedna z věcí, která se mi fakt líbila,
+byl Ripple.
+Jestli bys mohl vysvětlit posluchačům,
+o čem se to bavíme, co je Ripple.
+Určitě znáte F-Sharpu
+interaktivní řádek,
+který vám umožňuje
+evaluovat nějaké výrazy
+a vrátit nějaké hodnoty.
+Lispové Rippley fungují trošku jinak.
+Já nevím, jestli máte nějaké zkušenosti
+třeba se Smalltalkem.
+Já ne.
+Nebo s nějakými lispovými mašinami.
+Tak dřív byla taková idea,
+že vlastně
+programujete ten stroj
+v tom stroji.
+Pokud si to pamatujete na Basic,
+napsali jste řádek, pustili jste to a hned jste viděli,
+co to udělá a postupně jste přidávali řádky
+a tam dělali nový a nový věci.
+Tak přesně takhle funguje Ripple
+tady v těch jazycích.
+To znamená, že vy pracujete
+v tom systému a tvoříte
+ten systém
+zvnitra díky Ripple.
+To neznamená, že jenom si pouštíte
+nějaký ukázkový kusy kódu, jestli fungují
+a pak je pastujete
+do kódu nebo v obrácení,
+že z kódu označíte a necháte je pustit
+v tom interaktivu, ale vlastně
+evaluujete ten kód, který píšete
+a rovnou je věží v té aplikaci
+a zároveň se můžete
+dotazovat do toho a pracovat s těmi datama
+v tom systému, který vlastně vám žije pod rukama.
+To je, musím říct,
+hrozné jako mindshift.
+Vůbec, jako když si vezmeš
+jak funguje takový ten klasický
+jako middle
+korporátní nebo middle size firmy
+softwarový vývoj, že pak
+potkáš někoho, jako je Aleš a on ti teďka
+řekne tyhle ty věci. To je prostě, když
+otevřeš jako dveře
+úplně do jinýho
+světa, do jiný dimenze.
+Nenarážíš Aleši občas někdy
+na to, že vlastně tohle je tak strašně
+byť já to miluju, tak
+jiný myšlení a jiný přemýšlení
+o vývoji, že tě to vlastně třeba
+nechci říct brzdí, ale že ne,
+každý to úplně pochopí, o čem mluvíš.
+No, tak je to vidět, no,
+z těch našich diskuzích na Twitteru a podobně.
+Já myslím, že
+dnešní trh je plný hlavně fanboys,
+který mají zkušenosti do pěti let
+a vlastně my jsme nebyli
+jiní, že jo, prostě ty zkušenosti nikde
+nevezmeš, takže ještě někdo vychová,
+obzvlášť třeba Microsoft, tohle furt
+jede, když jako tvrději se změnili,
+tak prostě jejich
+defrelations je pořád silný,
+každej používá VS Code,
+každej prostě je na GitHubu dneska, že jo.
+To je všechno Microsoft, každej miluje
+TypeScript, a přece to jsou
+jedny z nejhorších technologií, které na trhu
+můžete potkat, ale díky tomu, jak silnej
+ten Microsoft je v tom
+tady ty věci protlačovat
+a vnucovat ty lidem,
+tak má spoustu fanoušků, který
+prostě jim v tom ještě pomáhají
+a myslí si, že je to nejlepší, jak je, když jsem si
+pořídil počítač, my jsme
+čtyři, osm, šestky a budu na tom mít nejlepší
+Office, Office 2000
+a nejlepší grafický editor
+CorelDRAW, že jo.
+No, nejlepší
+je to, co vám pomáhá prostě opravdu
+v práci, jo, a když nemáte
+zkušenosti, tak nemůžete porovnávat,
+znáte jednu nebo maximálně
+dvě věci. Jednu první,
+se potkali první JavaScript,
+ten jste nebyli schopni pochopit,
+jak v něm fungovat, protože
+je těžko uchopitelný,
+tím, jak je všechno dynamický a nejsou
+tam silný popisy toho, jak
+to má vypadat.
+Samozřejmě to pro nováčky úplně není,
+ale je to silný nástroj, jsou v toho napsané
+prostě největší aplikace, který
+dennodenně používáte, že.
+A
+je to prostě
+o dovednostech, takže ano, často
+narážím na to, že se mnou
+hádají lidi, kteří ještě ani nemají dodělanou
+vejšku o tom, jak ta
+script je super a mají v titulku
+na Twitteru napsaný, nebo vlastně
+v bivu napsaný, že to jsou
+z
+ne, který říkal
+Type Safety
+Enthusiasts. Jo, jo, jo.
+A fanou všech Type Scriptu,
+ale Type Script nemá s Type Safety
+vůbec nic společného, že jo.
+Já to si dokážu představit, ještě znám, jak
+to u tebe zafungovalo. Ne, ale pojďme
+zpátky, protože tohle je docela
+zajímavé věc. Vidím to u tebe,
+vidím to, když se zeptám lidí
+třeba od nás Elmistů,
+když jedeš na Lambda Days
+do Krakova,
+a tam baví se s těma lidma,
+a to jsou lidi, kteří dělají Erlang, prostě každej,
+kdo je vlastně na funkcionálním jazyku,
+a tím nemusí být striktně funkcionální,
+samozřejmě ten, kdo píše v Hasclu,
+je asi někde jiný, než ten, kdo píše třeba v F-Sharpu,
+nebo prostě v Clojure, každej to má trošičku
+hozený jinak, ale
+taková, řekněme, úplně,
+na čem se všichni shodnou je, že by za prvé
+nešli zpátky, a za druhý,
+že ta jednoduchost
+a ta přímočarost, nebo jednoduchost,
+možná spíš přímočarost, než jako prvoplánová jednoduchost
+celého toho přístupu,
+že je zároveň
+pořád jako minoritní a nedaří se to
+prodat, nedaří se to dělat,
+pokud si nezalužíš vlastní firmu a řekneš,
+budeme dělat jenom Clojure, nebo budeme dělat jenom
+Erlang, nebo budeme dělat, já nevím, prostě dalších
+milion věcí, tak
+v tom levelu těch středních a velkých
+firm to nemáš jak jako protlačit.
+Když se podíváš
+na ty hezký grafy, tak
+C-Sharpist,
+F-Sharpist a Clojure
+jsou jedny z nejlíp placených lidí
+z největší seniory toho, že k těm
+nástrojům si musíš
+propracovat. To, že máš nástroj, který
+ti něco umožňuje, neznamená, že to každej
+pochopí a bude v tom psát správně.
+Víš, ta aplikace, na který dělám dneska
+já, prostě na pohodní pohled
+to vypadá jako dream aplikace.
+Je to v Clojure skriptu
+celý a pak když do toho čuchneš,
+tak je to napsaný tak, jak by to v Clojure skriptu
+nikdo nenapsal. Prostě je to
+totálně objektový, totálně stavový,
+totálně mutabilní
+a synchronní.
+Takže vlastně všechny plusy,
+které ti ten jazyk dává k tomu, aby jsi psal
+aplikace, nad kterýma se dá
+prostě přemýšlet,
+jak fungují
+anglický reasoning.
+Jak to furt
+rozumně zdůvodnit.
+Tak ty všechny
+zabil.
+Prostě efektivně se zbavil
+všech nástrojů, který ten jazyk ti
+umožňuje. Prostě ten problém zjednodušit
+tak to udělal tak, že to je tak
+komplikovaný. Já jsem z toho měl skoro
+žlučníkový záchvaty, nemohl jsem spát.
+Málem jsem se začal zase pochcávat.
+A před diplojema.
+No.
+Jo, je to o lidech hlavně.
+Takže Clojure napsal
+člověk, který byl
+to říct
+ostrílený a
+vlastně už ho nechtěl programovat.
+Chtěl s tím praštit prostě.
+Jak se to dělá v mainstreamu je
+prostě zlo. A ne každý
+prostě si to zaslouží takhle trpět.
+Tak dlouho.
+A vlastně Clojure je jazyk pro lidi, který
+už si tohle bolestí prošli prostě.
+A chtějí najít cestu,
+která je zas bude bavit.
+A která jim nebude ničit mozek.
+Prostě protože je to překomplikovaný.
+Naše korporátní
+zkušenost, kde jsme narazili
+na systém, který psali
+lidi z konkureční
+platformy v dotnetu.
+Javisti psali dotnetní
+systém a vůbec nechápali.
+Prostě používali vzory, které
+byly zvyklý knihovny, na které byly vznikly v Javě.
+Ale dotnet je úplně jiný.
+A tím pádem to byla pro nás
+bolest, takže my jsme si tam dělali ostrů, jak
+něčeho úplně jinýho, aby jsme v tom byli
+schopni žít. A hlavně, ty jsi říkal
+funkcionální testování.
+Funkcionální programování. Ale hlavně jsme
+taky dělali TDD a programování.
+No to jsem zapomněl říct, že vlastně od začátku
+Aleš testoval
+a dával velký důraz na to, že se
+bude testovat i takový ty věci,
+do kterých se ti úplně testovat nechce, typu
+I.O., ať to byly
+nějaký filesystem,
+ať to byly práce s hodinama,
+s časem, tiky a tak dále.
+Takže je to pravda. No dobře,
+ale tak tím pádem, ty říkáš,
+je dobře, že to není mainstream,
+což ale vede
+k tomu, že ten mainstream pak vypadá
+tak, jak vypadá a ty, když chceš někoho přesvědčit
+o tom, že to budeš psát jinak a že to bude
+rychleji a že to bude
+vlastně jednodušší
+na zprávu, což se vždycky zapomíná
+u EV software na to, že většinou máš
+ještě post MVP fázy,
+kde teprve se ukáže, jak jsi to napsal,
+jestli přidávat nový feature trvá
+pár dní nebo pár let,
+tak máš problém tohle vůbec
+prodat. Což mě to osobně
+prostě irituje, to,
+když víš, jak je to kvalitní nebo víš, jak je to
+dobrá věc, ale
+ty nemáš, jak to protlačit.
+Ale tohle je problém z toho, že
+vlastně technický svět nerozumí
+tomu biznesovému a naopak.
+Jak to myslíš?
+No, prostě
+to, jak to říkal Roman,
+že se to musí umět prodat, tak
+ty lidi slyší
+úplně na nějaké jiné věci a nejčastější
+je prostě hiring pool.
+Každý teďka hireje reaktáky,
+i když react je prostě nesmysl v dnešní době.
+Ale prostě je to
+prostě to, co je teďka mainstream, no.
+Tak s tím nic neuděláš, no.
+No jak je
+pool teda pro... Nejde plavat proti oceánu.
+Jak je pool pro Closure aktuálně na trhu, když
+když... V Čechách nebo na světě.
+Dobře, tak já chci...
+Dobře, v době covidu asi remote už
+není problém snad nikde, doufejme,
+ale teď, kdyby ses třeba rozhodl,
+že změníš práci, ale chceš zůstat
+u Closure, tak
+jak to budeš mít, co si myslíš, náročný?
+Udělám si projekt v Closure
+v tom pouze, no. Jo.
+Já ten pool jako celkově tak umlít,
+to je velká. Hele, v Čechách
+je tady asi
+desítky lidí, který
+jsou asi jako slušný
+v Closure,
+ale to není vůbec zajímavý číslo,
+je to metrika, která
+je nezajímavá, protože
+člověk, který má
+nějaké zkušenosti s programováním a nemusí
+je mít nějak jako letitý,
+tak je schopnej
+do Closure.
+Closure nabutovat za čtrnáct dní.
+Za čtrnáct dní v tom začneš psát
+prostě jako bys byl doma. To jenom si zvykneš
+na to, že ta závorka je posunutá před název.
+A to je
+největší pain a největší problém.
+Pak si začneš věnovat opravdovým problémům
+a tomu, jak ten jazyk funguje
+a začne to být v pohodě během dvou měsíců,
+budeš úplně super produktivní
+a nespomeneš si, že bys
+chtěl jít zpátky. To není jenom
+zkušenost u nás, co jsme tak
+zkušili v Top Monks na různých
+projektech, ale je to celosvětová. Prostě každý,
+kdo takhle někoho
+zaškoloval do toho, tak ti řekne
+podobnou zkušenost. Že už se nechce vrátit.
+No a hlavně to, že byli za
+dva týdny schopní vyškolit
+lidi, aby byli v Closure schopní
+psát a za dva měsíce, aby byli stejně produktivní
+jako v jakémkoliv jazyce
+předtím, co byli.
+Takže myslíš si, že může to být
+i dobrý programovací jazyk jako startovací?
+Jde mi tomu, že někdo prostě má nějaké úplné
+základy a začne
+rovnou v Closure, nebo bys mu doporučil, aby začal
+něčím jiným a pak navázal?
+Ale určitě.
+Určitě je to dobrý jazyk na startovací.
+Já jsem zkoušel u nás dělat
+takovou školu programování
+pro lidi,
+který nejsou většině programátoři
+a tak jako byli schopní
+v tom dělat, ale
+tam ale není.
+Ten je
+jazyk je hodný i pro začátečníky
+a jako u všeho potřebujete
+vedení, že nejsou na to udělaný dostatečný
+prostě tolik
+tutoriálu a tolik
+lessons jako na jiný
+jazyky.
+No jako to si myslím, že může být jako
+teoreticky blokr. Já kdybych teďka začínal
+s programováním, tak samozřejmě se podívám, jak to vypadá
+na trhu. Chci se učit
+něco, co může mít uplatnění na tom
+trhu a to může být malinko
+komplikací na druhou stranu.
+Ale právě to je ta
+energie.
+A to je energie, kterou ty musíš přetrát, že jo?
+Protože kdybych, já chtěl zůstat na dotnetu
+a hledal, jako dělat
+jenom dotnet podle toho, jak vypadá trh,
+no tak budu dělat C-Sharp.
+Tak jako vůbec nebudu přemýšlet o F-Sharp. Kdybych chtěl dělat
+na GVM-ce podle toho, jak vypadá trh, tak
+budu asi do Javy, možná do
+nevím, Kotlinu,
+možná do Skaly, ale asi bych
+neskočil kvůli trhu.
+Bych neskočil do Clouzir.
+A když bych chtěl dělat na fronte, no tak
+už bych ani neskočil Angular, nic takovýho, protože
+když se podívám, tak všude reakt, reakt, reakt,
+reakt, jo? Co je?
+A to je strašně ale těžký, jako
+jít proti tomuhle. No jasně, jasně, uvědomuji si to.
+Že automaticky ty seš outsider.
+Protože ty řekneš, já umím tohle a jsem
+v tom dobrý a bude to rychlý a bude to kvalitní,
+ale oni ti řeknou,
+no ale my tady scháníme
+20 tisíc reaktistů. A to, že je potřeba proto,
+že zrovna v tom to trvá díl, než bys to třeba
+napsal něčím jiným, než možná, nevím si,
+já jsem si vybral to jako zrovna dobrý příklad, ale třeba
+C, jo? Nebo C-sharp,
+jo? Nebo Javu, tak
+vlastně tuhle energii, ta vlastně
+přiživuje to, že jich potřebuješ víc.
+A proto jsem právě třeba o Taleše chtěl
+nějakej, já vím, že on neexistuje, ale
+doufám, že jednou to třeba někdo řekne
+nějakej, nějakej dobrý způsob,
+jak tuhle energii přetrhat, protože
+já ji přetrhávám v podstatě na dotnetu
+se F-sharpem 6 let a
+víš sám, jako někdy
+to je fakt pain vysvětlit tomu zákazníkovi,
+který pak zpětně řekne, no hele, to bylo dobrý, to bylo
+rychle včas a právě jsem chtěl od Taleše
+vědět nějakej jako tríček, ale...
+Ale tríček jsou tůly, no.
+Nekritický části,
+který
+pomáhají prostě developer experience
+a já jsem takhle začínal
+se F-sharpem na tenkrát
+na projektu, už je to
+10 let, jsme měli
+vlastně
+Google Closure Compiler, což je
+JavaScriptový kompilátor, který
+produkuje prostě Gmail a tenkrát
+i Reader a Google Docs, prostě
+tyhle věci jsou v tom pořád
+napsaný a
+měli jsme problém, že
+ty Pythonní skripty, který to
+obsluhovali, jak za prvý trvaly dlouho a za
+druhý přestali škálovat našim
+potřebám, protože jsme měli nějak moc
+souborů a dlouhý cesty a něco takovýho
+a ono to generovalo
+parametr listy, prostě
+tak jsem napsal
+nejdřív PowerShellový skript,
+prostě hezky v monádkách, který jsem
+měl otestovaný přímo v command line, že všechno
+dělá, jak potřebuje a pak jsem to přepsal
+do F-sharpu, protože to bylo straightforward,
+protože ty monády z toho PowerShellu
+jednoduše převedeš do
+F-sharpový pipe line,
+takže
+stejná abstrakce, to fungovalo
+a bylo to prostě řádově
+rychlejší a
+hlavně to dělalo to, co jsme potřebovali,
+no, a efektivnější.
+Takže asi teda jedině prodávat
+opravdu tu efektivitu, říct,
+bude to rychlejší,
+platí to i třeba u těch pak úprav
+nějaká maintenance a tak, předpokladám, že asi
+hovím. No, tak když ten kod je jednoduchý,
+tak je čitelný a tím pádem se dá
+snáž pochopit a upravovat, no.
+Jak to faktoruješ
+do malejch funkcí, který můžeš jednou
+vše komponovat, vše výhoda jako funkcionální
+programování, tak pak
+je to prostě selling point, no.
+Ok, a to je směrem k těm klientům,
+směrem k těm, co by chtěli začít,
+doporučil bys jim nějaký
+první kroky, jako mají do top monks
+a začítají s Alešem prostě
+na tom rubat. A děláš ještě,
+ty vzdělával i takový jako
+coding doža a tyhle ty věci, tam já jsem to vlastně
+viděl, děláš ještě nějaký takový
+ale teďka nějak
+nebo plánuješ, až opadne covid?
+Svět se posunul,
+jsme se věnovali nějaký jiným věcem,
+to není už na to tolik čas,
+ani energie,
+takže zatím
+se tomu nějak nevěnujeme.
+V Lopnu jsme teďka vytvořili prostory, kdyby
+takovýhle věci dělat šli, když bude zájem,
+tak můžeme to zkusit zase poprášit,
+ale s tím to není
+teďka úplně aktuální.
+A teda ten první krok, když teda nemůžu
+mít toho svýho Aleše, za kterým
+přijdu a musím to zkoušet
+doma, tak nějaký ten první krok,
+teda jak do toho vlítnout,
+co bys doporučil, nebo nějaký dobrý
+tutoriál, nebo něco.
+Closure.org
+a tam je všechno důležité.
+A jak je to s Interopem?
+Protože tím, že to je výjimka,
+předpokládám, že před použití
+nějakých tu existujících
+knihoven a tak dále, že bude asi tak,
+jako je to s Nugetem, C-sharp, F-sharp.
+Interop
+byl jedna z hlavních
+feature, tím, jak je to jazyk, který je hostovaný,
+tak je dělaný tak, aby byl hostovaný
+a zároveň Interop
+interoperatibilní,
+na rozdíl třeba od Scaly, která není s
+Javou úplně kompatibilní, nebo aspoň nebývala,
+nevím, jaký je aktuální stav,
+tak je to udělaný tak, aby to bylo.
+Takže můžeš, co je v Javě,
+tak můžeš v Closure volat,
+všechny Closureové datové struktury,
+zároveň implementují všechny Javové interfaces,
+s kterými bys chtěl někdy pracovat,
+takže když máš prostě
+perzistovanou
+datovou strukturu, která
+jako je mapa, tak má prostě všechny
+interfesy implementovaný
+pro přístup k mapám,
+takže v Javě můžeš konzumovat Closureový
+datový struktury, když můžeš volat Closureový
+API, který ti ty vrátí, tak s ním
+můžeš dál pracovat i z té druhé strany,
+je to na obě strany, stejně tak
+v Javascriptu. Všechny je prostě datový struktury,
+které jsou implementované v Closure
+scriptu, tak mají prostě
+iterable interface
+a fungují vlastně,
+že je používá třeba i pro to,
+aby se tím kromili reaktivní
+komponenty, které s tím
+mějí fungovat.
+A ty jsi byl na nějakém projektu, kde takhle fungoval
+ten interop mezi jako...
+Každý je projekt, protože
+Closure se nesnaží vymýšlet
+všechno od začátku, používá věci, které
+už jsou napsané, které jsou kvalitní,
+jenom když jim přidává použitelný
+interface a vrstvu,
+která jim umožňuje pracovat
+s tím datově orientovaně,
+místo prostě
+builder patternu.
+Ale když se bavíme o téhle jednoduchosti,
+je tam potřeba nějaký special
+tooling. Já vlastně vím, že ty jsi tenkrát
+to byl ještě možná Atom,
+ve kterém jsi to tenkrát psal, že obarvoval
+závorky, takže v čem píšeš teďka
+vůbec? Ideje. Ideje píšeš a ta je
+na to připravená. Vlastně si říkám, co jiného
+než kromě obarvování závorek
+u tohohle potřebuješ?
+Tak to zrovna mám vypnout.
+Normálně používá Intel
+EJ-ID a do ní existuje plugin, který se jmenuje
+Cursive, který vlastně
+přidá integrovaný
+REPL,
+integraci s REPLem,
+to znamená, že když mám v editoru kód,
+tak ho můžu rovnou posílat, evaluovat
+v REPLu.
+Closure má jakou
+hezkou věc, říká se tomu
+rich comments, což je vlastně
+normální lispovej příkaz
+comment a v něm můžeš mít kód,
+který pouštíš zevnitř, ale když
+evalueš celý skrip, tak se nespouští,
+ale na konci souboru máš comment, kde máš
+ukázku, jak pracuješ s těma APIčkách
+nebo s těma funkcíma, který
+v tom namespacu jsou a můžeš si je
+vlastně takhle pouštět, když to
+když s tím interaguješ,
+což je často něco, co
+chceš používat třeba v REPLu, takže si tam necháš
+prostě kus kódu, který je odčený
+k tomu, že když s tím pracuješ ručně, že si ho
+evalueš a rovnou s tou aplikací
+nějakým způsobem pracuješ, máš to připravený
+nebo si můžeš pak s tou dělat testy
+třeba, když to dává smysl.
+No, takže ti přidává
+ten REPL, má tam integraci s
+debagerem, integraci s testrunnerem,
+má tam prostě
+statickou analýzu, takže ti to našeptává
+všechny věci, který máš, jak z Javy, tak z
+JavaScriptu, v tom kložilovém
+kódu, samozřejmě i z toho kložu.
+Je něco, co
+tě na tom jazyce
+naopak štve, protože se říká, že
+dokud tam není věc, která
+tě vyloženě pije krev, takže asi ten
+jazyk ještě neznáš úplně do všech zákoutí.
+Je třeba něco, co i tak,
+při tom, jak vím, že to máš rád
+už roky, bys třeba změnil,
+nebo bys byl rád, kdyby to tam nebylo?
+Hele, vadí mi jedna věc, a to je
+u Clojul scriptů, a to je,
+že zvolili
+Google Clojul Compiler
+a cestu, která není
+kompatibilní s tím, jak se
+vyvíjí dopředu web.
+To znamená, nefungují tam
+ES moduly například.
+A není to jednoduše udělatelné,
+nebo jdou konzumovat, ale nejdou
+produkovat. A zároveň
+prostě to generuje
+dost kódů,
+kvůli datovým strukturám, které jsou
+prostě velké, aby měly
+ty vlastnosti, které od nich chceme,
+tak jsou veliké. Takže jako footprint
+Clojul scriptů aplikace je často dost
+veliký. A zároveň k tomu,
+že já se
+kloním k tomu, že by měly by aplikace
+co nejrychlejší a nejmenší, tak
+tohle mi trošku vadí.
+Takže tohle trade-off je jako viditelný?
+Pro mě jo. Pro spoustu aplikací
+to asi nevadí, ale
+mě osobně, který věří v to,
+že by aplikace měla
+co nejefektivnější, co nejrychlejší používat,
+co nejmín kódu, tak to mi
+vadí. A pracuje se na tom,
+aby tohle bylo nějak zlepší?
+Asi vyloženě
+nepracuje. A možná to je,
+já tě znám, ty máš možná jenom práh bolesti
+moc nízko, že ti třeba
+iritujou věci, které ostatní by tolik neiritovaly.
+Dá se s tím žít, ale...
+Když pak tam jde o prasné obrázek, který má o 12 MB,
+jako...
+Tak to jde ruku v ruce.
+Je to taková ta...
+Vlastně jako funguje to, tak proč?
+Tak samozřejmě dá se s tím rychle vyprdnout
+věci, které fungujou do určitý

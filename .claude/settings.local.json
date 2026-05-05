@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//private/tmp/**)",
+      "Bash(python3 -c ':*)",
+      "Bash(pdftotext '/Users/petrpolak/Downloads/podcast-agent-brief \\(1\\).pdf' -)",
+      "Bash(gh run *)",
+      "Bash(launchctl list *)",
+      "Bash(mkdir -p ~/Code)",
+      "Bash(mv \"/Users/petrpolak/Library/CloudStorage/GoogleDrive-petr@polakzceska.cz/My Drive/Github/assistant-andrej\" ~/Code/assistant-andrej)",
+      "Read(//Users/petrpolak/Code/assistant-andrej/**)",
+      "Bash(launchctl unload *)",
+      "Bash(cp /Users/petrpolak/Code/assistant-andrej/cz.polak.andrej-things-export.plist ~/Library/LaunchAgents/)",
+      "Bash(launchctl load *)"
+    ]
+  }
+}

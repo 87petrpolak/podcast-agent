@@ -1,0 +1,2192 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Krásný den milí posluchači, vítejte u prvního dílu páté série vašeho nejoblíbenějšího IT podcastu Pod vocasem.
+Naproti mě sedí jak jinak Petr Pítr Poli, Poli Polák.
+Yes, pátou sérií další jeden kousíček a naproti mě Roman Joker provazník, tak jak to máte rádi.
+Čau čau.
+Jak se máš Románku?
+No tak mám se už pracovně, 2023 říkal jsem si, že bych třeba v tomhle roce nemusel tolik cestovat, že bych nikam nejezdil, že si to udělám jako na pohůdku, na volnoběh, no ani náhodou.
+Samozřejmě včera večer jsem přiletěl z toho ze Švédska, ale bylo to fajn, čekal jsem ve Švédsku samozřejmě, že jo, leden, tak čekám, že tam budou běhat ty soby, že tam bude prostě 20 metrů sněhu a ani náhodou je to úplně stejný hnus jako tady.
+Je to všude stejný, no tak když ani v Alpách není sníh, tak proč by byl ve Švédsku?
+To mě taky děsí, kamaráde.
+No ty tam jedeš ve Švédsku.
+Já tam jdu asi za pět neděl a teď to sleduju a vyloženě je vidět, kde jsou sjezdovky, protože na těch zelených kopcích jsou jenom ty bílý čáry.
+To je jako to, že já byl v Krkonoších a hledali jsme tam asi půl hodiny sjezdovků, na který se dá ližovat, tak to je ještě v pohodě.
+A dalo se jezdit vůbec v Krkonoši?
+Hele, našli jsme jedinou sjezdovku, Aldrov Vítkovice se to jmenovalo.
+Červená sjezdovka 850 metrů, ale můj čtyřletej senátor to nějak zvládnul, takže jo, nakonec se to nějak dalo.
+A dal se do školičky?
+Ne, ne, ne.
+To už má za sebou.
+My vlastně jsme na školičku měli loni už, takže letos teda sice později, že ho tam taky někam dáme, ale učili jsme ho sami a muž to sjede sám, ty brďo, takže.
+To je dobrý.
+Takže dobrý.
+Petě jede.
+Petě jede, Petě jede.
+Dobrá.
+No, takže Petě jede a ještě jsem se chtěl zeptat na jednu věc, teď mi to vypadlo, Románku, nevadí to?
+Tak to asi nebylo důležitý, to většinou tak bývá, že jo, vždycky říkáš, teď mi ta důležitá věc, ale nemě to vypadne.
+Už vím, co jsem chtěl říct.
+No samozřejmě, tak včera jsme hráli první firmní hokejček.
+No paráda.
+O který si kvůli Švédsku přišel.
+Samozřejmě.
+Ale samozřejmě srdečně tě zvu a radši tady do Éteru.
+Na příští hokejček ve středu, ty jsi nejlepší golman Cienka, to všichni ví.
+Mám výzbroj připravenou.
+Ne, už máme i druhou výzbroj, takže začínáš mít konkurenci.
+A takže bylo to včera úplně super.
+Pršelo celý večer, takže jsme hráli v loužích, protože to je pro posluchače bez střechy záležitost.
+Ale bylo to dobrý, jako fakt jsme si to užili, takže doufám, že dorazíš.
+Tomu se teďka říká Winter Classics.
+No dobrá, pojďme na dnešní díl.
+Vykopáváme to, řekl bych, zase takovým low level stylem,
+protože my jsme si spolim dělali plán na celou pátou sérii.
+Máme tam připravený úplně brutálně zajímavý a slavný hosty, to musím říct.
+Nicméně jsme si řekli, že možná hned ze začátku bychom to měli vykopnout něčím,
+co zase bude trošičku pod podlahy, co bude za sérii ze odborný.
+Budeme se babrat v různých věcech.
+A ta věc, kterou budeme dnes probírat, to je dotnet performance,
+nebo obecně dotnet a výkon téhle platformy, výkon vašeho kódu,
+pokud ji poběžíte na dotnetu.
+A vzali jsme si našeho skvělýho kolegu, kterým je Martin Procházka,
+což prosím tě, nemá nic společného s Martinem Procházkou.
+Takže pokud se ho třeba budeš ptát s tím hokejistou,
+takže pokud se ho budeš ptát na ten gol.
+Je to není ono?
+Ne, ne, ne, takže já bych se nevzal, jak se cítil po golu ve městě 90.
+Tak ty otázky si máš, no.
+A takových dotazů jsem tady měl.
+Na výzbroj a tak.
+Že jako, že jestli ho nemrzí, že v Nagánu nedal gol a nevýstřel, že ho měl.
+No ty, no dobře.
+Ne, tak to je jiné, to je jiné.
+Tento se dělá spíš dotnet.
+A když ti tam psal performance, tak já si říkám,
+no tak on samozřejmě o performance ví hodně.
+No tak jasně to byl výkonej kůň, že s paterou a vývodou.
+No přesně.
+Tak to je jiný.
+To je náš kolega ze Cienka.
+No a ten už čeká za dveřma dneska.
+Já si samozřejmě dělám legraci.
+Já jsem Martina slyšel mluvit na jedný z nalejváren
+a bylo to, jako hrozně mi to utkujelo v hlavě.
+Jo, jo, on je dobrý.
+Bylo to fajn.
+No tak co, jdeme pro něj?
+Jdeme pro něj.
+Tak jo.
+Ze šatny národního týmu ještě ve výzbroji dorazil do našeho studia
+Martin Procházka.
+Čau, Martin.
+Ne, Martine, my musíme hned na začátek říct,
+když jsi tady nebyl, bychom tady džoukovali o tom,
+že samozřejmě to jméno je velmi známý v hokejových kruzích,
+byť asi předpokládám s Martinem Procházkou.
+Nemáte nic společného?
+Ne, nemáme nic.
+Nemáte.
+To je velká škoda.
+Ale Poli byl úplně zklamanej, že nebudeme probírat střely
+z 96. na Gáno 98 a tak.
+Já tady mám připravený teda tvůj nejoblíbenější,
+nejslavnější gol ve Vídni, že jo?
+Vlastně můj oblíbený 96.
+Takže jsem říkal, že dneska to bude spíš teda bohužel jenom o dotnet
+a performance a tak dále.
+Ale i tak, vítej, ahoj.
+Čau, čau.
+Jako sorry, jako bude to fakt dotnet, no.
+Bude to fakt dotnet.
+I to bude dobrý.
+Já jsem říkal, že jsem tě slyšel na nalejvárně v Hradci,
+že jo, to byla pecka.
+To bylo super, jo.
+Musím říct, že tahle přednáška spoustu lidí zaujala i jako mimo dotnet,
+že i javisti a vebaři říkali,
+ale to je ten Martin Procházka, to bylo nejlepší, to bylo skvělý.
+Určitě?
+Jo, no, samozřejmě.
+No tak, dobrý, dobrý.
+Tak něco tam bude.
+Je to sport.
+Tak jo, tak prosím tě, Martě, asi řekni nám něco o sobě.
+Hele, no, něco o mě.
+Určitě nehraju hokej, bohužel.
+Nejsem ani ten dirigent.
+Škoda, škoda.
+Těch Martinů Procházku je fakt mraky, já jdu jenom prostě dotnet.
+No a, jak říkáš, z narodiaku, prostě ze Sienka,
+jsem tady prostě nějakých pět let, čtyři měsíce, dvanáct dní,
+sedm hodin, pár minut, kdo by to počítal, že jo?
+Prostě chvilku.
+No a zabívám se dotnetem.
+V tuhle chvíli jsem na projektu, který se zabývá fintechem.
+Vlastně už od začátku, co tady jsem těch pět let,
+tak jsou to fintech projekty, ať už pro banky,
+nebo nějaký storage house, burzy a tak.
+A teď, co jsem na tom současném týmu,
+tak tam jsem nějakým...
+Dva a půl roku lead developerem,
+budu prostě tam nějaký malinkatý tým.
+Super. A jak dlouho se obecně věnuješ vývoji?
+Jsi ten typ, který od malička bastlil na amigách, didaktikách
+a těchto věcech, nebo jsi k tomu přišel až třeba na středí,
+nebo později?
+Hele, určitě měl jsem jako malý Atari, což bylo super,
+ale byl jsem čistě jako uživatel, dítě, hráč.
+Objevil jsem tam něco jako Basic, nebo QBasic se to jmenovalo,
+takže jsem opisoval z knížky, vůbec jsem tomu nerozuměl.
+Na konci mi to vykreslilo druhu přes obrazovku,
+škoda, že byla černobílá, ale to bylo tak jako všechno.
+Vůbec jsem tomu nerozuměl, nechápl jsem, o co jde.
+Ale vlastně potom během školy jsem se začal zajímat
+o HTML, weby obecně, ale spíš po té designové stránce.
+Takže potom moje první práce v podstatě byla 3D grafik,
+vůbec ne webář, ani ne programátor,
+ale občas jsem si prostě k ty grafice udělal nějakou malinkatou apku,
+fakt totálně miniaturní, nějakého tlusťocha většinou.
+No a pak šel čas a jak jsem dělal tu 3D grafiku,
+tak mě zajímalo, jak vlastně fungují vevnitř ten kód 3D modelu.
+Jelikož jsme se zabývali nějakým freelance vývojem 3D her
+nebo vůbec aplikací, tak jsem si říkal,
+tak si zkusím tady něco prostě zbastlit
+a tím bastlením jsem se dostal víceme k vývoji.
+A v čem jsi dělal tu 3D grafiku?
+To byla nějaká jako Maya nebo 3D studio?
+No, no, no.
+Aha, aha.
+A tam už jsi teda byl schopen i dostat do těch střev víc, jo?
+Nebo já jsem vždycky měl za to, že 3D studio a Maya a tyhle jste o tom,
+že jsi to teda, taky jsem se s tím kdysi před 20 lety hrál,
+že jsi vytvořil kouly, první, co jsi udělal, že jo, kouly
+a dal jsi nějaký odlesky a materiály a řekl jsi super,
+tak teď už jsem 3D grafik.
+A tam jsi schopen i jako jít níž, jo?
+Hele, v tom 3D studio ne, ale jak jsem říkal,
+dělali jsme nějaký jako úplně nezávislý hrní projekt s kamarádema
+a kluci prostě vytvořili vlastní engine, já jsem na to vytvořil modely
+a potom se to nějakým způsobem konvertovalo do nějakých našich pseudomodelů
+a já jsem si říkal, hele, jak ten model vlastně jako vevnitř vypadá.
+Já jsem si otevřel to v textiáku a tam prostě byly akorát více mé koordináty.
+Takže já jsem si říkal, jo, to vypadá nějak jako zajímavě, smysluplně
+no a jak jsem se o tom začal pídit víc, tak mě to začalo zajímat a bavit.
+A to je pro představu jak dávno?
+2005, hezky, jako dávno.
+Takže tam jsi začal, tam byl ten přerod.
+Tam mě to začalo zajímat jakože nějak víc.
+Reálně vyvíjem, dejme tomu, nějakých 15 let.
+Začínal jsem na PHP v podstatě díky těm webům.
+To jsem se chtěl zeptat, jestli jsi jako my všichni prošli PHP.
+Klasika, úplně klasika, jasně.
+No a dotned, dejme tomu, posledních 12 let, to je tak jako,
+to, co už bych řekl, to je na ostro programování.
+To už je na vážno.
+Na vážno, přesně tak, je to tak.
+A dneska nejčastěji programuješ v čem?
+No furt ten dotned, hele.
+A klasika prostě, já jsem v jedné Visual Studio,
+takže pro mě Visual Studio a ReSharper je jako zatím cesta,
+kterou se vydávám.
+Samozřejmě s českou klávesnicí, protože jako jak jinak,
+být úplně mimo.
+Fakt jo, já...
+No jasně.
+Občas na někoho narazím a furt to nechápu.
+Říkám, jak můžeš programovat na český klávesnici.
+Jako může ten středník je tam dobře dostupný.
+Ten je super.
+Ale jinak ty, jako žešičeři.
+Hele, jako levej alt a všechno v ostatní.
+Ty, krásný.
+Cením, cením.
+Takže vizuálko, žádný rider tě neoslovil, výjezd koutní.
+Jo, tak jako kluci mě vydali lámou na ridery,
+ale furt ještě...
+Ještě držíš, jo?
+Ještě držím a dokonce, jako mám furt světlý témátku
+na vypálení prostě sítnice pořádně, takže...
+Tak ty máš ještě dokonce světlý témátku?
+To to, ty vole.
+To je neskutečný, co se tady člověk nedozví.
+Jo, jo, to je úplně mimo, no.
+Takže Seashare, dotnet,
+s tím, že teda teďka, jak vy to máte
+na tom tvým projektu, všechno jste migrovali
+dotnet 7, nebo ještě máte nějaký
+starý frameworkový věci?
+Hele, na současným projektu my tam máme jeden velký monolit,
+to je starý framework,
+4.7, 4.8, něco takového.
+A ostatní věci jsme měli
+na kóru 3 jedničce,
+postupně jsme zmigrovali na 5, na 6,
+jak to šlo, teďkon, jakmile už něco otevřeme,
+tak dáváme na 7 automaticky.
+Dává to smysl.
+Tam jsou velký boosty
+ohledně performanceu a nám narůstá
+docela trafik, takže jsme za to věční samozřejmě.
+No tak to jsi mi nahrál samozřejmě
+z performance na dnešní téma, protože, jak jsme říkali,
+ten primární cíl, proč tady dneska
+s námi sedíš, nejenom to, že tě rádi vidíme
+a máme tě rádi jako kolegu, ale samozřejmě
+i kvůli tomu, že ty jsi performance killer.
+První věc jsme vysvětli, prosím tě,
+co tě na tom vlastně baví?
+Já si dokážu představit, že každý má
+různý programovací úchylky,
+není to nic zvláštního, jsou lidi, kteří milují
+performance, ale třeba osobně
+mě to totálně nebaví.
+Úplně to bylo jako vždycky
+to je ta bolest, teď to musíme trošku zrychlit
+a zhenusnit a tak.
+Co na to máš rád?
+I těma projektama, které jsou teda z bankingu, si říkáš.
+Hele, no to asi přišlo jako jedno s druhým.
+Jakož jsem šel z bankingu,
+byl jsem předtím na projektu, kde byla
+velký trafik, byla to burza,
+tak tam prostě bylo nutné
+pracovat opravdu s výkonem.
+Tam se to jinak nedalo, protože tam bychom
+nestíhali odbavovat požadavky.
+Každopádně, jak už jsem říkal,
+ty jsi zmínil Petře na livárnu
+z Hradce v Loni.
+Já už jsem se tam zmínil o tom, že vlastně první můj
+performance, nějaký
+kontakt byl právě s tím 3D studiem
+nebo s 3D grafikou, kde
+jsem měl maturitní projekt a postavil jsem školu,
+co bylo jako super, tak jsem to chtěl dát
+renderovat a bylo to
+na světě. První issue bylo
+OK, renderování bude trvat dva měsíce
+a já jsem měl
+do vodevzdání asi týden.
+A to je dobrá výmluva, nemůžu to vodevzdat,
+sorry, rendruju. Ale ho vše to dělá.
+Já jsem to stavil asi půl roku a
+na konci jsem se tam ještě přehodil přes nějaký materiál,
+nějaký bodlesky a to bylo to peklo.
+Takže tam už to bylo o tom,
+že to muselo se nějakým způsobem optimalizovat
+a buď to bylo o tom to kompletně překopat,
+přidělat, zjednodušit modely
+a nebo prostě to renderovat
+na něčím silnějším, což zase souvisí
+už i třeba s tím světem našem,
+s programováním, kdy můžeš škálovat
+prostě díky výkonu
+do nekonečna téměř
+a nebo prostě to přepíšeš tak, aby to bylo
+samozřejmě výkonnější, protože škálovat
+se dá, ale to do nekonečna je jako hrozně omezený.
+To je podobně jako vesmír. Prostě buď to je nebo není.
+Takže tvá cesta k performance je
+de facto, řekněme, znouzetnost
+v tom smyslu, že byl jsi donucen okolnostmi,
+aby tě to začalo zajímat. Určitě, určitě z počátku
+to bylo jako nutnost a
+postupně samozřejmě jsem se dostal na projekty
+už teda webový nebo nějaké
+aplikace, kde ten performance vůbec nebyl
+potřeba řešit, protože
+co si budem povídat, pokud neděláš
+opravdu jako velký traffic nebo big data,
+tak z 90%
+asi nepotřebuješ řešit to, jestli
+používáš string nebo string builder a takovýhle
+drobnosti. Každopádně
+právě na některých projektech to bylo úplně
+jako nutnost. A když se bavíme
+o téhle tý tý libůzce,
+jak daleko to sahá? Je to jenom, bavíme se
+na úrovni kódu, aplikace nebo
+koukáš i, řekněme, na úrovni třeba
+IO, databáze, síť?
+Asi jak jde, jak co.
+Je to prostě podle té potřeby.
+Mě určitě zajímá, jak ta aplikace
+je stavěná celá jako sama o sobě.
+Zjímavá mě architektura té aplikace nebo vůbec, jak to ten
+uživatel bude používat.
+To je vlastně jako ten asi high level
+prostě pohled.
+Na druhou stranu to nejzajímavější pro mě
+je na to sladit dohromady.
+Nechci říct jako orchestrace těch všech
+možných komponent, ale tak, aby to dávalo
+smysl principělně, protože asi nemá
+smysl dát všechno na
+frontend, prostě do
+JavaScriptu, aby se zbáznil uživatel a nebežilo mu to,
+když máme silnej server na pozadí.
+Ale nějakým způsobem to dost distribuovat
+podle potřeby.
+A potom samozřejmě pro mě
+přesně, jak jsi říkal, ta uchylka, to už je ten kód,
+kdy mě to začíná
+hodně zajímat, kdy si s tím hraju vyložně.
+Jo, je to fakt jako hobby, jako hrám.
+Prostě zkusit si, hele, dá se napsat
+třeba trošku líp, nebo jako
+jinak. A pak člověk je překvapený,
+že to jinak bylo fakt možná i lepší.
+A nebo naopak někde ten kód je hrozně hezký,
+ale totálně neoptimální, nebo naopak
+vypadá ošklivě, ale
+může být super.
+Pomáháš si třeba v rámci toho i nějakýma toolama,
+který víš, že tu performance v tu denou chvíli
+můžou mít lepší, typicky nějaký big data
+tooly, nebo takovýhle věci, nebo
+tohle už neřešíš?
+No, jako používám určitě nějaký tooling na to, abych viděl,
+jak si stojí performance.
+Minimálně prostě vyvížu z toho, když zapneš
+projekt, nebo respektive tu aplikaci
+si spustíš, tato máš performance tools,
+které ti naběhnou, vidíš tam
+procesor, vidíš tam garbage collection,
+průběh paměti a tak dál. Takže to je věc, která je
+super minimálně při debagu už
+sledovat. Zajména pokud víš, že ta aplikace
+bude náročná, nebo bude potřeba řešit
+performance. Ve chvíli, kdy tvoříš nějakou
+webovou prezentaci, kde
+máš pět návštěvníků za měsíc, tak ti to úplně ukradne,
+jak to napíšeš. Jasně, jasně.
+No ale tooling samozřejmě používám
+minimálně, tenhlete základní
+mám puštěný v podstatě po každý, když si
+debaguji aplikaci. Jinak potom,
+když vím, že to bude hodně náročnější,
+tak de facto použijem další
+nějaké toolingy, ať už
+je to z Microsoftu,
+PerfView,
+PerfMemory, nebo
+dejme tomu
+K6K, JMeter
+a podobně. Prostě už na testování konkrétních
+caseů. Jo, jo. A co vlastně
+všechno může tu performance ovlivnit?
+Já si dokážu představit, že
+to,
+kde to na té cestě můžu zkazit,
+je, jako řekl, těch míst
+je tam určitě mnoho.
+Nejčastěji třeba, kde ta performance,
+když vidíš nějaký kód, nebo vidíš
+obecně tu aplikaci, kam jdeš první,
+když víš, že to je pomalý?
+No ale jako
+taková skoro jistota je, když
+ta aplikace využívá databazy, jako že dneska
+skoro všechny, tak to máš jako
+skoro 90% hit, že to tam bude.
+A pokud tam máš
+ještě navíc nějaký ROM, tak to může
+být jako poměrně jistota úplná.
+A na druhou stranu, ne vždycky
+to tak je, můžou tam být úplně nějaké jiné
+libůstky. Typicky kam jdou
+je
+podívat se na to, co je vlastně taková ta nejčastější
+cesta, která se v té aplikaci používá.
+Hotpass.
+A to je vlastně to grow toho, kam se koukat.
+To vlastně dává i největší smysl, protože
+nemá smysl řešit nějaké HKSy, které se pustějí
+nevím, jednou denně
+a nejsou nějak úplně
+super optimální, ale
+prostě jestli to poběží minutu nebo minutu
+a desivteřinu je úplně jako ukradaný.
+Na druhou stranu většinu se volá tisíckrát za minutu
+je asi to podstatný.
+Takže podle toho.
+A ty když, protože vím, že ty jsi samozřejmě
+senior architekt, máš pod sebou i juniory,
+to znamená ty i nějakým způsobem
+určitě bělá tepiárka, kontroluješ kód
+nebo minimálně třeba nakoukneš přes ramínku
+a řekneš, hele, tak tady jako ne.
+Co je taková typická první,
+performance, budu dotnat junior
+v tvým týmu?
+Jasně, když budeš úplně junior, tak předpokládám,
+že největší chybu uděláš
+hnedka na začátku a to je
+nedostatek plánování. Prostě nevíš
+třeba, co je přesně requirement, co je požadavek,
+jak se ta aplikace bude používat,
+to je jakoby z té principální věci.
+Potom samozřejmě to plánování, jak říkám,
+to má dvě úskalí. By to plánuješ málo
+nebo příliš moc.
+A to já jsem si tím prošel
+samozřejmě taky na začátku, když jsem byl junior
+a dělal jsem si nějaký vlastní aplikace,
+tak jsem si říkal,
+tak to rovnou nakodíme, bude to nejrychlejší
+a pak se ti ukáže, že
+by se vyplatilo investovat do analýzy, aspoň trochu.
+A díky té analýze objevíš spoustu
+úskalí, kde prostě můžeš řešit už
+nějaký edge case pro
+výkon a tak dál. No ale na druhé straně
+máš tu věc, kdy plánuješ
+zase už moc a říkáš si, no
+tyjo, moje aplikace, tyjo, já tam jednou
+budu potřebovat tohle a možná pak taky támhle to.
+A už to začneš rovnou na to stavět.
+No a samozřejmě, jakmile stavíš univerzální aplikaci,
+tak už jako s nutností musí být
+neoptimální, protože
+když si říkáš fakt jako, aby to umělo všechno,
+tak to není stavené na míru
+tomu, co potřebuješ. Takže logicky tam musíš
+ztrátit výkon. No to je docela challenge
+jako odhadnout, kdy už teda dobře,
+už jsme si zanalizovali, co jsme potřebovali
+a teď pojďme kodovat. No, jako je to tak, no.
+Ono to je přesně, jak říkáš,
+udělat si analýzu do nějaký míry,
+minimálně aspoň být takový ty jako
+kritické okamžiky, aby jsme měli nějakou kostru.
+Podle toho už se dá samozřejmě kodit.
+Na druhou stranu, jako když už zase,
+jak jsem říkal, plánuješ příliš mnoho, tak najít
+i ten konec, jo. Nejenom, kde
+skončit včas, ale kdy
+obráceně.
+Kdy skončit
+a ještě by to třeba nemuselo stačit.
+A nebo naopak skončit včas, protože už jako je to
+fakt moc, úplně zbytečně.
+A děláte si takovýhle analitický sedánky jako per sprint
+třeba s tím týmem, nebo jak
+nad tím pracujete? No hele, jako k tomuhle by měl
+principiálně sloužit grooming.
+Když si prostě povíš o tom, co ta aplikace
+vlastně má dělat, nebo ta featurea,
+o čem by vlastně měla být. Z toho si ti ukážou
+nějaké prostě hranice
+nebo nějaké boundary toho,
+co to vlastně je. A tím by se
+tím měl ukázat i teoreticky nějaký
+performance limit, nebo
+naopak požadavek. Ale
+jak už to bývá, ne všechno
+se groomuje tak, jak by mělo.
+Analýze může probíhat u některých
+menších feature, tak jakože jí máš v hlavě
+pět minut před kodiním a někdy je to
+tak velká feature, že potřebuješ se zjednotit s celým týmem
+nebo třeba s více týmama dohromady.
+Takže to strašně záleží.
+Má smysl na to myslet
+jako víc nebo mín od začátku?
+Protože, jak jsi to vlastně naťuknul
+v tom smyslu, že když se to přežene ze začátku,
+tak to může víc k tomu, že ten kód
+vlastně ve finále nemusí být optimální.
+Možná ani to můžeš přehnat.
+A primárně, což je zase ten můj
+pohled, je, že je hnusnej
+ten kód a velmi
+často vlastně ti třeba brání
+nějakýmu rychlýmu refaktoringu, protože už je udělaný
+třeba jako v případě, kdybychom to psali
+v našem týmu, tak
+tam začne žázet nějaké mutace
+a tak, začneš se odklonovat od
+toho business case'u
+jako k tomu performance case'u
+a pak je těžší to vlastně zpravovat.
+Takže kdy třeba ty vidíš ze zkušenosti,
+že teď to ještě nechme bejt
+a pak teprve to jako
+vohekujeme, nebo když to možná
+není správný slovo, ale pak to teda jako
+zoptimalizujeme pro tu performance v určitých
+místech. No jasně. Hele,
+jak jsem říkal, už u toho plánování
+víš prostě, jak moc to bude náročný, ta aplikace,
+jak moc bude náročná na výkon.
+To znamená, pokud to bude něco kritického, typicky
+burza, kde ti frčí, já nevím, milion message'í
+za minutu, tak víš, že jako nemůžeš
+si dovolit takový ty jako
+úplně vždycky krásný, jednoduchý
+kód, který kašleš na to, jak je optimální.
+Prostě tam musíš pracovat už od začátku s tím.
+Protože prostě víš o tom.
+Na druhou stranu, ten kód musí vždycky
+být jako nejdřív funkční a pak může být i krásný
+nebo vyladěný. Takže
+samozřejmě chce to dělat v nějakých krocích,
+cyklit, prostě refactoring a tak dál.
+A jak jsi říkal o tom,
+jestli ten kód je hnusný nebo krásný, ono to strašně
+záleží, protože někdy
+i krásný kód může být
+optimálního. Typicky
+já jsem kdysi dostal nějakou pohovorovku
+a možná, že dokonce i když jsem
+šel do Cienka,
+tak se mě zeptal tehdy
+Jaromír, možná si ho pamatujíš.
+A jsem mě zeptal,
+co když dostaneš jako
+v PR-ku od juniora
+jako řešení, prostě bude
+nějaký typický cyklus for.
+A víš, že existuje link.
+Tak to samozřejmě já zeptám
+tebe doma.
+A vrátíš mu to?
+Nebo co vlastně s tím uděláš,
+když dostaneš takhle for cyklus?
+To je otázka. U mě teďka už v mým pohledu
+for cyklus znamená, že to není
+mapování, dát z jednoho na druhý,
+že se tam vevnitř bez tak děje nějaký
+jako IO, takže spíš by šel po nějakým jako
+smelu, proč tam má, jako v našem případě,
+proč tam má iter, proč tam nemá třeba map
+nebo select. Takže bych
+jako chtěl zjistit, proč to tak je.
+Ale dělali jsme to taky. Taky jsem jako dělal to,
+že prostě když jsem potřebal v tom, typicky
+třeba máš nějakou orchestraci
+Azure Functions a chceš jako
+ty funkce jako odpálit, oiterovat,
+tak vlastně ty musíš je
+evajtnout v každém tom cyklu.
+Takže jo, takže jsou use cases,
+když se dokážu představit, že to udělám, ale pokud
+by to bylo něco totálně jako jednoduché, tak bych
+asi spířek, ale možná tak. Takhle, já
+myslím, že dneska už ti toho řekne ReSharper.
+Řekne, hej kámo, nechceš to náhodou napsat
+jako do jednoho linku.
+Je to tak, no. On ti to řekne, to samozřejmě
+je skvělá nápověda. A na druhou stranu
+ten for je prostě stále nejvýkonnější
+oproti čemukoliv jinému, protože je to
+to nejjednodušší, co vlastně můžeš udělat.
+Nemáš tam žádnou zbytečnou alokaci navíc, nemáš tam žádný
+delegáty prostě, které vznikají třeba při linku
+a tak dál. Takže
+samozřejmě ten junior ve finále ti odezdal
+nejoptimálnější řešení.
+Jakož se čteš na konci dne.
+A ve finále to jako zase až tak
+juniorní ve svým podstatě není.
+A na druhou stranu, jak jsem
+říkal předtím, ten kód musí být v první řadě
+čitelný a pochopitelný.
+Já jsem dokonce někde slyšel úplně skvělou
+hlášku, nevím jestli budu citovat úplně přesně, ale
+máš připsat kód tak,
+jako kdyby ho poté přebíral
+násilnický psychopat,
+který ví, kde bydlíš.
+Tohle vždycky se na to vzpomínuji, když si říkám
+aaa, takže jdem refaktorovat ještě jednou.
+A ono to dává smysl prostě.
+Ten kód musí být v první řadě čitelný,
+udřevatelný a ta optimalizace
+přichází, nebo výkonová optimalizace
+přichází samozřejmě hnedka v následujícím
+krokům, pokud je potřeba.
+Ty jsi mluvil o tom plánování, to znamená
+součástí plánování je i řekněme
+nějaká architektura, nějaké vymyšlení,
+jak ten systém bude rozdělený,
+jak budou různý moduly, budou různý části,
+nebo třeba jestli to úplně rozhodím do nějakých
+servis, je nějaký architektonický
+přístup, který obecně nahrává
+lepší performance, nějaká jako,
+vím, že neexistuje silver bullet, ale
+řekněme nějaký jako go-to pattern
+pro to, když chci tu aplikaci
+napsat ještě furt hezky, funkčně,
+funkčně biznisově, aby dělala to, co má,
+aby ten psychopat si mě doma nenašel,
+ale zároveň, abych si nezavřel dveře k tomu,
+že to chci třeba někdy z hlediska performance
+trošku potunit.
+Hele, já se docela často stěhuju,
+takže se těch způsobů...
+Ty jsi v pohodě, jasný.
+Ne, a hele, silver bullet
+fakt jako neexistuje.
+Každá aplikace má úplně jiný požadavek,
+nebo každá feature má úplně jiný požadavek.
+A s tím vlastně souvisí začátek
+jako celý té odpovědi.
+Z hlediska výkonu, ať už jsou to
+na provizory z hlediska architektury,
+nebo i třeba psaní kódu pro konkrétní
+postupy.
+Ale, jako, víš co,
+když to vezmu úplně
+extrémně, já teď budu střídat úplně
+náhodný věci, protože, říkám,
+neznám konkrétní case například,
+takže prostě fakt vezmu ty nejběžnější.
+Asi se vyplatí obecně, nebo dá se říct,
+že se obecně vyplatí cacheovat, pokud
+dává cache smysl vůbec v tom projektu.
+A nemá asi smysl na spravovodajském
+lidí během minuty
+pokažit to načítat z databáze.
+Tam prostě cache je rozhodně cesta, kudy jít.
+A to je prostě jeden z principů, nebo
+jeden z architektických postupů,
+jak to stavět. Na druhou stranu,
+ne všechno
+nutně musí souviset s výkonem.
+Máme třeba CQRS, který rozhodně dává smysl
+z hlediska udržby kódu, nebo třeba
+i z toho, jakým způsobem fungují
+některý flow v té aplikaci.
+Ale není to úplně,
+že když to použiješ, tak máš
+zajištěno, že to bude super.
+I to se dá prostě strašně zneužít, nebo
+použít špatně.
+Takže asi, jestli to chápu správně, jít potom
+třeba, jak často se mění
+ty data, který, jak často konzumují
+před příkladem toho spravovodajského servru,
+že ta zpráva je napsaná jednou
+třeba za hodinu se to změní a pak
+máš 60 minut, kdy klidně můžeš
+bude sílat starý obsah,
+který nemusí vůbec jít přes databázy.
+Je to přesně tak.
+Chodí tohle z toho od klientů?
+A když startujeme ty projekty, občas
+těch non-functional requirements, jako třeba
+tohle zmíněj, ale musím říct, že
+pokud to není vyloženě kritický
+use case, pokud opravdu neobsluhou
+jako fintech, transakce a tak,
+tak moc o performance
+vlastně nemluví a to i v případě,
+že si říká, že třeba by to mohli
+zmínit, že to není úplně kritický,
+ale zase, že to není
+tak titěrný, že je potřeba to opomínat.
+Jako máš ty zkušenosti?
+Hele, no,
+je to přesně, jak říkáš,
+většinou to zákazník nezmínuje,
+protože prostě si buď to neuvědomuje
+ten dopad, kam až ta jeho aplikace může
+narůst, protože většinou to bývá, hele, začneme
+s něčím, uvidíme, jak ten biznis poroste
+a až naroste do nějaké míry,
+tak to začneme řešit. Což může být
+samozřejmě cesta, ale
+někdy, když už jako tušíš, že tam bude
+nějaký větší provoz, třeba ty burze,
+tak jako je to dobré už jako
+minimálně zmínit od začátku. Já jsem
+zrovna teď byl nedávno na
+jednom setkání se zákazníkem,
+který v podstatě performance zmíněval hnedka jako
+asi třetí bod celý věci.
+Mluvil o tom, co to vlastně, co ta aplikace má dělat,
+jak se to má chovat, co potřebuje
+za požadavky, jo, a hlavně rozhodně,
+že musí být výkona, jo, protože je prostě
+očekavý takový a takový trafik. Takže to je
+určitě dobrý, když tohleto zákazník
+tuší, protože to znamená, že
+má už minimálně nějaký biznesplán,
+že ví vlastně, co přesně chce.
+A pokud to neví, tak samozřejmě na druhé straně
+by měli být schopní architekti, kteří mu řeknou,
+hele, tohleto a tohleto má takovýhle úzkalý
+a případně musím poradit.
+Nevím, ještě napadla jenom taková jedna,
+co security
+s tím spojená, jo, dejme tomu třeba,
+jako bankingu si dovedu představit, že prostě
+na jedné straně je to performance, na druhé straně to musí být
+nějakým způsobem zajištěný a to může jít
+jako ty dvě věci můžou jít proti sobě.
+Je to něco, co řešíte často, nebo?
+Rozhodně to proti sobě jde,
+protože security znamená obvykle nějaký
+hashování nebo prostě
+nějaký schovávání dát. Jakýkoliv
+schovávání znamená nějaký algoritmu zatím schovaný.
+A když tam přidáváš nějakou věc navíc,
+tak pochopitelně to bude
+ztráta na výkonu, ať už v čase
+na procesoru nebo v paměti nebo kdekoliv.
+A jinak
+jako, jestli se to řeší
+často, jsou různý projekty
+prostě, no.
+To řekl hezky.
+Jsou různý projekty, o to se Martin směje tady.
+Jedna z věcí, kterou si říkal,
+je, že ne vždycky má úplně
+smysl tu performance řešit, že dost
+možná i dojdeme k tomu,
+že ne každý kód musí být
+v prvý řadě hned optimalizovaný.
+Máš nějaký typický případ, kdy to vidíš
+v kódu, říkáš, ale tohle už
+třeba v nový verzi dotnetu neřeš, nebo
+nevím, něco takový, jo?
+No, hele, jo,
+samozřejmě jsou různý overkilly, který prostě
+lidi řeší, nebo naopak by řešit
+asi nemuseli, ale
+to už je pak je o tom, jestli jsi fakt
+trošku uchyl a punchmaker
+zajímá tě to tak, že si to chceš zkusit tam udělat
+a řekneš si, jo, zlepšil jsem to
+prostě o 0,15 nanosekundy
+a je to super prostě, jo.
+A nebo jestli si řekneš, hele, tohle je fakt úplně zbytečný,
+protože to stále okrát prachy zákazníka
+nedává to vůbec smyslu, jo.
+Typicky já
+sleduju poměrně často kanál
+Nika Čapsase na YouTubeu, to je
+prostě člověk, který se zabývá performancem
+zejména a
+přichází tam s nějakýma věcma, který prostě
+já nestíhám samozřejmě sám si najít
+ozkoušet, jestli to prostě podívám na něj
+řeknu si, jo, to je super,
+zkusím si to taky, podívám se proč
+a on to tam i hezky vysvětlí, takže samozřejmě se tím
+vydělávám, ale někdy z těch věcí
+jsou opravdu jako totálně hraniční.
+Třeba jedna z těch věcí byla
+jako sealed
+klásy, jo, zavřený třídy.
+Nebo nevím,
+se tomu česky říká zavřená třída, prostě sealed.
+Ono tam
+má samozřejmě velký výkon
+nebo velký zlepšení ve výkonu
+třeba, když
+voláš virtuální metody, to zlepšení je tam
+třeba než 40 násobný, pokud je ta
+klása sealed. Pokud není, tak je to samozřejmě pomalejší.
+Nebo když
+kástíš, přetypováváš
+prostě ten typ, tak je to asi desetkrát
+rychlejší. Což je sice super,
+ale třeba to přetypovávání znamená,
+že z 1,5 nanosekundy
+se dostaneš na 0,15 nanosekundy.
+Což v celkem součtu je úplně jako nic, jo.
+Takže samozřejmě třeba na té burze bych to použil,
+tam to asi smysl dává,
+protože tam jedeš fakt jako
+miliony messageí za minutu
+a na druhou stranu jako kdekoliv
+jinde to smysl prostě nedává, jo.
+Já se ještě teda zeptám
+na ty sealed klásy, protože my jsme to
+tady vlastně v minulých sériích řešili.
+Jestli by tohle
+nemělo být vlastně defaultní, že...
+No. Zajímá mě tvůj názor, jo.
+Nepocouvám. Někdo si myslí, že by to
+mělo být defaultní chování, že teprve až když řeknu,
+že je něco děditelného, tak...
+Ano. Tak to tak má být.
+Někdo říká, ne, prostě dědičnost je
+esenciální součást OOP a nešahujte na to.
+Jak to vidíš ty? Hele, já to vidím tak, že
+je to přesně, jak říkáš, protože
+dokonce i spousta jazyků to má
+defaultně udělané jako sealed.
+C-Sharp to tak nemá, přiznám se, že netuším,
+co zatím stálo za tímhletím rozhodnutím,
+proč to má otevřený by default.
+Každopádně
+může zatím být to, že když
+používáš svůj kód a
+dáš tu nějakou knihovnu, kterou chceš poskytnout dál,
+tak aby ty lidi to mohli volně rozšiřovat.
+Teoreticky. A je to jako by default,
+že to je možná ta myšlenka.
+Na druhou stranu, ty si můžeš explicitně v těch ostatních jazycích
+říct, hele, já tohleto chci nechat
+otevřený, tak by to mohlo fungovat
+i v dotnetu. Proč to také není? Netuším.
+Ale rozhodně podle mýho názoru,
+by ty třídy měly být asi spíš
+raději zavřený.
+Já jsem to jen tak chtěl. Zná tvůj názor. Díky za to.
+Ty jsi změňoval Nika Čapsase,
+což teda musíme říct, je velmi
+populární poslední dobou dotnetí kanála.
+Si dokonce myslím, že ten člověk si tím začal živit.
+Že bude šel z práce, kde je.
+Věřím tomu. A už vyloženě jede
+youtuber tím, že vyhledává si
+tyhle styly boostky a vymetá ty
+zatuchlý kouty, prostě dotnetu, zkouší
+různý věci, vysvětluje. Fakt dobrý kanál.
+Co se mi líbí, je ono to je většinou krátký.
+Je to nějakých 15 minut, 20 minut.
+I kratší dokonce jsou tam sedmiminutový kusy,
+kde on opravdu dokáže vystihnout
+skvělé, vysvětlit tu problematiku.
+Říkám, já se to pouštím častokrát
+ráno, přijdu do práce, vidím, hele, tam něco vyskočilo
+nového, sedm minut, paráda, kouknu na to
+a jedu den.
+Mě tam něco ze tě překvapilo? Za poslední dobu jsi řekl,
+jo, tak to jsem netušil, to je pecká.
+Že tam je něco s interpolacema
+stringovýma, že se výrazně zlepšili
+v posledním dotnetu. Je to tak, je to tak.
+Hele, string interpolace nebo vůbec práce se stringem,
+to byla vždycky bolest.
+Ty jsi na to ptal předtím,
+co uděláš jako první chybu, když otevřeš
+Visual Studio, nebo prostě jakýkoliv jiný editor.
+Typicky prostě junior
+netuší,
+nebo netuší, nechci se jí kondotnout,
+samozřejmě spousty výpojářů, ale spousta juniorů
+netuší, jaký rozdíl mezi stringem,
+stringbuilderem a tak dál, jak se to chová,
+proč vlastně string sám o sobě je
+tak teoreticky náročný
+na paměť.
+Je to k tomu, že samozřejmě můj table, a ty lidi, když ho jenom
+trošku rozšířejí, tak samozřejmě vznikají nový kopy a tak dál.
+Tohle všechno byla vždycky
+velká bolest, až do dotnetu, já nevím,
+šestky minimálně, dotnet core 6.
+Co se díče
+od sedmičky, oni se s tím velmi pěkně
+pohráli, tam už mají
+dokonce i optimalizace na to, pokud
+máš nějaký typ
+procesorů podle architektury,
+tak volej přístup, jaký algoritmus
+použijí. Použijí tam
+vektorizace, což je úplná magie,
+když to vezmu z hlediska
+toho současného, nebo dosávadního
+programování.
+Dneska už vlastně to nedává tak velký smysl řešit.
+Samozřejmě trochu ano, ale
+dneska už kolikrát v některých situacích
+je string interpolation
+výkonnější, než když to napíšeš ručně
+přes string builder.
+Já myslím, že to bylo jaký pravidlo, snad třetí
+konka, něco takového,
+když už po čtvrtýho
+nějak rozšířoval ten string, tak už bylo
+lepší šláhnout po string builderu,
+ale do tří snad, že to bylo dokonce rychlejší
+tím starým stylem.
+Každopádně
+s tím string builderem, zrovna jsem včera
+psal nějaký kus kodu, kde jsem věděl,
+že mi může vyskočit výjimka, chtěl jsem tam
+zalogovat nějakou informaci a
+úplně jsem neřešil, jestli to bude
+psaný string builderem, nebo
+string conkats, nebo
+interpolation, protože už je to
+na sedmičce a když to
+budu logovat jednou za hodinu, tak mi to
+fakt úplně jedno.
+– Takže co budou dělat teďka ty chudáci, který
+tohle mají vždycky v nějakých těch pohodových
+otázkách, teď tam na tom
+drtějí toho chudáka juniora
+prostě takovou kravinou.
+To už je pryč, teď už řekne, teď už to neřeš.
+– Je to tak, no. – A myslíš, že to je
+obecně trend, že ty jazyky,
+platformy, řekněme, ty obecně
+vývojový prostředí a vůbec ten
+způsob, jak vzniká software,
+že už se snaží
+i de facto od těchto low level věcí
+tě de facto abstrahovat, že jo? – Určitě,
+no. V podstatě už třeba
+sám o sobě dotnet, to už je prostě
+interpretovaný jazyk ve svým podstatě na konci,
+když to zbildíš a
+rozhodně nemáš tam potřebu,
+ve většině případů samozřejmě, nemáš potřebu si hrát
+s pointerama nebo s něčím takovým.
+To prostě je záležitost Cčka
+nebo Cčkařů obecně
+a dotnet už je o něco jako víc high level
+pohled na
+programování a dneska máš prostě
+toolingy, které ti naklikají vebové aplikace
+nebo dokonce i programy jako tlustěchy
+prostě přes IDčko, přes UIko.
+Takže samozřejmě nejsou
+asi tak optimální a neumí to všechno,
+ale je tenhle ten trend.
+Já jsem četl hrozně hezkou věc na LinkedInu
+teďka o AI, které to s tím
+souvisí, že nemusíme se bát
+tím, že nás nahradí AI, ale nahradí
+nás lidi, kteří používají pracovat.
+– Jasně. – Je to tak.
+Furt bude někdo do ty roboty, bude muset naprogramovat na začátku.
+Samozřejmě pak už na konci
+asi ne, no. – My jsme zmiňovali
+tyhle ty novinky v dotnetu.
+Můžeš třeba ještě posluchačům říct,
+já vím, že to už je samozřejmě fousatější věc,
+ale v jednu chvíli přišel do dotnetu Spen,
+jako velmi zajímavý
+tip, třeba k čemu se to
+používá, jaký jsou nějaký typický use cases
+a tak dále, protože já osobně
+jsem ho použil jenom, když jsem koukal na nějakou
+Chinchorovu přednášku, kde
+to na VUGU ukazoval, tak jsem si to jako lokálně zkusil
+a pak, abych byl upřímný,
+už jsem to nikdy nepoužil. – Já třeba taky ne.
+– No jasně, no.
+U tebe to není dost tak divný.
+Jak to máš ty, Martěs? – No já jsem taky
+nepoužil. Ne, teď
+dělám samozřejmě srandu.
+A jo, Spen je to
+velmi zajímavá věc, co přišla. Je to vlastně
+úplně jiný způsob práce právě
+třeba s těma stringama, která to dává
+asi v tuhle chvíli největší smysl, nebo
+nejčastěji smysl.
+Když se vezmeš třeba ten string, jak už jsem zmínil, je prostě
+immutable. Ty, když si ho chceš
+o něco rozšířit, prostě přidáš mu tam další znak,
+tak to znamená kopii od toho stringu
+v paměti, plus samozřejmě ten novej znak navíc.
+Nehdej bože,
+kdyby jsi si chtěl jenom z něj vytáhnout nějakou část.
+Když přidáváš, tak je to celkem
+logický, že vytváříš kopii. Ale když
+chceš z něj vytáhnout jenom nějaký malý subset,
+tak nedává smysl
+úplně dělat novou kopii
+těch samých informací, které už tam jednou jsou.
+Takže prostě použiješ span
+a řekneš mu, že chceš
+ukázat na tenhle ten string
+a řekneš, jak dlouhej
+řetězec to má být, to znamená odkud kam šaháš.
+A to je vlastně ten span,
+to je ten prostor. A podstatná
+věc je ta, že se to neodehrává vůbec na heapě,
+na haldě v paměti,
+ale na zásobníku. To znamená,
+ten se vyprazně úplně v jiný frekvenci
+než paměť na heapě,
+protože to se stará
+garbage collector, který má prostě nějaký svůj cyklus.
+Je to samozřejmě mnohem
+náročnější na výkon, stojí tě potom
+procesor a tak dál.
+Ne prostě procesor nestojí, ale stojí aplikace,
+protože to čerpá procesorový čas.
+Ten zásobník se vyprazně mnohem
+rychleji, jednodušeji a je to v podstatě
+jenom jeden malinkatý záznam s odkazem
+na ten samý pointer a hnedka další
+záznam v tom zásobníku je jenom,
+jak je dlouhý ten span, to zná kolik znaků de facto.
+– Čili takový typický juzič vidím,
+parzuju nějaký
+velký množství data, potřebuju
+do nich koukat různě
+nebo do toho řádku třeba se vytahovat
+různý část, než bych po každý ten celý řádek
+tahal do paměti. – Jasně, typicky
+jako často vidím, kde se to
+používá, nebo kde by se to dalo,
+nebo mělo spíš použít. Každý pracujeme
+asi s nějakým formatem data a času.
+Typicky máš tam rok, měsíc, den
+a chceš někam použít jenom
+tu část třeba toho roku. A tak jako
+vytvářet nový string je nesmysl, tam
+prostě vezmeš jenom ten span a
+ukážeš, ale je to od znaku 0
+a jsou to 4 znaky. A je to
+úplně skoro zadarmo.
+– Je tam ještě třeba něco, co tě jako
+zaujalo, že jsi vlastně říkal, aha, tak oni
+teďka začali používat
+v té knihovně, v nový verzi začali
+používat span a zrychleli to tím.
+– Hele jo, oni začali prostě
+s příchodem spanu, to nadspali všude, samozřejmě
+v celý BCLC, takže se celý
+dotnet začal chovat trošku
+jinak. Díky tomu se strašně
+zvýšil výkon, zejména prostě ohledně stringů
+a tak dál. Ale
+díky těm overloadům, které vznikly nový,
+ten span
+v podstatě má implicitní
+konverzi dotnetu pro string. Takže de facto
+když máš nějaký overload
+nebo nějakou metodu, která přijímá span,
+tak prostě do něj šupneš
+string, on si to implicitně skonvertuje
+a nemusíš to byt řešit. Nebo aspoň v C-sharpu.
+– Tak to je super.
+My už jsme se trošičku toho dotkli,
+když jsi tady mluvil o těch abstrakcích, bavili jsme se
+vlastně trošku, jsme se bavili i o linku
+a tak dále. Tak pojďme si vlastně
+říct, že linku, to je jedna z
+nejoblíbenějších obecně
+abstrakcí jako v dotnetu.
+Jak je to vlastně s performance a linku?
+Protože já si třeba pamatuju doby, kdy jsme
+ještě používali, kdy Entity Framework
+nebyl tak obecně
+populární, nebo byly různý link
+to SQL. A to bylo vždycky, že si
+napsal krásně linkový dotaz, ty jsi řekl, že ho
+chceš vlastně províst nad
+databází a začalo peklo
+na zemi performance.
+Jak je to teďka obecně s linkem
+z performance?
+Jsou tam nějaký, nevím,
+temní kouty?
+– No, jsou, ale jako vždycky, jako všude.
+Není jich asi už tolik,
+díky tomu, že performance se stále řeší
+a s příchodem nový verze dotnetu je vždycky
+nějaký performance boost, ať už
+v jakýkoliv oblasti
+do dotnetu, nebo
+těch jednotlivých komponent.
+Každopádně jsou samozřejmě nějaké
+case, které potřeba pořád
+řešit a dávat se na ně pozor.
+Zeměna s ohledem potom třeba na nějaký ORM a tak dál.
+Ale link
+sám o sobě, prostě
+jenom abstrakce nad
+tím, jak se dotazuješ.
+Nicméně
+prostě pořád musíš mít na mysli to,
+co zatím fyzicky běží.
+Jestli zatím běží prostě SQL,
+referenční databáze, nebo noSQL.
+A to je prostě
+obrovský rozdíl. Sice architektura nám říká,
+hele, nemusíš se o to starat, prostě tady máš jenom interfejs
+a jeď a nazdar.
+Na druhou stranu, prostě pokud tuhletu
+znalost nemáš, tak
+můžeš se dopustit strašně moc chyb,
+protože typicky,
+když si budeš
+dotečkovávat přes nějaký navigační
+property a bude to dokumentová databáze,
+tě to stojí furt nula, protože je to furt v rámci stejných
+dát, které už ti přišly.
+Ve chvíli, kdy prostě tam máš
+joiny a jsi na desátý úrovni
+joinů, tak už to můžeš...
+Jsi staneš celou databázi.
+Jsi staneš celou databázi a hlavně toho dotezu se už
+nikdy nedočkáš, protože tam ti dojde prostě
+ke kartéřské explozi a totálně
+nedočkáš si výsledku.
+Ale samozřejmě tady s tímhletím už se
+počítá v nových dotnetech, nebo respektive
+ne v dotnetech, ale v nových Entity Frameworkcích
+například. Máš
+S no query,
+pardon,
+ne, S no query, si zvládnu, nepamatuju, jak se
+tady kominuje ta metoda, S split
+query, sorry,
+která
+ti vlastně sama o sobě dokáže
+ty joiny rozsěkat tak, aby to dávalo
+nějaký smysl, prostě na menší
+dotazy na jednotlivý části a pak to spojí
+v podstatě v paměti, což díky tomu
+ušetříš strašně moc
+výkonu na
+databazovém serveru
+a díky tomu prostě ta
+aplikace může fungovat. Dočkáš
+si výsledku v rájném čase, řekněme.
+Což mě napadá, teďka vlastně v době klaudů
+řeší třeba klienti to, že právě
+ten výkon chtějí zlepšit proto, aby
+neměli takový náklady na straně
+třeba klaudů, protože vím, že teďka jsme
+řešili nějaký jako Hadoopí klasterná
+Databricks, teďka hrozně oblíbený
+v tom datovém světě.
+No nějak nám to nešlo, tak Tom Ficek
+tam zatáhnul táhlem a zase to šlo
+jako krásně, jenom vlastně jsme
+museli přitlačit.
+No jasně, přesně, škálovat se dá,
+zejména horizontálně skoro do nekonečna,
+akorát pak se prostě nedoplatíš.
+Pořád má smysl řešit
+výkon, zejména právě
+v těchto věcech, taky
+to je typicky problém s tu databází.
+Teďka jsem mluvil o té kartéské expozi, kdy
+se strašně jednoduše dopustíš takového
+nějaké zdivočilosti,
+ale pokud jako víš, co děláš, tak nemusíš
+pak tím táhlem prostě tahat do prava
+a připázet další tisíce euro.
+Stačí prostě jen u toho trošku přemýšlet
+a vědět, co to má dělat.
+Vy používáte
+často Entity Framework na svojich
+projektech, nebo třeba
+šánete kolikrát k DAPRu,
+který mě přijde v tomhle, co tam takový upřímnější
+v tom, že to je víc low level,
+nebo používáte i něco jiného třeba?
+Hele, tam, kde
+záleží, co zrovna používáme.
+Na tom současném projektu, kromě jednoho
+velkého monolitu, který prostě rozsvěkáváme na mikroservisy,
+tak samozřejmě tam je
+starý Entity Framework
+na nových servisách, tam máme
+buď to Entity Framework,
+protože zatím většinou stojí nějaký SQL,
+nebo prostě používáme
+úplně dokumentové databáze a
+taháme ty data úplně jinak, nebo prostě to jsou nějaké
+data storage, kde
+prostě taháme bluby.
+Takže je to strašně různý, to je výhoda
+mikroservis, že si vždycky každý case
+pořešíš technologii, kterou zrovna potřebuješ,
+která je nejvhodnější na to.
+Asi
+neexistuje univerzální cesta.
+Je třeba nějaká typická
+chyba, když ještě zůstaneme chvilku
+u toho Entity Frameworku,
+protože Entity Framework obecně v komunitě
+má takové
+love-hate
+stav, že lidi to milují,
+protože to je jednoduchý ORM, dá se to velmi jednoduše
+prostě
+nastavit a můžu to začít používat.
+Je to krásný, ale i velmi jednoduše
+se můžu dostat právě do stavu, že v tom začnu
+jako prasit a začnu prostě zabít tu databázi.
+Takže třeba jsou nějaký,
+řekněme, nebo existuje třeba nějaká stránka
+s nějakýma jako do and don't
+pro Entity Framework?
+Hele, jestli existuje nějaká stránka, já bych řekl, že asi jo,
+protože na internetu je úplně všechno.
+Jo, dobře, tak to beru zpátky,
+to byl dobrý dotaz.
+Ale rozhodně jsou nějaké jako doporučení věci, co
+jako nedělat, jak říkáš,
+love-hate komunita samozřejmě je.
+Já třeba jsem rád, že používáme Entity Framework
+tam, kde máme SQL, protože
+většinou ten SQL má takovou velikost, že je
+smysluplnej, nicméně máme i
+servisy, kde jsme šáli po DAPRu,
+jak už jsi zmínil, anebo prostě tam
+nedáváme DAPR, máme tam SQL, protože
+používáme k většině caseů a pro nějaký
+specifický case máme sice
+EF-ko, ale prostě použijeme
+ROL, query nebo
+nějaký command a tím to vyřešíme.
+Jako nemáme už nikde, že bychom
+používali čistý Adonet, jo.
+Ale měli jsme takový projekty dřív taky, jo.
+Ještě jedna taková kacířská,
+jo, protože to je
+zase, to je rozdělenej svět.
+Database first nebo code first?
+Jak to vidíš?
+No, záleží
+s čím přijde zákazník, že jo.
+Já s ním bych vláky konzultát.
+Já vím, já už
+jsem se přistoupil, že to říkám asi po desátý dnes.
+Ne, ne, ne, v pohodě, v pohodě. A ono to opravdu strašně
+záleží, protože když přijde zákazník s tím, že
+hele, tady mám prostě nějakou aplikaci, už databazy mám
+hotovou a teďka mi na tom prostě
+přestavte jako ten kód
+tak, aby to fungovalo lépe, tak už jako
+když máš databazy, asi nebudeš vytvářet na novo.
+Nebo asi jako nedává to tak velký smysl.
+Takže v tuhle chvíli jako database first je cesta,
+kudy si dá jít. Na druhou stranu, pokud
+začínáš na Greenfieldu,
+já osobně jsem vždycky
+radši za code first. Jo? Jo, rozhodně.
+To mě to mě docela překvapilo,
+protože já jsem si říkal, že
+u té database first si to můžu nastavit
+tak, tu strukturu, aby byla vlastně
+jako optimální na úrovni tam, kde to je,
+to znamená pro tu databázi, kdežto ten
+kód už je lehká abstrakce nad tím, že
+nemám úplně kontrolu, jak to v té databázi ve finále
+bude vypadat. Jako oprav mě, to byl jenom můj.
+Hele, jo, tak samozřejmě
+jsou tam některé jako takové ty věci,
+které nejsou třeba, dám říkat,
+když se zmluvím, entity framework,
+tak ne v každé verzi
+entity framework umožňuje udělat úplně to samé, co by si
+nadizajnoval přímo na tom síklu.
+To samozřejmě není vždycky dostupné.
+Na druhou stranu, vždycky, když vytváříš
+tu databázovou migraci, která souvisí
+právě s tím CodeFirst, tak
+jsi schopný tam dopsat vlastní
+kveru nebo vlastní komand a tímhletím
+si ty funčmikrovské věci
+prostě doladit. Na druhou stranu, jak se prostě
+vyvíjí entity framework,
+stejně tak jako dotnet, prostě přichází s novýma
+věcma, tak si troufám říct,
+že prostě tak na to už nenarážíme.
+Nebo zcela minimálně.
+Možná jsme se dostali zase tady do té fázy,
+že už nemá smysl to tolik řešit.
+Asi už tolik ne, no.
+A tady u těch performance projektů
+setkáváš se tam čím dál
+častěji s NoSQL databázem,
+nebo prostě
+vždycky i ta klasická SQL
+databáze najde svoje místo?
+Hele, nachází rozhodně svoje místo, protože
+když máš nějaké struktury, které ti přichází
+opravdu v relacích a
+nebo mají potřebu ty relační struktury,
+tak jako furt to smysl dává.
+Na druhou stranu je to otázka
+o tom, jestli zvolíš SQL nebo NoSQL
+i v jiných aspektách. To není jenom o tom,
+o té struktuře, dejme tomu.
+Ve svým podstatě cokoliv můžeš uložit kamkoliv.
+A když budeš mít dostatečně malý projekt, tak je to úplně jedno, kam to dáš.
+Jasně.
+Ale ve svým podstatě
+ty další aspekty jsou
+třeba z hlediska výkonu.
+Například to, že ty
+dokumentové databáze mají mnohem lepší
+boost v zápisu, jako v insertech.
+Na rozděl od SQLu,
+který prostě musí updateovat
+kvůli tomu indexy a tak dál a tak dál.
+Ne, že by NoSQL databáze
+neměly indexy, některý samozřejmě mají,
+ale když vezmu čistě takovýto
+základní rozlišení, tak
+rozhodně v insertech je
+NoSQL lepší, bych řekl.
+Nebo když pak vytáhneš nějaký jeden
+celý dokument, tak prostě to máš všechno.
+Nemusíš dělat ty referenční
+joiny a tak dál. Na druhou stranu, když pak
+v tom chceš vyhledávat nějak složitěji,
+tak v tomhle je zase už SQL k nezaplacení.
+Na druhou stranu, dneska už máme,
+ale jako jsme v dotnetu,
+máme Azure, máme Cognitive Search,
+který ti umožní prostě dělat tyhle kouzle
+Přesně tohle jsme především
+řešili s tím naším zákazníkem,
+že vlastně v dnešní době,
+jak už se ty aplikace rozsekávají,
+rozdělávají se na různý části, že vlastně
+ne dává smysl vždycky,
+abych já, když to mám uložený v SQLu,
+abych v něm dělal i ten search, já si ho můžu
+odlejvat jako do Cognitivu, kde si to udělám
+za babku a brutálně rychle
+a teprve, když potřebuji dostat data
+tak třeba, my to musíme na detailu produktu,
+do kterého jsem se přesarčoval
+přes Cognitiv, tak teprve v tu chvíli
+si šahám do jiný databáze.
+A ano, může se stát, to je jako vždycky,
+jak říkal Marťas, rozsekávají ty mikroservisy,
+tak samozřejmě jako v určitou chvíli
+to může být nekonzistentní,
+ale ono, když půjdeš
+jako podle mě úplně
+kmeritu věci, tak ty systémy stejně
+vždycky budou s definici jako nekonzistentní,
+jakmile to bude běžet na jinde
+než na jedný
+specifický instanci, takže
+možná i tohle je ta cesta, ne?
+Jakoby to rozsekávání, využívání
+specifických servis pro specifický kejsy
+v tom, v čem jsou silný.
+Ale určitě jo, tak to je vlastně
+princip mikroservis, že jo. Bůh to máš jeden monolet,
+který dělá všechno a prostě co tam
+nasadíš, co tam máš a máš to pro všechno na jednou
+anebo prostě si řekneš, ale tohle je můj kejs v téhletý servise,
+to je prostě nějaká domena
+mý problematiky a použiju na to
+úplně jinou technologii než v jiný servise, která řeší
+třeba něco podobného, ale má tam jinou strukturu dat
+nebo jiný princip aktualizace dat
+a tím díky tomu jsi strašně
+volnej. Máš velkou svobodu vývoje
+a potom samozřejmě ten performance je na tom znát, jo.
+Na druhou stranu, jak jsme
+zmínili o těch kontentům Cognitive Search, je to zase na druhou stranu
+nějaká další komplexita, která narůstá
+do té aplikace, jo, a
+čím větší komplexita, tím samozřejmě můžou být
+teoreticky větší
+postihy na tom performanci. Na druhou stranu
+na ten Cognitive Search není dobrý příklad
+z tohoto, co říkám, protože
+jmenovitě, co jsme dělali
+jednu z posledních aplikací, když jsme udělali
+sebelepší prostě indexy a
+naboostovali jsme databázy, tak jsme se
+prostě nedostali pod takový čas, co nám
+nabídnul Cognitive Search. To prostě bylo téměř
+opravdu za nula, jo.
+Na druhou stranu, jak jsem zmiňoval rozdíl
+mezi SQL a NoSQL,
+máš tam zase různý varianty škálování,
+že jo. SQL databáze
+v zásadě vertikálně,
+prostě přidáváš větší železo
+a když to ty dokumentový, tam jsi schopný jít
+i horizontálně, že jo. Ale to jsou zase další věci,
+které jsou věcí se všem možným
+okolo. Já myslím, že polimidá
+zapravdu, že se říká, že co neměříš,
+to nekontroluješ. Správně.
+Ty jako datař, že jo, správně.
+Prosím tě, Martěs, chci začít měřit
+performance. Vím, že existuje Benchmark.net,
+Benchmark.net, to je jako
+velmi populární knihovna.
+Můžeš o ní něco říct,
+po případě říct nějaký další, na co se
+používají? Obecně chci to mít pod
+kontrolou, co musím udělat.
+Jasně. No, v první řadě, když chceš zjistit,
+jak jsi na tom zlizka výkonu, tak to musíš
+nějakým způsobem změřit, jo. Jak jsi říkal, co neměříš,
+to prostě nevíš. A
+to znamená, musíš zachytávat nějakou metriku.
+Ať už je to prostě metrika ohledně,
+já nevím, procesorového času,
+nebo vytížení procesoru, obecně
+vytížení paměti, to je věc, která tě bude hodně zajímat
+u dotnetu, protože dotnet je
+prostě managed prostředí,
+to znamená, stará se ti o to garbage
+kolektor, který to dělá automaticky na základ nějakých
+pravidel.
+Samozřejmě můžeš si psát vlastní destruktury
+a tak dál, i v C-sharpu, ale prostě
+to nedává úplně jako smysl, pokud nepíšeš
+nějaký herní engine, jo.
+No, ale zlizka těch metrik prostě
+zachytává všechno, co můžeš.
+Může to být třeba i to,
+jak velký, když se budeme
+bavit třeba o webových stránkách, nějakých
+aplikacích webových, jak velký
+trafik je, nejenom ten, co ti
+přichází jako dotazy, ale jak velký stránky
+odesíláš pryč, jo.
+Jestli tam máš velký obrázky, malý obrázky,
+JavaScripty, CSSka,
+prostě cokoliv, a ve finále i to,
+kolik toho odesíláš, jako kolik
+kusů jednotlivých, protože pokud se
+pamatuju dobře, nevím, jestli to platí ještě do dneška
+teda úplně, ale
+když si vezmeš prostě stahování
+na brouseru, tak on má jenom nějaký
+omezený počet kanálů pro stahování resursů.
+To znamená, těch, myslím, jestli jsem na pletu 6,
+takže když tam dáš prostě, já nevím, 50
+CSSek různých, filů, tak on ti jede
+paralelně maximálně po 6.
+A to samozřejmě platí
+i pro ostatní resursy, jako JavaScripty a tak dál.
+Takže i takhle se samozřejmě vyplatí
+to všechno řešit. A to ti ukáže prostě
+spousta toolů, který tohleto
+dokážou sledovat. Já třeba nejčastěji
+používám jako geniální tool
+Application Insights. To je prostě
+za tu cenu,
+kterou za to chtějí, je prostě zadarmo.
+A je to tak strašně silná věc.
+Tam máš možnost
+prostě sledovat úplně variabilně
+logování od A do Z,
+prostě všeho možného typu.
+Můžeš si nad tím dělat nějaké analýzy,
+zjišťuješ si prostě, jak si to stojí, nejenom
+v rámci konkrétního kusu kodu, jak dlouho trvá
+nějaká metoda například, ale
+zachytává tě to i exceptiony, takže vidíš
+prostě, co se děje. Dělá tím
+analýzu prostě proaktivně,
+kdy ti detekuje chyby
+a dělá jejich sumarizace.
+Můžeš si nad tím postavit alerty, takže
+jsi notifikovaný o tom, když se děje něco
+podle tvých pravidel, co bys je chtěl sledovat.
+Říkáme to prostě úplně
+strašně silný nástroj.
+A možná jenom pro posluchače, aby věděli
+App Insights, to je služba na
+Azure, která vlastně vám dokáže
+trackovat chování všech těch aplikací,
+celý to prostředí vlastně, jak funguje,
+kolik tam je chyb. Zajímavý je,
+to se mi tam hodně líbí, že tam
+fungují correlation ID automaticky,
+to znamená, já pokud mám
+volání z aplikace do databáze
+a pak vám z aplikace, my přijeme to z databáze,
+já udělám třeba HTTP call,
+tak já to vidím v rámci jedné transakce, aniž bych si to
+musel nějakým způsobem sám
+tam jako orchestrovat a prostě posílat
+ty IDčka a vidíš to i
+na timelině, co trvalo jak dlouho,
+což je terapecká. Tam ti popravdu postaví
+od toho requestu, až do toho responsu, prostě celý strom
+toho, co se tam dělo, jak říkáš, všech
+všech dependencích, to znamená, ať už je to
+databáze nebo nějaký třetí strany,
+volání třetí stran, všechno tam vlastně
+vidíš, máš tam dokonce i hezký graf, kde vidíš
+tu architekturu s nějakýma
+proměrnýma časama,
+případně s nějakýma vykřičničkama, pokud se něco děje
+nestandardního. Ty agregace
+jsou opravdu velmi zajímavý, dokonce
+tam máš i live view, což prostě
+pokud tu aplikaci máš tak nastavenou, aby to jak fungovala,
+tak prostě ve chvíli, kdy ten
+graf sleduješ a vypadne ti nějaká
+výjimka nebo něco, tak prostě to v reálném čase vidíš.
+Mluvím o tom live view z toho důvodu, že
+Application Insights má nějakou
+prodlevu, když se ti zobrazí logi
+prostě na tom webu, na ežru.
+Obvykle to bývají prostě dvě až pět
+minut, ale jednu za čase stane, že
+jim to trvá třeba dvacet minut. Prostě stane se to.
+To znihojí dobře.
+Nabízí to třeba i návrhy na změny
+v tom kódu?
+Člověče, pokud ano,
+tak nejsem si jistý,
+že vyložíme změny v kódu, ale
+myslím, že ne.
+Najde ti to nějaký hotpáty v tom smyslu
+jako běhu té aplikace,
+ne jako hotpáty asi v kódu,
+že by ti ukázal tohle metoda,
+ale myslím si, že ne, že takhle daleko
+to není. Ale je dobrý, že třeba to, co říkal Martěz,
+můžeš si tam nastavit alerty, řekneš,
+když mi teďka začal ten request
+na tuhle stránku trvat tak dlouho,
+tak mi třeba pošli mail,
+nebo aktivuj prostě nějaký alert,
+který znamená, že nevím,
+de facto můžeš na ten alert zavěsit cokoliv,
+můžeš třeba rozjet škálování klidně,
+umí to poměrně velký věci.
+Je to tak, ale samozřejmě kromě tohle,
+jak už jsem zmiňoval, má tam pro aktivní
+detekci těch chyb, to znamená,
+on sleduje dlouhodobě nějaký trend,
+jak se to chová, ale když tam je nějaká anomálie,
+tak ti to dokáže úplně na to upozornit.
+Takže není to vyloženě návrh změny v kódu,
+ale tady se něco stalo divného a podívej se na to.
+Předpokládám, že tam se hodně hrabeš
+v té záložce performance, ne?
+Ne vždycky.
+Taky jste udělali tu chybu,
+že jste si tam v začátku začali posílat
+strašně moc data a pak přišel první
+účet za
+ingest data a pak říkají,
+aha, tak toho nepotřebu tolik.
+No, to je jako taková past v Application Insights.
+My jsme teda neměli ten problém, že bychom tam
+posílali nejdřív to hrozně moc, my jsme naopak
+měli spíš aplikaci, kde jsme skoro nic nelogovali, pak jsme zjistili,
+že máme tam nějaký problém a tykon, jak ho odhalit,
+takže jsme začali pak logovat.
+Prostě školácká chyba. Každopádně
+stalo se nám, že
+jsme neměli nastavený cap
+na Application Insights, to znamená,
+že byl tam nějaký nekonečně velký limit
+nebo dostatečně velký limit na to, aby nás
+ta Application Insights stála fakt jako raketu.
+A měli jsme prostě logování,
+který byl obalený prostě nějakým
+for-eachem. Ten for-each, omluvím, jako nikdy
+nedoběhl. Takže samozřejmě
+to bylo hodně drahý.
+A ten cap funguje jak?
+On to pak vypne nebo začne odmazávat
+od konce? Nebo jak to funguje?
+On to má, takže
+má tam různý chování. Ono vlastně, máš tam
+nějakou agregaci toho
+logování.
+Máš tam nějaký sampling rate nebo něco tam?
+Ano, je tam sampling rate, který už je na straně
+v podstatě té odesílací aplikace, která to už umí
+samplovat sama o sobě. To se všechno dá nastavovat
+jak moc. Pak máš samozřejmě sampling
+i na straně té serverové, to znamená
+vyležitě v Application Insights.
+A ve chvíli, kdy prostě dosáhneš limitu,
+tak tě to odřízne a dál už nic nevidíš, jsi slepej.
+Takže samozřejmě je dobrý si
+rozmyslet, co tam opravdu chceš v rámci toho capu
+logovat. Jestli tam neloguješ úplně nějaký
+nesmysly, jestli potřebuješ vydět třeba vždycky
+dependencies, protože
+90% případů nepotřebuješ,
+ale pak, když je potřebuješ, tak tě to mrzí samozřejmě.
+To je jako s logováním obecně.
+Ale ve chvíli, kdy prostě máš
+nízký cap, tak prostě
+pokud jsi slepej.
+Tak to byl tool, který se typicky používá, když už mám
+aplikaci napsanou, když už mi běží a teď potřebuji
+vlastně zjišťovat, jak to z hlediska performance
+a mnoha dalších věcí je.
+Když se posunu
+vlastně blíž k tomu vývoji,
+tak jaký tool,
+když pominu klasický vizuálko, že když to spustím
+lokálně v debug módu, tak vidím prostě ten
+graf, jak mi tam žere paměť a tak.
+Já jsem změňoval ten .NET Benchmark,
+ten se docela často používá.
+Jo, vidíš, ten jsme úplně přešli.
+.NET Benchmark je skvělý nugget.
+Jak jsem změňoval, nejká čapsa se, tak
+v každém videu uvidíš, že ho používá,
+takže tam se naučíš, jak to používat,
+nebo jaké jsou jeho varianty.
+Ten nugget
+v podstatě má to kouzlo
+nebo tu sílu, že dokáže
+odhalit performance nebo ukázat performance
+s ohledem na některý
+variability, to znamená
+architekturu, můžeš si simulovat architekturu
+procesoru teoreticky,
+můžeš si nastavit, pro jakou verzi .NETu
+to chceš mít zobrazený, případně i třeba
+v kombinací, takže vidíš vedle sebe graf,
+teda graf tabulku,
+tohle je varianta pro .NET 6, tohle pro .NET 7
+a vidíš tam prostě ty posuny, nebo ty změny velký.
+Takže je to věc, která je skvělá,
+asi skvělé používat.
+Já to používám v podstatě jako velmi často,
+když mě zajímá něco,
+jaký to má výkon, ale je to věc,
+která, jak říkám, je to nugget,
+takže musíš to naspat do kodu a
+otestovat si typicky nějakou metodu,
+jak se chová, jaký má průběh,
+to znamená čas na procesoru,
+případně kolik konzume
+paměti. Ale funguje to v linkpadu,
+že bych si to jako rychle jenom napsal to a teď
+dostal ten timing, že bych si to rychle
+napsal jednu metodu, jednu...
+Teď jsi mě dostal, nepoužil jsem to v linkpadu,
+vždycky jsem to použil ve Visual Studio.
+Dobře, tam musíš udělat si konzolovku,
+teď ti musíš způsobit, takhle
+takový ten jako replovský styl.
+Vůbec netuším, vůbec netuším, neskoušel.
+Ok, ok, já si to zkusím, schválně.
+Ještě nějaká další podobná
+knihovna, která se velmi často používá?
+Hele, z knihoven, jako
+z hlediska nuggetu, používám právě
+ten benchmark.net, jinak
+samozřejmě máš spoustu dalších toolů okolo,
+ať už je to, jdeme tomu,
+jak jsi zmiňoval, Visual Studiácký,
+prostě Diagnostic Tools, nebo
+Application Insights, to jsou prostě takový ty věci,
+který máš jako vždycky po ruce.
+Potom máš samozřejmě od Microsoftu
+ten PerfView,
+například, který ti sleduje
+průběh paměti, Garbage Collector,
+sleduje ti prostě procesor,
+prostě takový ty klasický věci, všechno to je
+založené na eventech, které jsou
+prostě trigované.
+A tohleta varianta je samozřejmě
+i od JetBrainsů.
+To jsem se chtěl zeptat právě na JetBrainsů tool.
+Dot Trace, Dot Memory, to je vlastně alternativa
+k tomuhle tomu. A máš spoustu
+jako dalších toolů, které existují.
+A ty jsou dobrý, ty JetBrainsů?
+Hele jo.
+Pokud bych samozřejmě měl plnou
+licenci Rift Sharperu, tak bych asi
+používal spíš tohleto místo PerfView,
+ale prostě, když jsem zaměřený na Visual Studio,
+tak používám tenhle ten tool.
+Dobře, tak já jsem dostal teďka na rok
+plnou licenci, tak já ti to pošlu
+a už si to vyzkouším a já to nevyužiju.
+Já jsem dostal jenom u Rideru.
+Jo, nebudeš konvertovat na performance.
+Ne, ne, ne. Ale byť teda, jako je to zajímavý,
+to je rozhodně. Hele, ještě si pamatuju,
+když si dávno jsme zkoušeli tool,
+který se jmenal New Relic.
+A vím, že jich je víc, což vlastně
+fungovalo, řekl bych,
+dnešního pohledu velmi podobně jako
+App Insights. Vlastně ty si jako,
+no to byla teda javovská aplikace,
+ty si ji prostě hodil někam,
+někam si ji prostě vydeplojoval
+a nechal si ji jako očuchávat
+tím New Relicem a on ti vlastně
+najednou ti ukázal ty cesty
+a tak dále, kde bys měl třeba
+přitlačit z performance, kde ne.
+Máš zkušenosti ještě s nějakýma
+dalšíma takovýma jako toolama
+podobného ražení? Ani nevím,
+jestli ještě New Relic existují.
+Ani nevím, jestli New Relic existují, pokud aspoň si pamatuju.
+Jako mám to někdy
+zahrbaný v paměti, že taková věc je,
+ale nepoužíval jsem to osobně.
+Já v podstatě používám právě
+tu alternativu v podobě
+Application Insights, která mi dává
+v podstatě dostatečný přehled o tom,
+co se v té aplikaci děje, abych byl schopný
+pak buď to potunit, nebo opravit
+nějaké chyby a tak dále.
+Já teď mám ještě jednu, to jsem se ji nazval kacířskou otázkou
+a to je obecně performance.
+Jestli má smysl vůbec řešit
+performance problémy, když ta výpočetní
+síla je tak jako levná.
+Protože myslím, že
+čas programátora,
+nedej bože ještě, aby to byl architekt,
+nebo nějaký senior, je
+vlastně, než mu bude hodinu bádat,
+tak ty za tu jeho hodinu
+máš třeba měsíc jako výpočetního
+výkonu na EZRu nebo na AVS-ku
+za tu cenu. Viděl jsem
+už jako mnoho firm to takhle řešit.
+Opravdu, řekli, to ne, to standard,
+se na to nekouká, to bude toho otrvat, to bude to drahý.
+Normálně kůb CPUčka
+na tom. Má to smysl, nebo?
+Já vím, že řekneš,
+že má, samozřejmě, ale možná, jestli
+najdeme mezi tím nějaký...
+Je potřeba vždycky najít balans.
+Nějaký balans. Rozhodně, jo.
+V případě, že prostě
+je to nějaká
+část aplikace na hotpad, kdy
+prostě je to pouštěný ve velký
+frekvenci, tak
+potom ty resursy můžou být opravdu strašně drahý.
+A tam už si doufám říct,
+že i toho frontu to přeplatí.
+A na druhou stranu, nebo tóndu, nebo
+kostaří. Oba, to je oba.
+Oba, prostě klidně oba.
+My sedíme jenom v kanclu.
+Každopádně
+je pravda, že prostě ten
+výkon se dá dneska koupit
+relativně za dobrý peníze, ale
+prostě pokud těta aplikace běží
+roky, tak asi
+smysl má... Tak se to vrátí.
+Tak se to vrátí, no. Je to tak. Já si vždycky žasnu
+teda tady u toho nad Spotify.
+Jak to musí mít vyladený.
+Oproti třeba Apple Podcast,
+tý aplikaci. Já chci Spotify prostě
+jednou někde v lese middle of nowhere na edgy.
+A stejně se mi ta písnička prostě dojede.
+Jako,
+že se mi načte, když ji nemám
+zonastáženou v mobilu. Tam jsem jako neuvěřitelně
+vyladený. Oproti Apple
+Podcaster, kde to prostě funguje úplně žalostně.
+Hele, no, ten výkon
+není totiž jenom o tom, jestli
+napíšeš dobře kód nebo ne, ale jak jsem říkal,
+je to i o tom, co pak předáváš dál
+na klientskou stanici. To znamená
+třeba na tvůj telefon. A jestli tam
+ty data máš nějakým způsobem zoptimalizovaný,
+jako jsi skupnej už dneska díky
+umělé inteligenci a nějakým
+sledováním prostě průběhu
+chování uživatelů, zjistit
+vlastně, co je trend, co je žádaný a kde stačí
+nebo nestačí, nebo třeba i v lokalitách,
+kde je jaké pokrytí. A na základě toho
+jsi skupnej prostě ty data semplovat tak, aby to furt bylo
+třeba poslouchatelný. Ale nevím, jestli to je
+na tohleto případ samozřejmě Spotify.
+Podle mě jo, podle mě on ví, že jako Petr Polák
+poslouchá, nevím, Hanna Zagorová,
+Karol God, Jelen,
+tyhle city. On ví. A
+prostě ví, že když seš jako, máš,
+seš v albu Jelena na třetí skladbě,
+asi s největší pravděpodobností skočíš na
+štutovu, tak ti třeba předsampluje 15 vteřin
+a má náskok, kdo je ten zbytek.
+Možná, nevím, jako čekal bych, že to bude.
+Já bych se naděvil, ale jako přímě řečeno,
+to je jedna věc, ale i druhá věc je zase,
+já když pustím, teď si prostě vyhledám úplně věc,
+kterou podle mě nemohl čekat, jo, já nevím,
+teď se tady budeme bavit o podcastu, já se tam stáhnu ten podcast.
+Tak on se hrozně rychle načte,
+u toho Apple, u té Apple
+aplikace, já čekám úplně mraky dlouho, než
+vůbec ten podcast. Ale není to tím, co bylo v tom seriálu,
+jak jsme se o něm bavili v minulý serii,
+playlist, tak si udělali vlastně vlastní
+protokol, aby to bylo jako rychlejší.
+Jo, jako tam jsem malinko mířil, že vlastně
+tam o tom mluvili, jenže já vždycky nevím, na kolik
+ty jsi to nedokoukal ještě, víš? Já jsem u třetího dílu.
+To bylo ve čtyřce, tuším.
+Já jsem ti říkal, že jsem nejlepší, Netflix
+mě má jako zákazníka hrozně rád, ale vůbec nekoukám
+ale proti. Já ti to říkám
+a ty jdeš, a teď vidím, že to
+nedokoukal. Ale tohle jsem zas čet jinde,
+o tom protokolu, víš, jakože i mimo
+ten seriál.
+No takže co, takže myslíš, že tam
+se ti mířil, jako na ten protokol? Jo, jo,
+že jo, že mají, jo, přesně, že mají nějaké svoje
+vlastní řešení, kde prostě se to snažili
+zrychlit a ještě oni tam přece řešili, nebo to nevím
+jestli tam, nebo jsem to někde čet, jakoby
+kolik vlastně ten lidský muzek jako bere, že
+je vlastně jakoby v reálu. Je pauza, jo, jo.
+Jo, to máš sledování televize,
+že prostě 24 snímků nám prý stačí,
+ale když to pak máš ve 48,
+tak vidíš, že to je lepší, jako jo. Jo, jo, jo.
+Tak nám to asi nestačí. Ale je to
+furt nějaký jako díl, ale furt se vysílá prostě
+24 snímků. Jasný, jo, jasný.
+To ale zajímavý vlastně tohle s ten use case, který si řek,
+tak vlastně tu performance posouvá
+už na tu úroveň toho, že to ovlivňuje
+to UX, protože to byl ten
+selling point Spotify v době, že jo,
+Pirate Bay, bylo, že já nechci
+čekat na buffrování, já chci,
+abych to měl, kliknu a mám to okamžitě,
+což samozřejmě, než ten mozek to
+zpracuje, tak tam pár milisekund máš k dobru,
+ale není to nic velkýho.
+Zažil jsi třeba ty ještě
+u nějakých svojich projektů, Martěz, to, kdy
+ta performance opravdu
+jako by byla esenciální
+fíčura toho
+samostatního softwaru,
+protože třeba, jak jsme říkali, Spotify se tím
+dost chlubí, tím, že to je hned.
+Tak třeba u toho Fintechu
+třeba řekněme jako nějaký
+do dvou sekund transakce
+nebo instant payments
+a tak může de facto, když se dostane zpátky
+u Fintechu, přiložím kartu
+někde a musí to být
+takhle, že já nechci čekat deset vteřin
+v obchodě, jak se udělal. Píp a důl.
+A záda.
+Hele, většinou jsme neměli ten případ,
+že bychom museli mít odezvu v nějakým čase.
+Samozřejmě jako patnáct vteřin
+asi je moc, to prostě nejde.
+Snažíme se prostě říct nějakých
+standardních limitů,
+ale spíš z toho druhého pohledu,
+třeba právě na té burze,
+tam prostě kdy zpracováváš
+statisíce nebo miliony
+message za vteřinu, něco
+ala prostě service bus.
+Ale analogie dotneřácká, třeba teleta.
+Tak v tu chvíli prostě,
+když to udáš neoptimálně,
+tak nestíneš vydbavit ten den.
+A tam nejde o ten den, ale on tam běží prostě non-stop.
+Takže prostě začít být ve skluzu
+je prostě problém. Tam to musí být v reálném čase
+nebo ještě rychlejc třeba.
+Takže to je samozřejmě jako
+ta druhá strana, kdy prostě máš nějaké limity,
+kdy prostě ten požadovek
+musíš vyřídit v nějakém čase
+a tam jinak není prostě cesta jiná.
+By the way, jsem byl světkem u jiného projektu
+u Media Houseu německýho.
+Nejsem si jistý, že si můžeme říct jméno,
+tak to neřeknu, ale tam jsme řešili,
+za kolik vteřin se vykreslí
+nějaký artikl
+a v podstatě to tam bylo
+jako pevný pravidlo.
+To jsme museli prostě dodržet. Já už se nepamatuji, kolik to tam bylo,
+ale to bylo zajímavé, že prostě
+i Media House, kde to asi si člověk
+je ochotnej možná někdy počkat,
+tak to tam hodně řešili.
+– Zrovna u toho Media Houseu bych řekl,
+že tam bude mít velkou roli
+to kašování, kde prostě
+dobře, první dotaz může být třeba pomalejší,
+nebo prostě co předkašuješ, ale
+tam pak asi není důvod to mít nějak super pomalý.
+Tam je to asi celkem jasný.
+Na druhou stranu pak máš prostě aplikace,
+kde to fakt musíš dát reálně
+a brzdí ti to nejčastěji třeba právě databáze.
+Takže samozřejmě máme nějaké
+pravidla, nebo ne pravidla,
+že by byly striktně jedete saný do kamene,
+ale takový to jako nepsaný pravidla,
+hle, dotaz by neměl jít
+přes x, y milisekund
+a tak dál, a když jde, tak prostě pro to
+musíš mít dobrý důvod.
+Takže asi tak.
+– Když jsme tak projeli všechny ty tooly,
+poslední, který mě napadá, který vím, že jsem já
+sám používal a jeden čas poměrně
+intenzivně, je JMeter,
+což je, myslím si, že to je
+javovský tool, nebo byl to
+javovský tool od Apache právě,
+který byl schopen ti
+nasimulovat ty různý requesty,
+ať na úrovni HTTP do databáze
+a vlastně si si udělal takovou, jako řekněme,
+suiteu nebo solutionu a ona šla
+a teď ti testovala ty různý kóly.
+Používáš to nějak, nebo
+existuje to, jako existuje to určitě,
+protože jsem to nedávno viděl, ale jak seš na tom ty s JMeterem?
+– Hele, není to o tom, že bych to použil
+na denní bázi, je to s většinou, když už potřebuji
+dělat nějaký prostě performance test jako většího ražení,
+nějaký stress test nebo něco takového.
+Jo, vůbec samé osoby nějaký
+testy zaměřený na výkon aplikace
+jsou dobrý, neříkám,
+že člověk musí dělat pořád, protože to asi smysl
+nedává, je to overkill, ale
+pokud víš, že tam máš nějaký
+úzkalý výkonový,
+tak je dobrý si to zkoušet, zejména
+pokud máš prostě nějakou aplikaci, která
+najednou je nová, prostě na Greenfieldu, nemáš ji
+vzkoušenou, co to dělalo dotyčka
+a chceš vzkoušet, kolik to utáhne uživatelů
+například, nebo jaký trafik vůbecně.
+Tak samozřejmě máš nějaký typy
+testů, který se na tohleto
+specializujou, ať už to jsou nějaký performance
+testy, volume testy, low testy a tak dál,
+těch je jako celá řada.
+A tady s tím tě právě Jamie ten může hodně pomoct.
+Čili ano, používám ho,
+ale ne na denní bázi, jenom když je prostě
+potřeba, nebo když cítím, že bych ho potřeboval.
+Je to fakt super appka,
+protože je to více méně UI-based
+aplikace, kde si naklikáš různý scénář
+nebo nějaký požadavky, jak se to má chovat,
+jaký mají být přírůstky počase, třeba
+počtu uživatelů, nebo co má být ten cap.
+Jo, ten ramp up a tyhle ty věci.
+Přesně tak, jako cokoliv potřebuješ,
+si tam skoro naklikáš.
+Alternativa k tomu je prostě K6,
+kterou používám, když
+chci dělat něco jednoduššího,
+protože K6 je de facto analogie toho,
+jenom prostě není UI-based.
+Je to prostě konzolovka.
+To je konzolové CLI tool.
+Přesně tak.
+A K6 je od Microsoftu, nebo tak nějaký
+open source, nevíš?
+Jestli je open source, to netuším od Microsoftu, pokud vím, není,
+ale od koho je, to ti nepovím.
+Dobrý, tak já to omrknu, to mě zaujalo.
+Ale je to poměrně rozšířený tool,
+najdeš to určitě na první dobrou.
+Možná poslední taková věc,
+protože ty jsi teďka mluvil o tom použití
+toho JMeteru, že to není častý.
+Kdy vlastně bych měl,
+když vezmu si od
+prvního workshopu až pořekněme, jdeme do produkce,
+kdyby si tam
+ty performance testy jako vrazil
+na tý časový osek, kdy to dává smysl.
+Předpokládám, že začínat s tím hned
+je overkill zbytečný,
+stojí to prachy a nic mi to nepřinese.
+Udělat to těsně před releasem,
+zase bych očekával, že
+zjistím něco, co už nemám čas opravit.
+Tak jak to děláte vy?
+Hele,
+jak to dělám i my.
+Dobře, tak jsem se nechtěl dotknout
+nějakých cítlivých témat.
+Ne, tak že jo, teorie jedna věc,
+praxe je druhá věc trošku.
+Právě, tak praxe.
+Když víš, že to bude nějaká aplikace
+nebo nějaká feature, která bude mít
+úzkalý právě z hlediska performance,
+tak samozřejmě čím dřív měříš, tím líp.
+Protože se vyhneš už nějakým
+návrhovým chybám, který
+potom tě budou stát strašně moc času
+opravovat nebo zbyteční úsilí, které by si mohlo
+na začátku eliminovat.
+Takže de facto, když tam už na začátku uděláš
+nějaké měření, nějaké metriky,
+tak uvidíš, kam se ti to posouvá,
+jestli to jde úplně někam jako,
+přidáš tyko nějaký další kus kodu
+nebo přepíšiš jinak a zjistíš,
+že ti to vlítlo prostě desetinásobně.
+Tak to asi ne, tak refaktorem trochu jinak.
+A zjistíš, že to bude jenom pětinásobně v druhém kole.
+Takže si říkáš, jo, to je dobrá cesta.
+Protože právě, když chceš dosáhnout pak nějakých třeba limitů
+ve snadý borze nebo něčem podobným,
+tak tam prostě musíš měřit více než po začátku.
+Tam prostě není jiná cesta.
+Máte to součástí nějaký
+CICD pipeline, že třeba v nějakém kroku
+se tyhle testy zpustějí?
+Protože to by se dalo automatizovat.
+Tohle by se určitě automatizovat dalo.
+Je to takový jako vlhký sen asi
+mít tohleto v CICD přímo.
+Na většině projektů jsme to v CICD rozhodně neměli,
+bohužel.
+Ale zase byl to nějaký díl toho,
+že byl tam nějaký časový fond,
+kdy se to muselo všechno udělat a nemůžeš udělat všechno naraz.
+Prostě to nejde. Je to o nějakých etapách.
+Každopádně
+jako ideální stav je ten,
+mít to v CICD, kde by tě to sledovalo
+prostě volám tenhle ten
+endpoint například a
+minulej release to trvalo
+já nevím 300 milisekund,
+vejkon seš tam za 12 sekund,
+tak jako ti to vysvítí červeně a přijde ti mail.
+Tak to by bylo super.
+Takhle by to asi jako ideálně mělo fungovat, ale
+většinou to tak jako není.
+Ok, ok.
+No tak jo, ale Marťas,
+já ti chci strašně moc poděkovat,
+že jsi mezi nás přišel, protože
+podle mě to bylo úplně skvělý povydání.
+Jo, jo, jo. Děkuji za pozvání.
+Bylo to fakt zajímavé. Ještě nám řekni
+poslední věc, na co se chystáš.
+Nebo Poli, chceš se zeptat? To je tvoje otázka.
+Promiň, ty to miluješ.
+Ne, ne, ne, jakože to je těžká, takže to vždycky vnechávám
+a máme k mně. Jaké jsou
+ty tvoje další kroky? A hlavně
+jako kariérně, jestli to je
+ta, vlastně říkal jsi,
+že děláš lead developera teďka,
+jako chceš dělat lead developera dalších
+20 let, je to vlastně to, kde ses našel,
+nebo to se to nikam sune?
+Hele, zrovna ten lead developer je
+asi jako místo, který
+mě strašně baví. Je to takový poměr,
+dobrý poměr toho, jak moc
+jsem v kontaktu s lidma, nebo
+to vezmu úplně z druhé strany. Já jsem byl vždycky jako ten developer,
+co mě stačilo jako sklep, ani ne v okno, jo.
+Prostě jenom komp, dlouhý nechty
+a všechno by bylo hotovo, jo.
+Ale prostě, jak jsem
+přišel do... Mezi lidi?
+Postupně mezi lidi. Tak jsem zjistil, že jako
+někdy nejsou úplně špatný a
+v podstatě začal mě s nima
+trochu víc bavit. Každopádně,
+zrovna ten lead developer je poměrně pozice, která
+mě hodně baví. Je to přesně takový ten
+dobrý balans, kdy
+kodím furt ještě dostatečně, nebo většinou,
+a kdy se ještě jsem schopný
+nějakým způsobem starat nebo bavit s těmi lidmi
+o tom, co jsou fakt jako jejich potřeby.
+Protože samozřejmě
+jsou různý trendy v různých firmách.
+Zažil jsem si prostě dobrý firmy i, řekněme,
+ty míň dobrý.
+A i s pozicem managementu
+nebo jako nadřízených a snažím se
+jako vyvarovat těchto chybám. Nevím, jestli se mi to daří,
+to je asi otázka úplně jiná, ale
+je to věc, kterou bych jako dál rád
+nějakým způsobem promítal
+lidem okolo sebe.
+Ale samozřejmě jako nevím, jestli to je konečná cesta
+nebo konečná pozice lidového opery.
+Baví mě to,
+rád jsem ještě nějakou dobu setrvám
+na vrchol kariéry tého, kluci, pozvali jste mě sem,
+tak je to, co bych chtěl říct.
+Jo takhle, máš to sivíčko teď.
+Paráda. Už to tam bude, hele.
+Super, ještě jednou moc díky, jestli dorazil.
+Bylo to skvělý. Spoustu jsme toho ani nestihli,
+co jsme tady měli, prostě, já nevím,
+reflexy, cashování, je to tady tak prostě tuna.
+Ale třeba si někdy uděláme další díl
+a probereme zase to z druhého pohledu.
+Moc díky.
+Díky vám taky. Čau, čau.
+No nebyl to střelec zlatého golu
+z Vídně 96, ale i tak to bylo super.
+Martin Procházka.
+No jeho výkonnost je minimálně srovnatelná
+s tím Martinem Procházkou z hokeje.
+Přesně tak, z Blue Line, ano, ty ho vidíš.
+Jsme neřekli předtím.
+Hele, úplně, já jsem tady říkal
+už někde v mezičase,
+že je skvělý, jak
+C&Co je postavený, máme x projektů,
+kde všude řešíš nějaké
+niance, takové zajímavosti
+typu performance a zrovna
+Martin řeší tuhle věc u sebe
+a pak v tom má expertízu, která je
+fakt jako cena. Já jsem se dozvěděl spousta nových věcí.
+Jo, to je dobrý, každý si vždycky vymáchá čumáček
+v jiném rohu, prostě zapadl jim
+vymětejnej kout, je to dobrý.
+Přesně, přesně, takže jako za mě
+super výstřel, číslo jedna
+v nový sérii, no a my jedeme dál, Román.
+No my jedeme dál, můžeme už říct nějaké,
+nebudeme říkat žádný jména, ale můžeme říct, že
+opravdu máme... Řekněte jména, nebuďte slušný.
+Nebudeme říkat jména.
+Nebudeme radši říkat.
+Dobře, protože my to řekneme, oni nepřijdou, že jo?
+No právě, právě, no. Ale máme
+připravený velký pecky na pátou sérii,
+rozhodli jsme se, že jí dojedeme,
+takže berte to tak, přátelé, že teď
+vykopáváme skutečně další
+sérii pod vocasem
+a bude to pecka.
+Bude to pecka, já mám tam vlastně v podobě
+dvou hustů dva vlhké sny, takže když se
+oba zrealizujou, tak to je pecka.
+Já bych si taky pozval vlhké sny, ale to
+nedalo vysílat.
+Ne, ne, ne, my zůstáváme u IT.
+Dobrá, tak jo. No tak jo, mějte se krásně,
+my se na vás budeme těšit zase za dva týdny,
+no a ať se daří, čau. Ať se daří, mějte se, čau.

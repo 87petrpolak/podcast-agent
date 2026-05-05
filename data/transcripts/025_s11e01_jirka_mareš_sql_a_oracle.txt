@@ -1,0 +1,2550 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Krásný den, milí posluchači, vítejte u prvního dílu jedenácté série vašeho nejoblíbenějšího IT podcastu Pod vocasem.
+No a i po jedenácté naproti mě nesmí chybět kdo jiný než usmívavý, skvěle vypadající, nadšený,
+svému Litvínovu neustále i přesto všechno fandící Petr Polipolák.
+– Ahoj Románku, Román Čovkůn, provazník naproti mě, samozřejmě zrovna si tady povídáme ve chvíli,
+kdy Sparta porazila Litvínov v pětři a je to smutný příběh, ale nedá se nic dělat.
+– Ale není to samozřejmě hokejový podcast, byť čas od času na tohle téma narazíme.
+– Možná škoda, že bychom si udělali možnášně nějaký spinoffík, že se budeme bavit jenom o hokeji,
+nevím, jestli by to někoho zajímalo. Každopádně přátelé, skutečně je tady jedenáctá série,
+což, jak jsme se tady s Polim mimo záznam bavili, je o deset sérií víc, než jsme tušili,
+že kdy spolu dáme. Vykopáváme to, máme připravený hosty. Vítáme vás v novém roce 2025.
+Já se musím hned na začátek zeptat Poliho, jestli dělá takovou tu tradiční chybu,
+kterou vždycky jsem dělával já, ale to jsem ji ještě neudělal, že píšeš takový ten,
+vždycky ten předchozí datum, předchozího roku.
+Hele, každý rok se mi to třeba jednou, dvakrát stalo, letos taky ne, tak možná je nějaký magický rok.
+Možná jsme se chtěli toho starýho už tak zbavit, že už jsme ho tam nechali.
+Jako v určitých ohledech by to dávalo smysl.
+Tak jaký to byl rok? Pojďme se trošku podívat.
+Osobně, tam to jenom zkrátím tím, že jsem přišel o pár lidí,
+že už je to tak, že ta generace některá dosáhla koncept, bohužel.
+Ale jinak pracovně to byl hroznej fičák, hroznej.
+My jsme vždycky zvyklí tady z konzultačky, že září to začalo prostě bombit.
+Ale z Poškela taky bombit.
+A musím říct, že jsem se zastavil až třeba 20. pomalu už u večeře.
+Masakr.
+No a samozřejmě, když už budeme nějakým způsobem bilancovat minulý rok,
+tak o pár lidí jsi přišel, ale pár lidí ti taky do rodiny naskočilo.
+Ano, ano. A rád bych tady deklaroval, že to je poslední člen mojí rodiny.
+Posledního?
+Jo, máme ho moc rádi, ale už další členy mít nebudeme.
+Ne, já jsem si jistý, jo.
+Takhle, žena o tom ještě úplně přesvědčená není, já stoprocentně.
+Počkej, že bych chtěl hned další, jo.
+No to ne, ale taky to takový to, hele Miláčku, já asi už hledám tu vasek Tomy, jo.
+Ještě počkej.
+Ještě to neřeš, to slova.
+Jo, jo.
+Neřešu.
+No, takže 2024, rok zajímavý.
+No za mě to byl úplně fičák, ale za tebe to asi nemohlo být jiný.
+Minimálně pracovně to byl, to musel být masakr.
+No tak ty ten můj příběh znáš samozřejmě.
+To 24 byl naprostá, jako brutální jízda.
+Vždycky jsme se o tom bavili s manželkou, teďka o víkendu, říkám ty,
+jestli ještě 25 bude úplně stejným stylem, tak já nevím, jak bude vypadat na konci roku.
+No, bylo to zajímavý, přežili jsme to, jsem opravdu rád,
+proto asi nedělám tu chybu s tou 24, že je za námi a že teďka je nový rok a vykopáváme.
+Já jsem docela nadšenej, zase některé věci se nám minulej rok povedly,
+takže jako není to zase tak, že by člověk měl úplně jako opocený záda
+a už se nechtěl nikdy podívat, ne? Bylo to fajn.
+No a samozřejmě minulej rok jsme dělali spoustu podcastovýho kontentu,
+no a dneska vykopáváme další sérii a začínáme zase, řekl bych,
+takovou tu naší šťávičkou technickou, protože ty si přitáh nějakého brutálního killera,
+co se týče SQLka, což, milí posluchači, SQLko,
+neustále jsme se o tady těch deset sérií kolem mě jako otírali zleva zprava,
+protože samozřejmě každá aplikace potřebuje ideálně nějakou databázi,
+ale nikdy jsme neudělali žádný totální deep dive,
+takže jestli můžeš jenom na začátek nám toho našeho člověka lehce představit,
+aby jsme se těšili už teď.
+Hele, já si myslím, že jsme nemohli najít povolenějšího člověka,
+který s SQLkem pracuje a má to mnoha rozměrů.
+A ten jeden tady nechci teďka otvírat, jenom řeknu,
+že Jirka teďka v listopadu organizoval SQL Challenge u nás ve firmě
+a bylo to pět úkolů na asi pět hodin.
+Prostě úplně neuvěřitelný, ty lidi si lámali hlavu, ale bylo to úplně skvělý.
+A jenom na tom demonstruji, že se dá udělat fakt zásadně složitá úloha v SQLku tak,
+že lidi, kteří to umí taky, tak se tím nechají hodinu, dvě potrápit hlavu.
+Takže myslím si, že nás čeká super díl s Jirkou, který opravdu to SQLko dělá.
+Prostě dřív než chodil možná.
+A dělá ho tak dlouho, jako holky z Vivia dělají PPC kampaně?
+No to já nevím, ale řekl bych, že to dělá díl, než holky z Vivia,
+protože s tím už to dělá dlouho.
+Dobře, dobře, jinak samozřejmě poznali jste, se líbí, jak ho to vždycky řekvapí,
+že i v jedenácté sérii stále pokračujeme s holkama z Vivia.
+Mně se líbí takový ten pohled, jak už prostě říkám, ten má něco za lubem,
+a pak vytáhne vždycky holky z Vivia, to je skvělý.
+No ne, tak samozřejmě musíme jim poděkovat.
+V téhle té sérii jsme se rozhodli, že to bude šlapat,
+protože samozřejmě holkám to pomohlo, ta naše podcastová, řekněme, podpora zpátky,
+takže jsme si řekli, že to dáme ještě aspoň jednu sérku, ať trošičku, ať to jede.
+Rozhodně, já ještě dodám, že s holkama jsem měl tu čest spolupracovat
+a vím, že jsou to opravdu profesionálky, co se týče online marketingu PPC,
+takže kdokoliv byste potřeboval PPC, tak vrhněte se na ně.
+Já se furt představuji toho jednoho kluka, který to vždycky poslouchá, co tam dělá,
+jak je úplně prostě nasronejší.
+Půjde s tím asi v pohodě už. Dokonce jsem s tím mluvil, ale o tomhle jsme se nebavili.
+Jo, dobrá, no tak jo, tak já si myslím, že na začátek 11. série jsme nádherně dlouhý,
+pojďme na našeho hosta.
+Ve studiu s námi sedí náš dnešní host, Jirka Mareš, ahoj Jirko.
+Ahoj.
+Čau Jirko.
+Jirka, ten má zvučnej hlas, my když jsme tady dělali zkoušku, tak nebylo potřeba vůbec ladit mikrofony,
+Jirka promluví a klepou se tady všichni zvukaři, takže paráda.
+Ne, nadarmo u nás dělá školení a o tom si budeme taky povídat.
+No tak, o čem si budeme dneska vlastně s Jirkou povídat?
+My už jsme to nakousli v tom úvodu, že dneska se budeme točit kolem SQLka,
+dost zásadně, vlastně nejvíc, co jsme se tady o něm doposavat, kdy bavili.
+Tak prosím tě Jirko, ještě než se vrhneme na to SQLko, představ se posluchačům,
+jak ses dostal do IT, jak se stala ta nešťastná náhoda, že jsi vůbec spotkal tohohle člověka,
+co sedí naproti mě a tak dále, tak dále, takový ten úvod.
+Takže jak jsi říkal, ahoj, já jsem Jirka, já jsem závislý na alkoholu.
+Ne, já jsem srandom.
+Takže jak jsem se dostal do IT, tak já už na vlastně na Gimplu,
+tak jsem se kuketoval trošku s programováním a rozhodl jsem se, že půjdu na MatFis.
+No a protože už v prváku jsem se jako našel takovou dobrou zálebu,
+která mě vydržela doteďka, a myslím, že mě je docela dobře,
+a to je utrácení peněz, tak jsem se rozhodl, že by bylo fajn, kdybych si jej vydělával.
+Takže mě kamarád dohodil brigádu tehdy ve firmě, která se jmenovala Wombs Legend,
+která vznikala z bývalého výzkumáku, takže tam fakt jako byly bedny.
+No a začal jsem dělat v Lotus Notes.
+Nevím, jestli ještě Lotus si zná takhle.
+Ano, ano.
+No a po třech letech jsem přešel do firmy Nate Consulting,
+která spolupracovala s Českou spořitelnou, a tak jsem se vlastně dostal do České spořitelny,
+tehdy jako externista, a po pár letech už jsem přešel interně.
+No a ty seš teda člověk, který vlastně teďka dělá denodenně co?
+Píšeš kód, píšeš SQL-ko, nebo děláš nějaké profilování,
+nebo co je vlastně tvoje náplň práce?
+No tak měl bych psát kód, bohužel k tomu píšu i dokonce,
+dokumentaci, což už není to, co mě úplně bavilo.
+A to je dobře, že ji píšeš.
+No, zeptej si mýho produktora.
+Ano a kromě toho teda školím, případně dělám jiný tyhlety,
+aktivity podobného typu.
+Ale kód je můj denní chleba.
+Takže pořád máš otevřený nějaký, řekněme, editor,
+nebo nějaký IDčko a v něm píšeš prostě SQL-ko.
+Je to teda primárně, co píšeš je SQL-ko, je to tak?
+Jo, SQL-ko, PL-ko.
+SQL-ko, PL-ko.
+No, možná ještě úplně, aby jsme to vykopli,
+než pro naše, řekněme, juniornější posluchače,
+co vlastně SQL-ko je, co to znamená.
+Bylo by dobré si, myslím, to vykopnout nějakým úplně základem.
+A proč to vlastně vzniklo, SQL-ko?
+Tak je to strukturovaný dotazovací jazyk,
+no, vzniknul proto, aby sešlo dotazovat do databáze, že jo.
+To, že máš uložený někde data,
+neznamená, že k ním máš takový rozumný přístup
+a to, že s ním můžeš rozumně pracovat.
+Posluchači, kteří jste přišli právě teď
+a v životě jste o SQL-ko neslyšeli,
+tak to bylo krásně vysvětlené.
+Tak prosím tě, Jirko, ty teda dneska děláš ve spořici,
+seš součástí teda poliho týmu, je to tak?
+Je to tak.
+A tvůj denní chléb je psát, profilovat, psát SQL-ko.
+Můžeš nám popsat, co vlastně děláš?
+Protože samozřejmě tím, že píšeš kod,
+tím jenom řešíš nějaký biznes problém.
+Co je teda to, proč si tě tam poli natáh
+a proč ti je tam jako bičuje denně?
+Jo, jo, poli si tam jako nenatáh.
+Jirka si tam natáh poliho.
+Jak dlouho jsi ve spořici, Jirko?
+Interně 15 let.
+A s těma nejtama?
+O tři roky víc.
+Takže plnoletost.
+S nějakou, já nevím, roční pauzou v Ufonu.
+Nevím, jestli ještě pamatujete operátora Ufonu.
+Jo, jo, jo.
+Jasně, no vidíš.
+No takže co tam teda Jirka dělá?
+No tak Jirka tam transformuje data.
+To znamená, máme většinou nějaký požadavek,
+který obnáší konsolidaci nějakých dat.
+To znamená, my musíme si natáhnout data ze zdrojů
+a dostat je do cíle, tak aby výdenská matka byla spokojená
+a rakouský regulator taky.
+Jo, jo, jo.
+Vlastně je to teda ta část regulatorní, mandatorní,
+kde prostě ty data posíláme naší matce.
+Naší matce.
+No není to regulace k nám do ČRB,
+ale je to vůči RSTAC Group.
+Jo.
+Ale ty jsi zmínil ty zdrojový data,
+jenom pro představu, kolik těch zdrojových dat zhruba je.
+Jenom aby si posluchač udělal představu o tom,
+že to jako není prostě spojení dvou Excelovských tabulek.
+No to není no.
+Hele, těch zdrojů bude teď ke stovce.
+Já si přiznám, že teď přesný čísla nevím,
+protože už nepracuji na DVHčku.
+Jo, jo, jo.
+Ale ty zdroje jsou opravdu jako velký desítky.
+Možná ještě, kluci, když se budete bavit
+o těch interních zkratkách,
+tak vždycky to vysvětlete DVHčko.
+DVHčko znamená Data Warehouse.
+Data Warehouse, jo takhle, OK.
+To je přísný, veď, vlastně, no, už jsme tak zajetý, no.
+Ale jo, no, je to datovej sklad.
+Ta největší komponenta datová, kterou tam vlastně máme.
+Takže jestli jsem to správně pochopil,
+tak Jirka teda se stará o to,
+aby RSTAC Group, matka ve Vídni,
+aby dostala všechny informace, který má dostat včas,
+ve formátu, který je pro ní pochopitelný,
+aby to všechno proběhlo tak, jak to má probíhat.
+Je to tak?
+Ano, jsem jeden z nich, kteří se o to starají.
+Jeden z nich, jasně. Předpokládám, že jsi jedinej,
+že když jsi nemocnej, tak v RSTAC nevěděj, co se děje.
+To by nebyl úplně dobrý masfaktor.
+To by nebylo, no.
+Jirko, prosím tě, vysvětli mi jednu věc.
+Ty, kdy jsi jako dřív vlastně v tvých začátcích
+k tomu SQL-ku dostal, tak bylo tam něco,
+jako řekl, že to je super,
+tak tomu se já budu jako věnovat a miluju to.
+Nebo měl jsi třeba i nějakej, řekněme,
+jinej dotex IT,
+nějaký skriptování, programování.
+Protože třeba z mýho pohledu
+každej vývojář jí v něm později
+na to SQL-ko narazí,
+protože samozřejmě pokud neděláš vloženě
+state-less aplikaci, tak je vždycky dobrý
+ty data někde uložit a někde si je přečíst.
+Ale že by to bylo něco, z čeho bych měl
+dlouhký sny se SQL-ka,
+to teda zná málo koho.
+Bereme to jako takovýto nutný zlo,
+naučíme se to,
+občas nás nakopou nějaký chybějící indexy,
+ale prostě někde to leží a prdím na to.
+Tebe to ale nějakým způsobem
+uhranulo, předpokládám.
+To Kábek ani neřekl uhranulo, já myslím,
+že jsem se k tomu prostě tak nějak dostal.
+Moje první zkušenosti
+s SQL-kem byly jako
+MySQL, když jsem dělal pro kamaráda
+nějaké weby, na začátku to asi dělal
+každý z nás.
+No a pak
+další zmínka byla někde na vejšce,
+no a pak, jak jsem říkal, už jsem přišel
+na ten jiný typ databází a
+do spořky jsem se dostal spíš náhodou.
+Co se týká, jako,
+jsi se zeptal, co jsem dělal jinýho,
+kromě toho SQL-ka? No, no, no, to klidně můžeš nakousnout.
+No tak v technoucech to bylo samozřejmě
+Lotus Script,
+což bylo obdoba Visual Basiců,
+takže tam jsem dělal takový jako
+frajeřinky, že jsme
+generovali různý wordy,
+takže jsme měli, já nevím, já jsem dělal
+pro databázy
+soudních znalců a tlumočníků,
+pak jsme dělali jako informační
+systém pro krajské a vrchní soudy,
+takže jsme generovali různý seznamy,
+měli na těch soudech si ty frajeři ty seznamy
+tlumočníků tiskli, ono to mělo 900 stránek,
+byli z toho jako nadšený, že tam mají prostě
+metrovej zpět a s tím
+pracovali. No hele, no ale
+takže jsi si jako čuchnul i k tomu
+programování jako takovýmu
+a nelákalo ti tam zůstat
+v tomhle světě vedle toho datovýho světa,
+který se tam kolem toho točil?
+Hele, já ti to řeknu takhle, jo.
+Když jsem ve druháku nebo třetíháku
+měl dělat nějaký program a byly tam teď
+ty frajeři vedle z programátorských gymnází,
+který byli někde úplně jedný než já
+a já jsem tomu učitel říkal,
+tak já bych udělal komprimační program.
+Tak dobrý, no,
+žádná velká věda, tak to udělej.
+Tak jsem to teda
+naprogramoval, začátky byly super,
+to jsem pochopil, že to fakt není cesta pro mě,
+že výsledný
+soubor byl dvojnásobný, než ještě k tomu, když se rozbalit.
+Tak to jsem si říkal, že
+asi není úplně ideální.
+Tak,
+no, není to pro mě, hele.
+Není to pro tebe, takže je to to.
+Já programu rád, ale spíš to je opravdu
+takový to hraní a já dělám to, co se říká
+špagetykot, jo.
+A to vy asi programátoři nemáte rádi.
+No většinou to není úplně populární,
+ale samozřejmě jako kdo kdy nenapsal špagetykot
+a tě hodí kamenem.
+Myslím si, že v určitým věku
+nebo řekněme v určitý části tvýho
+profesního života se tomu prostě nevyhneš,
+jestli ty zuby musíš vylámat.
+Ano, tak já jsem se ještě nevylámal.
+My jsme, vždycky, když to řeším takhle
+s datařema, vlastně proč data,
+tak oni vždycky ještě říkají, že tam mají rádi
+to porozumění těm datům
+a vlastně ty data rovná se biznis.
+To znamená, jako mám blíž tomu biznisu
+nebo aspoň v jejich pojetí,
+než třeba když programuju.
+Je to něco, co tam taky cítíš, nebo to taky tam nebyla
+ta motivace? Prostě to fakt jako přistálo
+v určitý fázi tvýho života
+a pustil ses do toho proto.
+Nevím, neřekl bych, že by to byla cílená motivace,
+ale rozhodně to bylo něco, co mě baví.
+Takže já jsem neměl rád,
+když někdo řekl, hele, já teď promapuji
+tabulku A do B, já jsem chtěl vidět, co je zatím.
+Jo.
+Takže tohle mě bavilo.
+Myslím, že hezký příklad je, když jsme dělali
+poplatkování pro účty premiér.
+Teď už naštěstí, díky bohu, už to je
+trošku jednodušší, ale když jsme přicházeli
+na první verzi s Davidem Hubáčkem,
+tak tomu rozumělo
+pět lidí v bance a bylo to
+tak jako transparentní, že
+nikdo z těch klientů nevěděl, proč má poplatek
+a nikdo z těch bankéřů mu nebyl schopnej vysvětlit,
+proč mu spořitel nadala poplatek.
+Takže jsem pak jako ve finále škol
+i bankéře, abych jim to vysvětlil.
+Takže jsi mu ukázal obrovský SQL-ko
+a řekl, pojďte se tady, to je úplně jasný.
+To by nemělo smysl, že jim SQL-ko nerozumě,
+ale prostě snažil jsem se výjít ty jednotlivé
+kritéria, tak jak jsou,
+vysvětlit.
+Takže vlastně v těch datech si objevil něco, co oni
+prostě neměli šanci ani vědět dopředu.
+A to je ono. A jestli to je to, co tě tam
+na tom vlastně jako táhne dál, že vlastně kolikrát
+se člověk dozví tu, nebo má tu
+znalost z těch dat, možná i větší
+než třeba ten byznysák, který třeba vidí jenom
+nějaký fragment té věci. U nás se to vlastně
+združuje všechno, ty data.
+Vy máte jako z celé banky, to končí
+u vás ty data. Jako kompakt.
+Úplně všechny ne, to by zase
+jako to, vždycky můžeš říct úplně všechny ne,
+na všechno. Ale jako já nevím,
+to je tam zásadní většina, vlastně je tam.
+Aha, OK.
+Hele, mě data mining nikde nebavil.
+Že bych potřeboval z těch dat
+něco dolovat, to asi úplně není
+moje. Mně stačilo, že jsem jim rozuměl,
+dokázal jsem se jako
+s nima povědět na nějaký rozumný úrovni
+a dokázal jsem říct,
+hele, tohle je uvěr a neříkal jsem,
+čekaj, tohle je záznam z tabulky accounts
+a je to tady klíč 8 a co je
+zatím, to já nevím.
+Jo, jo, rozumím, rozumím.
+Hele, no ještě pak se dostaneme
+k té další části a možná by mě i zajímalo,
+no, co vlastně přesně
+za data se jako dál posílali
+třeba do té výdně, ale pojďme
+do té šťávičky, jo, pojďme do té šťávičky
+relační databáze, jo, co teda
+vlastně, kdybychom se dostali do té
+části relační databází, co to je,
+jak bys to popsal a
+možná jako, jo, taky jako
+one-on-one bych řekl, jo.
+Zastanu známku?
+No, jasně.
+To už máš jedničku, před programem jsem to vyplnil.
+Hele, tak říkám to i na školení, no, tak co je
+relační databáze, že jo, to je...
+Super. Tak to je
+databáze, která je zraložena na
+relacích, to znamená na vztazích mezi jednotlivýma
+tabulkama. Většinou
+pomocí klíčů, ať už
+teda unikátní identifikátor na její tabulke je
+primární klíč, ten, který se na něj jinde odkazuje,
+je cizí klíč a pomocí týhletí
+v tohletou vztahu cizí klíč,
+primární klíč je, je ta
+databáze postavená.
+Chcete slyšet, co to má za výhody? No, jasně, dávej,
+dávej, jasně. No, tak ten
+základní výhoda je, a to se v těch
+noucech nestávalo, a
+myslím, že hodně uživatelů bylo zpřekvapených,
+když se ti změní záznam,
+tak se ti zpropagují ty změny
+do všech těch díločích tabulek, protože tam je
+odkaz na ten klíč, či jo.
+Když by tam byla konkrétní hodnota,
+a já bych někde změnil, nevím,
+přeměnal by se mě město ze
+Zlína na Gotvaldov,
+tak kdekoliv by byl odkaz
+na tenhle
+ten záznam, tak se mě to propíše. Když to
+v jiných typech databází, právě ty nouci,
+tak tam se měl uložený záznam Zlín,
+no a že se mě někde v číselníku změnil Zlín na Gotvaldov,
+sorry, no. To už se nepromítne.
+Takže to je ten základní asi
+princip, proč tohleto vzniklo.
+Protože je jednoduchá zpráva,
+no a pak samozřejmě bychom se mohli
+dostat do nějakých
+modelů, já nevím,
+normování
+databáza, tak jo, kvůli
+ušetření místa. Na to já mám
+dotaz, protože já si to pamatuji ještě ze školy,
+že to na nás tlačili prostě jako třetí
+normální forma a tyhle ty věci.
+A mě to teda už tenkrát přišlo trošku extrémní,
+protože abych měl třeba číselník
+na křesní jména, mě už to přišlo
+jako moc, jo, samozřejmě chápu ty výhody,
+ale pak to vypadalo tak, že tabulka záznam
+vlastně osoba
+bylo 12 foring klíčí
+do jiných tabulek a bylo to totální vlastně
+madness vůbec jako zjistit, co
+v tom jednoduchým řádku je uložený.
+Jak se na to díváš ty? Je to extrémní?
+Není to extrémní? Používá se to ještě vůbec?
+Ne, u nás určitě ne, tohle je fakt
+jako extrém. Jo. Jo, klíček používáme
+rozumně, ale aby jsme opravdu měli
+klienty a měli číselník
+na křesní jména a číselník na příjmení,
+to v podstatě ani není možný, jo.
+Když se vezme, že
+čím dál tím víc z našich klientů jsou
+zahraniční klienti,
+ať už to jsou Ukrajinci
+nebo prostě jiný národy,
+no tak to bychom museli ty číselníky neustále
+rozšiřovat. No jasně. Jakým způsobem, že jo.
+Když přijde ti nová hodnota,
+tak ji vložíš do číselníků, no to je takový jako
+neúplně hezký způsob.
+Takže tohle to už se třeba
+tolik nejede, nebo minimálně u vás
+už to tolik nejede. To se nejelo ani od začátku.
+Já se teda myslím, že to bylo jako divný, nebo
+možná to byla taková ta klasická vysokoškolská
+teorie. Přesně, přesně. V učebnici to
+najdeš. V učebnici to najdeš,
+ale jako prakticky, prakticky
+asi to není úplně nic, co byste chtěli denodenně dělat.
+A jedna věc je ta vizualizační. Jak to je
+z pohledu performance? Jako neperformuje to hůř
+líp? Prostě jsou tam nějaký rozdíly?
+Když bych to takhle vyloženě nasekal.
+No to víš, že to je daleko horší. Je to horší.
+No jasně. Tak proto kdykoliv byly
+nějaký velký data marty, jak potřebovala si
+dotaz obrazit uživatelům, tak tam se to samozřejmě
+donormalizoval, že jo? Oni nechtěli spolovat
+žádné další tabulky. Zváliš tam,
+já nevím, desítky milionů záznamů, tak aby k tomu navázal
+85 číselníků, no tak
+jedna by to pro něj bylo nepřehledný
+a druhá by mu to taky nemusel dobíhat.
+Ještě mě zajímá jedna věc. Ty
+tím, jak ses už pošahal takhle
+řekněme jako různý databázový systém,
+jak třeba koukáš na NoSQL databáze?
+Je to něco, co tě zaujalo, nezaujalo,
+přijde ti to blbý, nebo jenom
+proto nemáš use case? Jaký je tvůj názor?
+Hele, já jsem byl na jedný přednášce
+o NoSQL databázích a řekl bych, že mě to spíš
+nějak nezaujalo, no. Nezaujalo tě to?
+A nevidíš tam teda žádný
+výhody? Myslíš si, že třeba teďka, kdyby
+kdokoliv přišel a řekl, ale potřebuju nějakou
+databázi, tak automaticky půjdeš po tý
+relační?
+Asi jo, asi bych mu to tímhletím způsobem navrhoval,
+ale strašně by záležel na tom, co on by potřeboval.
+Kdyby potřeboval ukládat
+nestrukturovaný data, tak třeba by to mělo
+smysl, ale já s tím NoSQL databázem
+zkušenosti nemám.
+A co jiný, třeba grafový, nebo takovýhle hrál jsi
+taky s tím, nebo jsi zůstal si vloženě u těch
+relačních? Přesně tak.
+Pamatuješ si nějaký svůj první select, když jsi ho napsal,
+a řekl jsi, tak teď jsem to vyounil,
+teď jsem to nadžojnoval jako pán.
+No hele, první select,
+který si pamatuju, který by stal
+za to, tak souvisí právě
+s tím popatkováním premiéru.
+Protože oni teda si nastavili...
+Jinak premiér, jaký ty prémiový účty
+pro takový ty zámožnější lidi?
+Jo, jo. Pro takový ty Poláky,
+my jim říkáme tady. Jo, jo, určitě, určitě.
+No tak
+nastavili jsme si nějaké
+kritéry a oni říkali, hele, my to potřebujeme
+jako spočítat 9 měsíců zpětně.
+A teď já jsem tam měl, já nevím, 10 historických
+tabulek, potřeboval jsem
+udělat ten řez 10 měsíců zpětně.
+Tak jako když pracuješ
+s tím dnem, tak udělat časový řez,
+to je sranda. Jasně. Ale se stavit v období
+za 10 měsíců, to už bylo horší.
+Takže jsem si napsal SQL-ko, říkal jsem si,
+jako nebudu srav, nebudu psát žádný PL-ko,
+to jako umí každý, to napsat v cyklu, že jo.
+SQL-ko je o to, aby se napsal
+velký dotaz.
+Tak jsem si napsal velký dotaz, měl asi tisíc řádků.
+Ty krása. A když jsem ho pustil,
+tak jsem zjistil, nejde. Ale ne, že by
+nedobíhal. On prostě
+spadl na parsování. Nebyl schopný
+mě vyhodnotit ty z ten dotazy správně.
+Že to byl tak dlouhej vstup, že nedokázalo naparzovat.
+No přitom jako délka
+by ho neměla trápit.
+Prostě z nějakého důvodu nedokázal naparsovat.
+Když jsem si vzal prostředek,
+udělal jsem si z toho stage,
+doběhlo za vteřinu. Stage jsem zakomponoval
+do dotazu, doběhlo za vteřinu. Celkem
+nedoběhlo. Tak jsem si říkal, dobrý,
+tak vystavíme bug na Oracle.
+Nevím, jestli jste s tímhle živým měli zkušenosti.
+S Oraclem ne, ale jako představovat.
+Nedokážu si to živě představit.
+To je jako dobrá zábava.
+Takže po týdnu se mě ozval jeden jind a říká
+ahoj, já jsem, já nevím, že ho nepahotuji
+s indickým jména, dostal jsem
+na stvoru svůj problém, prosím, popiš mi ho,
+jak to je zásadní a pošle mi
+test case. Tak jsem mu všechno poslal
+a on, máte nejnovější verzi databáze?
+Říkal, no samozřejmě nemáme, že on na produkci
+jako nemůže mít nejnovější verzi databáze.
+Takže jsem administrátorům napsal, hele,
+potřebuji na testy nejnovější verzi databáze,
+abych se samozřejmě dozvěděl, že o tyhle chvíli životě neviděl,
+když to opravdě být nemůže.
+Poslal jsem to tam a on, aha,
+budu zkoumat. Za tři měsíce
+mě napsal, ahoj, já jsem novej
+člověk.
+Dostal jsem na tenhle kontakt,
+prosím, popiš mi, to je tu stále aktuální.
+Hele, dostali jsme se
+ke čtvrtému člověku
+a po roce jsem mu napsal, tak všechno nejlepší
+k nerození nám našeho tiketu, ale už to neřešíme.
+Hele, fakt mě to nikdy nevyřešili.
+Ne.
+To si pamatuju taky jednou,
+já jsem něco reportoval na Azure, nějaký bug
+a posílal jsem jim tam výpis a oni
+se ozvali tak dlouho, že už jim to vyjelo z logů.
+Ten záznam, takže
+všechny ty moje IDčky a to, říkám, můžeš
+mi to poslat znovu? Říkám, nemůžu, já už jsem taky smazal
+a hlavně, ty už to nenajdeš v logách, takže
+peklo pekelný. Teď koukám, to je všude stejný.
+Všude stejný, my to samý řešíme teďka
+na informatice, řešíme úplně to samý taky
+a vlastně tam ještě Honza Orns, náš kolega,
+tak i píše, mohlo by to být
+tímhle, tímhle, tímhle, tímhle a pak ten
+IDčky si ptá, a nemůže to být tímhle?
+Říká, ne, to jsme vyřešili, tohle ne.
+A teď jede přesně to, co ten Honza říkal, že tímhle
+věcma to nebude, tak ten IDčky to zkouší
+prostě jedno po druhému.
+Já tam vidím to AI úplně jak
+IDčky as a service.
+Jako mohlo by, no.
+Tam ten pattern je, tohle si naučíš
+podle mě jako za chvíli, tyjo, takovýhle
+pomocníka ve velkých úzovkách.
+Hele, tak jeho cílem není, aby ten problém
+byl vyřešený. Jeho cílem
+je, aby měl co nejméně tiketu aktivní, který jsou na něm.
+To znamená, že když to na ten může přehodit,
+jak by se k něm byl v důvodu, tak on je v pohodě.
+To je chytrý.
+No takže tohle byl tvůj první složitější select,
+se kterým, nebo na který seš
+jako hry, jak jsi to teda vyřešil?
+Prce ty informaci jste potřebovali, ne?
+No to víš, že jsem to zastejčoval, že udělal jsem z toho dva selekty.
+Jo, jo, jo.
+Okej, no a hele,
+u nás je Oracle, že jo,
+jako pořád jako král
+databázový,
+ty databáze, který máme, tak drtivá většina je v Oracleu.
+Jak ty dneska víš Oracle?
+Protože samozřejmě bavili jsme se tady s Honzou Divkem,
+že jo, pár sérií zpátky
+o klaudifikaci a tak dále.
+Ale jak ty vnímáš Oracle dneska?
+Jako i tu jejich pozici, jo?
+Kdyby si dneska začínal,
+šel bys do toho ještě znova, protože už třeba
+v tom máš tu znalost, nebo by si
+začal zkoušet už ty klaudový věci,
+jak by si k tomu přistoupil?
+Hele, když se nám nedávno, já nevím,
+konec, dva roky zpátky jsme teda oznámili, že půjdeme
+do klaudu, tak kolega si z toho
+vyhodnotil, Oracle je mrtvej.
+Zeptám se AI, co si o to myslí.
+A AI říkala, není to pravda, Oracle
+mrtvej není.
+Takže já si myslím, že ne, hele. Mně se pořád
+ty věci, které dělají, líbějí.
+Mně se líbí, že máme ty data u sebe.
+Že nemáme prostě někde
+bůh ví kde.
+Že si za to
+zodpovídáme vlastně i za tu
+bezpečnost, zodpovídáme sami.
+Takže mně se obecně ty
+on-premové řešení líbějí.
+Samozřejmě chápu, že
+klaudy,
+ať už Snowflake, nebo cokoliv dalšího,
+mají svoje výhody. Jenom já asi
+nejsem jejich primární fanoušek. Jak jsem tady
+prostě patnáct let dělám na tom Oracleu,
+tak
+já na ně nedám dopustit.
+Já vím, že jsme se o tom i trošku bavili
+před natáčením. Samozřejmě ten
+Snowflakeový tým je trošku jindé, takže Jirka
+si třeba tolik na Snowflake nešáhne.
+Ale vím, že jsi to zkoušel
+i vlastně v rámci té soutěže, o které se pak taky
+budeme bavit, tak jsi Snowflake
+zkoušel. Kde vidíš,
+že ten Oracle pořád je lepší?
+Kde prostě pořád vítězí?
+Já nedokážu posoudit, kde vítězí.
+Tak samozřejmě
+ta syntaxe je trošku jiná
+a Snowflake to utáhne tou svou výpočetní silou.
+Nemáš podstatě šanci
+ho porazit.
+Co se mně na tom Oracleu líbí
+a to ve Snowflakeu není,
+tak je, když máš problém, něco ti neběží,
+můžeš s tím něco dělat. Můžeš to hintovat.
+Můžeš tomu Oracleu říct,
+postupuji trošku jiným způsobem, protože
+já ty data znám, ty ne, tak pojď mě věřit
+a pojď to dělat podle mě.
+Tohle možná dobrý.
+Snowflake udělat nemůžeš zatím.
+Říká ti něco hintování v Oracleu?
+Ne.
+Možná to trošku popiš, Jirko, protože je pravda,
+že to není úplně takový mainstreamovej poznatek.
+Dobře.
+Víš, co je optimizer?
+Ano.
+Takže to je nějaký mechanismus, který vybírá
+prováděcí plán.
+A hintování nebo obecně hinty
+jsou příkazy pro optimizer, který mu říká,
+že hle, pojď tudy.
+Pojď tudy.
+Jo, co znamená, spojí tabulky,
+ať už pomocí hashe nebo použít tenhle index.
+Zajména to je
+tehdy, když jsou nějaké závislosti
+mezi daty a
+on nedokáže odhadnout jejich kardinalitu.
+To znamená počet navratových záznamů
+a myslí si, že jich to vrátí málo.
+Pak se podle toho chová.
+Jakmile Oracleu kdekoliv jde, že vrací málo záznamů,
+typicky jeden, tak už potom
+spoluje kartéřským součinem, což
+u velkých objevů dát fakt není dobrý nápad.
+Jasně.
+Ještě mi řekni jednu věc. Ty, když tohleto děláš,
+jak vypadá tvoje aktuální
+výhojový prostředí? Já si pamatuju, že já jsem
+třeba člověk, který se víc hrál s
+Microsoftím SQLkem, takže můžeš mít
+nějaký SQL studio a tam máš
+vyloženě v podstatě ID, jako mají
+programátoři, tak mají tyhle SQL
+mástři.
+Má Oracle předpokládám něco podobného, ne?
+Máš takovýhle... Oracle má svůj
+SQL developer, který já nepoužívám
+a já používám Toad, tak jako většina
+lidí od nás. Toad? Od Quest
+softwaru, je to program, který se jmenuje Toad,
+jako ropucha. Aha.
+Ono na začátku vězky kváknete, když máš
+odpuštěný zvuk,
+tak používám toto ID.
+A to má, má to teda předpokládám
+ty výhody, že jednak ti pomáhá
+se syntaxí, kouká, jestli tam máš
+všechno v pořádku, napovídá ti taky
+třeba, očuchá ty struktury?
+Jo, napovídá, to je to nejhorší, co může Toad udělat,
+to zavadá, jakmile začne hrabat kulečku,
+že ti chce napovídat, ti to většinou kousne a na pět
+minut seš jako vyřízený, jo. Takže
+snažím se psát tak, aby mě nenapovídal,
+ale má tam samozřejmě integrovaný
+pohledy, jo, ať už do nějakých session, aby se
+mohl dívat, co ti jak běží a zobrazuje
+ti statistiky a vizualizuje
+ti nějaké objekty, tak aby se k ním dalo
+hezky přistoupit a mohl si
+spodívat, jaký má statistiky
+a nemusel si prohledávat metadata.
+Když jsme u tohle tématu,
+je to strašně zajímavé si to představit,
+když na to kouká člověk jako programátor,
+na tuhle práci. Používáš
+třeba takový věci, já nevím,
+verzování, různě jako
+continuous integration a tak dále, nebo
+tohle, co to jde mimo tebe, jak
+vlastně třeba organizuješ tu svoji práci,
+organizuješ ty svoje skripty a...
+Tak my používáme Git, takže
+verzování na to. Jasně.
+CICD, no, tak to je
+jako...
+Můžeme tomu tak říkat.
+Dobře.
+Jo, takže jak organizujeme práci,
+no, tak u nás to
+sestává z několika objektů, který
+vyrábím. Tak já buď vyrábím nějakou package,
+to znamená funkční kód
+PLSQL, který v podstatě není
+nic jiného než PL, SQL
+obálka, ve které je SQL kód. Jasně.
+Takže to je ta funkční jednotka.
+No a ta musí být někde zpuštěná, to znamená
+já si musím vymodelovat workflow
+a musím verzovat jednotlivý
+komponenty toho workflowu, jo, protože
+tak jak máme spoustu zdrojů, tak máme i spoustu
+procesů, který nám to načítá,
+který nám to načítají a ty všechny
+jsou uloženy teda v GITu.
+Jo, jo, jo. A takže ty,
+když ty třeba vyrobíš tenhle
+svůj kus kódu, nebo
+kus kryptu, PLSQL, whatever,
+pak to teda komitneš a
+spustíš si teda opravdu nějaká pipeline,
+například předpokládám, že jako nevlezeš si tady jako do
+produkcí databáze, nezeš, než si tam blbno.
+No, pipeline se nespustí. V tuhle chvíli ještě ne.
+Já si v prostředí,
+který se jmenuje Realman, vytvořím takzvaný
+migrační balíček, to znamená...
+Interní nástroj, no. Jo, to jsme si vyrobili.
+Tam si nahraju ty jednotlivý
+skripty a pak si na jiném
+prostředí vytvořím migraci, která říká,
+hele, tenhle skript se má pustit v tomhletom pořádí,
+pak pust proces, pak pust něco jiného,
+kde si namodeluju, teda jak vlastně ta nasazení
+týmí změny vypadá a pak to pošlu
+administrátorům, aby to nasadili na produkci.
+A jak oni to očuchávají, admini? Koukají,
+co je ve vnitře, si stane...
+Ne, takže když pošleš jako
+delete from accounts, zapomereš
+na where, tak... To je mu vůbec nejedno.
+Jo, tam máme jiný interní mechanizmy. Já když to dávám
+do GITu, tak samozřejmě
+tam je pull request, který schvalují jiný vývojáři,
+takže kdybych tam něco podobného napsal
+a nebyl by uplacený, tak mě to nejspíš
+jako neschválili, jo.
+Ale jak je automatický ček, že se třeba
+udělá někde nějaká kopie
+produkce nebo nějaká
+jako anonymizovaná, tam se to spustí, jestli
+si nezničil půlku
+databáze, to se nedělá. Ne.
+No tak to mě teda nahrává nějaký
+fuckapík, musíš mít, ne?
+Jako člověk, který dělá se SQLkem,
+podle mě musíš mít celý hřbitov těchto
+jako tabulek, ne?
+Jo, mám to říkat, jo.
+No jasně, pojď. Teď se úplně Jirka
+tak jako zašklebil. Hele, tak jako
+stane se, samozřejmě většinou to odchytneš na testech,
+no, tak chceš smazat jeden záznam, místo toho zapomeneš
+where podmínkost, než klasika.
+To je sranda.
+Kamarád měl sestřelit
+sešnu, já nevím, jestli víš, jak to funguje,
+prostě připojíš se do databáze, vytvoří se ti připojení
+na databáze, takzvaný sešn, kde ti běží
+tvůj dotaz.
+On se podíval do toudu, tam si
+našel danou sešnu a v tu chvíli se mu proved
+automatický refrech, který běhá každý 10 vteřin,
+no a z té jedné sešny mu to skočilo
+na skupinu owner.
+On si to nevšem oddal kill, že jo,
+a místo té jedné sešny mu to sestřelo všechny,
+které byly pod tím daným uživatelem, takže jich sestřelo
+asi 80 nejednou, tak mu volali,
+hele, ta produkce je za celý červený,
+něco špatněho, je vedle.
+A to můžeš až takhle, jo?
+Jo, ale administrátoři
+tehdy to ještě mohli, teď už to taky
+nemůžou dělat. Teď už jsou taky omezený.
+No ono teda vůbec, jako to ujíčko, kdy ty
+chceš někam kliknout a ono se ti do podkurzenem
+reloadne, to je za to vystřílet,
+a to je peklo, pekelný.
+To je pitlen.
+Takže jako to byla sranda, no.
+To věřím, to věřím. Je tam ještě nějakou,
+ale třeba měš...
+To bylo kdysi dávno,
+teda v té dřevní dobá, kdy jsme ještě neměli,
+kdy jsme neměli
+automatický storage management,
+takže měli jsme nějakou
+večerní migraci a já jsem potřeboval
+uvolňovat místo v tablespacech.
+Tablespaces jsou teda
+prostor pro, kam se ukládají data.
+V datafilech.
+A teď já jsem to měl zaplněný
+a potřeboval jsem tam dostat data, tak to fungovalo tak,
+že vždycky si našel nějaké volné místo na disku
+a hezky si přesouval ty soubory.
+A fungovalo tak, že si to musel
+ten soubor dát do offline,
+přesunout, dát do online.
+No takhle jsem tam klikal, že já jsem potřeboval
+uvolnit 10 giga, teď jsem tam našel 80 souborů,
+který mě to dohromady dali,
+takže jsem to postupně přesouval.
+Říkám, je, to já jsem u jednoho zapomněl dát na začátku offline.
+Ale ono ti to jako dovolí přesunout.
+Jenom ti online napíše, no sorry, nejde to.
+A zničená databáze, sorry.
+Jak on to vyprávěl z toho radozka.
+Radoz jsem z toho úplně neměl,
+když jsem říkal, hele,
+úplně se mě ten večer nepovedl.
+Jak dlouho to trvá, takhle fixnout
+takovýhle jako srandy?
+Stalo se někdy?
+Měli jsme zničený testovací koló, to nejde obnovit.
+Jako vůbec? Ne.
+Takže jste museli do záloh a ok.
+Jak často zálohujete, když už tak bavíme,
+zdravíme na kastrální úřad do Slovenska?
+Jak často zálohujete?
+Já si myslím, že probírají denní zálohy.
+Jo, jo, myslím si, že jo.
+Ono je taky asi dost datné,
+jako odlejvat to každý 10 minut.
+Je to dost datné.
+Já se teda přiznám, že to textře přesně nevidím,
+ale já předkládám, že ukládáme
+nějaký transakční logi, to znamená,
+jakýkoliv změny se ukládají
+a jdou potom udělat reverzně,
+že to znamená, jdou vrátit na zpátek.
+Jedna věc je dost data,
+druhá věc je komplexita těch dat.
+Teď zrovna řešíme, zrovna právě v lídeň
+bych chtěl, aby jsme data dodávali rychleji
+a teď přemýšlíme, jak to uděláme,
+že by jsme ty data posílali
+asi o hodinu a půl,
+o dvě hodiny rychleji
+a to může být taky investice v řádek
+stověk milionů.
+To myslím, že jsme se o tom bavili
+s Tomem na večeři.
+Tak se zase vracíme okruhem zpátky,
+protože těch systémů,
+teda to moje číslo, které já jsem slyšel,
+je 450 zdrojových systémů.
+A teď, abych si je propojil
+a přišli ti všechny data v tu chvíli,
+abys to mohl poslat, tak to jsou pak stovky milionů.
+To je úplně neuvěřitelné.
+Ono typicky nepotřebuje všechny.
+Typicky ne, ale když se podíváš jenom na ten největší,
+na Starbosh, který by měl dodávat ty data
+jako dřív, o dvě hodiny třeba,
+no tak to je prostě nonsense.
+To je jenom, abyste si udělali představu.
+Že se bavíme o 120 minutách,
+který můžou dělat jako násobky milionů v eurech.
+Ano, ano.
+To ani Titanic nestál tolik, podle mě.
+Jirko, když jsme tak nakousli ty fuck-upy,
+já jsem si vždycky říkal,
+když si vezmu tu syntaxi SQLka,
+proč mi to umožňuje delete jako všeho?
+Proč neexistuje třeba delete all
+a že delete bez VR-u by mi jako neprošel?
+Možná jsem to jenom já.
+Vidíš ty u toho SQLka taky nějaké
+vyloženě floss,
+nevím, jaký je správný český ekvivalent,
+prostě nějaké vady toho návodu,
+toho jazyka, nebo tobě přijde už
+tak naprosto jasný, že jsi v tom denodenně,
+že ti je to neštvé?
+Hlasím, že to neštvé.
+Jako, že napíšu delete hvězda
+nebo napíšu jenom delete from.
+Jo, na začátku jsem si říkal,
+proč to takhle píše.
+Jo, kdyby jsi měl nějaký keyword, jsem myslel, víš,
+jako speciální třeba na to, aby jsi mohl mazat všechno,
+tak, že by jsi měl vyloženě special
+prostě keyword.
+Rozumím ti, my ty delety děláme
+jako fakt velmi málo.
+My se snažíme mít v databázi,
+když už tak děláme updaty,
+případně logický delety, to znamená nastavení
+nějakého deleted flagu.
+Ale že bychom vyloženě mazali data, to děláme velmi málo.
+A to tehdy, když jsou jako
+špatně. Že nám vyloženě zdroj
+poslal špatný data a ty potřebujeme odmazat,
+protože nám tam způsobují problémy.
+Takže proto mě to ani tolik netrápí,
+protože my ty delety neděláme.
+Takže vy děláte vyloženě soft...
+Snažíme se o to.
+Ale vlastně přemýšlím takhle, jak se Románek
+ptá, tak mě napadla jiná otázka, že
+když se podíváme na to SQL-ko,
+jak málo se mění. To je v podstatě
+pořád stejný jazyk.
+Moc toho novýho nevidíme.
+Teď jak dlouho už ho máme,
+to už je bambilionový.
+Já vlastně nevím, kdy to začalo.
+Nevím, jestli ty to máš dál při školení.
+Ale minimálně
+říkáš 18 let, ale...
+To bude daleko dýt, že já jsem začínal
+na verzi Oracle 9.
+No a když se podíváš... To já nevím, kdy to bylo.
+No to ne, ale minimálně
+pará verzi Oracle.
+Takže to je třeba 40 let, nebo něco takového, možná i víc.
+A teď si jen jako... Když se podíváš
+už jenom ty retrospektivně na tu svoji kariéru,
+co se změnilo v tom jazyku
+od té doby, co jsi ty v něm začal?
+Tak přibývaly tam nějaké funkcionality.
+No.
+Window funkce.
+Jasně, ale tak ty si myslím, že už byly dlouho.
+Případně občas měj nějakou syntaxi,
+ale jakože by vyloženě
+byla nějaká revoluce, to asi ne.
+Podle mě pro Oracle byla
+největší revoluce, když začaly
+podporovat ANSI syntaxi, kterou dřív nepodporovali.
+Jasně.
+To je syntaxe, která je
+normovaná, to znamená
+používání klíčových slov join
+a tak dál.
+Jasně.
+Což dřív nebylo, Oracle používal
+takzvanou pluskovou notaci.
+To znamená, seznam tabulek byl oddělený čárkama
+a otevřeně se psali
+pomocí závorku plus.
+Přemýšlím, čím to je.
+Ty data samy o sobě,
+když se bavíme o těch SQL věcech,
+o těch tabulárních datech,
+tak tam se toho vlastně moc nezměňuje.
+Je to pořád tabulka, máš tam nějaký data,
+ty formáty vlastně taky nepotřeš úplně zásadně nový.
+Tam teda samozřejmě nějaké změny jsou.
+Tak snad Geospatial a tyhle věci.
+Jasně, jasně.
+A jinak vlastně tyhle si vystačíme
+z věcí, která, to je jak neuronky,
+to je vlastně věc, která se vymyslela. Našel jsi to?
+Našel jsem to.
+Kořeny jsou v 70. letech 20. století.
+Kolem roku 74.
+Takže už je to s námi
+opravdu dlouho, dlouho.
+50 let.
+Možná se mi napadá taky opravdu pod podatek
+formátů, jak zpracování JSONu
+nebo XMLek.
+To dřív nebylo, že jo?
+Tyhle formáty se vůbec nepoužívaly.
+Jasně, jo.
+Dneska i řešíme, že jo, aby
+to třeba je pro nás důležité, aby Snowflake
+uměl vyplivnout nějaké prostě restupy,
+něco, co prostě si pak začne komunikovat
+někde dál v návazně.
+A to jsme dřív taky neúplně tolik potřebovali.
+Dneska v tom, jako ten datovej
+svět je spojený s tím aplikačním zcela
+zásadně. To jo, ale jedná se vám nesel o to, že se
+můžeš dotazovat na, nevím,
+hodnotu ve sloupci,
+ale zároveň
+i jít do strukturálně,
+pokud to obsahuje Jason, tak jít
+třeba do toho Jasonu a vyškombinovat
+takové podmínky, že to je
+first name je Roman a v Jasonu
+má zanořenej array a tyhle věci.
+Jo, jo, jo, rozumím, rozumím.
+Používáš to, Jirko?
+Málo. Málo, veď? Já se taky myslím, že to je
+jako fancy feature, ale že tam to spíš
+budeš kombinovat, že to už možná podejí spíš do nějakého
+NoSQL, pokud chceš mít vyloženě takovýhle
+jako hluboký data možná.
+My spíš tyhle to moc nespracováváme, no.
+My jsme XML zpracovávali kdysi,
+když ještě jsme měli
+online
+integraci s ostatníma systémama,
+že prostě bankér přišel
+na pobočku, přišel k němu klient
+a řekl, hele, tady mám
+svůj občanku, potřeboval bych něco udělat na účtu.
+On mu dal občanku,
+přihlásil se někde v aplikaci klient
+a přel online dotaz do
+DVčka nebo do tvůjho skladu, tehdy ještě
+teda ODSky, Operation Data Store,
+který mu vrátil během
+500 milisekund informace o tom,
+jaký má ústatky a tak dále.
+– To jsou úplně ODSky, ty vole,
+že jste se ptali to po lánkách.
+Dobrý, dobrý, dobrý.
+Co já, jak to funguje ve spodnici, že jo?
+Hele, vy jste kluci…
+– My jsme agnostický, v tom případě.
+– To je dobře. Vy jste to tady několikrát naťukli,
+já vám to tady otevřu. Snowflake.
+Já myslím, že tebe jsem viděl
+do konce poliv s nějakým tričku, Snowflake.
+– No, my jsme měli obrovskou akci,
+to musím ještě teda říct,
+kdy jsme organizovali věc,
+kde jsme plánovali mít 70 lidí
+a přihlásilo se 241 lidí
+interně vlastně ve spořce.
+– Tak jste je vyhodili. – Takže ne, ne, ne.
+Všechny jsme přitáhli, objednali jsme víc chlebíčků
+a jelo se, bylo to success,
+takže super. My jsme měli dvě dobrý akce
+a o té jedné ještě budeme mluvit.
+– No tak pojďme na ten Snowflake, kluci.
+Takže jak se to liší
+od Oracleu, ta práce pro Jirku?
+Jirko pracuje se Snowflakem teďka?
+– Velmi málo. – Pořád se tomu vyhybáš?
+– Tak já jsem v oddělení,
+který zatím se k tomu nedostává.
+Protože my máme vyloženě tým,
+který má tuhletu
+cloudovou integraci na starost
+a my pořád
+musíme dodávat do Tadový dní,
+tak si úplně nemůžeme hrát.
+– Teď jsem to.
+– Krásně.
+– Pošlu zdravici do, jak se to říct,
+hrajícího týmu. – Já jsem to nemyslel.
+– Já vím, já vím.
+– Ale prostě, kdyby jsme
+ve Vídni řekli,
+teď půjdeme migrovat do Oryklů,
+pět let nečekajte data,
+a teraz Oryklů do Snowflakeu, pět let nečekajte data,
+tak myslím, že nás to si nepochválejí úplně.
+– Ne, to určitě ne. A ještě, abych to narovnal
+z toho mojho pohledu,
+tak je to o tom,
+že Jirka vlastně pracuje ne pro tu Vídeň,
+ale pro zákazníka
+interního, který komunikuje s tou Vídní.
+Až se ten zákazník rozhodne
+a řešíme to, že třeba
+zkusíme klaudifikovat, a pak se to bude týkat
+i tebe, že jo? – No, jasně.
+– A tam se blížíme, myslím si,
+že ta banka i,
+s tím přijde hojťáci, že jo,
+pojďme dělat něco novýho, ale jakmile se to chytá
+i v jiných divizích, a to už se tady děje,
+tak pak to začne být zajímavý.
+Takže věřím, že Jirka si pohraje
+se Snowflakem a pak ho to třeba bude i bavit
+víc než Oryklů. Uvidíme. – Ne, já musím říct,
+že některé věci se mně tam vyloženě líbějí, jo?
+– Jo, jo, jo. Co to je třeba?
+– Co se mně tam líbí, no, tak je ta podpora
+různých formatů. Takže
+my jsme teď i na Vysoké škole ekonomické,
+že jo, měli takovou
+malinkou SQL challenge a dali jsme
+studentíkům, kteří se tam procházeli,
+úlohu, aby rozpársovali
+text, který byl oddelený čárkama
+a oni z toho měli vybrat největší hodnotu.
+Když to bylo číslo, tak samozřejmě
+muselo to být nikoliv
+maximolexografické, ale prostě číselně
+největší hodnotu. – Jasně.
+– Což je zajímavá úloha v tom, že to jde dělat prostě milion
+různýma způsobama. V Oracle
+bys kombinoval nějaké substringy,
+Snowflake na to má
+prostě různý feature, já tam řekneš,
+ale vytvoříš mě tabulku, která je prostě z tohohle
+toho řádku oddělený čárkama a on ti z toho vytvoří
+tabulku. No, Oracle nic takového nemá.
+Tak to se mně fakt líbilo, že
+takovýhle věci jdou dělat velice rychle
+a v podstatě zadrmo,
+když to v Oracle se s tím trápíš.
+– No a co těšte
+teda na tom Snowflake?
+Plně si jako ulev?
+– Hele, já nemůžu říct, že by mě vyloženě něco štvalo.
+Teda, co mně trochu chybí, je dual.
+Nevím, jestli znáte dual.
+V Oracle to je jednořádková, jednosloupcová
+tabulka, která se používá
+pro normální výpisy.
+Takže když nepotřebuješ mít
+vyloženě biznisový data, ale chceš se
+zeptat, kolik je dneska hodin, jaký je dneska den,
+prostě konstantu. – Jasně.
+– Tak když ve Snowflake napíšeš select sysdate
+a vypíš ti to datum.
+V Oracle potřebuješ mít vždycky zdroj, tak tam potřebuji napsat
+select sysdate from dual.
+Tak byste si řekli, proč mě ten dual chybí, že jo?
+Tak to je spíš kvůli tomu,
+že já s tím dual nemůžu dál pracovat.
+Já můžu dual hierarchizovat.
+Asi znáte hierarchii z práce, že jo?
+Mám nadřízenýho, podřízenýho, to znamená, mám tabulku,
+která má uložený aktuální klíč
+a máster klíč a dokážu sestavit celou hierarchii
+v rámci jednoho dotazu.
+A tohle je triviální příklad
+hierarchického dotazu a já si můžu
+hierarchizovat dual tak, že si ho spojím
+sám za sebe neustále.
+Takže já třeba řeknu select číslo
+from dual, connect by level je menší
+rovno 50 a on ví, že ho má 50x
+za sebou spojit. A díky tomu
+já dokážu lehce vypsat čísla 1 až 50.
+Jo, protože kdybyste mi řekli,
+hele, potřebuju čísla 1 až 50,
+tak je to
+většina lidí by udělala select 1
+from dual, union
+select 2 from dual a takhle by se stalo zblázit.
+Když to v oréku napíšu
+velice rychle, tohle. No to je
+funkcionálita, kterou Snowflake nepodporuje,
+když se nadechuješ, Petře.
+Dobře, dobře. Tak to musím napsat pomocí
+takzvaný rekursivní
+vysklauzule, což jako napsat
+jde, ale trvá to strašně dlouho.
+Ta syntaxe je dlouhá, tak proto mě to nevyhovuje.
+To je tak jako, kdybych si chtěl do něčeho
+rejpnout, že mě něco trošku chybí.
+A neumíme si to tam předpřipravit
+jako nějakou tabulku, ten dual?
+Že bys to potom vytahoval z toho?
+No on nepodporuje tuhletu syntaxi,
+ten connect by.
+Takže to ti nejde.
+Jasně, jasně.
+No tak výborně, tak aspoň víme i v čem.
+Takhle, jako vlastně ještě
+Snowflake, nevím jestli je to všeobecně
+známo, ale Snowflake vlastně vyvinuli
+lidi z Oracleu a snažili se samozřejmě
+nahradit všechny ty věci, které třeba v Oracleu
+nefungují tak dobře, tak vylepšit
+ve Snowflakeu, ale...
+A to musím potvrdit, to se jim povedlo.
+A teď je jako otázka, jestli existuje na světě věc,
+která má jenom výhody, to samozřejmě
+prostě není možné.
+Když si to představíte, jak já jsem na školení
+a řeknu, hele vypíšte čas
+a použijte tabulku dual.
+Tak na mě lidi koukají, říká, tam to je jako uložený.
+Říkám, ne, tam to není uložený,
+já z toho nic nevezmu, já to mám jenom jako zdroj,
+ze kterého nevezmu vůbec nic
+a dám si tam konstantu.
+A proč to potřebuju?
+No, protože to prostě takhle Oracle má, no.
+Takže to se jako vysvětluje blbě.
+Samozřejmě, až budeme na Snowflakeu školit,
+tak tohle bude pro ty uživatele
+výrazně přívětivější
+a pochopitelnější.
+Nicméně, jak jsem říkal, má to i
+nějaká sva úskalí.
+Ještě jedna věc mě napadá, která může být zajímavá
+pro posluchači. Jirko, jak ty
+jako na pozici developera
+prostě v nějakým týmu řešíš
+a potřebuješ řešit to,
+že to železo má nějaký výkon a potřebuješ s ním nějak
+pracovat, protože to Snowflake neřeší,
+že jo? Ty prostě to tam nasypeš,
+na začátku řekneš prostě M,
+X, XL a jedeš
+a on si to pak škáluje sám, jak potřebuje.
+A jak ty často
+narazíš na dotaz nebo na
+úlohu, kde si říkáš, tyhle teď tam musím něco
+poladit, řešit s adminama, prostě úplně
+whatever, takový ty úlohy, který
+vlastně Snowflake vůbec neřeší,
+protože už je to prostě sasovka, kterou bereš.
+No,
+typicky tohle taky neřešíme.
+Jo, protože my máme nějakou,
+nějaký železo už máme,
+moc si s ním rád nemůžeme. Jediný, co
+můžeme udělat je to, že si
+vybereme okamžik, kdy není nějaká zátěž.
+Takže když vždy je měsíční uzávěrka
+a spousta lidí tam půjští v obrovský ad hoc
+dotazy a teda ta báze
+je vytížená, no tak samozřejmě vždy to poběží
+pomalej, objektivně. Prostě nemáš
+možnost to nějakým
+způsobem zrychlit. Jo, tak můžeš říct
+hele, tak kontroling dneska odstřihneme, všichni
+uživatelé postřihneme a řeknu jděte domů, dneska
+pracuji já, jo. Ale to by si nás taky nelíbilo.
+Což je vlastně skvělej point, protože
+ve chvíli, kdy budeme
+klaudifikovat, tak dneska samozřejmě
+všechny ty velký loudy sedějí v noci, jo, logicky,
+aby to ráno bylo ready, tak
+tohle rozložení možná
+dozná nějakých změn, protože
+ve snowflaku to bude nejedno, samozřejmě
+potřebuješ tam některý věci mít prostě na ráno,
+nebo prostě na přelomu dne, ale
+dost možná tam bude úzký, jestli kde to budeme řešit jinak,
+prostě protože můžeme.
+Jo, to určitě. Ok, ok, ok.
+No a co je teda jako,
+proč teda teďka frčí ten snowflake,
+jako je to teda jako...
+No to je ono, to je ono, ten hyperscale.
+Ten hyperscale. Hyperscale je super,
+jo, jakože to je ta věc, jako která to rozhledá.
+No a pak samozřejmě další
+dvě věci za mě teda,
+byť já teda nejsem host tohoto podcastu.
+Ne, ale povídej, můžeš tady mluvit.
+To jsem si snažil 10 serií dozadu vysvětlit,
+že tady můžeš tady mluvit.
+Hrozně se snažím vždycky něco říct.
+A druhá věc jsou náklady na
+tu maintenance, nebo vůbec na tu správu
+vůbec kolem těch servů jako takových,
+to nemáš. V podstatě dneska tam to dělá
+jeden kolega, který tam ty věci spravuje.
+Ty lidi, co dneska
+spravují, jak Jirka říká, že neřeší tu performance,
+tak my v týmu to řešit nemusíme. Ale někde
+v lance někdo je, kdo tu performance řeší.
+Řeší ty databáze při kupování
+a prostě kouká na to, jak si vedem.
+To je druhá věc a třetí věc, ale tam
+tak samozřejmě člověk, který používá Oracle,
+tak mu to nepřijde. Ale když přijde
+nový člověk do SQL světa,
+tak Snowflake mu umožní ten onboarding
+udělat co nejrychlejiš. Jo, protože
+to je taková platforma, která je
+hodně zaměřená na tu simplicity, na to, aby
+si se do toho rychle nabutoval. Jsou jiný
+datový platformy, který to třeba takhle nemají
+a třeba zase umějí některé věci navíc,
+ale ten Snowflake v tomhle tom jako všeobecně
+dla těch paperů, který přeci čteme
+a už to máme i osvědčený, tak
+v tomhle funguje dobře. Třeba příklad,
+já jsem tam ještě nebyl, možná Jirka
+bude vědět víc, a předtím jsme používali
+Synapse a testovali jsme Synapse
+od Microsoftu a tam mimo jiné
+hořilo to na spoustě věcech,
+muselo se to vyhodit z baráků,
+ale lidi potom i psali, že ta
+syntax jim neseděla, že vlastně kvůli tomu to neměli
+rádi. Takže Snowflake
+předpokládá, má nějakou vlastní verzi
+SQLka nebo je to kompatibilní?
+No jasně, je to velmi podobný Oracleu.
+Když Jirka dělal SQL Challenge
+interní, tak vlastně vždycky ukazoval
+potom to řešení a pak říká,
+no tak tohle je v Oracleu a tady to máte
+ve Snowflakeu, tam je akorát změněný tohle slovo.
+Jednoklíčový slovo.
+Takže tohle jsou
+za mě aspoň, jakože
+člověka, který na to kouká přes ty prachy
+taky a přes to, jak se to propíše po té bance,
+kde třeba v DBHčku máme
+600-700 lidí, který mají přístup,
+tak musíme se
+hodně zaměřovat, aby témhle lidem toho vonělo.
+Tohle je ten důvod.
+Já nechci vyškárohlít a nebudu.
+Buď, buď, buď.
+Jenom ty peníze uvidíme, až teda
+budeme mít kompletní datový sklad
+v cloudu, tak to samozřejmě
+bude někde úplně jinde.
+Takže pak to můžeme porovnávat.
+A co se týká toho zaučení, to máš samozřejmě pravdu.
+Na druhou stranu
+datový sklad má v datovém modelu
+přes tisíc tabulek.
+Takže to i kdyby bylo kdekoliv jinde,
+protože to je prostě tak strašně složitý,
+že ty můžeš nakrásně umět
+eskvelko, a když nevíš a neznáš
+tento tvůj model, tak neuděláš vůbec nic.
+No, stopro, stopro.
+Tam jsme se snažili udělat data lineage
+a to schořilo jak papír.
+Jakože toho nepovedlo.
+No, no, no. Vůbec to jako nedojíždělo.
+Zkoušeli jsme tam. Vlastně jsme tady měli
+i majitele manty,
+tak mantu jsme se snažili tam průchodnit
+a vlastně to nezafungovalo.
+Ani manta to nedalo?
+Ne, ne, ne. Nepovedlo se.
+Tak ona ta banka přece jenom to zase není úplně
+jako standardní zákazník, že jo? Předpokládám.
+Vy v tom množství dat, který máte,
+tak jste poměrně specifický, že jo?
+To je kolik jich může být na českým trhu.
+Nevím, kolik je tady bank. Deset, dejme tomu.
+No, jedná k druhá k...
+Operátoři ještě jsou k tomu, jo?
+Jo, jo, jo. Operátoři, jasně, jasně.
+A my vlastně, ta naše banka
+je největší, jako minimálně, co se uživatelů týče,
+takže zcela jistě se dá z toho extrapolovat,
+že budeme mít největší warehouse, největší data,
+jo, to je velmi pravděpodobně.
+Takže v těch menších bankách to třeba
+může zafungovat lépe, jo?
+Teď myslím menších, jako typu, nevím, Airbank, jo?
+ČSOB, věřím, že taky
+čelí podobným výzvám, jako my, jo?
+Takže asi tak.
+Možná se teda zeptám, Jirko, jak často
+je tohle součástí tvý práce,
+že se jako pereš s tou performance
+nebo s tou optimalizací, protože jedna věc je,
+chci dostat data, OK,
+a druhá věc je, chci dostat data v prostředí
+největší český banky,
+která toho má bambelion, jak jsi řekl,
+prostě 800 tabulek, nebo kolik jsi to říkal,
+tak jak často ty vlastně
+musíš jako jít úplně na hranu toho,
+že bys to třeba dokázal napsat jednodušejc,
+ale nejde to, protože prostě
+ti to neumožňuje to množství dát.
+Hele, ani bych neřekl,
+že to je tím množstvím dát, jako tím,
+že ten optimizer prostě se chvílema chová
+velmi zvláštně.
+To znamená, z nějakého důvodu
+začne ten dotaz vykonávat
+úplně nesmyslně a pak to nedobíhá.
+A s tím se bohužel setkávám,
+no nechci říct na denní bázi, ale určitě
+na tý denní bázi.
+A dokážeš ho nějak, ty ho teda
+jako, ty mu řekneš, co má teda použít,
+který asi ten plán si má vybrat,
+nicméně je tam nějakej jako
+learning časem, že třeba
+ta struktura, předpokládám se,
+zase tak často nemění, ne, těch tabulek.
+Struktura ne, data se mění.
+Data se mění. Takže za nějaký čas
+by to při troši štěstí mohl
+jako už pochopit, kam má, když tam leze,
+že má použít tohle, když leze tam, že má použít
+něco jiného, nebo je to jenom vlhký sen.
+Hele, ono s každou verzií oriklu
+se mění interní mechanizmy, to znamená,
+většinou nám to rozbůrá jako třetinu warehouseu.
+Fakt?
+To se nám stalo,
+jako u nějakých těch vlhkých verzií opravdu
+oni se rozhodnou, že udělají superoptimizační metody,
+což znamená, některý
+dotazy hlásí syntaktickou
+chybu, když tam žádná
+není. A tak
+bychom říkali, že prostě Česká spořitelné
+je největší tester oriklu.
+Takže to se stává. Nejen oriklu.
+Takže
+s novýma verzema přichází spoustu
+různých supervychtávek,
+které přestanou fungovat.
+No a pak
+kdykoliv máme nějaký release
+a nahráváme většinu nožství dat,
+tak ty statistiky jsou změněný
+a orikl se s tím neporadí.
+A nebo prostě z nějakého důvodu se dneska rozhodne,
+že to bude dělat jinak.
+No jak jsi říkal, já mu řeknu plán, já bych mu rád řekl plán,
+já mu většinou řeknu jenom nějaký jeden krok
+a on se velmi často
+dozdrží, takže tenhle krok
+udělá sice hezky, ale návazný kroky
+udělá stejně blbě, takže to je taková
+jako černá magie.
+A než to je třeba takový,
+to já úplně nesnáším, že jo, latenci,
+prodlevy, to je zase úplně vodvik,
+když něco dělám, že třeba čekám,
+až to doběne, což koukám,
+u Jirky to je denní chléb.
+No, tak se zeptují u mě v kanceláři,
+jak to vypadá, když mě něco nejde.
+Vlítají jiskry, jo?
+No, vlítají jiskry, no.
+Není to, jak v okresním přeboru
+říkali, že to jsou vaginální opisy,
+ale jiný opisy to jsou.
+A jak často Oracle vůbec
+jako cpe tyhle verze ven?
+Zase pro vás, že byste byli
+early adopters, to taky ne, ne?
+To ne, no, oni nás takhle, oni nás tomu licenčně
+tlačí, jo? Aby nám dali podporu
+tu nejvýšší, tak samozřejmě tlačí.
+Tak myslím, že 80% Oraclu jsou právníci,
+že jo? Takže vám pak těch 20%
+těch lidí, který tam opravdu dělají ty databáze,
+tak, no.
+Já neodhadnu, jednou za rok
+přicházíme na novou verzi.
+Může být, no.
+No. A vždycky s tím jsou
+uspojený tyhle z ty bolestí, takže to asi plánujete
+dopředu, jako háborenový, ale i to týden nepojede.
+Naštěstí odhalíme na testech, jo, protože
+i na testech už si dáme tuhletu novou verzi
+a postupně to odhalujeme.
+A když skočím, Jirko,
+na to SQL-ko ještě,
+my jsme ti to posledně dopředu, nevím, jestli jsi něco vymyslel,
+máš nějaký tip, který
+máš pocit, že třeba ten mainstream
+nebo vůbec jako tam ta skupina
+vývojářů v SQL-ku dělá třeba nějak
+a ty si říkáš, že jsi přišel
+na něco lepšího, nebo napadlo tě
+něco, co bys třeba doporučil,
+aby lidi dělali všeobecněji
+víc?
+To jsem zaskočil, asi jsem udělal špatnou přípravu.
+Co bych doporučil,
+že mají dělat lidi líp?
+Tak pojďme třeba na indexy, že jo?
+No, jasně, já na to přemýšlím.
+Určitě, copak indexy nás
+zase ve Verhouzu tolik netrápě, jo?
+Už jenom protože
+uživatelé nedokážou moc ovlivnit.
+Ale partitioning,
+nevím, jestli znáš slovo partitioning.
+To je dobrý, do toho se poslouchej.
+Tak je to nějaký
+fyzický rozdělení tabulek
+podle nějaký logický hodnoty.
+Takže typicky my máme tabulku účtů
+a do jedné partitiony,
+on se k tomu jako úplně nevyšel
+český název, jo? Vím, že kolega se snažil
+používat partície, ale zní to ještě
+takže prostě používám...
+Tak křesní jméno ženy.
+No, používám čengliš partitiona.
+Ano, ale to se používá,
+fajtí partitiony. No, ale je to jako
+výjmenou, můžu bych používat partition celé,
+tak používám partitiona.
+Tak v jedné partitioně mám uložený běžný účty,
+v druhé mám uvěry, ve třetí mám
+investiční produkty, protože typicky přistupuješ
+jenom na jeden konkrétní typ účtu, jo?
+Takže tohle to ti výrazně pomůže
+a
+hodně lidí neví, nezná
+u těch tabulek partitionovací klíče
+a pak používá filtry, které nejsou vhodný.
+Typicky máme tabulku
+Account Transactions, která má bratru 10 miliard řádků
+a
+jeden z partitionovacích klíčů,
+kromě typu účtu,
+tak je datum zaučtování.
+Nikoliv datum provedení transakce.
+No a lidi tam dávají
+podmínku a datum transakce je
+prvního první.
+No a budou se divit, že jim to prochází kompletně celou
+historii, protože Oracle nemá
+žádný vztah mezi datem zaučtování
+a datum pořízení transakce.
+Tak já jim říkám, pokud tohleto používáte,
+tak tam musíte dát podmínku,
+no ale datum zaučtování je
+vyšší nebo rovno datum provedení transakce.
+Nemůžete zaučtovat dřív.
+Tak to je taková úplná kraviná,
+která ale strašně pomůže.
+Takže lidi, kteří nejsou úplně
+znalí tohoto datového modelu,
+tak na tom
+umírají. A neumírají jenom oni,
+ono umře většinou i teda databáze.
+Protože když tohleto
+přijde, ono začne vracet miliardu řádků,
+tak to velmi rychle skončí na temp.
+To znamená, dojde nějaké místo
+na disku, který bylo pro ně určený,
+kam si můžou odkládat data.
+Takže typicky ten partitioning
+se používá pro to, aby vůbec
+si se dostal k nějakým dohledným časům
+jako vrácení toho
+selectu. Jo, je to pro to, aby
+pracoval jenom s relevantníma datama.
+To znamená,
+když máš spoustu dát
+a zajímá tě jenom nějaký jejich zlomek,
+tak abys dokázal přistupit jenom k tomu zlomku
+a nezískával ten zlomek, takže projde všechny data.
+Jasně.
+Když jsme měli vespořitelný problém,
+že nám něco nedobíhalo
+a zavolali jsme si experta z Oracleu.
+To byl taky výborný. Přišel,
+říkal, jasně, za asi týden
+a říká, po týdnu si nás volal
+a říká, chlapi, mám pro vás řešení.
+Ještě takhle, víš, ten markeťák, který dává ty prstičky.
+A říká, chlapi,
+tak já se ještě budu muset zamyslet.
+Další týden. Další, no.
+Takže jako výborný, že...
+Pak se jdu dopravit, že tu odletěl.
+Jo, jo, jo.
+Spodně jsem měl po bonusech. Přesně.
+Takže partitioning, to je jedna z těchto věcí.
+Mně teda automaticky napadá
+otázka, jak moc
+jsi zapojený do toho designu
+té databáze. Protože jedna věc je
+číst data
+přes nějakou, řekněme, existující strukturu.
+Já si vždycky myslím, že ta databáze
+musí vždycky vznikat i poplatně tomu, jestli
+do ní víc zapisuju nebo víc
+z ní čtu a i vlastně tu strukturu
+tomu přizpůsobit,
+tak jak vím, že bude ten use case toho čtení.
+Což mě klidně vyveď.
+Aspoň já jsem... Ne, nevyvedu tě.
+...spomal jsem žil. Jak jsi teda zapojený
+do tý, řekněme, do tý
+write části, do toho, když se designuje
+ta databáze jako taková? Tak my už nerezignujeme
+databázi jako samotnou designu, samozřejmě
+nový tabulky. Nebo takhle jsem, takhle to myslím.
+Ale to je součást mý práce, takže ano,
+já bych chtěl navrhnout strukturu tabulky,
+říct, jak k ní budem přistupovat a na základě
+toho udělat partitioning.
+Samozřejmě máme tam designery,
+kteří to mají na starost a nějakým způsobem
+to zastřešujou, učešou to,
+případně s nima proberou, co je potřeba udělat,
+jaký indexy potřebuju, ale
+primárně bych to měl navrhnout já.
+– Takže přes tebe to jde, ty řekneš,
+ano, tohle dává smysl. Ty jsi mluvil na začátku
+a nemluvil se o tom úplně radšeně.
+Dokumentace. Z toho, co mi říkáte,
+řekl bych, že bez dokumentace se nehneš
+ani o milimetr spořit si na úrovni
+databáze. Jak řešíte dokumentaci?
+Máte nějaký vlastní interní systém,
+jsou to nějaké vikiny, nebo nějaké
+třeba, řekněme,
+i notebooky Pythonovské, nebo něco takového,
+by bylo i asi hezký kusy kódu
+v kombinovaný s Markdownem.
+– Hele, řešíme to tak. Dřív
+Oracle přišel, a to znamenalo
+Oracle Forms, nebo něco takového,
+kde se měl formulář,
+kde jsme měli mapování tabulek,
+mapování sloupců, a ukládalo to
+někam do metadatových tabulek databáze.
+Tohle to neběželo vůbec
+rychle, takže my jsme to zmigrovali
+do Excelu
+a přes makro
+tyhle data taháme do Excelu
+a upravujeme je tam.
+Takže máme v databáze nějaké podkladové tabulky,
+které vizualizujeme
+pomocí makra
+v Excelu. – Takže v Excelu
+je vizualizace toho, jak vypadá
+ta databázová struktura, ty tabulky,
+jak jsou propojený a tak dále. Takže já tam vidím
+i, jak jsou mezi sebou klíče a tak dále.
+– Viděl bys tam taky, no.
+To samozřejmě máme uložené v PowerDesigneru,
+ale můžeme to exportovat
+do čohokoliv. Ale
+jedno je mapování tabulek jako
+objektů, a druhý je mapování těch transformací.
+Já jsem teď mluvil zpět o těch transformacích. – Jo, takhle.
+– Takhle, ok, ok. – Protože to je to
+zásadnější, jo.
+Byt se to možná nezdá, ale to je to
+gro, které děláme. – To je to gro.
+No tak, a tomu jsme se vlastně moc nevěnovali,
+tomu gro, co se týče vložení
+těch transformací. Tak jestli můžeš
+trošku ještě to naťuknout.
+– Jako, v čem to spočívá?
+– No, no, jasně, jasně. – Tak typicky
+máme data teda z nějakého
+zdrojového systému. Petr říkal, že jich je
+450, já nevím. Představme si,
+a tam můžou být buď účetní data,
+to znamená hlavní kniha, nebo tam mám
+informace o zaměstnancích.
+Takže já mám nějakou zdrojovou tabulku
+a já mám pro ní ekvivalent
+v kóru warehouseu, to znamená
+v jádře datovýho skladu, tam mám pro ní tabulku
+a já musím říct, hele, tak tady mě chodí
+já nevím,
+– First name, last name. – First name, last name,
+já si tak to panobapuju klasicky, pak mě tam
+chodí třeba rodný číslo
+a já potřebuji takzvané to
+klienta unifikovat. Tak já na základě
+rodního čísla si třeba dohledám jeho
+identifikátor a doplním
+tam informace z toho ze CRM-ka.
+Jo, protože pro nás unifikovaný klient
+znamená klient ze CRM-ka.
+No případně já nevím,
+dáváme,
+odstranujeme tituly, dáváme je do jiného sloupečku.
+– Jo, jo, jo. – Takže ty transformace
+můžou být poměrně složitý,
+stejně jako z některých zdrojů jsou zase strašně vyruchy.
+– No a v tom Excelu potom vidím vloženě,
+že takhle vypadá sloupec
+ve zdrojových datech a takhle vypadá sloupec
+v DVH-čku. – Je to mapování
+zdroj na cíl. To znamená, já tam řeknu,
+mám tady název zdrojovýho sloupečku,
+název cílovýho sloupečku a pak tam mám sloupeček
+comment, který říká,
+jaká transformace tam mezi těma sloupcema probíhá.
+– Jo, jasně. – A to můžou být
+typu lookup, jo, prostě chodí mě tady
+IDčko a já na základě IDčka si dotáhnu
+z jiný tabulkyně jinou hodnotu.
+– A vlastně ještě pro představu, jako když říkáme
+těch je 450 nebo 250,
+to je vlastně jedno, tak když
+máš ty data o nějakém konkrétním člověku
+na více místech, tak máš jiný IDčko
+vycházející z toho systému a vlastně
+DVH-čko pomáhá to, aby to, jak říká Jirka,
+unifikovalo, protože ty IDčka,
+když jsou jiný, tak pak s tím jako někdo dál
+pracovat může jenom těžko.
+Takže se tam tvoří takzvaný kluid
+a to možná, Jirko, ještě jenom popiš, jestli to říkám dobře,
+aby se to vlastně zunifikovalo.
+– Kluid nebo klient unique ID.
+– Jo, klient unique ID.
+– Aby vlastně vzniklo jedno IDčko,
+protože ty systémy to samozřejmě vysypou v čemkoliv.
+Takže to je věc, bez které
+my tam vůbec nemůžeme být.
+– Naštěstí už tohle funguje dobře.
+V CRM-ku byl projekt, který se jmenoval
+CDH, Customer Data Hub.
+A ten fungoval tak,
+že jednotlivý back-endy
+už jsou napojený do CRM-ka
+a kdyžkoliv si založejí klienta,
+tak ho nejdřív musí založit v CRM-ku,
+tam dostanou kluid, ten kluid si vezmou
+a už nám posílají informace o kluidu.
+Ale tohle to dřív nebylo.
+My jsme ve Verhauzu měli opravdu unifikační procesy.
+Poslali nám
+jakýkoliv systém informace,
+hele, Jirka Mareš, narozený
+19. května 83.
+A já jsem si říkal, tak já se musím podívat,
+jestli tohle Jirku Mareše znám ze CRM-ka.
+Pokud jeho přiřadím u kluid.
+Pokud jeho neznám, tak si ho musím založit
+a tuhle informaci pošlu do CRM-ka,
+aby se tam založili.
+No a samozřejmě tohle bylo náchylné
+na spoustu datovej chyb,
+takže pak tam probíhaly procesy,
+ale to měl být Jirí Mates
+a to jste nepoznali,
+tak tyhle klienty mě zase dejte dohromady a slučte.
+Takže se stávalo,
+že to bylo přiřazení někam jinam.
+Jasně, ale to se stává i doteď.
+Jo, a nemůžete tam udělat,
+že třeba byste mi přiřadili nějaký jiný,
+třeba polákův účet, které se mi líbily.
+Tybe, to bys byl hrozně bohatej.
+Právě, právě.
+No ale třeba takový ty věci jako duplicity
+nebo nejednoznačnost rodných čísel
+a tyhle cty, to přeci musíte
+na tohle taky narážet, ne?
+No jasně, tak nejednoznačnost rodných čísel
+je u českých klientů, že jo?
+Protože u cizinců my tam používáme
+teď já nevím jestli čtyři devítky do rodního čísla
+za to lomítko, tak to samozřejmě
+nejednoznačný není ani náhodou.
+Když tohle to najdeme,
+to znamená u těch českých klientů,
+najdeme takovýhle nějaký rozpor,
+tak to pošleme do CRM-ka jako informaci,
+hele, potenciálně duplicitní klienti
+a je na to speciální oddělení,
+který je opravdu jako kontaktuje opraví.
+Ty klienty?
+Ty klienty, no. Databázy ne, že by jako fyzicky
+jim řekli, hele, to by je přepíšil občankům.
+Opravdu ne, ale přijdejte s občankům a to přepíšeme.
+Opravdu tohleto rodný číslo,
+on jim řekl, ne, tady máte přepsanou trojku na osmičku.
+Jo, no tak.
+To je sranda, kolik těch,
+řekněme, datovejch věcí
+dokáže vygenerovat práce kolem
+jako fyzický lidem,
+že musí zvednout telefon, teď teda otravují někoho,
+teď ho neseženou, teď co s ním, teď to tam vysílí.
+Teď matka z Vídně se ptá,
+kde jsou mý prachy.
+No, protože to je vlastně na tom to krásný.
+Teď třeba zrovna, příklad,
+děláme nějaký KPI report,
+kde prostě si vysvítíme nějaký klíčový ukazatele
+a vlastně my je dodefinujeme
+potom, až uvidíme poprý ten report.
+Protože do té doby my vlastně nevíme,
+jak ty věci děláme, některý.
+A teď se na to podíváme a řekneme,
+aha, takže tohle děláme, tak buď to máme ještě blbě data,
+trošku to poladíme a pak si řekneme,
+dobře, tak pojďme tudy.
+A to se děje dnes a denně všude možně.
+Tohle je vlastně další příklad toho.
+Ale za mě je v tom
+ten datovej svět sexy.
+Že poznáš ten svět ve chvíli, kdy ty data vidíš.
+Konec ještě není, ale tohle jsem měl říct na konec.
+Škoda.
+Já nevím, když se podíváš do data
+a zjistíš, že máme tam klienta, který měl 150 let,
+tak si říkám, že to úplně sexy není.
+To je rekord, tyjo.
+Zvlášť, když se narodil třeba před 15 lety.
+Ale už má 150 let.
+A už má 150 let i výročí.
+Ty datový chyby tam prostě jsou
+a v podstatě je nereálný
+se jich v takovémhle objemu zbavit.
+Tak SQL jsme prošli křížem krážem.
+A dneska, a vlastně jsme se ještě vůbec
+nedotkli Pythonu.
+A mě zajímá, jak dneska
+vnímáš Python, Jirko, ty. A hlavně,
+kde vidíš tu hranici. Samozřejmě s SQLkem
+si vystačíme ve spoustě věcí.
+Možná bychom si vystačili ve 100% věcí.
+To se rád o tebe rozvím, jak to vidíš.
+Ale kdy vlastně ty
+začneš přemýšlet o Pythonu? V jakou chvíli
+v rámci toho myšlenkového
+procesu? Tak my obecně při práci
+Python nepoužíváme. Foreklu ho nemáme.
+Ale mě se
+systém dneska strašně líbí.
+Protože je fakt jednoduchý. A přitom je
+strašně silnej.
+Takže kdykoliv mám zpracovat
+nějaké soubory.
+Třeba kvůli tam mi říká, hele,
+odeslali jste nám soubor a mě nejde
+jako přeložit do Windows 1250.
+Je tam nějaký blbej znák. No tak tohle udělaj
+jako foreklu.
+Tak v tom Pythonu jsem se to našel
+velice rychle. Který tam jsou četnost jednotlivých
+znaků, nazdára. A najdu si znak, který je
+špatný. Takže
+tehdy ho využívám.
+I teď, jak jsme měli tu SQL Challenge, tak jsem
+ho využíval pro nějaké automatické
+vyhodnocování skriptů.
+Protože mě přijde, že to je prostě jako fakt jednoduchý jazyk,
+který je strašně silnej.
+A já jistě s ním
+dokážu velice rychle pomoct. Protože těch příkladů
+na webu je spoustu. A pokud
+máš jednoduchou úlohu, tak ji dohledá velice
+rychle. Takže když mu řeknu, hele, napiš mě,
+jak se v Pythonu připojím
+do oryklí databáze, boom, máš tady konektornost
+za roh toho, jo.
+No jako, teďka, či GPT ti cpe
+Python, nevíš, že ho nechceš, že jo.
+To se ptáš, kolik je hodina, a úplně on to vezme tu lopatou
+a začne ti cpát do hrtánu
+Python, ať si pustíš vlastně Pythonský skript, jo.
+Jo, jo, jo, jo.
+Jako ty to tam rubou neuvěřitelně.
+Je to pravda, je to pravda.
+Tak to mám tu zkušenost, já jsem se ho ptal, jak to je v Pythonu,
+tak to mě odpověděl, jo. No, jasný.
+Tak to jsi jeden z těch, který se normálně zeptali,
+ale i když se nezeptáš, tak on ti to stejně jako
+Python hodem spodem, tyjo.
+Ale je to skvělý, protože i já, prostě taká lama,
+jsem si vytvořil datovou apku,
+to teďka je hrozně sexy, datový aplikace,
+což je vlastně... Jak v tom Soundflaku, jo?
+Je to ve Streamlitu, což je
+pajitní knihovna, tak jsem si
+v tom vytvořil datovou apku vlastně za večer,
+jo, což je jako neuvěřitelný,
+je to prostě nějaká vizualizace dat, v podstatě grafy,
+jako kdyby jsi měl tablo, akorát nemáš tablo,
+uděláš si to prostě vedle a můžeš
+si to nějak parametrizovat, nějak upravovat, jak chceš.
+A taky prostě ti s tím ten CGPT poradí
+úplně neuvěřitelně, já jsem byl taky překvapený,
+jak to funguje dobře, no.
+No tak mi řekni, jak se používá AI teda
+na úrovni Oracle, jako já bych se divil,
+kdyby opravdu tyto oddělení právníků z Oracle,
+kdyby nevidělo ten potenciál,
+kdyby to tam nesypalo.
+Na školení mě to lidi používají,
+že prostě, hele, najdí mě chybu v mým dotazu,
+píšu dotaz a neviděj to.
+A on jim to opraví.
+Ale já jinak to vůbec nemoc rád nemám.
+Já mám radši jako přirozenou inteligenci,
+než umělou inteligenci, co se týká Oracle.
+No ale zase, dobře, a teď už jako můžeme
+přeskočit na to školení,
+protože ty školíš, jak dlouho školíš už?
+Pět let?
+Pět let.
+Co takovýho, no.
+Takže ti prošlo rukama spousta,
+i třeba začátečníků.
+Není ta nábyhová křivka prostě jednoduše lepší.
+Já chápu, že ty, jakoby dlouhodobý,
+seniorní člověk v oblasti dat,
+tak to vidíš třeba jinak,
+ale ten začátek může být prostě rychlejší, ne?
+Nebo nevidíš to tak?
+Hele, já v tom Oracleu nevím, no,
+protože abys dal tomu AI správný prompt,
+tak, aby ti opravdu pomohl,
+tak to je dost obtížný, jo.
+Dobře, samozřejmě s tou syntaxí,
+mám tam chybu, to najde,
+to asi tam není o čem.
+Ale teď, když beru v potaz lidí,
+který umějí psát dotazy,
+ale neumějí to jako vymyslet,
+tak s tím jim ten Oracle moc nepomůže.
+Nebo ten AI moc nepomůže.
+To bys si musel říct, hele,
+pardon, omlám se,
+to bys si musel říct,
+hele, tato tabulka má tyhle záznamy,
+tato má tyhle záznamy,
+a než mu tohleto uděláš,
+tak by to bylo poměrně zdouhávej proces.
+No, to souhlasím.
+Já, když jsem zkoušel si dělat nějaký SQL-ko
+pomocí toho, abych si prostě prodal svoje transakce,
+no tak jako já jsem ho přemlouval zleva zprava
+a on to prostě nezvládal.
+Ale na tu kontrolu třeba, na ten ček.
+Jo, na tu kontrolu to asi bude dobrý, no.
+No, tam si myslím, že tam je to jako mocný, no,
+protože, přesně zase,
+ty už jsi zvyklý sám se sebou žít,
+tam píšeš nějak ten kód,
+ale ten člověk, co to píše po druhý v životě,
+nebo já nevím, já ho teď přiháním,
+tak si to tam projde.
+To bude stejné asi v tom aplikačním světě, že jo?
+No, rozhodně, já přemýšlím spíš na úrovni toho
+tvýho žabáka,
+na úrovni ty tvý ropuchy.
+Přeci musíme nějaký Copilot nebo něco, ne?
+Nebo to už se tam nedostalo.
+Nemá ho.
+Nemá ho?
+A neplánuje se to?
+Já nevím, jestli v TOUDu,
+ale každopádně my můžeme používat i GitHub Copilot.
+Vím, že to tam někdo testoval.
+Vlastně nevím, jak jsou s tím kluci spokojní.
+Nemusíme používat jenom TOUD, jo?
+A třeba ve Snowflakeu dost často lidi vyvíjejí nativně,
+co já vím, že prostě vlezou vyloženě do konzole,
+vyloženě přes browser a jedou tam.
+A tam už teďka, dneska,
+ta podpora AI je taky, jo?
+Nevím, jestli přímo vyloženě na text,
+ale myslím, že tam takýto textu SQL
+taky už se snaží Snowflake tlačit.
+Mělo zkušenost Copilotem, no.
+– Protože jak jsem mluvil o tom učení se,
+tak pokud samozřejmě on jako
+obzervuje to, co já dělám v rámci třeba,
+dobře, zůstanu v příkladu toho TOUDu,
+prostě to, co tam píšu,
+to, jak s tím pracuju,
+nebo vidí už
+nějaký paterny, tak přeci
+to je jako první místo, kde bych ho zkusil
+narvat, že jo? To jsou ty věci, které on ti může
+nějakým způsobem předgenerovat. Další věc,
+mluvil jsi o databáze,
+o dokumentaci, jo?
+To je další věc, která
+dřív nebo později, za prvé,
+nikdo to nedělá rád, je to voser
+pro všechny, vždycky dokumentace bylo voser
+a proto ji nikdo nedělá
+ve skutečnosti pořádně, pokud není tomu
+vedenej tady jako
+matkou z Vídně, která na něj jako
+míří KPIčkama, tak to prostě
+by to taky nedělal. Tak tohle přeci
+to je úplně jako low-hanging fruit pro AI, ne?
+– Jo, jo. Ale souhlas,
+a vlastně, když se vrátím k tomu, co jsi říkal
+jako první příklad, že ten
+kód třeba
+není tak ošatej, je furt stejnej,
+tak tím pádem
+ty vlastně jako pracuješ,
+není tak složitej, takhle bych to chtěl říct,
+jakože vlastně nepotřebuješ tam tak často poradit,
+protože ten kód a syntax je prostě furt stejná,
+ty potřebuješ spíš jako pochopit logicky,
+co tam vlastně chceš z toho vysosat, jo?
+Takže podle mě pro ten aplikační svět je to příslušnější,
+protože tam se ptáš na různý věci,
+tak jako každou chvíli,
+kdyby to mělo být v JavaScriptu,
+tak to je každý týden něco novýho, že jo?
+Jasně, jasně. Já jen tak jako přemýšlím
+na hlas, jestli právě při tom
+použití na úrovni toho, co dělá
+Jirka, jestli tam by se nedalo
+ještě víc protlačit, ale...
+Hele, možná dál, ale musel bych mít výstup k těm metadatům, že jo?
+To se ale dá řešit.
+Jo, asi dá, ale v tuhle chvíli
+to neřešíme. A to nás čeká, protože tak teď
+koupili jsme novej Data Governance Tool,
+který bude vlastně o datových produktech
+vést nějaký metadata a tam se to
+vyloženě nabízí. Já vím, že mají nějakou
+feature na AI, aby to třeba sosal.
+Sám jsem zvědavej, jak to bude fungovat, že
+to prostě popíše ten datovej produkt nejdřív sám
+a dá těm nějakou možnost to nějak adjustovat.
+Jsem zvědavej.
+No a teda čubím, že to není dál. Teda jsem čekal,
+že teďka vy tady budete chrálit, co všechno už AI
+řeší, protože to bych čekal, že to bude
+ten průkopník, kdy se bojíme o datech,
+že to bude to první, co se použijeme.
+Je tam samozřejmě toho mraky, ale v tom datovém světě
+vyloženě, tak tam jsme na úrovni
+klasického vývojáře, podle mě.
+Ten GitHub Copilot tam některý lidi používají, ale
+dál to podle mě není.
+Pak je to vyloženě o těch
+konkrétních AI přístupech, typu
+chatboty a podobné věci.
+Insighty samozřejmě, jiná část banky.
+My jsme ten core datovej svět.
+Ale když se podíváš na tu personalizaci
+třeba, která se zaměřuje na to, aby
+tady jenom mám provazníky, který z místa A
+a z místa B udělal tyhle tři transakce,
+tak mu podsunu tohle, protože to dává
+největší smysl pro něj. Tak to je něco,
+čemu se tam ty týmy heavy věnujou,
+ale jsou mimo náš svět.
+Možná, Jirko, my jsme se bavili na začátku
+o tom tvým školení,
+o tom, že ty vlastně už ti prošly
+za pět let rukama spoustu
+lidí.
+Je tam nějaký
+pattern, který vidíš u těch lidí?
+Třeba, že jim už nepřijde
+SQL tak sexy,
+jako to bylo před 20 lety, nebo
+naopak, že teďka zase se vrací
+zpátky na plný koule právě díky
+tomu, že ten svět je datovější,
+než byl kdy předtím,
+protože před 20 lety nevznikalo tolik dat
+zákonitě, jako vzniká teďka
+a nedělají se s nima takový
+chytristiky.
+Tak já jsem před 20 lety škol,
+maximálně na soudu, co se páslo,
+a to byly trošku jiné věci.
+Hele,
+asi nic takového nevnímám.
+Ani třeba za těch pět let,
+že třeba když jsi začal a teďka po pěti letech
+vidíš tam už nějaký vývoj
+těch lidí?
+Právě, že ani moc ne,
+že i když nám chodí studenti, kteří jsou z Vyšky,
+tak všichni mi řeknou, hele, měli jsme prostě
+na Vyšce SQLko, že pořád
+toto mají jako předmět, který tam
+probírají.
+Jo, jo, souhlas, souhlas. Možná se kolem toho
+SQLka, vím to třeba na Vyše, že o business
+a data, o ta novotný, tam dělá moc pěkný,
+moc pěkný program,
+tak točí se to mnohem víc o tom,
+že se snažíš pochopit ty data,
+nebo ten business skrz ty data.
+To SQLko zůstá stejný, ale ten business
+zatím se mění, nebo někam prostě se posouvá,
+takže tam mám pocit, že se to posouvá
+a mění.
+Teďka byl, jako každý rok, pro vývojáře
+je Advent of Code,
+což je vlastně set od prvního
+do pětarvacátýho, protože to dělají
+lidi ve státech, takže samozřejmě
+od prvního do pětarvacátého prosince,
+každý den je nějaká hádanka,
+která se vyřeší na úrovni jakýhokoliv
+kódu. Děje se něco
+takového ve světě, jako datařů,
+máte nějaký Advent of Oracle Code,
+nebo Advent of SQL?
+Hele, ve zkoušce jsme dělali adventní kalendář,
+teď už teda na tom nespolupracujeme,
+ale někdy před třemi lety jsme opravdu
+připravili jako první ročník
+a každý den měli
+otázku, na kterou měli možnost
+získat odpověď buď v datech přímo
+v warehouseu, nebo v nějakém reportu.
+Takže jsme tam třeba dávali otázky typu
+já nevím, kolik
+milionů korun utratili
+lidi během minulého
+roku za nákupy v sexshopech.
+Takže jsi musel najít,
+že je tam růžovej
+slon a je tam, já nevím,
+já to neznám, ty šopy.
+Já si říkám, že to neznám.
+Nikdo zná.
+Tak jsi to mohl tyhle vyhledat.
+Musel se zeptat kamarádů, co je to sexshop.
+Vlastně, že to není zoo.
+Že to není zoo a tak dále.
+Pokračujete v tomhle?
+Jo, pokračuje tým od Ivety.
+Dneska to dělá od Páje tým.
+Od Pavlíny Vajgarový a vím, že Verča
+už to dávala dohromady, bo po mně chtěla
+tak nějaké informace, kolik máme kebula uživatelů
+a podobné. A je to teda pro dataře?
+Je to pro dataře.
+A nějaká globální takováhle akce
+jako je Advent of Code, která je celosvětová,
+ale jako datařská, neexistuje?
+Neznám. Možná je, ale neznám.
+Jako znařevo, no to je asi těžší,
+protože tam u toho Advent of Code máš vlastně
+vstup, máš vygenerovaný relativně
+malej, dobře, je to nějakej texták,
+ale jako takhle ty by si musel mít nějakou
+databázovou strukturu, která bude
+si poměrně masivní, spoustu tabulek,
+aby se byl schopný udělat nad tím 25
+nějakých různých
+dotazů nebo různých hádanek.
+Možná jako připodobnil bych
+to možná kegel, což jsou
+jako různý datový sety, kde si lidi můžou hrát
+a soutěžit a vlastně celoročně.
+Je to víc dneska určitě jako
+data science, AI, ale to je
+tak jediné, co mě napadá, kam si člověk může
+skočit a prostě nevím, odhadnout, jaká byla
+pravděpodobnost, že když jsi byl na Titanicu
+takovej a makovej, jestli bys přežil, podle toho,
+jestli tě pošlou jako na loď
+a nebo jestli jsi prostě součást
+skupiny, že ho hudebí a asi
+půjdeš do moře.
+Hele, no ještě k tomu
+školení, proč to vlastně děláš, Jirko? Baví tě to?
+Nebo nějak si k tomu zase
+tak, jak popisuješ ten svůj život, nějak
+přirozeně přirost?
+No asi
+tak, jak jsem s tím začal, tak já myslím, že
+tehdy přišel, já nevím, jestli to byla Iveta Svobodová,
+říkala, je tady prostě
+poptávka po školení,
+protože bychom rádi lidem
+poskytli self-service, aby si mohli
+jako sami vyhledávat data.
+Akorát to neumějí, protože skvělko neumějí,
+tak by bylo fajn, kdyby je to někdo naučil.
+Taková ta otázka do pléna, kdy seš jenom
+ty, že by bylo fajn, kdyby je to někdo naučil.
+Co myslíš, Jirko?
+Jasně, nesnáš někoho takovýho, kdyby se na to hodil.
+Tak to začíná na Jirka a končí na Mareš.
+Přesně.
+Tak říkám, dobrý, no tak já zkusím teda něco
+vytvořit.
+A musím říct, že mě to jako baví.
+Jo. Prostě přicházíš do kontaktu jednak
+s novéma lidma
+a trošku jdeš od té rutiny.
+Jo, chvilku si připadám,
+že nejsem jenom takový ten ajťák,
+ale že taky se
+přijdu v kontaktu s normálníma lidma, no.
+Teď jsem to nemyslel jako zlé, ale...
+Já je víte, rozumím.
+Tady seš na domácí. Tady seš mezi své máry.
+Jsou divný ty lidi. A to vlastně jako asi
+to vygradovalo i v
+SQL Challenge, ne? Protože vlastně
+já jenom udělám takový lehký promo, Jirka přišel,
+celý si to zrealizoval, zorganizoval,
+sehnal ceny, pozval lidi,
+prostě pomohli mu k tomu nějaký kolegové,
+aby jsme to natýzovali, aby výsledek byl,
+já nevím, 50 interních lidí, který soutěžili.
+Něco takového, no. Já jsem přišel s myšlenkou,
+že by se mně jako líbilo
+napsat nějaké složitější dotazy,
+které řešují nějaké problémy.
+Takže já jsem si vymyslel pět problémů
+a říkal jsem si, pojďme dát lidem nějaký čas
+na to, aby to vyřešili.
+Jo, takže jsme udělali
+tenhle ten, tenhle ten event, nebo tuhle
+tu událost. Lidem jsem dal
+pět úkolů, měl na to čtyři hodiny
+a podle obtížnosti sbírali body,
+že za nejlehčí měl jeden bod, za nejtěžší
+měli pět bodů a kdo měl nejvíc bodů,
+ten vyhrál. Takhle se to dělá.
+Super success, jo. A takhle, Románku,
+první místo byl PlayStation 5, takže
+škoda, že neumíš dělat. Ty kráso,
+jako umím, ale asi ne na takový úrovni,
+abych vyhrál PlayStation 5. Hele, já když viděl to zadání,
+tak jsem rovnou si šel psát maily.
+Ale Jirka to udělal chytře samozřejmě,
+protože na začátku měsíce mu přišlo, co má udělat
+ve spořici za práci. On to
+rozdistribuval prostě těm dvaceti lidem,
+řekl, ty to máš jako úkol. A když
+si spočítal, kolik mu šetřej času, tak
+když mu koupíš PlayStation 5, tak snad tomu ještě
+vyděláš. Je to tak, bylo to zatím.
+No, rozhodně, no. Bohužel takhle
+zajímavý úlohy neděláme, no. Málo kdy.
+Jednou jsem to dělal, protože
+kolega po mně říkal, mám tady
+složitější úlohu, já to musím
+napsat jako SQL-ko, protože mě to vývojář
+napsal v PL-ku a já to potřebuji
+napsat skript. Tak mě to zkus napsat jako
+SQL-ko, protože já to nedokážu.
+Tak to jsem mu napsal, ale jinak fakt toto je
+bohužel toho jak šafráno, no.
+No, jasně, no. Tak je to prostě
+biznis, který má prostě nějaký potřeby
+a ty nikdy nemusí být
+s tím jako nejzajímavějším SQL-kem, no.
+Možná bychom to úplně
+uzavřeli. Co je teda pro tebe
+teďka, po těch letech, děláš to strašně
+dlouho, umíš prostě
+různě, různý
+úlohy řešit, umíš to školit.
+Co je teďka pro tebe to,
+co ti řekne, jo, to je ten důvod, proč to dělám.
+Jsou to jako jaký druhý
+úloh, nebo co ti vlastně dělá teďka
+v tomhle, ve všem, co jsme tady popsali, tu hodinu,
+co ti dělá největší radost?
+Já se tam vždycky snažím najít něco, co mě tu radost
+udělá, jo, něco zajímavého.
+Takže třeba po, teď bylo zajímavé,
+právě po té challenge
+mě napsal jeden kolega, má pro tebe zajímavou úlohu.
+A já říkám, no, to je sice
+hezký, ale já teď pracuji na jednom požadavku,
+tak dostanu se k tomu příští týden.
+A nevím, jestli to znáte, vy, když tě co natchne,
+tak červíček, a za půl hodiny
+říkám, no ale,
+kdyby se to dalo řešit takhle,
+no ale za hodinu jsem to měl vyřešit,
+že jo, říkal jsem si, ona se ta práce
+o hodinu nespozdí, takže
+když se budu věnovat tomuhle, jak se nic nestane,
+no a za chvilku jsem to měl o to výjít.
+A proto matka ve Vídni to nemůže mít o dvě hodiny
+dřív, že jo?
+Už to může jen o hodinu, protože hodinu dělá
+Jirka něco jinýho.
+No takže snažím se to spíš takhle ozvláštnit, jo.
+Takže i teď jsem, nedávno jsem
+vyráběl tool, který se snaží
+na technické duplicity. Jo, když nám spadne
+load na duplicitu, tak já si
+z toho vizobu kód, pustím si ho
+na databázi, zjistím si, jaký tam
+jsou indexy a na základě těch indexů
+si vyhledám, které záznamy jsou
+problematické a vypíšu to na obrazovku, tak aby
+to administrátoři měli dispozici.
+Jo, aby to nebylo, že musí přijít vývojář, musí se na to
+podívat, musí to analyzovat, tak se napsá kvůli
+tohle tool. Tak to byla taková věc, která mě bavila.
+A mě to bylo takový investigativní,
+jak bych řekl, sonda
+do hlubin vývojářské duše.
+Kdybyste viděli ty prasárny,
+co lidi dokážou napsat.
+Tak to já vím, Ježíš Maria.
+Takže já jsem tam, protože ho psal pár set,
+každej píše takhle, no jasně.
+A sto chyb, protože sto lidí to napsal
+úplně jinak, s čím se nepočítal.
+No když si tak hezky
+zmínil slovo investigativní,
+tak máme tady takovou libůstku,
+kterou ty máš, Jirko. Vlastně, když
+jsem ti říkal a zval jsem tě
+k nám do podcastu, tak jsi mi poslal video
+z české televize Studia 6,
+kde nějaký,
+kde je pravda trošku mladší.
+Jiří Mareš vysvětluje.
+Trošku menější. Co je Scotland Yard.
+Myslím si, že jsem tě nepoznal na první dobro. Až potom,
+asi po pěti vteřinách mi to bude jasný.
+Co je Scotland Yard, co je Sherlock Holmes
+a možná, já jsem to tam celý nedoposlouchal,
+jestli tam byla řeč o únikovkách.
+Co to prostě tě je? Jak jsi se k tomu dostal?
+Jak jsem se k tomu dostal?
+To je strašně dávno. Já jsem někdy čet,
+třeba v patnácti jsem čet
+Sherlocka Holmesa. Většina lidí
+ho čte daleko dřív. Já jsem se k tomu dostal později,
+protože jsem nikdy moc nečet. A bavilo mě to.
+Tak jsem si říkal, podívám se,
+jestli jsem byl pak na vějšce, jestli tady
+není nějaká možnost, jestli se v takovýhle fanoušce
+jako nescházejí. A zjistil jsem, že je česká společnost
+Sherlocka Holmesa.
+Takže jsem jim napsal.
+Stál jsem se jich členem.
+Později teda jsme se rozhádali,
+založili jsme si vlastní společnost.
+A co bylo zajímavé,
+tak tam byli strašně
+zajímaví lidi.
+Takže třeba můj kamarád,
+šef o pražském odpartě.
+A ten mě svýho času
+volal a říkal, hele, volali mě z české televize,
+že bych chtěl, abych jim vyprávěl
+o historii Scotland Yardu. Říkal,
+to je super, tak kdy tě můžeme slyšet?
+A on, no já nemám čas, tak jsem jim řekl, že když ty...
+Říkám, ale teď já od Scotland Yardu nic nevím.
+No to nevadí, to se dost...
+Hele, teď to je až pondělí, byl pátek večer, viď?
+Říkal, to si najdeš, to na internetu se píše.
+Já ti když tak učím knížku.
+Říkám, tak jo, tak já se pro ní stavím.
+No ale já nemám teď čas, takže to asi jako nezvládnu.
+No knížku mě samozřejmě nepůjčil, že jo?
+A nějakým způsobem jsem se s tím teda musel poprat, no.
+Tak to je hezký.
+Tak to jako ten rozhovor teda si podal
+jako velmi sebevědomně, musím říct.
+No snažil jsem se, ale
+byla ve mně taková malinká dušička.
+Doufal jsem, že nebude nějaká doplňující otázka.
+Jo.
+A jako tam byly zajímavé věci, jo.
+Že třeba jako aby, a to bylo podobně i potom
+u nás v četnictvu, aby jako člověk mu byl četníkem,
+tak musel mít nějakou výšku,
+aby zbuzoval dostatečný respekt.
+Jo, že třeba musel být aspoň 190 centimetrů,
+jinak by nebyl dost velký.
+Jo, takhle, no to jasně, jasně, jasně.
+No a tak to jsem pochopil,
+že ti zůstalo.
+To mi zůstalo, no.
+Ty jsi mě prosil, ještě před natáčením podcastu,
+že bys tady rád zahájel jednu ze svých
+únikových her, kterou někde organizuješ.
+Možná to líp popiš, ať to neříkám já.
+My s kolegama,
+já jsem tam tady jako nejmladší z toho
+organizačního týmu, ale
+organizujeme šifrovací soutěž,
+řekněme automobil
+a automobilorientační soutěž.
+Jmenuje se iQuest.
+Tentokrát se bude konat 26.
+dubna letošního roku
+a tenhle ročník je v Praze.
+A funguje to tak, že my
+v 6 ráno sedm soutěžní týmy
+a končíme zhruba v 9 hodin večer
+a soutěžící během toho týmu
+dostávají různý úkoly
+a musí hledat místa, musí hledat kódy.
+Tak jaká unikovka prostě venku?
+Je to velká unikovka, ale
+super je, že vlastně to pořádá primárně
+radioklub v Písku.
+To jsou kluci, který jsou
+fakt jako bedny, který se zaměřují na robotiku.
+Takže dokážou udělat
+fakt jako zajímavý věcičky.
+Takže tam měli různý robotky,
+jako že to byl mimozemšťan, který s tebou komunikuje.
+Nebo tam udělali
+robotickou včelu, která dělá
+takový ten včelý tanec.
+Až to bylo fakt jako, že
+najdete tam zajímavý věci. Takže kdyby to
+třeba někoho z posluchačů zaujalo, tak se může
+přihlásit. A já
+jestli můžu, tak budu mít sdělení pro své
+soutěžící. A to
+tečka, kvebek,
+dvojtečka, delta,
+alfa, foxtrot,
+novembr, echo, lima,
+zulu, echo.
+Tak to bylo asi to nejhezčí,
+co si, Jirko, řekl.
+Tak to vím, jestli úplně lichotka, ale děkuju.
+Ať to znamená cokoliv, tak my souhlasíme.
+Ano, ano, jednoznačně.
+No, Jirko, úplně na závěr.
+Samozřejmě
+školíš interně
+SQL Challenge interně děláš.
+Vyskytuješ se někde
+na nějakých
+tolks prostě mimo spošku, kde by tě člověk
+mohl vidět? Je tam něco takovýho?
+Mimo spošku, kde mě můžeš vidět, tak na tolks
+určitě ne. Můžete mě vidět,
+doufám, že to tentokrát klapne, tak na
+muzejní noci, kde v muzeu
+policie budu hrát divadlo.
+Hezky, ty hraješ i divadlo? Já píšu hry,
+no, a hraju po divadlo. Hezky, hezky.
+A kdyby někdo chtěl, tak si může
+v archivu, on to v koncu teď opakovali,
+tak najít
+Zabijáky v Čechách, kde jsem taky ve dvou epizodách
+hrál v televizi. Ty kráso,
+to je multitalent, to je bláze.
+Dobře, že to hodí. Dobře.
+No tak s tím hlasem, to se prodat musí, tomu úplně rozumím.
+No tak Jirko, ať se ti,
+ať budeš točit někde videa,
+nebo unikat někde po městě,
+nebo psát kód ve spořce,
+a přejeme tě, ať se ti v tom všem daří,
+a ať jsi v tom spokojený. Já děkuju,
+děkuju za pozvání a přeju
+spoustu spokojených diváků
+a čau.
+No mně se to líbilo rozhodně,
+bylo to zajímavý, dozvěděl jsem se
+spoustu novejch věcí, dokážu si už jako
+představit asi, jak vypadá ten denní
+job těch datařů u vás ve spořici.
+Nemají ten chlebíček úplně
+měkej, musím říct. No jasně no.
+Akor tady v tom, tady v té části,
+kde opravdu je to hodně
+silná,
+jak to říct, ta poptávka je tažená
+matkou, není to vlastně trh, ale říká
+to prostě nějaká regulatorika, nebo
+někdo nad náma, ale
+zase si tam umíš pohrát si nejmavěcma,
+snažíš se optimalizovat ten kód,
+není to úplně nic supernovějího,
+kreativního, ale zase si tam najdeš, jak říkal
+Jirka, svoje libůstky.
+Pokud jsou vaše libůstky pay-per-click kampaně,
+tak určitě nezapomeňte.
+Tak teď jsem to poprvý čekal, byla tam ta vteřina,
+jsem to viděl, jsem týma zlepšil se.
+Už máš ten můj oslý ústek detektor
+vytrénovanej, jak jsme se o tom bavili.
+No každopádně, vivio.cz,
+mrkněte se na to, jsou to naše
+partnerky i v této sérii.
+No a co my?
+No, my vykopáváme tímhle s tím jedenácku,
+myslím si, když se podívám
+na seznam hostů v této sérii
+i doufejme, v této sérii
+vás to bude bavit, vypadá to velmi zajímavě.
+No a my zase za 14 dní.
+Těšíme se na vás, užívejte si to s náma,
+my si to s váma užíváme a mějte se
+krásně, přátelé. Tak jo, mějte se,
+čau. Čau, čau.

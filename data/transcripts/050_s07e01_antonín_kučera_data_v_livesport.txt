@@ -1,0 +1,2999 @@
+Pod vocasem.
+Pod vocasem.
+Pod vocasem.
+Pod vocasem.
+Krásný den, milí posluchači,
+je to tady sedmá série
+vašeho nejoblíbenějšího podcastu
+Pod vocasem startuje.
+Naproti mě sedí jako vždycky usmějový,
+vystajlovaný,
+natěšený Petr Polipolák.
+Dobrý den, přátelé,
+už jsem se těšil a naproti mě váš
+nejoblíbenější moderátor podcastu
+Roman Joker, provazník. Ahoj, Roman.
+Ahoj, čau, čau. Já jsem se těšil taky,
+bylo to dlouhý prázdniny, že jo, mezi námi
+spoustu grilovaček, dovolených
+akcí, žádný podcastování,
+byť jsme tam měli jednu takovou live akci,
+ale zatím ještě jsem nesvolil si její
+publikací, protože mám nějaký nároky
+na, řekněme, technickou i zvukovou
+kvalitu, nebo kvalitu
+i nás jako moderátorů,
+ale jinak vlastně už jsem rád,
+že už prázdniny jsou pryč a my zase vysíláme.
+No zase to rozjedeme, no jak jsi se měl?
+Týdny, pohodička, vypnutej pracovní
+profil, válečka u moře,
+hlava čistá, takže za mě
+paráda, totální odpočinek
+a o to víc koukám
+na to září, který nás čeká,
+protože to bude partnership konference,
+to pojedeme na outdoor,
+to bez tak bude ještě mezi tím
+nějaký business trip, já navíc budu
+kolikátýho to je člověče?
+Čtrnáctýho, patnáctýho?
+Ne, jedenáctýho je pondělí, viď?
+Před partnershipem.
+Myslím si, že jo. Tak jsou zase
+VUG Days v Brně, kde budu zase po roce
+přednášet na velký dotnetí akci
+o využití serverless
+na Azure, takže
+zase září se rozjíždí ve velkým.
+To září je vždycky naflákaný
+jak týma interníma, firmníma akcema,
+tak samozřejmě všichni se probrali,
+my ještě jak máme švédskej trh, tak tam je to ještě
+o to víc, takže máme se na co těšit.
+No a navíc ještě jdu, kamaráde,
+tuhle sobotu, tomu neuvěříš,
+a správně jsem pošlo slovo, jdu
+na desítku.
+Yes. Nabirel prákran.
+Yes. Takže až uvidíte takovýho
+podivného obtloustýho člověka, který je
+tak dva metry před tím kukavozem, který
+to sbírá na konci a bere
+ty poslední běžce a bordel,
+tak to jsem já. No nádhera, a dá se
+tě někde sledovat, nebo tak něco?
+No určitě to nebude v český
+televizi, protože v době, kdy já dobíhám, tak
+kapčí hory už mají vyšlo. Už mají o toho.
+Ale samozřejmě můžete se
+přijít podívat, je to v sobotu to start.
+Já ani nevím přesně vkolik, já vím, že mě vyzvedne
+tady kolega a pojedeme se tam
+strapnit, ale on má daleko lepší tempo než já,
+takže na mě počká v cíli.
+No tak to se těším, tak rozhodně to bude na stravě, ne?
+Minimálně, takže tam to probereme.
+Tam to hodíme do tučky.
+No a já jsme tak, jsme to přeskočili, co ty?
+Hele já dobrý, já dobrý, já jsem
+tak vlastně jsem nad tím přemýšlel, letos jsem udělal
+tři týdení dovolený. Vlastně to nebyl
+úplně dobrý nápad. Vlastně, když si dáš
+jako čtrnáct dní aspoň, ty tři týdny, jak si udělal,
+ty se myslím, že je úplně ideál,
+tak si to tělo mnohem víc odpočiná.
+Takže to asi příště nějak předělám.
+A pracoval jsi u toho?
+No, jako občas jsem se podíval do toho
+mailu a nějak jsme si tam
+jako trošku povídali
+s Milanem. To je špatně, to je špatně.
+S Milanem samozřejmě rád
+popovídám kdykoliv, ale prostě, kámo,
+když je dovolená, dej na mě
+příští rok, dej si to dlouhý a
+všechno vypni. Totální rezet a
+uvidíš. Zkusíme to. Zkusíme to, jako už jsem
+říkal, že to příště zkusím udělat jinak.
+To je pravda. Tak jo. No tak čím
+to dneska vykopáváme, tu sedmou sérku, kámo?
+Já jsem úplně nadšený, jak jsme to hezky
+vymysleli, protože tato sérka začne
+datama, přátelé. No tak to, že pak je jasný,
+že jsi to vymyslel ty, teda. Jasně, jasně.
+S chodou okolností můj spolužák
+Antonín Kučera, který dneska dorazí,
+tak je head of BI v LiveSportu,
+což je za mě love brand.
+V podstatě je to aplikace, kterou mám na první ploše
+a asi už se nám to nepovede,
+protože pak tam mám Twitter a podobný, tak
+nevím, jestli se nám to podaví.
+Xcosores, ježíš mare. Xchat, jak tomu
+říkáme my boomerzy. Xchat, tyvo,
+to mě nedapadlo, tyvo. Myslíš, že to udělal
+kvůli tomu? No jasně, to bylo
+populární, říká. Tak abych se
+vrátil k Tondovi,
+Tonda dělá data v LiveSportu,
+což bude už ohromně zajímavý, jenom
+z podstaty věci, protože
+LiveSport je samozřejmě datama narvaný,
+takže já se dneska moc těším. No jo, tak jdeme pro ní.
+Jdeme pro ní. Z kabiny
+až, řekněme, do Wembley dorazil
+Antonín Kučera z LiveSportu, ahoj.
+Ahoj. To je úvod
+sportový. Hele, teď to tady, přátelé,
+Románek vymýšlel a nakonec
+to vystříl nádherně,
+nádherně. Nebylo to tak dobrý?
+Ne, dobrý, já myslím, že dobrý. Jo, jo.
+Já myslím, že super. Jakože jsme ho uvedli.
+Hele, jsme ve Wembley, takže já si myslím, že kam chceš dál.
+To je pravda, to je pravda.
+Uznávám, uznávám.
+Ahoj, Tondo. Ahoj, Tondo. Vítej mezi námi.
+Ahoj a jsem rád, že jsem prvně
+ve Wembley. No.
+No tady to bude dneska vřeva. Každopádně
+Tonda je ze společnosti
+Lifesport, o který tady už mluvil
+samozřejmě Poli a dneska se kolem toho budeme strašně
+moc točit, to znamená sport a data, data
+a sport, což jsou dvě věci,
+který Petr Polák má rád. Já mám
+radši jednu z toho a to je ten sport jenom.
+Tak prosím tě, Tondo, představ se nám,
+řekni mi, jak ses vůbec
+do Lifesportu dostal, jaká byla tvá cesta?
+Prostě takový to intro, kdyby náhodou,
+nedej bože tě, někdo neznal z těch
+billboardů, ale k tomu se ještě taky dostaneme.
+Myslím, že většina
+posluchačů tohohle podcastu mě z těch billboardů
+určitě znát nebude. Já jsem se
+do Lifesportu dostal,
+no, už to bude více jak 8 let.
+Červen 2015,
+kdy jsem předtím tak nějak
+vlastně po dokončení
+vejšky,
+to bylo snad 2013,
+dva roky fungoval tak nějak jako trošku
+na volný noze a v jedný menší
+internetový agentuře, věnoval jsem se
+věcem právě kolem internetového
+marketingu a začal jsem se
+hodně věnovat těm datům, což
+já jsem vždycky měl dát jako tabulky, čísla
+a hodně spojený s tím jako sportem
+a nikdy mě nenapadlo, že bych se tím
+mohl nějakým způsobem živit, nebo
+to s tím bylo spojený, taky jsem
+pak studoval informatiku
+a statistiku, byť
+ty statistiky tam zase tolik nebylo
+a nikdy mě to nějak moc
+neřekl bych, ne, nebavilo, ale neviděl jsem
+v tom jakoby v těch klasických
+skriptech
+a v těch, to, co jsme se
+vlastně učili, jak jsem nikdy neviděl, jakoby
+tu použitelnost, jakoby v té praxi
+když jsem pak reálně viděl, na co se to všechno dá
+použít, tak mě trošku mrzalo
+že jsem některé věci jako zaspal
+a musel se je učit jako znova
+a potom vlastně, co jsem působil na té volné noze
+tak jsem se začal všímat
+začal jako jen menší hype kolem těch
+kolem těch dát, jako moc se ještě lidi
+do dát nenabírali, ale začal jsem
+si říkat, hele, tohle by mohlo být jakoby v budoucnost
+a začal jsem se věnovat vlastně
+kolem toho 2.13 za 14, jakoby datum
+klasický Google Analytics
+který byly trochu spojený s tím internetovým
+marketingem
+a pak jsem se vlastně nějak
+přes pár známých lidí
+tenkrát vlastně
+jako přes Pavla Jaška, který dneska dělá v Google
+tak
+oklikou vlastně přes nějaký
+jako jsem tenkrát se zkoušel dostat do tipsportu
+protože tam Pavlo vlastně dělal, ale
+nějak jsme se tenkrát nedohodli
+abych musel dojíždět do Berouna
+a moc se mi jako nechtělo a hledal jsem si již něco
+jako v Praze
+a byť pod Pavlem dělat asi by bylo super
+tak se naskrytla příležitost, protože
+tipsport už se spolupracuje s Lajsportem
+tak se zjistilo, že
+v Lajsportu hledali někoho, kdo by tam začal dělat
+tu analytiku
+tak jsem říkal, že se do toho pustím
+a jsem tam do teď
+A to bylo takovým tím stylem, tak já to teda beru, kluci, když
+jako nikdo se nehlásí na tu analytiku
+Ne, ne, to by bylo zpřežené, já jsem vlastně za tu šanci byl
+jako tenkrát strašně rád, protože jak říkám
+dneska, když se podíváte na různý
+inzerentní servdy, tak těch datových pozic je
+celkem dost a
+těch názvů různých datových pozic je
+stovky
+a dřív prostě člověk
+když viděl pozici webovej analytik
+nebo datovej analytik, tak to byla spíš
+radita, takže jsem na to
+vlastně byl rád, že můžu jakoby vlastně
+tu práci dělat dedikovaně a nejenom
+jako část z toho, že se věnuju
+vlastně nějakýmu internetovým marketingu
+a zároveň těm lidem se snažím
+tenkrát dost často vnutit
+to, aby vlastně ty data začaly
+používat a začaly se podle nich
+nějak trošku jako rozhodovat.
+A ty jsi teda head of data
+v LifeSportu, můžeš tohle nazvat? Nebo jak se jmenuje
+oficiálně ta tvoja pozice? No, ale head of data bych neřekl,
+protože jsem head of
+business intelligence. Jo, head of business intelligence.
+Rozdíl jako v tom možná vysvětlím
+je ten, že my vlastně máme
+třeba jedno oddělení,
+který teď už nechci špatně nazvat
+jako datacore, který vlastně spravuje
+třeba sportovní databázy.
+Stará se vlastně o sběr těch dat
+a zpracování těch dat a distribuci těch dat
+do toho produktu.
+A
+myslím, že kolega je head of data
+processing nebo něco takového. Jasně.
+A vlastně, takže část těch dat
+nespadá pod nás. V některých firmách by to mohlo
+bejt jako vlastně pod nějakým jedním třeba
+CDO, který by tohle měl celý, ale tady ta firma
+vlastně vznikla čistě jako
+technologická firma. Jasně.
+Takže vlastně tohleto je
+jakoby, je to
+usazený v IT.
+A my jsme vlastně v komerčlu. My jsme
+vlastně součást BI jakoby
+spíš orientovaný víc
+jako do biznisu. Jo, jo, jo.
+No k tomu se ještě dostaneme, to mě zajímá,
+protože vlastně teď jako
+nebo mám pocit, že pár měsíců zpátky byl
+v hypeu taky ten koncept datameše,
+kdeže ty datový lidi jsou přímo
+v těch odděleních, kde se ten produkt
+tvoří. Takže to mě určitě bude zajímat.
+Ale ještě bych se vrátil na začátek.
+Když jsi říkal, že jsi teda nastupoval do
+lajsportu, ta firma musela vypadat úplně jinak
+než dneska předpokládám. Jak to tenkrát
+vypadalo a byl jsi teda číslo jedna na data?
+Nebo už tam nějaký datový lidi byli?
+Jak to tenkrát vypadalo ta firma?
+No pokud, co se týká jako
+title pozice, tak asi jo.
+Tak jsem byl číslo jedna na data, jako v této
+formě, jak se o ní bavíme, jako datový
+analýzy a
+webový analytiky a tady
+těch věcí kolem. Jinak jsem byl zaměstnán
+myslím číslo 44, 45,
+něco takového. Bylo nás něco
+přes 40, dneska nás je
+ono těžko říct i s těma vlastně
+různýma externíma
+spolupracovníkama a nějakýma
+tenkama, řekl bych jako v centrále
+něco 200, 500, 300
+a plus
+samozřejmě další, jako by další, no tak
+do 500 bych řekl plus mínus.
+tenkrát nás ta firma
+samozřejmě vypadala úplně jinde, byli jsme
+v takových
+menších, menších kancelářích.
+Já nebyl úplně u toho prvopočátku,
+pár kolegů tam ještě z toho prvopočátku
+je, což je rok 2006,
+kdy
+tu firmu vlastně
+současný vlastně spolumajitelé
+zakládali, ty tam jsou pořád,
+to je odlizečeská firma, nikomu se zatím
+neprodala, myslím se, že se to tak nikdy nestane.
+v té firmě
+vlastně bylo, dneska jsou tady tam pár lík,
+kteří tam jsou opravdu těch 15, 16, 17
+jako let, což mi připadá jako
+obtivu hodný.
+A je tam jako
+zajímavý na tom, že ta firma taky byla
+v malinkých kanclech, tenkrát pak se posunula,
+já když jsem v tom o 15
+přišel, tak jsme měli
+vlastně jednu a půl patra
+v jedním kancelářském budově
+na Nových Butovicích
+a samozřejmě se řešil problém toho, že
+ta firma celkem rychle rostla
+a pamatuju si, že
+tenkrát
+teď už jako ex-CEO
+nebo co-CEO a tenkrát
+CEO
+Patrick Zurenda mi říkal
+já si myslím, že nás nebude víc jak 100
+že jako
+se tak jako zablím a to neuměl nikdo odhadnout
+jestli to dobře vyjde, tak možná
+tady budeš mít jednoho člověka k ruce
+a říkám, jak se mě to zní úplně super
+tenkrát říkám, to je jako pecká
+a vlastně za dva roky už jsme seděli
+vlastně ve vlastním baráku
+který vlastně firma postavila
+protože vlastně hala pozemky
+na Nových Butovicích, tak postavila
+vlastně za vlastní peníze
+kancelářskou budovu, kde máme dneska
+my jako Lejsport to máme 4-5 pater
+to je těžko říct, že tam jsou nějaké
+ceřinky nebo sesterské společnosti
+to asi není až tak důležitý
+a tam vlastně dneska máme
+prostor pro ten růst
+být zbytek těch kanceláří je samozřejmě
+jako pro najmu, teď to necháváme to jako
+ladem, ale myslím, že máme dost luxusního
+prostoru na těch patrech, takže
+být ta firma už neroste tak rychle
+takovým tempem, jakoby když to jmu
+jako na procenta, ale samozřejmě
+pořád nějakým způsobem rostem, řekl bych, že letos
+máme takový relativně stabilizační
+stabilizační rok
+že tam jsou nějaké
+trošku restrukturalizace
+a snažíme se zaměřit na jiné věci
+než předtím, ale ta firma
+je úplně jiná, jo já vlastně
+párkrát jsem sám o sobě přemýšlel
+jestli vlastně jako, hele jsi v jední firmě
+už tak dlouho a neměl bys to změnit, tam lidi
+koukáš na ten LinkedIn a prostě to je
+co rok a půl prostě jiná práce
+jiný job, ale když se to jako zpětně
+promítnu, udělám si takový review, tak já vlastně
+jako dělal v x firmách, protože
+firma o 40 lidech, která nějak funguje
+tak nám neměla
+žádný produktový oddělení, v podstatě skoro žádný
+marketingový oddělení
+byla to spíš jako technologická firma
+tak dneska ta firma má prostě kontentový
+oddělení, má produktový, má tam
+oddělení v rámci operations, nějaký legal
+atd. security, to jsou věci, které tam
+tenkrát v podstatě nebyly, to ty menší firmy
+nemají. Jasně, nebo to dělal jeden člověk
+dělal pět židlí na jednou. Jasně, nebo tu řešení
+jdu externě atd.
+a tenkrát prostě někdo dělal
+business development a zároveň dělal hiring
+takže takový jako zajímavý věci
+Hele já ti možná jenom do toho skočím
+tím, že ty to vlastně dokážeš porovnat
+protože jsi viděl ten raketovej růst
+to stěhování, jak je to s nějakou
+firmní kulturou nebo s takovým tím to, co se ti
+tenkrát líbilo, když jsi tam přišel a porovnáš to
+s tím, jak je to teď, přeci jenom
+jeden a půl patra versus čtyři
+patra, jedno oddělení versus
+osm oddělení plus ceřinky
+to přeci musí vypadat
+kulturně jinak, ne? Rozhodně
+ono tak ještě potřeba říct, že to
+jedno patro je tak dneska
+jako desetina toho patra
+takže to fakt bylo
+malinký patříčko
+v takový jedný budově, ale jako super
+tenká předkanceláře je hrozně cool
+z toho, odkud jsem
+předtím přišel
+hele, nemohl bych, musel bych hlát, kdybych řekl, že to
+změna není, je to jako změna obrovská
+obrovská kulturní, samozřejmě, když jste někde ve čtyřicích
+tak si všichni znají, já znal úplně
+všechny, věděl jsem, kdo je kdo, jako
+jak se jmenuje manželka a tak dále
+u některých lidí znáte
+potom i ty rodiny a tak dále
+když se někam šlo, jako v nějakou
+nevím, byl firmní večírek, tak člověk
+znal všechny
+dneska, když chodím po chodbách
+tak občas říkám dobrý den
+protože nevím, samozřejmě v té budově
+občas probíhá nějaká, nevím, přestavba
+nějaký kanceláře se předělávají, nebo je kontrola
+nějakých těch protipožárných těch
+a člověk často neví, jestli zrovna to nejsou lidi
+kteří tam zrovna něco dělají
+anebo někdo zrovna nastoupil, říkám
+do IT, ne, jako to přeháním
+ale oni to skoro tak bylo, my jsme se na to do ní nebrali
+jako 80-100 lidí, takže
+Ty jsi náš novej datař, ne, já jsem instalatér
+ne, ale jako
+jako je to celkem zajímavý
+samozřejmě, když se člověk snaží, ty lidi jsou
+uváděný, máme nějaký interní insider
+který chodí, ty lidi jsou představovaný
+tak přeci jenom, když s těma lidma nejste v každém kontaktu
+a jsou patrovejš, třeba tak
+ne, ze všema se do toho kontaktu dostanu
+jsou zase třeba nové lidi, který znám
+potom během dvou, tří týdnů jsem s nimi
+a v úzkém kontaktu, ale pak jsou lidi, který
+ani nevím, že v té firmě třeba byli a zjistím, že
+jako odešli, takže, ale to je asi normální
+při té velikosti, to není nic
+jako proti nikomu, ale
+takhle to už pak člověk nestíhá udržet
+těch kontaktů, já nevím jestli
+tam jsou to nějaké teorie, kolik
+člověk dokáže udržet kontaktů, ale myslím, že tolik ne
+No a ono ještě se to samozřejmě vyvíjelo
+ty lidi se věnují oši
+mnohem více trhů, než to bylo
+žeho předpokládám, my jsme se o tom trošku
+bavili na obědě pár týdnů zpátky
+kdy jsme to tam pomalu pekli
+tak tenhle tenhle
+ten díl, tak ty jsi tam
+i zmiňoval, že vlastně live sport se
+jmenuje live sport v zahraničí
+a ještě možná pověst trošku k těm
+trhům, když říkám to správně, k těm trhům
+kde vlastně nejvíc dneska
+jste silný a kde to nejvíc funguje
+Jo, toto je
+asi málo kdo v Čechách ví, že live sport vlastně
+není live sport, on to je live sport
+jako firma, ten brand
+u nás, protože to takhle začalo
+tak je live sport, ale
+my často, náš jako globální
+brand je Fleshscore, to znamená
+že vlastně my, Fleshscore, no
+to je jako slovo, který
+já bych řekl, jsme vymysleli, já u toho nebyl, jako když
+se to slovo vymýšlelo, protože to je opravdu těch
+16, 17 let zpátky
+tak
+to znamená vlastně jako bleskují
+bleskují výsledky a to slovo
+neexistovalo a je strašně zajímavý
+z datovýho pohledu koukat třeba do Google Trends
+jako když se podíváte prostě za
+nevím, tam se dá podívat o 2-4, myslím,
+že tam mají ty data, tak se člověk podívá
+protože celkem přirozený slovo v angličtině
+je live score, jo, to je slovo, který vychází
+jako z toho jazyka a
+byť je konkurence, která
+se nese
+tento název
+tak je, bylo pro nás velmi, jako bylo
+těžší se před ním samozřejmě
+dostat, protože ona měla jako ten přirozenější
+to vyhledávání, jako by
+i bylo přirozenější, samozřejmě Google
+a už v dnešní době nefunguje úplně takhle
+jakoby, že dřív
+člověk si koupil tu doménu a bylo to strašně
+super a Google si s tím trošku poradil
+byť na druhou stranu jako historicky
+mají tady v tom jako určitou
+výhodu, ale tak my na spoustě trzích, když si
+dneska porovnáme vlastně tady tyhle ty brandy
+tak už je třeba někdy jako
+trtíme, jo, že vlastně to slovo
+se jako adaptovalo, že jsme jako vymysleli
+což je zajímavý, nový slovo tady
+v tomhletom odvitví. To je dobrý, co se s tím dá
+udělat, věď Čapek, když vymyslel robota, tak si to
+takhle nemohl potestovat, jo. No to ne, no.
+A tak mohl bych se dneska do
+Google Trends kouknout, Čapek. Jo, jo, jo.
+Možná
+se v nějaký data, jak se to třeba
+co ty Google Books nebo jak se to jmenuje, tak tam
+by se mohl podívat, tak by se začalo to RUR
+objevovat a myslím, že by možná tam nějakej hype
+ty to pak čekl, spadl.
+No a
+takže my fungujeme
+vlastně globálně pod značkou
+Flexcore, víceméně, byť máme i nějaký
+lokální
+domény, který vlastně z historického
+hlediska pořád udržujeme.
+Náš třeba italský brand je Direta,
+což znamená vlastně něco jako Direta IT,
+jako živě CZ, v podstatě.
+Ono je tam důležité, my jsme právě vznikali na tady
+těch jako lokálních brandech,
+ale v jednu dobu je potřeba ten brand jako začít se jednocovat,
+protože pak se těžko dělá nějaký
+marketing a globální kampaně a je to
+jako výrazně těžší. Na druhou stranu
+těžko míníte Direta IT, když to je
+druhý nebo byl druhý nejnavštěvovanější
+sportovní italský jako server.
+Takže
+ono to není jako jednoduchý,
+byť rebranding jako děláme, udělali jsme ho
+v Latamu, udělali jsme ho ve spoustě
+dalších evropských zemích a
+myslím si, že ještě jako nekončíme,
+ale myslím si,
+že v Čechách to navždy bude
+LifeSport.cz.
+Takže v Čechách bude lokální značka a celosvětově
+ten brand, který plánujete splácnout
+do jednoho? Myslím si, že jo, možná jsou tam
+nějaké opravdu fakt ty lokální výjimky,
+nevím, jak to bude s tou Itálií, my máme jako FlashScore
+IT.
+To jsou nějakých
+rezultáty IT, ale pořád si
+tu Diretu držíme, to je silný brand
+a zároveň
+vlastně měli jsme třeba
+Miss Marker Odess, to je španělský název
+pro živé výsledky,
+myslím, že něco takového.
+A to měl
+původně cílený byl pro Španělsko a když
+jsme pak koukali na ten trafik v datech, tak
+to bylo jako 60% z Latamu.
+Takže to prostě rozsekali na ty jednotlivý lokální
+domény a tím se dostávám
+trochu oslým úzkem k tomu, kam se
+dneska fokusujeme, tak Latam
+je jako hodně zajímavá
+z hlediska vlastně sportu a sportovních
+výsledků.
+Nepřekvapivě, protože jako
+fotbal a
+Messi a tady ty věci, tak to tam
+jako žerou, byť
+myslím si, že v Brazílii to žerou ještě víc než
+jako v Argentině.
+A
+Latam nám funguje velmi dobře.
+Potom Afrika.
+Byť Afrika není tak zajímavá,
+to se dýká nějakých
+potenciálů na revenue, protože
+monetizovat africký trafik je výrazně
+těžší než
+trafik z jiných oblastí, tak
+ale zase
+na druhou stranu oni jsou strašně nadšení
+do tady těch jako sportovních a výsledkových
+věcí. Jsou velmi nenároční, co se dýká
+jako kvalitě toho produktu.
+To neznamená, že bychom doručovali špatný produkt, ale dost často
+my máme nějakou light verzi,
+která je výrazně osekaná, o spoustu věcí,
+je super rychlá.
+Když se tady fungovalo
+právě dobře v metru, když
+nebylo ještě 5G na B,
+tak na zastávce se to dalo
+chytnout.
+Ale dneska funguje třeba v Nigerii.
+Tam máme asi 8 milionu Nigerijců.
+A spoustu dalších afrických zemí.
+Ono to tam je dané trošku
+historicky, protože oni přeskočili éru
+těch desktopů a jsou
+víceméně na mobilu.
+A tím, že ta infrastruktura
+nebyla a pořád někde
+ještě není tak dokonalá,
+nebo dokonalá
+tak dobrá, jako je třeba v některých azijských
+nebo evropských zemích, tak oni
+dost často řešili to, že musíš ještě tři data.
+Řešili objem toho, kolik se
+ten web, když si ho nadštítáte, kolik ten web
+vlastně sežere a jak
+rychleji.
+Takže tam ještě jedou takový ty vapový optimalizace
+z dob 2000
+plus u nás, kdy každej kilobajt
+byl drahý.
+Relativně někdy,
+jo, ne vždycky, už mají samozřejmě
+ten internet, my si
+stahujeme vlastně nějaký data
+z toho trhu,
+nějaké technologické data, nějaké indexy
+infrastrukturní, jako jak se tam vybíjí,
+jako ta mobile connectivity, anebo
+internet connectivity a je to celkem zajímavé
+vidět, jak to se mění, jako v těch
+letech, kolik lidí je
+třeba na internetu připojených. Tak tady já nevím,
+my jsme tady, kolik je 85%,
+v Čechách 90% lidí má možná internet
+a tam to někdy bylo třeba v některých
+zemích 30%, ale během dvou let
+to bylo třeba 50% a to v některých afrických
+zemích jako 20%
+znamená jako tři České republiky.
+Jasně. Takže tam ta adopce
+je obrovské rychlá a nebavím se třeba
+o Indii, kde rozdávají, jako
+dokonce jsou mobilní operátoři, který
+dávali lidem mobilní telefony.
+Jo, takže předinstalovali
+třeba WhatsAppem a
+vlastně adopce, to jako funguje to úplně jinak,
+tady v těchto zemích.
+Já možná ještě do toho skočím takovým
+úplně debilním dotazem, ale mě to vždycky
+vlastně zajímalo a
+naskočilo mi to do hlavy, když jsem mluvil
+o tom, že třeba Afrika z hlediska revenue není tak
+zajímavá. Kde se vlastně u
+light sportu bere to revenue?
+Kde jakoby teda jsou ty
+peníze, kde
+dochází k té transformaci dat
+sportovních výsledků na peníze,
+když se tak zeptám. Je to v podstatě jednoduchý,
+je to reklama. Je to reklama. Je to prostě
+více méně z reklamy.
+Takže to, že já mám aplikaci a tam vidím
+ty výsledky, tak teprve to, že se vám
+začínám jako konzumer vyplácet
+nebo poli, který to má na předním
+na předním screenu, tak je to, že
+mu tam prostě problikává nějaká reklama
+nebo že ty výsledky sebou
+nesou nějaké jako reklamní data nebo jak je to?
+No je tam více méně máme jakoby, což
+si člověk pozná, když otevře tu aplikaci.
+Více mě spolupracujeme se sáskovýma
+kancelářema, skoro na všech trzích
+a
+což asi není tajný, protože to je vidět
+v té aplikaci a je tam spousta
+různých možností, ty reklamy od toho, že tam
+jsou nějaké banerové plochy, od toho,
+že tam jsou vidět kurzy
+a máte to prostě globálně,
+takže ono to pak začne
+být zajímavé, když je to v nějaké jako škále
+a my máme celkem dobrou cílovku.
+Takže ty sáskovky
+bych řekl,
+že jsou ochotný kolikrát zaplatit
+jakoby víc než třeba nějaký telefonní operátor.
+Když to takhle jako zjednoduším.
+Nemusí to být markajně tolik,
+tak jsou ale zase, my jak se pohybujeme
+globálně, tak jsou zase trhy
+a že jich není málo, který jsou
+já říkám jako regulovaný,
+ale ono z našeho pohledu regulovaný znamená,
+že to je pro nás dobře, protože když je něco
+regulovanýho, tak znamená, že na to existuje většinou
+nějaká regulace, nějaký zákon a my známe
+jako podmínky, za kterých se dá na tom daném trhu
+fungovat.
+Dost často to bývá, nevím,
+v Indonésie, Filipínii
+a spousta jakoby dalších
+třeba
+blízkovýchodních zemí, tam jako náš produkt
+nefunguje až tak dobře,
+protože vlastně tam je zakázaný jakýkoliv
+jako sázení a gambling
+a tak dál. Tam
+nějakým způsobem fungujeme
+víceméně na nějaký programatický reklamě a nakoupujeme
+asi klasický,
+co tam jsou inzerenti
+přes tu programatickou
+reklamu
+od mobilních operátorů
+po cokoliv si dokážete představit, jako různý e-shopy,
+nevím, kdo vlastně
+by se dal říct v úzovkách, jakoby
+v té aukci
+vlastně nakupu té reklamy se tam
+prosadí, jak to prostě je spousta jako pravidel, to asi by
+ten programatik je na další téma
+a pak máme trhy, kde
+je sázení jako
+povolený a kde
+nějaká regulace a my tam máme, reklamu
+u nás mají ty dané sáskvé kanceláře,
+které na tom trhu mají nějakou licenci
+typicky v České republice, je to
+asi šest sáskovej kanceláří
+a s těma sáskavýma kancelářem máte
+nějaký jednotlivý díly, ono to
+třeba to my, kolik tam
+toho má, jestli kurze a tak dále, to je celkem jako
+komplexní, ale to je z reklamy, když to jako zjednoduším.
+Super, díky. A je tam
+ještě třeba nějaká část monetizace
+těch dat, že třeba prodáváte vloženě
+ty data, který nějak zbíráte
+nebo konzolidujete, nebo taková
+takovýhle revenue stream tam vůbec
+neexistuje. Neprodáváme vlastní
+data
+takhle jako Lysport, jako
+data neprodáváme, byť máme
+dceřinou, sesterskou,
+nevím, jak to přesně právě jsou tyhle věci,
+společnost NetPulse, která
+ty data vyrábí a B2B je nabízí
+agentům jako Reuters a podobně.
+My snad u ní taky nějaký data částečně běheme.
+Takže, ale my jako Lysport
+se tady tím jako nezabejváme,
+pro nás to není vlastně
+vůbec žádná část biznesu, my ty data
+vyrábíme pro sebe.
+Jo, jo, jo. No a když ty data vyrábíte pro sebe,
+to mě vždycky fascinovalo, nebo
+fascinovalo, dokonce jsem došel do bodů, že jsem
+teďka byl na minulou
+sezónu na zápase hokejovým v Kladně.
+No tak to došlo to.
+Jak jsem zvykl, no, takhle to došlo,
+jako na baráži. A v Kladnu mám
+jako oblíbený tým v Lysportu
+v aplikaci. A já jsem si jenom
+vypnul notifikace, protože jako ta hlava už je
+naučená. Já jsem se bál, že mi to řekne ten
+ten, že padnul gol dřív, než padnul v té
+realitě. Člověk úplně zblblý.
+Protože je to tak rychlý,
+že člověk je se na to jako, je to hrozně
+návykový. Jak tohle funguje?
+Jako na každém tom zápase je nějakej
+člověk od vás, nebo občas
+ten někdy napojí na nějaký apíčka, nebo
+jak tohle funguje?
+Řekl bych, že fyzicky
+nemáme na zápase
+nikoho. Co se týká
+výsledků. My máme vlastně
+ještě druhou část, kromě toho scores, máme news.
+A pak máme
+akreditovaný novinář na určitých
+zápase v určitých zemích, který dělají
+nějakých zpravodajství
+z toho zápasu, potaží mu nějaké rozhovory
+na místě. Ale co se týká
+výsledkový části toho, že to je 1-0,
+že dal někdo gol, že byla žlutá karta,
+tak více méně to funguje. Takže máme
+takový datový centrum, který
+vlastně ty data vyrábí buď
+etomix, věcí toho, že ty data
+se automatizovaně berou z nějakých apíček.
+Část těch dat můžete
+teoreticky nakupovat, část těch dat vyrábí.
+To znamená, že máte lidi třeba, který se na ten přenos
+můžou koukat. A ty data
+můžou ve finále, vlastně
+máme takový vytvořený
+custom software, do kterého se ty vlastně
+věci zadávají a zároveň se
+třeba kontrolují právě z nějakých těch oficiálních
+třeba stránek toho
+zjít zdrojů, jestli to jako sedí.
+Ty data se pak propisují.
+Takže něco máte plně automatizovaný,
+něco je
+vyloženě čistě manuální práce
+nějakých
+jednotlivých lidí, to asi od toho
+od důležitosti toho
+zápasu. Zápas ligy mistrů
+je více méně
+dost manuálně
+plněnej, protože tam vlastně na to
+jste ochotnej dedikovat někoho
+jednotlivce, ale
+třetí, já nevím, teď si
+vymyslím, třetí australská
+liga ve fotbale třeba
+nebo v tom OZI, tak co vnímajte
+ten australskej fotbal,
+tak už může být automaticky
+plněná a zároveň pak je tam na tom nějaká
+kontrola. Takže je to fakt
+mix a je to pro mě jakoby,
+já to taky znám trošku, jako
+nechci žít z rychlíku, za tu dobu o tom něco vím,
+na druhou stranu trošku se to jako mění,
+ale
+výroba těch dat je celkem komplexní,
+komplexní disciplína a
+kluci to myslím, že dělají dobře
+a myslím si, že je to jako dost, někdy dost,
+jak bych řekl, hustý, jak se tam ty věci
+dostávají a já sám o to někdy koukám a
+jsem překvapený, jak je to vlastně
+jako rychlý.
+Ta prodleva je neuvěřitelně krátká
+mezi tím, jako kdy opravdu,
+protože vezmeš, kolik to musí
+jako úrazit, jako vzdálenost,
+mezi tím, že někdo střelí gól
+a prostě tady jako Petru Polákovi
+to pípne v aplikaci, že prostě dali tam
+jako v Jižní Africe góly.
+Ale ještě jsme se teda nedostali do stavu, že bychom byli
+rychlejší, než když jste na stadionu.
+Ale já si myslím, ale jako
+zároveň na půl sranda a na půl možná,
+že se tam jako přibližujeme s těma
+technologiema, který prostě přicházejí.
+Ale já sleduju Českou fotbalovou ligu, co se děje
+jako nahoře
+a tam kolikrát vlastně tydečně už na zápas
+a víš, jak to dopadne.
+Takhle jsem to nevyslal.
+Jako ta human intelligence, ta možná tu
+artificial intelligence předbíhá v některých sportech,
+to chápu.
+Tam bych souhlasil, no.
+Tam to je asi jako
+jiný příběh, to bohužel taky jde mimo nás.
+Nebo spíš
+asi bohu dík. Ale každopádně
+myslím si, že tam se dostaneme,
+ale tam asi nějaký tržol,
+za který nebudeme štít.
+Protože my jsme vlastně
+jeden čas to tak měli, že jsme v vůzovkách
+byli ještě rychlejší, ale v odobice
+je var, třeba v fotbale, tak se nesnažíme
+být tak rychlí.
+Z jednoho prostého důvodu, protože
+ono to není ani kvůli varu, ale dost často
+už předtím jsme měli od uživatelů
+i třeba interní diskuze toho typu
+hele jako je to super,
+že prostě ta střela letí na bránu, už jako
+pomalu vidí, že to tam dá, jak nám bůhne v vůzovkách,
+do enteru, jo teď jako přiháním.
+A přiteče vlastně nějaká notifikace
+a přiteče to dodat.
+Na druhou stranu, třeba dobrý se podívat,
+jestli to třeba nebyl jasný offside, jo, nebo
+evidentně taková věc, protože
+nemůže být nic horšího
+pro lidi, který mají třeba na ten zápas
+jako v Sazeno, nebo fandějí.
+Tomu, že přijde notifikace, že padl gól
+a přijde oprava,
+že to tak není.
+Takže jako, když je ten var, tak ty lidi se to
+naučili chápat, že kolikrát
+Oni se ani neradují, oni čekají,
+jak to dopadne u lidia.
+Kolikrát se jako stane se mi, protože
+občas taky chodím na fotbal, jsem fanoušek
+místního nejlepšího klubu.
+Ano, no, vidím, co máš na ruce,
+takže víme, jaký je nejoblíbenější
+a nejlepší klub. Co ono Spartané?
+No, tak Ježiš, tady jsem v Přesile.
+Takhle, já nemám žádný oblíbený fotbalový klub,
+ale tady jsem v Přesile Spartanům.
+Říkám, to je sympatický klub, který různě
+vyleze, že je Spartan tím, to je. Jasně,
+promiň, no, takže bylo se na Spartě.
+A stane se mi, že minulý taky byl na zápase s Záhřebem,
+jsem se radoval, dali jsme tři goly a já se radoval
+čtyřikrát, protože dokonce jeden
+jako neuznali. A věřím tomu, že prostě
+na druhé straně planety, pokud to nikdo třeba ani nesleduje,
+jenom tam cinkne, jeho gol,
+radeuji se, má ho nějak sazený, možná už mu to
+znamená, že mu to uzavírá ten tiket,
+nebo má tam jakoby to
+v hůzovkách, to fanouško svý to srdce,
+tak má tu radost a nedovám přijde
+prostě oprava, jo. Tak jako...
+Tak ono, vem si u těch živejch kurzů,
+který se vlastně vyvíjí podle toho, jak se vyvíjí
+ten zápas, tak tohle musí být jako
+naprosto šílený, protože teď najednou ta sásovka
+vypíše a teď je na to,
+že to otočej je, já nevím, patnáct
+kurz a najednou zjistí, že nemají co otáčet,
+protože je to stále... No, oni to takhle rychle nevypíšou.
+Jo, mají tam zvádět.
+A zároveň si myslím, že tam je možná jaká u větších zápasů
+manuální kontrole se prostě čeká,
+jestli právě nebude nějaký var, nebo nějaká
+tady ta situace, protože tam by se pak
+mohlo stát, že oni přijmou tu sásku.
+No, právě to jsem myslel, no.
+Ale zase přeci tohle se musí odvíjet od sportu,
+protože jsou dynamický sporty, typu
+nevím, basketbal, kde prostě...
+Nebo tenis, jo, kde to se to
+přelivá zleva do prava okamžitě, pak samozřejmě
+fotbal, no tak jako oni než přeběhnou to hřiště
+chvilku, to trvá.
+Je tam nějaký takový jako trend v různých
+sportech, že se to nějak jako
+liší obecně i třeba pro vás,
+co se týče to sbírání těch dat, protože
+teďka jsem koukal, že na ty naše volejbalistky
+hráli s Ukrajinou, to kdyby
+s každým jako tím balónem to měl
+někam posílat, no tak tyhle notifikací
+jako strašně moc, jo.
+No, asi se to liší, já bych řekl, že
+jsou právě sporty pomalejší,
+můžeme do toho řadit trochu ten
+fotbal, myslím ve smyslu toho, že
+ve fotbale tady těch, my tomu říkáme
+incidenty, což je gól, karta a
+foul, není třeba tolik, jako kolik se toho
+může odehrát v nějakým
+jiném sportu, basket, tenis,
+především tenis, jako tam jsou změny, co
+co 15, co
+15, přesně tak, každou
+chvilku, být na druhou stranu,
+zase jsou jednodušší, jsou jakoby
+relativně lineární v tom, že
+jsou očekávatelný, to znamená, že
+tam víte, že co se
+stane další, tak bude 15, na nějakou
+stranu, potažím ho, game, set,
+nebo jako zápas, ve fotbale
+nevíte, co přijde, jestli někdo ho jako přejde
+a dostane a bude červená
+karta, žlutá, jestli bude prostě VAR, jestli někdo
+zakopnou balon, bude out, odkop,
+jo, takže jakoby ta variabilita je tady v tom větší,
+u toho tenisu
+může jako asi vystřelit míček ze stadionu,
+to ne, jako
+ale oni mají nový, ale asi tak. Nepředpokládaný,
+jako může se vám stát u podání jako dvojchyba,
+ale je tam jako víc očekávatelných jako věcí,
+myslím si, že basket na tohle může být
+náročný, protože basketu taky může být od
+faulů, autů
+a různých věcí a nevím,
+kroky a tady ty věci, to už se taky nepamatuju,
+tak jako, je to asi
+jako složitější, no, tak
+to bych asi musel
+se zeptat nikoho u nás, kdo konkrétně
+ty data plní.
+Tak pojďme se oslým ústkem dostat k té
+technologii, tak ty jsi říkal na začátku,
+že se byl tondo sám, pak teda
+kolega tvůj predikoval
+ještě jednoho člověka, kolik vás teda dneska v týmu je?
+Dneska
+nás je v týmu i se mnou nějakých
+deset nebo jedenáct,
+teď zrovna děláme backfill za jednoho
+kolegu, ale
+my jako by je už nějak extra, nerosteme
+v tuhle chvíli, takže dalo by se říct, že kolem
+třeba deset lidí, včetně mě.
+A když říkáš nerostete, tak to znamená
+početně nebo i datově, předpokládám,
+že těch dat bude čím dál víc, ale samozřejmě
+nějak se řeší historizace a podobné
+věci, takže jak to roste, co se dat
+týče? No, takže to
+jsem myslel samozřejmě lidsky.
+Co se týká datově
+a technologicky
+a
+tady, tak vlastně rosteme
+pořád, nebo nějak si měníme,
+otázka říct, jestli to znamená úplně jako
+růst z pohledu objemů
+a nákladů, tak částečně
+asi jo, co se týká nákladů, tak ty
+rády, ty náklady jako rostou
+nějakým způsobem pořád, nebo se
+vyvíjejí, ale co se týká objemů
+dat, tak rosteme. My vlastně, kdy já jsem
+začínal, tak jsme řešili,
+jo, já jsem použil nějaký GAčka,
+podel jsem se nějaký APIčko a dělal jsem nějaký
+reporty a to nestálo
+v úzovkách skoro nic, jo, to bylo
+pár kilobajtů dat.
+Potom vlastně
+ty GAčka v nějaké době umožnili nějaký
+export, my jsme byli celkem pioníři
+v tom, ty nový
+GAčka, já myslím, že znáte, Google Analytics
+verze 4. Tak životelsky, lehce.
+No, no, no, tak vlastně my už bysme něco
+podobného, protože ono to trochu vychází z
+konceptu Firebase Analytics, který vlastně
+Google akvíroval tu firmu a je to
+jako čistě SDKčko pro aplikace,
+tak
+to umělo právě tu export
+jako do BigQuery, což
+se můžeme trochu
+ochomitnout kolo našeho stacku,
+který je více méně v Google Cloudu
+a do toho BigQuery to umělo
+nějaký export, což znamenalo pro nás první
+možnost
+toho, že máme
+nějaký raw data,
+a sahat se vlastně na ty jednotlivé jako uživatele,
+což byla úplná jako změna mindsetu,
+to už jsem začal dělat právě
+s tím právě jedním kolegou, který přišel
+přišel jakoby ke mně
+a znamenalo to úplně
+jako změnit koncept
+jakoby té práce. Na druhou stranu to znamenalo
+všechno vybudovat na zelený louce, protože vlastně
+žádný v úzovkách pipeliny
+takhle komplexní, který by napočítávali data,
+který obsahují nějaký user ID
+a tak jsme vlastně vůbec neměli,
+neměli jsme na konci ani vlastně žádný pořádnej
+vizualizační tool, který by tady
+s tím pracoval, protože vlastně my jsme si více méně
+vystačili s tím, co bylo v těch
+Google Analytics
+a co vlastně
+tak člověk možná,
+když já jsem tenkrát, jo opravdu, v R-ku
+jsem dělal tak knihovna, která se jmenuje Shiny
+a ona umí nějaký vizualizace,
+tak já jsem první takový jako BI tool
+trochu spíchnul v tom, protože když jsem přišel do
+LaviSportu. Ty jsi programoval v R-ku, jo?
+No, programoval, aha, to bych jako
+nepřeháněl, uměl jsem tam něco
+naskriptovat, jo, a to mám jako doteď, já jsem jako
+si prošel takovým a my jsem
+nastřednil Visual Basic dotnet, pak jsem
+na výšce,
+nebo taky PHPčko
+a to mělo na výšce, to byl taky nějaký
+co tam měli
+Java, no, nějaká Java vlastně
+a tady tyhle ty jako věci a v software
+inžinierství jsem tam řešil taky
+v té Java něco a zjistil jsem,
+že to není jako ten svět, do kterého se řítím,
+ale jako člověk si odnes nějaký jako základy,
+návyky,
+jako ne, že bych nějak hověl jako
+objektově orientovým programování a tak dál,
+ale spíš jsem taky nějaké ty procedury,
+ty věci prostě za sobou s to skriptováním nějakým
+způsobem jako zůstalo a
+SQLko samozřejmě, to je prostě
+jako od 70. let
+jako super
+univerzální jazyk, který jako za mě
+funguje a my na to máme největší část jako stacku
+pořád, jo, protože jsme vlastně
+v tom BigQuery je to
+to nejlepší, co se dá použít
+a
+i když občas máme nějaký jakoby
+Python, ale abych se vrátil
+k tomu, k těm úhoběmů dat
+a vlastně v současný době,
+ať se nevyprávím úplně ten příběh tak
+detailně, tak v současný době nám tam
+dneska každý den, vlastně
+tady si je GAček, plus i další daty,
+plus minus třeba dvě miliardy řádků, jsou zhruba dva terabajty
+dat, nám tam každý den jako vyteče
+do toho BigQuery
+a my si s tím musíme nějak poradit.
+To je pěkný, to je pěkný.
+No, pěkný to je,
+ale ono to taky něco stojí
+a problém vlastně
+největší je ten, že
+my to máme trošku jiný, než
+když dáte v e-commerce, kde je vlastně jakákoliv
+výřek transakce, která proběhne,
+tak vlastně pro vás znamená jako předanou hodnotu.
+To znamená, když
+vy vzal transakci jako nákup,
+nějakou jednotlivou zboží, který má prostě nějaké položky,
+tak já vím tu transakci a ta pro mě mám
+můžu říct, že tenhle řádek, který mi tam přiték,
+tak stojí korunu,
+ale vím, že mi ten řádek
+vydělal, to mám tam napsaný,
+tak může vrátit zboží a tak dále,
+to teď jako neberu, mám nějakou marži.
+U nás je problém ten,
+že v nám tam chodí řádky toho chování těch lidí
+v té aplikaci. To znamená, to je, já nevím,
+otevřel zápas, udělal tohleto,
+udělal támhleto, prostě to, co tam měříte,
+to, co vás zajímá. A to je vlastně
+nějaká v tu chvíli náklad navíc.
+To vlastně nic neznamená pro ten biznis.
+A my musíme vlastně tady to vzít
+a každý den ty dvě miliardy řádků
+nějakým způsobem
+schroustat, zpracovat,
+spojit s tím, co se stálo ty předchozí dny,
+to znamená udělat nějaký agregace,
+nějaké prostě nápočty, protáhnout tu pipelineu
+a zároveň něco musíme
+prostě zahodit, něco nám zůstane v těch
+rodatech a něco zároveň my po nějaký době,
+řeknu po 30-60 dnech,
+prostě balíme do nějakého avroformátu,
+protože to je levnější než uložený v BigQuery,
+hodíme někam na Cloud Storage
+a tam to historicky je.
+Jak dlouho to archivujete?
+Tak samozřejmě z hlediska GDPR to tam nemáme
+jako díl, než bychom měli mít.
+Ale na druhou stranu
+taky to nemáme úplně jako dotažený,
+byť by to mělo být líp,
+snažíme se to tam nedržet díl, než třeba
+2-3 doky, tak nevím, kolik tam máme
+v těch podmínkách na tom webu, že by to mělo být.
+Nemáme úplně ještě dotažený
+automatizovaný procesy,
+protože upřímně to je jedno z posledních věcí,
+čemu se chce člověk věnovat,
+protože zase není tam ta přidaná
+biznisová hodnota a vy v určitou chvíli
+chcete řešit to, co tomu biznisu
+pomáhá, protože
+asi je spousta úkolů
+a věcí, kterým by se člověk mohl věnovat,
+něco čistit někde
+a nevím, uklízet po sobě
+v kouzovkách, ale
+to nějak nevydělá ty firmě ty peněz
+nebo nepomůže to tomu produktu.
+Nikam to tu firmu neposune.
+Takže my jsme si museli vymyslet nějaký koncept,
+kterým my říkáme jako user journey
+a podívat se na to, co nás
+z toho kvanta dat zajímá.
+Že nás nezajímá každý
+úplně ukliknutí uživatele, protože
+my vlastně stejně z toho clickstreamu
+nejsme schopní vyčíst, co ten uživatel ti myslel.
+Protože zrovna přechází ty záložky,
+jestli je zmatenej, nebo
+nervózní, jak to dopadlo.
+Má náladu, furt někam přeskakuje,
+nebo co to je, občas se nám tam do toho míche
+nějaký roboti.
+Takže my se snažíme to zkoncelovat v rámci
+nějakých hodin do toho,
+že ten uživatel, a bereme třeba jenom část
+z těch dát, které nám ukazují,
+ty lidi používají tohle, ty lidi používají tohle,
+abychom viděli třeba, kam častěji
+ty lidi chodí. Ale nesnažíme se úplně
+analyzovat tu uživatelskou cestu
+do toho detailu, jakože bychom viděli ten krok,
+protože to vám až tolik nic neřekne.
+To spíš děláme tak, že my děláme hodně
+kvalitativního
+a kvantitativního výzkumu.
+Snažíme se bavit s těma lidma jak napřímo
+v interviews globálně,
+tak i právě děláme hodně
+kvantity, to znamená, ptáme se těch lidí
+se klasickým kvantitativním výzkumem,
+co se vám líbí na tom produktu,
+co by se vylepšili, atd.
+A to nějakým způsobem, a to je
+asi jedna z největších challenge,
+kterou tam aktuálně máme,
+je vědět, že ty uživatele, který vám
+nějak v tom výzkumu odpovídali,
+jsou v těch clickstreamových datách tyhle uživatele.
+Že si můžete vlastně zpětně validovat
+všechny ty věci a zároveň
+ještě do toho jsme si vytvořili takový
+nástroj, který mu říkáme
+Business Intelligence Benchmark Learning Engine.
+Krásný název.
+To je marketingový, co prodáváte.
+Ono točí vychází z toho,
+my tomu začali říkat Bible.
+A pak někdo říká
+Bible, to není to úplně košér.
+Není to úplně super.
+Ježíši, neříkejte tomu Bible.
+A uděláte z těch písmen něco.
+Ať se to prostě...
+Nějak jako to.
+Tak jsme to dali do nějakého finálního podobě.
+My tam ještě stáváme brát data z trhu,
+o kterých jsem byl předtím.
+Snažíme se právě hodně
+dělat scraping
+a nebo nejenom scraping,
+ale vůbec z dostupných datových zdrojů,
+které jsou o tom daném trhu
+dostat všechno na jedno místo.
+Takže my vlastně vidíme
+na jednom místě v tom nástroji,
+my to máme na konci v tablo,
+a v tom nástroji vlastně pod tím v těch datech máme
+třeba, jaký tam jsou konkurenti, jaká je jejich hledanost,
+jak vlastně na tom trhu
+vyděláváme a zároveň kolik máme prostě
+uživatelů, jaký jsou třeba potenciály toho trhu.
+A máme tam x takovýchto pohledů,
+nějaký třeba technologický a to dáváme
+těm uživatelům, že mají vlastně komplexní
+pohled na, buď máme takový jako one pager,
+což je vlastně pohled třeba
+per jednotlivou country a pak máme
+nějaký takový komparativní
+porovnání toho, že si ten člověk může se řadit
+ty země vedle sebe, kdy je pak
+hezky vidět, jaký máme třeba share
+těch uživatelů z online populace.
+To je typický náš takový benchmark, s kterým
+hodně pracujeme, protože vlastně nám to
+zároveň říká, jak daleko
+se ještě na tom daném trhu můžeme jako potenciálně
+jako dostat.
+Dám příklad,
+když bych vzal benchmark jako Čechy,
+že tady máme i jako on-flight reklamu, tak si můžu říct,
+že máme nějakých, já nevím, x%
+a zároveň, když na těchto x%
+nelze to vzít
+úplně dogmaticky, protože
+kdybych řekl, že třeba máme 10% tady,
+tak
+kdybych chtěl dostat 10% Findy
+toho online trhu, tak je to úplně jako
+jiný numéro, tam jsou zase jiné omezení,
+že vy se nedostanete všude na těch
+x% který potřebujete, ale je to aspoň
+něco, k čemu je někde reálný se jako přiblížit
+a s tím nějak jako pracujeme
+s nějakým jako potenciálem.
+A jak pracujete jako tým? Ty si popisoval,
+že se snažíte hodně dbát na to, aby ty
+data nebo vůbec ty vaše aktivity dávaly
+smysl pro biznis. Máte nějaký
+nějaký jako
+nevím, product ownera nebo někoho,
+kdo vám ty věci zadává nebo jako tým
+přemýšlíte nad tím, co vlastně dává
+smysl tomu biznisu?
+No, tohle byly vlastně taky takový
+velmi těžký časy, když
+ta analytika začínala, protože
+byť ta firma nebo lidi
+ve firmě ty data, nebo
+některý lidi ty data rádi používali,
+tak ne všichni v tý firmě
+a ne všichni na to prostě byli zvyklí, protože ty data
+v tý firmě nebyly a ta firma rostla
+v podstatě i bez toho.
+Protože dělala jako dobrý produkt,
+myslím si, že to udělala i ve správný čas,
+což je někdy jako taky důležitý.
+Takže ty lidi nějakým způsobem
+nenutně potřebovali
+nějaký pokročiliští data k tomu,
+aby tu firmu řídili nebo se na některých
+což je jako docela těžký potom ty lidi
+v tomhle tom změnit a ty data dostat
+jako natlačit do těch procesů,
+tak aby ty lidi to používali.
+Na což jsem narážel dnes a denně
+typu zase nás obešli,
+zapomněli na nás,
+že člověk už měl i párkrát pocit, že
+to jo, tak jako jsme tady vůbec nějako k něčemu.
+Ale o době, co musím říct,
+co jsme vznikli jako BI někdy v roce 2020,
+protože my jsme předtím byli spíš takový
+jako marketingová
+analitika, produktová analitika,
+seděli jsme v produktu a
+potom vzniklo vlastně BI a stali jsme se
+součástí toho commercial oddělení.
+Tak tam musím říct, že
+nastal celkem jako obrat a
+začalo se nám dařit
+vlastně jakoby
+budovat tu datovou kulturu a
+vůbecně jakoby šířit
+ty data
+a v úzovkách ty reporty, bych to není o šíření těch
+reportů, ale o tom dostat k těm lidem
+tu informaci, jakoby nebo tu
+znalost, tak to se nám začalo
+dařit líp, určitě nám k tomu pomohlo,
+právě i to tablo, který máme
+a obecně ten nějaký mindset
+a snažíme se s těma lidma jako hodně mluvit
+a je to spíš tak, že my fungujeme centralizovaně,
+jsme právě
+zase zní v tom commercialu, ale zároveň
+je to tak, že my máme
+v tom týmu, byť ze začátku
+ty lidi byli trošku takoví generalisti, to znamená
+každý uměl takový full stack,
+uměl skoro všechno, tak by se
+dalo říct, že dneska máme lidi, kteří se věnují spíš třeba
+marketingovým věcem, máme
+lidi, kteří se věnují
+více produktovým věcem a pak
+jsou lidi, kteří se věnují víc třeba
+dejme tomu těm commercial věcem, rozumějí víc
+jak se třeba generuje
+to revenue,
+jaký tam jsou, protože ty metriky
+a věci, které tam jsou, tak
+jsou trošku jině, než třeba ty, které
+jsou z toho uživatelského digitálního světa.
+Takže máme v podstatě
+lidi, kteří rozumí určitým doménám,
+můžeme říkat jako domény, jako domain leaders
+a zároveň vlastně víme, že na druhé straně
+třeba v marketingu nebo v tom
+produktu je zase člověk, s kterým
+se tady ten daný člověk může bavit a já
+ideálně se snažím vytvořit ty komunikační
+linky právě tak, aby to nebylo
+tak, že všichni píšou mě
+nebo mým team leadroom
+nebo těm team leadroom ještě
+když píšou, tak je to relativně dobrý, když je to ta
+oblast, kterou s nima řešejí.
+Ale samozřejmě historicky, když jste někde na něco první
+a
+dlouho jste tam na tu dobu sám
+až jsem byl až do roku 2015, 2018 myslím
+co přišel zde někde jinak
+tak jsou lidi zvyklí
+se všim psát vám
+a vy pak musíte ty věci, takže
+je dost těžký ty lidi naučit
+dobrý, ale napiš tomuhle
+napiš támhle tomu, ty lidi se to
+buď naučej, anebo pak samozřejmě máte
+nějaký nástroje, typu my používáme ClickUp
+a tak nám to sem hodí, nám nějaký
+data request, my se na to prostě podíváme
+nebo samozřejmě vám to typicky píšou
+na Slack, mně je někdy lepší, než
+protože zase nemáme těch požadavků stovky za den
+tak je někdy lepší
+to na tom Slacku prostě třeba vzistit
+s tím člověkem se třeba pobavit
+a ten jakoby request
+nebo ten task si vytvořit sám
+protože člověk už nějakým způsobem přede
+nějakým pinkání tomu vytvořili mi task
+nepopsal se to dostatečně
+tak to popiš ještě doplnit
+a teď můžu uplynout x dní x týdnů
+klasický Girový zápas
+ano přesně něco takového
+jako nějaký Giro issue
+takže tady v tom je, preferuju spíš si to vykomunikovat
+na začátku, říct hele jako promiň
+na tohle stejně neuděláme třeba
+nebo naopak jo, ale to zjistíš tady
+a snažím se právě tomu, jako my fungujeme
+nebo snažíme se mít
+něco jako self-service
+ještě to taková jako
+se to jako hodně omílá
+ono co to jako ve skutečnosti znamená
+já nemyslím si, že bychom měli
+úplně v každém oddělení
+někoho nějaký takový ten jakoby
+jak se to říká, citizens analytics
+takový ty lidi, co nejsou jako
+kovaný analitici, ale zároveň tam tu
+analytiku jako dělají
+to si myslím, že je velmi jako
+složitý a možná je to dobrý
+realizovatelný u větších organizací, nebo když
+opravdu natrafíte na někoho, kdo
+je tomu nadšenej a prošel si tím
+je těžký lidi tady v tom jako měnit
+na druhou stranu se snažíme těm lidem dát
+ty nástroje a
+dát jim jakoby nějakou znalost
+a otevřít jim obecně ty data
+tak, aby to na co stačej
+si mohli jako zpracovávat sami
+a postupně jim trochu ukazovat tu cestu
+aby se mohli odbavit, protože jinak
+vlastně bychom všechno dělali my a to nechcem
+Jasný, jasný, to dáváme se
+Z hlediska těch dát
+s jakým vlastně druhem teda dát
+pracujete úplně se vším, pracujete s výsledkama
+pracujete s telemetrií, s mobilních
+aplikací, pracujete s business informacem
+a s trhu, nebo
+už si to nějakým způsobem jako předselektováváte
+že tenhle druh informací
+byť třeba by byl k dispozici
+tak ho vůbec neřešíte, jak to vlastně
+jakoby z tvýho pohledu
+s těma zdrojema dát
+Tak se sportovníma výsledkama
+téměř skoro nepracujeme
+co se týká těch biznesových analýz
+tam bych řekl, že to není vůbec
+naše doména
+byť se o to ochomitáme, to možná dopovím
+pak nakonec, ale
+my více méně pracujeme s tím
+máme asi
+tři nebo čtyři jako zdroje
+jeden z nich, ten největší
+je to, co nám
+vygenerují ty aplikace
+respektive ty, ať už mobilní
+nebo ty desktopový, to znamená chování těch
+daných uživatelů a to, jak je nastavený ten tracking
+to, co si prostě naměříme
+to je jako nejhlavnější zdroj
+zároveň, ale tím, že jsme globální
+a ty weby
+nebo ty aplikace, tak dost často
+jsou v různých jazycích
+a to, co vám tam teče, tak má
+třeba nějaký jazykový parametry
+to znamená, my si v pozadí samozřejmě ideálně posíláme
+nějaký IDčka toho, že ten uživatel
+stívil zápas Premier League
+a že byl Manchester s Chelsea třeba
+a já vím, že to je nějaký IDčko
+Y, že to přiřazený nějakému tournamentu
+to my si zase natahujeme interně z nějaký
+sportovní databáze, ten DataCore
+a tam si to potom pálujem
+takže já zároveň vím, v tom DataCoru
+vím, kdy ten zápas začal, kdy skončil
+a můžu se v pohodě
+podívat na to, jestli ta aktivita toho
+uživatele, ten timestamp
+je v této části, jestli probíhal
+před zápasem, během zápasu
+nebo po zápase, ono je to velmi důležité
+z hlediska toho, že
+podle toho pracujete s kontentem
+který tam máte, protože nějaký
+kontent se vám vyplatí vyrábět před
+zápasem, nějaký kontent tam vyráběte během
+zápasu a nějaký po a řešíte, jestli
+vlastně má cenu
+co má být kdy a jestli má něco tam
+zůstávat pořád, něco mizet, prostě nějakým
+způsobem pracujete s tím obsahem
+to, co vám vlastně říkají ty data a zároveň
+ty výzkumy
+a řešíte i v jakém stavu je ten zápas
+jestli třeba ten člověk byl fanoušek
+řekněme Sparty, teďka prohrával je 2-0
+tak on tam začal prostě vstekle, jako pobíhat
+mezi kurzama a to, to tam neřešíte
+ne, to je hodně jako deep analýza vlastně
+a já nikdy nevím, jestli ty lidi jsou fanoušci nebo ne
+protože máme hodně lidí, který
+nejsou vyloženě fanoušci
+nějakého
+konkrétního týmu, nebo oni můžou být
+ale oni vám to neprozradí o sobě, protože oni
+si můžou přidat do nějakých, my máme něco
+jako MyTeams, sledujete nějaké moje týmy
+ale zároveň vlastně
+to mi může napovedět, že by to mohlo být
+fanoušek toho týmu, ale zároveň
+se to dá použít i na to, že ten tým prostě na ně
+třeba sázíte, my pak máme
+nějaký MyGames, jestli přidáte jako ten zápas, což
+víc indikuje to, že ten člověk ho sleduje
+z nějakého důvodu, buď si
+na něj sadil, nebo ho to nějakým
+způsobem zajímá, nevím, možná tam hraje ho
+známej, co já vím, to může být
+xx různých důvodů, máme zase nějaký
+výzkumy na to, kde zjišťujeme
+v jakých případech to ty lidi dělají
+snažíme se podle toho pak tu featureu
+s ním nějakým způsobem
+pracovat, takže vlastně
+do takového detailu nejdeme
+byť je pravda, že jsme si třeba
+dělali ad hoc analýzu typu
+tenkrát toho, jestli
+to, co se děje v tom zápase, ty incidenty
+to znamená, když se řeknu, čím víc padne
+gólu, žlutej karet, červený
+karty, se tam dějou věci, protože občas
+tam máme i třeba nějaké highlighty, které jsou s tím
+spojené, tak
+jestli ty lidi to tam vede do toho
+zápasu, takže jsme se třeba koukali na to,
+hele, tady byl v xy čase incident
+tak a ten trefik si se zvedal
+a nějaká samozřejmě korola, co tam byla
+ono pak bylo vidět, že i ty nejnevštěvovanější zápasy
+většinou byly, když byl souběh
+nějakých událostí, typu
+támhle osmi finále ligy mistrů
+a skončilo to
+prostě někde 3-3
+nebo Ronaldo Alhiterik prostě, nebo 4-3
+v prodloužení, jo, prostě úplně nějaký bláznivý zápas,
+který šel do prodloužení, takže typicky
+takový ten zápas, co byl v finále mistrovství
+světa, Francia a Argentínia
+by normálně nejsledovanější nebyl,
+protože na to finále si každý udělá dost času
+a lidi si sednou k tý telce
+a nepotřebovat tu aplikaci, jo, to je
+jakoby rozdíl, bytí používají
+možná jako doprovodnou, typu na
+nějaký statistiky, na
+nějaký,
+nevím, kdo zrovna hraje, nebo kdo je
+na střídejce, jestli už vystřídal, protože ne, všechno
+chytnete v tý televizi, člověk si odskočí, jako doplňkovej
+zdroj informací, no, oni na vás nepočkají, že jo, v tý televizi,
+ale já si odskočím, tak
+a
+takže jakoby tam se to dá,
+tyhle zápasy bývají jakoby
+ne nejsledovanější,
+ale když se to zvrhne právě v tom, že to je pak jako až
+na penalty 4-3, tak se stávají hodně jako
+sledovanýma.
+A vlastně
+přemýšlím, ta otázka zněla...
+To byly ty různý zdroje.
+No ne, takhle hluboko nejdem, jo, takhle hluboko
+to je, mohli bychom,
+ale nedává to z hlediska biznesu
+vlastně žádný smysl, protože my to potřebujeme říct
+jako globálně. Takže jestli tam je zrovna
+fanoušek nějakého konkrétního týmu,
+byl nespokojený a
+může mi to být líto, ale nic s tím úplně neudělám.
+Takže ty si natáhneš, to jak jsi říkal,
+to si natáhneš jako externí zdroj teda z těch
+z těch tournamentů, teda ty informace, který
+potřebuješ, jestli to je před, uprostřed
+nebo po zápase a pak teda ještě
+nějaký další ty datový zdroje nebo
+další druhy dat, se kterýma pracujete.
+To byla vlastně ta původní otázka.
+No, no, no, pak máme vlastně data
+o chování těch uživatelů, potom
+jsou to ty interní data, jakoby ty metadata
+k těm daným zápasům
+a pak jsou to data typu
+záleží, co zrovna jako řešíme,
+ale třeba data o revenue, který vlastně
+se nám generují právě třeba u těch
+u těch třeba
+sásků nebo u těch incidentů,
+z různých systémů nebo z různých reklamních systémů,
+který tam jsou, tak se taháme
+prostě data a snažíme se to všechno jakoby
+nějakým způsobem spojit, potom
+máme nějaký data, ale jsou třeba z těch
+storů, jo, z App Storeu
+nebo Google Play Storeu, typu o downloadech
+aplikací, o nějakých
+ratingách, jsou tam data o nějakých
+jako fanelech toho typu, kolik lidí třeba vidělo
+vaší aplikaci, jakoby v nějakém detailu,
+kolik lidí pak nainstaloval, kolik lidí
+opustilo, jo, takže to jsou,
+to je další typ jako dat, který tam
+může bejt. A tohle všechno končí u vás
+prostě v jednom roku? Tohle všechno končí u nás v tom
+warehouseu, v tom BigQuery, víceméně
+my se snažíme vlastně slate ze všech
+těch zdrojů různýma
+nástrojema, používáme
+nějaký data integrační jako platformy.
+Tak to možná, pojďme to vzít postupně,
+my jsme se toho hodně jako dotkli, takže v podstatě
+datový zdroje, tak chápu, že hlavním
+datovým zdrojem je aplikace, pak tam
+budou nějaký další věci
+a pojď nám popsat tu pipelineu,
+jak se teda ty data potom
+vůbec v té
+pipeline chovají, jak to tam funguje dál.
+Takže vlastně všechno
+se snažíme slate do toho
+BigQuery, z různých datových
+zdrojů. Asi bych teďka nevyjmenoval úplně všechny,
+na některý bych dokonce určitě zapomněl,
+ale používáme,
+máme Datadu
+nebo Datadu, což je český
+startup, když jsme měli
+nějaký Fivetran, který
+trošku zdražil pricing, tak jsme od ní odešli.
+Ten nám právě pomáhá
+natahovat data z ostatních datových
+zdrojů, které nejsou právě
+aplikace, nebo
+nejsou nějak,
+že by měli v rámci Google nějaký konektor,
+typu třeba ten Google Play,
+má v rámci Google nějakou nativní
+funkci, kdy vám to vysype přímo do té
+databáze, ale většina těch věcí stojí mimo,
+takže musíme mít buď
+přes nějaké restupy,
+nebo
+pokud tyhle nástroje, typu to Datadu,
+mají přímo konektor třeba do nějaké té interní
+MySQL databáze, tak se tam
+vlastně jenom přes nějaký reverzní SSH
+protunelujeme, natáhneme data, data se
+uložíme prostě k nám a
+takhle nám to hezky vlastně teče.
+Nesnažíme se ty data nevždycky
+úplně zrcadlit, protože by to bylo zbytečně
+jako drahý, některý data jsou,
+bych řekl, že to je mix ETL a ELT,
+některý data prostě transformujeme, než je
+naloudujeme, některý data naloudujeme a
+transformujeme až potom
+a to nám končí, většina těch věcí
+skončí buď nějaký cloud storage, anebo v BigQuery,
+pokud skončí
+v cloud storage, jak stejně, pak skončí většinou v BigQuery
+v té databázi, což bych řekl jako
+výhradní,
+více měně, no asi 99%
+všeho se odehrává tam, nad tím
+celý to vlastně orchestrujem.
+První
+část, ty
+pipeliny orchestrujeme
+pomocí Airflow,
+což ale my máme zabaleno v Google
+Cloud Composeru, což je vlastně nástroj,
+ono je to vlastně Airflow, akorát
+jako Google servisa,
+kterou si vlastně na
+kvůzovkách nakliknutí zaplatíte,
+zapnete, fungujete, že nemusíte
+úplně dělně šit DevOps,
+což je jedna z věcí
+taková
+nejlepší, nejlepší, nejlepší, nejlepší, nejlepší, nejlepší,
+nechci říct, že mantra u nás, ale my nechceme
+úplně šit DevOps, chceme ty věci
+jako provozovat, takže ideálně serverless,
+prostě moc se o to nestarat,
+což ne, vždycky prostě platí.
+A tam nám běží nějaký Airflow,
+který zpracovává ten začátek tý pipeliny,
+a protože se tam
+byl problém, že se vlastně
+my jsme museli skonceldovat asi
+100 různých BigQuery tabulek
+právě jako do jedný obrovský, která měla
+asi nevím, půl bilionu jako řádku,
+a
+asi 500 tera, a
+tam je nějaký jako základ
+očištěný,
+o ten vlastně,
+jsou tam už nějaké agregace.
+Ale zároveň ne je tolik, v podstatě skoro
+žádný, spíš to očištění o nějakých informacích, s kterými
+vůbec jako nepracujeme,
+a zároveň vlastně tady pak přichází
+na řadu, možná všichni znáte
+DBT, tak to nepoužíváme,
+my máme
+Dataform, což je firma,
+která je trošku jako, bych řekl,
+nebo byla konkurenční, DBT,
+byť funguje trošku jinak,
+a
+Google ji na konci roku 2020
+koupil,
+a v tuhle chvíli Dataform
+nebo Dataform je součástí
+BigQuery jako
+orchestrační
+a zároveň věc, kterou se dá ta pipeline
+nějakým způsobem řídit, vidíte tam tu
+data lineage, kudy ty tečou,
+dá se tam konfigurovat ta pipeline,
+takže my vlastně
+přes tohleto nějakým způsobem tam máme
+napsané ty transformace,
+x různých
+desítky, stovky, možná tisíc nějakých
+transformací,
+asi tisíce, nevím,
+možná nakonec,
+spíš možná stovky, které nějakým způsobem
+probublávají z určitýho účelu,
+prostě
+určitý uživatelský pohledy
+a tak dále, to bych velmi
+komplexní a ne do všeho už dneska vidím,
+co se tam všechno odehrává,
+a to na konci končí
+zase BigQuery, protože to je
+rychlá analitická databáza a my pořád
+máme těch dat fakt hodně, protože my máme
+zhruba 100 milionů uživatelů každý měsíc
+a
+když si představíte, že 100 milionů uživatelů
+v měsíční datách, když máte jich
+daily data, kdy ten uživatel
+si v průměru 5-6 zápasů
+otevře ještě dělat další akce,
+tak se dostáváte do nějakých miliard řádků
+a to prostě nedáte do nějakýma SQL tabulky,
+abyste na těm prostě pustili query, to znamená,
+že typicky to funguje tak,
+že máme na konci
+BigQuery tabulku, která vlastně
+to SQL-ko celkem rychle, když
+by to neměl nějaký komplikovaný
+nebo velmi komplexní dotaz, tak funguje celkem jako v řádu
+sekund, ale
+stejně děláme to, že
+my máme na konci tabloserver
+a většinu těch věcí
+uděláme tak, že tím tabloserverem
+se v pouzovkách
+dotážeme do té
+BigQuery databáze a vytvoří se
+hyper, což je vlastně
+soubor,
+do kterého si vlastně
+teď možná by pak někdo
+jako opravil, že ale v pouzovkách
+se ty data zkompilujou do formátu, s kterým
+se tomu tablu pracuje líp, že
+tablo buď může pracovat jako live nebo extract.
+Live znamená, že se přímo dotazujete
+do té BigQuery databáze,
+což má svoje specifika v tom, že když
+si pak nastavíte
+nějaký report a má hodně filtrů a hodně věcí
+a vy za každý query platíte, to je důležité,
+že BigQuery stojí do jeden terabajt
+to query,
+který děláte, do jednoho terabajtu, to jsou i pět dolarů.
+A rozdílní filtry a řazení,
+to je prostě čistý dotaz, to není nakasovaný,
+takže to děláte znova.
+A když byste už od trůn tohleto dali a měli pod tím
+velký data, tak cenovka může být
+velmi zajímavá. Takže je potřeba
+pro nás ideální u velkých dat uděláme to, že dáme
+extract, ten extract se
+prostě natáhne, ten extract má nějaký schedule,
+to znamená se refrešné,
+to je jedno, denně, měsíčně,
+týdně, hodinu, podle toho, co to je za data.
+Takže pro nedataře to je tak jako datovej zip,
+kde ty data jsou uloženy.
+Více méně datovej zip, nebo takový
+speciální datovej format, který
+je ideální pro to tablo a že
+prostě z x terabajtů se vám stane
+třeba gigabajt, nebo dva gigabajty
+a to tablo nad tím, když ho pak
+na tom servu máte, tak se dotazuje, trvá to
+chvilku. A taky může být
+je tam docela
+challenge v tom dělat
+kvůli performance optimalizaci,
+zase tam nemůže být všechno. Takže pak se s těma uživatelema bavíte,
+ale jako fakt potřebujete ještě data z dva dvacet?
+Jako nestačí vám poslední pár měsíců?
+Jak se nad tím rozhodujete? Mně to potřebuje oříznout, protože
+ten šíc se nám prostě
+loaduje. Ono to tablo funguje ještě tak,
+že zároveň, ty když půjdeš do nějakého
+reportu a ten
+report si natáhneš a půjde někdo další,
+tak už ho bude mít jako rychlejší, protože
+ty data budou předcašovaný
+a budou víc fresh, takže
+se to víc předcašuje. Takže pak je typický problém,
+že se mi třeba CPU stěžoval, že
+hele, já tady prostě každý pátek večer nebo v noci
+dělám nějaký si report
+a čím to může být, nikdo tam není, ale na to právě naopak.
+Jo, jo, jo. Jakože ten server
+to technologicky postavíte pod tím nějaký virtuální
+mašiny a to je právě ve chvíli, kdy my
+ten DevOps musíme dělat, protože to tablo server
+my nemáme jako software as a service
+typicky, ale máme to
+provozujeme si to sami,
+pomáháme si externě,
+máme jakého DevOpsáka externího,
+který nám s tím pomáhá
+a
+takže pod tím ty virtuální mašiny to rozchodíte,
+jako vy to utáhnete ten výkon, když tam přijde těch 100 lidí,
+kteří to máme. Problém je ve chvíli právě,
+kdy tam nikdo není. Tak ono to má
+tendenci jako být takový jako úspaný
+a ty prostředky
+jako sice hardwareových to má
+hodně, ale zároveň vlastně někdo první
+ten den musí... Někdo to musí prostě zagřát, no.
+Zagřát tu query udělat, což ten člověk jako
+mu to nevysvětlí, to prostě jako tam
+saháška, ale bacha, jseš tady
+sám už dlouho, takže...
+Nebo dlouho na tohle nikdo nekoukal, takže ty data nejsou
+natažený. A ono samozřejmě kvůli nějaký pamětě
+tak má tu nějakou omezenou rámku,
+tak ty data nemůžou být natažený prostě jako všechno, no.
+To by bylo nějakýho robota, který by to zahřál,
+jeď jako ještě předtím... A tak tohle je takový jako
+standardní problém u obecně serverless,
+že jo, že tím, že ono to vlastně
+má správně škálovat do nuly, aby si teda
+za to neplatil, tak samozřejmě ten první člověk
+má ty cold starty a tam si to právě řeší buď,
+že jednou za čas vystřelíš nějaký request,
+tady to teda jako předto, ale zase za něj
+platíš, takže je to zase trade-off,
+anebo prostě to řekneš tomu prvnímu,
+hele, musíš, někdo to musí odníst, no.
+To je stejně jako, když prostě netrefíš cash,
+tak vždycky někdo, a hrozně blbě se ho testuje,
+protože říkáš, ukáž, on to refrešne
+a všechno to má za vteřinu, že? Takže
+to je standard, no, v tomhle.
+To je zajímavý topik. A ještě mě napadlo, když jsi mluvil,
+máte,
+streamujete nějaký data, respektive používáte
+jako streamovaný data na
+nějaký use case, protože tak, jak já se v tom
+datovém světě bavím s lidma, tak
+dost často vlastně dojdeme k tomu,
+že ono těch use case není
+tolik, jak by se mohlo zdát, samozřejmě
+je to extrémně dražší, protože
+je potřeba použít jiný technologie. Jak je to u vás?
+Hele, co se týká BI,
+tak víceméně skoro ne.
+Máme tam jeden, dva case, kdy
+zase ty GAčka
+umějí nějaký jakýsi real time,
+ale on to není real time, ve skutečnosti
+to je hodně jako nýr, real time,
+export do
+Adobe Query, tam je nějaký spožitní řadu do konce minut.
+Není to tak,
+jako by to mohly na produkci, že by někdo
+kliknul sem a mění sem jeho produktový
+stav. To bych asi hodně koukal.
+Ale to spíš je real time toho typu,
+hele, vidím tady nějaký biznesový data, co se mě děje
+na tom produktu. Byť je docela dobrý říct,
+že ty GAčka mají jako vadu v tom,
+v tom exportu, že tam je delay 72 hodin.
+Oni totiž, jakoby,
+když se s devicem odpojíte,
+tak ten device musí být v běči. Je to kvůli
+vlastně ochraně toho uživatele,
+jakoby, aby mu to nevybil baterku,
+a tak dál. Takže vlastně,
+tak jak to z desktopu vlastně proudí
+v hůzovkách s týmem do těch dát,
+tak co tam děláte, tak vlastně
+v telefonu se to ukládá, ta aktivita,
+a odešle se jednou za čas.
+A Google tam nějaký preprocessing,
+a deprocessing, a tak dál.
+Takže se vám děje to, že vy máte
+nějaký intraday data, který vlastně,
+já když půjdu do dnešních
+dát, tak tam uvidím nějaký aktuální
+trafik,
+pak půjdu do včerejších, a toho trafiku tam bude
+nakonec třeba 90%,
+do předevších bude třeba 98%,
+a pak bude třeba 100%, on už pak zjistil,
+jestli se nedopočítává. Je to i v tý dokumentaci napsaný,
+oni to nějakým zpracovávají a zjišťují
+vlastně, který data, nevím, jestli tam ještě nějaký
+procesní typu, hele, tohle je nějaký robot, nebo nějaká
+blbost, tak tu zahodím.
+Takže vlastně problém je ten,
+když vlastně přijde někdo z vedení, nebo
+kdo chce ty data v pondělí, hele, jak to vypadalo
+o víkendu, a říkám, no. Počkej.
+No, jako to je trošku problém, protože vlastně my ty data
+nemáme, nebo jako mohli bychom je dát,
+v těch tabulkách jsou, ale
+může se stát, že, a taky se nám
+to stalo, když jsme na to pak koukali,
+že za dva, tři dny tam bude o 20-30% jako
+víc, v některých těch, a říkám,
+hele, to je dost, jako, kdyby to byly dvě, tři procenta,
+tak to zahodím a kašlu na to.
+Takže vlastně tohle je trošku
+problém toho,
+takže my klasicky s real-timem úplně
+nepracujeme, máme tam něco,
+máme takovou pipeline, která nám
+dělá takový pro news články
+nejčtenější za poslední 8 až
+40 hodin, tak tam to v rámci nějakých hodin
+zpracováváme, to či někde jako vedle, ale takový
+malinký case.
+A na produkci,
+asi jako kluci na tom produktu
+něco real-timem jako jedou, ale my jako
+v těch datech úplně ne. My totiž jako
+upřímně, i kdybychom ty data měli,
+tak jako nemáme, jako
+já jsem si říkal, kdo by s tím co jako udělal,
+jo, jako, jaký decision by tady padl,
+my nejsme Fuse of Kine Netflix,
+jo, jako, my tomu říkáme, možná zajímavě,
+já říkám, že nejsme data-driven,
+ale já to nemyslím tak, že bychom
+nepoužívali data. Já data-driven vidím tak, že
+je to spíš takový víc automat,
+který se říjí těma datama, typu,
+hele, tady jsem si zaklikal,
+pardon, tady jsem si zaklikal
+nějaký věci, nevím, dal jsem
+like nějakýmu filmu, dal jsem tohleto,
+a podle toho mi to začíná doporučovat
+další věci, a nějak to jako funguje.
+Na tom produktu jsme
+pár takových věcí měli, nějaký doporučení
+jako oblíbených týmů, na českém to bylo dole,
+když se na profilu třeba tý Sparty, tak dole
+vám to ukazuje ještě další možný ty.
+A nenabízí to slávy, doufám.
+No, jako nenabízí, což byl právě
+filozofický problém, protože
+ten recommendation engine pod tím samozřejmě
+tohle je těžký jako vyloučit.
+Teda takový animosity, tady tyhle ty věci, takže
+což samozřejmě, když bych říkal,
+ty vole, to se fanouši Sparty zbláznějí, ty vole, tam uvidí
+prostě nějakou slávy, to nikdo vidět nechce.
+No ale tak dej nikomu z Barcelony,
+jestli nechce sledovat Real Madrid.
+No takže tohle je hodně jako složitý problém,
+takže jako, oni jsme se pokoušeli,
+myslím se, že, ale je to něco, co jako chceme do toho
+produktu dávat, chceme tady tu jakoby
+v pouzovkách realitém automatiku
+dělat na základě třeba toho, jak se ty lidi
+jako chovají, ale je to spíš
+hluba budoucnosti, přece jenom ten produkt je
+stavěný už 16-17 let,
+ono si to nese svý nějaký,
+bych řekl jako,
+nějaký odkaz toho, co s tím
+všechno můžete dneska dělat, kdyby se to začalo někdo stavit
+dneska, nebo před rokem,
+tak samozřejmě těch možností
+technologických je trošku jinýho,
+že vlastně je to velmi robustní
+a vím, že dost často řešíme
+nějaký refaktoring toho, aby jsme právě byli
+agilnější,
+abychom ty věci mohli dělat jako
+rychlejc a v pouzovkách
+líp nebo víc
+jako experimentovat, takže real time
+case my moc, co se týká BI
+aktuálně neřešíme,
+krom toho, že mám, jo jeden je zajímavý
+a to je vlastně to, že máme
+do Slackovýho kanálu napojený
+rejtingy,
+který dostáváme v aplikacích nebo reviews,
+abych byl přesnej, reviews to znamená ty slovní
+hodnocení, které se tam odhrávají
+a v případě, že na tom trhu dostaneme někde
+tři vizičky a níž,
+tak jakmile se to objeví v tom storu,
+tak nám to přes takový jeden
+tool prostě chodí do Slacku, kde
+jsou prostě lidi, který mají na starosti ty
+product ownery a vývojáři
+tý daný platformy a sledujou
+to, jestli právě náhodou, když je podlí
+jsou apky, jestli náhodou nedochází
+k nějakým problémům. Takže pár takových drobných tam
+máme, ale jsou to spíš typicky věci typu
+na nějaký monitoring.
+Tak ještě jsme se nedotkli AI,
+což samozřejmě v dnešní době to je prostě
+trestu hodný. Takže
+zajímalo by mě, jak
+k tomu přistupujete vy,
+jako firma, tak samozřejmě od
+novembra 22,
+teď mi tady, omlouvám se, hodinky říkají, že si mám stoupnout,
+co to nebudu dělat.
+To se necháš takhle buzerovat tím AI.
+V občas, v občas, jo. Ono je to
+hrozně kontrolované, musím s tím něco dělat.
+A právě, přesně, krásný příklad, taky jak
+buzeruje nebo buzerujete vy AI, jak s tím
+pracujete? No,
+zajímavý dotaz, a jsem rád, že padnul.
+Já vlastně, jakoby,
+vnímám teďka ten hype kolem toho AI,
+který vzniknul
+za posledních tři čtvrtě roku, nebo možná
+rok. Je to vlastně zvláštní,
+protože, jak bych řekl, my lidi, co se věnujeme
+jako datům a kolem, tak vlastně
+já myslím, že teď je to daný těma nějakýma
+generativními, nebo jak jsem říkal,
+těma velkými jazykovými modelmi, tím generativ AI.
+Tam vidím tu změnu.
+Na druhou stranu,
+já jsem si už v roce 2020 dělal nějaký
+kurs na AI, o takový...
+Teď je to dostupné i v češtině,
+nevím, jak se to přesně jmenuje,
+v nějakém finckém univerzitě.
+Takový hodně jako... A je to doporučovaný
+ideálně pro střední školy. On je takový hodně jako...
+Pak možná jim někdy pošlu třeba link.
+Tak to fakt je docela zajímavý.
+Myslím, že je to pro širokou vyřejnost. Vůbec jak chápat,
+co to ta AI je, jak fungují
+nějaké neuronky a hodně
+zrychlíků. Ale já to vlastně vnímám přes
+nějaký machine learning a tady ty
+statistické úlohy, které vlastně
+se v těch datech používají.
+Typicky nějaký
+lineární
+regrese a tak dále. Takže vlastně
+pro mě AI už je jako tohleto.
+Myslím si, že pro většinu lidí dneska to vnímají
+právě přes nějaký chat GPT,
+což samozřejmě je
+trochu změnává. Co se týká
+AI jako už to
+machine learningový úloh a to je
+podnožiny toho, tak to je něco,
+s čím už se potýkáme, nebo
+s čím si nějakým způsobem hrajeme dlouhodobě.
+Byť ne nějak extra,
+ale občas jsem si zkoušel
+nějaký klasterizace a tak dále. Občas s tím pracujeme.
+Není nějak
+pokročilé, řekl bych.
+Co se týká toho
+generative AI, tak
+my vlastně, já jako
+nedá mi to, abych nepřemýšlel
+nad tím, jak to vlastně využít, protože
+v současné době, já nevím
+jak je to u vás, ale když my
+vlastně jsme vždycky se snažili někoho
+nahajrovat, nebo
+obecně, když jsme ještě v tom oddělení
+nějak rostlo, tak najít vždycky někoho
+nebylo úplně jednoduchý.
+A dokonce někoho schopnýho, jako myslím.
+Až takhle by stočilo.
+Najít někoho vždycky se dalo.
+To je pravda.
+Ale musím říct,
+že je pravda, jako dali jsme inzerát, který mě
+to je super zajímavý. Prostě jeden inzerát,
+druhej, třetí, říkám to, jako kde je těch
+30-40 inzerátů, jako před 15 lety
+po krizi 2.8, kdy
+přišlo 300 inzerátů na pozici třeba.
+No, tak vlastně
+přemýšlíme, já přemýšlím o jaké automatizaci.
+Já jsem říkal, to vždycky říká
+můj, jako by,
+šéf Lukáš Raška, který je jako CCO,
+tak vždycky říká, ale oni jako
+přidáním dalších pruhů, což nějaký
+ten případ, nevím jestli z LA nebo
+odkaď, tak měli asi
+tři pruhy a přidali jich jako dalších pět
+a ta dálnice byla ještě víc ucpaná.
+Nevím, jestli to teďka zaznamenali v Egiptě, když
+postavili úplně tu super dálnici, která byla
+kolem pláže a nikdo moc nejezdil
+a teď to ucpali, protože všichni
+zaměli. Takže vlastně
+já nevěřím úplně tomu, že čím
+víc lidí budeme mít, tím líp to budeme
+dělat. Možná, že odbavíme
+víc requestů, ale nevěřím tomu, že
+budeme, tam samozřejmě
+nějaká hranice, nemůžeme to dělat se v jednom,
+ale věřím tomu
+nějakou automatizaci a
+věřím tomu, že tady to nám může
+pomoct. Já si nemyslím to, že by to
+mělo nahradit ty lidi úplně.
+Spíš si myslím, že to vytvoří
+typ, lidi budou dělat trošku
+něco jiného, ustaní to práci,
+myslím si, že třeba vývojářům to může ustanit strašně
+moc práci, časem v tom, že spíš budete,
+lidi budou víc jako architekti,
+typu, víc budete stavět
+z těch jednotových
+prostě částí komponentů prostě skládat dohromady,
+jako typu, dokážte si představit,
+že mi to udělá review kodu,
+nebo že mi to poradí, prostě, hele,
+generuj mi kód, nevím, v Pythonu,
+v Erku na to, jak prostě třeba dělat
+clustering. A já prostě mám aspoň
+nějaký třeba, někdy můžu začít, jako nemusím začít
+na from scratch, všechno začít psát, když jsem
+šel na Stack Overflow.
+Tam jsem to hledal, ale tam bylo x případů
+a tady věřím, že, ano, má to svoje chyby,
+tím bych se teď nezabýval, ale věřím tomu,
+že mi to řekne, hele, tohle je asi ta nejpoužívanější,
+jako best practice,
+která se tady v tom používá, tak to použijí.
+Typicky věřím tomu, že mi to může generovat dokumentaci,
+typicky věřím tomu, že třeba
+teďka řešíme to, máme jeden
+case a to je to, k čemu jsem se chtěl pak
+vrátit k těm úlohám, kdy
+chat GPT používáme, to je
+my generujeme
+před zápasem možná někdy čteš takový, jsou tam
+previews, co mu říkáme, tak
+máme pro některý soutěže dneska už,
+je to generovaný ze sportovních dat,
+že to nepíšou lidi, ale je to
+prostě generovaný na základě sportovních dat
+a nějakých předpřipravených, jako
+jsou nějaký předpřipravený, jako
+texty, věty a tak dál, s kterým se vlastně ten
+chat GPT nebo vlastně
+ten LLM poradí a udělá
+z toho vlastně, jakoby
+nakonec, jakoby ten příběh v úzovkách,
+toto preview. Takový ten čapoun
+před zápasem prostě. No, no, no. Přesně tak,
+on to nevigin, není to tak, že bys mu dali, hele, tady máš jedna nula
+a vygeneruj. To je velmi, nebo
+sportovní výsledky, ono je to těžký, jakoby
+to, ten model naučit. To je super,
+karoche ze servisu.
+Karoche ze servisu, to je,
+tam se možná lidi vypnuli, ty jo.
+Ale, ale věřím tomu,
+že, kde to třeba může pomáhat,
+je v tom, že my máme třeba, nevím, nějaký
+uživatelský feedback, který sbíráme.
+Jsou to reviewčka typicky.
+Nějaká může to kategorizovat, nějaký
+strukturovaný nebo semi-strukturovaný data.
+Jo, že to může říct.
+Typicky, teď jsem si udělal
+nějakou analýzu, koukal jsem na naše
+konkurenty a
+koukám na, stáhnul jsem se
+prostě z LinkedInu, přesil s Navigator,
+prostě, kdo tam všechno dělá,
+jaké tam jsou prostě datový pozice a říkám si,
+že to je, co pé si návez,
+prostě to je datových pozic,
+co z každého si vymyslel lidi názvy.
+A tak trošku teďka si hraju
+jako s, buď s Bardem, nebo s těm
+GP, kdy říkám, hle, zkus mi to zkategorizovat.
+Jako všechny ty zaměstnance, a fakt
+je to umít celkem dobře, že
+někdy bych se mohl bavit
+o těch indiancích, ale ono nakonec je to i v reálném světě.
+Jo, typu tam byl, typu nějaký
+jako fraud analyst, nebo media buyer.
+A říkám, jako v kterým oddělení vlastně má se jít.
+Je to commercial, je to marketing, všude je to
+prostě jinak. Takže ten GPT vám v tom možná
+pomůže, že nemá takový bajas.
+Jako vy, že vlastně u nás ve firmě sedí tady,
+tak musí být v marketingu. A on možná má
+těch informací víc. Tak řekl mi, hle, typicky
+ta pozice spíš sedí tady. A že vám to
+jako zkategorizuje. Že umí
+takovýhle prostě věci, který, jasně
+já to můžu přejít, tak tomu šítu si můžu sednout
+a těch prostě pětisíc lidí tam takhle prostě
+různě, jo, nebo těch položek
+prostě naklikat. A
+věřím tomu,
+že to může dělat i nějakou...
+Včera jsem zrovna koukal na
+tablu, měl nějaký webinář.
+Oni implementují chat GPT
+a je tam velmi zajímavý to,
+kam se s tím chtějí vlastně dostat.
+Ono to má dělat nějaký summary, má to dělat nějaký
+insighty z těch dát. A
+zároveň vlastně
+si tam s tím vlastně může ten člověk
+potom nakonec povídat.
+Že to vlastně může trošku říct jako i ty důvody,
+proč se některé věci jako staly.
+A to je to, kdy věřím, že nám to může
+hodně jako pomoct v tom self-service.
+Že ty lidi
+by vlastně teoreticky se neptali nás,
+ale někde do Slacku by se třeba
+zeptali, hele, prostě
+jaký jsou, nevím, byly nevštěvojnější třeba
+zápasy, protože typické lidi třeba z PR
+tady to prostě používají pro nějaké kampaně třeba na socialu.
+Tak, hele, jaký byly nevštěvojnější zápasy,
+nebo co se dělo tehdy a tehdy,
+proč nám třeba klesl trafik,
+já nevím, tam je v gladě, ale to je trošku jako
+těžký naučit ten stroj.
+Ale věřím, že tady to může
+dělat, a kde nám to zároveň může pomáhat
+to AI, tak je v data quality.
+My už to dneska používáme částečně,
+protože máme
+BigQuery, BigQuery umí nějaký BigQuery ML,
+to znamená, má nějaký machine learningový
+říct modul, no to je jedno,
+prostě umí nějaký machine learning uvnitř,
+dá se tam psát vlastně jakoby
+to AI, teda v tomhle případě,
+a používáme třeba nějaký
+Arima model na detekci
+jako anomálí, o to se vlastně klucov nás
+jako snaží, tak to je jedna z takových
+jako úloh.
+Těch úloh je spousta,
+já vlastně, co teďka dělám, tak se snažím
+přemýšlet nad tím a hledat, jako
+koukat do toho světa, co by se kdy dalo.
+Mně se našel zajímavý tool, byť nefungoval dokonale,
+mě hrozně štve, když jsou mítingy,
+tak dělat jako by nějaký
+zápis. Našel jsem tool,
+který vlastně, vy jste ten míting
+jako nahráli, ono to dělal rekordy, on se připojil
+na ten Google Meet, my používáme jako googlovský věci
+a
+pak se jako podpojil na konci a poslal mi to
+prostě jako samary, věcí typu.
+Úplně super, jako na prd bylo
+to, když jsme všichni seděli v jedný místnosti.
+A on nevěděl, že to je z jednoho
+mikrofonu, že on nevěděl, kdo mluvil.
+Jenže když byl
+call,
+u toho mě podmínat sklo, byl call, kdy bylo připojených
+pět lidí a já seděl sám a on jednou řekl
+hele, tamhle Honza Vomáčka, tu jdu, tyvoj,
+řekl tohleto, má udělat
+tohleto, přihlásil se tam k tomu, tenhle
+dělá tohleto a já opravdu říkám, cože?
+Opravdu říkám, to je skvělý. No a pak jsem přesně
+zjistil, že to má ty limitace, typu jsme všichni v jedný místnosti
+a on vlastně neví, kdo je kdo.
+Jenom víš, že se tam něco odhrávalo
+a pak na nějaké věci zapomněl a říkám, tohle je
+třeba za mě cesta. V takových těch jako úlohách
+jako to není přidaná hodnota
+žádná. Tak tady bych hrozně se mi líbilo,
+kdyby něco prostě bylo, zorganizovalo mi to ještě
+čas a vyřešilo
+za mě to, rozdělilo úkoly
+a tak tohle
+mi připadá jako, že takhle nás
+to jako zasáhlo a já hledám to, kde nám to může pomoct
+tak, abychom by mohli věci
+dělat jako líp a
+byly prospešnější
+ty firmě. Ty to hrozně hezky popisuješ.
+Já, vlastně
+nevrůmky jsou tady 30 let, že jo, jakože reálně
+ono jako, ano,
+large language models, je to zásadní
+zvrat. Na druhou stranu
+já mám jenom pocit, že to marketingově
+pomohlo tomu trhu,
+protože teďka se těch AI toolů
+tak jak huby podeštějí a
+vlastně výsledkem je vždycky
+teď jsem to někde slyšel, komoditizace
+takzvaná, protože ty
+vymyslíš tady, teďka máš třeba
+meeting notes, že jo,
+nedej bože by si chtěl teďka se pustit do nějakého svýho
+toolu na základě těch technologií, které jsou
+v dispozici a ono to za týden někdo udělá, ty si to
+jenom koupíš a vlastně tě to vyjde levnějc,
+protože s tím nemusíš se prdět
+a máš to hotový, jo.
+A to mám pocit, že se teďka jako jede
+vlastně týden po týdnu jsou nový tooly, nový věci,
+které vlastně tobě budou zlepšovat
+jako head of BI
+ve firmě, která má produkt,
+tak se budou zlepšovat ty věci pro ty
+produktový firmy úplně mega.
+To je jako tam kámo je představáno.
+Já spíš čekám právě,
+co se jako stane, jo, nechci nějakou nic právě
+vyjet nad tím, spíš doufám v tom,
+že to někdo právě udělá.
+A my si to vlastně, buď ve finále,
+buď to bude někde v Google, tak to tam nakliknu
+jenom, anebo si to
+kompletně prostě od někoho koupím
+jako software, jo. Já vlastně
+nemám nějakou kapacitu na to, abychom
+ty věci úplně vyvíjeli,
+až tak dělali úplně jako takhle
+software pro nějakou
+dedikovanou úlohu, to se mi úplně nechce.
+Spíš potřebuješ někoho,
+kdo tomu na druhé straně rozumí, třeba z toho Google,
+kdo ti trošku poradí v tom, jak to
+prostě ty služby postavit,
+tu architekturu, protože samozřejmě oni to vydávají.
+Jako bylo velmi zajímavé to,
+že najednou bylo nic
+a najednou přišli OpenAI
+a do půl roku, nebo do třicetí roku
+najednou všechny další firmy
+Google Bard, jo, a tady to říkám,
+ale tak to je takový jasný, jako všichni
+to měli pod pokličkou, vyvíjeli to,
+jenom někdo byl prostě první, kdo s tím přišel na trh,
+protože mi neříkej, že za šest, sedm měsíců
+prostě řekl, ty vole, no tak to jsme
+to jsme zaspali, takže
+věřím tomu, že i Apple má někdy
+něco schovanýho,
+co možná
+bude, taky může být
+relativně zlou, anebo zaspali, já nevím,
+to člověk nikdo nevidí a on
+někdy překvapí, tak
+sám jsem jako zvědavej a
+snažím se spíš na to koukat, nepodlehat tomu
+hypu typu, protože když dneska
+člověk vidí, když infografiky
+asi to znáte, že ty firmy, které jsou
+vždycky na nějakém mikrotrhu, marketingových
+třeba software as a service,
+tak to je taková ta plachta těch log.
+Jo, jo, jo. 150 tisíc, říkám,
+to je firm, to je...
+A takže věřím tomu, že co se týká toho AI,
+já jsem odebíral nějaký newsletter, který jsem
+musel přestat odebírat, to bylo nějaký AI
+superhuman nebo tak nějak. A to bylo
+každý den, mi tam chodilo prostě typy na různý
+jako softary, všim říkám, ale ty mi jako pokoj,
+protože to bylo až... Tak to já odebírám pořád.
+Tady tam máš ale 180krát
+Midjourney, jinak ne, to je po každým
+jako něco jiného. Hele, jako dost se tooli
+opakovali, je to, jako jsou to zajímavé věci. Teďka
+znamená mi tam přistál tool, kde
+to dokáže perfektně naskenovat
+PDFko a takhle prostě já nevím,
+že třeba vezmu všechny CVčka mých lidí,
+nahradu tam ty CVčka a zeptám se,
+hele, kdo z nich umí tuto
+technologii. A teďka, když máš to lidí
+třeba v oddělení,
+jako tady nějaké takové oddělení máme,
+no tak to je super, že jo. Prostě potřebuješ rychle
+zjistit něco o nějakém člověku.
+Tak takovýhle tool vznikají
+jak houby po dešti. A to je miliarda věcí,
+které opravdu se komoditizujou
+a přesně jak ty říkáš,
+tak pak si je prostě koupíš, protože
+už jsou prostě udělaný a tobě už je třeba čas a peníze.
+No možná ty se z toho dotknul,
+ale chceš, že vlastně nechceš trávit čas,
+ani to nemáš kapacitu na tom, aby ses něco sám
+stavěl.
+V rámci tvýho týmu je to tak, že vy už většinu
+věcí jenom jako v úzovkách, řekněme,
+využíváte, nakupujete,
+konfigurujete, ale nemáte
+nějaký vlastní vývoj, nebo máte třeba nějaký
+malý oddělení, který vám dělá nějaký
+supportní tool i pro to, co vy potřebujete
+v rámci svý práce.
+Jak to máte v LifeSportu?
+No, řekl bych, že většinu
+věcí vlastně,
+jak říkám,
+zmínil jsem předtím nějaký SQL, co je vlastně
+náš hlavní jazyk,
+kde se to hodně odehrává,
+byť sem tam nějaký Python používáme.
+Na druhou stranu máme
+u nás, neřešit bych úplně tým,
+část toho týmu, která se věnuje
+vlastně, ještě zároveň stavíme
+nějaký interní, takový si datový produkt,
+typu, my tomu říkáme třeba sportovní kalendář,
+kde vyvíjíme, on to zároveň umí
+v tom tablu i zapisovat.
+Co se týká toho, že se snažíme dívat
+na to, jak vlastně vypadá
+třeba ten sportovní svět, nebo jaký sportovní
+eventy budou v tom daném roce,
+protože my vlastně podle toho se snažíme
+doměřit vliv
+toho, co se bude dít. U nás to vlastně určuje
+sportovní realita. Když byl COVID,
+trafik byl minimální, kdo chodil jenom tady
+větší blázni, který vlastně
+obrovskou udělali.
+Se hráli fakt jako bylo rusové,
+to jsem byl jediný, kdy byl nějaký sport.
+V určitých dnech, poprvé historicky se nám taky stalo,
+že jsme neměli jeden jedinej fotbalový zápas
+za jeden den, protože se fakt nikdy na světě nehrálo.
+To bylo úplně extrémní.
+To úplně vidím v tý serveru.
+Jsme dole, nic se neděje, nechodí data.
+Takže to bylo
+dost smutné, a kde ne.
+Myslím, že ještě
+nějaký restauratéři, nebo tak to,
+my jsme ještě byli tam asi
+o hodně líp, ale...
+Ale to nejsou teda vývojáři,
+jako ty lidi u vás nejsou?
+Ne, ne, ne, u nás čistě bych
+na nějaké vývojáře se říct nedá.
+To jsou mix lidí
+na pobmezí data inženýrů.
+Jeden bych řekl, že je čistě data inženýr,
+ten se věnuje tady těm věcem.
+Částečně scientists,
+tam řešíme nějaké
+úlohy,
+typu nějaké klasterizace dát,
+nějaké rozdělení,
+nějakých menších takových analýz,
+ale spíš dělá různý, jako POCčka,
+pomáhá nám právě třeba s tím,
+protože tam je spousta různých
+v tom Google Cloudu,
+ať je to na kliknutí,
+tak zároveň, samozřejmě jsme třeba
+museli migrovat data z Ameriky do Evropy.
+A to byly třeba 4 petabytey data
+a narazíte prostě na limity toho,
+co přemigrujete. Takže
+musíte vytvořit prostě, jak to celý udělat.
+Nenechali jste si poslat disky letadlem,
+nebylo tohle v dějiště.
+Ne, ne, nebylo, nebylo.
+Ale to se taky dělá, no.
+Já vím, že to je tolní for,
+že se to děje, ne.
+Co dokáže protíct, ne, ne, ale řešíme třeba
+jako promazávání těch dat, jo, protože ty lidi jsou schopní
+vytvářet prostě různý tabulky, takže se nad tím dělají
+různý procesy,
+typu, hele, tady jsou tabulky, prostě,
+že se ta tabulka třeba je obrovská, ale nepoužila se dlouho,
+jo, tak prostě promaž to, archivuj data.
+Takže nějaký takovýhle jakoby interní
+jako vývoj, development tam nad těma
+a takové věci máme, spíš to jsou, jakobych řekl,
+procesní věci, automatizace,
+jako zlepšení těch věcí.
+Já si já myslel v takovém tom
+kontextu, protože jsme do toho vlastně narazili,
+že u toho využití AI, že si řekl,
+sám si nad tím vlastně nic stavit nebudu,
+počkám vlastně, jak se to
+skonzoliduje celý ten trh a pak si vyberu toho vítězí.
+V tomhle smyslu úplně nevyvíjíme
+nevyvíjíme
+jako nástroje, byť
+otázka, kde je ta hranice toho, co je
+nástroj, protože zase teďka máme
+třeba úlohu pro lidi, kteří
+od nás v marketingu, co řeší social
+PR a občas potřebuje vidět, my máme
+toho, jak to vysvětlit.
+Ok, máme ty sportovní data a tohleto je
+třeba čistě z těch sportovních dat a je by třeba zajímalo,
+jestli, my máme nějaký kanál, který se jmenuje
+Hetrix, jo, kde na světě vlastně padl
+nějaký Hetrix a tam to chodí automatizovaně do sleku.
+Nebo my tady můžeme teďka posílat typu, že
+jestli se stalo v zápase třeba něco
+neobyklýho, někdo otočil jako
+z 2.0 na 2.5 třeba, jo, to záleží, co si
+definujeme za pravidla a nad tím se snažíme
+dělat nějakou automatizaci. Takže ano, tohle
+může být případ toho, kdy my můžeme stavit nějaký
+sej datovej produkt, který posílá něco jako
+do sleku nebo různý takový jako
+úlohy řešíme, tak tam by se dalo
+říct, že probíhá nějakej
+jakýsi vývoj,
+ale jinak neděláme úplně typický, že bych
+pro datový produkty
+nebo nějaké nástroje
+s nějakým jako vložně rozhraním, přiznašováním
+a tak dál.
+Takže to bych jako neřekl, spíš
+plníme přání těch koncových
+uživatelů a snažíme se jim dodat jakoby
+ty, to co potřebují.
+Ty jsi mi ještě úplně naráhl,
+já nevím, jestli jsi zaznamenal tu kauzu v nějaký
+třetí, čtvrtý lize, jak se pískala
+penalta v 97.
+minutě a objevilo se
+nějaký obrovský množství vlastně sázek,
+který bylo těsně předtím, než se
+odpískla ta penalta, takže to bylo
+vloženě cinklý a řeší se to až na úrovni
+samozřejmě jako fotbalovýho
+svazu.
+Děláte i takovouhle věc těch dat,
+to znamená řekněme jako nějakou
+korelace mezi tím, jak moc se teďka sází
+a kdy se stane ten, řekněme
+velmi podivný incident typu
+tři penalti v 96. minutě a tak dále.
+Neděláme, protože my nevíme, jak se sází,
+čekátor toho, že ty lidi třeba kliknou na nějaký
+kurz nebo na nějaký prvek, který je s tím
+spojený, na druhou stranu, proč to udělali,
+já vidět nemůžu.
+Co už jsem zmínil asi předtím, je to, že vidíme podle těch incidentů
+právě to, kdy k nám chodějí.
+Tady pan Paták, to bylo na Admire a nechal si
+nastavit deset minut.
+A to je ten, na Admire jsem
+párkrát hrál, ještě když jsem hrál fotbal, takže
+to znáš, to bylo.
+Ale s Budějovicem B, ale ne tak Admire,
+asi byli v pohodě, tady myslím, že to byla
+solo akce, zřejmě
+toho rozhočího, který pak rychle
+skončil a my jsme pak koukali, bylo vidět
+někde na Instagramu někdo na nějakém
+akountu blbý kopačky, nebo jak to bylo,
+tak zmínil, že právě Betfair, což je taková
+sásková, to znamená burza,
+že tam těsně předtím nabral asi 18 tisíc
+euro na dva góly a víc
+během prvního poločasu,
+což bylo 1-0, zastavu tenhle bylo na 2-0
+a údajně heráči bylo vyhražováno,
+že když, to tam někdo říkali
+v rozhovoru, že když netrefí bránovu,
+nedá gol, tak ho vyloučí.
+To bylo celé absurdní.
+A ne, tak
+tohle vy v datech ale nevidíte.
+Ne, tohle je naštěstí mimo nás,
+my vlastně se snažíme tak nějak
+dát s tím lidem
+tu holou realitu. Co nás třeba
+zajímá, tak je to,
+ale není to úplně daleko
+od toho, čím bychom se
+chtěli obecně zabývat. Nás hodně zajímá,
+protože přece jenom těch sportovních dát
+a i těch kurzových, které my jakým způsobem
+agregujeme přes ty feedy, teče dost.
+A přemýšlíme nad tím, jak to vlastně použít
+a dělat lepší produkt pro ty uživatele.
+To znamená například
+my teoreticky bychom mohli napočítávat
+třeba expected goals,
+které teď nějakým způsobem vytváříme
+na některých trzích
+a zároveň
+tedy napočíváme z nějakých našich dát
+úplně přesně nevím, z čeho se to
+napočítává a zároveň máme třeba teďka
+možná jste si všimli, kdo aplikaci používá
+něco jako player ratings,
+což je vlastně naše interní metodika
+výpočtu toho, jaký rating
+vlastně těm hráčům vypočítáváme.
+Řeknu, jako Goalman
+chytil nějaký možná střely, ten tým
+udržel čistý konto, nevím, já neznám
+to algoritmus, to je něco, co se dělá právě tady
+v tom DataCoreu
+a vytváří se prostě dole v těch datech,
+kteří to jako vyrábějí.
+To zjednou šel, jako
+trochu usilujeme o to, jak
+maximálně využít vlastně ty sportovní
+a všechny ty data, které tam máme v tom produktu
+zpátky ideálně do toho produktu
+anebo vlastně pro naše nějaké
+rozhodnutí, co s tím vlastně jako dělat.
+Že nějaký teoreticky potenciálně
+predikce a tak dál.
+Je to jedna z variant,
+která je na stole
+slediska nějakého produktového
+vylepšení. A tam by mohlo zase to tvoje
+oblíbený poli AI naskočit.
+Stop.
+Podle cesta.
+Určitě, určitě. To, co mě zajímá,
+je, jaký máte jako
+tým teďka challenge, co
+plánujete dělat, jaký jsou teďka
+ty největší výzvy.
+No, zajímavý dotaz.
+Já vlastně, když jsme si dali trochu přípravu
+na ten talk a tady ten dotaz mi tam jako
+poslal, tak jsem vlastně nad tím jako přemýšlel,
+co je vlastně ve skutečnosti
+ta challenge.
+A jedna z věcí, která tam je,
+je za mě to, že
+asi to vnímáte
+taky, že ten svět
+minimálně Evropa
+se víc méně hodně reguluje.
+Jsou tam hodně nějaký privacy a já teď nebudu
+hodnotit, jestli je to dobře nebo špatně. Prostě tak to je.
+A
+za mě jeden z challenge je prostě obecně
+do budoucna modelování těch dat.
+To znamená domodelovávání toho,
+co prostě si nebude moc sebrat.
+Co nám nějaká regulace prostě nedovolí
+změřit, protože
+tam jsou takovýhle
+makový práva toho uživatele,
+co si nemůžu prostě sebrat, co nemůžu někam prostě
+propsat.
+IOS
+nebo obecně Apple jde dost proti tady tomuhle
+tomu obec trekkingu
+uživatelů, GDPR
+a tak dál. Takže jsou tam nějaké
+omezení, ale na druhou stranu vy potřebujete
+nebo chcete vědět, jestli ten váš
+produkt roste. A nejen kvůli tomu, že vám
+někdo třeba nedal souhlas s nějakým trekováním a tak dál.
+Takže já věřím tomu, že v našem biznisu je to
+nějaké modelování dat a vůbec si vědět
+co s těma datama a být jako v souhladu.
+Mít, pohlídat si ty privacy věci.
+To si myslím, že je velká challenge, protože
+si myslím, že
+ty státy to budou
+snad vnímat jako opravdu komoditu
+nebo něco, co se budou
+víc a víc hlídat i ty uživatelé.
+A myslím si, že tady to bude o tom, že se bude
+dost modelovat a bude právě potřeba
+ta AI a machine learning a spousta lidí
+schopnejch. A myslím si, že
+to je trošku oslímu se k tomu,
+že si myslím, že velká challenge je právě
+jakoby
+mindset
+a edukace lidí.
+Ale i v tom týmu. Že to není o tom, že
+někoho přivedete do týmu, on může mít SQL-ko
+a Python. Tak to je bomba, deset let
+tam můžeš sedět a prostě jako něco kodit.
+Jo jasně, možná, že bude moc deset let sedět
+a prgat SQL-ko.
+Ale na druhou stranu prostě ten obor
+se vyvíjá potřebu, aby ty lidi, který u nás jsou
+tak
+vlastně vnímali to, jak se mění ten svět
+jako kolem nich. To, co se vlastně děje.
+Vnímali to, že vlastně je tady nějaká
+nechci skákat na nějaký ten hype
+toho AI, ale vědět o tom,
+že prostě ty věci dají třeba dělat jinak.
+Přemýšlet nad tím
+vlastně, jak to můžeme třeba dělat
+jinak, co nás vlastně dneska třeba limituje
+a posouvat se v tom
+třeba pomáhat vlastně
+té firmě Rus, tak aby
+vlastně to, jsme mohli některé věci
+třeba automatizovat, některé věci vylepšovat. Jak třeba
+vůbec ty věci dělat jako líp.
+A edukovat se v tom, jo. Protože
+ten svět se venku mění
+vlastně každou chvíli
+dneska máte tuhle technologii,
+zítra bude tady ta, možná už dneska
+neplatí, co platilo, když jsem ráda, když dělal jsem
+jo, takže. A
+jasně, neznamená to
+skočit na všechno,
+ale znamená to
+umět si z toho prostě jako vybrat a být jako
+vzdělávat se v tom, nejenom
+v těch hard skills, ale myslím si, že i ty soft skills
+komunikace s uživatelem, to jsou pro mě
+jako největší challenge a samozřejmě
+pořád je to
+udržet to
+jakoby ty kosty
+nějaký rozumný úrovni, ty náklady
+a zároveň to, aby jsme tý firmě byli schopni
+dávat vlastně ty přínosní věci
+a pomáhali jí vlastně
+se jako posouvat dál.
+No to bych podstrhl, jako
+rozhodně jako zajímavý popis toho
+to modelování mě nadchlo, to znamená
+jako predikovat věci, který prostě
+nějaká regulace zakáže, v podstatě
+takhle bych to měl pochápat.
+No je to vlastně dneska třeba tak Google Analytics
+fungují, takže oni tam ne všechny tam můžou
+dotýct a typicky tak
+modelovali to třeba kvůli těm kampaním, který tam se pak
+dělají přes Google Ads, tak se modeloval vlastně
+počty uživatelů a vlastně to
+jejich akvizice, protože vlastně vy jste
+sice viděl nějaký trafik,
+který vlastně přišel z nějakého
+z nějakého třeba zdroje,
+ale bylo problematické pak už
+v měři, jestli tenhle uživatel tam potom nějakou dobu
+vydržel, něco dělal, protože vlastně se to rozsypalo
+na ty uživatelský úrovni a
+už k tomu nebylo vlastně pojítko
+od akvizice. Když se tam roztrhne
+to uživatelský ID, tak už vlastně
+není nějak to jako propojit. Takže vlastně
+modelovat toho, že mám nějaký vzorek
+třeba 70% uživatelů, který mi dali nějaký
+souhlas, tak na tom musím
+domodelovat ten zbytek
+toho chování. Jo, samozřejmě, bude to
+nepřesný, ale ono obecně tohleto není účetnictví.
+Mě spousta nepřesných věcí, jako
+ne vždycky změříte, všechno mají lidi adblocky,
+lidi blokují támhleto, takže ono
+nakonec to tak přesně není. Jde o to
+umět se, jako
+umět tu firmu navigovat
+v tom nepřesném světě,
+který je dynamický a mění se
+právě pomocí
+těch dat a
+myslím si, že víc ta statistika
+a machine learning a vůbec modelování
+bude hrát větší a větší roli a zároveň si myslím,
+že to budou i komodity, které budou
+být ne nakliknutí v těch
+a myslím si, že velká
+výzva obecně podle mě bude
+hodně vznikat pozici typu takových těch data
+architektů, lidí, který budou
+muset umět na tom klaudu, jako
+vám to prostě postavit.
+S ohledem na cenu a tak dále.
+Přesně tak, jako s ohledem na cenu, jo, ono je to jednoduché,
+já to tam naklikám, já znám některé ty služby
+a možná vám to někdo propojí a když to pak pustíte,
+tak jako nestačíte se divit,
+takže je to i o tom
+trošku to uhlídat
+a pořád je to o prioritizaci,
+vědět, jakoby, protože dá se
+toho dělat, je jej, spousta.
+Co vlastně, a to je pro mě
+třeba největší challenge, to jakoby
+pro mě osobně, tomu čemu bychom se měli
+věnovat. Jo, to je to jako priorita
+a vlastně to směřování a nějaká ta
+strategie, tak
+aby
+to dávalo nějaký smysl.
+Úplně na závěr, samozřejmě
+klasická obligátní otázka,
+kde můžou slyšet nebo
+vidět Tondo posluchači
+tebe? Máš nějaký plány, kde
+budeš vystupovat? Taky data
+meetup nebo něco takového?
+To je zajímavý, jo.
+No, to se mě trošku
+zaskočili. No, konečně.
+Protože
+nechyslám, kdybych byl jako,
+že bych jako vystupoval, jako by tady byl třeba kapelu,
+měl, tak to mám jasný.
+A vím, že budu příští týden v Pelhřímově
+v Pardubicích a nakonec
+v O2, že jo.
+Tam končíš, díky. Ale, ale
+nevím, já se jako v nějakým podcastu už jsem
+pro ně už jsem jako vyčerpal možnosti český
+scén, nemyslím se, že bych byl
+vidět, já můžu říct, kde budu vidět takový
+live sport, jo. Mě vlastně příští týden
+7.9.
+je Data Mesh,
+což je taková
+česká datová komunita, kolik
+jako pořád Jirka Vicherek to dává dokupy.
+A
+to se koná vlastně někde v Klimský,
+myslím, že Data Mesh CZ.
+Potom 9.9. na
+Mežer Campu, klasická
+nekonference webových
+analytiků, tak to nějakým způsobem
+sponzorujem.
+A potom budem vidět
+na KPMG, Dita Festivalu,
+na VŠE, tam jsme
+taky nějakým sponzorem, tam budu i osobně,
+ale vlastně na všech třech akcích budu osobně.
+Mluvit
+na
+Data Mesh nebudu, na KPMG
+nebudu, na Mežer Campu ještě nevím,
+ale zatím nemám vůbec nic připraveného,
+takže nejspíš nebudu.
+Každopádně, kdybyste, milí posluchači,
+chtěli Tondu vidět a pokecat s ním,
+tak víte, kde ho najdete v tyhle termíny
+a zároveň
+tady
+aplikaci, nebo respektive
+LiveSport sám o sobě vidět je dost, řekl bych.
+Takže v tomhle s tom problém nebude.
+Tondo, moc díky, bylo to opravdu zajímavý.
+Vůbec jsme se nedrželi
+konceptu, který jsme si vymysleli, protože
+to bylo tak zajímavý, že jsme došli si
+k vlastnímu konceptu během jízdy.
+Bylo to super, ještě jenom moc díky, ať se daří a zase nikdy.
+Já děkuji za pozvání. Čau.
+Již v kabinách
+a ve sprchách je v tuto chvíli
+Antonín Kučera,
+ale bylo to super.
+No, ty jsi se bál, že se zase
+nebudeš mít na co ptát.
+To je vždycky klasika, já mám strach.
+Říkám, datovej člověk, na co se ho
+budu ptát, a pak koukám hodinu a půl
+v čudu, a člověk
+na něj kouká úplně s těma očima
+rozářenýma, že by se ho zeptal na dalších
+deset tisíc věcí, no samozřejmě. Masák.
+A vy jste vlastně spolužáci, víte?
+No já ani nevím, jestli jsme to zmínili,
+ale jo, jsme spolužáci, takže to
+nedoznám dlouho, tak to byl bourák vždycky.
+A je úplně super sledovat, jak se ta jeho kariéra
+vyvíjí a jak nad těmi věcmi přemýšlí.
+Vidět prostě, že je v tom
+ponořenej a dneska nás teda ponořil taky
+a jsem byl úplně prostě normálně
+na sebe víc koukáme, jako my dva
+spolu, že se tak jako spolu komunikujeme
+očima. Já byl navěšený na Tondovi, jak kdyby
+to byla prostě, jako, no,
+pěkná baba. Dneska to bylo jak v kyně s manželkou, vůbec jsem to na tebe
+nekoukal. Jo, přesně.
+Tak jo, přátelé,
+já si myslím, že na první díl sedmé
+série to bylo více než skvělý.
+Máme připravených spoustu
+zajímavých hostů do dalších dílů.
+Myslím si, že to bude opět velmi, velmi
+rozmanitý.
+Koukneme se na low-code platformy,
+taky při troši
+štěstí nahlídneme do herního
+biznesu, máme toho spoustu.
+Vydržte,
+startujeme jednou
+za čtrnáct dní, se uslyšíme v rámci sedmí
+série. Jestli bude osmá, tradičně
+to vždycky necháme otevřený, ale
+teď každopádně vám můžeme slíbit, že před vámi
+a dneškem to začíná,
+je šest dílů nejlepšího
+českého IT podcastu.
+Pěšte se, mějte se krásně. Čau.
+Čau.

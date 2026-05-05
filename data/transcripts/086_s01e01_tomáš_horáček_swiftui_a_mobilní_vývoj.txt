@@ -1,0 +1,1694 @@
+Na star poli, ty draku.
+A zdarom, mané, jak se máš, ty klukůšata.
+Dobrý, dobrý, co ty.
+Hele, neudělám nějaký podcast?
+To bychom mohli, ty brďo.
+To jako teďka to hrozně frčí, ty podcasty, co?
+Jo, jeď, jeď, já jsem koukal zrovna teďka
+a vůbec žádný nový nevznikly během korony,
+takže bychom mohli něco novýho dát.
+Nic tam není.
+Hele, a kde se sejdeme?
+No tak já nevím, klasika, ne?
+Pod vocasem.
+Pod vocasem.
+Je to tak?
+Tak pod vocasem.
+Tak super.
+Pod vocasem.
+Pod vocasem.
+Pod vocasem.
+Krásný den, milí posluchači,
+vítejte u zbrusu nového, nebo zbrusu my nic nebrousíme,
+z mixu nového podcastu, který se jmenuje Pod vocasem
+a kterým vás budeme provázet my dva,
+což je Pítr Petr Polák.
+Děkuji, dobrý den.
+A Roman Čoukr, provazník.
+Děkuji a dobrý den.
+Dobrý den.
+Tak Romane, Pod vocasem.
+Pod vocasem.
+Proč se vlastně ten podcast bude jmenovat Pod vocasem?
+To je dobrá otázka.
+Proč se jmenuje Pod vocasem, nemá to nic společnýho
+vlastně s čímkoliv, co by vás asi na první dobrou napadlo.
+Ten důvod je jednoduchý, protože my oba dva s Petrem
+jsme, kromě toho, že jsme fantastický hráči NHLka na Playstationu
+a skvělý běžci, především já.
+Minimálně polovina z nás určitě.
+Tak, jsme kolegové ze společnosti CN Group,
+která sídlí, nebo má jedno ze svých sídel,
+ze svých panství na Václaváku v Paláci Fénix,
+který je s chodou okolností kousek od sochy sv. Václava,
+čili Pod vocasem.
+Jak jinak by se to mohlo jmenovat?
+To je krásný. Jsou samozřejmě jediné místa, kde by jsme to mohli točit,
+ale to by asi nebyl úplně ideální název.
+Nicméně já si myslím, že název je to hezký, zapamatovatelný
+a v té záplavě těch nových podcastů, které vznikly v průběhu korony,
+a já si myslím, že to je škoda, že jich vzniklo ještě málo,
+protože třeba já znám ještě dva lidi, který nemají podcast.
+Vopadlo známe jmény.
+Tak je dobře, že je tady nějakej, který se bude aspoň i podle názvu
+lehce dát rozpoznat, až ho budete hledat třeba na Spotify
+nebo na Apple Music nebo někde.
+Přesně tak, to mi teda vysvětli, když si to jméne Pod vocasem,
+o čem si tady budeme teda povídat.
+No, to je zajímavá otázka. Máme těch témat několik.
+Máme jich v současných chvíli, myslím, šest nebo sedm.
+Když jsme si naplánovali dílu, a to je, krásně se zeptal,
+jako by jsme to měli připravený, krásně se zeptal,
+my vlastně to máme trošičku jinak s Polým.
+Jako na mnoha levelech to máme trošičku jinak,
+ale co se týče podcastů, tak to máme hozený úplně jinak,
+protože jsme si řekli, že dlouhodobost svým způsobem zavazuje
+a že to nemáme rádi. Konec konců Polý je taky relativně čerstvě ženatej,
+takže on ví o dlouhodobosti svý.
+Přesně tak, přesně tak.
+A řekli jsme si, že uděláme něco kratšího, pak to zvalidujeme,
+uděláme si tu klasickou naší IT retrospektivičku
+a pokud to bude dobrý a pokud to bude zájem,
+tak třeba natočíme někdy druhej, třetí, čtvrtý, pátý, pátý sérii.
+Pátý sérii. Podem si prostě takový Netflix style.
+Ano, takový prostě jako Netflixový styl, kdy nejdřív prostě natočíme pilota
+a když to bude dobrý, tak budeme pokračovat.
+Takže v současné chvíli vás můžeme nabejtit,
+nalážet.
+Můžeme nalákat na šest až sedm dílů. Já pořád nevím, jestli to je šest nebo sedm.
+Bude to šest a nebo sedm.
+Jsi zatvářil, že máš přesný číslo v hlavě
+a je to přesně někde mezi šestkou a sedmi.
+Je to tak.
+Jinak, Petře, to mě připomíná, ty vlastně děláš u nás
+machine learning a tyhle ty věci, že jo?
+Je to tak, je to tak.
+Takže tam šest nebo sedm, to nehraje rovnou.
+Je to tak, jako tam ti machine learning řekne přesnou odpověď šest nebo sedm.
+Tak to je skvělý, tak to je parád, já jsem hrozně rád, že tě tady mám.
+Ty predikce fungují.
+Že na to nejsem sám, to je skvělý.
+No a dneska na to samozřejmě nebudeme sami jenom my dva spolim,
+ale máme hosta, protože kdybychom si tady dvě hodiny povedali o tom, co děláme a neděláme,
+ne, že by to nebylo jako zajímavý, je to pecka fenomenální,
+ale je vždycky dobrý to trošku opepřit někým zvenku.
+I když já říkám zvenku, my jsme si sem pozvali kolegu,
+ale to z toho důvodu, že kolega na rozdíl od nás umí mluvit,
+umí udržet myšlenku a dokonce i má co říct.
+Je to tak? A když už má teda co říct, tak o čem nám dneska bude teda povídat?
+Hele víš co, uděláme to jinak.
+My si ho zavoláme, zeptáme se ho.
+Já teda tuším, že tam budou nějaké mobilní legrácky a tyhle věci,
+ale u Tomáše nikdy nevíš.
+Takže nechme to otevřený, dojdeme si pro Tomáše,
+protože my jsme si ho nechali hezky.
+Hezky stát za dveřma, aby nás tady nerušil.
+A dáme mu slovo a uvidíme, co z něj vypadne.
+Domluveno, tak těším se na to.
+Dobrá, tak já jdu odemřknout klec a jdeme na to.
+Super, běž na to, tady máš klíče.
+Jak jsme slíbili, došli jsme pro Tomáše Horáčka,
+našeho prvního hosta v prvním díle podcastu Pod vocasem.
+My Tomáše zdravíme. Ahoj Tomáši.
+Ahoj kluci.
+Ahoj Tomáši.
+Jak jsme říkali, Tomáš Horáček, to je náš kolega,
+člověk, který se tady ve firmě vyskytuje z mnoha důvodů
+a my jsme záměrně neřekli úplně to téma,
+na který si budeme dneska povídat,
+protože jednak víme, že ty jsi takový multifunkční člověk,
+ty jsi schopný povídat na mnoho témat
+a zároveň jsme chtěli, aby si to i ty svým způsobem nějak uved.
+Ale než se tak stane, tak je potřeba Tomáše představit jako takový.
+Tomáš Horáček je, kromě toho, že je vývojář
+a člověk, který je znalej v IT ze všech možných úhlů,
+tak to je taková zajímavost, protože většinou se říká
+vývojáři, ITáci, to jsou takový jako asociálové,
+prostě takový ty zasmrádlí, zakošilený džavisti.
+Tomáš je vlastně i zároveň herec.
+To je zvláštnost. Je to tak, Tomáši?
+Je to pravda.
+Je to pravda. Prostě řekni mi, kde hraješ, co hraješ
+a pak teda se vrátíme k tomu IT,
+ale tohle je podle mě téma, která je třeba trošku protepat.
+Tak, asi bych to měl upřesnit.
+Já jsem herec amatér, to znamená, je to můj koníček.
+To znamená, že hraju jenom role, které mi sedí,
+nemusím hrát v reklamách a podobně.
+A hraju teda v Řevnickým lesním divadle,
+tam jsem vlastně začal už asi před 11 lety
+a postupně jsem ty divadle nabaloval,
+že jeden čas jsem hrál dokonce ve čtyřech,
+divadlech, to bylo teda dost extrémní,
+ale teď zase už mám jiný priority,
+spíš přítelkyni, práci a tak.
+Takže teď hraješ na přítelkyni?
+Teď hraju na přítelkyni, doma máme takové divadelko,
+hrajem a vlastně už jsem zpátky
+už jenom v tom Řevnickým lesním divadle,
+kde letos vlastně jsem se dozvěděl,
+že bych měl od příštího roku převzít režii.
+Aha, takže taková ta klasika,
+stejně jako...
+Z dobrýho programátora se stává špatný manažér,
+tak z dobrýho herce bude vlastně špatný ředitel.
+Je to tak?
+Úplně příšerný.
+Výborně, skvěle.
+Ale jelikož zatím ještě nejsme úplně divadelní podcast,
+tak se trošku přesuneme k tomu,
+proč jsme tě sem vůbec pozvali.
+A to je mobilní vývoj a SwiftUI a iOS
+a všechny tyhle věci.
+Já musím na začátek říct,
+že kdybyste se, milí posluchači,
+měli možnost podívat do našeho studia,
+tak já jsem tady jedinej Windowsář,
+jedinej tady mám prostě náš firmní del.
+Kluci mají oba dva Macy,
+dokonce tady máme tři Macy na dva lidi.
+Takže já v tomhle světě jsem jako totální panic.
+Teda ne v mobilním vývoji jako v takovým,
+ale jako specificky v Macovském světě.
+Takže předem říkám,
+že pokud tady budou padat nějaký debilní dotazy,
+tak jsem to já.
+Tak jsou ode mě.
+Pomoc přicházíš, pomoc přicházíš.
+Jo, budete mě přemluvat.
+Já bych naskočil na Apple.
+Hele, to nejste ani první, ani poslední,
+kdo to zkušený.
+To je v pohodě.
+Dobře.
+I tak začnu úplně jako jednoduchou otázkou,
+protože my jsme se,
+když jsme se bavili, o čem se budeme bavit,
+tak jsme říkali,
+hele, pojďme to vykopnout něčím,
+co je teď aktuální, co je trendy
+a zároveň, co spoustu lidí,
+který třeba jako se věnují vývoji na Macu,
+tak to pro ně bude zajímavé.
+A to je SwiftUI.
+Já se přiznám,
+že jsem už slyšel o Swiftu,
+co vím, že Swift je jazyk
+a co je toto UI.
+Takže prosím tě,
+představ nám vůbec vlastně,
+když se řekne SwiftUI,
+co to je.
+Jo, takže SwiftUI je framework,
+který vyvinula společnost Apple
+a je to framework,
+kterým se dají psát UI,
+to znamená uživatelský rozhlední aplikací
+pro Apple platformy.
+Je to novej způsob,
+jak psát to uživatelský rozhlední,
+předtím se použil,
+UIKit nebo UpKit.
+UIKit a UpKit mají kořeny
+více méně v osmdesátejch letech,
+ještě v Next Stepu,
+což byl předchůdce macOS
+a taky to tak podle toho vypadá.
+Ty paterny UIKitu a UpKityu
+jsou už podle mýho trochu zastaralí
+a teď ten průmysl
+se dal hodně na funkcionální přístup,
+deklarativní UI
+a vlastně SwiftUI
+následuje tenhle trend.
+Takže je to funkcionální,
+deklarativní způsob,
+psát aplikace.
+A když říkaj, nebo ty jsi říkal,
+že to je vlastně jako framework
+nebo prostě nástroj pro psání těchto aplikací,
+to Swift tam ale furt říká to,
+že zatím je ten Swift jako jazyk. Je to tak?
+Ano. Swift je hlavní programovací jazyk
+Apple. Dřív to bylo Objective-C,
+který bylo hodně inspirovaný
+vlastně
+Smalltalkem.
+A Objective-C
+asi v roce, já nevím,
+2014 uvedl Apple Swift,
+který měl postupně Objective-C,
+nahradit a teď vlastně už je to
+dominantní jazyk a více méně
+nevím o žádným novým projektu,
+který by byl postavený na Objective-C.
+Ten Swift hodně vychází
+z C++,
+ale samozřejmě má i
+jako by kořeny nějaký funkcionální,
+takže se v tom dá psát
+jako docela pěkně funkcionální
+imutabilní kód a podobné věci.
+Já vlastně vím o Tomášovi,
+protože my jsme spolu, když si s Tomášem
+dokonce spolu pořádali
+jednu konferenci funkcionálního
+programování.
+Která se jmenovala LumpDub.
+Takže vím, že vlastně Tomáš má
+tyhle funkcionální věci rád,
+což já samozřejmě jako velký F-sharpista taky.
+Je tam teda něco, co
+byť si říkal, že to vychází
+z jiného jazyka, co tě tam
+jako opravdu, co se ti na tom líbí?
+Co říkáš, ještě, že to tam zavedli
+a ještě, že to tam mám?
+Tak,
+je tam víc věcí. Jednak se mi líbí,
+že vlastně
+struktury, což jsou vlastně takový
+datový typy, který mají nahradit třídy,
+takže jsou primárně imutabilní,
+což je super věc,
+protože to zpřehledňuje kód,
+má člověk jakoby větší jistotu,
+že s těma datama se něco nestane, když
+je předá jako argument nějaký funkci.
+A ta druhá
+věc, co se mi tam hodně líbí, jsou
+enamy, což jsou vlastně custom
+typy, do kterých jde zapouzdřovat
+nějaký další typy.
+V F-sharpu, nevím, tam máte
+možná, jak se to jmenuje?
+Discriminated union? Jo, přesně tak.
+A dobře se v tom modeluje
+stav. Typicky
+takový objektový přístup by bylo
+na všechno mít. Bullěny a
+podobně. Když to v tom enamu
+jsem schopnej říct, teď jsem v error
+stavu a tady je error, teď jsem
+v success stavu a tady jsou data
+v success stavu a podobně.
+Takže velmi podobně tomu, jak to má
+Elm, jak to má F-sharp, jak to mají
+prostě další, to, že opravdu při tom
+modelingu si můžu vybrat, v jakým kejsu,
+s jakýma datama pracují.
+Vlastně to, co
+jsem se naučil v Elmu
+a to je takový ten přístup
+make impossible state
+impossible, tak díky těm enamům
+je to ve Swiftu taky možný.
+A to se mi o tom líbí. Tak to je super.
+Tak to je paráda. To musím říct, že je jako jedna z věcí,
+který, jakmile si člověk na ně zvykne při vývoji,
+tak už nikdy nechce jako jinak.
+Protože za prvé, že jsi šlínej,
+takže nebudeš psáv od nějaký unit testy.
+Proč bys to dělal, když to vlastně
+nemůžeš potestovat, protože to nemůžeš nasimulovat.
+Takže tam tohle z toho chápu.
+Jinak ty jsi říkal, že to je jako hodně
+imutabilní, to znamená, jsou tam nějaké
+konstrukty jazykový, které ti umožňujou
+jednoduše ty věci kopírovat,
+protože samozřejmě, když je to
+imutabilní, tak neustále musí vznikat nová
+verze, to znamená, je dobrý, když ten jazyk
+těch tomu jde naproti a jsou tam
+i tam nějaká syntax sugar, která
+ti dovolí ty věci překopírovat a třeba
+změnit jenom jednu property nebo něco.
+Ano i ne.
+To už je trošku tady na hraně
+s tím,
+co se mi na Swiftu líbí
+a nelíbí.
+To, co třeba na Swiftu docela dobře
+jde, je mít takzvaný
+in-out argumenty.
+Takže já můžu ten
+argument jakoby mutovat,
+ale ve skutečnosti to, co si myslím, že se děje
+na pozadí, je to, že
+ono to vlastně používá
+mechanismus podobnej návratový hodnotě.
+Takže
+ta funkce jakoby může vracet
+několik hodnot díky těm in-out
+atributům. A zase, když volám
+tu funkci, tak jí musím předávat
+jakoby variable, kterou jakoby můžu
+mutovat. Ale ty struktury
+ve Swiftu jsou value type,
+to znamená předávají se jako hodnota,
+ne jako reference.
+Když
+vezmu obecně
+aktuální, že jo, jsme téměř
+na konci roku 2021
+a já teďka se od vás nechám
+přesvědčit,
+jak poly, tak to máš, mě prostě dostanou
+a já skočím teďka do mobilního vývoje
+na Macu.
+Co vlastně můžu pokrejt
+tím Swiftu? Já předpokládám, že
+já se nainstaluju nějaký IDčko
+a pak teda jaká je ta paleta toho?
+Je to jenom o mobilech, nebo je to i
+o tabletech, je to o hodinkách?
+Jak vlastně, kam, když bych
+teda opravdu do toho naskočil teďka,
+byť teda se k tomu nechystám, ale kdyby náhodou,
+co jsou
+ty cíle? Kam se můžu dostat?
+A vlastně odpověď je
+poměrně jednoduchá, že všechny
+Apple platformy jsou podporované
+Swift UI a mělo by to
+fungovat i tak, že vlastně
+ten stejný kód
+může běžet na všech těch platformách
+a vykresluje to UI specificky
+pro danou platformu.
+To znamená, když stejný kód,
+já nevím, třeba seznám itemů,
+použiju na mobilu,
+tak bude vypadat tak, jak by měl vypadat na mobilu,
+na macOS bude
+vypadat tak, jak by měl vypadat na macOS
+a na hodinkách a televizi
+bude vypadat taky.
+Takže vlastně to není jenom o
+mobilní vývoji, ale je to v podstatě o vývoji
+pro celou tu platformu. To znamená třeba i,
+nevím, teď slíbil jsem
+blbé dotazy, tady jsou,
+Apple TV, dá se na to taky vyvíjet?
+Ano. Předtím to bylo
+tak, jakože ten UI kit
+byl pro všechny ty moderní
+platformy, které vycházejí z iOS,
+to znamená včetně Apple TV
+a vlastně i WatchOS,
+ale pro desktopy jsem
+musel
+, používat ten
+app kit, který
+spoustu věcí měl trochu jinak
+a nebylo to úplně multiplatformní.
+Jako Apple
+dělal takový, jakoby,
+krok stranou, kdy vlastně umožnil,
+aby ty iOS aplikace běžely
+i na macOS přes
+Catalyst, se to myslím jmenovalo,
+ale moc úspěch
+to nemělo a teď vlastně
+nějaký jako jednodušší aplikace
+jde čistě vzít a skompilovat
+pro všechny ty platformy. Samozřejmě
+pro některý platformy
+tam jsou jakoby ty UI
+specifický pro tu platformu.
+Třeba takový to hlavní navigační
+menu, kde máš jako Edit, View, Help
+a nahoře ty záložky,
+tak to je specifický pro
+macOS a na iOS to samozřejmě
+není. Takže je to tak, že vlastně
+máš nějakou část toho kodu, která je společná,
+nějaká business logika pro celou aplikaci a pak
+podle toho, na jakém jsi v viewportu
+a v těm kontextu, kterýho
+zařízení, tak můžeš dělat ty specifické věci.
+Ano. Je to tak. Ok, no tak vidíš,
+tak to už pomalinku se začínám
+bejtit do toho. Haleme se.
+Já se zeptám ještě na jednu věc.
+Spousta chvály padlo na SwiftUI
+a zajímalo by mě,
+koukal jsem na takový video, tam týpek
+měl UI kit a SwiftUI
+vyvíjel nějakou jednoduchou aplikaci a ukazoval
+jak hrozně rychlejší, nebo o dost rychlejší
+je SwiftUI vývoj.
+Mín kódu, vlastně samý výhody.
+Jak to vidíš, pár projektů si zažil,
+tak je tohle pravda podle tebe
+nebo jsou určitý typy aplikací, kde to
+třeba smysl úplně nedává?
+Tak já se SwiftUI
+a UI dělám vlastně od
+ledna 2020, což je
+půl roku po tom prvním release,
+který byl v září 2019.
+Takže s tím
+zkušeností mám na dvou aplikacích
+a jedna byla
+tak jakoby hodně custom
+UI, že ten design byl hodně
+jakoby precizní a pixel perfect
+a chtěli jsme mít jako hodně custom design.
+Tamto SwiftUI bylo
+docela jakoby těžký ohýbat
+v některých věcech, jako třeba
+navigation bary a tak, protože to se
+trošku hůř v tom customizovalo,
+takže tohle byly takový trošku bolesti,
+který jsme s tím měli.
+Ale celkově myslím, když se na to kouknu
+zpětně, tak je to
+framework, který vlastně má
+budoucnost. Má podle mýho větší
+budoucnost než
+UIKit
+a nám dávalo smysl prostě
+začít novou aplikaci, která byla
+Greenfield, začít v tom
+v čem ji budeme chtít vyvíjet třeba za tři roky.
+Takže
+myslím si, že jsme i ušetřili
+čas, protože
+ten vývoj s tím
+UIKitem není to úplně ono.
+Je to imperativní framework,
+to znamená, musím všechno jako by
+manuálně přesouvat, manuálně
+nastavovat styly, když to v tom
+deklarativním přístupu SwiftUI
+kdykoliv změním data,
+tak se vlastně to UI překreslí a nemusím
+se starat o to, že když jsem
+v error state a přecházím do
+successu, takže musím
+odstranit error view a plácnout tam
+success state, to všechno vlastně pro mě funguje
+automaticky.
+A když si zahrám trošku na vizionáře,
+myslíš si, že UIKit
+úplně zmizí a bude tady jednohodné
+jenom SwiftUI, nebo vždycky bude mít
+svoje místo na zemi i UIKit?
+To je zajímavá
+otázka. Myslím si, že
+ještě dlouho tu UIKit bude
+a je to i z toho
+důvodu, že SwiftUI staví
+na UIKitu, je to jakoby
+stavba, možná, že některý interní části
+už ten UIKit nepoužívají, ale
+zatím to tak je.
+Dokonce SwiftUI umožňuje
+i integraci UIKitu,
+to znamená, je možný dát UIKit do SwiftUI
+a obráceně SwiftUI do UIKitu.
+A ta budoucnost,
+no, myslím si, jakože
+ten trend půjde, že víc a víc
+aplikací bude čistě ve SwiftUI,
+protože šetří to čas
+a je to snaží vyvíjet.
+Takže, kdybych byl dneska
+student,
+pátějáku vysoké školy, nebo pátějáku možná
+někde v rámci vysoké školy,
+tak měl bych se opřít do SwiftUI
+jenom, nebo jak by si ten stack postavil?
+Záleží, SwiftUI má svý limity.
+Nejde v něm kustomizovat úplně všechno
+tak jako v UIKitu.
+My jsme třeba měli problémy s tím, že jsme
+chtěli mít custom tabbar,
+to je taková ta spodní záložka, kde můžeš
+přepínat mezi tabama.
+A to jsme vlastně museli
+kompletně naimplementovat v UIKitu,
+protože ve SwiftUI ta performance
+byla špatná,
+ty gesta úplně nefungovaly tak, jak jsme
+chtěli, takže
+i ta aplikace, kterou jsme začali
+v tom roce 2020, tak části,
+ale jsou to opravdu malé části,
+je to v řádu jednotek, procent
+té aplikace, tak jsou v UIKitu,
+protože SwiftUI má svý limity.
+Ale dá se na to teda jako
+fallbackovat, to znamená, když tam, kde mi nestačí
+SwiftUI, tak můžu skočit zpátky a udělat
+to v tom UIKitu a ono si to rozumí
+a můžu být v tomhle směru jako vyčuranej.
+To funguje, jo?
+Ještě bych se chtěl
+zeptat na jednu věc,
+co se týče celého toho
+vývoje vlastně na
+iOS. Teďka vlastně, že jo, proběhla
+Apple Keynota, tam se zase ukázaly
+nový telefony, který mají ještě vystouplejší
+fotáky a ještě víc jich mají
+a tak. Ona vlastně existuje
+i určitá developerská
+verze těch Keynot, je to tak?
+Nebo je to tak, protože
+vím, že třeba u nás, v tvojím Microsoft světě,
+jsou takový
+jako spotřebitelský a pak tam máš
+build, kde jsou věci týkající se dotnetu
+nebo máš různý konference, které
+se týkají vyloženě
+ty vývojářské části světa.
+Jak je to u Apple? Je to v rámci
+jední Keynoty nebo vlastně pro tebe třeba
+teďka ty telefony tě moc nezajímají, protože to je
+pro spotřebitele a ty čekáš
+na nějakou developerskou konferenci, jak to je?
+Ta developerská konference už
+proběhla před létem, nebo
+na začátku léta, jmenuje se
+WWDC a vlastně
+letos tam
+uvedly podle mě takový dvě zajímavější
+věci, co se týčou
+toho iOS vývoje
+a to je podle mě
+Async Evade
+Mechanismus pro Swift
+a druhá
+věc, co mě docela
+zaujala je Xcode Cloud,
+což je jich Continuous
+Integration lomeno
+end-to-end testing platforma,
+kterou si můžeš
+zaplatit v klaudovou službu
+a on ti to buildí a testuje
+aplikace.
+To jsme se možná dostali k zajímavýmu
+problému, nebo problému
+k doméně toho
+Continuous Integration na ty deploymenty a celá
+ta lesta pipeline, protože my teďka normálně,
+když děláme klasické aplikace, tak můžu to mít
+na GitHubu, na GitLabu, na Azure DevOps.
+Tím, že teďka
+vzniká ta lesta, nebo vznikl
+ten cloud, ta lesta služba,
+tak to předtím nebylo možné, nebo byly jiné služby,
+nebo jak to fungovalo vlastně?
+Bylo to možné, ale
+takhle, poskytovali to takový menší firmy,
+který vlastně nakoupili
+hromady iMaců, dali je do RECu
+a poskytovali je jakoby v klaudu.
+Nebo takhle, nejsou
+přímo iMacy, spíš to jsou takový ty
+Mac Mini, takový ty malý
+počítače. Takže
+je tam, je možný
+samozřejmě buildit i třeba na
+GitHub Actions, tak tam máš, jakoby
+můžeš zvolit macOS platformu,
+která je cca dvakrát dražší než
+ta Linuxová a dá se
+samozřejmě buildit
+v Continuous Integration, je jich samozřejmě
+víc, já nevím, třeba Bitrise,
+teď si nespadnu na žádný další,
+pardon. A
+tenhle Xcode Cloud
+by vlastně měl
+jít ještě trochu dál,
+že to propojí ten cloud přímo
+s tím editorem,
+nebo tím IDE,
+Xcode, a bude to
+všechno víc integrovaný a takový
+jakoby, zdá se, že
+to bude takový víc bez problémů.
+Uvidíme samozřejmě s Xcodem
+svou hromady problémů,
+tak uvidíme
+kolik slibů vlastně
+Apple vlastně splní, ale
+zatím to vypadá docela slibně.
+A funguje tam ještě, protože ty jsi říkal,
+že s Xcodem jsou problémy,
+nebo já si myslím, že
+s každým editorem a s každým vývojářským
+prostředím, jako to problémy, to jde ruku
+v ruce, to bez toho snad ani nedávají,
+ale nebo neprodávají.
+Funguje tam nějaká,
+konkurence, co se týče, že třeba
+jiná firma řekne, hele, jako Xcode dobrý,
+ale my vám tady dáme jiný totální
+vývojový prostředí, ve kterým stále budete
+moct dělat tyhle aplikace,
+ale nebude to od Apple, bude to
+od nás a bude to lepší, bude to řešit
+ty problémy, který má Xcode.
+Je to tak, nebo je tam jeden, jako ten,
+kterým všem vládne
+zlou rukou, nebo hodnou rukou, podle toho,
+jak se vyspív?
+Spíš bych řekl, že tam je jeden,
+ten, který vládne zlou rukou
+trochu.
+Je to Xcode od Apple
+a nedá se s tím moc
+dělat. Myslím si, že ty vývojáři
+JetBrains,
+co je IntelliJ, tak udělali
+i Upcode, který
+možná má trochu lepší performance,
+ale třeba neumožňuje
+tak dobrou integraci
+se SwiftUI, co se týče
+třeba SwiftUI previews.
+Když se vrátíme zpátky
+ke SwiftUI, tak SwiftUI
+je postavený na komponentách a vlastně
+ta komponenta je malej kus kodu,
+který říká, jak má vypadat nějaká malá
+část UI, že tam je třeba
+text, další text,
+ale to je zabalený do nějakého
+backgroundu s nějakým paddingem a tak.
+A ty vlastně
+v tom Xcode
+můžeš udělat preview týhle z tý malý
+komponenty, takže tak, jak píšeš ten
+kód tý komponenty, tak live
+vidíš to, jak se
+vytváří
+ta komponenta a jak bude vypadat třeba
+na koncových zařízeních.
+Jako takový hot reload prostě.
+A výhoda je, že nemusíš pouštět celou tu aplikaci
+a že vidíš jenom preview tý komponenty
+a můžeš těch preview tam mít
+třeba deset v různých stavech,
+že tam může být nějaký error state,
+loading state a tak dál.
+A tohle z toho
+v Xcode funguje tak
+ve třetině případů.
+Jakoby funguje to samozřejmě na jejich keynoteách,
+to funguje vždycky.
+No ale samozřejmě.
+Pak v tom zkusíš něco psát
+a ze začátku to funguje,
+ale pak počase se ten Swift
+compiler zasekne a vlastně
+jediný způsob, jak to restartovat je
+vypnout Xcode, zapnout Xcode
+a tak. Takže dá se to používat
+na takový menší projekty, demoprojekty,
+ale potom u větších aplikací
+už to není tak spolehlivý
+a už se zase musí pouštět ta aplikace.
+Takže ten AppCode,
+tohle to třeba nemá tak dobře vyřešený.
+Koukal jsem, že na to má jakoby různý
+hacky.
+Tak docílit něčeho podobného,
+ale ta zkušenost
+není stejná, tak jako
+když to funguje v Xcodu.
+To samozřejmě bohužel nefunguje vždycky.
+Takže ta situace za mě,
+co se týče
+iOS nebo obecně Apple
+vývoje, je trošku taková
+blbá, bych řekl. Jakože Xcode
+má svý problémy a má jich
+hodně, podle mýho. A AppCode
+je asi jedinej
+konkurent a podle mýho
+ještě není tak jako dobrý.
+Takže asi podobná situace
+jako je třeba na dotnetu
+na Windowsech velký Visual Studio
+versus Raider, na který my jsme
+třeba jako u nás
+v týmu vlastně všichni už přešli, protože
+taky neumí úplně ty věci,
+které umí vizuálku, ale umí zase trošku některý
+jiný a je takový jako svižnější.
+Takže koukám, že některý problémy
+se přesouvají platforma neplatforma
+jako přes všechny
+druhé vývoje. Tak to je zajímavý.
+Ještě doptám se,
+říkáš, vrťme se k tomu,
+že SwiftUI v porovnání
+třeba s Android vývojem
+a teďka vlastně nově, vím, že
+vzniknul JPEG Composer
+a mám pocit teda na projektu,
+u kterého já jsem byl, že
+všeobecně ten vývoj trošku
+víc váznul na začátku. Nevím, jestli
+to bylo daný tím, že ten JPEG Composer
+vznikal zatímco SwiftUI, když my jsme začali
+na tom projektu, tak už byl trošku dál.
+Máš zkušenost tímhle třeba na tom projektu, co jsi byl?
+Dělal jsi tam i Android appka nebo případně?
+Máš k tomu co říct, jestli je to
+porovnatelný třeba i na rychlost vývoje,
+protože to pak zajímá ty sponzory
+na těch projektech a naše zákazníky
+samozřejmě.
+Já jsem s JPEG Composem
+nedělal, ale koukal jsem
+na různý prezentace, koukal jsem na to,
+jak vypadá ten kód a je to
+v podstatě úplně to samé.
+Má to různý rozdíly.
+Myslím si, že JPEG Compose
+má nějaké výhody
+oproti SwiftUI
+a tím si můžeme dostat
+později, ale
+v podstatě mi to přijde úplně stejný.
+JPEG Compose
+ten vývoj byl
+možná pomalejší, ale
+myslím si, že došli
+trochu dál a ten návrh
+je o trochu lepší
+v některých aspektech.
+Velká výhoda je, že to je
+open source a že to je knihovna,
+kterou já můžu použít
+aktuální verzi JPEG Compose
+v projektu,
+který vlastně poběží třeba i na starších
+verzích Androidu, která doufám, že
+nekecám, to si nejsem jistý,
+ale můžu to použít prostě jako knihovnu,
+kdežto třeba
+nevýhoda SwiftUI je, že to je
+framework, který je součástí toho
+systému, takže když chci
+použít novou verzi SwiftUI,
+kterou třeba předvedli teďko
+na začátku léta tohohle roku,
+tak tu verzi SwiftUI s těma
+novýma featurema můžu použít
+jenom na iOS 15.
+A spousta klientů
+samozřejmě chce třeba podporovat
+pro ty nativní aplikace dvě nebo tři
+poslední verze iOS, takže
+jsme samozřejmě nahraní
+a ty feature, které jsou teďkon
+v iOS 15, můžeme použít
+třeba až za rok nebo za dva.
+Hezky. Taká sofěna volba,
+jestli do toho teda jít a jako
+odseknout tyhle zákazníky nebo uživatelé,
+ale zase přijdu o
+všechny možné nové vývojáře, které
+do toho SwiftUI půjdou.
+Přesně tak.
+Já se ještě zeptám, ty jsi
+mluvil o komponentách ve SwiftUI,
+mluvil jsi o tom, že
+prostě jsi schopnej pracovat v kontextu nějaký
+malinkatý komponenty, která má nějaký svůj stav
+a ty to můžeš měnit, když to teda funguje,
+že tam máš nějaký náhled.
+Jaké je vlastně,
+jaká je myšlenka za celým tím SwiftUI,
+že třeba v ELMu máš model
+view update, pak máš někde MVC,
+někde máš MVVM.
+Tady ten pattern celkově zatím,
+jak to funguje,
+update toho stavu, to vykreslování,
+jaká je vlastně flow,
+toho toku těch dát, ten pattern.
+Jo, SwiftUI je
+postavený na dvou
+technologií.
+Jedna je UIKit, ten už jsem zmíněval,
+a ta se stará o to vykreslování
+toho UI.
+A druhá důležitá technologie je
+Combine, což jsou
+reaktivní streamy, které byly uvedeny
+společně, možná byly uvedeny o rok dřív
+než SwiftUI, to si nejsem jistý,
+ale vlastně
+to, jak funguje SwiftUI,
+to, že když změním,
+data, takže se překreslí ty komponenty,
+který ty data používají,
+tak to je postavené na Combine
+a na těch reaktivních streamech, které
+fungují podobně jako
+RxJava, RxJavascript a podobně.
+Ještě nám, Tome, řekni,
+co se týče state managementu
+v takové aplikaci. Co na to používáte?
+Jak to funguje?
+Pověz.
+Tak pro ten nejjednodušší state management
+Apple přímo ve SwiftUI
+podporuje takový
+property wrapper,
+state, který vlastně umožní
+měnit, jakoby
+mutovat ten stav
+pro nějaké třeba jednoduché
+inputy nebo toggly.
+Pro nějaký složitější state management
+je od Apple Observable Object,
+což je taková klása,
+která vlastně může říct,
+jakoby můj stav se změnil,
+takže UI se má překreslit.
+Ale naše zkušenost
+Observable Object byla, že to
+je jakoby dost nedotažený,
+neumožňuje to dobrou třeba kompozici,
+těch stateů, že by byl
+Observable Object uvnitř
+Observable Objectu, takže by se ta architektura
+nějak jakoby dělala na menší části.
+Takže to, co jsme
+vlastně udělali na tom prvním
+projektu, byla taková
+flux nebo redax
+architektura, kdy jsme měli vlastně
+reducer, který reagoval
+na akce. Akce byly
+klasicky jakoby enum,
+takže kdyby toho třeba counterl, tak máme
+increment, decrement, reset.
+Jasně, taková ta elmová klasika.
+Tak, přinesl jsem to tam s elmu.
+To jsou teda
+akce, potom jsme měli state,
+což byla jednoduchá struktura,
+která kdykoliv se provedla
+akce, tak ten reducer vrátil
+novou verzi toho stateu.
+To znamená, když reducer dostal akci
+increment, tak na základě
+starý hodnoty stateu
+vypočítal, že counter
+má být plus jedna, ta stará hodnota,
+a vrátil novej stav,
+který způsobil to, že
+ta aplikace se překreslila a
+ten counter se zvýšil.
+To, co jsme tam ještě přidali, byly
+takzvaný epiky, což bylo
+inspirovaný tím, jak funguje
+Redux Observable,
+což je takový plugin do Reduxu v JavaScriptu,
+a to je zase postaven
+na reaktivních streamech.
+To znamená, kdykoliv já
+dispečnu nějakou akci,
+tak v tom reaktivním streamu se můžu
+napojit, kdykoliv tato akce nastane,
+tak spustím nějaký stream, třeba
+HTTP request, a jakmile mi ten stream
+dojde, tak zase dispečnuji
+nějakou novou akci, kterou já můžu
+obsloužit v tom Reduceru.
+Tohle jsme vlastně použili
+naše custom řešení, který bylo
+CCA třeba 100-200 řády
+kodu a fakt jako jednoduchá
+architektura, která byla univerzální.
+A vlastně to fungovalo tak,
+že každá obrazovka si držela
+svůj state. Většinou
+to fungovalo tak, že ta obrazovka na začátku
+načetla data z GraphQL,
+pak tam byla nějaká interakce s uživatelem,
+jakože třeba togluje tlačítka
+nebo otevírá, já nevím, galerie
+a takové věci. To se řešilo
+v tom state managementu, ale každá obrazovka
+měla svůj vlastní state, protože
+to bylo jako aplikace na velký
+e-shop a samozřejmě jsme nemohli mít
+všechny data toho e-shopu někde
+v centrálním storiči.
+Na tom druhým projektu,
+který jsme začali asi
+před tři čtvrtě rokem,
+tak jsem vlastně
+našel, že
+od kluků, který dělají
+podcast a školení point free,
+tak oni
+udělali knihovnu, která se jmenuje
+Swift Composable Architecture,
+která je zase postavená na tom
+Flux Redux
+patternu a to, jak to
+mají udělané, oni vlastně šlo
+ještě o několik kroků dál, než jsme to
+měli my na té první aplikaci. Takže
+v té druhé aplikaci používáme tuhle knihovnu
+a kolega,
+ještě než jsme ji tam uvedli do toho
+projektu, tak vlastně měl ten state
+té začínající aplikace,
+která byla hodně
+taková, vlastně
+na začátku byla jakoby dost malá ta aplikace,
+tak ten state měl v těch observable
+objektech, protože o té Composable
+Architecture ještě nevěděl a vlastně
+když to převedl do té Composable
+Architecture, tak vlastně polovinu kódu,
+který tam byl, mohl smazat
+a nebyl vlastně důležitý. Že ta Composable
+Architecture, ta Elm Architecture,
+která je vlastně ve Swiftu, díky téhle
+knihovně, tak
+redukuje celkově komplexitu a
+množství řádek, který je potřeba pro tu
+samou práci. A je to teda
+tak, že každá ta
+komponenta nebo stránka,
+že záleží na tobě, jestli má
+ten vlastní state a jak si to handluje
+jakoby dolů, nebo je to
+jako v Elmu, že to vlastně je jedna velká
+aplikace, ty to furt musíš někam přeposílat a pak
+přemapovat ze zpátky nahoru, protože
+třeba tohle je věc, teda osobně jako
+mě na Elmu vždycky
+jako s tím způsobem, ona byla svazující,
+čímž byla cool, protože se v tom nedalo vymýšlet
+úplně mega jako prasárničky, ale na druhou stranu
+prostě furt byla svazující, takže pokud
+si chtěl mít nějakou malinkatou komponentu, která
+asi žila svým vlastním životem, tak stejně
+pokud si chtěl zakomponovat, musela
+nějak nahoru posílat ty message, které musely
+být nějak přemapovaný a začalo to být
+časem jako strašně otravný, takže je to
+tak, že drží tě to
+takhle za
+cokoliv si můžeš vybrat, protože nemáš
+rád, když jsi za to držen, a nebo
+je to volný
+a řekneš si, jak vlastně hluboko
+chceš jít v té hierarchii těch komponentů, tak jdete
+prvé ten stav, jako si začneš
+hendlovat. Jo, jak hluboko chci klesnout.
+Jo. Dobře.
+Je to volnější.
+Je to vlastně dost podobný
+tomu, jak to funguje v Reactu, to
+znamená, že drtivá většina kódů je
+funkcionální,
+imutabilní a tak, ale
+když potřebuju, tak některé části
+ten state můžou mít třeba i lokálně
+a můžou to hendlovat lokálně.
+Jo, za mě to dá
+vám smysl, je to takový
+pragmatičtější přístup.
+Samozřejmě nemá to ty výhody
+ELMu a to znamená třeba v ELMu, když tu
+aplikaci zkompiluju, tak vím,
+že mě nikdy nemůže krešnout
+v runtimeu, což je jako záruka,
+kterou ve Swiftu ani ve SwiftUI vlastně
+nemám. A ta výhoda,
+my jsme to vlastně použili na obě ty
+aplikace, že víceméně, ne,
+použili jsme to vlastně takhle na tu první
+aplikaci, že každá ta obrazovka
+si držela vlastní
+state a v té druhé
+aplikaci, ta vlastně
+používá Augmented Reality
+a tam máme spíš
+k té Augmented Reality
+máme takový UI prvky,
+které jsou v různých stavech,
+takže
+můžeme sledovat
+nějaké odezvy
+té Augmented Reality, je tam i
+komunikace s externí
+360° kamerou,
+takže všechno tohle stojí
+v takovém centrálním storage,
+který je
+jakoby komponovaný
+z několika menších storageů
+a ta lensta Composed Over Architecture
+je jako použitá na více
+obrazovkách, jo, takže
+ta lensta druhá aplikace je
+takovej hybrid mezi tím prvním přístupem
+a tím Elmým přístupem,
+kdy vlastně všechny ten state musí
+být někde pohromadě. Ale umožňuje
+to být prostě pragmatický
+a vybrat si, co mi zrovna jako chutná
+nebo co zrovna potřebuji pro tu danou
+potřebu té aplikace. Jo,
+to, co třeba v Elmu občas
+je trochu bolest, je, že nemůžu
+říct jakoby nějakýmu
+vnořenýmu dítěti, že
+tady je nějakej kontext
+nebo nějakej provider a on by
+se na něj mohl jakoby
+napojit, jo. Všechno tam vlastně musím
+postupně předávat, probublávat ty data
+skrz tu hierarchii.
+Ve SwiftUI
+existuje něco, čemu se říká
+environment a to je, že vlastně
+rodič nastaví ten environment
+a jakýkoliv dítě kdekoliv
+v té hierarchii uvnitř toho rodičeho
+se na ten environment může napojit.
+Takže kdyby chtěl, tak můžu ten
+redax, nebo ten
+composable state
+dát do environmentu a napojit se
+na něj někde hluboko v té hierarchii.
+Není to to, jak my to
+používáme, protože
+my jsme to nepotřebovali, ale umožňuje to.
+Já si myslím, že
+mohli bychom trošku teďka
+nebo odbočit, no to není úplně odbočení,
+je to spíš jako podívání se na
+tento druh vývoje z jiný strany
+a to je, protože vždycky
+jedna stránka je, buď se budu držet
+tý daný platformy a budu vyvíjet to,
+na co je to vlastně dělaný a co je mi doporučovaným
+tím výrobcem nebo tím
+poskytovatelem, ať je to prostě Apple nebo
+Microsoft nebo Google,
+když prostě chci být na Androidu,
+a nebo je to takový ten multiplatformní
+vývoj, kde já se vezmu nějakých řešení
+řekněme třetí strany a budu
+chtít se dostat do
+výcero platformem na jednou.
+Vím, že existuje
+něco jako React Native,
+vím, že jsou další řešení
+typu Flutter,
+ze svý komunity vím,
+že existuje Xamarin nebo Xamarin Forms,
+teďka se to furt nějak mění a rebranduje,
+myslím si, že i s novou verzi dotnetu
+se vlastně nějak celý bude měnit,
+a to není důležitý. Jak je to vlastně,
+pokud já bych chtěl teďka
+jít na svůj
+delík a začít
+dělat něco multiplatformně
+a targetovat i to iOS?
+Hodně záleží
+na typu aplikace a na
+třeba i
+budžetu toho zákazníka.
+Samozřejmě, když se to napíše
+v nějaký multiplatformní technologii,
+tak je to vždycky třeba kompromis,
+co se týče nějakých
+nativního vzhledu,
+performance,
+nějaké škálovatelnosti, anebo třeba i přístupu
+k těm nativním API.
+Většinou se to dá všechno obejít,
+dá se třeba i React Native
+napojit na nějaký nativní API,
+ale vždycky je to
+jako balans
+toho jakoby
+jistého
+jestli ten zákazník
+skutečně chce aplikaci, která má
+nejlepší performance, kterou
+ta platforma podporuje,
+anebo jestli mu stačí
+performance, která je třeba 90-95%
+toho, co by
+umožňoval ten nativní vývoj.
+Takže za mě třeba React Native
+není úplně špatná volba pro spoustu
+aplikací, které jsou takové jakoby
+běžné aplikace, nebo je to
+aplikace, kterou ten uživatel má,
+nebo je vysoce motivovaný
+tu aplikaci používat,
+a není
+tam taková ta překážka, že když čeká
+o 200 milisekund víc,
+tak to znamená, že je o půl milionu
+míň uživatelů třeba na Facebooku
+nebo něco takového.
+Takže React Native mi dává smysl,
+ten vývoj je hodně podobnej,
+zase jsou to komponenty,
+vlastně reaktivní přístup,
+dá se tam použít ten Redux pattern
+a tak dál, ale
+na těch dvou projektech,
+na který jsem dělal ve SwiftUI,
+tak ten první, tak tam chtěli
+tu nejlepší možnou
+romance, takže...
+Už po začátku prostě, non-functional requirement,
+prostě musí to být rychlej, co to je.
+Přesně tak. Takže chtěli do toho zainvestovat,
+takže museli jsme vyvíjet
+pro obě platformy zvlášť.
+Na Androidu ten Jetpack Compose
+ještě v té době byl hodně v plenkách,
+nebyl release,
+protože ten release byl až teďko,
+myslím, 2021 a teď v létě.
+Tý verze 1.0.
+Takže to ještě dělali přes ty starý XML
+soubory, ale myslím si, že ta architektura
+se jim docela povedla.
+A ten nativní vývoj
+ve SwiftUI
+pro ně byl OK, protože v době,
+kdy se to mělo release-nout,
+tak SwiftUI už bude,
+nebo by byl podporovaný na dvou
+posledních verzích iOS, což bylo pro ně
+good enough. Ta aplikace byla
+hodně cílená na vlastně
+luxusní oblečení, takže jsme
+i očekávali to, že ty uživatelé
+budou mít nejnovější telefony
+s nejnovější verzí iOS, takže všechno tohle,
+co by hrálo pro to, vyvíjet
+to nativně ve SwiftUI a tak dále.
+Ta druhá aplikace,
+protože se napojuje, je
+hodně postavená na tom, jak funguje
+Augmented Reality přímo
+na iOS a vlastně
+není ani v nějakým dohledným
+plánu podporovat
+tu aplikaci na Androidu, protože
+Androidi nemají
+porovnatelnou
+tu Augmented Reality s tím, jak je to
+vytůněný a vyšperkovaný
+na iOS. Možná, že se
+mýlim, nevím, nejsem Android vývojář,
+ale každopádně jejich
+plán byl nativní vývoj,
+React Native, myslím si, že by pro ně
+zastolik nedával smysl, tak
+jsme to zase udělali ve SwiftUI a
+ten kód
+vlastně, kromě toho, že
+se nedá přepoužít, tak to množství
+kódů React Native a SwiftUI
+je porovnatelný. Třeba, když
+jsem psal React Native aplikaci,
+tak to bylo výrazně méně kódů, než
+kdybych to psal nativně v UI kitu,
+ale zase
+porovnání SwiftUI a UI kit
+je podobný jako UI kit React Native,
+že ta redukce toho kódu, který je
+potřeba pro tu aplikaci, je
+prostě výrazná.
+Takže u nás, když teďka přijde
+zákazník a řekne, hele, já chci mobilní
+aplikaci, nejlépe teda, aby jako jeden
+tým mi to byl schopen doručit na všechny
+platformy a nehraju si moc na performance,
+tak bychom asi šáhli na nějaký
+multiplatform typu React Native,
+pořád ještě, ale ve chvíli,
+kdy přijdu a řeknu, prostě pro mě
+milisekunda je strašně moc času
+a chci využít ty věci, které jsou
+pouze a jenom dostupný v poslední verzi
+prostě iOS, tak půjdeme
+vždycky do SwiftUI. Můžu to takhle
+zjednodušit u nás?
+Je to zjednodušení, ale já si to tak říct.
+Jinak samozřejmě existuje ještě
+technologie Flutter od Google,
+ale ta si myslím, že má
+trochu nevýhodu v tom, že nepoužívá
+nativní prvky té platformy.
+Já si myslím, že Flutter
+prostě všechny ty prvky
+vykresluje, jakoby
+si to představí jako v OpenGL
+a prostě to hardwarově vykresluje všechny ty prvky.
+Ta aplikace může být docela
+rychlá, ale pro některý
+uživatelé, oni si můžou všimnout,
+že třeba trošku jinak scrolluje,
+nebo ty animace nejsou jakoby
+native look and feel té platformy.
+Takže on se tak otváří, že to je native, ale není to native, jo?
+Bona,
+ta aplikace se dokonce ani moc
+myslím ve Flutteru netváří native,
+protože jakoby to je zase možná
+trošku výhoda Flutteru, že třeba
+oproti SwiftUI se
+vnídá z nás vytvořit
+ta aplikace pixel perfect.
+Že ten Flutter tě tolik nelimituje tím,
+že si všechno vykresluje sám.
+Když to SwiftUI je hodně dělaný na to,
+že když tu aplikaci napíšeš
+bez nějakých stylů,
+tak bude vypadat nativně tak, jak
+vypadají ty jednoduchý Apple aplikace.
+Což může být výhoda,
+může to být nevýhoda.
+A nevýhoda je podle mýho pro ty
+zákazníky, který chtějí
+hodně custom UI, custom look
+ty aplikace a tam už
+v některých případech třeba
+ListView, tak tam je trošku
+problém odstranit
+ty čáry mezi těma buňkama
+a takový věci. Navigační menu,
+že tam chtějí třeba dva řádky
+v tom navigačním menu a to je
+docela pain udělat a takový věci.
+My se, když se
+bavíme o takovémhle druhu vývoje,
+nedávno, že nám vyšel
+další Stack Overflow Survey,
+jak je to vlastně s velikostí té komunity?
+Bavíme se tady o nějakém níži
+nebo naopak bavíme se tady o
+masivním počtu vývojářů, který nedělají
+od rana do večera nic jiného. Jak je to vlastně
+co se týče nějakého koláče na trhu?
+Jak je to velký? Máš představu?
+To je těžký říct.
+Úplně představu nemám. Samozřejmě
+App Store, ten nativní
+nebo vlastně jedinej store
+pro iOS, tak je největší
+co se týče
+aspoň obratu, to znamená
+kolik tam lidi nakupují, ne, kolik lidi stavují.
+A ta komunita
+je velká, ale
+co se týče mýho pohledu
+a já mám zkušenosti i s JavaScriptem,
+Reactem a webovým vývojem,
+tak ta komunita mi přijde
+taková jakoby trochu víc
+uzavřená. Že třeba
+nejsou zvyklí tolik používat
+knihovny třetích strán. Že třeba
+na těch projektech máme
+v té aplikaci pět,
+deset knihoven, ale
+na těch Reactích projektech je standardní
+mít třicet knihoven, který dělají
+jako fakt důležitý věci. Leftpad
+a tak. Zásadní věci.
+Zásadní věci. Ano, ale
+ta open source komunita v JavaScriptu
+je neporovnatelně
+větší. Je to stokrát, desetkrát
+větší. A ty věci
+existuje spousta
+implementací toho samýho a člověk si
+může vybrat ta, která dobře funguje
+pro ten jeho use case, nebo má
+dobrou komunitu. Je tam konkurenční
+boj mezi těma open source projektama
+a ty open source projekty jsou často
+aktualizovaný a fungujou.
+To v iOS
+jsou nějaké
+knihovny, jako třeba na stahování
+obrázků, zobrazování obrázků z URL,
+tak ty fungujou
+docela dobře, ale potom
+je spousta
+one man projektů,
+který prostě někdo vyvinul
+jenom proto, že měl malou potřebu,
+potřeboval nějakou
+komponentu malou, ale pak už se o to
+nestará. V tom JavaScriptu to žije,
+prostě tam komunita
+funguje. Takže tohle se podle mě
+trošku nevýhodá tý
+Swift community. A není to zároveň
+trošku výhoda, protože já to znám
+něco podobného z toho Fsharpího světa
+na dotnetu, kde pokud uděláš
+dostatečně používanou knihovnu
+v rámci toho svýho niše, tak seš najednou
+strašně známej být
+v té malinkaté komunitě, v té
+malinkaté místnosti. Vlastně na to může
+být výhoda pro ty vývojáře, protože zase udělat
+si jméno v JavaScriptu je strašně těžký,
+protože podle mě teďka, když zařveš
+z okna, v čem vy víte, tak oni zařvou
+všichni JavaScript, vole, co se vůbec ptáš.
+Když to
+v takovémhle jako menší komunitě tím
+zase, že se zviditelníš, tak
+tě to může někam trošku posunout, ne? To jméno
+udělat si musí být podle měho trošku
+jednodušší. Jako...
+Asi ano. A podle mě je to
+výhoda pro ty lidi, co
+online školí
+iOS vývoj třeba.
+Takže jsou schopní si s tím docela
+dobře vydělat, píšou o tom blogy, točí
+YouTube a tak dále. Ale zase
+mně přijde, že jich je třeba tak jako
+deset známejch a dobrých
+a pak ta komunita už není
+jako větší. Když to v JavaScriptu
+jsou to třeba stovky
+lidí a skutečně už si můžeš vybrat
+ty nejlepší z nejlepších a
+jakoby sledovat jejich jako
+názor na ten JavaScript.
+Jo, protože JavaScript je jakoby
+multiparadigmatický.
+To znamená, můžeš
+něm dělat i objektově, ale na to
+není jakoby moc stavěný. Podle mýho
+je JavaScript funkcionální jazyk
+a na to je jako dobře stavěný.
+Takže můžeš jakoby si vybrat, že
+tebe zajímá funkcionální
+programování JavaScriptu a ta komunita
+kolem toho je dost velká.
+Když to třeba ten funkcionální přístup
+ve Swiftu se teprve
+trochu rodí. Třeba s tou
+Composable Architecture. Jsou tam
+i takový ty kategory, teory
+knihovny, který jako
+monády a všechno to jakoby zapoutřujou.
+Ale zase je to single
+man show.
+Tak ono, já si myslím, že ten funkcionální
+svět se teprve rodí, nebo
+takový ten jako mainstreamový prout
+toho funkcionálního přístupu se rodí nejenom
+na mobilní vývoj, ale
+z mýho pohledu je to na JVM
+v světě, v dotnetu.
+To je úplně stejný. To teprve
+bude trendy za pět let a my řekneme,
+že jsme to říkali už dávno.
+Ty jsi trošku naťuknul
+tyhle ty balíčky, nebo přepoužívání
+ty cizí práce,
+OSS projekty.
+Jak to vlastně funguje? Máte tam
+nějaké jako NPM-ko, nebo jako my máme na dotnetu
+Nuget. Prostě jsou tam nějaký
+server, kam já jako autor
+to nahraju a ostatní to můžou stahovat.
+Jak to funguje?
+Jsou tři vlastně packageovací
+systémy. Jsou tři? Já bych čekal, že
+Apple udržuje jeden a ostatní trhněte si nový.
+Tak jsou tři, jo? Ne, myslím si, že
+první byl Cocoapod,
+což je takový nejstarší.
+Vlastně ten zápis je
+myslím v Ruby a je hodně jakoby postavený
+na tom, jak fungují Ruby packagee.
+A
+Cocoapody má jakoby spoustu výhod,
+spoustu nevýhod.
+Od chvíli to vypadalo,
+že je nahradí ten druhej
+způsob, který je cartridge,
+ale teď, co jsem se dozvěděl,
+já třeba cartridge jsem nikdy nepoužíval,
+iOS jsem jakoby dělal
+v době iOS 2 až 6,
+pak jsem přešel na web a teď zase dělám
+od iOS 13 dál.
+Jsem se vrátil vlastně
+díky SwiftUI do iOS vývoje.
+Takže cartridge jsem jakoby přeskočil,
+ale co jsem se teda doslechl,
+ta cartridge už zase trošku umírá
+a nedávno
+Apple před pár lety uvedl
+Swift Package Manager, což je
+jejich způsob, jak pracovat s těma
+packagema a vlastně je to
+postavený na GitHub-ých
+repozitářích.
+Takže ty řekneš, že chceš
+uživatel Romeno jeho repo
+a nainstaluješ si to na základě
+jeho GitHub-ýho účtu.
+Takže ten Swift Package Manager je to,
+co my teď používáme
+na těch projektech.
+Bohužel na tom druhém projektu se ukázalo,
+že Swift Package Manager má
+nějaký svý limity, takže pravděpodobně
+bude muset přejít na Cocoapods
+nebo
+vůbec ten Package Manager
+nějak vyhodit.
+A ten hlavní limit, co jsme narazili
+a dokonce i jeden
+kamarád mýho kolegy,
+který dělá v komerčce,
+tak narazil na úplně stejný
+problém nedávno, takže to
+řeší. A je to problém
+s binárníma
+knihovnama, které jsou
+close source, já nevím, třeba
+pro komunikaci s tou Insta
+360 stupňovou kamerou,
+tak v tom Swift Package
+Manageru to nefunguje úplně dobře
+a měli jsme s tím spoustu problémů.
+Možná, že ani to řešení teď
+není pro náš
+problém.
+A uvidíme.
+Jo, dobře. Máte tam
+nějaký takový ty jako version hell,
+tak jako nám už se teďka
+i děje i tím, jak se mění
+dotnet core na
+velký dotnet a dotnet standard,
+se stává deprecated a tak, tak
+teďka už my si zažíváme takový ty
+jako DLL helly, tak je tam něco podobného,
+jakože verze se ti rozcházejí
+a tohle má tuhle závislost, tohle tuhletu.
+Jo, máme tam version hell
+a to je, vlastně ten
+vývoj té druhé aplikace funguje tak, že
+jsou to dva týmy, jeden
+je v Kuala Lumpur a Indii,
+ten vývíjí jakoby tu aplikaci,
+která komunikuje s
+backendem a tak dál. A to, co
+my vyvíjíme, ten
+augmented reality část, tak to je
+rovna, kterou vyvíjíme tady vlastně
+v Praze a oni ji instalují
+jako závislost přes Swift Package
+Manager. Ale samozřejmě ta jejich
+aplikace má
+některý balíčky stejný jako ta
+naše verze, takže se běžně
+stává, že máme různý verze
+a ten, podle mýho to není tolik
+problém Swift Package Manageru,
+ale jako je to problém Xcodeu,
+který vlastně pouští
+instalace těch balíčků
+a často se stane, že není schopnej
+vyhřešit tenhle ten konflikt
+i když je tam řešený,
+jakoby v tom Swift Package Manageru
+můžeš říct, že chceš verzi 1, 2, 3
+a nebo vyšší, ale on
+není schopnej si dopočítat, která ta verze
+je teda ta vyšší.
+Dobrá, teda.
+Koukám,
+čas se nám pomalinku nachyluje.
+Petě, jak to ukončíme?
+No, ukončíme to... No, máš ještě
+něco, co se chceš zeptat, ty seš tady tak jako potichu.
+Jasně, jasně.
+Ty seš za ty,
+za ty, jak jim říkáme,
+za ty sponzory,
+to je správný slovo.
+Ty se tady na ty sponzorský...
+Hned se napadl další sponzorský dotaz, samozřejmě.
+Vlastně zažil jsi z dva ty projekty
+a samozřejmě člověk
+na začátku musí trošku přesvědčovat toho klienta,
+že teda Swift UI je
+správná volba, ještě to vlastně,
+co si budeme povídat, úplně stoprocentně neví,
+protože je to nová technologie.
+Jak to dopadlo, jestli teda už se to dostalo
+aspoň jeden z těch projektů do fáze, kdy ten klient
+to může nějak evaluovat a říct,
+hele, nakonec se nám to teda líbilo
+nebo nelíbilo, samozřejmě můžou tam být
+různý efekty, který to ovlivnili,
+ale jestli ten Swift UI pomoh na jednu
+nebo na druhou stranu.
+Jo, já si myslím, že to je
+vlastně...
+Já nevím, jak v češtině použít slovo
+trade-off. Kompromis.
+Kompromisy. Něco za něco.
+Něco za něco, může být.
+Vždycky je to kompromis a vždycky
+nějaká technologie ti vyřeší
+šest problémů a přidělá tři nový.
+Takže Swift UI
+patří do téhle kategorie
+a samozřejmě vyřeší to hromadu
+problémů, které byly s UI kitem,
+ale přinese to nějaké nové problémy.
+Jo, ale můj závěr
+z těch dvou projektů je takovej,
+že celkový počet problémů je potom
+nižší a že ty problémy, který
+řeším se Swift UI
+jsou problémy, kterými
+vadí míň, než kterými by mi vadili
+na tom UI kitu.
+Jo, jinak ty klienti jsou s tím
+spokojení. Vlastně to, když
+na tom projektu nejsou problémy,
+když dodržíme deadline,
+tak jako je tom
+vlastně nezajímá, v čem to píšeme.
+Jasně, jasně. No tak fajn, to zní
+moc dobře. Takže
+vypadá to, že Swift UI nějakým způsobem
+funguje. A jak funguje pro tebe?
+Je to něco, čemu se chceš věnovat dál?
+Protože říkal jsi, že jsi zažil spousta jiných
+věcí, ve kterých jsi koudil.
+Posuneš se zase někam dál
+nebo chceš u Swift UI ještě nějakou dobu zůstat?
+Tak, no...
+Já doufám, že se posune, teda, že si ho
+zase třeba za rok pozveme na
+úplně jinou technologii. Jasně.
+Proto se ptám. Tak, úplně
+upřímně řečeno, já jsem teď
+ve fázi, kdy to vypadá, že se zase
+posunu o technologii dál.
+Bude to krok zpátky
+pro mě, zpátky k Reactu.
+A je to kvůli tomu,
+že vlastně Swift UI je super.
+Myslím si, že je to nejlepší způsob,
+jak vyvíjet na té Apple platformě.
+Ale pořád je tam spousta věcí,
+co mě štve, ohledně třeba
+toho Xcodeu a podobně, nebo celkově
+pomalosti těch nástrojů,
+včetně pomalosti toho Swift Package Manageru.
+A vlastně
+po těch, já nevím,
+skoro dvou letech vývoje,
+no, roku a půl vývoje v tom
+Swiftu, už bych se zase
+radši vrátil k Reactu,
+protože tam je to trošku
+odladěnější, trošku líp to funguje
+a, nevím, zase
+chci nějaký jiný výzvy.
+Prostě zase ten...
+Ten webovej chlebíček si chce zakoustit.
+Je mi to jasný, je mi to jasný.
+Dobrá, hele, Tomáši,
+my ti strašně děkujeme, že jsi našel čas
+ve svém
+nabitém programu, který brzo bude
+vlastně i režisérský, což je věc,
+ke který bychom se stejně měli jednou vrátit.
+Já si myslím, že tím, že jsme pod vocasem,
+není daný, že jsme IT,
+byť jsme jako IT podcast, ale
+můžeme se vrátit za nějaký čas
+a zeptat se třeba Tomáše, jak funguje to,
+když iOS
+lomeno React vývojář,
+herec se pustí ještě do režírování.
+To je podle mě jako geniální mix.
+Myslím si, že je jako krásný téma
+k diskuzi příště a normálně bychom zjistili
+od našich posluchačů, co je nejvíc zajímá
+za dotazy, ale tohle je první díl, takže žádný
+posluchače nemáme.
+V podstatě tato rubrika zatím neexistuje,
+ale jednou bude a můžeme dojít
+k tomu, že je bude zajímat třeba
+právě tato tvoje herecká činnost.
+Výborně, budu se těšit.
+Odbočka směrem k tomu
+konzultantství, že kolikrát u toho
+zákazníka je to tak jako it depends,
+záleží, ale furt to bylo
+dost konkrétní, nepřišel s tím, že by
+celý podcast bylo it depends,
+pak vykešoval, že jo, prachy a zmizel doplič.
+Takže bylo to fajn, mě se to líbilo.
+No co my?
+My si jdeme dát NHL-ko.
+No ještě chci si trošku, tato náladu mám skvělou,
+tak si ji chci udržet, takže...
+Tak to mě mrzí, protože New Jersey Devils
+ti jedou právě zkazit.
+A my musíme sehnat do příště
+dalšího hosta na sklej rozhovor.
+No a sejdeme se zase
+po dvoca sem. Budu tam, jako vždycky.
+Tak jo, tak po dvoca sem. Měj se krásně.
+Čau. Čau.

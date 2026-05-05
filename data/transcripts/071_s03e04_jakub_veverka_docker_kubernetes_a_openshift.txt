@@ -1,0 +1,1814 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Krásný den, milí posluchači, vítejte u dalšího dílu IT podcastu Pod vocasem.
+Naproti mě jako vždy sedí krásně vyspalý, odpočatý a natěšený Petr Polipolák.
+A na druhé straně Roman Džokor, provozník. Přesně tak, jsem krásně vyspalý a v kolik to natáčíme, Roman?
+Teď je 7.07, ale už se tady chvilku moříme s technikou, takže řekl bych, že od sedmi hodin jsme to vykopli.
+Já myslím, že to musí být nějaký světový rekord, ne?
+Já nevím, no takhle brzo nevím, jestli se to někde točí a jestli ne, tak k tomu určitě existuje dobrý důvod
+a to je to, že ten mozek nechce naskočit.
+Jo, jo, asi z toho bude něco takovýho. No my jsme se teď hrozně dlouho neviděli.
+To jsem chtěl říct, že tě vidím po dlouhé době.
+No, ty jsi zažil nějaký ty nalejvárničky, tak jaký to bylo?
+Hele, nalejvárničky byly fantastický, bylo to skvělý, užili jsme si, Zlín byl obzvláště vypečenej,
+protože ve Zlíně už ta dotnetí komunita je docela vybudovaná, takže tam stačí říct, že něco pořádáš
+a ty lidi tam naskáčou a měli jsme full house a bylo to úplně úžasný, pak se šlo ještě dolů posedět,
+tam byla strašná sranda. No a potom jsme hned, den potom jsme se přesunuli do Bratislavy,
+tam ta účast byla o trošku menší, protože tam ta komunita ještě není tak nabůstovaná,
+nicméně bylo to super i tak a vyměnili jsme si tam nějaký kontakty s lidma, který tam pořádají dotnetí meetupy,
+takže jsme tak jako započali takový ten dlouhodobější front shaft na bratislavské scéně,
+takže podle mě jako fenomenální sukces.
+Fantazie, jsem rád, že se zase vracejí tyhle offline eventy do života, protože to bylo hrozný bez nich.
+No, jako dva roky peklo.
+Já právě přemýšlím o tom, že o prázdninách nastartuju, že uděláme tradiční F-sharpový pivo,
+což jsme dělali i přes COVID, protože co může být lepšího, než když je pandemie,
+tak se sejít jako 30 lidí v malý místnosti, to bylo mi rádi.
+A hned potom, že to zase vykopneme i na F-sharpový meetupy, že zase pojedeme dál,
+takže snad jsme to nějak jako restartovali a snad už se to nepodělá.
+No a co ty?
+No prosím tě, já jsem vyrazil do Švédska na konferenci o AI.
+No, tak to je.
+Tak to je.
+Myslím si, že to bylo na jednu stranu zajímavé, na druhou stranu ještě zase člověk vidí,
+jak ten hype, který tady byl, a konec konců jsme to řešili s Honzou Vrubilem, když tady byl,
+nějak jako lehce opadnul a trošku se racionizoval ten trh.
+Teď nevím, jestli jsem to řekl správně.
+A znamená to to, že prostě máme pár věcí, kde AI dává smysl
+a taky ty v uvozovkách kraviny, kde se to AI dávalo jenom asi na sílu, tak vlastně zmizeli.
+A je to jenom dobře, vlastně ten trh to hezky jako vyčistí a budeme se věnovat věcem, který dávají smysl.
+Takže nějaký nový projektíky pro nás na obzoru?
+Hele, já jsem nabil s Kentem, naším silsákem ze Švédska,
+to si není možné, aby si to na nějaký projekt nepadnul, takže ho uvidíme.
+No tak to je člověk, který ti prodá na poušti písek a ty budeš ještě rád,
+že jsi znal celou Tatravku, to je velký borec.
+Přesně tak.
+No a samozřejmě nemůžeme opomenout, teďka probíhá mistrovství světa v ledním hokeji, koukáš?
+No jo, koukám, koukám.
+Já jsem si vzpomněl na jednu věc a vlastně, oni to posluchači neví,
+ale my spolu, když hrajeme NHL, tak vlastně vždycky vzpomínáme na ty starý časy hokejový,
+na tu zlatou slávu českého hokeje.
+A vracíme se samozřejmě do Nagána a vracíme se i do roku 96.
+A ono bejvávalo, teď už mám pocit, že to není, ale s každým tým ročníkem dřív se nesla nějaká píseň.
+Ony to měla vlastně i Olimpiáda, třeba Atlanta měla Gloria Estefan, Jill Reach a tyhle z ty songy.
+Jestli pak si pamatuješ v 96. co byla ta hlavní ústřední píseň celého mistrovství?
+Podle mě to byl Lemon Tree Fools Garden.
+Tyjo, výborně!
+A proto, přátelé, tohle kluka miluju, protože prostě jakákoliv reference na zlatý hokejový časy, tak on to zná.
+Hele, tohle bylo vlastně, to bylo moje vlastně první mistrovství.
+Tu VHS-ku už mám úplně ohranou, už to vůbec nejde pustit.
+No super, no tak to jsme probrali komplet.
+No a teďka si půjdeme na našeho dnešního hosta, což je můj opět bývalý kolega, člověk, se kterým jsem taky pár let pracoval
+a velký znalec dokorů a kontejnerů a těchto věcí, Kuba Veverka.
+Takže myslím si, že dneska po dlouhé době se zase budeme věnovat něčemu trošku jinýmu a docela se na to těším.
+Já taky, protože dokry a kontejnery poslouchám pořád od všech svejch lidí a jako neprogramátor o tom vím ten high level,
+který je vlastně ohromně zajímavý, takže fakt se těším, co se dneska od Kuby dozvíme.
+No tak jo, tak já jdu pro něj a za malou chvíli Kuba Veverka a dokry.
+Jdeme na to.
+Podařilo se nám zbudit našeho dnešního hosta, Kubu Veverku. Ahoj Kubo.
+Ahoj.
+Čau Kubo.
+Tak vítej, rád tě vidím po takový době. Já musím říct, že Kuba je jeden z těch dalších hostů, se kterýma mám už nějakou historii.
+My jsme spolu dělali docela dlouho ve Vendavu a Kuba Veverka je člověk, který mě vlastně v době, kdy se o dokry ještě moc nemluvilo,
+tak ten už chodil, pobíhal všude po celé komunitě, mával rukama a říkal, ale dokry je nejgeniálnější věc ever, pojďte to dělat, je to skvělý.
+Takže Kuba je tady dneska hlavně za dokr, za kontejnery, jako člověk, který o to věděl dřív, než to bylo cool.
+Ale ty už vlastně úplně tuhletu sféru mám pocit, když jsem koukal na to, co naposledy děláš, tak si trošku opustil.
+Ty jsi přišel do Red Hatu, řekni nám něco o sobě. Co vlastně teďka dělá Kuba Veverka po takový době?
+Kuba Veverka, díky za představení, tak po takovýhle době, kdy jsem ve Vendavíčku,
+evangelizoval dokr, kde jsem to prostě, kdyby přišlo, že mě poslouchají lidi málo, tak jsem přeskakoval jinam.
+A až jsem nakonec doskákal do Red Hatu.
+To, co dneska bych chtěl, že dokr není jedinej kontejnerizační nástroj,
+kdy tady kontejnery před dokrem budou a jsou tady i po dokru.
+Jasně.
+A dneska se věnuju takový technice.
+Z hlediska nějakých našich techniků zradil technologickou čistou část a šel jsem do sales,
+protože mě to zajímalo, jak to funguje a tak.
+A teďka se věnuju jakoby redditním technologiím, který se hlavně dneska točí okolo kontejnerů,
+tak jako všechno jiný.
+To znamená, já jsem ten, kdo chodí a evangelizuje, pomáhá našim zákazníkům,
+pochopí.
+Pochopit, proč a jak se mají používat redditní technologie a mám na starosti ty infrastrukturní části.
+Spoustu lidí překvapí, že máme i ty vývojářské části a hlavně teďka cívíme na ten vývoj.
+Ale já mám na starosti právě RHEL, SAFE, OpenShift, což je naše platforma postavená na Kubernetes
+a podobné věci.
+A i ten RHEL, když se podíváš, tak je protkaný.
+A všechny kontejnery a všechny věci, co máme, tak čas z nich nebo většina je skontejnerizovaná tak,
+aby právě ten vývoj nasazování životní cyklus byl co nejjednodušší a nejpředvídatelnější.
+Takže ty jsi vyskočil z vývoje, řekněme, nebo z té ryze developerské IT části,
+takový to pomezí devrel a sales a tak promíchává se to u tebe.
+Já budu to správně, to je tvůj posun.
+Já jsem posun, začínal jsem u vás JetMinds, neples JetBrains.
+Ano, to jsou jiný Jet.
+Jak si to některý spletli s JetBrains a začali pracovat JetBrains, měš to.
+A tam jsem dělal Linuxový admin, šroubovák, přihazoval jsem lidem SSDčka a tak.
+Pak jsem se dostal k Linuxovýmu adminovi.
+Pak najednou mě začali lidi najímat.
+Ty pozice DevOps, když je to antipatern, říkat nějaký pozici DevOps.
+A pak jsem se začal starat prostě o Kubernetes.
+K tomu si asi dostaneme, že teď je to cool, postavíme si vlastní Kubernetes klastry.
+Tak to jsem dělal, to jsem stavěl.
+A pak mě tak nějak přestalo bavit, jenom se vzdělávat těch technických věcech.
+A dal jsem výpověď a hledal jsem něco a naštěstí moje vysněná práce.
+V Red Hatu mě kámoš říkal, my teď někoho potřebujeme, není to čistě technický, je to pre-sales,
+ale když to teď dělám po dvou a půl letech, tak musím říct, že to je hodně příjemné oživení,
+protože nejsi jenom nějaký Linuxový admin nebo nějaký DevOps člověk, co se stará,
+prostě o to, aby aplikace, aby nejenom systémy běžely, ale aby není něco i rozumně běželo.
+A staráš se o to samý, ale u mnohem víc zákazníků a řešíš ty problémy pořád z jiného úhlu,
+na jiné úrovně, to znamená občas si odpočíneš, řekneš pár věcí nějakým základům,
+a pak řešíš hodně složitý věci, jako cítování v Kubernetes, storage a podobné věci.
+Takže takovýhle posun jsem udělal, že vlastně ta moje role je solution architekt,
+to znamená, že nedělám úplně ty věci jako my na low levelu, ale občas tam umím zazoomovat, ale takový přehled to.
+To je dost podobné, jako to máme my spolem, přesvědčeně toho.
+Zrovna tím přemýšlím, je to ale zajímavé, jak se člověk dokonverguje a hledal jsi to vyloženě,
+že jsi chtěl takovouhle pozici, nebo se to trošku nabídlo, jak jsi řekl, že v Red Hatu Zoom na tahle pozici byla otevřena,
+a pak si vlastně zjistil, že ti to vlastně vyhovuje.
+Jestli znáte Forresta Gumpa film, jak tam pouká na ten letící pitlík.
+Ne, ne, to je pírko vlastně, pitlík je v American... něčem jiným.
+Ale takhle si představuji, jak jsem plánoval svoji kariéru.
+Jak to pouklo, tak to letělo.
+Já jsem tenkrát byl už naštvaný, protože jakoby jsme měli zadání, prostě postavte nám Kubernetes Cluster,
+my jsme ho pořád stavili, pořád jsme ho dělali.
+Byla na nás tam prostě kupa lidí.
+A štvalo mě prostě to, že vlastně nemáme žádný cíl, nevíme, jak to dělat a tak.
+Nebudu se jakoby hanit minulost, ale prostě jsem byl tak šťastný, že jsem vydal výpověď, aniž bych cokoliv plánoval.
+Ale dneska, když řekneš, že jsi Kubernetes admin, tak to není zase tak těžký.
+Ale tak jsem byl rád, že mi to hnedka chytlo.
+To je něco jiného, než jenom prostě admin a má to přesákat.
+Má to tu komunikaci, že jsem zjistil, že mě baví kecat o těch problémech jenom a hledat ty řešení.
+A pak najdeš to řešení, samozřejmě to musíš implementovat, což je sranda.
+To je jako, když si vymyslíš architekturu programů a pak musíš jít a nějak to napsat a řešit tam ty bugy a takovýhle věci.
+Tak tady to je z tohohle hlediska takový zajímavější problém.
+Musíš ty technologie znát samozřejmě.
+Ale...
+Nemusíš to vždycky úplně doimplementovat do toho konečního cíle.
+To už nechávám jiným zkušenějším.
+To myslím, že my chápeme.
+To hlavní překvapení spočívá v tom, že jak jsi říkal, začínal jsi se šroubovákem v ruce.
+A když vidím naše IT udělení tady, tak to jsou kluci, kteří dělají hrozně rádi to, co dělají.
+Ale že by šli a svičli na tu pozici nějakého konzultantství nebo něco takového, to si vůbec nebudu představit.
+A myslím si, že to bude dost podobné ve všech těch firmách, kde ty IT týmy jsou.
+Je to dost nepříjemné, že člověk často jde někam jinam, občas do nepřátelského prostředí a jde s kuží na trh.
+A svoje jméno dává na hodě a musí tam něco předvíz.
+Což je náročné, je to výzva, ale takový je život.
+Ty rosteš ne tím, že jsi pohodlný doma na gauči, ale tím, že děláš něco, co je nepříjemné.
+A zjistíš ty komfortní zóny.
+A potom seš schopný a víš, že dokážeš zvládnout nějaké další věci.
+Tak to mě vždycky motivovalo při změně zaměstnání, tak aby to bylo čelenství na k něčemu jinému.
+Tak ono pro IT-áky je to samozřejmě strašný nezvyk.
+Protože ze světa, kde je true nebo false, kde jsou jedničky nuly, kde věci buď jsou, nebo nejsou.
+Tak když do světa, kde to je totálně rozplyzlý.
+A kde jako maybe je nejčastější odpověď a záleží, kdo koho zná, jak jste dobrý kámoši.
+A ne vždycky nejlepší technické řešení vyhrává najednou.
+Takže je to docela zajímavý mind switch.
+No pojďme každopádně na to, proč jsme si tě dneska pozvali.
+Protože samozřejmě ty umíš mluvit geniálně o čemkoliv.
+Ale jak jsem říkal, kdysi, kdysi dávno první, o čem jsem tě opravdu slyšel na hlas a často mluvit,
+byl dokr a kontejnery a všechny ty listy věci.
+Možná jako úplně od podlahy pro posluchače, kteří to úplně tolik neznají.
+Co je vlastně dokr? Co jsou kontejnery? Proč je to cool?
+Proč tě to vlastně dostalo před těma rokama? Co je to, co vlastně na tom všichni tolik milujou?
+Tak si dáme, dáme si to hezky od podlahy.
+Jak říkáš, doufám, že do toho pak pustíte nějakou od podlahy vzdělku postprodukci.
+Mě to udělá Roman nebo pan provazník.
+A dokr jako takovej, jako nepřišel s žádnou novou technologií, ale přišel s novým využitím technologie.
+Vlastně, že to byl vrapr nad věcma, kteří už tady byli před nima a jsou tady i po něm.
+Vlastně Linuxový kontejnery a ty technologie, ze kterých se Linuxový kontejnery v Linuxu skládají,
+že byli známi jako Solaris, vždycky řvou lidi zóny, že tam měli a podobný věci.
+Docker původně používal LXC technologii, kterou potom nahradili jinýma řešeníma,
+prakticky funkcema, které byly a se dovytvářely v Kernelu.
+Ale to, co přidali navíc, byla ta genialita v tom Build-Chip-Run.
+Takový to lokálně si to, vytvořím ten image, jednoduše tu aplikaci se všema jejíma závislostmi,
+distribuuju, pošlu to někam komukoliv a kdokoliv, kdo to spustí,
+tak by měl mít stejný výsledek, že ty dokážeš zabalit všechno v tom kontejneru
+a spustit to kdekoliv, kde je stejná samozřejmě architektura CPU
+a spustíš to na jiném Kernelu, což je jediný rozdíl.
+Takže se minimalizuje ten problém.
+It works on my laptop.
+A ten bohužel se nedává do produkce.
+Takže to je to, co udělal Docker.
+Ale když si o tom bavíš úplně od základu, tak když v rozdílu, že o kontejner je zabalený
+prostě nějaký tar s binárkama, představ si klidně Windows nebo nějakou VM-ku, cokoliv,
+a kontejner běžící je vlastně jenom proces, který běží spuštěný s nějakýma pravidlama.
+To znamená, že má vlastní sítový namespace, to znamená vlastní hostname, vlastní IP adresy,
+vlastní diskovej storage, takže na ně nikdo nemůže atak.
+Ale ve svým podstatě je to jenom kontejner.
+Proto oproti VM-kám třeba se spuští tak rychle a tak rychle se s ním manipuluje.
+To byla ta genialita, ten build-ship run, s čím Docker přišel.
+Takže vlastně ten přínos byl takovej, jestli to chápu správně, že to byť to existovalo,
+tak to dokázali dostat do takový fáze, že kdy jaký developer vlastně to měl automaticky k dispozici,
+nebo jakoby zdemokratizovali tu možnost tohohle. Chápu to správně, ten přínos.
+Jo. To je to, co často říkám, a můžu to vlastně aplikovat vždycky úplně na všechno.
+Že neexistuje nikdy špatná technologie, jenom špatně použitá nebo pochopená technologie.
+Jo. To znamená.
+Ta technologie tady byla, ale to, co bylo přelomové, bylo využití té technologie.
+A zjednodušení jakoby tomu přístupu té demokratizace. To znamená dneska, když vyvíjíte v IDE,
+tak většinou jako máte nějaké napojení na nějaký Docker socket, nebo něco podobného.
+A vlastně ten kód, co debagujete, spouštíte, tak už nedebagujete.
+Nebo já to tak dělám, nebo počítám, že všichni to tak dělají.
+Tak debagujete v tom běžícím kontejneru.
+To znamená, všechny ty závislosti, které tam jsou, tak ty jsou v nějakém debag kontejneru,
+který není na vašem systému, nezasírá vám to vaše místo.
+Když jste na Macu, tak vlastně vyvíjíte s těma binárkama, s těma verzema Linuxového systému,
+který pak běží na produkci a podobné věci.
+To znamená, taky se minimalizuje ty problémy, jako že ta binárka je prostě nějaký starší verzi,
+nebo novější verzi u mě, nebo ta knihovna na mém notěců, než je vlastně schválená pro produkci.
+Ono se docela, celá ta lesta věc, tak jako pod Prahově, jde vlastně ruku v ruce s Linuxem.
+Vždycky od začátku vlastně, když se řeklo Docker, tak člověk napadl, že tam je prostě nějaká distribuce Linuxu
+a že je to všechno postavené na Linuxu. Nicméně jsou i Windows containers, je to tak.
+Je to typická Microsoftní odpověď na něco, kde jim ujel vlak, nebo to bylo od začátku s dobrou myšlenkou?
+Co jsou vlastně Windows containers?
+Vypadá to tak.
+Windows containers, protože Docker, řekněme to jednoduše, jak to vidím já, že to bylo,
+Windows nebo Microsoft viděli, že tam je hodně velké halo okolo kontejnerů, tak to chtěli taky.
+To znamená, že se spojili s Dockerem a vytvořili vlastně verzi Dockeru, která podporuje Windowsové kontejnery.
+Dneska, když se mluvíme o Dockeru,
+Dneska, když se mluvíme o Dockeru,
+když to ještě hodil zpátky, tak v Dockeru se stalo něco úplně nádherného před spoustou let.
+A to, že se dohodli, že Docker nebude jediná technologie, která podporuje kontejnery,
+a udělali konzorzium, udělali nějakou organizaci, která zastřešuje vlastně kontejnery,
+Open Container Initiative.
+To znamená, že jsme zadefinovali, jak bude vypadat kontejner,
+kontejnerová image a jak bude spouštěný kontejner.
+A to je nějaký OCI initiative, to pak můžeme dát link,
+který definuje právě specifiku. Představte si to ve VM světě,
+kdyby se lidi domluvili tenkrát a řekli, takhle vypadá VM image.
+Je to prostě nějaký zabalený tar, který má nějaký metadata.
+Tak tady to se udělalo stejně a stejně se to i spouští.
+To znamená, dneska, když tam máte tu specifikaci,
+tak máte specifikaci pro jak Windows kontejnery, tak Linux kontejnery.
+A já nemám vlastní zkušenosti s Windowsovýma kontejnerama,
+ale je to jenom tou mojí Linuxovou omezeností.
+Ale když se podívám na tu specifikaci, jak se spouští,
+tak u Linuxu máte prostě SLinux, má tam různý největší nastavený práva
+na soubory, a to je to, co mi trošku chybí, že mám pocit,
+že je to jenom můj pocit, subjektivní, reální zkušenosti nemám.
+Tak nevidím moc možností, jak nastavit ty věci z pohledu bezpečnosti.
+A dá se to kombinovat, ty Windowsy a Linuxový kontejnery?
+Dá se to kombinovat, ale vždycky, jak jsem říkal,
+jediný, co musíš sdílet, je ten u kontejneru kernel,
+ten operační systém, jaký je ten základ.
+To znamená, když si spouštět Linuxový kontejnery,
+tak potřebuješ Linuxový stroj.
+Stejně tak jako nemůžeš každý kontejner zpouštět na každém Linuxovém stroji,
+musíš mít to zbuildované pro správnou architekturu.
+To znamená, že máš kontejnery pro Powery, pro ARM, pro x86,
+ale to je pěkně řešené, že můžeš vytvořit všechny typy architektur
+a pak si stáhneš vždycky jenom ten, který tvůj systém podporuje.
+A když chceš Windowsový kontejnery zpouštět,
+tak musí být zase na Windowsovém postovi,
+což je potom pain,
+jen když máš Kubernetes klaster a chceš tam mít některé Windowsové nody,
+to je třeba jedna z věcí, co se u nás podporuje.
+Ještě jsem to u žádného zákazníka neviděl,
+ale je to jedna z věcí,
+že někde ty Windowsové kontejnery opravdu potřebují, používají.
+Jo, a fakt je tam něco, co není v těch Linuxových?
+Nebo přemýšlím pro MSSQL.
+Je to MSSQL...
+To je možná i na Linuxovém už, ne?
+Je na Linuxovém, vím, že tam nefungují úplně všechny věci,
+nebo co jsem tak nějak slyšel.
+Ale jako starý dotnety a nějaké různý závislosti,
+které lidi se rádi přesouvají do toho nového světa,
+ale vždycky se budou hájit tu legacy zátěž.
+A ty nechceš mít tu nu systému potom,
+který musíš mít,
+jako dej tu operations, upgradey, patchy a tady ty,
+to narážení na tu realitu.
+To znamená tím, že si přidáš novosti,
+novou platformu,
+tak vlastně si přidáš ve výsledku,
+když se to pospoří spíš problémy.
+To znamená, že chtějí co nejvíc přesunout do toho nového světa.
+A tak tam chtějí to.
+Jakoby možností je víc.
+Ty můžeš buď to přepsat,
+používat ty Windowsové kontejnery,
+což někdy může být jednodušší,
+někdy je jednodušší to celé přepsat,
+nebo zahodit někdy to nejde,
+protože víš, že to je systém, který máš tam ještě tři roky,
+nikoliv nějakého důvodu,
+a pak to fakt chceš se toho zbavit.
+Ale druhá možnost je,
+že součástí toho kubernetního světa
+spouštíš virtuálku,
+což je taky dneska možnost,
+že se tří porovnávaly kontejnery virtuálky,
+a dneska ty můžeš vzít virtuálku,
+zabalit jí do kontejneru a spustit jí tam.
+A tím pádem v té platformě fungují pod stejnýma principama,
+že to zadefinuješ nějakým jamlem a spustíš,
+stejným způsobem backupuješ, loguješ,
+přidáváš tomu storage sítě a tady ty věci,
+což je jeden ze způsobů,
+jak se zbavit té legacy operations zátěže
+a pak můžeš nějak,
+máš čas zdroje na to přepisovat tu aplikaci
+do toho moderního světa.
+OK, ty jsi tady zmínil pojem image, pojem kontejner,
+jaký je v tom rozdíl?
+Pro mě, který vlastně neprogramuje,
+vodokruh slyší od svého lidí,
+jak bys to popsal?
+Jo.
+No, ta kontejnerová image je právě člověka,
+který neprogramuje.
+Ti můžeš začít, pak se můžeme dostat po úroveň níž,
+aby jsme taky nechali porochnit ty, co to znají.
+Já převyšlím, jak bych to to,
+ale tak já to vysvětlím,
+když máš aplikaci, tak k tomu potřebuješ
+nějaký závislosti.
+Od spoda je to operační systém,
+nějaký knihovny, pak nějaký
+framework,
+nebo middleware,
+nebo něco, prostě jakoby spousta
+nějakých binárek, nějakých
+souborů závislostí a podobně.
+A problém je,
+že ty máš
+velkej server třeba, na kterým
+chceš pustit tu aplikaci, tak si tam všechno
+nainstaluješ a
+když tam přijde nějaký druhej člověk,
+který chce používat taky ten server,
+tak bude mít jiný závislosti.
+A oni se mezi sebou budou být,
+budou potřebit jiný verze, protože oni ještě
+neupgradovali, někdo upgradoval a podobné věci.
+Co dělá ta kontejnerová image,
+je, že ty pro tu jednu
+aplikaci zabalíš všechny ty závislosti
+do jednoho balíčku.
+A potom
+vezmeš ten balíček, distribuješ to
+na ty servery, kde to chceš spouštět
+a když to spustíš,
+tak
+tím, že ten kontejner je contain,
+tak ten proces spustí
+v nějakým omezeném
+prostředí, ve kterém má
+jenom ty závislosti, které si tam sebou přitáh.
+A neovlivňuje
+ostatní kontejnery. A to je jedna
+z hlavních důvodů
+právě, proč se tak
+ty kontejnery líbily, že ty aplikace
+mají svoje závislosti a mají nezávislý
+životní cyklus na zprávě
+těch serverů a na zprávě
+životního cyklu jiných aplikací.
+Ještě jsem
+chtěl něco chytrýho dodat, ale
+to bylo dost chytrý.
+Jo, super. Jdeme na to zítra.
+Když jsme
+u toho,
+když jsme u toho,
+tak kde všude vlastně můžeme
+tu kontejnerizaci potkat?
+Protože já třeba vím, že
+co se týče třeba build procesů, to je typický
+use case, že máš
+nevím, GitLab, GitHub, ty vlastně všichni
+buildy, všichni ten software, když prochází
+to build pipeline, tak už je to všechno
+virtualizovaný v Dadokru,
+můžeš i kolikrát dotáhat vlastní závislosti
+a udělat si vlastní image s těmi svými věcmi,
+které proto potřebuješ.
+Což je ale takové, řekl bych, typické
+ajťácké řešení, to asi není úplně překvapivé.
+Je něco, nějaké použití,
+které tebe ještě stále překvapí?
+Třeba, že jsi zjistil, že to běží
+na Dockeru, nebo že to je celé
+v kontejneru, bys to nečekal?
+To jsem nečekal,
+takovouhle otázku.
+To stačí říct ne a jdeme dál,
+to je v pohodě.
+Mě to, jakoby,
+když si mě překvapilo, když začal Docker,
+tak za mnou přišel, to jsem ještě nedělal
+v Redditu, ale byl jako jeden
+z lidí, co znám takhle
+komunity a dělali něco pro nějakého zákazníka
+a říkali,
+hele, co jsou to ty kontejnery,
+my to chceme zkusit a u zákazníka
+si v tom rozjedeme databázy.
+A to tenkrát,
+a to chtěli ještě, jakoby v Kubernetes,
+když to byl ve verzi 0.9,
+nebo něco takového, tak to mě překvapilo
+tenkrát, že někdo vůbec přemýšlí nad tím,
+že si to vyzkouší a že to vyzkouší
+u zákazníka.
+Ale jinak dneska
+ty kontejnery se
+používají, jak jsi říkal,
+jakoby součástní nějaký ty
+delivery pipeliny,
+protože tam je to úplně
+úplně geniální workload, hlavně
+když něco buildíš, tak dřív se
+buildil Jenkins
+a ty jsi musel nastavovat ty servry.
+A tam je to přesně ono, jakože dneska
+ty nechceš nastavovat celý servry, ty chceš
+prostě kontejnery, máš prostě 10 druhů aplikací,
+který builduješ a nechceš, aby kvůli tomu vyběželo
+10 různých servrů, tak chceš, aby prostě byl
+jeden server, dva servry a tam se
+podle potřeby spouštěli kontejnery, ve kterých
+se to bude buildovat.
+Ale můžou to bejt
+jak obrovské
+platformy ala
+Kubernetes, kde
+ideálně běží mikroservisy,
+i když jako realita
+většinou je, že tam běží ty aplikace
+legacy, který tam
+se nějak zabalili, ale
+druhý protipol
+je prostě malinkatý
+zařízeníčka, třeba jako
+pro takovej ten
+edge svět, to znamená, že potřebuješ
+jednoduchý, minimalistický
+servřík, na kterým
+neběží nic a jenom
+tam spouští kontejnery s aplikacema,
+které se tam dotáhnou, ty změny,
+které se tam dotáhnou, tak jsou vždycky
+minimální, protože většinou, když máš edge,
+nějaký use case,
+tak tam není dobrá konektivita,
+takže chceš, aby ta byla
+ta změna vždycky minimální
+a aby byly ty servry, které máš
+třeba tisíce, tak aby byly co nejvíc
+stejný.
+Doma mám Raspberry,
+ale všechno, co tam běží, tak mi běží
+v kontejneru, to je super, jakože dneska
+z komunity padají
+kontejnery úplně na všechno,
+když máš seed, tak máš unify, když máš to.
+Třeba nějaký variables,
+jakože hodinky, nebo braille,
+nebo náramky třeba, ve kterých by mohly běžet
+ty kontejnery, dává to smysl?
+To už je moc malý,
+tam, kde běží operační systém,
+tak tam běží kontejnery,
+ale tady ty IoT
+and devices.
+Tam ještě ne?
+Tam ne, já tam třeba ani nemyslím, že to dává smysl.
+To už by ty hodinky nevydržely vůbec.
+Když se podívám na tvoje hodinky,
+tak tam kontejnery.
+Ty vydržej všechno.
+Ale ty vydržej všechno.
+Nutno poznamenat, že Románek má old-fashioned,
+krásný, stříbrný hodinky.
+Když ještě zůstaneme
+u těch jednotlivých řešení
+a mně se líbila ta tvoja myšlenka,
+že technologie v té většinu chyba není.
+Otázka je, jaký použiješ.
+Já jsem to trošku parafrázoval.
+Existuje nějaká sada
+projektů, zákazníků,
+ke kterým když přijdeš v rámci tvý nový pozice,
+tak řekneš, že tady je kontejner ne.
+Tady to fakt smysl nedává.
+Dá se to nějak oddělit.
+My jsme se toho trošku dotkli v rámci těch wearables,
+ale v rámci klientů Red Hatu
+je tam nějaký typizovaný klient,
+u kterého by si řekl, že tady ne.
+Myslím, že
+ve většině
+projektů nebo
+klientů, co to, tak už
+kontejnery jsou v nějaké míře
+pokusné a podobné věci.
+Málo kdy, nebo narazili jsme na zákazníka,
+který
+o kontejnerch nechtěl slyšet,
+ani je nepotřebuje.
+A to jsou věci,
+co se napsali před
+deseti, dvaceti lety.
+Běží to nějak a přepisování
+a ještě dvacet let poběží.
+A jakýkoliv přepis
+nedává smysl.
+Protože často jsou aplikace,
+které běží
+v jedné
+instanci, nemůžou být
+horizontálně škálovat,
+jsou většinou
+opravdu velký
+a potřebují
+nějakou speciální
+péči, jakoby občas restartovat.
+Tady u těch
+jdou kontejnerizovat
+a někdo i tady ten typ
+aplikací kontejnerizoval, že říkali,
+že dali tu jejich aplikaci na kapačky.
+Protože aplikace běží
+a víme, že když dělá tohle, tak se musí
+restartovat. Občas
+se tam přestane něco reagovat
+a tak. To znamená, pustíš si je
+v kontejneru,
+můžeš open shiftu a tak a máš tomu ten
+orchestrátor, který kontroluje, jestli je zdravá,
+jestli poslouchá a když ne, tak ji
+zabiješ a spustíš znova.
+Ale méně vhodný je to
+prostě, nebo méně vhodný.
+Nejvíc to přináší, když máš
+aplikace, které jsou typu microservisa,
+které
+umí běžet ve více
+instancích,
+mají moderní apy
+komunikovat mezi sebou,
+využívají
+moderní úložiště a
+podobné věci.
+Ale není to tak, že ty
+aplikace, které běží
+v jednom vlákně, třeba
+nějaké
+starších typů, nejsou to
+microservisy per se,
+ale jsou to,
+už ten přínos tam je,
+ale jakoby, když ti
+aplikace se spouští
+jako půl minuty, nebo něco takového,
+na začátku to se žere
+dvě gigaramky a pak
+to využívá celou dobu,
+deset megaramky, tak to není
+úplně ideální kandidát
+na to, ale samozřejmě zase
+z toho druhého pohledu,
+když máš nějakou platformu,
+víš, že chceš se posouvat,
+chceš do budoucna
+kontejnerizovat, modernizovat,
+nebo nechceš kontejnerizovat,
+většinou ten důvod je nějaký,
+chceme zrychlit vývoj, chceme zrychlit
+bezpečnostní fixe, chceme
+nějakou takovouhle biznis hodnotu
+kontejnerizace pro kontejnerizaci,
+často jí výdáme,
+že je to cool, tak se to dělá,
+ale
+je dobrý
+vidět za tom vždycky nějaký
+ten smysl.
+Takže
+setkal jsem se s zákazníkama,
+který nebyl obhodný,
+ani jsme jim to nedoporučili,
+na všechno to sedne.
+A když se podívám ještě takhle jako obecně,
+říkám, že jsem uzavřený v té Linuxové
+kontejnerové bublině,
+tak to je úplně minimum toho světa.
+Ono to rezonuje teďka,
+hodně to lidi používají,
+ale když se podíváte,
+tak z toho
+světa
+operečních systémů
+je Windows pořád nějakých 40%.
+To jsou prostě místa, kde
+chci říct, se zastavil čas,
+ale prostě nechtějí tam změnu,
+jsou z tom zvyklí a takovýhle.
+A ještě když se podíváme na ten
+workload, tak banky a podobné věci
+mají tam velké oddělení,
+které mají za úkol
+kontejnerizovat, ale je to
+problematické, protože ne všechny
+aplikace se píčou třeba sami
+a dodavatelé prostě dodávají
+pořád po staru.
+Tak dokážeš si představit
+to množství těch papírů, který
+musí ta banka provízt,
+než něco změní?
+Já mám známýho, který dělá
+v bance, jedný velký a
+ten je nešťastnej z té byrokracie.
+Opravdu, že je to blokuje ve vývoji,
+ale fyzicky je to blokuje ve vývoji, že než můžeš
+něco udělat, tak to musí projet deseti
+levlama s papírama a on je z toho úplně
+hotovej. Ale zase takovýhle prostředí,
+kde mám třeba víc...
+Jsou takový pořád ještě.
+Myslím, že to je peklo, ale kdyby to prostředí bylo
+bez té byrokracie, ale je to takový to prostředí,
+kde je víc vendorů, který dodávají
+různý řešení, tak tam ten kontejner
+zase dává smysl, ne?
+Tam to dává úplně super smysl. Je to takový nástroj.
+Často, co víme
+právě u některých
+zákazníků, je, že oni jsou
+v zajetí těch
+nějakých partnerů, který dodávají nějaké řešení
+a nikdo jiný to tam nemůže dodávat.
+To, co máte třeba s OpenShiftem,
+je, že vy uděláte
+přepis toho, jak se bude dodávat.
+A může se to udělat od extrému,
+jakože tady máte IDE,
+který běží v browseru, prostě který běží
+na OpenShiftu, v tom vy nám
+udělíte změny, pak jenom uložte,
+klikněte tady deploy a my už máme
+pipelineu nasazovací procesy
+a to máme my. Vy máte nouhou
+toho, jak píšeme té aplikaci a dodáváte,
+ale když s váma nebudeme spokojení, tak
+uděláme takhle a dostane se
+to prostě k jinému partnerovi, který jako samozřejmě
+nemá noliť toho
+kodu, té logiky,
+ale je to
+poznání jinak, než když ten partner
+prostě si řídí, nejenom
+jakoby to psaní
+ty aplikace, ale i
+nasazování a buildění
+a má vlastní operační systém a takovýhle.
+Často to tak je
+z historických důvodů, ale
+partneři, kteří píšou aplikace,
+tak většinou jsou i za to rádi,
+že potom nemusí řešit u zákazníka
+tu operativu, to dejtu
+jako věci, prostě řeknou
+takhle si
+nasazujete aplikaci, takhle chcete po nás,
+abyste je monitorovali, to znamená vám vyhodíme
+nějaký prostě API,
+ze kterého budete číst, takhle
+se loguje a hotovo, abychom to nemusíme
+a my dodáváme jenom tu business hodnotu,
+business value prostě a už tam nemusíte
+řešit potom něco jinýho.
+Takže z tohohle hlediska
+jakoby kontejnerizace
+úplně, úplně geniální.
+Já tady mám
+jeden dotaz, který už mě trápí
+hroznou dobu, protože to řešíme i
+v týmu a vždycky tam takhle
+narazíme, že na to nemáme
+úplně jednotný názor, respektive se ne
+vždycky shodneme. A to je, jestli
+do doku patří věci, které mají stav.
+Protože vem si, že máš databázy,
+máš nějaký message broker, máš věci,
+které vlastně, když to
+vypnu a zapnu, tak by se měly vrátit
+zpátky do nějakého stavu, měly by mít nějakou
+prezistenci, měly by mít prostě uložený ten svůj
+stav. Já mám doker rád na věci, které
+můžu kdykoliv zabít, restartnout a
+je mi vlastně jedno, v jakém byly stavu
+předtím než zhebly. A věci
+jako je databáze a messaging a tak, tak
+třeba rád využiju na cloudu nativní
+služby, protože oni tam mají backupy,
+mají tam nějakou data retention policy,
+mají tam prostě daleko víc věcí, který
+si nemusím v tom doku já řešit, protože
+já řeším v rámci managovaný služby
+na cloudu. Jak to vidíš ty?
+Je už teďka bezpečný
+si to jako házet ty databáze do
+doku a vlastně celý to mít komplet
+dokerizovaný a když jsem někde v cloudu,
+tak vlastně využiju jenom manage
+nějaký kubernetes, ale zbytek už si
+totálně držím já sám?
+Nebo bys to kombinoval? Nebo jak to teda
+je s tím jako, s tou prezistencí
+v doku? A to je právě
+ta odpověď, že to není jsou nuly a jedničky
+true false, ale
+it depends. Jo, já už si to tady
+zase
+konzultantská odpověď.
+No ne, ale
+dřív to tak určitě bylo.
+Když se říkalo prostě
+kontejnery i stav
+jako je velký
+špatný. Ale
+dneska jakoby
+to tak není a vždycky jakoby záleží
+na tom use caseu, co máš.
+Jestli říkáš, že máš doker nebo kontejner
+na jednom servru,
+tak vlastně
+ten kontejner z týho hlediska je
+jenom proces
+prostě, který běží. A
+tu storage prostě, když tam máš nějak připojenou,
+tak ji můžeš využívat.
+Pokud máš nějakou typický databázi, tak máš
+nějakou flashovou storage nebo něco
+připojený k tomu servru a na tom servru
+nespustíš ten proces normálně,
+ale dneska jako když máš třeba
+podmena, tak
+to dokážeš spustit jako
+systém D a vypadá to prostě jako
+Linuxový
+proces. A to, že kontejner,
+že ten proces běží jako kontejner, je jenom
+nějaká přidaná hodnota
+tomu, že mu
+omezíš nějak prostředky
+a podobné věci. To znamená
+jako na jednom servru úplně
+bez problému. Když potřebuješ
+ale aplikace, aby běžila nějakým
+škálovaným prostředí,
+Kubernetes a podobné věci,
+tak to záleží.
+Protože tomu potřebuješ mít
+nějakou schopnou
+storage, potřebuješ, aby se
+zálohovala, potřebuješ, aby byla dostupná
+z více míst a podobně.
+Proto
+už vidím
+rád, že se to trošku
+profesionalizuje, ten
+Kubernetes svět a už ty změny
+tam nejsou tak hrozný, ale spíš se pracuje
+na tom, aby to bylo dotažené.
+Jak říkáš, Kubernetes
+byl navržený pro ten cloud native svět.
+Bylo to myšlenkově
+navržený Googlem
+prostě pro jejich use case.
+Pak se k tomu dostali
+ostatní firmy, jako Redhead, a začal
+to dělat, dodávat
+západy, aby to bylo použitelné i mimo
+ní, jako mimo tady ten
+šíleně naškalovaný
+svět. Ale
+to znamená, potřebuješ
+mít rozdíl
+mezi Kubernetes a
+platformu, kterou můžeš použít. Kubernetes je
+vlastně framework, ze kterého můžeš
+skládat tu platformu.
+A tý platformě, když potřebuješ
+prezidentní storage, tak potřebuješ nějakou
+storage, potřebuješ nějaký plug-iny
+do Kubernetes, které to připojujou
+a podobné věci. To znamená,
+že naši zákazníci dneska
+běžejí
+v OpenShiftu třeba tisícovky VM,
+který mají prostě stav, který mají
+svojí storage.
+Běžíš tam kafku jako službu.
+Takže
+dává smysl používat
+manažovaný služby, prostě když
+to nechceš řešit. A
+stejně tak, jak máš marketplace, prostě, že si klikneš
+akci, nevím, jak se jmenuje,
+kafka na Azureu nebo na AWSku.
+No tam máme Service Bus, ale v podstatě...
+No, něco podobného,
+takhle to můžeš konzumovat, prostě, když máš platformu
+postavenou, tak máme marketplace,
+kde jsou operátory, který se ti jakoby starají
+u kafky, prostě o vytváření
+topiků a
+o různý věci pro to, aby to běželo
+a aby to mělo nějakou
+storage, jo.
+Takže já si myslím, že dneska jakoby
+ten ekosystém dospěl jakoby
+major enough,
+jakože je přizralej na to,
+aby ty kontejnery
+i v nějaký
+klastrovaný
+platformě
+běžel a neměl problém
+jako s tou storageí.
+A už tam jsou jakoby apy přímo v tom
+na zálohování, jakoby
+velero, když si
+zadefinuješ, já chci prostě tady z toho dělat
+snapshoty prostě každou, každých
+pět minut a odlivat si ty data
+u kafky, by to nemělo být potřeba
+teoreticky, jo, ale můžeš tam
+stejně nakliknutí mít
+Microsoft SQL, Postgre,
+databáze a podobné věci
+a tak, no.
+Já třeba jako využívám ty databáze v doku
+samozřejmě na lokální vývoj, protože to je
+zase daleko jednodušší, než
+si to celý instalovat a pak to prostě
+jedním příkazem celý zabiješ a máš
+vyčištěno, máš klid a ten kompůtr je
+jako spokojený a čistěnkej.
+Ale u toho, u té produkce
+tak jako jsme na vážkách.
+Ale možná třeba i pro ty, co s tím
+ti začít, tak možná dává smysl
+to mít více fázový, v první fázi
+nechat si databáze tak, jak je mám,
+někde prostě jako manažovanou službu
+a tu aplikaci opravdu jenom
+tam, kde mi běží ta aplikace jako taková
+a tak ji mít v doku a pak když zjistím,
+že už jsem dostatečně
+major, já jako
+v rámci týmu,
+že si to celý dostáhnu k sobě
+do doku nebo do Kubernetes,
+tak dává to smysl možná takový jako více fázový.
+Jo, jo, jo, musí se podívat na to, co mi to přinese.
+Když to bude na produkci
+nebo protože pokud mám
+jeden server na tom jednu databázi,
+tak je sporný, jestli ten kontejnet
+tam má takovou přidanou hodnotu.
+Pokud ti to běží už někde
+v Kubernetes nebo podobně,
+tak tam může být ta přidaná
+hodnota jako vyšší dostupnost
+a podobné věci, že když
+ta databáza podporuje, tak
+ji můžeš škálovat jednoduše a podobné
+věci.
+Druhá věc je, umí to někdo zpravovat,
+ty kontejny, jak jsem mluvil,
+jakoby
+těch
+lidé, co se musí starat o dejtu
+toho, tak jako si jim to
+nebude spíš přinášet
+problémy a nesnížit to dostupnost
+tý služby, kterou poskytujete.
+Tím, že se tam udělají nějaké hlupé
+problémy.
+My už jsme se k tomu dostali, několikrát
+si to zmínil, už se tady o tom bavíme,
+Kubernetes. Tak pro posluchaček,
+pro který je tohle celý novinka,
+co to vlastně je? Kam jsme se dostali od
+Dockeru ke Kubernetes? Co to řeší?
+Co to je? Můžeš to představit nějak?
+Na
+DockerConu prvním tenkrát
+vystoupil Google a
+řekli, jo, kontejnery super,
+tenkrát, to je kdy, schválně v IT, kdy je tenkrát.
+A už je, to bude
+jako by 8 let,
+možná.
+Bylo to před COVIDem.
+Ale všechno dobré bylo
+před COVIDem.
+Myslím, že teď bylo nějakých 7-8 let
+a dokonce
+jako Kelsey Hightower
+a podobný, jako by udělali
+dokument o tom, jak to
+tenkrát, víš, jako v IT
+7-8 let, už je hodně
+hodně.
+Hodně času. Vždycky se mě jakoby
+ptají zákaznici, a můžete nám garantovat, že
+za 10 let to bude takhle stejně?
+Můžu vám garantovat, že to stejně nebude.
+Jo, protože
+10 let to je... To je věčnost.
+To je jako, nemůžu nějakoby
+udržovat něco úplně v tom zakonzervovaném
+stavu, tak jak to bylo.
+Ale před tou dobou, a udělali
+jakoby pěkný dokument,
+potom pošlu třeba odkaz,
+to můžete taky na sdíle, kde se
+popisovalo, jak to tenkrát
+začalo, proč to začalo.
+A bylo to celkem sranda, jo, protože
+tenkrát jako ještě byli jako
+Kubernetes a Docker jakoby kamarádi,
+ale hnedka jak
+se oznámil na
+DockerConu prvním Kubernetes, co to je.
+Že to je vlastně container super.
+To je jako, jestli spustíš container, nebo ten
+svůj proces na jednom
+servru, ale Kubernetes
+je, jak to spustit
+v prostě v klastru
+servru. To znamená
+takovej ten začátek toho
+cloud native. Ono jako by bylo dřív
+víc věcí, jak spustit container
+nějak klastrovaně,
+nějakým klastrovým
+frameworku, jako by Mesos byl
+a podobní věci.
+Potom po Kubernetes byl
+oznámený právě i Docker Swarm.
+To si taky pamatuju.
+Pamětníci ještě jistě to
+znají a to bylo tenkrát
+jako právě,
+že se ukázalo, že ta hodnota
+není v tom Dockeru. Že ten Docker vlastně je
+wrapr nad nějakýma
+Kernelovýma
+nastaveníma,
+ale ta hodnota je,
+až když prostě máš
+platformu aplikační, kde můžeš
+spouštět, vyvíjet
+a ono se to jako by samo
+ideálně
+samouzdravuje, samořeší,
+samo přidává zdroje, odebírá
+a samo se to upgradeuje
+a to je o tom výsledku.
+Jednodušeně Kubernetes
+je vlastně ten framework,
+který,
+který umožňuje
+tyhle ty kontejnery
+ukládat nebo spouštět
+na jednotlivých nodech
+v tomto klastru.
+A je to...
+Je to také jako orchestrátor.
+Je to orchestrátor.
+Podívám se na to, můžu si tam jako nakreslit
+vyloženě, jak to bude vypadat.
+Zase pro mě, co jsem to nikdy neměl otevřený,
+což může být zase zajímavý pro
+někoho, kdo třeba by se to chtěl naučit a neví
+přesně co s tím. Ono ten Kubernetes je právě
+jakoby jenom jedna z těch komponentů,
+ve kterých potom vzniká ta platforma.
+To znamená, ty si můžeš zadefinovat nějakým
+YAMLu, nějakým přepisu, říct, já chci, aby
+moje aplikace, která je
+z tady tý kontejnerový image, byla takhle
+konfigurovaná, měla tuhle
+tu storage třeba a běžela třeba pětkrát.
+A pošleš
+to do Kubernetes a on řekne
+OK, tak tady mám pět nodů
+a takhle to bude
+spuštěný, tady to poběží prostě.
+A jsou tam pěkný věci,
+že součástí toho můžeš říct třeba, jak se to bude
+chovat při upgradeu.
+Upgradeovat moji aplikaci
+chci ji udělat tak, že
+všech pět instancí vypnu a pak spustím
+ty nové verze, nebo to bude
+nějaký ten blue-green, že si jednu
+vypnu a spustím jich pár.
+Budu tam třeba
+dělat v nějakých fázích,
+to znamená ze začátku
+na ty nové
+budu pouštět jenom 5% trafiku,
+budu monitorovat chvilku, jestli tam
+není nějaký větší chybovost,
+a potom tam přidám
+další nody a takhle postupně
+to migrovat.
+Tady to všechno jde jednoduše popsat
+chování toho životního
+cyklu aplikace. To znamená,
+když už jednou tady tu aplikaci
+spustíš, nasadíš, tak už nemusíš
+pro upgrade téměř
+nic dělat. Musíš mít
+rozmysl, musíš znát, jaké tam jsou možnosti
+samozřejmě, ale kumeretistí
+tady to umožňuje.
+A ta síla, jestli to chápu správně,
+je vlastně v té deklarativnosti, že ty to napíšeš,
+ten finální stav
+a neřešíš, jak k němu by si chtěl dojít.
+Řekneš, já chci, abych měl tolik
+instancí tohohle
+kontejneru, takhle mezi nimi, aby byla
+síť a ty to udělej.
+Ta logika už to řeší sama.
+A on také chápuje, jak kumeretist
+vlastně postará o to, aby to tak bylo.
+Ale samozřejmě tím, že klidně
+když máš deset instancí,
+to se dostáváme k tomu stavu, deset instancí
+a ty mu pošleš nové a řekneš, teď
+chci v pěti, tak on nějakých
+náhodných podle svý vnitřní logiky pět
+zabije a ty se nespíš
+ani datově, ani emočně nějak vázat
+k těm podům, protože ty samozřejmě
+umírají a žijou tak, jak jim
+se zachce.
+To mi nahrává trošku na to
+a znamená to, že kubernetis použiju
+spíš nějak větší projekty, nebo
+tak to vůbec nemusí být. Může to být i malej
+projektík, kde prostě akorát potřebuju to
+naškálovat na více serverů.
+Jsou leti, co na tom jedou i blok.
+To je velice jemem.
+Máš obrovský kamion
+a ten veze malinkatou kostičku
+pětkrát pět centimetrů a na těm je napsáno
+kubernetis running your blog.
+Většinou bych
+nedělal kubernetis cluster
+kvůli jednomu
+projektu.
+Většinou je to tak, že zákazník má už nějakou
+platformu a ty to tam
+dodáš. Přidaná hodnota je
+právě to sdílení zdrojů.
+Máš aplikaci, která běží
+pondělí pátek a o víkend je vypnutá.
+O víkendu běží zase nějaké
+datové analýzy na tom, co se schranilo,
+protože ty servery tam jsou,
+už ty aplikace běží, protože
+pobyčky jsou vypnuté, tak jsou naškálované
+na téměř na nula.
+A ty zdroje zase můžeš využít v nějaký
+machine learning, co to je další
+buzzword, co tady taky
+je na jeho výraz teď.
+Umílou inteligencí
+na to pustíte.
+Ať jsme trošku víc ještě
+bulvároví.
+No, to bude poslouchat víc lidí,
+když řekneš, že uměla inteligencí aspoň třikrát.
+No, no.
+A má smysl vůbec v dnešní
+době uvažovat o něčem jiným,
+než to, že si nechám ten
+Kubernetes plně managovat
+na cloudu nebo od vás.
+Dělá ještě někdo to, že vloženě si vezme ty svoje mašiny,
+teď si on-premises to tam
+nainstaluje, teď tam má toho strejdu, který se mu
+o to stará, když to celý popadá.
+Asi už tohle cestou bys nedoporučil
+někomu chodit.
+To je dobře, že se na to ptáš, protože
+jak jsem říkal, jakože
+ten ekosystém Kubernetes containeru
+tak jakoby dospívá a už má jakoby
+nějaký ty placený verze podporovaný
+a dodělaný hlavně.
+Tak někde o tom
+ještě nevědí.
+A když to porovnám třeba jakoby
+virtualizace. Dřív byla prostě virtualizace
+a dospělo to do toho stavu, když se řekne
+virtualizace, jak máme dneska
+jako reddit virtualizace
+nebo OpenStack, ale samozřejmě
+jako většinou
+vidíme typicky jako nějaký VMware
+a to je prostě jako věc, za kterou se platí
+to je jasný, to se prostě koupí
+a je to tam. Ale když se řekne
+Kubernetes, tak se řekne
+no počkat, ale to je zdarma, to my si
+postavíme sami.
+A u virtualizace nikoho nenápadne, počkej
+teď tady máme jaký, jako kseny
+a uvěrty a tady ty věci
+to nikdo jako nechte, ale dneska
+ten Kubernetes je tak k tomu
+stavu, že někde říkají samozřejmě
+my chceme, a my chceme, aby na tom běžela
+produkce, to znamená, že budeme mít požadavky
+na backupování, na bezpečnost, prostě
+na přístupy, aby každá aplikace
+měla třeba svoji IP adresu, odchozí
+a ostatní takovýhle věci.
+Ale často je to tak, že se řekne
+no Kubernetes postavíme, dodáme.
+A je to postavit prostě Kubernetes, nějaký
+operační systém k tomu daje, nějaký logovátko
+nějaké ty věci, aby to nějak základně fungovalo
+a řeknout super. Ať se to
+stavěli půl roku, ale to znamená, že ten
+Kubernetes je už vlastně neportovaný
+a nebudou tam chodit žádný bezpečností
+ty fixy.
+A tak oni řeknou, no tak
+ale to už nezoperidujeme, to musíme postavit
+znovu. Takhle jako jsme to dělali.
+A to jsem se právě naštval a řekl jsem takhle.
+Takhle teda ne, soudruzi.
+A
+proto
+vznikají nějaké manižované
+služby, když to máš
+v cloudu, ty můžou
+běžet taky
+Azure stacky a takovýhle.
+Instaluješ u sebe do datacentra
+a protože jako by nekaždý může říct
+prostě naše aplikace, banky typicky,
+že kvůli
+regulaci můžou běžet
+v tom, v
+cloudech. Protože tam je to
+ještě takový jako, může to
+běžet v cloudech, ale musí tam
+být úplně jinak nastavená sekurita,
+oddělené sitování, jenom
+vlastní ty. A je to jako by
+otázka, jako jestli je
+jednodušší to mít v cloudu v takovémhle
+módu, nebo ve vlastním datacentru.
+A když to chceš potom běžet,
+ve svým datacentru,
+tak podle mě to dává velký smysl.
+Máš třeba jakoby
+OpenShift, což je ta platforma,
+nebo máš Ranger.
+V VMware myslím,
+něco má taky.
+A to jsou věci, jakoby,
+který už není jenom ten Kubernetes,
+jenom ten scheduler, ale jsou k tomu
+ostatní věci. Nejvíc
+znám OpenShift, tak to samozřejmě je
+největší přidávna pro ty lidi, jakoby,
+který se starají vlastní Kubernetes,
+že tam máš
+on-click deployment. Celý ten
+Kubernetes cluster je poskládaný z nějakých
+operátorů, který se starají o
+ty logování,
+o persistentní storage,
+o různý aplikace, které tam běží,
+ale starají se operátor
+jakoby i o upgrade vlastního
+operečního systému.
+Takže si stáhne containerovou image,
+ve které je zabalený ten upgrade,
+ono to rozbalí,
+oupgradeuje ten systém a restartuje ho.
+A stará se o to, aby se restartoval
+vždycky ten server, na kterým se uvolní
+ty
+kontejnery, že už tam nepouběží a tak.
+To znamená,
+a výhoda toho je samozřejmě,
+že to běží on-prem, ale když chceš
+nějaký cloud, tak ti to tam
+taky může běžet a máš vlastně jednotný
+prostředí, že prostě
+nasazuješ aplikace, vyvíjíš
+OpenShiftu a je jedno, jestli to běží
+on-prem někde v TwinData centru, nebo jestli
+to běží v Azureu, v AWSku
+a tak a můžeš jednoduše potom mezi těma
+cloudama migrovat, což často
+lidi chtějí. Třeba
+americká, americká, australský
+regulace říkají, že
+banka může běžet v cloudu,
+ale její workload
+v jednom cloudu nemůže být víc než 50%
+aby nebyly loklí.
+Aby dokázali migrovat,
+když by prostě došlo
+nějakým výpadkům nebo nějakým jiným důvodům,
+tak aby mohli prostě
+jednoduše přemigrovat na jiný.
+Týma jako regulace na vendor lock, jo?
+No. To je zajímavé.
+A u nás se taky něco takového podobného připravuje.
+A na to je právě dobré, že chceš mít něco,
+co běží všude jinde, aby jsi nemusel
+mít právě zase operations, který,
+on se říká, jako by managermá služba, ale vždycky musí
+někdo, kdo rozumí AVS, kdo rozumí
+tak, aby jsi minimalizoval
+tady ten overhead, jak se nám
+IT často říká.
+Ty už jsi na to vzpomínal,
+když jsi se zvracel tím úplným začátkům
+do té prahistorie těch 8 let zpátky.
+Co se stalo s Dockerswormem? Je to mrtvý?
+Dockersworm
+koupilo firma
+Mirantis, stejně tak jako tu divizi,
+která byla ten placenej
+Dockers, nebo
+ty věci okolo
+Dockerswormu minimálně a říkali, že to budou dál vyvíjet.
+Od té doby jsem o tom
+nic neslyšel.
+Připravujeme novou verzi a pak jenom tam
+bluít.
+Dneska nebyl jediný ten Dockersworm,
+byl taky ten Mezos, nějakou Mezosvírou,
+pak se nějak přiměnovali
+a začali podporovat
+Kubernetes, že ten Kubernetes jako svět
+války o
+orchestraci kontejnerů, jakoby
+na plní čáře už dávno vyhrál.
+Dockersworm byl
+dobrý třeba, když si měl doma nějaký 2-3
+servery nebo něco takového,
+že to podporovalo ten jednoduchý
+Docker Compose a to, a když jako
+já jsem nikdy nepochopil, jak ten Docker Compose
+funguje,
+že mi to přišlo, že každý verzi
+to mění, že se to úplně jinaková
+a tak, a toto hrozně zabilo,
+že to nemělo tu vizi, protože tenkrát
+to byly lidi
+jako, co dělali nějaký
+ten
+cloud dot
+nebo dot net, dot cloud
+ta firma, který vzniknul
+potom Docker, tak ty dělali
+jako webový služby nějaký a udělali
+si kontejnery, jakoby
+ten Docker. A k tomu vyšel
+Google prostě se svýma zkušenostma
+ze škálovaného prostředí
+a navrhl jakoby něco novýho
+o čem dlouho přemýšleli. To znamená
+jako z logiky věci, když se podíváš zpětně,
+tak to nemohlo dopadnout jinak.
+Že tady ta technologie
+byla
+nejenom,
+jako lepší, deklarativnější,
+ale hlavně měla jakoby
+v budoucnosti, otevřenosti měla naplánovaný,
+jak se to bude rozšiřovat, jasný
+pravidla a tady ty věci.
+To znamená, do crossform
+je to mrtvý. Já už jsem ho
+nikde jakoby dlouho neviděl. Občas jakoby
+na foru, když sleduju třeba na redditu,
+tak s tím někdo jako přijde a
+plácejí se tam, jak je to super, je to lepší, než ten
+Kubernetes, ale otázka,
+když potřebuji na pár serverech
+třeba jako jenom nějaký kontejnery, tak
+jestli potřebuji nějaký orchestrátorko,
+jestli mi ten stačí nějaký ansiblen, kterým
+si to zpustíš po sobě.
+A zpustím si ty kontejnery tam.
+No a Compose,
+protože my ho třeba Compose používáme právě,
+když si potřebuji lokálně zpustit
+typicky třeba aplikaci a databázy,
+tak než abych to ručně psal, nebo
+se psal nějakým Bitscriptem, tak si napíšu prostě
+to do jednoho Composu, napíšu
+prostě do CrCompose app a nazdar
+a tím to je. Takže ten se
+furt používá, nebo je to na ten lokální
+vývoj především? Furt se používá, je to
+jakoby na ten lokální vývoj.
+Nebo pokud máš jedno
+instanční aplikaci, která
+běží v produkci, tak to tam můžeš použít
+stejně.
+Reddit tenkrát udělal
+podmen, jestli znáte,
+což je ten
+kontejner výhoda
+v něm, že tím nám neběží nějaký proces,
+který má ruta a který je potenciální.
+Kvůli tomu třeba to
+ve spoustě
+banků vůbec nepolvovala i do Cr, protože
+tam nebyla
+jasná ta bezpečnost.
+Tak u podmena
+podporujeme pořád do CrCompose,
+protože se to používá často.
+Ale je tam ještě jiná super věc, když máme
+ty Kubernetes, tak Kubernetes jsme říkali,
+že zadefinuješ nějakým YAMLem.
+Stejně jako ten do CrCompose.
+Ten YAML, když
+zadefinuješ pro Kubernetes
+pod nějakej,
+tak můžeš
+tím spustit
+podmenovi.
+Spustit přes do CrCompose, nějakou aplikaci
+žije to, ale
+podmenovi můžeš spustit taky
+Kubernetes pod. To znamená, když se to zadefinuješ
+pro lokální vývoj, tak to pak můžeš
+použít na produci a máš
+jeden způsob, jak definuješ
+ten běh těch kontejnerů.
+Když už jsme se tak
+motali kolem Kubernetes,
+do CrCompose
+a všech těch věcí, my teďka
+docela v týmu zkoumáme věc, která se jmenuje
+Azure Container Apps, což je de facto
+spojení serverless,
+a kontejnerů. Protože na pozadí by snad,
+pokud to správně chápu, měl běžet,
+ale plně managovaný Kubernetes, na který
+ty se vlastně ani nedostaneš.
+Což mě třeba se líbí, protože my serverless
+máme rádi a kontejnery taky
+a tohle vypadá, že by se to mělo nějakým způsobem spojit.
+Jak na to koukáš ty na takový
+mashup přístupů?
+Jak tobě se to líbí třeba
+takovejhle styl práce, kdy jsi
+odstíněnej úplně od
+tý orchestrace, ale zároveň
+třeba máš ty benefity toho, že si můžeš vytvořit
+vlastní kontejner nebo ten image, jak potřebuješ?
+No mě se to líbí,
+protože to je přesně to, co
+vývojáři chtějí. Vývojáři chtějí vyvíjet,
+psát kód a definovat třeba nějak to,
+ale už nechtějí nějak moc extra řešit,
+jak
+to bude zadefinované a tak.
+A pokud se přesouváš do nějakého toho
+serverless světa, kdy vlastně
+píšeš jenom minimální funkce
+a pak musíš řešit,
+jak mezi sebou komunikovat a podobné věci,
+věci, které běží prostě jenom,
+když potřebují běžet, tak
+když
+tomu rozumí ten vývojářský
+tým a dodává to
+tu hodnotu, jako já jsem
+serverless používal, ale
+spíš na nějaký ty
+operations věci,
+že se potřeboval občas nějaký
+skript, se běží a ono to vlastně více než zadarmo.
+Víš, že se to
+spustí nebo řeší to někdo jiný,
+jestli se to spustí,
+tak to
+zavolá.
+Pro mě bylo úplně super, no.
+Ok.
+Což je něco, co by tvoje
+Kubernetes platforma měla taky
+podporovat, protože není jenom spuštět
+kontejnery, definovat
+deploymenty, ale měla by tam být právě nějaká služba.
+Samozřejmě OpenShift
+máme.
+To ještě nepadlo to slovo, OpenShift.
+Ne, ne, ne. Poprvé jdeš.
+Ježiši.
+Prosím tě, Kubo, ještě jedna věc,
+to je taková, já v tom jsem
+jako mega špatnej a to je security.
+Jo, jako to je, já si myslím, že teda podle mě
+každej vývojář, pokud se nevěnuje čistě
+jenom security, tak je v tom mega špatnej.
+Čem mi Kubernetes
+nebo obecně kontejnerizace se security
+pomůže a naopak, kde třeba
+vidíš, že tam je pořád jako bolístka
+nějaká?
+Přesně tak, jako
+technologie není špatná,
+jenom je špatně použitá
+nebo špatně pochopená.
+Dobře, a tak to je default třeba, že jo?
+Bavíme se o tom v defaultu.
+V defaultu záleží, jak to kde
+používá. Můžeš mít vývojářský
+týmy, kde se řekne, kontejnery super,
+ty jsou bezpečný, používejte to
+a pak zjistíš, že tam máš
+50 různých druhů kontejnerových
+imidží, nevíš, co v nich běží, nevíš, jaký mají
+verze, jaký mají závislosti a podobné
+věci. To znamená, právě když už se
+dostane ten Kubernetes do nějakých
+korporátních sfér,
+tak potřebují tady ty věci.
+A u těch
+kontejnerů, ale je to jako by to samé, co musíš
+dělat u ostatních aplikací,
+jenom výhoda je tak,
+že když máš ten kontejner pro aplikaci,
+je to oddělený, tak vždycky
+upgradeuješ jenom tu jednu aplikaci a zasáhne to
+jenom tu jednu aplikaci, která běží.
+V tom je ta výhoda.
+Ty ostatní praktiky, co musíš dělat,
+jsou vlastně stejný.
+Když vytváříš tu aplikaci, tak musí
+mít nějaký sekuritý scan, zjistit, jestli
+to má závislosti, které
+mají zranitelnosti, jestli jsou relevantní,
+jestli to můžeš pustit, nebo nemusíš.
+Pak, když to běží, tak musíš kontinuálně
+řešit, jestli ta
+aplikace nemá
+zranitelnosti, jestli se na ní
+někdo nepřipojuje. Zbezpečnostně
+zase, jestli nemá k tomu
+workloadu někdo jiný přístup, jestli
+na sítový vrstvě. Krása toho
+Kubernetes a OpenShiftu je, že všechny tyhle
+informace máš dostupný přes API.
+To znamená, nemusíš mít
+tisíce různých nástrojů, máš nástroj
+prostě, který
+když máš OpenShift, tak si
+máš proskenovaný aplikace, ty máš
+běžící pody a vedle nich se ti ukazuje
+zranitelný, nezranitelný proklik, než si
+uvidíš, jak moc. Pak
+na to můžeš navazovat nějakou automatizaci, když už
+máš dobře promyšlenou tu
+pipeline a podobní věci. Takže pomůže to,
+ale musíš si chtít pomoct. Nemůžeš
+si říct, že kontajner je bezpečný, super,
+budeme to mělovat, Alpine,
+u kterého
+i vývojáři na GitHubu
+píšou, nevěřte tady těm
+securityscanům použijte něco
+jiného, ale zase vývojáři
+řeknou, mě securityscan prošel,
+prostě nic to nenašlo, žádnou
+zranitelnost, takže je to bezpečný.
+Takže bych měl třeba hodně zkoumat
+ty base image,
+nebo od čeho to, že
+u toho dokladu dojdeš kolikrát do takový
+mnohá vrstevnosti, protože tenhle image
+využívá ten zase image na tomhle image,
+takže v podstatě to máš, jak když se podíváš
+do Node Modules, že jedna
+aplikace přes NPM se vyžádá
+půl internetu, tak mám kolikrát pocit, že
+u toho dokladu je to velmi podobný.
+Takže cesta musím mít a manuálně
+to zkoumat, přemýšlet nad tím.
+Určitě, i doklad prostě, když je,
+tak tam říkají,
+tam může dávat kdokoliv
+ty image, tam jsou nějaké
+omezené image, jakože od Pythonu
+je tam image, od
+Postgre je tam
+image, kterou mají mít na starosti ty tvůrci.
+Ale...
+Proto třeba Red Hat
+dodává image, tady to je
+postavený na relu, je to
+zbuildění prostě stejnou verzi, jako
+máte ten Kubernetes a máte
+tam prostě jako HTTP server nebo
+pro Jbos image a podobné věci
+a máš to ten jeden základ a
+máš to podepsaný, certifikovaný od toho
+vendora, to znamená, když máš Kubernetes platformu,
+tak bys měl chtít jakoby i
+nějaký ty base image, na kterých
+stavíš, abys to měl jednodušší
+jednotný. Jo, protože potom, když třeba
+používáš různý base image, tak
+ztrácíš tu výhodu toho, že vlastně
+si stáhneš jednu base image a
+pro každou aplikaci se tam změní
+jenom ta aplikace.
+Jenom ta poslední vrstva, ne? Přesně tak.
+Neušetříš tím
+jakoby trošku místa, jak když
+se káde nějaký stovky megabajtů, co to je, že jo?
+A byl už nějaký
+mega worldwide fuck-up
+týkající se security a Kubernetes
+se doklů něco, jako co zasáhlo
+jako všechny, že si řekli, tyjo,
+tak tohle, to je fakt velký.
+V poslední době byl ten lock for J, že jo?
+Jo a jo, no ale to vlastně...
+To zasáhlo i Kubernetes
+svět i OpenShift.
+No ale to bylo daný lock for J jako takovým, ne?
+To bylo spíš jakoby JVM svět,
+než vyložení do Krovskej, ne?
+Jo, jo, jo.
+A i Kubernetes jakoby měl věci,
+že šlo spustit
+kontejner s rootem
+a převzít
+vládu nad tím klaserem a takovýmhle věci.
+Zase, proč mají lidi rádi
+OpenShift, protože tam je ten
+otravnej S-Linux, jo?
+A i když byly ty zranitelnosti v Kubernetes,
+tak se netýkali prostě lidí, protože
+...
+výhoda toho Kubernetes nebo OpenShiftu je,
+že tam ti běží ty kontejnery
+a ty máš několik vrstev z nich,
+jedna je S-Linux, který zaručují,
+aby na sebe
+ty aplikace prostě nemohly.
+Takže i když je v jedný vrstvě zranitelnost,
+tak je tam další vrstva otravná,
+ale
+tomu OpenShiftu nevíš,
+že vůbec existuje S-Linux, oproti tomu,
+když máš za tom tady na normálním serveru,
+tak o tom jsou
+většinou zrušený diskuze.
+Tak to vypadá docela bezpečně,
+podle toho, co jsi mě tady řekl.
+Vypadá bezpečně.
+Musíš to bezpečně používat, vždycky musíš používat
+hlavu, neexistuje
+nástroj, který by řekli je bezpečný.
+Ono může být pro bezpečnost
+certifikovaný tím, jak je použité.
+Rel je taky, úprační systém
+může být bezpečný, ale když si tam prostě
+dáš heslo raz, dva, tři franta,
+necháš ruta prostě
+na to, tak ti to dřív nebo později
+někdo hackne.
+Je to o tom použití
+mozku při použití ty technologie.
+Hala a dá se tohleto nějak
+i omezit, protože samozřejmě
+tím, že používám třeba v doku ty databáze
+v takovým tom developer setupu,
+to znamená je tam admin raz, dva,
+třeba nějaké jako totálně kretenský
+heslo, existuje třeba nějaké řešení,
+že kdybych náhodou chtěl tohle nasadit
+do produkce, tak on to
+pozná, že jsem tam nasadil image
+s defaultním heslem, neskusí to třeba nějak
+jako oťukat nebo něco, protože já vím, že třeba
+nevím, jestli to je úplně stejný příklad, ale
+na GitHubu, když commitneš kód,
+který obsahuje nějakou security,
+nedej bože třeba nějaký klíč ke žru
+nebo k HBSku, tak oni
+automaticky to proskenujou a
+rovnou ti to jako rejectnou, nějakým způsobem,
+jestli vyloženě smažou ten commit, ale dostaneš nějak
+jako warning a myslím, že to fyzicky smažou,
+že udělají další commit, kterým to jako přepíšou.
+Ale u toho Kubernetes
+nebo obecně u těch řešení není nic takového,
+že by třeba zkusil ty, že vím,
+že defaultní image MySQL má
+heslo admin 1.2.3 třeba s vykříčníkem,
+tak to zkusí jako oťukat
+na admin 1.2.3. Není tam taková
+jeliverstva? Ne, ne, ne, když bychom se bavili
+třeba o sitovým stacku, tak tady to je
+prostě vrstva nad tím, co
+řeší Kubernetes nebo
+takové orchestrace. Jo, na to máš potom
+nějaký CMI a podobně. Jo, takže vykoncem nějakou
+službu, která to dělá. Přesně tak. Jo, ok.
+Tím, že už se
+pomalinku chýlíme k závěru, tak nás
+zajímají jednak, co plánuješ
+do budoucna, ale než mi na to odpovíš, já
+udělám takovou odbočku bokem. Já vím, že, protože my jsme
+se o tom bavili, že budeme znova startovat
+ty komunity a ty jsi
+jeden z organizátorů
+nebo z lidí, kteří se hodně motali
+kolem prák teners meetup.
+Takže jak to vypadá s tímhle
+meetupem? Chystá se něco, funguje to
+nebo jak to je? Chystá se něco,
+akorát jako přes
+covid jsme zkušeli dělat nějaký online
+meetupy. To nejde.
+To byla taková nuda, jakoby tam
+ještě víc se potvrdilo o to, že
+meetup není o těch
+znalostech, co se povídají na přednáškách.
+Meetup je o tom networkingu, o tom, co je
+prostě potom si popovídáš o těch
+reálných problémech, co kde, kdo, jakoby
+jak dělá a tak. To je ten
+důvod, proč jsme dělali meetupy.
+Začali jsme dělat meetup a teďka vysíjeme
+meetup na mě, takže jako už ho
+připravujeme další. Bude zrovna o podmenu,
+protože podmen
+dodává nejenom, že
+podporuje ty věci, co má dokr, skoro všechny,
+ale
+dodává věci navíc,
+jak to budou používat vývojáři, jak to používají
+admini a nějaký
+obyčejný intro. Takže
+těšíme se na to, připravujeme a
+musíme se pořádně dostat do toho meetupového
+módu, kdy jsme kdyžsi dělali
+dva meetupy až měsíčně.
+Jste dělali dva měsíčně?
+No, protože jsme dělali jeden takový
+pro, aby jsme nestratili ty lidi,
+kteří už se někam posunuli a pak jsme dělali nějaký
+začáteční skejt, to byl třeba workshop,
+jako pojďte si vyzkoušet rozjet
+kontejnery, vyzkoušte Kubernetes a podobné
+věci. No a kde to bude teda, nějaký commitment?
+Co?
+Commitment zatím ještě
+připravujeme. Tak po létě?
+Já bych chtěl do léta.
+Do léta ještě? Tak to už nemáš moc času.
+Nemám moc časy. No a můžou tě
+potkat lidi někde i na jiných akcích
+organizuješ ty? Jo.
+Brzo budu
+dělat pro Datascript
+v níděle nějakou snídaní
+a to je podman snídaně
+a já vám to pak pošlu,
+kdy to budu dělat.
+Tam budu mluvit právě jako o
+padmenu obecně.
+A jinak
+jako já si vás najdu.
+Za zákazníkama.
+Super, takže mluvit tě baví.
+Takže na tom otázku,
+co plánuješ do budoucna, je to
+rozpoložení, který
+musí vyjít než teď, to znamená jaký ten sales,
+něco, co chceš dělat dál, nebo
+máš pocit, že se to posune v čase někam
+ještě jinam? Já vždycky chci
+zůstat v pozici nebo takhle, nebo ve firmě,
+minimálně ve firmě.
+To hrozně baví, protože jak se říká, že Red Hat je
+jiný, že tam je jiná kultura a tak
+na to, jak je obrovská ta firma,
+tak to je neuvěřitelné.
+Jaká je tam pohoda, řekněme.
+A po dvou letech
+si vždycky dělám nějakou
+retrospektivu
+a jestli to. A po těhle
+dvou letech, dva a půl letech, mi to
+vychází, že určitě teďka ještě nic.
+Ještě dva roky zůstáváš.
+Je pořád ještě takových věcí, co nevím
+a co se můžu v tom zlepšovat
+a pořád mi to
+rozvíjí, takže
+to tady žádný
+překotnej změny
+se nedočkám.
+Takže rozvíjet se dál.
+Rozvíjet se dál, učit se nových věcí
+a
+věnovat se svým dcerám.
+Jo, to je další věc. Tři dcery.
+Tři dcery. No, no, no. To jsme se bavili před začátkem.
+Máte hodně slušního.
+Že to zkusil do třetice, čím jsem mi řekl, že
+jednoznačně rozmovil tyhle
+tyhle vyšlenky. Ne, rozmluvám.
+Ne, ne, ne. Řeknu u čtvrtýho.
+Hele, Kubo, strašně moc jsem rád,
+že jsi mezi nás dorazil.
+Že jsem tě konečně zase po letech viděl.
+Vypadáš furt skvěle.
+Vypadáš plnej informací.
+Nabušenej, jako vždycky.
+Takže já jsem nečekal nic menšího od tebe, musím říct.
+Bylo to super. Moc díky. Ať se daří.
+Ať jsi spokojený. Ať se daří
+s velkou početnou rodinkou.
+A zase někdy podvoca jsem.
+Jo. Díky moc.
+Měj se krásně. Čau, čau.
+Čtvrtý host třetí série, Kuba Veverka,
+už nám utekl ze studia.
+Já jsem si nedávno, člověče,
+uvědomil, že
+jestli jsem měl někdy velký štěstí,
+tak to bylo to, že mým životem proběhlo
+desítky strašně nadaných lidí.
+Protože když tak koukám na ty naše hosty,
+co jsme tady měli, a to jsou všechno vlastně kamarádi,
+nebo lidi, kteří znám z komunity, nebo
+bývalí spolupracovníci,
+tak tohle Kuba prostě další člověk,
+kterýho se může zeptat na cokoliv
+a on o tom je schopen mluvit.
+Je to super, když máš
+kolem sebe takovýhle lidi.
+Je to fakt štěstí. A ještě když o tom
+ty lidi umějí mluvit, protože spousta lidí
+to nedokáže prostě předat
+a Kuba rozhodně je potvrzením tím,
+že to jde. A já úplně mám chuť
+vzít všechny mé prezentace a dát je nějak do dokru,
+když se nepůjde.
+To fakt mě úplně navnadil.
+Hlavně si myslím, že bys měl naučit,
+nebo ty bys se směl naučit
+propagovat
+C&Co a AI takovým stylem,
+jako on mluvil o tom OpenShiftu,
+protože to padlo desetitisíckrát.
+Maj bych udělal soutěž
+pro naše posluchače, ať to spočítej,
+ale myslím si, že to je nelehká úloha.
+Pojďme udělat pundělní drinking game.
+Vždycky, když padne OpenShift, tak si dáte panáka.
+A kdo se doposlouchá do dvanáctý minuty,
+tak si myslím, že je největší alkoholik ever.
+To nedají ani v Bratislavi, podle mě.
+No tak jo, ale tak máme za sobou
+další díl. Co my?
+No já nevím, no. Tak my něco určitě vymyslíme.
+Připravíme se na další díl
+a v podstatě čekají nás ještě dva
+v téhle sérii, je to tak?
+Je to tak? No vlastně ne, tohle, ne, počkejte,
+čtvrtý, jo, jo, ano, ano, máš pravdu, je to tak.
+No a tím uzavřeme vlastně
+třetí sérii a rozhodli jsme se
+spolim, že si dáme jenom takovou
+kratší pauzičku přes léto,
+že stejně všichni budete úvody poslouchat,
+nebudete, budete se válet, koupat,
+chodit na výlety, takže
+my si jako uděláme červenec
+takový příjemnej pro sebe, odpočinkovej
+a pak někdy zase v srpnu
+to pomalinku rozjedeme, ale ještě máme dva hosty
+v pajpě. Přesně tak, ještě se máte na co
+těšit po celý červený. Tak jo.
+Tak se mějte krásně, no a zase za 14 dní
+pod vodca sem. Mějte se, čau, čau. Čau.

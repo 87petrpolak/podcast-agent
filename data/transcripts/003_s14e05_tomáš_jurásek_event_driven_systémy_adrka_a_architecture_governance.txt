@@ -1,0 +1,2247 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Krásný den, milí posluchači, vítejte u pátého dílu čtrnácté série vašeho nejoblíbenějšího IT podcastu Pod vocasem.
+No a samozřejmě i na konci, nebo téměř na konci této série naproti mě sedí Petr Polipolák.
+No přátelé, jak už to neumíme, naproti mě Roman Džouker, provazník, vysmátý a natěšený na něco, co už se blíží a sice jeho dovolená.
+Ano, je to tak, my skutečně už očkrtáváme dny v kalendáři a samozřejmě asi těším i na dnešní večer,
+protože v době, kdy tohle posloucháte, tak už je vlastně po Olimpiádě, my teďka v tuhle chvíli nevíme, jestli se jedná o nové Nagano,
+nebo jestli jsme totálně schořeli, dneska pro nás teprve Olimpiáda začíná, protože je čtvrtek ráno a dneska začínáme zápas s Kanadou
+a já se na to hrozně těším, protože včera Slováci kousli Finy, čtyři jedna, neuvěřitelně, takhle, Fini měli asi trojnásobek střel,
+ty tam pušili do toho golmana úplně neuvěřitelně, ale on zachytal výborně a Slavkovský dal dva góly a na ten třetí přihrál tak fotbalově,
+protože neměl ho kýku, tak do prázdný brány to tam dokopli a to ještě doště uchnul, tak pěkný, pěkný, pěkný.
+No tak to je něco, já si, pojďme si odhadnout, jak ten zápas dopadne, to totiž nezestárne.
+Jak to dopadne?
+Jak to dopadne, co myslíš?
+Já si myslím, že tři jedna prohráme.
+Tři jedna?
+No, tři jedna prohráme.
+Já si myslím, že prohráme opět gólu.
+Myslíš to ne?
+A víc, a víc.
+Prosím, to ne.
+Hele, zrovna jsem to včera vysvětloval synovi, jak vlastně tam je třeba McDavid, který jako skoro vyhrál Stanleyův pohár,
+my tam máme Ondru Kašeho, který skoro nebude příští rok extralizovat Český,
+ale třeba, třeba, hele, já jsem radši pesimista, pak budu překvapenej, v tomhle konkrétním případě,
+onak jsem životní optimista, ale já když jsem viděl tu sestavu, to je prostě úplně jen z jiný pohledy.
+Já sám to těším, to bude svátek.
+To já taky, to já taky.
+A jednu věc ještě musím říct z Olimpiády, než se přesuneme jinam, samozřejmě,
+protože teďka tím žije celý svět, když teda pominu ten držkopád Linzivonový,
+tak mě zaujala jedna věc, a to je, koukal jsi na curling?
+Koukal jsem na nějaký curlingy.
+Kámo, curling je nejlepší sport ever.
+Jo, tak všeobecně.
+Především, pokud sledujete ty naše, nebo sledovali jste, protože v tuhle chvíli už nehrajou,
+že dohráli, tu naši smíšenou dvojici.
+Na ty jsem koukal.
+Hochu, ty ruchový mikrofony, moje ty klopáky, přísahám bohu,
+já tu hru nemusím chápat, nemusím ji ani sledovat, já bych si to pustil jenom na max volume
+a poslouchal, jak oni dva se dohadujou, protože to je úplně geniální.
+Já jsem si pak samozřejmě něco zjišťoval, oni spolu snad ani nechodějí,
+ale kdyby mi řekli, že jsou spolu 35 let a vychovali 10 dětí,
+ty vlády jim to budou věřit, protože oni se tam neustále dohadujou.
+A tam byl opravdu památný moment, kdy ona mu tam něco říkala a on říká,
+no, hele, já nevím, jako, asi ne, já s toho nesouhlasím, no, hoď si to, jak chceš.
+A ona to hodila a trafila to fenomenálně a oni tím získali tři body
+a jenom jsem se otačil na manželku a říkám, tak a teď to s ní úplně nevydrží,
+protože prostě měla pravdu. A pak zase jiná situace a ten komentátor říká,
+no, tak Julia si evidentně prosadila svoj.
+Oku boží, jako pokud vedete curling jako sport, tak to není pro vás,
+ale pokud v curlingu uvidíte paralely s vaším partnerským životem,
+tak tam je všechno, přátelé, miluji to úplně.
+Tak teď si vzpomínám, že jsem to taky viděl a on jí něco radil,
+ne, ona mu něco radila, on ji vůbec neposlouchal a dělal si své,
+jako něco jako zametej a on nezametal.
+Jo, jo, jo, jo, ne, je to boží, je to boží fakt, jako doporučuji,
+podívejte se i třeba na i vysílání, nebo tak, pokud to jde zpětně,
+všechny ty zápasy těch našich curlerů, které byly fenomenální,
+mimochodem, mně se to fakt líbilo, tak si to fakt dejte,
+koukněte na to z jiný perspektivy a nebudete, nebudete litovat.
+Mně se líbí, jak to tady řešíme a teď už se těší na mistrovství,
+že tam je porvala.
+Jo, jo, jo, v novinách už je nejhorší olimpiára za poslední 20 let.
+S Kanadou prohráli jsme nejvíc, co jsme kdy prohráli.
+A nebo prostě teďka se žije druhým Nagánem.
+Ano, nebo jsme na náměstí teď.
+Ty ve no, no je to hezký, je to hezký.
+No tak uvidíme.
+No uvidíme.
+Prostě ta datová časová inkonzistence je to takový jako zvláštní.
+No i o tom se dneska konec konců budeme bavit s naším hostem,
+že se budeme bavit o eventual konzistence a těchto věcech.
+Ty kráso, ty jsi oslomůstka.
+Já jsem oslomůstka as a service, samozřejmě.
+Ale ještě než tomu naskočíme, musíme poděkovat samozřejmě našemu partnerovi
+této série České spořitelně za to, že za námi stále stojí a že nám stále pomáhá.
+A my vám za to strašně moc děkujeme, vážíme si toho a doufáme,
+že naše spolupráce bude pokračovat i v patnácté sérii.
+A samozřejmě děkujeme i všem pár subscriberům na Hero Výrok.
+Díky Honzo.
+Díky Honzo.
+Ne, samozřejmě pomalinku přirůstáte, my vám to samozřejmě děláme velmi jednoduchý,
+protože vás zásadně jako ty ostatní neomezujeme, nenutíme na tu platformu jít.
+Ale už se nám tady výsuje špeciální bonus jenom pro vás, pro subscribery,
+takže určitě ta potřeba přihlásit se na Hero Hero a podporovat nás bude větší a větší
+a my děkujeme všem, kteří už teďka jste naskočili, pomáháte nám, vážíme si toho
+a samozřejmě i pro vás budeme vymýšlet nějaký špeciální vifikundace,
+jak se tak hezky česky říká.
+No tak asi to máme všechno, ne, na start.
+Jdem to rozjet, jdem to rozjet, Tomáš čeká zadveřma a myslím si, že se máme na co těšit.
+Ano, dneska nás čeká Tomáš Jurásek, se kterým, jak jsem říkal, budeme probírat Event Driven Systemy,
+Eventual Consistency a všechny tyhle dobrůtky a šťávičky, který já osobně miluju, takže jdeme na něj.
+Ve studiu s námi sedí náš dnešní host, Tomáš Jurásek. Ahoj Tomáši.
+Čau Tomáši, čau.
+Tak prosím tě vítej, ty jsi dojel až z Brna, že jo?
+No, bohužel nebo bohužel dík, nevím.
+Jak se ti líbí v Praze?
+No v Prahe, jako super, no.
+Jel jsi matrem?
+Není to jenom most a hrad, no.
+Matka mě stanála, samozřejmě.
+Dobře, dobře.
+Ale tady ty vůměrský odkazy, samozřejmě.
+Co víc si můžu přát?
+Tak jdeme, přátelé, od PSH jdeme zpátky pod VodSas.
+Prosím tě, řekni nám, nebo hlavně posluchačům, že my tě tak trošku známe, my jsme propojený na Linkity,
+já tě sleduju, já vím, co tak trošku děláš, ale ne třeba každej.
+Tě má ve svém netvorku, tak řekni posluchačům, co děláš a jak ses vůbec do IT dostal?
+Jo, já to zkusím nějak zhrnout.
+Já jsem vlastně s srdcem a duší jako dodned vývojář, nebo vlastně od začátku se zajímám o ten Microsofty stack,
+ať už je to jako samotný dodned, ať je to Azure ekosystém a celý ty věci okolo.
+A v podstatě, jak jsem se k IT dostal, ta historie je nedávná.
+V podstatě, já někdy v okoru roku 2017, teda kecám, 2006, 2007,
+jsem začal hrát vovko a vlastně jsem nějak se dostal k programování toho jádra
+a začal jsem na těch freeservech pomáhat vlastně programovat,
+ať už to na Mystiku, na Twinstaru, na těch českých freeserverech nějak přitsmrdávat vlastně
+a učit se nějak Cčko a C++.
+A v té době tam někde u Twinstaru jsem jako potkal Čermiho
+a nějak se mi jako zalíbil jako dodned a vlastně celý ten ekosystém
+a začal jsem vlastně nějak jako hledat.
+Hledat tu komunitu, našel jsem historické to webforms.cz,
+kdy Tom Hercek vlastně psal a učil vlastně ty lidi jako jak psát ty webformsy.
+Takže jsem se toho nějak chytil a vlastně od té doby mě ten dodned vlastně jako nepustil, no.
+A od té doby se to táhlo historií, kdy jsem se pak nějak jako někdy v roku 2015,
+no myslím kvůli 2015, dostal vlastně do Riganty, do té komunity vlastně jako okolo Toma.
+A tam už to pak jelo, no, tam už jsem vlastně, tam byl přepis jako,
+ASP.NET Core vlastně na nové v podstatě a od té doby, od té doby ta zvědavost šla vlastně,
+jako rostla, rostla, rostla, až jsem se dostával k větším systémům,
+zajímaly mě potom ty globální paterny, jako ty organizační paterny,
+jako mikroslužby, Domain Driven Design a vlastně všechno, jak to celé postavit,
+jak to modelovat, jak to dát dohromady, aby to fungovalo,
+aby to nebylo jenom o tom, že Domain Driven Design je implementace nějakého agregátu
+v nějakým kódu, ale vlastně jak to propojit vlastně celé,
+celé jako spolu, no.
+Takže Vovko byl ten první...
+Vovko byl ten input, jo, jo, přesně tak.
+A ještě se mu věnuješ, ještě paříš?
+Ne, jejda.
+Ne? Jakže vypadáš, vypadáš jako velmi kultivovaně,
+na většinu, když poznáš nějakého hráče Vovka,
+tak vypadá, jak dneska Polik, který nespal,
+protože se mu zeblili navzájem dvě děti.
+Tak ty většinu ty hráči máš, jo, takový ty králičí očejčka,
+a jsou úplně zničený, to Tomáš slyšel úplně ve vůni.
+Ne, ale Tomáš teda se taky zmínil, že má dvě děti, dva kluky,
+takže to může být jaký solidní rošambo.
+Ale ty po sobě nezvracej, ne?
+Ne, ne, ne, to dělají jenom Polákovi.
+To dělají jenom Polákovi.
+OK, ty kromě toho, že teda se pohybujíš těchto technologiích,
+ty vlastně školíš, jo, což je teda většinou takový ten dotaz na závěr,
+ale pojďme tím, ty vlastně dneska máš nějaké školení, je to tak?
+Jo, jo, dneska mám školení okolo architektury,
+nebo jako obecně architektury,
+ale neškolím jako úplně pravidelně,
+školím třeba jako třikrát, čtyřikrát za rok,
+nějak jako spíš, když se něco jako nabídne,
+protože mě obecně jako zajímá,
+jako studovat nějaký problém
+a snažit se ho jako i prakticky pochopit,
+ať už na nějakým projektu,
+nebo vlastně pomoct nějaké firmě v rámci konzultací,
+to nějak jako vyřešit,
+a když už tu znalost mám,
+taky se ji snažím jako nějak dostat ven ze sebe,
+abych neměl jenom sám
+a snažím se ji jako nabídnout ostatním,
+ať už formou nějakého blogu,
+nebo někde na nějakých konferencích,
+nebo tak případně nějakého jako školení.
+Ty máš vlastně svůj blog,
+když už to zmínil Tomáš Jurásek.net
+a taky máš svůj Substack Software Design Notes.
+Co tě vlastně vedlo k tomu,
+tohleto sdílet,
+protože my třeba spolujeme samozřejmě ty doby,
+kdy blogy frčaly, tak to my si pamatujeme,
+to byly možná právě ty doby,
+kdy ty si jako usedal k vovku,
+ale teď mám trošku pocit,
+že to maličko jako vymizelo blogy,
+že se to smrslo do takových těch jako 140 znakových výkříků,
+a ty máš ty blogposty relativně dlouhý,
+takže co tě k tomu vede?
+Já se snažím spíš pro sebe to tvořit,
+já se snažím vlastně jako sformulovat si tu myšlenku,
+dát si ji nějak na ten blogpost,
+a vlastně je to spíš můj obraz toho,
+co si o tom jako myslím,
+nebo co, jak to jako chápu,
+takže nesnažím se to tvořit pro nějaký jako veřejný publikum,
+spíš to tvořím jako pro sebe,
+a vytvářím si nějakou jako memory toho,
+jak jsem na tom v čase přemýšlel,
+případně si to jako zvalidovat,
+jestli to, jak jsem na tým přemýšlel před lety,
+jestli je vlastně furt validní,
+anebo jestli to vlastně jako byla naivní myšlenka,
+která vlastně vůbec jako nefunguje.
+A našel jsi tam nějakou takovou,
+jak jsi řekl, ty veta, to jsem byl hovor,
+spíš, ano, ale nemám to jako popsaný,
+takže spíš ty první implementace mikroslužeb
+a to chápaní toho domain driven designu
+bylo jako naivní,
+ta naivní implementace mikroslužeb,
+kterou i teď bohužel jako vidíme v těch firmách,
+kdy vlastně není to jenom o tom,
+že mám nějaký monolid
+a teď ho prostě přepíšu do stovky mikroslužeb,
+ano, to bude vlastně fungovat a lépe.
+Jasně.
+Takže se spíš snažím v tom hledat jako,
+jako proč bych to vůbec měl dělat
+a vlastně, že ty implementace těch mikroslužeb
+nebo těch distribuovaných systémů
+nejsou o těch mikroslužbách, jo,
+je to spíš o té organizaci
+a je to spíš o tom jako mentálním modelu těch lidí,
+jak vlastně chápou ten ekosystém, jo,
+jestli je to mikroslužba
+nebo je to jeden monolid, je vlastně jedno,
+jenom je to vlastně, jak je to nad tým postavený.
+Tak to je, pokud si to píšeš pro sebe,
+tak jsi úplně připravený koupit si prostě
+unitrý robota, ne, a příště už může
+unitrý robot to odprezentovat za tebe, ne,
+ten kontext má, takže jako je to ready, ne.
+Možná, jo, uvidíme, kam se to posune, no.
+Když už jsi teda otevřel mikroservisy,
+ty jsi zmínil, že vlastně není to jenom o tom
+technickým, řekněme, levelu,
+ale je to i o nějakých,
+o nějakém tom smíšení těch lidí,
+jak ta organizace taková funguje.
+Sleduješ teda takový to klasicky jako konověvo pravidlo,
+že celý ten systém se vlastně přizpůsobí tomu, jak...
+Hele, ve směstu to vždycky jako zmiňuji na začátku,
+když jsem někde, ať už konzultačně,
+nebo vlastně na nějakém projektu,
+kde vlastně se snažíme,
+nebo chceme implementovat mikroslužby,
+že je to vlastně první o té organizaci.
+Protože mikroslužby za mě jsou jako organizační pattern,
+který jako pomáhá tu firmu rozdistribovat
+více do nezávislých jednotek,
+které spolu nějak jako kouperují.
+A není to o tom, že implementuji
+jako mikroslužby do firm,
+kterou chci řídit jako centrálně.
+Jo, jo, jo.
+Nebo vlastně jako...
+Takže konvojovou pravidlo
+je vlastně takový ten základ toho,
+proč bych to vůbec chtěl dělat
+a jaký tam mám lidi v té organizaci,
+jestli vůbec mám na to to dělat.
+Takže tam hodně z toho vycházím.
+Takže ty, když školíš tohle,
+jsi to tak narážíš teda většinou na ten lidskej problém,
+protože technický asi ne, ne.
+Většinou se hned lidi, který tohle zvládnou technicky,
+organizace funguje.
+Určitě. Určitě prvně narážím na tom,
+jak je ta organizace jako strukturovaná,
+jak jsou ty týmy rozdělený,
+jak jsou skillsetově jako vůbec nastavení,
+případně jak se to dokáže rozhodovat sami
+nebo čekají na nějaké nařízení zhora.
+A celé to o tom,
+jak ty lidi fungují.
+A pak je to o těch procesech,
+které jsou jako nad tým
+nebo jako v té organizaci jako takový.
+Jestli vůbec máme jako zmapovaný jako proces
+toho našeho biznisu, nebo jestli to někde leží
+jako v nějakém legacy kódu,
+jestli to dokážeme jako namodelovat,
+jestli to ty lidi vlastně ještě tady jsou,
+kteří to jako historicky modelovali,
+nebo je to prostě, ono to nějak jako funguje
+a vlastně radši do toho nerybme.
+Takže je tam hodně těch aspektů,
+které vlastně ovlivňují to,
+jestli jako mikroslužby ano nebo ne.
+A kdy teda má smysl v dnešní době
+do těch mikroservisí sít?
+Protože můj pohled je,
+že kdysi dávno to byl obrovský boom.
+Vlastně všechno, i to funkční,
+se trhalo do mikroservis,
+protože proč nemít ten problém,
+který máme, proč ho najednou nemít
+na deseti místech a škálovaný,
+že jo, místo být jako jeden problém.
+A teď zase se to maličko vrací zpátku
+do nějakých modularizovaných monolitů a tak dále.
+Tak jak to vidíš?
+Kdy teda teďka je ten správný okamžik
+nebo kdy je ta haraná,
+kdy už jako se hodí do těch mikroservisách
+aspoň začít uvažovat?
+Za mě to je asi o velikosti té organizace.
+Jestli ta organizace je deseti, dvaceti člena,
+nebo do nějakých menších jednotek
+nebo desítek lidí,
+tak nemá cenu vlastně to rozbíjet úplně.
+Ale když je to velká firma,
+která je třeba e-commerce je hodně dynamický
+a hodně rozjetý,
+tak tam má cenu to nějak začít škatulkovat.
+Druhá věc, co si představím pod tou mikroslužbou.
+Někdo si pod tím představí malinkatou službu,
+která má pár řádek kódů.
+Jasně.
+Ale někdo si pod tím představí,
+prostě nějaký ucelenou jednotku,
+nějakýho bounded kontextu,
+který vlastně jako kooperuje spolu.
+Takže ono je problém sladit to očekávání těch služeb,
+nebo mikroslužeb, nazvíme to jakkoliv,
+co si od toho lidi očekávají
+a vydefinovat ty hranice vlastně toho, co to je.
+Jak velký většinou bývají,
+když ty si takhle pohybuješ po těch firmách?
+Bavíme se o nějakých fakt pár řádcích v goučku,
+protože se to někdo chtěl vyzkoušet
+a pak to přepíše do skaly, nebo...
+Já spíš tlačím na to,
+ať to řeší nějaký jako business context.
+Ať to nejsou jako,
+že mám nějakou business problematiku,
+kterou rozřežu na entity
+a z toho udělám jednotlivý služby
+a zjistím, že potom ty entity mezi sebou
+musí jako spolupracovat,
+takže to pak provážu nějakým restem
+a nebo nejhůř to provážu databází,
+že jo, a říkám tomu jako mikroslužby
+a pak říkám, že to nefunguje.
+Takže spíš hledám prvně ten business context,
+nebo definice těch agregátů,
+nějakých jako ukázek toho,
+jak ten proces jako v tom funguje
+a podle toho se vytvoří potom to technické řešení.
+Ty jsi tam, ty jsi psal v jednom z těch článků
+nebo těch blogů o events versus workflows,
+tak to souvisí s tím, jak spolu budou propojený,
+jak velký jsou ty jednotky,
+nebo o čem bys tohle z toho popsal?
+To je spíš můj pohled na tom,
+jak koukám na event-driven architektur obecně
+a jak vlastně, co pro mě znamená jako doménový eventy
+nebo eventy jako takový
+a nějaký jako workflow v té dané doméně.
+Protože já se snažím jako modelovat ten ekosystem
+pomocí backstage system modelů,
+což je vlastně nějaký mentální model,
+jak se koukat na to technické řešení,
+že to není o té implementace té mikroslužby,
+ale že na tým je nějaký systém,
+který je vlastně nějaký bounded context
+a to zapouzdřuje třeba nějaký tým.
+Tam je řeč třeba i nějakých práv, resourců,
+to znamená, že to může mít třeba samostatný kubernetí,
+namespace a je to nějak jako izolované.
+Což je ten systém, ten bounded context.
+A v tom bounded contextu jsou pak nějaké komponenty,
+které řeší ty problémy toho bounded contextu.
+A v rámci toho systému mám nějaké procesy.
+V tom bounded contextu jsou nějaké procesy,
+které vlastně to...
+A to jsou pro mě jako workflows,
+jako procesy, které běží uvnitř toho systému.
+No a potom ten systém,
+nebo ten bounded context,
+jako publikuje nějaké eventy,
+že se v něm něco stalo.
+A to jsou ty eventy, které ty fakty vlastně,
+které říkají, hele, objednávka byla vytvořena.
+Tak je nejednodušší.
+A potom další systém na tenhle event reaguje
+a potom si interně zase spustí nějaký proces
+na základě toho, když byla objednávka vytvořena,
+tak může řešit teď naskladnění
+nebo spíš jako expedici toho produktu
+jako v logistické oblasti.
+Jo, jo.
+A když koukáš na problematiku tohohle typu všeobecně,
+tak od jaký velikosti ty organizace to dává smysl?
+Třeba pro jaký ty pracuješ organizace?
+Ale můj background je hlavně jako v e-commerce.
+Takže já se dlouhodobě pohybuji v e-commerce.
+Historicky jsem tam měl i nějaký insurtech,
+takže jsem se snažil si rozšířit ty obzory,
+ať nejsem jenom v tom e-commerce zašitej.
+Takže většinou,
+jako působím na těch větších polích,
+který počítá desítky vývojových týmů.
+Takže tam se snažíme vlastně dbát na nějaké rozdělení
+a nějakou samostatnější zodpovědnost
+těch jednotlivých domén, klastrů, jakkoliv to nazveme.
+Jak ty vlastně přistupuješ k té definici toho bounded kontextu?
+Je na to nějaká metodologie?
+Je to o tom biznesu?
+Protože kolikrát v těch organizacích
+je to vlastně jako velmi těžký rozpoznat tu hranici,
+kdy tohle je ještě plácnu účtárná,
+kdy už je to sklad,
+byť samozřejmě každej sedí někde jinde,
+ale je tam takovej ten handshake moment,
+kdy si ty věci jako předávají,
+anebo ty věci, kdy mají třeba nějakou sdílenou zodpovědnost.
+Já třeba si zpomenu ještě na moji oblíbenou knížku
+na tohle téma od Skota Vlašina
+do Make Modeling, Make Functional,
+která samozřejmě, my máme ještě o to radši,
+že tam jsou ty příklady jako v šárpu,
+tak tam vlastně taky popisuješ některý ty příklady,
+jsou jako velmi těžký vlastně rozpoznat,
+že tam je to gro toho umění říct,
+tohle patří sem, tohle patří sem.
+Jak to řešíš ty?
+Hele, to je celkem komplexný jako problém tohle.
+Ono to nikdy asi netrefíš úplně na první dobrou.
+Je to o nějakým jako hledáním toho jako zlatýho řezu
+mezi jednotlivýma oblastma,
+nebo týma bounded contextnama
+a snaží se to podpořit nějakým jako,
+nějakým modelovacím jako nástrojem,
+který ti to jako zvizualizuje.
+A ta vizualizace ti pomáhá v podstatě
+to lépe pochopit, i ten proces, jo.
+To znamená nějaký event storming,
+event modeling a tady tyhle jako
+techniky, které vlastně jako mají za úkol
+ti to dát jako na papír nebo na nějaký plátno.
+Tam si nakreslíš ten proces a lépe vlastně,
+když to vidíš, tak lépe chápeš
+vlastně, kde ten řez je jako dobrý udělat.
+A potom vlastně už jenom
+se jako domluvit na těch kontraktech
+mezi sebou a to znamená nastavit
+nějaký jako public kontrakty mezi
+jednotlivýma bounded kontextama, které potom
+nějak jako dodržuješ a respektuješ
+v rámci toho svýho
+bounded kontextu.
+Ty jsi zmínil event storming, to je velmi
+zajímavá metoda, máš s tím nějaký
+hlubší zkušenosti, protože já vždycky se někoho zeptám,
+tak říká, jo, tohle bychom chtěli dělat, ale nikdy jsme se k tomu
+nedostali, tak jak často
+to třeba používáš ty a můžeš to i popsat
+posluchačům, co to je.
+Jo, ale párkrát jsme to
+použili, nevím jestli jako úplně
+v tom scaleu, jak to je jako zamýšlené,
+ale vlastně, když jsme modelovali
+nějakou oblast, tak jsme se snažili
+vlastně jako díky jako
+v podstatě
+díky eventům
+vlastně jako modelovat ten proces
+v čase. To znamená,
+vy si vydefinujete v rámci
+vlastně toho bounded kontextu,
+vydefinujete ty hlavní akce, které
+se tam jako staly a ty si dáte jako
+na papír v čase.
+Jak se jako dějou, jak jsou po sobě
+jako poskládaný.
+Že na whiteboardu je nějaká časová osa.
+Časová osa, OK.
+A potom hledáte vlastně okolo jakých
+agregátů se to jako tvoří.
+Z jakých agregátů jako vznikají tyhle eventy.
+Takže z toho jako vznikne potom
+nějaký ucelený
+agregáty jako dát, které
+k sobě jako jsou
+zapouzdřený. A potom hledáte
+ty komandy nebo ty akce, které
+vlastně jako vyvolali ty eventy.
+Takže hledáte vlastně ty
+jednotlivé vstupy, ať už
+uživatelů nebo nějakých dalších systémů
+nebo integrací dál, které zase dáte jako
+úplně na začátek. A to jsou ty vstupy
+toho, že vznikne
+nějaký komand, udělá se
+nějaká akce na agregátu a vznikne nějaká
+reakce, co znamená vznikne ten event, který
+zase pokračuje v tom čase dál.
+A tam na tom whiteboardu je potom pěkně vidět,
+kde se agregujou nějaký
+konkrétní eventy, agregáty, komandy
+a kolem toho vznikají potom nějaké
+ty bounded konteksty, které
+se pak rozpadávají na ty procesy
+z toho.
+Když jsi zmínil eventy,
+de facto z toho, co popisuješ
+a toho tak, jak já jsem to viděl, i protože
+samozřejmě posluchači už to asi ví
+ze těch pět let, já jsem jako velkej fanoušek
+tohodle, já v podstatě i malý
+softwary definuju tímhle s tím stylem,
+že opravdu jako jedu si QRS a i když je to
+malá prostě apka, která běží v podstatě
+sama o sobě, tak funguje na systému,
+že ovládám jí přes komandy,
+ono to emituje eventy, já je většinou
+i zahazuju, ale mám je tam nebo jdou do logu,
+ale prostě jako jsem na to zvyklý a pak mám
+nějaký queries, jenom když chci ty data číst.
+Takže já tohle z toho jako úplně
+zbožňuju. Ale jedna věc, která
+vždycky vlastně ve chvíli, kdy se začneš
+těm eventům jakkoliv atačovat, tak si uvědomíš,
+že to je vlastně najednou jakoby public
+kontrakt toho bounded
+kontextu, který je observable, ty seš
+k němu subscriber, můžeš s ním dělat další jako věci.
+Řešíš ty třeba při té velikosti
+těch firm, se kterýma pracuješ
+třeba dva druhy
+eventů, nějaký jako řekněme observable,
+který jsou public a pak nějaký jako internus
+nebo?
+Občas jo, občas ne. Záleží, jak je ten
+problém velkej a jak moc
+se vyplatí do toho
+tyhle přístupy
+dělat. Ale v podstatě ano, v rámci
+těch bounded kontextu držíme nějaké jako
+domen eventy, které jsou vlastně jako
+nebo jsou privátní v podstatě
+v rámci toho bounded kontextu a potom
+se to překlápí na nějaký integrační, nazveme to
+integrační eventy, které jsou potom
+ten public kontrakt a ten se snažím nějak lépe
+verzovat, nějak lépe dodržovat tu governance
+toho, že se mi to jako nemění pod rukama,
+nerozsypu někoho dalšího, který je na to
+zavyslej. Zatímco interně
+ty domenové eventy si můžu jako v podstatě
+měnit jak chci, maximálně rozbiju
+sebe. Takže nějaké zapouzdření
+klasického. Takže zapouzdření, jo jasně.
+Ok, ok. Ty jsi říkal, že
+je verzuješ, nebo obecně mají
+nějaký, máš nějaký dobrý
+zlatej střet, jakým
+je vlastně definovat, že třeba mají vždycky
+nějaký metadata, nějakou verzi, nějakou obálku
+nebo? Určitě. Hele, poslední dobou
+jsme narazili na cloud eventy
+a v podstatě používáme jako envelope pattern, jako cloud
+event, protože už několikrát
+se nám jako stalo historicky,
+kdy třeba jako v dotnetu někdo
+používal Mastransit, Wolverine a oni
+mají ty svý obálky, oni vytváří svý obálky,
+které to, a potom toto jako si temu vstoupí
+nějaký jiný jazyk, třeba PH,
+no a ten nic takovýho jako nemá, takže
+on se buď musí přizpůsobit nějakým jako Mastransitu
+a tím pádem musí generovat stejný jako
+eventy, nebo i ty obálky jako
+dělá nějaký jako framework
+a je to jako
+složitý obecně jako potom manažovat a změnit.
+Takže obecně už jsme se
+poučili několikrát, kdy
+vlastně pro ty public kontrakty
+typu jako asynchronních
+eventů používáme cloud eventy, které
+jako definují ty metadata, definují vlastně
+z jakého bounded kontaktu
+leze, jaký je ten hlavní agregát,
+z kterého to leze, popisujeme tam
+ten type i verzi toho eventu,
+plus jsou tam další
+nějaké koreleční IDčka,
+případně jsou tam
+trace ID a tady tyhle
+další metadata.
+Tím pádem vlastně,
+jenom mě oprav,
+ownerem toho eventu je ten systém,
+který je emituje, takže ten si je může měnit
+tak, jak chce.
+Narazil jsi na nějaký vyloženě
+problém,
+i při těch změnách, že třeba
+nevím, bylo těžký,
+prostě, že zpětně, že ho třeba je dobrý, když si je
+přehráješ ty eventy, tak se dostane nějakýho
+stavu, nebo prostě aspoň mít možnost
+pochopit zpětně ty eventy. Jak ty
+na to koukáš z hlediska toho, jak se včase
+vyvíjejí? Stačí jenom to verzování, nebo je potřeba
+řešit ještě něco jiného?
+Vesmím, že nám vždycky vystačilo verzovat ty eventy
+a případně nějak
+modifikovat, ale to je modifikovat
+na základě té verze, takže znamená
+nastavit tam tu governance
+okolo toho verzování, případně nějak
+umět sdílet tu specifikaci těch eventů
+v té dané verzi. Někde to
+zastorovat, nejenom, že to máš v kódu,
+ale udělat z toho nějakou specifikaci,
+kterou máš někde uloženou mimo třeba ten
+kód a
+máš nastavené ty pravidla, že ti do toho
+nikdo nešáhne zpětně, že nikdo
+nešáhne do verze 2
+a teď tam odstraní nějaký
+atribut, který je jako povinný.
+To znamená, snažím se to držet
+někde jako zamknutý,
+někde vedle a je to vlastně jako pod nějakou
+governance toho, jak
+verzovat a jak vlastně sdílet
+eventy napříč různýma
+boundit kontextama.
+Ty jsi změnil mást transit, což je,
+pokud dobře pamatuju, v podstatě jako
+wraprnat nad tím, jak by
+měla fungovat komunikace
+typu service bus a tak dále.
+Je to abstrakce, ne? Je to abstrakce nad různýma
+providrama. To znamená,
+je tam
+Revit, Kafka,
+service bus a cokoliv co.
+Jsou ještě nějaký knihovny
+tohodle ražení, který ty používáš,
+že to je takový ten tvůj
+základní opasek nebo
+základní nástroj u opasku, který
+vždycky vytáhneš, samozřejmě pokud měm toho
+mást transitu. Ale u toho mást transitu to zajímavé,
+protože tam vidím
+tu vlnu toho odchodu, protože mást transit
+přešel na ten commercial model. A jo, oni
+měnili licence vlastně. A dost lidí
+od toho opouští, vlastně jako přechází
+ať si píšou vlastní jako
+v repry nad těma
+knihovnama.
+A nebo je to ještě jako Wolverine, který
+vlastně jako trochu podobnej,
+který řeší úplně stejný problémy,
+je free nebo je open source,
+takže dost lidí přešlo i na něho.
+Takže je to...
+Ale snažím se jako nepsát
+ty knihovny sám.
+Jako za prvé,
+většinou to není ani náš core business
+té společnosti, za druhé
+je to kód, o který se musíš ty starat.
+A zavířat je to dost velkou
+expertizu vlastně tého messagingu, nebo
+toho, jak to vlastně všechno funguje
+pod tým. Takže snažím se spíš jako využít
+tool, který někdo
+jednotky až desítky let jako vytváří
+pro ostatní lidi, než abychom
+to jako ve společnosti nebo v nějaké
+organizaci jako psali sám.
+Já bych chtěl říct, milí posluchači, takhle poznáte pravého
+IT seniora, že se snaží
+nepsat kód. To je stav, do kterého se
+vy juniori, kteří nás posloucháte,
+všichni chcete dostat, vy to projdete
+si tím, tak si to napíšeme sami
+až do té fáze, ty vole, proč bych to dělal?
+Teď už to někdo tisíckrát napsal,
+takže tady vidět, že Tomáš už má něco za sebou.
+Ale pamatuji si taky tu historickou
+jako ten přechod, protože
+jako když jsem vstoupil do toho IT
+nebo začal jsem to, tak jsem chtěl všemu rozumět,
+že jo, chtěl jsem vědět, jak se to píše, věděl jsem,
+že to prostě napíšu, myslel jsem si teda, že to napíšu
+jako dobře, že jo. Ale ono
+časem tě to vytrestá a v podstatě
+zjistíš, hele, tohle není můj biznis,
+proč to vlastně řeším.
+Já bych chtěl podotknout, že stále ještě na mém GitHubu leží
+implementace
+event storu nad Cosmos DB
+v F-Sharpu a v Norsku
+jsem potkal týpka, který říká, ano, my to používáme,
+ten tvůj produkt v produkci. Říkám, ty vole,
+cože děláte?
+Ale já jsem to asi čtyři doky nešel,
+já mám pocit, že bych to možná měl teďka jako
+zarchivovat, ale možná jaký firmě
+v Norsku způsobím vrázky, protože
+no, my to používáme, super. Takže jako pokud
+jste si nenapsali vlastní implementaci
+event storu a nevíte všechny ty dobrůtky
+kolem, tak jako nevíte, co je volec, přátelé.
+Jedna věc,
+a teď vlastně, když už jsem si tak
+trošku nahrál tím event storem a
+když se tady bavíme o eventech, tak
+co ty a event sourcing, jako
+způsob, jak jim v podstatě
+ukládat data do databáze, číst je
+zpátky a vlastně pochopit je v čase.
+Jaký s tím máš zkušenosti, jaký s tím
+máš bolesti, jaký s tím máš
+happy výsledky?
+Mně se ten přístup velice líbí
+v kombinaci s event driven architektura
+a celé to propojení toho myšlení,
+protože za mě, my i jako
+lidi takhle přemýšlíme
+v čase a v podstatě se to takhle
+postupně teče. To znamená, ten event sourcing
+je přesně to flow, já tomu říkám jako flow,
+ale je to to flow
+toho procesu, který vlastně nějak teče.
+Je vlastně nějaký input, command,
+vlastně tam se něco upraví na agregátu,
+z agregátu vznikne nějaký event, ten event uložím,
+potom ten event můžu publikovat vlastně
+jako dál. A takhle celé to vlastně
+jako teče. Takže za mě je to jako přirozenější
+přemýšlení nad
+procesem, nad tím jako softverem
+jako takovým.
+A teď si říkám to ale?
+Teď to přijde to ale.
+Ale vývojáři
+v podstatě chvíli přistupují tým
+jako transakčním jako
+přístupem vlastně nad tým softverem.
+A vlastně oni furt jako
+nevím jak bych to jako
+nazval, ale
+nějak jim to jako nevoní.
+Nedokážou vlastně v těch
+klasických časových souvislostech
+to jako poskládat.
+Takže pro nich je jako příjemnější
+tam mít nějakou servisu, která ty data
+prostě uloží, udělá ten snapshot,
+historie je vlastně nějak nezajímá,
+nebo když je zajímá, tak se to snaží řešit
+nějakýma audit tabulkama, nebo nějakýma
+audit odlivama. Ale to přesně jako řeší
+event sourcing.
+Nebo případně jako tady ty problémy jako
+outbox patternu, kdy vlastně potřebuji
+uložit to do transakční databáze a potřebuji
+ještě publikovat event, je vlastně
+taky. To komplexitu si vytvářím,
+ale myslím si, že
+ten event sourcing ti to všechno
+vlastně jako nabídne do určité
+míry. Celý tady tohle flow.
+Já teda z mý zkušenosti
+tam největší bolest byla právě
+ta i výhoda, a to je to, že
+to s tebou žije v podstatě jako navždy.
+Takže tam pak ta cena tý změny
+je větší
+a musíš nad tím přemýšlet v tom časovém
+kontextu, což je prostě pro člověka jako
+náročný. Protože ty, když máš něco zaprzistovaný
+v tabulce o vlastnou deseti
+sloupcích, tak ty víš, že kolem
+toho, tý prezistence, můžeš vlastně spoustu
+věcí změnit a jede se dál. Tady
+ne. Tady pokud jsi něco uložil s nějakým
+eventem, s nějakým časem,
+tak ty si to musíš jako přehrát.
+A teď vlastně si to musíš přehrát ještě podle
+nějakých pravidel, který byly platní v té době.
+Já vždycky říkám takový to, když se ti změní
+zákony prvního, první daňový,
+tak ty do prosince minulého roku si musíš ty eventy
+přehrát podle starých pravidel
+a pak aplikovat ty nový.
+Jako na jednu stranu to přidává
+brutální komplexitu na ty vývojáře
+a na ty architekty, protože všechno tohleto
+najednou musí přemýšlet nad tím softverem
+i s tou časovou osou, což třeba pro Tomáše
+evidentně je přirozený, ale ne.
+Každej to má asi pod kůží.
+Jako je to tak.
+Kreslíš i,
+nebo kreslíš,
+když navrhuješ v podstatě
+systém, řešíš tam i tu datovou
+vrstvu pod tím, a teď myslím
+spíš toho analytického rázu,
+což předpokládám budu řešit spíš větší organizace,
+nebo tam
+ta tvoje práce končí a
+spolupracuješ tam třeba s nějakým, nevím,
+s těm datovým architektem,
+který má na starosti tu analytiku zatím.
+Ale většinou je to v kooperace s tým,
+kterým má.
+Ne, že bych úplně někomu navrhoval
+přímo konkrétně, jak to má dělat.
+Spíš jsou to nějaké
+oblasti, které spolu řešíme
+a spolu s tým týmem dáváme
+dohromady, jak by to mělo celé fungovat.
+Ať už z pohledu integrací na okolní svět,
+to znamená hlavně
+ty integrační věci,
+a potom implementačně taky
+občas, ale už to není tak důležité.
+Už vlastně jako
+s některýma týmama řešíme vlastně,
+jak navrhnout tu službu jako takovou,
+jak ji rozdělit, jak ji
+roztrukturovat,
+jaké paterny uvnitř použít.
+A pak i ten storage
+pod tým, jestli potřebujeme
+jako transakční databázy,
+nebo je to jako NoSQL, jako model,
+který je dynamický,
+nebo co pod tým má být.
+Takže do určité míry jo, ale ne na úrovni toho,
+že bychom řešili až ty jednotlivé sloupce
+nebo ty datový typy těch sloupců.
+To už je většinou na tom týmu,
+protože ten tým tu problematiku
+vesmě zná lépe,
+a dokáže tomu lépe dát
+tu strukturu.
+Jak to vlastně funguje?
+Máš na LinkedInu, že jsi
+independent software architekt, to znamená,
+předpokládám, že máš víc
+zakázek, víc zákazníků
+a pracuješ tam vyloženě
+s těma interníma lidma, nebo
+ty máš nějaký třeba týmeček kolem sebe,
+že přijdeš s zákazníkem, ten řekne, hele, já bych chtěl
+architekturu a ty řekneš, dobrý, tak architekturu
+udělám a mám tady ještě dva borce, se kterýma to dělám,
+nebo jak to vlastně funguje?
+Hele, primárně já si udržím třeba dva projekty,
+kde jsem jako dlouhodobě.
+Jo, teď poslední, za poslední
+rok jsme měli i, dostal se k nám
+jako projekt, kde jsem se prostě
+zčuchli s partou a řekli jsme, hele,
+my jsme tady tře, čtyre,
+pomůžeme tenhle, vy tohle, tohle, tohle,
+tak jsme se tam jako dostali jako tým
+a pomáhali jsme vlastně s governance, nebo obecně
+jako s návrhem architekturu pro nějaké
+jako řešení, takže
+je to jako tak i tak,
+no, není to, ale primárně si držím vlastně
+nějaký, nějaký jako dva
+větší projekty, které, kde jsem jako dlouhodoběji.
+Tak mu to vlastně návaz
+myslel, že když by takhle nezávisle
+fungoval software engineer, dejme tomu
+nějaký vývojář, tak
+tam to může být asi, může to sekat častěji,
+ty změny, u té architektury
+asi chceš být díl, že jo, asi aby si viděli
+tu kontinuitu. No hlavně musíš, protože ty změny
+jsou pomalejší, jo, ty vlastně jako
+třeba za čtvrt, půl roku
+jako nic někdy možná neuděláš, nebo ne,
+že neuděláš, ale vlastně ta změna nejde tolik vidět,
+takže chce to více práce, chce to
+více jako diskuzí s těma týmama
+a tím, že tam je více týmu, tak se
+už jenom to sladit se s těma týmama
+někdy trvá jako déle
+a potom ten výstup
+je taky vlastně jako takový jako
+na delší horizont, jo.
+Jasně, architektura není věc,
+kterou jako měníš často
+a když už ji měníš,
+tak je to občas jako, že
+koupereš ji s tým starším řešením
+a musíš vlastně nějak jako
+postupně vlastně ty části buď vyměňovat,
+refaktorovat, upravovat, aby vlastně
+byly jako konzistentní, nebo vlastně
+ten biznis vlastně furt běžel.
+No nebojoval jsi, když jsi přicházel
+v podstatě z vývojeřiny do
+architektury, dejme tomu,
+nebojoval jsi s tím, že ten dopaminový efekt
+si jaksi dostavuje právě jako
+velmi později
+a musíš si na to počkat, ale zase samozřejmě
+to může být za cenu toho, že ten dopad
+je pak větší. Já mám občas takový výkyvy,
+že vlastně já se někdy za čas
+musím vrátit do toho kódění a musím
+jako víc jako kódět, protože cítím
+jako, že jak kdybych nic nedělal,
+že to trváte, ale
+vlastně interně cítím,
+že potřebuji kódět, abych měl tu rychlou odezvu.
+Abych vlastně jako viděl, že ten kód
+jako funguje, že takhle to furt jako
+si vede v pořádku a vlastně,
+že to nějak to. Takže já mám takový
+výkyvy, že vlastně někdy
+prostě čtvrt roku nekódím a pak zase
+čtvrt roku musím kódit, abych
+vlastně i pochopil jako to, co dělám.
+Vlastně pro mě je důležité vlastně
+i mi ten feedback od sebe, že vlastně
+když něco navrhuji
+a když je to dodne tím ekosystému,
+kterému já se snažím
+jako nějak rozumět, tak si to chci
+vyzkoušet, že to tak funguje, že ty paterny
+vlastně jsou furt nějak jako validní
+a že ten svět vlastně nějak jako
+postupuje technologicky a
+nějak v tom si furt věřím.
+Takže je to takový jako...
+No to mi připomíná, že já teda vypkodím,
+abych měl ten dopaminový efekt, ale mám tam furt
+nějaký erory, takže se to vůbec nedostavuje.
+K tomu se dostaneme jindy, ale samozřejmě
+jako to je problém
+vypkodinku, když nerozumíš, co ti to generuje.
+Ale to si dáme zase na jindy,
+telestérant. Prosím tě, ty už jsi to samozřejmě
+tady zmínil, architecture governance.
+Co to vlastně je?
+Je to, já to chápu jako prostě
+nějaký zastřešení architektury
+z více úhlů pohledů, možná
+i s nějakou větší dokumentací kole,
+možná s nějakými většíma guidelines,
+whatever, ale možná to chápu
+špatně. Takže vysvětli posluchačům, co vlastně
+architecture governance jako takový znamená,
+když to přijdeš do té firmy vlastně
+dělat. Jaký to má úrovně,
+jaký to má výstupy
+a třeba jaký tooly k tomu používáš.
+Jo, ale obecně
+architecture governance je pro mě jako sada nějakých
+principů, standardů, které
+vlastně jako firma chce dodržovat.
+Nebo chtěla by vlastně, aby
+podle toho stavili se všechny ty systémy, které
+v té firmě se vyvíjí.
+A jsou to nějaký jako soubor,
+pravidel. Já prvně
+začínám u nějakého mentálního modelu
+toho jako, jak chceme škatulkovat
+ten software. A já jsem už zmiňoval jako
+backstage system model, což je
+na jednu stranu je to nějaký
+servisní katalog, který si zobrazuje
+vlastně organizace ty jednotlivé komponenty,
+které jsou v té firmě. Na druhé straně
+je to i ten mentální model, jak vlastně
+jako designovat tu organizaci, nebo
+to IT. Je to vlastně, je tam
+nějaká doména, že jo. Tam spadají
+do té domény nějaké systémy
+ala bounded konteksty. A v těch systémech
+jsou jednotlivé komponenty, což jsou ty mikroslužby,
+které pak vlastní nějaký
+resource. Což ten resource může být databáze,
+můžou to být nějaké eventy,
+nějaký kontrakty a tak. Takže snažím se prvně
+jako, aby jsme všichni chápali,
+co je ten mentální model. Že to není
+o tom jméno, máme tu tisíce mikroslužeb
+a to je to ten
+hlavní strop, ale že nad tým
+je nějaký systém, který vlastně má
+nějaký záměr, nad tým je nějaká doména,
+která ty zase v záměry všechny jako
+zastřešuje. A na základě
+tohoto mentálního modelu je potom
+i nějaká automatizace ve stylu
+systém patří vždy třeba týmu.
+Takže automaticky potom máme
+nějaký ADčkový skupiny, třeba k tomu
+systému přirazené, když do toho týmu nastoupí
+člověk, tak automaticky dostane to
+a to automaticky znamená práva do všech
+komponent v tom daným systému.
+To znamená, podle toho celé stavíš i pak tu automatizaci
+toho onboardingu člověka,
+přístupy lidí,
+nebo přístupy těch jednotlivých komponent
+do systému a integrace mezi
+jednotlivýma systémama
+nebo jednotlivýma komponentama.
+Takže vlastně začínám nějakým jako
+ujasněním se, co je ta terminologie,
+jak vlastně chápeme
+mikroslužbu, jak chápeme bounded context,
+jak chápeme doménu,
+jestli je to fyzické nebo jenom psychické,
+jakože rozdělení.
+A potom jdeme dál,
+potom jdeme do nějakých vlastně jako
+principů, strategických principů,
+jako jak chceme, aby
+jsme jednotlivý věci
+používali, kam míříme
+technicky,
+jestli stavíme jako monolitický systém,
+jestli stavíme modulární systém,
+jestli stavíme mikroservisní systém,
+jak se k tomu vlastně jako obecně dostat.
+To znamená jako vyjasnit si na začátku
+ty principy a říct si,
+chápeme to
+jako všichni stejně.
+Jako pojďme si sladit si notičky,
+abychom byli jako na stejné věci.
+Protože pak se to rozstřelí a
+tým to tvoří takhle, tým druhej takhle
+a je to zbytečně
+jako, zbytečně to vás to jako pak stojí
+v budoucnosti na tom refaktoringu a celé té
+celé té úpravy.
+Jak je to, tato sada
+principů rezistentní vůči třeba
+změně organizační struktury, pokud
+ta doména respektuje nějakou
+organizační strukturu, anebo
+nebo vlastně ta odpověď je taková, že ta doména
+to naopak nerespektuje a pracuje
+tak, že vlastně můžu tam ty lidi přeházet
+jak chci, ale doména v podstatě zůstane.
+Jo. Doména je zaměření jako
+biznisu. Není to vlastně podle organizace
+jestli člověk X, člověk Y je tam
+anebo oddělení je tam nebo tam.
+Takže nesnažíme se to
+modelovat na tu organizaci,
+na tu strukturu jako takovou, ale snažíme
+se to jako modelovat na ty
+problémy toho biznisu,
+který ta organizace řeší.
+Takže vlastně je potom jedno, jestli
+Pepa je v týmu A nebo v týmu B, prostě ho přesun
+z AD do druhé skupiny
+a on automaticky dostane práva do těchto
+systémů, do těchto komponent a může
+vyvíjet vlastně nad tímhle
+codebazem. Takže spíš je to jakoby nějaká
+biznisová vertikála ta doména. Jo, jo.
+V podstatě, když vznikne nová, tak se v podstatě
+jenom jako v podstatě přidá další
+kolonka do systému. Jasně, jasně.
+No a výsledek tyhle z tý
+práce, teda to jsou dokumenty,
+je to nějaká vikina, je to nějaká
+prostě knowledge base? Jo, já
+možná ještě se trošku zanořím,
+to byly ty principy, což jsou ty jako
+strategické věci. Jo, pak jsou ty standardy
+a to jsou už víc ty technologičtější
+věci. To znamená, jako
+když chceme používat databáze,
+jaké databáze umíme u nás jako vytočit,
+jo, jestli jsme
+v cloudu, používáme jakékoliv, nebo
+máme nějaké jako pravidla, které jako
+srespektujeme. Takže jako technologicky definujeme
+ten standard, jak to vlastně
+jako všechno jako dělat a co dělat.
+A
+potom pod těma standardama jsou ty konvence.
+To znamená ty jednotlivé konvence, jak
+ty jednotlivé technologie
+používáme. Jo, třeba, že když
+používáme cloud eventy, tak vlastně
+ta konvence naming je taková.
+Když používáme jako rest,
+tak vlastně stavíme ten rest
+jako nějak a
+snažíme se vlastně ty konvence jako
+definovat
+v rámci taky těch dokumentů.
+A ve směs
+tohle celý je prvotní
+nějaký snapshot, který udržujeme vlastně v nějakým
+gitu. Pro mě přirozenější
+je git než třeba jako
+konfluence, protože
+aspoň má zkušenost, že
+v konfluence je vždycky tolik
+jako bordelu,
+že vlastně ty nevíš, co je jako
+validní a časem se z toho
+stane prostě další moloch
+jako dokumentací a vlastně nikdo už
+neví, co má respektovat, jestli
+vlastně to, co je napsané
+tady, ale dva roky to nebylo aktualizované, je furt
+validní, anebo je to nějaký
+nějaký substrom někde jinde,
+kde je vlastně trošku něco podobnýho,
+ale vlastně je to aktualizované minulý týden.
+Je to takový jako vágní v tom,
+jako čeho se držet,
+takže nám se osvědčilo vlastně jako to držet
+jako mít přímo jako git repozitory,
+které je prostě jako architecture governance
+nebo prostě nějak to jako organizačně
+pojmenujeme a vlastně
+tam mít jednotlivé sekce, které jsou jako
+source of truth toho, jak prostě chceme,
+aby organizace jako fungovala,
+abychom dodávali vlastně jako ty jednotlivé
+komponenty a jaké technologie vlastně
+používáme. Jo a to celé
+vlastně ještě dokážeme zaintegrovat
+vlastně třeba do backstage,
+do toho servisního katalogu, kde to vlastně jako
+třeba vizualizujeme přímo na UI,
+to znamená máme tam potom nějakou sekci
+jako architecture a tam máme
+ty jednotlivé jako principy, standardy,
+konvence.
+Dá se to propojit různě
+s nějakým technology radarem,
+který vlastně v rámci backstage můžeme používat,
+takže vlastně potom tam máme ty technologie
+a víme jaký lifecycle
+je té dané technologie, jestli ji jako adoptujeme,
+jestli ji opouštíme, jestli je to core
+technologie a tak dále. Takže celé
+to nějak z toho backstage jako
+pěkně jako propojíme a máme to.
+A máš nějaký ještě tooling, který
+používáš nad rámec toho, co jsi popsal teďka
+jako v rámci toho GITu, dejme tomu
+já nevím, nějaký modelovací nástroj, nebo
+třeba i něco jiného, co vlastně
+víš, že u těch zákazníků funguje dobře?
+Já obecně používám Archimate,
+což vlastně jako je nějaký tool na
+modelování vlastně jako
+ekosystému, organizace
+systému jako takových, takže
+snažím se to modelovat
+v Archimaitu. U Archimaitu je super,
+že on ten...
+Generuje Marmaid?
+Jako generuje to v Marmaidu?
+Ne, já si myslím, že ne. On má svůj.
+Aha, OK. On má nějaký Archie
+a on vlastně z toho generuje
+ten model, můžeš uložit na GIT
+a vlastně máš to zase
+storované na GITu a on z toho
+dokáže vytvořit jako hotomolo
+stránku toho modelu. Jo, to znamená
+ty můžeš vlastně
+v rámci toho modelu zase mít ho storovaný v někde
+v Architecture v nějakým
+GITu, vyignoreš z toho
+UI a vlastně uživatel
+si může proklikat ten model, jenom
+interaktivní a dá se s tím
+normálně pracovat,
+případně jako číst.
+Jak do tohodle zapadají
+ADRka? Architecture Decision
+Records. Do tohodle toho tvýho je to,
+že tohle ty nastavíš na začátku
+a pak ty ADRka
+jsou, jak řekněme, eventy v čase, které
+řeknou, že jsme se rozhodli něco
+z toho pozměnit, nebo jak to tam
+zapadá? Jo, ale ADRko je
+vlastně, jak říkáš, je to
+to přemýšlení v tom čase, kdy
+vlastně ty si něco na začátku
+jako vydefinuješ, zhodnete se,
+ale časem
+vlastně se něco jako upravoje, něco se
+přidává, nová technologie zaniká, vzniká,
+mění se konvence a tak dále
+a je fajn to mít někde zaznamenávat,
+protože jako lidi prostě jako zapomínáme,
+někdo rozhodl před půl rokem,
+že to bude takhle, a proč rozhodl?
+To jsou taky ty otázky,
+a my to tak nechceme, proč to tak nechceme,
+a proč to tak neděláme? Takže je fajn
+prostě používat ADRka, které vlastně
+definují ten kontext v čase
+a říkají, proč bylo tak
+rozhodnuto, nebo proč se to zamítlo,
+proč se to jako změnilo,
+proč vůbec ta změna
+v té governance jako nastala.
+A to ADRko ti vlastně vysvětluje ten
+kontext v té dané době.
+Máš tam vlastně vlastně nějaký popis
+s informací, kontext, proč se to
+stalo, případně lidi, kteří to
+odsouhlasili, aspoň je můžeš do budoucna
+jako, nebo pak zpětně hejtovat.
+No.
+Starý dobrý blame prostě.
+Starý blame. Jmena, chci jmena.
+A ten kontext je taky jako důležitý,
+protože vlastně ty se můžeš rozhodovat na základě
+jako peněz,
+že ty vlastně jako zvolíš
+něco, protože teď prostě
+na to není budget, nebo jako něco,
+ale v budoucnu už
+si to neuvědomí, že se se rozhodl, protože
+jsme potřebovali rychle něco vyřešit.
+Jo, to už se ztrácí.
+Takže ten kontext se snažíš jako
+do něho dát co nejvíc informací, které
+jsou jako platné v té dané době
+a případně ty konsekvence jsou taky dobrý,
+jako co se stane,
+nebo jestli to má jako ty negativní jako dopady.
+Jo, a všechno to tam jako se píšeš,
+orazíš to
+a uložíš to někde, někde zase do GITu
+třeba a tam prostě víš, že
+před dvouma rokama se zvolila
+prostě taková databáze,
+protože jsme neuměli třeba
+žádnou jinou technologii.
+A zase to je nějakej vodovský dokument?
+Nebo jak si tohle představit?
+Jo, já to píšu v Markdownu
+a má to nějakou jako strukturu,
+ale dá se to psat v podstatě
+v čemkoliv, je to jedno.
+Já přemýšlím, jestli řešíte
+no asi nějak určitě, jo, když máte
+třeba 10 vývojových týmů, jak jsi říkal,
+jak pak vynucovat to, aby se to dělo
+a aby si ty týmy nedělali, co chtějí,
+protože to se předpokládám stát může,
+nebo jak se vlastně takovýhle plán
+nebo takovýhle systém
+jako propíše do toho
+do toho steku, jo?
+Jo, to je složitější.
+Aha, jsme tu.
+Musíš se umět s těmi vývojáři jako domluvit,
+jo, je to o tom vzájemném respektu
+jako těch lidí samozřejmě,
+protože
+to je jedna věc a druhá věc je jako
+ty jako architekt, dejme tomu,
+se snažíš za prvé nevymýšlet jako blbosti
+a dostáváš i ten feedback o těch týmů,
+jestli to jako trošku tě alignujou
+a snažíš se,
+jako říct, hele, tohle je moc
+nebo tohle je super,
+tohle je super, tohle přesně řešíme,
+tohle jsme potřebovali jako vyřešit.
+Jo, takže se snažíš prostě jako nějak
+nějakým feedback loopujít
+s týma vývojářema a snažit se
+vlastně jim i pomáhat vlastně
+v tom, co oni potřebují, aby to vlastně lépe
+adoptovali, aby vlastně jako respektovali to,
+že to vytváříš proto, aby jsi jim
+pomohl jako celek
+a z druhé strany vlastně
+z druhé strany vlastně jako respektuješ
+ty organizační jako
+strategické věci, které, na které třeba
+jako přemýšlíš do budoucna.
+Víš, že to přijde, tak už připravíš
+nějakou část na to,
+na ten budoucí růst nebo na tu budoucí
+změnu, která může být.
+A dokážeš to nějak jako vysvětlit těm týmům,
+že vlastně jako, ano,
+teď na začátku je to trošku komplexnější,
+ale počkejte, ono se to
+jako otevře a bude to potom
+jako lepší.
+My vlastně to, co řešíme teď
+zase z toho datovýho světa, ale je to podobný
+koncept, že jo, třeba tablo, tak to je
+u nás 400 vývojářů,
+máme nějaký daný, danou governance, ale...
+Vždycky máte 400 vývojářů na tablo, jo?
+Ano. Vesporce, jo.
+No, 340, myslím.
+No to nemusíš vytávat interní informace.
+No, jako, počkej, 340,
+345.
+Takže vyjmenovat všechny, jo?
+Jo, jo. Kare, Lenka.
+Jasně, Ládě, Dušan, Milek.
+No, jasně.
+Owina.
+No a oni vlastně, kolikrát
+to můžou být lidi, kteří vlastně nás nikdy
+neviděli, jo, mají teda držet nějakou
+governance, takže my na to máme takový jako pěkný
+monitorovací tool, vlastně zase tablo,
+který kouká na to, jak to ty lidi
+používají, jo, jestli ta performance šlape, jak
+má, protože ještě do jistý doby
+jsme měli vlastně jako serverový licence,
+takže sakra řešíš, aby to nikdo
+nepoložil. No, jasně. A takže
+vlastně jsme to vynucovali tak, že jsme jim dávali
+vědět, hele, jseš tady na nástěnce
+jako hamby v podstatě a jako něco s tím
+dělejí. Takovýhle public blame, jo.
+No, on není úplně public, ale máme systém. To tak internal
+public. No, jasně, no. Jako, že
+zaměstnane z měsíce, tak je mu pak, jo.
+Jo, jo, přesně, employee. Máme taký
+diplomy vždycky, je rozdáme každým. Ježiš.
+No, ale reálně při takovýhle škále,
+jak to jinak řešit, jo, jakože
+vlastně mohl bych jako v obcháze
+ty lidi říkat, hele, Tomáši
+tady jsi to jako neudělal úplně dobře, jo, ten report.
+Ale to nemá šanci v tý škále, jo.
+Takže vlastně, jo, to mě zajímalo,
+jestli ty týmy, když jich je
+deset, tak to ještě jde dělat tak, že, hele,
+máme tady nějaký pravidla, tady asi tuhle
+databázy si vytočit neměl.
+A versus prostě tohle, co popisuju já.
+Jo, ale je to i o tom,
+o tom, jak provižňujete třeba ty resourci,
+jo, vlastně. My, co
+třeba jako v základu jako vynucujem,
+nebo což jako vynucujem, je jako
+respektování toho mentálního modelu.
+A ten mentální model je propsaný nějak jako do kódu,
+jo, že vlastně jako, jako
+mám nějakou službu, ta má nějakou
+komponentu jako objekt
+a ta je nějak pojmenovaná. Ta patří do nějakého
+systému, jo, ten systém má nějaký
+ownership nějakého týmu.
+Takže tohle jako vynucujeme
+při jako v pipeline přímo
+jako při buildu té jednotlivé
+služby. To jsou ty jako high level
+věci, které jsou
+prostě jako must have. Takže máme definované
+jako must have věci, které prostě musíš mít
+v dané té mikroslužbě nebo v té dané té
+službě, přes kterou prostě nejde vlek.
+A potom
+snažíme se vlastně ty jednotlivý
+resourci, které ta služba má, tak
+jako provižnovat. Až je to terraform nebo
+nějakým jazykem
+a ten je taky uložený jako v
+kódu. Takže ho máme jako zaverzovaný, takže nic,
+nikdo si nikdy jako nekliká, že by si jako naklikal
+to, co přesně potřebuje, ale je to
+by definition. A tady tyhle
+definice potom můžeme vlastně
+nějak jako validovat, jestli jako
+splňujou nějaké jako základní
+konvence. A na nějaké tyhle
+věci i používáme třeba taky jako, vrátím se
+z toho backstage, soundcheck.
+Což je vlastně nějaký asynchronní jako check
+nějakých pravidel, které ty máš
+nadefinované a potom můžeš
+vlastně vytvářet nějaký
+report k té dané službe nebo
+k tomu danému týmu, který říká
+hele, u této služby to plníš
+prostě na 30%. Jo a pak už záleží
+jako, ať už z manažerského pohledu, nebo
+to, jako jak zapracuješ tu změnu,
+aby to bylo jako co nejblíže ke stovce.
+Jo, jo, jo.
+Ale pomáháte se tam třeba nějakýma, nevím, šablonama?
+Jakože ten vývojář už dostane něco
+do ruky, díky čemu vlastně
+už jako neujede do strany? Jo, určitě.
+Určitě vycházíme jako z šablon.
+To tam rád, zase, když se vrátím
+ten backstage, on je celkem jako rozjetý
+a on má skafolder, takže ty tam můžeš
+definovat vlastně jednotlivé templaty
+jakékoliv, jasně jako
+projektů, je to nějaký terraform,
+jak vytvořit službu, jak vytvořit
+systém a tak dále.
+A ty vycházejí z nějakých šablon, takže
+vývojář si jenom jako vleze do toho backstage,
+klikne, že chce tohle, on se mu to naskafolduje,
+vytvoří a on už pak jako
+pokračuje v tom
+vývoji. Takže ten baseline vlastně
+dostane z nějaké šablony, který je
+vlastně compliant.
+A to hlídání, o kterém ty jsi mluvil,
+tak to probíhá na úrovni nějakýho,
+nějaký CI pipeline, jsou tam tady nějaký
+lintery, který to jako prajedou, že teda všechno
+z toho splňuje, nebo kde vlastně v té pipe
+se tohle z toho čekuje?
+Jo, ty must have věci jsou
+klasicky v pipeline, které
+ti prostě tu pipeline zastaví a řeknou, hele,
+prostě nesplňuješ
+ten must have, který prostě
+je tak obecnej, že
+ho musí respektovat každej, že to není jako
+buzerace, ale je to spíš jako, aby
+udržoval tu organizaci
+nějak jako aspoň v nějakým
+zdraví.
+A potom ty soundchecky na pozadí, ty jsou
+asynchronní, takže to vlastně
+tě nikde nezastaví, jenom je to
+prostě v backstage jako report a ty jako
+vývoják nebo ty jako tým,
+bys jes ho měl jako hlídat, vlastně,
+abys jako
+tu službu měl na co nejlepším
+vlastně jako
+procentu, abys jako
+splňoval všechno.
+Pak máš půl requesty a ty listy věcí, že jo, zase si.
+Jo, tak to funguje stejně v tom tablu,
+jo, jako ještě bych tě rád poznamenal.
+To není tak, jako že chodí e-maily, ale tak to se teda
+předtím. Já se půjdu pojet na tu nástěku, je to
+fakt zajímavé, jak tady ve spořici vypadá
+ta nástěnka těch jako
+provinilců, ty jo. Ne, ta nástěnka
+neříká, že jsi jako
+nejtučnější člověk ve firmě, ale
+ukazuje, jak ty jsi tučnej. Jo,
+tučnej, to je hezky. To je jaký
+spořitelní výraz, jo? Teď mě to napadlo,
+ale zkusím to zavíst.
+Tady Honza Šidlák,
+český spořitel se směje, no.
+Ještě boží, čátele.
+On to ještě nedočet, to je dlouhá.
+Teď se mu objevilo
+skoro hotovo, jasně, že jo.
+Dobrý, čátele. Tak to jenom, tak abyste
+viděli, co se tak děje u nás tady v backstage,
+že pojďme zpátky k Tomášovi
+a k mikroservisa a tak dále. Ty jsi Tomáši několikrát
+zmínil Azure. To mě docela zaujalo
+a zmínil jsi,
+zmínil jsi, ne
+Bicep, ale, že to
+vlastně píšete, teď mi to vypadlo,
+v Terraformu, děkuju.
+Proč, proč
+Terraform, proč ne třeba pro Azure Bicep?
+Jen tak jako, mě to napadlo jako ad hoc
+otázka, protože vím, že samozřejmě jako někteří
+ažuristi prostě, ty jo, jako píšte
+to v Bicepu, což je takový jako DSL-ko
+nad těma
+armovýma templateama, tak jak to vidíš
+ty? Možná spíš asi nějaký historický
+jako, jako historická
+znalost, kterou vlastně jsme začali
+používat a vlastně
+přišlo nám to dobrý, to furt neměnit
+za prvý a vlastně oddržet u toho Terraformu
+a nějak
+jsme u toho zůstali, no, jakože spíš
+A na Azure spokojenost?
+Jo, ale my ne všechny
+projekty jako hostujeme na Azure, jo
+tam záleží jako kde
+já historicky, co jsem jako začal
+od někdy roku 2015, jako
+zpracovat s Azurem, takže klasicky
+jsme jeli ty webepsy
+a postupně ty jednotlivý Azurevský služby
+a
+postupně vlastně, jak začal
+jako Kubernetes, tak
+hodně Kubernetes se jde vlastně on-premu
+na on-premu, takže
+spíš jdeme jako
+Kubernetes native, nebo Cloud native
+v podstatě Continuative
+a ty Kubernetes jako hostujeme jako ve směs
+jako on-premově, jo, takže
+na Azure třeba využíváme nějaký
+nějaké jako služby, ale
+ale vlastně ten runtime, který
+kde běží ta jako mikroslužba, tak je
+tak je Kubernetes. Takže tam se ti to vlastně
+hodí i ta, řekněme, jako multiplatformnost
+toho Terraformu. Jo, jo, jo.
+Ok, ještě u toho Azureu, jak ty
+vlastně seš na tom s Azure, máš to
+rád, nebo šel bys?
+Na AWSko, na GCPčko, tam
+třeba já vím, že ty jsi změňoval nějaký jako oblíbený služby
+typu třeba milu Table Storage, no tom se dá
+pokud to společně nedefinuješ, tak
+pro CQRS styl je Table Storage
+úplně ty, jako požehnání a stojí
+to úplně jako, ani ne kafe
+to kafe je proti tomu jako brutálně drahý
+za měsíc, jo, takže. Hlavně na tom
+Storage akandu jako uděláš tolik jako věcí, jo.
+No jasně. Nejenom na tom blobu, ale jakože
+Table blob, že jo, queues
+a vlastně využiješ vlastně
+tyhle paterny, které potřebuješ
+vlastně vlastně v každé aplikaci a stojí tě to
+fakt jako nic, no. Je to jako super, když
+dokážeš ten model jako na tom vytvořit,
+má to celkem velký limity, takže vlastně
+jako nemusíš to trefit jako hned
+a vlastně postavíš
+na tým celý jako systém, takže ten jako Storage
+akand obecně je jako super,
+co všechno jako nabízí, no. I ty triggery
+za tým blobem
+vlastně postavíš na tým jako celou
+architekturu. Používáte functions?
+Hele, historicky jsme je používali,
+koketovali jsme
+už, když to začínalo někdy,
+já nevím, kdy to bylo,
+2016, 17, na začátku,
+ale teď ne, no.
+Teď jedeme spíš jako
+kontejnery. A kontejner apps
+používáte, nebo? Používám kontejner apps.
+Nebo AKS-ko vyloženě? Vesměst AKS-ko
+jakože, ale já používám i osobně jako
+kontejner apps. Teď mám nějaký
+projektík, co si tam jako šmudlím po večerech,
+tak vlastně jsem to tam jako rozjel.
+Takže
+vesměst jsou to jako ty kontejnerový
+věci, jo, databázy, když potřebuji,
+tak si tam jako rozjedu, ať už je to SQL,
+Postgre, cokoliv v tom
+Azureu, jo, Cosmos,
+a tady ty
+storage accounty a vlastně cokoliv,
+co kolem toho.
+A ty cognitive services, nebo ty, ono se teďka už možná
+zase mi jde bez tak jinak,
+něco takového, na Azureu máš
+nějakou zkušenost? Používám ten
+AI Foundry, myslím, že to je.
+Tak ten využívám vlastně
+na různý embedding
+různých jako textů, který potřebuji
+embedovat do web.
+A přesto vlastně jako, teď v dotnetu
+je ten, teď nevím, jak se to přesně jmenuje,
+Shared, ne,
+Shared Kernel,
+nějaká komponenta,
+která jako zapouzdřuje komunikaci vlastně
+s AI,
+s těma různýma jako providerama,
+a Semantic Kernel.
+Semantic Kernel je to, a vlastně
+ten jsem se teď zkoušel využívat
+vůči té Foundry, takže vlastně
+vložíš connection string v podstatě,
+řekneš, jaký model potřebuješ
+zavolat, a ono se to stane.
+A začneš promptovat.
+Ale furt zpátky ti prostě
+na vstupu string, na výstupu string, ne?
+Jasně, jasně.
+Samozřejmě já se musím zeptat, když se balíme
+už o Azure a o dotnetu, co ty
+a jiné třeba dotnetové jazyky,
+než jenom C Sharp, třeba nějaké jiné.
+Nevyslím VV, ne, co?
+Hele, měl jsem nějakou ambici dřív,
+ale vlastně to nějak jako vypršelo,
+takže primárně
+jako C Sharp.
+Jako ten F Sharp, měl jsem nějakou
+ambici dřív, že jsem
+říkal, hele, bylo by dobrý se na to kouknout,
+bylo by dobrý se do toho trošku zanořit,
+ale pak nevím,
+ať už časem nebo něčím to vyplynulo
+a vlastně teď už
+poslední dobou, jak je rodina děti,
+tak už toho času
+není moc, no.
+A tak já navíc jsem koukal, že vlastně C Sharp by měl
+co nevidět dostat, nebo co nevidět.
+Už je to v nějaký pipeline, že by mělo
+dostat jako Union typy, takže tam si myslím,
+že to bude jako velký game changer
+pro celý C Sharp a pro to, jakým způsobem
+ty věci tam modeluješ, protože právě
+pro ty eventy. Za mě, jako
+eventy a komandy a vůbec tyhle věci
+jako modelovat přes ty Union typy,
+to je úplně jako brutálně přirozená
+věc, jo. Tam jako vlastně, jak se ho řeší na C Sharpu,
+tam máš nějaký prostě abstraktní
+třídy, který jsou jako e-command, e-event
+nebo jakékoliv. Já vlastně spožívám jako
+rekordy. Jo, nebo rekordy.
+Nádhera. Takže
+přes rekordy
+jako modeluju vlastně
+eventy a už komandy.
+Ještě jedna věc, která se týká
+obecně event-driven systémů.
+Mě zajímá vlastně celková ta,
+když ty se bavíš tý firmě a řešíte
+celkou jako orchestraci,
+takový ten klasický
+pattern nebo takový to rozhodnutí, jestli to bude
+vloženě jako orchestrovaný, nebo to bude jako choreografie,
+jakým způsobem vlastně k tomu celýmu
+slepení těch systémů, když to tak řeknu
+blbě, jak k tomu přistupuješ a jak jsou
+třeba ty firmy zvyklí k tomu přistupovat.
+Ono to pěkně navazuje na ten
+článek Events vs. Workflows,
+protože to je přesně choreografie vs. orchestrace,
+kdy vlastně ty uvnitř
+orchestruješ vlastně ten workflow,
+což jsou ty workflow a ve smyslu, ano,
+můžeš to postavit na stejné technologii,
+ať už je to Kafka, Rabbit,
+whatever, nebo použiješ přímo jako workflow
+engine a může to být jako
+Temporal, může to být Akadodnet,
+může to být vlastně tady tyhle jako
+orchestrační vlastně jako platformy
+a na venek vlastně
+jako publikuješ
+ty eventy. Takže
+snažím se to jako namodelovat na ten systém,
+ten model, kdy vlastně jako definujeme
+ty boundary toho systému, uvnitř jsou
+workflows,
+okolí jsou ty eventy a ty to.
+Problém je, že vlastně,
+nevím jestli je to historické,
+ale ve směs ty organizace
+se zvykly stavit
+všechno na té jedné platformě a je to vlastně
+jako mrtník všeho.
+Kdy vlastně,
+ty vlastně nevíš, co v tom
+je za eventy jako interní,
+co je vlastně jako publik,
+je tam jako všechno nahromadě,
+že naming je tak různý, takže vlastně
+jako ani nechápeš možná, co v té,
+co v tom topiku jako je
+a je to, je to jako to.
+Takže já se už jako snažím
+prvně mentálně
+si to jako rozdělit, že jsou to dvě odlišné jako
+koncepční věci. Samozřejmě něco je workflow,
+co interní jako spravuješ
+a děláš to asynchroně
+a něco je, co komunikuješ
+jako světu ven, jo, to jsou ty eventy.
+Jo, takže jako prvně to rozdělíš mentálně
+a potom nejlépe i technologicky,
+jako protože ono si to pak splíčí,
+bývá, takže i technologicky, že prostě
+použiju prostě jinou technologii na
+workflow management,
+temporal, whatever,
+a na streaming vlastně eventu
+vent, Kafka, whatever
+a vlastně už
+vývojářovi to přesně dává mantinely,
+jak vlastně jako modelovat
+to a jak modelovat to, že to jako
+nesplyne spolu a nestane se
+toho, že vlastně
+tohle byl privátní event,
+ale vlastně teď je to public,
+protože to někdo potřebová.
+Jo, protože ho to někdo poslouchá.
+Ano, anebo to někdo potřeboval a zrovna
+tomu měl přístup, tak se subscribe-l,
+že jo, anebo ta Kafka je třeba
+otevřená, že jo, tak vlastně
+já si vylezu jenom katalog a
+prostě někde se subscribe-nu a ono to vlastně
+nějak jako funguje, že jo, protože to je to nejhorší,
+ale jo, takže snažím se to
+jako rozdělit a tím pádem tomu dávat
+lepší jako pohled na to,
+jak na tým přemýšlet, no.
+Když jsme se ještě oklikou teda
+vrátili zpátky k těm public
+eventům, jak moc bych
+měl být ven ukecaný. Já jsem několikrát
+zažil, že ten event začal velmi
+jako maličkatej, řek jenom tohle se stalo,
+tady máš nějaký základní informace a pak
+se zjistilo, že někdo jako
+ty informace potřebuje, že je poslouchá
+a tak to dobu blalo do takových těch
+eventů jako, halo, teď se něco
+stalo a tady jsou všechny informace,
+který vlastně jako vy byste mohli potřebovat
+a začal vlastně jednak být zbytečně moc
+ukecaný a druhák z mýho pohledu
+vlastně příliš bral
+ohled na to, že někdo na to poslouchá
+nebo že někdo je na to jako
+atačlej. Tak jak třeba tohle
+ty řešíš, kde je ta čára říct, ne,
+já vám pošlu IDčko,
+pokud chcete vidět víc aktuální stav,
+tak tady máte prostě zase queries
+a zeptejte se podle toho
+IDčka na nějaký ten stav,
+třeba v čase s nějakým timestampem, pokud vás
+to zajímá historicky, versus
+jasně, my vám pošleme úplně všechno
+v každém eventu, jak to rozlišit.
+Ale tam záleží i na věci, jak
+moct kaplovat ty systémy spolu, jo,
+protože zase ten
+extrém, jako že pošlu jenom IDčko a on si
+jako getne ty informace,
+vlastně byl brutální coupling, i když jako dělám
+jako event
+streaming jako těch dát, tak vlastně
+furt je závislej na to, jestli já běžím nebo neběžím.
+Ano, ano, ano. Nebo mě případně
+vybombí někdo a hodí mě, no jo,
+takže tam je to zase, že hodně kaplu.
+Druhá věc je, že posílám furt nějaký jako
+snapshot, já tomu říkám nějaký snapshot eventy,
+jo, protože prostě dělám snapshot celé té
+entity nebo celých nějakých jako větších dát.
+Neříkám, co se stalo, ale říkám
+jako changed
+a si co chceš, jo, což je druhý
+extrém. Takže ono jako,
+jako je dobrý se dívat na ty
+doménový eventy, že
+jako řeší tu konkrétní změnu, která
+jako nastala
+a snažit se tam dát jenom jako
+tolik informací, které jako se váže k té
+doménové změně, jo. Jo, jo.
+Nepřidává tam ty další informace, protože ty
+přitekly třeba dřív v tom eventu, jo, když
+objednávka byla vytvořená, tak mi
+přitekly jako informace všechny o té objednávce
+a když objednávka byla expedována,
+tak stačí jenom, že byla
+expedována v podstatě, protože ty
+informace mám z toho předchozího eventu, takže tam nemusím
+spát jako znovu. Jo, takže snažím se jako
+ten event vlastně jako
+přizpůsobit té
+akci, která jako nastala
+a samozřejmě pak jsou nějaké jako typy
+systému, které potřebují snapshoty
+eventy, ale to už je jako separátní
+event. Já už to snažím jako
+je to nějaká specifická
+akce, která jako nastane, ale třeba
+to nepublikuji furt, ale publikuju to jenom jako
+na začátku, když potřebuji třeba nalít nějaký
+data do nějakého systému, tak to
+můžu jako si takhle urychlit, že těma
+snapshot eventama to tam prostě jako naliju
+bez, protože jich nezajímá to, co
+se stalo, jich zajímají ty data.
+Takže nějaké jiné
+jako nalití. Takže publikovat to, co je
+vlastně relevantní v kontextu
+té business měny, která se
+stala v té entitě. Ještě
+mi řekni jednu věc, já to velmi často vidím,
+někdo přejde z takového krudového
+vnímání na takový to
+snaží se eventí a první, co začne
+emitovat, jsou eventy typu
+něco krejtit, něco editit,
+něco dilítit, něco updatit, jo?
+Což je takový jako...
+Moc jsme se neposunuli.
+Moc jsme se neposunuli. Jak to
+vidíš ty, jak třeba tohleto ještě
+zlomit? Protože možná jsou entity, který prostě
+opravdu jsou řádky, který se jenom
+jako editujou, jo? A samozřejmě, když budeš emitovat
+eventy nad Excelem a nebudeš zatím mít
+business kontext, tak jako road change
+tam bude lítat pořád, že jo?
+Ono je dobré se zamyslet nad tým agregátem a vlastně
+vydefinovat si tam ty jednotlivé jako
+akce, které na tom agregátu jako dělá, že jo?
+Že to není fakt o tom, že děláš update,
+ale že děláš nějakou konkrétní změnu, jako
+měním stav, přidávám
+položky, odebírám položky, měním cenu,
+jo? Vlastně
+nebát se jako říct tu konkrétní akci
+a vlastně z té konkrétní akce potom
+vznikají ty konkrétní eventy, jo?
+Takže, ale ono to má asi jako nějakou
+nějakou časovou
+časovou osu,
+kdy ten vývář si na tom jako asi
+přijde postupně, že nejde ten
+switch udělat jako crude versus jako
+domain driven,
+ale je to prostě asi nějaká
+posloupnost toho, kdy k tomu jako
+ten vývář jako dojde, no.
+Takže musí prostě namlít hubu
+několikrát, než tak, jako to je to vývoj.
+Je to velká propast mezi tým jako za mě,
+takže ono, jako nedokážeš tu propast přeskočit
+jako na jednou.
+Jsou nějaký materiály, který ty by si všem těm,
+kteří nás teďka poslouchají a říkají, to je super,
+ty jo, vlastně, já tohle dělám a to bych dělat neměl,
+chci se o tom dozvědět víc. Kromě
+týho Substacku je ještě nějaký
+materiál, nějaká knížka, kterou bys třeba doporučil.
+Já osobně jsem měl samé Newmana,
+ještě jsem ho nedočet, ale jako, že ta knížka
+je taky dlouhá jak týden, ale
+třeba to se mi líbila, ta knížka o tom, jak vlastně
+jako přemýšlet na mikroservisama.
+Máš nějakou ještě jinou?
+Hele, teď jsem nedávno četl
+Nick Tune, který
+napsal Transformation,
+já teď nevím ten název přesně.
+Takže já se to zatím najdu. Nick Tune.
+Nick Tune, jo. Já ho mám možná tady
+jedna žena na mobilu, jsem si to vypsal.
+No, a my to tady vidíte,
+slyšíte mě posluchači.
+Nick Tune, Architecture Modernization.
+Architecture Modernization.
+Což je vlastně o tom,
+je to social technical,
+jako pohled na to, jak modernizovat
+vlastně organizaci, nebo vlastně
+jako velký monolitický systémy
+do nějakého
+domen driven design, jako pohledu.
+Pak tu mám
+poslední, ještě jsem ji nečetl,
+ale
+human software, a je to o tom,
+že prostě, pokud
+chcete vědět, jak organizace,
+jako jak software v organizaci funguje,
+tak se koukejte na ty lidi. Jak ty lidi, jo.
+Je to časový razítko těch lidí, kteří tam
+jako pracovali, jak oni přistupujou
+jako, ne k životu,
+ale v podstatě obecně, jak přemýšlejí,
+tak podle toho takový bude ten software, jako je to.
+Je to human software, life in IT?
+Myslím, že jo. Myslím, že to je ono.
+Tak ta vypadá teda i pro studenty,
+co nás poslouchají, velmi přívětivě.
+Tam ta první, kterou zmiňoval, to architecture
+organization, to je od Manningu, to znamená,
+že to bude 70 euro
+minimálně, ano, 69,
+tak to jsem trefil. A
+human software vypadá jako, že
+z TUR koupíte za 10 dolarů, takže
+to vypadá přívětivě, pokud jste jako
+coast sensitive.
+A potom určitě doporučuji Grega Younga
+a jeho knížky o event sourcingu.
+Už to dopsal,
+prosím tě, veržený?
+Hele, má 80%.
+Ale to měl,
+když jsme se o tom mluvili před pěti lety.
+To bylo v první sérii podcastu, jsme řešili
+nějaký eventy, protože já v té době jsem tím
+dost žil a říkám, už aby to dopsal.
+Měl tam poslední update, myslím, že v červnu,
+takže myslím, že to nějak tam posunul.
+Tyvo, to je sranda.
+No a případně jeho přednášky,
+on to dost historicky mluvil, teď nevím,
+jestli je aktivní.
+A on dělal event store, viď? Původně.
+Jo, on je zakladatel
+event storeu, pak to prodal,
+nebo ono to nějak, nevím,
+jak tam byla ta geneze, ale prodal to
+někomu a
+teď se to přeměnoval na
+Current.
+Nějaký divný název.
+Tak kouknu verženinky na event store system.
+Zdlouho, možná rok, dva jsem na to nekoukal,
+stále to ještě není kompletní.
+Ano, 90%. A tak 90% je dobrý.
+No počkej, ale last updated
+on 2017, kamaráde,
+na LeanPubu.
+To je jiná knížka,
+on má ještě jednu.
+Tak tuhle nedodělal.
+Ne, tuhle nedodělal, ale začal psat možná stejnou
+a tak to bylo.
+To je jak můj get up.
+Výborně, výborně.
+Dobrý, to se najdeme.
+Paráda, takže tohle jsou knížky, které ty by si
+posluchačům doporučil. Super, super.
+A pak jakoukoliv o domen driven designu,
+ať už od Vernona,
+nebo
+myslím, že teď vznikala
+domen driven design transformation.
+Teď nevím, kdo byl autor,
+ale teď je nově vydaná, tak určitě
+o tom, jak transformovat vlastně
+systémy do domen driven design pohledu.
+A plus teda tu, co jsem zmiňoval
+od Skota Vlašina, to je taky moc hezká,
+tomu jde jako velmi, že to vysvětluji.
+Kdyby jsi to vysvětloval Péťovi, potom, co
+poblil Vášku, tak by si to mohl přesvítit.
+To by nepokopil potom.
+Tam byl pohotovým.
+Prosím tě, poslední set otázek se samozřejmě
+týká, protože my v dnešní době se snažíme
+to aplikovat na cokoliv a ptát se našich
+hostů, jak to aplikují v jejich
+doméně, v jejím světě, je samozřejmě
+AI. Jak tobě pomáhá,
+co řešíš, třeba pro ty ADR,
+kdy děláte nějakou sumarizaci přes AI,
+to, co se stalo v čase, nebo jakýkoliv jiný
+použití? Ale určitě si tím pomáháme
+minimálně jako ten kontext nějak jako dát
+dohromady a obecně, jak to teď píšeme
+jako v Markdownu, tak mně to přijde, že to je
+dobrý enabler tomu, jak to použít
+potom jako v AI, nebo obecně jako
+udělat z toho skill. Jo. Jo, vlastně jako
+mít nějakou konvenci na něco
+a udělat z toho skill pro ty vývojáře. A vývojář,
+když to bude jako řešit, tak vlastně automaticky
+využije tenhle skill a automaticky to bude
+vlastně jako čerpat informace z toho
+skillu a tím pádem z té konvence.
+Že skill myslíš takový ten skill jako v cloud
+kurským tývání? Jasně, ono, že to je obecný
+jako terminologie, ne skill.
+Jo, jako skill MD prostě, popíšeš,
+co má u mě. Jo, jo, jo.
+Takže ty vlastně nějaké ty pravidla dokážeš
+vlastně transformovat do toho skillu, tím pádem
+vývojářům, ulehčíš to, že si
+musí procházet někde dokumentaci a koukat
+jestli to má jako správně podle nějaký
+konvence. Takže určitě v tomhle pohledu
+to pomůže tomu vývoji.
+Úplně nevím, jak to zapojit vlastně do té
+architektury jako takové, protože
+ta architektura je furt o té
+organizaci, jo. Furt je to o těch lidech, kteří
+tam někde něco někde tvořejí.
+Není to jenom o těch technických věcech, ale je to
+spíš o těch social
+vazbách a proč ten software takhle
+komunikuje, protože zrovna tyhle dva se takhle
+mají rádi. Spolu dohodli.
+Ano. Takže
+zatím nevím, jak to aplikovat úplně
+na té úrovni jako té architektury, jako
+těch obecných, ale určitě to pomáhá jako generovat
+nebo vytvářet ten kontext
+toho jako, hele, řeším tenhle problém,
+potřebuji trošku jako nadhled
+jako někoho jinýho. Takže takový
+parták jakože k diskuzi, který ti jako
+říká, hele, tohle je prostě blbost,
+tohle je jako dobrý směr, zkus to tohle
+rozvíc víc a dokáže tě ten
+deep dive do toho daného problému jako dostat.
+Takže máš nějakého vlastního agenta, se kterým
+si to rozčekuješ,
+jestli jdeš správně s měnem.
+Případně držet nějaký templaty,
+ale to už jsou takové jako drobnosti, které
+jako když, ať to ADR není po každé
+jiný, tak vlastně jako...
+Takže máš skill na to, přitvoříš mi ADR.
+Jo, jako z templaty, no. Máš tyhle věci někde
+na GitHubu? Publikuješ nějaký věci?
+Zatím ne, protože to mám vždycky tak jako,
+že nemám to jako přímo strukturovaný
+v nějaký formě, kde bych to mohl publikovat.
+Ale chtěl bych si udělat
+nějaký subset
+nějakých skillů a agentů, které vlastně jako
+bych chtěl dát buď až na GitHub
+nebo někam jako k využití,
+no ale zatím není
+na to prostor.
+No tak Poli, je to tvoje.
+No tak závěr jsme trošku vzali na začátku,
+ale každopádně, kdyby
+si Tomáš
+někde povídal, teďka v blízké
+v blízkých dobách, mohl by tě někdo
+někde slyšet a vidět, nebo ještě někde
+vystupovat? Hele, já v Brně dělám
+meetup o Domain Driven Designu, mám tam
+nějakou komunitu menší,
+jsme na meetup.com,
+kde jednou za
+kvartál, jak to výjde,
+tak máme vždycky nějaké setkání
+o nějakým konkrétním tématu
+a tam se bavíme, takže
+ve směs primárně tam,
+jinak nic nemám naplánovaného
+do budoucna. Tak posluchači z Brna
+a blízkého okolí můžete využít
+i pražáci si můžou dojet.
+Ježišmarja, tak když může Brňák dojet do Prahy, tak
+proč by nemohl Pražák? Je to stejný,
+je to zhruba stejně daleko.
+A ještě mě napadá,
+co máš teďka v plánu,
+v kariéře, co tě čeká zajímavého,
+máš tam něco? Hele, já teď se
+věnuju primárně jako rodině a dětem,
+takže vlastně nemám nic, co bych
+měl jako do budoucna naplánovaný,
+spíš jako to nějak něco přijde a něco je zajímavější,
+něco ne, ale nic, co bych měl jako nějak
+v rozvrhu jako na tenhle rok.
+Jasný. To primárně ne.
+No paráda, já se taky věnuju rodině, hlavně v noci.
+My jsme tu historku na začátku
+neřekli, možná to s tím zakončíme.
+Já myslím, že on na to už tak jako to
+pozorný posluchač to pochopil.
+Pochopil, že tvoje děti v noci zvracají jedno
+po druhým. Ano, ano. To je jedno po druhým, jedno
+na druhýho, ještě horší.
+No dobrý, tak já si myslím,
+že jsme nemohli mít lepší závěr.
+Ne, určitě ne. Prosím tě Tomáši, strašně moc ti děkuju,
+že jsi dorazil. Já musím říct, že to nebylo to, že bychom
+Tomáše Vitália z Brna, že jsem
+kuli nám musel přijet, že naštěstí dneska máš
+školení, takže se spojilo příjemné a
+sužitečné. Já ti přeju, ať ti školení dopadne,
+ať jsou s tebou spokojení,
+alespoň tak, jako my jsme spokojení s dnešním
+podcastem, protože bylo to podle mě úplně jako
+fenomenální. Dozvěděl jsem se spoustu
+nových věcí, spoustu věcí jsem si
+ověřil a spoustu taky vyvrátil
+ve své hlavě, takže moc díky za to, že jsi přišel
+ať se ti daří, ať je rodinka zdravá
+a zase někdy pod vodcasem. Já taky děkuji
+za podpověď. Měj se hezky, nejte se. Ahoj. Čau.
+Tak to byl Tomáš Jurásek,
+předposlední host
+čtrnácté série, se kterým jsme si udělali
+takový ten deep dive, takovou tu technickou
+šťávičku, kterou já úplně miluju.
+Bylo to super, vi? Hele,
+Tomáš je naš vejklý. Je. Tomáš je naš vejklý
+a fakt jako bylo vidět, vždycky to schrnulo
+nějakou větou, kde bylo vidět, kolik
+utrpení a zkušenosti zatím.
+Jo, jo, jo. No tak je vidět, že
+už si něco zažil, že to v koho
+koplo správným směrem. Jo, to teda, to teda, no.
+No a musím říct, že se mně
+to hrozně líbilo a to samozřejmě
+veškerý jako technický detaily v tom
+software engineeringu neznám, přesto
+mi to jako tu pohádku
+vlastně odříkalo od začátku do konce.
+Fakt super. Tak on tam byl i paralelist
+svým světem, že jo? No rozhodně. Zrovna dataři ty
+eventy v čase milujou, že jo? Protože tam jdou pak dělat
+jako různý trendy v čase a tyhle
+ty věci, ne? No jasně. No jenom určitě.
+V tomhle to bylo zajímavé, ale pro mě to teda bylo
+zajímavé i v tom,
+jak Tomáš opakoval
+pořád tu, jak to říct?
+Tu organizaci. Respekt té organizaci.
+Ano, ano. Respekt té organizaci, že musíš řešit to,
+protože ta technologie sama o sobě nic
+neudělá, jo? A když to dobře nalepíš
+na tu organizaci, na tu kulturu, tak to může
+fungovat dobře. Je to tak a
+neustále teďka vlastně lidi jsou plní strachu
+jako o, ty opříjde AI, co bude dělat,
+co budu dělat a to. Přátelé,
+nezapomínejte, že pořád ještě
+to AI vzniklo kvůli tomu, že lidi
+měli nějaký problémy a lidi potřebovali
+vyřešit nějaký biznis a
+organizace říděj lidi.
+Takže pokud jste takový ty jako
+bastlíři kódů po nocích, který vůbec nezajímá,
+jak kolem nich funguje život,
+tak samozřejmě to budete mít teďka trošku složitější,
+ale pokud to budete mít třeba jako Tomáš,
+který začíná a končí u lidí
+a pak samozřejmě řeší ty technické detaily,
+tak tam si myslím, že ten AI
+nejen, že nebude jako zabiják, ale to spíš
+bude ještě jako ten enabler, který tě jako
+desetkrát nevystřelí, nebo stokrát, nebo kolikrát,
+nevím, i kdyby dvakrát, tak je to krásný.
+Takže mně se to líbilo taky,
+že ten má tu lidskou stránku. Čekal jsem trošku,
+že to bude vlastně jako větší nerd,
+když to tak řeknu, a
+byl strašně, strašně jako
+řekl bych, společenský zodpovědnej.
+Jo, a já bych
+tam ještě viděl jednu věc,
+je vidět, že je, já jsem to říkal,
+on to má napsané na LinkedInu jako independent,
+lomeno prostě freelancer,
+to lomeno konzultant, a
+tyhle lidi jsou prostě dobrý i softskilově,
+a prostě Tomáš byl vidět, že je softskilově, jak i naš
+vejklý, jo, jako proto si myslím, že
+o zakázky nemůže mít nouze.
+Prostě Brno je zlatá loď, no, co si budeme.
+Přesně, za architekty z Brna choď.
+Je to tak. Tak přátelé,
+ještě než se rozloučíme, samozřejmě musíme
+poděkovat partnerovi této série
+České spořitelně za to, že
+nám dovolila si sem Tomáše
+vlastně přitáhnout, my jsme ho protáhli
+ne zadním vchodem, ale dokonce jsme šli přes recepci,
+takže s Tomášem jsme tady normálně
+na férovku v našem studiu
+probrali všechny tyhle věci a ne, samozřejmě
+děláme si srandu. Děkujeme moc
+České spořitelně za podporu
+a vážíme si toho. Samozřejmě děkujeme
+i našim subscriberům. Již
+brzy zakončíme tuto
+sérii, první sérii, která vlastně
+pro vás nabíhá
+dopředu pro vás subscriby na
+Hero Hero a hned po té
+sérii, až vlastně já se
+vrátím z Tajska,
+Polly se vrátí z Tajska, my si tam
+někde prostě dáme na koksamuji nebo
+bankoku si dáme high five, tak
+potom sedneme a vlastně
+možná zhodnotíme, jaký byly
+naše dovolený, co se stalo
+za tu dobu, uvidíme si vlastně jako
+co bude, jestli se vůbec vrátíme,
+než bych chtěl něco přivolávat.
+Takže myslím si, že
+i pro vás, pro subscribery teďka
+jakmile dotočíme šestou
+se...
+šestou sérii, šestý díl čtrnácté série,
+tak si myslím, že budete mít hody i nadále,
+takže díky, že nás podporujete
+a určitě se vám to v dobrém vrátí.
+Já myslím, že máme všechno dneska, ne?
+Máme to všechno, můžeme to tady pobalit,
+doufám, že se vám to líbilo,
+dajte nám klidně zpitnou vazbu,
+protože nám se to líbilo a vlastně proto to taky děláme.
+Ano, na stránkách podvozce.cz
+máme oba dva e-mailovky, takže klidně
+napište, můžete samozřejmě komentovat
+na Spotify, můžete nám napsat
+i na Hero Hero přímo, prostě tam jde poslat
+zpráva, takže určitě nějakým
+způsobem se k nám dostanete,
+myslím si, že to zvládete úplně v pohodě.
+Myslím si, že vám to půjde líp, než
+instalace Windows našemu hlukaři,
+který teďka čimí do černé obrazovky,
+když chvilko byla modrá,
+chvilko bílá, teď je černá.
+Takže, ale jestli se tohle
+nahrálo, tak je to zázrak.
+Přátelé, tak je to neuvěřitelný dneska jako zářez
+tady Honze Šidláka.
+No tak jo, tak
+vynecháme Honzu z hlavu v dlaních.
+Už se mějte krásně
+a uslyšíme se za 14 dní.
+Mějte se, čau.

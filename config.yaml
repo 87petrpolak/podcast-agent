@@ -1,0 +1,14 @@
+podcast:
+  name: "PodVocasem"
+  rss_url: "https://feed.podvocasem.cz/rss"
+
+paths:
+  audio_dir: "data/audio"
+  transcripts_dir: "data/transcripts"
+  processed_dir: "data/processed"
+
+download:
+  limit: 200
+  overwrite: false
+  timeout_seconds: 60
+  

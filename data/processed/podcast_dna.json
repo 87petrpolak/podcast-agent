@@ -1,0 +1,76 @@
+{
+  "total_episodes": 87,
+  "avg_duration_minutes": 78.2,
+  "first_episode_date": "2021-10-13",
+  "last_episode_date": "2026-04-13",
+  "hosts": [
+    "Petr \"Poli\" Polák",
+    "Roman \"Džoukr\" Provazník"
+  ],
+  "total_guests": 87,
+  "topic_distribution": {
+    "Kariéra": 0.252,
+    "Data & Analytics": 0.248,
+    "Startupy": 0.106,
+    "Architektura": 0.093,
+    "AI & ML": 0.071,
+    "Cloud & DevOps": 0.071,
+    "Podnikání & Produkt": 0.062,
+    "Open Source": 0.031,
+    "Česká IT scéna": 0.027,
+    "Bezpečnost": 0.022,
+    "Ostatní": 0.018
+  },
+  "recurring_themes": [
+    "Kariéra",
+    "Data & Analytics",
+    "Startupy",
+    "Architektura",
+    "AI & ML"
+  ],
+  "avg_duration_by_topic": {
+    "Startupy": 75.9,
+    "AI & ML": 80.5,
+    "Kariéra": 82.4,
+    "Architektura": 83.0,
+    "Data & Analytics": 83.0,
+    "Česká IT scéna": 77.9,
+    "Open Source": 82.8,
+    "Ostatní": 57.4,
+    "Bezpečnost": 89.5,
+    "Cloud & DevOps": 76.6,
+    "Podnikání & Produkt": 79.5
+  },
+  "humor_frequency": "low",
+  "technical_depth": "low-medium — business and career focused",
+  "avg_questions_per_episode": 73.4,
+  "transcripts_analyzed": 76,
+  "intro_style": "Casual banter between hosts, followed by guest introduction with humor and personal anecdote",
+  "question_style": "Open-ended, follow-up heavy, technical depth varies by guest",
+  "typical_flow": [
+    "intro_banter",
+    "guest_intro",
+    "career_story",
+    "deep_dive",
+    "rapid_fire",
+    "closing"
+  ],
+  "sign_off_style": "Rapid-fire personal questions, closing remarks, invitation to follow podcast",
+  "episodes_per_season": 6,
+  "seasons": [
+    "S01",
+    "S02",
+    "S03",
+    "S04",
+    "S05",
+    "S06",
+    "S07",
+    "S08",
+    "S09",
+    "S10",
+    "S11",
+    "S12",
+    "S13",
+    "S14"
+  ]
+}

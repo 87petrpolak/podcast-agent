@@ -1,0 +1,2091 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Krásný den milí posluchači, vítejte u dalšího dílu IT podcastu Pod vocasem.
+Jako vždy tu s vámi u mikrofonu sedí Petr Polipolák.
+A Roman Joker provazník. Dobrý den přátelé, máme tu 7.15 ráno v pondělí a jedeme bomby.
+Docela se nám to osvičilo, víte, takhle přispal.
+Já mám pocit, že to funguje dobře.
+Já se taky myslím, poslouchal jsem ten minulý díl a nebylo to zase tak úplně nejhorší.
+Já jsem byl taky spokojený.
+Můžná čím dřív budeme vstávat, tím to bude lepší.
+Ty krása, nestraš.
+Když jsou nějaký až skoro půlnoční třeba.
+Můžeme to taky zkusit jenom jako hec.
+No my jsme se zase neviděli nějakou dobu.
+Ty jsi byl zase vlastně ve Švédsku, že jo?
+Tak jak bylo?
+Hele, Švédsko je krásná země a úplně se ukázalo, že máme skvělý klienty,
+protože to já to nemůžu ani říct tady, ale tohle taková sranda jako s nima,
+že prostě už se bavíme fakt jako na takový úrovni,
+jako když jdu s tebou do hospody a bavíme se o takových těch jako podprahovejch záležitostech.
+No nedá se to vůbec tady jako dávat na hlás, ale fakt jsem si to užil.
+A mimo to teda snad byl klienty spokojený.
+No tak super.
+Já ti musím trošičku poflexit na začátku.
+Pojď.
+Vyrazil jsem jeden takový jako pro mě osobně životní ječí v mém,
+že víš, že občas si tak někde zapřednáším na český scéně,
+že jako víme tam ty konference, nebo před koronou jsem byl poměrně často na těch dotnetích.
+Ale podařilo se mi poprvé, a to už jsem to zkoušel tuším po čtvrtý,
+se dostat na NDC Oslo, což je jedna z největších konferencí dotnetích vůbec na světě.
+Je to v hale Spektrum, což je normálně klasicky, jako by si představil O2 Arenu.
+Prostě obrovitánská hala, kde normálně nevím, vystupuje Metallica a tak.
+A oni udělají tam třídení, nebo vlastně celotýdení,
+protože předtím jsou ještě dva dny.
+A pak jsou tři dny přednášky, takže pět dní je to narvaný deseti trackama,
+jsou tam stánky, je tam asi dvacet foodcourtu, je to tam úplně mega.
+A tak nás tam budou reprezentovat.
+Já jsem to teda jenom zahlít v rychlosti, jak jsem byl u toho klienta,
+tak jsem moc teda na LinkedInu nebyl, ale zahlít jsem to tam a máš tam like ode mě.
+No hele, jako velká pecka, to se těším, co budeš povídat a jaký to bude.
+Prosím tě, mám tam téma, budu dělat takovou retroskopii,
+retrospektivu nad jedným naším řešením, který máme psaný v F-sharpu
+a v serverless a všechny tyhle ty věci, takový ty dobroty, co mám rád,
+tak z toho chci udělat jeden takový ekstrakt, kde ukázat, co se povedlo,
+co se nepovedlo. Samozřejmě bude se to točit kolem funkcionálního dotnetu.
+Ale těším se, protože máme vlastně ještě známýho v OSLU,
+který mi hned psal, že si mě tam převezme.
+A že mě tam trošku provede, protože já jsem,
+když jsem tam byl, tak jsem se tam byl dokonce i proběhnoucího času,
+důležitost na ně nevěřil, ale mám nastravit ten věk.
+To se musím podívat.
+A jinak jako krásný město, ale samozřejmě, když ti provede někdo,
+kdo tomu rozumí, tak to bude.
+Měl známýho. Jestli teda myslíš toho stejného známýho,
+tak je to ten známej, který nám udělal tu naši fantastickou znělku.
+Ano, Lukáš, Lukáš, přesně tak.
+No a takže já jsem nadšenej za tu poslední dobu, co jsme se neviděli.
+Všechno dopadlo skvěle, placka s mistrovství světa taky je,
+takže vlastně všechno se povedlo, co jsme si říkali,
+co jsme si přáli v následujících 14 dní, aby dopadlo,
+takže za mě dobrý.
+Hele, spokojenost, no, akorát teda teďka zase,
+jak je to zkroucený ten svět těch dětí,
+tak Peťa teďka po mně chce, abych mu našel nějakou bronzovou medaily,
+protože tu má teď nejradši, jako.
+Jo, tak, jo, takže já jsem teďka, jak jsem sem přišel do kanclu po týdnu,
+tak vím, že tady mám, když jsme hráli nějakou ligu,
+tak tady mám jednu bronzovou medaili, tak ji hned beru domů,
+protože tomu udělám největší radost s bronzovou medailí.
+A to jsi mohl říct, to já taky jednu doma mám.
+Fakt?
+No, no, no.
+Tak myslím, že ty máš s tím fotbalem jenom zlatý.
+Já mám jenom zlatý, ale tohle je za fotbal FIFA,
+kdy jsme hráli v Cienku Tournaj, tak jsem skončil třetí,
+tak jsem dostal bronzovou medaili.
+Jo, a to máš v tom šuplíku s těma dalšíma dárkama,
+co máš od Honzy Černýho, když se vyhrá NHL Kotonajna.
+A tím ho zdravíme, jo, taky interní, ale...
+Jo, jo, jo, tak já to najdu a Petě mi to dáme.
+Super, super.
+No tak jo, hle, tak dneska jdeme na našeho dalšího hosta.
+Dneska to téma, tak jak vlastně, co já tě budu přesvědčovat,
+to ty jsi to téma vlastně tady přitáhl a celý jsi to zosnoval,
+tak bude UX, což je, řekl bych, velmi netechnický téma na náš podcast.
+Jéno, jéno, my jsme se ho už trošku jednou dotkli s Lukášem Svobodou,
+ale chceme se toho trošku zase, podívat se na to trošku jiným směrem,
+z jiného úhlu pohledu a zároveň se chceme ještě podívat na takovou tu naší metodiku,
+kterou tady v CNQ hodně jedem a sice Design Sprint.
+Kuba s tím má velký zkušenosti a je v tom dobrý,
+takže myslím si, že se rozvíjíme zajímavý věci.
+No tak já si myslím, po tom, co jsme projeli za Marin, Vision, Pigeon, PriceFX, Docker,
+tak teďka skočit úplně kam jinam, to bude takovej hezky jako před závěr třetí sérii.
+Je to tak, těším se na to moc.
+No tak jo, tak jdeme pro Kubu.
+Super, jdeme pro něj.
+Občer s ten výbornou kávou už k nám zasedl ke stolu náš dnešní host Kuba Kašpár.
+Čau Kubo.
+Čau Romané.
+Čau Kubo, ten tvůj úvod měl úplně všechno.
+Za prvý si v tom řekl, že máme novou kávu.
+To je úplně geniální, protože to je fakt dobrá, to je pravda.
+A za druhý si teda přivítal Kubu. Ahoj Kubo.
+Čau Petře.
+Rádi ti tu máme.
+A zároveň.
+Počkej, ale to s tím kafem je naprosto přeci zásadní.
+No já to vím.
+Jako nám tady dva hosti chtěli skočit z okna, když jsme jim navídli naší lokální kávu.
+Takže to prostě mění všechno.
+To je úplně geniální. Já jsem vlastně byl týden pryč, takže dneska jí mám poprvý.
+A já jsem myslel, že prostě normálně jsem přijel na nějaký skřítek,
+jak ty vepři takto dole z kosty nebo od někuť, co já vím.
+Jakože opravdu fakt dobrá káva.
+No takže Kubo vítej.
+Je to velká změna. Taky musím říct, jako moc dobrý kafe.
+Pořád teda ze stejný, že jo, mašiny, ale jako dali si práci s tím, že jo,
+propláchly se trubky, takže jde to hnedka znát.
+Jo, viděl jsi to, že to někdo proplachal.
+Jo, jo, jo. Myslím si, že jo.
+Jo, proplachuje, proplachuje. Viděl jsem Klárku, která nám tady s tím pomáhá
+a musím říct, že to dělá opravdu.
+Pečlivě.
+Jo.
+Dobře, ale dnešní díl teda není, přátelé, o kávě.
+Ale taky bychom si mohli jeden dát teda.
+O kávě.
+Někdy. No já teda, pozveme si moji ženu.
+Ona je prostě úplně kávový fašista, tomu říkám.
+Jako, tvoji ženu si klidně pozveme.
+Já jsem zvědavl, kam se ta disku zestočí,
+ale klidně si tady pozveme paní Polákovou.
+Já se na to osobně začínám docela těšit.
+Tak si pozveme ale pak i tvoji ženu.
+No tak to radši ne, hele, to radši ne.
+Hele, pojďme se zpátky věnovat Kubovi,
+který, jak říkal Poli, je to náš kolega ze Cienka
+a věnuje se UX, což je věc, která z mýho pohledu
+je velmi netechnická, nicméně asi řekl bych rozhoduje
+kolikrát o tom, jestli sebelepší technický produkt
+bude úspěšný nebo ne, protože konec konců skončí to vždycky
+u toho zákazníka, který má nějaký pocit
+a předpokládám, že UX je právě o tom vytvoření toho pocitu.
+Je to tak?
+Tak, tak, vlastně, jakože, když bych měl nějakým způsobem
+svýma slovama popsat, co to UX je, takže user experience,
+myslím si, že do češtiny to má takový vtipný překlad,
+právě uživatelská přívětivost a uživatelský prožitek
+a takový, jak to říct, základ, jak popsat UX,
+jednodušej je právě na té lahvy od ketchupu,
+že právě může mít krásný obal, i ta chuť vevnitř může být
+úplně úžasná, ale pořád prostě, dokud nevím, jak tu lahev otevřít,
+abych se mohl ten ketchup vychutnat, tak pořád je nějaký základní prvek,
+který v rámci toho celého UX může být špatně,
+takže budeme se určitě bavit o tom, z čeho všeho se UX jako takový skládá
+a můžeme...
+Musí jako všechny ty kostičky zapadnout do sebe,
+tak, aby pak ten prožitek byl ideálně co nejlepší
+a člověk pak nezaklapl počítač nebo neutekl od toho produktu úplně nějaký...
+Jasný.
+Ale to s tím ketchupem mi připomnělo, já chodím nakupovat ketchup
+a změnil jsem nedávno značku jenom proto, že ta nová značka má lahev,
+kterou když zmáčmu, tak to z ní dostanu úplně všechno
+a nemusím to pak ještě žičkou bolšovat.
+Takže to je možná to UX.
+Vidíš to?
+Hele.
+No, UX je prostě i, hele, backendový výbojář tady je ovlivněnej.
+Jasně, UX je všude.
+Dostaneme se k tomu do detailu.
+A první, Kubo, řekni nám něco o sobě.
+Co máš za sebou, co tě baví?
+No, tak já nevím, kolik na to máme času, jo?
+Kolik budeš chtít.
+Pohodně, pohodně.
+Začnu od mateřský školky.
+Jo, jo, jo.
+Ne, ale jako ve výsledku, já nevím, někdy to mi vždycky vyprávěli rodiči,
+že vlastně od první třídy jsem chtěl být architekt.
+Vědět různý domečky, takovýhle věci ze stavebnicí.
+A vlastně to mi dal takový jako základ, jak to říct, no, takový ten píseček,
+kde si člověk může, že ho poskládat jako co potřebuje.
+A vlastně jsem se k tomu pak dostal někdy jako na střední základy HTML CSS,
+kdy taky člověk měl vlastně na jedno úplně volný pole působnosti.
+Mohl si tam vytvořit tlačítko, jakou barvičkou chtěl a jak mělo být zaoblený a tak dál a tak dál.
+A tam vlastně, jakoby ta kreftina.
+Kreativita, kterou člověk jako nějakým způsobem v tom dětství se naučil,
+tak potom právě nějakým způsobem dál se mi rozvíjel od tý střední dál.
+A teďka už je to nějakých jako vlastně 12 let, co se člověk věnuje.
+Začal, že ho nějakou grafikou, pak když chtěl těm věcem víc a víc rozumět dohloubky,
+tak právě od toho, že to je jenom hezký a nějak jako že ho na povrchu,
+tak se právě dostal k tomu.
+Aby to bylo srozumitelný, pochopitelný.
+A vlastně jako UXku jako takovýmu víc dohloubky se věnuju třeba asi posledních sedm let.
+A to přesně děláš i v Cienku, nebo děláš i nějaký drobnej vývoj,
+nebo vyloženě to ten UX design?
+Teďka vlastně už v Cienku vlastně skoro tři roky se věnuju jenom UXku,
+takže nějakýmu testování a takovým věcem.
+Ale základ mám i v kódování, tím, že právě ze začátku nejdřív člověk začínal
+nějakých jednoduchých webech, tak mě vždycky lákalo rozumět i tomu,
+jak to funguje, tak jsem se učil nějaký základy HTML, CSS,
+základy programování a tak dál.
+A teďka už se věnuju teda čistě tomu UXku, protože jako každá profese se hodně specializuje,
+tak právě i v tom UXu už je tolik věcí, který člověk musí nějak obsáhnout,
+že ještě k tomu jako vlastně kódovat.
+To už bych asi úplně nedával.
+Jasný.
+A ty jsi k tomu došel úplně sám, nebo už se to teďka i někde učí regulérně,
+nebo je to třeba součást nějakých designových škol, jak to vlastně je?
+No myslím si, že teďka už je jako spousta kurzů, dost jsou teda placený,
+ale jako pro úplní začátečníky je spousta materiálu třeba na YouTube, jako u všeho.
+Já třeba, co jsem podstoupil nějaký jako základní kurzy, tak byl,
+to je teda taková škola.
+Tam je škola Team Treehouse, se to jmenuje.
+A tam právě jsem se učil i toho základy HTML, CSS, Javascriptu a tak dál.
+Ale jinak to, člověk musí zkoušet nějaký ty vlastní projekty.
+První z takových projektů byl právě pro mojí sestru, to je fyzioterapeutka.
+Tak právě nějaký, že jo, první vizitky, letáčky, pak ty webovky.
+Pak se to tak, že jo, jako nabaluje a člověk zkouší, zkouší
+a pak tak nějak jako zjišťuje, co teda.
+To je jako zajímavý, že kdybych postavil tak jako deset svojich kolegů do řady ze CNK,
+tak bych a dal tam mezi ně dva UXáky, tak je podle mě poznám, jo.
+Proč jako, že jsou oholený a vypadají jako lidi, jo?
+No, já jako jakýmkoliv způsobem, jo, mám pocit, že bych, jako že jste odlišný, jo.
+V tom dobrým slova smyslu.
+Máš pocit, že v tom hraje nějakou roli talent, nebo když tě to baví,
+takový to vždycky mi říkají, když tě ta věc baví, tak peníze přijdu sami,
+jo, když jsem podnikal, ale když tě to baví, tak máš pocit,
+že se to dokáže naučit každej, nebo to tak úplně nevíš?
+Myslím si, že jo, protože právě jako grafiku jako takovou,
+často lidi spojujou, že jo, s nějakým jako uměním,
+ale to jako se myslím, že právě přesně jako Cortexko
+a klasický jakoby grafický design vůbec není.
+Je to o tom jakoby o té praxi a zkoušet a zkoušet
+a prostě jakmile pak člověk už udělá, že jo, jako spoustu.
+A takhle jste samozřejmě, že jo, i potom v kódu, že jo,
+taky čím víc jako aplikací člověk napíše, tak už se naučí nějaký, že jo,
+paterny a ví jako do jakých vod se vydat, do jakých se nevydat.
+Takže určitě to je spíš o tom tréninku, no.
+Jo, jo, protože já pak občas si dělám taky jako designový cvičení
+sám pro sebe, třeba když dělám nějaký reporty, že jo,
+tak si to tak nakreslím, jsem úplně spokojený
+a pak to dám nějakýmu UXákovi a on mi to pošle a říkám,
+ty vole, co jsem se tady vůbec snažil, jakože to je vlastně úplně debil a dudy.
+Jak jako máte praxi v tom to udělat fakt pěkně, jo.
+Tím zdravím teda teďka Richieho Greše, který mi teďka dělal jeden,
+jeden, tvůj kolega, který mi dělal jeden dashboard a fakt pěkný, ty vole,
+jako si to bych nevymyslel.
+Jo, určitě jako základ je vždycky inspirovat se pro designéry,
+taková, jak to říct, hala slávy všech designéru je Dribble
+a to si udělám z toho trošku teďka jako srandu,
+ale samozřejmě člověk nějakou inspiraci tam schání,
+ale právě Dribble...
+A Dribble je co teda?
+A Dribble to je, no jak to říct,
+třeba ve světě kodování,
+tak dejme tomu, že třeba tak jako ježo App Store a Play Store,
+kde jsou vlastně zveřejněný už jako hotový aplikace,
+tak na Dribble to je taková jako chlubírna jenom čistě těch jako designů.
+Aha, takže jako třeba grafici mají DeviantArt nebo tyhle ty věci?
+Tak, nebo...
+Obey Hands, že jo, to je taky vlastně druhá taková platforma,
+tak je ten Dribble,
+ale vlastně jako z toho, aby člověk jako si něco vzal,
+tak si může vždycky vzít jenom jako z toho vizuálu,
+z toho jako UI,
+ale to jestli ty věci jsou vlastně jako výsledku srozumitelný
+a dobře fungují, to se tam už jako by nedozví.
+Ale takže to je spíš jako vizuální,
+jako už nějaká ukázka.
+Přesně tak.
+A to je zajímavý,
+myslím si, že vlastně ty bys chtěl tohle z toho udělat na úrovni kódu,
+tak jako co můžeš?
+Můžeš ukázat hezky napsanou funkci,
+to tak možná někdo ocení,
+ale tu možnost vlastně vyjádřit tu hotovost toho díla
+nebo tu krásu v kódu je ve chvíli, kdy to funguje,
+to moc vizuálně vlastně neukážeš.
+Vyprávajíme o tom, jo.
+Teďka zrovna jsme se o tom s Kubou bavili,
+když jsme si šli udělat kafé.
+A je to, my teďka děláme,
+budeme se dneska bavit o design sprintech
+a my teďka se snažíme dělat ty machine learning sprinty
+a výsledkem by mělo být ukázat tomu klientovi,
+co jsme schopni udělat.
+A je to velmi složitý, když to nedokážeš nakreslit,
+jako výstupem normálního design sprintu máš nějaký mockup,
+to je prostě jako úplně jiná pohádka.
+Takže k tomu se dostaneme, no je to těžký.
+Ale souhlasím, to je právě přesně to,
+když by člověk udělal v kódu screenshot,
+vlastně že od toho kódu vypadá to, že jo, krásně,
+je to dobře čitelný, ale screenshot si člověk nespustí,
+aby viděl, jestli to funguje.
+No právě, že ten asi takový to flexení,
+jako podívej, co se mi povedlo,
+tak to asi nebude takový, když uděláš nějaký třeba
+jenom jednotnej hezký design,
+který není použitej třeba nikde,
+ale je to jenom nějaký draft.
+Ale mě teda překvapilo, že se říkal,
+že se to dá naučit, protože z mý zkušenosti
+buď to tam máš, nebo to tam nemáš,
+což já, jak se pohybuju v té programátorské komunitě,
+že ta je schopná zaměnit dvě poměrně odlišné barvy,
+protože to prostě nevidí.
+A ty teda tvrdí, že když dostatečně se tomu budu věnovat
+a budu řešit, proč tady mám prostě call to action button
+a proč tady mám tohle, proč tady mám tohle,
+že jsem schopen i tenhle svůj životní handicap překonat.
+Já myslím se, že určitě a právě spousta vývojářů,
+protože co se týká toho vizuálna,
+tak to je UI, user interface.
+A i právě spousta UXáků,
+tak ty se zaměřujou právě, jak ty věci fungujou,
+na tu workflow, kudy ten vlastně uživatel
+vlastně používá přímo ten produkt nebo tu službu.
+A právě díky tomu, že už je spousta tady těch UI knihoven,
+tak když UXák, který třeba do toho vizuálna
+zase až tolik taky k tomu třeba nemá takový velkej cit,
+tak když začne používat takovýhle knihovny,
+tak právě třeba taky se naučí, jaký jsou ty detaily
+a právě tím, že si ošahá spoustu těch knihoven,
+tak se to taky dokáže naučit.
+A to právě si myslím, že i ve výsledku
+i třeba vývojář dokáže ten cit v tom mít,
+když zase těch knihoven, co používá material design,
+tak vyzkouší si jich spoustu a pak třeba ví,
+že já nevím, políčko formuláře může mít kulatý rohy,
+nemůže mít kulatý rohy, pak jestli to skloubit
+s tlačítkem, který taky bude mít kulatý rohy,
+už v tom vidí nějaké ty podobnosti
+a zase čím víc si toho okouká,
+tak si myslím, že pak může do toho víc nějak vidět
+a třeba i nějakou tu knihovnu potom udělat sám
+vlastně podle sebe.
+No ale vem si ten mentální kleš,
+protože UX, tak jak to už vždycky vnímám,
+když se s někým bavím, s těmi UXákama,
+tak cíl je zjednodušit.
+Zjednodušit cestu toho zákazníka,
+zjednodušit všech celý ten koncept.
+Když to programatorský přístup je,
+že čím víc klikáte, čím víc options,
+čím víc konfigurovatelných věcí,
+tím přeci já jsem odvedl lepší práci,
+tím je to přeci komplexnější,
+protože my milujeme složitost.
+To je věc, kterou bohužel asi nikdy nevymítíme,
+byť to zabíjí ten obor z mýho pohledu
+a to je zase i nástory.
+Prostě my to milujeme, když je tam toho hodně.
+Tak to je přeci kleš, který je neřešitelný.
+A právě úkolem UXáka je tu komplexitu schovat,
+tak aby to na první pohled vypadalo jednoduše.
+Ten uživatel má všechny tyto možnosti stále,
+ale není přehlcený úplně na tu první dobrou
+a když začne ten produkt používat,
+tak mu to postupně dává smysl.
+Proto třeba dřív bylo, jaký to pravidlo,
+všechno na tři kliky, na tři kliky,
+což už je takový UX mýtus,
+když potřebuju něco udělat,
+tak i když mám o ten klik navíc,
+ale ve výsledku je to srozumitelné
+a dává to smysl,
+tak to vůbec k ničemu nevadí,
+když je tam o klik navíc.
+Tak možná ty už si s tím UXem trošku začal.
+Pojďme se k tomu vrátit.
+Co bys ještě v UXu řekl,
+takhle jako v základu,
+a jestli to vnímáš i v obecní.
+Já nevím, když po Václaváku tamhle vidíš plagát
+a říkáš si, tohle je fakt jako,
+vůbec jsem nepochopil tu message,
+nebo naopak, tohle je pěkný plagát.
+Jestli máš tu profesní deformaci, takhle posunu to.
+Jo, tak to mám určitě.
+A to jsem rád, že se na něco takového ptáte,
+protože zrovna, myslím si, někdy předevčírem
+byl jsem v KF-ku,
+tam jsou ty platební terminály,
+což je super, že jo.
+Člověk si to tam může hezky naklikat sám.
+Ale já tam mám vždycky,
+a ještě to pořád jako neopravili,
+furt ten stejný problém,
+že se zaseknu na věci ohledně platby.
+Člověk tam má dvě okýnka,
+jedno je krásný, barevný,
+tam jsou ty loga Sodexa,
+a benefitů, a buď vědět čeho,
+všeho ještě dalšího.
+A pak je klasická platební karta,
+ta je celá šedivá, na tom displeji to nejde skoro,
+že jo, ani vidět.
+Tak si vždycky říkám, a je to vlastně jako aktivní,
+není to aktivní?
+Teďka člověk vlastně přemýšlí místo toho,
+aby jako jednoduše jenom na to klikl a vyzkoušel,
+že jo, jestli to funguje nebo ne.
+Tak to je vlastně něco,
+u čeho se tam jako vždycky zaseknu,
+ale nakonec teda jako si s tím poradím naštěstí.
+A druhý právě příklad,
+tak co mě napadne,
+to jsem nedávno nakupoval něco na About You,
+a oni teda mají vychytanou aplikaci,
+About You je teda, že jo, pro nákup
+nějakého, že jo, oblečení online,
+a apku to vím, že právě na tom si dává
+jako hodně záležet,
+že si ji tak jako vlaději dostat,
+ale stejnak jsem nakupoval normálně na tom,
+ve webovým prohlížeči,
+na desktopu,
+a zase jsem se zasekl
+u takového zásadního kroku,
+a to je platba, kde mi vyskočilo
+vokínko, od nějakého
+poskytovalo těhle
+třetí strany, teď jsem tam
+vyplnil
+číslo karty, všechny tyhle z té
+údaje, ale žádný tlačítko
+jako na první pohled, který by šlo
+vidět, jak jako pokračovat dál.
+A už jsem fakt jako byl zaseklej,
+naštěstí, a tadyhle
+situace právě v různých
+e-shopech,
+a ve všech možných
+aplikacích státních zprávy,
+to se mi jako stává často, že prostě jako
+fakt jsem zasekanej, tím,
+že člověk by to chtěl udělat
+co nejjednodušší, tak jak je zvyklý,
+že jako by to
+jednoduše mohlo být, tak to pak není.
+Naštěstí,
+vždycky můžu
+říct svý milovaní
+manželce, ať se na to jde podívat,
+tato vyřeší taky asi tak většinou za tři
+vteřiny, takže právě na tom About You
+jenom jako odscrolloval a dolů ukázal mi,
+tlačítko tam je, na první pohled žádný
+scrollbar tam nešel vidět,
+modál prostě mohl být daleko větší
+na tý obrazovce, takže ta deformace je tam
+a je tam hodně velká.
+To chápu, to chápu. A úplně
+mě napadlo, jak jsi o tom mluvil,
+podle mě tohle, jak to popisuješ, je srozumitelný
+pro úplně každýho člověka.
+Máš občas problém, že třeba
+klient nebo kdokoliv ti do toho vlastně
+kecá, protože tomu vlastně každej
+trošku rozumí nebo má ten pocit,
+že tomu rozumí?
+Myslím si, že je tak jako vždycky
+a proto je pak dobrý
+dělat to uživatelské testování,
+kdy člověk
+nazbírá spoustu tý zpětný
+vazby, ať už od kolegů,
+od klienta, ale potom u toho
+testování se teda ukáže
+vlastně, kdo teda ve výsledku
+měl tu pravdu
+a když se to
+testování právě dělá, tak
+potom už
+se vymýšle
+jenom takový hypotézy a neříká se
+teď je to červený, uděláme to modrý,
+protože to bude lepší,
+ale už prostě je to pak
+na nějakém základě a zase na těch
+předchozích zkušenostech
+a to testování
+vždycky si myslím
+i na tom projektu všeobecně
+pak jako všem
+ve výsledku dá ten smysl
+toho, v jakém směrem se
+teda ubírat a nebo neubírat, že právě
+pak vývojáři ví,
+proč byly jaké rozhodnutí
+udělané a
+proč teda teďka třeba se
+jenom ta barvička mění
+a nebo nemění.
+Pojďme možná úplně projít
+celý ten proces, protože tady
+tak jako okopáváme to z různých úhlů.
+Úplně od začátku
+vlastně jak to postupuje, až
+protože ty mluvíš o testování, což předpokládám, že
+je jedna z těch možná pozdějších fází
+celého toho procesu, iterativně
+asi pak se zase vracíš na začátek, ale když bys
+úplně popsal ty jednotlivý kroky, jak jdou
+za sebou od toho, že přijde zákazník
+a řekne, o tě hodnil jsem nápadem,
+až pro tu finální
+fázi, kdy
+zákazník řekne, přesně takhle jsem to chtěl,
+ty kulatý rohy jsou bombastický.
+Takový vlastně jakoby
+zjednodušenej základní popis
+toho UX procesu, tak je to,
+že právě na začátku člověk musí jakoby
+pochopit, co ten zákazník chce.
+To je teda první věc.
+Druhá věc je
+připravit nějaký řešení,
+který si teda jako člověk
+myslí, že by třeba jakoby mohlo
+obstát. Třetí krok
+je to řešení nějakým způsobem
+zrealizovat. A to řešení
+třeba je na úrovni nějaký figmy
+nebo... Tak, tak, tak, že
+vlastně jakoby přesně to řešení, nejdřív to je
+nejspíš jakoby někde na papíře,
+ale aby pak, protože hnedka
+další krok je otestovat to řešení,
+tak aby
+zase ten, kdo to testuje a kouká se
+na to, aby to mělo co nejblíž té realitě,
+tak právě dělají se teďka
+hodně prototypy ve figmě, než
+něco jako programovat,
+kdy ta komplexita je často, že jo, hodně
+velká, tak se postaví jenom taková jakoby fasáda,
+takový, že jo, jako to westernový
+městečko, kde
+teda už ten, kdo
+to testuje, z toho
+dokáže mít nějakou,
+nějaký ten požitek
+a dát tomu tu zpětnou vazbu
+a
+na základě pak té zpětní vazby se přesně
+člověk zase dostane na začátek, třeba
+daleko líp pochopí ten jakoby problém,
+který řeší, vylepší ten
+prototyp, zase se to otestuje
+a to kolečko takhle si jede dál
+a dál, protože nejenom, že ten
+samotný produkt se jako vylepšuje
+od toho, co třeba na začátku nebylo
+úplně jako dobře
+vymyšlený, ale i třeba získá
+právě od těch lidí,
+co to testují, spoustu zpětní vazby
+i třeba na další jako featurey,
+vylepšení, že jo, do budoucna
+a takže je to ve výsledku takový
+jako nekonečný proces.
+Hele a ještě jenom k tomu taková
+podoplňující otázka,
+my jsme se dotkli figmy,
+já si ještě pamatuju, že ve svým
+času byly velmi populární wireframe,
+teď jako poslední dobou je vlastně
+vůbec nevidím, protože už dostávám třeba
+hotovou figmu, když se bavíme o nějakým produktu
+a
+pamatuju si, že bejvávalo, že vlastně
+byla taková mantra, že to vlastně
+nesmí mít finální varvy, že to nesmí
+bejt ještě jako úplně tak, jak to má vypadat,
+protože by tě to odvedlo pozornost
+od toho, co ti chtějí vyjádřit ty wireframe,
+že má jako jiný cíl, platí
+to ještě nebo vlastně
+možná i jaký rozdíl mezi tím, zase
+pro technický lidi. Třeba právě jako
+wireframe určitě je to jakoby
+běžná část, když
+vlastně začne se na nějakým projektu
+dělat tak na začátku
+si myslím, že právě wireframe,
+než jako se ujasní nějaká ta
+struktura a právě jakoby ty základy,
+tak určitě jako z wireframe
+má začít a
+tam, kde to teďka si myslím dost jako
+odstupuje a je to třeba
+i jakoby u nás na projektu, na kterém jsem
+když už máš jakoby
+vybudovanou nějakou tu právě UI library,
+kde prostě tak jako, že
+v kódu kluci
+si vytvořejí ve storybooku
+veškerý komponenty, my si je vytvoříme
+ve Figmě, takže potom právě
+jakoby poskládat nějakou celou
+tu flow z tady těch kompon, už to vypadá
+reálně a už je to zasazený
+do nějakého vlastně jakoby
+toho brandu, toho produktu a
+testovat to potom s těma uživatelům
+už jim to taky, že už vědí, že to je součástí
+něčeho vlastně,
+zapadá ti to do těch všech jako dalších
+jako obrazovek a tak, takže tam
+už pak třeba ty prototypy se dělají
+jako takhle ty high fidelity,
+fakt jako, že to vypadá už jako
+skoro reálnej produkt,
+ale na tom začátku, kdy vlastně
+člověk ještě nemá ani žádný ty komponenty
+připravený, tak aby si
+vlastně
+nějakým způsobem i ujasnil
+odkaď kam ten uživatel má dojít,
+tak určitě jako Warframe
+pořád je to jakoby téma.
+Ale jsou furt v tom procesu před tou Figma, řekněme.
+Jo, určitě. A pak teda dojedeš ten
+proces, někde na tom
+začátku, kde ještě vlastně se třeba
+ani nezačalo kodovat, ale pak už jsi, ale ty jsi
+i na projekte, kde se koduje.
+A tam potom děláš nějaký
+jako, dejme tomu ad hoc věci,
+nebo jak ta práce probíhá potom dál
+a ještě doplňující potom,
+jak to třeba klešuje s tím, že ty něco
+navrhneš a třeba koder
+řekne, hele, takhle to nepůjde,
+z nějakého důvodu, jsou tam tyhle z ty kleše.
+Tak vlastně
+odpověď na tu první otázku,
+tak
+tím, že ten produkt jako není nikdy hotovej,
+člověk vždycky jako by udělal nějaký základ,
+ale že jo, většinou ten klient chce
+prostě, že jo, pořád ten jako produkt
+zlepšovat a zlepšovat, tak
+prostě díky tomu testování
+z té zpětní vazby, dělají se
+ty nový fíčury, že jo, vylepšují se
+na spoustu věcí, jako se
+přijde, protože o tom testování,
+o kterém jsme se tady bavili, tak je
+víc druhů, nějaký právě
+hodně jako kvalitativní,
+že jsou to jako intervju s tím
+uživatelem, ale
+tam jako by člověk dokáže dobře
+pochopit, proč jako
+vlastně třeba ten
+uživatel s tou aplikací zachází
+tady tím a tady tím způsobem,
+ale není schopnej třeba
+otestovat jako, že jo, 100 lidí na jednou,
+jo, a právě pak, když už ten
+produkt už
+je nějakým způsobem naimplementovaný,
+tak právě pak je, že jo,
+ta druhá,
+druhá úroveň toho testování
+a to jsou, to je na základě
+dat, kde právě, že jo,
+to množství, už se to dá,
+že jo, nějakým způsobem třeba vyčíst nějaký
+údaje z Google Analytics a
+dá se dělat
+AB testování, kde
+nějaký, že jo, jakoby menší
+věci a se dají ověřit,
+jestli by třeba nefungovaly líp,
+takže tam potom, co
+třeba je nějaký jako základ
+toho produktu, tak
+jako většinou, jako vždycky ten základ
+ještě není jako, že jo, stoprocentní,
+vždycky tam prostě zapotřebí
+nějak něco zlepšovat,
+takže to je taká odpověď
+na tu první otázku a druhá,
+to je třeba obrovská výhoda,
+jako, že jsem
+v UX-ách interním, tady v Cienku,
+protože potom, že jo, je spousta třeba
+agentur, kde už jakoby
+vývojář dostane
+designy vlastně takhle jako navrhnutý
+a je tam třeba něco, co mu jako ve výsledku
+nedává smysl, tady
+prostě na tom interním projektu,
+já jsem přímo v týmu s klukama, že jo,
+pracujeme vlastně na tom společně,
+takže i jakoby
+ta tvorba je ve výsledku
+jakoby společná, protože
+člověk připraví
+to řešení, jak by to mohlo vypadat,
+ale zase získá tu zpětnou vazbu
+nejdřív od těch vlastně jakoby technických
+kolegů, od vývojářů,
+takže vlastně to jako
+řešení vymýšlej tak nějak jako společně,
+před tím, než se to
+vlastně testuje třeba s tím zákazníkem
+a díky tomu
+se dá jakoby předejít
+u toho vývoje
+spoustě jakože jo, věcem,
+kdy už jako třeba na začátku
+se některý věci daj
+odchytat.
+A ty seš na tom projektu teda přítomnej
+po celou dobu, nebo jako třeba
+naskočíš tam na začátku,
+vyjasnit si to se zákazníkem, nakreslit ty věci,
+pak kluci, holky implementujte
+a až to budete mít hotový, tak se
+ozvěte a kouknem na to znova. Jak tam
+naskakuješ, vyskakuješ, jak to máš?
+Tak, tak, vlastně teďka
+poslední projekty, možná za ty
+poslední tři roky, kde jsem byl, tak to byly fakt jako
+dlouhodobější projekty, takže tam jsem prostě
+na tom projektu
+vyloženě byl
+celou dobu,
+nikam jsem nevyskakoval,
+občas právě někam na ten design
+sprint, ale
+jinak to, jinak člověk je dlouhodobě právě
+na tom projektu, tak aby
+ho vývojáři měli
+k dispozici, kdykoliv když
+potřebujou, protože v rámci toho
+i sprintu jednotlivýho,
+vždycky se stane to, že
+něco se musí jako dořešit,
+nějaký edge case, který předtím
+člověk ani nevěděl, že by mohly existovat
+a takže tak.
+Tak pojďme se podívat na nástroje, který používáš.
+Tak takhle, určitě máš Macbooka, ne?
+Já si myslím, že všichni designéři
+mají Macbooka, by the way.
+Lukáš Svoboda byl podle mě poslední z toho týmu,
+kterýho jsme tady taky měli, který
+měl dala a už má taky Macbooka.
+A to je povinnost?
+Mám pocit, že zase,
+když bych je postavil deset do řady,
+tak ty designéři budou mít vždycky Macbooka.
+Takhle,
+myslím si, že vím přesně,
+co myslíš.
+Když bych
+postavil třeba UXáky
+do řady, tak si myslím, že jsou
+taky jako, ne úplně zase tak jako
+nápadní lidi, třeba mají braille,
+jako já, tak jako,
+mají toho Macbooka, tak to podle toho.
+Ale mají žabky,
+stojí před tím, že jo, před kostou
+a čekají na nějaký dobrý kafe,
+ale gramofon v ruce, jsou hipstři všechno.
+Tak, tak, ale to si myslím, že právě jako
+takovýhle jako ve svém...
+Takovýhle právě lidi
+jako ve svém okolí neznám,
+to právě člověk se koukne někde,
+že jo, jenom na nějaký jako hezký obrázky,
+dělá se z toho srandu, že jo, na YouTubeku
+videa, jak prostě, že jo, všichni
+tyhle ty kreativní lidi jsou jako hrozně
+jako hipsterský, ale
+ale jako ve výsledku si myslím, že to tak
+jako vůbec není, no, že...
+Myslím, že z toho děláme trošku srandu.
+Ale toho Macbooka máš, je to tak?
+Toho Macbooka mám. Dobře. Tak aspoň trošku jako
+hipsterský. A když se podíváme...
+Já ti jdu ještě do zavařovačky pro nějakou vodu.
+Jo, jo, jo, to je teďka
+taky moderní, v oblasti Karlínska
+a tak. A když se podíváme
+teda dovnitř, do toho železa,
+tak jaký nástroje
+využíváš, jo, jako co vlastně potřebuješ k práci?
+Možná to vemu trošku jako
+historicky, proč vlastně člověk teďka
+využívá to, co používá.
+Tak, jako
+co se týká nástrojů na
+tvorbu, vlastně, že jo,
+ty grafiky, těch prototypů
+a tak, tak dřív právě,
+že jo, první nástroj, který jsem začal používat,
+byl Photoshop.
+Tam, že jo, prostě spousta věcí.
+Návrh toho uživatelskýho
+vlastně
+rozhraní je o tom, že jo, dělat nějaký
+jako obdelníčky do toho textíky a tak
+a ve Photoshopu, tohle to všechno šlo krásně.
+Jenom, že potom, když pak
+těch stránek, že jo, byla spousta,
+tak jeden takovýhle Photoshop file
+měl třeba jako 200 mega.
+Nějakým způsobem, jako si to pak
+přendávat ještě s někým jiným,
+kdo bude spolupracovat,
+že jo, jako na těch designech, jako bylo
+dost složitý.
+A od Photoshopu
+se přešlo, že jo, ke
+skeči, jo, skeč už bylo, že jo,
+takové, jakoby, lepší v tom, že
+hodně věcí právě bylo vektorových
+oproti ve Photoshopu, kde každej
+ten jako obdelníček dřív byl
+jakoby rastr, že jo, proto
+pak nebyly, že jo,
+tak, nebo ty soubory
+byly fakt jako obrovský.
+A ve skeči
+tam se jako ta práce
+urychlila, ale stejnak jako
+předávání jako těch
+souborů s někým jiným, ta spolupráce,
+taky to nebylo jakoby
+úplně nejvychytanější
+s nějakýma pluginama a tak se to
+pak dalo nějakým
+způsobem zjednodušit,
+ale teďka určitě jako
+nástroj, který doporučuju
+všem začínajícím
+grafikům a UX-ákům je právě
+Figma, která zaprvý
+v nějakém základu je úplně
+zdarma, takže člověk se v tom může
+jakoby naučit a myslím si, že asi první,
+či projekty v tom
+má naprosto,
+naprosto zdarma a taková ta
+kolaborace, člověk právě vidí hnedka
+live, jestli mu tam kolega
+ladí nějakou obrazovku,
+abyste si nešahali pod ruce,
+je to rovnou uložený v cloudu,
+vlastně...
+Ono to má tuny extensions, že jo? Já jsem viděl třeba
+i Figma, tu React Components a tak,
+že si můžeš nechat z toho jejich interního
+formátu vyblejt už v podstatě kdeco.
+Mraky. Taky, taky. No, máš tam
+i v základu jakoby nějaký ten
+inspect panel, takže takový ty základní
+věci, co se týká CSS-ka,
+gradientů,
+nějakých shadows a tak, tak to
+člověk nemusí už nikde jakoby
+inspektovat
+nějak jako složitě, ale všechno
+vlastně to tam je převedený už do tohohle
+z toho jakoby zápisu
+kódovýho,
+vlastně CSS-ko
+i myslím pro Android a pro iOS
+tam nějaká právě,
+takže se to odnoty dá třeba jako jednoduše
+vykopírovat.
+No a právě jako Figma
+jako taková, tak do toho
+hodně šlape, že se snaží
+integrovat i jako další
+nástroje, který byly dřív
+jako samostatný, právě na různých
+těch jako workshopech, jako jsou design
+sprinty, tak se hodně používají
+ty, myslím, že se jim říká, když bych
+to hodil do jednoho pytle,
+ty whiteboarding aplikace,
+že člověk může, že jo, dávat nějaký lístečky,
+že jo, a taky tam jakoby na něčem
+spolupracovat, tak právě
+Figma už taky tohle z toho vlastně řeší,
+jako sama, co se týká potom...
+To je ten figgem, ne? Myslím, že to jsme
+používali teďka v tom šelecku,
+Lukáš to přinesl. Přesně tak, přesně tak.
+No a když už má ten prototyp
+vytvořit, že nejenom, že vlastně
+vytvořit tu samotnou grafiku,
+ale to, co umí ta Figma, třeba
+ze skeče se to muselo exportovat dřív do
+externího nějakého toolu, poskládat
+ty obrazovky jakoby nějak za sebou,
+že když člověk klikne na jedno tlačítko,
+že se zobrazí nějaká další obrazovka,
+tak tohle z toho má Figma jako opravdu
+vyladěný. Je třeba nějaký
+animace, že když
+máte nějaký třeba overlay, jestli
+vyjde ze spoda, ze zhora, jako
+odkudkoliv. Takže když už si tam člověk poskládá
+ten prototyp na to testování,
+tak oni ještě teď to posouvají
+zase dál, že
+i to samotné testování pak bude moct dělat
+v rámci toho toolu.
+Nějaké nahrávání,
+jakoby té testovací session,
+že si tam člověk pozve
+toho člověka,
+s kterým
+vlastně testuje, rovnou si tam
+vlastně přesto zavolájí,
+může si nahrát celou tu session.
+Takže fakt to dává čím dál tím větší
+smysl a může
+už člověk fungovat
+v jednom toolu.
+Pro mě to je samozřejmě super, že uzavírat
+všechny ty uživatele
+vlastně jenom k sobě,
+ale musím říct, že to
+pro mě to je taková
+srdcový tool teďka.
+A budeme mít ještě jako frontendový
+vývojáře za chvíli, když tohleto člověk
+celý to uspořádá.
+Vlastně ten tool bude schopnej
+víceméně za chvilku, podle mě, to nějakým způsobem.
+Protože už to stejně funguje.
+Ty overlaye, všechny ty animace,
+přechody ze stránky na stránku, už tam jsou.
+To už tam prostě je.
+To akorát tak, aby jsi to dostal k sobě,
+třeba na svůj web, tak to nějak časem,
+podle mě, půjde úplně vyexportovat jedna k jedným.
+Akorát k tomu připíchněš backend
+a nazdar hodiny.
+Takhle, co se týče toho samotného UI,
+tak jako tooly jsou.
+Sice to stejnak není úplně tak stoprocentní,
+protože jedna věc je,
+člověk to může udělat co nejčistším způsobem
+v nějakém tom Figma toolu.
+A když se to vyexportuje,
+tak pak jsou ty struktury těch
+adresářů, který každý vývář
+se drží
+a tak, aby to
+nějakým způsobem dávalo smysl.
+Tam si myslím, že ještě člověk
+s tady těma nástrojema není.
+Může si ze začátku trošku ulehčit
+tu práci, že mu to řekne
+nějaký paddingy, spacingy,
+barvičky a tak dál.
+Ale stejnak kort
+v dnešní době, když
+třeba si řekneme, že o vývoji v Reactu,
+kde jsou ty jednotlivý komponenty,
+tak ti to může vyexportovat
+vlastně jako hloupou tu komponentu,
+která vlastně nic neumí.
+Protože tyhle všechny přechody
+mezi těma obrazovkama a tak,
+to je všechno jenom tak, jako ta fasáda,
+jenom tak na oko. Přesně tak.
+No tak to máme figmu.
+Ještě něco vedle toho, co
+bys považoval za důležitý říct, že používáš?
+No potom třeba
+i ty wireframey. Taky už
+plugin do figmy,
+takže wireframey člověk udělá,
+když potřebuje fakt jako
+nějaký složitější wireframe,
+kde třeba když už má nějaký select
+field, klikne, vybere nějakou možnost,
+podle toho by se mu něco
+mělo jakoby zobrazit.
+Tak když jsem taky používal
+Excher, to je takové jakoby přímo
+na wireframey
+hodně echt tool, ale je to
+něco jako ve Photoshopu, kde člověk má
+sto, tisíc
+různých tlačítek a vlastně
+k jeho běžný práci použije deset,
+tak v tom Excheru to je jako hodně podobný.
+Takže Excher má samo o sobě zase lepší
+UX?
+Jako můžeš v tom,
+neschovávají tu komplexitu, no.
+Přímo jako na první dobrou ti to
+všechno jako naservírujou, to, že
+pak jako z toho používáš fakt jako
+minimum těch věcí, tak
+to už je pak jako druhá věc, no.
+Ok, a ještě nějaký
+další teda, nebo jsem ti do toho skočil?
+A jo, a co se pak týká,
+co třeba používám jako hodně často,
+tak je proto testování.
+Když si člověk
+chce hodně rychle nějaký prototyp otestovat,
+tak
+typ testování, který existuje,
+je Rapid User Testing,
+kde když
+si člověk veme ten prototyp z té figmy,
+tak ho nahraje tady do toho toolu,
+může tam právě kolem toho
+poskládat jakoby různý otázky
+a úkolny,
+a
+na základě toho zase jakoby získat
+právě tu zpětnou vazbu a ten tool, který
+používám, ten se jmenuje Useberry,
+taky pro nějakých jakoby
+prvních asi deset
+testů je úplně jakoby zdarma, takže
+získat jako ze začátku nějakou
+zpětnou vazbu na nějakou
+já nevím, featureku a tak, tak úplně
+jako dostačující
+a hlavně fakt jako hezky se s tím
+pracuje a člověk pak vidí třeba
+jak dlouho někdo strávil
+na té obrazovce, když tam má
+vícero cest, jak může udělat jednu
+věc, tak vidí tam celou
+tu vlastně jakoby user journey,
+kudy masety jako lidi, co to
+testovali, vydali, heatmapy
+tam vidí, na co klikali,
+takže fakt jako vlastně
+jako na tool, který je zdarma,
+tak z toho člověk může fakt jako získat
+dost nějakých
+podkladů zase dál
+pro to zlepšování toho produktu.
+Super, až ti mě napadá, když se bavíme
+o nástrojích, co hardware, máš nějaký speciální
+hardware, takže nějakou lepší myš nebo nějaký
+tablet používáš, nebo klasika?
+Já mám jako klasiku,
+že pořizoval
+jsem jako ten správnej,
+i když jsem říkal,
+že jako hipster, kromě toho
+Macbooka, samozřejmě jako ne,
+ale Magic Mouse,
+ta je totálně neergonomická, takže
+tady, co máme, ty klasický myšky,
+že jo, v práci,
+tak jako úplně jako dostačující,
+a že bych měl právě nějaký kreslící tablet,
+to ne, protože
+v tom UI tam jede člověk na
+to, právě na tu
+preciznost, že vlastně
+ve výsledku všechny ty hodnoty zadáváš někde
+v nějakém panelu, jako číslo,
+20 pikselů,
+40 pikselů, a když bych to
+jako kreslil, tak jako nikdy, že jo,
+nedocílim toho, že to všude bude
+konzistentní.
+Jedna z takových věcí,
+která se hodně často
+dřív vyskytovala, když jsme se bavili
+o nějakým testování, a vím,
+že i Poli ho to zaujalo,
+teďka mi vyprávěl ve Švédsku,
+je iTracker.
+Používá se to ještě
+vůbec, nebo vlastně hodí se
+to třeba na typicky zákaznícký projekty,
+používá se to třeba úplně na jiný projekty, jak to vlastně
+je s tím sledováním toho pohybu těch očí?
+Právě, že na těch design sprintech
+tam my máme tady vlastně
+iTracker, takže kde to dává smysl,
+tak se to snažíme,
+klidně můžete,
+takže pokud je to třeba nějaká jako
+webová aplikace, kde
+ten prototyp pak jede normálně
+na počítači,
+musí to být
+teda, protože ty design sprinty
+se dají dělat jak remote, takže
+face to face přímo s tím klientem,
+tak tam se pak bere ten
+iTracker, protože ten setup
+se tam dá nastavit
+a vím, že už to tady právě jako
+využitý párkrát bylo
+na některých projektech
+a zase no,
+čím víc člověk jde do hloubky a chce
+jako víc rozumět
+tomu, co se všechno děje, co ten
+jako uživatel, který to testuje,
+kam se kouká a tak, tak
+tam se pak ty iTrackery používají
+a vím, že třeba teďka jeden
+tady z kolegů, myslím Honza Labík, byl
+na nějakém testování,
+myslím si, že od
+ČVUTčka, kde jako vyloženě
+už na to šli jako na ty věci hodně jako
+vědecky a do hloubky a tam právě
+ten iTracker je určitě jako by součástí
+toho
+toho jako výzkumu a
+dozvědět se toho, co nejvíc.
+A to je taky, co používáme za iTracker?
+Je to nějaká firma? Jo, tak to
+to nevím, co to je přímo za teď.
+Já jsem náradil nějaké město Tobi a bylo
+to fakt jako skvělý, jako fakt úplně přesně
+vědělo, kam se kouká. Já jsem byl úplně nadšený z toho.
+A je to úplně nejzašší
+věc, kam se dá při tom
+sledování těch lidských reakcí zajít
+anebo jsou ještě nějaký zase
+jako futuristický helmy a teď uvidím třeba
+jakými to
+jakými to vytvoří emoce nebo něco
+takovýho. Tak já jsem se nesetkal jako
+s něčím, co by mohlo
+jít ještě jako víc takhle do hloubky.
+Trošku se bojím, když se se jako začal
+ptát tady na to tak jako vzít si
+nějaký to uživatelský chování
+jako přímo, že jo,
+z telefonu toho člověka, že jo,
+jako z nějakých těch jako soukromých
+to naštěstí nevím, nebo takhle.
+Určitě se to děje právě na základě těch dat,
+že jo, velkých, že ty velký
+společnosti toho ví, že jo, spousty a spousty.
+Ale s tím jsem se teda
+naštěstí jako nesetkal
+a jako helmu
+nebo něco takovýho.
+Tak oni, že jo, třeba typicky měřej,
+když si scrolluješ nějakým feedem na telefonu
+a zastavíš se, tak jak dlouho se zastavil,
+v jaké části té obrazovky, jestli tam jalo zrovna
+video, jaký video a tak dále.
+Takže oni měření všeho možného
+to jako dají, ale furt je to nějaká
+řekněme jako zprostředkovaná
+reakce, když to takhle, kdyby si
+tam posadil 20 lidí a nasadili
+nějaký helmy a teď si jistil, že jim to
+třeba udělalo jako radost, že na to koukali,
+ale že jim to třeba fyzicky jako
+vyplavilo něco, nějakou hladinu
+prostě, nějaký hormonu.
+Takže taky jsi mohl zastavit, že tě to naštvalo
+a ty to vlastně nevíš z toho.
+No, třeba, třeba nevím tak, nevím, kam se to
+posune, zapadlo mě to.
+Otázka je, jestli to patří ještě do UX, ale nevím.
+Jo, tak jakoby ten
+základ, když člověk nemá tu helmu,
+tak právě na těch intervjů kouká na nějakou
+tu řeč toho těla, že třeba člověk
+mu může teda říkat, že to
+je super, ale vidí
+nějakou jako tu nejistotu a tak, že jo.
+Tak s tý helmi, že jo, tam by to
+jako bylo úplně, že jo, jasný.
+Ale to, no, ale
+podle mě to asi vystřihnete.
+Ne, ne, ne, ne, naopak,
+ne, ne, ne, nejsi nestříhá.
+Já udělám ještě takový trošku klaš
+s hostem naší druhý série,
+Lubošem Hradeckým, se kterým jsme se bavili
+o accessibility.
+Jde to nějak ruku v ruce, nebo
+dochází třeba i k tomu, že z lidiska
+UX je něco geniální a pak
+přijde Luboš a řekne, no tak to ne, to mám
+jako lidi s tímhle, s tím handicapem,
+to vůbec neocení, nebo naopak jim to hodí
+klacky pod nohy. Jak to je?
+Tak právě na každém
+tom projektu, kdy už jako
+těch komponentech, že jo, spoustu,
+tak právě i v té Figmě by měla
+být vytvořená ta
+knihovna a
+vlastně i v té knihovně
+ve Figmě, tak jsou jakoby různý proměn
+barvičky, textíky,
+aby se to dalo jakoby nějaké
+dobře udržovat. A když už jako
+člověk vytváří takovouhle knihovnu,
+tak by právě měl koukat
+na to, na nějaký, že jo, ty standardy
+té barevnosti, právě jeden jakoby
+z pluginů do Figmě
+na ověření toho
+kontrast, jako je tam vlastně kontrast
+checker, takže tyhle z toho jakoby věci
+by pak, co se týká
+tý component library,
+která je ve Figmě, tak už by to
+mělo být pak standard
+tý samotný jako knihovny.
+Takže potom, když už z toho člověk staví
+nějaký ty
+prototypy a celý ty
+workflows, tak když jsou komponenty
+správně, je to na tom správném základu,
+tak pak už to vlastně jako
+dostolik. Čili dobrá komponentovka
+vyřeší víc
+kontextů, víc problémů. To je dobrý.
+Ok. No já tady mám ještě
+jednu otázku, která mě strašně
+zajímá a která mě napadla ve chvíli,
+kdy ty jsi mluvil o tom,
+jak jsi nedokázal správně
+zaplatit na terminálu, že prostě to bylo
+špatně šedivý a tak. A to jsou
+dark paterny v UX. Já si myslím,
+že to je věc, která je všudy přítomná.
+Třeba specificky teďka
+zase, že ho bude léto, lidi pojedou
+do zahraničí, kde si budou chtít u bankomatu
+vybírat a tam teprve lidi poznáte,
+co je opravdu vymyšlený dark
+patern, kdy je
+asi desetkrát musíte ve správným pořadí
+zmáčknout správný tlačítko, abyste si třeba
+vybrali bez toho přepočtu
+v cizíměně
+a takovýhle věci. Takže
+řekni, Kubo, dark paterny.
+Možná pro posluchače. Popiš to
+trošku. A chtěl to po tobě
+někdy někdo?
+Jo, tak
+vlastně dark patern, jo, jsou dark paterny
+a ještě pak jsou nějaký jako šedivý
+grey patterns. Ty dark paterny, to je
+vlastně něco, že my jsme donutili
+toho uživatele udělat něco, co vlastně
+ani neví, že udělal.
+Takže třeba hodně jako často
+takový ty, že jo, checkboxy
+na konci formuláře,
+kde právě si ještě zaškrtlej,
+není zaškrtlej a teďka vlastně ty si myslíš,
+že teda není zaškrtlej,
+takže dobrý, nedostaneš žádný newsletter
+nebo něco takovýho.
+A ono to je přesně, že jo, navopak.
+Takže dark patern je vlastně jako
+něco, že ta aplikace
+nebo ten produkt mě donutil k něčemu,
+že já vlastně ani nerozumím, co jsem jako
+udělal a ve výsledku to bylo
+pro prospěch, ne můj, ale vlastně
+toho danýho produktu.
+To je nebo kukylišty, že jo, to je taky
+takový typický, jako potvrdit vše
+nezbytné, uložit mé volby, ale
+zaškrtnout všechno a takový ty
+jako spojený tlačítka, kde je
+popis pětí akcí. Jako kukylišta
+jako taková je jako pro tvoje,
+že jo, blaho, že jo, že nebudeš pak třeba
+nějakým způsobem jako úplně tak trackovaný
+a tak dál a tak dál, ale to
+jestli jako to potvrdíš a nebo ne,
+tak ono dokonce i
+v český legislativě je
+uvedený, že ty tlačítka jako by
+mají být vizuálně stejný, jo, že právě
+potvrdit a
+vlastně jako zamítnout,
+tak aby jako nebyly rozdíly
+mezi tím, jako co chceš potvrdit a co ne.
+Takhle, aby si netlačil
+zákazníka k volbě,
+tak je to rovnocený,
+no a to ale nedává smysl.
+Takže jo, jako, to je jako
+kdybych na semaforu měl
+všechny tři červený,
+aby si jako rozhodl, jestli
+projedu tou křižovatkou nebo ne, jo.
+Ale v tomhle stově myslím
+specifická právě jenom ta česká legislativa.
+To mě nepřekvapuje.
+To bych typnul.
+No, pěkný.
+Jsou ještě teda nějaký další takový
+jako specifický dark paterny, nebo
+ty jsi mluvil o těch grey, tak ty grey jsou co?
+Že nevím sám, jestli to je
+dobře nebo špatně? No, jsou
+takový, že ještě ten jako uživatel jako
+dokáže z toho určit,
+co se mu snažíš říct.
+Vlastně
+jeden jako z grey paternů by mohlo
+být to, jsem v nějakým, že jo, nákupním
+košíku, už mám vybraný
+jako produkty a
+mám tam pak ještě třeba doporučení,
+co se ještě jako, že jo, šoupnout dál
+do toho košíku. A to je něco,
+co právě jako spousta lidí
+vlastně jako třeba
+tebe by nenapadlo, že
+teda si můžeš přihodit ještě něco další,
+když ho do toho košíku. Pro spoustu lidí to může
+být, jo, tak to je jako super,
+ale je to zase něco, co vlastně ten uživatel
+o co si sám jako neřek
+a ty mu to vlastně nějakým způsobem nabízíš.
+To stejné...
+Za tohle dostala podržce also a svýho času.
+Teď jsem chtěl říct, no, teď jsem chtěl říct, že jo,
+že ještě třeba ti do košíku vlastně přihodili
+a to už jako byl fakt jako...
+To dělali, to dělali a za to dostali zlé podržce.
+Službu, no, nějakou navíc, že prostě
+třeba jsi měl ze začátku vlastně
+oni mají teď, mají ty
+prodloužený záruky, že jo, a
+nevím, jestli to bylo zrovna u prodloužený záruky,
+ale normálně jsi měl jako předvyplněný
+zaškrtlý, že ještě chceš teda jako
+něco navíc, nějaký pojištění.
+Jo, jo, jo, jo, jo. A nebo nějaký baterky
+ti přihazovali, jsi něco koupil.
+A ty jsi to ani nechtěl, ani se jako o tom nevěděl, jo.
+Ano. Jo, já myslím, že si jako
+koupíš prostě notebook a oni ti přidají
+míš třeba. No, no, jasně takový
+ty spojený věci, nebo takový to
+příslušenství. No, no, no. Jako, že ti to nabídnou, to je vlastně
+já zrovna, jak si to teďka rozděloval na dvě
+skupiny, tak to já vlastně trošku kvituju, že
+vlastně řeknu, hele, tak tohle mě nenapadlo,
+že kdo z často mi to třeba
+připomene, že si koupím monitor a oni k tomu nedávají
+HDMI kabel, tak říkám, no, tak si ho rovnou
+koukám. To je dobrý, ale představ si, že
+padeš do Tesco a koupíš si,
+nevím, juice a někdo ti k tomu ještě přihodí
+vodku. No, dobře. To je zrovna dobrá
+zůstava. Říkám, jsem v té skupině,
+co tak kvituje.
+A dokážeš si představit jako jiný nákupy,
+který by ti takhle zkazil. Jo, jo, jo, já chápu,
+chápu. Kupuješ si Coca-Cola, tak
+dostaneš rum k tomu a tak dále.
+Tak, tak, tak. Hele, a chtěl teda po tobě někdo
+nějaký takovýhle dark pattern vymyslet, že to
+přeci jde taky z nějčí hlavy na nějčí poput.
+To není věc, která vznikne side effectem.
+Tak, tak, jako musím říct, že naštěstí
+nechtěl, jo.
+Právě, že jo, i jako
+UXák by se měl snažit bejt právě takový
+ten goalkeeper, co teda jakoby
+pustí a když jako vidí, že teda to už
+jako není dobrý, tak jako
+pozvat se a říct to. Naštěstí jsem
+se v žádném jako vypracovním prostředí nesetkal
+s tím vymýšlet jako
+vyloženě ty dark patterny a
+jsem vlastně za to rád, no. No to věřím,
+to věřím. Tak, Kubo, přeskočme
+na Design Sprint.
+Vím, že jsi v rámci CNK součástí
+takovýhleho týmu, který má na starosti
+Design Sprinty a jako společnost
+máme s tím jako velký a
+dobrý zkušenosti.
+Povez nám o tom víc, co Design Sprint je,
+co to možná není. Povídej při Háni.
+Tak, jak vlastně Romane zmínil,
+že klient otěhotní nápadem,
+že jo, tak třeba ze začátku to můžou
+být i paterčata a
+jak jako určit vlastně, kde
+který si nechat.
+Kde začít, jako který vlastně.
+Zjednodušeně řešeno.
+To je jak ta babička, jak říká,
+jak se jí narodí ty dvě kočičky, aby od sebe
+odlišila, tak to jedno názve Micka a to druhý
+utopí v řece.
+Jako, nečekal jsem,
+že se dostaneme až vlastně jako
+takovýhle mu.
+V popisu. Ale jako ve výsledku
+to tak je, no, že prostě
+u toho Design Sprintu je nějaký,
+že jo, obrovský nápad
+a člověk právě díky tomu procesu
+se snaží eliminovat
+jakoby ty nápady
+na ty, jako co nejúžitečnější,
+takže, že jo, člověk, že jo,
+z našeho oboru zná, co to je MVPčko,
+ale teďka, že jo, každý
+MVPčko pro každýho může jako
+znamenat něco jinýho a právě
+díky tomu Design Sprintu,
+jenom abych řekl, co to je, člověk si to může představit
+jako takovej workshop,
+kde se sejde, já nevím, sedm, osm
+lidí, spousta
+jako chytrejch hlavživov jedný místnosti,
+každej může
+být vlastně z úplně jako jinýho
+oboru, já nevím, třeba řešíte,
+tak třeba příklad,
+řešili jsme tady naše
+CN Jobs, kariérní stránky,
+takže, že jo, někdo,
+kdo určitě k tomu má co říct,
+takže jo, lidi z HR,
+potom právě,
+že jo, vývojáři, který třeba dělali
+i na nějakých jako
+jiných takových, že jo, podobných
+webových prezentacích,
+že jo, člověka
+právě z biznisu,
+aby jako dokázal nastavit, co třeba
+díky tomu prototypu
+můžeme měřit za metriky a tak dále,
+takže vlastně je to jako
+taková sorta různorodejch
+rolí, který ale vždycky jako můžou
+právě k tomu problému, který se řeší
+jako něco přiníst
+a když bych jako
+popsal, on ten design sprint má
+ten jako základní, standardní
+pět dní, takže vlastně
+v pondělí, tak to se řeší to,
+co je teda za problém,
+právě jako co není jako
+součástí toho klasickýho
+design sprintu, tak je
+nějaká jakoby příprava, jo, takže
+to vždycky taky jako aspoň týden
+dopředu nějaká příprava by měla proběhnout,
+když už ty lidi se sejdou v té místnosti,
+jak aby vlastně věděli, co...
+Už mají povědomí o tom, co je to za produkt, co je to za klienta,
+a vlastně probíhají tam nějaké přípravné věci.
+Aby věděli, co se jako přesně má
+řešit, no a
+v pondělí se to všechno
+načmárá právě na tabuly,
+když je to právě, že je to produkt,
+který je cílenej na různý
+jakoby zákazníky,
+tak se právě i určí, na jakého
+zákazníka budeme cílit
+a těch jako nápadů tam
+taky jako vznikne na začátku spousta,
+ale právě díky tomu procesu se jako
+vybere to, co bude
+nejudernější právě jako by na začátku,
+jo, takže pak vlastně
+druhej den, potom, co se shodnete,
+co se bude řešit za problém,
+tak každej vlastně
+sám za sebe navrhne nějaký
+řešení. Super na tom
+je to, že i lidi, kteří
+jsou jako introvertní, že jo,
+třeba jako typicky spousta jakoby vývojářů
+má spousta jako dobrých nápadů,
+ale nějakým způsobem pak to
+třeba jakoby odprezentovat, tak se
+třeba, že jo, vstyděj, tady právě
+se eliminuje to, že
+vlastně každej tam má
+možnost
+ten svůj jakoby nápad prodat, protože všechno to je
+anonimní, ten svůj nápad
+každej připraví ve výsledku
+na papír, je tam
+nějaký jakoby základní náčrt
+a když se jako pak vybírá
+ten nápad, tak je tam
+právě hlasování a ty nejvíc, jestli to dělal
+Roman nebo Petr nebo
+kdo a díky
+tomu právě tyhle dobrý nápady, které by
+normálně třeba jakoby nevypluly na
+povrch, tak
+se právě
+díky tomu, že ho
+můžou vzít a
+zapracovat pak jako by do toho řešení, který
+se právě bude testovat
+a během středy se
+vybere jedno z těch řešení
+to je právě takový hezký,
+když se všichni
+zavřou v té místnosti, tak
+pak všechny ty řešení se vylepí na jednu
+zeď, je to taková jako, říká se
+tomu art gallery, tak tam máš
+v tom vlůvru ty vaše díla
+a teďka všichni kolem toho chodí
+obdivují to, to co se jim
+líbí víc, tak k tomu jde i jeden
+velký puntík k tomu, k čemu míň
+tak zase, tak k tomu nedáveš, že jo, puntík
+a díky jakoby těm puntíkům
+si taky člověk vytvoří nějakou heatmapu
+a ví jako zase na jaký ty nápady
+se vlastně jako zaměřit
+a to co potom
+vlastně bude testovat, ve čtvrtek
+se udělá prototyp, podle toho
+jaký nápad byl
+vybranej, tak podle toho se pak
+právě udělá prototyp, tak aby se
+mohlo během pátku otestovat
+a získat tu zpětnou vazbu
+a vlastně díky tomu jakoby
+celému procesu, ze spousty jako
+nápadů, tak se vybere
+to, co ve výsledku ten problém
+jako řeší nejlíp, takže se to dá
+hezky jakoby smrsknout
+na nějaký to základní MVPčko
+a i se právě jako ověří
+na konci v pátek s tím zákazníkem
+nebo s těma
+uživatelema, který to testujou,
+který by mělo být takový
+testovací golden rule,
+že vlastně člověk potřebuje
+pět těch uživatelů, protože
+více jak pět už ti nepřinese jakoby
+nějaký výsledky navíc, když je to
+méně, tak to ještě pořád taky může být
+takový, že prostě když vám
+dají zpětnou vazbu dva lidi, tak jako
+podle toho nebudeš ten produkt úplně nějak
+jako měnit, ale právě když jako
+pak třeba tři, čtyři lidi zmínějí tu
+stejnou věc, tak člověk ví, že
+tak to je něco, co asi budu muset jako
+vyřešit. A co je
+ten klíčový prvek, který rozhoduje
+o úspěšnosti toho design sprintu, protože myslím,
+že máme, jako mám pocit, extrémně
+pozitivní zkušenosti.
+Co je to, co o tom rozhoduje? Je to
+o tom, že já jsem teďka zažil
+takovou obměnu design sprintu, my to děláme na
+machine learning a je to trošku něco jinýho,
+ale úplně zásadní tam bylo, že jsme byli
+všichni pohromadě a opravdu jako ty hlavy
+hořely a polovina těch lidí
+na konci toho design sprintu řekla, že potřebuje dovolenou,
+že vlastně opravdu to je náročná věc,
+ale zároveň samozřejmě jsi vyčerpanej tak jako
+spokojeně, protože víš, že si odved
+fakt super job.
+No, zásadní věc super je to, že to není
+jenom tak jako její nahodilej workshop,
+kde se člověk jako snaží teda
+něco teda mít jakoby na konci,
+ale je tam, to je taková kuchařka prostě
+na ten UX proces, takže jak jsem
+tady na začátku, že jo, vysvětloval
+pochopit, udělat prototyp,
+otestovat, tak tady to je
+vlastně, že jo, během těch jakoby pěti dnů
+a ten proces vás jako
+vždycky donutí k tomu,
+protože vás tlačí ten pátek, že potřebujete
+prostě něco jakoby otestovat,
+tak vás to, že jo, nutí k tomu
+opravdu jakoby něco vytvořit
+a
+právě pak i když se stane na konci,
+že vy něco otestujete
+a je to nějaká to třeba nosná myšlenka
+toho, že vlastně
+klient chtěl začít s takovýmhle,
+tak jako ve výsledku ani po tom týdnu nevadí,
+že se ověří, jo, úplně to není to,
+co jako ty zákazníci vlastně chtěj,
+ale třeba může tam zejít
+ta myšlenka dobře, tak jako může mít
+trošku jiným směrem, ale už máme
+jakoby základ pro to, víme
+trošku jako co ty
+uživatelé jakoby očekávají,
+no a nebo i když to nakonec neví,
+ale to se myslím možná stalo
+jenom jednou, že jako
+po tom design sprintu
+i ten klient řekl, byl úplně spokojený,
+byl rád, že se ten design sprint udělal
+poněvač a protože
+vlastně po týdnu věděl, jestli se do toho
+produktu má pouštět a nebo ne,
+nevyvíděl ho, prostě
+nevím, půl roku, někde třeba
+dva roky, že jo, aby se pak zjistilo,
+že ve výsledku ten produkt
+ty uživatelé
+nebudou používat.
+Možná, Poli, ty jak máš spoustu těch kámošů
+v tý startupový sféře, tam bys to možná
+mohl šířit, to by jim ušetřilo možná
+dost peněz a pánku, ne?
+100%, aspoň je vlastně to, co já jsem se
+když jsem se po design sprintu učil, tak vlastně nevím,
+jestli jsme to zmínili, je to metodika vlastně
+od Google Ventures a oni vlastně říkají,
+že 9 z 10 startupů fail ne
+a oni by vlastně tímhle s tím byli
+nucený vymyslet takovouhle metodiku, aby
+rychle zjistili, který ten startup zhruba má
+opravdu potenciál a ten
+týden jako udělá fakt jako velký věci
+a to mě
+přináší ještě k jedné otázce, byl ten
+klient někdy u nějakého případu
+jako skeptický na začátku, ale
+vlastně tím design sprintem jste je přesvědčili,
+že to si to má, anebo vlastně
+nemá smysl, ale jenom byl
+všeobecně skeptický k tomu procesu.
+Myslím si, že každý klient, kdo ještě
+neprošel design sprintem, tak je
+skeptický, každej, že
+prostě i když se na začátku
+vysvětlí, jak ten design sprint bude
+probíhat, tak stejnak dokud si tím člověk
+jako neprošel, tak vlastně jako neví,
+co ho čeká a právě
+to pondělí, úterý je pro ně
+pořád takový neúplně příliš
+uchopitelný, ale právě
+ve středu, když se začne vymýšlet,
+co teda ve výsledku se bude testovat,
+co bude ten jako finální
+prototyp, tak se začnou prostě
+všechny ty věci pospojovat
+a to právě v půlce toho týdne ty klienti
+začínají být fakt jako natřený
+a už jako vidí celý ten smysl i těch
+jako předchozích dnů a potom
+když prostě se udělá testování,
+tak jako to tak plácnu
+jako nějakej ten poměr, většinou třeba 70%
+odhadneme jakoby dobře
+a 30% prostě
+to jsou věci, který se člověk neuvědomil,
+který se právě jakoby vylepší,
+ale třeba to nejsou úplně jako tak
+úplně ty nejzásadnější věci,
+ostalo se to jednou, bylo tady
+myslím nějakých necelých asi
+30 design sprintů,
+kdy jako ve výsledku
+se pak jako nepokračovalo
+na tom projektu.
+Ale je nějaký pravidlo,
+kdy s tím design sprintem
+vyrukovat, protože třeba já mám
+jednu negativní zkušenost u nás design sprintem
+a ta vlastně
+není díky tomu, že my bychom ji udělali špatně,
+ale že jsme ho udělali pozdě, protože k nám přišel
+zákazník, dal nám práci, my jsme nekecám,
+půl roku vyvíjeli produkt,
+pak přišel, změnil technologii
+a pak po nějaký době
+přišel s design sprintem. My jsme se smáli,
+že vlastně on úplně otočil v podstatě ten proces.
+A ten design sprint
+ve finále, byť jako naši
+odvedli jako megapráci,
+tak vlastně mu už moc nepřines, protože on už
+byl zaháčkovený myšlenkově v tom, že už
+půl roku se něco vyvíjelo, což šlo samozřejmě
+nějakým směrem, takže
+je to tak, že ten design sprint musí být
+na začátku, anebo vůbec?
+Nebo jsou tam nějaké constrany?
+Určitě by měl být
+na začátku. Tohle z toho vlastně, jak říká,
+že potom přijde až
+díl, tak když se
+vykopává nějaký
+novej projekt, kde to zadání
+není úplně
+konkrétní, tak
+určitě bych hned na začátku zvolil
+ten design sprint, protože
+i ty lidi, který
+na tom pak pracují,
+všichni dohromady,
+tak nějakou tu komunikaci
+si mezi sebou nastaví
+a hnedka od začátku
+se ten projekt může
+rozjet tím dobrým směrem,
+ale pak to neznamená, že když se udělá
+design sprint jeden na začátku,
+že pak nemůže být další, protože
+design sprint se dá použít,
+když bych to tak
+odhadl, tak třeba jednou
+za čtvrt roku se dají dělat design sprinty
+na každou nějakou další většinu.
+Na málstovu nějaký větší.
+Vlastně tak.
+Přesně tak.
+Dobře, no ale ne asi v půlce MVPčka, když chci
+přemýšlet celý MVPčku.
+To je asi trošku nudný.
+To už je pozdě.
+Hele, ještě mě napadá, tak konec konců, ten náš podcast
+poslouchají developeri, když je developer
+součástí toho core teamu,
+toho design sprintu, tak jak si to vlastně
+užívají, protože
+znáš to, developeri prostě, když mají víc
+meetingů, říkají, tak teď nebudu týden vyvíjet,
+to teda bude nuda. Jak z toho
+vycházejí oni?
+No,
+takhle.
+Jsou taky skeptickí ze začátku.
+Já zas až tolik,
+co pak s vývojářema
+jsem byl, přímo na projektu,
+ty byly rádi, protože věděli už
+od začátku, proč se udělal nějaký rozhodnutí.
+Takže už byly součástí
+i toho vymýšlení, jakým
+směrem se půjde. Takže tohle
+si myslím, že je právě na tom hodně pozitivní,
+že vlastně,
+když se začne tím design sprintem,
+i vývojáři, že jo,
+většinou
+jako, myslím si, aspoň dva,
+co na tom projektu pak budou
+pracovat, tak už jsou součástí toho.
+Takže i si, že jo, zase
+nastaví nějak tu komunikaci s tím
+klientem, že jo, je to potom
+daleko snažší
+v předávání nějakých informací,
+když vlastně by nějaká
+oddělená skupina udělala design sprint
+a pak přišla
+za vývojářem
+a takhle to udělají, tak oni stejnak,
+že jako neví, jaký byly před tím.
+Že to není prostě o nás bez nás.
+Tak, tak, tak, přesně tak. Jsou vlastně
+zapojený hnedka od začátku a vědějí,
+co se jako proč stalo a třeba
+na co se i zaměřit do budoucna
+a co jako vlastně rovnou
+vylepšit. A museli korigovat
+nějaké vaše očekávání kolikrát, že třeba
+někdo řekl, jo, tohle by bylo skvělý, uděláme to takhle
+a vývojář řekne, tak tohle,
+ale přeci nejde.
+No, jako, myslím si, že určitě
+výhoda to, že
+vlastně, vlastně spousta UX-áků,
+který máme u nás ve firmě, tak mají ten základ
+v tom programování.
+Tak jako, víme, čeho se
+tak nějak jako můžeme držet,
+aby jsme nevymyšleli moc velký, že jako
+fantaz, takže to je jakoby velká,
+velká výhoda.
+Ale jako přesně tak, no, stejnak
+když se pak třeba vymýšlí
+právě nějaká, dejme tomu,
+nějakej ten milestone do existujícího
+řešení, tak vždycky právě
+někdo technický ví, kde jsou jakoby ty limitace
+a proto je součástí toho
+design sprintu, aby to mohl
+korygovat.
+Co se nástrojů týče, tak tady
+samozřejmě dá zase použít ta Figma, ten
+FigJam, co jsme používali my.
+A na to páteční testování,
+když máš nějaký ty mockupy, na to jedeš taky
+Figmů, nebo na to je zase nějakej specifický
+tool?
+Tak příklad právě, že
+dělá se třeba,
+tak jako se tady dělají kariérní stránky,
+tak to je pak prototyp,
+který, to je prototyp webový
+aplikace, takže když potom se to
+testuje, tak
+vlastně probíhá intervju s tím člověkem,
+s kterým, který
+to bude testovat, otevře se mu to
+normálně na počítači,
+v prohlížeči,
+a
+a vlastně
+ještě se šéruje
+obrazovka, nahrává se to, aby jsme to
+potom mohli jakoby dál zpracovávat.
+Takže tady vlastně
+jako nástroj, vím, že na to používáme
+LBS-ku, myslím Open
+Broadcasting, něco, to je právě
+jenom na to nahrávání
+toho, co se tam, že jo, konkrétně děje,
+protože spolíhat se na Teamsy,
+kde taky si člověk může zadat, že jo,
+nahrávání té obrazovky, nebo na nějaký
+takovejhle tool, to není jako většinou
+úplně nejspolehlejší, takže tady s ten tool
+to je přímo, že to nahrává, že jo,
+na tom zařízení, na kterém
+to jakoby běží, ale to
+jde, že jo, samozřejmě u těch věcí,
+který se testujou face-to-face,
+třeba super, když se testuje mobilní
+aplikace, tak to jsme
+si dělali takovej stojánek,
+kde jsme přidělávali ještě webovou
+kameru, aby jsme zase viděli,
+jak člověk hejbe prstem,
+jo, protože tam byly třeba
+různý gesta, tak aby jsme měli pak i nahraný
+to, aby jsme viděli prostě, jestli se
+na to člověk snažil jako kliknout dvakrát,
+nebo kam swipeoval a tak.
+Nebo jestli tam došáhne vůbec krátkým prstem.
+Přesně tak, přesně tak.
+Jo, takže to jsou pak jakoby,
+nebo ten eye tracker, jo, věci, který
+se může člověk dozvědět navíc,
+ale dá se to dělat jenom jako
+prostě jako na místě,
+ale spousta teďka třeba design sprintů
+bylo remote, kde
+záleží, co se dělá za ten
+produkt, ale pokud je to
+já nevím, nějaká ta webová aplikace,
+která se dá zobrazit v browseru,
+tak zas ten klient dobře nosit,
+se musíme spolehnout třeba na
+teamsy, kdy ten jako
+přenos nemusí být, že jo, úplně takovej,
+ale vidíme, co ten vlastně
+uživatel tam dělá, na co kliká,
+můžeme nějakým způsobem
+jako se snažit vyspovídat,
+aby jsme se teda dozvěděli, proč
+třeba udělal nějakou akci,
+tak jak jí udělal.
+Máte vystupováno, že tak během
+covidu to samozřejmě nešlo dělat on-site, bohužel,
+protože já jsem teda teďka jeden design sprint
+zažil on-site a jako nedovedu
+si představit, že stejný zážitek bude
+z toho online-ovýho.
+Jaký byly odezvy
+tou dobou, kdy se to dělat prostě muselo?
+Že byli všichni zavřený doma, tak
+stejnak to pro ně bylo takový
+nějaké
+zpříjemnění, nebo jak to říct, něco jinýho.
+Že sice bylo spousta
+online konferencí,
+člověk si
+volal na běžný
+bázy s kolegama,
+ale tady zase
+dá se to nějakým způsobem
+oživit zase třeba těma
+nástrojema, který se tam používají.
+Třeba jako je ten FigJam,
+tak my používáme
+morál taky dost.
+A taky dá se to nějak zveslit,
+žež tam pak máte za sebou
+nějakou
+to je všechno limitovaný
+časem, takže dojedete nějakou
+aktivitu, tak tam můžete pustit nějaký
+ohňostroje a takovýhle kravinky.
+Je to o tom, kdo to pak moderuje,
+jakým způsobem, že
+dokáže ty účastníky
+udržet vdělí,
+ale
+taky se tam dají
+udělat nějaký
+sradu.
+Tak, aby to pořád
+mělo nějakou dobrou atmosféru.
+A to je zajímavé, je tam nějaká
+specifická role opravdu moderátora, který tím
+provází celou dobu?
+Je, je, je, protože vlastně ten moderátor, ten musí
+znát celý ten proces,
+takže právě...
+Takže jako Scrum Master tě třeba
+provede nějakým na začátku kick-off
+meetingem a tímhle s tím.
+Tak, tak, vysvětlí, co se bude dělat, nastaví právě čas,
+je tam aktivita, dejme tomu na 20 minut,
+tak hlídá ten čas,
+dovysvětluje, když někdo právě se zeptá,
+úplně nechápu, jak to teda jako, že jo,
+je myšlený,
+zeptá se na konci, že jo, tak
+jestli ještě nějaký čas je zapotřebí, že jo,
+přidá ho, jo, takže
+tak, aby z týdenního design sprintu
+nebyl dvou týdení, tak ta moderace
+tam je důležitá, no.
+Za mě je to úplně klíčová postava, ale je to
+ale zároveň člověk, který potom dělá ty věci
+jednotlivý v tom design sprintu,
+ale zároveň je i moderuje, takže většinou
+je to ten UXák, že jo, to asi děláš
+občas i ty, Kubo, že jo? Jo, přesně tak.
+Bez ní bys to nedokázal vůbec představit, protože to pak
+prostě se nezastaví ta věc, jo, prostě
+to by fakt trvalo dva týdny.
+Tak slovy
+klasika, nejenže přetékáme do basketbalu,
+ale možná i do všech meetingů, který
+kluci za chvilku mají, já tam mám taky jeden.
+Takže v rychlosti na závěr,
+Kubo, jaký jsou
+tvoje nejbližší plány, co se týče UX?
+Hodláš u toho zůstat?
+Hodlám u toho zůstat, přesně tak.
+Plány,
+že jo, máme interní přednášky
+tady ve firmě, takže nějaká
+určitě ještě jako dopadne před prázdnínama.
+A potom, vím, že právě
+v září, tak to máme
+zase pro, je partnership
+konference, tak tam taky budeme mít právě nějakou
+přednášku na téma UX, na
+design sprinty. A jinak,
+já nevím, jestli máme třeba nějaký posluchače,
+jako studenty, tak
+jednou do roka máme přednášku
+na VŠEčku a
+na vlastně univerzitě
+ve Zlíně, kde
+tam, že jo, taky nám jedou nějaký vlastně kurzy
+na agilní vývoj. A jedna z těch přednášek
+je právě jako dedikovaná UXu
+a nějaký základ se tam právě
+snažíme vždycky předat. Většinou
+jsem tam já, ještě s nějakým, jakoby ze svým,
+ze svých, že jo, tady mých
+UX kolegů, takže to
+jsou asi nějaký ty nadcházející
+plány. Tak to zní skvěle, milí
+posluchači, najděte si Kubu
+ve Zlíně nebo v Praze a určitě
+to bude zajímavý. A nějaká
+konference, taková ta klasická, kam může
+kdokoliv, kdykoliv, plánuješ
+něco přednášet někde? Ne,
+to není nic takového teďka v plánu.
+A děje se něco takového
+po covidu, restartuje se to i pro vás?
+Jo, takhle, po covidu byly
+tak nějaký, jako kdyby můžu třeba po sobota,
+to je pro PH-kovou komunitu,
+takže tam jsme třeba i měli nějakou
+přednášku a
+myslím si, že jako určitě nějaký
+restart je, že nějaký
+konference teďka budou probíhat,
+ale že bychom měli někde nějakou, jako
+nějaký aktivní zapojení
+ze strany UXK, tak
+to myslím, že není.
+A nějaký meetup?
+Chystá se v Praze nebo pořádáte
+nebo existuje to vůbec
+UX meetup? Jo, existují, no,
+existují a je to, že jo, i velká asociace,
+asociace UX, takže
+myslím si, že tady na to téma právě
+jako existuje dost meetupů
+a... Ale jak jsou na tom, nevíš
+teďka po covidu? Jo, teďka po covidu
+taky nevím, no. Ok.
+No, kouknem, kouknem.
+Kubo, moc díky, bylo to opravdu
+výživný, zajímavý a věřím, že se to bude
+posluchačům líbit. Přejeme ti, ať se ti
+daří a ať tě UXko pořád
+takhle moc baví.
+Tak jo, já taky moc děkuji, bylo to super,
+sranda hnedka takhle po ránu.
+Tak jo, moc díky a
+vyjdem na ty mítingy, no. Jasný.
+Mějte se, chlapci. Čau. Čau.
+Kuba Kašpar, náš
+vynikající UX kolega, člověk, který
+o tom dokázal mluvit fenomenálně dlouho.
+Možná jsme natočili ještě,
+nevidím tu finální stopáž, ale
+dost možná jsme natočili nejdelší díl
+ever dneska. No tak uvidíme, já myslím, že jo.
+A já jsem to říkal Kubovi tady
+mimo rekord, že
+se mi líbí, jak mluví rozvážně,
+protože člověk má jako čas se
+nad tím zamyslet, což je vlastně jako
+velká výhoda. Je to pravda, je to pravda.
+No bylo to fajn, zase to vidím trošičku
+jinak, konečně můžu to si představit pod
+design sprintem. Oni mě teda na něj
+nikdy nezvou. To budu muset zjistit,
+proč mě nezvolu na design sprint. Přitom
+já mám samý super nápady. Hele, pozvi se tam.
+Pozvi se tam. Jako sám, že jich tam zatím
+nevám. Pozvi, no mám tam prostě přijít a staň se členem,
+protože musím říct, že
+mně se to hrozně líbilo. Už jsem zažil dva.
+Teda trošku jako netradiční, protože to není
+design sprint, ale machine learning sprint, ale je to dost podobný.
+A můžu tam taky? Klidně.
+Jo? Klidně, no. Jako když budeme dělat nějaký,
+musí se to vymyslet, ale určitě to
+dáme dohromady. Jo, jako takhle,
+nečekuje ode mě žádný relevantní vstup,
+ale pokud potřeš nějaký rušivý element
+nebo generátor debilních nápadů,
+tak já jsem k dispozici.
+Generátor debilních nápadů se cení,
+takže ano, to je potřeba.
+Tak jo, tak já půjdu
+tady někomu narušit
+jeho kreativní proces. Vy se,
+milí posluchači, mějte krásně a
+uslyšíme se nejpozději zase za dva týdny.
+No, budu se těšit. Vlastně poslední
+díl před naší pauzičkou. A pak si dáme
+léto a pak po létě, kdo ví, co bude.
+Je to tak. Měj se krásně.
+Taky. Čau.

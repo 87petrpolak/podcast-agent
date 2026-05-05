@@ -1,0 +1,2345 @@
+Pod vocasem.
+Pod vocasem.
+Pod vocasem.
+Pod vocasem.
+Krásný den, milí pozluchači, vítejte u dalšího dílu
+vašeho nejoblíbenějšího IT podcastu Pod vocasem
+a když říkám u dalšího dílu, myslím tím u další,
+dokonce desáté série.
+Neuhořte.
+No a samozřejmě i v desáté sérii jsou tady určité jistoty
+a jedna z těch jistot, řekl bych, nejistovatější
+je můj skvělý kolega, bůh zespořky, Petr Polipolák.
+To jsem ani nevěděl, co řekl jsem.
+Naproti mně tady Roman Joker provazník, jak jste přátelé zvyklí
+a my vás tady vítáme po prázdninách.
+Doufám, že jste si je užili a ty Románku taky.
+Já jsem si je užil fantasticky, skvělý to bylo.
+Vorazil jsem si, paráda.
+Byl jsem dokonce v Itálii, vtipný bylo, že s lidma,
+který jsem neměl čas se s nima setkat tady normálně v Praze,
+tak jsme se nějakou náhodou setkali prostě uprostřed Sardínie na pláži.
+Posílali jste mi fotky, bylo to moc hezký, něco ve smyslu,
+jako proč tady nejsi, když jsme se domluvili, že se sejdeme.
+Jo, jo, asi tak, no.
+Jako mě to připomíná, když jsme si jednou, když jsem hrál hokejbal,
+jeli s dvouma mladoboleslavskýma týmama do Písku zahrát hokejbal.
+A my jsme si říkali, ty vole, proč to nehráme v Boleslavi,
+proč jdeme hrát jako do Písku, to bylo součástí nějakého turnéru,
+ale nedávalo to smysl, takže s Robem, s Jackem, s Evou Jackovou,
+s Honzou Černým jsme se viděli.
+Samozřejmě všichni, bývalá parta, jsme se viděli prostě na Sardínii.
+V Praze se nepotkáme a potkáš se na Sardojci.
+Zajímavý, co ty?
+No hele, já jsem vlastně tu nejlepší, nebo nejlepší,
+tu hlavní dovolenou vystřelil už někdy na jeře,
+takže my jsme měli teďka obětňáček, to jsem tady myslím zmiňoval,
+tak to byla úplná pecká, přátelé, doporučuji,
+asi si uděláme díl o obětňácích, je to fakt dobrý, je to fakt dobrý.
+Chytlo tě to?
+Jo, jo, jo. Já byl překvapeným, čez náš mě, já jsem ten plánovací blázen
+a my jsme nenaplánovali vůbec nic a bylo to úplně skvělý,
+protože jsme si dělali, co jsme chtěli,
+prostě když už jsme měli být 100 kilometrů jinde,
+tak jsme se na to prostě vyprdli a zůstali jsme na místě, kde se nám líbilo.
+Hele, fakt doporučuji pro lidi, co chtějí úplně vypnout, to je super.
+Super, no tak jo, takže jak sami slyšíte, my jsme krásně v odpočatí,
+vykopáváme desátou sérii a vím, že vlastně na konci deváté série jsme říkali,
+že přemýšlíme o nějakých změnách, že to trošičku pojmeme jinak,
+samozřejmě bylo tady mnoho variant, vy jste nám i psali,
+pro boha, hlavně to nedělejte placený, já jsem chudej ajťák,
+co bere jenom prostě 120 čistýho, takže jako já bych si mohl dovolit
+platit 7 euro za díl, takže nebojte se, není to tak,
+že bychom přišli do nějakého placeného módu, stále veškerý kontent je zadarmo,
+nicméně tím, jak nás i bombardovali už za poslední dobu firmy,
+že by chtěli nějakým způsobem s náma navázat partnerství,
+tak my jsme si to hodili do tušky, jak tak říkáme, spolim
+a rozhodli jsme se, že skutečně od desáté série,
+co se objeví pro nás jako relevantní firma,
+která se nám bude líbit, co dělá a která nám bude dávat smysl,
+tak my ji podpoříme tím, že ji tady několikrát na začátku
+a na konci zmíníme, v rámci celý série vlastně projedeme
+nějaký partnerství, no a zároveň samozřejmě za ušetřené penízky
+potom si nakoupíme spoustu hezkých věcí, co ti doma chybí.
+Si musím asi seznam, poškrtám ho.
+Dobře, samozřejmě určitě posluchači si mysleli,
+že nakoupíme něco do podcastu, ani náhodou, zvuk se zlepšovat nebude,
+uděláme si to hezký doma.
+My chceme být bohatí.
+Přesně, přesně tak.
+Takže každopádně tím prvním, řekněme, celosériovým partnerem
+je firma Vivio, což je marketingová agentura,
+která dělá pay-per-click kampaně, to znamená Google, Seznam,
+Facebook, Instagram, LinkedIn, ale obecně takový ty dobrůtky
+jako SEO, analytiky, celkový marketingový strategie.
+Ono tím, jak to IT je s tím marketingem samozřejmě provázaný,
+tak nám to dávalo smysl.
+Navíc je to firma, která je nám, řekněme, i blízká z jiných důvodů,
+to tady nebudeme rozplyzávat.
+Každopádně děkujeme za podporu a rozhodně dáváme kudosky Viviu,
+že s námi v této sérii pojedou a pojedou samozřejmě
+až do šestého dílu desáté série.
+A já ještě mám echo, mám podat, nebo dodat,
+že firma je plná krásných žen, takže kdyby někdo chtěl spolupracovat
+z tohoto důvodu, tak i to může být výhoda.
+A proč to tady nemám napsaný, to je naprosto zapsadní.
+Je to side note.
+To není side note, to je hlavní note.
+Kromě teda toho občas dělejí pay-per-play kampaně,
+ale jinak to jsou krásný žensky.
+No tak dobrý, tak to jsem měl vědět dřív,
+to bych si připravil úplně jiný příběh, nevadí.
+Takže Vivio, moc díky.
+No a my teďka jdeme na našeho prvního hosta,
+což je Honza Kuchař.
+Já jsem si ho včera tak trošičku lustroval
+a vypadá to na velmi zajímavýho hosta.
+Podíval jsem se, co vaří.
+Podíval jsem se, co dá.
+Každopádně ta historka zatím samozřejmě zase sahá do doby,
+kdy jsem měl ty svoje úspěšné startupy,
+což už jste slyšeli několikrát.
+Každopádně mimo tyhle úspěšné startupy,
+které dneska, jsem řekl, generují bambiliony.
+Teda ne tobě.
+Ne, určitě ne mně.
+Tak jsme tam měli mentora Aleše Holaná,
+který tou dobou udělal obchodního ředitele v Shellu.
+Aleši, zdravíme tě.
+Super člověk.
+Fakt nám hodně pomohl posunout ty startupy.
+Ne kvůli němu to vyfailovalo.
+A přijde sem?
+Můžeme ho někdy pozvat?
+Já bych mu třeba vyprávil svůj příběh,
+jak já jsem dělal na Shellce, na benzínce v Brigádu.
+To by byl rád slyšel.
+Určitě uslyší.
+Teď ho to bude hodně zajímat.
+Ale měl tam, samozřejmě Shell byl plnej zajímavých lidí.
+Bohužel někteří ty zajímavý odešly.
+Ale bohu dík pro nás, Honza Kuchař je jeden z nich.
+A tu historku kolem toho si určitě taky tady odehrajem.
+Takže díky Aleši za skvělýho hosta Honzu Kuchaře,
+za kterým se teďka půjdeme vydat, respektive on za náma.
+Dobře, tak jdeme na něj.
+Jdeme na něj.
+Do studia dorazil náš dnešní host, Honza Kuchař.
+Ahoj Honzo.
+Ahoj Romane.
+Čau Honzo.
+Ahoj.
+Petře.
+Já si nepamatl mé jméno.
+No ty jsi taky nezapomenutelný.
+Jsi jeden Polák z Česka, já jsem se koukal na web.
+Hezký, dobře děláš.
+A má tam něco na webu?
+Má tam, že je Polák z Česka.
+No a to máš ale jenom jako webovku,
+ale máš tam na té webovce něco graficky,
+nebo jenom máš jako Polák z Česka?
+Nemám, nemám.
+Já mám sociální sítě.
+Jo, jo, nemáš nějaký.
+Kdybych si ještě dělal takový ten web o sobě,
+to už nedělám.
+Neděláš, dobře.
+No ale dneska to nebude o Petru Polákovi z Česka,
+dneska to bude o Honzu Kuchařovi z Brna, je to tak?
+Je to tak.
+A o jeho startupu, ke kterému se dostaneme.
+Prosím tě, Honzo, klasika,
+určitě jsi slyšel nějaký díly,
+vždycky tak začínáme.
+Představ se nám, odkud jsi sem přijel,
+což jsem trošku už řekl,
+ale jak ses dostal do IT
+a vůbec taková ta úvodní šťávička?
+Jak chcete ze široka?
+Jak chceš, jak chceš.
+Máme spoustu času.
+Dobře, tak úplně na začátku
+já jsem se vlastně nepouštěl do IT,
+ale mě prostě bavilo elektronika,
+pajkovat věci dohromady
+a prostě tvořit,
+já se tady jsme tomu říkali, vynálezy.
+Takže taková jako jedna z prvních věcí
+byl nějaký jako zesilovač
+na hudbu,
+potom jsme udělali třeba líhení
+na vlastně na včeli,
+na včelí matky,
+protože vlastně strýda měl chovnou stanici.
+Tak to byl třeba další takový projekt.
+Takže bylo kolik?
+Tak třináct třeba.
+Tak jako IoT hračičky prostě.
+No ale tehdy to ještě nebylo na internet,
+protože ten internet moc jako nefungoval.
+To bylo jako dial-up tehdy.
+Byly to věci, nebyl to internet věcí.
+Je mi třicet jedna teďka, jenom pro kontext,
+pro posluchače.
+No super, no a jak se to přehouplo
+k té IT kariéře, kde byl ten zlom,
+nebo kde ty to považuješ za zlom?
+Jo, no to je vlastně ještě taky základní škola,
+si pamatuju, tam jsem vlastně
+vytvořil nějaký první webovky,
+tehdy ve Frontpage Express.
+Pamatuju si, pamatuju si. Ježíš Mariano, jo.
+A pak přišel Go Home siteu,
+ale předtím byl Frontpage, si myslím.
+A pak jsem myslel, že potom šel na Macromedia Dreamweaver.
+A, taky znám, taky znám.
+Vůbec nevím, o čem se povídá.
+Macromedia MX tehdy.
+To jsou starý vzpomínky.
+To je opravdu dávno.
+Tak to je, na čem jsem vlastně začal tehdy dělat weby.
+Tehdy se kopírovaly javascripty.
+Si pamatujete si to, jak se chodilo na webu?
+Tak to jsem taky dělal.
+Vždycky jsem kopíroval ty javascripty.
+Potom jsem, potom jsem...
+Takový ty kurzory,
+že za kurzorem se honily hodiny a tak.
+Třeba tam běhly textíky a tak.
+No a, tak to jsem potom
+jako třeba vzal,
+potom jsem začal se v tom trochu šťourat
+a postupně jsem se vlastně jako dostal
+k tomu, jak to vlastně funguje, tady ty věci.
+Takže já jsem byl vždycky takovej, že jsem jako
+úplně na začátku vždycky vzal třeba mokou knihu návštěv,
+tedy v PHPčku, že jo.
+To prostě to každej chtěl mít na webu, že jo.
+Facebook a počítadlo.
+To jsem si udělal vlastní analytics, tehdy jsem se učil
+s MySQLkem tehdy.
+To je fakt jako opravdu prehistorie.
+No a ještě, aby toho bylo,
+ještě, aby to nebylo málo, tak tehdy opravdu
+tak bylo tak fakt, mělo by tak 15,
+tak jsem si udělal vlastní server.
+Jako fyzicky jsem vzal nějakej
+starý vyřazený počítač, na to jsem dal prostě
+Windows server
+tehdy asi 2000, nemojím, co to bylo.
+A na to Apache s PHPčkem.
+A potom jsem měl ohromnou radost,
+když jsem na tenhle ten počítač, který vím,
+že mě běžel doma pod schodama.
+Jasně.
+Tak když jsem potom byl prostě ve Velký Británii, tak jsem se na něj dokázal připojit.
+To je jako to, kde se můžete představit v roce
+prostě kolem toho roku 2000,
+to bylo jako adrenalin tohle.
+A to byl možná i tvůj první security incident, ne?
+Ne, ne, ne. Kupodivu ne.
+Kupodivu nikdo to nevyhekoval.
+Nikdo to nevyhekoval, takže
+dobrý. Takže pecká.
+No a teď seš tady
+vlastně kvůli tvýmu novýmu
+startupu, nicméně já jsem teda
+ještě jako trošičku jsem si tě samozřejmě sondoval,
+protože jsem koukal, že i na tvým
+YouTube channelu máš takový jako doširoka
+záběr, různý zajímavý věci, ke kterým se ještě
+dostanem, ale vlastně jak ty se dostal
+od počítače pod schodama, ke kterýmu
+se spingnul jako z Anglie,
+až k tomu, že teďka
+vlastně rozjíždíš velmi zajímavý, nebo už
+si rozjel velmi zajímavý startup. Co tam bylo mezi tím?
+Jo, já jsem vlastně docela
+dlouho vlastně pracoval
+ve firmě mých rodičů, což je
+agentura Griffard,
+která je vlastně marketingová
+agentura pro farmaceutické firmy
+specializující se a já jsem
+tam nejdřív právě tvořil nějaký
+webovky, občas nějaký projektíky,
+potom jsem si přebral i IT, jako
+vlastně celou správu, že mám vlastní servery,
+tak vlastně celou tu infrastrukturu
+jako síť, tady ty správy těch
+switchů, přípojení a tak.
+Takže vlastně tak jsem se dostal k té
+správcovské věci, no ale protože
+potom bylo potřeba k tomu udělat jako i
+design, tak jsem si říkal
+aha, dobře, tak jsem se naučil trošičku i grafiky,
+ale fakt mě tam něco chybělo,
+takže ještě kromě toho, že jsem
+teda vystudoval pak informatiku,
+normálně na aplikovanou informatiku na masárně
+v Brně, tak jsem
+potom ještě šel na UXWell
+s zdravým kluky,
+z UXWellu,
+který mě provedli
+takovým začátkem do
+user experience. A UXWell je
+firma nebo to je?
+UXWell je to vlastně firma
+a to, co oni vlastně udělali,
+oni jako první přinesli vlastně
+UX školu do České republiky,
+protože takovýhle obor tady tehdy
+neexistoval, pokud vím, do teďka
+neexistuje. Vím, že třeba na Masarykové univerzitě
+jsme měli jako předměty
+jako třeba uživatelské rozhraní,
+nebo nějaké jako HCIčko,
+Human Computer Interaction,
+ale vlastně nešlo to nikdy takhle do hloubky.
+A tam to bylo fakt celý rok a ještě s mentoringem.
+A jako boží.
+Takže tohle mě posunulo strašně moc
+a vlastně tím jsem tam dostal
+i takový ten rozměr, že nejenom, že programuju
+a nejenom, že rozumím ty technice,
+ale vlastně jsme začali ptát, jako proč jsou ty věci
+zrovna takhle a
+jak udělat ten, nebo jak vlastně vůbec
+z těch lidí vytáhnout
+informace tak a jejich mentální
+modeli tak, aby jsme dokázali udělat nějaký produkt, který dává smysl.
+A vlastně to všechno pak šlo dohromady.
+Hele, ještě jak do toho zapadá,
+a zmínil jsem ho na začátku, Aleš Holan,
+díky kterýmu vlastně ty tady dneska sedíš,
+ten tě doporučil
+a dneska teď už chápu po pár minutách proč.
+Jaká je s ním ta historie?
+Ty jo, s Alešem.
+Aleš je vlastně takový rodinný kamarád, bych řekl.
+A jo, takhle je to.
+My s Alešem známe,
+já asi ani nedokážu napočítat, jak dlouho.
+Já si pamatuju, že my jsme vlastně
+díky němu, tak jsem se dostal blíže
+vlastně k závodům
+s autama, že jo, protože to je to, co on dělá.
+Jo, jo, to ještě mi bylo, jak to vy dělá dneska.
+Testuje Ferrari nějaký vozítka.
+Pořád to dělá. Už mu píš.
+Jo, jo, jo. Aleši, Aleši, tím to si zvánem.
+Jo. Aleši, zdravím tě.
+Super, tak jo, tak dobrý.
+Tak děkuji za vysvětlení, to jsem ani nevěděl, jak se komentuje.
+Brzo ti zavolám, dlouho jsme se neslyšeli.
+Super. No a tohle teda celý
+se sešlo v tom
+tvým nejnovějším projektu, který se jmenuje,
+jestli říkám správně, Ivy Assistant?
+Jo, Ivy Assistant.
+Ivy Assistant. A prosím mě, možná
+popíš posluchačům sám svými slovy,
+co to vlastně je, co to řeší.
+Že já bych to určitě zkonil.
+No ono to totiž není
+vyloženě pro každýho,
+že jo. Ono to je pro lidi, který
+prochází asistovanou reprodukcí.
+A to je vlastně ten
+jako náš end appka.
+End user appka. Tak ta je vlastně pro
+páry, které prochází asistovanou
+reprodukcí. A protože ten proces je strašlivě
+složitej, tak
+jsme na to udělali appku. Ale
+krom toho, ta věc má ještě
+back office pro
+tu kliniku, kde vlastně ta klinika pak
+vidí, jak ty léčby probíhají
+a jestli je všechno v pohodě. Ona to hlídá
+prostě, že tam nejsou nějaké jako
+nepohlídené věci v té léčbě.
+A zároveň to vlastně ukazuje
+i data, který reportuje ta aplikace.
+Tak jako třeba užitý léky a podobně.
+A vlastně to, co my jsme tam jako
+hodně tam spojujeme vlastně
+jako softskily a hardskily,
+protože my tam máme vlastně jak
+vyvinutou tu appku, která
+ještě, protože já jsem takový
+hodně zaměřený na bezpečnost,
+tak je end-to-end šifrovaná, takže my nemáme
+osobní údaje těch pacientů, což je taky
+cool. A můžeme si o tom pak
+popovídat víc, jak jsme k tomu došli.
+A vlastně zároveň
+tam spojujeme softskily, protože tam máme
+vlastně my jsme potřebovali vyřešit problém,
+aby ti pacienti věděli, jak mají
+užít ty léky. A to nejsou typicky
+jako
+pilulky, ale jsou to
+injekce, který si člověk píchá do břicha.
+Jako sám? Sám, jo.
+A ještě k tomu to bohužel není
+často tak, že by ty injekce byly jako připravený,
+ale někdy se to člověk musí sám namíchat.
+Takže je to
+vyloženě jako takový, že člověk vezme jednu jehlu,
+vytáhne vodičku,
+tu dá do prášku, tu musí zamíchat,
+a pak to vytáhne, dá to do druhý.
+A z jakého je to důvodu, že kdyby se to namíchalo dopředu,
+tak to přestane fungovat? Já nejsem farmakolog.
+A určitě to má důvod jako nějaké
+stability nebo prostě nějaké takovéhle,
+to si pozvěte experta,
+nicméně já to beru jako fakt, že takhle to je
+a někdy léky to takhle mají.
+No a my jsme ale vlastně
+potřebovali tohle nějak vyřešit,
+protože je to prostě hrozně složitý.
+Takže my jsme vlastně připravili videonávody
+a i textový návody pro ty
+v tomhle případě ženy
+a
+to ten proces
+zjednodušuje. No a krom toho jsme to ještě
+rozšířili o psychologickou podporu, kdy vlastně
+my víme, jak se tou léčbou prochází,
+tak tam máme vlastně články, které se
+vybírají přímo podle toho, čím ten člověk
+prochází, přímo na ty témata.
+Takže já jsem nad tím přemýšlel biznisově,
+jak to má dvě ty větvé, ten back office a teďka
+i ten frontend pro ty uživatelé,
+tak na koho
+vy cílíte? Cílíte na tu kliniku, která
+potom už říká, hele, součástí toho
+našeho procesu je tady ta suprapka?
+Jo, nebo jo, jak vlastně jste
+nad tímhle přemýšleli? No, my jsme
+nad tím přemýšleli hodně, protože je to strašně
+složitý, jakoby těch lidí v tom hodně
+vystupuje. No a
+samozřejmě jsme řešili, že jestli to neprodávat
+jako přímo pacientkám,
+ale to jsem se koukal vlastně po internetu, že pár takových
+apek je. A my jsme si řekli, že půjdeme
+jinou cestou, my chceme být partáci
+té kliniky. Takže my to
+vyloženě prodáváme jako B2Bčko
+klinikám a
+kliniky
+to potom nabízí pacientkám. Takže je to vlastně
+součástí té služby, kterou ta klinika pak
+poskytuje. Čili to pak vlastně
+udělá tu kliniku lepší v konkurenci
+těch klinik, kam teda chodí lidi
+si nechat pomoct tou reprodukcí, je to tak?
+Jo, je to tak. Ale protože vlastně
+jsme si uvědomili, že tam těch pacientů, jako
+ta cíleně té pacientky je
+poměrně furt silný, tak jsme udělali
+ještě druhý projektí, který je tak jako bokem,
+který se jmenuje Ivy Guide.
+Je to jako veřejná příručka
+toho, jak vlastně tímhle s tím procesem projít.
+To jmenuje Ivy Guide.cz a tam
+je
+tam prostě zdarma rozpozit obsah právě
+takový jako sneak peek z těch, jedna z těch
+psychologických článků, ale jsou tam i třeba
+jako hlavní příčiny neplodnosti
+u mužů, u žen a my tomu to propujeme
+s takovým materiálem, který teď budeme
+rozesílat na ginekologii v České republice.
+Hele, a co vás k tomu
+přivedlo?
+Je to ta, mám měl si
+nějakým způsobem rád IT, to znamená
+asi si chtěl nějaký IT projekt a teďka
+byla tam nějaká zkušenost třeba v poblíž
+tebe nebo prostě jste zjistili, že to je díra
+na trhu v nějaký diskuzi někde.
+Jak jste k tomu došli?
+By mě hrozně zajímalo. Jo, je to ta druhá možnost.
+Jako mám lidi v okolí,
+který tím prochází a vlastně
+později jsem to jakoby
+říkám, že jsem v tomhle oboru, tak se mi
+vlastně ozývají lidi z mýho okolí,
+že tím prošli a že to bylo hrozný
+a že vlastně je
+těch lidí fakt hodně a já jsem to nevěděl.
+Ale vlastně to se stalo až po tom, co jsem
+to vlastně začal říkat veřejně,
+že v tomhle oboru jsme.
+A ten první impuls byl, že my jsme šli,
+my jsme se vlastně, protože jsme v té druhé
+firmě v tom Gryfartu, tak jsme
+vlastně ve farma jako oblasti,
+tak tam jsme
+vlastně řešili nějaké stimulační
+léky a ty už
+k tomu mají hodně blízko a právě
+tam jako mně přišlo, že
+tohle z toho není vyřešený, takže jsme si udělali market research
+a vypadalo to, že to jako dává
+smysl, tak jsme na to udělali projekt.
+To je super. No a teďka aktuálně,
+když se teda podíváš, kde jste, tak
+už bys to označil za
+jako úspěšnou věc
+nebo zatím se ještě rozjíždíte
+nebo už máš třeba i za sebou, řekněme, nějaký
+ty asistovaný reprodukce,
+že jste tomu napomohli, opravdu, že
+třeba chodí vám, nevím, fotky dětí nebo něco takový,
+jako pomohlo nám to díky.
+Že je nutno ještě dodat, to už je zhruba pět let,
+co to děláte, něco takového, že jo?
+Je to tak, my jsme začali zhruba
+před těma pěti, šesti lety, to záleží,
+jak to člověk počítá, protože my jsme dělali docela velký
+produkt research na začátku a ten jsem
+si dělal více méně sám, takže
+to úplně do toho nepočítám, takže se to tak jako
+líší, ale jo, zhruba těch pět, šest let.
+Pardon, je to otázka?
+Ta otázka, jak je to teda
+s tou tu úspěšností v tomhle snom, jestli už
+můžeš si odškrtnout, vylepit si ty fotky
+těch dětí, kterým jste pomohli na svět?
+Tak táhle úspěšnost už tam je.
+Tak to je super. My jsme to vlastně
+testovali snad
+dva roky
+na klinice
+u předsedy sekce asistované
+reprodukce v Lomouci, na jeho
+klinice a
+tam jsme, tam to
+prošlo zhruba nějakých dvěstě, dvěstě padesát
+pacientů, teďka z hlavy nevím přesně číslo,
+ale reálně tím ty pacientky to používali,
+máme na to super feedback
+a tam jako ten testovací provoz
+proběh. Takže děkuju moc týmu,
+že jsme vám měli tu trpělivost
+a že jsme to tam mohli takhle testovat.
+Tak to je super, já si myslím, že tohle musí být
+vlastně lidsky hrozně jako hřejvej pocit,
+protože jedna věc je
+dělat jako aplikaci na převod peněz,
+nic teda proti. Děkujeme.
+Zdravíme. Tohle nebylo
+rozpořice, ale a tohle
+přeci vlastně jako konáš dobro, že to
+musí ještě být další layer na tom tvým
+pocitu z vykonaný práce, když ještě jako
+z pohledu IT a ještě jsem pomohl
+tomuhle, to musí být super, ne?
+Je to super, hlavně mám pocit, že to
+přitahuje, nebo pocit, já to vidím,
+prostě přitahuje to úplně úžasných
+lidi, jako fakt je to
+prostě boží, ve firmě máme
+fakt skvělý lidi
+a myslím si, že by se nepodařilo
+tam mít tak skvělý lidi, kdyby jsme nebyli
+v tomhle oboru a komunikovali
+jsme tu misi
+té firmy. Ale když se bavíme
+o tom úspěchu jako takovém, tak jak
+vlastně je to,
+je postavený ten business model, jestli je pro vás důležitý
+mít co nejvíc klinik, anebo jestli je pro vás důležitý,
+aby ta klinika potom to vlastně
+doporučila co nejvíce
+klientům v rámci té kliniky,
+jako co je vlastně to vaše KPIčko?
+Řešíme kliniky,
+protože to
+co se snažíme dělat, a zatím je to takový,
+že my jsme jako biznisově spíš na začátku,
+teďka spíš vstupujeme na trh,
+protože jsme to spustili oficiálně teprve v minulý
+rok na podzim v listopadu.
+Takže teďka je to tak,
+takže teď dojedete rok první.
+Takže teďka dojedeme teprve první rok,
+ale každopádně to, co se snažíme, je udělat to tak,
+že právě to chceme dělat co nejjednodušší
+pro ty kliniky. To znamená, že dolůvíme se naprosto na flat rate
+a klinika to může dát
+kolika pacientů chce.
+Takže vlastně proto ta klinika je,
+to jsme právě udělali i takový proklienský krok,
+protože chceme, aby se to dostalo
+co nejvíc tím větem, aby ta klinika neřešila,
+že jestli to je komplikovaný případ,
+jim to dám, to je jednoduchý,
+to jim přišlo takový zbytečný,
+takže spíš myšlí tomu, co se stutím v toho flat rateu.
+No a teď si teda vezmu,
+že ty seš vlastně hardcore, řekněme,
+od začátku ITák, no ale teďka
+už určitě neděláš jako IT
+jenom práci, ne? Teďka předpokládám,
+že řešíš biznis,
+lidi, smlouvy, vlastně si
+de facto celá hlava tohodle.
+Jak moc máš ještě práci na takovou
+tu technickou šťávičku zatím?
+No,
+to jsem nechtěl
+zase nějak. Hluboké zamyšlení teďka,
+no a Honza.
+Já jsem měl dramatickou pauzu.
+Je to tak, že
+ne, dostanu se pořád k technický práci,
+pořádně programování baví,
+a je pravda, že na to nemám čas.
+Takže je to tak, že jakože by jsem si šel
+a udělal jsem si tady, vyřešil jsem si tady nějak jednu
+issue, tak
+no spíš ne. Občas řeším nějaký
+průšvih, protože prostě
+jedenáct večer
+prostě nikdo není k dispozici třeba, tak
+prostě k tomu sednu a klidně
+debagu na live na produkci, protože
+proč ne. A
+prostě tak to je život, že jo?
+No, ale, takže hardskýly furt
+mám, ale už to tolik nedělám,
+ale rozhodně čeho se pořád
+účastním jako day to day,
+tak jsou architektonické rozhodnutí,
+takže vlastně zastávám i CTO,
+takže hodně
+kreslím je po tabulích, jo, to
+rozhodně, a potom dělám
+jako klíčový code reviews,
+že vlastně zdravím
+Mirku, vlastně vše
+vývojaře, jako hlavně teďka
+backendovýho, tak
+ten prostě
+jako udělá tuhle
+práci a má tam strašně moc i insightu
+i při té analýze, kterou
+děláme vlastně spolu, tohle
+funguje hrozně dobře.
+Ještě pro představu od Halí, kolik
+vás je v té firmě, abychom měli představu?
+No, to je těžká otázka.
+Je to tak, že ve vývoji je nás
+teďka, no, teďka nás bude od září pět,
+od října,
+jako vývoj, pak máme
+design, tam jsme, tak
+no, to záleží,
+jako jeden stále a potom k tomu občas někdo
+jako ještě externě,
+a my myslím, že to bude muset trošku rozšířit,
+že to trošku nestíháme na designu,
+no a potom jsou, potom je hromada
+dalších lidí, protože máme vlastně
+člověka
+jako na marketing, který se stará
+o socky, protože to jsem už jako fakt nedával,
+a hlavně mi to hrozně nebaví,
+takže to je jedna, třeba jedna věc,
+potom máme, potom máme
+člověka, který se teďka stará o ten
+obsah na třeba na IV guideu a na dotý
+apky, na ten psychologický,
+potřeba koordinovat spoustu externích lidí,
+protože vlastně my spolupracujeme s doktory,
+spolupracujeme s psychologií
+externíma a teďka
+ještě jsme si to udělali složitější tím,
+že jsme si řekli, hele, my tam, my nechcem hlavně,
+aby se tam dostal nějakej bullshit,
+takže my to máme peer-reviewovaný.
+Jo, takže ještě nějaký jako fact-checking.
+Jo, jo, my jsme si zvykli, jak děláme code-reviews,
+to děláme od vždycky, co děláme to na články,
+děláme to na obsah, děláme to stejně,
+tak to tam takhle máme.
+No a technicky teda,
+jsi říkal, máš tam mobilní apky,
+máš tam ten back-office,
+jak to teda je postavený, na čem to běží,
+pojďme se trošku ponořit do těch
+technologií, které jsou zatím. Pojďme do toho.
+Tak z které strany začneme?
+Apku nebo back-office?
+Začneme apku, klidně apku.
+Tak tam, na to jsem musím říct hrdý,
+my jsme vlastně
+udělali rizikový krok,
+když jsme s tou apkou začínali
+a tehdy jsme zvolili
+díky Kláry
+Kotlin Native.
+Kotlin Native.
+Kotlin Native, nebo Kotlin Multiplatform, já nikdy nevím,
+který to jméno to je, nebo když to přejmenovávali,
+to aktuální.
+A to je v tom napsané jádro
+té apky. To znamená, tam jsou
+vlastně bindingy na ty nativní
+platformy, takže vlastně řeší si to
+přes
+SQ, Delight, tak to řeší
+prostě jako databázy a tady ty různý
+jako různý věci, které jsou prostě jako platformní
+a boží je, že z toho
+jádra přes interfejsy si člověk může prostě
+implementovat ty nativní věci. Ale zároveň
+má jenom jedno jádro, Kotlinu.
+To je pěkný jádro. To je dobrý. A ono se to
+nativně, že to není jako
+žádný JavaScript, to se nativně kompiluje
+do LLVM-ka na iOSu
+a do JVM-ka na Androidu, takže to běží úplně
+nativně. Fakt jako cool.
+Dokonce to dělá i debug symboly
+do toho LLVM-ka, takže se to dá
+dokonce debugovat v Xcodeu.
+To je teda takový, že to nefunguje úplně
+vždycky, ale jako
+vlastně je to cool, že to vůbec jde.
+To mě přijde vlastně jako docela hustý.
+Takže to je vlastně kompilující do LLVM-ka,
+vlastně do kompatibilní
+s objektivní hlavičkama
+a ještě to máme jakým je data pro Swift,
+kterým potom máme vlastně na iOSu
+napsaný ve Swift UI,
+tehdy, kdy jsme s tím začali, jak to bylo v nějaký alpha verzi.
+To bylo strašně zabagované na začátku, v prvním
+verzi toho iOSu.
+Ale vlastně jsme si na to vsadili, protože
+mně prostě přišlo, že tohle
+je budoucnost.
+A na Androidu tehdy bohužel nic takového nebylo,
+takže tam teďka migrujeme z těch
+Androidích XML-ek
+do Jetpack Compose.
+A ještě teda máme tam
+v plánu teďka, už Zuzka tam dělala
+takový experiment,
+že by vlastně
+mimochodem
+má to ve svý diplomce,
+kdyby jsem to chtěl nějakou Zuzina Kulárová
+na Masaryčce,
+tak tam má vlastně ukázaný,
+že se dá udělat i to,
+že si v rámci těch nativních UI-ek
+tak se dá sdílet některý
+komponenty skrz Jetpack Compose
+multiplatform, který je zase v alfa verzi.
+Ale to zatím teda nepoužíváme
+na produkci, ale přijde mi, že to je takový krásnej
+sweet spot, že člověk používá nativní navigaci
+v těch daných platformách, která
+prostě to člověk
+neskopíruje, neudělá to,
+jako nenasimuluje to,
+ale když už tam je potom nějaká komponenta,
+která je sdílená, tak to už ničemu nevadí.
+Takže to mi přijde takový krásnej sweet spot
+a dohromady s tím, že vlastně můžeme sdílet DTOčka
+z toho jádra do oboru u těch platform,
+tak to přijde, že to je super.
+Takže to i výrazně řeší
+řekněme jako nějaký time to market
+prostě vyloženě od nápadu do toho,
+nebo je to spíš třeba kvůli tomu, že tím řešíte
+škálování toho development teamu?
+No, na to trochu oboje,
+ale primárně
+jsme to řešili kvůli tomu, že jsme
+nechtěli vyvíjet ty věci úplně dvakrát.
+A vlastně, až je to důvod, proč jsme nezvolili
+třeba Flutter nebo React Native,
+mě tam prostě vadí
+ta myšlenka toho, že je to jako
+jedno UI pro ty dvě platformy,
+který jsou jako
+semanticky jiný.
+Tak to mě na tom vadilo,
+proto jsme do toho z toho nešli. A chtěli jsme právě
+udělat to, že logika je stejná, ta je stejná,
+synchronizace je stejná, šifrování je stejný.
+Tak to dejme do toho jádra
+a UI udělejme nativní.
+Takže to je to vlastně, jak jsme k tomu došli.
+Já vlastně na to nemám odpověď, ale přemýšleli jste třeba
+do budoucna, jak budete škálovat,
+zvětšovat se, třeba i ten produkt trošku nabobtná,
+jestli tam to bude dobře škálovat,
+abyste se tam potom nezasekli, že by to mohlo být
+třeba pomalejší na vývoji na těch konkrétních
+platformách, nebo tam jste vůbec
+nešli těma myšlenkama.
+No jako škálovat,
+jako že by jsme museli sehnat víc lidí na to,
+kvůli těm specializacím. Jasně, no, a nebo
+začnete zjišťovat, že prostě těch features
+nové, kterým budete muset dělat na dvou místech
+vlastně, tak už potom vlastně začnete
+postrádat tu výhodu, že máte
+jedno jádro, ale na těch, víc se toho
+koduje na těch dvou křídlech, jo,
+jestli jsem se rozumitelný.
+Jo, rozumím, jako by v těch UI-kách. No, no, no.
+No,
+já doufám, že ne, že se to, doufám, že se to
+nestane, jako by to je ta vlastně myšlenka, že většinou
+ta logika je složitá, pokud člověk dobře udělá
+izolaci, tak by měla skončit v tom
+jádře. A tím pádem ty UI-ky by měly
+být vlastně něco jako šablona.
+Jo. Jako templéta, jo, která se vyrendruje.
+A tak to i držíte, jo, že tu logiku
+nechávate v tom jádru, tak aby prostě
+to tam bylo vlastně lightweight, ty dvě
+křídla. Jo, jako je to ta myšlenka, neříkám,
+že se to vždycky stoprocentně povedlo, to tak
+prostě je, ale jo, tohle stoje.
+Známe. To je to, kam to směřuje.
+Tak to jsme krásně proběhli tu mobilní
+aplikaci. Teď, ještě než teda
+půjdeme na ten backoffice, jakým způsobem,
+musím se samozřejmě zeptat, komunikuje
+mobilní aplika s tím zbytkem. Je tam rest,
+je tam GraphQL, máte tam
+nějaký jiný způsob.
+A proč samozřejmě?
+To je vždycky takový, jako losna nebo máš nějaké.
+Tak já to řeknu takhle, GraphQL tam není.
+GraphQL tam není. A je tam
+něco jako rest, ale není to
+úplně, není to úplně. Není to restful.
+Není to úplně rest, ne, ne, ne, není to rest.
+Ale má to důvod. Já si totiž
+upřímně myslím, že
+dobře, klidně to můžeme
+ale to je teďka názorová věc.
+Ne, ne, boj, tak proto jsi tady.
+Jako GraphQL třeba, mně přijde, že je vlastně
+výborná věc na to,
+když mám dokumentový data.
+Jakoby, že mám prostě nějaký
+dokumenty někde vložený a chci se na ně ptát.
+No ale třeba, když mám nějakou relační databázi.
+Ano. Na to to vlastně jako není
+úplně zas tak moc vhodný. Hlavně
+proto, že potom vlastně
+ten frontendě, který to používá,
+tak on tam vlastně zadává nějaký dotazy
+a vy vlastně nevíte vůbec,
+co se tam jako děje.
+Ono se tam nějak se tam prostě projoinuje
+na straně serveru a vy vůbec nevíte, co se stalo.
+Takže mně to vlastně nepřijde jako dobrý nápad.
+A vzhledem k tomu, že ta appka je
+event sourceovaná, to k tomu se dostaneme
+určitě, tak máme na všechno
+možný projekce. Tím pádem
+vlastně tohle nedává vůbec žádný smysl, protože
+my prostě jsme schopni udělat to,
+že těch data
+tam může být, prostě ty data tam můžou být
+8x, pokračují trochu z jiného úhlu,
+jsou předpočítaný, takže jak prostě
+jde a na prostě ten první
+hit tý databáze prostě na indexu
+to prostě vrátí ten result za
+0,02 milisekundy.
+Je to. Takže vlastně
+proto tam není GraphQL.
+A REST, ten tam zase není proto,
+že REST je krudovej
+protokol. Jo, create, read,
+update, delete. Tohle je můj člověk, tyvo.
+Přesně, přesně. Povídej dál,
+já se tady úplně rochním.
+To jsem tady měl o tom tvůj pohled.
+Ne, ne, povídej, povídej.
+A protože vlastně krud se hodí
+na třeba číselníky, jo, já nevím,
+no, číselníky prostě.
+Tak a my ale nemáme číselníky,
+máme léčbu. A v té léčbě
+jsou jako nějaký
+dávkování léků
+a ty se jako mění v čase.
+Teďka je v nějakou chvíli někdo jako
+publikuje nebo je třeba vrátí zpátky,
+doplňuje do toho různý
+informace a to
+nedává žádný smysl. Takže
+to z toho píčko je teda pro administraci,
+ale vlastně ta mobilní apka je jako velmi podobná, jo.
+Tam vlastně zase vznikají nějaké akce,
+ta apka musí fungovat offline, což je taky taková
+věc, kterou většinou lidi neřeší.
+No takže vlastně to funguje úplně jinak,
+ta synchronizace. Vlastně my
+synchronizujeme event streamy.
+Tak řeknu spíš toho,
+to jádro je, že synchronizujeme event streamy
+a z mobilní apky tím pádem
+vlastně jde event stream toho, co se stalo
+na mobilní apce a máme pak downstream
+processing na straně
+toho serveru, co jde z té apky.
+A server posílá do apky
+vlastně snapshot týhle, že by tam to stačilo
+i tam jsme nepotřebali víc.
+Takže vlastně, kdybych si to představil,
+tak řekněme na těch jako, máte spoustu
+getů, kde dostáváš různý výučka
+podle toho, na co se koukáš, jako bez hlediska
+toho apíčka a pak
+na post máš teda nějaký, řekněme jako
+asi komandy nebo něco, které jsou
+typicky. To je přesně
+takhle my jako většinou končíme,
+když děláme nějaký
+domen driven design a děláme
+CQRS a chceme nad tím mít
+to apíčko, jako když máš nějaký
+třeba task based UI, který by měl
+odpovídat tomu, co děláš, tak vlastně
+úplně souhlasím.
+REST je ideální na to, jako ten praktický,
+pokud pracuješ s tabulkou.
+Pokud děláš jako
+s tabulkou, jimže nikdo nikdy s tabulkou
+nedělá, protože budeme bavit
+v kontextu léčby, tak se bavíš s doktorama
+o těch termínech, které jsou poplatný
+těch doméně, že jo, nemůžeš řeknout, že já bych teďka
+insertnul do entity tohle, tak na to budu
+učit mě, jak prostě najdu.
+Přesně zkuste to vysvětlit účetní, protože toto vůbec
+jako nedává smysl.
+Já musím říct, že jsem se tohle naučil jako
+tou těžkou cestou.
+My všichni, podle mě.
+Protože vlastně jsem pro
+Griffard, vlastně když bylo ještě tak nějak
+před maturitou, tak jsem udělal celý informační
+systém. A ten jsem přesně
+udělal jako
+krut.
+Protože
+bylo to super, hrozně
+rychle se to vyvíjelo. To je fakt
+super, protože to člověk lepí, to je sice jak
+vlaštovčí vnízdo, ale fakt to rychle roste.
+Ale
+má to svoje omezení, protože ta logika
+tam prostě není, tam není kam dát.
+Tam něco chybí, že jo?
+Ano.
+No tak to jsme si poroknili na
+REST vs. GraphQL, čili si...
+Takže k tomu řeknu, tam se vlastně jakoby
+nativní rozhraním
+je příliš, že nejvíc je vlastně nějaký RPCčko.
+Ano, ano.
+To dává vlastně nejvíc smysl.
+Souhlas, souhlas. No a teda teď pojďme úplně
+na tu backendovou stranu.
+Tak tam je to napsané v čem,
+v čem to běží, kde vám
+to vlastně běží, máte vlastní serverovny,
+nebo jste někde na AWSku,
+na Azureu, jak...
+Mě zajímají vaše výrazy. V PHPku.
+V PHPku, no jasně.
+Já jsem to trochu čekal, že jsem si tě sondoval na tom
+YouTube, já jsem na to PHPku čekal.
+Ale já bych to pozval, já bych to řekl takhle,
+my jsme, my vyvíjíme, já bych to řekl
+PHP Enterprise.
+Ne, to je nám trošku srandu. Já jsem měl
+na výšce Java Enterprise
+a Java a tady
+tyhle věci. A musím říct,
+že to, jak to je napsané, to je vlastně
+Java, ale je to v PHPku.
+Ok. A je to prostě proto, že já jsem
+v té komunitě od vždycky.
+Jsem se koukal, myslím si, že jsem byl na
+forum net.net frameworku,
+kde jsem taky od vždycky
+a já jsem, myslím, že jsem byl na třetí
+poslední sobotě. Teďka už bylo asi
+desátá nebo nevím kolikátá.
+Takže fakt, dokonce tam je někde
+fotka, myslím, z osmí. Tam jsem taky puberták
+úplně. Takže opravdu
+a tam jsem měl i svůj první talk, teda.
+Ve Veselé Vačici, tehdy
+v Brně.
+No takže já jsem v tom prostě tak
+strašně dlouho a vlastně známe se s těma lidma.
+Takže mně přišlo, že to ani nedává úplně
+smysl jít teďka jen do Kotlin
+komunity, kde sice jako jo, ten jazyk
+podle mě jako je takový dospělejší,
+ale vlastně
+no ale to je taky otázka,
+jako jak v čem zase, jo. Protože třeba
+ty build tooly kolem toho, to je strašný
+peklo. Strašný peklo. V tomto
+PH-bku je zlatý prostě, jo.
+Vezme, spustí, jde to. A teďka
+ještě s tím, protože používáme vlastně od
+Ondry Mirtese PHP stan.
+Občas používáme na něco od Tomáše Votruby
+rektora. Znáte to?
+Ne, já jsem skončil někde u Nete,
+takže jako já právě jsem se chtěl i zeptat, jak se to
+za tu dobu posunulo. Strašně, úplně
+jako nehorázně, jo.
+Teďka prostě v 8.40
+tam už budou i ty properties, jako že
+na, jako s getrama, takový to get set,
+jak je v C-sharpu. Jasně. Takže on ten
+jazyk jako dospívá. No ale dobře, tak co je to
+PHP stan? To vlastně přináší
+statickou analýzu do toho jazyka. Protože
+od osmičky už jsou,
+no bože, vlastně od sedm,
+od sedmičky už byly jako docela schopný typy
+a od osmičky je to ještě lepší.
+Tak, tak vlastně
+v tom PH-bku už těch typů je
+vlastně docela dost, byť to furt není striktně typovaný
+jazyk, ale my tam máme zatmutej
+strikt moc, takže ono to potom je striktnější.
+No, takže v runtimeu je to
+docela striktní, ale kromě toho my máme
+ještě puštěný vlastně PHP stan.
+A to je statický analýzátor, který dělá to,
+že on projde veškerý kód
+všechny knihovny a řekne,
+jestli nám tam ty typy všechny sedí dohromady.
+A super je, že
+vlastně, Ondra
+na tom má ký vtip, že se posouvá
+vlastně vývoj v PH-bku z těch komentářů,
+který jsou vždycky nad těma funkcema do toho jazyka.
+Jo, jo, jo. Takže to se vlastně
+přesně děje, že my vždycky máme v tom komentáři
+napsanej ten typ s tím generickým parametrem,
+s typovým parametrem a ono to všechno
+je prostě nadúplný. A v PH-bku
+zatím typový parametry generik nejsou,
+takže tam je ten prostej.
+No ale ten PH-bk se na to furt kontroluje.
+No a nad tím se dají dělat
+úžasné věci, takže vlastně
+jak třeba v C-Sharpu je LinkU,
+který můj prostě za kompilace kontroluje
+vůči databázi, no tak by se to udělal i taky, že jo?
+Protože proč ne? Vlastně tím, že to PH-bko
+je dynamický jazyk, tak jsme si udělali,
+že vlastně máme generátor kódu
+a ten se vlastně introspekcícky pojá do databáze
+a vygeneruje nám typový definice pro všechny
+tabulky, s kterými teda chceme pracovat.
+A tím pádem vlastně
+PHP se nám kontroluje
+i jako dotazy třeba na projekce
+nebo že všechny projekce fakt jako
+dávají správný typy
+z těch věcí, funguje to i,
+koukněte si na griffart.tables, já jsem na to
+fakt docela hrdej, teďka budu nějaký talk určitě
+o tom zase na Warcampu,
+Warcamp.cz, ne Warcamp,
+který bude v Křiženově,
+tak
+úžasný na tom je,
+že to řeší, že právě všechny krudy,
+tak člověk má, jako ty interní,
+který jsou, tak jsou kontrolovaný PHP stanem.
+Takže vlastně já pak vím,
+že když prostě vkládám do té tabulky,
+tak nejenom, že tam mám správný sloupečky,
+ale třeba i když mám sloupeček,
+v kterým používám Postgres, tak
+když je to sloupeček, který je
+array, jako ten
+sloupeček je typu, že to je array nějakých
+kompozitních typů, tak on
+ví, co to je za typ. A on mě
+prostě řekne, jo, semka, musíš setnout
+do tohoto sloupečku array tohodle typu.
+Prostě mě to nepustí, ani už
+jako na úrovni statické analýzy. Takže to je
+třeba taková vychytávka. Takže už ten jazyk
+jako hodně dospěl. Tak to udělalo velký chrok, teda.
+A to je teda jako naše vychytávka, jo.
+To tam by default není.
+Ale to, že to jde vůbec nekontrolovat, je super.
+No a pak rektor, to je vlastně
+tu, který je postavený nad tím PHP stanem
+a ten dělá to, že ten
+umožňuje ten jazyk přepisovat.
+To znamená, tam jsou vlastně migrační pravidla.
+Třeba máte PHP 5.3
+a chcete mít
+8.4,
+což je strašně moc verzií,
+tak to, co to umí,
+tak je, že vám to postupně verzi po verzi
+přepíše ten kód, tak aby to použilo
+ty nový feature. Je takhle.
+A pak na to pustíte ten PHP stan a testy
+a víte, jestli to fungovalo. Můžete to dělat skoro automaticky.
+Jako, že to máši
+hustý. Takže to jako migruje z verze
+na verzi, z verze na verzi, až teda třeba po pěti
+skocích skočíš na tu finálu.
+A potom taky semiautomatickým, že umí migrace
+mezi frameworkama, což je teda jako úplně hustý.
+Tak to je super.
+Takže nebo takový ty různý
+antipaterny, že si člověk třeba všimne, že
+takhle to nechceme použít u nás ve firmě,
+tak to člověk přijde jako pravidlo do toho rektora
+a Tomáš to teda používá
+jako hardcore, vývojář
+toho, že vlastně ten
+rektor sám sebe přepisuje potom.
+Takže on vlastně, když mu někdo pošle pull request
+a on jako ví, že takhle to nechce,
+ale teďka to nejsou takový ty, jakože se mu to
+přeformá, to je ono to fakt jako mění tu logiku
+v tom kódu třeba.
+Tak se to prostě přepíše
+na CIčku sám a pak to pustí
+testy a furt to prochází tak dobrý, tak může
+mergeovat. Takže ten kód se vlastně sám
+opravuje a kde člověk může jedním pravidlem
+změnit ten codebase. Ale chce to být jako
+testy. To je jako jiné.
+Tak to je pecička a změnila se
+nějak ještě takový to jádr, já si pamatuju,
+že ho chtěl hledat, bylo strstr
+a teď se nevědělo, jestli bylo heistek
+nebo needle, ono se to furt ještě měnilo,
+tam jako chyběla mi v té base library
+nějaká konzistence, protože jednou si hledal
+jihlu v kubce, po druhý si hledal v kubce jihlu
+a musel jsem vždycky jít na
+php.info nebo něco takového, to bylo
+tenkrát, mám pocit a teď si prostě hledal
+ty vege, kde to je jako přesně
+tu signaturu tý funkce a teď si
+si to musel zapamatovat, napsat.
+Dvě věci, jednak
+od osmičky, tak jsou tam pojmenovaný
+parametry, takže člověk může napsat heistek.
+Jo, jo, no tak super, aspoň, že tak.
+A protože ono to jako by nejde úplně
+zpravit kvůli zpětný kompatibilitě, ale by může tam
+vznikly nějaké novější funkce, které už to mají jako
+konzistentně, myslím si, že to tak je,
+ale hlavně teda další věc je, že jsou
+typový definice ke všemu, i těm
+interním funkcím, takže když člověk potom vezme
+nějaký rozumný IDčko,
+php, stromu, jetbrains třeba, který
+mám rád, používám,
+tak to ví všechno.
+To je prostě jako super.
+Takže jedeš v jetbrainsých nástrojích,
+super, tak to.
+Jako ne všichni ve firmě někteří
+použijí VS Code,
+ale tak je jich věc.
+Já mám radši tohle.
+Víc to tomu rozumí.
+Takže na servru teda phpko,
+postgres,
+je tam ještě nějaká další specialita,
+nebo vlastně tyhle dva útočí spolu
+a stačí to?
+Přemýšlím, tohle z toho
+útočí víceméně spolu,
+zatím tam toho víc není,
+jako plánujeme to dát do nějakých Kubernetes,
+nebo do aspoň Docker Composu.
+Zatím to je jako na baremetalu,
+nebo respektive na nějaký VMC.
+Ale zatím to stačí. Používáme deployer
+na deployer na automatizovaný.
+O tom jsem měl, taky máš video, ne?
+Měl jsem přednášku o tom deployeru.
+Jo, ale to byla taková improvizace na Warp Campu.
+Jo, jo.
+Super, takže tohle celý vlastně
+je to, co tvoří Ivy Assistant.
+Ty jsi ještě mluvil o tom šifrování.
+Já se totiž, jsem se chtěl zeptat,
+protože samozřejmě ve chvíli jsi u healthcare
+a řešíš velmi citlivý věci
+a tohle samozřejmě asistovaná reprodukce
+je velmi citlivá věc už z principu.
+Jak je to tam celkově s bezpečností?
+A ještě to za otázku trošku rozšířím.
+K čemu jste nucený
+třeba legislativou,
+když řešíš takovýhle data?
+Protože GDPR to nemůže stačit, podle mě, jenom v tomhle levelu.
+Já ještě k tomu doplním,
+že on tam ještě k tomu back-endu je i front-end.
+Jo, takhle.
+Já jsem myslel, že front-end je ta appka.
+No právě, že on být nemůže.
+Právě kvůli tomu šifrování.
+Protože kdybych jsme měli šifrování,
+nejde udělat šifrování, pokud máš
+jenom UI
+v šablonách třeba v nete.
+Toto nejde, protože
+já bych ty datatecky musel poslat
+na server, tam se mi zašifrují, takže vlastně k ním mám
+přístup. To by bylo vlastně celkem
+k ničemu.
+Ono tam je tohle a pak je tam
+v TypeScriptu nad Reactem
+použili jsme Redux, teďka používáme
+něco jiného, nevím, jak se to jmenuje.
+Nevím.
+A
+vlastně v tom je implementovaný
+to šifrování.
+V tomhle a v té appce. Takže ten backend
+vlastně neumí to došifrovat.
+Nemá ani klíče.
+Takže on vlastně neví, s čím pracuje.
+Zapíšeš to v tom frontendu a hned to
+zašifruješ a pošleš to potom.
+Ještě jenom jsme si rozuměli, jsou to osobní údaje
+a zprávy.
+Ne úplně všechno,
+ale ty věci, které by mohly potenciálně
+identifikovat toho člověka.
+Jo, jo, jo. Tak to je dobrý.
+A co se týče nějakého legislativního prostředí
+pro tohle, je to těžší?
+Jsou tam na vás skladeny nějaký
+větší důraz,
+prostě nějaké, řekněme, limity v tomhle?
+No jestli ne, právní ty jsou přísný, to je jasný.
+Ale vlastně
+nejvíce tam řeší ty osobní údaje.
+Protože to jsou samozřejmě citlivý osobní údaje.
+A my jsme to vyřešili právě tím,
+že jsme je zašifrovali. A zašifrovali jsme
+je tak zvostra,
+tak zvostra, že k ním nemáme přístup vůbec.
+Takže vlastně měli jsme
+docela dlouhou
+debatu s právníkem,
+jestli je vůbec zpracováváme nebo ne.
+Já jsem teda byl proto, že jo.
+Takže zpracováváme pseudonymní
+osobní údaje. Protože vlastně my víme
+UIDčko, 128
+bytů dlouhej náhodnej integer.
+To víme.
+Takhle, potřebuješ vědět, kam to zařadí.
+No právě, právě. Takže to
+proto jsou to pseudonymizované osobní údaje.
+Super, super.
+Super. Hele, ještě mě napadá,
+jak fungujete, nebo jak
+pracujete s release-ama?
+Release-ujete na produkci prostě několikrát
+do dne, nebo jak tohle funguje?
+Ne, protože nemáme
+tolik, co release-ovat.
+Jasně.
+Ale klidně bychom mohli.
+Jo, jste na to ready.
+My jakože release-ujeme všechno,
+na čem projde pipeline a je to
+v masteru, v mainu,
+v masteru, v mainu, to je jedno.
+Tak to jde na staging.
+Pak je dev,
+dev environment.
+Ten si člověk může
+prostě deploynout i třeba merge request.
+Používáme GitLab.
+To jsem se chtěl zeptat.
+A na produkci jde to, co se otaguje
+a je to,
+no, to, co se otaguje,
+máme to tam omezený, že tagovat můžou jenom někeří.
+A nějaký feature flagy nebo něco?
+To zatím nemáme, protože zatím nemáme
+takovou širokou škálu klientů,
+ale určitě budeme používat feature flagy.
+To si myslím, že je takový jako,
+no, asi standard.
+Hele, jsou tam ještě nějaké jiné omezení,
+protože my jsme tady třeba dělali nějaké medical
+projekty a tam toho omezení bylo miliarda,
+byly tam nějaké standardy ISA
+a podobné věci. Vztahuje se něco
+z těchto omezení i na vás?
+No, tím, že my jsme zatím
+průvodce a to je taková jako
+doplňující věc, tak se na nás
+toho naštěstí zatím tolik nevztahuje.
+Nicméně, pokud bychom pokračovali někam dál,
+což jako nevím,
+jak to dopadne v budoucnu,
+tak tam potom se na nás začnou vztachovat.
+Takže zatím je to takový, že řešíme hlavně to GDPR
+a jakoby tu faktickou
+bezpečnost.
+Když se teda bavíme třeba o GDPR,
+házelo ti to třeba klacky pod nohy
+v nějakých, řekněme, jako architektonických návrzích?
+Protože já si pamatuju, že my jsme i tady řešili
+několik projektů, kdy kdybys to udělal
+bez GDPR, tak je to vlastně výrazně jednodušší,
+než když jsi třeba musel
+místo určitých údajů
+si teďka teda jako vyměňovat jenom to IDčko,
+pak teda přes ty GUI jsi musel dotovat
+informace, třeba to mělo vliv na performance
+nebo prostě na tyhle ty věci.
+Řešili jste i takovýhle jako trade-offy
+mezi tím, jak moc to bude secure
+a jak moc vlastně to bude jako jednoduchý navrhnout?
+No upřímně,
+já jsem to nechtěl šifrovat
+kvůli GDPR, ale
+já jsem to chtěl
+šifrovat z principu.
+Protože mně prostě přijde, že
+to má být takhle,
+že to je vlastně jako jedinej
+rozumnej, respektující přístup
+pro ty lidi.
+Vemte si to, že jsou třeba lidi ze zemí,
+kde je to takový, že to má jako
+neúplně dobrou pověst.
+Nebo že třeba nechcete, aby se to dozvěděla rodina
+nebo prostě nechcete, aby pak třeba
+líkla databáze a pak lidi
+vydírali.
+To jako fakt není dobrý.
+Takže vlastně z tohohle důvodu
+jsme udělali tenhle ten krok,
+který fakt není standardní.
+Vlastně kromě proton mailu
+a
+tu ta nota
+a podobných extrémních
+projektů, tak vlastně nevím o tom,
+že by se tohle dělalo. Většinou ty informační
+systémy, co jsem viděl, tak je
+nějaký SQL, který se vyřešilo
+tím, že se dalo do té kliniky
+k tomu doktorovi
+a vyřešit se to sám.
+Ale vlastně ti lidi se to
+zvyčají zabezpečit. Takže to je podle mě takový
+jako, že formálně to je všechno
+v pořádku, ale vlastně úplně ne.
+Když jsem se třeba
+dělal,
+procházel jsem se, co na internetu najdu,
+tak našel jsem třeba i to, že
+některý appky byly prostě diplomatické
+2016 a od té doby
+jako neaktualizovaný. A normálně mi to v hlavičkách řeklo
+verzi PHP.
+Takže jenom říkal, co máš udělat, aby si z toho vytáhl
+ven ty data.
+Tej mi seznam
+těch CVE,
+který jsou dostupný v téhle
+verzi.
+Ale to je super. Já si myslím, že
+tohle byste možná měli ještě víc
+zatlačit.
+Marketingové. Protože vím si, jak jsi říkal,
+ty nechceš, aby se to někdo dozvěděl.
+Typicky ta stará generace, když ženská nemá
+v 25 ještě dítě,
+tak na každý návštěvě se jí začínají
+ptát. A úplně vidím ten marketingový
+slogan, jako vaše máma
+se vás nebude ptát na příští Vánoce,
+proč ještě nemáte děti, protože to neví,
+ale že to řešíte. Rozumíš?
+Je to fakt citlivý. Tak jak říkal Lonza,
+jako spoustu, vím, že spoustu dítí to řeší,
+tak pro ty ženský není ten největší
+problém, že to chvilku trvá.
+Se dá už díky Bohu řešit.
+Ale to, že než to můžou oznámit
+na konci prvního trimestru, tak
+rok nejezdí radši na návštěvy,
+aby ty vole máma se jich nezeptala, když konečně
+budete mít děti. To je peklo.
+No ten nátlak tam je. A nejenom na ženy.
+Ono totiž, ty příčiny,
+ty neplotnosti jsou fakt zhruba pade na pade.
+Jo, jako je to i u chlapů.
+Takže...
+A řešíte to i pro chlapy nějak?
+No, je to něco, co teďka
+máme zrovna na stole.
+Protože to tam prostě totálně patří.
+No rozhodně, tak vždycky potřeba jsou dva, že jo?
+Jo.
+Je to tak.
+No, ale jakože určitě prostě dává
+smysl, jako za nás
+chlapy, tam je to podle mě, že úplně prostě bez debaty
+jít a nechat si jako zamrazit sperma.
+Fakt, jakože dává to smysl,
+protože to stojí
+řádově tisíce za rok.
+Jako jednotky, nižší jednotky tisíc za rok.
+A máte prostě
+uschovaný, jako
+genetický materiál
+ještě bez mutací.
+No, jak stárném, tak tam
+prostě vznikají mutace, snižuje se
+mobilita těch spermí.
+No a pak to jako nefunguje.
+Takže, a vlastně jako u nás chlapů
+je to strašně jednoduchý. Prostě
+za deset minutiček jako out, je to vyřešený.
+No to i dřív, kolik?
+Jo. No já si myslím,
+že je to jako ten administrativní proces okolo, ale jako ano.
+Ano, záleží.
+Záleží.
+No ale jinak mají to
+hezky zpracovaný, byl jsem se podívat.
+Mají to hezky zpracovaný, byl jsem se podívat
+na klinikách, jak to mají připravený, ty místnosti.
+Jo, jo, jo. Jo, je tam i televize, mají tam,
+je to taky trošku retro, ty časáky jsou takový
+retro, co tam mají. Jo, jo, jo, jo.
+Ale je to jako, snaží se fakt.
+Tak já mám přátelé nápad. Nahodíme to
+zpátky. Nahodíme to zpátky. A půjdeme
+za chvilku na event sourcing.
+Super. Jak jsem si myslel, byla jedna
+z věcí, který při tom lustringu,
+co jsme tak jako lustrovali,
+je to, existuje to slovo lustring? To je takový
+changlish, víš? No, no, no. To jsem líbí,
+jsem to věděl. To jsem nikdy neslyšel, lustring. Jo, lustrace
+a můj lustring,
+mám trademark, lustring a spořice.
+Takže po tom lustringu jsem
+zjistil, že vlastně ty tam máš jednu z věcí
+event sourcing a zároveň si i říkal,
+že vlastně event sourcing jako takovej
+v rámci
+IV asistentu
+používáte, nebo máte to tak
+nakoncipovaný, tak mi prosím ti řekni, co
+na to máš rád? Já vím, že ty mi zase budeš hrát
+pěkně na tu moji notu, ale řekni to ty.
+Co na tom mám rád?
+No, já upřímně jsem se docela dlouho
+snažil o tohle z toho přístupu
+mám rád, nemám rád, vlastně docela
+oprostit. Jasně. Protože ono to
+podle mě je přesně to, že člověk se
+proto natchne, vede k tomu, že to úplně
+mě strašně podělá.
+Guilty as charged.
+Fakt, jakože, to by mě docela zajímalo,
+co když se ti tohle z toho stalo,
+co jsi podělal ty?
+Co jsem podělal na event sourcingu?
+Rozhodně verzování,
+rozhodně správné rozdělení
+do aggregatorů,
+obecně jako
+bounded context, kam to patří.
+A samozřejmě
+jakýkoliv jako migrace ze
+starších eventů na novější eventy
+a obecně jako jak tu udržet tu
+kontinu.
+V rámci čase tým, jak se mění ten
+biznis, ale ty eventy jsou prostě imutabilní,
+jsou tam zaverzovaný a neuděláš s tím nic.
+Plus ještě teda udělat správně
+z toho projekce, nebo
+pak ještě, když děláš nějaký snapshoty,
+abys nemusel prostě jako replayovat
+jako dva tisíce
+nebo dva miliony prostě eventů
+kvůli jedné věci. Takže takovýhle jako
+to byly ty největší pain pointy.
+Já se, co jsem zatím narazil,
+tak úplně největší průšvěhy, co jsem zatím
+viděl, je, že lidi se do toho natknou
+a z event sourcují všechno na té appce
+a pak jim dojdou prachy.
+Ne, ale fakt to se stane.
+A ještě druhá věc je, že
+jak takhle jen se jako event sourcují
+všechno, tak vlastně
+vymyslí, že tam člověk
+potřebuje fakt hlubokou znalost.
+Ono ten, když říkáš event sourcing,
+tak musí mít jako fakt na jedničku zvládnutý
+to domenový modelování.
+Protože to prostě bez toho moc nejde udělat,
+jinak mu z toho vyjde zase takový krut, ale event sourcovanej.
+No a
+vlastně, což je vlastně k níčemu,
+protože Postgres má write a headlock, což je přesně krut
+event sourcovanej, tak
+to nemá smysl dělat po druhý.
+No ale, takže
+to, co se tam vlastně stane, je, že
+jakoby dojdou jim peníze, protože
+oni se snaží jako
+porozumět všemu, všem těm subdomenem
+kterým se snaží, jak funguje autentizace uživatelů.
+A teďka prostě se budeme tři měsíce
+rochnit v tom, jak uděláme
+event sourcování autentizace uživatelů.
+A teďka, jak budeme řešit mazání,
+protože GDPR. A jak budeme řešit
+reset hesla. Jo, a GDPR, ano.
+A má být prostě
+nějaký
+interakce mezi těma uživatelmi.
+A prostě teďka to se strašně zkomplikuje.
+Ale můj core domain je jenom asistovaná
+reprodukce, protože to budou žít nějaký uživatelé.
+To nedává vůbec žádný smysl. Takže
+jako potřeba řešit ten core domain
+v tom event sourcingu. To bych jako
+třikrát podtrhl. A
+prostě často to lidi nevidí.
+A ono to je vlastně výhoda
+v tom, že člověk potom se rozmodeluje
+to jádro dobře. A já si pamatuji,
+že když jsem dělal velký systém, který byl právě krudovej,
+tak to pak vypadalo tak, že jsem se vždycky vytiskl.
+Já jsem se dělal rád graficky, takže jsem se vždycky vytiskl
+tabulky s těma všema relacema.
+A vznikla z toho taková jako A1-čka
+obrovská. A teďka mezi vším jsou ty ráty.
+A vznikají tam takový hnízde, že tohle je
+víc propojený, kolem jsou ty věci,
+tohle je víc propojený, taky kolem ty věci.
+No a
+a vlastně, ale všechno je furt
+propojený se vším a jakoby všechno
+je jakoby jeden vlastně velký
+bounded kontext. No ale tohle je vlastně
+to, co si člověk právě nese sebou
+a pak zkusí dát event sourcing a dopadne
+to blbě, že jo? Protože tohle to si člověk nezmění
+v té hlavě. A vlastně to, o co tam jde,
+je, že si vyberu tu nějakou jednu
+věc nebo dvě věci, které jsou prostě to moje
+jádro. Ty rozmodeluji, ale ostatní
+mám prostě krut. A je to,
+pak to jde. Takže takhle to máte i vy? No jasně.
+V Fiverr system. Jo, my tam máme vlastně, ten
+kód je rozdělený normálně, že ne
+podle technických věcí, jak se to dělá v Java Enterprise,
+že jako po těch
+lejrech, to vůbec, to máme rozdělený
+právě naopak po doméně. Takže
+i složky jsou takhle, namespaces jsou takhle
+rozdělený. A vlastně
+v tom modelu, v tom jádru,
+tak vlastně jsou
+ty věci prostě, že třeba jako
+léčby, to je jako jedna
+věc. Třeba ty uživatele,
+autentizace, nějaká další věc.
+Ale každý to má svůj vlastně technický stack.
+Jo, že třeba ty treatmenty, ty jsou
+služitý, ty mají event sourcing.
+Uživatele vlastně zajímají,
+zajímají, že jo, kvůli tomu šifrování, ale vlastně
+jako nepotřebujeme tam mít třeba historii.
+No tak je to normálně prostě krut.
+Nebo zpětivě to není, zvenku to není krut.
+Zvenku jsou to normálně taky jako akce,
+ale interně je to prostě
+normálně, že insert in table, update in table.
+Takže proč ne, že jo.
+Takže u některých tam máte nějaký, řekněme,
+jako CQRS, kde se akorát prostě updateují
+u řádky, že zatím to je mutabilní
+a u toho kóru teda opravdu jako
+saveujete eventy by eventy
+a pak dělat nějaký replay pro
+nějaký jako agregace, když se chcete
+podívat, jakým jste stavu. Jo, jo, přesně tak.
+A ten teda důvod, proč si
+pro tohle šáhnul, je teda skutečně
+to, že třeba potřebujete trackovat tu historii?
+Nestačilo by třeba nějaký jako event log,
+který dáváte bokem?
+Já to nechallengeu, jenom ptám se
+na hlas, protože spoustu lidí, který právě
+se spálilo s event sourcingem, tak skončili
+u toho, že ano, CQRS to je
+standard, tím to budu dělat pořád, jasně
+domain driven design, pořád potřebuji vědět, co jaký
+eventy, ale vlastně ten storage jako
+takovej, mám mutabilní
+a ve druhém streamu to někam prostě jenom
+persistu, kdybych náhodou, nedej bože, někdy
+se potřeba tam podívat. Jo, my jsme to
+chtěli mít kvůli tomu auditu, aby jsme
+prostě měli fakt celou historii, aby jsme věděli, kdy tam
+kdo se změnil, když se náhodou něco,
+totiž typicky se to stane tak, že se
+něco pokazí a pak člověk musí do té
+historie, co se vlastně stalo. Jo.
+A jako ano, dalo by se to dělat
+tak, že by jsme si dělali nějaký snapshoty.
+Jo, to by taky vlastně šlo,
+taky by to bylo asi validní řešení.
+A my jsme to udělali takhle.
+A vy teda při debugingu
+jako fakt si replaynete do nějakého času
+a podíváte si, jak to tam vypadalo?
+To ne,
+ale máme prostě projekce, který
+ty snapshoty vlastně vyrobí. Jo.
+Takže se člověk může kouknout do tohohle. Ok.
+Ještě jsem, když jsem
+projížděl tvůj LinkedIn, tak jsem ukázal s tím nějakou fotku,
+kde vlastně jste měli bambilion lístečků
+a tak nějak jsem říkal, byl to nějak
+jako event storming, že jste si právě
+popisovali, co se v jaký doméně děje
+a strkali jste to do těch správných hrníčků
+nebo to bylo jenom jako, že jsem
+si to spojil s tím, co už jsem o tobě viděl?
+Já musím říct, že já vlastně
+snad nikdy úplně nějak
+striktně nefollowoval nějakou přesnou
+metodiku takhle, že většinou si to beru
+tak, aby to jako
+sloužilo tomu účelu, který potřebuju.
+Takže to, co jsi tam
+viděl, je vlastně
+takový nějaký hybrid, kdy
+já totiž nevěřím
+na to, že by měli být developeri a jako
+designéři separé.
+Protože obzvlášť pokud
+člověk dělá dominový modelování, tak to má
+být na jedný kupě. Protože to jinak
+prostě nedává žádný smysl. Protože
+to je totiž vlastně hrozně vtipný. Mně totiž přijde, že
+dominový modelování
+je vlastně takový UX ačení, ale
+na back-endu. Protože
+tam se používají stejné metody,
+jenom se to jmenuje jinak. Nevím proč.
+Že třeba se dělá jako
+UX research. Dělám si takový
+výzkum,
+ptám se lidí, zjišťuju,
+jdeme v DDDčku. Úplně
+prostě stejný. Akorát se to
+třeba jmenuje jinak, ale někdy ty metody jsou dokonce
+úplně stejný. Takže
+vlastně nepoužívali jsme
+toto, ale samozřejmě modelovali jsme si
+ty eventy. Ano, to bylo
+taky jeden z těch
+věcí. Ale ty eventy vlastně jsou spíše takovej
+artefakt, takovej
+side effect toho, že člověk si popíše
+ty procesy, které tam vznikají.
+No to je vlastně to stejné.
+Akorát je to jako popsené v minulosti.
+Jasně, jasně. Jak moc vám v tomhle
+s tom pomáhali ty doktoři? Protože předpokládám, že to je
+naprosto jako essential věc, že tam máš
+aspoň jednoho zástupce
+pacientů, jednoho z těch doktorů,
+kliniky a tak dále. Jo, jo, no bez toho
+by to vůbec nešlo. Jo. Máme spoustu,
+spoustu hodin rozhovorů.
+Dokonce jsme si dělali roleplay, jsme si třeba
+dělali denníčkový studie.
+To, co se půjde spíš v UXu, ale zase to je
+to samé. Prostě v DDDčku to patří
+taky. Takže jako fakt tady
+to jako nasávání toho knowledge je, to je
+velká část naší práce.
+Myslím, že to je i důvod, proč to je třeba taký
+jiný ten produkt.
+Že to opravdu jako obtiskává to, jak je to ve skutečnosti.
+Jo, jo, jo. Nyní jsou se chodní strašně
+rychle tam ty věci zadat, protože to prostě respektuje
+ten mentální model, který mají.
+A narazili jste třeba na, řekněme,
+případ, že vám to vlastně přestalo dávat
+smysl, že tam třeba nějak jako procesní
+bump, nebo jenom, že jste to
+jednak, jednak
+ne každej
+má celý přehled, respektive
+bych řekl, že nikdo nemá celý přehled
+a každej
+to vidí ze svýho uhlu. Tak to je jedna věc.
+Takže vlastně člověk vždycky pracuje s neúplnýma
+informacema. A druhá věc, že
+se to snažíme nějak pochopit,
+ale vlastně zároveň to
+ne vždycky pochopíme správně.
+Takže to tak prostě je. Já myslím, že jsme to
+trefili na základě
+těch všech vstupů vlastně dost dobře,
+ale jo, měli jsme tam pár věcí,
+který jsme vyžadovali jako fakt velkou změnu.
+Třeba právě třeba jsme měnili i
+bounded context po tom, co jsme už měli
+data.
+To byla docela dobrá
+sranda. Ano, vzniklo z toho takový
+nástroj, říkáme mu mini-true.
+Mini-true? Mini-true.
+Jako od George Orwella.
+Ten, ten, ten,
+jako, no, prostě
+je to nástroj, který nám,
+my mu dáme recept
+a on nám
+přepíše dějiny.
+Takže je to
+taková záchranná brzda, dokud
+člověk ještě nemá těch dat úplně strašně moc
+a může si dovolit jako shodit tu apku, třeba
+na dvou hodiny.
+Na hodinu, to záleží prostě, kolik tam těch dat je.
+Takže je to nějaký migrace na pozadě.
+Tak tohle stoje, že to prostě jako přepíše dějiny.
+Ale dokonce jsme vymysleli způsob, jak to udělat
+bez výpadku. A to je docela hustý, teda.
+Tak povědej.
+No, protože tam se dá
+tady udělat to, že my vlastně máme migrace
+těch eventů. A vlastně umíme
+udělat tu migraci těch eventů jako
+on demand.
+Protože každý event má svůj objekt u nás.
+A ty objekty ale můžou mít jako
+nějaký interfejs upgradable, downgradable.
+A potom vlastně vždycky vidíme,
+že ten akceptor, ten třeba projekt,
+nebo tak vidíme, kterou verzi on chce.
+Takže to pak umí ten, kdo to tam jakoby, ta trubka,
+tak to umí jako vyupgradeovat,
+vy downgradeovat s pomocí tétoho interfejsu.
+Aha. Což je docela cool.
+No a to, co ten minitrův vlastně dělá je,
+že, jako primárně,
+že on vlastně vezme všechny ty eventy,
+všechny načte do paměti, vyupgradeuje
+na poslední verzi a uloží je.
+Takže vlastně tím pádem to funguje
+tak, že pokud ještě
+zmigrovaný nebyl, tak se zmigruje on demand
+v paměti a pokud už byl,
+tak se nic nemigruje.
+A máte ho jako v novým streamu, nebo
+opravdu jako šaháte mutabilně do těch?
+Je to na postgresu, tak to prostě přepíšem.
+Ok, ok, ok.
+Opil malinko jinak. Ty jsi myslel ty soft skills
+směrem k tomu produktu,
+jestli to teďka chápu správně. To znamená,
+jak podat tu informaci lidem,
+kteří se jako ocitají
+ve velmi citlivý situaci a je potřeba jim
+velmi citlivě předložit, co mají dělat.
+Tak jak jste nad tímhle přemýšleli a trošku to
+souvisí s tím product
+designem na začátku, kde jste si
+tomu, jak jsi popisal, dali jako
+hodně energie a času, tak jak bys
+tohle popsal?
+Nechci si zjistit, jestli chápu tu otázku.
+Ok. No, myslel jsem to tak,
+že když jste dělali ten product design,
+vůbec ten produkt jste nějakým způsobem vymýšleli,
+tak součástí toho byla
+tohle přeměšení nad těma soft skillama
+a jak se to propsalo do toho produktu?
+No, propsalo se to tak, že to je jiný produkt.
+Protože kdyby to byl, kdyby jsme tam
+kdyby jsme to udělali jako
+ajťáci a nebrali jsme tam
+ohled na emoce těch lidí,
+tak by to
+byl prostě jenom kalendář.
+A nějaký, víš,
+jakože já jsem těch startupů
+pár podělal, možná, že tohle jsme
+třeba podcenili, že ty si
+tady mluvil o tom mentálně modelu,
+tak mě vlastně zajímá,
+jestli jsou tam nějaký příklady,
+který máš v hlavě, který jako vlastně jste vymyslel nějak
+a pak jste šli za doktorem, nebo jste to
+dali nějakým uživatelům a říkali jste,
+aha, úplně špatně, jsme chápali
+tuhle část a ta je vlastně úplně stěžejní,
+byť my jsme ji považovali třeba za marginální
+nebo něco takového.
+Zamyslím se. No, jako
+určitě se nám to stalo, jenom přemýšlím
+teďka, jestli to můžu sdílet.
+A co jsou tam
+jakoby... Protože oni jsou
+totiž ty věci hodně odborný, takže když vám řeknu,
+že to bylo, já nevím, že
+jsme neúplně
+správně pochopili, jak funguje
+long protocol,
+který má v sobě dvě menstruace,
+tak to jsme...
+To jsme úplně moc nepochopili,
+nebo respektive pochopili jsme to
+tak na 80%, ale
+jsou tam nějaké detaily, které tam máme jinak, než
+jsou jako v realitě a musíme to teďka spravit.
+Takže jako... Jo, jasně,
+stalo se. Prostě stokrát takovýhle
+detail se změnil díky tomu, že jste
+prostě nad tím přemýšleli, jak jste nad tím přemýšleli.
+No jasně, no. Jo, jasně.
+Ale ty dneska jako CEO
+řešíš ty soft skills i v
+nitro firmě, to znamená, má to na tebe.
+Jo, jako kolik
+toho dneska musíš řešit
+z tý, jestli jsem pochopil, třeba 20 lidí
+a tohle je teda v tý firmě.
+No, jakože naštěstí ne úplně direkt, protože ty
+externisty tolik neřeším,
+ale je to tak 10 lidí
+zhruba. 10, jo. Tak jak to tam
+máte vymyšlený, jo? Jak ty lidi vlastně máš
+pod sebou
+sorganizovaný?
+No, ono je to, jakože
+pod sebou, vedle sebe, je to takový
+spíš, my jsme to, máme to spíš tak jako flat,
+beru to, že jsme takový partiáci mezi sebou,
+takže jak jsem zmiňoval svobodná firma,
+tak myslím si, že to něco násme.
+A máme,
+kdyby to někoho zajímalo, tak když najdete
+nějaký náš inzerát na pozici,
+určitě na LinkedInu něco někde bude,
+tak tam je vždycky odkaz na,
+jednak tam máme dopis z budoucnosti,
+že jak to bude vypadat
+za rok, jako děkovací dopis,
+a potom je tam
+vždycky
+kompas, jestli si jako
+budeme jako rozumět. A myslím,
+že jsou tam nějaký věci takový,
+takový jako, který ne každému
+sednou. Fakt jako
+chceme tu práci, chceme
+zodpovědnost, nikdo tě nebude
+úplně vodit za ručičku, ale když si řekneš
+o pomoc, tak ji dostaneš a podobně.
+Takže jako jo, řešíme tohle.
+Já třeba osobně ještě mě hrozně moc
+formulovalo právě v tom UXVelu,
+tak je nenásilná komunikace. Zná se
+to od Marshala Rosenberga.
+Vlastně v kostce
+je to o způsobu komunikace
+tak, aby to vlastně
+právě bralo v ohled
+jako emoce lidí, protože často
+člověk má nějakou emoci a neví úplně proč
+a pak na toho křičí, na toho druhého oběňového,
+tak tohle z toho
+na spoustu různých příprav se dá použít,
+ale tohle z toho vlastně pomáhá pojmenovat to, co se vlastně
+děje a najít nějaké řešení.
+To třeba mě hodně ovlivnilo
+a myslím si, že to dělá
+velmi hezký a ferový vztahy,
+takový vyrovnaný.
+Pracuješ s tím právě
+při tom hiringu tak, že
+když budou vlastně dva
+lidi, jeden
+trošku vyješ technicky, ale
+třeba bez soft skills, nebo velmi
+málo maturovaným a soft skills
+a druhej prostě soft skillově vybavený
+víc, tak vzal bys víc toho soft skillově
+vybavenýho, nebo jak nad tím přemýšlíš?
+To je těžká otázka, to bych musel
+vidět ty lidi. No totiž taky záleží jako jak,
+že jo. Že
+někdo třeba není
+úplně jako nejvíc
+jako třeba empatický nebo tak,
+ale to mě nemusí vadit.
+Pokud to ostatní ví a vlastně je to
+nezraňuje, protože to ví,
+tak to vlastně nevadí, že jo.
+No ale nicméně pro tvojí doménu stejně bych očekával,
+že určitý level jako řekněme
+dospělosti a
+nějaký jako nadhledu a jako citlivějšího
+přístupu, asi specificky pro to, co
+vy vlastně řešíte, je podle mě nějaký
+must have. Jak zase se vrátím zpátky s tím příkladem,
+pokud prostě budeš dělat aplikaci na
+bankovní transfer, tak vlastně tam nepotřebuješ
+nikoho, kdo tam má k tomu
+nějaký citový zázemí, prostě jako
+jsou to čísla, prachy, jedeme, prostě frkot.
+Tady vlastně řešíte
+úplně jiný biznis problém a pomáháte
+těm lidem úplně jinak a podle mě, nebo
+aspoň to je můj jako pohled, asi bych jako profilově
+si vybíral někoho, koho to by aspoň trošku zajímat.
+No ne, tak to určitě. Mě
+samozřejmě zajímá, jestli ho zajímá ta doména.
+Jo. Jo, pokud prostě to je takový,
+že nic mu to neříká, tak to
+je jako, to mě,
+to asi není náš člověk.
+A myslím si,
+že by ho to prostě ani nebavilo, takže
+jako nemám problém vlastně
+dát šanci skoro každému, ale
+pak taky rychle končíme, pokud to nevíde.
+To se mně přijde fér, prostě.
+Protože já opřímně nevěřím moc na takový ty pohovory.
+Vlastně jsem sám na žádným nikdy nebyl, jsem nebyl
+nikdy zaměstnaný ještě, takže vlastně
+nevím, nevím, jak to,
+jak to probíhá.
+Takže jsem se neměl úplně někde
+inspirovat, tak to dělám po svým,
+takže vlastně spíš to,
+spíš se s těma lidma prostě pobavím
+a vyzjistím i ty, jako,
+vlastně si často se lidi ani nevšimlují na pohovoru vlastně.
+No, jasně.
+Když ti dáte bokec a buď to klapne nebo ne.
+Víceméně, no.
+Což je za mě vlastně výborný styl pohovoru, jo.
+Když ten člověk si vlastně neuvědomí, že by měl být
+prostě nervózní, jo.
+Přesně, oni nejsou nervózní, což je super, to já chci, že jo.
+Já to nemám, pro mě,
+můj cíl není je stresovat.
+Aha.
+Můj cíl je zjistit prostě, jestli, jako,
+hele, jsme jako jedna parta nebo ne.
+Jo, jo, jo.
+Jestli jsme jako na jedný lodi.
+Hele, ještě mě zajímá jedna věc, my jsme ji tam
+skypli na začátku,
+jak touhle formou, když hledáš
+konkrétní lidi, který mají rádi tu doménu,
+jak třeba v té firmě řešíte
+inovace, jo. Teď, jako, jestli na to máte
+nějaký, jako, continuous proces,
+nebo jestli prostě máte nějaký inovativní, prostě,
+meetingy, jo. A jestli vlastně vyžaduješ,
+jo, máme to jedno z těch budů v tom komposu.
+Aha. A teďka ještě bych
+potřeboval, jako, já to rozdělím.
+Máme různý inovace,
+protože oni jsou produktový inovace,
+na což používáme,
+to se jmenuje
+Idea Bank, je to normálně popsaný
+koncept UX-átskej, a tam
+prostě máme, je to v Notionu,
+prostě databáze, a tam jsou
+prostě vypsaný věci, který
+někomu přišly, že by měly být zajímavý,
+a pak si je prioritizujeme, jo,
+podle toho, jak jsou složitý, jaký mají
+nos,
+ještě něco, no, prostě nějaký parametry
+můžou se požídat skoré, takže pak tak zhruba
+vidíme ty nej, asi
+ty nejvíc jako důležitý
+nahoře, pak to vybíráme ručně.
+No a co se týká technických
+inovací, tak to je,
+tam to zatím ne úplně
+jako nějak striktně řídíme,
+spíš je to takový, že
+když narazíme na to, že něco
+potřebujeme, to prostě uděláme.
+Myslím si, že
+jako, sice jsme
+startup,
+ale myslím si, že jako technického
+dluhu vlastně máme, až bych řekl,
+zbytečně málo.
+Či jste víc pintlich, než byste
+měli pro to, abyste rostli.
+Myslím si, že až zbytečně
+málo, že bychom mohli
+trochu to krytně
+trošku jako
+pustit.
+No a druhá otázka, ježišmarja, jak jsme
+to mohli úplně mysnout, je,
+jak řešíte v dnešním době
+vlastně bazů kolem AI,
+AI samotný, a jestli vlastně
+se to nějakým způsobem,
+reflektuje ve vašem produktu, nebo ve stylu práce,
+jakkoliv. Jo, no, tak
+určitě chystáme něco i do toho produktu,
+že by jsme tam dali,
+ale to je zatím takový, že spíš jako
+v té idea, fázi,
+ať už prostě,
+že se člověk může zeptat na něco, jako ta pacientka.
+Kopilot, každý musí mít svýho kopilota.
+To teďka je prostě všude.
+Ale to ještě jako uvidíme, protože my to zatím
+nepotřebujeme nějak, jako
+zatím mám pocit, že to není vůbec
+kóru toho produktu, takže tam to
+vlastně, to je spíš takový, jakože myšlenka, že by to
+ono z toho šlo, ale
+používáme AI
+jako docela, dost interně.
+Já to třeba používám, jsem zjistil, že to hrozně dobře
+funguje jako,
+jak to říct, jako
+ne jako reviewer, ale jako opozice,
+jako na něco, že třeba dám nějakou myšlenku
+a řeknu, hej, zhoď mi to, nebo prostě,
+jakože, proč by tohle nešlo,
+tak se tam občas jsou tam jako pohledy,
+který by mě nenapadl, občas je to úplná blbost,
+že jo, ale přesně jsou to super, super, super
+věci, takže tohle je dobrý.
+Což teda, by the way, píšeš si s tím, nebo povídáš
+si s tím? Většinou se s tím píšu,
+píšeš, protože ono to v tý,
+no, já se s tím většinou,
+jo, píšu, píšu.
+A ty si povídáš spíš, jo? Já si teď se povídám úplně,
+jsem to objevil a já...
+Česky nebo anglicky? Česky, česky.
+Česky, fakt já to, hodně se to zlepšilo
+a vlastně, jako se Sinátorem hráme různý
+hry, tak to je jedna část, ale druhá část
+je přesně, že si s ním takhle občas ho použijeme jako
+mentora, ale
+já nevím, no, si asi to používám blbě,
+že ho špatně napromtuji na začátku, ale mám pocit,
+že vždycky mi pak začne pochlebovat a to
+přestává mě zajímat. A to máš rád, ale...
+No, jenom chvíli, jenom chvíli.
+Hele, ono, co ještě mě napadá, jedna věc, ty vlastně
+jak teďka do toho díky tomu,
+teda mimochodem ještě jako úplně bokem myšlenka,
+to, co ten říkal Honza,
+možná by většina softwarových
+vývojářů měly povinně jít na nějaký
+UX kurz, protože já to vidím z toho Honzy,
+jak on to prostě vypráví.
+Kolik těch UX věcí do toho přináší
+i na ten backend, pak jsme se bavili,
+jaký rozdíl mezi design sprintem
+a event stormingem, akorát
+každý na to kouká z druhé strany břehu,
+ale dost možná koukáš úplně do
+stejného hrdíčku, jak já rád říkám.
+Je to hrozně zajímavé,
+možná opravdu jako by třeba tohle znalost
+pro ty core, pro ty backendisty,
+jako víc se do toho UX zanořit, jenom
+z principu, abych si rozšířil obzory,
+že jako core pak pro nějaký třeba domain driven
+design je vlastně jako strašně, strašně
+zajímavý input. To si dneska
+nesu z toho, co říkal Honza.
+Ale tím spíš vlastně, to jsem se chtěl zeptat,
+ty jak do toho teďka máš vlet, vlastně
+víc a víc vidíš, jak fungují ty
+kliniky.
+Musíš tam už mít přeci v hlavě nějakou jako další
+věc. Podle mě byste museli trefit jenom jako
+jak se říká tip of the iceberg,
+jenom prostě jako špičku toho
+ledovce s těma reprodukcema,
+ale tam musí být bambilion věcí, na který
+ty teďka se znalostí jako UX,
+schopnost pochopit doménu,
+schopnost to v hlavě se svýma lidmi navrhnout,
+si říkáš, tohle je příští další velká
+věc. Musí tam něco takového být, ne?
+Už jste dál? Už to nebude jenom reprodukce?
+Jak se tak usmívá?
+Tak samozřejmě myšlenky máme,
+já na
+různé věci. Já
+teda mám pocit, že v té reprodukci
+je toho ještě jako
+fakt velkej rybník. Jo, že nebudete
+vůbec vopouštět reprodukci jako takovou? No, možná
+jo, tam jako taky
+mám nějaký myšlenky,
+ale asi zůstaneme blízko, jo, jakože možná
+nějaká gynekologie třeba přijde mi, že to k tomu dává
+smysl, někdy jsme si udělali pak úplně jiný projekt
+třeba. Jo. Ale
+myslím si, že v té reprodukci
+je toho teda ještě jako fakt hodně.
+Je tam co zlepšovat ještě? No, je toho
+jako fakt kotel.
+Nemůžu sdílet úplně? Ne, jasně, ne, to
+chápem. Spíš jenom jako jestli máš tu
+roadmapu na dalších deset let v hlavě, jako
+nebo ID a mapu, řekněme.
+No, roadmapu, že bychom to měli z daty,
+tak to ne, ale ID a mapu rozhodně.
+Jo, tak to je super.
+A máš to teda tak, jakože
+dobrá otázka. Máš to tak,
+tak jako, že to máš teďka jako rozstříštěný v hlavě,
+že si říkáš, ty vole, tohle a tohle, anebo teď jako
+máš prostě jasně takový typ
+poštovní koně, prostě teďka jdeme tímhle směrem,
+protože nám to dává smysl a to prostě musíme dodělat
+a pak se možná začneme věnovat těm věcem
+kolem, který nás napadly.
+No, ono to oboje, že jo, to musí být.
+Protože ty krátkodobější
+věci, tak musí být naplánovaný za sebou
+a když už si je jednou spustíme, tak pokud
+není fakt úplně nějakej super důležitej
+důvod, tak se na to
+nesmí sahat, protože jinak to úplně rozstřelí
+fokus celého toho týmu.
+To není dobrý. No ale zároveň
+vlastně na úplně ty dlouhodobý věci,
+tak to zase jako nejde, protože jinak bys to furt měnil.
+A vlastně to je úplně k ničemu, že jo.
+Že to tam furt nějak přehazuješ.
+Takže ono je to takový oboje, jako
+to má hrozně hezky Ubixwell
+ve svým logu. Oni tam mají takovou jako
+čáru, nemořte ne, takovou úplně zašmodrchanou
+čáru prostě, úplně zašmodrchanou,
+která se takhle postupně jako srovná.
+Tak to je přesně ono.
+To je přesně ono, jo. Když se čím se nedává v budoucnosti,
+tak je to úplně jako, že nedelká, neznámá
+a čím jsem blíž, tak se to vyjasňuje.
+Jasně. No tak nás totiž vypadá i ten proces, jo.
+Mám ideu, to je
+nepřesný. Hrozně nepřesný.
+Může to vypadat úplně různě, může to být
+jeden produkt, může to být tři, no nikdo
+nic neví. Potom se to
+vlastně dostane k designérovi, k researcherovi,
+který zjistí víc
+a už tomu dá jako konzistentní
+jako formu.
+To je jako nějaký další
+krok. A další krok potom je, že
+třeba nakreslí prototyp a ten otestuje. To už má mnohem
+matotelnější formu.
+Pak další forma je, nebo další krok je, že
+to třeba popíše do nějaký issue, jako
+zadání vývojáře. A pak to vezme
+vývojář a rozpadne to ještě na dalších
+sto kroků a má k tomu spoustu otázek,
+protože tam ještě bylo spoustu nedomyšlených věcí.
+A tam je to ještě jasnější.
+Takže tohle
+to jsem vlastně vyjmenoval, nebo prošel
+ten produktový cyklus.
+Jo, jo, jasně, jasně. Dává to smysl.
+Teď tomu rozumím, já jsem nechápal, jak jsem to myslel
+na začátku. Dává to smysl. No super.
+Paráda. No hele, my bychom si samozřejmě
+s tebou mohli povídat až do konce
+světa, ale ty musíš
+pomoct mnoha novým dětem na svět,
+alespoň takhle vzdáleně, a my
+samozřejmě musíme běžet.
+Co je, či uses? Ne, dobře jsme. Vy to bylo poetický,
+ty vole. Moc hezky jsi to říkal. Ne, já děkuji.
+Roman, já se tě musím zeptat, kdy
+přijedeš na Warp Camp povýprávět o
+event sourcingu, uděláme si spolu
+talk, co jsi na to? Hele, to bychom mohli. Já bych
+mohl dát nějaký příklady,
+jak jsme to špatně pochopili a špatně naimplementovali.
+No to je super. S tím já nemám problém, protože...
+My vždycky děláme, jakože minule jsem tam dělal
+reflexy, že
+dva roky event sourcingu a
+co bychom třeba udělali jinak, tak to můžeme
+spojit dohromady, a to je skoro nulová
+příprava, uděláme z toho show.
+Tak teď jsem si
+trošku odpověděl na tu otázku, kterou
+jsem chtěl říct, co teda plánovat v budoucnu,
+kromě toho, že tady s Honzou uděláme jako
+merch talk, tak co ještě
+teďka v nejbližší době, na co
+se můžeme od tebe těšit?
+No, to je dobrá otázka. Já teďka
+tak moc pracuji, že vlastně
+úplně nic moc nepublikuju nikde.
+Nicméně
+určitě vím, že z těch
+technických věcí, tak určitě chci
+dát dohromady talk
+s Jirkou Pudilem, s naším hlavním vývojářem,
+právě
+od těch tables,
+od těch typovaných tabulkách.
+Slopé hapku.
+Jo, skvělý jsi. My jsme už jeden dělali,
+ale myslím si, že to zaslouží víc pozornosti,
+že je to totiž fakt dobrý.
+Teď to musím pochválit.
+To je super. No tak ti budeme přát,
+ať se talk povede, ať se daří
+i s projektem a ať se to valí,
+jak si představuješ. Děkuju.
+Moc děkujem. Měj se. Čau. Čau.
+První host
+desáté série Honza Kuchař. Já si myslím,
+že jsme to vykopli opravdu
+jako z husta.
+Lačka je vysoko, co si budeme povídat.
+Dokonce jsem si říkal, jestli Honza nedělá,
+a tady jsme se po natáčení bavili,
+jestli nedělá nějaký divadlo, nebo něco takového,
+že má takový přednes, který by se na to úplně hodil.
+Byl to takový extrovertní
+způsob, že tady mával rukama
+a vyprávěl a líbilo se mi,
+jak byl schopnej přeskočit
+z těch technických do těch, řekněme, ryze
+lékařských věcí tam a zpátky. Super.
+Já jsem si to moc užil. Bylo to super. Bylo to skvělý.
+Honzo, ještě jednou moc děkujeme, my jsme se propojili.
+Možná skutečně dáme dohromady
+nějakou zajímavou přednášku. Konec konců, proč ne?
+Já vždycky do Brna přijedu rád.
+Oni mě tam nějakým způsobem
+akceptují. Jsem jako exota z Prahy.
+Protože oni vědí, že nejsem původně z Prahy.
+Takže mě zas tak jako asi... To je výhoda.
+Hele, v Brně to je vždycky výhoda.
+Každopádně, my vám, milí posluchači,
+děkujeme za poslech.
+Doufám, že jste si to užili
+stejně jako my. Strašně moc děkujeme
+Viviu, našemu partnerovi
+této celé série. Všech
+šest dílů budeme Viviu zmiňovat.
+Že to je marketingová agentura, že dělají
+pay-per-click kampaně.
+Google, Seznam, Facebook, Instagram,
+Linkač. Prostě všechny tyhle dobrůtky.
+Dělají analytiky, SEO,
+marketingový strategie. A co je
+důležitý, co říkal Poli, je to
+tam samá krásná ženská.
+Takže tohle dohromady nám dávalo smysl.
+Je to teďka náš partner po celých
+šest dílů desáté série.
+Nicméně, pokud byste
+vy z vaší firmy si řekli, hele,
+to není vůbec špatný, takovýhle partnership
+s takovouhle superpartou,
+jako je tady Poli a Joker.
+Není problém, mrkněte na podvodcasem.cz
+Tam je víc informací
+o tom, jak to třeba ve dvanáctý sérii
+nebo jedenáctý, podle toho,
+jak kdo dřív přijde, ten dřív mele.
+Jak to můžeme dát spolu dohromady a
+samozřejmě i vy můžete nám pomoct
+dělat podvodcasem ještě lepší.
+Ale důležitý je, že pro všechny ostatní
+je to furt zadatmo, furt si to můžete užívat
+a těšit se na hosty
+už hned v příštím díle.
+To bude, koukám tady na to jméno, koukám na ten profil
+a to bude další pecička a to je zase z toho
+tvýho provajdra, že jo?
+Ano, ano, rank kolem Aleše Holana.
+Děkujeme Aleši na kafe, protože tohle je velký.
+Děkujeme za to. Děkujeme už za prvního hosta,
+kterýho jsme zažili a těšíme se
+na dalšího přátelé.
+Tak jo, tak mějte se krásně, ty jdeš tady po firmě
+zase se vykecávat, ne?
+Nebo nemáš teďka něco dělat, ty vole, v té spořici?
+Já že napíšu Tomášovi Mecovi.
+Já jsem něco dělat.
+Já chci, aby Tomáš Mec věděl, že tady je
+9.05 a Polák tady lemtá kafe
+a nedělá, jo? Chci, aby se to vědělo.
+Polák maká, prostě maká
+na tom, aby jsme prostě tu spořku
+posunuli PR-kovi ještě někam dál.
+Jo, jo, dobře.
+Takže ještě jedno kafe a jediný, kdo nevákat
+opravdu jsem já.
+Přátelé, mějte se. Čau. Čau.

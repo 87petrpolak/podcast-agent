@@ -1,0 +1,3425 @@
+Krasný den, milí posluchači.
+Vítejte u dalšího dílu vašeho oblíbeného
+IT podcastu Pod vocasem.
+Jako vždy naprotím mě sedí Petr Polipolák.
+A naprotím někdo, naprotím někdo.
+Roman Joker Provazník.
+Krásný den.
+Čau, čau, čau. Tak jaká?
+Dneska vysmátej.
+Dneska se vysmátej, dneska se těším
+a to si řeknem za chvíli proč.
+A jinak dobrý,
+jinak dobrý, byl jsem ve Švédsku.
+Poudy.
+Ty už víš, ty už víš.
+A tak slyšel jsem nějaký zkazky.
+Jednak jsme byli na České ambasádě
+prezentovat trendy v digitalizaci.
+Byla to super akce.
+Chtěl bych pochválit Českou ambasádu ve Stokholmu.
+Pomohla nám zorganizovat,
+poskytla prostory,
+dokonce pozvala nějaký firmy.
+Super záležitost, musím říct,
+že to bylo fakt jako skvělý zážitek
+a super event.
+No a pak jsme letěli domů.
+Znáš to takovýto z těch filmů,
+jak volej Mr. Polák
+a Mr. Procházka a tím zdravím Mika
+z marketingu. Už jsme byli vyvoláváni,
+že bychom měli jaksi dorazit.
+Last call, ale ne z důvodu,
+že už bychom se měli naombordovat.
+Ale my jsme udělali to,
+že jsme dali takový ten online check-in,
+ale to nebyl online check-in
+přes mobil,
+ale na místě, jak jsou takový ty terminály.
+Tak my jsme to přes to udělali
+a tam nám to napsalo něco ve smyslu,
+opravdu nechcete čekovat ty svoje zavazadla.
+Nějakým způsobem se stalo to,
+že nám z toho vyjela taková ta
+dlouhá etiketa,
+kterou máš nalepit k sobě.
+A to byl důvod, proč oni nás hledali,
+protože si mysleli, že chceme to dát do podpalubí
+a my jsme to neudělali
+na tom check-inu.
+Takže nás volali po celém letišti.
+Už mi volá kolega Dominik C, kde jste?
+Prostě tady vás volají po celém letišti
+a my jsme někde prostě na VČ si dáváme šnicele.
+Jo, jo, kávičku a tak.
+No ale nakonec to dobře dopadlo, došli jsme tam,
+vysvětlili jsme si, že nechceme nic dávat do podpalubí.
+Mik je vyloženě proti podpalubí,
+to by chtělo by tady padlo, to bylo jednoznačně vidět.
+Tak ono v tom není úplně příjemný,
+jestli třeba někdy jsi tam vlezl omylem.
+No právě, jo jasně, jasně.
+Jo, on si myslel, že tam půjde taky.
+Jo, to mě nenapadlo.
+Ne, ne, tak to víš, to jsou ty lidi z marketingu,
+ty ty lidi vždycky, ne.
+Hele, takže dobře to dopadlo, odletili jsme
+a myslím si, že eventa se podařilo pěkně.
+Takže ambasáde, naběj ti na chtějtě.
+No já doufám, já doufám,
+už z toho vypadávaly nějaký zajímavý otázky na místě,
+takže myslím si, že bychom to mohli nějak dotáhnout.
+No tak super, budu ti držet palcem.
+Já jsem teda nikde nebyl.
+Nikde jsi nebyl?
+Já jsem myslel, že budu kontrovat nějakou hezkou historiku.
+Dobrý, no tak.
+Mě tam vyvolávají každej den.
+Jo, jasně, chceš volat na úklidná dobu.
+Tak, tak, tak.
+No dějící, ale pojďme na dnešního hosta,
+což je tvoje klibůzka.
+Je to tady, je to tady, přátelé.
+Dnešním hostem je nikdo menší než Tomáš Mikolov.
+Tomáš Mikolov je dneska nejcitovanějším věcem v České republice.
+Fakt?
+Ano, ano, ano.
+A druhá věc je, že to je samozřejmě makr přes AI
+a je to člověk, který,
+který vymyslel World2Vec,
+o čem se tady budeme možná bavit,
+a zásadním způsobem zlepšil Google Translator.
+Všechno si řekneme.
+Jsem hrozně rád, že přijal naše pozvání
+a myslím si, že dneska to bude stát opravdu za to.
+A je to skutečně ta osoba, která byla u Krauze
+a u Vávry teďka v podcastu a tak dále?
+Je to ten samý člověk, který se jmenuje stejně?
+Hele, uvidíme. Já doufám, že ne.
+Že jako na tom LinkedInu to je skutečně on,
+ale díky tomu, že byl u nás na tom předmětu,
+který jsme měli na podzim, tak vím, že je to on
+a zároveň vím, že to bude stát za to.
+Takže přátelé, těšte se, pohodlně se usaďte,
+Tomáš Mikolov přichází.
+Do studia k nám dorazil Tomáš Mikolov.
+Ahoj Tomáši.
+Ahoj.
+Já jsem strašně rád, že si ho můžu teďka uvízt,
+protože to bude právě naposledy,
+kdy mám cokoliv co říct k věci.
+Spadlaj, spadlaj.
+Ne, já si myslím, že jako,
+když jsem viděl ten seznam těch otázek,
+to je pro mě španělská vesnice.
+To je jako, kdybych si pozval někoho
+a řešili jsme nějaký monády a funktory
+a tak, tak jako, jo, asi zhruba tak se cítím.
+Takže Tomáši, vítej.
+A kluci, teď už je to vaše.
+Já vám to tady budu mixovat.
+Jo, mixovat to budeš určitě.
+Tomáši, vítáme tě tady.
+Jsme moc rádi, že jsi přijal pozvání.
+A já si myslím, že se tam taky poruchníš.
+Uvidíme, uvidíme, jak to bude zajímavý.
+No, tak Tomáše,
+skoro nelze, nebo netřeba představovat.
+Myslím si, že každý, kdo zná Google
+a zadá tam Tomáš Mikolov,
+tak se dočte spousta zajímavých věcí.
+Ale stejně, děláme to vždycky na začátek.
+Děláme to vždycky, je to určitě důležité,
+protože vždycky je zajímavý,
+jak to ten host pojme.
+Takže první úplně, Tomáši, řekni nám něco
+základního o sobě, jak jsi vlastně
+nastartoval tu kariéru, kterou dneska děláš.
+Jasně, tak pár větama.
+Mě vlastně zajímaly počítače od malička.
+Přes počítačový hry jsem se dostal,
+jako měli inteligenci a tam jsem pak začal
+dělat výzkum. Nějak jsem do toho spadl,
+bez toho, že bych to plánoval.
+Nemyslím si, že někdo na střední škole plánuje,
+že bude výzkumník nebo vědec,
+ale prostě jsem se k tomu dostal na výšce
+a původně to pro mě bylo takové
+zajímavé programování, třeba tady
+neuronových sítí a takových modelů,
+aby to dělalo něco zajímavého.
+Hrál jsem se s tím, pak jsem to začal řešit během diplomky
+a měl jsem možnost s tom pokračovat
+jako během PhD, takže jsem
+o tom psal později dizertačku
+a vlastně to, k čemu jsem se dostal
+v oblasti umělé inteligence,
+tak byly jazykový modely,
+kde jsem se snažil posunout vlastně
+jako state of the art dopředu, nakonec se mi to teda podařilo
+a to už je delší příběh.
+To je určitě delší, ale zajímavý příběh.
+Začínal jsi hnedka
+a začal jsi třeba nějakýma jinýma
+programovacíma jazykama na začátku.
+Jak to úplně bylo na začátku?
+Jako úplně na začátku, tak to první
+programovací jazyk, co jsem se naučil, tak byl
+Basic, když jsem měl asi 8 let
+a to fakt bylo hodně jednoduchý, takže takový
+jako můj první program, tak byla
+nějaká kalkulačka, že člověk tam zadal dvě čísla
+a pak se vybral, jestli je to má se číst nebo bude číst
+a to bylo všecko, takže
+jako všichni začínají od těch malých věcí.
+Tak s Basicem jsem začal
+později, to se mohl mít tak kolem
+možná 14,
+13 let, kdy jsem měl první PCčko
+a tam už jsem začal programovat
+počítačový hry, takový jako
+komplikovanější.
+Nevím, jestli znáš třeba Warcraft jako jedničku,
+úplně ten starej, tak to mě strašně
+bavilo a ve škole jsme měli
+zakázaný to hrát, tak jsem si
+vytvářel vlastní kopii, abych
+propašoval do školy a to se mi nakonec
+podařilo, sice jsem okopíroval grafiku
+asi jenom pro tři postavičky, protože jsem to tehdy
+obkreslal v podstatě po pixelu, takže to byla
+spousta jako takový manuální
+práce, stupidní, ale...
+– Čekaj, ty jsi udělal vlastní Warcraft, jo?
+– Jo, jo, jo, jakože jsem to
+programal v Pascalu, pak jsem teda zjistil
+v určitým bodě, že to není dostatečně rychlý
+právě na to vykreslování grafiky
+a tak jsem části psal v Assembleru
+a jo, fungovalo mi to
+a nakonec jsem se napsal vlastního vládeče
+na všecko možný, myš, nějaká
+XMS, EMS, paměť, takovýhle ty věci
+– Vidíš to, Poli, tady je ta roznožka
+my když jsme se dostali na výšce k Assembleru, tak já jsem
+odcházel do protější hospody v Hradci Králové
+a ta moje kariéra s Assemblerem končila
+a někdo to bere jako, hm, tak se radši
+napíšu ještě vládeče a tak
+– No, tak ono to samozřejmě nebylo vůbec lehký
+ale jako
+tehdy se různě kopírovaly různý
+programky a sehnal jsem něco, co se tehdy
+jmenoval nějaký ABS Help, jestli si to pamatuju
+správně a tam byly prostě popsaný
+co se má volat, co se má do
+kterého registru, který to interrapce
+má zavolat, co to udělá, takže
+přes takovýhle jednoduchý věci jsem se naučil
+ty základy, ale fakt v Assembleru jsem
+programoval jenom úplně ty
+nejvíc jako time intensive věci, tam
+kde to jako
+trávilo nejvíc času, ten program a to byly takový
+krátký jako funkce
+co vlastně překopírovávaly z paměti
+kusy, jako kdyby
+kusy dat, v podstatě celý vykreslování
+ty hry, jenom tom, že se kopírují na správný
+místa a ty bitmapy, takže to jsem
+přepsal do Assembleru, aby se to jako výrazně zrychlilo
+ale jinak zbytek byl v Paskalu a to je jako
+jednoduchý, že?
+Jako Facka. Dobře a
+ty jsi říkal, že jsi
+dělal PhD, takže tam byla nějaká
+dizertačka, to už si potom navázal
+dál v té kariéře, nebo to bylo něco úplně
+mimo ten tvůj další fokus?
+Bylo to celý spojený a vlastně jsem se
+k tomu dostal asi tak, když jsem
+jako se zajímal o mě o inteligenci, četl jsem si
+o tom všechno možný a
+našel jsem tehdy
+oblast jako
+jazykovýho modelování, kde v podstatě jde o to
+predikovat následující
+slovo v textu a ono se dá dokázat, že je to
+vztáhnutý ke spoustě
+zajímavých pojmů, jako je
+minimum description length a takhle, takže
+ono se dá vysledovat někde do začátku
+počítačů, že ono to zní jako možná něco
+jako ad hoc, že řeknu teď
+budem predikovat další slovo v textu, no a co?
+Ale ono se dá ukázat, že vlastně
+to je to stejné, co řeší komprese dát
+a to je to stejné, co vlastně je základ
+tady v rozpoznávačů řeči, strovejch
+překladačů, teďka když máme to chat GPT
+to je taky jak jazykový model, takže
+to máme jako jedná věc, která
+je jako zcela jako podstatná
+zásadní, tak je ten jazykový model
+a teďka ta technologie
+byla v podstatě od poloviny minulého století
+založená na určitých modelech, který
+měly nedostatky, o kterých se vědělo
+a spousta lidí se je snažila překonat
+ale po těch desítkách let to více méně
+jako kdyby stagnovalo, že ta komunita byla
+tak jak si mrtvá, protože tehdy už se
+tak jako skepticky věřilo, že když
+se nikdy za toho
+půlstoletí prostě nic převratního neobjevilo
+tam byly prostě stovky modelů, co byly
+navržený, aby překonali ty engramy
+ale ono to vždycky fungovalo na malých datech
+pak se zvětšilo množství data, už vlastně
+to zlepšení jako kdyby mizelo
+tak a
+zároveň bylo jasný, že jestli máme někdy
+udělat umělou inteligenci, že musí existovat nějaký
+lepší model, protože prostě lidi
+jsou mnohem lepší tady na to předvídání těch
+následujících slov textu, my dokážeme
+využít ten další kontext a
+tak dále, dělali se na to různý
+psychologický experimenty, no nebudu
+zabíhat do detailu, prostě tady byl
+takový jako blok v té komunitě, že se jako vědělo
+že nějak se to dá jako udělat líp
+ale nikdo nevěděl pořádně jak
+no pak jsem se k tomu dostal já
+našel jsem něco v jiný oblasti, což byla
+kompresedat, kde mně to právě
+přišlo úplně jako stejný, ale
+ty komunity byly úplně oddělený, takže spolu nekomunikovali
+a v kompresedat se začaly
+už používat neuronomí sítě někdy na konci
+90. let, byly hodně jako primitivní
+jednoduchý, ale fungovalo to jako
+state of the art, jakože nejlíp
+tak jsem jako tehdy jako student
+měl prostě takový nápad, no tak když jim to funguje
+tak dobře, tak proč to nepoužít tady prostě
+pro tu oblast jazykovýho
+modelování, stejný model
+případně nějak vylepšený, tak jsem si s tím začal
+hrát, začalo mi to relativně rychle fungovat
+šel jsem zatím s tím
+za Černockým, který tehdy vedl
+skupinu Speech at Fit
+v Brně, že jako tady mám nějaký
+model, jestli by se o tom nedalo udělat diplomka
+tak jsme o tom promluvili, pak jsem
+začal pracovat na diplomce
+a to bylo celý vlastně tady o těch jazykových modelech
+co byly založený na neuronových sítích
+pak jsem s tím pokračoval na dizertačce
+takže já jsem vlastně nepřeskakoval mezi těma
+tématama, jsem se držel jedný věci
+a i když jsem říkal, že hnedka na začátku
+popár, jako možná dnech mi to už začalo
+jako fungovat zajímavě
+tak to ještě neznamená, že bych se jako dostal na tu úroveň
+že bych ty engramy porážel
+jako na těch velkých datech
+to mi trvalo dalších možná, kdybych to tak sečetl
+takových možná pět let
+takže to nebylo zase až tak lehký
+jak to vypadá
+A kde se to teda zlomilo, že tohle tě začalo zajímat?
+Protože tak jak jsi to popsal
+tak říkám člověk, který má rád hry
+teď si udělá vlastní a něco si naprogramuje
+ale najednou se to zlomí úplně jiným stěnem
+třeba pamatuj si ten okamžik, kdy se to zlomilo
+že třeba kvůli té hře si chtěl
+aby ta hra byla chytřejší, než byl třeba originální Warcraft
+Nebylo to tak úplně kvůli těm hrám
+já jsem hry viděl jako něco, co mě bavilo
+bral jsem to jako něco, kde se může naučit něco naprogramovat
+prostě bylo to takový objevný
+když jsem si ty hry psal někde na základce
+tak pro mě to bylo v podstatě jak ten výzkum
+že vlastně já jsem si ty algoritmy musel vymyslet
+protože tehdy ještě nebyl internet
+a bydlal jsem v Šumperku
+na základce prostě nikdo nic nevěděl
+a to bylo prostě, že jsem si vymýšlel vlastní věci
+a chtěl jsem, aby to vypadalo jako ta hra
+ten výsledek dobře
+ale jak se k tomu dostat
+tak nikde, nikde nebyl nikdo
+která by mi s tím pomohla
+takže jsem si to musel vymyslet
+tak já nevím, prostě jsem vymyslel algoritmy
+já nevím, nařazení čísel
+takový ty klasický, ty jednoduchý
+nebo Monte Carlo a tak dál
+prostě spoustu algoritmů jsem si vymyslel sám
+a bavilo mě to, protože mi to přišlo
+prostě zajímavý, jak někde luští křížovky
+no tak prostě já jsem si tam dělal
+nějaký počtečový hry
+ale později, když jsem s tím pokrašoval
+na střední škole
+tak s těma hrama už mi to přišlo takový
+že se říká, že nevím, jestli na tom
+chci strávit celý život
+Já jsem si právě říkal, jestli tě to netáhlo do herního designu
+nebo obecně do téhle industrie
+Mě to právě bavilo, ale říkal jsem si
+kam se to dá posunout
+že tehdy už vznikaly různý herní studia
+v Česku, které byly úspěšný
+a taky jsem to sledoval zpovzdálí
+a s některýma lidma od nich jsem mi trochu komunikoval
+později, když už jsem měl ten internet
+což bylo někdy na konci střední školy
+ale přišlo mi to takový
+jakože jsem zase
+viděl, že ty hry jsou jakoby čím dál
+komplikovanější v tom, že prostě je to
+víc a víc práce, ale ta kreativita
+a ta zajímavosti her se mi zdálo, že tak jak si upadá
+se to všechno standardizovalo
+všichni měli prostě nějaký 3D engine
+a buď to byla střílečka, nebo to bylo tamto
+a všichni programovali ty stejné věci
+psalo se o tom všude na internetu, už to nebylo o tom
+výmýšlení, ještě něčeho novýho o té kreativitě
+ale bylo to takový stereotypní
+a jak říkám, víc peněz
+a víc
+jako kdyby práce a už to nebylo
+něco pro amatéry, už to bylo
+začal vznikat prostě ten herní průmysl
+no a když jsem mluvil s těma lidma z té
+komunity, tak mi to přišlo, že taky byli takový
+jako lehce skeptický z toho vývoje
+a nakonec ta moje představa byla, že
+tady strávím prostě 10, 15 let
+že budu programovat hry a kdo ví kam
+to dotáhnu a pak budu mít prostě třeba
+nějaký herní studio a co s tím
+a já jsem měl prostě větší ambice
+a původně prostě ještě když jsem začal dělat ty hry
+tak právě mě zajímala ta umělá inteligence
+v podstatě v první okamžik, co jsem viděl
+počítač, tak mi to přišlo jako super
+zajímavé, co by měla schopna jako dělat
+podobné věci jako člověk a ty hry
+jsem viděl jako takovej mezikrok k tomu
+abych se dostal k té umělé inteligenci
+takže jsem na tom nechtěl zase strávit celý život
+protože nakonec všichni žijeme
+jenom jednou a když jsem měl pak
+nějaký takový jako negativní
+zkušenosti právě s tím vývojem
+těch her, protože jsem to třeba přihlásil do soutěže
+když jsem byl na střední škole
+to se jmenovalo tehdy středoškolská dobrná činnost
+tuším, že to běží, dnes nedávno mi
+o tom psal nějaký student zrovna
+ale když jsem to pak ukazoval
+tu hru někde v krajským kole
+tak mě tam tehdy komise
+nějakých takových profesorů
+v důchodu vyhodila s tím, že jsem
+to určitě ukradl, protože ta hra je moc složitá
+určitě jsem mu nenapsal a já je stažená z internetu
+takže jako
+když jsem viděl, že mě to to
+abych měl nějakou podporu, protože jak říkám
+jsem byl ze Šumperka a nikoho jsem neznal, tak jsem
+chtěl prostě, aby mi s tím třeba někdo pomohl
+a na koleně prostě jeden člověk
+toho za stolik nezvládne
+tak pak ten feedback třeba ve škole byl takovej
+jakože spíš negativní
+Tak zase můžeme
+maloměstskému školství poděkovat, že tě
+nasměrovali vlastně v té kariéře
+s právným směrem, že?
+No jasně, no prostě jakákoliv aktivita je špatná
+já vím, jako teďka, když se bavím
+s lidmi třeba ze střední školy
+občas se taky dostanu do nějaký konverzace
+a co mi říkají, tak je
+že je to jako v mnoha ohladech dost podobný
+Jako furt, že se to baví?
+Jo, jo, jo, teď mi to zrovna říkal jeden student
+vlastně podobnou historiku, že taky byl v soutěži
+a taky tam měl nějaký problémy takovýhle
+typu, jo, takže bohužel
+jakože myslím si, že máme ještě co zlepšovat
+a to zaměření toho školství
+třeba, mně to přijde, že
+v posledních letech se vedla furt diskuze
+o té inkluzi, jak máme prostě dávat
+ty prostředky na to, aby všichni
+měli jako kdyby nějaký
+základní znalosti, aby jsme všechny dostali
+na nějakou základní úroveň, což
+jako nejsem proti tomu, klidně
+jako fajn, ale nemáme nekonečně
+hodně peněz, takže musíme rozdělovat
+nějakým způsobem a přijde mi, že
+totálně v té diskuze se zanedbala právě
+ta talentovaná část populace, která
+popravdě, to jsou ty lidi, co tady potáhnou to
+HDP za 20 let dopředu a
+nedávat na ně peníze a tvrdit, že
+no, ti jsou chytří, oni si poradí sami.
+To není vůbec pravda, někdo je třeba jako chytrý,
+že dokáže všechno naprogramovat, ale
+když má třeba prodat ten projekt
+nebo si do toho nakreslit grafiku a nemá
+kolem sebe prostě další lidi,
+tak si s tím neporadí a myslím si,
+že toho vyplýtovaného potenciálu v té naší zemi
+máme mraky a máme
+prostě co zlepšovat.
+Tak je fakt, že i Vozniak měl svýho jobse,
+Karmak měl svýho Romera, že jo,
+to je software.
+Máš srovnání, budeme se o té Americe bavit
+za chvilku, ale máš srovnání s Amerikou, je to tam
+jinak?
+No, já jsem tam nestudoval, takže já můžu
+jako jenom to tak jako posuzovat
+nedálku podle toho, jak jsem se bavil
+s lidmi, kteří tam teda studovali
+a to byly většinou lidi z těch jejich
+špičkových škol, jako Stanford
+a spol, tak
+z toho jsem měl dojem, že to jejich školství
+je zaměřený jiným způsobem,
+takovým víc jako kdyby
+praktickým, nebo jak bych to řekl, že
+není tolik akademický, protože
+tady u nás často učíme
+takový ty encyklopedický znalosti,
+vyjmenovat nějaké věci na spaměť, tady
+do písemky se máš naučit na
+tuhleto otázku odpovíš seznam tady těch šesti
+klíčových slov, lidi to za měsíc
+zapomenou a nikdy to v životě ani
+nepotřebují, takže jako, že se tak
+nějak jako míjí účinkem, že
+v té Americe mi to přišlo, že ty lidi
+se to učí podstatně méně jako toho objemu,
+ale to, co se učí, jsou právě ty podstatné
+věci, kterým by měli rozumět a zase
+na těch špičkových školách někdo by měl určitě jenom zkušenost
+nějaký jako podproměrný, ale
+pak ten čas, co jim díky
+tomu zbyde, tak věnují třeba
+věcem jako umět diskutovat
+o tématech, dokázat
+prostě zastávat různý názory v diskuzi,
+někoho zkusit přesěžit,
+odprezentovat svůj projekt, vůbec umět
+mluvit před ostatníma. My jsme to neměli
+na těch technických školách, tak to
+popravdě nebylo
+vůbec. Já si pamatuji, jak jsem
+studoval prostě fakultu informatiky
+VUT Brno a jako ty technické předměty
+jako obsahově byly dobrý a byly
+jako podle mě srovnatelný s tím, co se učí lidi
+třeba v té Americe na těch jejich top školách,
+ale jako
+ty jako schopnosti
+něco prezentovat,
+ty jsme tam vůbec nerozvíjeli.
+Jestli si pamatuju dobře, tak snad jedinou
+ústní zkoušku jsem měl až prostě úplně
+vždycky na závěr studie jako bakaláře
+a toho jako inženýra
+až tu jako státní
+závěrečnou zkoušku. A jinak prostě
+tam nebyla možnost se nějak jako
+projevit a
+nějak se to neočekávalo. Písemky
+byly prostě všechny jako testy
+psaný a často to byly
+i
+vyložení ABCD odpovědi, takže tam fakt
+ten prostor pro to něco jako udělat
+svýho také absolutně žádný nebyl
+a samozřejmě, že to se
+odvíjelo od toho, že těch vyučujících bylo
+na tu hromadu studentů pár,
+takže ono se to nedalo stíhat a to už zase
+vede na to, kolik je tam prostě peněz
+a jak by se to mělo zorganizovat a to už
+je samozřejmě na dlouhou diskuzi a takže bychom mluvili o něčem.
+Ono, když si vezmeš ty startup
+akcelerátory a podíváš se na ty osnovy,
+tak vlastně nikdy tam neřeší tu
+technickou stránku, že by tě v tom posouvali dál,
+protože většinou ty lidi je spíš učejí přesně to,
+co Tomáš popsal,
+že chybí normálně na těch školách,
+to znamená prodat ten svůj nápad,
+odprezentovat, nebát se a tak dále.
+Je to možná tím, že v té Americe je to propojení
+toho biznesu a těch škol už od začátku
+možná i od nižších stupňů jako větší,
+myslíš? Já myslím, že jo, já myslím, že ta
+společnost je tam jinak nastavená, že
+je taková jako pragmatičtější,
+že když jsou někde peníze, no tak
+to budou dělat, a když jsou peníze
+v počítačových hrách, protože to lidi baví,
+tak super, tak lidi na to otevřou nějaký
+obory. Zase, když jsem zmiňoval ty
+počítačový hry a moje zkušenosti,
+konec 90. let, tak tehdy počítačový
+hry byly prostě pro učitele a učitelky
+na škole prostě největší zlo.
+No jasně. A tak se o tom mluvilo i v televizi
+a prostě, že tady se
+jako vyrůstá generace
+psychopatických vrahů a všechno možné
+a budoucnost bude prostě špatná.
+A místo to, aby tady v tom vydělalo
+to školství příležitost a nějakou možnost
+se transformovat a zase vyučovat prostě
+ty nový věci a rychle se chytit
+trendu, tak tehdy se to
+spíš snažili vymítit. Místo toho jsme se
+učili furt nějaký výjmenovaný slova po B,
+velký písmena, výjimky z výjimek
+a podobné kraviny.
+A zase, když se na to podíváme
+dneska, tak se nám tady prostě v třeba
+v tom IT generuje velký peníze.
+Ty hry třeba, co se týče
+Česka, tak jsou jako velká část.
+Takže tady máme spoustu úspěšných lidí, kteří
+navzdory tomu systému uspěli. A teď, když si představím,
+že naopak ten systém by je před těma
+20 nebo 30 lety podporoval,
+tak bychom na tom byli samozřejmě ještě úplně
+jinak.
+No takže, když přemostíme, pokusíme se přemostit
+z té dizertační práce do Ameriky,
+tak vidím teda toho Tomáše,
+který technicky je zdatnej,
+ty prezentační dovednosti
+třeba nějaký měl, ale ta škola
+ho v tom moc nepodpořila. Tak jak se to
+povedlo, že ses ocitnul
+prvně v Google, a už potom na Facebooku?
+Jo, jo, jo.
+Že ses tam ocit z Word2Vec a vlastně
+měl jsi tam ten úspěch, který jsi měl. Tak popiš nám
+tuhle část.
+No, to bych musel začít právě u toho, co jsem
+řešil během ty dizertačky,
+což byly, jak říkám, ty neuronový jazykový
+modely a zase, abych nezabíhal
+do detailu, na začátku, když jsem s nima dělal,
+tak jsem dělal s architekturema, které tady byly známý
+už možná od 80. a 90. let
+a bylo to z mý strany ještě
+nic převratného, ale naučil jsem se s tím dělat
+a našel jsem tam různý věci,
+jak to prostě vylepšit a podařil
+se mi natrénovat
+model neuronových sítí
+architekturu, který se říkalo
+rekurentní, což znamená, že tam ten model
+si může vytvořit jakousi paměť
+de facto a to byl
+teoreticky strašně zajímavý
+model, jak říkám, už o tom
+psali lidi hromady článků v 80. letech,
+ale na začátku 90. let
+vyšel článek od jednoho
+profesora Joshua Benjia,
+který teda tvrdil, že se ten
+model nedá natrénovat a jak si to dokázal.
+On to teda dokázal jen pro speciální případy,
+ale ta komunita to extrapolovala
+na všechny a v podstatě tím
+ten výzkum těch rekurentních
+neuronových sítí
+v podstatě jako skončil na nějaký 20 let,
+že ta komunita to jako kdyby
+ignorovala, protože to v podstatě
+nikomu nefungovalo a všichni měli pro to vysvědlení
+aha, ono to bylo dokázané tam v tom článku,
+takže to ani nemá cenu zkoušet.
+Já jsem to článku nevěděl
+a s tím rekurentním modelem
+jsem taky přišel tak nějak sám, protože je to vlastně
+jednoduchá modifikace těch existujících
+modelů a začalo
+mi to fungovat jako kdyby
+samo od sebe hnedka, na poprvý
+když jsem to vyzkoušel, tak to běželo
+nebo ne úplně na poprvý,
+to bych přeháněl.
+Na poprvý, když jsem to zkoušel, tak jsem ještě
+měl problémy s trénovacíma
+datama, takže tam mi to ještě dělalo
+nějaké podivnosti, takže když ten model fungoval,
+tak jsem byl přesvědčen, že nefunguje, ale
+tak na podruhý teda, když jsem to zkoušel
+po pár letech, tak mi to začalo fungovat
+v podstatě okamžitě.
+Tak jsem z toho byl nadšenej, protože jsem vlastně teďka měl
+vylepšení oproti tomu předchozímu
+modelu, pořád to bylo na malých datech,
+ale už to teda něco dělalo
+a dostal jsem nabídku na
+internship do Baltimoreu
+na Johns Hopkins Univerzitu, kde to tehdy
+vedl Fred Jilínek,
+tak to mi přišlo tady super,
+protože konečně jsem měl možnost dělat
+se lidma prostě ze světa, tam měli jako studenty,
+co dělali
+na různých podobných úlohách,
+jako právě to rozpoznávání
+řeči nebo strojový překlad a hlavně měli
+teda jako ty datasety, které se mnou mohly
+nazdílet a já jsem se mohl konečně po těch letech
+práce srovnat s někým
+a to srovnání bylo jako super
+pro mě, protože já jsem je začal porážet
+na to vlastně okamžitě,
+protože ten můj model byl jako obecnej,
+takže ono se to dal použít na jakýkoliv jazyk
+a nepotřebovalo to vlastně žádný speciality,
+nedalo se to použít vlastně i na tu kompresi
+dát, kdyby někdo chtěl, takže v podstatě
+jakýkoliv data se do toho dali dát
+a fungovalo to v podstatě samo od sebe,
+takže když jsem tam přijel na konci
+ledna, to bylo 2010,
+tak už po pár dnech jsem
+naprosto porazil toho člověka, co tam měl
+ten systém na rozpoznávání řeči, za měsíc
+asi jsem tam dostal data
+od dalšího člověka, co tedy už měl
+práci v Googleu, už tam teda odcházel,
+že zrovna končil studium
+Žifejly a
+tak tyho výsledky jsem porazil
+na menším datasetu asi za dvě hodiny,
+na tom většin za dva dny, protože za chvíli trvalo,
+než se to natrénovalo, ale
+porážel jsem to jako o velký kus
+a to bylo něco, na čem oni dělali pět let
+a já jsem měl prostě jeden model, co funguje takhle
+na všecko, tak mě to se
+samozřejmě strašně líbilo takhle vyhrávat
+na druhou stranu a tam bylo
+hodně skepse, protože prostě lidi
+si říkali, jak je to vlastně možný,
+že tady nějaký student z východní
+Evropy nás tady bude prostě porážet,
+my jsme tady takoví geniální lidi
+a tady prostě někdo, kdo ani neumí anglicky
+mluvit pořádně, tak takhle
+tady s nějakýma neuronů a sítěma
+nás bude porážet, takže jako bylo tam
+hodně skepse, jezdili tam tehdy
+do té skupiny na návštěvu
+různě jako slavný profesoři z oboru a když jsem jim to
+prezentoval, tak prostě nikdo tomu nechtěl věřit,
+že to určitě prostě tam je nějaká chyba, nebo jsem
+z ty výsledky asi vymyslel, nebo tohleto.
+Tak jsem tehdy začal dělat na open source
+toolkitu, jakože to zveřejním
+celý jako zdrojáky, aby si
+ty modely mohli trénovat lidi beze mě
+ať si to prostě klidně jako se v tom pošťourají
+a uvěří si to, že je to prostě dobře, protože
+já, jak říkám, už jsem na tom dělal v té době
+asi pět let a věděl jsem, že tam ty chyby nemám,
+protože to už jsem se na to všechny zprávěl, co tam byly
+na začátku, takže...
+A ty jsi s takovouhle pětiletou práci,
+o který jsi sám věděl, že tam nejsou chyby,
+tak ty jsi se rozhodl
+veřejně jí strčit jako open source ven?
+Jako v podstatě věc, která by,
+ve které ležely jako miliony
+a teď nevíme v kolik řádech,
+v jakých částkách, v jakým měně,
+tak ty jsi prostě řekl, půjde to ven?
+Jo, jo, jo, protože jak jsem zmiňoval,
+když jsem se dostal k těm jazykovým
+modelům, tak mě jako docela inspiroval
+Matt Mahony, který dělal tady
+nějaké neuronové sítě pro kompresi dát,
+který to teda zveřejňoval taky všecko
+na venek a určitě tam
+ta hodnota byla, na druhou stranu, kdybych to nezveřejnil,
+tak by ty modely nikdo nepoužíval,
+nikdo by mi nevěřil, protože prostě tehdy
+ta komunita byla takováhle a já jsem nebyl žádný
+slavnej vědec, já jsem byl student, prostě co měl...
+– Prostě jsi to potřeboval dokázat, že nekecáš.
+– No jasně, jo, jo, jo. A jak říkám, to zlepšení bylo
+tak velký, že jak vycházely články,
+když tam prostě bylo nějaké malé zlepšení, tak všichni pokývali
+hlava a říkali, jo, dobrý, dobrý, něco to dělá,
+zase jako jedním uchem tam, druhým uchem ven,
+ale když tam bylo to zlepšení moc velký, tak už tam byla
+jako taková silná podezřívavost, že to
+určitě bude špatně. Takže jsem se začal dělat
+tady na tom toolkitu, ten jsem
+nejdřív zařil interně, teda v rámci
+jako té CLSP skupiny na JSU
+a vyzkoušeli si to
+jiní studenti, právě ten vedoucí skupiny
+Fred Jelínek, původem teda jako z Československa,
+ale strávil se život v Americe,
+tak ten byl taky
+takovej nedůvěřivej a když teďka
+za ním začali chodit postupně studenti,
+že se to teda vyzkoušeli bezemní a pořád to ještě
+funguje a neví, jak je to možný,
+tak už taky začal
+pochybovat, jestli náhodou to není
+prostě teďka nejpřelomovější objev
+za 30 let a
+tak jsme to tam pak začali rozabírat. Pak teda
+on už byl v důchodu v té době, tak
+na neštěstí asi tak
+dva měsíce potom, co jsem odjel, tak dostal
+infarkt a umřel, takže to bylo
+jako docela škoda, ale už jsem
+ho prostě přesvědčil a už on totiž
+mi to přišlo jako super
+aspoň s ním promluvit a ukázat mu to, že tady
+opravdu se jako podařilo udělat
+nějaký průlom, akorát už se pak nedožil
+teda tý revoluce, když se to začalo upoužívat všude
+po světě, ale tak
+to je život. No a
+ti studenti s tím teda jako dělali,
+potvrdili ty výsledky, já jsem to dal pak
+navenek, když jsem ten první článek
+měl na InterSpeechi v Japonsku
+2010 a pak
+se to začaly chytat další lidi.
+Jeden z prvních byl Jeff Zweig, co byl
+v Microsoft Research, dělal tam manažera
+v řečový skupině, ten mi taky
+psal maily, že tam furt se snaží najít nějaký
+chyby a furt jako do toho šťoudal
+a jestli není špatně to a tam to
+a furt nemohl nic najít, nakonec jsem tam pozval
+na Internship, protože žádnou chybu nakonec nenašel
+a respektive jsem mu to vždycky vysvětlil, jak to teda je
+a tam jsem pak byl ve 2012,
+ještě mezi tím jsem byl
+teda na Internshipu toho Yushi Benji
+a co tedy dokázal, že ty rekordní sítě nejdou natrénovat,
+tak k tomu jsem tam měl na půl roku
+přesně tak, že to teda jde
+a byl to prostě nějaký
+takový stupidní malý trik,
+který se používá jako
+do dneška v mnoha modelech právě na tu stabilizaci.
+A jak to vzal ještě?
+On byl nadšený, protože on se snažil
+prosadit s těma neuronníma sítěma
+jako dlouhodobě a
+on to jako nebral tak, že ten
+jeho kritický článek,
+že jako s tím chtěl skončit, on chtěl jako
+být ten slavnej profesor, co bude tady
+jako uváděný jako objevitel
+celého deep learningu a takhle, což se mu nakonec podařilo
+a pak vyhrál turingovou cenu a
+takhle a dneska už je z něj
+dávno jako multimilionář, co tam má
+celou část školy pod sebou
+a tak dál a obrovské investice
+ze všech stran. Takže samozřejmě
+to vzdal tehdy velmi pozitivně, protože to bylo
+konečně nějaké jako znamení toho, že ty věci
+začínají fungovat.
+Tak o to jsem byl teda 2.11, pak
+2.12 u toho Jeffa Zweiga,
+ale ještě předtím bych řekl,
+tam už se o to začalo zajímat víc lidí, ještě
+za IBM mi psalo dost lidí.
+Pak, když jsem končil
+ten interšip o toho Yoshui v tom 2.11,
+tak mě pozval právě jeden
+bejvalej kolega,
+co jsem s ním psal pár článků, co bylo právě na
+TJHU jako student, ale v té době už teda měl
+práci v Microsoftu, tak mě tam pozval, že tam udělám
+přednášku. Když o tom uslyšeli lidi
+z Google, tak mě pozvali taky, takže jsem tam
+jel vlastně na konferenci z Montrealu
+na Hawaii, kde byla jako řečová
+konference, tak jsem se mezi tím stavil
+v Kalifornii asi na týden, tam jsem dělal tady
+ty dvě přednášky, problémoval jsem tam s lidma,
+zjistil jsem teda, že v tom
+Google tomu tak nerozumí, jak jsem si původně
+myslel, protože tehdy ta firma měla
+prostě navenek tu image, že tam jsou tak jako
+ti nejgeniálnější lidi
+ze všech a přijel jsem tam, byli tam
+jako fajn, strašně příjemný lidi a teď, když jsem
+začal mluvit tady o těch věcech, jsem zjistil,
+že jak si tomu rozumím, je líp než oni,
+tak až jsem byl jako překvapený,
+ale nevadí,
+jak říkám, už jsem to měl dávno jako
+venku, jako open source,
+zjistil jsem, že taky už lidi
+v těch korporacích to jako už si stáhli
+a už si to různě přeprogramovávají
+a hrají si s tím a začínají to používat.
+Pak, když jsem teda dojel na konferenci,
+co bylo teda na Hawaii,
+jak říkám, tak super lokalita teda, jakože to bylo
+zajímavý, ale kromě toho já jsem
+teda ukazoval už konečně výsledky,
+co jsem měl na velkých datech,
+už to bylo, já nevím, 400 milionů slov
+tehdy jako v těch trénovacích datech, takže už to nebyly
+takový typy experimenty. Podařilo se
+mi tedy porazit model, na kterým
+dělal celý tým vědců z IBM
+asi dva roky, tak se mi porazil
+jako docela okus na jich vlastních datech,
+tak jako jsem z toho byl samozřejmě
+nadšenej a vyhrál jsem tam
+nějakou cenu za
+nejlepší článek, kdy to
+teda volili ti účastníci konference.
+Ten oficiální jsem nikdy nevyhrál,
+to si vždycky rozebrali nějaký takoví lidi,
+co to měli domluvený, to zase,
+abych to tak nemaloval, že je všechno růžový,
+tak tam jsou různý politický věci a když je někdo
+prostě profesor ze Stanfordu, tak
+jeho studenti vyhrají všechny Best Paper Award
+prostě jenom tak, že se to tam jako domluví
+na různých komisích, jo, ale já jsem teda vyhrál
+jako kdy se hlasovalo jenom
+mezi těma účastníkama, takže
+mě to samozřejmě potěšilo a
+jak říkám, začali to používat lidi ve firmách,
+začali pak psát, jestli budu dělat
+tam nebo tady. Nejdřív jsem šel
+teda do toho Microsoft Research, protože
+tam byli jako nejrychlejší s tím, že mi hnedka poslali
+nějakou nabídku na internship, pak
+mě chtěli ještě do Google, tak
+jsem si říkal, no tak zkusím oboje,
+abych to mohl porovnávat a vidět
+všecko. Takže jsem
+šel vlastně na tři měsíce
+přes leto 2012 do Microsoftu, ale už jsem
+mezi tím měl domluvenou práci
+v Google, takže jsem se vracel do Česka
+v podstatě na obájí desertačku a
+asi za dva týdny už jsem letěl zase zpátky
+do Ameriky a
+tam jsem teda začal dělat tomu Google Brainu
+a to už
+pak vede na tady ten příběh
+s tím Vortuvekem a takhle, tak jsem tam pak vyvíjel.
+A to nás dostává teda
+ke Google, to znamená, že internship
+Microsoftu a ty už jsi domluval něco
+v Google.
+Jak jsi vybíral ty firmy?
+To byla ta chvíle, kdy jsi ještě říkal,
+že Google je ta snová práce,
+kde chceš jednou bejt, nebo jak se to
+přihodilo? Já jsem byl takový
+docela nerozhodnej student, že jsem
+chtěl dělat na umělé inteligenci a
+pořádat nějaké zajímavé výzkumy,
+ale kam konkrétně přesně jít,
+tak tu představu jsem neměl.
+Popravdě o Google jsem si myslel
+z toho dojmu, co jsem měl zvenku,
+že to je firma, co tehdy dělá různé
+produkty, které se mi líbily,
+jako Google vyhledávače. Když přišel,
+tak mi to přišlo, že to je
+zrovna ta správná věc, co se má udělat,
+protože tehdy ty předchozí vyhledávače
+před Googlem, tak byly přeplácaný samý
+odkazy na všechno možné, co mě nezajímalo.
+A teďka přišel Google a byla tam
+jenom to vyhledávací okno,
+vypadalo to jako nudně, ale fungovalo to,
+bylo to rychlý a splnělo to ten účel,
+takže mi to přišlo vlastně dobrý.
+Pak když
+tehdy všichni používali Internet Explorer
+od Microsoftu a ten byl
+takovej taky jako celý nějaký
+přeplácaný a z té obrazovky nakonec bylo
+vidět jenom takový jako malý okno a
+všude nějaký stupidní záložky a
+odkazy a kdesi cosi a pak
+nejenom přišel jako Google Chrome a ten měl
+v podstatě všecko dobře, takže
+tady mi to přišlo, že ta firma, že tam musí
+mít hodně chytrý lidi, kteří
+udělají ty věci, které
+jsou důležitý a nezaplácají to
+těma nedůležitýma, takže já jsem
+měl prostě z té firmy jako lepší dojem
+třeba než z toho Microsoftu jako externí
+jako uživatel produktu, jako
+zase Windows, že všichni známe, no a
+tady ty 95, 98 a všechno, co se
+ještě pamatuju, jak to přát padalo, jo,
+ta modrá smrt a tak, takže
+nevím, Microsoft na mě
+jako externě nepůsobilo sympaticky v tom,
+že to byla taková firma, co jako dost
+mi přišlo, že ždím, má peníze všude, měla
+monopolní postavení v oblasti obračních
+systémů a předražený ne příliš
+jako fungující programy, tak to tehdy na mě
+působilo, protože když jsem byl student a ten
+Google na mě působilo takhle jako
+na uživatela líp a
+takže tehdy, když
+jsem byl na to internshipu třeba v tom Microsoft
+Research, tak tam mi jako nabízeli,
+že už viděli, teda, že se chystám do Google,
+že by mi dali jako mnohé víc peněz a kde si
+co si, dovolili mi tam meeting s nějakým
+víceprezidentem, ale já jsem byl prostě takový
+ten naivní student, co si myslel,
+že prostě Google jako
+super firma, umělá inteligence, všichni tam
+budou dělat nějaké zajímavé věci. Navíc
+ta lokalita mi přišla tehdy zajímavější,
+což po letech jsem zjistil, že jako, že
+jsem se v tom teda mílil, jo, protože
+Microsoft teda jako a tu centrál má
+v Redmondu, což je jako stát Washington,
+to je ten severov západ, kousek
+od Seattleu a tam,
+kde jsem byl na to internshipu, tak mi to přišlo jako
+fajn, že jako město se tam dalo
+dojet normálně autobusem a
+město, ulice, lidi, obchody, takový
+jako normální, nebylo to tak hezký jako Praha,
+ale prostě bylo to v pohodě.
+Pak, když jsem jel do toho Google,
+moje předstává byla, že když jsem se kouknul na mapu
+v Kalifornii, to je tak jako na jihu, tam bude
+jako super počasí, bude tam furt hezký,
+svítit slunko, kousek od tamtut je moře,
+tak jako určitě
+se tam někdy dostanu, jako moře,
+takže jako měl jsem tu představu prostě
+takovou jako příliš idealizovanou,
+bych řekl. No pak, když jsem tam teda přijel,
+tak jako počasí sice bylo super, ale
+jak jsem zjistil a asi to člověk
+potřebuje zažít, jo, ale když každej den
+svítí slunko a na nebi není ani
+mráček a... – Děkuju, děkuju,
+tohleto já vysvětluju pořád,
+co mě štvalo na Kalifornii, prostě,
+že na to nechápe, říkám,
+když už je třetí týden, není ani
+mráček, jako je to cool týden,
+ale tři týdny v kuse, to ti z toho jde
+hlava kolem a takhle, když tam byl prostě
+takovou dobu, že to je odravný. – Já jsem tam byl skoro
+dva roky a rovna ještě v době, kdy tam
+byly nějaký extrémní sucha, takže vůbec
+nepršelo a jako tři týdny,
+tři týdny bych ještě vydržel a když
+to bylo prostě už přes rok a
+furt cítilo slunko a
+nebyl ani kam jít, jo, protože jako to
+Silicon Valley, zase
+to nebylo jako normální město, to byla taková rozplyzlá
+vesnice s dálnicama a
+jako obchody tam nebyly, lidi
+po ulici nechodili, všichni seděli jako v autech
+na těch dálnicích v zácpách, který
+tam byly všude pořád a
+když jsem chtěl jít prostě třeba
+nakoupit jídlo, tak jsem tam měl na výběr
+jeden obchod, co byl pět minut cesty, druhý
+obchod byl třicet minut cesty a když jsem
+šel pěšky, tak prostě jsem nepotkal nikoho,
+možná jednoho bezdomovce, takže bylo to
+takový strašně rudný, jo, jako
+a třeba Google je jako v Mountain View,
+což je
+takový zase jako minimist, nebo
+já nevím, jak bych to popsal, nebo možná
+velká vesnice a tam je
+jako jedna, jedna ulice, kam se
+teda lidi chodí bavit a se jmenuje Castro Street
+a je tam možná pět, deset
+restaurací, ale to je vlastně všecko a jinak
+tam není vůbec co dělat, jo, takže
+když jsou tam třeba mladší lidi, co
+chtějí aspoň jako být jako
+ve městě, kde jako jsou normálně
+jako obchody a kam se dá někam jít,
+tak ti bydlí často jako
+v San Francisco i zaměstnanci, tedy
+těch technologických firm, ale
+pak nesmí dojíždět. Ale bylo samozřejmě, ne? Dolů můžeš.
+Tam taky trochu, ale tam, teda tam jsem nebyl
+a o tom jsem vždycky slyšel jako
+negativní věci, takže, takže
+nevím, no, ale San Francisco byla prostě jako
+volba pro takový lidi, kteří chtěli
+jako bydlet v něčem, co víc vypadalo
+jako město, ale taky
+jako to nebyla žádná výhra, jak říkám,
+hodinu asi autobusem,
+tam hodinu zpátky, když byla zát spát, tak třeba
+dvě hodiny, takže člověk stráví pluku dne
+někde v autobuse a
+ještě doprava jako na zastávku, ze zastávky
+ty autobusy taky zastávaly prostě různě
+po těch městech, ne přímo jako před barákem,
+že, takže se to jako
+protáhlo. Já jsem si nakonec vybral, že budu
+bydlet jako kousek od Google
+jako v tom Mountain View, což
+jako z toho pracovního hlediska bylo super,
+ale jinak člověk se tam prostě začne nudit a
+jak říkám, počasí je furt stereotypní,
+žádný, žádný jako
+léto nebo zima, tam bylo prostě takový
+děru až léto, počasí pořád
+a furt dokola, no, takže
+jo. – To je peklo.
+To nezní to hezky. No a když se
+zaměříme na tu práci jako takovou,
+tak ta byla zajímavá nebo
+nesplněla nakonec tvoje očekávání? Co jsi tam přesně dělal?
+Možná to klidně popiš. – No, jasně.
+No bylo to určitě jako pro mě
+spousta zajímavých zkušeností
+a ani nevím, jestli jsem tam něco
+konkrétně očekával.
+Když jsem tam nastupoval, tak
+tam vznikal zrovna
+tým Google Brain, což tehdy nebyl zdaleka
+tak slavný tým jako dneska, protože tehdy to vlastně
+nikdo neznal jako navenek a
+já jsem byl mezi těma prvníma,
+co tam jako přišli
+pracovat a
+jako byla tam spousta věcí, která
+mě překvapila pozitivně, řada věcí,
+mě překvapila negativně. Třeba kdybych
+srovnal jako HR, oddělení
+Google a Microsoft,
+tak jako Microsoft bylo jako desetkrát lepší
+nejmím, možná stokrát. Fakt to byl
+velký rozdíl. V Google bylo prostě chaos,
+nikdo nevěděl vůbec nic a
+informace, co s náma jako novýma zaměstnancema
+sdílali, tak taky byly prostě často umělný
+a bylo to prostě,
+byl tam bordel, no asi tak.
+Ta firma rostla velmi rychle a měla
+poddemenzovaný tady některý ty oblasti
+jako zrovna to HR, takže ty lidi tam
+dělali milion věcí a nevěděli už, co dělají
+a bylo to dost chaotické. Microsoft
+už byla zavedená firma, už byla jako stabilní
+a měli to jako naplánovaný
+mnohem líp. Aspoň pro mě to tak bylo, když jsem byl jako
+student, tak nám třeba jako zařídili
+bydlení a tak dále, nemusel se tam
+nic zařizovat a sám bylo
+to jednoduchý. Když jsem začal v Google,
+tak jako v oblasti, kde sehnat bydlení je dost
+těžký, tak mi tam jako nějak
+vágy si líbily, že jako novýmu zaměstnance
+si mi s tím pomůžou a seženou mi tam nějaký bydlení
+na začátek, asi na tři týdny.
+Přijel jsem a zjistil jsem, že to, jak si
+poplatli a není to na tři týdny, ale je to
+na mnohem kratší dobu a rychle, že si musím
+sehnat něco sám a nikdo mi s tím nepomůže.
+Takže to bylo prostě takové
+ty věci kolem té práce,
+tak byly takové jako organizované.
+Když jsem začal v tom Google Brainu pracovat,
+tak to bylo hodně takový
+speciální tým. On to začal,
+on to vedl vlastně Jeff Dean,
+který teďka dělá vedoucího, já nevím,
+celého vyhledávače a výzkumu v Google.
+Už tehdy byl nejvíc postavený
+inženýr v rámci celé firmy, takže
+byla to taková legendární
+postavička tam Silicon Valley, jakože ho všichni
+znali, že byl jako strašně slavný,
+což já jsem vůbec nevěděl, kdy jsem tam šel,
+protože asi taky neznáte Jeffa Deana
+z Google, že předpokládám, každý zná
+Larryho Page a Sergeje Briné, ale
+Jeffa nikdo nezná, no tak a v Silicon Valley
+prací, že jako
+mi to nabízeli z Google, že můžu jít pracovat tady
+do Google Brainu s Jeffem Deanem, anebo
+do Google Translate tady
+s Francem Ochem, kterýho jsem se znal,
+to byl jako slavný vědec, tak mi to přišlo,
+že jako ten Google Translate mi zněl jako
+mnohem líp, že tam jsem viděl
+aplikaci těch language modelů, jako na zlepšení
+toho překladače a Francois byl
+prostě slavný vědec a všecko
+a pak nějaký Jeff Dean a jsem se kouknul
+a na Google Scholaru sice měl
+nějaký citovaný články, ale v oblasti,
+který jsem nerezuměl, že byla prostě
+jiná než ta moje, nebylo to to strojový učení,
+takže to na mě moc dojem neudělalo.
+Když jsem začal pracovat, tak jsem zjistil
+docela rychle, že teda jako, že kdo je
+teda ten slavný a kdo ne
+a mě teda
+přemluvili jako v tom HR, abych
+jako šel do toho Brainu, tak jsem si říkal, to je jedno,
+tak prostě budu dělat s těma Translate lidema
+jako tak nějak nadálku a co jsem
+teda taky dělal. No a tak jsem to tak začal
+a sledoval jsem jako ten
+tým, co vlastně dělají na začátku jako
+nový zaměstnanec a
+jako ten Jeff si tam kolem sebe
+zromážil jako řadu
+hodně zajímavých lidí, že
+někteří byli až takový
+zvláštní, v podstatě takový geniální
+až moc možná někteří.
+Až jako šíleně. No jo, jo, jo.
+Takže to byla taková
+zvláštní skupinka
+a až takový skoro autistický lidi.
+A
+jak říkám, jako ten tým měl
+fakt poskládané jako špičkově a
+když jsem tam začal,
+tak jsem vůbec nic takového netušil,
+jsem vůbec nevěděl, jak to tam funguje a tak dále.
+Třeba vedle mě seděl nějaký člověk,
+co jsem si myslel, že asi zrovna
+dokončil doktora a vypadal relativně mladě
+a tak měl takovej medvídek,
+půl prostě vypadal takovej
+jako trošku tlusčí a takovej veselý
+a furt se usmíval a
+přišel mi prostě, že
+kdo ví, co jako umí.
+A pak jsem tam začal něco dělat,
+jako se učit jako nový zaměstnance, dělat s těmi nástrojmi
+a on občas po mně chtěl něco poradit
+jakože s tím machine learningem,
+že se snaží něco dělat a asi tak
+za pár týdnů jsem zjistil, že vlastně
+ten borec vedle mě, že je
+teda jako fakt dobrý, protože
+já nevím, jsem tam mu třeba něco vysvětloval,
+co jsem načetl, jsem dělal dříve třeba, já nevím,
+několik dnů, než jsem to rozchodil a bylo to
+relativně komplikovaný, tak to po mně chtěl vysvětlit
+a jsem si říkal, no tak to na tom stráví
+alespoň dva týdny, než mu to bude fungovat,
+tak jsem to vysvětlil dopoledne a po obědě
+už to měl hotový teda, takže jsem si říkal,
+no to je dobrý teda.
+A pak jsem zjistil teda, že tam není
+jako novej zaměstnanec, jak jsem si upovědně myslel,
+jak mi říkala, že on byl novej jen v tom Google Brainu,
+ale předtím byl v Searchi
+a nebyl tam nějaký ředovej zaměstnanec,
+ale byl tam už nějaký středně vysokopostavený
+manažer, že už se tak jako relativně rychle
+vypracoval, protože já jsem vůbec nevěděl,
+jak to tam funguje s nějakýma těma levelama
+a takhle v té firmě, takže
+počasem jsem teda zjistil, že tam jsou
+jako dost zajímavý lidi a že
+ten Jeff si tam teda jako vybíral
+z té firmy hodně takový zkušený třeba
+inženýry, který už tam byli třeba 10-15 let.
+15 let to bylo teda v případě toho
+Jeffa, on tam byl skoro od začátku toho
+Google a pak tam měl další nějaký
+zaměstnance, kteří tam byli v době,
+kdy ještě třeba v Česku Google nikdo neznal,
+takže takový ti jako mezi prvníma
+zaměstnancema, tak někteří z nich byli
+hodně jako zajímaví.
+A takže pracovně to bylo super,
+mimo pracovně to nebylo nic moc,
+podle toho, co jsi říkal.
+Kdy ses rozhodl teda, že Google
+bylo dost a že jdeš o dům dál?
+Nebo bylo to třeba to, že jsi dostal nějakou
+nabídku, která se nedala odmítnout, nebo
+bylo tam i nějaké, řekněme, vyhoření
+v tom smyslu, že jsi čekal od Google
+víc, nebo proč, z toho,
+co jsi popsal, proč bych chtěl kdy
+z Google odejít?
+No tak to samozřejmě by bylo dlouhý příběh, protože
+těch věcí, které jako v Google byly skvělý,
+tak je celá řada, a těch věcí, které
+tak skvělý nebyly, je taky celá řada.
+Takže ono se to nedá jako tak
+lehko říct. Takže, jak říkám,
+jako spolupracovníci, kteří byli skvělí,
+na druhou stranu, kdybych měl zase popisovat ty negativnější
+věci, tak tam byly takový mladí
+třeba, mladí jako vědci,
+co tam zrovna končili doktoráty.
+Já jsem byl mezi prvníma asi třema, co tam
+jako do toho Google Brainu přišli, takže to byly
+vlastně byli senior inženýři a pak
+takový ti mladí lidi.
+A někteří
+z nich byli jako hodně ambiciozní,
+až bych řekl moc,
+takže tam byly takový
+věci, jako že když se bavím prostě s kamarádem
+na večeři o nějakém
+nápadu, co jsem teďka měl, a on prostě říká
+jo, super, a ještě mi popiš toto a tohleto
+a další den máme meeting
+a on to tam odprezente jako svůj nápad
+tak za nejmoc příjemný.
+Až takovýhle korporátní. Tím to jenom začínalo.
+Bylo to ještě teda jako horší,
+takže nebudu zabíhat
+do detailu, ale prostě tak, jak to
+funguje v korporaci všude, prostě
+v Česku, tak to funguje i v Google.
+Ale u vědců, jako u takového middle
+korporátním levelu, tyhle z ty bytky, to bych řekl,
+že to požírání se navzájem
+to pohání ten middle level, jo.
+Ale u vědců bych čekal,
+jakože tohle jsou o to obstrahování
+už třeba tu svoji jako nadměrnou
+inteligencí, nebo ne?
+Ne, ne, ty lidi jsou všude stejný. To si taky myslím někdy
+jako v médiích se mi zdá, že se jako
+to prezentuje tak, že když je prostě
+někdo vědec, tak je to prostě ten člověk,
+co už je prostě nadvědcí a
+už je prostě nějaký geniální a tohleto.
+Ale vědec tak může být kdokoliv, kdo
+si to prostě vysedí na té škole, jo. Takže jako
+dopracovat se k tomu doktorátu, to je často
+o vytrvalosti, jo. No to se zdá, že když někdo
+je expert, já nevím, na nějaký neutrony
+nebo nějaký
+ezoterický věci ve fyzice nebo matematice,
+že jakože asi musí být
+geniální. Ale já bych řekl, že každý,
+kdo má aspoň průměrnou inteligenci a má
+nadprůměrnou vytrvalost, tak když tomu bude
+věnovat čas, tak může být nakonec expert
+v podstatě na cokoliv, jo. Takže
+to, že je někdo vědec, ještě neznamená,
+že je to nějaký člověk, co třeba
+nepodvádí analži, jo. A to mě tehdy
+jako docela zklamalo, když jsem
+zjistil, že spousta těch věcí
+v té vědecké komunitě se prezentuje
+jinak, než co si ty autoři
+jako myslí. A je to dostatom
+jako takhle. V Americe mi všichni
+říkali, že já jsem ten blbej, že prostě
+že to nechápeš. Přesně, že to nechápu,
+že to prostě musíš umět prodat, jo. Ale
+já bych řekl, že je jako určitá hranice,
+kdy jako prodáváš něco, čemu sám
+věříš a kdy prodáváš něco, čemu nevěříš.
+A když prodáváš ještě něco, co ani
+není tvoje, tak jsi prostě pro mě obyčejný
+zloděj. No jasně, jasně. Ale jestli tohle
+zase není odvrácená strana toho, o čem jsme se bavili
+na začátku, že v českém školství je to
+příliš akademický, chybí tam tenhle
+biznesový přesah, který se pak dohání
+na těch různých jiných akcích. A tady je to
+prorostlý tým biznesem, takže už jako lidi
+mají tyhle tendence. Možná,
+jestli to není tím, no.
+– A už neznají hranice. – Nevím, nevím.
+– A vlastně taková nějaká zlatá střední cesta
+by byla asi optimální.
+A je to napříč těma firmama.
+Teď se bavili jsme o Google, ale
+Facebook, Microsoft, je to to samé.
+– Všude, všude. Třeba tu Microsoftu jsem
+strávil asi jenom tři měsíce, ale tam
+jsem taky relativně
+rychle našel člověka, co tam tehdy dělal
+na studovým překladu.
+A když jsem chtěl od něj
+setup, abych tomu zkusit jako vylepšit
+ten jejich interní systém, tak se
+tak různě jako kroutil, že
+to je jako na nějakého studenta,
+jako jsem já, moc jako složitý, jak jde si,
+co si, a furt z něj nechtěl nic vypadnout.
+Nakonec teda mi ten systém
+nazdílal, protože přece
+ten můj vedoucí tehdy, to byl
+prostě manažer v té řečové skupině,
+tak byl jako dostatečně vysokopostavený,
+aby prostě mohl různý ty věci
+jako ty lidi k tomu trošku
+jako dotlačit. No když mi ten
+systém dal, tak
+jsem na to prostě kouknul, začal jsem
+to dělat prostě ty první úplně experimenty, jako
+ty triviální, jako kontrolovat nějaký baseliny
+a tohleto jako ty základní modely.
+A najednou jsem jako zjistil, že
+vlastně úplně základní model, ten engramový,
+když bych použil na ten jeho systém, že
+mi ten jeho základní
+systém výrazně vylepšil. Vlastně tady ten člověk,
+tady to klidně řeknu, stejně nikdo nezná,
+šiadong, hejo, tak prostě to byl
+číněn bez tak pak z Microsoftu odešel teďka někde
+asi v tom JD nebo jako v Číně
+zpátky, ale tehdy byl prostě
+v Microsoft Research psal
+články, za který dostával právě tady ty ceny
+jako Best Paper Award a všecko
+a on tehdy používal diskriminativní
+jazykový modely, který prostě já jsem
+jim opravdě nevěřil, mně to přišlo jako
+takové jako bullshit popravdě, ale
+ty už jsou dneska taky zapomenutý,
+mimochodem, ale on tehdy prostě prezentoval,
+že na tom strojním překladu třeba, že mu to
+výrazně pomáhá, jo, já nevím,
+tady nemá si cenu popisat metriky
+úspěšnosti strojního překladu, ale v podstatě
+tam je něco, čemu se říká blůzko,
+radši víc bodů máte, tak tím je lepší, ten překlad
+tím je blížší tomu, co říkají lidi
+jako ličtí anotátoři.
+Tak tehdy ten jeho
+základní systém měl asi
+35 nebo 36 bodů
+a potom, co začal používat
+ty diskriminativní modely, tak mu to
+stouplo asi na 38, jo,
+tak to vypadalo jako, že to je
+dobrý, protože se bralo jako 2-3 body, že už
+to je jako fakt silný výsledek.
+A já, když jsem vzal ten jeho systém a teďka
+jsem tam spravil to, co tam měl
+špatně, to zná ten základní model,
+tak to najednou nebylo 35-36,
+bylo to 37,9, jo,
+takže v podstatě to bylo identické s tím
+jeho jako super výsledkem na konci,
+když jsem na to použil ty nerovní stě, tak to stouplo
+na dalších, já nevím, 39,5 nebo takhle,
+takže ty opravdu fungovaly.
+Ale hlavní problém jsem teda měl
+v tom, že on publikuje
+články o něčem už asi 2 roky,
+kde vlastně ten základní ekosystém
+má špatně. A tak jsem
+šel za ním a jako
+si mi to nechce jako vysvětlit,
+jestli třeba nedělám něco špatně já, že když teda jako jsem
+ten student a všecko. Já už jsem teda byl v pátě
+jako na PhD, takže už jsem se jako student necítil.
+To je taky rozdíl mimochodem mezi Evropou a Amerikou,
+že v Americe začnou lidi studovat
+PhD už během toho
+jiného studia. To znamená, že potom, co skončí
+bakaláře, tak už začnou magistra
+respektive inženýra, jak se to u nás jmenuje,
+zároveň s PhD. Takže oni
+dokončí to PhD třeba, když mají 26 let.
+Já, když jsem končil PhD, tak jsem
+vlastně 30. Takže už jsem byl
+vlastně nikde jinde, ale on se ke mně choval
+jako ke studentovi, tak jsem říkal, no dobře, tak mě to
+teda vysvětli. No a pak se mi teda vypadlo,
+že v tom základním systému,
+že tam používá teda sice ten
+engramový model, ale jako hodně,
+hodně osekaný. Takže on vlastně z ní vzal jenom
+maličkou část
+a nebudu popisat technický detaily,
+ale prostě výrazně to osekal
+a pak to jako prohlásil za baseline, říkal,
+no tak aby to bylo jako malý, říkám, no tak ale
+to nemusí jít malý. V podstatě se tak
+jako kroutil, aby jako neřekl
+na rovinu, že to dělá blbě,
+tak mi teda řekl, no aha, tak je jako dobře,
+tak už se teda uvědomuji a asi
+příště jako ve článku toho uvedu už dobře.
+Řekl jsem to svýmu uvedoucímu, ten mi taky řekl,
+že se to tam nějak o něm ví,
+že jako publikuje takový
+jako pochybný výsledky, ale
+tehdy mě jako varoval, jak to funguje v korporacích,
+což zase já jsem přicházel
+tady do toho prostředí a vůbec nic jsem neznal,
+tak mi říkal jako, že nehas co ti nepálí
+a jako my sice víme, že on
+jako má ty výsledky takový jako
+pochybný, ale jako
+v rámci toho, co my jako vědci, jak
+máme nastavený ty jako metriky,
+toho, co máme plnit v rámci jako Microsoft
+Research, tak prostě když někdo vydá
+článek, ten dostane bez paper award, tak má
+nějaký body a takhle,
+jako je to úspěšný zaměstnanec na základě
+těch metrik a
+nemá cenu prostě bojovat s takovýma
+lidma, protože jenom si člověk
+přidělá problémy, takže mi říkal
+jo dobrý, tak my to sice jako víme,
+že to tam je nějaký takový divný,
+ale radši prostě o to budeme se držet
+dál a nebudeme to nějak moc komentovat.
+Takže, jak říkám...
+– To bylo další korporátní procitnutí.
+– No jasný, ale tak Microsoftu to bylo speciální.
+– Tak tam bych to čekal docela dost.
+– Tam se těch varování slyšel celou řadu, že to tam řídí
+bez tak právníci a člověk musel si dát pozor
+na všechno možné. V době, kdy jsem tam byl
+na tom internshipu, tak zrovna
+po dlouhé době, asi snad 15 letech
+jim tam odcházel vedoucí
+celého toho řečového
+oddělení a to byl,
+jak on se jmenoval,
+ASERO příjmení, ale teďka vypadlo to jeho první jméno.
+Každopádně, jako zajímavý člověk,
+strávil tam půlku kariéry,
+dostal dobrou nabídku od Appleu,
+takže přicházel do Appleu.
+A jak se k němu zachovali
+lidi v Microsoftu, respektive jako korporace,
+zakázali mu vstup,
+vyvedli ho jako
+beny, jakmile oznámil, že jde ke konkurenci
+a snad mu ani nevrátili věci
+z kanclu.
+To jsem tam zažil jako student,
+takže bylo to velmi takový
+...
+Nepříjemný prostředí tady z tohohle lediska,
+jako jasně korporace
+se chová nějakým způsobem,
+jak má nastavený pravidla,
+ale bylo to taky jako drsný.
+Takže když jsem říkal, že je to všude,
+tak Google, Facebook, Microsoft,
+všude, kde jsem byl, tak jsem našel
+vícero lidí, kteří se chovali
+takovým způsobem, který
+třeba tady ve střední Evropě bychom
+označili prostě za jednoznačně podvodné
+chování. Nevím, jestli jste
+viděli dokument Terano
+o Teranosu.
+A přesně takovýhle lidi,
+jak ta Elisabeth Holmes, tak jsem prostě
+potkal, když jsem byl jak v Silicon Valley,
+tak v tom Redmondu. Takže tohle to není
+něco výjimečného. Takové lidi tam prostě jsou
+a to je takové možná
+to procitnutí, že když člověk přijde
+z oblasti, kde není moc peněz, což popravdě
+v Česku tady peníze vědějí, jak si nejsou,
+respektive když to nikdo nefinguje.
+Tak tady
+jako, jak bych to řekl,
+jako peníze a moc
+a takový pozice, kde člověk si může
+vědět hodně peněz a kde má jako moc
+a viditelnost, tak ty přitahují určitý typy lidí
+a kdybychom měli ve vědě
+v Česku desetkrát víc peněz,
+tak tady budeme mít taky takový lidi. Takže
+v podstatě do těch firm
+jsem často na ty pozice stahovali
+takový
+specifický typy osobností, jak říkám, jak
+Elizabeth Holmes, prostě stačí na to kouknout
+a hnedka jako vidíte
+na čem jste, tak to prostě
+nejsou jako psychologicky normální lidi.
+Tak to tam bylo. Ještě abych
+tedy vyprávěl s tím Shadongem
+asi po roce
+a půl, když jsem byl teda v Google, tak jsem byl
+na konferenci, která
+byla někde v Atlantě, tuším,
+a koukám článek
+ostrovovým překladům z Microsoft Research,
+nebyl ten teda Shadong osobně,
+ale byl napsaný na článku jako splouter,
+tak měli teda poster
+normálně, jako na konferenci
+znáte takový plagát, kde jsou popsány výsledky,
+tak jsem se na to šel podívat
+a koukám a oni mají zase baseline
+35 bodů. Tak už mi to teda
+naštvalo, tak já jsem problémoval s těmi lidmi
+o to poustu a říkám, no to ale přece
+není pravda, já jsem s tím vaším systémem dělal
+a tohle to je prostě totální podvod,
+protože když se to zpravíte, tak to prostě bude těch
+38, co vy tady ukazujete, jako skvělý
+výsledky. A tak jako říkali, no to
+my nevíme, to Shadong, to jako
+on nám to dále a tohleto.
+Takže oni to tam fakt takhle jako kuchtili
+roky věci, které byly prostě
+zjevný podvod a nikdo s tím
+nic nedělal. Aby to nevypadalo,
+že se stěžují na jednoho člověka, jak říkám,
+tohleto nebyla výjimka,
+tohleto fakt, to bych takhle mohl o to napsat
+k ního o těch podvodech.
+Mně to připomíná takový ty korporátní příběhy,
+jak v nějakým starým prostě
+Javasoftu nebo v C-Sharpu, tam prdli
+Treadsleep 20 a každou verzi vydávali,
+že je performance zlepšení,
+že jenom snížovali to číslo, až už přestali
+blokovat ty trady a fungovalo to úplně
+normálně jenom, aby se to dalo vyrelýsovat
+jako improvement.
+No tak pojďme do toho Facebooku možná, ne?
+Tak, aby jsme si
+dokreslili ten obrázek, tak nás čeká
+Facebook, z Google si přišel
+do Facebooku. Jaká byla ta motivace?
+– Motivace, vlastně,
+jak jsem popisal, ten Google Brain
+tým, když začínal,
+tak ten cíl toho našeho
+týmu nebyl vlastně dělat
+výzkum, jo. Cílem Google
+Brainu bylo zpřístupnit
+velký neuronový sítě ostatním
+částem Google, protože
+když někdo dělá třeba na vyhledávači
+nebo doporučování reklam, tak
+abys teďka trénoval velký neuronový sítě,
+jestli to budeš celý programovat, když to je
+věc, která trvá těm lidem roky, než se to naučí dělat
+dobře, tak to je samozřejmě jako blbost,
+takže tam byl ten nápad, že někdo
+tady jako udělá standardní
+nástroje, které ostatní budou využívat,
+takže zpřístupní tu technologii
+těch neuronových sítí
+dalším týmům a to měl být
+právě Google Brain, takže my jsme byli takový jako
+dost aplikovaný tím na začátku.
+A když jsem tam třeba
+vydal ten Word2Vec, to mimochodem taky
+byl jako můj první projekt, co jsem si
+vymyslel, když jsem tam začal, protože jsem chtěl
+lidi přesvědčit, že jako, že vím, co
+říkám, když jim třeba tvrdím, že
+ty neuronový jazykový modely tam trénují
+jako neoptimálně, což byla
+jedna z věcí, co jsem viděl.
+Mimochodem první týden, když jsem byl v Google,
+tak jsem přímo jako našel chybu, jak
+počítají paraplexitu, což je základní
+metrika toho language
+modelu, že vlastně
+to měli spočítaný celý blbě,
+takže jeden z těch jejich prvních článků byl
+prostě se špatnýma číslama, ale
+já jsem to právě dělal už
+roky, oni s tím teprve začínali, takže
+když mi ukázali čísla, tak jsem prostě
+viděl, že to jako nedává smysl,
+že to zlepšení, který
+tam reportují, že v tom kontextu vypadá
+velmi podezřelé a taky jako chybu
+jsem našel, chyba byla tuším v tom,
+že oni měli dva modely, nějaký základní
+a pak ten neuronovej a
+v tom základním nepočítali
+pravděpodobnosti teček na konci
+věd, úplně nějaká taková zdálivá
+trivialita, zatímco v tom druhým jo,
+a jenže pak, když ty modely míchali dohromady,
+tak najednou měli prostě jiný počet symbolů
+a něco tam prostě úplně jako
+bylo špatně udělané, když se to spravilo,
+tak už ty čísla dávaly jako smysl
+a už to jejich zlepšení bylo výrazně menší
+než to původní, jo, ale to bylo
+teda v tom prvním týdnu, ale potom
+jsem viděl, že ty modely použíhají proto, aby
+spočítali vektorový reprezentace
+slov, se kterýma jsem právě už dělal, jako samozřejmě
+mnohem dřív, to byl vlastně úplný začátek
+ještě mojí diplomky a viděl jsem, že
+vlastně dělají něco na základě
+článku, co zrovna vyšlo asi
+před nedávnou dobou v té době
+ze Stanfordu, takže oni
+měli jako strašný respekt v určité univerzitě
+a jako říkali, no, tady je prostě
+lidi jako věci ze Stanfordu tvrdí
+a bla, bla, bla, říkám, no, ale
+tak to tvrdí blbě a to se dá udělat
+prostě líp, jo, a tak
+to tam tedy vydali prostě, no, tak to je tvůj
+názor, tak budiš, ale tak to jsou věci ze Stanfordu,
+tak to prostě musíme dělat takhle.
+Tak jsem přesně přišel tedy s tím
+nápadem, že to udělám teda, že to
+na programu jako
+sám a
+že to byla vlastně jednoduchá podčást
+toho mýho toolkitu na trénování těch neuronových
+jazykových modelů, jenom jsem z toho vyházel
+většinu věcí popravdě, nechal jsem
+tam tu část, která trénovala
+vlastně de facto jednu matici vach
+a zoptimalizoval jsem to trochu
+a
+trvalo mi to možná tak
+1D náš 2, popravdě jsem čekal, že to bude rychlejší,
+jsem zase podcenil trochu lidi v Google Brainu
+popravdě tehdy, jsem myslel, že porazím
+hnedka na poprvý, ale pak
+mi to trvalo asi, já nevím, jak říkám, týden, dva
+než jsem je porazil
+s tím, že jsem ten model dokázal
+natrénovat asi za hoďku nebo dvě
+a na jednom počítečí, zatímco
+oni to měli trénovaný asi na
+nejna 50 počítečí za dva týdny
+nebo takhle, už se přesně nepamatuji ty čísla, jo, takže
+měl jsem to prostě výrazně rychlejší
+tak lidi jako z toho byli
+jako nadšený, což mi přišlo fajn, jakože
+tam nebylo žádných, že by mě nenáviděli
+za to, že jsem je porazil, takže jako
+tohle to bylo úplně v pohodě a
+tehdy mi ještě psal ten
+profesor z toho Montrealu, jak jsem měl být na internshipu
+že jako slyšel nějaký výsledcích, co jsem měl
+v Microsoftu, kde jsem ukazoval, že se dá
+právě jako sestavovat rovnice z těch
+slovních reprezentací, z těch vektorových
+reprezentací, že si můžeme předělat
+přepočítat pomocí těch
+neuronových jazykových modelů slova
+na vektory, což jsou vlastně
+matematické objekty, s těma můžeme
+počítat normálně jako kalkulace plus
+minus a dává to jako
+zajímavé výsledky, které jako semanticky
+dávají lidem smysl, jo jako
+tedy jsem měl takovej vtipnej příklad
+abych nachytal lidi, tak
+jsem se jich ptal, jestli je vůbec možný
+jako, že vezmeme třeba vektorový reprezentace
+slov a uděláme rovnici
+král minus muž plus žena, co by
+mělo jako být a
+tedy jako lidi si klepali na hlavu, že jsem se
+zbláznil zase a já jsem věděl jako, že to samozřejmě
+funguje, takže jsem na tom napálil
+jako řadu lidí, vyšla samozřejmě královna
+jako pak, kdy se hledal jako nejbližší
+a nejbližší další vektor tady k těm třem
+stupním a tak
+tehdy, když to slyšel ten profesor z toho
+Montrealu, tak mu to přišlo jako super a tak
+mě pozval a tě pošlu jako
+článek na jeho novou konferenci, co tehdy začínal
+a i klíre dneska jako
+docela slavná, ale tehdy to prostě byla maličká
+věc, protože to byl první ročník a
+mně to přišlo, že jednak
+už tady o tom nápadu s tím, s těma
+kalkulacemi, a to už jsme měli poslaný článek s tím
+Jeffem Zweigem někam jinám,
+ale že jsem ještě
+jako viděl, že to samozřejmě fungují, ty kalkulace
+mnou mi líbí, když na to jenom lepší model, lepší
+ty vektorový reprezentace a to zrovna dělal ten
+Vortuvek, který samozřejmě původně žádný
+takový jméno neměl, to byl jenom nějaký prográmek,
+co takhle přepočítal
+ty slova. Tak jsem začal
+dělat tady na tom článku na rychlo, to už byly
+vlastně Vánoce 2012, takže to jsem
+psal právě ten první článek přes Vánoce
+a
+pak jsem to tam poslal
+asi první níleden, došly mi recenze,
+takový jako nemastní, neslaný,
+moc se konečně ní z toho lidi nebyli,
+nakonec vzali v podstatě všechny články na tu konferenci,
+kromě toho mýho, což teda jako jsem z toho vůbec
+načený nebyl, stejně tak lidi v Google Brainu si mysleli,
+že bylo to prakticky využitelný,
+ale
+já jsem byl přesvědčený, že jakmile
+by to začaly používat ostatní lidi, tak zjistí,
+že vlastně ten nápad je super,
+ale aby ho začali používat, tak
+ten článek nestačil, protože jako v článku
+to podle mě bylo vysvětlené jako v pohodě,
+ale zase naprogramovat to tak,
+aby to bylo optimální, aby to byl
+optimalizovaný kód, aby to běželo rychle,
+to zase nebylo pro každýho
+a neviděl jsem, že by se o to někdo snažil.
+Já jsem byl bez tak plánu, že jsem to chtěl
+jako vydat jako open source, což
+tehdy v Google bylo něco jako
+nepředstavitelné, to mi všichni říkali, že to
+mi nikdo nepovolí a že v žádným případě,
+že takhle to prostě ta firma nic nezveřejňuje,
+že to je konkurenční výhoda a nebudeme
+pomáhat konkurenci a kde jsi, co jsi.
+Ale
+nakonec se mi to právě podařilo
+díky tomu, že jsem byl v tom Google Brainu, kde byly
+ty vysokopostavený lidi, že nakonec
+tam prorazili nějaký blok od jednoho
+manažera z
+New Yorku, kterýho jsem ani osobně neznal
+a který tehdy mi to tam zabrzděl
+asi na tři měsíce,
+že nechtěl se vůbec k tomu vyjádřit, nechtěl to
+zamítnout ani povolit a čekal, že to nějak
+jako vyšumí, ale já jsem se teda
+nechtěl vzdát a furt jsem to chtěl vydat.
+Nakonec, polu roku po tom, co vyšel ten
+náš článek, tak mi to teda povolili,
+ale to nebylo tak, že by mi to
+jenom povolili, rovnou Google kolem toho se rozhodl
+udělat nějaký PR, takže kolem toho
+jako napsali
+novinářům a udělali
+nějaký intervju do televize o tom, že teďka
+prostě tady zveřejňujeme, tady World2Vec
+a kde si co si a úžasně uměla inteligence hnedka
+za rohem a takový ty klasický
+keci, takže najednou to měl raketovej start,
+tak mělo to být někde na GitHubu,
+tak to lidi hnedka stahovali
+a respektive to byla první věc, byla na
+Google Code, který už teda pak
+zavřeli, už je dávno zrušený, ale tehdy to ještě
+existovalo.
+– Na pohřebišti už. – Jo, jo, jo,
+tam bylo hodně takových projektů v Google,
+ale jak říkám, pak jak se to
+zveřejnilo, tak to lidi začali používat ze všech možných
+oborů a až mě to překvapilo,
+jaký to mělo dosah, takže
+to bylo super, ale to byly
+furt takové jako aplikované věci, takže jak jsem
+se dostal k Facebooku,
+potom, co jsem tady to vydal, tak
+to už byly informace, že
+Facebook taky vidí, že tady jsou
+jako zajímavé věci, co se dělají v Google,
+a další lidi tam dělali třeba rozpoznávání
+obrázků, které byly tehdy strašně
+populární, to byl ten ImageNet, nevím, jestli
+jste slyšeli, ale to bylo na to
+rozpoznání těch koček, psů a delfínů
+a všeho možný jako svotek. A Facebook
+nic takového neměl a bylo jako
+zřejmé, že by to jako do budoucna taky chtěli
+a nevěděli, jak se k tomu postavit,
+tak začali jako psát různým lidem z Google
+Brainu, v podstatě všem,
+jestli by je tam jako nepřitáhli,
+tak jsem to slyšel
+prostě od těch ostatních kolegů, pak
+svalají mě jako Zuckerberg, že kde jsi, co jsi,
+že tady má nějaký plány a tak dále.
+Jeden kolega od nás už jako přešel
+asi v září 2013,
+to byl Marco Rioranzato
+a to byla taková zvláštní akce
+jako v rámci Google, jaký tam byly takový
+manévry a lidi tam něco furt vymýšleli,
+dali nám teda jako velký bonus po tom, co on odešel,
+což původně jsem si myslel jako, že
+super, že nám dali jako peníze, že teďka
+děláme jako ty úspěšný věci, jenže
+asi dva dny po těch velkých bonusech
+tak jsme zjistili, že tady odchází tam náš kolega,
+takže bylo vidět, že mají
+obavy, že nás odejde víc, jo.
+Takže pak jsem počas až jako
+tady jsem to ještě neviděl,
+ale počas jsem zjistil, že to, jak jsou tam
+ty lidi placený všech korporacích, je taky
+jako docela alchymie a jestli
+nevíte, jak to funguje, já jsem tehdy neviděl,
+tak byste jako nestačili zírat, jak
+lidi, kteří ví, jak třeba smlouvat
+o platu tady v těch korporacích, tak
+můžou mít prostě několikanásobný,
+mnohonásobně vyšší plat, než někdo
+o tom třeba vůbec nic netuší. Takže já jsem
+třeba jako z Google vzal první nabídku,
+co mi tam tehdy dali a nějak se
+nad tím nepřemýšlel a
+pak jsem zjistil, že třeba, když tam nastupoval
+jeden španěl, který žádný jako
+super výsledky jako ve vědě sice neměl,
+ale měl jako píští z Berkeley,
+tak tehdy tam spekuloval asi
+půl roku o platu a sehnal si nabídky
+od konkurenčních firm a ty a ji přijal
+a tak různě jako s nima jako
+žonguloval a ať se jako, ať mu
+nabízí více a více a ten tam skončil,
+myslím, už jako takovej začátečník,
+tam měl myslím přes milion dolarů ročně
+a to v podstatě nic neměl, jo, takže
+to mi taky přišlo jako takový, že když jsem se to později
+dozvěděl, tak mi to přišlo, že
+ta firma by mohla být taková průhladnější
+tady v tom a nevadí,
+no, tak prostě
+Facebook začal dělat konkurenci, tím pádem
+se nám začaly nevyšovat platy, to bylo jako dobrý.
+Google Brain taky začal
+jako zvyšovat ty svoje ambice,
+že teda budeme dělat tady ten výzkum,
+teda když to chceme, jo, že nám to teda povolí
+a že ty články, co jako píšeme,
+že už se to bude brát jako nějaký náš
+výsledek, že už to nebude jako meziprodukt, který
+nikomu nezajímá, tak se vlastně bral ten
+Vortovickový článek, jakože jo, fajn,
+dobrý, tak klidně jako ve volným čase se to někde
+odprezentují, ale jako není to
+pro nás důležitý, tak pak se to tak jako začalo
+pomalu měnit a s tím Facebookem
+já jsem byl dost skepticky ze začátku,
+protože přece jenom Facebook má jinou
+image než Google, tak jsem si říkal,
+no, kdo víc tam udělají, a slibovali
+hory doli, se Zuckerbergen
+jsem se viděl několikrát a vždycky to
+prostě mi říkal takový ty věci, co jsem chtěl slyšet,
+takže to bylo takový, že kdo ví,
+jak to bude. Každopádně
+ty ambice se tam stanovily jako velký,
+že chtějí jako vyřešit, co uměl inteligenci
+a takový blablabla, což samozřejmě ty ambice
+potom jako relativně rychle upadly,
+ale když ten tým začíná, tak jako
+mi to dávalo jako smysl tehdy v tom, že
+Facebook byl vlastně jako monopol ve svý oblasti,
+peněz měli, kolik chtěli a
+mohli si dovolit stavit něco jako
+Bell Labs, kdy si byli
+člověk, co ten tým u nás
+jako zakládal Jan Lekan, tak ten měl
+právě tady to přirovnání, že
+chtěl vybudovat prostě takové jako špičkové
+oddělení, kde, já nevím, jestli třeba znáte
+Claude'a Shenona,
+co vymyslel informační teorie,
+tak prostě jeden z nejslavnějších
+jako matematiků toho minulého století,
+ten právě pracoval v těch Bell Labs, takže
+vlastně ta firma měla tehdy monopol
+v oblasti telefonů,
+tak komunikace,
+tak tehdy dávali peníze
+prostě na vědu a měli tam lidi,
+který vymýšleli prostě věci,
+které pak měly obrovský impact.
+Další takový příklad byl,
+jako Zirox Park, což
+byly jako kopírky a zase, když měli hromadu
+peněz, tak si za to postavili
+výzkumnej tým a nechali tam dělat lidi
+jako super zanímavý věci. Myslím, že tam
+vymysleli jako počítačovou myš nebo co já vím, co všechno.
+Takže tohle to mělo
+jako vzniknout ve Facebooku, tak to
+jako ten Jan taky mi jako nasliboval
+a znělo to jako
+super s tím, že mě se tedy
+moc nechtělo odcházet z toho Google, protože tam už to fungovalo.
+Měl jsem rozpracovaný projekty a
+věděl jsem, že když odejdu,
+tak ti moje ambiciozní kolegové
+tam jaksi vymažou moje jméno a napíšou se
+na to sami, což se samotně potom stalo.
+Takže bohužel,
+to je prostě život, nemůžeme mít všechno.
+Nakonec byl jsem
+zvědavý, jak by to vypadalo jinde taky, protože
+jak jsem říkal, i ten Microsoft, Google, tam se chtěla
+vyskúšet oboje, tak jsem si říkal,
+že jenom jednou, kdybych skončil v Googleu na zbyté
+kariéry, tak nebudu mít o čem povídat potom
+na podcastech, takže aspoň budu mít
+víc zajímavostí.
+Tak jsem šel teda do toho
+Facebooku s tím, že oni mi tam sice nabízeli
+původně víc peněz, ale pak Google to přebyl
+docela výrazně, takže kdy jsem
+odcházel do Facebooku,
+tak jsem vlastně odcházel za trošku
+méně peněz, než co mi nabízel Google
+a s tím, že Google mi ještě nabízeli, že se tam můžu
+postavit celý tým a kde si, co si,
+ale zase
+nebyl jsem tak úplně přesečený o tom,
+jak by to bylo, kdybych zůstal v Google, tam to bylo
+sice docela dobrý, ale oni taky měli právě
+tu tendenci, jako nechat ty lidi
+dělat třeba na nějakým novým projektu rok, dva
+a pak jim to jako zaříznout, taky jsem to jako
+jí potkal jako výzkumníky, co měli
+jako spoustu slibů a pak jako z toho nic nebylo.
+– Taky máte své pohřebiště.
+– No, jasně, rozhodně.
+Takže to bylo
+takové jako těžko vybírat, co
+by mohlo být lepší.
+Mně tehdy přišlo, že tomu Google by to bylo
+super, jenže to bylo taky v době, jedna z
+věcí třeba, co mě jako odrazovala
+popravdě byla, když
+jsme někdy na konci
+2013 nebo na začátku 2014
+někdy v té době na přelomu toho
+roku, tak jsme koupili tady
+takový malej startup z Londýna, co se jmenoval
+DeepMind, možná znáte,
+dneska už je teda mnohem větší, ale
+já jsem
+o těch lidech z DeepMindu mluvil,
+prostě s lidmi z Google jako dřív,
+z Google Brainu konkrétně, mně přišlo,
+že tam mají jako zajímavé ambice, oni chtěli
+vyřešit tu AGI, prostě samý takový
+ty vědecké věci, jako tu obecnou
+uměl inteligenci, ale
+na druhou stranu
+jako zase měli takovou
+tendenci přihánět někdy jako docela
+dost to, čeho to tam dosáhli, třeba
+na NIPS konference 2013,
+kde jsem právě prezentoval ten Word2Vec, tak oni měli
+článek o tom, jak hrajou
+Atari hry pomocí něčemu,
+co mu tehdy říkali Deep Reinforcement Learning
+a jako udělali kolem toho velkou bublinu
+a jako samozřejmě se na to kouknu a jsem říkal,
+no takhle to by se dalo vyřešit pravděpodobně
+výrazně líp a i s ničím triviálním,
+jako jsou evoluční algoritmy, což popravdě
+po letech taky lidi udělali a taky se to tak
+dopadlo a když jsem se ptal těch lidí
+interně, protože se to měl nějaký známý,
+tak říkali, no to je projekt, co tady dělal jeden
+tady student asi dva měsíce, jo, ale
+teďka to prezentovali jako největší úspěch
+v oblasti AI za posledních 150 let
+a takhle, že bylo to strašně nafouklý
+a nikdo je tak nebral úplně moc vážně,
+ale pak je jako
+blesk z čistého nebe, přišla
+zpráva jako interně, že
+kupujeme za částku,
+která je neveřejná,
+ale že teďka s níma budeme dělat a během pár
+hodin se ta částka někde prokecla
+a ukázalo se, že těch pár lidí,
+co tam byly prostě takový 3-4
+věci, jakože docela dobří a dalších
+takových 20 spíš do počtu
+a to bylo všecko, tak jsme je koupili
+za 500 milionů dolarů
+a to stačilo, viděli tím počtem lidí, že za každýho
+jsme zaplatili asi jako 20 milionů dolarů,
+kdež oni vlastně
+neměli žádný business plan,
+neměli žádný income, neměli žádný
+produkt, brali tam lidi
+za třetinový platy, než kolik se platili
+jako pro začáteční
+pozice v promyslu
+a chodili tam lidi, protože jak říkám, mě se tam známí,
+chodili tam lidi, kteří se nedostali nikam jinam
+a teďka je koupíme
+za takovýhle prachy, když tam prostě povídají
+ty pohádky. Prostě
+dost lidí interně
+v Google bylo takových jako
+neúplně nadšený, třeba francouch
+z toho Google Translate, jak jsem ho zmiňoval, co tam vedl
+tady ten tým asi 10 let, ten si tam
+furt stěžoval na to, že nemá rozpočet, aby nabral
+víc lidí, aby mohl dělat nějaké nové věci
+a najednou boom a 500 milionů dolarů
+jako tady zahučí někam do Londýna
+nevadí, tak já jsem se za ním ajel podívat
+ještě na návštěvu, že s nima
+jako promluvím a uvidíme, jestli se s nima dá něco
+dělat. Byl jsem tam týden v Londýně
+někdy asi v březnu nebo takhle
+2014 a jako
+nevím, přišlo mi to dost takový,
+že moc jako neví, co mají
+dělat, když mi tam vykládali ty jich plány
+jako se tam bavil s tím Shaneem
+Leggem, co tam bylo jako s CTO nebo
+tohleto, co tam chtěli
+jak chtějí prostě využít ty peníze od Google
+co teďka dostali a jak budou rozšiřovat
+jim a jak chtějí vlastně
+vyřešit tu AGI a takhle
+a tak mi tam vykládal prostě tady ty věci
+no tak tady máme experty na
+neuroscience, na to jak fungují prostě
+ty biologický mozky a tady
+budeme prostě někde dělat něco
+tady s tou oblastí a budeme studovat
+jak tady v neokortexu, jak tady
+komunikují neurony, jak jsem říkal,
+za blbosti se nikdy nic nebude, tohleto už tady
+jsem slyšel 150x, nikdy z toho
+prostě v praxi pro machine learning
+nebylo prostě vůbec nic, takže
+to mi přišlo takový neupřímný, protože
+mi přišlo, že on sám tomu nevěří, ale prostě
+Demis Zasobis, který vedl
+DeepMind, tak měl vystudovaný právě neuroscience,
+takže ten zase nerozuměl machine learningu
+a tak se snažil tlačit tady ten směr,
+ale bylo to dost takový,
+dost pochybný. Když jsem se tam
+ptal, jestli tam třeba plánují najmout nějaký
+lidi, co jsou třeba experti na computer science,
+tak to tedy přišlo až takový
+ohrnování, no jsem říkal, takový lidi nepotřebujeme.
+Přitom jako AI, jako pojem,
+vymysleli lidi z computer science, tak tady mi to
+nebo to minimum description, když jsem zmiňoval
+kompresedat,
+to jsou prostě věci,
+co jsou prostě z computer science,
+takže Turing machine,
+Turingův test, to jsou
+prostě zase úplně základní pojmy tady
+v tomto omboru.
+– To tě nakrklo teda, jestli... – No to jo, to je
+docela dost, protože mi to přišlo, že
+na to, že nic ještě nevymysleli a teďka budou
+ohrnovat hnost nad lidmi, kteří teda jako vymysleli
+úplně tady tyhle základní pojmy
+a tak... – Za 20 miliard na jednoho
+nebo kolik se říká? – 20 milionů.
+– Milionů teda, milionů. – Takže
+půl miliardy korun na takový
+jako začátečníky de facto, takže
+tohle to... – To není špatný.
+– No, bylo to prostě takový zvláštní, na druhou stranu
+tehdy taky jako Facebook kupoval
+Instagram asi za miliardu a měli tam
+možná tři zaměstnance, ale to jim nakonec
+se ukázalo jako dobrá investice. Koupili
+taky WhatsApp, co měl myslím 50 zaměstnanců
+za 20 miliard dolarů, takže tam
+prostě lítali takové nějak různě šílené
+částky a přišlo mi,
+že často ty lidi, co jsou ve vedení
+těch firm, zase jako Zuckerberg, Larry Page,
+tak když se ráno probudí
+a mají prostě nějaké vnuknutí, tak jsou schopní
+tady vyhodit romadu peněz a jim to docela jedno.
+Nevadí, to ještě nebylo všecko. Pak ještě
+za námi přijeli z DeepMindu
+o měsíc později, to jsme měli společný sympozium
+s Google Brainem jako v Kalifornii,
+že přijeli za námi na návštěvu
+celý tým a
+tam to bylo zase takový, jakože
+ukázali vlastně model,
+který byl natrénovaný
+na počítačových hrách, že to viděl jako
+video, jak někdo hraje počítačový hry.
+V podstatě zkomprimovalo to video,
+ale zkomprimovalo to hodně jako zašuměně,
+takže tam lítaly nějaké artefakty
+a oni teďka říkali věci jako
+no ten počítač jako sní a to má
+jako halucinace a teďka,
+když vidíte, že se tam jako ta kompresi
+byla mizerná, že když to dělá něco blbě,
+tak to jako halucinuje
+a kde si co si jako házeli tady
+tyhle pojmy. Lidi se tam
+jako seděli jako
+během té prezentace, co byly jako interně z Google,
+co byly právě takový ti experti, co byly
+já nevím, tady specialisti zrovna
+na ten překlad nebo takhle. Všichni si jako
+klopany na čelo to tam povídejí za pohádky.
+Nevadí prostě. Měli jako
+krytí od Larry Page, protože s tím to
+domluvil tady ten demizosobis, takže
+si tam mohli povídat cokoliv. Pak tam začali
+vykládat, že jo třeba
+když já jsem přišel s těma neuroní a jazykama
+a modelama, tak mi to trvalo možná
+těch pět, šest let, než
+jsem dokázal porazit engramy
+na entropii, to bylo asi o nějakých deset
+procent. Oni tam tehdy přišli s tím, no
+my tady ty jako modely jako zlepšujeme
+na entropii o deset procent každej týden.
+Takže jako prostě
+to byly takový žvásty, jo, vyloženě.
+A prostě
+kecali o sobě, že jsou
+nejlepší AI tým ve vesmíru, fakt
+to takhle říkali, jo. A
+jako dost lidí strašně strali.
+Ale to už nebylo sales,
+to říkali nám interně v rámci firmy.
+A to už byly naši kolegové, jo.
+Takže to bylo jako fakt, to strašně strali
+dost lidí. A dost lidí tehdy
+taky začal odcházet, protože jako to se
+nedalo zvládat psychicky.
+A tohle to k tomu rozhodně pomohlo,
+že jsem si říkal, no tak jako možná někde
+jinde to bude trochu lepší.
+Nakonec to popravdě v tom Facebooku bylo podobné, ale
+zase z jiný strany, ale
+možná je to prostě ten korporátní
+svět, a když je někde hodně peněz, tak se tam
+dostanou prostě tady tyhle lidi, jak říkám,
+Elizabeth Holmes nebo Denisa Slabys,
+já je vidím jako na podobných rovních.
+No tam určitě, no a tak když to takhle schrnu,
+jak jsi povídal
+o té americké stáži,
+jako stáží, myslím, celou tu
+části tvojí kariéry,
+tak chtěl bys to vůbec znova?
+Jseš rád, že jsi to zažil a doporučil
+bys to vlastně svýmu
+mladýmu já znova to udělat?
+A samozřejmě mířím těmi na
+různý talenty, který tady v Čechách jsou
+a smysl, protože já to vždycky
+od tebe slyším už po druhý a vlastně si sám nejsem
+jistý, jestli to je ta správná cesta.
+Já si právě myslím, že kdybych tam tehdy
+jel s tím, že bych věděl, co vím teďka, co tady
+vykládám, tak bych se nenechal
+jako kolikrát napálit různýma
+blbostma, nebojoval bych tam, kde je to úplně
+zbytečný, prostě ty podvody tam jsou
+a člověk nemůže vydešit všecko
+a zase, když mluvím
+o těch negativních věcech, ty jsou prostě všude.
+Máme je tady v Česku taky.
+A ty pozitivní věci, podle mě,
+furt jako dost přivažovaly, protože já si tam toho
+jako spoustu naučil, kdybych strávil tu kariéru tady
+v Česku, tak vůbec netuším, jak
+funguje to Silicon Valley, jako na čem je to
+postavený a jako
+to je fake until you make it
+a když to člověk nezažije, tak ono to má svoje
+pozitivní stránky, ale i ty negativní stránky
+a zase ten dokument o tom terénu
+si myslím, že je hodně takovej, jako že
+člověk do toho může dostat takhle v let
+externě, když se to prostě pustí a mě to
+jako, když jsem na to koukal, ten dokument
+do toho Netflixu teda konkrétně, tak
+ten mi připomněl tu atmosféru Silicon Valley
+docela dost, že tam taky v tom dokumentu
+jsou vidět různý technické lidi, kteří jsou fakt
+dobrý v tom oboru, ale pak je tam
+taky ta Elizabet, která tam prostě bullshituje
+všechno a ještě tam lítá s těma právníkama,
+takže prostě
+je to takový, takže kdybych tam
+tehdy jel s tím, co vím teďka, tak
+si myslím, že bych si to tam užil víc,
+prostě si myslím, že je dobrý
+jako být připravený na tady ty věci,
+zbytečně to neprožívat a spousta věcí
+je tam samozřejmě výrazně lepší, třeba
+takový plat, co jsem tam měl tehdy, tak jako v Česku
+to tady nikdo nemá, takže asi tak.
+– Jo, tomu rozumím, tomu rozumím, no a
+ale přece jenom tě teda něco
+donutilo vrátit se zpátky,
+byla to nějaká
+touha vrátit
+něco tomu národu, kde jsi se narodil,
+kde jsi studoval, nebo
+je to i kombinace toho, co špatnýho
+jsi zažil za mořem,
+nebo jak bys to definoval? – No já bych neřekl
+donutilo, ale v podstatě
+spíš já už jsem měl těch možností
+vícero, že už jsem
+mohl jako si vybírat, kde chci bejt,
+kdybych chtěl prostě pracovat, já nevím, v Číně,
+tak bych šel do Číny, mohl jsem
+dělat prostě někde v nějaké
+evropské zemi, a v Americe
+už se mi tak úplně zůstávat nechtělo,
+protože ten výzkum se tam
+neposouval tak, jak jsem
+si myslel, že by mohl, protože ono to
+externě vypadá úžasně, ale zase,
+když se podíváme na to oblast těch jazykových modelů,
+tak za těch posledních deset let se objevilo
+jako v médiích strašná hromada
+jako přelomových zprávek, je to zase
+strašně lepší, ale v podstatě to,
+co ty jazykový modely principiálně
+neuměly před deseti lety, tak neumí dneska,
+a ty modely dneska jsou větší, protože se
+na to jako sehnalo víc peněz a je tam
+víc anotátorů, víc dát
+jako data plus ty modely
+plus výpočetní prostředky, to je vlastně
+to hlavní, co se posunulo. Ono se trošku
+poměnili ty modely, ale z toho,
+co vidím prostě na těch benchmarkích, tak ono to
+ani nevypadá, že ty jako modely
+dělají něco jinýho, než
+dělali před těmi lety, tam jsou prostě spíš takový
+kosmetický změny, takže abychom se
+dostali k té umělé inteligenci, tak mi to
+přišlo, že
+tady ten systém to moc neposouvá,
+jak říkám, taky já jsem tam dělal
+celou řadu let, už jsem tam moc
+neměl, co bych se tam jako posunul
+nebo naučil a ty korporace
+myslím si, že často
+jako mají takový ty velký prohlášení,
+jak jako míří na tady ty moonshot
+projekty, to bylo v Google třeba,
+v tom Facebooku, taky jsme prostě měli tady
+deset let jako
+roadmap, co budeme jako za deset let
+jako vymyslíme přelomový věci, ale
+to se pak jako začalo strašně rychle zkracovat
+a nakonec tam šlo o takový incrementální
+vytváření toho, že se skompilují ty věci,
+které už existují dohromady a
+udělá se kolem toho třeba nový produkt,
+což je úplně v pohodě, já proti tomu
+nic nemám, ale pak zase se nevydělal
+důvod, proč bych měl jako strávit celou kariéru
+tak, že pracuji pro někoho jiného, když se můžu
+vrátit třeba do Česka nebo
+ani jsem se samozřejmě vracet nemusel,
+to se to mi jako přišlo zajímavé, protože
+jak jsem cestoval po světě, což je taky výhoda
+těch věců, že se podílej na všechny
+možný konference, tak mi to přijde,
+že nakonec jako tady jako v Česku je to
+docela fajn, ale to zase člověka
+myslím, že na to má jiný vhled po tom, co stráví
+třeba jako do sebe v zahraničí, no ale
+jak říkám, neměl jsem
+tu představu, že strávím celý život
+tím, že budu dělat pro někoho jinýho
+na něčem, co mi ani nepřijde jako důležitý
+a vylepšovat tam nějaký
+detaily nějakých systémů
+a mi prostě nepřišlo
+jako dostatečně naplňující, jak jsem mluvil
+na začátku o těch počítačových hrách, že v nějakým
+vodě jsem to viděl jako, že
+už mě to jako v podstatě
+nebavilo a neviděl jsem v tom ten potenciál
+do budoucna, že z toho vznikne něco zajímavého,
+tak ta práce v těch korporacích
+mi prostě dala toho
+spoustu, ale časem
+s příbývajícím časem
+vlastně mi toho dávala míň a míň
+a už
+mi to prostě nepřišlo zajímavý
+a taky jsem
+jako od dětství měl jako v plánu,
+že bych si založil třeba nějakou vlastní firmu
+tady jako v oblasti umělé inteligence
+nebo počítačových her a dělat něco zajímavého,
+abych pořád nepracoval jenom pro někoho
+druhýho a tohle to zase jako
+zaměstnanec člověk nemůže.
+Když jsem se vracel do Česka, tak jsem tady to v plánu
+měl, že jsem tady chtěl prostě začít
+výzkumnou skupinu na univerzitě, což jsem
+teda začal a pak
+z toho udělat potenciálně nějakou
+firmu, to jsme začali ještě nedávno popravdě,
+takže teď jsme tady něco zakládali
+před měsícem a jsme jako
+na začátku, takže nebudu dělat žádný velký
+prohlášení, ale to mi zase přijde jako
+dost jako zajímavější
+zkušenost, než dělat celý
+život jednu a tu samou věc.
+A ty jsi na to krásně navázal, to mě dostává
+na tu tvůj současnou štaci,
+byť teda ty jsi zmínil ještě něco jiného,
+na to se ještě doptám, ale
+ČVUT, tam teda působíš pořád?
+Jo, jo, jo, na cirku.
+Jo, jo, na cirku. A co děláš tam?
+Mám tam
+malou výzkumnou skupinu, klidně by mohla
+být i středně velká, nechci mít vyloženě
+velkou, ale přece no na těch školách
+je to dost o tom získávání těch grantů
+a o penězích, takže zatím
+prostě dělám, co umím, myslím, že se naučit
+jak funguje ten systém
+a financování vědy tady jako v Česku
+a v Evropě vůbec, takže zatím
+tam mám malou výzkumnou skupinu, kde se
+studentama píšeme prostě články
+o takových jako víc ezoterických
+tématech, než je to, co už
+funguje, to znamená, že už to není
+jenom prostě o language modelech tady
+natrénovaných na velkých datech, ale
+děláme tam, nebo dělali
+jsme v posledních letech i takový
+jako průzkumnější témata
+jako třeba jak měřit
+komplexitu, respektive
+složitost v různých
+matematických modelech s tím, že
+ta vize byla, že bychom mohli
+vymyslet třeba
+novou architekturu neuronový sítě,
+nebo novej matematický model,
+kde by komplexita spontánně
+narůstala. Máme takový příklady, kde to teda
+funguje, je to takový jako
+zajímavý obor pro lidi, co třeba
+znají jako Game of Life, tady tyhle ty věci,
+to jsou takový nějaké ty kostičky, co se
+sami jako na základě pár pravidel
+v čase jako kdyby rozšířují
+svoji složitost a zdálnivě
+fraktály jsou taky jako strašně zajímavá
+podobná oblast, kde můžeme vidět skoro až
+jako kdyby nekonečnou složitost
+nebo nějakou variaci na různý
+vzory a tak dostat tohleto
+do machine learningu by mi právě přišlo
+jako super v tom, že by to dokázalo
+překonat některý ty bariéry, který teďka
+máme. Zase kdybych mluvil o language modelech
+a o těch jazykových modelech a jak jsem
+na nich dělal prostě celou kariéru, tak ty
+mají právě tu bariéru v té
+kreativitě, že oni vlastně nedokážou překročit
+ten svůj stín, oni vychází z trénovacích
+dat, ty nějakým způsobem popíší,
+ale i když
+třeba ty neuronové sítě oproti
+engramům dokáží generovat zdánlivě
+nové věty, oni jsou pořád v určitý
+distribuci a
+jako třeba i největší
+neuronový jazykový model dneška, tak
+není schopný si vymyslet vlastní jazyk, což
+může znít jako teďka říkám
+nějaký ezotéma, na co bychom potřebovali vymýšlet
+vlastní jazyk, ale tam dá právě tu možnost
+tý kreativity, vůbec vymyslet
+něco novýho a když to přeženeme až
+do toho vlastního jazyka, tam
+už je to prostě zjevný, že tady to není možný
+a lidi to přitom dokážou. Já
+někdy dávám jako příklad Tolkiena,
+který si vymyslel Alvštinu
+a prostě my tady ten potenciál
+máme a ty současné
+matematické modely, jako ty neuronové
+sítě, jak je používáme, ten potenciál
+nemají, tak si to dá prostě
+případně ukázat, ale
+je možný vytvořit
+jiný typ těch neuronových sítí, který by
+právě ten potenciál zase měli a tam by
+přišlo zajímavý, jak by pak vypadal jazykový
+model, který právě je kreativní a který
+dokáže vytvářet nové věci
+a posouvat se v té distribuci
+někam dál. Takže tohle to je
+hodně takový jako high level popis
+a zase tohleto je
+věc, podle mě, jako na desítky let výzkumu
+to není jako, že bychom přišli a takhle mávili
+kouzelným proutkem a no to začne hnedka fungovat a ne.
+– Jasně, jasně. No a ty jsi zmínil,
+že z toho vlastně
+vzešla nějaká společnost.
+Chceš o tom něco říct, nebo je to ještě too new,
+aby si vůbec zmínil, o čem se měl teď?
+– V podstatě malý startup jsme teď zakládali, ale zase já jsem se
+tady v oblasti těch jazykových modelů pohyboval
+a řadu let, když jsem byl v korporacích, tak jsem
+samozřejmě viděl i ty business příležitosti, ale to jsem
+byl zaměstnanec a když jsem se vrátil do Česka,
+tak za pár měsíců začal koronavir,
+takže to tady jako celý zamrzlo a
+nesmělo se chodit ven a co já vím, co všechno.
+Ale teďka už to zase začíná
+vypadat jako normální společnost, tak
+jsme zakládali teďka
+startup a ten zase nemá vědecký
+ambice, ten má spíš takový ambice právě,
+aby se tady jako dali
+sehnat peníze třeba i na ten výzkum, aby
+tady něco se rozběhlo a mě třeba
+není úplně jako sympatický tady ten
+evropský systém všemožných dotací
+a grantů a všechno je to takový jako
+takový úřednický perpetum mobile,
+že tady rozhodíme hromadu peněz, hromadu jich vybereme
+na daních a pak to někdo bude předozdělovat
+a často prostě to je tak, že
+Silicon Valley předozděluje peníze investor,
+který se je vydělal a když je dobrý, tak se vydělá
+víc a může to víc předozdělovat. V Evropě
+to rozděluje prostě úředník, který
+když to rozdělí dobře, tak s toho nic nemá,
+když to rozdělí špatně, tak s toho taky nic nemá
+a tak, jestli to dělá dobře nebo špatně, tak je úplně jedno.
+Takže ten systém tady jako nepodporuje
+to, aby se to tady rozdělovalo líp.
+Takže jako nejsem toho
+velký fanoušek a zase
+vidím tady potenciál vytvořit
+něco, co má prostě hodnotu ve společnosti,
+kde nemusíme vymýšlet
+prostě kolo a můžeme použít
+jenom ty existující jazykový modely v oblasti, kde se
+ještě nepoužívají a těch oblastí je celá řada,
+tak, aby to mohlo jako vydělávat peníze
+vlastně mít tuto přídenou hodnotu pro tu společnost.
+Takže hodně, hodně jako obecně.
+Jasně, ale budeme se těšit,
+tak to teda budu sledovat.
+Tak startupy, já myslím, že stejně 90% z nich jako zkrachuje,
+takže já to beru spíš, aby mě to bavilo.
+Jasně, jasně.
+A jak ti pomáhá to jméno, který máš
+už v tomhle oboru? Tam si myslím, že
+oproti, jsi mýl, že startupy krachujou,
+ale ty vlastně z tohle pohledu
+nejsi žádný startup. Ty jsi jméno jako
+ověřeno lety a zkušenostmi
+a výsledky.
+Tak třeba sháníte jim nějaký
+externí funding, nebo pomáhá ti to
+v tom, nebo naopak si řek, že vůbec nebudeš
+potřebovat žádný jako externí fondy
+a zatáhneš si to sám?
+No, určitě mi to pomáhá třeba se sháněními
+lidí, jakože se mi občas hlásí
+zajímaví studenti, ale to samozřejmě
+taky budeme ještě na tom muset pracovat,
+abychom měli těch lidí víc a to mi přišlo
+jako ten první hlavní krok, která po tom,
+že kteří doopravdy budou tady tyhle věci
+jako implementovat a
+co se týče financování, tak to jsme
+schopni nějak zatím si zaplatit
+z vlastních zdrojů. Mně to právě přijde
+popravdě takový jako nesympatický, když jsem zmiňoval
+ten Teranos, to je pro mě prostě takový příklad
+něčeho, co rozhodně nechci dělat.
+Takže když někdo investuje
+cizí peníze a nevěří sám tomu svýmu projektu
+a hnedka prodává jako
+podíl ve svý firmě ještě než
+jako kopnul do země, tak mi to
+přijde hodně jako neseriózní, takže
+na začátku financování vlastně
+nepotřebujeme, abychom si dokázali vytvořit
+nějaký jako proof of concept a podle toho, jak to bude
+vypadat, tak se sami rozhodneme dál
+a to externí financování
+bez tak v tom jako
+nejzákladnějším
+případě, to jsou v podstatě jenom peníze
+a když ty peníze vyloženě nepotřebujeme,
+tak proč bychom se vzdávali
+podílu na firmě,
+který jako věříme, to nedává smysl.
+Takže spíš bychom s tím počkali
+pokud by nám to umožňovalo jako výrůst
+rychleji, než bychom zvládli bez
+nějakého externího fundingu, tak super.
+Pokud by nám to dokázalo přiníst třeba právě ty
+business příležitosti, kde už to jsou
+prostě takoví ti investoři, kteří ti taky
+propojí s někým, tak to by mohlo být zajímavý.
+Ale vyloženě jenom, že bych si šel
+netka na začátku pro peníze, to mi nepřijde, že teďka
+je kámen úrazu. Já si myslím, že
+největší problém teďka jako
+startupů v oblasti strojového učení,
+tak je sehnat dobrý lidi,
+kteří to budou prostě dělat, protože teďka
+je ten trh pořád ještě hodně přehrátej.
+I když se už začalo jako třeba
+vyhazovat v Americe a v Ázii, tady v těch
+technologických firmách, tak si myslím, že
+v Praze je pořád mnohem větší
+poptávka po těch lidech, co mají aspoň
+trochu zkušeností právě s tím AI,
+strojovým učením, než je káj
+nabídka. A kde se do toho teďka
+obecně na světě nejvíc hlapí? Já bych třeba
+čekal, abych třeba Čínu, tam možná
+ideologicky neúplně nám
+příjemných důvodů, kde chtějí to strojové
+učení posunout, řekl bych,
+do těch lidských životů asi dál, než bychom
+to ze západního pohledu rádi viděli.
+Ale data jsou pěkně otevřená, takže jako business
+příležitost asi velká. No tak rozhodně
+jako Čína a Amerika, to je jako bez
+diskuze, tam se do toho investuje nejvíc, protože
+v obou částech světa
+to teďka vydělává velký peníze.
+Já už jsem o tom taky mluvil
+asi na jiných podcastech,
+jako tady z tohohle
+lidska jako kritizuju to, jak to
+funguje u nás v Evropě, protože si myslím,
+že když se na to podíváme z toho
+makroekonomického lidska, tak fakt teďka
+AI je vlastně nová
+technologie, je to součást
+Big Techu, jako v Americe tomu říkají,
+máte prostě Microsoft a Amazon
+a Apple a Google,
+Facebook, Netflix, všechno možný.
+A nemalá část teďka těch firm
+je vlastně postavená tady na těch
+technologiích, strojových učení a
+tohle to nám prostě ujel vlak úplně
+v Evropě. A my
+jako tady tuhletu
+část průmyslu nemáme,
+máme tady pár malejch firm,
+který taky něco dělají, máme tady já nevím Spotify,
+máme tady Avast a možná
+SAP a já nevím, kdo tady ještě je, ale
+to jsou jenom takový drobky,
+v porovnání s těma gigantama z Ameriky.
+Když se podíváme na jedinou část světa,
+která tomu dokázala úspěšně
+vzdorovat, tak je zrovna ta Čína, kterou
+sice si tady můžeme kritizovat, jak chceme,
+ale já si myslím, že tam docela dobře rozpoznali
+tu hrozbu toho, že se stanou
+vlastně takovou kolonii Ameriky tady v té technologické
+oblasti, že budou jenom nakovovat draze
+produkty, které už pak ani nebudou schopní si vytvořit
+sami, takže oni to vzali jako
+komunisticky natvrdou, diktátorským způsobem,
+že řekli, tak my to tady zakážeme a vytvoříme si
+vlastní klony, což teda udělali, takže tam mají
+prostě místo Google tam mají nějaký Baidu
+a místo Amazonu tam mají Alibabu
+a co já, vy mají tam prostě klony na všechno.
+A to jim taky později
+umožnilo vznik toho technologického
+sektoru, který jim dokáže vygenovat
+třeba novej produkt, který se
+používá celosvětově. Příkladem je
+třeba TikTok, že?
+Ale pravděpodobně to bude vznikat víc.
+Zase, kdybychom se podělili na Evropu,
+tak my tady ten protekcionismus nemáme,
+my to máme postavený přesně naopak až
+na hlavu, že místo to, abychom zvýhodnili
+domácí firmy, jak to dělá
+prostě Čína oproti zahraničním,
+tak my naopak zvýhodníme zahraniční
+firmy oproti těm místním.
+Takže zase, když se podíváme,
+myslím, že lidi zase znám, to tady jsem viděl,
+že kritizovali před pár lety, kdy tvrdili,
+že tady platí asi 30% ze zisku
+na daních, zatímco Google si to vyučte
+všechno v jersku a zaplatí 0%.
+A to jsou vlastně Microsoft
+a Amazon a Facebook,
+Google, všechny tady tyhle firmy prostě
+využívají tady různý kličky, že si
+vyučtujou všechny příjmy z Evropy v jersku,
+který jim tam nasadí takovou jako přátelskou
+daněvou sasbu 0, něco
+procenta. Takže jersku
+vyrostlo HDP za posledních 15 let
+jako raketově, jsou tam strašně
+bohatí, ale to je na úkor vlastně celého
+zbytku Evropy. Takže já si myslím, že
+tady je dost jako dysfunkčních věcí
+a my si tady můžeme řešit různý
+detaily, ale pokud se
+tady tohleto nespraví, tak ta naše budoucnost
+jako není růžová.
+Já se ještě zeptám na jednu věc, která
+mě zajímá, protože ty jsi člověk, který to dokáže
+rozpoznat. Teďka aktuálně
+AI, řekl bych, že je všude,
+v každou chvíli vidím nějakej článek,
+toto je seznam jobů, který AI
+nahradí v nějakém jako horizontu.
+Je něco, u čeho ty vidíš,
+že to je jako očividnej bullshit,
+i vzhledem k tomu, že jsi prošel těm firmám
+a už víš, že se to kolikrát
+zabalí do těch jako fancy kabátků
+a třeba technicky, jak jsi zmiňoval,
+ten koupenej startup, to není tak dobrý.
+Je něco, co je teďka hype
+jako prasé a ty zároveň víš,
+že to prostě není tak dobrý?
+Tak před lety už se říkalo
+jako v té naší vědecké komunitě, že
+co se týče třeba samořídících aut, že je to
+jako dost přehypovaný a když třeba
+já nevím, kdy jsem byl zrovna v tom Google
+a asi 2012 už tam jezdili jako
+po Mountain View tady ty samořídící auta,
+protože tam přece jenom to počasí a všechno to bylo
+mnohem jednodušší, ale tehdy jako jsem
+zaznamenal lidi jako z oboru byli dost skeptický
+a říkali, že ty sliby, že to za dva roky
+bude všude na světě, že je to nereální, teďka
+máme rok 2023 a pořád mi přijde,
+že ty lidi z toho oboru tak jsou dost jako skeptický,
+když teda s nima člověk mluví
+mezi čtyřma očima a neposlouchá ty PR
+a pohádky, takže tohleto už
+ale není jako současný hype.
+Teďka jsem zaznamenal hype kolom těch
+language modelů, což mě samozřejmě na jednu stranu těší,
+protože se to bude
+konečně jako víc používat a ten potenciál tady
+rozhodně ještě vidím jako v mnoha oblastech.
+Na druhou stranu, když pak někdo začne
+pro získání pozornosti vymýšlet jako
+ty keci, jakože language modely už asi mají vědomí
+a podobně, tak to už jsou blučity, takže
+ne, vědomí nemají a jako to je pořád
+matematický model, co tam vychází z jednoduchý statistiky.
+Takže neříkám, že vědomí mít jednou nemůžou,
+ale prostě o to jsme ještě strašně daleko
+a dokud to nebude mít aspoň nějakou
+základní paměť srovnatelnou se člověkem
+třeba co se týče epizodické paměti,
+tak to ani nemá cenu o tom mluvit, ale to už bych
+zacházel do těch věcí, co ty modely
+neumí a nebudu to asi
+razobírat do detailu. Co je teďka
+ještě hype vlastně v AI?
+No tak největší hype je samozřejmě,
+bavíme se o tom chat GPT
+a to mě zajímá jednoznačně,
+ta otázka musela padnout.
+Co si o to myslíš a jaký to má
+z TV-ho pohledu potenciál?
+Já myslím, že potenciál je velký,
+otázka je, kam se to
+posune, to se těžko předvídá.
+Já jsem popravdě už, když jsem byl
+v tom Google Brainu, tak jsem tam jako v tomhle chodil
+za lidma a říkal se jim, no tak dívejte ty
+neuronové jazykové modely, to prostě se dá
+tím nahradit, tím můžete nahradit celý
+jako vyhledávač. A to bylo
+těch deset let zpátky taková korporace,
+takže jako to tam nikdo
+moc neposlouchal, ale
+maximálně mi na to odpověděli, že to by byla taková
+velká změna toho Googleu, že to se nemůže
+nikdo dovolit a kdesi co si, ale
+pak jsem o tom ještě
+mluvil jako za ty roky x
+krát, před půl rokem jsem o tom
+mluvil na nějakým workshopu, tady je evropský projekt
+na vytvoření nějakého open source
+Googleu, mimochodem asi 8 milionů euro
+si na to dalo z evropského rozpočtu,
+taky jsem tam prostě popisoval, že
+když mají teda peníze, aby tady stavili
+jako nějaký evropský Google, proč to
+neudělají prostě na ty nový technologie, proč tam
+chtějí zase dělat ten reverse index a jde tady
+ty technologie z devadesátek, když by tam
+mohli prostě plácnout ty dohromě jazykový modely
+a můžou jim prostě vyhledávat,
+který už nebude jenom indexovat
+ty stránky a odkazovat lidi pomocí klíčových
+slov na stránky, který obsahují klíčový slova
+a který třeba dokáže tu stránku
+vytvořit přímo pro konkrétního člověka.
+Takže o to jsem měl tady prostě přednášku
+někde na dálku, bylo to teda na Cernu
+ve Švýcarsku, ale mi se tam nechtělo letět, takže jsem se jenom
+připojoval tady z Prahy, ale možná je to
+video někde prostě
+dostupný. Každopádně tohleto
+o tom už mluvím roky, teďka už se to začíná
+realizovat, myslím si, že to chat GPT tam taky
+jako nečekali, že o to bude takový velký zájem,
+ale jako lidi to začali
+používat a nakonec to dělá přesně
+tady tu věc, že já se tam můžu napsat
+otázku a ono mi to dokáže skompilovat
+odpověď, takže se pak nemusím proklikávat
+nějakýma seznamama stránek
+a kde si něco dohledávat
+a ono mi to dokáže něco
+říct, někdy něco lepšího, někdy horšího,
+někdy si to něco vymyslí, perfektní to
+není, ale přijde mi, že ta kritika
+je často taková
+jako nefér, tady v tomhle tom,
+že jasně, perfektní
+to není, ale
+přece nejde o to, že když se vymyslí nějaká nová
+technologie, že má fungovat na 100%,
+že v oblasti vyhledávání, když začínal
+Google a lidi do toho napsali dotazy a nevěděli, jak ty dotazy
+psát a netušili, co se tam dá najít
+a nedá najít, tak taky to nefungovalo
+na 50% dotazů, že člověk tam
+prostě nenašel to, co hledal, takže
+prostě myslím si, že lidi se budou
+muset na tu novou technologii zadaptovat, nebo ne
+muset, ale spíš ti, kteří přijdou na to, jak to
+používat, tak z toho vytáhnou právě tu příjemnou
+hodnotu, že se rychleji dohrabou
+k informacím, který doopravdy hledají, který by
+jinak přes klasický
+Google vyhledávač nenašli. To bude
+jenom samozřejmě část těch dotazů, možná nějaký
+komplikovanější, ale ta
+hodnota tam podle mě je a ukáže
+se, jak velká je samozřejmě časem
+to, že za to dalo Microsoft 10 miliard
+dolarů, tak mi přijde
+dost velká částka, popravdě
+kdyby byli trošku
+chytřejší, tak si to postaví interně
+sami, ne mění peněz, ale
+vím, jak fungují korporace. On si to
+lehko řekne, ale v rámci korporací, když
+prostě někdo přijde s tím, aha, budeme dělat něco
+jako 4GB, tím máme rozpočet miliardů,
+rozdělí si to tam prostě manažeři, kamarád
+to pošle kamarádovi a nakonec nic
+se neudělá, protože často ve vedení
+těch týmů jsou lidi podle toho, kdo je zrovna
+s kým kámoš, a ne kdo co umí udělat.
+Takže nakonec tohle
+je vlastně ukázka toho, že Microsoft
+přiznal se lhání interní, že
+nebyli schopni tady ty technologie si vyvinout sami
+tím, že to kupují teď takhle draze.
+Takže to taky můžeme vidět
+tady z tohohle hlediska. Já právě,
+když jsem odcházel za to Microsoft Research, tak
+si pamatuju ještě asi po roce,
+bez tak 50% Microsoft Research zredukovali,
+že to vlastně propustili ty lidi, takže
+oni vlastně nevěděli, co s nimi mají
+dělat a bylo to tam takový
+trochu dysfunkční a
+jo, prostě ty korporace
+nejsou ideální a často se to řeší takhle,
+že prostě se něco novýho koupí,
+když už si ta firma nedokáže něco vyrobět
+jako sama.
+No a když ČGPT vylez,
+ty jako obrovský znalec,
+překvapilo tě na tom něco pozitivně,
+že jsi se tam něco vyzkoušel, řekl jsi,
+jo, tak to jsem nečekal, nebo?
+Já jsem vlastně viděl jenom příklady nikde na internetu,
+já jsem to ani neskoušel, protože ty language modely,
+já s tím mám jako dost zkušeností, takže
+nemyslím si, že by mě to něčím překvapilo.
+Viděl jsem ten krátký popisek, jak je to udělaný,
+popravdě jsem přesvědčený,
+že by to mohli dělat levní a líp,
+kdyby tam dělali něco trošku jinak, protože oni tam tvrdí,
+že tam používají reinforcement learning
+a já tam proto nevidím žádný důvod,
+popravdě, kdyby použili
+normálně supervizované učení,
+protože vlastně použijete reinforcement learning pomocí anotátoru,
+že si vygenerují pět různých odpovědí
+pro otázku a anotátor
+pak je vybere a řekne, který jsou dobrý
+a který jsou špatný a přes reinforcement learning
+se snaží, aby ten systém vygeneroval víc ty dobrý
+a mějí ty špatný, ale na to se dá používat
+i supervizované učení, to klasický, takže
+mně to přijde, že to tam zase popletli
+a dělají to zbytečně složitě,
+ale nějakým to funguje a časem
+se to samozřejmě zjednoduší a lidi to budou
+dělat dobře, takže o to se nebojím.
+Takže jakože by mě tam vyložit něco překvapilo,
+tak vlastně ne,
+protože já si myslím, že ten reinforcement learning
+tam do toho pláceli, aby to prostě vypadalo víc mysteriózně
+a to jsou takové strategie.
+Máš nějakou představu,
+kde by ten reinforcement learning fungoval,
+nebo už funguje dobře? Je to tady
+konec koncu jeden z dotazů.
+Jsme skládali trošku s klukama
+z data science týmu, co by je zajímalo,
+protože máme tady i samozřejmě posluchače,
+který se zaměřují víc na data science.
+Tak ta otázka přímo zní,
+který z dosavených přístupů
+trénování AI algoritmů
+ti přijde nejbližší tomu, jak se učíme my lidé.
+Jestli to je reinforcement learning, self-supervised
+nebo semi-supervised.
+Já bych řekl, že to, jak se učíme my lidi,
+tak by mi to asi přišlo na nejpodobnější
+self-supervised reinforcement learningu.
+Na druhou stranu, když se podíváme na to,
+co je v té komunitě a co funguje,
+tak to self-supervised nám funguje už delší dobu.
+To jsou právě ty language modely v oblasti jazyka,
+ale něco podobně funguje jako v oblasti grafiky,
+že se můžeme naučit právě
+ty rozpoznáče obrázku bez anotovaných dát
+a supervised learning mi přijde
+hodně už jako něco,
+co může fungovat úplně a funguje dobře v aplikacích,
+ale nemá to jako stolickou inteligencí
+nic společního, protože nikdo nám nelabluje
+naším neuronům, co mají
+v který okamžik dělat.
+To už je mimo.
+Ale jinak, když se podíváme
+na tu praxi,
+tak já se přiznám, že když jsem
+změňoval ten NIPS 2013 a to reinforcement learning demo
+od DeepMindu,
+tak jsem byl prostě skeptický,
+protože taky,
+když jsem byl student, tak jsem si o tom kdysi četlil
+a přijde mi to jako fajn, ale když se do toho
+člověk prostě ponoří a vidí, co se tam jako
+děje a jak je to řešený
+dneska, tak mi to přijde, že
+ten reinforcement learning,
+že si myslím, že není
+řešený správně a jako principiálně
+jsou tam podle mě jako zásadní
+problémy a když jsme se tady bavili o těch
+přihajpovaných věcech, tak třeba za těch posledních
+deset let nejvíc přihajpovaný věci
+z mýho pohledu a zase jako každý
+to může mít jinak, tak byly jak
+GANy, jako Generative
+Adversarial Networks, který
+v podstatě taky z velké části
+byly bullshit popravdě,
+že se používali tam, kde se dala
+použít jednodušší technika
+a mnohem úspěšněji v podstatě
+v devadesáti devíti, možná v stoprocentech
+případů, nebudu říkat stop, protože
+nevím všecko, ale z toho, co jsem
+viděl, tak prostě bylo strašně přihajpovaný
+a popravdě už to upadá, což jsem
+teda jako rád, protože jednodobo to byla úplná
+mánie a potom se Jan Lekan
+prostě prohlásil, že to nejlepší nápad
+byl a i za dvacet let lidi se na to vrhli
+a přišlo mi to trochu podobně jako
+Aldie před patnácti lety, dělali to všichni, kdy to
+nefungovalo, takže asi tak, ale
+to byla ta Latent Dirichlet Allocation
+a pak ten
+Deep Reinforcement Learning je další taková přihajpovaná
+technologie, kde jestli
+si o to někdo něco
+převratního slibuje, tak
+bych ty lidi trošku
+vadoval, že možná budou plítvat svým časem,
+ale klidně, ať si to zkusí a neříkám,
+že to fungovat nemůže, ale dost možná po letech
+zjistí, že tam je jednodušší řešení, který je
+hlavnější a funguje líp, protože
+zase nedávno tady byl na návštěvě
+jeden z těch guru reinforcement learningu
+teď je
+Richard Sutton, tuším,
+jak si vzpomínám na ty jména, tak ho tady
+pozvali lidi jako z práky, já i tak
+jsem zrovna byl na nějaký večeři
+a taky jsem se s ním chvíli bavil
+zrovna o reinforcement learningu, tak
+jsem měl takový drzý dotazy ve stylu
+to onošit, prostě takový
+starší pán v důchodu, takže jsem
+nechtěl být nějaký
+nepříjemný, ale zase na druhou stranu, když
+tak všude vykládá,
+jak je to super a jak to funguje, tak
+jestli nějaký konkrétní příklad, kde za posledních
+pět let ten deep reinforcement learning
+fungoval v praxi
+pro v podstatě cokoliv.
+No tak jako dlouze přemýšlel,
+pak začal vymýšlet to alfago,
+jako že to, ale to už bylo jako víc
+než pět let a jako že vlastně
+ten reinforcement learning to vlastně tak zásadní
+nebyl, tam spíš jako se
+používalo to Monte Carlo
+Tresart, že a vlastně to bylo
+jako vyhledávání jako brute force a
+plusy jako dobře ohnocený ten
+stový prostor a prostě reinforcement learning
+v podstatě se tam k tomu připláclal, aby to
+jako vypadalo, ale nebylo to na tom postavený.
+No a pak začal vymýšlet,
+že vlastně všichni bestech ve firmách
+používají A-B testing a to můžeme vidět jako
+speciální verzi reinforcement learning, tak vlastně
+tak je to strašně úspěšný, takže
+jako nicho vlastně nenapadlo.
+Tak a teďka, kdybych se to
+zeptal, tak mi stoprocentně řekne,
+že chat GPT je celý postavený reinforcement
+learningu, zase říkám,
+jsem si více méně jistý, že bych
+dokázal udělat úplně to stejné levnění rychleji
+bez jakýhokoliv reinforcement learningu.
+Takže zase klidně, ať se to lidi
+zkusí, myslím si, že jako nápad je to super,
+dává to smysl, my jako lidi zvířata
+se učíme na podobných principech, tomu
+úplně jako věřím, ale
+to, co se používá teďka v té oblasti,
+tak má různý mezery
+a jako
+nefunguje to zatím.
+Když jsem mluvil s lidmi z DeepMindu,
+kteří tam pracují a ne,
+že dělají ty prezentace, ale normálně jako věci,
+tak mi taky říkali to stejné, že jako
+interně, jako k tomu mají nejvztah,
+než to je jich vedení, který to tlačí
+a vlastně dokázal tu vědeckou komunitu tak dotlačit
+do té představy, že Deep Reinforcement
+Learning je něco jako reálního.
+Učí se to tady i v Praze, různě na univerzitách
+měli učit věci, které fungují
+a takové níž věci,
+které možná někdy fungovat budou,
+že bychom nemuseli upadat
+tady vždycky do těch
+hypeů a trošku mít toho
+kritického myšlení a zamyslet se nad tím,
+než budeme plítvat časem
+studentů, který taky není omezený.
+– To je taková filozofická
+úvaha, jak to udělat.
+Člověk se nasadí
+na nějakou vlnu, protože věří, že to bude
+fungovat a pak je potřeba trávit
+na tím nějaký čas.
+– Tomáš najde nějakou
+jinou vlnu. Já se přemýšlím
+nad tím, že na začátku
+bylo to, že dokázal něco, o čem
+si všichni mysleli, že to nejde.
+Dokázal, že to jde. Čeká
+nás třeba něco takového
+znova, že
+víš o nějakém přístupu nebo o něčem,
+o čem se teďka celá
+komunita myslí, že je mrtvá.
+Že ten přístup, že ta cesta je prostě zavřena
+a přijde zase nějakej
+jako Mikolov, který zase dokáže, který
+to nečet a nevěděl, že to nejde a zjistí, že to jde?
+– Já právě doufám, že
+ta výzkumná komunita
+bude aspoň trošku se věnovat
+tady těm tématům, protože těch je celá řada
+takovejch, který jsou tady mrtví třeba
+20 let, který se
+věří, že nikdy se nedokážou
+rozchodit, ale
+já třeba, kdy jsem tady s těma svýma studentama
+něco publikoval, tak to bylo v komunitě
+Artificial Life, která je taky taková
+hodně okrajová, to je umělej život, přiloženo
+do češtiny a tam jde
+v podstatě o to právě vidět AI
+jako součást
+nějakého systému, který se takhle rozvíjí v té komplexitě
+a složitosti podobně jako
+život a kde může docházet k evoluci
+a tady těmhle těm věcem. Vůbec
+jako evoluce v oblasti strojové
+učení je taky mrtvej pojem, o tom taky už
+dneska nikdo nemluví a přitom v devadesátkách to bylo
+strašně zajímavé, genetické
+programování, algoritmy
+a ono je to hodně jednoduchý si to naprogramovat
+funguje to zajímavě, rychle se to dostane
+do lokalních optym, takže to nakonec jako
+není v praxi tak jako využitelný
+ono se dá ukázat, že vlastně supervizovaný
+učení, když to dokážeme
+dělat, tak je výrazně
+rychlejší než právě ty evoluční algoritmy
+ale zase tím nechci říct, že
+tady to se nedá posunout
+já napak věřím, že když bychom
+evoluční algoritmy předělali určitým
+způsobem, aby tam byla evoluce
+taková jako podobnější ty reální evoluci
+a nebyla to vlastně jenom optimalizace pomocí
+náhodných gradientů, což jsou vlastně
+ty evoluční algoritmy, tak bychom zase mohli
+něco zajímavého objevit, ale
+je to často takový trochu jako slepice a vejce
+to chce mít jednak
+nápad třeba na nějaký zajímavý model, ale
+třeba i tu úlovu, kterou by to mohlo řešit,
+kterou v dnešní době
+neumíme řešit dobře a která by
+měla tu komerční hodnotu, takže ono to není
+takový jako lehký, ale
+tady do toho jako
+stádního myšlení, kdy všichni jdou jedním
+směrem a řekne se GANy jsou super
+a teďka bude prostě 150 článků
+o GANech, no to je to víc teda možná
+10 tisíc, jo. A pak
+ne, no Deep Reinforced Learning je super, protože
+Deep Learning na to rozdává peníze, které nikdy nevydělal,
+protože vydělat neumí, ale rozdává je, protože
+je dostal do Google, jo, tak jako super.
+Tak to je strašně jako nafouknutá umělá bublina
+a přijde mi to,
+že jako my, jako lidstvo
+plítváme našim potenciálem, i ta vědecká
+komunita neskutečně, když vlastně máme
+třeba 100 tisíc doktorandů
+teďka v oblasti AI po světě,
+kteří proskomávají pět nápadů,
+z toho tři nikdy nefungovaly
+a ty dva sice fungují, ale už jsou
+v podstatě vyřešený a už tam není kam se posunout,
+jo, takže pak vlastně
+půlka z nich se snaží dokázat, že to,
+co nefunguje, že to funguje, takže
+ti, kteří to napíšou popravdě, tak napíšou
+články, které nikdo nepřejíme,
+protože jsou prostě negativní,
+a ti, kteří to tak jako nafejkují, tak zase
+jo, Gany, super, funguje to prostorový překlad,
+takový články jsem taky viděl, nikdy to nefungovalo, jo, takže...
+– No a kam se mají teda podívat?
+Protože teď je 100 tisíc, koukají pěti směrama.
+Kam mají koukat teďka?
+– Všude možně, kde není prostě
+ten hype, kde není ten mainstream.
+Když se dneska podívám na články, co
+vychází prostě na machine learningových konferencích
+na těch top, tak to je prostě
+NIPS, iClear, nebo
+iCML, a tam se stačí podívat
+na to, co tam ty lidi citujou, a tam
+vlastně oni citují jenom články z posledních dvou let,
+a to už je takový
+perpetum mobile, potěňky na veznice,
+už to jenom tak jako se snaží
+tvářit, že všechno se strašně přelavně mění.
+Naopak, když dneska si přištou
+lidi články
+od nějakého Minskýho
+z 60. a 70. let,
+nebo od toho Turinga, nebo
+toho Shenona, jako já jsem četl
+třeba
+od von Neumann
+o těch sebereprodukujících se automatech,
+kde on vlastně vymýšlel, jak udělat
+modely, ve kterých by mohlo docházet
+k evoluci v době, kdy vlastně
+ještě neměl nějaký fyzický přístup
+k počítači, protože pořádně neexistovali.
+Takže mi to přijde jako super
+číst o lidech, kteří vlastně byli
+mezi prvníma programátorama, kdy jste ještě psali
+na nějaký čterečkovaný vapíry a
+vymýšleli tam takovýhle věci. A to byly
+fakt jako chytrý lidi. A z dnešního
+pohledu vidíme, že udělali třeba spoustu chyb,
+kdy třeba predikovali, že až budeme umět hrát
+šachy, tak budeme mít umělou inteligenci. To se ukázalo,
+že jsou třeba blbost a pak to lidi zkusili
+s tím go a tohle to dopadlo
+úplně stejně. Ale právě na základě toho,
+co si ty chytrý lidi tehdy mysleli
+dobře a co víme třeba,
+že si mysleli špatně, tak si myslím, že se
+s tom můžeme hodně poučit. A mě třeba
+osobně čtení tady těch
+starých článků vždycky bavilo stokrát víc než
+čtení prostě průměrného článku, co dostal
+bez paper award na ICML
+nebo tohleto. Protože tam jako umílají
+dokola ty věci, které už bez tak známe.
+A mně přijde, že ta kreativita
+v těch dnešních článcích, kdy jsme mluvili o těch
+požitečových hrách, je to trošku podobný,
+že v určitým momentu prostě už se tam
+jenom stočíme v kruzích a
+výjde prostě 150 variací na Doom
+a 150 variací na Warcraft
+a je to furt
+jako stejnější.
+– Takže chybí takový ty pioníři,
+který prostě se nebáli šláplnout
+úplně někam jinam. – Jasně, no. Ta vědecká
+komunita by taky na to asi měla být
+jinak nastavená, to by bylo zase na dlouhoj diskuzi,
+že bychom prostě museli dělat něco s tím systémem
+fake publisher perish,
+který vlastně
+tlačí ty lidi do toho, aby publikovali
+vlastně cokoliv a nakonec v té vědecké komunitě
+bude mnohem líp odměněný člověk, co bude
+publikovat hromadu článků, kde se pak ukáže
+počas, že ty výsledky se nedají reprodukovat.
+To nikoho netrápí. Kdybych se teďka díval
+na vědeckou komunitu v AI,
+machine learning, co se vypublikovalo ze články,
+co jsou tam ty nejslavnější jména,
+tak řekl bych úplně od boku,
+o 50% z nich by se dalo
+dokázat, že ty věci, co
+publikovali, že ty jich výsledky jsou
+vycucaný z prstů a že se nedají reprodukovat,
+respektive, že tam nějak pošudlali ty baseliny
+nebo udělali prostě takový věci, o kterých
+i ví. A když jim pak někdo napíše mail,
+tak oni pak klasicky reagují.
+Ale ty experimenty, to už je někde starý, to už my nevíme
+a to už nedá se nic dokázat.
+Takže tohodle je pak jako
+strašná řada. Takže více
+dostat do té šířky těch
+nápadů, aby lidi to zkoumali více.
+Já vím, že ono se to strašně lehko řekne,
+ale ta komunita na to fakt není
+jako připravená, protože na to pak je navázaný
+na to financování. A když
+máme prostě lidi, kteří dělají
+zajímavé věci a snaží se,
+pak nakonec končí s tím, že dokončí PhD
+a jsou prostě v nějakém zooboru, který
+nikoho nezajímá, nikdo mu nerozumí,
+tak jsou sami zklamaní. Takže tohleto taky není
+ideální situace. My bychom potřebovali
+vymyslet nějaký lepší systém
+té vědecké komunity, té organizace,
+abychom neměli prostě
+ty ovce, co jdou všichni doleva, nebo do prava
+a všichni dělají to stejný.
+No podle mě tohle je
+závěr a kvíno. Nádherný, nádherný.
+To bych chtěl, já jsem skoro přemýšlel,
+že bychom udělali třeba sérii s Tomášem Mikolovem.
+To by bylo ideální.
+Já se hodně přemýšlím, jestli mám dostatek
+džinglů mezi ty jednotlivý viseky.
+No,
+na závěr, a my jsme to už se vlastně
+toho trochu dotkli. My se vždycky na závěr ptáme,
+co teďka plánuješ, jaké jsou tvé další kroky.
+My jsme se toho dotkli, takže je to
+teďka ta kombinace ČVUT
+s tím startupem, který jsi teďka vytvořil.
+Jo, jo, jo, v podstatě tak.
+Takže já už taky vidím, že je hodně velký zájem
+v posledních pár týdnech potom čet GPT
+o ty jazykový modely. My jsme teda ten startup
+zakládali ještě před tou vlnou, ale...
+Dřív, než to bylo cool, se říkáš.
+Jo, jo, jo, ale teďka se s tím
+roztrhl pytel a myslím si, že
+dost lidí to zajímá, dost lidí na tím
+přemýšlí a myslím si, že
+dost lidí taky vymyslí ty
+business plány, kde to bude dávat smysl
+a kde to bude mít tu přídenou hodnotu.
+Takže samozřejmě rádi
+budeme tady spolupracovat s různýma dalšíma
+firmama, startupama, co budou chtít tady něco
+v té oblasti dělat, ale my taky máme
+nápady na to, jak udělat
+relativně jednoduché věci, které by mohly mít
+tu přídenou hodnotu relativně rychle a to
+je zase něco jiné než ty vědecké komunitě,
+takže ve startupu neměříme na to, že
+vymyslíme nějaký novej model a spíš jako, že
+uděláme ty základní věci dobře a použijeme
+tam, kde by to doopravdy mohlo dělat něco
+co pro ty lidi má tu hodnotu.
+Super. No budeme ti držet palec
+a sledovat to.
+Jenom jeden.
+Všechny, co máme. Ať se daří, ať se daří.
+Moc děkujeme, že jsi k nám dorazil.
+Bylo to opravdu vyčerpávající v tom nejlepším
+slovo smyslu. Bylo to super.
+Poli bytě teprve únor,
+tak už v podstatě má Vánocem.
+O tom je mluvil už asi jenom
+tři čtvrtě roku, že tě se musí dostat.
+Je to pravda. Jsem rád, že se to povedlo.
+Dobrý. Moc díky. Ať se daří.
+Ať se daří. Ahoj. Čau.
+Kámo, to byla jízda.
+Tak co na to říkáš?
+Nemám slov? Slovy Jana
+Kolera, je to takové to, já to ani
+umím to, já jsem z toho celý to, no.
+Hele, no, rozhodně nejde o šíl, tak to
+nebudeme vůbec se o tom bavit.
+Říkal jsem, že Tomáš
+toho má spousta co říct a já
+věřím, že jsme tam našli
+i třeba zase něco zajímavého
+z jiného pohledu, protože jako z pohledu Tomáše
+ten tom se říká asi 95krát
+prostě v různých rozhovorech.
+Ale
+prostě pro mě to je
+pastva pro uši, jestli si to dále
+říct. Je geniální. Já samozřejmě
+nebudu předstírat, že jsem všemu rozuměl,
+co říkal. Jasně, jasně. Ale i tak,
+tak jak to podával, celá ta jeho
+cesta, zakoňčení s tou
+komunitou, jenom přemýšlím,
+kde moje sudíčky prostě udělali chybu,
+no, protože ten člověk, ten to má všechno. Má to
+v hlavě biznisově srovnaný,
+je, řekl bych, na hranici
+geniality, nebo možná už jako kilometr
+za ní. A zároveň
+jako velmi sympatický, prostě, jako.
+Hele, jako neuvěřitelný
+a neuvěřitelně mě navnadil
+s tím startupem.
+Fakt jsem zvědavej, s čím přijde. Co, založíme něco?
+Byť, no on říkal, že jo.
+No to já bych vzal, jakože tě nabejtil, takže my třeba
+dva založíme něco. No, že by nás vzal, to bych,
+jako do toho bych šel, nebo bych se ho zainvestoval.
+Sorry, kámo, ale tam já, co já bych tam dělal,
+jako vrátnýho, nebo co?
+To ne, to musíme založit mi něco úplně jiného.
+Hele, no, jakože
+na to budou upřené reflektory neuvěřitelným způsobem,
+protože oni samozřejmě v té komunitě
+hodně známej. Těším se na to a budeme
+to Tomáši sledovat a držet ti palce.
+Pecka, pecka. No nic,
+jdeme bydlet. Ono je asi, ty vole,
+čtvrt na sedm večer. To jsme nečekali,
+že se to tak dá. Takhle, nezačínali jsme v 9 ráno,
+ale je čtvrt, čtvrt na sedm,
+musíme běžet. Jasný. Hele, mějte se
+krásně, snad se vám to líbilo,
+dejte nám vědět a mějte se fajn.
+No a počkejte si, co přijde,
+přátelé, za 14 dní.
+To je vůbec prda.
+Tato série je nesmutečná.
+Tak to je sencovka, uvidíte ji.
+Tak čau. Čau.

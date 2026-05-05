@@ -1,0 +1,2460 @@
+Krasný den, milí posluchači, je tady další díl
+vašeho oblíbeného IT podcastu
+pod vocasem, no a samozřejmě, jako vždycky
+naprotím mě nemůže chybět
+Petr Pítr Polipolák.
+Yes, naprotím mě Roman Žoukr
+provazník a i když se tady slyšíme
+za 14 dní
+z vašeho pohledu, tak my se vidíme
+vlastně přes 8 hodináci.
+Protože včera jsme dotočili
+Tomáše Mikolova, což bylo dlouhé
+a dneska začínáme
+s dalším hostem. Nesnad proto,
+že bychom byli v nějakém časovém presu,
+ale teď se nám to prostě organizačně nějak sešlo,
+tak jsme si řekli, že to dotukneme
+no a pak už nám chybí jenom poslední díl
+a uzavřeme pátou sérii
+a to budeme mít hotový kamarády možná
+ještě do konce února.
+To je fakt neuvěřitelné.
+Jak jsme si to hezky naplánovali,
+tak se to hezky sešlo.
+Nikdo nám to nijak moc neposouval,
+takže všechno se to povedlo.
+Zajímavé je, že možná budeme už
+i plánovat šestou sérii. Já to teda nechci
+tady v polovině páté slibovat,
+ale začínají nám chodit e-maily i od firm,
+že by k nám chtěli někoho nastrčit
+nebo aby k nám někdo dorazil
+na pokec a i od velmi zajímavých firm,
+řekl bych technologicky i produktově.
+Takže to vypadá,
+že se na to možná ještě nebudeme moc úplně vydlábnout.
+No, vypadá to tak,
+že nás to pořád baví
+a pokud i vás to pořád baví,
+jakože podle čísla to vypadá, že baví, tak...
+Koukal jsem na čísla, ale nebudu koukat teďka zase na čísla.
+Mě by to zase ukázalo ty věkový kategorie,
+co jsme probírali tady předminulé
+a to už se natračí, ne?
+Dobrož, no tak Románku,
+kdo nás dneska čeká?
+Kdo nás dneska čeká? Chceš to už takhle říct?
+No, pojďme na to.
+Dneska nás, přátelé, čeká
+Petr Polák.
+No tak to víme, já tady sedím, jo.
+Ale Petr Polák dvakrát.
+Jednou řekněme v junior verzi
+a jednou, můžu říct senior?
+Můžeme určitě, je to určitě senior.
+V našem IT světě je to vlastně pochvala.
+Jo, ano, jo, vlastně vidíš,
+když jsme v IT světě, tam je senior vlastně pochvala.
+No, takže v tom případě
+nejseniornější ze seniorů
+z rodiny Poláků.
+Petr Polák, skutečně senior
+i v tom rodinném levelu,
+čili otec tady naprotím mě sedícího Petra,
+což není, přátelé,
+proto, že bychom jako neměli hosty,
+že si sem zveme rodinný příslušníky.
+Tak daleko jsme nezašli.
+Až se tohle stane, tak to radši celý vypneme
+a půjdeme prostě na pivo.
+Je to proto, že Petr Polák měl velmi zajímavou kariéru
+a už je, řekněme,
+v pozici, že už o tom může mluvit.
+Je to tak?
+Přesně tak, přesně tak.
+Rozhodce v té poslední firmě, kde působil,
+byl skončit na přelomu roku
+a proto jsme hned využili
+ty situace, zeptali jsme se,
+jestli by přišel nám povědět
+něco o své kariéře. Já se na to dneska samozřejmě
+těším dvojnásobně,
+protože to má pro mě jaksi několik úrovní.
+A je tam pro tebe něco novýho?
+No, ty otázky, tak jak jsme si je postavili,
+tak věřím, že se dozvím
+spousta věcí, protože ono to vypadá
+taková ta kovářová kobyla, že si o tom můžeme
+povídat furt, ale my si taky povídáme o tom,
+co bude k obědu a kdy zase
+přijedeme, nebo co já vím. Takže
+na spoustu těch otázek
+neznám odpověď, takže se moc těším.
+No tak super. No tak jo. A už na nás čeká,
+nebo? No já věřím, že jo. Tak jdeme pro ní?
+Jdeme pro ní.
+Ve studiu už s námi nesedí jeden Petr Polák,
+ale sedí s námi dva Petrové Polákové.
+Ahoj Petře, ahoj Petře. Ahoj.
+Ahoj. Pro mě to je
+teda strašněj nezvyk, jo. Zaprvé já musím říct
+našim posluchačům, že hned ze začátku jsem říkal
+Petrovi juniorovi, říkám
+já přeci tvýmu tátovi nemůžu
+tykat, to se dozví máma a prostě zbije
+mě, že jsem nevychovaný, ale samozřejmě
+Petr senior přišel hned první, řekal já jsem
+Petr, můžeme si tykat, takže pokud by vám to dneska
+připadalo jakoliv divný, tak mám povolení.
+Vítám tě tady Petře.
+Ahoj. Jsem strašně rád, že jsi dorazil, protože
+Petr vždycky, když o tobě mluví,
+tak prostě ty jsi jeden
+z jeho velkých vzorů a vždycky
+říká no táta tohle, támhleto, takže
+konečně se tě budu moct zeptat na ty věci,
+jestli nekecal, ale první věc, která mě
+trápí už další dobu a musím se na to zeptat je,
+bylo u Petra odmala
+vidět, že hlavou to bude skvělý, ale
+rukama, že to nebude. Já ti řeknu, proč se ptám,
+jo, ten hrdíček, co jsi od nás dostal,
+tak to je limitovaná série,
+já jsem jeden Petrovi dal a
+říkám, ale nerozběho, prostě je to jeden
+Petr s rukama, to nikdy nebude dobrý,
+ale hlavou je to geniální. Už byl odmala
+nešikovnej?
+Hele, jako malýho to úplně tak nebylo vidět, ale myslím,
+že okolo dvanáct si to zlomilo.
+Jak byl teenager,
+tak už se toto...
+Už to bylo vidět.
+Každý je dobrý na něco, prostě.
+Já jsem se musel zeptat, teď už je tvůj.
+Jo, jo, jasně, tak jo, takže máš to, ty máš se zkaz podívat.
+Já mám se zkaz podívat. Já jsem rád.
+Počkej, a ty jako si rukama jako šikovnej, myslím.
+Ne, právě, že ne, taky ne, proto my si tak rozumíme.
+Já proto tady mám ty podkázky.
+Ano, ano, ano. Proto děláme fighty, samozřejmě.
+Jo, jo, jo.
+Ale teda nutno, abych to jako doplnil,
+jablko teda padlo daleko od stromu, pokud teda
+mě budeme považovat za velmi nešikovnýho,
+protože taťka už se dneska doma dělá věci,
+které já vždycky žasnu, jako co se dá dělat.
+Třeba opravoval bys pračku?
+No vůbec. Ani náhodou, ani náhodou.
+To bych asi rovnou vyhodil.
+No, a ty si opravuješ pračku?
+Tak to si zapřeháněl, že jo?
+Ale, no tak hrabu se do různých věcí,
+typu elektrika, i občas.
+Teď jsem si lepil schody.
+S kolegou jsme si volepovali schody.
+Jsem si udělal projekt kobercem,
+takže sám jako.
+To teda nepotřebuješ být močíkovně,
+jako to jako úplně ne, ale jsou věci,
+které si občas udělám, no.
+A je to o tý vůli, tak jsem zvědavý,
+jestli ta vůle začne přicházet s věkem.
+V možném případě je to možný,
+že pak jako člověk si bude chtít ty věci dělat sám.
+Uvidíme, uvidíme.
+A nebo si to nech nadcenit od nějakého
+typického jako montéra dnešních dnů.
+On ti přijde ta faktura a řekne,
+tak to ani náhodou, a radši si to uděláš sám.
+A hlavně potom u toho posloucháš ty keci,
+a k tomu se asi dostaneme ještě časem,
+jak vždycky přijde ten řemeslník,
+nebo ten architekt a říká furt to samý, no.
+Tak ale na to se asi dostaneme.
+Představit se tímhle způsobem poslouchačům.
+Tak jenom nějaký faktografický údaje.
+Asi vystudoval jsem většinou strojařinu.
+Zajímavě, i když na strojařině na ČVUT
+jsem vystudoval v té době úplně progresivní obor.
+To bylo Direct Control System,
+což byly ty přímý řízení systému.
+Takže tam jsem vlastně čuchnul k IT.
+Pak jsem nastoupil,
+protože jsem měl stipendium,
+tenkrát s chemopetrou Litvínu,
+jak jsem nastoupil.
+A tam mě dají do konstrukce.
+Tak pozor, možná, že tam nějaká paralela je.
+Jako za rýsovacím prknem,
+teda bez počítače, to je děsivý.
+Jako na ty výkresy se nedalo fakt koukat, kluci.
+Takže možná tam nějaký geny
+asi jsou za to zaklíněný.
+To asi určitě.
+Takže jsem nastoupil do konstrukce
+a oni tam byl takový chytrý člověk
+a hnedka pochopil po dvou výkresech,
+že tam nemám co dělat.
+Ale zrovna přišla doba, kdy se začínali zavádět kedy.
+Takže on byl hodně progresivní,
+tak mě k tomu posadil, tak jsem tam zaváděl
+první kedy, výpočty na tlakový nádoby
+a na ocelový konstrukce.
+A to mě strašně bavilo.
+Sehnal jsem na nějaký soft,
+zaprogramoval jsem si,
+k tomu se tak ještě určitě dostanem,
+zaprogramoval jsem si.
+Tam jsem byl asi dva nebo tři roky,
+pak jsem přešel do místního IT.
+No a pak s chodou okolností se stalo to,
+že v té době to byl ještě stále státní podnik.
+Kluci, pamatujete, co to byl státní?
+Nepamatujete, je dobrý.
+No v podstatě státní podnik v té době měl,
+že byl generální ředitel
+a ten měl v podstatě neumezenou moc skoro.
+No a on byl jako i progresivní
+a řekl, že potřeba si myslí,
+že by tam podnik se měl někam posunout,
+takže tam dá IT a vyhlásil.
+Jak se tomu říkalo tenkrát IT?
+To nebylo IT, ne?
+To je anglická zkratka, to bylo jako...
+Ne, no, výpočetní středisko.
+Výpočetní středisko.
+Tak jsem měl ve výpočetním středisku
+a tam jsem v podstatě natahoval sítě
+a dělal sítě a řinu,
+což mě strašně bavilo.
+Ono mě to baví do dneška,
+ale jsem zjistil, že to tolik neumím zase,
+tak to je jiná věc.
+No a teďka vypsal výběrový řízení
+na to, kdo vlastně si půjde sednout do managementu
+a bude zodpovědný za IT,
+kde to mělo nějaký...
+Nastavili jsme si nějaké tenkrát cíle,
+teda dneska KPI.
+A já jsem vyhrál to výběrový řízení
+no a sednul jsem si ve svých,
+já nevím, 32 letech jsem si sednul
+jako mladej zobák a pozor,
+ten dotaz, měli jsme nám ještě
+ekonomickýho, ten byl ještě o rok mladší než já,
+to bylo zajímavé, my jsme byli hodně mladý management.
+No a teď jsme začali
+řídit fabriku,
+která měla v té době 20 miliardy.
+Takže je dobrý.
+To je napřímo a tak jsem se do toho snažil
+nějak velká škola,
+kluci, devadesátky.
+Velká škola.
+No a tam jsem v podstatě
+seděl na té židli a dělal jsem plnou různých funkcí
+a pak mi k tomu IT
+mě přihodil ještě nevýrobní věci,
+to znamená, že když je to chemička,
+tak jsem se staral o veškerý toho,
+kde vlastně neběžela ta chemie, budovy,
+údržba a podobné kraviny.
+A no a tam jsem
+skončil po 11-12 letech.
+Šel jsem
+na rok dělat, pozor, velký zážitek,
+což byla
+ceřiná společnost tenkrát
+té chemičky, šel jsem dělat ředitele
+firmy, která vyrábila
+bitumenový pásy. Víte, co jsou to bitumenový pásy?
+Ne, vůbec.
+Pozor, tak pozor.
+To jsou takový ty pásy, které se dávají na rovné střechy.
+Místo, no máte
+tašku, a když ta střecha je rovná,
+tak se tam dávají takový ty pásy, po kterých se pak chodí,
+aby to tam neto, tak to jsou bitumenový
+izolační pásy. Tak to se,
+to byl tenkrát velký hit, ale byl to
+takzvaný penny business, to znamená, že
+tam ty marže byly skoro limitně
+se blížící nule. A to jsem měl
+za úkol prodat, tak to jsem asi po
+10-11 měsícům prodal
+nějakýmu rakouskýmu
+aristokratovi, který měl
+druhou největší firmu v Evropě,
+žijící v Německu, tak to byl
+velký zážitek. Ale když mi na konci říkal,
+jestli to já nechci dál vést, tak jsem říkal,
+že určitě nechci, jestli chci vrátit KIT,
+teda, že tady to úplně není můj
+živej sen, no tak tím jsem se vlastně
+vrátil ob klikou KIT.
+No a nastoupil jsem v roce nějakým
+2-3, 2-3 to bylo, jsem nastoupil
+do Logikit, což byla ten v té době
+britská firma. No a tam
+jsem vlastně byl až do
+koncelonskýho roku, on jí mezi
+tím koupili Kanadě ani v roce 2012,
+takže se z toho
+sodlalo CGI a
+no zájímavý na tom bylo, že
+vlastně menší firma koupila
+větší firmu, tenkrát firma, která měla asi
+32 tisíc lidí, koupila
+firmu, která měla asi 40 tisíc, nebo
+8 a 30 tisíc, takže menší
+koupila větší, ale bylo to jako ekonomický
+síler. A tam jsem v podstatě, a k tomu
+asi se dostávám, prošel
+k dečím prostě od šílených
+funkcí až po nějaký manažerský funkce,
+až kde jsem vlastně končil, kde jsem
+dělal vlastně šéfa vlastně
+českýho biznisu. Já bych to možná úplně
+revertnul na začátek, že takhle máme přehled
+té cesty, kterou se dneska vydáme a
+myslím si, že to bude velmi zajímavá cesta, ale pojďme
+úplně na začátek. Ty jsi říkal, že jsi zaprogramoval.
+Moje typická otázka, v čem
+jsi programoval, co jsi dělal, jak to vypadalo
+v době, kdy jsi programoval. – Hele, ještě možná začnu
+jinak, kluci. Já teda jsem se chtěl jako trochu
+připravit na nás. Tak jsem si poslal
+dva podcasty. Jeden ten
+podcast byl starší a ten druhej byl
+to byl ten kluk, co tady
+co byl vlastně šéfem toho startupu.
+– No těch jsme tady měli taky víc. – No a teď
+naposled, to byl váš poslední, opředposlední
+podcast to byl. – Přemýšlím
+teďka ten…
+– Velká diskuzi, mě se moc líbila,
+protože si pamatuju si tvojí cestu,
+když jste vytvářeli firmu a bavili
+jste se o názvu, tak tam byla
+velká diskuze o tom, jak… – Jo, tak to byl Tomáš,
+ne? Petříček, nebyl? Ten tam
+řešil nějaký… – Ne, o názvu to byl
+Byzantech, podle mě. – Byzantech, jo, jo, jo.
+– Jo, jo, jo, lednej. – Jo, jo, jo.
+No, to je jedno. A
+no teď jsem se ztratil sám sebe.
+A no nic, no a to
+programovalo. – Zopravoval se, říkal jsi, že si poslouchal…
+– Tak jsem to, a teď jsem na to koukal, říkal,
+kam já to se vlastně říkám. To je tak
+technologický. Teď já dělám
+IT v podstatě od nějakých svojich, já nevím,
+21 let, ale teď se tam začali používat
+termíny a technologie, o kterých vůbec nevím,
+který jsem začal hrát na Wikipedii. Říkám, tak o těch
+ani vidět nechci.
+A říkám, tak co tam budu dělat, protože
+se mnou z toho o technologiích nikdo nic moc nepobaví,
+ale k tomu programování zpátky.
+Já jsem ještě na vysoké škole
+programoval v Assemblerku. Víte, co to je Assemblerka?
+– Jo, jo, jo, taky jsem to musel dělat.
+– Píl, co se snažíš říct té klávese,
+co má vlastně dělat. Takže to bylo,
+ani to nebylo cool, to byl hard.
+Hardcore, ale
+tak to jsem dělal. Pak už jsem přičel
+na skoro velký jazyk, to už byl Pascal.
+– Jo, no, tak to už je. – To byl Pascal
+a pak ještě jsem
+chvíli se trápil s takovýma věcmi,
+jako Delphi se to jmenoval. – Jo, jo, to byl objektový Pascal.
+– A Foxka a podobné ty kraviny.
+V těch kerech tam je nějaký
+speciální jazyk, jehož jméno už si nepamatuju.
+Tak programoval jsem, pozor, nebyl ze mě
+teda, že bych byl úplně super programátor,
+to jsem teda nebyl. – Nebavilo tě to?
+– Hele, na výšce mi to bavilo. Na výšce mi to v tom
+Pascalu bavilo, tam jsem dělal nějaké věci,
+které mě bavily, ale pak jsem to dělal
+proto, protože já jsem koukal spíš,
+mě vždycky víc zajímal, jaký je ten biznisovej
+dopad, než to kodování.
+I když jsem vždycky viděl, že bez toho kodování
+ten biznisovej dopad nedostanu, ale vice versa,
+samozřejmě. – No ale to se ti hodilo, ne?
+Takováhle zkušenost, na to později.
+– Hele, strašně se mi hodilo, protože jsem k tomu musel čuchnout
+k věcem, jak to IT vůbec
+funguje úplně
+na té bazální bázi,
+včetně
+vlastně, jak fungují
+databáze, jak se to tam
+zapisuje, jak
+potom to budoucně, jak to
+SQL vůbec, jak ta
+filozofie. A to už je nějaký základ, na kterým
+se potom dá stavět.
+To znamená, jak já říkám, nejlepší by byl
+samozřejmě architekt, který byl kdysi zedník.
+To už se dneska nikomu neto. Ale já v podstatě,
+když to řeknu, jsem tak z toho vyšel.
+– No a bylo to tak, že
+třeba ovlivnělo to to,
+že se poznam vypsala ta pozice poměrně brzo
+na začátku tvý kariéry, v těch
+32, dejme tomu, tak
+to byl důvod, proč si od toho
+programování utekl, nebo vlastně si cítil už tam
+tenkrát, že od toho jednou utečeš,
+protože tě právě baví ten biznis zatím?
+– Tak když se to vypsalo, tak jak jsem
+zmínil, já jsem dělal sítěřinu a tam mě bavila
+hodně, musím říct, tam mě bavila hodně, protože v Čechách
+to moc lidí neumělo. My jsme zaváděli
+v takový obskurní technologie z nižšího
+pohledu, jako bylo něco jako FDDI,
+což tady v podstatě měla jenom ta chemička
+Západu Česká univerzita, nikdo jinej,
+takže my jsme si najali kluky z Západu České
+univerzity, aby nám s tím pomohli.
+Ale to mě bavilo.
+Ale ano, to
+vždycky štěstí přijde připraveným, ty víš, že
+do tebe to cpu celý život.
+A tenkrát ta šance byla, no a
+naskytla se a dopadlo to
+a víc jsem se vlastně svičnul do role
+toho managementu.
+A tam si myslím, že
+tam jsem vlastně zjistil,
+trvalo mi to teda dlouho,
+zjistil jsem vlastně, jak to
+IT jakž tak řídit, aby to nebyl úplnej
+pouser, když to řeknu.
+No a nebyl to pro tebe šok, protože
+ty věci, který jsi popisoval, ať to bylo
+programování v Assembleru, ať to
+bylo sítěřina, to jsou věci, který mají
+přesně jako daný hranice,
+tam co je pravda, co není pravda,
+true, false, je to velmi jako binární
+vnímání světa. A teďka čím víc
+člověk se přesouvá do té práce
+s lidma, s informacema,
+tak tam ta, řekněme, binárnost
+je ta tam a na jednu
+věc se dá pohlížet z desetitisíc úhlů
+ještě přefiltrovaný různýma názorama
+na různým jako levelu, to musel
+být pro tebe vlastně šok, ne? Na jedno jako by
+pro technickýho člověka
+v tomhle jako vnímání
+pravd a vůbec jako informací.
+Ty šoky byly dva. Prvně ten, který popisuješ,
+to znamená z toho totálně logického světa
+do toho, nazveme to fazy světa,
+to určitě, a teď ta práce
+s toho lidma, i když já jsem předtím s těma lidma
+pracoval, nebylo jich teda tolik, samozřejmě
+to byl jeden věc. A druhá věc,
+druhá věc, která mě úplně, kterou jsem
+se strašně dlouho odnaučoval
+a trval mi to fakt dlouho, třeba půl roku
+až rok, je, že když si programuješ
+nebo si děláš ty svý sítě, tak
+prostě si sám zodpovědnej za sebe
+a co si uděláš a co si zkazíš, to máš.
+A teď přijdeš na tu manažerskou pozici
+a teď ze začátku já jsem si
+myslel, že to taky tak jako
+zvládnu všechno, jenže zjistíš, že nemá
+šanci, že prostě se musí spolehnout
+na ostatní lidi a nejenom z toho, že
+jestli jsou lepší nebo horší, ale prostě
+to nestíháš, reálně to nestíháš.
+A teď to, teď ta věc, která je delegování,
+tak to mi trvalo strašně dlouho. Já jsem si
+myslel, že to dlouho budu dělat, taky možná
+Petr by potvrdil, běžně do práce
+v sedm hodin a z práce ve osm
+a teď jako si myslíš, že strhneš svět
+a devadesátky byly takový.
+A takhle v podstatě jedeš
+několik let v totálním
+zápřahu. Takže nakonec jsem se naučil,
+co to je o delegování, co to je
+o nějaké kontrole úkolů
+a o nějaký motivaci lidí. No to si myslím,
+že byla alfa omega. A samozřejmě pak
+jsou nějaký ty hrátky, který jsou,
+který musí hrát jak dovnitř té firmy,
+tak navenek té firmy, ale to bych řekl, že
+o tom je ta pozice.
+A tam jsi měl na začátku, když v těch
+dva třiceti jsi měl kolik lidí pod sebou?
+Osmdesát.
+A to byly napřímo, nebo jsi tam měl nějaký už...
+Ne, ne, ne. Tam nebyly
+napřímo, tam jsem měl takový šéfy
+odboru, který jsem měl pod sebou asi myslím
+tři, tři nebo čtyři šéfy odboru.
+Takže ty měli pod sebou každý nějaký
+dvacet lidí, plus mínus.
+Dobrá, takže to vlastně
+to byla nějaká geneze v rámci
+chemopetrolů. A co se stalo,
+že ses najednou rozhodl
+přehodit vyhýbku a šel si do Logiky, nebo
+jaká tam byla motivace?
+Hele,
+to byla taková ta doba, že jo.
+Ty víš, jak je to od nás z baráku daleko do chemičky.
+Neuměl jsem si představit, že budu do práce.
+To byly lidi, kteří jezdí třeba dolou.
+Kluci, patnáct kilometrů,
+každý si to představit. Já to měl do práce pět minut
+i s jasným daním.
+Máte to tak, že jste koukali z okna na chemičku.
+No jasný, jasný.
+V podstatě každý kouká.
+Takže Alá Mladá Boleslav.
+Ano, přesně, přesně.
+Ať bydlíš, kdybydlíš, koukáš na komín
+Teplárny Mladý Boleslavy, jasný.
+No, takže tady to je to samé.
+No, takže to jsem si měl představit.
+No, ale pak ze státního podniku
+to bylo zprivatizované, koupil to někdo jinej.
+Teď teda nevím, nakolik vy jste tady,
+abych vám nenarazil,
+koncept politicky korektní.
+Koupili to, Babiš tam dosadil svůj management
+a tam jsme se úplně,
+a to úplně zcela vůbec neschodli.
+Jako na stylu řízení,
+na biznesový kultúře,
+no, tak byla otázka,
+kolik dát času, kdy z toho vypadnu.
+Proto jsem byl, když to řeknu,
+byl jsem odejít do té dceřiní společnosti
+na ty pásy, na ty bitumeny, ale kluci mají
+deset nejlepších měsíců v životě.
+Začal jsem hrát golf. Tam jsem to moc dělat nemusel.
+Prostě úkol byl zbavit se toho.
+Tak dal si toho zbavit za šest měsíců
+a trval mi to deset, takže co k tomu dodat.
+No, tak jsme se rozešli
+a tak jsem si scháněl něco jiného a skončil jsem
+vlastně u Britů tady v Praze. A dojížděl jsem
+teda 80 kilometrů na začátku 100 kilometrů denně.
+A to už si v podstatě dělal až do konce
+kariéry nebo v podstatě do té IT kariéry?
+V podstatě jsem
+v té samé firmě, jako já, se změnil jedné
+nálepky, ale asi, já nevím,
+v osmi funkcích, co jsem tam všechno dělal.
+A tím možná rovnou začnu, protože ta první
+byla úplně zcela šílená.
+Jako myslím si, že když jsem
+říkal, že jsem se naučil
+delegovat na té první fázi
+svýho manažerského života,
+tak tady jsem přišel do firmy, která měla
+zvláštní styl řízení.
+Já jsem ho teda do teďka nepochopil. On teda fungoval,
+ale zkusím vám popsat. Já jsem měl
+funkci operačního manažera
+a měl jsem pod sebou
+100 lidí napřímo.
+A měl jsem napřímo
+100 lidí, včetně jejich
+projektů. Jediný, co jsem neměl na starosti,
+nebyl obchod. Ale
+to znamená, já jsem měl na starosti v té době
+asi 60 delivery projektů
+s projektovýma manažerama, který
+v podstatě jsem měl napřímo 100 lidí,
+včetně PIP managementu.
+A to vám musím říct, ta funkce všichni říkali,
+že jste to dělali maximálně
+tři roky. Ty nejotrdejší to dělají čtyři.
+Byli tam někteří, kteří to dělají deset,
+ale to byly životní trosky
+z mýho pohledu. Protože na to,
+aby jste mu dělali dobře, tak to bylo
+v podstatě, byl to mission impossible, když to řeknu.
+No a pak oni ten
+modul řízení změnili,
+tak se to trochu svičlo. Já jsem se
+taky posunul potom o pozici vejš.
+A už to nebylo. Ale tady to bylo
+v období, kdy asi jsem
+se nikdy víc nenapracoval, když to řeknu.
+A řekli ti, co bylo zatím? Že se snažili,
+jako chtěli mít málo těch vrstev
+toho řízení za cenu teda toho, že každá
+ta vrstva je strašně do šířky nebo...
+Jo, oni to tak měli prostě nastavený.
+Jím to i fungovalo, oni to měli i v té Británii.
+Tam třeba neměli
+těch lidí víc, protože my jak jsme
+Češi a tak jsme neměli takový ty...
+Oni měli ty obraty úplně
+stejné čísla, akorát s jenom měnou, že jo?
+Takže si mohli dovolit
+toho overheadu
+trochu víc nebo výrazně víc.
+No a tak prostě to tak měli nastavený.
+Ale jako škola života to bylo úplně
+neskutečný, protože mimo to, že děláš
+people management, staráš se o to, jak jsou
+dodávaný projekty, jednáš s těma zákazníkama,
+doháduješ se s těma nad smlouvama,
+řešíš ty smlouvy, řešíš ty
+technologie, bavíš se s architektama, jestli
+tam má dát tady to nebo tamhleto.
+Pak tam jdeš a uhlákáš
+na ty programátory, že
+oni si něco navrhli a
+ono to je jako vždycky u programátorů o 30%
+víc, že jo? Ale že kdo to zaplatí,
+kluci, bude to zaplatit ze svýho, že jo?
+A takhle jedeš furt, jo? Takže
+já bych řekl, druhá nejštěvnější funkce
+po projekt manažero, že jo?
+Projekt manažer z mýho pohledu je
+nejméně oblíbená funkce
+a z mýho pohledu jsou to tři základní, jak tomu
+se asi dostaneme lidi na projektech,
+který to tahnou, protože na něj nadává
+management, že nevydrží rozpočet.
+Lidi dole, jak to,
+že by jim nedal větší rozpočet a zákazník,
+jak to je z toho době dodává, že jo?
+Takže ten je letřek a chudák neví, kam se má vrtnout.
+No tak jako.
+Co ti to nejvíc dalo,
+tato štace, kde jsi měl
+sto lidí pod sebou, či já bych typoval
+nějaká schopnost líp prioritizovat,
+protože to samozřejmě na jednoho člověka
+nebylo schopné všechno obsáhnout.
+Zcela absolutně.
+Ty priority jsou důležitý
+a tam jsem kolikrát se fakt dostal
+do stavu, to vám na těch školních říkají,
+co děláte, když v podstatě nevíte, kam skákat.
+Že jsem si vzal ten papír
+a musel jsem si vyčlenit půl hodina a říct,
+jaký mám úkolice, co je vpravo, co je důležitý,
+co není. A co můžu hodit
+za hlavu. A teď samozřejmě v tom ty korporace
+hrajou ještě svý různý hry,
+tak musíte, jak tu korporaci ošulit,
+že řeknete, to pustím z hlavy a to tamto
+jí musím dodat.
+A ty jsi měl na starosti teda sto lidí, říkáš všichni
+jako people managementu, takže ty třeba jsi s nima dělal
+i PRka nebo takový
+ty pohovory roční. Ale sto lidí,
+když každej nastoupil
+jako ob tři dny,
+když to jako rostl do roku
+pracovního, tak v podstatě ty si
+každej den měl jako jedno PRko, ne?
+Skoro. Nebo ob dva, tři dny jako PRko.
+Jako dvakrát, třikrát do týdne
+musel s někým sedět a to přeci jsou
+lidi, který by řešili jenom tohle a měli by toho
+nad hlavou. No, ono to ještě tak, že byla
+doba, kdy nebyla taková fluktuace jako
+dneska. Dneska, když
+v té době ta fluktuace, dejme tomu, byla
+na úrovni třeba mezi 6 a 8 procentama,
+takže tam nebyla ta obměna.
+Některý z těch lidí jsou tam do dneska,
+já bych dokonce řekl, že i možná třeba 50 procent
+jako. Tam ti lidi jsou
+hodně, hodně lojální a
+no je to šílený, bylo to šílený.
+Takže to je jenom ten people management, tyjo?
+A zapomeňte pozor,
+jenom si řekněme, to bylo Plzeň,
+Praha, Brno,
+Bratislava a zapomeňte na Teamsy
+nebo Google Meet nebo něco, nic,
+jediný telefon ještě byl běhý.
+A fakt si jeli?
+Jo, pozor, fakt si v té době, ne,
+mailej, mailej. Ne, mailej, dobrý, dobrý.
+No, to jste tě děsivý.
+A jak dlouho jsi to dělal, teda tohle?
+To jsem... Ne, ne, ne, dělal jsem to, počkej,
+od 2-3 a
+pak jsem šel do 2-6, takže 3 roky.
+Tyjo, no tak to jsi vydržel na té horní hranici
+té příčetnosti, než
+pak už to dělalo z lidí trosky.
+No ale to, jako třeba,
+to jsi musel dojít k nějakému vyhoření nebo došlo?
+Nerošlo k tomu, že jsi řekl,
+hele, tak na tohle fakt labu.
+Hele, no, ono už se to blížilo, že já to možná
+vždycky, co mi vykládali chlapi, co,
+jak je řízení letovýho provozu, že tam
+jsou taky nějaký, prostě máš nějaký limit
+a pak si to musíš vyskočit.
+Tak jo, už to blížilo, ale ono zrovna zase se stalo,
+ono vždycky v tom mým životě se stala
+nějaká věc, která přišla zvenčí,
+v tuto chvíli zrovna ten můj šef, který tam byl,
+což je jeden z mých nejlepších kamarádů do dneška,
+tak odcházel a říkal,
+hele, já už tomu moc nedám a uděláš,
+vem to po mně. No a tenkrát
+to nebylo, kluci, jak dneska, že se
+stanoví ředitel, v té době to bylo divize
+Industrial Energetica,
+takže se dělá výběrový řízení, který trvá čtyři měsíce.
+Vem to po mně, zavolal si mě šef a říká,
+že by se mnou chtěl mluvit.
+Já mu říkám, asi potřebuješ pomoc.
+Tak on říká, no potřebuji, tak chceš to?
+Já říkám, jo, no a už to jelo.
+A tak je to v podstatě jelo celý to leta.
+No a jaký byly,
+teď jsi zmínil nějaký industries,
+jaký byly ty typické projekty
+v Logice?
+My máme tady ty projekty
+hodně agilní, ty týmy jsou většinou menší,
+já nevím, třeba
+deset lidí je takový průměr.
+Vím, že vy jste dělali hodně public věci,
+to už bylo v té Logice, nebo jak
+vypadalo takový typický?
+No my jsme právě public moc nedělali, i když v té době, když jsem dělal
+ještě, jsem dělal
+to operačního manažera,
+tak ještě tam nějaký public projekty byly,
+ale jinak Logica ani CGI
+v podstatě public projekty dělali, ne, že by je nedělali,
+dělali i větší nebo velký,
+ale na trhu jsou firmy,
+které žijou jenom v podstatě
+z publicu a to my jsme nebyli.
+Jenom pro další informaci, to není nic tajnýho,
+to procento teďko na konci těch
+publicátských revěňů bylo třeba
+na úrovni 6-8%,
+6, jo.
+Ok, ok.
+No dobře, takže jsi přešel do nový role
+a tam to teda vypadalo jak,
+co jsi dostal víc na starost
+a vlastně měl jsi pod sebou
+novýho člověka, který měl zase těch 100 lidí?
+Jo,
+ano, ano, našel jsem dobrovolníka,
+který to po mně vzal,
+ale to netrvalo tak dlouho,
+protože se změnil ten systém řízení a oni ho teda
+překopali asi už i v té Británii,
+jim řekli, že ty lidi
+dochází k vyhoření relativně často.
+Takže oni to změnili, nastavil se
+úplně jiný systém, asi nebudu popisovat,
+bylo by to zbytečně složitý.
+Ale to, co na tom bylo zajímavé, v podstatě jsem
+se stal šefem jakoby těch dvou industry
+a v těch dvou industry to bylo
+tak, že tam v podstatě máš na starosti pak
+včetně toho v obchodu, včetně
+reportování nahoru, kde chodíš
+na ty měsíční review a tam se tě ptají,
+proč jsi to naforecastoval, byl tři koruny víc
+nebo míň, standard.
+Takže tam jsi byl
+vlastně zodpověný za celý ten půl lidí,
+který po tebe spadal, což tady v tom případě
+bylo, ještě nějaký tam byl lidi,
+navíc dejme tomu 120 lidí, to asi není
+důležitý. No a jedeš si
+to, že si v podstatě toho nasmluváš,
+pak to dodáš a
+pak se opiješ, jestli to dodal
+nebo se opiješ, jestli to nedodal.
+A jede tohle všechno v režimu
+jako fix time, fix price, nebyl se
+time and material? Takhle, v té době,
+v té době většina těch projektů byla,
+a to byly zase od toho roku, co já snad byl,
+2, 3 do 2, 10, 90%
+bylo
+fix time, fix price. Navíc v tom
+industrie a v té energetice to fungovalo
+v podstatě nejvíc. Energetika bych řekl, že v tom
+funguje ještě z velké části do dneška.
+Na ten time a materiál
+moc jakoby nepřecházela.
+Mělo to svý logické důvody,
+za prvý jsou konzervativní, za druhý ten typ těch
+projektů, který je,
+myslím si, že pro nějakou část,
+protože to byly velké systémy, které se dodávaly
+typu SAP, typu řízení
+provozu, tak tam jako, že by si
+chtěl úplně laborovat s Agilem
+jako můžeš, ale
+takhle v té době vůbec slovo Agile nebylo
+nikomu zdámý.
+A po té, co se
+ten čas začal rozjíždět, začali si
+ty Scrum Mastery a takový ty
+nový projekt manažery,
+tak z začátku,
+já si pamatuju prvních pět let, to nebyl
+Agile, to byl neřízený chaos.
+A říkal se tomu Agile, a všichni si mysleli, jak je to dobrý,
+než některý ty CIO si
+uvědomili, že je na čase se podívat
+a spočítat si, kolik je to stálo, a když zjistili,
+že je to stojí o 60% víc, než
+před dvouma rokama, tak začali
+ty projekty zcela správně
+dělit na ty, který se musí dělat Waterfallem,
+a ty, který pro ten Waterfall je
+pro ně nedobrej, a začali je dělat Agilem,
+protože je to lepší. A myslím si,
+že ta situace je taková, ten hybridní
+styl je takovej do dneška,
+a ty rozumní zákazníci to takhle dělají,
+že to mají rozčleněno
+na to, co jo a co ne.
+A dá se nějak poznat
+na první dobrou typ projektu,
+který na ten Agile se sakra hodí,
+a naopak takovej, kde to spíš
+bys viděl prostě tím jako
+fix time, fix price a vůbec tam agilní
+metodiky.
+Hele, kdybych si měl trochu zapřehánět,
+tak bych řekl, že
+hodně Waterfallový projekty, protože
+ten podkaz, který jsem slyšel, tak tam byl kluk,
+co mluvil hodně o Salesforceu.
+Jo, to bylo ale šledné.
+Takže si myslím, že u těch
+Salesforce těch projektů, pokud ten zákazník
+to chce budovat od začátku a myslíš si,
+že chce překopat ten systém,
+stejně tak jako u SAPích, tak tam je to hodně,
+ale tam je to historicky daný Waterfall, i když teď se
+snaží ten Agile dělat, ale ono to
+souvisí hodně s tím produktem, jak ten produkt
+je v podstatě nastavený a připravený.
+Cloud v tom dělá teď trochu
+mění paradigma,
+protože pokud si si někde
+nainstaloval, teď budu mluvit SAP,
+a ten si si prostě pustil do světa,
+tak to byl nějakej balíček a teď
+se tam navrhlo, teď odpovídám
+na tvůj otázku, 20, 30, 40 lidí,
+konzultantů, který začali se
+montovat do logistiky, do financí,
+do výroby, prostě
+do trežery a teď prostě s tím začali něco dělat
+a každej si tam dělal
+svý věci a muselo být, aby někdo
+zkoordinoval, tak tam
+muselo být někdo nebo něco,
+co v podstatě bude držet nějakou linku
+tý, nazval bych to integrace,
+ale na to v tu dobu ještě integrace, nebo byla
+to integrace, ale ne v tom smyslu, jak já
+chápu integraci, to znamená spíš
+kooperace mezi těma jednotlivýma biznisstvímama
+a to v tom Agileu
+samozřejmě jde, ale
+už je to vyšší dívčí, protože tady samozřejmě
+si první napíšeš blueprint
+a teď blueprint je skoro dogma,
+řekne se, že to je 75-80%
+zadání a ten zbytek
+se potom ladí v průběhu toho, jak se
+implementuje. Samozřejmě u toho Agileu
+je to obrácen, tam v podstatě jedeš ty
+své tryby, jedeš desetidenní sprinty
+a ono se pak něco stane a jedeš dál.
+A myslím si, že
+je druh projektů, kde
+ten Agile je výrazně lepší.
+A naopak, kde je ten
+Waterfall zase. A zrovna si myslím, že u těch produktů
+je to takhle. A nezasahuje do toho
+i u těch velkých firm,
+nemusí tě být ani public, tak se vypisují
+tendry, že jo? Ty tendry mají nějaké
+podmínky a v rámci těch podmínek
+ty musíš vlastně něco slíbit dopředu
+a to už jako a priori nenahrává
+Agileu. Je to i tohle důvod
+u těch větších projektů? Je to důvod,
+je to důvod, ale
+je to i v obráceně.
+Protože dneska na té straně zákaznické
+v mnoha případech
+vymizela taková IT vrstva
+lidí znalejch mezi IT a biznisem
+ty překladači. Tím se možná dostanu
+tím, co já si myslím, že je
+nejdůležitější pro ty IT projekty, to jsou z mě
+pohledu tři lidi. Je to ten
+projektmanager, který jsem zmínil, je to ten
+business analytic nebo business consultant
+a to je ten hlavní překladač, který zná ten
+biznis a zná to IT dotý, aby to
+dokázal těm klukům přeložit.
+A pak je to ten systémový architekt,
+nebo my jsme tomu říkali solution architect,
+který to drží. A to jsou podle mě tři lidi, který
+a bavím se o velkých projektech, které jsou
+v řádu desítek milionů korun
+nebo i dolarů. Bez těch to v podstatě
+nejsi schopen rozjet.
+A u toho agileu
+je potřeba ještě taky, akorát v
+trochu jiný roli.
+A ta sranda,
+která u toho je, když se vrátím k tomu,
+na co se zptal, že
+v mnoha případech ten zákazník tu jednu vrstu
+toho protipolu nemá. Z různých důvodů.
+Prostě buď to je vyháze a v rámci
+outsourcingu, anebo
+insourcingu to udělají nějak jinak.
+A on není schopný firmám
+vašeho typu vlastně oponovat.
+Takže pro ně je lepší udělat
+agile a říct, hele, my ti sem dáme
+tři biznisový lidi, otázka na kolik,
+to je zase úplně jiná story, jestli
+na 100% nebo na 5%.
+A oni to s tebou budou ladit
+a budou to, a je smířenej
+s tím, že nějaká ta cesta ho
+bude slepá ulička.
+Když jako to,
+když to zadání není
+úplně přesný a nená se popsat,
+tak pak ten agile je lepší. A to je
+možná současný problém publikových projektů,
+že oni by to potřebovali zadat
+a upřímně si řekněme, všechny publikový
+nebo 80-90% publikových
+projektů musí vycházet z toho,
+jaká je legislativa.
+Takže by to mělo bejt k zadání.
+Ale tam už vůbec nejsou ty
+lidi, který by dokázali sekundovat
+firmám v IT delivery.
+Takže pro ně by bylo ideální,
+kdyby šli těma sprintama.
+Oni by to i lépe vysoutěžili,
+protože můžou dělat frame contract
+a upřímně řečeno denní sasbou
+mít vysoutěžit kdekdo, to není nic moc složitýho.
+Ale na druhou stranu
+máš zase omezený peníze.
+My tak nikdo nechceme, aby nám utráceli
+velký peníze z státního rozpočtu.
+Takže i pro ně je to strašně těžké
+vůbec vypsat tu zakázku, tak když se podíváte
+kolik velkých projektů se vypsalo
+v publiku za poslední leta a dosoutěžilo
+a některý třeba i dodali,
+tak toho je z mýho pohledu strašně málo.
+A všechny ty řeči
+okolo digitalizace státní správy
+z velký části hodně narážejí na to,
+že to neumí, nelze,
+nechce vypsat.
+Můžeme si vzít dva největší
+příklady. Tady ta země
+vlastně hlediska IT publiku
+cpe asi do, nevím jestli
+největší, ale jedný z největších peněz vůbec je
+důchodovej systém, že jo, tak tam už několik
+lidí se s tou zavřeli.
+A druhej je vlastně daňovej
+systém, který jede
+v 16. a ještě 400.
+A
+když nastoupila jedna nejmenovaná
+vláda v roce 2014, tak řekla, že prostě to vyhází
+a vypíše to znova. Vypsali
+výběrový řízení za 70 milionů korun
+na poradce, aby vypsal ten tender.
+Dneška žádný tender vypsaný nebyl.
+Takže to je situace, která
+ať se nám líbí nebo ne, prostě taková je.
+Takže skončili jsme
+v té fázi, kde ty jsi měl
+na starosti ty dvě industries, převzal to potom
+svým kamarádovi v podstatě v Logice.
+To byla poslední pozice v Logice a pak
+už se šlo do CGI, nebo tam bylo ještě něco?
+Ne, to se střídalo. Já jsem
+potom dostal, teď se zpátky vracím,
+pak jsem dostal asi na dva roky k sobě public
+znova. To byl taky
+freeride. A
+pak jste to zase...
+Já jsem těch industry podstupně vystřídal
+všechny, až teďko nakonec vlastně, když jsem
+dělal v té, teď možná skočím nesmyslně
+nakonec, když jsem vlastně dělal šéfa
+té celé české části, tak to už jsem pod sebou
+ty biznisy měl všechny, včetně
+telekomunikací, včetně financí.
+Ale primárně jsem se pohyboval,
+primárně jsem se pohyboval v té části
+toho industry, tomu se říkalo
+industry, ale v podstatě to byl manufacturing, když to řeknu.
+A energetika
+a pak jsem se tam udělal svoje vlastní
+dítě, což byl transport, což byl biznis, který
+v té době tady
+moc nefrčel, byl to takovej
+niche segment
+a na tom se vybudoval hezký biznis
+a s výbornýma lidmi.
+Takže vlastně
+ta logika se přetrancovala až
+ve 2012, pak přišel jiný systém
+řízení se všim všudy,
+korporace se všim všudy úplně.
+A to tě napadá dotaz, jako v podstatě
+vždycky jsi přivzal něco novýho, co pro tebe
+bylo novýho, jak jsi pracoval
+s tím, abys tu kompetenci vytvořil,
+ve chvíli, kdy to třeba nebyl úplně tvůj
+provodní šále kávy, najednou prostě řekli
+hele, tak teďka budeš šefovat tomuhle,
+tak jak jsi k tomu přistupoval?
+Zodpovědně.
+Tak to je správně.
+Ne no,
+takhle, musíš mít v sobě nějaké nastavení
+to, že si řekneš, že to je nějaká výzva.
+Tak ono
+časem tě to může opustit, ale ono vždycky
+na zřádek to výzva je, že jo.
+Protože pokravať
+do toho nejde s nějakým přesvědčeným, že to bude
+lepší, nebo že tomu jsi schopen dát přidanou hodnotu,
+tak je lepší se na to vykašlat.
+A tím bych se možná vlastně
+dostal i v obezličkou k takovým
+těm zásadním pravidlům, co z toho managementu
+na to můžeš koukat.
+Pokravať nejsi autentický,
+tak nemá šanci úspěch, podle mě, ani před těma
+vlastníma lidma, ani před
+těma zákazníkama. Nebo aspoň takhle,
+abych ne ze všeho obecňoval.
+Já ne teda. Já sám,
+když si nevěřím sám, že to, co říkám,
+je pravda, tak nejsem
+úplně důvěryhodný na venek.
+A v obrácení si myslím.
+A k tomuto člověk potřebuje nějakou,
+nazveme to osobní
+integritu, protože
+já jsem zažil hodně lidí,
+který byli v soukromém
+životě strašně dobře
+osobně integrovaný a fakt jako
+vyznávali nějaký hodnoty, uměli to. Ale v tom
+profesním životě už, jak se dostali do těch
+spárů tý korporace, tak už jim to tolik nešlo.
+Že tam měli nějaký úchylky,
+který bych řekl, že vybočovali.
+A pro většinu těch lidí,
+pokud jsou normální, tak si myslím, že je to
+neskousnutelný, protože tváří se
+jinak doma a jinak v té práci.
+To vlastně nejde. Nebo jde to,
+ale znovu říkám, trápí to
+tebe. Máte to jak s těma ženskýma,
+když se snažíte klifnout nějakou mladou, hezkou ženskou,
+tak ji taky budete říkat, jak milujete
+tu botaniku, že jo.
+A že chodíte
+do kina na romantický filmy
+a vůbec zatajíte
+marvelovky a že hrajete hokej. To je úplně jasný.
+Ale dlouhodobě to děláte.
+Vydržíte to tak do třetí zkusky a pak vás prokoukne.
+Takže pak je ten...
+A tady to je to samé.
+Je nutné držet nějakou
+tu osobní integritu na to, aby člověk
+byl schopný vystupovat
+v těch manažerských funkcích a bez toho to nejde.
+Může být lepší, může být horší,
+ale tady to má sám pro sebe, aby se nezbláznil.
+To je asi nejdůležitější.
+A je to úplně stejně.
+I tu integritu musíš držet, když máš něco novýho,
+tak si řekni sám sobě, chci to dělat, nechci to dělat.
+A jak jsi třeba kontroloval
+to, jakým směrem se koukat?
+Protože já si představím, vždycky, když ke mně přijde něco novýho,
+tak samozřejmě jedna věc je taková ta
+analytická, člověk na to kouká
+tím pohledem těch věcí, který už zná.
+Třeba technicky se na to koukáš,
+ale každá věc má několik vrstev.
+Je tam pak, řekněme, ta
+biznisová vrstva, pak je to, s jakým je to
+zákazníkem, jaký lidi tam budeš mít.
+Takže na jednou těch elementů,
+který dávají dohromady ten mix,
+jestli to bude úspěch nebo ne,
+je větší, na co se třeba vždycky primárně
+zaměřuješ. Protože technický pohled
+je vždycky první, který napadne mně.
+A už teďka vím, po zkušenostech, že to není dobře,
+že v tom mixu je toho víc.
+– Hele, já si myslím, že jsem primárně technicky
+založený člověk.
+Ale to mělo taky svůj vývoj
+a přesně takový, jak ty popisuješ.
+Z začátku jsem na to koukal technicky,
+pak ty lidi všichni, kteří
+v okolovu IT jsou, tak jsou většinou technici
+a nejradši by tam dali úplně tu novou technologii,
+kterou budeme první, to ještě nikdo nebude
+bohatou zákazníka to vůbec netrápit.
+Nechce, aby to fungovalo, zvláště dneska,
+jestli to je React nebo to je něco jiného,
+je mu úplně jedno ve finále.
+Pokud teda to není velká firma,
+kde má nějaký nastavený standard,
+to je samozřejmě něco jiného.
+Takže pak vlastně začneš na to koukat
+z toho biznisového pohledu a začneš se na to dívat
+i z toho pohledu, že si začneš
+schát nějaký penčmárky,
+uděláš si nějakou, a teď samozřejmě
+to jsou maražetský poučky,
+ale ve finále to tak funguje.
+Uděláš si nějakou, kdo je tvoje cílová skupina,
+jaké je tam množství těch peněz
+na tom trhu u tebe, jestli to chceš
+expandovat mimo Českou republiku
+nebo vůbec mimo střední Evropu,
+jestli máš šanci toho expandovat, co k tomu potřebuješ,
+jestli to uděláš sám nebo k tomu použiješ,
+kolik jsi ze zahraničí, jestli ten tým,
+který máš, taky se chce přeučit,
+protože když jdeš do nový oblasti, tak prostě potřebuješ
+nějaký kluky přeučit. A někdo to veme
+jako výzvu, protože už je unavený
+na tom stávajícím a někdo chce
+v podstatě dělat to, co dělal do teďka.
+A to dáš takhle do té
+mísy, to zakverdláš
+a řekneš sám sobě, jestli ti stojí
+za to, aby jsi šel někam na to vedení,
+o to požádal, o ty peníze, které to byly stále
+milion, dva, tři, aby do té
+nový oblasti sešlo.
+Tak a zpátky se vracíš,
+musíš být sám o tom integrálně přesvědčený,
+bo já musím, jinak nemá cenu do toho jít.
+Takže
+odpověď, aby jsem odpověděl na tvoji
+otázku, čím dál víc nakonec
+přivažoval ten biznisový pohled,
+protože
+ve finále je hezký, že si všichni něco hrajeme,
+ale musí se to prodat.
+Musí se to prodat a všichni máme
+nějaký KPI a tím se vracím možná
+k další věci, když už odboču.
+Všechno, co mi v životě fungovalo, můžeme si říkat,
+že pojďme dělat krásné věci, pokud
+to ty lidi nemají v KPI.
+Tak ve finále je to vedlejší
+záležitost, protože na KPI jsou
+nastaveny měření, co neměřím, to
+neřídím. A ty lidi pak
+si vlastně, když jde do finále na konci roku
+a vidí, že, když to řeknou
+obě splácí hypotéku a oni potřebují tu odměnu,
+tak jdou na ty KPI.
+Takže je nutné to dostat i ty nový věci do KPI,
+aby oni za to byli hodnoceni, že to je
+sice nová věc, která minimálně
+dva, tři roky třeba nepřinese nic,
+ale musí se vědět, že oni získají
+nějakej počet zákazníků,
+udělají nějakou pipeline, která je důvěryhodná,
+vybudují nějakou technologii,
+zatím nějakej tým, který je připravený,
+nějaký whitepapery,
+nějaký salesový podklady
+k tomu a to do a to do.
+Takže ten biznis nakonec.
+Ale abych nebyl úplně tak striktní,
+jsou projekty, který jsem v životě
+absolvoval a otevřel jsem je schválně
+a to jenom kvůli tomu, aby
+ty kluci, který dole jsou od těch architektů
+dolo, aby měli nějakou hračičku a měli pocit,
+jestli můžou s ničem hrát.
+Takových pár taky musí být.
+My jsme tady měli včera
+s chodou okolností Tomáše Mikolova,
+což je jako obrovská persona,
+jako vlastně datový vědec,
+vývojář AI, který vlastně zmínil
+například zkušenosti z Google,
+který říkal, že
+kolikrát tyhle chytrý lidi
+vlastně chtěli dělat ještě na něčem
+zajímavějším, než co jí tam bylo třeba kvůli
+biznisu dáno. Jak bys to vlastně
+řešil, nebo jak to ale obecně
+řešit, protože mám někde nějaký
+talent pool a pak mám nějaké
+jako biznisový potřeby a ne
+vždycky ty biznisový potřeby, ten talent pool
+mi dokážou jako vlastně vykrejt
+jednak jedný, aby ty talentovaný
+lidi, který chtějí dělat něco ještě jako
+víc zajímavého pro ně, aby ti
+třeba neutekli. Kornešní době, kdy víš,
+že to je, že prostě ty firmy se předhánějí
+v tom, koho k sobě přetáhnou,
+tak řešil jsi tohle nějak, jako jsou to
+právě tyhle ty třeba ty projekty, který byly
+jako hladový zdi, řekl jsi, aby
+jsi zkusil něco novýho, nebo jak tohle
+řešit obecně? Řešíš to furt
+jako současný IT,
+veškerý vždycky IT, ale teď by řík, že ano, teď je to
+horší, nebo nevím, jestli je horší,
+že vždycky vojí o talenty.
+Těch lidí může být dost, ale ty, který doopravdy
+potřebuješ, tak
+těch je málo. Těch je málo
+a musíš si je udržet
+a ano, občas se
+prostě vytvoří hladová zeď a ono
+pozor, ono v občas tý hladový zdi něco vypadne,
+jako jo, a pak je to takový
+ten klasický případ, že ty vytvoříš hladovou
+zeď, teď to začneš hodně marketovat,
+nadspeš do toho i prachy do toho marketingu
+a teď z toho jsou ty první projekty
+a teď to začneš fakt promovat. Kluci, to se nám
+fakt povedlo.
+Teď se ti nesmí nikdo zeptat, kolik z toho vlastně
+je toho profitu a kolik
+si do toho nájde těch peněz a jaká je
+ta výzva do budoucnosti, tak ty řekneš,
+že to je tolik, plácnu,
+řádky, řády 100 tisíc dolarů
+a oni na tebe koukají a říkají, no ale to
+není biznis, který my chceme dělat.
+No jo, ale to je ten biznis pro ty kluky,
+který to udělají a oni nám pak ty projekty
+za ty miliony dolarů s profitem, oni
+vygenerujou, protože to berou jako,
+protože jim to jde, protože to prostě umí.
+Prostě občas to tak musíš udělat.
+No, nesmí ten člověk talentovaný
+zase chtít takový projekt, aby měl každý čtyři
+měsíce. Žádná firma neumožní,
+že to nejde. Měli jste v Logici
+nebo v CGI nějaký jako research and
+development oddělení, kde právě tyhle sty lidi by
+se na chvilku zaparkovali a
+vlastně bez nutnosti
+mít výsledky se něčemu věnovali
+jenom protože, jak říkáš, občas toho
+něco vypadne zajímavýho? Takže takhle to v korporací
+nefunguje. Ne, nefunguje to.
+– Za prvý, CGI není
+produktová firma.
+Ona má asi své čtyřice produktů,
+který, ale primárně ta firma
+je nastavená na consulting.
+A jako prodáváš
+hardware, vedle toho máš
+si nějaká produktová firmu typu Google,
+Microsoft, kýhovíra.
+A vedle toho si
+consultingová firma typu Accenture,
+CGI nebo část IBM
+a podobně. A
+to je úplně jiná kultura těch firm.
+Úplně jiný interní
+procesy. A moje zkušenost je,
+když to začneš montovat do sebe,
+tak to nefunguje. Prostě, když
+bys to chtěl udělat, to, co ty říkáš,
+a jakože jsi to dělá někde, jsi to dělá poloudně,
+ale ty týmy nejsou, že by měli stá lidí.
+To jsou malý týmy, který kutají
+na něčom, který ty zakreješ
+nějakým consultingovým projektem.
+Takhle. Ale že by někdo dělal,
+to vůbec nefunguje.
+Uvědomte si, že ty korporace dneska, kuci, to jsou
+finanční instituce. To už s IT
+má pramáro společního.
+Řídí to hodně
+high level po tom, kam ten
+IT svět jde, ale kouká se na
+biznisový potřeby těch zákazníků.
+A to IT je tool. Dá se to
+podobnat k tomu, že před desíti lety
+firmy
+consultingového typu chodili zásadně
+dělat biznis za
+CIO. Dneska
+20%. Všechno ostatní chodíte
+za biznisem. Ten má ten rozpočet.
+Ten uměl
+by umět dělat ty requesty.
+A ten dostane tu zelenou, že ten projekt
+se bude realizovat. To IT je ten nástroj
+i v těch velkých bankách
+nebo energetikách, nebo
+telekomunikacích.
+Když se vrátíme
+teda, teď se to trošku nastřelilo, když se vrátíme
+k tomu přechodu z Logiky na CGI.
+Podstatě to byla
+nějaká integrace těch dvou firm, byť jedna koupila
+druhou. Takže CGI byla menší
+tou dobou než Logika?
+A my vlastně teďka prožíváme něco
+podobného. Nás koupil Cyklum, takže
+ta integrace samozřejmě občas bolí.
+Má to svoje plusy a mínusy.
+Jak ty jsi to prožíval? Jaký to
+na tebe mělo dopad?
+Pracovalo se v tom potom líp,
+hůř? Byly tam nějaké nevýhody, výhody?
+Bylo to zajímavé. Logika
+ve svý době koupila po Evropě hodně firm.
+Třeba koupila druhou největší francouzskou
+firmu, koupila největší
+skandinářskou firmu, nějaký
+VM Data. Fakt byla
+obrovská a neuměla integrovat.
+No a my jsme si mysleli, že takhle integrace
+funguje. A pak přišlo
+CGI, koupilo to,
+přišli za dva dny a všichni jsme si říkali,
+no tak vlastně CGI v Evropě vůbec
+nebylo, tak si koupil vlastně Evropský
+trh, tak tu marku té logiky, kterou všichni
+ještě dneska chodíme po zákazník, když jsme chodili
+a všichni říkali, že jste ty z logiky, tak jsme si říkali
+tu si nechají a oni řekli ne.
+Od pozitří je tady CGI, tečka, konec.
+Integrace bude trvat půl roku
+a taky trvala půl roku,
+maximálně tři stotě roku a pak se nám ty peníze
+musí další vracet. A oni tam přišli
+a začali
+dělat ty procesy, který, naštěstí
+ty firmy tak, jak jsou konzultantský, tak
+ta kultura byla velice podobná. To nebylo
+o tom, že by se to prostě otočilo den
+ze dne. Měli jiný
+procesy, jiný tůly, jako OK,
+ale ta kultura byla podobná.
+A mě to připomínalo, teď se vrátím
+zpátky ještě, když se kupovala
+česká rafineska,
+tak jí kupovali
+nějaký konzorcium, což v sobě
+měl Shell, Conoco a
+Jeep a kupovali vlastně českou rafinerskou.
+A přišli ten
+krát do takový velký zasedačky a myslím si,
+Shell měl na starosti údržbu.
+A teď tam v podstatě byli ty všichni údržbáři,
+teď nahoru jsem se tam tenkrát přimotal,
+sednul jsem si a oni tam přišli. A takhle
+na ten stůl dali asi kluci 20 šanonů.
+A řekli, tak, my tady máme takový
+transformační projekt a celá
+vaše údržba se do dvou let
+přesune na procesy Shellu,
+který jsou v těch šanonech.
+No a teď prostě začaly všechny takový ty český cesty,
+že to nepůjde, že my jsme specifičtí
+a že vám to nejde.
+A ten chlap tam takhle vystoupil a úplně
+suchým humorem anglickým řekl, podívejte,
+my jsme to nainstalovali ve
+30 rafinelích po světě a všude to jde.
+Takže to půjde s váma anebo bez vás.
+Game over.
+Takže tady to bylo podobný,
+nebylo to takhle násilný,
+bych řekl, ale naštěstí ta kultura
+byla dobrá, oni se full tváří,
+ty kanaděni se full tváří, jsou největší rodinnou firmou,
+protože to stále to vlastně řídí
+ten otec zakladatel, jeden z těch dvou otců zakladatelů.
+Ale už je to korporace,
+kud si je to 90 tisíc lidí, takže
+tam už jako nevymyslíte nic, že by to mohlo být
+úplně jako rodinný, to nejde.
+To už se řídí do opravy striktně přes KPI
+a přes finanční ukazatele.
+No a to teda,
+jak to probíhalo druhej den
+po tom, co řekli, integrace bude teda o půl roku,
+jakože my teďka už integrujeme
+v podstatě přes rok.
+No, rok určitě.
+A tak samozřejmě ovlivněla to válka, která samozřejmě hlavně
+cyklu mu ovlivňuje, ale na druhou stranu
+byly tam jako jasně daný notičky,
+okamžitě prostě se
+nasedlo na nějaký proces.
+To je to, co oni mají úplně zmáknutý,
+úplně musím říct, že oni těch firm před námi
+koupili už asi 40 nebo 50,
+takže oni přišli takzvaně s těma šanonama
+a teď jeli od šanonu
+jedna od strany, jedna a postupně šli
+a teď akorát ty šanony některý měli
+paralizovaný,
+paral...
+Díky kámo.
+Paralizovaný, souběžný,
+taky dobrý.
+No a v podstatě teď jeli, teď prostě
+docházeli ke školní v delivery, v salesu,
+v podstatě v managementu, v těch KPI,
+v těch toolech a to se v podstatě jelo
+a to už měli nacvičený, takže oni
+za půl roku vlastně to sklapili a teď říkali
+no a teď máte půl rok další, abyste si to nějak
+adjustovali lehce na vaše
+na vaše
+condition a tím to vlastně haslo.
+Tam je důležitý, že oni přišli
+s tím, což si myslím, že při těch
+integračních procesech je celkem zajímavý,
+že oni řekli, dneska už to
+teda tak není, ale v tom 2012 to tak bylo, oni
+v podstatě řekli, my vám nebudeme říkat, co máte
+dělat, my vám jenom budeme říkat, jak to máte dělat.
+To znamená, tady máte
+procesy, jak má vypadat, když
+nasmluváte novej kšeft od začátku,
+jak se dělá kalkulace, jak
+kdo ho bude schvalovat, kdy ho bude schvalovat, kolik
+tam musí být schvalovacích kroků, když je
+delivery, jak se to má kontrolovat, to my vám
+všechno řekneme a tady máte na to
+výkazy a ty budete pravidelně dělat.
+Ale nebudeme vám říkat, co máte dělat,
+protože vy ten váš trh znáte nejlíp.
+To znamená, nemá cenu, aby jsme vám říkali,
+jaký marketing tady máte dělat.
+V půlběhu času, jak ta korporace se zvětšovala,
+tak i ta druhá část, o který bavím,
+se zmenšovala a zmenšovala
+a to možná byl jeden z těch důvodů, proč já už jsem si řekl,
+že už půjdu
+na...
+Odválu. Odválu, že půjdu do penze, nebo
+jak to se řeknou. Jasně, jasně. Ale jako
+primárně ten princip si myslím, že je fakt dobrý.
+Hele a co kultura?
+Protože jako reálně jsou to střety
+dvou kultur vždycky.
+V podstatě by to tak bylo,
+i kdyby to byly dvě český firmy, ale teďka ještě to byla
+jedna britská, jedna kanadská, spojili se,
+jaký to mělo vliv na kulturu
+a vlastně i na fluktuaci, protože
+v tu chvíli předpokládám, že ty lidi to nemuseli zkousnout,
+byla tam nějaká odchodovost,
+nebo jak... Hele, byla ale úplně minimální.
+Protože já říkám, že ty kultury doopravdy
+byly hodně, hodně společný a
+ono to i bylo v tom, že
+já bych řekl, že mnohem víc to naráželo
+na americké jisté řízení
+oproti britskému stylu řízení,
+protože ten je fakt trošku jinej.
+A navíc do toho ještě my jsme tenkrát dostali
+toho šéfa toho takzvaného
+klastru, jsme dostali, to byl francouz,
+tak to byl taky freeride,
+který ještě do toho dával něco svýho.
+Takže spíš to byla střed těch
+kultů, jakoby těch manažerských,
+než těch firmních, protože ty jsou fakt
+v tom koncertinku hodně podobný,
+no tam toho nic moc nevymyslíte.
+Jo, je to o tom,
+ale pak už je to o těch lidech.
+Oni tu vnitřní kulturu vám, nebo musíte si
+ponechat, asi,
+když to řeknu hloupě, asi tu nemůžete mít úplně
+stejnou kulturu, jako v Kijevě.
+To asi by nefungovalo.
+A stejně tak, a ona už je rozdílná,
+když jdete do Bratislavy, že jo,
+tam funguje trochu jinak. Ale
+ten přístup těm zaměstnancům
+v podstatě tvoří ty pravidla té firmy
+a ten musí být všude jednotný.
+Tříbejt, taková, což v té ložice
+třeba nebylo, že
+dneska, když přijede kdokoliv do
+Los Angeles do pobočky, tak všichni mluví
+stejným jazykem. Všichni vědí, že když se
+řekne, že to je step A, tak
+všichni vědí, co to je step A. Všichni vědí
+prostě, že když delivery se má odezvat
+nějaký formulář XY, všichni vědí, co
+v obsahu je, co to má znamenat. To znamená,
+že když ten kluk se přesune, nebo holka,
+když se přesune odsaď do Los Angeles,
+všichni můžou... – Tak je furt ve svým.
+– To je podle mě, to je ta síla té
+korporace, protože v té průžnosti
+to určitě není, co si budeme vykládat.
+– Tady se nabízí otázka,
+protože korporace, když se tak
+řekne, tak vždycky to má ty negativní
+konotace. Kor vlastně, řekněme, v takovémto našem
+spovykaném IT světě, tak tam
+korporace je
+synonymum prostě
+schátralých procesů a vůbec prostě
+šílenosti, kam nikdo nechce jít dělat. Ale ty o tom
+mluvíš, řekl bych, docela jako s láskou, nebo řekněme
+s nějakým jako respektem a
+řekl bych, jako s nějakým
+pozitivním citem.
+Co je teda vlastně na korporacích
+sexy nebo fajn, co je tamto?
+Proč si myslíš, že je dobrý,
+když ty korporace existují? Ony teda jako samozřejmě
+existují a vždycky budou jako na věky,
+ale co třeba tebe, tobě se tam líbí?
+– Ještě možná k tomu
+té první dětě, co jsi řekl, jak to říkal,
+s pozitivní... – Taky s pozitivním
+pocitem jsem s toho měl, nebo citem.
+– Jo, asi jo, ale
+to bych řekl... – Nebo respektem, jo?
+– Ale když jsi tam strávil celý svůj pozitivní život,
+tak to asi nemůžeš úplně hanit. – Jasně.
+– A kuj ty osobní integrity, zpátky se vracím, jako jo?
+To asi byste zbláznil.
+Jinak to řeknu možná, kdybych dneska začínal,
+tak bych určitě nezačínal v korporaci.
+Šel bych do nějakého startupu, nebo
+založil si svoji firmu, nebo šel do nějaký menší firmy,
+kde máš mnohem větší možnost
+to ovlivnit. Síla tý korporace
+a výhoda tý korporace je,
+že v mnoha případech jsou tam
+lidi a špičkový lidi, jo? Já co jsem se
+potkal s lidma a já vždycky říkám,
+že mě na tom nejvíc bavilo
+a dělal jsem to do poslední chvíli kvůli tomu,
+že když jsi šel po tý chodbě, tak jsem na každém
+kroku potkal člověka, který něco umí
+mnohem lépe než já. A pokud
+ztratíš tuto víru, až tady pojete
+po chodbě a že ty jsi ten nejlepší,
+nebo ti to nenaplňuje, že ty ty lidi,
+já tomu říkám pozitivní vysávání,
+že ty můžeš pozitivně vysávat tomu,
+aby ti mu něco dali, jak z těch technologií,
+tak z toho managementu, tak
+z řízení těch lidí,
+tak už to nemá cenu pro tebe. Prostě nic
+ti to nepřináší a nemá to cenu.
+A ta korporace ti dává, v mnoha případech
+pro ty výborný lidi ti dává tu jistotu
+toho, že
+to není úplnej freeride.
+Že se tam nenajde někdo, kdo
+půjde do projektu, který tu firmu totálně položí.
+Na jednu stranu je to strašná výhoda,
+že jdeš do věcí, které jsou
+občas s neskutečným rizikem,
+což ti ta korporace nikdy nedovolí,
+prostě na tom má ten risk management postavený.
+Na druhou stranu, někteří lidi
+toho nemají rádi a můžou to být
+špičkové, a jsou to špičkové,
+který říká, já chci dělat dobrý projekty,
+ale chci mít nějakou jistotu v toho,
+že jsem nějakým klidným prostředí. A to je strašná výhoda.
+A tím možná
+dojdu i k té druhé části,
+a to je vlastně management té korporace.
+Představte si to, kluci, jako
+když jedete vlakem.
+Ani to není dálnice,
+protože dálnice má hodně
+odboček a to korporace nechtí,
+abyste odbočovali.
+Jedete vlakem, jsou daný koleje
+a vy když jste v tom managementu,
+tak jste ten story vedoucí vepředu,
+který ulčuje tu rychlost a maximálně
+si řekne, jestli tam bude mít vzadu o vagón,
+víc nebo míň. Ale není to o tom,
+že by mohl odbočovat na který tý koleji,
+to vám odbočí někdo jiný.
+A teď je akorát otázka, koji těch odboček je,
+kolik je tam těch nádraží a jakou máte
+tu míru volnosti.
+Ale protože, a teď se na to koukněte,
+jste akcionáři nějakých firm?
+Ne, já ne.
+No v rámci nějakých akcí,
+jako na smp a tak.
+Tak já třeba jsem
+a teď na to koukám jako ten akcionář,
+no samozřejmě, že já chci,
+aby ty akcie neustále rostly
+a nedej bože, aby mi někdo řek,
+že příští měsíc neporostou,
+teda teď je ta období, kdy ne.
+A nebo aby mi klidně řekl, já ani nechci, aby mi klidně řekl,
+že by dostal o 60%. Bože, při těch zkušenostech
+říkám, tyhle, když rostly o 60%,
+to taky příští měsící můžou jít o 50 dolu.
+Takže ta korporace
+chce, aby to dělo v těch, ta předvídatelnost,
+to chce v podstatě
+každej analytik na tom
+burzovním trhu a ta korporace
+se tak musí
+chovat. A to je vlastně
+účel té korporace, aby to tak fungovalo
+a proto ten risk management, který tam je,
+je tak strikný a
+když žiješ té korporaci, tak se ti to nelíbí,
+když koukáš na ty akcie zvenku,
+tak jsi tím nadšený a to chceš, že jo, to chceš.
+Takže, když to řídíš,
+tak si ten manažer, který má
+za sebou ty vagóny s těma lidma,
+s těma vedoucíma odborů, ředitelama,
+to už je úplně jedno a to je o to,
+aby si je prostě tě motivoval, aby ti ten vagón
+táhli dopředu, ten celý vag.
+Tak ono to tam trošku mezi řádky už bylo
+znát, ale když jsme si řekli ty výhody,
+tak pojďme si pojít i na ty největší nevýhody
+toho korporátu. Jako co by si
+vlastně řekl, že jsou, samozřejmě
+vysvětlili jsme si, že teda musíš jít v nějakých kolejích,
+nemůžeš tam vlastně udělat nějaký
+zásadní změny, to je jedna
+asi z těch největších. Ještě něco by si k tomu přidal?
+Kluci ty
+pravomoci. Korporace
+dobře platí. Jako
+fakt asi dobře, zvláště na těch
+vyšších manažerských pozicích,
+ale z mýho pohledu, když
+se podívám na
+česky vlastněnou firmu,
+která si bude platit třeba
+manažera mýho stylu, kterým jsem byl dokonce
+minulý rok, za ty peníze, který jsem bral,
+tak od něj bude očekávat
+mnohem větší
+ani ne z odpovědnost,
+ale bude mít mnohem větší šanci
+rozhodovat o věcech, kam ten
+biznis tlačit. Protože
+ta korporace v mnoha případech
+nutí ty ředitele, který berou
+statisícový platy,
+že můžou schvalovat
+náklady ve výši
+30 tisíc českých korun. 50 tisíc
+českých korun. Jako proč si platím
+takhle draze člověka? Chci ho udržet
+v rámci toho talent acquisition,
+tomu rozumím, ale myslím si,
+že to je jedna z těch věcí, že ty
+lidi by mě dostává mnohem větší prostor
+pro to, aby se seberealizovali
+a přispěli k tomu celému
+vlaku, aby byl rychlejší
+nebo aby rychleji zabrzdil, když to je třeba.
+Tak to je jedna z těch nevýhod, kterou tam vidím.
+Ta druhá je samozřejmě ta průžnost.
+Ta průžnost je
+výrazně menší a samozřejmě
+ona musí být u firmy, která má
+90 nebo 100 tisíc lidí, musí být výrazně
+menší než ta, která má 100 lidí.
+To asi je zcela zřejmé.
+No další nevýhoda,
+která tam, abych je necucal
+úplně z palce,
+je samozřejmě, že tam existuje něco jako
+interní politika.
+Všichni mají nějaké ambice,
+jako v každé firmě,
+každej kouká, jsou tam nějaké
+skupiny, které mezi sebou vzájemně
+bojují.
+Teď ty skupiny jsou ještě nadnárodní,
+regionální.
+Samozřejmě ta diverzita,
+oblíbené to teď slovo, je fajn,
+ale v mnoha případech
+jenom to
+pochopení části třeba indických
+kolegů, jak fungují, nám trvalo
+roka půl, co vlastně můžeme
+a nakonec to pochopila, teď si myslím,
+že to je tvé velký nauhau, tak asi
+jako je, ale samozřejmě i ta diverzita,
+která je velkým motorem
+dopředu, tak je i velkou brzdou v tom, že
+jiný náboženství, jiný zvyky,
+jiná kultura.
+Kastovní systém ještě, který do toho...
+Ano, v té Indii speciálně kastovní
+systém, který tam vládne.
+Takže to jako dát dohromady není úplně
+v mnoha případech easy a stojí to nějaký čas
+a dokavať to funguje na bázi
+financí, že ten východní svět
+ještě stále zlediská těch
+pracovních nákladů nižší, tak to fungovat bude,
+až to doběhne, tak si myslím, že tam
+můžou nastat nějaký napnalizmy, česky řečeno.
+A ještě nenapadávám,
+že jsme se kdysi bavili o takovým
+tom, ty unifikaci těch KPIček,
+že v podstatě ten korporát to vezme
+a řekne, tohle jsou KPIčka, přátelé,
+pro všechny pobojčky po světě,
+bez ohledu na to, že my jsme
+menší trh než americký například.
+Přesně, jo, to jsem zapomněl, díky za připomenutí,
+dobře jsi to řekl.
+Díky. Díky, táto, jasný.
+No a, takže, jo.
+Ale ani bych neřekl, že to je u KPIček.
+KPIčka, to si myslím, že
+oni musí to hodnotit,
+protože ty KPIčka zase zpátky se vracím,
+se promítají do nějakých
+earning per share na té burze,
+takže to je do kaskádově. Ty KPIčka jsou dobrý
+a znova, já si myslím, že KPIčko je jediná
+věc, jak toho řídit v rámci
+takhle velký firmy. To, co je tam ale
+podle mě nešťastný, jsou ty procesy.
+Jsou ty procesy nastavený,
+já teď řeknu nejenom v té korporaci, kde jsem byl,
+ale bavím se s těma kolegama,
+co mám kamarády v jiných korporacích
+takto velkých, jsou nastavený na země
+typu Británie, Kanada,
+Severní Amerika, jako nebo
+USA, Francie, Španělsko,
+prostě ty megastáty, který ty trhy
+jsou, řeknu, o
+stejných čísech, jako my,
+jako já, vojiny měně, v mnoha případech
+ještě řádovější.
+A teď ty procesy jsou na to nastaveny,
+protože samozřejmě, pokud uděláš špatné rozhodnutí,
+řeknu, Británii, tak tě to stojí
+dvě miliony liber.
+Pokud uděláš Čechá, špatně stojí to
+dvě miliony korun. Ale ten proces
+je nastavený na to, že ta firma přijde
+o dva miliony liber. A teď ty ho máš
+dodržovat v Čechách, kde je to
+všechno děleno desíti, dvacíti, možná
+i s tém, v mnoha případech.
+A ten proces je strašný overhead.
+Strašný overhead. Takže
+samozřejmě hledáš český uličky, jak se tomu vyhnout,
+jak to obejít, ale ty korporace
+už jsou dneska velice
+prozíraví a umí udělat
+křížový kontroli tak, aby to skoro nešlo.
+Takže tam ten overhead
+potom je strašně velký na ten biznis, který
+tady točíš a to si myslím, že je jedna z velkých nevýhod.
+A nejenom v Čechách, ale i v zemních
+okolních, ať je to Maďarsko, Polsko nebo
+Rakousko.
+Ok, já to ještě otočím trošku
+kolem toho managementu.
+Ty jsi měl na konci, na starosti
+přes 800 lidí, je to něco?
+Ne, 400.
+A jak se ten člověk,
+jak se jako ty udržíš v kontextu,
+když máš 400 lidí, chápu, že to má nějaký linie,
+a jak to udělat, aby se člověk
+udržel v kontextu těch všech věcí,
+který má vlastně na starosti a zároveň se z toho
+nezbláznil, protože samozřejmě těch věcí pak by bylo
+milion.
+No, zodpovědně.
+Si potrhnu, hashtag.
+Ne, ne, ne, to je asi úplně ne, dobrý slovo.
+Ale jak to udělat?
+Musíš bavit se s těma lidma. Prostě
+jsou
+nějaký takový poučky, který jsem si řekl,
+my jsme si dělali na studůkách a všem jsem
+vždycky říkal, nic neprodáme ze studůlek.
+Prostě když ten zanek nevytáhneš
+z té kanceláře a nejde za tím zákazníkem,
+nenatakuješ ho. A to můžou být
+Teamsy, to můžou být Zoomy, to je úplně...
+Prostě to neprodáš. Prostě ten lidský
+faktor, ať se nám to líbí v té digitalizaci,
+pokud nejsi produktová firma, neprodáváš
+to přes e-shopy a marketuješ
+to jinýma kanálama. Consulting takhle
+se neprodává a když si někdo myslí, že
+ho takhle prodá, tak je to rovnou zabalí
+ten biznis. Takže
+abys to udělal, tak to samé existuje
+vlastně bavit se s těma lidma.
+Ty musíš jít... Já jsem... Potom, když
+už jsem měl pocit, že jdu jako od toho dál,
+tak jsem začal zpátky dělat
+v některých částech projekt review. Vrátíš se
+úplně jakoby ke kořenům, bavíš se
+s těma lidma na těch projektech, že jsem
+to dělal já osobně, u těch, teda co
+vypadaly, že jsou nejvíc průšvihový
+a bavíš se s nima, co se tam děje, co ten zákazník.
+Pak ho se zvedneš a k tomu zákazníkovi
+a zeptáš se ho. Občas to není úplně příjemný rozhovor,
+ale to je jediná šance, jak se udržet v tom
+loopu, aby se z toho nezbláznil.
+Samozřejmě můžu dělat na home officeu
+a řešit to přes ty KPI a říct se,
+tak vy se mi nevyplňujete ten formulář,
+ale zjistí za půl roku, že jí to utíká,
+že nemá šanci to v podstatě
+ovlivnit. Takže na to nekoukat skrz ty
+formuláře, ale prostě
+obejít si to oddělení od těch,
+řekněme úplně ve spot, až prostě nahoru
+zeptat se, jak se máš, co řešíš,
+nečím děláš, kouknout si z rameno,
+pokecat a...
+Samozřejmě v mnoha případech k tomu vůbec nerozumíš,
+ve většině případech k tomu nerozumíš,
+ale minimálně pochopíš, jaká je nálada v tom týmu,
+což je mnohem důležitější občas,
+nebo jestli to někdo naprogramuje
+100 řádkama nebo 120 řádkama.
+A to bych navázal ještě jednou věcí,
+v tom korporátním žebříčku se jsi dostal
+úplně nahoru.
+Jaký vlastnosti máš v poci,
+že ti tam dostali?
+Teď jsme se o tom trošku bavili,
+jakože ten soft skill tam je zásadní,
+ale máš nějaký konkrétní věci,
+kdy si říkáš, že proto ses dostal
+nikam třeba dál než tvůj kolega
+nebo kdokoliv, kdo tam s tebou
+šplhal nahoru.
+Já mám tady v tom
+relativně jednoduchou... Je to pracovitost.
+To si asi myslím, že pracovitý sen.
+Nebo byl. Teď už bych nechtěl
+být úplně...
+Je to pracovitost,
+to je jedna věc a druhá věc je
+nějakej tah na bránu. Já si myslím, že je důležitý
+mít tah na bránu a zpátky,
+že ty lidi ti to věří.
+Protože potom oni
+tě nějak posunou sami nahoru a
+i ta korporace nakonec není tak hloupá,
+aby to neokoukala.
+A k tomu mám možná
+ještě jednu poznámku, když si vybíráte
+lidi okolo sebe, nebo
+a to jsem se naučil, protože těch školení
+jsem obsahovat nad všechny manažerský školení.
+A oni nejsou špatní
+a já vždycky říkám z každého manažerského
+školení, když si odneseš dvě věci
+za ten týden, je to totální úspěch.
+Totální úspěch, který aspoň tě
+navedou, že byste to držoval. Pozor, to taky
+není všechno možný. Takže
+když se takhle...
+Zeptejte se těch lidí, co se jim nepovedlo.
+Zeptejte se těch lidí, co se jim... Ne, co se jim povedlo.
+I ten projekt manažer, který mi přijde
+a říká, že měl všechny projekty úspěšný,
+tak rovnou zavíjám desky. Nemá.
+Dobrý projekt manažer nebo dobrý
+solution architekt vyrost jenom na projekty, které byly
+průšvihový. Jestliže někdo
+dělá jenom na dobrých projektech, tak ten
+průšvihový musí přijít. Statistika prostě funguje.
+Zeptejte se lidí, co se jim
+nepovedlo. A když o tom
+zapáleně mluví a říkají,
+co se nepovedlo
+a z čeho jsou schopni se poučit
+do příště, to je alfa omega.
+To je prostě člověk, který má tam bejt.
+A když už si teda
+zmínil ty lidi a vlastně celou
+dobu se tak kolem toho točíme, to je
+technický téma, ale vždycky skončíme u lidí.
+Jak se změnil tvůj
+přístup k lidem za
+tu dobu, kdy jsi začal? Bylo to o toho,
+že to byly lidi, který ti
+přidělávali práci
+až potom, že jsi zjistil, že to je vlastně esence
+tvý práce? Nebo
+byl tam nějaký vývoj vlastně vnímání
+těch lidí kolem tebe a pod tebou
+za tu dobu, co jsi se od
+toho paskalu posunul až úplně
+nahoru?
+Tak za první, když jsem začínal, tak si myslím,
+reálně si myslím, že jsem byl výborný asociál.
+Jo?
+Jako moc jsem nekoukal na to
+vlastně, co ty lidi trápí a
+tlačil jsem na ně, ať prostě na ty výkony
+dotlačí. Časem jsem
+zjistil, že lepší je
+možná tolik netlačit a že oni budou lepší.
+Ale pozor, na druhou
+stranu, není to
+o výše,
+o výši IQ, o tom, jak ten člověk
+pracuje. Každej člověk časem,
+pokud ho nekontroluješ, netlačíš,
+tak
+prostě zlenivý. To vůbec
+nezáleží na tom, jestli má 90 nebo
+150, to je úplně jedno. To je
+jedna věc. A druhá věc je,
+pokud z těch lidí chceš vytlačit
+trošičku víc, tak je musíš dostat
+z té komfortní zóny. Ale pozor,
+nesmí to být furt, jinak
+sešílený. Máme okolo sebe lidi, který
+si myslí, že ty lidi musí být
+pořád mimo komfortní zónu, ale
+pokud z nich chceš vytlačit víc a chceš to někam posunout,
+tak je z té komfortní zóny musíš dostat.
+A to jsem vlastně říkal i Petrovi,
+na to jsem zapomněl. Čím si
+vejš v té hierarchii,
+tím je tvoje role
+nebejt sofistikovanější, ale
+klác blbější a blbější dotazy.
+To jsou opravdu úplně jednoduchý
+dotazy, protože tím, jak se
+ten projekt jede, jak ten každý
+jede v té svý ulitě, tak
+najednou mu chybí ten vrtulníkový pohled
+a tvoje role je dostat se do toho vrtulníkovýho
+pohledu, protože nakonec se ukáže, že tam
+se skrývá hodně peněz.
+Já nejen dám příklad,
+připové se nabídka, děláte to kluci
+furt a teď v podstatě se baví, tři týmy
+se baví o tom, jak to bude s migracema,
+jak to bude s integracema. A
+klasický případ je, že
+konzultanti, protože se bojí,
+tak ti to navýší všichni svý odhady
+o 25%. Teď to udělají všichni,
+k tomu to udělá integrační tým,
+k tomu to udělá migrační tým
+a ne, koukáš a ty si o 50%
+než ta cena, než ten zákazník vůbec tuší.
+No a pak tam musíš mít někoho, nebo to musíš
+být tě, který to manažersky sekne a řekne
+to je blbost. Vedle toho ti přijdou
+programátoři a to už se nezmíní. Ty jsou vždycky
+o 30% hod, že jo. To zvládneme,
+nejsme žádný malí blbci, že jo.
+No a teď se jde a teď to koukáš.
+Takže ptát se jen
+na ty úplně blbý otázky, typu
+bavili jste se spolu, ty vaše
+mendé jsou i na té druhé straně, nebo jsou tam
+vůbec ty mendé. No a
+bavili jste se s tím zákazníkem, když
+tam ten zákazník vám naposledy říkal, co v té
+nabídce byste měli upravit. Je to tam opravený?
+Ukažte mi ty odstavce. To jsou úplně ty
+bazální otázky, které je nutný kláct, jo.
+Když jsme u těch lidí
+a podíváme se, jak
+samozřejmě se mění na základě toho, jak přichází
+nový generace, tak se mění přístup té práci.
+Jak ty teďka vnímáš a
+koukáš, nahlížíš, máš to doma
+zároveň, ale samozřejmě tam ještě možná
+víte, že je dobře, ještě
+teprve v tom produktivním věku bude, v tom
+hlavním. A ten asi v korporaci neskončí se, myslím.
+Asi ne. To vypadá to, že ne.
+To je ten bubeník.
+Jo, jo, jo. Ten určitě ne. A jak
+na to koukáš,
+na tu generaci, jo. Co ti dává,
+co máš pocit, že je vlastně horší, jo.
+Jako máš tam nějaký takovýhle představy
+o těch kladech a záporech u téhle generace?
+Jo, zcela zřejmý.
+Strašně slyším teďko
+asi od svých prstevníků o tom, že ta mladá
+generace je línější, je méně zodpovědná,
+chce se víc flákat
+a nechce tolik dělat a
+nejradši by prostě všechno jenom
+brala ty plusy. Takhle kus
+na tom určitě pravdy je, neže ne.
+Na druhou stranu si myslím, že
+mnoho z tých
+generace Z, nebo jak jich budeme nazývat,
+tak
+nemělo šanci, nepřišli do
+tý správný krize na to, aby ta společnost
+byla v tý krize a oni se museli víc snažit.
+A to není jejich chyba.
+A na druhou stranu si myslím, že
+není dobrá doba na to,
+aby jsme z nich
+štímali úplně, že, a teď se vracím možná
+tam jedna z těch otázek, který jste mi nastínili, jestli
+je dobře, že ty lidi mění každý čtyři, pětli,
+pětli. No, myslím si, že je to dobře.
+Takhle, minimálně v IT,
+nevím jestli zrovna, když někdo staví
+baráky, nevím, tak možná si chce pomoct,
+ale minimálně v IT si myslím, že je to
+správně, že by to měli dělat.
+A nebo když už jsou v tý velký korporaci, která jim
+umožňuje ty pozice střídat,
+v mnoha případech jim umožňuje i vyjet z Tvena,
+dělat chvíli v Německu nebo ve Španělsku,
+měli by to zkusit.
+Myslím si, že je to dobrý pro to, aby ten člověk někam
+vyrost. A upřímně řečeno
+potom, když jste na další job
+a ty čteš to jeho CVčko
+a řečeš těch CVček v životě přečet
+stovky, možná tisíce a rozhoduješ
+se, koho vůbec pošleš na ten
+pohovor, tak
+teď budu mluvit za sebe,
+abych ne ze všeho obecňoval. Když koukám tady
+na ty mladý a teď koukám na vás, dva
+mladý, když... – Děkujem.
+– Díky, díky, díky, tato.
+– Tak jsem si to chůzla špahnout.
+Tak jsem si to chůzla špahnout.
+– Ale
+koukáš na to, vlastně čím vlastně
+v tým životě prošel, jaký měl projekty
+a s kolika těma kulturníma
+procesama prošel. Na druhou stranu, pokud
+vidíš, že někdo mění tu práci co
+rok a půl nebo dva roky, tak říkám,
+hele, ten asi není moc perspektivní, jíte mi zase
+za dva roky, když to udělal čtyřikrát,
+tak to... A
+koukám na to tady z toho pohledu a pak taky koukám
+upřímně řečeno, pokud prošel nějakým typem
+škol v českém školství,
+tak některý už rovnou házím doprava
+a některý ji upřednostňují.
+– Takže i škole pro to
+je důležitá dneska, i u těch programátorů, já nevím,
+jestli jsi jako v poslední době nabídal programátory
+vyloženě. – Jo, jo, jo, hele, tam už
+ten trh je tak šílený, že samozřejmě
+koukáš i na to,
+že jako vysokoškolský
+vzdělání programátora dneska
+senat je fakt facha
+a my tam máme plno, nebo měli jsme
+plno kluků, kteří mají jenom střední škole, jsou výborný
+programátori, ale je to
+o té statistice, jo,
+o ničem jiném to není, jo.
+– No a když to vezmeme naopak,
+taková ta generace,
+dejme tomu v předúchodovém
+věku, taková ta, vždycky tam
+je, samozřejmě ty skupiny jsou
+tam v obě, občas se sejdou na jednom projektu,
+máš pocit, že ta diverzita toho, že tam
+jsou ty mladý a pak tam jsou třeba
+starší, prostě který zažili jiný procesy,
+jinak prostě se učili věci,
+že to vlastně je dohromady
+výhoda, nebo co vlastně může tato
+generace, když přijde někdo do korporátu,
+dát tý nejmladší generaci.
+– Znamená, že manažerská poučka ti jasně říká
+jasný, kluci, to je výhoda. A ve skutečnosti
+je to výhoda.
+To je jako jedno z mála věcí, která fakt funguje.
+A pokud
+tam není nějaký úplnej
+magor, který si
+vysí na svých postulátech
+z devadesátek, tak to může,
+tak to může. A já si myslím, že ty lidi v tom IT
+se moc ani tak nevyskytujou.
+Protože ty lidi se posunou spíš do tý biznis
+roviny, protože se naučili biznis.
+A mnoho těch kluků, který jsou přes
+padesát až na výjimky, tak říkají, hele,
+ze mě už je výborný program, ale to v Pythonu
+asi nebude.
+Můžeš to dělat doma, ale nebude.
+Takže spíš do toho biznisu.
+To je důležitý smysl.
+– Nějaká geneze. A ještě ty jsi narazil na ty čtyři
+až pět let, že bys
+doporučil, aby lidi
+měnili ty joby.
+– No my už půjdeme, Petro, ne?
+– My už půjdeme, už se to
+akorát věď to vychází.
+– Tak tady budu oblíbený v tý firmě.
+Až říkám, že mi to jedno.
+– To je dobrý.
+Ty jsi to vlastně vůbec tak neměl.
+To byl maraton,
+co ty jsi předvedl vlastně
+v těch firmách, kde jsi byl. Čemu to přizuzuješ ty?
+– No,
+přizuzuju to tomu, že
+ten vývoj do toho roku
+v tom IT do toho roku 2008, řekl bych,
+byl hodně, hodně
+překotnej. A já jsem se dostával
+nejenom od technologií, ale i vlastně
+do různých těch rolí
+v tom svým životě, že jsem furt měl pocit,
+nebo neměl jsem pocit, že bych měl něco měnit.
+Furt jsem tam měl nový výzvy,
+nový projekty, který byl každej
+trošku jiný, s jinýma technologiíma,
+s jinýma produktama. Takže jsem lítal zprava
+doleva a v podstatě jsem se nedostal,
+ani jsem se nedadech. A měl jsem
+toho dilema, protože té první práci jsem byl
+12 let a teď jsem v té druhé, když jsem byl
+12 let, tak jsem říkal, tak to je asi pro mě
+nějakej 12 letý cyklus.
+A pak přišel takový projekt, který jsem prostě chtěl
+dělat a bylo mi to tak strašně zajímavé, že jsem řekl,
+tak ještě vydržím. A vydržel jsem
+těch 19. – Čili tebe to tak bavilo,
+že jsi najednou zapomněl
+přestoupit. Já jsem se zapomněl, já jsem se tady
+u těch super projektů, tak zase, že jsem tady
+do důchodu. – A znova popaku, to, co jsem
+už jednou říkal, stále jsem na té chodbě potkával
+lidi, kteří všichni byli lepší než já.
+To mě strašně nabíjelo.
+– Dobře, tak to byl ten důvod, proč jsi tam zůstal.
+A jaký je ten hlavní důvod, proč jsi
+vlastně odešel dřív, než
+zákon říká? Už jako
+toho bylo moc? Byl jsi z toho jako unavenej?
+Nebo jaká byla ta hlavní motivace?
+– Tak, možná byly,
+vždycky se říkají tři body, tak si vymyslím nějaký tři body.
+Takže první je, že ta korporace
+začala utahovat ty šrouby natolik,
+že jsem měl pocit, že té volnosti už je málo
+a vždycky je to nějaký ratio poměrce
+na výkon, nebo tady v tom případě peníze
+versus.
+– Integrita?
+– Ani ne, možná integrita, ale spíš
+volnost nebo pravomoc, nebo jak to budeme nazývat.
+Což byl první.
+Druhá věc je, že
+chci od 7,50
+tak 25 let ve vrchovním managementu
+fakt unaví.
+A už jsem to na sobě cítil, že
+už ani tomu nedávám tolik, kolik
+si myslím, že by to zasloužilo
+a ta integrita mi říkala, že už to jako
+nedělej. A třetí věc, že
+ještě mám plno věcí, kterým se chci
+věnovat a
+Petr zná tu teorii s těma cukrama,
+tu asi tady nebudu říkat, ale prostě
+nemyslím si, že už mi zbývá tolik
+času toho aktivního života,
+že bych ho měl věnovat ještě korporaci
+a že ho radši budu věnovat věcem, který
+chci já a možná rodině a možná vnůčatu.
+Přečtu přesně tu otázku.
+Co s ohlednutím na celou kariéru považuješ
+za největší úspěch a proč je to právě
+narození prvního syna?
+Nejčekaný.
+No ještě pán se mi povedl.
+A cena taky není špatná.
+A o Bubeníkovi nemluvím.
+Tak jasně.
+Dětí mám dost.
+Já si myslím, že se mi všichni ti povedli,
+ale myslím si, že je to můj největší životní úspěch
+určitě.
+Co se týká životu profesního,
+tak možná si myslím,
+že jsem
+v celém tom profesním životě
+neměl žádný úplně zásadní
+fuck up. Když jsme se tady bavili,
+co se mi nepovedlo, když jsem odcházel,
+všem jsem řekl věci, které bych dělal jinak
+a které si myslím, že se mi nepovedly,
+ale
+nebylo to úplně nic zásadního.
+Takže, že bych
+se nekouknul sám sobě do
+zrcadla. To si myslím, že je důležité.
+A je tam, ty jsi vlastně na to částečně
+odpověděl, jestli tam je něco, co bys
+zásadně chtěl udělat jinak,
+ale nebo na to koukáš takovým tím pohledem,
+který si často slychávám
+v podcastech, já bych to řekl vlastně stejně,
+že vlastně všechno tě někam posune,
+bytě to průser. Vždycky jsou nějaký dílčí
+průsery, ale posunou tě někam
+zase jinak. – No, ale to mám jasno. Já bych
+některých věcí udělal jinak. Za prvý,
+a to vám, kud si poradím, protože jste ještě mladý,
+jak jsme si tu řekli před časem,
+určitě, pokud máte
+okolo sebe lidi, který vás
+negativně vysávají, nebo vidíte,
+že tu výkonnost nemají, vyhoďte je.
+Čím dřív, tím líp.
+Prostě v mnoha případech jsem to neudělal,
+prodlužoval jsem to o půl, o tři čtvrtě roku
+a nakonec jsme byli
+oba dva rádi, že jsme to prodlužovali.
+Měl jsem to udělat všechno dřív, a to není moje myšlenka,
+jenom pro vaši informaci, s tím už přišel
+Bill Gates před 20 lety.
+Což je první věc.
+Druhá věc je, pokud se něco žene
+do průšvihu, znáte takový ten
+klasický IT obrázek toho koně,
+jak ho všichni oživujou
+na těch projektech, že si všichni si myslí, že ještě
+se rozběhne. Čím dřív to
+zastavíte, tím lepší. Bude vás
+to bolet měsíc, ale pak
+budete mít rok klid.
+A to se mi stalo, jednou se mi to stalo totálně
+a jsem byl hrdý, že když se mi to stalo
+po druhý, takže jsem to byl schopen
+zavčas ukončit.
+A je to mnohem třeba
+i po toho zákazníka. Pokud ho přesvědčíte
+o tom, že ten projekt někam nevede,
+že je lepší to z hlediska jeho financí
+i vašich financí ukončit, tak je to nejlepší.
+No dobře, dostáváme se do závěru.
+A tady je to teda
+specifický v tom, že vždycky se ptáme na konci,
+co host plánuje dál.
+Já moc dobře vím, co jsi plánoval
+hned po tom, co nastoupíš do důchodu.
+Bylo to hodně, chtěl jsi zhrát s akciem
+a chtěl jsi měl s těmi jako další plány.
+Tak nakolik to splňuješ, tento svůj představu?
+Myslím, že teďko měsíc a deset dnů
+nebo kolikátí. Tak to vím úplně přesně.
+Na nule jsem, kluci, jsem úplně na nule.
+Ale teď jsem bavil se s jedním kolegou,
+který to absolvoval a ten říká, trvá to tři měsíce.
+Tak nechte mě žít v té
+libozvučném dreamu,
+když to řek. Ale já si myslím,
+že se k tomu dostanu. Možná to nebude tak
+intenzivní, jak jsem si představoval.
+Ale tak jako, chtěl jsem se dostat
+hlavně k cestování a to ty víš, že dovolených
+mám několik hodně naplánovaných,
+tak jsem rád, že se k tomu dostanu, takže fajn.
+Takže jedna věc je plán, ale důležitý je,
+jestli jsi v tom teda spokojený, tak jak jsi to...
+No teď zatím nejsem spokojený.
+Tak počkáme, dáme ti tři měsíce.
+Jo, pak mi zavolejte, já vám dám jenom
+takový jednu větu do podcastu,
+stále to nejde.
+A nemyslíš, že bude nějaký riziko
+u těchto lidí, co v tom měli takovou dobu,
+najednou prostě z toho vypadnou,
+teď najednou nevědějí, co sami se sebou,
+byť máš těch plánů, jak jste říkali oba dva,
+hrozně moc. Nebojíš se, že třeba
+tě to bude tahat zpátky, že bys ještě naskočil?
+Hele, samozřejmě
+v té hlavě to někde zvučí,
+kdybych řekl, že ne, tak kecám.
+Ale zatím jsem oproti tomu
+dost odolnej
+a řeknu
+se stala jedna věc, někde
+něco proběhlo novinama, že se vyhodnulo nějaký
+tender, ve kterém já jsem byl historicky
+nějakým způsobem zaangažovaný.
+A teď jsem se ti začal strašně rozčilvat.
+Jak je to možný, že vůbec tak je to?
+A ta manželka na mě kouká a říká,
+proč se rozčilují, teď už ti to nezajímá.
+Tak jsem si ti tak zamyslel a řekl jsem,
+no teď máš pravdu, to je ta věc, kvůli tomu
+jsem odboryšel. Takže to byla
+taková satisfakce, že sám sobě jsem si
+ten feedback dal.
+Takže já myslím, že už ne.
+Super.
+Tak my ti budeme přát, aby tě to už
+opravdu nezajímalo, aby všechny
+plány, co máš, ať jsou cestovní,
+lidský, rodinný, aby ti vyšly.
+Pro mě osobně to byla velká čest
+tě poznat. Už některý věci jsem
+konečně ve vztahu tady k Petrovi
+pochopil. A ještě jednou
+moc díky, bylo to super.
+Kluci, já vám taky moc děkuji, ale aby jsme
+skončili nějak úplně pozitivně,
+nejak rentiersky, nebo
+penzisticky. Já si stále myslím,
+stále to vidím, že prostě IT je obor,
+který je úplně nekonečný v současné době.
+Pokud tam člověk hledá něco,
+kde se může rozvíjet, kde vidí nový
+výzvy, kde se chce seberalizovat,
+upřímně nevidím. Možná biotechnologie,
+když to řeknu z mého podhledu.
+Ale to je v podstatě strašná bomba
+a těch výzev je tam strašně moc.
+A strašně by mě to bavilo, kdybych začínal znova do toho hodu.
+Super.
+Super. To je pěkná tečka nakonec
+pro naše posluchače, který přemýšlí,
+že byte třeba touhle cestou nešli,
+ale myslím si, že ty tam asi nebudou.
+A budeme jim držet palce
+stejně jako tobě, ať jsi šťastný v tom
+svým životě po kariérním životě.
+Doufám, že se mě technologicky nesklamal.
+Určitě ne.
+Měj se hezky, ahoj.
+Ahoj, hezkej den.
+Kámo, s každým
+dílem u mě roste
+impostor syndrom. Já jsem si myslel, že jsem se toho zbavil,
+kdo z takovýho renku, a ty začíná
+tebe mluvit, tak ty jenom na něj čumí
+s otevřenou hubou. No pro tebe, ty jo,
+jako rodinný příslušník, to muselo být zajímavý dětství, ne?
+Hele no, ty jo.
+Takový guru doma, ty jo. Já vždycky jako přemýšlím, že jsem
+toho mohl využít ještě víc. To se o tebe dělá podle mě.
+Tak samozřejmě, že
+je to daný tím, že prostě pracujeme,
+nebo já pracuji teďka taky,
+i když už ne,
+ne teda fajtý, tak se vidíme málo.
+Vidíme se málo. Rád bych, aby jsme tohle
+a ty diskuze v společní vedli
+častěji, protože samozřejmě,
+jak jsi to říkal na začátku, taťka je
+můj velký vzor a
+tohle byl důkaz toho, proč.
+Chápu, chápu. A taky potvrdil, že jsi
+nešikovnej od mala. Což se taky dáte.
+Jo, jo, jo, to je pravda.
+My jsme, my jako v podstatě,
+ta imič nemůže růst na tom, že jsem
+dokonalej. My jsme si vybrali jednu věc,
+u který během říkat, že jsem v ní špatnej.
+I když to není úplně pravda, já jsem taky
+trošku šikovnej. Na ruce, ale třeba s hokejkou.
+Třeba no, třeba.
+Tak jo. No hele,
+čeká nás závěrečný díl pátý
+série, pak si dáme voraz
+no a si půjdeme dál, jako mě to baví
+a dneska to teda zase bylo úplně jiný
+než kdykoliv předtím a to,
+že už jsme zabrousili do různých koutů.
+Takže já se těším, co nás
+čeká v příštím díle. Já taky
+a přesně tak, jako prostě ta
+zábava kolem toho je prostě fakt jako
+fascinující. Jako neklesá to s těma
+sériema. Tak super.
+No tak jo přátelé, mějte se krásně, snad vás to taky bavilo.
+Zase jsme zabrousili trošičku jinam.
+No a příští díl by měl být zase
+řekněme více techničtější, je to tak?
+Jo, je to tak. Tak jo, těšte se
+za 14 dní, čau. Mějte se krásně, čau.
