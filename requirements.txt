@@ -1,6 +1,7 @@
 feedparser
 requests
 pyyaml
+python-dotenv
 streamlit
 anthropic
 plotly
