@@ -155,10 +155,11 @@
     "date": "2025-10-20",
     "duration_minutes": 89.0,
     "topics": [
-      "Ostatní"
+      "Kariéra",
+      "Data & Analytics"
     ],
     "summary": "Protože myslíme na všechny své posluchače napříč IT spektrem, opět se vracíme k tématu QA, automatizace a hlídání kvality. Až z Ostravy za námi přijel zkušený \"kvalitář\" Vojta Barta, se kterým jsme nejen zavzpomínali na zlaté časy ve Vendavu, ale též probrali jeho více než osmnáctiletou kariéru v QA a jak se za tu dobu vnímání QA změnilo.",
-    "transcript_file": ""
+    "transcript_file": "data/transcripts/011_s13e03_vojta_barta_qa_v_roce_2025.txt"
   },
   {
     "episode_id": 13,
@@ -392,10 +393,12 @@
     "duration_minutes": 69.0,
     "topics": [
       "Startupy",
-      "Cloud & DevOps"
+      "Cloud & DevOps",
+      "Kariéra",
+      "Data & Analytics"
     ],
     "summary": "Svou návštěvou nás poctila jedna z hvězd českého AWS nebe a oficiální serverless hero Filip Pýrek. Řeč byla samozřejmě o cloudu, serverless, funkcích a vývoji obecně, ale zabrousili jsme i k jeho startupu. Šťávička included!",
-    "transcript_file": ""
+    "transcript_file": "data/transcripts/028_s10e04_filip_pýrek_serverless_na_aws.txt"
   },
   {
     "episode_id": 30,
@@ -465,10 +468,11 @@
     "duration_minutes": 75.5,
     "topics": [
       "Kariéra",
-      "Data & Analytics"
+      "Data & Analytics",
+      "Podnikání & Produkt"
     ],
     "summary": "V předposledním díle deváté série jsme s otevřenou náručí přivítali CTO společnosti Dataddo Tomáše Sedláčka, který s námi koukl na střívka této datové služby ze všech možných úhlů. Pokud vás zajímá vše kolem jazyka Go, tak tohle bude díl přímo pro vás!",
-    "transcript_file": ""
+    "transcript_file": "data/transcripts/033_s09e05_tomáš_sedláček_dataddo.txt"
   },
   {
     "episode_id": 35,
@@ -726,10 +730,13 @@
     "date": "2023-06-12",
     "duration_minutes": 74.1,
     "topics": [
-      "Kariéra"
+      "AI & ML",
+      "Architektura",
+      "Kariéra",
+      "Data & Analytics"
     ],
     "summary": "O tom, co vlastně znamená přenést videobsah z jednoho koutu světa na druhý, kdy je latence opravdu problém a jak vyšplhat ze supportu do core týmu nám přišel povyprávět Head of Livestream Engineering ze společnosti CDN77 Michal Hošna. Máte-li rádi streaming, Rust, Cčko a punkový firmy, dnešní díl vám bude chutnat.",
-    "transcript_file": ""
+    "transcript_file": "data/transcripts/052_s06e05_michal_hošna_livestreaming_v_cdn77.txt"
   },
   {
     "episode_id": 54,
@@ -1048,7 +1055,7 @@
       "Data & Analytics"
     ],
     "summary": "V závěrečném dílu druhé série nás navštívil datový mág Honza Vrubel, aby nám představil, jak se v DHL zachází s daty a jaká cesta vede od hrubých dat až po voňavé reporty v prezentacích managementu. Pokud vám něco říká ETL, Oracle Data Integrator, Teradata, Tabular nebo třeba PowerBI, bude tohle díl přímo pro vás.",
-    "transcript_file": ""
+    "transcript_file": "data/transcripts/075_s02e06_honza_vrubel_data_engineering_v_dhl.txt"
   },
   {
     "episode_id": 77,
@@ -1073,7 +1080,7 @@
       "Data & Analytics"
     ],
     "summary": "Po delší době jsme opět sáhli do vnitropodnikového šuplíku hostů a vytáhli našeho milého kolegu a znalce webové přístupnosti Luboše Hradeckého. Jak udělat váš web, aby byl přístupný i pro návštěvníky se zdravotním omezením a který web to dělá vyloženě blbě? Nejen to se dozvíte v dalším díle podcastu #PodVocasem.",
-    "transcript_file": ""
+    "transcript_file": "data/transcripts/077_s02e04_luboš_hradecký_web_accessibility.txt"
   },
   {
     "episode_id": 79,
@@ -1086,7 +1093,7 @@
       "Podnikání & Produkt"
     ],
     "summary": "Už delší dobu jsme měli v TODO listu téma Event Sourcingu, CQRS a DDD a konečně se nám podařilo si pozvat odborníka s praktickými zkušenostmi ze stavění bankovních systémů. Co je Event Sourcing, proč ho dělat a kdy ho naopak nedělat? Co je task-based UI a není nakonec lepší starej dobrej CRUD? Dozvíte se v neskutečně nabušených 70 minutách dalšího dílu podcastu #PodVocasem.\n\nOdkazy:\nhttps://www.eventstore.com\nhttp://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf\nhttps://en.wikipedia.org",
-    "transcript_file": ""
+    "transcript_file": "data/transcripts/078_s02e03_zdeněk_merta_event_sourcing_cqrs_a_domain_driven_design.txt"
   },
   {
     "episode_id": 80,
@@ -1095,10 +1102,13 @@
     "date": "2022-01-31",
     "duration_minutes": 60.7,
     "topics": [
+      "Startupy",
+      "Architektura",
+      "Kariéra",
       "Data & Analytics"
     ],
     "summary": "Po eskapádách na elektrokole k nám do studia konečně dorazil i znalec frontendových technologií a git mág Borek Bernard, abychom to probrali tak nějak z gruntu a omrkli jeho práci na VersionPressu, Shoptetu, ale i další zajímavá témata jako třeba nekonečnou bitvu mezi monorepem a multirepem.",
-    "transcript_file": ""
+    "transcript_file": "data/transcripts/079_s02e02_borek_bernard_monorepo_multirepo_versionpress_a_shoptet.txt"
   },
   {
     "episode_id": 81,
@@ -1172,10 +1182,11 @@
     "date": "2021-11-08",
     "duration_minutes": 61.3,
     "topics": [
-      "Architektura"
+      "Architektura",
+      "Data & Analytics"
     ],
     "summary": "Proč je Elm úplně nejvíc nejlepší způsob jak psát webové single page aplikace? Proč se nespoléhat na nezdokumentovaná API jazyka? A bude někdy v Prostějově v coworkingu avokádové latté v akci? Dozvíte se v druhém díle IT podcastu #PodVocasem, kam jsme si tentokrát pozvali Tomáše Látala.",
-    "transcript_file": ""
+    "transcript_file": "data/transcripts/085_s01e02_tomáš_látal_elm.txt"
   },
   {
     "episode_id": 87,

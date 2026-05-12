@@ -1,50 +1,50 @@
 {
-  "total_episodes": 87,
+  "total_episodes": 88,
   "avg_duration_minutes": 78.2,
   "first_episode_date": "2021-10-13",
-  "last_episode_date": "2026-04-13",
+  "last_episode_date": "2026-05-04",
   "hosts": [
     "Petr \"Poli\" Polák",
     "Roman \"Džoukr\" Provazník"
   ],
-  "total_guests": 87,
+  "total_guests": 88,
   "topic_distribution": {
-    "Kariéra": 0.252,
-    "Data & Analytics": 0.248,
-    "Startupy": 0.106,
-    "Architektura": 0.093,
-    "AI & ML": 0.071,
-    "Cloud & DevOps": 0.071,
-    "Podnikání & Produkt": 0.062,
-    "Open Source": 0.031,
-    "Česká IT scéna": 0.027,
-    "Bezpečnost": 0.022,
-    "Ostatní": 0.018
+    "Data & Analytics": 0.261,
+    "Kariéra": 0.249,
+    "Startupy": 0.102,
+    "Architektura": 0.098,
+    "Cloud & DevOps": 0.073,
+    "AI & ML": 0.073,
+    "Podnikání & Produkt": 0.057,
+    "Česká IT scéna": 0.029,
+    "Open Source": 0.029,
+    "Bezpečnost": 0.02,
+    "Ostatní": 0.008
   },
   "recurring_themes": [
-    "Kariéra",
     "Data & Analytics",
+    "Kariéra",
     "Startupy",
     "Architektura",
-    "AI & ML"
+    "Cloud & DevOps"
   ],
   "avg_duration_by_topic": {
-    "Startupy": 75.9,
-    "AI & ML": 80.5,
-    "Kariéra": 82.4,
-    "Architektura": 83.0,
-    "Data & Analytics": 83.0,
-    "Česká IT scéna": 77.9,
+    "Cloud & DevOps": 75.5,
+    "Kariéra": 81.6,
+    "AI & ML": 75.9,
+    "Startupy": 75.3,
+    "Data & Analytics": 79.1,
+    "Česká IT scéna": 67.2,
+    "Architektura": 80.5,
     "Open Source": 82.8,
-    "Ostatní": 57.4,
     "Bezpečnost": 89.5,
-    "Cloud & DevOps": 76.6,
-    "Podnikání & Produkt": 79.5
+    "Podnikání & Produkt": 79.5,
+    "Ostatní": 35.8
   },
   "humor_frequency": "low",
   "technical_depth": "low-medium — business and career focused",
-  "avg_questions_per_episode": 73.4,
-  "transcripts_analyzed": 76,
+  "avg_questions_per_episode": 74.3,
+  "transcripts_analyzed": 86,
   "intro_style": "Casual banter between hosts, followed by guest introduction with humor and personal anecdote",
   "question_style": "Open-ended, follow-up heavy, technical depth varies by guest",
   "typical_flow": [
@@ -71,6 +71,7 @@
     "S11",
     "S12",
     "S13",
-    "S14"
+    "S14",
+    "S15"
   ]
 }
