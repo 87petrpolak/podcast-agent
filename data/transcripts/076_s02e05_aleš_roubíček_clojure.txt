@@ -1162,3 +1162,518 @@ Je to taková ta...
 Vlastně jako funguje to, tak proč?
 Tak samozřejmě dá se s tím rychle vyprdnout
 věci, které fungujou do určitý
+chvíle a pak přestanou
+fungovat. Což byl třeba případ
+aplikace, který dělá.
+Tam opravdu jsou pořád 12 MB
+obrázky.
+Ok, aleši, co AI a
+Clojure? Nějaký zajímavý
+lipky nebo nějaký zajímavý
+aplikace, který
+souvisí
+z Clojure a z AI? Něco takového bys nám pověděl?
+Tak...
+Bylo by blbý, kdybych
+nepověděl, když jsem o tom měl přednášku
+na LambdaPool.
+Hezky.
+Clojure si myslím,
+že je ideální jazyk jak na
+data science, tak
+na práci s AI.
+Protože
+LIS byl vlastně na tohle
+stvořen.
+A JVMK
+nemá věloženě
+TensorFlow, ale má
+ML4J nebo něco takového.
+Nevím.
+No, je to deep learningová
+knihovna, je tam velká komunita, která
+je srovnatelná s TensorFlow
+schopnostma.
+A samozřejmě bindingy pro Clojure
+existují.
+Není těžký prostě ty javový knihovny
+s tím taky volat.
+Tohle je v cajku.
+Pak existuje
+docela zajímavý projekt,
+který se jmenuje Neandertal,
+který vlastně
+umožňuje využívat
+jádra, které si kumpilujou
+pro to, aby běželi na
+grafické kartě.
+Píšeš vlastně kernely přímo v Clojure.
+Je tam malá část
+asi kódu, kterou musíš nasadit v C,
+abys to jako
+doplnil,
+co se má vlastně volat
+z toho high level kódu v tom low level.
+Ale umožňuje to dělat
+super výkonný
+datově náročný výpočty.
+Má to práci s maticema
+s většinou drama.
+Hodně robustní
+a je to hodně rychlý.
+A má to super apíčka, protože jsou napsaný v Clojure.
+Jsou datově orientovaný, přehledný.
+A píše to
+vlastně
+jeden srb, který
+a doufám, že to je srb
+a ne chorvat, který
+vlastně k tomu píše i knižku.
+Nebo knihy,
+celou sérii knih, který lidi učejí
+jak prostě
+se statistikou,
+jak tu matematiku
+programovat v Clojure,
+jak to postupně, vlastně od začátku
+až po
+ty složitější věci
+z toho ML-ka.
+Ty topiky tam
+prochází a ukazuje to právě tady na té knihovně.
+Takže k tomu jsou hodně dobrý
+materiály a dává to
+velký smysl.
+Není to prostě tak, že byste dělali copy-paste
+věci z TensorFlow, který jsou všude.
+Jasně.
+Ale nezapomínejte na to, že ty ukázky, které jsou všude,
+jak s většinou, to je taky závodnost.
+Všechny ukázky na práci s D3.
+Když se u nás
+v projektu před lety lidi
+rozhodovali, jakou použití knihovnu
+nagrafají, tak jasně D3,
+protože na to jsou examply na všechno.
+A když v tom potřebuješ něco upravit,
+nevím, co změnit, tak končíš, protože ta APIčka
+je šílení. To je jedna obrovská
+motabilní datová struktura,
+která se tím mění pod rukama.
+A ty ukázky jsou hlavně napsané,
+takže to je right once.
+Máš pocit, že tato AI přívětivost
+může zatraktivnit celý klouže?
+Myslím, že cokoliv
+může zatraktivnit, ale
+problém je v tom, že
+tady hned vstupní brána do tohohle světa
+je většinou akademická sféra.
+A ta
+prostě má
+sunk cost felasy na Python.
+No, takže se z toho nedostaneme.
+To je jenom pro lidi, co asi se dostanou
+kousek dál a začnou
+se porozřížit, jestli by to nešlo dělat líp.
+Ale většinou k tomu nemá jdu. Oni jsou zvyklí
+na ty bolesti, které tam jsou s tím
+spojeným.
+A tak ono zase
+kolem toho Pythonu je už strašně
+moc knihové na tu linku kolem, ne?
+Možná, že tam to zahraje na tu notu,
+že už nemusíš... To je právě ono, o čem jsem mluvil.
+Je tam toho moc, ale to je jako sem PMQ.
+Většina je nízká kvalita.
+To jsou tam pár věcí, které jsou dobrý.
+Left-back.
+Ale ty jsou vlastně všude, že jo?
+A pak mají spoustu garbage.
+Který jako
+na nějaký jeden konkrétní
+úzký příklad fungoval, tak ho někdo dal ven.
+Ale většinou prostě...
+Já si myslím, že tady to je cesta
+spíš proto, když už ty lidi
+v tom dělají a potřeboval to
+MLK, tak ho mají prostě jako v toolsetu
+na dosah ruky a prostě
+naopak dostat
+víc klouže programátory třeba
+k tomu, aby dělali s machine learningem,
+když to potřebují zhruba.
+Nemyslím si, že to je pro lidi, který se vinují
+prostě jako
+datový...
+Nechci říkat data science,
+protože to s vědou nemá nic společného, ale
+prostě šťourání se
+ve velkých datech
+a jich narovnávání do nějakých formátů,
+aby to dávalo smysl a v tom hledání
+prostě
+jehly v kubce sena,
+že jo?
+Zajímavá informace, no.
+A ty nástroje, které jsou hotové
+v tom Pythonu, tak Python prostě není
+datově orientovaný jazyk, tím pádem
+prostě vám spoustu věcí
+znesnadňuje a ve výsledku ty
+výkonní části jsou stejně v C++,
+takže vlastně je to skriptovací engine
+na to C++ knihovnama, no.
+Ta ergonomie je prostě divná,
+platíte tam penalti za to, že musíte ty data
+marshalovat z jednoho prostředí do druhého,
+mě to smysl nedává, no,
+ale není to hora,
+na který bych chtěl umírat, prostě.
+Jasně.
+Tak já mám pocit, že jsme to probrali snad
+ze všech stran, nebo Aleš je
+třeba něco, co bys ještě rád
+o Clojure řekl a my jsme
+se na to úplně nezeptali, nebo jsme
+to vůbec tam nezabrousili?
+Hele, vlastně
+bavili jsme se teďka o AI
+a práci s datama. Jak se říká, že to je datově
+orientovaný jazyk, tak on, a zároveň
+jsem taky říkal, že to je interaktivní práce
+s tím, tak na datový explorace
+prostě ti stačí
+REPL, nepotřebuješ notebook, jo.
+Nemusíš prostě dělat šílený prostředí. A když
+ten notebook potřebuješ, tak buď
+existují prostě možnosti
+jako tam plugnout, ty pluginy
+na to dneska existují, anebo vznikly
+zajímavé projekty přímo v Clojure
+jako Gorilla, REPL, který
+prostě střídáš markdown
+v komentářích s
+prostě s Clojureovýma
+SX prišnama a
+vytváříš prostě samou upovícnej kód
+a nějaký dokument, který
+k něčemu dojde. Takhle jsem dělal spoustu
+datových analýz, než
+jsem je pak třeba zakomponoval do toho našeho
+insightu. Prostě je to další z nástrojů,
+který ti umožňuje rychle si data
+prohlížet, rovnou i vizualizovat.
+Skvělá přednáška od Dana Kolmana
+o Clojure
+z Pardovic. My jsme
+měli to vlastně spolu přednášku, já jsem
+tam dělal takový úvod do jazyka a Dan
+ukázal prakticky na implementaci
+Game of Life v Gorilla,
+super interaktivní
+prostě demo, kde prostě vidíš
+jak se s tím dělá, jak se s tím přemýšlí.
+A Gorilla a Ripple je jenom specializovaná
+část, to není
+aplikační vývoj, je to prostě explorace
+nějakého datového problému, ale
+tím, že máš už přímo v něm
+vizuální nástrojek, to je super.
+Dneska pro VS Code
+existuje plugin, který se jmenuje Calva,
+který dělá něco podobného přímo.
+Prostě dělá Ripple, který zároveň umí
+dělat i vizuálně dendrování, protože
+VS Code je to malá
+aplikace, takže
+máš přístup ke všemu, co potřebuješ
+a můžeš to dělat přímo v tom.
+Tohle si myslím, že jako
+něco, co je furt opomíněné,
+mainstreamu
+se o to pokusil Apple
+se Swiftem a jich
+interaktivním zobrazováním toho, co se dělá.
+Dart tohle
+myslím, podchytil docela dobře
+ve Flutteru.
+Do mainstreamu se tady ty některé
+ideje prosakují a je to super.
+A
+v Clojure je to pořád
+roky například.
+Tam se ty ideje
+leštily
+a prošlapávaly dávno předtím, než
+některý části byly vyzobaný.
+Ale dává to smysl, protože je to
+celý ekosystém, který do sebe zapadá.
+To jsou jenom takové střípky, mozaiky,
+které dávají naději.
+Neumím to asi vyloženě prodat.
+To se musí fakt vyzkoušet
+a zažít si to. Kluci jsou třeba
+nadšený z toho, že v tom píšou
+skripty místo šelů.
+Jmenuje se to
+Babaška.
+Je to zvláštní interpret Clojure,
+který se kompiluje přes
+Graal do nativních imidů.
+Oproti Clojure,
+která má problémy se
+startup time, ne zase tak velký,
+ale pro někoho to může
+být pro interaktivní command line
+nástroje, to může být moc.
+Tak tady to je na úrovni milisekund
+startu místo třeba sekundy.
+V Clojure můžeš
+vygenerovat nativní binárku
+nasaditý do
+Lambda, do Dockeru,
+jako jeden binary file
+podobně, jako to dělá Rust
+nebo Go.
+Na závěr máme nějaký
+způsob, jak tohleto
+všechno šířit dál, protože
+ty, zase
+jak jsem čekal, já jsem to věděl,
+že přijde, Aleš, vysází
+ty důvody, proč ano, proč
+tímhle směrem jít.
+Co teda máme udělat
+obecně my jako vývojáři,
+aby, nebo komunik,
+řekněme IT komunita, aby
+tyhle nástroje, aby to vědělo
+víc lidí, že jsou dobrý, aby se to třeba
+nějakým způsobem šířilo. Protože podle mě třeba ty by si měl
+víc školit, nebo měl by si
+zajímat se, tak ty jsme u toho.
+To už si možná a půlku lidí
+teďka vyautoval. Ale víš,
+jako konec konců, když jsme pořádali
+Lambda, tak ty jsi tam měl výbornou
+přednášku. Myslím si, že třeba ty by si měl
+víc, plánuješ víc, nějak
+přednášet, mentorovat,
+školit. Protože víš to sám,
+jako ty to víš, my to víme, teďka
+vypneme mikrofony, zaklapnou se dveře
+a ten dopad nebude takovej,
+jako když ty si vezmeš pár lidí a
+otevřeš jim oči, stejně jako si před
+nevím, x, x, x lety
+otevřel oči mě
+s tím reaktivním programováním
+a vlastně co to až mělo za následek.
+Neplánuješ nějaký
+takový jako osvětový?
+Myslím, že si to svět zaslouží ještě
+několikrát zopakovat.
+Ale rozhodně, rozhodně, rozhodně.
+Kolik lidí by přišlo
+o práci, kde by se to rozšířilo
+do mainstreamu?
+A mě to je jedno, já potřebuji dodávat řešení
+rychle a kvalitně, já tohle kašlu.
+A právě proto je tady niž
+trh, kde my máme tu konkurenční výhodu,
+že můžeme takové věci dělat
+a zbytek, ať se patlá
+tak, jak se patlá, když zjistí, že to je
+problém, tak přijdou za náma, že to potřebuje
+udělat jinak a my tu pro ně jsme.
+Ano, to si myslím, že to je fajn.
+Tak vidíš, tyhle jsem hledal
+nějaký jako biznis za tím,
+a vlastně on už je to dal na vyřešený.
+Prostě zůstat dobře placenej, než?
+Je to tak? Samozřejmě.
+Alež vlastně nechce, aby to bylo
+mainstream, protože takhle vzad něm chodí.
+Tak ten mainstream ti z toho stejně udělá
+bláto, takže stejně budou potřebovat
+lidi, kteří to budou dávat do pořádku.
+Když dáš
+někomu nástroj, to neznamená,
+že se najednou změní
+svoje přemýšlení a chování.
+To je něco, co si musíš vybudovat,
+vytrénovat, zažít. A není to
+prostě tak, že najednou teďka budu používat
+Closure a budu země super programátor,
+který si bude posílat faktory za 200 tisíc.
+Tak to není prostě.
+Oká, no tak na závěr
+úplně, co ty plánuješ dál, Aleši?
+Jaké jsou tvé další kroky?
+Kromě toho, že opustíš budou, samozřejmě.
+A pak se budu ožrat.
+No,
+jak jste se ještě ptali, jak dělám zajímavé
+projekty, tak jsem zapomněl zmínit,
+nebo jsem se k tomu nedostal,
+projekt Hlídač Shopu,
+na kterým používáme právě
+nula řádku
+Closure.
+A je to napsané skoro celý z JavaScriptu
+a ta nejhlavní část je
+ve Snowflakeu, což je
+SQL pro obrovské množství dat
+v cloudu.
+A jedno z takových témat, který mě
+v tomhle snědu zajímá,
+je to, protože těch dat je tam obrovské množství
+a potřebujeme s ním efektivně nějakým způsobem
+pracovat, tak je vlastně, jak
+efektivní náklady na cloud
+a vůbec naší uhlíkovou stopu s tím spojenou.
+Takže to je téma
+tenhle rok pro mě.
+Skvělý.
+A tam bude Closure určitě hrát roli?
+To si nejsem jistý, ale
+může, ale není to
+o technologiích a jazycích,
+je to o přístupech, jak píšeme aplikace,
+jak jim způsobem
+monitorujeme, jak ji používáme,
+máme třeba podvozky, spousta
+třeba lamp v cloudu běží zbytečně
+na intelovských procesorech, když
+stačí jenom
+změnit flag a poběží na armu
+za poloviční cenu
+a za nižší emise.
+A jenom o tom lidi nevědí.
+Evangelizace tady v tom
+smyslu a
+si myslím, že může mít velký impact.
+A je to low hanging fruit,
+prostě stačí málo změnit pro to, aby
+svět byl lepší.
+A kde to uvidíme, ty výsledky?
+Budeš to někde publikovat?
+Budeš psát? Protože máš i blog.
+Letitej.
+Fulsatej blog, ale občas něco napíšeš
+novýho.
+Hodláš se s tím pochlubit?
+Nebo to s tebe budu muset vytáhnout
+v hospodě po pátém pivu?
+Tak když ta hospoda bude,
+tak
+psát nebudu nic.
+Dobře, tak
+já si vezmu Aleši do hospody a pak to nějak.
+Samozřejmě ráda už dotknet,
+když je něco zajímavého
+nebo nějaké sdělení, které
+bych chtěl poslat dál, tak ho tam napíšu.
+Už není tak častý, jako jsem psal dřív,
+protože já jsem spoustu věcí už napsal.
+Nepotřebuji se k tomu racet.
+Stačí si to tady přičíst.
+Kolik to je?
+Nějakých
+16-17 let historie tam je.
+A jsou tam ty kručky
+od toho nadšení,
+od těch dotnetích
+ASP dotnet věcí a brutální
+objektový konstrukce
+a paterny, které v té době byly potřebači,
+aby ty věci dávaly smysl.
+Ta evoluce tam je.
+Z prostý články.
+Některé jsou i poučené a zajímavé.
+Spousta věcí, o kterých jsme se tady bavili,
+když jsem o nich psal před deseti rokama,
+stačí si je tam dohledat.
+Jsem se snažil zlepšit škítkování
+a kategorie, tak by to mohlo dávat i větší smysl.
+Takže adresa ještě jenom je
+rarous.net.
+Super, super.
+No tak jo,
+naši, nečekal jsem nic
+menšího, dostal jsem, co jsem chtěl
+a něco i nám v dávky navíc.
+Já jsem spokojen.
+Nebudeme tě dál zdržovat
+od zachraňování světa,
+protože končí to takhle pěkně.
+Počkej, teď se jde ožrat, až potom bude zachraňován svět.
+Jasně, tak to je taková příprava na tu záchranu.
+Tak jo, hele, ať se daří.
+Já doufám, že tě uvidím
+zase dřív než za pět, šest let
+fyzicky.
+No problém není na mojí straně.
+A měj se hezky
+a budu se zase někdy těšit.
+Díky moc za pozvání, mějte se krásně.
+Ať se daří, Januši.
+I vám. Čau, čau.
+Pátý host druhé série podcastu
+Pod vodcasem. Co na něj říkáš?
+No Románku, bylo to
+nejsvéráznější díl,
+co jsme zatím zažili, řekl bych.
+A to je prostě Aleš.
+Já tohle na něj úplně zbožňuju osobně.
+To bylo se všema svýma benefitama.
+Dodám.
+To je opravdu silný názor.
+Charizmatický člověk.
+Myslím si, že šlápne pár lidem
+na kuří voka, ale to je asi přesně to,
+jak to rád dělá, takže věřím, že
+posluchači si z toho odnesou to, co chtějí.
+Na druhou stranu, pokud ti leze na nervy
+ten mainstream a chceš si
+proti němu zaplavat, tak musíš
+asi plavat hodně silně.
+Jo, jo, jo. To je vidět, že
+opravdu potřebuješ mít na tohle sílu.
+A je vidět, že je ostrílen
+mnohými názory
+na druhé straně spektra,
+který musí jednoznačně
+odrážet. Ale úplně mu rozumím.
+Rozumím tomu jeho vidění světa,
+kdy si prošel těma korporátama
+a najednou vidí, že to jde dělat jednoduše.
+Tak co mu kdo bude vyprávit, že
+to má dělat jinak.
+Jasný. A to mu rozumím.
+Je to hezký, když ten člověk má,
+kolik říkal, 17 letou zkušenost
+v tomhle oboru a
+už si prostě za těma názorama stojí
+a nerozhodí ho prostě
+ten protinázor, který jim může být většinový.
+Bylo to super. A je to další ukázka
+toho, že podle mě takhle by to v těch
+podcastech mělo bejt, že každej
+host je úplně jinej, ale brutálně
+jinej a Aleš bych řekl, to mu dal
+ještě tu čepičku nahoru prostě,
+že to je úplně zase jiná dimenze.
+Je to super, líbilo se mi.
+To jsem zjedav na ohlasy, musím říct.
+To chci říct. Milí posluchači, když si vzpomenete,
+budete mít časa chuť, tak nám napište, jak si vám
+to líbilo, protože opravdu je to zase
+taková
+taková specifická epizoda.
+Těšíme se na vaše ohlasy.
+Tak jo, to bude asi dneska všechno, ne?
+Já si myslím, že jo.
+Tak jo, tak seme domů.
+Tak se měj. Čau.
