@@ -1,3 +1,11 @@
 feedparser
 requests
 pyyaml
+streamlit
+anthropic
+plotly
+pandas
+numpy
+scikit-learn
+networkx
+faster-whisper
