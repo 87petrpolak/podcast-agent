@@ -1,0 +1,915 @@
+Nazdar, Polly, ty draku tak jaká.
+No, nazdar, Románku, rád tě zase vidím, čau.
+Taky, taky. Hele, Polly, co říkáš na to, že bychom dneska mrkli na ty elmy?
+No, já se nemůžu dočkat.
+Tak jo, a sraz, jako vždycky.
+Jako vždycky, pod vocasem.
+Tak jo, budu tam.
+Super.
+Krásný den, milí posluchači, vítejte u dalšího dílu IT podcastu Pod vocasem,
+kterým vás i nadále budeme provázet my dva, to jest Pítr, Petr, Polly, Polák.
+A Román, Joker, provazník, dobrý den.
+Dobrý den, já se omlouvám, Petře, já jsem minule vlastně vytáhl to Pítr, Polák,
+ale zapomněl jsem to Polly, tu tvoji hlavní přezdívku,
+takže teď jsem si řekl, že bych tam mohl ještě přehodit kromě toho Pítra to Polly.
+A vlastně každej díl bych mohl přidávat novější a novější tví přezdívky,
+takže podle mě třeba na konci druhý, třetí série, pokud někdy bude,
+tak bychom měli půlku jenom toho představení a druhou půlku toho hosta.
+Ne, ne, takže jako ve druhý sérii bude půlka podcastů jenom vyjmenování těch mojich jmén.
+Já jsem zvěděl, jak se to budeš učit.
+Tak, no hele, řekni to doma, že prostě s každým novým dílem přicházíš s novým a novým jménem
+nebo přesdívkou v tom tvým představě.
+Super, budou rádi.
+Tak to je super.
+A prosím tě, my když jsme se naposledy viděli, tak ty jsi odjížděl na Moravu, je to tak?
+Je to tak.
+Tak jak bylo na Moravě?
+Na Moravě dobrý, hele, sklípky super, burčáček fantastický.
+To už je burčáková sezóna?
+To už je burčáková sezóna, dokonce jsem dostal burčák od dvanáctiletýho kluka,
+který říkal, že ho doma pije a že mu to moc chutná.
+Od dvanáctiletýho kluka?
+Dvanáct let.
+To byl to určitě burčák.
+Hele, chutnalo to jako burčák, byl to teda nejslabší burčák, co jsem za ten víkend měl,
+ale i tak se mi líbilo, že mi to prodal zkušenej vinačník.
+Zkušenej dvanáctiletej alkoholik.
+Takže to byl nějak jako virgin burčák.
+V podstatě to chutnal, takže možná, že byl virgin.
+Ale ne, já si myslím, že tam doma alkohol byl a jenom prostě tam děti nebo lidi pijou dřív.
+Tak je to Morava, no.
+Je to tak?
+No, každopádně nebudeme se dneska bavit jenom o nás dvou,
+byť vždycky je to to nejlepší z toho podcastu, co se budeme pohávat,
+ale máme i dneska velmi zajímavýho hosta, který k nám přijel až z Prostějova.
+Takže já pro ní dojdu.
+Super.
+Budeme se dneska bavit o ELMu, o funkcionálním programování,
+jenom abys byl připravený na to, co tady vlastně nakousneme.
+Ale tím, že o Tomášovi zase víme nějaký speciality typu,
+že vede vlastní co-working place v Prostějově a spoustu dalších věcí,
+tak určitě se s náma podělí i o tyhle zajímavé věci.
+Super, těším se na to. Tomáš Látal.
+Ve studiu už s námi sedí náš dnešní host, kterým je Tomáš Látal.
+Ahoj Tomáši.
+Nazdár.
+Ahoj Tomáši.
+Čau.
+A Tomáše jsme si dneska pozvali jako vždycky z více rodů vodů.
+Zaprvé je to persona, která velmi často se vyskytuje na ELMových slečích,
+na ELMových sociálních sítích, vůbec to se týče ELMový komunity,
+tak je velice aktivní, protože to je samozřejmě především ELMý vývojář.
+Ale my už jsme předchozím vstupu trošku neťukli,
+že ty děláš o trošku víc než jenom typický ELM nebo typický softwarový vývoj,
+ale že máš i vlastní co-working place.
+No mám, to byla nutnost.
+To byla nutnost, jo?
+To je základ prostě.
+No samozřejmě.
+Pokud děláte full remote už nějakou dobu a ne z důvodu covidu teda,
+tak vám po nějaké době z toho začne doma celkem hrabat
+a přítelkyně taky nebyla úplně nešťastnější, že jsem doma pořád.
+A potřeboval jsem nějaký místo jako...
+Vímo, nějakou kancelář a když je člověk takhle dlouho doma, tak on nechce být sám, že jo?
+Tak prostě se podívá po možnosti co-worku a když žádný nenajde, tak co ti zbývá?
+Musíš si založit sám.
+Jak to šlape, Tome? Jaký tam máš lidi?
+Zaměřuješ se na nějaký konkrétní...
+Vůbec se zaměřuju na toho, kdo přijde.
+Ale teďka je nás tam aktuálně pět.
+Většinou jsou to lidi, kteří se buď vrátili ze zahraničí,
+nebo pracují pro nějakou zahraniční společnost, takže většinou IT-cí.
+A je tam jeden manželský park, který si rozjíždí vlastní business,
+takže tam mají u mě základnu.
+Hezky, pěkně.
+A máš tam kafe?
+Samozřejmě.
+Jo, je tam kafe?
+Ne, kafe je základ.
+Říkám, celý ten co-work je vybudovaný na třech základních premisách.
+Prostě židle, stůl, rychlý internet a dobrý kafe.
+Všechno ostatní je bonus.
+A jsou tam nějaké pro hipstery takové ty vychytávky,
+gramofonový desky?
+Ne, vůbec.
+Není to hipsterský vlastní?
+Ale máme standing desky, takže...
+Jsou standing desky, no tak aspoň, že tak.
+Já přemýšlím, jak moc se ti tam budou slejzat jako hipstři.
+Ideálně začít s avokádovým laté a pak tam budeš měnom hipstry.
+Ne.
+Nechceš hipstry?
+Jo, ne.
+Dobrá, ale aby jsme se nezasekli jenom na tom co-workingovým place,
+což je samozřejmě samou sobě velmi zajímavý
+a možná bychom někdy mohli udělat celý díl jenom o tom,
+jak jsou ty naše milovaný hipstry.
+Ale my jsme si tě, a to už jsme řekli na začátku,
+protože pozvali z důvodu, že chceme probrat ELM.
+Chceme si zjistit, co je to, jak se to používá,
+proč je to dobrý, proč to není dobrý.
+Můžbys teda to nějakým způsobem vykopnout,
+můžbys nám říct, co je ELM, proč by se to mělo používat.
+Udělat takový úvod pro posluchače, kteří třeba o tom nikdy maličko slyšeli,
+ale ještě vůbec nemají povědomí, kam si ELM v IT světě zařadit.
+Jasně. ELM je funkcionální jazyk, respektive čistě funkcionální jazyk
+pro vývoj frontendových aplikací, který se kompiluje do JavaScriptu,
+ale k tomu JavaScriptu se chová v podstatě jak takovému assembleru
+pro webové aplikace, že ten výsledný kód je tak trošičku nečitelný
+pro normálního člověka, ale ty ho vlastně nepotřebuješ.
+A tím, že veškerý web běží na JavaScriptu, tak je lepší nad tím mít postavy,
+které mají nějaký rozumný funkcionální jazyk, který ti dává výhody
+celého toho funkcionálního světa a dělá si v něm mnohem, mnohem, mnohem líp,
+než v JavaScriptu nebo v TypeScriptu, za mě.
+Jak je to vlastně s historií? Jak je to starý jazyk?
+Jak dlouho se vyskytuje třeba nějaké věci díky nějakých verzích?
+Je to relativně nový jazyk. To znamená dneska nový jazyk.
+Ale bavíme se o roce 2012, kdy vlastně,
+autor jazyka v rámci nějaké své diplomky vyvinul prazákladní verzi ELMu a od té doby
+tak na tom tak nějak vyšíval a podobně a ELM se hodně začal skloňovat kolem roku 2016,
+2017, kdy byla k dispozici verze 0.15, 0.16, tak nějak se tam lámalo a tehdy to byl asi
+ten největší boom teďka, kdy se o něm začalo mluvit jako všude,
+dokonce byl i na nějakém TechRadaru od, teď se mi úplně vykouřilo z hlavy, kdo to vlastně vydává, takové ty typické TechRadary.
+Gartner?
+Ne, ti druzí.
+Ne, nevím.
+Prostě byl na nějakém Radaru.
+Prostě jedno.
+Někde byl, jo.
+Někde byl.
+Někde byl, že se ho všichni všimli a říkal si, hele jo, to by mohlo být zajímavé, hromada lidí do toho naskákala,
+vyzkoušela si to, řekli, to je strašně šílený a opustili to.
+A potom zůstalo pár, který to zaujalo natolik, že to protlačili třeba do firem, začali na tom vyvíjet nějaké větší aplikace,
+nebo prostě šudlali něco do šuplíku a teď už je vlastně verze 0.19 k dispozici a nádherný na tom jazyce je,
+že s každou verzi se vždycky něco odebralo.
+Takže ten jazyk je vlastně čím dál tím menší syntakticky, ale nikdy to nebyly, až na jeden případ, ale k tomu se asi dostaneme potom později,
+nikdy to nebyly nějaké zásadní funkce, které by neměly nějakou náhradu v tom kóru toho jazyka.
+Že spíš se osekávaly ty věci, které byly duplicitní.
+No a dneska, jaká je taková klasická aplikace, pro kterou by si Elm použil?
+Je tam něco takového, co můžeš standardizovat nebo zobecnit?
+V podstatě jakákoliv single page aplikace, kterou jsi schopný napsat v Reactu, tak ji můžeš napsat v Elmu v podstatě úplně stejně, nebo mnohem jednodušeji, je to React.
+Jedna z dalších aplikací, které ten Elm má, má vlastně tři hlavní výstupy.
+První je HTML, klasická HTML aplikace.
+Druhá věc, se kterou si můžeš bavit, jsou SVG a SVG animace.
+A třetí je vlastně podpora pro WebGL a shadery a takovéhle serendy, se kterými si můžeš hrát vlastně v Elmu úplně stejně jako v čemkoliv jiném.
+Takže asi klasické webové aplikace, nějaké krásné hry, demíčka webový zase samozřejmě.
+Je to tak, že drží pořád webu?
+Ano.
+Není to tak, že se posouváme někam do desktopu?
+Nemá, ani takové ambice nemá.
+Core jazyk je vyloženě psaný tak, nebo cílený tak, že cílí na web.
+Jsou nějaké pokusy, jak dostat ten jazyk na backend?
+Nebo do spolupráci s Node.js, protože vlastně kompily se do Javascriptu, kde ti běží Javascript, může ti běžet Elm.
+Přímo v jazyce je třeba, jedna z těch výstupních variant je browser.org.
+Browser.org a ten třeba je headless, nemá view, takže si do Elmu můžeš zapouzdřit nějakou svoji business logiku, nějaký model, změny toho modelu atd.
+A tohle přes porty potom propojit s Javascriptem, který ti dělá tu obálku třeba právě kolem nějakého Node.js CLI programu.
+Jak do tohohle zapadá ta Lambda, já jsem o tom jenom čet, je to něco, o čem se tady bavíme, nebo je to něco trošku jiného?
+Ne, to je úplně zase jako jiný projekt, za tím stojí Mario Rogic, nevím, omlouvám se Mario.
+A ten vlastně si řekl, OK, já bych chtěl používat Elm i na back-endu a zkoušel pár věcí, jakým způsobem by se k tomu mohl dostat.
+Výsledkem z toho je Lambda, moc pěkný talk o ním měl v roce 2019 na Elm Europe.
+A je to vlastně idea toho, že...
+A je to vlastně idea toho, že...
+A je to vlastně idea toho, že...
+Nepotřebuješ databázy, stačí ti na back-endu nějaký in-memory model, se kterým komunikuješ datovýma strukturama, které jsou synchronizované přes nějaký protokol, na kterém taky pracoval, na front-end.
+A ty vlastně odsekáš veškerou nutnost zabalování, rozbalování komunikace mezi front-endem a back-endem, Javascript, mezi back-endem a databází, SQL.
+to úplně prostě zahodíš a komunikuješ jenom frontend, backend,
+zpráví z frontendu na backend, zpráví z backendu na frontend.
+Jasně.
+A hrozně krásně se v tom píšou real-time aplikace.
+To bude boží.
+Takže zůstáváme, co se týče Elmu, pořád v tom webovým světě,
+pořád primární cíl jsou webový aplikace.
+Přesně tak.
+Jak tam funguje nějaký interop s JavaScriptem?
+Můžu si vzít jakokoliv NPM knihovnu, která mi zrovna chutná
+a tam ji nějakým způsobem naroubovat?
+Nebo musím třeba zůstat ve světě vyloženě balíčků,
+které jsou dělané pro Elm?
+Jak to funguje?
+Rozhodně ne.
+Elm má pár možností toho, jakým způsobem se může bavit
+s JavaScriptovým světem okolo.
+Nejčastěji se využívají takzvané porty,
+kde vlastně na hranici toho svého Elmího programu,
+Elmího světa, řekneš, tady si zavolám něco do světa ven
+a tady tímhle s tím mi může přijít něco z toho světa zpátky dovnitř,
+ale je to typově ošetřené, protože Elm je silně typový.
+Je to typově ošetřené, takže když by ti tam přišlo něco jiného,
+tak ti to do toho Elmování prostě nevstoupí.
+Takže to je jakoby vlastně boundary systému,
+je to externí věc, se kterou nějakým, v podstatě APIčko,
+se kterým komunikuješ, je to tak?
+Ano, ano, ano.
+A to je jeden způsob, kterým můžeš komunikovat s nevím jestli jakýmkoliv
+NPM balíčkem, protože v NPM balíčkách je dneska úplně všechno,
+ale řekněme s většinou těchto věcí.
+Druhá možnost, co je, tak můžeš v Elmu používat klasické webkomponenty,
+takže můžeš i nějakou funkcionalitu celou zabalit do nějakého krásného tagu
+v rámci webkomponenty a tu potom používat s Elmu.
+A co se těch knihoven týče, máš nějakou oblíbenou, je k tomu nějaký důvod?
+– Oblíbenou já osobně, to je hromady.
+Nejvíc skloňovaná v rámci Elmu je teďka poslední dobou knihovna Elm UI,
+která ti vlastně kompletně odstříhne nutnost psát CSSka,
+protože nevím, z jakého důvodu mě třeba s CSSkama nemám problém,
+ale vím, že hromada lidí se s tím nechce zastříhat,
+zaobírat typicky, potřebuji mít něco zarovnáno na střed stránky,
+prostě vždycky vertical centering, horizontal centering.
+A teďka, jak to udělám v CSSku, to je neskutečný problém,
+těžší než invalidace a pojmenování proměnných, aby to nějak fungovalo.
+No a někdo udělal abstrakci vlastně nad UI, řekl si,
+OK, jaké DSLko pro UI elementy bysme mohli mít, když bysme to teďka dělali, prostě, když jsme zapomněli úplně,
+na CSSku a chovali se k CSSku z Elmu úplně stejně, jako se Elm chová k Javascriptu.
+Prostě jenom nějaký kód, nějaký kód, do kterého se to prostě vyhodí a by byl Brous spokojený.
+No a přišlo, teď mi vypadlo, Matthew Griffith.
+Matthew Griffith přišel s myšlenkou Elm UI, kde ty vlastně deklarativně jsi schopnej si nasázet,
+OK, mám tady nějaké věci.
+Mám tady nějaký element, ten základní prvek, kdež mu center x, center y a on se vycentruje.
+A to je všechno, jako je veškerá magie, prostě je boží, jo.
+Takže asi tady tahle je hodně zkoněvaná, za mě spíš mojí oblíbená knihovna je Remote Data,
+která ti přidává stavy na komunikaci přes HTTP s externími datovými službami, s nějakým APIčkem,
+a najednou ty máš kromě stavu Success-Failure, tak máš i další dva stavy Not Asked a Loading,
+které najednou musíš pokryt, pokud to máš všechno zabalené tady v těch Remote Data,
+a drží tě to krásně jako v lati, že musíš rozlišovat mezi tím, jestli jsi vůbec na ty data ještě zeptal,
+anebo už můžeš zobrazit ten loader, že to ten uživatel odklikl, že fakt chce něco načíst, že je to moc krásný.
+To je pravda, že tuhle knihovnu, respektive podobně stavěnou knihovnu,
+používáme v F-Sharpu na frontendovým vývoji přes Fable, kde se to jmenuje, myslím, Phallus Use Deferred,
+a tam máš taky čtyři stavy, tam je to teda taky Not Loaded, Not Initiated, něco takového,
+pak je In Progress a pak je vlastně Result, který říká, že to je Failure nebo Error.
+A pak vlastně máš, předpokládám, že je to úplně stejné v tom ELMu, možnost deklarativně přes Pattern Matching rozdílit na té stránce,
+co se vlastně s tím requestem děje.
+Takže to není tak, že by se musel ptát, ale podle stavu toho requestu, jak se ti mění a rendruje se ti ta stránka,
+tak vidíš, máš někde loading, prostě takový ten spinner, anebo pak už tam máš text nebo výsledek toho.
+Přesně tak, přesně tak.
+Takže to je dobrý, tak to se tam děje úplně stejně.
+Já ještě se jenom maličko vrátím k těm CSSkám, protože to je otázka, která mě před začátkem napadla,
+ještě jsem si ji tady dopsal do těch svých otázek, který se chci zeptat.
+Pojď.
+Takže teďka největší móda je vlastně dělat CSSka tak, že nedělám CSSka a používám custom DSL, který je v ELMu.
+Je to hodně v módě, má to svá úzkalí, má to své pro a proti, ale jako jo, ten směr je tam trošičku tady do toho.
+Já toho nejsem úplně jako favoritem, ale…
+A výstup je teda takovej, že to vygeneruje na pozadí nějaký CSSko a třeba si ho jako referencuješ, nebo ti to vyloženě inlineuje?
+Vyloženě inlineuje.
+Vyloženě inlineuje buď ty styly přímo do style atributu, nebo, a teď si nejsem jistý, jestli to dělá ELM UI, nebo jestli to dělá ELM CSS, což je by the way taky moc krásná knihovna, kde je kompletní CSSko popsané typově.
+A nemůžeš úplně zahodit sasy a tady ty všechny srandy.
+A to dělá to, že ti vlastně vytvoří klásy, podobně jako třeba CSS in JS, ze stejné sary atributů toho CSSka ti vytvoří prostě klásu.
+A to ti plácne na začátek vlastní dokumentu, HTML dokumentu.
+A tyhle, obecně tenhle přístup máš rád? Nebo, protože já znám jako dva, jo, jsou dva proudy, který tvrděj, hele, CSSko samo o sobě ano má chyby, ale máš k tomu prostě omrdesát dokumentace, můžeš to najít všude, všude po netu.
+A tyhle custom DSLka jsou vlastně peklo. A pak jsou lidi, který tvrděj, hele, není to peklo, je to geniální věc, odstíní ti to od spousty problémů.
+A pak ty lidi, který dělají tu kompilaci z toho DSLka do toho CSSka, ať ty problémy vyřešej. Ty jsi na kterým břehu tohohle těch úproudů?
+No, někde uprostřed. Diplomatická odpověď.
+Jasně, klasika.
+Ne, vlastně na projektu, na které jsem byl teďka nedávno, tak tam jsme měli externí sas CSSka jako v sasu.
+A byl obrovský problém s...
+s maintainabilitou, protože ve chvíli, kdy... A to jsme to ještě měli tady jako naštěstí nějak rozumně poskládaný.
+Ale nejsi třeba u nějakého většího projektu schopnej říct, že ve chvíli, kdy smažeš část kódu, tak který ty CSSka jsi jako schopnej smazat, aniž bys ovlivnil něcokoliv jinýho.
+A který jako můžou ještě zůstat. A nevíš, jestli je někde používáš, nebo ne. A musíš to hledat buď přes nějaký full text search, nebo prostě nad tím dělat nějakou takovou šílenost.
+Což vlastně...
+Vlastně jak Elm UI, tak Elm CSS tě tady od tohle z toho úplně odstřihne a...
+Žádný magic stringy v klasách a tak dále prostě.
+Nejsou. Nejsou prostě. Žádný magic stringy, nic. A opravdu ti jde do toho bundlu jenom to, co aktuálně používáš.
+Super, super.
+Takže někde na pomezí.
+A když se vrátíme zpátky k Elmu jako k jazyku jako takovýmu, my víme, nebo já to vím, protože samozřejmě my s Tomášem máme k sobě blízko i přes to, že ta F-Sharpová a Elmová komunita tak nějak jako si velmi rozumí.
+Velmi.
+Že ten jazyk je velmi podobný, nebo ta syntaxe je velmi podobná, vychází z toho MLka. Co v tom jazyce ti strašně moc vyhovuje, co se ti líbí? A kdybychom třeba mohli říct naopak pro posluchače, kteří by si od toho chtěli svým způsobem odradit.
+Já vím, že to samozřejmě je těžké, aby...
+Nejjasný samozřejmě, ano.
+Člověk, který je tím živ a má to rád, tak těžko bude odrazovat. Ale popravdě, když si projdeme takovou tou klasikou, tou cestou těch...
+Toho nadšence a skončíš u toho, že už víš, jak ten chlebíček dokáže být i pěkně tvrdej u toho jazyka, tak co je tam co třeba těžké, nebo co by si změnil, co by si třeba... Nebyl tak striktní něče.
+Na ELMu, co se mi jako hodně líbí v rámci toho jazyka, je ten... Vlastně ta idea ELMu je taková, být vstupným jazykem pro absolutní začátečníky, kteří o funkcionálním programování v životě neslyšeli.
+Nebo ho někde prostě na škole dělali, byli nuceni dělat něco v Lispu a od té doby k tomu mají absolutní odpor. Tak ELM je neskutečně beginner friendly jazyk. Na úrovní syntaxe.
+Takže, jak říkám, postupně se spíš odebíraly ty věci, které byly zavádějící nebo ne, dobře úplně vysvětlené. Například nějaké custom operátory. V Haskellu jich je Neurecom.
+Což je asi opět víc, než omrdelně.
+Zhruba. Možná o šest. Ale ELM vlastně řekl OK, tak pojďme je minimalizovat, protože za prvý hrozně blbě se hledá, co má dělat závorka, menšítko, otazník, většítko, závorka. To je skvělý, to chceš.
+Já úplně přesně s nimi o čem mluvím.
+Ale mě to bolí, jak to říkáš.
+Takže ELM je v tomto směru víc ukecaný a tyto operátory nahradil funkcema, které se prostě přímo nějak jmenují.
+Vlastně máš tam funkci CONS, máš tam funkci APPEND, jako na těch datových typech.
+Nesnaží se být chytřejší než ty a spíš se ti snaží pomáhat obecně, což je to, co mě na ELM zaprvé přilákalo jako první, protože já jsem jinak funkcionálním jazykem absolutně nepolíbený.
+A tady ta vstřícnost těm začátečníkům, ať už je to komunita, která je úplně fantastická na Slacku, nebo i v rámci toho jazyka, v rámci kompileru, je prostě úžasná.
+Takže jako jazyk celkově se mi strašně líbí, nemám vyloženě nějakou jednu feature toho jazyka, která by mě nějak výrazně líbila víc než ostatní.
+Já když na to navážu, říkal jsi, že to je super pro začátečníky, a já když jsem se tady bavil s elmistama našema, tak oni říkali, že se to občas nemusí vyplatit pro malý aplikace,
+protože je tam potřeba napsat hodně věcí okolo, než reálně začneš. Takže můj dotaz, je souhlasíš s tím?
+A případně, jak odhadnout velikost aplikace, ve které ten ALM dává smysl?
+Já si dovolím nesouhlasit. Protože můžu a oni tady nejsou, že? Aby mi oponovali.
+Ne, ale univerzální odpověď v IT je it depends.
+Konečně.
+Je to tady.
+Máme se o to minule a je to tady znova.
+Máte jako IT bingo nějaké?
+Nemáme, ale my s Olym pomalinku míříme.
+Na tu kariéru těch konzultantů.
+To je základ.
+Ale pozor, máme karty proti lidskosti a tomu tohle určitě přidáme.
+Vynikající. It depends. Takže v rámci té velikosti aplikace záleží, co chceš napsat.
+Můžeš velmi jednoduše napsat jako hello world na dva řádky a je to jednoduchá aplikace a nemusíš tam psát jako velký boilerplate.
+Předpokládám, že tam šlo asi o nějakou složitější, nějakou interaktivnější.
+Byť jednoduchou aplikaci.
+Tam to podle mě taky úplně neplatí, protože ty bys ty funkce, který tím mění ten stav vlastně a celou tu stránku rozhýbávaj.
+Ty bys musel napsat úplně stejně, jenom prostě píšeš trošičku jako ji na jiné místa.
+Nebo je máš víc rozmělněny, možná.
+Nevím, nedokážu říct.
+Pak je nějaká úroveň jako těch aplikací už větší jsou takové ty single page aplikace, kde máš třeba víc než jednu stránku.
+Musíš řešit nějaký stav té aplikace, která stránka je zrovna jako zobrazená, na jaké routě.
+Musíš ty routy parsovat, že tam může přijít jako buď zvnitř z toho stavu té aplikace, nebo zvenku z URL a tak dál.
+Tam už to začíná být ten boilerplate jako dost znát.
+A teď nevím, jestli je to tím, že jsem si na to zvykl a nějak to nevnímám, beru to prostě jako OK, proč ne.
+Protože mi to dává...
+obrovskou jistotu toho jazyka při refactoringu, při čemkoliv jiným.
+Prostě jo, musím to udělat, ale mám za to ty záruky toho, že ten jazyk bude fungovat tak, jak má.
+A že to bude dělat to, co chci.
+No a pak máš jako nějaké hodně velké aplikace, už jako, nevím, myslím, že jsme měli nějakých 90 tisíc z řády kódů třeba.
+Nebo něco takového, kde už máš jako těch stránek víc, už je to jako vyloženě jako velká apka.
+A tohle půlka jsou CSS-kala, ne?
+No, ne.
+Ne, ty přece CSS-ka nepoužíváš, jo?
+Jo, jasný.
+Samozřejmě.
+Ne, ne, ne, ne, ne.
+Půlka jsou obrázky.
+SVGčka, ne.
+A tam už se záleží na tom, jak si tu apkuku nějak rozvrhneš.
+A tam vlastně děláš to samý na menších úrovních těch samotných, řekněme, stránek, nebo těch oblastí té domény, která tě tam zajímá.
+A je...
+Jo.
+Je trošku oprus psát celý ten boilerplate, protože Elm funguje jako one directional, ta architektura je jako jednosměrná.
+A ty musíš vždycky vlastně provolávat tu message úplně od zhora, takže ji musíš prostě i propasovat celým tím systémem, když něco potřebuješ.
+To jsi mi právě nahrál na další otázku, která se týká celého toho MVU patternu, který já teda znám, protože F-Sharp pro frontendový vývoj si ho velmi osvojil.
+A líbí se mu. Ale kdybys mohl posluchačům vlastně ten MVU, co ta zkratka znamená, co to dělá. A pak já k tomu mám ještě jeden takovej dotaz.
+Zajímal by mě tvůj ještě názor na to, na celou tu jako jednocyklovost celého toho patternu. Ale vysvětli pro posluchače, kteří to slyšejí fakt poprvý, jak Elm vlastně v tomhle smyslu funguje.
+Tak MVU je Most Valuable User, že jo, to všichni víme.
+Ne, ne, dělám si srandu.
+Já si narazím, že jsi mi nikdy ta neslyšel, takže...
+Já si narazím, že jsi mi nikdy ta neslyšel, takhle jako ve zkratce, ale myslím, že máš na mysli jako model view update.
+Ano, ano, přesně.
+Dobrý, dobrý, dobrý, hodný. Tak ono to vlastně funguje tak, že celým srdcem té aplikace je jeden model, stav. To je jediný místo, kam můžeš ukládat nějaký data.
+Má to nějakou strukturu, něco jako javascriptový objekt, v Elmu je to rekord, který má na sobě navázané prostě všehromadu všech věcí.
+Ano.
+A celá ta apka je vykreslená pomocí funkce view, která je vlastně funkcí toho modelu.
+Že té funkci view předáš ten model a ona na základě toho, jak ten model vypadá, vykreslí požadovanou stránku, požadovaný stav, vyplní input boxy, nastaví tlačítka, disable a tak dál.
+Ale je to deklarativní?
+Je to deklarativní, samozřejmě. A ty když to pojďte nějak rozhýbat, protože jako kdo by se díval na statickou stránku, je to hezký, ale jako...
+Hm.
+Já nevím proč, jako nuda, nuda, šečeť. Tak vlastně vyšle, že takzvaná jako command, message, která jde zároveň s tím aktuálním modelem do funkce update.
+Hm.
+Kde na základě té message, která je například, klikl jsem na tlačítko, tikly hodiny, mám, přišlo mi něco zvenku, přišel mi request, který jsem předtím poslal ven, tak mi přišla odpověď a tak dál.
+A všechno končí ve funkci view, kde máš k dispozici tu message a ten aktuální model a ty na základě toho můžeš ten model změnit.
+A jediný místo, kde se dá model měnit, je opravdu uvnitř té funkce update. Nikde jinde se ti ten model změnit nemůže.
+No.
+Takže tohle je ta, řekněme, říká se tomu the elm architecture, o T.
+Přebral to, no, tu myšlenku jako takovou, převzal vlastně Redux nebo Flux i a všechny tady tyhle looks.
+Věci v Reactu a spol. Fsharp, Fable, nevím, jestli to má podobně.
+Má, jmenuje se to Elmish.
+Nepovídeš, to je ale náhoda.
+Právě proto říkám, že to znám.
+Jasně.
+Ale a tam právě je ta moje doplňková otázka, protože Elmish je jako boží, já to miluju, ale zároveň to nenávidím u aplikací, který jsou o hodně vnořených komponentách.
+O komponentách, který třeba chtějí mít vlastní ten pidicyklus.
+Životní.
+A teď to tím, že musí být součástí celý tý monster parády, tak oni to musí posílat ten message jako nahoru.
+Takže vlastně tvoje zezhora, jediný co to děláš je, že ten message namapuju na spodní message, na ten jakoby pod.
+Ten pošlu tomu, který rozumí jenom těm podmessagím, on mi odpoví něčím, což já zase namapuju nahoru.
+A vlastně v typickým Fsharpovým Elmishi neděláš ve finálu u velký aplikace nic jinýho, než že na tom top levelu přemapováváš jako debil.
+Jo.
+A to je stejný teda Elmu.
+To je v podstatě stejný, ano.
+A je z toho nějak jako únik, protože já ti ještě řeknu, u nás únik je takovej, že tím, že ve finále stejně zatím v Fsharpovým nebo v tom Fableu je React,
+tak my vlastně používáme teďka takovou odbočku bokem, která se mne, jako máš jo ty hooky, use state a tak, tak máš use Elmish,
+kde ta malá komponenta může mít svůj vlastní cyklus a nemusí nahoru nic reportovat, ale pořád je schopná v rámci těch jednotlivých klidně drobných komponent typu form nebo zobrazení jakého tlačítka,
+tak může mít vlastní životní cyklus, všechno si to prostě vyřeší sama a teprve dobře přes nějaký props nebo pro něco, pokud chceš, která by zavala nějaký callback nebo nahoru něco oznámila, tak tam to jako jde zkombinovat.
+Ale když jsem začal typickým Elmishem, prostě full jako plnotučnej Elmish,
+tak měl jsem fáze, kdy omg, jak se dá někdy dělat web jinak, než tahle fantastická věc, to je prostě geniální.
+Ano, ano, všichni jsme tam byli.
+A pak jenom jako ty vole, tak to nebudu už to mapovat.
+Nebudu to dělat.
+Nebudu to dělat, jo.
+Ano.
+Tak jak to máte vy, teda není z toho cesta?
+V podstatě ne, jo. Jsou nějaké přístupy, jak tady tohleto, nevím jestli minimalizovat, ale jak tohleto ukočírovat, takhle spíš.
+Ne.
+Některé balíčky v rámci Elmu, tak se snaží tady ten boilerplate jako nějak abstrahovat trošku, ale nevím, no.
+Je to zazmínčitelný, musíš vědět, co to dělá a proč to dělá. Většinou je to opravdu tak, že z toho moc jako, ve výsledku z toho nic moc jako neuděláš jiného.
+Co jsme třeba dělali my na aplikaci, protože jsme vlastně z těch vnějších, z toho hlavního,
+ne vlákna, z té hlavní obálky řekněme, provolávali ten spodek úplně stejně, jak říkáš, musíš zavolat tu funkci update,
+která rozumí těm messageem, které vytrigrovává ten prostě ta malá věcička dole. A to museli dělat stejně, vždycky.
+A my jsme vlastně dělali to, že jsme té věci dole rozšířili tu funkci update o zvanou, jsme tomu říkali message,
+protože už teďka, když jsem na projektu, tak tam jsem říkal embed. Naming is hard.
+Jednoduchá věc. Naming, caching.
+Je to zlý, je to zlý, přesně tak. A ty vlastně jsi schopný použít přes command map nebo HTML map,
+jsi schopný vlastně všem těm svým messageem na té tvojí podstránce nebo té komponentě,
+když komponenta jako není v Elmu úplně oblíbená.
+Všechno jsou funkce, že jo?
+Jak jinak jsme ve funkcionálním jazyce, kam?
+Tak ty vlastně na úrovni té malé podkomponenty nepotřebuješ nic vědět o tom vnějším světě.
+Jak je to tam prostě pro vás, než ti to úplně jedno, protože ty se všema messagema, které máš,
+tak před ní vždycky prostě předřetíš OK a přemapuj to tady přes tuto, aby ostatní nade mnou věděli,
+jako od co go a hrajem.
+Hm.
+No.
+A to je jedna věc.
+Druhá věc, co je, tak můžeš vlastně v rámci té buď funkce Update nebo i View předávat ty funkce,
+který bys volal vlastně, který potřebuješ zavolat až úplně nahoře.
+Jasně.
+Vždycky jsou to nějaký flash message, alerty a podobné jako ptákoviny.
+Jo, jo, jo.
+Takže ty vlastně tu funkci předáš dolů a ona ji zavolá rovnou.
+Takový ty toasty.
+No, no, no, no, no, no.
+A on to rovnou vlastně zavolá na té hlavní, v tom hlavním rozhodovacím stromě a nemusí to probublávat tam a zpátky jako nahoru.
+Aha.
+Ale jinak jako moc z toho úniku není.
+A to je dobře.
+Tome, posuňme se dál.
+Vypadá to, že jedna z velkých zbraní je Elm Compiler.
+Určitě.
+Co jsem čet, tak je schopnej dobře poradit, co jsi napsal špatně.
+A jak to funguje v praxi? Je to opravdu taková hit paráda?
+Je to naprosto boží.
+OK, jo.
+Compiler v Elmu, respektive jinak.
+Ve chvíli, kdy máš jazyk, který se kompiluje, tak do doby Elmu obecně, tak to bylo takový, že jako dělal nějakou blbost a Compiler tě prostě zeřval.
+Vyhodil ti obrovský stacktrace, který stejně nikdo nikdy nečetl, maximálně něco rozklikl a podíval se prostě, vůbec nevím, co se děje.
+Počkej, ty chceš říct, že undefinite is not a function, nejsi schopen poznat, co je špatně?
+No, nejsem.
+Já vím, co je špatně, undefinite is not a function.
+A když se na to hodíš, na to přijdeš, tak řekneš, no jako mají pravdu, undefinite opravdu není funkce, jo.
+Něco na tom bude.
+Ale maximálně ti třeba ukázal, jako kde, na kterým řádku je chyba.
+A napsal ti, ale undefinite is not a function.
+Oh yeah, dobrý.
+Elm na to jde úplně jinak a jeden z jeho cílů je zlepšit developer experience.
+To byl asi první jazyk, který jsem se tím setkal.
+A celkem nastavil ten směr i pro ostatní nové jazyky.
+Kdy ten compiler, není to takový ten policajt prostě, který stojí nad tebou a buzzeruje ti, že jsi za něco udělal blbě.
+Ale je to spíš, přirovnal bych to spíš k nějakému jako pair programming kamarádovi, který prostě sedí vedle tebe body a říká ti, jo, hele, tady, hm, tady máš chybu.
+Máš tam, dáváš tam string, ale na téhle operaci string nefunguje.
+Musíš tam dát int, jo.
+Jo, a je to tady krásně ti volnovkou potrhne, co přesně napíše ti pod to, co s tím máš dělat.
+Což je úplně fantastický.
+To zní úplně jak compiler s lidskou tváří.
+A přesně tak.
+Compilery, kámoš.
+Přesně. Compilery, kámoš, než rádlo.
+A pomáhá to i tohleto v případě nějakého velkého refactoringu, protože třeba zase…
+Neskutečně.
+Předpokládám si maličko zase zpátky na F-sharp, jo, ale klasika, přidám v discriminated unionu další case a compiler v F-sharpu ti řekne, kámo, dobrý, ale tady je warning, tady si to ošetři, tady si to ošetři, tady si to ošetři.
+Předpokládám, že u Elmu ta samá paráda, ta samá krása.
+Přesně tak. Je to úplně stejný, ale není to jenom, když přidáváš kód nebo rozšířuješ ten kód, ale úplně úžasný je to ve chvíli, kdy mažeš kód.
+Vem si, že máš nějakou funkcionalitu, která, buď už třeba z biznisového pohledu, není potřeba, tak řekneš, OK, tak smažu tady těch 10 funkcí.
+Úplně miluju tyhle komity prostě. Mínus 10 tisíc plus tři.
+To je fantastický.
+No, to jsou komity, když pušneš Node moduly a pak je smažeš, jo.
+Ale ono najednou prostě zjistí, že no ten compiler ti vyhodí mraky chyb, jo, ze startu, prostě bambilion chyb, kde všude ty funkce, které jsi používal, v rámci toho kódu jsou.
+Mhm.
+A ty prostě, ty jediný, co uděláš je, že jdeš a chybu po chybě v tom, podle toho compileru je upravuješ.
+Mhm.
+A on ti to vlastně po každém, po každé změně, přeuložení, on si to jako přebuildí a řekne ti, jo, tímhle jsi tady udělal dalších pět chyb, protože tady na tu funkci, kterou jsi teďka smazal, už jsi tady potřeboval, byla to jediná prerekvizita pro to, aby tohle existovalo.
+A když jsi to smazal, tak to bylo ještě, volám tady, tady, tady a tady.
+A ty vlastně takhle jsi tak jdeš, po těch drobečkách, v podstatě absolutně bezmyšlenkově, ti nemusíš nad tím přemýšlet, to je boží.
+To já teda jako dělám většinu mýho programování, musím říct.
+Že nad tím přemýšlíš?
+Že nad tím nepřemýšlím.
+Jo, jo, jo, tak v tom případě to děláš správně.
+A ve výsledku prostě pak se dostaneš do toho stavu, kdy ten kompáver řekne OK, já jsem spokojený, všechno prochází, všechno grají, zpěvá.
+A ty vlastně do té doby, ty do té doby nemusíš ten, no vlastně za prvého ani nemůžeš pustit ten první produkt, protože ti to máš jako rozbitý, v tom rozbitým stavu.
+Ale ve chvíli, kdy ten kompáver je spokojený, tak máš v podstatě 99% pravděpodobnost toho, že to všechno funguje jak chtěl.
+No 100% pravděpodobnost, že to funguje a 99% že to funguje jak chtěl, že můžeš samozřejmě jako omylem smazat nějakou logiku a najednou prostě ti nekliká klikátko, jo.
+Ale za mě je naprosto úžasný pocit, když třeba tři hodiny prostě se prohrabáváš tou codebaseí, máš všechno, co je potřeba a najednou ti to prostě zezelená.
+Řekneš, no to snad jako to přece nemůže fungovat, ne.
+Tady jsem týka tři hodiny přehazoval soubory zleva do prava.
+Do toho jsem dělal.
+Pool request, mergeoval jsem master, ten mi to ještě celý rozbil prostě kompletně, tady jsem dělal nějaký změny.
+To jako po třech hodinách prostě, než tak to pustím a uvidím, proklikám jako a ono to funguje.
+Prostě zázrak, magic, jo.
+Jako jednorožci, duhy, sluníčka, boží, jo.
+No tak to se ale přiznej, v tom případě vlastně ani nemusíš moc psát testy, že jo.
+No v podstatě ne.
+Ono v principu ve funkcionálním programování.
+Pokud děláš teda jako jdeš pure functions, immutable states a podobně.
+Tak ty se vlastně můžeš dostat, můžeš ten problém popsat tak, že hromada těch možností použití ti nedovolí udělat tam nějakou chybu.
+Že prostě ty vlastně eliminuješ ty chybový stavy na úrovni těch typů.
+Takže ten compiler sám o sobě ti zabrání v tom úrovni.
+Ani v tom udělat chybu.
+Jo.
+Tady jestli polidáváš, jestli jsi dával minule pozor, tak přesně tohle říkal Tomáš Horáček u SwiftUI.
+Make Illegal States Unrepresentable.
+Přesně tak.
+Tak vidíš, je to druhej díl a máme to tady zas.
+Já doufám, že to bude takové jako running joke.
+Ne, ne, ne, ale vycházíme asi s Tomášem úplně ze stejného videa od Richarda Feldmana.
+Make Impossible States Impossible.
+Hodně doporučuju, je to boží.
+OK.
+Můžeme to aplikovat nejenom na Elm, si myslím, ale tam to má, v těch funkcionálních jazycích, to má s tom obrovskou sílu.
+Jo. No já jsem právě přemýšlel, že začnu teda s mobilním vývojem, teďka teda zase asi začnu s Elmem, tak jako uvidíme, kam se to dostane.
+Kolik na to máš životu?
+No, uvidíme.
+Ale podle je Poly je tak multifunkční člověk.
+Tak Poly už to má zvu.
+Polifunkční.
+Machine learning, projekťáka, scrammástra, liniáka, nejlepší kytarist, kterýho jsme možná kdy měli o slavách narozenit.
+Třicátý.
+Především třicátý, což je dravěc, kterou budeme muset taky posluchačům jednou vysvětlit, aby tenhle fór pochopili. Takže myslím si, že jestli Poly skočíš do Elmu, tak úplně bez problémů.
+To jediné mi chybí.
+A pak už budeš polyfunkční.
+Ano, pak budu polyfunkční.
+Polyfunkční.
+Přesně tak.
+Dobrý, jako všechno to zní hrozně růžově, Tomáši.
+Je.
+Jo, dobře.
+Já jsem viděl nějaký Gochas a jeden z nich byl Javascript. Už jsme se bavili o tom portu jako gateway do Javascriptu. Tak jak to funguje s Javascriptem, rozumíš si to skvěle, fantasticky, žádný problém?
+Samozřejmě žádný problém.
+Dobře.
+To jako všechno je, podíkám, sluníčka, jednorožci, duhy.
+Rozveď nám to, rozveď nám to. Cítím tam nějakýho děvla.
+Ano, ano, ano. Tam takové to ale.
+Ano, ne, kolega vždycky říkal, jako všechno to funguje, o kterém případu, když ne.
+A Elm, respektive Elmí porty, které jdou do Javascriptu, mají jednu nevýhodu trošičku, a to je, že jsou asynchronní.
+Že ty vlastně nemůžeš v rámci toho stejného portu čekat na odpověď.
+Stejné funkce, která jde přes ten port. Nemůžeš čekat na odpověď.
+Aby si potom vykonal.
+Takže musíš mít i nějaký protikus.
+Že vlastně vyřveš něco do světa a teďka tam jako sedíš u toho okna a čekáš, až ti někdo vrátí tu odpověď.
+S tím správným, na ten správný kolon, na tu správnou linku.
+Aby se ti to dostalo do toho Elmu.
+Bývá to trošičku jako oprus třeba u websocketů, nebo u nějakých takovýchhle synchronních věcí.
+A...
+Moc kolem toho není nějaký workaround.
+Respektive doporučuje se třeba, pokud tady z toho pravdu potřebuješ nějakým způsobem hodně používat,
+tak třeba to můžeš zabavit do té webkomponenty.
+Jo, spíš.
+Dřív vlastně ve verzi ještě 0.18, tak byl způsob, jakým dostat tady ten synchronní kol do Elmu.
+Ale byla to v podstatě nezdokumentovaná feature, ale jako veřejné tajemství.
+Kde potom vlastně od verze 0.19, a to byl jako great divide v Elmu, podle mě trošku.
+Vlastně Evan, autor jazyka, tady tuhle funkci odepřel.
+Respektive odepřel ji komukoliv, kromě sebe a...
+Ne, protože ona je tam potřeba.
+Protože stejně jako ve výsledku, ten podvozek je pořád javascript, ale je to schovaný v rámci core balíčku a je to kontrolovaný.
+No.
+Ale protože to nebylo úplně ošetřený, tak lidi tady přes tohle tam začali právě dodávat věci, které se na to spoléhaly.
+A ono to fungovalo tak, že ty jsi měl takzvaný kernel modul.
+Měl jsi v adresáři kernel lomeno modul lomeno něco tečka js.
+Měl jsi nějaký javascriptový soubor, nějakou strukturu a nějak pojmenovanou funkci.
+A tu funkci jsi byl potom schopný zavolat jako z Elmu jako Elmi funkci.
+Jo.
+Bylo to hnusné, ošklivé, špinavé, fuj.
+Ale fungovalo to.
+A lidi to začali vlastně využívat, začali to užívat čím dál tím víc, protože ta potřeba tam jako občas je.
+Jeden z problémů, který se tady tímhle s tím řešil byl třeba podpora nějakého API prohlížečů typu intl.
+V audio tuším se s tím řešilo nějaké právě třeba nebo websockety a podobně.
+A...
+Evan se z verzi 0.19 to prostě zařízl a řekl not anymore guys, not anymore.
+A obrovská hromada lidí se to zaprvé nelíbilo, za druhým tady tímhle s tím trošičku rozhodil věci, na kterých měli třeba i, nevím jestli tehdy produkční, ale řekněme nějaké věci, které na tom záležely.
+A on řekl OK, jestli chcete, zůstaňte si na verzi 0.18, ale ve verzi 0.19 tohle už prostě jako udělat nepůjde pro vás.
+Nebo můžete to udělat, ale nemůžete to vypublikovat jako balíček, nebo kecám, teď už je to vlastně tak, že ti to ani compiler nedovolíš.
+Compiler ti zařve, že jako eh eh, no way.
+A...
+Takže tam potom začaly vznikat takové ty jako nechválně známé články YL is dead.
+Takže to bylo to mrzení, které já si pamatuji mezi 0.18 a 0.19.
+Tam jich bylo i pár jako tím neúplně šťastných rozhodnutí v rámci...
+Vedení...
+Vedení toho jazyka, ale tohle to bylo asi to největší, ta největší bolístka, která tam byla, protože tím vlastně ze dne na den se stal nepoužitelný ten ELM pro lidi, kteří ho svým způsobem zneužívali, jo.
+A pak to byla okrajová feature, která nikde nebyla zdokumentovaná, byla to jenom jako rychlá cesta k něčemu a jak si něco ulehčit, ale bylo to vlastně tím, že se najednou do čistě funkcionálního, čistýho jazyka nacpal Javascript, který mohl být prostě...
+Mohl mít jakýkoliv následky, když jsi to nenapsal dobře.
+A ELM jako jedna z těch selling points je to, že nemá runtime exceptiony.
+Tady tímhle s tím jsi to totálně rozbil.
+Jasně.
+Takže to byl vlastně nezdokumentovaný backdoor...
+Přesně tak.
+Když jsem v roce 2019 prostě zavřel a bylo řečeno, hoši, všim jsem si, že vy sem lezete poměrně s prasečinkama typu jako Javascript, tak já vám zavírám krám, protože jsem to stejně nikde nepopsal a končíte.
+OK.
+To mě právě teď zajímalo, protože já si to pamatuju a říkám si, co se tam jako v tom ELMu stalo.
+Já jsem to čet, ale když to neznáš, tak ještě to úplně nepochopíš na první dobrou, tak je dobrý, že jsi nám to vysvětlil.
+Byly tam ještě nějaký zásadní bolístky tohoto typu, nebo tohle bylo to největší?
+Tohle bylo asi to největší, potom vlastně zrušili se...
+Jo, druhá ještě věc, jo.
+Tohle byl ten soud.
+Ne, ne, ne.
+Já si vždycky jako přemýšlím, jak to tam vlastně bylo a už si vzpomínám, jak jsem vlastně mluvil na začátku o těch operátorech,
+které vlastně postupně se snaží jako odstraňovat z toho jazyka a dávat tomu třeba jako víc popisný názvy těch funkcí,
+tak ty jsi měl v rámci svého balíčku možnost si vlastně tady tyhle operátory nebo obecně jako infix operátory vytvářet.
+A už nemůžeš.
+Už nemůžeš dělat infix operátory?
+Nemůžeš si dělat vlastně infix operátory do balíčků, který...
+...dou ven, jako to stoprocentně nevím, jestli si nemůžeš dělat lokálně, to bych kecal, ale asi ne člověče.
+Ale ono obecně že jo, stejně vlastní operátory to je takový jako dobrý sluha, ale strašně zlepá.
+Musíš tam řešit nějakou precedence, musíš tam prostě řešit jako co je levý, co je pravý, když to na tom záleží a podobně.
+No další věc, toho nevygooglíš, že máš problém jako s operátorem, budeš to dát do Google, jako buď skončíš na PornHubu,
+což teda končí jako půlka všech prostě hledání, ať hledáš cokoliv IT.
+Jaký operátory hledáš?
+No takový ty.
+Jako klejsi operátor vypadá zvláštně, ale...
+Ne, ale jako rozumím, rozumím třeba v tom, že to bylo...
+Jasně no.
+...že se to zaseklo no.
+No a co se ELMu týče, co já jsem čet, tak ty výhody spojený s ELMem jako jsou Learning Curve, nebo Increasing Performance,
+Community a tyhle ty věci.
+A jaký máš...
+Vítejš dva roky v NHL, na Farm.
+Přesně, v 2018.
+A jak to vidíš, jsou to ty hlavní důvody, proč by développci měli pokukovat po ELMu, nebo je to něco ještě dalšího?
+Neřekl bych, že jsou to hlavní důvody. Za mě je to spíš...
+ELM má obrovský přínos, ve chvíli kdy chceš naskočit to funkcionálního programování,
+a neznáš kategorii teory
+a podobně, kde třeba
+jako Haskell je úžasný jazyk,
+ale pokud nevíš, co je to monáda,
+já to nevím do dneška třeba,
+nebo vy, no, tuším,
+používám to, ale nedokážu to vysvětlit.
+A dokážeš to vysvětlit?
+Nedokážu.
+No, tak víš, co je monáda.
+Tak víš, co je to monáda, ano.
+Já vím, že třeba jako maybe je monáda,
+a že to je, v podstatě je to jen nějaký
+název pro soubor vlastností.
+Ne, to nevysvětluji.
+Dobře, ve chvíli, kdy pochopíš monádu,
+nesmíš ji nikdy vysvětlovat.
+Zaprvé to nikdo nemá pochopí,
+a komu to vysvětlíš a on to pochopí,
+tak to pak znamená, že jsi to vlastně vysvětlil blbě.
+Takže když se tě zeptám znova,
+umíš vysvětlit monádu?
+Ne.
+Tak to chápeš perfektně.
+Děkuju.
+Tak to vystříhnem, dobrý.
+Ne, jako ten,
+to nabutování toho jazyka
+je vlastně úplně úžasný pro lidi,
+kteří potřebují to říct,
+mít experience v anglikanismi, boží.
+To tě tam Poli tě rozhodil.
+No, strašně, strašně.
+Got it.
+Ne, ok, thank you.
+Ne, ve chvíli, kdy ty se vlastně nejvíc učíš tím,
+že máš nějaký projekt,
+nebo aspoň já to tak mám třeba,
+když se potřebuji naučit nějakou technologii,
+mě nepomůže to přečíst,
+já to musím vzít si nějaký side project
+a na něm si to vyskúším,
+abych prostě to pochopil, narazil na ty věci,
+na ty problémy a tak dál.
+A obecně u toho funkcionálního programování
+před Elmem,
+tak jsem musel načíst stohy teorie,
+většinou kategorie teorie a podobně,
+abys byl schopný něco udělat.
+No a Elm na to jde úplně obráceně.
+V Elmu jsi schopný něco udělat úplně jako ze startu,
+po pár hodinách už si můžeš jako veselé šmrdlat
+nějakou single page upku pomalu.
+A teprve,
+z toho jak to používáš,
+tak začínáš přicházet na to,
+že jsou tam nějaké koncepty typu
+to je nějaká aplikace funkcí,
+nějaký point free a podobně.
+A to strašně pomáhá tomu,
+no tam ta bariéra toho vstupu je strašně nízko
+a najednou prostě programuješ funkcionálně
+a ani o tom nevíš.
+Nebo víš, protože používáš funkcionální jazyk, jo.
+Ale je to,
+tady tohle jste podle mě jako největší devíza toho Elmu.
+Pokud se chceš naučit funkcionální programování,
+core pro frontend nebo pro web,
+to Elm pro mě byla jasná volba,
+když jsem se v patnácti rozhodoval, co budu dělat, jo.
+Hele a teď mi řekni jednu věc, jo.
+Já to znám i z vlastní zkušenosti tady ze Cienka
+za těch prostě pět plus let,
+co se člověk snaží někam to protlačit.
+Jak to vlastně máme,
+protože tyhle jste výhory, který popisuješ,
+ať to jsou Elmový, nebo já je znám,
+se v Sharpu, obecně asi s aplikací jakéhokoliv
+funkcionálního konceptu do nějakého mainstreamového
+softwarového vývoje.
+Ty to víš, já to vím, my už máme i tvrdý čísla u nás,
+jako ve firmě, které prostě ukazují,
+že funkcionální přístup je výrazně dobrý
+a bezbugový a všechny ty dobroty,
+o kterých jsme se bavili, prostě ta typovost a všechno,
+že to přináší ve finále fakt jako výsledky a ty projekty.
+Konec konců Paul byl se mnou i na jednom výsledku a ví,
+že to prostě bylo víceméně bez bugů,
+že jsme to prostě skompilovali, ono to fungovalo.
+No, magic.
+Ale jako ten, jak to říct slušně, ten omrzk,
+to jako prodat těm zákazníkům předtím,
+než oni do tohohle chtějí naskočit,
+to je vždycky tak strašně bolestivé.
+Máš tam nějaký trik nebo nějaký způsob nebo něco,
+jak tohle protlačit těm zákazníkům, aniž bys je vyděsil?
+Protože když řekneš React, tak oni už jako věděj,
+nebo Angular, oni jako jo, mávají ručička vanačeně,
+ale prostě když řekneš Elm nebo F-sharp,
+tak oni zezelenají, jsou prostě úplně vyděšený,
+co jim to tam chceme tlačit, přitom vlastně to funkcionální
+programování je geniální. Tak jak na to?
+Kdybych měl takhle jednoduchý návod, jak tohle udělat.
+Já vím, já jsem věděl, že tě zklamu, ale bohužel nevím,
+já jsem se vždycky vlastně dostal na projekt,
+který už prodal přede mnou do té firmy někdo jinej,
+a ať už to bylo tak, že po šíleném přepisování
+na novou verzi Embrů se ten člověk pomalu zbláznil
+a řekl, takhle už to v životě dělat nechci a pojďme to přepsat
+do něčeho rozumného a co třeba Elm, tak to vyzkoušeli
+a přes víkend si to vyzkoušel CTO, řekl, jo, to je dobrý,
+do toho jdem, což bylo jako boží.
+To je super. To byl skvělý pitch.
+A druhej byl vlastně, teďka na projektu, na kterém jsem,
+tak tam vlastně backendiáci potřebovali nějaký frontend,
+a protože backend je v Haskellu, tak ten Elm to uměl
+jako přirozeně blízko a jeden z těch vývojářů
+vlastně přepsal celou administraci, která do té doby
+byla v Reactu ve svém volném čase, ji přepsal do Elmu,
+a pak šel za šéfem a řekl, jo, ale to je dobrý,
+jo, tak jako jestli vy jste s tím v pohodě,
+protože vy to stejně budete jako tady udržovat,
+tak si to vykaže jako prostě práci a šupnem to tam a tiadiditijadidá.
+Takže prostě klasika. Stejně jako jsme to zavedli tady
+v podstatě takovým jako polofankem.
+Zevnitř, ano.
+Jako zevnitř, že jsme tak náhodně přepsali asi dvě
+interní aplikace, jednu teda, která mimochodem posílá
+payplaty na Slovensko, takže jako.
+To se hodí, to je dobrý.
+To se hodí, já už jsem si zařídil na účtárně,
+že mě nemůžou nikdy vyhodit, protože prostě jako Slováci
+chtějí dostávat prachy, že jo, a náš CTO je ze slovenský
+poboďky, takže to je jako easy, jo.
+Ne, jako odspora, no, asi jako začít odspora zevnitř
+firmy a ideálně to dávat těm zákazníkům, kteří řeknou,
+že je nám to jedno, v čem to bude, hlavně,
+že to bude fungovat. Takže když, když nemají preference
+tlačit to tam. Jako bylo by to fajn. Oni zase jako z toho
+biznisového pohledu to chápu, že mají hrozně obavy,
+když slyší nějakou, že to je nějaká obskurní neznámá
+technologie, která za chvilku umře, a co my potom s tím,
+anebo nebudeme na to moc najmout lidi, to jako ta premisa,
+to funkcionální programování, že to jako na to nemusíš
+potom najmout lidi, když už to nechceš měnit, jo,
+ale většinou tam ty změny, to stejně chceš,
+takže asi, asi zevnitř, no.
+A to jde ruku v ruce s vývojářema. Jak to vypadá na trhu pro Elm vývojáře?
+Máš pocit, že se, že ten trend je vzrůstající. Jak to vypadá?
+Hele, vlastně hrozně dlouhou dobu bylo těžký najít firmu,
+která najímala Elm vývojáře. Já jsem si k tomu taky dostal,
+jak slepěj k houslým, teda.
+Jinak hajrujeme, prosím tě, kdybys jako.
+Jo, my taky.
+Ale, ale, ale dobrý, my si nebudeme líst do zely,
+my potřebujeme haskelý vývojáře teďka, jo.
+Takže Elm vývojáři už jsou obsazení.
+Ale to neznamená, že v budoucnu nebudou potřeba.
+Nicméně, ne, vlastně jako fakt dlouho, dlouho se nic moc nedělo,
+pak přišla korona, tak jako firmy totálně stoply veškerý hiring budžety,
+ale od v podstatě začátku tohodle roku mi přijde, že a hlavně na Elm Slacku,
+kde tady tyhle věci inzerují v kanále Jobs,
+asi není jako teď už týden, kdyby tam nepřibyla nová nabídka.
+To je jako hrozně, hrozně překvapivé.
+A ve chvíli, kdy já jsem hledal, nebo hledal, koukal jsem se,
+jestli by náhodou, jak si vlastně na tom trhu stojím,
+tak jsem dostal jako naraz dvě nabídky nezávisle na sobě, jo.
+Jako, takže ten trh je asi takovej, že je pořád víc vývojářů,
+než firm, které to jako,
+by potřebovali Elm vývojáře, ale když už se rozhodneš,
+že v tom chceš dělat jako full time, tak myslím si,
+že není moc problém, není moc extra problém se někam dostat.
+Vývojářů je málo, ale těch firmy ještě, ještě méně.
+Je tam spíš přetlak, no.
+No, takže budoucnost je víceméně růžová.
+Můžeme to tím zakončit.
+Určitě.
+Můžeme to tak zakončit a vypadá to, že to nám asi nepřejde na Javu.
+Ne.
+Můžeš to zkusit, ale jako, ale na Javě je skala, že jo,
+na nějakém tom JVMku, tak to by asi možná, ne.
+Ne.
+Nebo možná cloužer, že jo, kdyby jsi chtěl trošku zazávorkovat.
+No, jasně, ne.
+A ještě všeobecně, když se o tom jako teď bezlegrace bavíme,
+tak kam ty tvoje kroky teďka vedou?
+Zůstaneš určitě u Elmu, to jsem si jistý potom na rozhovoru.
+Samozřejmě, rozhodně.
+Ale co máš v plánu příštích prostě?
+Měsících letech?
+Nezůstat u Elmu.
+Ne, nevím, na co se ptáš konkrétně.
+No, spíš teďka konkrétně k projektům, třeba na čem děláš
+a co tě teďka čeká, abysme si udělali představu,
+jako kde ten Elm můžeme v praxi vidět.
+Teďka aktuálně já jsem vlastně přešel do nové firmy,
+kde právě rozvíjíme to řešení, které napsal kolega,
+které Karelka přepsal z Reactu do Elmu,
+takže mi teďka vlastně,
+jsem tam první,
+Elm vývojář, opravdový Elm vývojář,
+kteří to byli back-end jistí,
+kteří ten frontend měli tak jako,
+nech, rychle si to potřebuji zbavit,
+potřebuji udělat nějaké klikátko databázy a pryč.
+Oni takhle normálně mluví.
+Co oni mají asi metr dvacet.
+Takový čepičké lucetničky, víš,
+takže na back-end bude tma.
+Jsi typický dželista.
+Přesně tak.
+Jsem zvědavý, jestli jsem Javistu pozvem někdy.
+Já jsem.
+Já si myslím, kámo, že Javistu pozem.
+Teď už ne, hele.
+Teď už ne.
+Ne.
+Takže díkat vám vlastně dáváme dokupy ještě s kolegou,
+který taky jako new hire,
+až k nám má přijít třetí.
+A postupně tam budeme jako rozširovat naše drábky zevnitř.
+Jasně.
+Kam se Elm všude vrtne.
+Z těch projektů jako bokem,
+těch soukromých,
+tam si hraju,
+vždycky když vidím nějakou funkcionalitu,
+která mi jako v rámci jazyka,
+nebo balíček, který mi chybí,
+tak si ho prostě vytvořím.
+Zatím jsem vytvořil žádný teda.
+Respektive jinak.
+Já jsem jich vytvořil hodně,
+ale žádný jsem nepublikoval.
+Ní nedokončil, jo.
+Ale tam si hraju vlastně s 3Dčkem,
+že můj úplně background ze studií tady z Pražského ČVUT
+je počítačová grafika a interakce.
+Takže tam si hraju s 3Dčkem v rámci nějakého CSG modelování.
+Do toho,
+do toho dělám nějaký debugger pro ELM ve Chromu.
+Respektive, aby si to dalo trošku velí používat.
+Takže to takové jako rozprostřený všude možně.
+To znáš prostě projektuje strašně moc
+a když se ti do nějakého už nechce,
+tak si najdeš prostě nový, že jo.
+Klasika.
+No tak paráda, hele.
+Tome, my ti strašně moc děkujeme,
+že jsi k nám dneska dorazil.
+Vždycky si říkáme, dáme to na chvilku,
+že jo, na 30 minut a půjdeš domů.
+A pak končíme u hodinového kecání,
+abych tady klidně mohl sedět ještě další dvě hodiny.
+Můžeme někdy jako zopakovat nebo rozšířit.
+Určitě, my bysme jednou totiž měli Tomáši
+kromě jiných věcí i rozklíčovat,
+odkuď my dva se vlastně historicky známe.
+A kruci, no.
+Protože se známe už let, ale nevíme odkuď.
+Ale to nevadí, to prostě nechme bejt.
+Na to přijde, na to přijde.
+Jednou to rozklíčujeme, každopádně
+budeme rádi, pokud se na nás přijdeš sem pod vod,
+zas zase podívat.
+Kdykoliv. Po nějakém čase.
+A třeba uděláme si
+takový jako sumář toho, kam se
+za tu dobu ELMI, svět a vůbec
+funkcionální programování na frontendu posunulo.
+Velmi rád. Každopádně, díky moc.
+Díky moc za pozornost. Tomáš, díky moc.
+Ať jde šíření ELMU dál a dál. Měj se krásně.
+Tak jo, měj se. Neboj, budu šířit.
+Čau. Čau, čau.
+Tak Románku,
+to byl Tomáš Látal. Druhý díl, druhý Tomáš.
+Byl fantastický. Možná bysme
+si se měli zvlát jenom Tomáše do tohohle
+našeho podcastu. Bude to taký
+trošku omezující, ale já bych to zkusil.
+Hele, Tomášů je strašně moc. To je pravda. Máš Tomáš,
+Řepka.
+Tak to asi jsem pozdrav.
+Říkám, to je vývojáře, tak ví no.
+Ale Tomáš
+Řepka dělá taky dževu.
+Takže...
+Dobrý, hele, mě to dneska strašně bavilo.
+Mně se to líbilo. Hele, Tomáš je vtipný kluk,
+takže umí to jako okořenit
+historkama z natáčení, takže mně se to líbilo
+úplně fantasticky.
+No tak co, dáme zase na příště
+nějaký další díl? Dáme, dáme,
+budu se těšit. Tak jo, takže zase
+pod vodcasem. Zase pod vodcasem a teď si jdeme dát
+NHL-ko. Doufám, že to dopadne líp než minule.
+To jsi mě docela podujel, musím říct.
+Neboj, historie se bude opakovat.
+Tak jo, tak zase někdy čau.
+Měj se, čau.

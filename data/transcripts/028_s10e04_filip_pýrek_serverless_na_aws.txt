@@ -1,0 +1,1878 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Krásný den milí posluchači, vítejte u dalšího dílu vašeho nejoblíbenějšího IT podcastu Pod vocasem.
+No já vždycky na začátku té představovačky přemýšlím, co vlastně novýho ještě vymyslet, když představuju svého milého kolegu.
+A dneska vlastně neřeknu nic navíc, než je výjimečně, že tady se mnou sedí Petr Polipolák.
+No to je nádherný a naproti mně přátelé, asi byste to netypli, ale tady je Roman Joker provazník přátelé, ten člověk, kvůli kterému celá tato věc vznikla a za to jsem rád.
+Děkuji, děkuji, samozřejmě to nebylo úplně z mé hlavy, je potřeba si říct, že před těma deseti sériema to přišlo úplně z boku, ale my jsme se toho chytli, pokračujeme, jedeme dál, jsme v desátý sérce.
+A máme před sebou i dneska velmi zajímavýho hosta, dneska si budeme zase rochnět v té, řekněme, mý vodičce.
+Tam ta šťávička poteče opravdu technickým serverless směrem, těším se na to.
+Ale ještě pro mě, že tě přerušu, i v datech samozřejmě tyhle věci řešíme a hrozně se těším, když jsem procházel otázky, tak jako ty serverless věci vlastně řešíme ve Snowflakeu všude, takže pošmáknou si i dataři.
+A řešíte i pay-per-click kampaně?
+Pay-per-click jako firma určitě řešíme.
+A já bych Románku, jako, dobře, jestli to na začátku bylo tak jako třeba za čtyři, tak teď to mají.
+Máš si za jedna z vězíčů, jak jsi to řekl, ta výslovnost je dokonalá.
+Jo, jo, přesně, ten důvod, proč to samozřejmě zmiňujeme, je, že chceme poděkovat našemu skvělému partnerovi, firmě Vivio, která právě pay-per-click kampaně dělá, Google se znám.
+Teď to bylo trošku horší.
+No já nevím, no, sorry, no, ale Facebook, LinkedIn a všechny tyhle ty prasečinky, to je prostě jejich, takže díky moc za support.
+No a já jsem se rozhodl, že vždycky, když budeme mít sérii nějakýho takovýhleho našeho jako sponzora a partnera, že já vždycky budu vymyšlet co nejdebilnější oslý můstek, aby to bylo jako ještě, ještě lepší.
+A zrovna, jak jsi to říkal, tak já jsem si říkal před touhle sérií, když jsem věděl, že budeme mít partnera, tak jsem si říkal, ty vole, hlavně to nesmí být debilní, že najednou prostě změníme tón hlasu a začneme tam někoho říkat.
+Jo, jo.
+A ty to děláš dokonale.
+Jo, děkuji, děkuji.
+Fakt to úplně tam vždycky vpluje. A ještě je to legrace, já věřím, že holky z Vivia a někteří kluci si tam porochní.
+Jo, no určitě. Takže, co se týče rochnění, já si myslím, že teď je ideální čas dojít pro našeho hosta, který sedí už vedle. My jsme ho tam nechali s nějakým alkoholem, který tam leží, takže jsem zvědav, jakým to bude stavu.
+Nicméně Filip nevypadal, že by byl extra píč, jakože od slova pít.
+Myslím, že ne.
+Takže si myslím, že si to užijeme všechno vystřízlivosti. Čeká nás Filip Pírek.
+Ve studiu s námi sedí náš dnešní host Filip Pírek. Ahoj Filipe.
+Ahoj kluci, ahoj Filipe.
+Tak prosím tě Filipe, pokud náhodou jeden z našich posluchačů třeba není úplně AWS šílenec, tak třeba ještě tě nezná. Nicméně tvoje jméno samozřejmě velmi rezonuje, co jsem tak koukal.
+Tak prosím tě pro jistotu, pro tyhle sty lidi, co třeba zrovna posledních deset let spali, představ se jim.
+Tak ahoj, já jsem Filip, jsou z Brna.
+To špíkaj.
+Pracuji pro Propel Technology vlastně, kde řešíme servola, s kterým se dneska budeme hodně bavit.
+A co bych ještě tak řekl, primárně řešíme TypeScript, AWS, vývoj aplikací pro fintech a takhle asi.
+Prosím tě, klasická otázka, to, že ty teďka něco děláš, to je hezký, ale jak se stalo, že od malého Filipa, který o serverless ještě v tom věku vůbec neslyšel, se dostal až tam, kde seš. Jaká byla tvá cesta do IT?
+Moje cesta. V podstatě já už od mala, že od děda měl snad tady první po obecním úřadě počítač ve městě, aby podnikatel byl a tak.
+Takže mě k tomu jako postupně vedl a někdy v jedenácti už jsem tak jako zjistil, hele, tady nějaký webnout.
+Nevím, jestli znáte.
+Jasně, jasně.
+Člověk si dělal weby, klikal a takhle vlastně.
+A pak jsem začal řešit, jak ty templatey upravit, takže člověk zjistil, jak se programuje a tak dál.
+No a postupně jsem vždycky jako programoval kvůli tomu, že jsem chtěl tvořit nějaký produkt, tomu službu vlastně.
+Až postupem času se člověk jako dostal do toho módu, že ho baví to programování jako takový třeba i.
+A vlastně někdy, že jo, člověk někdy v šestnácti nebo takhle člověk řešil, jsme řešili jeden projekt a vlastně jakožto chudý studenti jsme potřebovali, aby to bylo co nejlevnější a zrovna tehdy, kdy byla InLambda, tak jsem vlastně poslouchal CSET podcast, vlastně Fila, který tam právě změňoval Lambdy a takhle jsem se dostal jako k Lambdě.
+No a potom vlastně, já jsem to měl trošku jako brzo ten začátek, takže už v osmnácti jsem začal dělat v Purple a tak nějak jsme řešili, jak líp vidět do těch business processů.
+A tak a vlastně Step Functions, což jsou na ABS-ku, byly úplně obvious choice a takhle začala celá ta cesta.
+Takže ty jsi rovnou naskočil v osmnácti do Purple a tam jsi teda doteď.
+Tam jsem doteď, no už to bude nějakých sedm let, no.
+Jo, tak já jsem si myslel, vypadá ještě mladší, víc?
+Jo, hodně hustý.
+Na to, co dokázal, vypadá jako strašný zajíc.
+Tak aktuálně teda tvoje práce je tam jaká?
+Řekněme, solutions architekt, serverless architekt, to je vlastně člověk nějak jako seniorní inženýr, co řeší kombinaci, jak toho vývoje, tak pak jeho návaznost na tu architekturu vlastně v tom cloudu.
+Paráda, my jsme si tě pozvali kvůli tomu, že vlastně ty jsi odborník na serverless a není to jenom proto, že bys byl tak jako třeba to mám já v ostatní, jenom že ti to zajímá, ale ty dokonce máš i takovou oficiální štempl od ABS-ka, že jsi serverless hero.
+Prostě mi řekni posluchačům, co to je za ocenění a jak ho mohou docenit?
+Za co se dává?
+AWS hero je vlastně takový jako recognition Amazonem, protože jsme o ABS-kem, za nějakou komoditní práci, vlastně jako spreading the word okolo ABS-ka, takže vlastně my jsme začali dělat purple meetupy, serverless meetupy a vlastně na to se pak naváže to, že zkrátka třeba někdo z českého Amazonu se vás musí všimnout a vlastně eventuálně vás nominovat a pak to musí projít x různýma departmentama v Seattleu,
+který vlastně vlastně vlastně vlastně vlastně vlastně vlastně vlastně vlastně vlastně vlastně vlastně vlastně vlastně
+a pak vlastně člověk má tedy ten jako recognition, takže v kontaktu s nějakýma jako vlastně těma ostatníma hero, s lidma z Amazonu, může mít přímý jako dopad na nebo přímý přímý dopad na ty produkty, že se volá vlastně s něma produktovýma týmama a v podstatě takhle.
+A pak vlastně Amazon nás každý rok vždycky vyveze na Rain Man do Vegas, kde se všichni potkáme, dáme si nějakou tu společnou večeři s Vernerem vlastně, co je CTO Amazonu, pokecáme si.
+A pak letíme, no.
+Kolik vás je takhle heroes v České republice?
+V České republice teďka už jsme dva, vlastně Martin Damovský, který tady jako organizuje prasku user groupu a takhle dva.
+Takže dva jste. Jaký to má kromě teda tohohle výletu do Las Vegas a potřesení si pravicí s CTO Amazonu, ještě nějaký výhody, máš nějaký lepší pricing nebo dřívejší early access informace nebo?
+Tohle určitě.
+To není jako navázený na jako business, řekněme, že by člověk, jak říkáš, nějaký diskant, to ne.
+Máme nějaké jako kredity, se kterými právě, kterým můžeme využít právě k nějakým jako komunitnímu, nějakým komunitním projektům třeba, ale je to primárně o těch kontaktech, bych řekl, no, to je to.
+To je to hlavní a právě člověk dostane nějaký informace, které jsou samozřejmě under NDA, takže otázka, jak moc se může použít in advance a pak třeba samozřejmě může mít i lepší pak konta, kdy se něco děje, něco mu nefunguje v AWSku, tak třeba řeší s těma týmama přímo.
+Ví komu zavolat, když to spadne.
+Ví komu zavolat, přesně tak, no.
+A máš nějaký pravidla, který musíš dodržovat, aby jsi zůstal tím hýrou, nebo můžeš o to přijít?
+A máš nějaký pravidla, který musíš dodržovat, aby jsi zůstal tím hýrou, nebo můžeš o to přijít?
+A to má nějaké podmínky, že oni musíš jako publishovat nějaký content a oni vás pak vyberou nebo to, ale Heroes vlastně to je skupinka tak různých lidí, že vlastně se Amazon nechce úplně aplikovat nějaké pravidla na to.
+A tak chodí ti každý rok nějaký renewal nebo jak to je? Nebo to máš teďka a dokud opravdu nezačneš hlásat slovo as you see, tak je to tvý.
+žuří, tak
+je to tvý.
+V podstatě tam by měl být nějaký
+renewal proces, kde by se
+v podstatě měli jenom zeptat,
+ale chceš to dál dělat nebo ne,
+nejsi třeba už úplně někde jinde v životě
+nebo to, ale
+zatím vlastně já osobně jsem tím ještě neprocházel
+z toho nějak dva roky, po dvou letech to má nějak přijít,
+tak uvidíme, jestli mi to napíše,
+já si řeknu, že to mám dál
+a tak to půjde snad.
+Já jsem hrozně rád, že tě tady máme,
+protože já jsem osobně obrovský fan
+na serverless, nicméně řekněme, že máme
+posluchače, který ten termín
+úplně neznají, mohl bys
+posluchačům vysvětlit, co přesně
+serverless vlastně znamená?
+Serverless je vlastně už dneska
+hodně jako zkompromitovaný pojem,
+kdy vlastně právě hodně
+firm a i třeba Amazon si ho
+i ty jednotlivý týmy si ho ohýbali
+stylem, kterým vyhovuje.
+Za mě jako
+serverless je o tom, aby člověk mohl,
+aby vlastně ta infrastruktura byla schopna škalovat na nulu,
+to znamená, když ji člověk nepoužívá,
+aby za ní jako neplatil, což znamená, když
+Amazon má třeba tu jejich
+Aurora databázy, za kterou
+vlastně nemůže škalovat na nulu, ale náživý
+serverless, tak
+potom už to trošku jako klašuje.
+Takže to je za mě jako
+ideální věc, aby to bylo schopné škalovat na nulu.
+Takže serverless je
+služba, která když ji nepoužívám,
+tak za ní neplatím a ona je
+schopná fungovat v tomhle režimu.
+Jsem schopen to takhle... Takhle bych si to ideálně
+představoval, s tím, že samozřejmě pak jsou na to
+navázeny všechny další věci, jako
+nějaký retry a tyhle ty jako
+záležitosti z distribuovaných systémů,
+aby to všechno jako fungovalo, jak má, kdy se to propojí.
+Důležitá věc, co říct,
+serverless nerovná se lambda.
+Serverless je o tom
+propojení všech těch služeb, co jsou v tom cloudu.
+A tebe na tom
+ten grál vlastně co učerevalo? Byl to tenhle
+chytrej pricing nebo škálování
+nebo to, že funguješ
+u té lambdy třeba v kontextu
+nějaký jenom jako vlastně funkce,
+čili nemusíš do hlavy si cpát
+nějaký větší scope? Co tě zaujalo?
+Mě vlastně nejvíc tehdy zaujalo,
+jakož to toho teenagera, to, že vlastně to v podstatě
+nic nestojí. Já jsem se tak, když jsem na tím zpětně
+přemýšlel, jak se to dneska někdo učí,
+tak jsem si vlastně říkal, že jsem na té hry štěstí, že jsem vlastně
+nevěděl, co mi všechno hrozí.
+Teď jsem napomněl otázku.
+Co tě tenkrát učarovalo?
+Co mě učarovalo? Jo, jo, jo, prosím.
+Jsem tak vylekal.
+Co mu hrozí?
+Pojď se zamyslet.
+Co všechno mu hrozí.
+Co mě učarovalo? No a pak vlastně
+to bylo o tom jako v Purple, že vlastně nám tam seděly
+ty step functions a jak to všechno
+krásně jenom zacvaknout do sebe
+a člověk rychle má ten výsledný produkt.
+A hlavně, co byla tehdy pro nás motivace,
+my jakož to malej tým vývojářů tehdy
+nás bylo třeba 4-5.
+Nechtěli jsme řešit devops,
+nechtěli jsme řešit to, že se musí něco
+restartovat v noci a tak dál.
+A vlastně v tomhle ta Lambda byla jako velký
+selling point pro nás.
+Takže tohle to bylo pro tebe to hlavní,
+že teda si nemusel přemýšlet
+o té infrastruktuře.
+Že je to jako manižovaná služba.
+To je to, která vlastně člověka
+donutí to nadizajnovat často tak,
+že se to samozrepetá vlastně.
+Jaký jako self-healing, chování a tak.
+A kdyby si chtěl třeba teďka někomu,
+tím, že už znáš, řekněme,
+ten širší ekosystém a už znáš
+i ty dopady toho, jakoby
+serverless přístupu mu prodat.
+Teda jednu tu věc. Je to pořád tohleto
+anebo už je to třeba, řekněme,
+i věc jako týkající se
+prizingu, škálování
+nebo jiného mindsetu.
+Tak dneska už se to hodně posunulo i do té části,
+že vlastně Amazon má věci jako je
+Fargate a asi ostatní cloud providers
+budou mít něco podobného, že jo.
+Kde vlastně člověk může
+nějakou jako serverlessovou
+cestou začít
+jako i s kontajnerama.
+Ale vlastně
+když jsme, ono mě už je tak přirozený, jako
+přemýšlet v tom serverlessovém mindsetu, že jako
+člověk už ani zapomene pomalu
+jako na to, jak tomu člověku mi předat,
+protože vlastně neví, co se skoro za ty problémy, teda je pak
+v tom klasickém jako světě, kde jsou
+jako ty kontajnery a všechno takhle jako běží.
+Ale třeba
+nedávno jsme jako řešili na designování
+nějakého systému, který
+by musel číst nějakýho streamu
+a vlastně najednou, když jsme si představili
+dělat to v kontajnerech, tak třeba mít jako dva nějaký
+jako paralelní kontajnery, jeden
+jako master, slave, jo,
+vlastně jak se rozhodne, který se přepne, aby to
+bral a to. A vlastně takhle najednou člověk jenom
+řekne, hele, napojím tam lambdu a prostě
+jako decid vlastně,
+bude to zpracovat, když to failne,
+tak se to pokusí znovu zpustit.
+Takže řekl bych ta manažovanost,
+no, jako. Super.
+Hele, vnímáš to teda dneska tak ze svý pozice,
+podle mě všude, nebo vidíš někde nějaký případy,
+kdy bys to třeba nepoužil?
+To je velmi dobrá otázka, vlastně tím, jak my děláme ve Fintechu,
+tak tam
+máme právě i ten, jako
+ten trading, tu tradingovou infrastrukturu,
+kam tohle se třeba absolutně nehodí, jo.
+Asi se o tom bude bavit, cold starty a tyhle
+ty věci můžou být, jako,
+nemusí být úplně ideální, jo.
+Ale osobně si myslím, že v podstatě
+pro 90% jako
+infrastruktury na internetu, tohle může
+být jako super fit, který může ušetřit
+jako hodně peněz, jenom když si vezmeme, že
+jak se říká, půlka internetu běží na WordPressu,
+nebo co, nebo tak, jo.
+Je to tak.
+No, ještě, než se teda dostanu k těmhle s tím,
+řekněme, jako trošku temnějším stránkám toho servera,
+ty jsi ještě tady použil jeden výraz, což bylo,
+myslím, step functions.
+Můžeš vyslít ty posluchačům, co to jsou step functions?
+Posluchače si určitě znají
+Lambda, což je vlastně nějaký prvek,
+který vykonává ten kód, který se do něj člověk nahraje,
+ale Lambda sama o sobě
+není úplně
+něčemu jako použitelná,
+a ta se vždycky musí napojit na nějakou službu,
+a například, když chce člověk vytvořit
+nějaké business workflow, to znamená
+mít několik stepů, nějakou logiku
+v tom, třeba nějaké retry a vidět
+vlastně, co se děje, kde to failnulo a tak dál,
+tak na to použije step functions
+vlastně službu, která pospůje ty Lambda funkce
+dohromady, protože Lambda funkce
+můžou maximálně trvat 15 minut
+a není určitě dobré
+čekat nějakou dlouhou dobu, než se něco vykoná,
+protože za to člověk platí a tak dál, takže
+ideálně je mít tady vlastně step functions na tohle
+a takhle ten proces
+je namapovat celý.
+Můžu teda na to koukat, tak jako jsou třeba,
+protože já jsem spíš z toho
+ežuřího světa, kde jsou
+Azure Durable Functions, což je vlastně jako řekněme
+stateful orchestrace nad
+stateless funkcema. Je to podobný?
+Je to jako, že
+to zní
+podobně. Je to
+o tom, že si
+poskladaš ti jednotlivý function
+kóly, které jsou ale ta infrastruktura, ne ten
+kód a vlastně
+máte nějakou logiku, jak jdou za sebou a předávají se
+ty vstupy, výstupy. Takže takový ty
+paterny typu fanout, prostě, že to
+nechám jako z jednoho vstupu, prostě jich
+spustím deset paralelně, pak počkám, až
+doběhnou, pak je zase pozbíráno. Je to o tom,
+že například, když dám nějaký biznesový příklad,
+tak je to o tom, že třeba řešíme registraci
+uživatele. U nás ve Fintechu musíme řešit
+různé KYC, AML a my vlastně
+musíme kontaktovat nějakou third party
+během té registrace
+a například, aby se
+zkontrolovala ta občanka a teď třeba řekněme ten
+call fail, ne? Tak my potřebujeme držet ten kontext
+té registrace vlastně
+a těch všech kroků, který se mají udát
+a vlastně k tomu slouží právě system functions,
+že vlastně každá ta exekuce takzvaná
+je nějak jako stateful
+a je to proplený dohromady všechno.
+A jstež teda schopný tam dělat nějaký, řekněme,
+trycatchy na celou tou flow?
+Je to tak, je to tak. My máme i takzvanou věc,
+co jsme si, to máme u nás na blogu vlastně popsaný,
+takzvaný jako recovery system, že když
+nějaký ten step failne, nám to přijde do sleku,
+kluci na supportu vlastně to vždycky
+potom můžou jako buď spustit znovu
+nebo upravit nějaký ten payload, co do toho jde
+a takhle s tím pracovat i dál.
+Super. Já jsem to
+trošku už nakous, ty jste to vlastně taky nakous.
+Kolem serverless jsou
+i trošičku, jsou tam nějaký
+nevýhody. První, kterou ty jsi vlastně zmínil
+třeba v případě toho trading systému, by
+mohl být velký problém a to jsou takzvaný
+cold starts. Co to je
+a jak k tomu čelit?
+Tak co je cold start?
+Když se vlastně, Lambda
+funguje tak, že se v ní spouští
+takzvaný firecracker VM
+pro každou tu exekuci,
+kde vlastně startuje nějaká
+virtuální mašina a ta doba, než
+nastartuje ten runtime
+a vůbec ten kód, který k tomu byl
+jako spuštěný, tak to je vlastně ten cold start,
+což třeba v případě věcí jako
+Node.js, Rust, Go,
+Python je v pohodě
+z pohledu designu toho
+runtimeu, ale pak právě přichází třeba jako
+C Sharp, Java, kde
+zkrátka ten runtime byl designovaný trošku jinak
+a tam pak ty cold starty můžou být třeba větší.
+Takže to znamená, jednoduše
+řečeno, že když já po nějaký době
+tu funkci zavlám, tak vlastně čekám, než se mi
+na orchestruje celá
+ta monster paráda pod tím, než mi to
+začne odpovídat. Je to tak?
+Můžeme to tak říct.
+A je teda nějaký způsob, jak k tomu čelit?
+Já se právě vzpomínám, že třeba u nás u Azure Functions
+jsme dělali to, bylo to takový samozřejmě humpolácký,
+ale fungovalo to, že jsme měli jinou function, která byla
+cron-based a která vždycky jednou
+za 30 vteřin jako okopala
+tuhle, což samozřejmě
+do jistý míry je trošičku
+rovnák na vohej bák, ale fungovalo to.
+Dobrý ještě říct, že vlastně při těch
+cold startech vlastně jenom ten první call
+trvá vždycky dlouho, potom už ty další, už to je jako
+warm, ta funkce takzvaně, takže už to je
+lepší, ale
+ty řešení, no jak říkáš, to, co říkáš
+ty, jako přesně to hodně lidi jako dělá
+a je to vlastně to, že si ten
+cloud provider jako nabíhá sám sobě, jo, než
+aby to, jako on se, je to vlastně motivace pro ně
+to fixnout, protože jinak takhle vlastně ho lidi budou
+odrbávat,
+řekněme. Ano.
+Ale jinak
+vlastně nabízí i to, že můžeš mít,
+tam jsou ty názvy,
+jestli to je provision concurrency, nebo
+je tam vlastně možnost
+možnost si
+nastavit to, že ta
+funkce bude ready a jaký množství těch
+paralelních funkcí bude
+ready vlastně k tomu, aby hnedka jako fungovaly,
+no, ale za to platíš, takže pak už je otázka, jestli
+tam je ten benefit toho. Tam už není ten benefit,
+kálo, ani na nulu, protože platíš flat fee, no.
+Další
+věc, která je kolem obecně
+serverless, která se týká, podle mě, jakýhokoliv
+provider, ať je to Google Cloud Platform,
+ať je to AWS, ať je to
+Azure, je vlastně do jistý míry
+jako vendor lock-in, protože ve chvíli,
+kdy já si všechno postavím kolem jednoho
+cloud providera v jeho serverless světě,
+tak se mi asi hůř bude odcházet,
+než když to budu mít na Dockeru,
+na Kubernetes a ten se vyspinuju prostě
+kdykoliv jinde. Jak to vidíš ty, je to
+opravdu problém, nebo je to
+nějakej rozumnej trade-off?
+Jo, je to o tom vlastně,
+jak třeba musíš říct bezpečnost, jo,
+když budeš dělat prostě v nějakým vysoce regulovaným
+industry, nebo
+pro stát a tak, tak tam to asi jako úplně nejde,
+řekněme jednoduše,
+ale vlastně pro většinu firm
+je otázka, jak moc často ty firmy mění vlastně
+ty vendory, jo, to je často ten argument,
+že vlastně, jako, když se člověk zeptá,
+tak často je to jako v podstatě, že nikdy,
+jo, nebo jako, jasně, když se pak
+že znovu zakreditáme na nějaký startupy, ok,
+ale,
+ale jinak vlastně jako z toho může být
+jako hodně benefitů, no, vlastně, že člověk
+jako se lokne k tomu cloud provaderovi
+a tím pádem jako kdyby outsourcuje
+tu práci od sebe k němu, že jo, a tím pádem
+se se ušetří třeba na nakladech jako na lidech
+a na hiringu a na manažování všech těch lidí
+a tak, takže
+je to, je to
+asi o tomhle si říct, no, jak moc člověk potřebuje
+reálně jako tohleto a jak moc
+je to zájem těch zaměstnanců
+versus jak moc je to zájem těch lidí, vlastně.
+Jo, a je větší pravděpodobnost,
+že ten člověk změní práci, než to, že ta firma
+změní toho vendura, vlastně.
+Jo, a
+to pak, to už pak je jiný problém, no.
+Mě to trošku připomíná takový ten
+klasický strach, že pojď nasadíme někam
+ORM-ko, co kdyby jsme ráno někdy šli jako
+z Postgres na MySQL a pak na
+MSSQL, což se mi za těch
+mých jako asi 25 let
+v IT stalo jednou jedinkrát
+a stejně jsme to ORM-ko museli přepsat,
+protože tam byly tweaky, takže celý
+to bylo stejně úplně na hovno, takže
+je to asi velmi podobnej strach.
+Ale zase třeba jako záleží
+taky, co v tom cloudu potom člověk chce dělat, jo.
+Třeba u nás, my jak
+jedem ten Snowflake, tak vlastně po tím máme
+neskážer, ale kdyby jsme chtěli připnout na
+AVS-ko, tak je to tak připravený, že prostě
+během dní jsme schopní jako překlopit se.
+Takže vlastně tím, že ta abstrakce
+je v úroveň vejš, to znamená, mám nějaký
+nástroj, tak je vlastně jedno, co potím je,
+oni jsou schopní to takhle vyladit,
+tak pak záleží, co tam člověk dělá, jo.
+Asi je jiný aplikační vývoj, ale v tom datovém světě
+to takhle funguje pápeckat, jo.
+A zpravujete si to sami, nebo mám to Snowflake jako...
+Sasovka. Sasovka, no. Tak vlastně, tak jasně.
+Ale to už zase není tvůj problém, to je vlastně, jestli loknutý v tom
+Snowflakeu, že jo, vlastně. Seš. A vyberej si
+jako kdyby u nich ten cloud, tak je to ostatní.
+Ale když to jedeš jako metadatově,
+tak jsme schopní v podstatě přepnout i ze Snowflakeu
+na Brixi v podstatě jednoduše,
+protože jedeme ty, jedeme
+skrz icebergky, prostě jsme schopní to udělat
+takovým způsobem, že jsme schopni jako přijít
+i z platformy na platformu, no.
+Jasně. No my když si tady o tom tak bavíme
+v kontextu těch různých
+cloud providerů, vlastně v kontextu
+AVS-ka, ty jsi říkal, jasně to
+serverless nerovná se Lambda,
+byť Lambda pro tebe byl takovej ten jako
+řekněme gateway drag do tohohle
+světa. Aktuálně
+tím, jak znáš AWS,
+co všechno už je teďka vlastně
+jako v serverless módu?
+Nebo jako aspoň řekněme
+jako nějaký okruhy
+těch služeb. Předpokládám databáze,
+už může být serverless, ne? Může být
+databáze, vlastně Amazon
+takzvanou DynamoDB Table,
+DynamoDB, což je
+což je jako column-based databáze,
+zkrátka takový jako key-value spíš,
+simple věc.
+Potom mají Aurora vlastně databázy,
+kde ale ten serverless je takovej
+trošku trade-offovanej, jo, je to spíš o tom,
+že se líp optimalizuje ta kapacita,
+ale jinak je to o tom, že v podstatě jako drtivá
+většina vlastně těch služeb je nějakým způsobem
+serverless, jo, že se platí za nějaký request,
+za nějaký gigabajty, jako třeba
+uložený, jo, full logisty a tak dál. V podstatě
+první služba
+na AWS-ku, první služby vlastně byly
+věci typu S3, SQS, jo, to vůbec
+nebyla EC2 vlastně, jo, a to byly
+v podstatě serverless služby od začátku, jo,
+takže asi to není
+tak o těch službách
+jako to mindsetu, pak jak to ti lidi používají,
+no, ty služby.
+Ok, takže i vlastně u S-trojky ty platíš za použití,
+ne za to, že to tam někde existuje,
+24-7, ale
+podle nějakého, jako řekněme, ingress,
+outgress asi jako. Jo, platíš
+vlastně za to, za ty data, co tam máš
+uložený, že jo, to znamená, že to jako používáš vlastně
+a potom za ty operace si jako.
+Ale ta storage je výrazně levnější
+ne než ten compute, ten compute je
+to drahý potom, ne? Jsou to jako kdyby
+rozdílný dimenze, že jo, jako storage a compute
+jsou dvě složky právě vždycky, takže
+tam záleží, no,
+jako jaký má člověk čísla
+a tak. Já vím, že my
+lifrujem teď celý warehouse do
+Azure vlastně a moc jako se s tím
+jako úplně netrápíme, trápíme se tím, jak
+myhle začneme tam používat ty transformace
+a začneme tam jako rolovat ty
+computations. Tam se trápíte, když vám přijde
+účet, ještě prvé.
+To je jako, to je, no, k tomu se ještě
+dostaneme, to je jako, tam máme
+zajímavý dotazy kolem těch peněz. No ne, protože
+vem si zase moje zkušenost, říkám,
+úplně podobně jako Filip,
+byl jsem úplně omráčený serverlessem a teď jsem
+hledal, kde, zrovna teda v případě Azure, kam to
+všude nadspu a ono tady stečí ty
+na takový služby jako, pokud vím,
+API management, service bus
+a tak dále. A už se nám třeba stalo,
+nebo typicky u SQL databáze,
+se mi stalo, že
+míň vytěžovaná
+klasická prostě jako databáze,
+kterou za kterou platíš prostě konstantní
+po nějakých, já nevím, DTU se tam jmenuje
+prostě po nějaké jako síly, ale prostě
+platíš za ní 24-7,
+mi ve finále vyšla levněji, než když byla
+jen jako SQL-ko v serverless
+modu, do kterého si jako píkově
+bušil, protože i když těch requestů
+bylo tolik, že v té staré
+instanci, řekněme, si to udržel,
+zvládnul z toho, tak to na ten request
+nebylo tak drahý, jako když jsi byl v tom serverlessu.
+Třeba Filipe je potřeba na tohle mít
+nějakou metodiku,
+jak správně tu službu vybrat,
+jak správně ji nastavit, kdy vlastně se mi
+vyplatí jít do toho serverless modu,
+nebo u toho AVSka je to jako výrazně jednodušší.
+Tohle je dobrý point, vlastně
+mi vždycky, když designují novou feature, tak v podstatě se díváme
+i na pricing a vlastně si člověk dá
+dohromady nějaké jako
+v úhozovkách vzoret toho, aby měl
+představu o tom, jak vlastně škálujou ty
+náklady a v čem se pak
+jako pohybuje a na základě toho člověka
+pak se chodí si porovnat, co se mu hodí
+víc vlastně. Samozřejmě, když člověk používá serverlessu
+databazy, platí za to premium vlastně
+za to, že právě
+ten cloud provider něco má jako přichystaný
+od infrastruktury, když mu to jakože nebylo, tak potom
+si to zaplatí, takže vždycky je to
+o tom si to spočítat, no to určitě jako
+doporučuji.
+My jsme teda říkali, kam všude bys
+nebo kam všude, ty jsi řekl, že bys ho nedal
+teda primárně u těchhle těch řekněme
+jako rychle otáčkových typů
+prostě nějakých jako real time
+věcí. Je ještě
+nějakej typický use case,
+kde si říkáš, ty jako rád bych tam
+ten serverless nadspal, ale nedává mi
+tady smysl, nebo je tady něco,
+kde by to mohlo být nebezpečný?
+Asi jako
+můžeme říct i třeba jako vlastně
+starý software, že někdo by chtěl udělat
+lift and shift a přehodit to do serverlessu
+a to často může být si myslím jako problém,
+že ta aplikace se fakt musí
+designovat s tím
+mindsetem a to tak to bych
+viděl jako, že může být problém, že to v podstatě
+jako nedává smysl asi.
+Možná ještě pro můj osvětu na
+AVS-ku, ty jsi říkal, že mám tam teda
+mám tam teda Lambda, mám tam ty
+step functions, pak je tam
+předpokládám nějaká služba,
+kam já nadspu, docker container,
+ale on mi běží jako v serverless modu,
+to je ten Fargate? Fargate je nějaký jako
+engine, který jsou to
+stará, s tím, že pak
+je tam třeba věc jako apprunner, což je takový jako
+heroku, že si člověk může udělat jednoduchý,
+hezký jako a takhle no.
+Ono to je, ono vždycky je ten,
+vždycky jsou ty takový ty
+popichovačky ve stylu, že Amazon
+nabízí 30 způsobů, jak rozběhnout
+container vlastně, že jo.
+Takže, takže jasně no, variant je
+více, no.
+– Když si tak bavíme o serverless
+a různých příkladů použití
+v praxi, tak samozřejmě občas
+člověk narazí na takový ty hororový stories,
+že si někdo v serverless modu nechal
+něco otevřenýho a teď mu tam do toho
+začali, nedej bože, takový to otevřel si
+hospodu a začali mu chodit lidi, tak otevřel
+si službu a začali mu tam chodit
+zákazníci a uživatelé.
+Začali mu do toho bušit a
+on díky tomu vlastně,
+jako díky tomu nekonečnému škálování,
+jako vytek vodos peněz.
+Čím ještě můžeme dát bokem služby
+typu Vercel, který jsou tím jako naprosto známý.
+Jak to vidíš ty,
+Filipe, je potřeba nějakým způsobem
+tohleto ve světě serverless
+pošetřit, nebo je vlastně
+to nekoneční škálování jako
+dobrý a ideál, teda když mám službu,
+která je využívaná, tak čím víc
+tím líp, nebo je tam nějaký limit?
+– Ono je dobré vždycky si nastavit, je to doporučuje
+Amazon jako první věc, takzvaný budžety.
+Dneska naštěstí už umí
+takzvaný anomaly detection, aby člověk
+nemusel řešit, kolik je málo, kolik je
+moc, to pak je vždycky ten problém.
+A ve výsledku se mi ukázalo, že my jsme často řešili,
+jak monitorovat ty serverless aplikace, protože tam jsou
+desítky, stovky různých metrik,
+co se dá aplikovat, už to není jenom CPU
+a paměť.
+A vlastně jsem zjistil, že nejlepší je
+monitorovat ten pricing, že člověk
+vidí, kolik teda... Pak se to hnedka
+podají v tom pricingu vlastně ten usage.
+Takže tímhletím
+člověk dokáže dostat rychle ten
+impuls a potom vlastně, když už nahoru
+teda na něco dojde, nenejbože to zaspí přes noc
+nebo tak, tak on ten cloud provider
+je často jako ochotnej
+jako dát nějaký
+slevy, refundy a tyhle věci.
+Aby jako zase
+ty lidi úplně nedemotivoval a nevystrašil.
+Takže dá se to ukecat, jo?
+No a já si myslím, že
+to začne být čím dál méně problém,
+protože jak to ty lidi hodně řešej,
+tak aspoň jako z mýho pohledu
+a takhle, jedno doporučení, dobrý bej velkej klient
+těhle z těch velkých, těhle z těch
+jako providerů.
+Buďte velký klient, protože...
+Nechcete být chudý, buďte bohatý.
+Přesně, přesně, přesně.
+To si nechám napsat na náhrobu.
+Tak v podstatě,
+když tam ujela nějaká query,
+tak nám okamžitě volají například.
+Jo.
+Takže to je nějaký divný,
+pojďte s tím něco dělat.
+Takže to je jedna věc, ale přesně,
+ty záchranný mechanizmy se podle mě
+neuvěřitelně zlepšily
+a už to tolik nevytečeš.
+Nejhorší jsou ty místa, kde si rychle něco otevřeš,
+rychle si tam chceš něco otestovat
+a neuděláš tam ten monitoring.
+A teď to začne vytejkat.
+To jsou ty nejhorší místa.
+A ty jsi říkal, že ty máš nějaký
+happy story.
+No tohle je ta happy story.
+Že ti volají, jo?
+Ta happy story je, že když se nám tam povedlo
+někde vylejít nějakou kverinu a odejít
+na víkend domů, tak
+přesně přes ty outliery, jak Filip opisuje,
+tak se vyloženě ti někdo ozve.
+Jako z toho jejich supportů
+a říká, hele, máme to vypnout.
+A někdo je tam zodpovědný za to, řekne, jo, hele, vypněte to.
+A takže happy story je,
+že prostě jsme nevytekli, já nevím, kolik
+doláčů, ale prostě vypnou nám to,
+když my uznáme závodný, že to je blbost.
+Takže to je ta happy story, jo?
+Takže mám pocit, že se to hrozně posunulo.
+Filipe, myslíš si, že je k tomuhle
+nějaká obecná,
+řekněme třeba, nechci říct jako
+metodika, ale obecně je nějaký způsob,
+jak tohle se teda správně nastavit?
+Protože samozřejmě ne každej je velikostí spořice,
+že ti jako zavolají v neděli večer,
+že vám tady tečou dolary. Jak vy to vlastně děláte?
+A já vlastně jsem zapomněl, vlastně naš jízdu je velký.
+Tam bych asi doporučil zkrátka použít tu anomaly detection
+a ty budžety vlastně na základě toho,
+jaký má člověk většinou ten spend,
+což když má něco menšího, tak to není tolik.
+Takže to by stačilo.
+A to si myslím, že je dobrý způsob,
+jak to řešit.
+Jedna věc, která mě obecně
+vlastně přivádí k serverless,
+i když se jim nechci věnovat,
+nedávno jsem dočet knížku od semení umena
+o microservices a ten vlastně tvrdí,
+že serverless je jako nejlepší start
+do světa microservice, že většinou ti to stačí,
+že bys ani nemusel pokračovat čistě teoreticky
+snědem ke Kubernetes.
+Co si myslíš, ty stačí to dneska,
+tak jak už je ten offering nastavený,
+že vlastně do kery, řekněme,
+už pro většinu věcí jsou
+jako za zenitem a stačí si to postavit
+na serverless?
+Tak on se pak člověk dostane k té otázce,
+co je vlastně microservisa.
+Pak člověk řeší, jestli jedna funkce
+je microservisa,
+nebo vlastně nějaký stack v tom cloudu,
+jestli je jako microservisa a tak.
+Pak dojde k tomu,
+že to je,
+jak to bylo, distributed monolith,
+nebo něco, jo.
+A tak, takže zkrátka mně přijde,
+že už ten pojem
+trošku tady nefunguje,
+nebo jak to říct, jo, plus
+jedna věc je asi nějaká ta softwarová architektura,
+jenže v tom cloudu se to pak propisuje
+do toho provozu vlastně,
+jo, té aplikace je to už seprovázaný,
+takže
+těžko tady soudit asi, no, vlastně.
+Hele, tady mě napadá,
+když jsi říkal, že jsi v kontaktu s těma produktovýma
+týmama v AVS-ku,
+tak řešíte spolu takýhle otázky,
+co je mikroservisa, protože oni podle toho,
+předpokládám, se snaží designovat další servisy,
+je to něco, co jako vedete
+za diskuze, nebo tohle?
+To už jsou takový, řekněme, i hodně jako filozofický vlastně
+debaty, že jo, takže to se maximálně řeší někde v baru,
+pak na dráze nebo to, ale, ale,
+ale, ale,
+tam se řeší spíš ta infrastruktura,
+ta praxe, jako, jo, takhle, no.
+No ono s tím přístupem,
+ale i souvisí určitý způsob,
+jako architektury aplikací, předpokládám.
+Co třeba ty považuješ,
+vlastně za, řekněme, jako typickou
+architekturu ze softwarovýho
+hlediska, když bych
+jako zvolil serverless?
+Tak dneska je vlastně tendence ten serverless
+trošku jako vytlačovat a radši to přejmenovat
+na event-driven architecture.
+Jasně. Jo, a vlastně člověk si takhle
+řekne, že každej request na APIčko
+nebo nějaká nová message, je to nějaký event,
+ten má nějaký konzumery, to znamená,
+že si připojím nějaký takzvaný trigger, lambda funkci,
+jo, a takhle vlastně mi to hezky
+roste jako dohromady, je to propojený
+na sebe navzájem a pak člověk právě no včítá
+ty kosty za nějaký ty jednotky, jakože
+dohorek těch requestů a tak, co to pak má za ten vliv.
+Takže, takže event-driven
+architecture bych řekl, no, že to je ten
+směr, jako. Takže naopak
+bad practice to budou nějaký hodně jako
+stateful asi přístupy, ne? Bad practice
+může být třeba to, že
+člověk má lambda funkci a z ní
+přes SDK volá jinou lambda funkci, čeká,
+než dojede a nedej bože to třeba volá nějakou
+další, jo, vlastně to jsou třeba
+takový jako různý antipaterny,
+ale to je pak asi antipaterny
+pro ty jednotlivý služby dohromady
+takhle.
+Existuje na AVS-ku, řekněme, nějakej
+free tire, že, jako vím,
+že tam je, ale máš třeba tak jako
+to je u jiných providerů, že
+když začnu používat prostě lambdy, že mám
+nevím, nějaký
+určitý množství těch requestů
+zdarma? Je to tak, u každého
+vlastně Amazon má vždycky pricing pro každou službu,
+tam je popsaný, jaký má free tire, co ten free tire
+obsahuje, v těch budžetech si může
+zapnout i to, že mu dochodí notifikace na upozornění,
+že se blíží vyčerpání toho free tireu
+vlastně pro ty jednotlivý služby,
+takže v tomhle si myslím, že to má
+jako pěkně řešený a že je celkem generous
+ten free tire v tomhle.
+My jsme ještě jednu věc, ty jsi to zmínil, my jsme jí vlastně
+nevysetlili posluchačům a to jsou
+triggery, protože
+to, aby ta funkce začala běžet
+na AWSku, na Azureu, na GCP
+kdekoliv, tak je vždycky
+na základě nějaký události,
+která vlastně to trygne. Aspoň takhle
+vlastně to je moje zkušenost z Azureu.
+Předpokládám, že na AWSku je to podobný.
+Jaký druhy
+typicky těch triggerů se v těch
+aplikacích používají?
+Tak buď se jedná o to, že přijde nějaký request na APIčko.
+Čili hot-top trigger.
+Přesně tak, nějaký API gateway tam je,
+které jako jsou to stará.
+Potom máme třeba nějaký event bus tam,
+takže když přijde nějaká zpráva, podle nějakého
+filtru se zpustí zase trigger na nějaká
+lambda funkce. Qs, jo, vlastně
+v tomhle, nebo například to DynamoDB
+má takzvaný streamy, který zase umí
+jako triggenout vlastně lambdu, takže když se něco
+updateuje v databázi, tak člověk o tom netkaví
+pomocí lambdy.
+Takže vlastně takovýhle
+jako integrace se dají. A čím víc služeb,
+postupně se to rozšiřuje více a víc služeb a možností
+mít tady tyhle triggery?
+Jedna z věcí, která se říkám, že s tímhle musí
+druku v ruce, je jinej způsob
+deploymentu, protože
+samozřejmě takový to, že to najednou
+nahrneš někam najednou v rámci
+nějakého jednoho prostě dokuru, nebo
+nějaký jednoho, nevím, DLL-ka, žarka,
+whatever, tak u těch
+u těch lambd to
+musí být trošičku jinak, ne? Jako
+deployujete po jednotlivých funkcích,
+nebo prostě
+máte to nějak po nějakých
+řekněme jakoby sekcích rozdělený,
+nebo jak se to vlastně líší?
+To je velmi dobrá otázka.
+Vlastně Amazon má službu, co se jmenuje CloudFormation.
+V podstatě alternativa
+k terraformu a podobné vlastně
+půlumy. A
+Amazon přišel
+z technologii, která se jmenuje AWS CDK,
+kde vlastně člověk tu infrastrukturu,
+ty lambda funkce a podobně může psát pomocí
+svýho jazyku, typescriptu,
+Gočka, C Sharpu, Javi a tak dál.
+A vlastně tady si definuje
+třeba pomocí objektivního programování
+new lambda
+a tady mám nějaký kód,
+tady mi to propojí vlastně a všechno
+se to takhle vygeneruje. Vygeneruje to
+template a potom to začne deployovat.
+Takže člověk takhle může
+i deployovat v podstatě více do takzvaného stacku.
+V těch stackách
+pak už jsou ty jednotlivé resourcy
+a pak zkrátka napíše nějaký
+CDK deploy a začne se to
+deployovat. Věc je
+tam trošku problém, může být
+třeba to, že často je to jako propojený,
+že se taková aplikace
+vlastně zbuildí a rovnou se začne deployovat,
+což třeba někdy v CI kupu už musíme
+optimalizovat, aby se to
+udělalo zvlášť v rozdílných
+krocích a tak dále.
+Takže jsou na to nástroje, jak se to deployuje.
+Takže infrastructure as a code je úplný
+základ pro to, aby se to dalo dělat
+nějak rozumně. Absolutně.
+To je naprostý základ, klíčky
+a všeho tam.
+A u těch ještě mě zaujaly
+ty step function. Tam vlastně
+ve chvíli, kdy ty tu orchestraci
+máš nějak postavenou a
+uděláš novou verzi té orchestrace.
+Jak to?
+Jak to vlastně funguje? Doběhne ti ve starý verzi
+nebo nezačne si to tam nějak tlouct,
+když je to zrovna uprostřed toho běhu?
+Jak to funguje?
+Tohle je velmi dobrá otázka.
+Filip se smírá.
+Je to tak, že vlastně ano,
+ty existující exekuce, co už běží,
+ty doběhnou v takové formě, jak vlastně
+byly nastartovaný.
+Problem třeba může být, když člověk vymaže nějaký ten step
+a vlastně se s tím smaže i ta lambda funkce
+a vlastně na jedno už neexistuje,
+když se má spustit.
+Takže je to o tom si říct,
+pojďme nedělat
+breaking changes,
+tak jak to vlastně asi má být.
+A tím pádem
+snažit se třeba, aby to fakt doběhlo potom.
+A nebo se třeba vedle udělat
+nová state machine,
+na kterou se přesměruje ten trafik.
+A takhle.
+Takže tam je potřeba myslet na tyhle všechny problémy.
+Takže vlastně třeba máte to,
+co se týče nějakého namingu
+nebo nějakého pevnějšího verzování,
+že teda,
+než byste to smazali,
+tak uděláte novou verzi, dáte V2
+a začnete to na to směřovat.
+Taky jsme už udělali takovýhle směny.
+A je tam nějaký
+golden rule, jak to dělat?
+Jestli to je třeba spát do těch orchestrací
+nějaký na verze,
+nebo jestli je na to obecně nějaký lepší tool,
+jak to dělat chytře?
+Nemyslím si úplně, že by byl nějaký pravidlo.
+Je to vždycky o tom,
+jak se vyvíjí ten biznis
+a ten tým a všechno kolem.
+Člověk se vždycky, když designuje jaký systém,
+tak se snaží předpovídat, kam se to bude vyvíjet
+a podle toho se na to připravit.
+Takže tady je to úplně to stejné.
+V případě,
+když přijde nějaká nová funkce
+nativní do AVSK,
+přemešíte nad tím,
+máte nějaký pravidlo, jak nad tím přemešíte
+nebo primárně sáhnete po té nativní funkci
+nebo koukáte, jestli je něco jiného
+na trhu, co by se dalo aplikovat
+i v rámci toho AVSkového prostředí?
+Ta synergie toho, když to poskytujete
+na Amazon, je velmi vysoká většinou.
+Takže člověk přirozeně
+radši se podívá, co nabízíte na Amazon
+a řekne si, jestli to použít.
+Ale například Amazon
+představil, myslím, že to je
+DocumentDB, kde je to v podstatě
+jako Mongo na AVSku,
+ale to, když člověk se rovná s Mongo Atlasem
+přímo od Monga s tou cloudovou službou,
+tak je to úplně nic.
+Takže tam pak
+saháme po těch službách,
+kterých se snadí tolik,
+ale je to tak.
+Na AVSku zkrátka je to tak,
+že třeba 80% služeb
+jsou takový průměrný
+něco extra, protože je třeba 250,
+pak je těch 20%, který jsou super.
+A pak je to o tom,
+jak si člověk řekne, co mu stačí,
+nebo kde potřebuje nějaký větší výběr a tak.
+Hele, máš takový to dilema,
+jsi ponořený v tom jednom
+cloudovém prostředí, že si říkáš,
+tyhle není někde už třeba
+tráva zelenější, jo, ven teďka, že
+Oracle tyhle trhá rekordy v Americe
+prodejů, jo, cloudovej.
+Fak. No, já jsem se taky divil, jo.
+Včera mi to říkal kolega.
+Nevím, jak to bude dál, ale...
+A měl teďko Oracle, ten kolega.
+No to tomu vás mají všichni důle.
+Ale jako, máš takovýhle dilema,
+nebo to vůbec neřešíš? Říkáš si, hele,
+kdyby tam jeden z těch cloudů vystřelil,
+tak se to prostě dozvím stejně,
+jsem v té komunitě.
+Jo, tak jasně, že to řeším, tohle, jo.
+Člověk pozoruje, vlastně byla taková volna toho serverlessu,
+když si člověk řekne, už je to deset let,
+co byla oznámená Lambda, on už je to jako
+v IT, je to věky, jako jo, vlastně.
+Jo, a vlastně si říká, tyjo, no,
+to nemůže být navždy, jako, a teď vidí,
+jak celkově s tou recesí i vlastně ten serverless
+nějak, nevím, jestli to souvisí, nebo ne,
+jo, jestli to byla nějaká zero interest rate fenomena,
+nebo to, jo, že taky to jako tak nějak
+zpomaluje tady ten hype a Amazon ruší
+nějaký služby a tak dál, takže tam
+probíhá nějaká jako konsolidace,
+ale to, jestli to dělá někdo líp,
+to si, to se ti nejsou
+úplně jisté, ale sleduju to, ale spíš bych třeba řekl
+Cloudflare, jo, vlastně něco, co teďka
+jako hodně je vidět,
+jo, tak Workers služba
+a tak dál, a bude zajímavý
+sledovat, kam se to bude ubírat,
+takže, takže
+jasně sleduju to v podstatě pořád,
+jako, co, jak se kde děje
+a jak to má smysl
+a není to jenom vlastně o tom
+cloudu, je to vlastně jako o IT
+a tak, co se děje kolem.
+A já chtěl, jak je poslouchám, jak vlastně vypadá tvůj den dneska,
+že jako máš vidět, že ten
+záber máš hrozně širokej,
+povede se ti jako taky přes den se dostat někam
+do hloubky a zase se vrátit zpátky,
+nebo co vlastně máš dneska na starosti ve firmě?
+Moje
+responsibility ve firmě jsou takové
+volnější, řekněme, nevím sám
+vlastně, jak to jako přesně říct, jo, ale to o tom,
+že člověk má vlet kompletně
+do té naší infrastruktury, vidí, co v ní je
+a snaží se jako
+dohlížet na to, aby se tam nedostali věci,
+co tam nemají bejt, jo,
+pomáhat těm týmům vlastně jako
+brainstormovat, jak ty věci
+vylepšit, jak je navrhnout
+a pak
+vlastně řešit takový ty jako
+infrastrukturní věci, jako že třeba
+teďka narážíme na limity, že máme
+problém, narážíme na hard limit,
+který se nám teda přes, jak ty říkáš,
+že už jsme dostatečně velcí, podařilo i tak
+posunout, ale
+musíme udělat nějaké řešení,
+že vlastně budeme mít jeden ABS účet pro každého
+developera vlastně, abychom rozložili ten workload
+a to jsou pak už takový
+zase jako větší projekty, takže to pak řešíme
+s klukama, my vlastně jsme jako platform team
+a takhle
+nějak jako fungujeme. Takže s tím rukou
+v ruce musí jít to, že seš
+zasekaný na miliardě meetingů a
+musíš řešit prioritizaci, co třeba řešit
+dřív, to vidím to na těch svých šikovných lidech,
+které jsou také rozkročený. Je to něco,
+co tě trápí, řešíš, challengeuješ to?
+Naštěstí tohle to vlastně
+není můj case, že bych měl
+nějakou dně meetingu, spíš jako naopak vlastně
+a člověk má právě prostor
+jako být trošku
+vzdálenější od té operativy, jako
+týmu, co řeší ty aplikace vlastně
+a už se jako spíš zaměřovat na to jako
+trošku víc jako long term
+jako věci, takže toho
+to jsem rád, že vlastně člověk má takový setup
+tohle. Ono jeden z věcí, který
+tady neustále řešíme, nebo i ten pohled,
+který tak to trošku k tomu
+svádí, je ten jako aplikační,
+že přemýšlím vlastně nad aplikací,
+ale v tom servle se čistě teoreticky
+dá dělat cokoliv. Máš třeba nějaký
+use case typu, že na základě nějakého
+triggeru já jsem třeba
+spustil proces, který nevím, vydeplojoval
+někde dvě další mašiny, že si třeba
+řešil tím spíš infrastrukturu,
+než tu aplikaci jako takovou?
+Určitě to jde. U nás je to
+primárně o těch aplikacích, ale
+když si potřebujeme někde pomoct,
+tak přesně takové řešení taky máme.
+Tam je to o tom, že třeba
+vlastně to CDK, ten CloudFormation,
+co se jmenuje Custom Resources, co znamená,
+že člověk si může nadefinovat,
+naprogramovat svou vlastní implementaci
+nějakého resourcu vlastně v tom cloudu svýho.
+A vlastně tím pádem to, jak říká, že je nějaká
+Lambda a ona pak třeba zavolá nějaký APIčko
+a něco postaví a vlastně je to součástí
+orchestrace v tom infrastruktu Českou.
+Takže taky vlastně
+používáme ve výsledku.
+A nezapomínejme na data, tam se to taky dá
+krásně aplikovat.
+Vy předpokládám, že budete mít miliardu dat, stejně jako my.
+A pak samozřejmě ten
+serverless přístup tam taky může pěkně fungovat.
+A když už se bavíme o datech,
+tak dokážeš třeba říct, kolik tak funkcí
+teďka vlastně máte, těch jednotlivých?
+Máme jeden velký projekt,
+tak vlastně například, což je
+velké monorepo, ve kterým
+se nachází desítky
+desítky CloudFormation stacků,
+třeba řekněme třicet.
+A v každým z nich, jestli je
+deset lambda funkcí,
+takže to je třista, čtyřista funkcí
+na nějaký deploy.
+Řešíme, dokdy to ještě bude
+udržitelný, snesitelný.
+Vlastně ty deploy pak trvají desítky minut,
+když člověk si chce deponovat
+svůj feature, fresh environment,
+je to hodně různých resourců, co se musí povytvářet,
+takže
+to je jeden projekt, takže ve výsledku
+jasně máme prostě tisíce
+lambda funkcí
+různě zkrz ty feature environmenty
+a tak dále.
+Takže tohle třeba nějakým způsobem už
+monitorovat a vizualizovat, pomáhá vám
+k tomu ještě nějaký nástroj, předpokládám, že
+na AWS bude nějaký nativní monitoring,
+ale třeba už vidět
+tu flow, jak to jde z funkce
+do funkce, jak tady se to rozprskne na tři,
+dvě to se berou, pokračují dál.
+Máte na to nějaký special tool?
+Tool existují, samozřejmě
+vyžaduje to nějaký efforty vlastně
+naimplementovat, nějaký tracing a tak dál,
+takže tam úplně nejsme,
+že to vlastně pro nás nebyla priorita
+zatím, ale
+začali jsme používat Datadog vlastně,
+takže to člověk zjistí,
+jak se hezky prohne vlastně, když chce něco monitorovat
+tam,
+ale vlastně zároveň jako
+nebyla moc jiná jako možnost, protože vlastně ten
+monitoring v AWS kuje vždycky o tom,
+že je pro ten daný účet
+a když člověk má rozložené
+ty workloady produkce staging skrz ty účty
+vlastně a teď jak to tam všechno setupovat
+a nevidí to jako dohromady v nějakých bigger picture,
+tak vlastně proto pak jsou ty služby, který to jako
+agregujou a kde to vidí pohromadě
+člověk. No o Datadogu
+jsem slyšel, tak já jsem kdysi jsem si ho
+zkoušel, jednou jsem si udělal účet, pak
+mě psali asi půl roku, proč nepřejdu na nějaký
+placenej, byť se tam ten graf to monitoroval
+se nějaký dva dokry, tak jsem to zkoušel.
+A teď jsem někde četl, že to je taky
+drahý jako pes,
+ale asi záleží na tom loadu jako vždycky.
+No třeba my používáme nějakých
+serverless monitoring, kde vlastně člověk platí za
+nějaké ty jako lambda funkce,
+podle toho jsou využívané, takže ono stačí, že já nevím
+jednou za hodinu něco invokne tu funkci
+a už za ní člověk jako teda zaplatí a tak,
+takže tam jsme pak zjistili, že
+kdybychom to chtěli dát třeba na featurey
+atd., tak už najednou budeme platit jako
+dardy, takže
+takže no, je to drahý monitorovat.
+Tak to je vtipný, execution je levná
+a monitorování je drahý.
+To je masakr, u nás třeba my máme
+občas monitorování úplně vypnutý,
+protože prostě to žere tolik, že...
+Tak oni ty lidi, když jim nepřijdou prachy, se vozvou, že jo, vy to máte jednoduchý
+ve spořici.
+Tak je to zkoušíme právě, no. Na tobě, to jsem ti neříkal.
+Ještě mě napadá, tak jak nad tím přemýšlíš
+a jak to tady vlastně nám povídáš.
+Přemýšleli jste někdy,
+vlastně ty hlavní výhody cloudu, jako takovýho.
+Teď jako, že já občas jsem
+challengeovaný u nás, že jo, máme spousta věcí
+pořád na on-premu, klaudifikujeme.
+Dost se to točí kolem peněz,
+ale samozřejmě, že tam jsou i nějaké další výhody.
+Dokázal bys to nějak agregovat
+a říct, jako, co jsou za tebe ty výhody cloudu
+a proč by to ta firma měla dělat?
+Tak já bych řekl, že to je zkrátka jenom,
+jak ty říkáš o penězích. No a pokud člověk má dostatečně
+velkou firmu, která nerůste nějakým
+velkým tempem a má peníze
+na to si jako udržovat
+svoje datacentrum a vlastně si v podstatě
+duplikovat ty role, co má ten cloud provider,
+tak určitě proč ne?
+Pravděpodobně se to prodraží, protože ten cloud
+provider z toho má obrovský economy of scale,
+že vlastně to udělá pro
+tisíce, desítky tisíc zákazníků
+a vlastně to stačí
+udělat jednou.
+Takže to je
+teďka hodně ten půjčpek vlastně
+proti cloudu bych řekl.
+To je tak vždycky ze vším.
+Vždycky se tlačí jedna věc, pak už je to mainstream,
+tak se zase jde na tu druhou stranu.
+Takže je to
+asi o té velikosti a je taky
+regulatorice asi. Ale
+zase pro drtivou většinu firm si myslím, že ten cloud
+je vlastně jako velmi efektivní, pohodlné
+řešení, jak se s tím tak vypořádat.
+A když říkáš efektivní, čím
+my třeba teďka řešíme, že
+rychle si můžeš odprototypovat věc, můžeš
+zavřít, otevřít něco jiného,
+prostě nastavit si klaster pro nějakou specifickou
+skupinu. Jsou jako, mířím
+někam, kde si taky říkáte,
+no jasně, to je ten důvod, proč máme cloud.
+Peníze samozřejmě jsou důležitý, ale zase
+když to otočíš kolem zajímavého business case, tak pak
+ty peníze můžou být vyšší, ale ten business case
+může přiníst taky víc peněz té firmě.
+Je to tak, tam třeba člověk si říká, hle, mohli bychom
+šetřit tolik peněz na nějaké databázy a tak,
+a vlastně třeba zjistit, že ten management
+takový, jakože na to třeba ani nereaguje.
+Ale ono to je právě proto, že oni, když pak mají celý ten
+big picture toho, kolik platí za ty lidi, vlastně
+a tak dále, jo, tak
+tak ta hodnota, jo,
+toho cloudu, jo, vyplatí se to v tom
+právě, že můžeme být méně lidí,
+menší overhead, co se týče toho, že ho tady
+zdáně vy zátěže všechno, jo, a tak, takže
+takhle bych to udělal.
+Máš tam ještě na Filipa nějaký
+dotazy, anebo můžeme jít na
+tady jedno velký téma? Pojďme na jedno velký téma.
+Jedno velký téma je
+Batonize, doufám, že to čtu správně. Je to tak.
+Je to buttonize, pokud to chcete
+přesně vyspelovat. Je to
+služba batonize.io
+Filip za ní stojí, za tou
+službou, prosím tě, popiš nám
+co to je, co to řeší,
+jak tě vůbec napadlo něco takového
+udělat? Dobrý bude asi říct
+teda na začátek, že Batonize už jsme se rozhodli
+vlastně v podstatě zavřít,
+že je o to, jak o té myšlence a o tých lessons learned.
+V podstatě
+myšlenka na Batonize přišla tak, že jsme
+už třeba, řekněme, dva, tři roky dělali serverless
+a vlastně člověk viděl, jak strašně
+jednoduchý je přesně si deploynout na funkci
+v ní si něco zautomatizovat, deploynout to, ale teď
+řešil to, že by potřeboval to nějak třeba
+ovládat, dát to nějakému supportu, jako nějaký
+tlačítka, vstupy,
+kterýma to může ovládat
+a vlastně zároveň člověk
+viděl ten developer experience, co se mu líbí
+v Infrastructure as a Code, že vlastně si tam dá
+new, lambda, deploy
+a vlastně jsem chtěl mít
+podobné experience s tímhle, že bych třeba pod to dal
+new button, ATV and source,
+na něj zavolal vlastně metodu,
+dal mu tu lambdu, to tlačítko
+té lambdě a tak dál a vlastně si to dopovědnulo
+a všechno mi to zase šlo tím stylem Infrastructure as a Code.
+Tak takhle vznikla ta myšlenka
+a vlastně v podstatě jsme
+to jako dali dohromady,
+release-nuli a pak jsme tak nějak jako
+zjistili, že asi prorazit v nějaký
+tady ty low-code, no-code oblasti
+už asi úplně nebude
+nic zajímavého,
+ať už z toho pohledu, že je hodně
+velkých firm, co už v tom oblasti jsou a mají na to
+nainvestováno, to je jedna věc a další
+věc je s příchodem AI, kterou můžeme generovat
+různé aplikace a tak dál,
+tak jsme si řekli, že to
+radši zabalíme, ale
+byla to zajímavá jízda.
+A v čem jste to měli napsaný?
+V podstatě bylo to napsané jako v TypeScriptu,
+jo, v TypeScriptu, v Lambdách,
+celá tak CDK knihovna vlastně
+těch konstruktů, všecko
+v podstatě TypeScript bych řekl.
+A ta vlastně, jako řekněme,
+primární vaše konkurence teda byly
+jako nějaký jiný low-code platformy, nebo?
+Mně to přišlo totiž docela,
+že ti přerušu, unikátní v tom,
+že no-code platformy ti neřeknou
+na čem běží, řeknou prostě spoj A do B,
+tady máš nějaký transformer,
+aby to bylo prostě spojitelný, tady ti to vyblé
+do Excelu, hotovo, 20.
+Ta Filipová služba
+od začátku říká, my jsme napřímo
+pro AVS, my jsme přímo prostě
+pro Lambdy, hrozně tam ten jako
+stack z toho je vidět na první dobro,
+je to tam prostě hned první claim,
+a přišlo mi to svůj způsob hrozně sympatický
+a hrozně jako vás to odlišovalo
+od dalších
+Mate.com a Bamblion, jiný, konec konců
+minule jsme tady měli i Integrate,
+že jo, taky prostě integrační služby.
+To nestačilo
+na to, jakoby tyhle služby nějakým způsobem
+porazit, nebo? To je otázka, no,
+ne, otázka, jak moc velký argument je to, že to právě
+člověk má v tom Infrastructure as Code a hezky
+napojený do cloudu versus to, když přijde
+služba jako Retool,
+která řekne, hele, u nás si to můžou
+udělat jak programátoři, tak i neprogramátoři
+a vlastně takhle uděláme nějaký Enterprise
+deal, jo, a tohle
+to, jo, takže
+asi o tom to je, no, že vlastně
+ten effort, abychom fakt udělali nějaký produkt, který
+nabídne všichni ty featurey,
+by ten effort byl jako hodně velký,
+no, asi abychom
+dokázali to naplnit, no, a i takový ten
+struggle vlastně s tím třeba postavit tým vlastně,
+jo, že je to taky hodně specifický,
+člověk musí najít jak kombinaci
+lidí, co umí a znají ABS-ko
+s tím, že vlastně zároveň budou zadarmo
+dělat nějaký startup, jako kdyby, jo,
+a takhle to všechno ukočírovat,
+že jo, což už je taková ta jako
+zás founderská věc, jo,
+tak taky to jako nebylo jednoduchý,
+jak jsem si řekl, ale zkusím se podívat
+po něčem novým, po třech letech, jo, vlastně jsem to v podstatě
+řešil tak nějak do kola, jako tři roky asi,
+různě člověk jako vyvíjel a pak,
+když viděl celkově ten slowdown ekonomický
+a ty VC markety jsou dneska v podstatě
+na hodnotách, kdy byly před deseti lety,
+jo, a tak dál, tak
+jsem si říkal, ale pojďme se podívat
+kolem, co bude zajímavý a
+tím právě, jako myslím, je třeba vyloženě jako
+odzoomovat i mimo to IT
+vlastně a podívat se, co se děje, jo, takže třeba
+teďka se zajímám o jaké, jako defense space,
+prostě technologie v defense, jak by čli použít
+a tak, takže to už je zase
+jiný téma. A u vás teda,
+u vás teda ten koncový zákazník byl
+de facto spíš, jak se řekněme, teda vývojář,
+ne nějaká tetka s financí, je to tak?
+My když jsme se bavili s jedním investorem, tak on to popsal hezky v tom,
+že vlastně se mu líbí, že to je kombinace
+B2C a B2B, že vlastně Čech
+udělá ten marketing k tomu jako developerovi
+a ten to pak v tom biznisu, jako v té firmě,
+nějak jako protlačí třeba, jako vlastně,
+jo.
+Ale teda
+nedopadlo to na úrodnou půdu tím ve finále.
+Teď teda je to ve stavu, že už se to bude
+zavírat? V podstatě, no,
+jsme poslali jako e-mail vlastně,
+asi dvě muži maturům, co tam tak jako jsme měli
+a že teda jako,
+že to budeme jako zavírat, no.
+A pro zavírání startupu,
+já mám pochopit. Já vidím, jak ty se
+nadechuješ, že přehodíš trošku
+z nekonečného hrníčku
+tyho filmu.
+To by byl podcast dlouhý jak Titanic,
+kdybych já měl povídat, jak jsem zavíral startupy,
+takže to nemá cenu.
+Já mi to přijde škoda, to přijde škoda, jakože já jsem na to koukal
+a přišla mi ta služba vlastně hrozně sympatická,
+možná tím, že já na to koukám
+furt z toho hodně jako technického pohledu,
+ale mně to přišlo i přívětivý.
+Jak dlouho vlastně trvalo to dostat
+do nějaký fázy, že jsi udělal webovku
+a řekl, tak teď to začnu nabízet
+těm dvou zákazníkům?
+Tak v podstatě tam bylo několik vln,
+kdy člověk se snažil právě poskladat ten tým
+z různých lidí
+a pak to třeba nevyšlo,
+tak zase znova nějak.
+Ale ta poslední verze, co se tam je,
+tak to trvalo třeba nejpůl roku
+víkendů a po práci to dávat dohromady
+v podstatě v jednom člověku.
+Takže takhle.
+A to bych chtěl teda ještě odpovědět
+nebo na tu poznámku.
+Nic není škoda.
+Protože naučíš se u toho mraky věcí,
+který použiješ kdekoliv jinde.
+Ty mi čteš myšlenky.
+Já jsem svoje zkušenosti
+z prvního startupu použil u druhýho.
+Ten taky sfailoval. Pak u třetího sfailoval.
+A pak se to postupně posunulo někam,
+kde už to přestalo failovat.
+No ale ty mi opravdu čteš myšlenky.
+Já jsem se chtěl zeptat Filipa, v čemu mu to pomohlo
+v tom jeho stávajícím jobu.
+Protože prostě i o víkendu
+buď můžeš čumit na Netflix
+anebo uděláš startup, který jako sfailuje,
+ale něco se naučíš.
+Tak tam člověk se hodně naučil to, že vlastně
+asi mění trošku ta éra. Dneska jsem četl ve Forbesu
+stejný článek, že vlastně končí
+taková ta sasová éra.
+Ano, to jsem si dal dneska do poketu.
+Vojta Roček vlastně to sdílel.
+Vojta Roček,
+investor z Kresta.
+A vlastně to o tom, že už zkrátka
+tak nějak, abych to formuloval asi tak,
+že co už šlo vymyslet, dát na internet,
+tak už tam tak nějak je.
+Vždycky je tam už deset firm, co je konkurence
+a takový ten jako product
+let growth, že už to
+prostě jako nefunguje, že člověk udělá něco líp než někdo jiný.
+A už se z toho začíná stávat
+takový ten jako klasický biznis, jak je cokoliv
+jinýho, takže je to jako money talk
+a takový ten
+klasický sales a už to
+není taková raketa, co to byla.
+Přece jenom promyslová revoluce taky netrvala
+většině.
+A co teda tuší, že bude další
+next big thing, třeba řekněme v ohledu
+tam, kde seš
+a to, co děláš třeba ohledně toho serverless,
+je to nějaký lepší pricing, lepší dostupnost,
+větší, nevím,
+dopad na každodenní uživatele
+nebo že třeba už ti ho napíše AI
+celý ten čen těch funkcí?
+Tak jako co se týká serverlessu, tak
+tam je to asi jenom o tom, že si ty služby
+budou jako nějak vylepšovat, ale už nemoc.
+O tom, že ty lidi se budou líp
+vzdělávat v tom, aby na to připravení vlastně
+nějak to používali, protože my jsme si většinu lidí museli jako vychovat.
+A tak, no vlastně otázka, jaký tam bude
+nějaký takhle růst, jo, vlastně lidi budou
+dělat software pomocí AI třeba,
+že jim pomůže, že jo, AI už
+dneska je involvnutá v těch operations,
+na straně třeba toho cloud providera,
+takže sám právě
+úplně netuším, co by tady mohlo
+se nějak radikálně zlepšit,
+nebo bude to spíš jako ten business talk, no asi.
+A má Amazon nějakou vizi, třeba
+sdíle něco takového, že kam by jsme
+chtěli dostat celý tenhle serverless
+vnímání světa
+do pěti, do deseti let, něco takového,
+nebo spíš fakt reagují jenom na operativu
+s lepšením služeb?
+Nejsem si úplně jistý, jo, vlastně mi už poslední
+rok, dva se bavím o tom, že tam úplně není vidět
+nějaký ten jako novej vývoj, tak jak jednu dobu
+to bylo úplně to chrli pořád, to člověk
+právě na těch meetupích měl co prezentovat,
+co je novýho, jo, ale teďka
+už je to spíš o nějaké té konzolidaci,
+už řeši, hele, máme 200% služeb,
+pojďme si říct, co z toho
+má smysl, nemá smysl,
+jo, zruší ty věci,
+což teda lidi trochu děsí, jako, jo,
+takový ten, jako, že dřív se řešilo, že Amazon
+nikdy nic nezruší, proto je lepší než Google,
+teďka už to se dostává zpátky sežrat,
+jo, vlastně, a tak,
+takže uvidíme, no,
+jak se to bude vyvíjet, no.
+Přece jenom, když se člověk na to podívá, že jo,
+co bylo před 20 lety, jo, prostě, nebo
+30, jako taková ta éra toho Oracleu a tak,
+dneska se na to děláme, jak je to Legacy, vlastně, že jo,
+hold ten cyklus
+technologií jako neuprostnej, no, a dost pravděpodobně
+nás čeká, že jako i
+cloudový provideri půjdou tímto směrem,
+no, jako. A už tam vidíš něco,
+co už bude sun to be
+Legacy, třeba z toho, co ti je před
+těma deseti lety, nemyslím Lambda jako takovou,
+to si myslím, že je ze svý podstaty, jako funkce je
+nesmrtelná, ale něco,
+co třeba se ukázalo jako
+slepá větev v tomhletom hned od začátku,
+nebo relativně rychle.
+Jo, přemýšlím, co by takhle jako mohlo být,
+ale nejsem si úplně jistý,
+většinou je to jenom o tom, jako, že ta služba nedostala
+dostatečnou péči, řekněme,
+a investice,
+a zkrátka jsou jiný lepší alternativy,
+no, bych řekl takhle, jako například třeba na e-maily,
+no, vlastně, když se člověk může používat,
+mít nějaký, jako, templatey si designovat
+a tak dále, jako, že tam třeba dá lidem, jako,
+z marketingu, ať si do toho můžou sahat,
+tak vlastně Amazon
+na to ani nemá snad jako editor,
+že musí člověk přes API to tam nahrát, jo, a tady tyhle věci,
+takže o tom to asi je, no.
+Mně teďka napadla úplně ad hoc otázka,
+ale vždycky jsem se lidí, který denodenně pracují
+s AWSkem, chtěl zeptat, jak ty vnímáš
+tu konzeli, tu UI,
+nebo jsi už úplně zvyklý
+s tím pracovat jinak, třeba přes příkazovou řádku
+a tak?
+Tak, to je takový, jako, mým, jako, jo,
+jako, že Amazoní prostě UI
+a UX.
+Ono se řeší v podstatě asi jakákoliv cloudová konzola,
+se vždycky někomu, kdo do toho nové, jako, nelíbí, že jo.
+Jo, věc je ta, že to jsou všechno jako abstraktní
+věci, vlastně, takže i ty názvy, jako, jo,
+prostě S3, EC2, jo,
+vlastně, jako, jak to chceš pojmenovat,
+že jo, jo, jako, ono někdy to je fakt těžký,
+a takže
+je to challenge, no, vlastně, všechny ty informace
+tam obsáhnout, vlastně, i z pohledu těch designérů,
+jo, co jediný, co, tak třeba bych
+ocenil, kdyby to mohlo být nějak, jako, lokální,
+jako, že se to člověk nainstaluje na ten, na desktop,
+jako, aby,
+aby ten load time byl vlastně rychlejší,
+protože člověk ví, co chce udělat, přijde tam a teď se mu to
+načítá, teď on už by mezi tím mohl, jako, vyhledat
+něco a jít přímo tam, že jo, takže to jedině
+takový, ale ono zase je to obrovský distribuovaný
+systém, ono, jako, zase to bude asi, jako,
+skoro až nemůžný něco taky asi realizovat, no.
+Co je to číslo, že jo, vlastně, že se mu to nenačte
+rovnou, jenom, jako, a pak dá search,
+že vlastně ten search probíhá na frontendu a ono to je o tom,
+že vlastně, jo, on je takový, jako,
+Bezos API mandate, se to jmenuje, to někdy
+v roce 2002 napsal Bezos
+takový, jako, jaký letter
+do firmy, kde prostě řekl, že všichni spolu musí
+komunikovat přes APIčka, vlastně,
+který může být, jako, i na venek a vlastně
+tím je daný, že cokoliv používá Amazon za APIčka
+těch služeb, tak můžete používat i vy.
+A tím pádem to pak tak vypadá, jo, že vlastně
+list functions, jo, vlastně z nějakou
+paginací, tak oni musí používat to stejné
+a proto pak to UX, jako, takhle pokulhává, no.
+Hele, a co
+AWS a AI? Je tam nějaká
+zajímavá nativní služba, která by
+stála za zmínku? Za hřích.
+Za hřích. Tak, samozřejmě
+AI, jako, že jo, Amazon
+a AI, to už tady bylo odprávná,
+že jo, jako jejich různý, jo, předpovídání
+nabízení itemů v košících a tak dál,
+že jo. Jo, jo, jo. Jo, takže,
+ale pokud se teda budeme bavit, jako,
+o LLMs, jo, tak Amazon
+má službu Bedrock, která
+je vlastně, se snaží být, jako, takový
+sjednocující APIčko nad různýma AI
+providerama, protože se vlastně řeší, že
+AI v podstatě bude taková komodita,
+jo, tak, jak jsou čipy, jo,
+je to nějaká, jako, komodita vlastně.
+A pomocí té služby
+to člověk může, jako, používat, interagovat s tím,
+mít, jako, ten pricing na jednom místě,
+jo, billing, což pro teď zase pro ty větší firmy může být
+zajímavý. A mají nějaký svoje
+modely, ale vlastně jí nakoupili
+Anthropic, se myslím, no, je ta firma, oni dělají ten
+cloud model a jsou fakt, jako,
+dobře na tom. Celkem jim to
+jde, takže, takže uvidíme, no,
+jak to bude dál.
+Takže se budu moct vybrat, jaký model
+chci používat s nějakým, jako, jako konfigurací
+a pro mě už to bude na úrovni
+AVSka nějaký, pro nějaká prostě abstrakce,
+je to tak? Je to tak, je to tak, že už člověk používá jich,
+ono, to je o tom, že už člověk používá jich SDK,
+Permission System a tak dále, no,
+vlastně to všechno, jako, pomáhá, no.
+Nějaký centrální souhlasení s těm
+Evlou, s těmi podmínkama, jo, tady ty všechny
+líbější věci, co člověk musí pak třeba řešit, no.
+Já jsem teďka zkoušel GitHub
+Models, myslím, že se to jmenuje, dostal jsem tam
+v betě přístup a vlastně ty si můžeš
+jako zkoušet různý prompty, nebo jeden
+prompt a předsvakáváš si různý
+modely, takže tam máš prostě
+s OpenAI, tam máš
+prostě všechny, všechny, který tam jsou,
+můžeš si předpnout na cloud, můžeš si předpnout na
+na LAMu
+a tyhle ty věci a je to, je to, je to jako
+velmi zajímavé, že pak si uvědomíš,
+že už zase je, vzniká
+nějaká jako abstrakce nad tím,
+že ty pracuješ s těma modelama a opravdu
+pro tebe bude zase jakoby tím stylem
+jenom vstup je, nějaká konfigurace,
+tam můžeš nastavit prostě kolik
+tokenů si má pamatovat a tak dále,
+ale pro tebe vstup už je jenom ten prompt
+a výstup je de facto zpátky
+nějakej JSON, který obsahuje tu
+ten výsledek, který z toho chceš
+buď cestu k nějakýmu prostě
+vygenerovým obrázku nebo nějakej textovej výstup,
+ale je to velmi zajímavý, že jakmile
+to jednou takhle zkusíš, tak si to v té hlavě
+přepneš a říkáš, no vlastně ti ty jako to není,
+že to musím být tady prostě na tomhle
+či GPT prostě jako 4.0,
+ale můžu být prostě na čemkoliv jiným
+a pro moji aplikaci je to úplně jedno.
+Jo, jo, jo, jo.
+No bude to tvrdý biznis si myslím, no, jako za chvilku,
+že vlastně to fakt bude komoditní a budou se předhánět
+v těch cenách a tak, takže
+uvidíme, no. Tak jediný, kdo bude se smát
+je Nvidia, že jo.
+Přesně tak, to je v pohodě.
+Když je zlatá horečka, prodávej
+krompáče, že jo.
+Ano.
+Tak jo, mě napadá ještě
+samozřejmě jako
+spousta otázek, protože ty si říkal, že
+vlastně jste si lidi museli naučit
+na to, aby v tom, v té vaší firmě
+se dostali do toho přemýšlení, třeba
+obecně hiring do takových
+jako serverless věcí a to
+bootování těch lidí, kterých si nahyruješ.
+Jak moc je to složitý? Co jste
+museli třeba odnaučovat?
+Tak ono, dneska už se taky
+najdou lidi, co už mají nějaké zkušenosti s Lambda
+nebo s AWSkem a tak, ale
+furt je to o tom, že člověk musí
+ukázat ten textek, ale ve výsledku to není
+zase takový problém, jako během pár
+týdnů, měsíců, že se do toho
+zajedou a už si zvyknou. Už je to jenom o tom,
+jak to deploynout,
+jak to navrhovat přes
+CodeReviews, že se postupně do toho dostanou.
+Takže zase, že by to byl úplně
+problém, to asi ne.
+Když ten člověk zkrátka má
+nějakou tu jiskru, že mu to přemýšlí,
+tak i tady se to naučí v pohodě,
+abych řekl. A je nějaký textek,
+když pominu, řekněme třeba
+zkušenost z jiných cloudů,
+s tím serverless přemýšlením, když na to mrkneš
+a řekneš, jo, tak ten asi by se nám hodil,
+je to třeba, nevím, funkcionální
+programování, když někdo jede, tak má
+k tomu blíž, nebo máte takový nějaký
+shortcut, jak ho identifikovat?
+U nás je to primárně o tom, aby ten člověk znal
+javascriptový ekosystém,
+jo, typescript vlastně v tom primárně děláme,
+v tom i ten serverless, on nějakou výsledku
+v tom hodně jede, jako.
+Takže to je asi jako pro nás to
+primární, měli jsme takhle i třeba jednoho
+kolegu, to byl jako američan vlastně,
+který byl Pythonista
+původně, a vlastně, jak má ten člověk
+jako je seniorní developer, nebo i vlastně
+kolegu, co je se mnou v týmu, tak vlastně
+jako co-developer, ale ti lidi se
+rychle jako dokážou na to jako přesunout, jo,
+vlastně zvlášť, když jako je to o ta architektuře, no,
+že už to kód se naučí, že jo.
+Jasně. No tak jo, Filipe,
+snad otázka, která
+tady vždycky musí padnout, a vždycky
+si ji bere Petr Polák, takže já mu ji tady
+ke kčubí,
+je tvoje. Já úplně se
+přechvapil samozřejmě, no tak první samozřejmě
+dotaz, tady jsou dokonce dva v tvým případě,
+jako AV s Hero, samozřejmě se to
+musí rozdělit, tak první je, co pláneš do budoucna,
+jestli chceš být herou na druhou, nebo
+jaká je vlastně jako další, jaký je další
+step, kam plánuješ
+kráčet? Tak
+mě do toho dál jako
+podporovat tu komunitu tady vlastně,
+rozvíjet ten ekosystém,
+a
+jinak vlastně, jak jsem říkal, no, že
+tak jako začínám zabývat, jako
+co by mohlo, jak by mohli
+ITáci přispět
+k nějakému jako defense tech
+movementu, jestli něco takový
+vůbec půjde udělat, tak jak to je
+v Americe.
+– Jasný, jasný, no a když mluvíš
+o té komunitě, tak samozřejmě druhá otázka se nabízí
+sama, můžou tě posluchači někde
+vidět, slyšet, teďka v budoucnu?
+– Plánujeme meetup, dokonce
+příště by mohl být v Praze, někdy v lednu,
+takže sledujte,
+sledujte náš meetup.com
+nebo Eventbrite,
+a možná se uvidíme tady,
+a nebo budu na Clouday
+vlastně, teďka bude, nevím, jestli to stihne výjít,
+někdy 23. října,
+možná kecám, nejsem si jistý,
+tak tam. – Tak to si myslím,
+že nestihne výjít. – Tak už nevadí,
+máme potom, bylo to fajn. – Bylo to skvělý.
+– Bylo to super. – Tohle je až ovlíbený děvok.
+– Taky jsme si to užili.
+A takhle,
+nebo když bude někdo na rejnventu v Americe,
+tak mě zkuste napsat,
+tam můžeme se potkat. – Super,
+super, tak jo, hele Filipem,
+my ti strašně moc děkujeme, že jsi dorazil
+až z Brna, já teda doufám, že jsi nejel jenom
+kvůli nám, ale jestli jo,
+tak o to víc toho ceníme.
+Přejeme ti, ať se ti daří, ať
+v defense ti to jde, aspoň spůlky
+tak dobře jako v serverless na AVS-ku.
+No a zase někdy, moc díky.
+– Díky moc za pozvání. – Ať se daří.
+– Čau. – Taky, čau, čau.
+Tak to byl
+AVS Serverless Hero Filip Pírek,
+který mimochodem, zatímco
+Petr Polák úspěšně si šel
+odskočit, jako vždycky, to je takový jeho
+zlozvyk. To dělá několikrát
+hraně, mimochodem.
+Tak Filip
+se tady přiznal, že přijel
+z Brna jenom kvůli nám dneska.
+Já jsem doufal, že má jakou jinou agendu,
+ale nemá. – Tak to je hero.
+– Tak to je hero. Filipe, my ti moc
+děkujeme, my víme, že nás posloucháš,
+protože mimochodem i přiznal, to jak si byl
+čurat po druhý, že
+jsme jeho nejoblíbenější podcast,
+že jako to má rád, poslouchá
+nás pravidelně. – Skvělý, skvělý.
+– Takže opravdu jako stálo mu to
+prý za to přijet až z Brna a já si myslím,
+že to bylo skvělý. Užili jsme si to,
+byl to super deep dive, nejen do
+AVS, ale probrali jsme si
+i specifika serverlessu, což je
+věc, kterou je potřeba říkat, protože já jsem velkej
+nadšenec, ale zároveň, jakým
+dobrým zvykem, umím se spálit na čemkoliv
+a i na serverless. Jsem se jako několikrát
+velmi citlivě spálil
+a tohle všechno tady Filip nějakým
+způsobem popsal, takže bylo to
+skvělý, užil jsem si to. – Hele super,
+já ještě mám rád ty presentation skills,
+tak mám pocit, že Filip to
+určitě nedělal poprvý a umí
+tu odpověď nastrukturovat tak,
+že je dlouhá tak
+akorát, aby to prostě nebylo
+rozplyzlý a zároveň, aby měl co říct, což
+teda rozhodně měl. – A má super hlas
+ještě takový ten silnej. – A má super hlas.
+– A když už jsme teda u super hlasů,
+tak samozřejmě, jako super
+chlapských hlasů, tak zdravíme holky do Vivia.
+– Zdravíme holky do Vivia.
+Dobře, Románku, dobře. – Dobře, víš,
+je to dneska druhej nejlepší oslý můstek,
+který jsem použil. – Přátelé, my jsme
+tomu se nahráli po druhý, ale kdybyste
+slyšeli to poprvý, ježiš, to bylo
+dobrý. – To dáme zase do nějakého bloopers.
+– Jo, souhlasím. – Tento oslý můstek, protože
+to samozřejmě bylo úplně naprosto nepublikovatelný.
+Nicméně, děvčata
+s krásným mužským hláskem,
+díky moc za podporu, díky za vaše
+pay-per-click kampaně, tím toto říkám
+naposledy, to už mě to slovo nebaví.
+Každopádně mrkněte na
+vivio.cz a tam se dozvíte,
+proč jsme společně partnery.
+– Vlastně mě napadlo, ty můžeš
+říkat prostě PPC, protože to je
+takový zajetej, takový zajetej.
+A ty lidi už jsou zvyklí, ne?
+– Ale ty zkratky v IT, to řekneš
+CAM a teď nevíš, to je
+Key Account Manager, nebo
+víš, to je prostě takový, já to vidím
+den o denně. – Tak dobře, tak já příště řeknu
+pay-per-click. – Pay-per-click, no jasně,
+vidíš, paráda. No tak jo,
+máš ještě něco na srdci? – Ne, já jsem úplně spokojený
+z dneška. – Jo? Všechno v pohodě?
+Dobrý, tak jo, tak ty se běž po třetí
+výčůrat a uslyšíme se za čtrnáct dní.
+– Letím, mějte se krásně. – Čau.

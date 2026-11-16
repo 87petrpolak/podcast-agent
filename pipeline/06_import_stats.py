@@ -33,34 +33,37 @@ def extract_episode_code(title: str) -> str:
 
 def load_spotify_episodes(path: Path) -> dict[str, dict]:
     episodes = {}
-    with open(path, encoding="utf-8") as f:
+    with open(path, encoding="utf-8-sig") as f:
         for row in csv.DictReader(f):
-            title = row["name"].strip()
+            title = row["Episode name"].strip()
             episodes[title] = {
                 "title": title,
                 "episode_code": extract_episode_code(title),
-                "release_date": parse_date(row["releaseDate"]),
-                "spotify_plays": int(row["plays"]),
-                "spotify_streams": int(row["streams"]),
-                "spotify_audience": int(row["audience_size"]),
+                "release_date": parse_date(row["Publish date"]),
+                "spotify_plays": int(row["Plays & downloads"]),
             }
     return episodes
 
 
 def load_apple_episodes(path: Path) -> dict[str, dict]:
     episodes = {}
-    with open(path, encoding="utf-8") as f:
+    with open(path, encoding="utf-8-sig") as f:
         for row in csv.DictReader(f):
             title = row["Episode Title"].strip()
+            plays_str = row.get("Plays", "").strip()
+            listeners_str = row.get("Unique Listeners", "").strip()
+            engaged_str = row.get("Unique Engaged Listeners", "").strip()
+            avg_str = row.get("Average Consumption", "").strip()
+            dur_str = row.get("Duration", "").strip()
             episodes[title] = {
                 "title": title,
                 "episode_code": extract_episode_code(title),
                 "release_date": parse_date(row["Release Date"]),
-                "apple_plays": int(row["Plays"]),
-                "apple_listeners": int(row["Unique Listeners"]) if row["Unique Listeners"] != "-" else 0,
-                "apple_engaged_listeners": int(row["Unique Engaged Listeners"]) if row["Unique Engaged Listeners"] not in ["-", ""] else 0,
-                "apple_avg_consumption": round(float(row["Average Consumption"]), 3) if row["Average Consumption"] not in ["-", ""] else None,
-                "apple_duration_seconds": int(row["Duration"]) if row["Duration"].isdigit() else 0,
+                "apple_plays": int(plays_str) if plays_str not in ["-", "", "NaN"] else 0,
+                "apple_listeners": int(listeners_str) if listeners_str not in ["-", "", "NaN"] else 0,
+                "apple_engaged_listeners": int(engaged_str) if engaged_str not in ["-", "", "NaN"] else 0,
+                "apple_avg_consumption": round(float(avg_str), 3) if avg_str not in ["-", "", "NaN"] else None,
+                "apple_duration_seconds": int(float(dur_str)) if dur_str not in ["-", "", "NaN"] else 0,
             }
     return episodes
 
@@ -80,16 +83,15 @@ def merge_episodes(spotify: dict, apple: dict) -> list[dict]:
             "release_date": sp.get("release_date") or ap.get("release_date", ""),
             # Spotify
             "spotify_plays": sp.get("spotify_plays", 0),
-            "spotify_streams": sp.get("spotify_streams", 0),
-            "spotify_audience": sp.get("spotify_audience", 0),
             # Apple
             "apple_plays": ap.get("apple_plays", 0),
             "apple_listeners": ap.get("apple_listeners", 0),
             "apple_engaged_listeners": ap.get("apple_engaged_listeners", 0),
             "apple_avg_consumption": ap.get("apple_avg_consumption"),
+            "apple_duration_seconds": ap.get("apple_duration_seconds", 0),
             # Combined
             "total_plays": sp.get("spotify_plays", 0) + ap.get("apple_plays", 0),
-            "total_audience": sp.get("spotify_audience", 0) + ap.get("apple_listeners", 0),
+            "total_audience": ap.get("apple_listeners", 0),
         }
         merged.append(episode)
 
@@ -98,42 +100,49 @@ def merge_episodes(spotify: dict, apple: dict) -> list[dict]:
     return merged
 
 
-def load_daily_series(path: Path, value_col: str) -> list[dict]:
-    """Load daily time series data."""
+def load_spotify_performance_daily(path: Path) -> list[dict]:
+    """Load daily Spotify performance data (Plays & downloads + Audience)."""
     series = []
-    with open(path, encoding="utf-8") as f:
+    with open(path, encoding="utf-8-sig") as f:
         for row in csv.DictReader(f):
-            date_str = list(row.keys())[0]
+            plays_str = row.get("Plays & downloads", "").strip()
+            audience_str = row.get("Audience", "").strip()
             series.append({
-                "date": parse_date(row[date_str]),
-                "value": int(row[value_col]),
+                "date": parse_date(row["Date"]),
+                "plays": int(plays_str) if plays_str else 0,
+                "audience": int(audience_str) if audience_str else 0,
             })
     series.sort(key=lambda x: x["date"])
     return series
 
 
-def load_apple_episode_trends(path: Path) -> list[dict]:
-    """Load monthly Apple Podcasts trends per episode."""
-    trends = []
-    with open(path, encoding="utf-8") as f:
+def load_spotify_engagement_daily(path: Path) -> list[dict]:
+    """Load daily Spotify engagement data (consumption time, followers)."""
+    series = []
+    with open(path, encoding="utf-8-sig") as f:
         for row in csv.DictReader(f):
-            date_raw = row["Date"].strip()  # format: YYYYMM
-            if len(date_raw) == 8:
-                date_str = f"{date_raw[:4]}-{date_raw[4:6]}-01"
-            elif len(date_raw) == 6:
-                date_str = f"{date_raw[:4]}-{date_raw[4:6]}-01"
-            else:
-                date_str = date_raw
-            trends.append({
-                "episode_title": row["Episode Title"].strip(),
-                "episode_code": extract_episode_code(row["Episode Title"]),
-                "date": date_str,
-                "plays": int(row["Plays"]) if row["Plays"] else 0,
-                "unique_listeners": int(row["Unique Listeners"]) if row["Unique Listeners"] else 0,
-                "total_time_listened": int(row["Total Time Listened"]) if row["Total Time Listened"] else 0,
+            consumption_str = row.get("Consumption time (hours)", "").strip()
+            followers_str = row.get("Followers", "").strip()
+            series.append({
+                "date": parse_date(row["Date"]),
+                "consumption_hours": round(float(consumption_str), 2) if consumption_str else 0,
+                "followers": int(followers_str) if followers_str else 0,
             })
-    trends.sort(key=lambda x: (x["episode_code"], x["date"]))
-    return trends
+    series.sort(key=lambda x: x["date"])
+    return series
+
+
+def load_apps(path: Path) -> list[dict]:
+    """Load app distribution data."""
+    apps = []
+    with open(path, encoding="utf-8-sig") as f:
+        for row in csv.DictReader(f):
+            apps.append({
+                "app": row["App"].strip(),
+                "percentage": round(float(row["Percentage"]), 2),
+            })
+    apps.sort(key=lambda x: x["percentage"], reverse=True)
+    return apps
 
 
 def load_geo(path: Path) -> list[dict]:
@@ -149,7 +158,7 @@ def load_geo(path: Path) -> list[dict]:
     return geo
 
 
-def compute_summary(episodes: list[dict], streams_daily: list[dict]) -> dict:
+def compute_summary(episodes: list[dict], daily: list[dict]) -> dict:
     main = [e for e in episodes if e["episode_code"]]  # exclude bonus/teasers
 
     total_spotify = sum(e["spotify_plays"] for e in main)
@@ -171,10 +180,10 @@ def compute_summary(episodes: list[dict], streams_daily: list[dict]) -> dict:
         seasons[season]["spotify_plays"] += ep["spotify_plays"]
         seasons[season]["apple_plays"] += ep["apple_plays"]
 
-    # Growth: compare first half vs second half of streams
-    mid = len(streams_daily) // 2
-    first_half_avg = sum(d["value"] for d in streams_daily[:mid]) / max(mid, 1)
-    second_half_avg = sum(d["value"] for d in streams_daily[mid:]) / max(len(streams_daily) - mid, 1)
+    # Growth: compare first half vs second half of daily plays
+    mid = len(daily) // 2
+    first_half_avg = sum(d["plays"] for d in daily[:mid]) / max(mid, 1)
+    second_half_avg = sum(d["plays"] for d in daily[mid:]) / max(len(daily) - mid, 1)
     growth_pct = round((second_half_avg - first_half_avg) / max(first_half_avg, 1) * 100, 1)
 
     return {
@@ -204,28 +213,32 @@ def main() -> None:
     apple_eps = load_apple_episodes(stats_dir / "apple_episodes.csv")
     print(f"   ✅ {len(apple_eps)} epizod z Apple")
 
-    print("📈 Načítám denní časové řady...")
-    streams_daily = load_daily_series(stats_dir / "spotify_streams_daily.csv", "Streams")
-    audience_daily = load_daily_series(stats_dir / "spotify_audience_daily.csv", "Audience size")
-    print(f"   ✅ {len(streams_daily)} dní dat")
+    print("📈 Načítám denní výkon (Spotify Performance)...")
+    daily = load_spotify_performance_daily(stats_dir / "spotify_streams_daily.csv")
+    print(f"   ✅ {len(daily)} dní dat")
 
-    print("📅 Načítám Apple měsíční trendy...")
-    apple_trends = load_apple_episode_trends(stats_dir / "apple_episode_trends.csv")
-    print(f"   ✅ {len(apple_trends)} měsíčních záznamů")
+    print("💬 Načítám denní engagement...")
+    engagement_daily = load_spotify_engagement_daily(stats_dir / "spotify_engagement_daily.csv")
+    print(f"   ✅ {len(engagement_daily)} dní engagement dat")
+
+    print("📱 Načítám distribuci aplikací...")
+    apps = load_apps(stats_dir / "spotify_apps.csv")
+    print(f"   ✅ {len(apps)} aplikací")
 
     print("🌍 Načítám geografii...")
     geo = load_geo(stats_dir / "spotify_geo.csv")
+    print(f"   ✅ {len(geo)} zemí")
 
     print("\n🔀 Slučuji data...")
     episodes = merge_episodes(spotify_eps, apple_eps)
-    summary = compute_summary(episodes, streams_daily)
+    summary = compute_summary(episodes, daily)
 
     output = {
         "summary": summary,
         "episodes": episodes,
-        "spotify_streams_daily": streams_daily,
-        "spotify_audience_daily": audience_daily,
-        "apple_episode_trends": apple_trends,
+        "spotify_daily": daily,
+        "spotify_engagement_daily": engagement_daily,
+        "apps": apps,
         "geo": geo,
     }
 

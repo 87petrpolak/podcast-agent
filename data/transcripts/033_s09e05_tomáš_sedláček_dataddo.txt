@@ -1,0 +1,508 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Krásný den, milí pozluchači, vítejte u dalšího dílu vašeho nejoblíbenějšího IT podcastu Pod vocasem.
+Jako vždy naproti mě sedí připravený usmějový Petr Polipolák.
+A naproti mě přátel Roman Žukr-Provazník.
+Dneska tak jako mi přijde, že sedíš trošku vejš?
+Jsou to nějaké narážky na poslední kariérní změny, klukam.
+Je to tak, ano. My, co čteme LinkedIn, už samozřejmě víme, že Románek se nám zase posunul.
+To je jako obrovská, obrovská gratulace.
+Děkuju, děkuju. Tak znáš mě. Pro mě to znamená, že teď budu mít ještě nafouklejší hlavu,
+abych to těm lidem kolem sebe nějak zásadně nepodělal.
+Jinak pro ty, co nečetli, tak samozřejmě nová pozice se jmenuje Head of Engineering, říkám to dobře?
+Product Engineering.
+Product Engineering, promiň.
+Tak což znamená prostě, že jako prostě Románek, tak jak ho znáte nebo neznáte, ale jenom slyšíte, prostě roste tak, jak bych očekával,
+ale je to jako velká věc, tak gratuluju, gratuluju.
+Děkuju, děkuju. Já jsem tady to vůbec nechtěl.
+Ale já jsem to chtěl, ale já jsem chtěl.
+Ková trošku zase čuchačka, ale dobře, dobře, dobře. Děkuju, děkuju, děkuju.
+Neděje se nám to každý týden.
+To je pravda, to je pravda, že zase jako tohle úplně se neděje každý týden, to je fajn a já bych byl rád, kdyby právě některé věci chvilku zůstaly stabilní a to je i jedna z mých teďka rolí a mě osobního cíle trošičku ty věci jako zastabilizovat.
+Jasný, jasný. No budeme ti přát hodně štěstí, každopádně.
+No budu to potřebovat, děkuju.
+Děkuju, děkuju.
+No a co jinak, jak se máš?
+No jinak se mám samozřejmě dobře, vyhlížím už léto.
+To zjistil jsem podle toho, co píšou v různých novinách, tím jak neustále popisují, kolik stojí letos cesta do Chorvatska, že skutečně začalo léto, byť to venku nevypadá, protože se střídají bůzky, deště.
+To je pravda.
+Tak těším se, těším se. Kam ty, víš kam vyrazíte letos?
+Hele, my jsme letos se rozhodli pro obytný vůz. Asi tři roky o tom kecáme, takhle to jsme to fakt vzali a normálně, jako na absolutně mě nevlastní věc, rozhodli jsme se, že nebudeme píchat žádný špendlíky do mapy, ale pojedeme prostě, cesta je cíl, jo, jak říkám, nějaká ždělka.
+A řídí Jana nebo řídíš ty?
+Řídím já, řídím já. Tak takhle, moje Jančka, moje Jančka tou dobou bude někde asi jako v pátém měsíci, takže já ji hezky uložím do druhý řady a budeme pěkně jezdit prostě úplně kam nás to zavede, což jako víš, že je totálně proti mýmu prostě přezvědčení mindsetu všemu, tak jsem na to zedelej, jak mi to bude.
+No ty jsi ještě zmínil jednu věc, když se tady bavíme o nějakých životních úspěších, že Janča tou dobou bude v pátém měsíci, takže to zase já musím pogratulovat tobě.
+Nebo komukoliv, kdo to má zvědomí.
+Uvidíme.
+Uvidíme, velká gratulace a samozřejmě budu ti držet palce, ať všechno dobře dopadne, ale my se do té doby před tím oficiálním releasem, kdy máte release date?
+Hele, delivery je, čkej, 24. říjen, teďka říkáme.
+24. říjen.
+Ono se to vždycky tak nějak trošku mění, že jo, z týdne na týdne, ale takhle, jestli si dobře pamatuješ, u mě to, co říkají doktoři, samozřejmě musíš odečíst mínus měsíc, my jsme prostě rychlejší.
+Jo, jo, jo.
+Takže poprvé to bylo 8 měsíců, po 8 měsících na Peťa se narodil za 20 minut, takže já jsem to tenkrát nestihl, že jo, já jsem to byl uporodný, takže já už teďka odsepnám plánu bejty jenom doma.
+Já myslel, že budeš rovnou na sále čekat, že?
+Ideálně, ideálně, protože kdybych tohle nestihl, tak to by bylo velký mrzění.
+No tak budu ti držet palce samozřejmě, protože tohle, přátelé, tohle je ten důležitý životní úspěch, nějaký kariéry, technologie, no, jsou taky dobrý, máme je rádi, ale tohle je prostě někde jinde.
+No ale pojďme k ním, teda, nejsme tady, není to zatím ještě předporodní podcast, takový možná ještě není, to bychom možná mohli udělat.
+Takže bychom mohli střelit, no tak vidíš, pak se domluvíme.
+Teď, jak by se to jmenovalo, když IT je porovnávací, jak by se jmenovalo předporodní podcast?
+Ne, do toho nejdeme.
+Ne, ne, ne, nejdeme do toho, jdeme na našeho dnešního hosta, kterým je Tomáš Sedláček, což je CTO služby nebo platformy, která se jmenuje DataDů, nebo já ani nevím, jak se to pořádně jmenuje, to je jedna z těch, když se to čte.
+On nám určitě řekne, jak se to, on nám určitě povídá.
+Takže to je jedna z těch prvních otázek, který tady máme připravený, ale máme jich bambelion, Tomáš už stojí vedle, podle mě už má třetí kafe, jak jsme se tady rozkecali, takže jdeme pro něj.
+Jdeme pro něj.
+Ve studiu s námi sedí náš dnešní host, Tomáš Sedláček, ahoj Tomáši.
+Ahoj, ahoj Tomáši.
+Tak Tome, já jsem na začátku říkal, že ty jsi člověk, který stojí za platformou DataDů, a ještě než se na to vrhneme, prosím tě, jak se to čte, je to DataDů, DataDů, DataDdo, jak to vlastně je?
+Slyšíme všechny varianty, ta první DataDů, to je to, co používáme my.
+Ok, DataDů. Tak prosím tě, ještě než se vrhneme na tu platformu jako takovou, řekni nám, znáš to určitě, už jsi pár dílů slyšel, takovej ten úvod, jak ses vlastně vůbec dostal k nám do studia, jak ses dostal do IT, co děláš a tak dále.
+Jo, myslím si, že to je běžná cestička, aspoň to, co takové mám možnost pozorovat ve svým okolí, že během střední školy jsem začal dělat nějaký stránky.
+PH-bko?
+PH-bku, klasicky, na nějaký webhosting jsme to nahrávali, takže jako největší magie byl to ACES, tomu jsem nerozuměl vždycky, takže to bylo, když jsem potřeboval udělat něco v něm, upravit, tak to bylo jako pain.
+Revrite-y, ne, typicky.
+No, ne, přesně.
+No jo, ty starý dobrý časy.
+A takže tam bylo kopírování na FTP-ko, tak to úplně začínalo, už myslím, že jste tady změňovali v nějakým díle VZCZ, ICCZ, tady ty suprový webhostingy.
+FBI taky bylo, ne?
+Tak to už se mě to...
+FBI-CZ, něco takovýho.
+Fajn.
+No, no, no, jako bylo VZCZ, tak bylo FBI, a teď nebo KGB si mohl být, a musíš vybrat.
+Já se pamatuju, že to každý rok se migrovalo, protože tam vždycky skončil nějaký ten free plan, takže ty webovky musely na něco jiného, a my to byly webovky nějakého našeho klanu v Call of Duty a dalších jako podstatní webovky, ale jako tímhle jsem se alespoň naučil toto, to je hotemelo a nějaký jako, co je zatím.
+Nice.
+A takže pak to probublalo to, že jsem dělal nějaké jako firevní malý stránky, jako pro známý, pak pro neznámý, takhle se to nějak vyvinulo dál, dělali jsme, pamatuju si, tou dobou jsme byli, já nevím, jestli mi bylo patnáct, kamarád starší, ten už mohl fakturovat, ten měl i čo, takže ten měl živnost založenou, tak jsme měli takový velký katalog, papírový vytištěný šablon, vždycky jsme přišli za tím klientem, on se tam ukázal, to byl barevně vytištěný, to byla největší investice, jako tou dobou naše jsme vytě
+a jak ty stránky chce, aby vypadaly, protože my jsme byli jako, dejme tomu dnešního pohledu, backend programátoři, jako od nás nechtěli, aby si vydělali něco, co my vyprodukujeme jako na frontendu, takže si vybral už něco předpřipraveného, my jsme tu šablonu akorát stáli, zaplatili, dodělali tam to ph na backendu a bylo to jako hotovo, takhle jsme jeli, takže jsme vždycky šli taky s 20-kilovým šanonem, plým šablon a takhle to nějak jako fungovalo a pak jsem se vlastně přesunul na výšku, během výšky jsem dělal různě nějaký jako programát
+a taky víc se mi to bylo jako vývoj webových aplikací, furt to samý dokola, pořád nějaký ph, byl to, začal být populární Node.js, takže něco v Nodu, ale furt to byly spíš takovýhle jako backendový věci, pak během výšky jsem si říkal, že už mě to moc nebaví, protože to bylo pořád to samý dokola, takže furt ph, furt MySQL a podobný, takže jsem sedal chvilku z zaměstna v Deloitu, dělal jsem IT část finančního auditu,
+což bylo docela dobrý jako první rok, ono to teda jako šílená práce, pro mě mi to vůbec nebavilo, vyplňování hrozných Excelů, takových plachet, ale bylo fajn na tom, že jsem se podíval jako do spousty firm a jak vypadá jich IT,
+co jsem tam přejel, já jako ucho a ptal jsem se jich na to, jak mají nastavenou sítě, jak mají nastavený ty Heliosy, SAPy a další věci, tam zas teďka to je takový muslý mustek s těma Shannonama,
+protože vím, že třeba, že tam byly nějaký kontroly, jestli tam nemají mrtvý duše v těch systémech, jestli tam ty lidi, co tam mají přístup do těch systémů, jestli tam fakt ještě pracují, jestli ty mají být aktivní, jestli mají správný práva,
+a když tam byl někde SAP, tak právě přišel týpek, tak jsem říkal, potřebuji chvíli listovat tady ty uživatele, kteří mají přístup tady k tomu modulu, a on říkal, jo, to dáme dokupy,
+tak jsem tam čtyři hodiny čekal, on přinášel čtyři Shannony, čekal stránka, 1763 podle rejstříku, výpis uživatelů tady z tomu modulu, tak jsme to tam nalistovali, on tam dal těch patnáct komandů, co to tam po něm chtělo,
+vyjeli ty tři lidi, a to jsem si vzal já, tady to CSVčko, tady export, a tak jsem tak rád zkontroloval, jestli ty lidi v té firmě jsou, a kromě toho, že jsem kontroloval tady to,
+ale si mají v serveru na mě hasičáky a požární sprinklery, tak to bylo jako ono, ale jako bylo to celkem fajn, první rok, prvně jsem se podíval o spousty firm, druhý rok, tam už vlastně to byly většinou výrobní podniky,
+tam se to za rok jako fajty moc nezmění, tak to už mě celkem přestalo bavit, protože ten spreadsheet byl pořád stejně velkej, a museli se tam vyplňovat jako ty nálezy a zprávy jako nové,
+protože když se ti ten klient platí, tak nechce, jako abys to zkopíroval, co tam bylo loni, což mě to celkem přestalo bavit,
+protože input,
+byl stejný a měl být jinej output a to jako tady to, kdyby to dneska, kdyby to za mě napsal chat GPT, tak asi budiš, ale takhle mi to jako hrozně odradilo,
+protože pak jako každým dalším rokem jsem si představil, že to bude fakt to samý a tam jako, ale ten první rok byl super, tam jsem se to jako dost rozkoukal, jak to kde funguje, co je vlastně za systém,
+jaký ERPčka, co používají, bylo to poměrně zajímavý, ale byl jsem rád, že jsem se zase jako přeorientoval zase k programování zpátky a vlastně tím, ještě tady v tom období mi nějak končila výška,
+tou dobou, že jsem se z Prahy zase relokoval zpátky do Jíčina, odkud pocházím, našel jsem si práci tam jako v jednom e-shopu, kde jsme vyvíjeli e-shop na míru, no a tím se už ustám poměrně blízko do současnosti, tedy já nevím, třeba pět let zpátky, možná trošku víc, ale dělali jsme ten e-shop.
+Pak jsme se sebrali, tam asi pět lidí, co ten e-shop dělalo, přesunuli jsme se do jedné firmy, kde už jsme se dotkli jako nějakých datových přenosů, tam jsme dělali takový datový pipeline, dejme tomu jako custom.
+Začali jsme si s tím hrát víc jako, v podstatě to, co jsem dělal předtím, tak to dělám i teď. A pak ještě přes jednu odbočku, jako v poměrně zajímavém startupu tady českým, jsem se vlastně dostal do DataDů.
+Askej pěkně. Takže z Jíčina až do Karlína.
+No, tak já v Karlíně jsem jeden dne v týdnu, takže…
+Jezdím na výlety.
+A jinak jsi se normálně teda pořád v Jíčině?
+Já jsem v Jíčině, my máme jako ten, co se týče toho devteamu, nás je celkem distribuovaný, že tam máme dost lidí z východních Čech, my tam jako v Jíčině jsme tři v DataDů, pár lidí tam je z Pardubic, nebo jako od Pardubic, pár lidí je v Sorlickej hor, takže ono to…
+Většinou ty lidi, jezdíme do Prahy, abychom se šli ve středu spolu na oběd, no.
+Jinak pro ty posluchače, co nikdy třeba nebyli za konečný metra, tak opravdu Jíčin doporučuju, krásný město, kousek jsou Prachovský skály, je to tak?
+Jo, Prachovský skály, a dá se dojít i z Prachovský skály až do Jíčina na náměstí, je to hezká procházka, takže…
+Řáholec tam nikdy musí být.
+No jasně, tak…
+No ten je smyšlený.
+To je, to je teď úplně rozbilo se mi skoro.
+Ne, nebo o něm nevím.
+No, takže jsme u Datadu, to ale není v PH-bku, ne? Nebo jak…
+Datadu bylo původně v PH-bku, já když jsem, protože ten zakladatel Datadu, Petr, to je vlastně, to už nám od střední školy on chodil o pár roků nade mně, to je vlastně jeden, co chodil s tím Shannonem.
+Jo, jo.
+A on to začal psát, taky jako takový side project svůj, během svýho zaměstnání, bokem po večerech, napsal to v PH-bku, nějakým způsobem to fungovalo,
+nějaký klienty jako…
+Ano.
+Tím vzlákal, nějak to fungovalo, ale dostal se do bodu, že to potřebovalo nějak jako zrychlit, zlepšit, bylo to takovej PH-bkuskej monolit a tou dobu jsme se nějak domluvili spolu, že takový ty části, kde to jako nejvíc dřelo, že to přepíšem do ničeho, nebo že to přepíšem za prý a pak bylo do čeho, tak z toho PH-bka jsme začali odřezávat kusy a tady takový ty nosný věci, co tam teďka Datadu má, ty co dělají, tak jako fakt něco extrahou nebo někam zapisou, tak to je napsaný v koučku a to jsem tam vlastně zač
+a postupně se to pak překlopilo a jsem k němu přišel úplně.
+Ještě než vlídneme na to koučku a ubeceli ten textek, protože to mě samozřejmě velmi zajímá, tak je potřeba posluchačům říct, co vlastně Datadu dělá, co je ta vaše, řekněme, jak se teďka říká value proposition, co říkáte vašim zákazníkům, proč by si Datadu měli koupit, co jim to vyřeší?
+Jo, tak zjednodušeně řečeno je to taková jako datová trubka, jo, představ si, že na jední straně máš nějaký data, no firma má nějaký data, který potřebuje od někať vytáhnout, třeba ve Excelu, řekněme, no jako ve Excelu je jeden jako validní zdroj, nebo to jsou nějaký, ten je vždycky validní, jo, no, někdy je to XML genovalidní, ale, ale jo, jako je to nějaký, nějaký faily to můžou být, jsou nějaký webový apička, můžou to být nějaké databáze různých typů,
+nebo webůky, ze kterých ty data, jako ten zákazník chce získat a chce někam dopravit, typicky na nějaký jako většího datovýho skladu, nebo na něčeho, kde si ty data chce skonzolidovat z různých těch zdrojů a dělat nad nimi nějaký analýzy, jo, takže typicky nějaký use cases pro nás jsou, že marketingový agentury mají data o nějakých kampaních ve Facebooku, na Instagramu, v Google Analytics nějaký data, pak mají nějaký třeba HR systém, kteří tady ty data všechny nad nimi dělat nějaký analýzy, takže potřebujou je dostat na jedno místo,
+kde vybývá nějaký data lake nebo data warehouse a my jsme vlastně ta propojka mezi tím sourcem, těma zdrojima těch dat, kterýma ty data protečou, my po cestě, když tak nějak to lehce přetransformujeme, očistíme, aby tam nebyly jako nějaký bordel hodnoty a nalijeme jim to do toho, do té cílový destinace, už právě tak očištěný, aby už nemuseli čistit tam, protože kolikrát jako je dost velká položka jejich kostů toho, že ty data si tam ještě očišťujou nějakýma jako transformacema přímo v tom data warehouseu,
+tím, že my to jako už očistíme po cestě, tak kolikrát jako dokážou ušetřit nějaký nemalý náklady na tomhle, takže my vlastně tady z těch zdrojů ty data přetransformujeme na nějaké jako 2D tabulky, řádky, sloupečky, kterým jako s našimi datovými typama, takže tam já nevím, když tam ta databáze na vstupu má, nevím, int64, tak my to převedeme na nějaký jako taky int64, když tam je nějaký jiný, jiný datový typ, číselnej, celočíselnej, tak to taky převedeme do int64, aby jsme to měli unifikovaný,
+a pak byli schopní ty data zapsat zase jako do těch destinací, kam chtějí, jo, takže my jsme fakt taková jako takový průtukáč, trubka, voda se sleje, vyfiltrujem, největší bordel a někam to nalejem.
+A ty o tom mluvíš jako my, znamená to, že má to blíž k produktu nebo ke službe, přijde zákazník, řekne, hele, mám tady x datových zdrojů, jak si to skonzolidovat do warehouseu, tak vy mu řeknete, no, tak na to máme tady ten modul v tom našem produktu a udělej si to, my ti zavolej, když nebudeš vědět,
+nebo je to víc jako, že vy u toho musíte částečně participovat vždycky?
+Jako cíle takové, aby se ten zákazník udělal sám, u těch jako jednodušších služeb typu Google Analytics, kde tam už má jako takovýho průvodce, kde si vybere ty dimenze a nějaký metriky, který ho zajímají, z toho mu vznikne nějaký ten jako náš, ta dvoudodimenzionální tabulka, jaký chápeme my a on si nakliká, kam jí chce jako ty data nalejit, jo, to, kam se to naleje, to připojení, to si nastaví sám, to jako bez nás se úplně obejde.
+Mně bylo to původně mířený, ten produkt už od začátku na nějaké ty marketingový a salesový jako organizace, nebo nějaký marketingový oddělení jako větších firm, korporací, aby ty lidi si to byli schopni nastavit sami.
+Samozřejmě pak, když tam jsou nějaký speciální use cases, že tam jako streamují data z Monga do Postgresu, tak kolikrát jako třeba potřebují naši pomoc něčím, nějakým tunelováním, nebo jo, teďka už ten cvit je takový jako roztříštěnější,
+že těch možností, co se nám připojí.
+Takže se tam dá někde jako nastavit a tím pádem to pak není úplně triviální jako nakonfigurovat u nás, tam je víc, nebo jako rozšiřuje se tady ta množina těch věcí, když jako je potřeba naše pomoc.
+Na druhou stranu, když my vidíme, že tři zákazníci tady vyžadovali naši pomoc, tak se tam snažíme nějak jako zautomatizovat, aby čtvrtý už si to udělal sám.
+Jo, ale pro takový ty nejproflákejší use cases, který už tam máme x let, tak tam už je to jako úplně autonomní, že nás jako nepotřebují.
+Super, já jsem koukal, že třeba jedna z vašich casek je LiveSport, zdravíme Tondu Kutcheru, který tady taky byl, tak dokázal bys na tom třeba popsat, co jste tam dělali, jestli se to vůbec může?
+Jo, asi se může, když nevím o tom, že se nemůže, tak asi se může, ale jako třeba to je zajímavé, že my o těch datech, nebo já, protože s tím LiveSportem jako, LiveSport znovu je takový příklad, který tam měl jako specifický nějaký konfigurace, že oni třeba ty zdroje, já myslím, že to tahli z Monga,
+nějaký jako, teď si nespomenu, jak ten, jako je v Postgresu wall log, tak to je nějaký log těch eventů, co se tam v té databáze mění, nevím, jak teďka v Mongu se jmenuje, ale prostě my streamujeme, nebo chtějí přeníst tady ty změny a nahrát se někam do Postgresu, to jsou všechny ty změny, co tam mají, tak jsou nějaký třeba ty kliky v aplikaci, nějaký prokliky na webu jejich a tak dále, takže těch eventů tam je docela dost, takže tam je jako cíl toho, jak near, nearly, real time jako streamovat,
+ale oni třeba nemají vztrčenou databáz do internetu, vůbec nechtějí mít jako povolený port, takže my jsme tam měli problém se vůbec připojit, protože nebylo kam, jo, takže pro ně tady specificky se řežil nějaký jako reverzní SSH tunel, kdy oni jsou klient, my jsme u sebe měli server, oni si iniciovali to spojení, jo, takže jestli ten tunel běží, nebo ne, se řídí oni, ale jakmile ten tunel je, tak my víme, že si máme připojený nějaký port u nich, který jako oni nám otevřou a pak ten přenos může fungovat,
+takže tady to je nějaká taková jako specialitka, kterou skoro nikdo jiný nemá, samozřejmě pro tyhle enterprise klienty tady to bude častější, takže tady to právě nejdřív jsme to prokoupili tak, aby to fungovalo, teďka jsme ve fázi, kdy to budeme chtít vlastně taky zautomatizovat,
+protože tady to pro nás znamenalo tam nakonfigurovat nějakou EC2 jako pro ten SSH server a tady to nechcem dělat ručně, protože bychom to museli dělat pro každýho zákazníka, co to chce, takže teďka řešíme právě, jak tady to zautomatizovat.
+A co se týče těch dat, tak abych se vrátil k té původně otázce, tak já vlastně ani nevím, co tam je, kromě toho, že pro teď jsem jim to pomáhal, tak u většiny zákazníků já vůbec nevím, co to je za data.
+Já vím, že třeba, když se do nich podívám, že to je z Google Analytics, tak tam se dokáže představit, co to je za data. Když mají ten zdroj dat MongoDB, tak kromě toho, že vím název tabulky, aniž bych se tam ty data dumpnul, což neděláme, tak nemám šanci zjistit, co to je, pokud jim to nepomáháme nastavovat my.
+Já vím, jestli to je, teďka nemám přesný číslo, ale třeba dvě třetiny našich zákazníků si to nakonfigurovali sami a my nemáme vůbec šajnu, jestli tam díta je hmotnosti obyvatel planety, nebo jestli tam jsou velikosti mozgů myší.
+Jasně, jasně, jasně.
+Je to právě nějaký sloupeček typu Integer a nevíme vůbec, co to je.
+Jasně, jasně, jasně. No a já ještě, když jsem pak koukal dál, tak jsem si říkal ty, co je vaše konkurence, vy to tam pak máte i na webu napsaný, považujete za to třeba Fivetran, Supermetrix a tak, a mě napadla prostě Kebula, tak si říkám, vlastně jako konektory, že jo, s těmi popčemi Kebulu používáme, jak to vnímáš ty, tady tu přirovnání?
+A my se zaměřujeme spíš jenom na ten datový přenos, co vím, ta Kebula má spoustu jako věcí, co si můžeš ty transformace udělat po cestě, ať už já nevím, tam zaháknout nějakej hub, co ti přeloží text do jinýho jazyka, nebo Bůh ví co.
+Jasně.
+My jsme fakt jenom zaměření hlavně na ten přenos, být jako spolehlivý dodavatel těch dat, přelejte z jední strany na druhou a pak samotný to zpracování dat už jako si řeší nějakým jiným nástrojem.
+A bírat celý ten stack jako od pořízení dat až po analýzu jsme ta přenosová soustava.
+Jo, jasně, jasně. Kolik vás vlastně je ve firmě?
+Teďka nás je jak pětačtyřicet, plus minus toho ve vývoji dvacet.
+Jasně, jasně.
+Máme tam nějaký frontendový tým, backendový tým, co jsou golčkaři a pak něco mezi tím, co je PH-bko, co starávaj jako ten, jak byl původně ten PH-bko skvělý monolit, tak jsme si to začali uřezávat ty věci bokem, ale to PH-bko tam pořád je.
+A pravděpodobně se ho ani nezbavíme, ani není taková jako motivace moc se ho zbavit, takže tam máme tady ty tři týmy jako rozdělení.
+Vlastně dataři tam, jsou tam nějaký dataři třeba jako na tý biznisový stránce víc, aby chápali vlastně jaký jsou ty potřeby těch zákazníků?
+Máme tam jako speciální tým na to, říkáme solutions, co je vlastně v podstatě částečně tohle, částečně jako nějaký customer support taky, nebo customer care, že když tam zákazníkovi něco nefunguje, tak oni jsou technicky, mají nějaký technický background, takže jsou schopni jako pochopit, že je potřeba upřenizat tam mezi databázema, takže by to šlo, já nevím, třeba odstreamovat, znají, jaký jsou datový typy, dokážou jim jako v té aplikaci pomoct, takže jako nějaký takovýhle právě tickety, který tam od zákazníků jsou, že jim něco nejde nastavit, tak
+dojdu do toho týmu a ty tam jsou o toho, ale jako vyloženě nějaký analytiky, že by jsme ty data analyzovali my, ať už jako naše, nebo těch zákazníků, to neanalizujeme, to je jako jejich, protože my těm datům ani nevíme, jak jsem říkal, co tam je a ty naše data, no to si řešíme jako spíš jako sami, já a Petr, CEO, jako co nás zajímá, tak si na to uděláme nějaký, přes nás nějakou pipeline, kam si ty data nahrajeme a pak v tom momentu se v tom docela hrabě, že si hraje s, to je, ale teďka nevím, jestli to je Power BI,
+to je to tablo, ale někdy si tam udělal tady ty pěkný dashboardy nový na základě jako těch našich dat, který přes nás protečou do toho tabla.
+Jo, což si mi nahrál, tam ještě vlastně jedna funkcionalita, která, který jsem sám všiml, bylo nějaký jako konektor právě do těchto vizualizačních nástrojů a to znamená, jako že tam v podstatě suplete tu semantickou vrstvu, nebo jak to tam bude?
+Semantickou vrstvu úplně ne, to tam teďka plánujeme dodat, aby jsme pro ty služby, který jako víme, jaký mají apíčko, jako když se přiběhne do databáze, tak tam jako můžeme hádat maximálně podle jako názvu sloupečku, ale třeba u těch webových apíček, jako Google Analytics, který mají dokumentaci, tak jako víme, co to je za sloupečky, jemu můžeme vědět a pak jsme schopní třeba potom říct zákazníkovi, hele, abyste prošli nějakým, nevím, auditem HIPA, že nesmí být, nevím, rodní čísla a další jako senzitivní údaje př
+tak pokud tady to chceš mít, tak si tady zaškrtni HIPA kompatibil a my ty jako sloupečky vyškrtneme, aby tam nebyly, tak to je to, co si představujeme pod tou jako semantickou vrstvou, že budeme vědět, co ty za sloupečky je, co to nese za informace a pak to budeme schopní třeba jako mezi zákazníkama porovnávat, když budeme vědět, že to je na vštěvnosti tady v nějakém segmentu typu marketing, agency, že mají třeba nižší než konkurence na trhu, aby jsme byli schopní ty zákazníky a její data mezi sebou porovnávat
+ale teď jsem vlastně zapomněl, na co jsi mě říkal, protože jeden use case je, že ty data vytáhneš a nikam je zapíšeš, tady ty tablo a Power BI a další dashboardingový apky, ty vlastně ty data si o někač vyčujou, takže my tam suplujeme ten zdroj dat, takže my si ty data třeba z Google Analytics, který je teďka, abych nekecal, ti umožňují si stáhnout jenom tři měsíce dozadu
+nebo nějaký jiný apíčko
+a ty potřebuješ třeba data,
+jak ji mít až rok dozadu pro nějaké větší analýzy, takže si ten source nastavíš, každý den si ty data stahuješ, u nás to držíme v nějaké strojici nebo v nějaké strojiži u nás, tam když si to appenduješ, tak to můžeš mít právě podle toho, jak dlouho ti to běží, tak tam ty data jsou třeba roku nás uložený a to tablo si nenapojíš přímo na Google Analytics, ale napojíš si je na nás a máš ty data vlastně už jako s delší retencí, takže my tady v tom případě suplujeme jenom jako provider těch dat, který jako na pozadí stahujeme, ale jsou to data tře
+dokážeme, ale třeba tady v tom případě i jako joinout s nějakýma datama z Facebooku, takže pak to tablo nemusíš konfigurovat jako na dva zdroje, napojíš ho jenom na jeden zdroj, co jsme my a už ty data máš třeba pomerďovaný.
+A to předpokládám, že je zajímavý pro zákazníky, který třeba nemají úplně jako klasický warehouseový řešení, nebo tam by to asi lili přímo do toho?
+No, tam by to lilo tam, no a my to tam rozdělujeme, ten trh jako těch našich zákazníků asi do tří segmentů podle nějaký data maturity, co mají. Jako první jsou právě ty, co nemají vůbec datovej sklad, co právě používají tato, ono to je jako nejlevnější plán u nás, tato data to dashboard, protože to je akorát data ukládáme, držíme je, oni si je stahujou takhle těma dashboardingovýma nástrojima, má na to nějaké omezení, protože vždycky ten dataset jak časem třeba roste, nebo oni si můžou nastavit, jestli ho chtějí replaceovat nebo appendovat
+nebo občas jim to přeroste, že už ten tablo prostě už není schopný jako fetchnout si 200 megadata jako vykreslit je, takže to je vždycky jako nějaký uvaze toho zákazníka, jak to potřebuje, ale tyto jsou přesně ty, co nemají data warehouse, tak používají tato, pak máme vlastně další skupinu zákazníků, který už to nahrávají nějak jako sofistikovaně jít třeba do nějaký databáze, jo, ale nemusí to být jako nějaká jako data warehouse, může to být prostě nějaký Postgres nebo MySQL nebo někam jinom, aby ty data tam měly třeba delšího strují a mohli jich tam
+a pak jsou ty třetí, co už jsou jako vyspělejší, co už mají většinou nějaký data warehouse, mají kolem toho už nějaký lidi, se kterýma my komunikujeme, když jim to nastavujeme, který už jako se v datový mapy, jo, jako orientujou a ty už mají většinou pak nějaký Snowflake nebo Google BigQuery a mají tam na to postavení nějaký procesy, co, kam, jak a už to, jak už to má nějaký řád a jsou tady ty zákazníci, jako s těma se pracuje nejlíp, protože ty většinou už jako vědí, co chtějí a jak, to je třeba ten live sport, no.
+Tam jsem cejtil GCP někde a jsem to viděl na webovkách, to znamená, pod tím jste zaměřen na tyhle dva klaudy nebo umíte všechny ty tři velký, jak tohle z toho máte vymyšlený?
+Jako historicky to běží jenom na AVS-ku, všech celá infrastruktura, s tím, že právě tady to, když ty data někde ukládáme, tak je ukládáme do různých jako geografických lokací, ale my máme většinu zákazníků US nebo Western Europe, takže tam mají, vlastně Američani mají bucket v Americe, Australeně v Australii
+a takhle to jako ukládáme, bylo to jenom hodně dlouho a vlastně i pořád, teď to je jenom AVS only, ale stavíme to teďka i v GCP-čku pro nějaký klienty, kteří chtějí mít GCP-čku, protože už to používají, tak tam bude nějaká jako, já nevím, synergie s tím, že to bude ve stejným datacentru, nebudeme tam i z našeho pohledu platit tolik za trafik jako meziklaudovej nebo meziregionální, takže teďka vlastně to, co máme, tak stavíme i do GCP-čka,
+to operovat tam, no a nebude tam všechno, my tam jako narážíme na nějaký, nebo nechce se nám teďka řešit replikace databázy dalších věcí, takových těch úplně jako core, jako databáze našich zákazníků a tak, takže to bude takový jako multicloud v tom, že ty ruce budou různě geograficky, ale to srdce nebo to tělo bude jako v tom AVS-ku, tady v tom regionu, co máme teďka a vždycky ty ruce si zavolají, budou komunikovat mezi sebou a budou dostat jenom signály, co mají dělat.
+Jo.
+Klasika, jak jinak.
+Do AVS-ka, jo, ale takže tím, jak jsme to začali vyřezávat do těch mikroslužeb, no oni to asi nejsou jak úplně mikro, ale do těch jako separátních služeb, tak bychom jako to stavili v tom duchu, aby to bylo prostě cloud native, jo, a tím pádem jako teďka pro nás to znamená, když rozjíždíme to GCP-čko, tak jenom, no jenom jako nastavit ten klastr tak, aby jsme potřebovali nastavit tam to síťování mezi tím klastrem a těma regionama a v podstatě z pohledu té aplikace tam se nic nemění, tam akorát jako změníme env promění toho, kam se to má připo
+a na tu službu jako takovou se šát nemusí.
+To jsme začali připsat do Goučka, to jádro toho, taková ta business logika, to je pořád napsaný v PH-bku, takový ty jako krudoviny okolo, tak to je tady v PH-bku a PH-bko řekne, hele teďka potřebuji tady tu akci zkusit tady tomu zákazníkovi, předá nějaký tady ten job description nějaký Goučkový služby a to za něj udělá, jo, takže tam to PH-bko je takový orchestrátor toho, co se má dělat, Goučko je ten jako vykonavatel a Goučko z toho důvodu, protože se nám líbilo tou dobou, bylo to jako, jak už jsem zmínil,
+tak předtím v té firmě, co jsem byl, tak jsme dělali vlastně něco podobného, tam to teda bylo v Node.js, ale taky jsme koketovali, protože jsme nám naráželi zase na performance limity toho nodu a začali jsme to připisovat do Goučka a jako fungovalo to dobře a myslím, že klukům to funguje jako do teď dobře, firma pořád funguje a tak jsem si říkal, hele, tak jako než se učit zase něco jako úplně jinýho, že bychom to psali v C, nebo v C bych to stejně asi nebyl schopný napsat a Goučko bylo zvolený z toho důvodu, že jsme viděli, že to pů
+a líbilo se nám, hlavně byl jako celkem novej tou dobou ještě, byl jako dejme tomu sexy, chtěl jsem se ho naučit a jako na tyhle I.O. práce, který má jako my jsme živi, tak jako je dost vhodnej.
+A jak ho teďka teda po těch letech, když už jsi prošel tou křivkou toho, že teda je to nový teď klasika, že jo, začneš s tím spolupracovat, pak najednou zjistíš, kde jsou ty bolístky, teď už to vlastně znáš a znáš to i v produkci, pořád je to ta nejlepší volba nebo pokukuješ po něčem jiným, jak bys hodnotil zpětně to Goučko?
+No já jsem s ním spokojený stále a myslím, že i kluci, co s ním pracují teďka, tak jako nemají žádný tendence zkoušet něco jiného, takže by to chtěli připsat do rastu něco jen tak jako s plezírovou, a jak by tam už ten performance gap mezi rastem a Goučkem není takovej, jako třeba mezi PHPem a Goučkem, takže tam jako teďka nemáme vůbec ani moc motivaci tam na tom něco měnit.
+A je tam nějaká language feature, která se vám líbí, nebo je to jenom vyloženě od té performance na I.O.?
+No, ten jazyk jako takový je dost jednoduchý, tam má málo klíčových slov, je jako lehký na naučení, má tam jako konkurenci by default, a jako hlavně na tom jazyku se mi líbí, že i když je napsaný blbě ten kód, tak prostě lítá rychle.
+Jo, jo, jo.
+A pak se tam samozřejmě můžeš hrát s nějakým optimalizacema, ale jako už by default, když něco napíšeš blbě, tak to je furt jako ořád rychlejší, než jako dobře napsaný PHP.
+Takže z toho důvodu jako pro nás to byla volba jako číslo jedna, protože i ty lidi, co jsem se jako do datadu jako sebou potom přitáhl, nebo za sebou, tak vlastně měli nějaké zkušenosti z Gočka, byly lepší Gočkaři než já, takže ty jako na to plynule navázali na ten bordel, co jsem tam vyprodukoval já.
+A dá se to jo, takhle naskočit do cizí codebase, je to možná díky té jednoduchosti, ne?
+Tak už úspěšně to po mě přepsali.
+Ne, tak jako to moje fungovalo, ale pak jako samozřejmě za ty leta se to vyvinulo.
+Forč jsme tam naráželi nějaký bottlenecky, ať už, že se, já jsem to napsal, že jo, přenášeli jsme to úplně stejně jako PHP, dřív jako balkově ty data, takže jsme si natáhli do paměti, ta služba, co extrézovuje data, tak si ty data natáhla, nevím, 500 megavý soubor do paměti, což znamená, že v paměti v tom PHP to žralo 8 giga, v Gočku třeba 3, ale jako forč se nám tady mohlo stát nějaký OMK, nějaký tady ty kily, takže jako ty kluci to přepsali vlastně od podlahy a teďka to streamuje jako pořádcích a jako tady na ty problémy nenarážíme.
+A jaký je tam to hlavní paradigma za Gočkem? Píše se objektově, funkcionálně, procedurálně, nebo do jakého stylu tě trošku ten jazyk tlačí?
+Tak se začátku, když jsem přišel z PHP, jsem se to začal, no snažil psát jako objektově, což tam objekty nejsou, takže to šlo jako znovu zblbě, ale je tam něco, s čím se říká strukty, což je jako, ten jazyk jako je takový fakt jednoduše navrženej, ale zároveň jako nemusíš dělat žádný kompromisy, že by se na něco přišel, jako není tam klása, je tam strukt, který jako nemá konstruktor, což je jako, to byl jako největší pain, jako kdo tam přechází, jak vytvořit objekt, no prostě jako napíšeš strukt, rovná se a nemusíš tam jako d
+dávat, vytvářet klásy, ale zároveň i na tom struktu si můžeš navěřit jako metody, jako getry, setry a další věci, nevím, teďka začal jsem se učit Python, teďka je to dost podobný jako s Pythonem, no.
+– Jo, OK. – Ale jako nejsou tam klásy, jo, je to akorát jiný, jako i na terminologii, trošku jinak se to chová, ale v zásadě jako ty principy jsou pořád stejné, chceš tam nějaký jako dependency injection, nějaký závislosti, chceš to konfigurovat jako bokem nějakýma parametrama, aby ta aplikace byla potom jako řízená konfiguračně, jako není to nic úplně jako mindset change.
+– A jaký je kolem ekosystem, třeba co se týče nějakých balíčků, hotových knihoven?
+– Je toho spousta. – Jo, je toho hodně? – Je toho hodně. Ono jako, on to je jazyk od Google, ty tam toho mají jako hafo, třeba jako Bernatis je napsaný v Gočku, spoustu jako dalších věcí, co jsou v Cloud Native, tak jsou v Gočku, takže ono tam jako těch projektů, který na tom jsou postavený, je jako bambilion a na všechno jako seženeš, ale ono třeba takové jako precedence, nebo ne precedence, nevím, ale jako doporučení toho Gočka je nestahovat si knihovnu, pokud ji jako nepotřebuješ, je to lepší mnohdy napsat sám těch pět řádků,
+even, jo, balíčky, tak. – To jsem tě říct, že to je úplně jiný mindset. – No, ale jako PHP už tam má taky jako, jo, tam v PHP, já nevím, kolik je variant, jako loopů, tam je while, for, for each, tak v Gočku je prostě jenom jeden, jo, a musíš si to napsat, jako, v těch tři řádky. – Jo. – Ok. Jinak ty jsi mi ještě, když jsme se bavili před natáčením, tak ty jsi říkal, že celá ta vlastně platforma je postavená výhradně na open source, což tomuhle, co tady probíráme teďka, to k tomu samozřejmě svádí.
+Byla ta, byla ta volba, jako, že finančního rázu, řekněme, prostě nechceme platit za licence, nebo máte třeba u vás ve firmě ten open source, jako, u srdíčka, jak to je?
+– No, nepamatuji si, že bychom se úplně, jako, rozhodovali mezi nějakýma, jako, placevými řešeními, ať už třeba pro databáze, nebo takhle, používáme managed, jako, postgres, jo, jako databáze, nebo managovaný služby v AWSku, ale, jako, nikdy asi nebylo ve hře, že bychom to běželi na nějakém MSSQLu, nebo na Oracleu, nebo něco, protože, prostě, za prvý, jsme s tím neměli zkušenosti, nikdo, v té době, a za druhý, jako, pro ten náš use case, jsme to ani, jako, nepotřebovali, třeba, jako, někdy do té doby, do
+něco, co bude mít, jako, větší support a další věci, ale momentálně, jako, jedem tak, jak jedem a nikoho to, vlastně, ani nelimituje a je to celkem v pohodě. Takže, jako, nevylučuju to, že se to někdy stane, ale na druhou stranu, ten open source, jako, celkem máme rádi, já, teda, osobně, jako, do ničeho skoro nekontribuju, protože, jako, na to nemám, bohužel, čas, ale, jo, open source máme rádi, jako, vždycky nás zajímá nějaký novej balíček, co je někde výjde zajímavý a minimálně se na ně mrkneme a když ho můžeme použít, tak ho rádi použ
+rádi něco vždycky vyhodíte na GitHub, ne? Když se vám něco povede, protože já jsem si volal s Tomášem a Tomáš říká, no, udělali jsme tohle, tohle, ale to jsme ještě nevyhodili na GitHub. Říkám, aha, jako, že jste to ještě nevyleasovali, jako, pro ostatní, no, no, no, prostě, jako, open source.
+No, jako, není to pravidlem, že by jsme, jako, byli nějaký velký kontributoři, máme jeden balíček na, jako, implementaci front pod zgresem právě, který už teďka dva roky, jako, nám jede v produkci, funguje to, jako, dle našich očekávání, takže jsme si říkali, jako, proč to nevyhodit ven, minimálně, třeba, to někoho zajímuje, budou to používat a třeba nám tam opraví něco, že jo.
+A používají to lidi?
+No, tak ono, to tam je tři čtvrtě roku a byl jsem s tím na nějaký, jako, govčkový konferenci to, to proslavit, dejme tomu, a nějaký, jako, kontributoři se našli, jako, odezva byla dobrá, teď je, jako, na nás, aby jsme to dostali do nějakého širšího povědomí a developer basic tomu, jako, vybudovali, jako, samou od sebe to nepřijde, právě proto, jako, taháme na ty konference, aby aspoň o tom někdo věděl, protože samou od sebe se to nikdo nedozví, ale primárně to vyvíjíme pro sebe.
+Pro ten náš, jako, use case a říkali jsme si, že je škoda, protože třeba tady ten balíček bych měl já před třema rokama a věděl o tom, že to existuje, jak bych ho klidně použil.
+A takže vy jste si napsali vlastní implementaci front nad Postgresem.
+Jo, my ty třeba, ty PH-bko s tou Gočkovou službou, nebo s těma Gočkovýma službama, i ty s Gočkový služby mezi sebou musí nějak komunikovat, my jsme to přepsali vlastně s tým nějaký původní verze, synchronní do asynchronní, takže jak jsem říkal, že to PH-bko posílá nějaký joby, co má vykonat to Gočko, tak to posílá přes fronty a z povahy toho našeho biznisu, jako ty joby můžou trvat takový delší dobu, někdy prostě se přenáší data, který jsou větší, trvá to, nevím, hodinu a tady na to přená
+jako používali historické, měli jsme s tím zkušenosti, ale tím, jak jsme ho zase měli managet od AVSka, jako nemáme nikdo, kdo by jako Rebitu rozuměl natolik, aby jsme byli schopni si ho provozovat on-prem a jako konfigurovat ho, tak jsme šli do té manageverze a tady na ty use cases naše to zrovna nebylo moc stavěné, protože nám to jako ty klienti timeoutovali, ten broker nám prostě vyhodil tu aplikaci, protože si myslel, že tam neprobýval žádný health check během toho, nebo nějaký keep alive, takže nám nic abyl prostě toho klienta a je na to přesně parametr, který my jsme to mo
+konfigurovat, protože v té managed verzi jako to nejde, tam jako není dostupný k úpravě, takže zase jsme byli jako stáli před otázkou, jestli toho Rebita si jako provozovat ručně sami, nebo ne.
+Nakonec jsme zjistili, že nám to vadí i jako ve spoustě dalších věcí, právě když to jako ten konzumer chcí pnout nějakým OOMku, tak on jako neakne, nenakne tu zprávu, nic prostě tam zůstane vyset v tom Rebitu a ve mě si další konzumer,
+takže tady z toho důvodu nám třeba padali všechny konzumři dokola, vždycky ten Rebito poslal na to, co byl živej, ten spadnul, že jo, protože ten jako 10 gigovej dataset se na ten 6 gigovej pod nevyšel, nebo na ten note,
+takže nám to takhle zabíjelo infrastrukturu a mysleli jsme právě vždycky vypnout všechny konzumry, vyhodit tu zprávu z fronty, protože nějak se k ní nedostane, když už je na tu clá jako v nějakém konzumerovi, tak jako ve frontě nevidíš, aby si jich mohl vyhodit,
+takže tam byly víc takových jako otraných věcí, které nás na tom štvaly a protože jsme používali Postgres už jako pro ty relační data, co tam máme jako o zákaznících a tak dále, tak jsme se rozhodli díky tomu, že v nějaký verzi Postgresu relativně jako novější přibyla nová feature,
+která tady to umožnila naimplementovat ty konzumry tak, aby se mezi sebou netřískaly a aby to bylo jako konzistentní, tak jsme se rozhodli to přepsat do Postgresu.
+Jo, ale to mě úplně připomnělo, že jsme tady měli Honzu Novotnýho z FG Forest, jak si začali dělat,
+tu Evitu, vlastní databázi, že vlastně ty se chceš jako něčemu vyhnout, aby se jako neumíš to použít, tak si napíšeš něco vlastního a podle mě z druhé strany, vy jste museli úplně pochopit, jak to funguje úplně jako kompletné,
+jakože celý ten messaging, jak fungují Qs, jak si říkal Ekin, prostě všechny tyhle ty věci, jo, jakože neznám Rebita natolik, nebo nejsem schopen si ho tak nakonfigurovat,
+že si vlastně napíšete něco úplně znova, to přeci musíš úplně nakonfigurovat.
+Jako naučit se to, ne?
+No, tak my jsme jako s tím Rebitem x let už jako pracovali, takže jsme ho celkem znali a my jsme neměli žádný jako velký, jaký custom nároky na ně,
+jako my jsme potřebovali dostat jako zprávu z Publisheru do konsumera, žádný jako složitosti tam nebyly, ale kvůli tady nějakým našim jako specifickým vlastnostem,
+prostě to nešlo moc použít v tom setupu, ve kterém jsme to měli, tak jsme se políželi po něčem minim, jestli tam na to použijeme kafku, kterou, co jsem říkal,
+když nejsme schopni nakonfigurovat Rebita, tak jako nebudeme pravděpodobně schopni nakonfigurovat nějaká kafku.
+Jasně.
+Pak tam bylo ve křiži nějaký, že jo, PubSub od Google nebo ten AWSkové SQS, když jsme v AWSku, tím bysme si ale zavřeli dveře do toho dalšího cloudu
+a vzhledem k tomu, že už jsme ten Postgres jako používali, Postgres se nám jako líbí jako technologie, tak jsme se rozhodli, že se to napíše na tom Postgresu.
+A jako další výhoda, co jsem tam jako třeba z mého pohledu vidím, že prostě pro vývojáře pak bude daleko jednoužší,
+tam budeme potřebovat znát vlastně jenom jednu technologii toho Postgresu a jim na messaging a nepotřebuje se určitě nic o Rebitovi.
+Právě kdyby přišel nějaký novej vývojář třeba, nevím, do PHPka, tak by potřeboval vidět i to, jak funguje Rebit.
+Tady tím pádem, když jsme mu odřízli, tak jako mu stačí SQLko, který pravděpodobně už zná.
+Ale i tady jako tím, že to máme teďka přes ty naše fronty, tak jako nevylučuju, že časem narazíme do bodů,
+kdy už nám to nebude stačit a budeme muset použít nějaký jako tool, který je určený na messaging, který Postgres jako primárně není,
+to je prostě ralační databáze, ale pro nějaký takovýhle use cases až do nějakýho jako objemu, tak je to úplně v pohodě použitelný.
+A měli jste tam nějaký aha moment, jakože jo, takhle ono to je vlastně, to musíme naimplementovat, aby ta fronta dobře fungovala.
+No, měli jsme tam aha moment, že tam musí být indexy, jako.
+Jo, protože při nějakých migracích se nám prostě ztratil index a najednou se to začalo přehřívat, že jo,
+a jistě jsme to třekli CPUčko, ty auroře, jako žerez, všechno to bylo zpomalený a pak jo, tady jsme vyhodili omylem index.
+Jo, a jinak jako pro ten náš objem těch transakcí, co tam máme, nebo těch zpráv, kterých já nevím, jsou třeba tisícovky za minutu,
+tak jako to je úplně v pohodě a ta databáza to stíhá, my máme tu nejnižší jako instanci, co Amazon nabízí v produkci,
+takže jako tam náklady minimální na provoz a vždycky můžeme jako naškálovat, když potřebujeme potřebovat navíc
+a jakmile dojdem do nějakého bodu, že už nám to nebude dávat smysl, tak tohle budeme muset přepsat do něčeho jiného, no,
+ale to je jako se současným trendem tím, jak rosteme, jako jaký očekáváme jako přenosy, tak to jako na pět let jsme jako úplně v pohodě s tím pozidesem.
+Hm.
+Ono už se toho zotknul tady trošku poliv o tý multi-cloudovosti, o Azure uvažujete, nebo ten jste dali bokem zatím?
+Azure máme taky, nějakýho jako partner programu tam máme, když nějaký kredity, tak jsme se tam rozjeli, CIčko nám tam běží,
+ale jako my teďka prošlapujeme si cestičku s tím Google Cloudem, aby jsme byli schopni tu vlastně naši platformu, nebo část tý platformy rozjet i tam,
+a když to bude mít teďka rozjet i v jedné lokaci v Google, tak pak přidáme další jako pro ostatní kontinenty,
+Hm.
+tak to čeká i zhrno, jako ten nevylučujeme, že bude, na druhou stranu na něj jako extra nespicháme, oni zase, upřímně řečeno,
+jako ty zákazníci úplně nelpějí na tom, v jakém to je cloudu třeba, ale lpějí spíš na tom, v jaký to je lokaci.
+No asi.
+Jojojojo.
+Jo, ale už třeba třeba nějakým regulatorním věcem, že tam kanaděni nějaký data nesmí opustit Kanadu, jo, takže proto tam máme třeba tu lokaci Kanada v AWSku,
+protože bude tam nějaká, máme dost zákazníků v Brazílii.
+Ty jedou přes US, tak těm chceme přidat třeba ten Google Cloud do Brazílie, protože tam je hrozný, teďka jako za prvý nějaký kosty na trafik mezi těma kontinentama,
+je to pomalý, takže když budou mít jako ten, to centrum, kde se to počítá, ty data nebo kde se přinášej, to je typicky, že jo, ty servery, ze kterých oni komunikujou,
+Facebook je má třeba v Brazílii a oni mají tu Google BigQuery, kam to zapisují, tak i v Brazílii.
+Tak my teďka zbytečně jako šoupáme tam a zpátky, když budeme mít to datacentrum tam, tak to prostě bude rychlejší, levnější a i ten zákazník bude spokojenější.
+Jasně, jasně. No tak i takový firmy jako Formule 1, že to posílají ze Singapuru do Londýna, z Londýna do Singapuru zpátky, takže.
+A tak ty mají jiný rozpočet trošku.
+Ty mají jiný rozpočet.
+Tak my to děláme jako třeba z Austrálie, když máme nějaký klient v Austrálii, tak to prostě to, co trvá tady, to hlavní datacentrum máme v Jirsku, to je EU West 1 region,
+tak jako když je nějakej klient z Británii, tak ten to má prostě jako stejný objem dat za vteřinu, stejný objem dat z Austrálie prostě trvá 15, jasně.
+Takže tam pak zase to je náchylné, nějaký timeouty různě, že jo, po cestě, takže je motivace to mít co nejblíž a s tím vyřešíme spoustu problémů, který tam jako, na který narážíme.
+Hele, jak se k těmhle zákazníkům dostanete? Máte salesáky po celém světě, nebo?
+Máme salesáky po celé Praze.
+Po celém Karlíně.
+Ne, tak my jsme jako ve začátku první tři roky vlastně neměli žádný sales lidi, v podstatě všechno to byl takový inbound, že se nás našli.
+Až teďka jako poslední dobou, z důvodu většího onboardingu, jak těch enterprise klientů větších, tak jako je potřeba s nima mít, udržovat nějakej vztah.
+Ok.
+Jako mít nějaký prikoly s nima a tak dále, takže tam jako pár lidí v salesu máme, on si to jako dost, většinou toho se řídí Petr, jako CEO, ale má tam kruce pár jako jednotky lidí, co se s nima tyko lidi dělají.
+Ale ještě oni jsou tady, jako nemáme, nebo my máme teda ještě kancelář USD, jeden ze spoluzakladatelů, tak ten si řeší jako ve americký trh, ale jsou tam jako dva v podstatě, jo.
+Myslím, myslím.
+Takže těch lidí v salesu moc není.
+Takže ty zákazníci se vás najdou prostě, v podstatě vás vygooglí, nebo je to dneska na referencích, jak to funguje?
+A bych řekl pravdu, tak tady v tom vůbec jako nemám přesný čísla o tom, jako co nese, co nenese, ale historicky…
+Prostě by řekli, co se je, ty vole.
+Co se je?
+To se říká, jo, ve Spořici.
+Ve Spořici.
+Všichni to říkají.
+Ve Spořici.
+Že to se je, říkáte, že jsme zemědělská firma.
+Řekli to slovo, ve Spořici.
+Ve Spořici, dobrý.
+No, tak na rozdíl od Spořice, my jsme na tom… Takže jako já spíš ty lidi se sami najdou přes Google a tak.
+Jasný, jasný, jasný.
+Ty jsi mě trošku ještě unes zase zpátky do toho biznesu, ne?
+Já tam měl ještě jenom takovou otázku ohledně té šťávičky a ohledně těch dat. Jak se tohle testuje? Protože otestovat to, že mi něco funguje na malém objemu dat, to je easy peasy.
+Ale ty jsi říkal, že kolikrát ty transfery trvají hodiny, nebo přes hodinu.
+Ano.
+Jak tohleto testujete, abyste si byli jistí, že to škáluje, že to funguje?
+No, když to řeknu slušně, tak se to testuje dost na hovno.
+To jsem si trošku myslel, jo.
+Protože těch jako proměných, co tam vstupuje do hry, je jako spoustu, že jo. Ať už jako právě kde ten server je, jako zákazníkovi v Australii se to chová úplně jak než zákazníkovi v Německu, jo.
+Pak samozřejmě tam jsou do každý, když to neberu ty webový aplikace, když to beru ty databáze, jak tam je spoustu různých jako možností, co oni tam můžou mít nakonfigurovaný, jak ta databáze rychle stíhá, jaký tam mají jako nějaký certifikáty a další věci.
+Samozřejmě pak jako tam někdo jde, že jo, překopne jde kabel, takže to vypadne, jo. Takže tam si jako nedá se nikdy zaručit, že ten přenos prostě bude fungovat, proto tam máme nějaký retry mechanismus, když to se dožije, tak to zkusíme znovu párkrát.
+Ale jako testuje se to blbě, no, jako většinou. Samozřejmě máme testovací prostředí, máme jako kluci na lokálu, tak máme, snažíme se rozjet ty technologie, minimálně ty nejpoužívanější u našich zákazníků, aby jsme měli jako pod naší kontrolou někde, takže máme jaký, i když to nepoužíváme jako pro sebe, tak ty SQL servery a jaký snowflakey z nějaký testovací instance máme.
+Na běhlí, na kterých oni můžou vyvíjet, případně testovat, ale pak jako koukáme do logu a přes nějakou observabilitu se snažíme jako hledat, kde jsou blotoneky a tak dále, no.
+Takže jako kluci v Gočku, právě ty, tady ty jako intenzivní apky, co něco dělají, tak tam mají profiling nastavený, tak oni jako celkem pěkně viděj, jako co se kde děje, jak dlouho to trvá, logujem si všechno, všechno možný, aby jsme pak jako zpětně byli schopni to dohledat, protože většinou to nejsme schopni znovu nasimulovat.
+Máte i jako vloženě v rámci nějakého standardu, že je to i vlastně takový ten User Acceptance Testing, že ten user to testuje taky na svý straně, nebo to je prostě case by case?
+Spoustu lidí prostě k nám přijde, my o nich ani nevíme a něco se jim rozběhá, tak odpošlou ticket, hele, tady nám nefunguje, nevím, něco a my zjistíme, že se update-nul driver někde, nebo oni mají prostě, že u těch databází tam je spoustu jako verzií, kterou oni můžou mít, jako nemůžeme zase podporovat všechno, protože na tom my máme kapacitu, takže jako když někdo vidíme, že používá Mongo3 a nefunguje mu tam nějaká transformace, tak jako řekneme OK, jako pokusíme se najít nějakou cestu, jak mu to vyřešit, ale jako mnohdy to prostě jako zaří
+a to prostě nepodporujeme, ale jako ono ve většině případů jako se dá nějaký rovnak na ohybák jako najít.
+Takže pull request nebo merge request, to je v pohodě, ale celý to jako UX je takový pofiderní, ty pipeline, nějakým to jako nechutná. Jak to vnímáte vy?
+No já už v tom GitLabu pracuji nám 10 let třeba, tak já už jsem na něj zvyklý a zase naopak jako jsem ztracený v GitHubu teďka, děláme se pro zákazníka v GitHubu, já tam jsem kolikrát jako nejsem schopnej najít ani merge tlačítko, to jsem úplně jako.
+A tak to je jenom jako o zvyku, jak mi to přijde, že to je jako v jednaku jedný, něco se jmenuje jinak, něco je trošku někde jinde, ale jako v principu to funguje úplně stejně, takže je to jenom o zvyku zaměnou.
+My jsme s tím celkem jako spokojený, my zase nemáme jako on-prem nebo self-hosted, my ho máme jako v klaudu, takže to zase nedokážeme jako spoustu věcí tam nakonfigurovat, co bychom potřebovali, ale my ten jako use case máme.
+Takže nemáme tam i specifickýho, jako máme tam největší věc, co je v GitHubu, jak provázání jakých pipeline mezi repama, jako aby nám fungovala CI-CD pipelina, že si ji máme v jednom repu, CD v druhým a to je jako, to byl největší jako pain, co tam bylo, ale to nám řešil dodavatel, takže my jsme spíš jenom takový useri toho Gitlubu.
+Jo, to jsem se chtěl zeptat právě na pipeliny a i na repozitory, jestli teda máte jako monorepo, multirepo nebo...
+Máme pro každou tu servisu vlastní repo.
+Jo, takže je to multirepo.
+Jo, a ke každému tomu repu je druhý repo s těma, tomu říkáme config repo, to je právě na tu CD část, aby to vidělo, tam jsou nějaký helmový šablony a další věci, aby to vidělo a terraformní věci, aby to vidělo, jak se to má deploynout potom do Kubernetes.
+A co se týče nějaký branch strategie, jedete třeba, nevím, trunk-based development, feature flagy, nebo jedete takovou tu klasiku, jako starou pozici?
+Jeden, když jako klasiku po ticketech žije, takže jako tam, máme tam jako dvě brandy, máme testovací prostředí a produkční.
+A pak nějaký jako kluci mají vývojový, tak jakmile se něco jako merge někdo do branche test, tak se to samo nasadí do testu, když se to pak merge někdo do prodů, tak se to nasadí do prodů.
+Takže to je jenom jako řízený ty deploye těma mergema a feature flagy máme, ale ty jsou jako řešený bokem od Gitlabu, to máme, jak se ne, launchdarkly tuším, tak jako přesto, takže se to fetchuje jako data z toho launchdarkly, ten kód.
+Ty jsi mi ještě říkal jednu věc, že vy nemáte žádnej opsteam, takže všechno si teda děláte od prvního.
+Až po day-to-day operations si zajišťujete tak tak sami.
+Takže ještě vlastně ty jsi několikrát zmínil, že máte ty managed services, to znamená, že vlastně dost věcí tam nedokážete nastavit, ale zároveň asi ta strategie toho nemít ten opsteam, souvisí s tímhle předpokládám.
+No tak je to, jde to ruku v ruce, protože neměli jsme, ani teď nemáme jaký obskušnosti ty lidi, co tam jsou, a než tam jako nahajrovat, protože i na ten provoz by jsme potřebali víc lidí na službě.
+Aby tam byly nějaký on-call jako na tou infrastrukturu, tak i z toho důvodu jako nechceme mít žádný jako vlastní servery, protože bysme pak řešili právě jako výpadky proudů a další věci, updaty, což se nám jako nám jako aplikačním vývojářům jako nechce.
+Nám samozřejmě ty, hlavně ty goučkový lidi, co tam jsou, tak ty jsou jako už jako znalejší tady nějaký v provozování serverů, nebo tohle znaj.
+Ale jako nakonstruovat třeba ten Kubernetes a všechny tady ty Helm věci, tak na to máme dodavatel, se kterým jako dlouhodobě spolupracujeme a ten nám jako tady s tím pomáhá.
+Když tam potřebujeme něco nového, tak se obrátíme na ně, oni nám tam vykopnou a my už jsme si to pak akorát jako udržujeme, my si to jako přidáváme parametry, možná i přifoukneme tady trošku v rámky někde.
+Ale jako když tam jde o to, tam něco nasíťovat, tak takovéhle hry, které si nepouštíme, protože my bysme nebyli schopni to jak jako za první udělat a pak udržovat.
+Takže takový ty low level, co se týče jako těch cloudových věcí, konfigurace cloudů, tak to na to máme dodavatel, který nám na to všechno připravili, Terraform nebo i Infrastructure as a Code, jako Terraformní faily a další.
+Ty, kterými máme přístup, můžeme si to měnit, ale samozřejmě pokud něco nevíme, co to bude mít za efekt, tak se do toho nepouštíme nebo to konzultujeme s nima.
+Ale když tam děláme nějaké jako malé věcičky, tak to jsme schopni si udělat sami.
+Tak to předpokládám, ta learning curve pro ty nově příchozí k vám do firmy, tak to je docela v pohodě, ne? Jakože nabútujou docela rychle, protože některý tyhle ty věci jste v úzovkách outsourcovali na ty, kterým to rozumějí a aplikační programátor se většinou věnuje aplikacím.
+No, to záleží teďka týmu od týmu, jo. Třeba od toho govčkového týmu jako očekávám, že bude umět jako i ty helmy, Terraformy a další věci, protože většinou hají do toho týmu nějaký jako seniorovnější lidi.
+Třeba do toho PHP týmu a frontend týmu, ty jsou od toho odstíněni většinou, tak pokud jako sami nechtějí, tak jako nemají potřebu se tady vůbec s nějakou infrastrukturou setkat a akorát vidějí v Argu, že se jim to deploynulo a to je jako všechno, co oni vědí o infrastruktuře, že tam mají zelenou bublinku, že to tam, že by ten novej kód tam měl běžet.
+A když už jsem to trošku naťuk, ten hiring, jak se vlastně hajruje teďka na govčko?
+Na govčko, jako já se přiznám, my máme govčkaře tři, jo.
+Takže my tak často nehajrujem, nám se to odměňuje tak jako jednou za dva roky někdo přijde, odejde, jo. Takže s tím, co máme teďka aktuálně, tak jako ty tři kluci to stíhají víceméně v pohodě.
+Jako samozřejmě, kdybychom jich měli pět, nebo kdybychom jich měli sedm, tak jako práce pro ně vždycky bude, ale na to, co tam teďka, na ten objem té práce, co tam teďka je, tak jako jsou, oni jsou na takový rovně, že jsou jako rychlí, jo.
+Jak vlastně vypadá tvůj den, jo? Co je teďka tvůj hlavní náplní, prostě CTO, na pozici CTO ve firmě, která má 45 lidí, jak to vypadá takový den?
+No, jako jinak, než bych si představoval, ale ať už nějaká organizace těch týmů, aby nějak spolu komunikovali, protože jak spoustu úkolů, co tam jako máme, nebo co nějaký feature, co tam chceme vyvíjet, který se tam namyslíme, tak jako zahrnuje víc těch týmů, že to není nikdy jako jenom v jedné době, jenom v jednom tom jazyce.
+Mhm.
+Protože je propojený, mít nějaký přesah do toho jiného týmu. Takže nějaká taková jako koordinace těch týmů, samozřejmě tím, jak já tam jsem delší dobu a znám tam veškerý ty zákoutí, no veškerý už ne, ale naštěstí, ale jako spoustu takových zákoutí zahrabaných, kam lidi vkročí jako jenom občas.
+Mhm.
+Tak když tam vkročí, tak kolikrát projete ještě ten můj původní kód třeba, tak se ztratí, tak tam jako pomáhám se v tom zorientovat.
+Jasně.
+Současně dělám jako, protože nemáme ty obsáky, tak dělám takový ten monitoring, jestli to všechno funguje, onkoly jsou vlastně na mě.
+OK.
+Takže když se něco posedne, tak na to koukám já, takže sleduju, když jako preventivně se snažím, aby mě to nebudilo, že jo.
+Jasně.
+Takže tam můžete měrknout, jestli se tam něco nezačíná sestírat, abych to vyřešil netka a nenechal to jako ve tři ráno.
+No a pak spoustu takových papírování ohledně jako auditů a dalších věcí, což je jako UPA super paráda, takže půl roku strávím jako, když skončí audit, tak za týden už začínáme připravovat jako na další rok.
+Vždycky pěkně. A když máš těch týmů víc, takhle jak říkáš, že vlastně se musí mezi sebou samozřejmě si povídat, tak jedete nějakej Scrum nebo nějakej jinej agilní framework?
+My jsme díjeli Scrum, jak tím, že jsme to jako stejně všechno v podstatě se předložilo do dalšího sprintu, takhle to propadávalo dál a dál, tak jsme se říkali, že to jako nemá cenu.
+Vždycky za dva týdny 80% těch tiketů jako přehoď do dalšího, tak jsme prostě udělali jenom jako jeden board teďka, který, kde se šoupeme těma tiketama jako zleva doprava.
+A lidi se tam předávají jako sami nebo ty tým lídři, nad čem chtějí dělat a vždycky jako se dohodneme, máme jaký, vlastně denní stand-upy mají jako kluci, ty jednotlivý týmy.
+My pak máme takový třikrát týdně jako synchronizační těch tým lídrů, abychom se domluvili jako nad čem dělat.
+A oni se dohodnou.
+Oni si to vlastně řídějí sami, co tam je za tikety, není. Aby to vycházelo z nějaký jako strategie a zapadalo to do toho, čeho chceme dostávat jako výhledově, já nevím, za kvartál a tak.
+Jo, to mě vlastně zajímá, jak vlastně definujete ten produkt, jo. Kdo vlastně je tým product ownerem, kdo rozhoduje o tom, že tuhle funkcionalitu jo, tuhle ne. Jo, jako jestli to je nějaký, jako nějaká skupina lidí, nebo…
+Je to skupina lidí. Máme tam jako produktový tým, což jsou dvě holčiny. A máme právě meeting vždycky třikrát za týden.
+Vlastně já, ty team leadři a oni. Oni vždycky přijdou s nějakým nápadem, co by se stalo za to vylepšit, kde se třeba zákazníci ztrácejí, nebo co tam je za feature, který zákazníci poptávají.
+Protože třeba já, jak nejsem s těma zákazníkama ve styku, tak nevím. Oni se baví právě s tím solutions teamem, což je ten jako customer facing team. Takže vědí, po čem je poptávka, nebo z nějakých, já nevím, anket, nebo z nějakých surveys.
+Jako zjistějí, co by se mělo dělat. Do toho padají inputy ode mě, od Petra, od CEO, co chceme, aby tam bylo. Takže to je na těch meetingách se vždycky nějak probere.
+Nebo jsou meetingy, já nevím, jednou za měsíc, jestli se jako uděláme vůbec jako na příští měsíc, co plus mínus chceme dělat. A to je na těch operativních třikrát týdně, to je spíš takový jako daily update potom.
+Na nižší úrovni toho, že tam jsou ty úkoly menší. Mně rozpadly už třeba na ty jednotlivý týmy a už se to tam jako synchronizují ty.
+Ty lidi mezi sebou.
+Jasně.
+Já pozoru, já tě musím, jako obdivuju tě, Polly, že jsi ještě vydržel tam nestrčit.
+Mě poslouchat.
+Ne, ne, ne, právě to, ty se posloucháš nádherně, Tomáši, to je skvělý, ale já jsem čekal, že třeba už před půl hodinou ty vrazíš svoje oblíbený téma.
+To hele, mě se tam tak jako propisují další témata, víš, takže jsme tam nešli.
+Tomáš je tak dobrý, že ti je úplně, si ztratil tu svoji AI nič.
+Jasně, úplně mě to zajímá, ale samozřejmě tak AI je všude kolem nás, takže ten dotaz je jasný. A teď bych to rozdělil na dvě části.
+Takhle, jak AI hodně řešíte v rámci toho produktu, to znamená směrem k zákazníkovi, a jak ho řešíte interně, jestli si pomáháte nějakýma nástrojema, které taky tady lítejí kolem nás všech.
+Začnu asi tím interním, nic moc. Maximální vývojáři mají jako pilota třeba, jak těch, který chtějí. Já jsem si ho třeba vypnul,
+protože když tam v tom PHP-ském kódu používáme JetBrains, ty IDčka, a ten jejich autocomplete mi přišel lepší, než ten copilot, který tam házal nesmysly,
+které tam jako nebyly syntakticky vůbec třeba správně, takže mě to spíš jako brzdilo, než jako na generování testů dobrý, a když jsem potřeboval tam vygenerovat nějaký kód,
+jako aby to fungovalo, tak jsem to spíš po něm opravoval, a ten autocomplete, co tam je jako by default, tak třeba mně osobně funguje a vyhovuje líp.
+Ale vím, že kluci jako protestují.
+Ty copilota používají, nebo jako primárně, nevím pro co všechno, nebo s ním si povídají, že jak to vyjde.
+Jo přes ten chat.
+Jasně.
+Ale jako mně to jako k srdci nepřirostlo, já se s ním, jako když jo, tak já si s ním povídám, mám s chat GPT jako v browseru, ne, ne v IDčku.
+Jojojo.
+A to je, co vím já, tak to je jako ve vývoji jediný jako na to, co AI používáme.
+A ještě se tam jenom doptám, vnímáš tam takový to, co se často říká, že ty juniornější vývojáři to používají víc, jo, respektive dokáže jim to víc pomoct, protože ten seniorní přesně, tě slyším, že vlastně pak to musíš opravovat po něm, říkáš si, ty zase to má blbě.
+Hele, je to možný, jako my už tam, my jsme teďka moc lidí poslední dobou nenabírali, takže tam jsou spíš jako seniornější lidi, jo.
+Ok.
+Takže těžko, jako nekoukám jim přes remenou, nevím, jak jako pracujou.
+Já jsem jako schopný vyplodit jako něco, co by ani ČGPT jako nevyproduklovalo, takže tak nebudu soudit, ale…
+Ti udělám kód, že to ani ČGPT nepodnává.
+Takže to, takže jako nedokážu moc jako říct, kdo co používá, protože nemáme na to žádnou jako guidelineu, že tady to se musí používat, tady to se nesmí používat, jako je to spíš na těch vývojářích hlamotných, co chtějí.
+A k té druhé části ohledně toho produktu, tak tím, že my jsme vlastně, dejme tomu jenom ten přenos, ten přenosová soustava, tak tam jako moc prostoru na to nemohli.
+Nevidím tam jako někde příjemnou hodnotu extra, kde bychom to měli. Samozřejmě na tom vstupu, tam by nám to mohlo jako pomáhat programovat i ty konektory třeba, jo.
+Aby se to naučilo, to APIčko z dokumentace a vignorovalo to nějakého klienta pro to, to jo, ale to je spíš jako do té programovací práce.
+Při tom přenosu tam máme nějaký set jako natočiště.
+Nějaký set jako natočištění dat a na nějaký analýzy nebo detekce anomalit v těch datech, tam něco jako máme, ale to není AI, to kolega bývalý to naprogramoval.
+To byl z MatFisu, tak statistický funkce, který prostě streamovaně tam ty data proudějí a on to hledá v těch datech, že já nevím, najednou tady v tomhle integerovém půlíčku je anomální hodnota.
+A to tam tak jako tomu zákazníkovi vyplivném, že ať si to zkontroluje, protože když by si to nahralo to do toho skladu, tak jakmile tam jednou má bordel, tak už se ho jako těžko zbavuje.
+Proto tam je nějaký takový jako check při tom přenosu, že jsme schopni ten to flow těch dat zaká... no jako přerušit a on si to vyřeší třeba, protože pravděpodobně bude na vstupu nějaká chyba.
+Ale jako není to AI, je to prostě statistika.
+Jo, jo, jo. No mě ještě napadlo, pokud se posouváte tou cestou, aby ten zákazník to vlastně používal sám, tak vlastně předpokládám, že frontend bude hrát více a více roli.
+Já jsem teďka zkoušel se či GPT na nějakou prezentaci jsem dělal a prostě potřeboval jsem tam poskládat myšlenky a vůbec prostě jsem neměl inspiraci, tak jsem mu říkal, hej prostě nakrsi mi ten slide. To byla úplná vecka.
+Jak jako celý slad jako PowerPointovej nebo...
+Já jsem řekl, no PowerPointovej, jo. Ale jako vracím se k tomu frontendu, že najednou prostě já mu říkám, hele já bych potřeboval tady prostě mám čtyři věci, potřebuji ještě kolem toho nějaký jako kecíčky kolem, prostě vymysli to. A on to vymyslel.
+Já říkám, no takhle to je dobrý, ty vole.
+Ty vole, Polák SSR.
+Tak jsem to převzal, no to je jako, už tak nebude potřeba, no.
+No jako z tom frontendu, ten frontend u nás není appka, do který bys chodil denně, jo. Ty se tam jednou nastavíš, tam chceme, nebo tam je jako důraz na to, aby to bylo intuitivní, aby ten člověk to, co potřebuje propojit, aby byl schopný si propojit sám.
+Ale jakmile si to jednou propojíš, nastavíš si to, že ty datový přenosy mají běžet každý ráno v 8, odsaď sem, dokáže ti to funguje, tak jako nemáš důvod tam znovu chodit, jo.
+Takže ta appka má jako návštěvnost malou, protože tam typicky jsou ty nový zákazníci, co se tam jako vytvářejí něco novýho, a pak když jim to běží, tak jako není motivace, aby tam někdo chodil.
+Chápu, no, že vlastně pokud pojete cestou, to vidíte časem, že pokud to budou ty menší klienti, tak tam to asi jakhle bude, jo, a třeba jako ve Spořici, v té kebule ty lidi prostě žijou, jo.
+Vlastně tam jsou furt, vlastně furt tam něco přidávají a teďka ještě přidají jeden datovej zdroj, vlastně to je, jsou tam vlastně furt.
+No je to živý, no.
+No tak to my tam taky přidáváme, protože ty nějaké seznamkony, které se pořád jako rozvíjí, ty featurey, co tam jsou, tak jako taky pořád tam, i když to je jako nepatrné, nebo nějaká větší změna na backendu, která optimalizuje přenos, že se zkrátí, nevím, z minuty na půl minuty ten přenos,
+tak stejně to je třeba nějaký zaškrtávátko, potřeba přidat takhle do toho frontendu, takže jako frontend se udržuje pořád.
+Protože tam hrajeme právě s tím, aby ten zákazník, který tam přijde poprvé, tak aby věděl, co má dělat, což jako ne u všech konektorů je zatím jako tak jednoduchý, jako třeba u toho Google Analytics, který lidi dokážou udělat sami.
+Když se tahají data se strojky, tak to prostě víme, že tam je hluchý místo, kde se nám lidi ztrácejí, tady nějaký konkrétní konektorek, protože tam je prostě něco nedodělanýho, tak tady na to se spíš zaměřujeme v tom frontendu,
+že koukáme, kde se nám ty lidi v té jejich jako cestě, když si potřebují propojit zdroj s destinací, tak kde se nám ztrácejí, tak podle toho vidíme.
+Protože každý, že jo, ten zdroj má jinou konfiguraci, každá ta destinace má jinou konfiguraci, my to všechno nejsme schopni jako testovat jako průběžně, takže spíš sledujeme ty trendy u těch konektorů, jak se nám tam lidi ztrácejí nebo nestrácejí a podle toho se orientujeme.
+Takže na to máte nějaký monitoring tool, kde prostě vyhodnocujete ty data?
+To dělá ten produktový tým, kde viděj vlastně v jakém stepu ty konfigurace, ten zákazník, jsme o něj přišli nebo jako, kde se prostě zasek.
+Jasně, jasně.
+Ono to nemusí být žeho nutně nějaká chyba, která vyletí do logu, to může být prostě, že v tom jejich data sourceu nejsou žádný data, protože tam má nějakej malej date range třeba nastavenej.
+Ale tím, že on tam nevidí data v data preview a i když přes tomu, že mu tam říkáme, hele, asi máš malej date range, tak jako já kdybych použil nějakej takovejhle tool a nefungovalo mi to na poprvý, že jo, tak jako taky první co udělám, takže zkusím něco jinýho.
+Tam mají třeba ten date range default nastavenou jednou hodnotu, tam ty data jako vidím, takže bych použil ten. Předpokládám, že úplně stejně fungují jako ostatní lidi, takže se snažíme právě to, aby ten zákazník jako od začátku dokonce věděl, co dělá do cíle toho, co vlastně na začátku chtěl.
+Tak přemýšlím, jak přidávají nový a nový konektory a různě se napojují na různý služby, tak to je přeci docela zátěžová zkouška toho, jak máte vymyšlený to jádro.
+Měli jste nějakej use case?
+Měli jste nějakej use case, nebo měli jste nějaký případ, kdy jste narazili na něco, co vám jako otevřelo myšlenkový dimenze stylu, tyjo, my jsme tady na tohle vůbec nemysleli, takže musíme šáhnout teďka do jádra a přidat tam, nevím, datový typy, něco upravit.
+Měli jste tam nějaký takovýhle aha momenty, kdy jste si mysleli, že to máte dostatečně generický, ten střet v té pipeline a on nebyl?
+Jo, tak to je jako denní chléb, že si uvědomíš něco, že tady bychom tohle věděli.
+No něco jako zásadního rázu, ne?
+No ono jako zas úplně, ono tím, jak to jako pět let opěčováváme a jako průběžně měníme, refaktorujeme, tak ono už se to jako z té hranatý kostičky stává kuličkou, ale pořád jako, pořád tam jsou vždycky nějaké hrany, které je potřeba obdousit.
+Jako teďka třeba, nevím, jsme začali před nějakou dobou používat jako webhooky nebo podporovat webhooky jako ten zdroj, tak to je úplně jako jiný use case, než to jsme měli doteď, že tam prostě chodili batchově data jednou za den.
+Tak teďka chodí jeden řádek, že jo, co pěřinu třeba a jako je to úplně jiná zátěž pak třeba na ty, třeba na ty fronty nebo na další věci.
+Takže tam teď se spíš teďka musíme přemyslet, protože jsme to napasovali na to, co jsme měli, protože to bylo nejrychleji co to ví, že jo.
+Jasně.
+A jako svědomím toho, že to pravděpodobně vybouchne někdy, takže jako než to vybouchne, tak to musíme myslet líp. Ale zatím to je jako navržení tak, že v podstatě všechno tam jak napasovat dokážeme.
+Že to není optimální je jako druhá věc, ale to se můžeme jako proof of concept funguje, ale teďka jako na nás, abychom se jako na to nevykašlali a dotáhli to do nějaký průby, aby to bylo použitelný.
+Když se podíváš na tu vaši platformu, kde byla před těma rokama, kam teďka směřuje, vidíš tam teďka nějakou zásadní challenge před váma, něco, co víte, že třeba už jako přestává škálovat, nebo takovej ten, jak si říkal, proof of concept už potřebuje zproduktizovat, dostat se do té lepší fáze. Je tam něco, co vás fakt jako teďka trápí, že před váma je velký nějakej kámen?
+Trápí, nevím, jako počítáme s tím, že hodně zákazníků, konkrétně těch jako větších firm, to chtějí, nechtějí to řešit přes tu vůjčko, chtějí to řešit přes API, jo, přes nějaké headless. Takže tam máme jako headless API naše, který je vlastně, přes který dokážeš udělat, no, měl bys být schopný udělat to, co samý uděláš vůjčku, ale jako bečové, že si to napíši na to nějakej, nebo bude SDKčko, kde si prostě vytvoříš těch sourceů z toho trošku s jim parametrem, aby
+jsou víc major, jak jsme si mysleli, co mají nějaký data warehouse, tak, já nevím, to mají prostě nějakých sto třeba zahraničních nějakých poboček a než to pro každou, jako pro ty kampaně Facebooku nebo jejich účty, jako aby si to neklikali ručně, tak to chtějí takhle nějak zautomatizovat, aby to byly schopný si nakonfigurovat sami, jako aplikačně nebo programově, nevím, je to.
+Takže to je jedna věc a jak bude tady to nějakým způsobem použitelný, tak zase tam je ještě druhej požadavek, jako ještě o těch víc vyspělějších firm, že to chtějí mít data do as a code třeba, že tady to Heldeslapy bude vybalený, dejme tomu nějakým Terraform pluginem, takže oni si dají Terraform app, vytvoří jim to všechny ty source, co oni chtějí, co mají nějakým jamlu nakonfigurovaný, jakmile to nebudou potřebovat za měsíc, protože si teda natáhnou třeba, nevím, po špičce vánoční, tak si daj
+to, že oni vlastně nebudou mít žádný spend u nás a takhle si to budou zřídit jako code. Takže to je taková vize nebo cesta a goal, který teď chceme docílit v nějakým střednědobým horizontu.
+To se mi ještě nahrá úplně na myšlenku, jak vlastně vypadá ten business model. Platí ten zákazník za licenci nebo jak to vlastně funguje?
+Platí za počet těch propojek, co tam má. Tomu říkáme flow. Ta propojka mezi sourcem a tou destinací, tomu říkáme flow, tak za počet těch flows. Ono se taky časem měnilo, původně jsme to měli na source.
+Já si myslím, že tohle se muselo vyvíjet a možná ještě bude, pokud pojete víc směrem toho.
+Jako my samozřejmě víme, my jsme schopni technicky to řešit i na úrovni počtu řádků přenesených a tak dále, protože to všechno víme, ty informace.
+Na druhou stranu ten pricing model by byl pak asi celkem nepřehledný. Já teďka třeba, když si objednám něco v FAVSku, tak vůbec netuším do té doby, než přijde první faktora, kolik to vlastně bude stát.
+Což čemu se chceme vyhnout, nebo chceme být víc prediktabilní, co se týče těch nákladů pro ty naše zákazníky, takže jsme šli cestou těch mentálně pochopitelnějších počtu propojek.
+A v současnosti je jedno, jestli tam přeneseš dva řádky nebo dva miliony řádků, jako platí za to stejně. Jseš tam omezený jenom v tom tvým plánu, ve kterém seš, takže můžeš těch propojek mít, nevím, deset nebo sto, podle toho, v jakém seš plánu a podle toho platíš, ale na objem dat to nemá žádný vlík.
+Já mám pocit, že tohle je jeden z mála dílů, kdy jsme si někoho pozvali technickýho oleněho produktu, že jsme ho projeli fakt úplně celý.
+Jako já teďka už nemám nic z toho stacku, z infrastruktury.
+Infrastruktury, z pricingu, z ničeho, čehož bychom se nedotkli, což je vlastně skvělý, protože naši posluchači podle mě po tomhle dílu mají naprostý přehled o tom, co DataDoo dělá a já jsem v tuhle chvíli spokojený.
+Já poletí tady nahrávám oslým ústkem na tvoji oblíbenou, nejoblíbenější.
+To ještě vlastně mě napadla teda jedna.
+Jo, ty mi to takhle zkazuj.
+Ale ta je, ta už je, ta už je mimo produkt vlastně, jo? Tomáš přišel vlastně k šiltovce a mykině český reprezentace hokejový, tak mně napadá, co děláš takhle mimo práci, kde se nabíjíš v podstatě?
+Asi spíš potřebuji vybíjít.
+Jo, jo, jo, ok.
+Tak přes zimu hraju hokej, tak jako rekreačně, přes léto, u nás let není, takže hraju tenis, bíč, volejba, jako všechno.
+To je taková zajímavá evoluce.
+Když jsem byl na středních, jsme chodili hrát fotbal, pak se postupně lidi rozetekli na výšku, už jsme byli jenom čtyři, tak jsme začali hrát bíč.
+Pak se to opadlo, tak jsem začal hrát tenis, protože stačili dva lidi, no a teďka chodím běhat a na kolo, že?
+Já myslím, že chodí rád na tenisový kurty.
+No tak to jsem taky chodil, že?
+A tak tam neprohrájíš aspoň, že jo?
+No.
+Tam se, ne, tam jediný, kdo vyhraje je Chuck Norris na sezni.
+Jasně, jasně.
+No tak samozřejmě ta úplně poslední otázka je, má posluchač možnost někde vidět, slyšet, vystupuješ někde na nějakých konferencích třeba, nebo tak podobně?
+Rád se účastním konferencí, ale vystupu ani ne. Jak jsme nakousli to, ten náš balíček na ty fronty, poskud jsem, tak okolo toho vlastně,
+děláme nějakou sérii přednášek, teďka bude někdy, vlastně ani nevím kdy, někdy v létě bude, jsou Go meetupy, srazit jak na tom, byli jsme s tím vlastně ve Florenci na nějaký Go konferenci,
+takže se to snažíme jako trošku promovat, nebo dát do povědomí.
+Ještě jenom řekni název, toho řeším.
+Jo, to bylo, konference se jmenuje GoLab a balíček se jmenuje PGQ, je to github.com lomeno data.do lomeno PGQ.
+PGQ, nebo go.data.do.com, tam na to je link.
+Hezký.
+A jako vím, že teďka třeba jsme se dotkli toho LiveSportu, který mají ten reverzní tunel, tak to programuje kolega, který vlastně tady nazval ten reverzní tunel interně Blanka, ten náš projekt.
+A chceme to nasadit do LiveSportu a teďka vlastně bude někdy, myslím, že to je příští týden LiveSport Talk, kde vlastně kolega o tom bude mít řeček,
+to je na implementovaným vůčku, jak si představím, že by ten jejich, co jsme tam ručně konfigurovali na té EC2, jak by to mohlo fungovat nově přes ten reverzní, co je napsaný vůčku.
+Takže pokud to někoho zajímá, tak LiveSport tý Blanka bude.
+Hezký, tak snad tato Blanka nebude stát 8 miliardy.
+To já vás doufám, že jo.
+A to myslím, že příští zinflace ještě, takže 10.
+Hezký, pěkně. No Tomáši, já ti strašně moc děkuju, že jsi k nám dorazil, protože, jak jsem říkal,
+projeli jsme to úplně.
+Úplně od hlavy až k patě a je to skvělý a tyhle díly úplně zbožňuju.
+Moc přeju, ať se ti daří, užij si léto, ať se vám v DataDů všechno to, co si přejete, ať se vám podaří, ať platforma, projekt roste.
+No a třeba za pár let zase tady pod vocasem probereme, kam jste se posunuli a jestli už to třeba máte i v tom ežru.
+Děkuju.
+Díky.
+Ať se daří. Čau, čau.
+Díky, ahoj.
+Čau.
+Tomáš Sedláček, CTO společnosti DataDů.
+Velmi, velmi zajímavý rozhovor pro mě, jak jsem říkal, když se to probere celý a jak ty říkáš, když je to kolem produktů, tak je to vždycky zajímavý, protože se řeší jiný biznis problém, člověk se dozví o jiných nuancích toho tech stacku, já to ale úplně zbožňuju.
+Přesně, mně se líbí, jak je to jiný, díky tomu, že ten produkt může být vždycky specificky zaměřený na něco a vlastně některé věci ti nedojdou.
+Super, že jsme to fakt prošli od A po Z, třeba ten frontend.
+Takže vlastně on říká, hele, když tam ten člověk vleze, když to funguje, tak tam nepotřebuje lézt.
+A já první, co přemýšlím, to je, jak bych udělal frontend takovýhle věci, ty ho vůbec nemusíš řešit, protože ho skoro nepoužiješ.
+Zajímavý, fakt zajímavý.
+Zajímavý a vidíte, milí posluchači, jaký zajímavý biznis se dá dělat de facto odkudkoliv i z Jičína.
+Ano, ano, i z Jičína.
+Hele, v tomhle je to IT super, že prostě můžeš si vlít, kam chceš.
+Hele, takhle teďka zrovna mi byl kamarád, teďka minulej týden z Bali, že tam dělá prostě nějaký datový srandičky z Bali.
+Hele, všechno jde, krása.
+To já asi spíš pojedu teda do Jičína, než jako na Bali, když se podívám na svůj kalendář.
+Ale zrovna jsem si říkal, že se musím podívat, my jsme vždycky jezdili s dětmi, Jičín město pohádky, nevím, jestli jsi tam někdy byl s Péťou.
+Hele, byla tam žena s Péťou beze mě.
+Tak tam je, je to super.
+Je tam, je to dobrý, mají tam stánky, jídlo, pití, program, kapely, je to dobrý, je to paráda a mají tam data do.
+Mají tam data do, přesně tak.
+Tak jo.
+Přátelé, ať se vám dílí být a mějte se fajn.
+Mějte se, čau.
+Čau.

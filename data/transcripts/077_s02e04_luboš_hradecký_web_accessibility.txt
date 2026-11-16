@@ -1,0 +1,1354 @@
+Pod vocasem.
+Pod vocasem.
+Pod vocasem.
+Vážení a milí posluchači, vítejte u dalšího dílu IT podcastu Pod vocasem.
+I v dalším díle tu naproti mě sedí, uspívá se a je opět natěšen v dobré náladě Petr Polipolák.
+Ahoj Románku, naproti mě Roman Joker, provazník. Já tě zdravím.
+Taky, taky. No já musím hned na začátek říct, že dneska natáčíme ráno.
+Nevím, jestli jsme nikdy natáčeli ráno.
+Takhle ráno ne.
+Takhle ráno ne, viď.
+A já mám ten problém, nevím jak to máš ty, že já strašně pomalu startuju.
+Já říkám, už roky moje oblíbené, ať stávám, kdy stávám, probouzím se v deset.
+A bohužel teďka je teprve 9.05.
+Nevím, jak to dneska bude s mojí kvalitou, ale to nevadí.
+Naštěstí máme hosty, takže o to tolik nejde.
+To zvládneš, tak já se budu snažit být čilý, protože mě to zase naopak funguje nejlíp ráno.
+A pak to jde dolů, tak jako pěkně.
+Takže když natáčíme, to jsme taky už jednou točili ve čtyři nebo v kolik, v pět.
+No a možná ještě později.
+No, tak to už je zase pro mě takový horší.
+Takže to bude dneska tvůj díl vlastně.
+Jasně, jednoznačně můj díl a možná i našeho hosta, když teda už se o něm budeme mluvit.
+No a než se k němu dostaneme, co jsi vyváděl o víkendu?
+O víkendu jsem byl hrát floorball, prosím tě, po dlouhé době.
+Já jsem na ty všechny sporty, kde držíš jakoukoliv hokejku v ruce.
+Jasně.
+A zjistil jsem, že to je hrozně surový, tyjo.
+Dostal jsem normálně bodička takovým způsobem, že tam jsou takový ty mantinely, jak se rozvírají mezi sebou.
+Tak spojovaný, no.
+No, no, no, tak já jsem to narval přímo do rohu toho jednoho mantinelu vlastně hlavou.
+Takže moc pěkný, moc pěkný.
+Měl jsem tam kamaráda, ten za to, jak mě sfoulovali, byl vyloučenej za keci.
+To je taková jako vesnická soutěž, takže bylo to moc pěkný, musím říct, že jsem to užil.
+Tak když už jsme u těch vesnických akcí, ze kterých bolí hlavy, tak já byl v sobotu na plese.
+Obecní ples města Přezletice, musím říct, bylo to super.
+Ale ne třeba proto, že člověk se chce bavit, nebo že to bylo v sobotu a že tam byla dobrá kapela,
+ale spíš takovej ten závan těch starých dob, kdy se takhle normálně lidi ještě před covidem chodili bavit.
+Že se oblíkli, vzali si něco hezkýho na sebe, šli s kamarádama, si koupili lístek,
+koupili si 20 lístků do tomboli, pak se to o půlnoci losovalo, prostě pařilo se.
+Fakt, já jsem úplně zapomněl, že něco takového existuje.
+Ty kráso, vlastně plesi, tam jsem taky chodil.
+No, no.
+Tak to už je dávno.
+Užasná věc a ještě jsem v tom bole vyhrál, takže to je úplně to bylo nádherný.
+No tak pecká, pecká, pecká.
+No tak jo, tak to byly naše víkendové zážitky, ze kterých bolí hlavy.
+A teďka se můžeme pomalu vrhnout na našeho hosta, který je po delší době zase někdo od nás.
+Je to tak, je to tak, Luboš Hradecký, jeden z našich vývojářů a samozřejmě zase člověk,
+který dělá mnoho věcí a hned ho na začátku vyspovídáme, co ho všechno teďka baví a nebaví
+a těším se na to.
+No a to téma?
+To téma se jmenuje Accessibility a budeme se kolem toho točit vlastně celý díl
+a protože to je teďka zase takový téma, který mám pocit, že jako vylezlo nahoru,
+tak si myslím, že to může být zajímavý pro řadu z vás.
+No tak jo, se těším.
+Paráda.
+Ve studiu už tady s námi sedí náš dnešní host, Luboš Hradecký. Ahoj Luboši.
+Ahoj.
+Čau Luboši.
+Tak jak jsme říkali na začátku, po delší době konečně člověk zase od nás ze Cienka.
+Mohl bys se představit, protože sranda je, že my tě sice známe, ale vlastně když jsme tě ráno potkali,
+tak první pol jeho otázka byla, a na čem ty vlastně děláš? Co ty vlastně vyvíjíš?
+Takže neptáme se opět ze slušnosti, ale fakt nás to zajímá, co aktuálně děláš, na čem makáš, co je ta tvoje expertíza?
+Jo, takže já se jmenuju Luboš Hradecký, dělám v Cienku posledních tuším sedm let, už to možná bude,
+a pracuji tady momentálně hlavně jako webdeveloper s tím,
+že do toho mám trošku zamíchaný teda i nějaký UX a hlavně teda accessibility,
+kterým momentálně jedu hodně na tom současném projektu pro německýho zákazníka.
+My jsme si tě právě kvůli accessibility dneska pozvali, protože to je takový téma, taková trošku popelka.
+Občas se to někde objeví, občas o tom někdo mluví, ale vlastně mám pocit, že nikdo neví, co to znamená úplně,
+a hlavně jak k tomu třeba z pohledu vývojáře přistoupit.
+Takže úplně na začátku, Luboši, co to vlastně,
+ta
+accessibility, nebo jestli budeme říkat přístupnost, jak se nám to do tý pusy vejde, co myslíš, Poli?
+Za mě je to úplně jedno.
+To by to úplně, tak ty to dáváš.
+Co komunita accessibility lidí říká.
+Já to budu asi taky střídat, budu to říkat česky.
+Dobře, takže přístupnost, accessibility, co to teda je, dej nám, prosím tě, takový ten úvod do té problematiky.
+Jo, tak já bych možná začal tím, co právě to není, protože nejčastější takový fenomén, když se s někým začnu bavit s nějakým lajkem o té přístupnosti a padne přesně tahle ta otázka, co to je, co si po tím mám představit.
+A většina lidí začne názorem, aha, teď já to přece vím, teď to je ta věc pro ty slepí.
+Tak to mě vždycky úplně poleje a říkám si, no tak to bude zajímavý povídání.
+Vy to teda máme zakázaný říkat, to můžeme říct posluchačům, že když jsme tě sem lákali, tak Lubošova odpověď byla, jestli řeknete, že to je ta věc pro ty slepí, zvedám se a růhám větě domů.
+Přesně.
+Takže my to nebudeme říkat.
+Takže ve zkratce není to takhle jednoduchý, je to teda daleko obsáhlejší a já bych teda zkusil říct, že teda ta metodika přístupnosti se vlastně zabývá variérama, který vznikají na tom webu.
+Budeme si teda povídat o webový přístupnosti, protože ta přístupnost jako taková je téma, který je daleko obsáhlejší a týká se to všech věcí, nejenom teda webu nebo nějakých webových aplikací.
+A je to teda o těch variérách, který ty uživatelé na tom webu mají a který nějakým způsobem musí překonávat, když pracují s tím webem.
+A my v rámci teda té přístupnosti jako developoři se snažíme právě tady ty bariéry odstranit, aby jsme zpřístupnili ten web teda co nejvíce uživatelům.
+A jakou formu, řekněme teda postižení, nebo jak vlastně o tom mluvit, aby to bylo, řekněme, uctivý, ale zároveň, aby jsme přesně popsali nějaký lékařský problém.
+Tak používá se slovo postižení nebo omezení, nebo co se používá?
+Já bych možná spíš zůstal u toho omezení, protože ono to vlastně není jenom o těch postiženích, není to jenom o nějakým fyzickým limitu,
+není to teda o tom, že někdo má nějakou, dejme tomu, urozenou vadu.
+Já ho určitým způsobem limituji, ať už je to hledně možnosti zárakových věmů, nebo to může být i postižení sluchu.
+V případě, že máme teda nějaký webový kontent, například podcast nebo něco podobného, takže tam určitě by taky přístupnost se hrála svojí roli,
+kdybychom to chtěli udělat přístupný teda i pro tyhle typy lidí, který nějakým způsobem to nemůžou zpracovat v té hlavní formě.
+Ale proč já jsem říkal, že jsou to teda limity?
+Není to jenom nějaká vada nebo nějaké postižení, protože vlastně ty bariéry můžou vznikat úplně pro naprosto běžný uživatelé, kterých by nás to ani nenapadlo.
+Takže forma nepřístupnýho webu může být už jenom v tom, že například jsme vytvořili web nebo webovou aplikaci, která je použitelná jenom v určitým prohlížeči webovým.
+Například jsme optimalizovali jenom pro Chrome a na ostatní jsme se vykašlali.
+A tím pádem už jsme vytvořili nějakou bariéru, která limituje ty uživatelé a odfiltruje ty návštěvníky toho webu, který by chtěli používat nějaký jiný prohlížeč.
+A to už je nějaký limit, nějaká bariéra a spadá to pod přístupnost toho webu.
+Takže když se o tom budeme bavit, tak spíš budeme používat omezení než postižení.
+A jestli to správně chápu, celá ta accessibility.
+To je disciplína, která se snaží ty omezení odstraňovat tak, aby každej návštěvník nebo konzument toho webu
+nebo jakýokoliv v podstatě audiovizuálního obsahu měl ten požitek co nejkonformnější. Je to tak?
+Přesně tak. Takže první krok identifikovat, najít ty bariéry, ty problémy, které tam můžou být
+a potom následně se snažit odstranit.
+Ne vždycky se to povede kompletně. I při nejlepší vůli to všechno co nejvíce zpřístupnit,
+tak ne všechno je možný. Takže tam je taková jakoby berlička, na závěr takovej pomocník pro ty tvůrce
+nebo ty lidi, který se zabývají vlastně tou přístupností, tak na každém vlastně webu, který se snaží teda zacílit na to,
+že aby byl přístupnej, tak potom na závěr je tam sekce speciální, která se jmenuje prohlášení o přístupnosti,
+kde se vlastně vymezí, do jaký míry ten daný produkt, web, služba, aplikace nebo cokoliv,
+co to je, je přístupná. A naopak tam musíme teda zároveň uvést, co se nám nepovedlo přístupnit.
+A jak to vlastně je, když se točíme kolem tohohle tématu nebo podtématu, je to nějak daný legislativou,
+nebo vy si to řeknete jako právnická osoba, nebo ten klient si to řekne, jak tohle funguje?
+Jo, to je zajímavé, protože na to existuje spousty norm a ty normy se různí.
+Většinou mezi jednotlivými státami, takže například pokud si budeme povídat o Evropě,
+tak je nějaká globální norma pro Evropskou unii, ale pod tím je ještě dál norma pro každý stát.
+Takže každý stát v Evropě nebo většina těch států má ještě lokální, nějakou upravenou verzi normy,
+která je tomu nadřazená, která je to poslední v řadě a to je to, co nás zajímá,
+abychom vlastně vyhovili těm požadavkům pro těch norm.
+Takže v Čechách existuje, dále existuje v Německu, kde se to jmenuje BITV,
+což momentálně teda hodně řeším, jak jsem říkal, pro ten současný projekt.
+Něco podobného existuje v Anglii, samozřejmě potom i mimo Evropu v Americe mají vlastní normy
+a kde mají nějaké speciální ušetření přístupnosti těch webových stránek a aplikací.
+Ale jak to pak řešíte, říkal jsi německý klient, ale internet hranice nemá,
+tak jak to pak funguje, když si to někdo otevře v Anglii a nemá tam třeba, nebo není to poplatné té normě, která funguje v Anglii?
+To je dobrá otázka, trošku mě to zaskočilo, musím se nad tím přemýšlet,
+ale jde o to, aby vlastně ta webová stránka vyhovovala těm normám pro tu zemi, kde to vzniká.
+Jasně.
+Takže můžeme kontrolovat, jestli se na to dívá někdo z Azie, z Afriky, z Ameriky, to už je jako...
+To dává smysl.
+My jsme tu otázku trošičku přeskočili, respektive obešli.
+Mě zajímaly množství těch, nebo množství, to není to správný slovo, zajímaly mě, jaký limity se vlastně u té přístupnosti řeší,
+protože se na první dobro mně napadne nějaký, řekněme, vizuální limit v tom, co jsem schopen na té obrazovce skutečně vidět,
+ať to jsou třeba barvy, nebo, nevím, nějaké stupně odstíny, šedi a tak dále,
+ale obecně, když se bojíme o té přístupnosti, co se vlastně všechno řeší?
+Řeší se toho hrozně moc. Je to opravdu neskutečně obsáhlá metodika, takže možná je teď na snadě tady zmínit nějaké, například kontrolní checklisty,
+což považuji za takový dobrý základ, proč to je.
+Takže pro člověka, který například by chtěl s tím začít, ale vlastně neví, čeho se má chytit,
+tak možná neštudovat úplně teda ty normy, které popisují ty pravidla přístupnosti,
+protože ty jsou hodně nestravitelné a jsou strašně rozsáhlé, takže spíš si vzít jenom takový výtah z toho, což jsou právě ty pracovní checklisty.
+Jeden z nejlepších bude WCAG checklist, kdy je to jenom takový ten výňatek té normy,
+a jsou to spíš akční vody, kontrolní vody, na který by se měl ten developer zaměřit,
+kdy chce zkontrolovat vlastně ten svůj produkt, tu službu, jestli to vyhovoje nebo nevyhovoje.
+Ty jsi říkal WCAG, to znamená, že za tu accessibility nějaká organizace v rámci V3C nebo něco takového?
+Je to tak, existuje vlastně tady ta nadnárodní nějaká norma, nebo spíš sada doporučení,
+které tedy byly stanoveny jako ten standard.
+A vlastně od toho se odvíjí potom následně ty lokální nějaký normy a podnormy pro ty jednotlivé země,
+protože víceméně všechny ty vychází vlastně tady z tohohle základu, z téhle tý hlavní jakoby mezinárodní normy.
+Možná mě napadá, můžeme jít třeba do nějakého příkladu, aby jsme si víc představili, co třeba na tom tvém projektu řešíš.
+Možná i s obou těch ranků, jak jsme se bavili o tom, že jedno je teda ta přístupnost z hlediska třeba webového prohlížeče,
+a pak druhá třeba i, která se dotýká víc omezení jednotlivých lidí. Jaký příklady bys třeba uvedl?
+Tak vy jste tady zmínili vlastně už třeba problém těch barev a kontrastů vlastně na těch stránkách.
+To je takovej ten základ, který si myslím, že tam, když pořešíme tu přístupnost a vlastně ujistíme se,
+že ty barvy na tom webu jsou použitý správně, tak z toho nebude benefitovat jenom to,
+že je tam teda vyloženě nějakej člověk s tím omezením, ale myslím si, že z tohohle budou mít prospěchu opravdu všichni uživatelé toho webu.
+Takže ono jsou místa, kdy opravdu ta přístupnost se hodně prolíná z UX, jo?
+Protože přeci jenom UX je takový míc moderní, víc trendy, víc se na to slyší, ale přeci jenom má to pod sebou schovaný spousty těch pravidel pro tu přístupnost.
+Jasně. Je to vždycky ruku v ruce, jenom ještě ti do toho skočím.
+Já teďka nevím, jak to je.
+Já třeba vždycky si uvědomím nový stránky sport.cz, který možná vypadají, že opravdu ta odlišenost barevná je super,
+ale přijde mi, že jsou fakt ošklivý, jako čistě subjektivně, jo?
+Sorry, kluci a holky ze sport.cz, ale...
+Já se budu otevřít.
+Mám pocit, že to šlo fakt jako zpět než dopředu.
+Rozumím. Co se týče nějakého toho vizuálního prožitku, tak myslím si, že když chceme jako stoprocentně dodržet ty požadavky na tu přístupnost,
+tak nějakým způsobem...
+Někdy to vyjustí v tom, že skutečně ten design jako musí trošku stranou.
+Jo.
+Snažíme se to samozřejmě udělat tak, aby ten výslednej jako zážitek pro toho návštěvníka toho webu byl co nejlepší,
+aby jsme nějakým způsobem neuškodili tomu UX a tomu designu, ale někdy prostě není na zbyt
+a pokud chceme skutečně to udělat přístupný a chceme dodržet všechno, co je potřeba, tak občas je třeba udělat jako ten ústupek.
+A je nějaký...
+...trend, který ty vidíš jako webovej vývojář, že je populární, že lidi to mají rádi, zákazníci to mají rádi, vypadá to super,
+ale pak se na to podíváš z toho pohledu té přístupnosti a je to totální antipatern a nejradši by to neexistovalo na tom webu.
+Je tam něco, co tě tak jako irituje na první dobrou?
+Nevím, nějaký karuzely nebo... Jo, tam jsou nějaký takovýhle věci, který jsou hrozně graficky fancy,
+ale zároveň pro chudáka člověka, který třeba má drobný omezení, tak z toho nemůže mít nejenže žádný zážitek,
+ale no pak mu to třeba ještě škodí.
+Rozumím. Já si myslím, že možná takový, co mě napadá jako první věc, jsou takový ty hodně vyumělkovaný, vydesignovaný weby,
+který, dejme tomu, tíhnou k tomu, že je tam použitej strašně títěrnej font,
+kterej je sice jako krásnej, zapadá to do toho konceptu toho webu, ale je to vlastně dost nečitelný pro průměrně
+zdatnýho uživatela s průměrně dobrým zrakem a pro koukoly jinýho, starší lidi, lidi s brailem atd.
+Už je to opravdu k ničemu a v kombinaci s tím, když na to ten vývojář nepamatoval, není tam nějaká alternativní možnost,
+jak si třeba ten text zvětšit, tak je to samozřejmě k ničemu potom a nesplňuje to teda ty podmínky pro ten přístupnej web.
+A když teda teďka jako vývojář tohle slyší,
+A když teda teďka jako vývojář tohle slyší,
+oslouchá podcast, říká do prčic, asi bych měl začít.
+Co má teda udělat? Jaký je ten postup?
+Mám teďka otevřený editor, jedu tam ty své reactivní komponenty, všechno je krásný,
+a říkám si, asi jsem nemyslel na accessibility, co bych měl udělat nejdřív,
+nebo co je takovej ten easy win, abych trošičku aspoň splnil nějaký základní předpoklad pro tu učitelnost.
+Jo, já si myslím, že pokud ten člověk s tím začíná a neví o tom prakticky nic,
+tak možná si může trošku tu práci usnadnit a použít nějaký automatizovaný nástroj,
+který to udělá častečně za něj. Důležitý je nespoléhat na to stoprocentně,
+není to něco, co se dá udělat plně automatizovaný.
+Ta přístupnost je vždycky z největší části skutečně o tom přemýšlení nad tím daným problémem
+a nejde to vyloženě udělat všechno jen automatizovaně,
+takže musí se tam zapojit ten mozek a posoudit,
+jak je ten konkrétní problém a jak na něj a jak to vyřešit, jak to zlepšit.
+Nicméně ten nástroj, existuje spoustu toolů,
+něco, co si můžete dát přímo do toho prohlížeče na nějaké debagování.
+Jeden z populárních bude Google Lighthouse například,
+který my teda aktuálně taky používáme.
+Na tomhle projektu používá ho hlavně náš tester,
+který vlastně pro nás v těch cyklech kontroluje,
+jestli ty věci, ty vylepšení, kterými jsme udělali,
+pro lepší přístupnost těch stránek, tý aplikace,
+tak jestli skutečně to je posun k lepšímu, k horšímu,
+co ještě je špatně a tak dál.
+Takže to je nástroj, který je schopnej pro vás během chvilky
+identifikovat nějaký hlavní, základní problémy
+a vyhodit vám určitý přehled, co teda je špatně
+a na co byste se měli zaměřit.
+Takže on dělá nějakou heuristiku nad tím výsledkem
+a řekne třeba, co by si měl zlepšit.
+Jo, vyhodí vám přímo seznam nějakých konkrétních
+vlastně nedostatků toho webu a na vás teda už je potom,
+samozřejmě nikdy vám ten nástroj neřekne, jak to opravit,
+to si musíte sami potom nějak dohledat.
+No a s tím souvisí teda ty kontrolní checklisty,
+který jsem zmiňoval na začátku, tak ideálně,
+aby člověk jako začal do té problematiky,
+trošku se jako by snažil se do toho ponořit sám
+a študoval tohleto, protože i když ten nástroj
+vám něco řekne, tak stejně ve výsledku byste to měli posoudit,
+jestli to skutečně identifikoval dobře
+a měli byste to zvážit, jestli to odpovídá těm použadavkům,
+který jsou uvedený v té normě.
+A jak to souvisí celý, když nad tím přemýšlím,
+čistě pragmaticky, ekonomicky?
+Jsou to věci, které v podstatě ten vývojářský čas
+jako nabůstují, to znamená jako reálně
+potom to řešení se prodraží.
+A jako přemýšlí nad tím někdo tak,
+jako opravdu hodně pragmaticky, že řekne,
+ta minorita těch lidí je taková, že se mi to vlastně nevyplatí.
+Nebo tohle už je dneska za náma.
+Prostě víme, že to je správná cesta
+z hlediska nějaké lidskosti.
+A určitě to za náma není tady ten rozhodovací proces,
+kdy se určuje, jestli budeme ten web dělat přístupný
+nebo nebudeme, jestli zpětně to chceme nějak řešit
+už nějakýho, pokud máme rozjitej projekt,
+ale kašlali jsme na to,
+jak do té doby a chceme to zlepšit, chceme to opravit.
+Tak vždycky tam to rozhodování je,
+ale to rozhodování si myslím, že vychází z té neznalosti
+těch lidí, kteří vlastně o tom vůbec uvažují,
+že by chtěli mít ten přístupný web.
+Ideální řešení je takové, že vlastně od začátku,
+když se buduje ten projekt, tak už se to vytváří,
+píše se ten kód s ohledem na tu přístupnost.
+A vlastně ve většině případů není potřeba
+udělat nic extra navíc.
+Je to jenom...
+jiný mindset toho vývojáře,
+kdy on vlastně musí to psát trošičku jinak,
+ale není to o tom, že by mu to vlastně
+pálilo čas navíc.
+Musí to zkrátka dělat jenom trošku jinak,
+musí pamatovat na ty požadavky,
+které je potřeba tam splnit,
+aby udělal ten produkt přístupný.
+Ale ve výsledku, pokud to udělá správně
+hned od začátku, kdy vytváří ten web
+nebo tu aplikaci,
+tak jsou to nulové náklady navíc
+nebo naprosto minimálně.
+Patří něco takového v podstatě do
+definition of done, když se bavíme na workshopu,
+co všechno to má splňovat,
+takže kolikrát se nám řeší kraveny typu,
+že to bude otestovaný, což už my vývojáři bereme jako
+o čem se to bavíme,
+to je vlastně hygie na kódu.
+Myslíš si, že by třeba tohle tam bysme měli začít
+explicitně psát, ne proto, že by to snad
+sebralo tolik toho času,
+ale aby se na to prostě nezapomnělo?
+Já si myslím, že určitě ano.
+My například na projektu nebo
+několika projektech už to máme takhle nastavený,
+že skutečně je to jedna z podmínek,
+kdy se nějakým způsobem vytváří
+nový komponenty
+a tak dál, tak
+je tam potřeba vlastně
+mít splněny i ty požadavky na tu přístupnost
+a pokud to ten vývojář neudělá,
+pokud se to snaží obejít,
+tak to prostě neprojde tím
+schvalovacím procesem
+a ten kód nemůže být prostě použitej.
+Ještě proružstá se to všude možně.
+Já jsem vyprávil Romanovi, že vlastně jsem
+dostal ty otázky, když jsem se připravoval na tenhle díl.
+Vypnul jsem to, zapnul jsem prezentaci
+a okamžitě se mi tam objevilo
+accessibility dole u mé prezentace,
+kterou jsem připravoval pro nějakého zákazníka
+a byly tam doporučení, co mám změnit.
+Do té doby to tam nebylo,
+prostě to je AI v praxi.
+Ale spíš chci říct, že najednou to
+proružstá místama.
+Možná tam bude trošku takový efekt, že když
+chci koupit oktávku, tak ji pak vidím všude.
+Ale reálně tohle tam do té doby nebylo.
+Takže máš i pocit
+v té komunitě, že to opravdu
+prorůstá víc a víc do toho vývoje všeobecně?
+Já si myslím, že ano.
+A bude to taky daným tím, že na to budou
+víc tlačit ty zákazníci,
+kteří to budou vlastně vyžadovat
+od těch dodavatelů, od těch firm,
+kteří pro ně dělají teda weby a aplikace,
+protože tomu
+zákazníkovi vlastně tím vytváříme nějakou
+konkurenční výhodu. To je jeden
+z případů, s kterým
+vlastně momentálně pracujeme,
+kdy ten zákazník zjistil, že
+pro něj, pokud tu aplikaci
+udělá přístupnou, pokud splňuje
+ty normy, tak tím získá neskutečnou
+výhodu nad konkurencí
+v té dané oblasti, protože ostatní
+na tohle nepamatovali
+nebo nejsou schopní to zajistit, aby ten
+jejich produkt byl přístupný. Tím pádem
+nesplňují ty legislativní
+podmínky a nemůžou ten jejich produkt
+nabízet do nějaké státní
+zprávy pro
+nějakého koncového uživatele,
+který můžou to od nich
+koupit jenom v případě, že dodrželi
+vlastně tady ty podmínky a tyhle
+normy. – To jsem se chtěl právě zeptat, že ve
+státní zprávě už je to asi
+podmínka nutná? – Ano, je to skutečně
+vyžadované tím zákonem, záleží na
+dané zemi, jak jsou tam ty podmínky
+striktní a jaké jsou teda proto pravidla,
+ale ve většině zemí
+už je to právě vyžadované
+a nutné. – Mně
+ještě napadlo jako milovník automatizace,
+když jsi mluvil o tom, že když to ten
+vývojář se snaží obejít, tak
+že se na to záhy přijde. Dá se teda
+tyhle ty čeky třeba implementovat
+na úrovni Continuous Integration, Continuous
+Delivery, že to projede, že máme
+lintery, máš spuštění testů,
+tak tohle by byla de facto další vrstva
+nějakého hlídání, jestli ten očekávaný
+produkt vypadá tak, jak my
+ho očekáváme. Dá se to?
+– Ano, určitě to jde.
+Jde nějaké minimální
+množství těch věcí
+otestovat plně
+automatizovaně, takže tohle
+to tam jde nastavit, ale jak říkám,
+furt spousty věcí se musí
+skutečně manuálně kontrolovat,
+protože na to neexistuje nějaký
+algoritmus, který by to byl schopný posoudit,
+protože je to často o
+té uvaze toho vývojáře,
+který musí
+posoudit konkrétně ten daný
+příklad, jestli sedí, nesedí, a jestli
+pro toho uživatele to bude vyhovovat, nebo ne.
+– Takže pořád taková pocitovka, jo?
+– Je to do velké míry
+pocitovka, já můžu uvést
+příklad, kdy my máme teďkon
+v rámci projektu nějaký workshopy,
+kdy vlastně jednou za čas se
+ještě ve spolupráci
+se specialistou, který se přímo
+zaměřuje tady na accessibility
+pro ten německý trh,
+tak posuzujeme nějaké
+naše komponenty v rámci
+té aplikace a v rámci těch
+workshopů se vždycky bavíme o tom daném
+problému, například zpřístupnit
+nějaký dialog v té aplikaci
+a například udělat
+přístupný nějaký tabulkovej grid,
+který je docela často hodně
+komplexní a můžou tam vznikat
+spousty nějakých bariér
+a je to víceméně o tom debatování,
+co
+si myslíme, že bysme mohli udělat
+líp a jak si myslíme, že bysme
+to mohli udělat líp a
+je to o tom vlastně, kdy
+si říkáme, proč
+bysme to tak udělali, proč bysme to tak nedělali
+a je to opravdu hodně
+pocitově založené a je to o tom, že si
+musíme říct skutečně ty důvody,
+jestli to má
+nějaký význam pro toho uživatele nebo ne.
+Je součástí
+třeba, já nevím, zjednodušení
+platby na e-shopu, dejme tomu prostě,
+já si vyberu produkt a chci ho dostat
+až do toho košíku. Pořád se
+bavíme o accessibility nebo tohle už je někam
+za hranice?
+Určitě tam bude prvek
+i accessibility,
+protože první, co mě napadlo,
+největší
+neduch tohoto procesu může být to, pokud
+já nebudu schopnej
+projít celý ten proces.
+Může tam být zádrhel v tom, že já třeba
+nebudu schopnej kliknout
+na to tlačítko pokračovat
+v tom kroku, v tom
+zaplacení. Například já nebudu
+mít k dispozici myš na to, abych
+ovládal tu aplikaci nebo ten web a všechno budu dělat
+klávesnicí. A pokud já nebudu schopnej
+vlastně
+zaktivovat to tlačítko, pokračovat
+přes tabulátor, nebudu
+mít tu možnost se k němu dostat,
+tak automaticky
+celý ten produkt je nepřístupnej a nepoužitý.
+Pro mě jako uživatele s klávesnicí,
+kde já mám vlastně ten handicap, že
+nemůžu využívat myš. A ten handicap
+mi vzniká naprosto jako
+jednoduše, nemusí to být moje
+trvalé postižení, ale já jsem například
+jel minulý víkend lyžovat, spadnul jsem blbě
+a mám ruku v sádře. Jasně.
+Takže opravdu ty
+handicapy jsou různý
+a myslím si, že je důležité, aby si
+lidi uvědomili, že to skutečně není jenom pro
+lidi s nějakou trvalou
+invaliditou, s nějakým
+trvalým postižením, ale může to být kdokoliv z nás,
+nebo další příklad, který mě napadá.
+Já jsem si dneska zapomněl brýle,
+nemám je sebou a trošku hůř vidím, takže
+pro mě bude strašně důležitý, aby ten
+web, s kterým budu v ten moment pracovat,
+měl, nabídnul mi tu možnost, že
+si můžu zvětšit ty texty, aby se mi to dobře
+četlo. Jo, jo.
+To je dobrý, to je dobrý. Jako líp
+jsem si to představil teďka.
+Že jako člověk přemýšlí nad těma příkladama
+a vždycky prostě vidí si klasicky
+barvy mě napadnou první, ale
+tohle byly dobrý příklady. Spoustu
+vývojářů, kteří píšou blogy, tak
+mají tyhle
+články typu, něco jsem si
+dočasně zlomil a pak jsem pochopil,
+jak jsem to dělal špatně. Takže podle mě,
+dokud to nezažiješ, tak vlastně opravdu
+dokud si neutíráš zadek levou rukou,
+tak jako nevíš, co je prostě postižení.
+Jasně. A to samé je to u toho
+teďka vlastně, že jo, frčí spoustu
+různých UI
+knihoven, máš Bootstra, Bulmu, prostě
+jich je strašně moc.
+Řeší tohleto
+ty komponentový knihovny, nebo
+tam vidíš nějaký velký
+mezery, které jsou potřeba
+tam jako dodělat, i když už to
+používám. Že předpokládám, používám to proto, aby mi to
+ušetřilo práce a ideálně, aby mi to ušetřilo
+i třeba, co se týče nějaký defaultní
+barvy, aby byly správně, aby třeba
+byly správně popisky, aby tam prostě
+ty komponenty už sami o sobě byly do jistý
+míry vyhovující. Je to
+současný stav, nebo jsem si tak jako
+zapřeháněl a vůbec to tak není?
+Možná to je
+v menší míře, ale určitě to není
+zažitej standard, že by to
+většina těch
+komponent nějak
+řešily sami o sobě. Já si myslím, že to je spíš jako
+prémiový bonus,
+pokud něco takového zaznamenáš a setkáš se
+s tím. Takže určitě to není
+rozšířený, některý to pokrývá,
+částečně nebo v menší
+míře, ale spíš bych řekl, že je to
+teda opravdu nadstandard a ten
+vývojář by to měl řešit
+hlavně sám za sebe.
+A co je důležité, myslím si ještě
+říct, tady zmínit, že hlavně
+ta přístupnost se řeší na té
+vrstvě, která je vlastně
+nad tím daným
+jazykem, takže například pokud budeme
+dělat nějakou aplikaci v Reactu, tak to není přímo
+ohledně toho
+JavaScriptu, ale je to spíš
+na té vrstvě toho HTMLka.
+Takže je to něco, co je posazený úplně
+nad tím všim.
+A je to vlastně univerzální věc,
+která se musí
+řešit prostě vždycky bez ohledu na to, jestli to dělám
+v Reactu, v Angularu atd.
+Takže zrovna jsem tu měl i připravený
+dotaz, jestli některý programovací jazyk je
+proto líp vybavený, ale teď jsi vlastně
+vysvětlil, že to úplně na to nemá vliv.
+Je to tak? Vlastně to na to nemá
+vliv, v čem já to napíšu.
+Pokud ten výsledný výstup
+je v té webové
+podobě, tak vždycky to končí tím,
+že stejně tam mám nějaké HTML
+značky a je tam ta vrstva.
+Takže
+tam se řeší většina těch problémů
+a to je to místo, kde ty problémy vznikají
+a to je to místo, kde ty problémy musíme odbourat.
+My jsme tady
+Luboši už nakousli, že u těch nových projektů
+by se na to mělo myslet od začátku,
+protože je to ve finále
+asi i výhodnější
+z mnoha směrů,
+z mnoha pohledů, ale
+bohužel ne každý projekt je greenfield.
+A je tady spoustu
+legacy projektů. Jak přistupovat
+u toho, když se rozhodneme
+po třech letech, co jsme v produkci,
+že to musíme zpětně udělat
+přístupný?
+Je tam nějaký přístup, jak to
+udělat rychle?
+Hlavně asi ne, ale jak k tomu
+přistupovat?
+Já si myslím, že první krok
+by měl být to, abysme si určili,
+co je náš cíl vlastně toho,
+kdy se chceme zabývat tou přístupností
+pro ten náš produkt, tak abysme si
+určili, co bude teda tím výsledkem
+toho našeho snažení. Takže
+já bych tady doporučil znovu se odkázat
+na ty WCAG normy,
+které jsou vlastně
+rozdělené do tří úrovní,
+jestli se nepletu.
+A je to tam učkalované
+podle té vlastně míry
+přístupností, kterou ve výsledku
+bude nabízet ten náš produkt,
+ty naše webové stránky.
+Začíná to teda úplným
+minimem, abysme vlastně odstranili ty
+hlavní bariéry, které
+přikáží těm uživatelům, které jim
+znemožňují využívat
+jako úplný základ
+toho webu a
+to samotné jádro.
+Takže odstranit ty největší bariéry,
+základní nějaké problémy
+s nedostatečným kontrastem
+barev, malé fonty,
+neklikatelné tlačítka,
+zkrátka ty největší boty,
+které dělají
+ten web nepřístupný a které
+vlastně
+znemožňují třeba 60%
+těm uživatelům nějakým způsobem
+se tím prokousat. A potom
+můžeme postupovat dál
+a začít aplikovat nějaké
+doporučení, které
+budou zpříjemňovat vlastně
+těm uživatelům tu práci s tím naším
+webem. Takže už to nebude jenom o tom, že
+ho budou moci
+používat, ale jaká bude ta míra
+toho komfortu, kdy ho používají.
+Takže tam se to znovu zase
+prolíná s tím UX, který
+vlastně tohoto taky hodně řeší
+a je vidět, že teda
+to není jenom domenou UX,
+ale že je to skutečně zahrnutý i v těch
+normách přístupnosti.
+A jak ty ses vlastně k tomuhle dostal?
+Protože mě
+napadá, víš, jak jako vývojář vlastně v jednu
+chvíli si řekne, a teď začnu řešit tu přístupnost.
+Bylo to, že jsi právě na nějakém legacy projektu
+to musel naimplementovat a
+řekl jsi, tujo, tak na to jsme měli myslet od začátku,
+teď to hrozně bolí. Nebo
+sám si třeba narazil
+kvůli těm brýlím, že někdy ti to nevyhovovalo,
+že jsi se zapomněl? Co byl takový ten prvotní
+impuls? To je dobrá otázka.
+Já si přiznám, že ty přístupnosti
+se vyměňují už
+docela dlouho. Když říkám docela dlouho,
+tak je to zhruba nějakých 15 let,
+kdy jsem to začal dělat vlastně
+poprvé na tehdejších projektech
+v jiné firmě.
+A vlastně já si myslím,
+že tam byly ty dva důvody.
+Jeden už jsme tady zmiňovali,
+ten byl ten zákonem
+daným, kdy jsme dělali
+stránky pro ministerstvo
+vnitra, které pochopitelně muselo
+splnit tady ty standardy.
+A ten druhý možná
+důležitější
+faktor, kdy jsme dělali
+na jiném projektu tehdejší
+portály Seznam a CZ
+a vytvářeli jsme pro ně
+ty šablony těch
+portálů. Důvod, proč
+oni řešili přístupnost,
+je ten, že pokud
+odstraníme co největší množství těch bariér,
+z toho daného webu,
+nebo z té služby, tak
+zvyšujeme to množství těch
+uživatelů, který na ten web můžou chodit
+a můžou ho i využívat. Což je naprosto
+zásadní věc pro
+portály, které těží
+z té největší návštěvnosti. Pro ně je
+ten hlavní cíl mít co největší
+návštěvnost, aby tam chodilo co nejvíce lidí.
+Takže pokud opravdu ten
+web je udělaný tak, že ho může používat
+nikoliv bez ohledu na to, jestli má nějaké
+omezení, jestli má nějaký handicap, jestli ten
+web používá na stolním počítači,
+na mobilu, na tabletu, na čemkoliv,
+tak všechno to je pro ně
+benefit a je to něco za
+čím oni chtějí a vlastně
+musí jít, aby co nejvíce
+z toho profitovali. Ale to byly
+nový projekty, to nebyly
+legacy, že řekli tak a teď to
+půjďte oživit. Ano, to byly
+nový projekty, které se od
+začátku začaly psát s tím
+ohledem, že teda chceme tady
+tím mít a chceme mít to co
+nejvíce přístupný. A nějakou legacy bolest
+máš historicky?
+Ty mám, ale to jsou vlastně
+věci, které jsou jako z pozdějších let,
+protože tenkrát
+před, dejme tomu, těmi patnácti lety
+to je něco, co začalo vznikat,
+takže vlastně zpětně se
+to nějak moc neřešilo, ale
+v dnešní době teda je
+stále hodně těch projektů, které
+jsou nepřístupné a nejsou udělané
+pěkně a
+pokud teda to dojde do toho bodu,
+kdy se zákazník
+nebo ten člověk, pro kterýho to
+děláme, rozhodne, že by to chtěl začít
+řešit, tak
+je to často teda jako
+hodně práce a zabere to hodně
+času. Nicméně
+ten závěr, když
+to všechno uděláte a ten web
+zpřístupníte, tak
+musím říct, že se to vyplatí.
+Ta investice,
+ten spálený čas, který
+ten vývojář stráví
+na tom, aby odstraňoval ty bariéry, tak
+se dlouhodobě vrátí vlastně.
+Protože
+ty benefity, které to přinese, jsou daleko
+vyšší než
+ta investice.
+Hele, ještě se vrátím trošku k tomu,
+k těm příkladům různým. A teďka
+hodně lidí chodí zcela určitě na
+Ministerstvo zahraničních věcí, na jejich stránky.
+Já jsem tam vždycky úplně
+žalostně zoufalej.
+Když hledám to... Ty tam jdeš ale pro informace, ne?
+Já tam jdu pro informace. No, tak dobře ti tak.
+Moje chybu.
+A potřebuji rychle zjistit, samozřejmě,
+kolik potřebuji testů. Já nevím, co všechno,
+jaké jsou ty podmínky pro vstup do dané země.
+A je to čistě o tom, že to je
+prostě dlouhej text. Jo? Něco,
+jako bych to přirovnal k tomu, jak říkáš, že
+je nějaká norma a pak je nějaký
+výtah ve formě těch checklistů. Ano.
+Souvisí to taky s accessibility, že já tam
+vlezu a jsem prostě
+IT vzdělaný a prostě hodinu tam
+studuju, co vlastně musím udělat pro to, abych
+se do dané země dostal. Je to accessibility,
+nebo ne? Protože je to státní podnik,
+takže tam by to měl řešit víc, ale
+je to hrozný peklo. Rozumím.
+Určitě alespoň ta část,
+kterou jsi zmínil, to bylo
+zajímavé. Ty jsi řekl vlastně, že jsou tam třeba
+velké bloky textů, které
+jsou pro tebe neúplně dobře stravitelné.
+To je jedna z těch částí
+přístupnosti, protože je
+spousty lidí na světě,
+kteří mají nějaký
+určitý problém s tím střebáváním
+čtení, soustředění
+atd. A tohle to všechno by měla řešit
+ta metodika přístupnosti
+na tom webu. A vlastně existují doporučení
+a postupy, jak
+například rozsykat ty
+textové obsahy na té stránce
+tak, aby to bylo
+co nejlépe stravitelné
+pro všechny uživatelé, bez ohledu na to, jestli
+mají třeba nějaký takový
+handicap nebo nemají. Jasně.
+Úplně mě teď napadlo, jak jsi o tom mluvil,
+prostě to AI. Tak už pojď, Románku, s tou otázkou.
+Jo, no já jsem se k ní chtěl dostat ještě později,
+mám ji tady napsanou. Dobře. Já jsem
+ještě chtěl, protože ty jsi to dobře naťuk
+s těma příkladama. Mě by zajímaly
+příklady z praxe týkající se právě e-shopů,
+protože
+že máš stránky a někdo ti na ně naleze,
+to může být samozřejmě
+problém, ale u e-shopu,
+když nejsi schopný projít check-outem,
+což celý e-shop je jenom pro to, aby
+si došel do pátého kroku check-outu nebo
+třetího a zaplatil, jinak vlastně nemá
+jiný smysl existence, tak tam už
+to je fakt problém. Jsou nějaké
+české nebo obecně známé
+e-shopy, které to dělají fakt dobře z hlediska
+přístupnosti a naopak
+nějaké, u kterých víš, že
+kdyby to zlepšily, tak třeba
+nějaké jejich
+prostě výdělky půjdou nahoru?
+Já teď se obávám, že nedokážu zmínit
+shop, který
+to dělá vloženě dobře. To neznamená,
+že všichni by to dělali jako
+super špatně, ale nenapadá
+mě ten příklad. Většinou, když
+je to dobře, tak na to zapomenete a
+spíš vám zůstanou
+v paměti ty příklady, které jsou hrozný.
+Takže z těch horších
+nebo možná občas i hrozných mě napadá
+na IKEA, která
+teda se snaží to zlepšovat. Myslím, že
+momentální stav už je rozhodně
+více vyhovující,
+ale předchozí verze
+toho jejich e-shopu byla
+opravdu naprosto katastrofická
+a byly tam buty, které
+jako myslím problémy s tou
+přístupností, že i relativně
+běžný uživatel bez nějakých větších
+handicapů v relativně
+standardním prohlížeči nebyl schopný
+projít ten jejich nákupní
+proces, ať už
+to bylo strašně zmatené, nebo
+některé prvky funkční
+jako prvky na té stránce byly
+prostě slepé
+a nemohli jste se dostat někam dál.
+Takže opravdu tam byly hrozný problémy.
+To je ale docela šokující, když si vezmeš
+jak normálně IKEA
+je na tom piedestalu toho, že
+i největší retard jako já je schopen
+si postavit poličku, aniž by mu spadla na hlavu.
+Tam jsou ty jednoduchý příklady, že
+panáček jak volá, když neví,
+já mám v ruce ten šroubovák a tak.
+A na webu to udělají úplně blbě.
+To mě přijde proti tomu, co
+ta firma normálně razí, protože
+přeci oni říkají, i když jsi v životě nedržel
+šroubovák, pane Polák, pojďte.
+I ty, Poli, i ty. Já jsem skvělý přítel.
+Já mám poličku s IKEA. I dokonce i ty,
+když jsi nešikovnej, tak ty bys to podle IKEA.
+Ale web jim teda nezafungovat.
+To je zajímavý. Jo, a souvisí to s tou
+přístupností stejně, ne? Jako prostě
+to, že IKEA je schopná udělat ten
+návod tak, že i já to postavím,
+tak to je taky přístupnost, jenom ne ta webová.
+Ale pak to nějak nepropsali
+chudáci do toho webu. Asi tam mají málo
+uživatelů, nebo nevím, jak si to vysvětlit. Je to tak,
+tak určitě na to mají, vlastně dělají
+to jiní lidi, než ty, který řešili to.
+Vlastně ty návody přímo
+u těch stavebnícek, jak si máš
+sestavit stolek nebo poličku.
+Takže za ten web budou určitě
+zazapovědný jiní lidi. A já mám
+ten pocit, že aspoň teda do posledních let,
+kdy kvůli koroně
+to šlo všechno víc
+digitálně a začalo se víc tlačit
+na ty objednávky přes ten web, tak pro IKEA
+to asi nebyla priorita. Takže
+oni to pravděpodobně trošku zanedbávali.
+Jasný. No ale je to vtipný, když si to
+uvědomíš, že vlastně tenhle přístup
+v té papírové podobě tu IKEA udělal.
+Že každej ty bariéry
+neměl. Takže to je o tom
+zajímavé. To je pak úplný peklo, když si
+koupím něco v jízku třeba a mám z toho něco
+skládat. Takže vždycky pak rádu
+zase do IKEA koupím si standardní stolek,
+který vím, že dám prostě.
+OK. No a teďka ta moje otázka, kterou
+jsi avizoval, protože jsem si to
+koupil nedávno. Něco jsem dával na Twitter
+a dával jsem tam nějaký obrázek
+a nic jsem k tomu nepopisoval.
+A vlastně automaticky k tomu obrázku,
+na kterém byl i kus kódu,
+tak se mi vygenerovalo
+vlastně alternativní text, který
+popisuje, co na tom obrázku je. A já jsem si říkal
+do prčici, jestli třeba tohle není ta cesta,
+že nad tím všim
+by existovaly tooly, který
+by tohle dělali víceméně za tebe.
+Že prostě zafunguje nějaký OCR-ko,
+nějaký AI,
+nějaký prožený neurónka a řekne
+hele, upraví ti to vlastně
+až na úrovni toho browseru, aby ty si na to jako
+vývojář vůbec nemohl myslet.
+Je tohle reální, nebo je to
+fantasmagorie?
+Reální to je, ale jenom do určitý míry.
+Jak už jsme tady říkali, jde opravdu
+zautomatizovat jenom některé
+ty kroky, jenom
+ucranit části těch problémů,
+které tam vznikají pro tu přístupnost,
+některý bariér, ale ne úplně všechno jde
+dělat automatizovaně.
+A pokud to teda už
+zvládne ten nějaký nástroj
+pro mě dělat automaticky, tak většinou to
+udělá jenom do té míry, že
+sice odstraní tu
+bariéru, ale už neřeší, jak to bude
+příjemný pro toho uživatele na
+to výslední používání.
+Takže udělá nějaký ten základ o minimum,
+ale to, že potom
+pro mě je to blbě čitelný
+a
+ten prožitek z používání
+té aplikace nebo toho webu je hroznej,
+tak to už ten tool za mě moc neřeší. Nebo
+ani nemůže být schopný to pořešit.
+Tak vidíš, Boli, tak pořád je to pocitovka,
+pořád to chce toho člověka.
+I když tam prostě jako vidím
+jako cesty, ten deep learning by
+si s tím asi uměl poradit, ale
+ještě tam nejsme, no.
+Víš, jakože já nevím, typicky mě napadne
+špatný ohodnocení
+té stránky, že ty lidi odejdou, což jsou data,
+které jsem schopný sbírat. A na základě toho
+vím, že třeba některé ty prvky
+jsou tam špatně, jo.
+Vždycky vím, že třeba já nevím,
+nevím, jestli jsme tady o tom už někdy mluvili, ale třeba
+Visa dělá teďka to, že
+pozná, že seš to ty, kdo platí
+tou kartou a tou myší a tím mobilem.
+Protože ví, jak držíš mobil, jak hejbeš
+myší a jak používáš ty věci
+kolem toho a podle toho poznáš, že seš to
+skutečně ty, tak to už je jenom malý
+krok k tomu, abysme zjistili, jak se na tom webu
+točíš, jo. Takže třeba
+se tam časem dostaneme, ale samozřejmě
+je to takový pořád science fiction, no, Moniko.
+Když se ještě
+bavíme o vývojářích,
+o vývojový komunitě,
+pojďme se na to podívat z druhý
+strany, protože i já jako
+vývojář můžu mít nějaký
+omezení, který vlastně mě
+tak trošku můžou v určitých chvílích
+zpomalovat. Já vím, že teď jsme trošičku
+už od toho webu, ale zajímá mě to opravdu jako
+člověka, který pořád ještě ten, ten
+to vizuálko nebo
+nebo JetBrains Raider otevře.
+Na úrovni vývojářských nástrojů?
+Třeba VS Code
+a tak dále.
+Teď si nejsem jistý, jestli rozumím
+ty otázce. Myslíš přímo přístupnost
+toho daného nástroje?
+No, no, no. Jestli třeba já, když
+budu vývojář, který ale blbě vidí
+nebo prostě má jedno z těch
+N omezení, jestli tomu jdou
+naproti i ty nástroje, ve kterých
+pak ten výsledek vzniká.
+Já už my teď si bavíme de facto
+o diskriminaci konzumentů.
+A teď mě zajímá diskriminace tvůrců.
+Jestli třeba víš, že ty
+vývojářský nástroje, já jsem si to nikde nevšim, že
+jako zapnutí třeba v Raidru, třeba to tam je.
+Já možná to jenom nevidím, stejně jako ty jsi to neviděl
+v tom PowerPointu. Jestli
+něco takového se řeší u těch IDček?
+První, co mi napadá, tak jsou možnosti
+nějakých barevných schémat,
+který já tam budu používat. Takže určitě
+ve většině tady těch nástrojů
+existuje možnost si vlastně
+definovat, customizovat
+vlastně ten uživatelský profil
+a nastavit si přesně to prostředí,
+tak aby to vyhovovalo tvým požadavkům
+a tvým potřebám.
+Takže nastavíš si, jak chceš velký
+mít ty fonty, jaký chceš používat
+barvy. V případě, že o sobě víš
+například, hele, já nejsem schopný
+rozeznat červenou, zelenou, což
+je velmi častý, tak
+si to zkrátka změním a začnu používat jiný
+barvy. Začnu používat prostě
+nějakou, která mi nedělá problém.
+Nebo úplně tady používání
+těch konkrétních barev přeskočím a nechám
+používat jinou škálu,
+aby mě to prostě nedělalo problémy
+při tom psaní toho kódu. Takže taková ta klasika,
+nastavím si svoje klávesové zkratky,
+nastavím si svoje barevní schémata,
+velikosti fontů a fonty obecně,
+ligaturky vypnu
+nebo zapnu, podle toho. Jo, já si myslím,
+že to bude asi ten jako
+ta největší část toho
+uživatelského komfortu bude, aby se mi
+dobře čet ten kód, takže
+věci, co se týkají nastavení
+a kustomizace toho, jak vypadá ten
+zdorovej kód v tom daném programu.
+Všeobecně
+teď mě napadly smartphony
+a jak prostě moji rodinní
+příslušníci, který prostě už dosáhli určitýho
+věku a ten věk prostě logicky jde dolů,
+tak samozřejmě ten text tam
+zvětšíš, to je v pohodě, ale mám pocit, že jsou tam prvky,
+který prostě nejsou úplně
+připravený pro ty starší
+lidi, který fakt špatně viděj.
+Přitom je to věc, která prostě, kterou máme všichni
+v kapse, pořád to používáme. Jaký máš
+na to pohled u těch smartphonů? Máš pocit, že
+tam se to řeší hodně nebo je tam
+prostor pro zlepšení? Jo.
+Já si myslím, že tohle by mohlo
+složit jako oslý můstek
+na věc, kterou my jsme tady vlastně
+doteď nezmínili a která
+v hodně velké míře ovlivňuje
+celou tu přístupnost
+a vlastně odstraňování
+těch bariér a to jsou tzv.
+hlasové čtečky. My jsme to tady
+ještě vůbec nenakousli a
+je to něco, co si myslím, že
+konkrétně ze strany těch vývojářů
+to budou řešit úplně, možná
+se dá říct nejvíc nebo nejvíc na tom
+spálí toho času, kdy se budou snažit
+řešit ty problémy pro uživatelé, který
+využívají ty hlasové čtečky.
+A vlastně hlasová čtečka je asistivní
+technologie, nástroj, který umožňuje
+konzumovat tomu
+koncovému uživateli ten náš produkt,
+tu webovou stránku nebo aplikaci
+jinou formou výstupu, to znamená, že
+on dostane, on bude poslouchat
+to, co je na tom webu, protože
+to slouží pro lidi, kteří nejsou
+schopni vidět
+vlastně
+ten obsah, který jsme dali na ten
+web, takže využívají možnost vlastně
+poslechu představit ty nástroje.
+No a proč to změňu
+v rámci těch mobilů,
+protože vlastně na mobilech je to hodně
+častý, zejména
+u iPhone, kde funguje
+VoiceOver, což je služba pro
+vlastně Mac a iPhone
+a hrozně velké množství
+opravdu těch uživatelů na těch
+iPhonech využívá tady ten VoiceOver na to,
+aby se dostali k tomu obsahu těch
+aplikací a webových stránek
+atd. Není
+to právě jenom pro ty lidi, kteří jsou třeba
+kompletně slepí, mají
+vlastně tady ty, tady to postižení,
+tady ty limity, ale používají to i lidi, kteří
+ji špatně vidí, senioři,
+tak budou preferovat to,
+že mají možnost si poslechnout tu stránku,
+než aby to
+nějak těžce zkoumali a
+snažili se to přičíst a v mnoha
+případech i ta stránka na tom mobilu
+jim neumožní si to zvětšit natolik, aby
+se s tím nějak poprali.
+Kolikrát je to hrozně příjemný, já si musím přiznat,
+že teda opačným způsobem,
+tzv. speech to text, občas diktuju e-maily,
+protože to už dneska je tak dokonalý
+i v češtině, že já takhle prostě
+nadiktuju e-mail, který bych prostě tam datloval,
+já nevím, prostě pět minut, tak ho mám
+namluvený za dvě
+a minutu tomu udělám nějaký korekce a jsem hotovej.
+Takže fakt to funguje
+geniálně a já mám zatím
+zrak dobrý, musím takhle pat.
+Ale taky to jednou přijde, ale už dneska to používám,
+takže to jsou super věci.
+Já si říkám u takovýhle věci
+pro ty hlasový čtečky,
+tam asi ta semantika toho webu je
+asi zásadní, to rozdělení na
+co je článek, co je nadpis.
+Přesně tak,
+je to ta vrstva toho HTML,
+co už jsem zmiňoval předtím a
+skutečně je potřeba dodržovat
+tu semantiku na tom webu, je to jeden
+z těch základních prvků
+a je to věc, s který
+těží ta hlasová čtečka na základě
+vlastně těch semantických značek. Ona
+pozná, jak má naložit
+s tím obsahem a vidí tam to
+rozdělení do těch obsahových bloků,
+co je nějaký
+záhlaví té webové stránky,
+co je hlavní nadpis, co je navigace,
+co je patička, co jsou nějaké
+články, nadpisy atd.
+A to všechno dokáže jenom
+vlastně za pomoci té semantiky,
+těch semantických značek.
+Takže tohle je určitě důležité na to pamatovat
+a může to být
+problém, který vzniká
+v případě použití nějakých
+vlastně moderních
+jazyků, které vytváří komponenty
+z těch nesemantických značek, protože
+ve výsledku v dnešní době my jsme schopni
+pomocí kaskadových stylů všechno
+nastilovat tak, jak chceme.
+A mnohdy
+právě
+docházíme do toho bodu, že používáme
+semantické značky, což jsou Divi a Spenny,
+protože
+je to taková jednodušší praxe
+pro toho vývojáře. To je značka, která
+se s vámi
+v úvozovkách nepere
+a nepřikáží vám, a vy si s ní
+můžete dělat, co chcete,
+můžete ji dobře ohajbat,
+ale její ohromnou nevýhodou je, že
+nemá žádnou semantickou hodnotu
+a vlastně pro
+tyhle nástroje nic
+neznamená a nedává jim
+vlastně
+žádný informace o tom,
+co chceme teda na tom webu
+poskytnout za
+typ informace.
+Myslím si, že jsme to
+krásně obejšli ze všech
+možných stran. Napadá tě
+z toho vývojářského pohledu,
+kam se to ubírá?
+Celá ta accessibility, záležitost,
+jsou tam nějaký trendy, které teďka vidíš,
+že poslední dobou sřešejí víc?
+Je tam něco takového, co jsi vystopoval?
+Já bych řekl,
+že možná ten trend
+je to zajímavý, protože
+my použijeme slovo trend.
+Je to něco, co by měla být nějaká novinka,
+ale tou novinkou, dle mýho názoru,
+je to, že se vracíme zpátky
+v tom postupu,
+v tom způsobu, jak vytvářet ty weby
+zase nějakých těch 20 let dozadu
+na prosté základy
+a znovu si uvědomujeme, že
+my jsme měli používat to, co bylo pro ten web
+navržené, ty značky, které
+proto někdo kdysi vymyslel
+a byly doporučené.
+Kdybych měl spořit nadpis, tak na to použiju
+H1 a nebudu si dělat
+nějakou super zázračnou vlastní komponentu.
+Používat skutečně ten
+základ, který funguje
+všude a je
+proto prostě osvědčený.
+Všichni se tu smějí, protože je to všude stejný.
+To furt točí do kola,
+ale furt. Podle mě, kdyby jsi měl tu možnost
+jít 300 let, tak se budeš
+celou dobu plácet do kolen, protože
+30krát po 10 letech
+se bude točit furt ten samý trendy do kola.
+Souhlasnám.
+V tom AI to není jiný.
+Deep learning, ta nejzajímavější část
+machine learningu dneska,
+je tady 30 let a teď je to v hypeu
+posledních 5 let. Vracíme se
+všude zpátky. Když si najdeš papery k funkcionálnímu
+programování, tak ty jsou někdy z roku
+1940 nebo něco takového.
+To je fakt sranda.
+Každopádně tohle je rabbit hole
+neskutečná. Jsem trošku upřímně
+v depresi, protože přemýšlím, co všechno
+jsme dělali špatně. Děláme ještě
+někde špatně s tou přístupností.
+To jsem to možná nechtěl
+vidět, musím říct.
+Je dobré to mít podprahové
+v hlavě, protože mám pocit, že
+to není věc, která najednou
+začneš dělat,
+ale spíše dobré to mít neustále v hlavě,
+když začneš kodovat cokoliv novýho.
+Asi to je ten cíl, aby
+to bylo naprostou součástí
+jakéhokoliv vývoje. Aby člověk to
+nebral jako nějakou oddělenou část.
+Já teď si musím zamyslet na accessibility,
+ale měl by to být v tobě.
+Luboj říkal, že jsou lidi, kterým se plete
+červená a zelená. Teď si říkám,
+jestli třeba by nešli nadizajnovat
+ty semafory trošičku jinak, aby ty lidi
+nebyli omezený v tom, jak jezdí
+autem. Ale ono už to vlastně je, protože
+když se podíváš na ten semafor a
+co tam svítí, tak to není jenom
+barva, ale třeba máš
+v prochodce ty značky a vidíš tam jiného panáčka.
+Vidíš tam panáčka, který
+je v pohybu, který jde. I člověk,
+který není schopný rozpoznat
+tu barvu, tak aby si s tím poradil.
+Do toho je tam ten zvuk, když už
+není kdo, kdo to nevidí. Takže ono
+to opravdu ušetřené je.
+My to jenom nevnímáme, protože je to něco,
+co my nepotřebujeme, takže my to jako
+automaticky vypustíme. Tady ty
+věci, ty vychytávky, které tam jsou.
+No jasně. Tak já už tuhle
+slepost už mít nebudu od dneška.
+Ne.
+Už je to ve mně zasetý.
+No paráda, paráda. Tak jestli
+jsme jenom tebe přesvědčili, Románku, tak to je
+za mě dostatečné. No já teďka, já bych
+nemusel zase předělat web. Jo, jasný.
+Super.
+Luboši, dostáváme se k závěru.
+My jsme na začátku nezmínili
+vlastně, co dneska děláš i mimo.
+Mimo ten svůj
+hlavní zápřah v práci. Protože
+děláš velmi zajímavou věc.
+Točíš zajímavý videa. Pověř nám o tom něco málo.
+Ten výraz?
+Nebo nechceš? Jestli nechceš, nemusíš.
+Já vím, že jsem tě do toho trošku
+natlačil teď. Jo, trošku jsi mě do toho
+ukecál. Jenom velmi ve skrze
+dělám vlastně,
+snažím se teďkonc dělat
+na YouTube. Mám vlastní YouTube kanál
+a dělám tam nějaký
+videa. Teoreticky
+jako taková miniforma podcastů.
+A je to vlastně o horách.
+Takže to trošku
+úplně mimo
+to, co dělám v práci. Ale je to
+něco, co mě baví a co rád dělám ve volném čase.
+A hraješ na PC-čku nebo na Xboxu,
+PlayStation?
+Mám doma i PlayStation, ale
+nějak k němu moc netíhnu.
+Takže většinu toho, co odehraju, pokud mám
+tu možnost, tak si zahraju radši na PC-čku.
+Jsem takovej ten PC-čkář.
+No mohli bysme někdy udělat
+právě, že já budu proti Románkovi hrát NHL-ko
+a ty bys to komentoval. To by byl dobrý díl.
+Můžeme se domluvit.
+No tak jo, ale my ti strašně moc děkujeme,
+že jsi mezi nás přišel. Opravdu pro mě
+to bylo mega objevné.
+Další level,
+který člověk musí nějakým způsobem
+v té herní terminologii
+unlocknout, aby vůbec
+se do toho podíval. Zajímavý.
+Moc, moc, moc děkuju o sobě.
+Díky moc, ať se daří, Luboši. Já jsem taky rád.
+Díky. Čau.
+Tak dneska to byl Luboš Radecký. Jak se ti líbilo,
+Románku? No, zase tradičně
+pecká. Já jenom si rozšiřu
+obzory, jaký schopný
+lidi tady máme. No to jo,
+to jo. A já ještě k tomu dodam, že
+to je vždycky takový to klasický,
+když tomu úplně nerozumíš. Tak máš pocit,
+že to je vlastně jednoduchá věc. Jasně. A pak se tady
+rozkecáme hodinu o takovýhle věci zajímavý
+a zjistíš, co všechno to obnáší.
+No, mám pocit, že
+každý obor, který jsme tady naťukli zatím,
+je opravdu rabbit hole
+se vším všudy. A trošku, trošičku
+začínám víc a víc litovat frontendový
+vývojáře. Nebo lidi, kteří se obecně
+věnují frontendu. Protože
+ten můj názor na to, jak se to
+všechno zesložit, je znáš dlouhodobě.
+Ale tohle je další nálož, kterou
+já mám na zádech, když chci dělat
+weby, co všechno, jako kde
+to skončí. No, to je pravda. To je
+strašná, strašný množství informací
+a věcí a kontextu, který
+musíš brát v potaz. A
+tady je další a já teda jsem
+z toho takovej vlastně, jsem z toho
+byl v depresii. Jako opravdu, když to skončilo,
+říkám, tyvej, tak jak jsme to dělali?
+Pojďme se podívat, jestli bysme
+to nemohli zlepšit znova. Pojďme předělat weby.
+To je dobrý, že já prostě dělám
+jenom ty prezentace, že tam se to snese.
+No jo, tak ty už jsi v tom levelu, že
+řekneš třikrát it depends, vycashuješ
+a jedeš dál. Je to tak, je to tak. A tak,
+všichni se tam jednou dostane.
+Budu ti držet palce.
+Jo, drž mi palce. Já to nechci dělat.
+No pecká, pecká.
+Tak budu se těšit na další díl.
+Natáčíme tolik dopředu, což mě teda osobně
+vyhovuje, že se bavíme o těch věcech v reálném
+čase a je to fajn, takže vlastně
+tenhle díl natáčíme
+s týdenním předstihem, takže přátelé,
+doufám, že se vám líbil.
+No a v příštím díle už přineseme
+i další informace o akcích,
+který my za sínko chystáme
+v Hradci, ve Zlíně,
+možná v Bratislavě, v Žilině.
+To bude velký a právě díky tomu,
+že jsme aktuální, tak na to můžu začít
+teasovat, ale to až příště.
+No tak jo, tak myslím si, že se budeme všichni těšit
+a milí posluchači, mějte se krásně
+a budeme se těšit
+zase za 14 dní. Je to tak. Mějte se.
+Ahoj. Ahoj.

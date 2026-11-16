@@ -1,0 +1,1644 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Vážení a milí posluchači, vítejte u dalšího dílu IT podcastu Pod vocasem.
+I ve třetím díle druhé série se tu naproti mě zubí, je natěšen a dneska navíc obzvlášť dobře vyspán Petr Polipolák.
+Dneska jsem si tu noc opravdu užil. Ahoj Románku.
+Ahoj, čau, čau. No tak povědej, co se dělo dneska? Nebo včera spíš teda.
+Prosím tě, měli jsme nějakou párty drobnou.
+Drobňoučkou.
+Kamarád, který vlastně dělal zvuk pro náš podcast Lukáš a Marek, tak odjíždí na rok pryč.
+Bude pracovat ze zahraničí, tak jsme to potřebovali náležitě oslavit, nějaký dáreček mu dát, říct, že nám bude chybět.
+Tak jsme to včera potřebovali trošku uzavřít.
+A všechno v pořádku. Kancel vypadal docela uklizenej ráno, já jsem čekal větší pogo, musím říct.
+Hele, my jsme se na to hodně zaměřili, musím říct.
+Teda speciálně ty, co tam byly až úplně do konce, což já už teda nebejvám a nebyl jsem, teda už jsem taky starší ročník, co si budem povídat.
+Takže uklidili to, jsou holky šikovný, ty dvě, co tam zbyly a tančili až do bílého rána, tak tam opravdu, opravdu potom mákli.
+Já musím ještě říct posluchačům jednu věc, kterou ti, vlastně ti závidím.
+A to je to, že ty seš normálně, nevím, jestli to je chobotnice, sépě, nevím teďka, která ta mořská potvora má, tu geniální schopnost regenerace.
+Ale kdybyste, milí posluchači, viděli Poliho, nevím, v devět, půl desátý ráno, tak si říkáte, to je tak smutný, že by to mělo mít pomník.
+V podstatě se s ním rozloučíte a čekáte, že už ho nikdy neuvidíte.
+A pak kolem oběda už začne být dobrý a v jednu odpoledne přísahám Bohu, kdybych tě viděl v jednu pokalbě a v jednu normální den, tak nepoznám rozdíl.
+Já nevím, jak to děláš, já už tohle bohužel neumím, ale nemáš nějakej trýček na to.
+Hele, je to milý od tebe, protože pokud to takhle vypadá na venek, tak to je úplně jako opozit toho, co se děje ve mně.
+Jo, umíráš ve mně pořád. No fajn, no fajn.
+Hele, každopádně je dobrý, že jsi zase zpátky při síle, protože dneska máme, řekl bych, je to poprvé, co máme hosta, kterýho vidíme úplně poprvé.
+Vždycky jsme tady měli buď tvýho známýho, nebo mýho známýho, nebo někoho, koho jsme znali oba.
+Teď je tady člověk, kterýho já znám jen přes Twitter. Vím, že se zabývá tím, kvůli čemu jsme se ho pozvali, což je event sourcing a CQRS a domain driven design a tyhle ty věci, který máme rádi.
+Ale ve skutečnosti ho vlastně vůbec neznám, takže sám jsem úplně natěšen, co to bude za člověka.
+No já se taky těším, já jsem teda měl možnost, jestli tady ještě běhal kolem těch kabelů a tak dále.
+Někdo to udělat musí.
+Tak já jsem měl čas pohovořit trošku se Zdeňkem, takže si myslím, že se máme na co těšit. Má určitě zajímavý vhledy na věci a myslím si, že to bude zábavný.
+No tak snad nám mezi tím jdou, tak jdeme pro něj.
+Jdeme ho najít.
+Ve studiu už s námi sedí náš dnešní host Zdeněk Merta. Ahoj Zdenku.
+Čau kluci.
+Ahoj Zdenku.
+Tak prosím tě Zdenku, první otázka, čím se vlastně vůbec zabýváš?
+Protože já jsem hned na začátku našim posluchačům vysvětloval, že ty jsi náš úplně první host, kterýho vidíme při natáčení úplně poprvý.
+Takže spoustu těch otázek není ze slušnosti, ale nás to opravdu zajímá.
+Kde pracuješ, co vlastně děláš a pak se dostaneme teprve na to zásadní, což je to dnešní téma jako event sourcing, CQRS a tyhle dobroty.
+Jasně, no.
+Tak jmenuji se Zdeněk Merta, už jsem takový softwarový veterán, už jako programu třech dvacet a víc let.
+A vlastně asi nejvíc bych řekl, že jsem byl javista nejdalší dobu.
+Což už teďka nejsem, už se snažím neprogramovat moc tady v těchto jazykách.
+Že hledám nějaký trošku jiný.
+Jinak, co dělám, no? Čím se živím? To je takový těžký, no.
+Já jako jsem konzultant, freelancer, takže těch firm je relativně hodně.
+A blbý je, že teď nemůžu moc mluvit o těch projektech aktuálních.
+Takže možná řekneme teďka historie nějaká zpětně, co by mohli posluchači vědět.
+Tak stavěli jsme pro Kellnera banku Velvon.
+Tam se sešli poměrně jako zajímaví lidi typu Dagi a tak.
+Jasně.
+Takže tohle byla jako velká věc.
+Tam jsem dělal konzultanta v podstatě mikroservis
+a pak všeho možného ostatního, různou observabilitu a tak dál.
+Potom teďka zase z nějakých známějších firm jsem pomáhal stavět
+novou infrastrukturu pro Liftago.
+Takže AVSko a používáme Pulumy.
+S nima ještě spolupracuju.
+Byl jsi tam v době, kdy tam byl ještě Martin Podval?
+Ne, ne, ne. Právě, že už ne. Už jsem ho úplně minul.
+Byl jsem tam vlastně teďka poslední rok 2021.
+A teď vlastně dělám ještě,
+pro dvě, nebo spíš si ho pomáhám, dvěma firmám,
+který založili právě mý kamarádi z Velvonu.
+Jedna se jmenuje Trakago a druhá se jmenuje Finogo.
+Tam nemůžu moc prozradit, co teď děláme,
+protože třeba to Finogo v podstatě vzniklo teprve minulý týden.
+Máme jednoho jako klienta, pro kterýho vlastně budeme pracovat,
+ale ještě ho nemůžu prozradit.
+Jasně.
+Nicméně týká se to logistiky.
+Teď jsem v podstatě člověk logistiky.
+Začalo to tím liftágem a Trakago i Finogo je v podstatě logistika taky.
+A máš to taky tak, že když skočíš do nějakého novýho projektu,
+tak nejdřív musíš pochopit tu doménu a teď se v tom chvilku hrabeš,
+než se staneš odborníkem třeba teďka právě na logistiku?
+No určitě.
+Teďka dejme tomu v tom Finogo, tam je ten začátek takový,
+že my tak nějak víme, co budeme stavět.
+On je to takový fintech mixnutý právě s logistikou,
+takže tam si to umím představit.
+Nicméně jsme úplně na začátku, takže ještě ani tu doménu nemáme proskoumanou.
+A já tam teď vlastně spíš stavím taky infrastrukturu.
+Budeme to stavět v Azure, takže teď je úplně začátek,
+když zkoušíme technologie a něco stavíme.
+Ještě vůbec diskuzi, když takové projekty začínají,
+že to nebude v cloudu?
+No já už jsem to nezažil dlouho, že by něco nebylo v cloudu.
+No minimálně od velvonu už jsem nebyl na žádném projektu,
+který byl.
+Takže asi už moc ne.
+Před pěti lety to bylo hrozný téma, že do cloudu vůbec,
+no možná ještě díl než před pěti, posouváme se někam,
+kde vlastně už není diskuze o tom, že to nebude v cloudu.
+No kámo, já měl dneska telefonát s naším potenciálním zákazníkem,
+který potřebuje integraci na věc, která je v režii on-premises.
+A když si uvědomíš, kolik problémů už vůbec si zapomněl řešit,
+a najednou se zase musíš vrátit o těch 15 let zpátky nebo kolik,
+tak je to docela zajímavé myšlenkový cvičení.
+Neřekl jsem, že jsem o to úplně utekl, ale říkám dobře,
+bude to zajímavé.
+No, každopádně Zdenku, my když se podíváme na tvůj twitterovej účet,
+na to, čím se zajímáš, tak to tam lítá prostě CQRS, event sourcing.
+A já osobně, mě tohle téma hrozně zajímá,
+protože my jsme kdysi dávno tady v našem F-Shard týmu
+stavili jedno řešení softwarové, které bylo na event sourcingu založené.
+A myslím, že jsme vymetli spoustu temných koutů i to dobrý.
+Takže já už jsem od začátku, říkám, jsem trošku zatíženej v tom,
+že to mám rád a zároveň už jsem si i spálil prsty,
+takže jsem takovej v tom jako namočenej.
+Tak prosím mě, můžeš vysvětlit vůbec, o co se jedná?
+Co je vlastně, když začneme s event sourcingem asi, co to teda je?
+Určitě, no. Hele, je to v podstatě takový strašně jednoduchý koncept.
+Není to nic složitýho, ale složitý je všechno pak kolem.
+Takže co to je? No, v podstatě je to ukládání stavu systému
+a zatímco v těch tradičních systémech se ten stav ukládá pouze ten aktuální.
+Když máte nějaký entity, máte nějaké objekty,
+uložíte jich aktuální stav do databáze někam
+nebo do nějaké jiné prezistence, tak u toho event sourcingu
+tam se vlastně ten aktuální stav ukládá pomocí událostí,
+kdy vlastně ta událost reprezentuje nějaký fakt,
+který se stal v minulosti, má nějaký jako důležitý biznisový význam
+a nese sebou vlastně.
+A to je vlastně důvod, proč se to stalo a co se stalo.
+No tohle se ukládá do takzvaných streamů
+a u těch streamů je důležitý, že vlastně jsou seřazený
+a jsou seřazený v tom pořadí, v jakým se do nich ty události ukládají.
+Čili musíte dostat potom vždycky ty události ve stejným pořadí,
+v jakým do něj byly uloženy.
+No a to je v podstatě všechno.
+Když pak rekonstruujete stav aktuální toho systému,
+tak ho vlastně rekonstruujete pomocí těch událostí.
+To znamená, že přehráváte streamy událostí,
+přehráváte od těch nejstarších událostí po ty nejnovější
+a na každou z těch událostí reagujete
+a vlastně nastavujete stav toho systému
+podle toho, co ta událost sobě nese a co znamená.
+V čem to má výhody? Proč to vlastně vzniklo?
+Jaká byla ta potřeba kolem toho?
+No výhody. Výhod to má spoustu.
+Když tak zatím přeskočíme, to se můžeme bavit dál.
+Ale proč to vzniklo?
+No ono je zajímavé, že vlastně to nevzniklo nějak,
+že by si lidi řekli, že budeme dělat event sourcing.
+Ono to má dlouhou historii, v podstatě hodně ve finančnictví
+a myslím, že se někde udává, že snad jako staří sumerové
+na nějaké hliněné destičky vyrývaly v podstatě nějaký
+jednoduchý event sourcingový systém, kde řešili asi,
+že někdo někomu něco dluží, takže jim tam vznikalo
+nějaké v úvozovkách účetnictví, nechci říkat podvojny a tak.
+No to jsem zrovna chtěl říct, protože já jsem z ekonomky,
+my jsme se museli učit podvojný účetnictví a to je v podstatě tím,
+jak zapisuješ ty transakce, tam máš takové něco jako peníze na cestě a tak.
+Jo, jasně.
+Tak jestli tohle vlastně není taky event sourcing v reálu.
+V podstatě to je event sourcing, všechny tady ty účetní knihy
+jsou v podstatě event sourcing, protože jsou tam uloženy
+všechny operace, co se odehrály, když já nevím,
+kdyby jsem si půjčil nějakou peníze, jako třeba ten starý sumér,
+nebo já nevím, co si tehdy dávali, jestli kamínky,
+nebo asi nějaké peníze měli, nevím.
+O manželku.
+O manželku, no. Tak by tam asi bylo, no.
+Tak zdeněk si od Romana půjčil dvě manželky a vrátil dvě kozy za to třeba
+a teď ještě dluží čtyři velbloudy nebo něco takového.
+Jasně.
+Takže to by tam bylo jako takhle zanesené.
+A ten důvod, proč se to teda dělá, je kvůli, řekněme, tomu,
+aby tomu systému se dalo věřit, že není, řekněme, skorumpovaný,
+že tam nejsou nějaké chyby, nebo možná se zase vracíme k těm výhodám,
+ale proč teda tohle se vlastně, k tomuhle se uchylujeme?
+Co je ten hlavní benefit u toho event sourcingu?
+Tak ten hlavní benefit je právě ta historie toho systému,
+ale nejenom jako obyčejná historie, protože historizovat ten systém
+se dá jinýma způsobama.
+No, ale důležité je vlastně ta semantika těch událostí,
+že ta událost za prvé sobě nese ty informace, co se změnilo,
+co se někde nastavuje za nějaký atributy, pak sebou nese ještě ten kontext,
+ten význam, co se opravdu stalo.
+Můžu dát třeba příklad jednoduchý, on je rozdíl,
+když budeme mít nějaký systém, třeba viděl jsem nějaký systém
+v pojišťovnách, tak prostě systém, kde se mění jméno
+příjmení uživatele nebo klienta.
+No, ale co vlastně znamená třeba změna příjmení toho klienta?
+Ono to může znamenat několik věcí.
+Může to znamenat, že ten člověk, který toho klienta zaváděl
+nebo prostě když se ten klient registroval, tak si to příjmení vyplnil špatně,
+takže to je v podstatě oprava.
+A nebo to může taky znamenat už zajímavou biznesovou věc,
+že třeba u žen, když se vdají, změní se jim příjmení,
+tak někdo jako opravil to příjmení na to nové
+a když ta změna vlastně sebou nese tu informaci,
+že šlo o to, že se ta žena vdala,
+tak samozřejmě potom třeba ta pojišťovna nebo jiná instituce
+na tohle dokáže jednoduše reagovat a dokáže třeba
+těm novou manželům nabídnout, já nevím, půjčku nebo nové pojištění
+v případě prostě té pojišťovny.
+Takže tam je vlastně jako důležitý i ten kontext,
+ten důvod té změny, protože jinak bych tam měl jenom,
+že změnilo se mi příjmení a pak bych někde nějakou heuristikou
+zjišťoval, jestli náhodou to pro mě není zajímavý nebo je,
+což třeba v té pojišťovně ta změna toho příjmení být zajímavá
+určitě může.
+Takže ten systém je teda založený na tom,
+že já na sebe kupím ty jednotlivý události
+a pak když teda chci zjistit, jak se ta naše kolegyně,
+která se dvakrát vdala a třikrát rozvedla,
+teďka vlastně jmenuje, tak já musím udělat co?
+Musím si asi projet teda ty eventy, je to tak?
+V podstatě ta kolegyně bude mít vytvořený svůj stream událostí
+a v tom streamu budou teda uloženy všechny události všeho,
+co se kolem ní dělo a náhodou když chci zjistit,
+jak se teď aktuálně jmenuje, tak si vemu všechny ty události
+a přehraju si je od té nejstarší po tu nejnovější
+a reaguju na ty mé doménové objekty,
+které vlastně na konci mají potom, dejme tomuto příjmení,
+jaké ona má teď aktuálně.
+Tak výhoda tohohle je, že samozřejmě můžu cestovat v čase,
+takže se můžu taky podívat, jak se jmenovala ta kolegyně
+dva roky zpátky a tak dále.
+Takže já si to představuji v databázi, když bych na to šel
+nějakým SQLkem jako nějaký log, kde já pod nějakým IDčkem
+vidím všechny ty věci, které se změnily u nějaký třeba osoby
+v tomhle případě. Rozumím tomu správně?
+No jasně, typicky ta struktura těch tabulek je ještě složitější,
+typicky se tam dává ještě, vlastně dává se tam nějaký
+identifikátor toho streamu, což většinou bývá, dejme tomu
+to klientský číslo nebo nějaký identifikátor toho třeba klienta,
+pak se tam dávají typy událostí, aby bylo jasný, co to je za událost tam
+a pak nějaký payload, samozřejmě kdy se ta událost vyskytla a tak.
+Takže znamená to, že to je jenom o databázi, návrhu
+nebo celkovým stylu programování?
+No tak u toho event sourcingu je to o celkovým stylu programování potom.
+Ta databáze není důležitá, ono v podstatě jako není důležitý,
+jak se ty události ukládají a důležitý je, že je dostanu v tom pořadí,
+v jakým jsem je tam vložil, že to pořadí je neměný a samozřejmě
+jako záleží, kde se ukládají, když jsem řekl, že ne, ale je to až taková
+jako podružná věc, už prostě ten systém, do které se to ukládá,
+ti spíš pomůže nebo naopak ti bude házet klacky pod nohy,
+ale jinak v event sourcingu je jedno, kde to je uložené,
+může to být uložené klidně v paměti. A ta změna potom toho přístupu
+programovacího je, že opravdu jako nefungují ve světě aktuálního stavu,
+který si od někoho načtu, ale v tom, že tam mám ty události,
+ze kterých ten stav sestavuju a můžu se potom přesunout
+prostě do jakéhokoliv času v historii a můžu reagovat
+i na ty události potom různě, nejenom je ukládat,
+ale pak na ně i reagovat, přehrávat je, dělat z nich takzvané projekce
+a budou.
+A budou reagovat na základě nich různé další datové modely.
+Já tady možná vytáhnu zase na základě svojí osobní zkušenosti,
+co nám u toho přišlo nejtěžší a to je správně nadefinovat ty streamy.
+V podstatě, co kam zapisovat, co souvisí s čím.
+Je na tohle nějakej, řekněme, jednoduchý způsob,
+asi nebude existovat úplně jednoduchý, ale nějakej návod,
+jak třeba správně definovat ty streamy, jak to rozdělit,
+jak zapisovat ty eventy do toho správného šuplíku?
+No, to záleží zase na tom programovacím stylu.
+Dejme tomu, když se budeme bavit o objektovým programování
+a právě hodně se s event sourcingem pojí třeba domain-driven design,
+tak tam jsou některé koncepty typu aggregate, který, jako říkají,
+ukládejte stream událostí per aggregate.
+Když budete používat nějakou jinou metodiku, jak jste zvyklí třeba
+běžným systémům, kde jsou nějaké entity, tak vlastně se hodí,
+jméne tomu, ten stream byl per entita a ve funkcionálním programování
+to může být zase trošku ještě jinak.
+Není to vytesaný do kamene, jak to má být a když se budeme bavit
+o domain-driven designu, tak je spíš potom těžší vymyslet,
+co je vlastně ten aggregate, než si říct, jak to pak budu ukládat.
+Když si řeknu pravidlo, ukládám stream per aggregate,
+tak je to jednoduchý, akorát musím vymyslet, co je ten aggregate.
+Ale to není úplně nejednoduché, předpokládám.
+To není vůbec jednoduché.
+A vyžaduje to nějaké zkušenosti a hlavně to vyžaduje mít
+i nějaké podklady k tomu, protože ty aggregaty se pak navrhují
+i v závislosti třeba na nějakých biznisových požadavkách,
+na pravidlech různých, které mají vynucovat a tak.
+Takže já předpokládám, že než se do tohle vůbec pustíš,
+tak to tak bývá, aby měla proběhnout nějaká analýza,
+nějaké pochopení toho systému a možná teda rozdělení
+do nějakých, řekněme, podčástí, nějakých kontextů,
+který budu hendlovat separátně.
+Je tohle teda ten způsob, jakým se to normálně začíná,
+nebo jak vlastně, když přemýšlím, jak vůbec do toho skočím,
+jak bych měl začít?
+Asi nejdůležitější je nepoužívat event sourcing tam,
+kde se používat nemusí nebo ani nemá.
+Nemusí, nemá je takový složitý říct, protože já osobně
+zastávám názor, že bych ten event sourcing používal
+v podstatě jako nějakou konkurenční výhodu,
+takže na části systému, který mě odlišil od konkurence,
+něco právě, co mě má vydělávat peníze na úkor té konkurence
+a v podstatě bych to nepoužíval na nějaký běžný věci,
+když budete tvořit nějaký jednoduchý uživatelský
+registrační systém, tak na to bych to asi nepoužil.
+Prostě klasický CRUD je podle mě overkill použít
+takhle event sourcing. Ale jsou jako lidi, kteří vlastně
+tvrdí, že i na CRUDový systém je event sourcing dobrá věc
+a tvrdí to hlavně z důvodu toho, že vlastně se tam používají
+události, oni se teda, tam typicky pak jsou ty události
+dost jednoduchý, ale jakože se vlastně o tom lidem,
+když ten systém vyvíjí, líp přemýšlí, že přemýšlí všech událostech,
+jim pomáhá odhalit potom různý biznisový zákoutí
+vlastně celé té domény, na který by třeba jednoduše nepřišli
+a přišli by na to až někdy jako během vývoje, až třeba někdy
+v pozdější fázi. Takže jsou lidi, kteří to tlačí na ten CRUD,
+já bych to teda nedělal. Důvod je to strašně pak komplexní
+a je to drahý asi, si myslím, jako pro většinu firám.
+Jasně. A neřeší třeba tohleto, protože mluvil jsi o eventech,
+my aktuálně to třeba děláme tak, já bych řekl, že my děláme
+de facto čistý CQRS, jestli něco takového vůbec existuje,
+jako čistý CQRS, kdy sice spoustu věcí je v eventech,
+máme rozdělenou tu command stranu, máme rozdělenou query stranu,
+ale to zapisování do databáze není, řekněme, to, že bych si tam
+vedl historický log, ale vždycky uložím jenom tu finální projekci.
+V podstatě je tam zase CRUD na konci, který udělá update do toho řádku,
+takže kdybych ztrácil tu možnost jít zpátky časem a replaynout si ty eventy,
+ale ta aplikace jako taková, tam ty eventy lítají, dá se na ně atačnout,
+dá se na nějakým způsobem reagovat. Je třeba tohle způsob,
+jakým si nechat ty výhody toho, že chceš přemýšlet v eventech,
+že chceš dělat domain-driven design, že chceš jít tímhle stylem,
+ale zároveň vlastně mít nějaký event store, je už pro tebe moc overkill,
+nebo jak bys to třeba dělal?
+Tohle je klidně možný, takovýhle systém používat,
+už to samozřejmě pak není event sourcing, spíš je to nějaká,
+nechci říkat ani událostně, ale spíš nějak jako zprávami řízená architektura.
+Tam je tak důležitý, pokud ta událost výsledná,
+potom vzniká na základě nějakého komandu, který vyvolá nějakou operaci,
+dejme tomu na tou Entitou nebo na tím agregátem, tak je to v pořádku.
+Spíš potom vidím problémy v tom, když někdo vyrábí aplikaci,
+která nemá takhle oddělené ty komandy a má vlastně zjednodušeně
+nějaký formulář, ve kterým se odehrávají všechny operace.
+V tom formuláři uživatel něco vyplní, odešle to,
+a teď uvnitř toho systému se z těch odeslených dat vymýšlí,
+co to je za událost. A je tohle heuristika.
+Tak tohle mi pak přijde hloupý, protože to zase přináší nějakou komplexitu
+na úrovni kódu, kde se pak zjišťuje, co teda vlastně ten člověk zamýšlel udělat.
+Ale ano, jakmile je to prostě posáhný komandem, kde komand řekne třeba
+zaplať tady nějakou splátku, třeba nějaký hypotéky nebo něčeho takového,
+nebo nějaký půjčky, no tak tohle je v pohodě.
+Tohle je pak výsledek, že se to podařilo nebo nepodařilo.
+Takováhle událost může být cená pak pro zbytek toho systému.
+Pokud ten systém nepotřebuje právě vést tu historii, nemá žádné výhody
+z toho event sourcingu, uloží se jenom ten aktuální stav,
+tak je to úplně v pořádku. Jak říkám, nelíbilo by se mi ta heuristika
+zjistit, co update formuláře znamená ve výsledku za událost.
+Toho jsem si všim, že ve chvíli, kdy to děláš tímhle stylem,
+tak zákonitě i to UI a celý UX musí následovat.
+Že nemáš jeden velkej formulář, kde...
+Jak říká Zdeněk, vyplníš všechno, ale když měníš heslo,
+tak máš formulář pro změnu hesla. Když měníš adresu,
+máš třeba formulář pro změnu adresy a pak máš on address changed nebo něco.
+Že to vlastně ti to protejká těma systémama.
+A nechci říct, že já třeba jsem schopen to poznat,
+ale poznáš systémy, které už to nemají takhle,
+že mají jednu velkou tabulku, ve které všechno vyplníš,
+ale máš malé formuláře na malé události,
+které jsou specifické tomu, jakou akci ve skutečnosti děláš.
+Takže máš jako malé tabule a každá ta tabule představuje tu jednotlivost.
+To, co chceš udělat, chci změnit adresu, tak máš formulář,
+který je jenom pro změnu adresy. Nemáš tam u toho heslo
+a u dole ještě bankovní kartu. Ne, když chci změnit platební přístup,
+tak to je zase jiný formulář, který je tomu uspůsobený,
+možná leží někde jinde.
+Prolinkovaný k ním máš ID, aby se dostal tam.
+Takže tohle je takový ten způsob, že už pak rozpoznáš,
+jestli ty lidi při tom návrhu trošku přemýšleli doménově.
+Já vám tu možná dám příklad. Poměrně, asi hodně bank
+má potom nějaké interní systémy, kde vlastně zpravujou ty dany
+jako subdomény, dejme tomu třeba uvěry, a tam opravdu se dá narazit
+v těch aplikacích na obrovský formulář, kde se na jednom formuláři
+třeba mění parametr celé půjčky, všechny parametry,
+a oni potom mají, dejme tomu, manuál, ve kterém mají popis.
+Chci změnit kreditní limit. No tak musím vyplnit nejdřív tyhle pole,
+odeslat to, potom se mi to přepočítá všechno, takže vyplním pak další
+tyhle pole a dělají to jako na několik kroků a ten manuál je právě
+o tom, co kam vyplnit. Takže když se pak používá to UI,
+o kterém mluvil Roman, tomu se říká task-based UI,
+jako úkolevé řízený UI, no tak by tam samozřejmě byla
+jako v menu položka změnit kreditní limit a tam by se vyplnili
+jenom příslušný atributy a nebyl by tam takový ten bordel
+prostě desítek stovek atributů na vyplnění.
+No takže máme to, že ukládáme eventy, systém je parádní,
+můžu se vrátit zpátky v čase, protože vždycky si přehraju
+to, co chci. Pak ale přeci mám nějakou, řekněme, potřebu
+právě z hlediska UI, z hlediska nějakých reportů.
+Jaký je ten způsob, abych já nemusel vždycky všechno
+přehrávat úplně from scratch?
+Jo, no tak čistým event sourcingu.
+Vám to nikoho moc nezajímá, ten event sourcing je vyložen
+jenom o perzistenci těch událostí, ale tohle už pak jako
+zabýváme zase do toho CQRS.
+Já těmto právě trošičku se osnažím nasměrovat.
+A to je teda pak o tom, že vlastně, když mám zobrazit
+nějakou informaci uživatelům, tak tohle se v CQRS vlastně
+dělá pomocí té read části. CQRS je vlastně jako o tom,
+že se dělí zapisovací část, která, dejme tomu,
+v tom event sourcingovém systému právě ukládá události
+do těch streamů a pak je nějaká read část, read modely
+a tam vlastně tyhle read modely vznikají tím, že se připojím
+k těm streamům událostí, poslouchám nový události,
+které mi tam přišly a ty události nějakým způsobem
+zpracovávám a budu z nich třeba nějaký pohled.
+Takže v tom pohledu typicky jsou pak jenom třeba aktuální data
+a velmi často se, dejme tomu, ty pohledy, tady ten read model
+dělá tak, že když právě mám třeba task-based UI,
+tak dejme tomu klidně může být to, že co obrazovka v té aplikaci,
+to třeba jedna, jeden pohled vlastně tady na tyhle data.
+Když se budeme bavit o tom, co se asi dělá nejčastěji,
+tak nejčastěji, že na to lidi používají nějakou lehkou
+relační databázi, pokud ne rovnou jako nějakou in-memory,
+takže to může klidně znamenat té relační databázi,
+že vlastně jedna obrazovka je jeden, jedna tabulka,
+ta se aktualizuje, udá je právě na základě těch událostí,
+které se čtou z toho event storeu a vlastně potom,
+když na takovou obrazovku ten uživatel vleze,
+tak se udělá jednoduchý select hvězdička from tahle tabulka,
+where třeba user rovná se nějakým děčko.
+Žádný joiny, žádný složitý dotazy, úplně nejhloupější,
+nejhloupější, jednoduchý SQL dotaz.
+Jinak ty read části, když tady mluvím třeba o těch
+relačních databázech, tak samozřejmě nemusí být
+relační databáze a zajímavý je,
+že vlastně hromada lidí dělá CQRS a ani o tom neví,
+protože typicky pokud máte nějaký váš model,
+do kterého si zapisujete údaje, klidně třeba i z něho čtete,
+to je jedno, ale pak máte, dejme tomu, nějaký full text,
+nějaký Elasticsearch nebo něco takového,
+tak vlastně v tom Elasticsearchi vy budujete
+jeden takovýhle read model, který je optimalizovaný
+na efektivní vyhledávání a ten taky budete aktualizovat,
+dejme tomu, na základě třeba těch událostí.
+Takže to může být další příklad
+tady toho read modelu a typicky vlastně
+opravdu lidi ho používají a ani o tom neví,
+že se tomu říká třeba CQRS.
+A takže ty read modely by teda měly vznikat podle potřeby toho,
+že jak to chci v budoucnu číst, je to tak?
+No ideálně podle potřeby toho, jak ta aplikace
+to teď aktuálně potřebuje. Asi se tam nechystají
+úplně na budoucnost, když někdy samozřejmě taky,
+ale opravdu jako spíš na to, co potřebuje, dejme tomu,
+spoustu biznisů potřebuje třeba nějaký reporting.
+Tak ten reporting se dá postavit tady na jeden třeba pohled
+a využije se na to technologie,
+která je na to ideální. Pak třeba právě
+naplnění UI, volání různých rest-upy
+a tak, tak můžou mít takhle svoje modely.
+A jedním z takových klasických strašáků
+u těchto systémů je, hele, budete to mít nekonzistentní.
+Budete mít, chvilku zapisujete, než se vám vygeneruje
+ten read model a než se vám vygenerují všechny
+protože může existovat víc read modelů
+z jednoho eventu, proč ne.
+Je to opravdu takový problém nebo jak ty to ze svý zkušenosti
+jak to řešíte? No, za mě to jako problém vlastně není.
+On je takový jako složitý. Ono, vývojáři
+ty typicky žijou pořád jako ve světě atomičnosti.
+Protože někde ve škole byli zvyklí na to, že prostě udělají
+transakci v databázi a to se provede.
+A asi jako většina z nás teďka začínala
+začínala opravdu na takových těch jednoduchých systémech
+tří vrstve, kde jme tomu zjednou databází, takže to nebyl takový problém.
+Ale on jako reálnej svět vlastně atomicky nefunguje.
+Reálnej svět právě funguje v té eventuální konzistenci běžně.
+Třeba když si, během nějaký příklad,
+když fungovala třeba maminka a babička dělali v pojišťovně.
+No jak to fungovalo? Když se někdo nechal někde pojistit
+na nějaké pobočce, ještě samozřejmě někde za socializmu,
+no tak žádný počítače moc nebyly ještě v té době,
+takže to pak fungovalo typicky tak, že někde se ukládali
+nový smlouvy nových klientů a ty se pak třeba jednou za týden,
+jednou za měsíc prostě posunuli někam na centrálu,
+tam se to dalo jako do toho systému.
+Čili ono je to opravdu o tom, že spoustu jako různých domén
+nefunguje v tom atomickém světě a je to pro ně úplně normální.
+Ale není to normální pro vývojáře, kteří pak ty domény píšou.
+A samozřejmě, když bude jako vývojář chtít a bude vykládat
+různým doménovým expertům prostě tady těchto domén,
+no to budeš mít okamžitě, to bude hned,
+tak on samozřejmě ten doménový expert bude rád,
+ale spíš je potřeba se ptát, a za jak dlouho to musí být udělané,
+za jak dlouho musí být ten model synchronní,
+za jak dlouho vlastně třeba ten druhý systém se musí dozvědět
+o tady těchto změnách, které děláme v jiném systému.
+A pak se dozvíte jako vývojáři, že jo, to stačí třeba večer,
+jednou za den, když jste se synchronizovali tak.
+Čili eventuální konzistence je podle mě spíš strašák
+jako lidi, kteří žijí v atomickém světě
+a vlastně nemají takovou znalost hloubkovou těch domén,
+ve kterých řeší problémy.
+Takže vlastně tenhle způsob vývojáře učí
+tomu asynchronímu uvažování v kontextu celého světa,
+protože když si třeba vezmeš nějaký komplexnější
+systém a jednoduchá věc, objednáš si něco na e-shopu,
+teď než to proběhne všema těma uděleníma a je to na skladu,
+to je jako brutálně asynchronní akce.
+To není tak, že teď jsem klik a za chvilku,
+tady za půl vteřiny mi zvoní pošťák.
+To je celý ten biznis je asynchronní.
+Jak se vlastně řeší, tím, že se dostáváme zase trošku dál,
+ale takováhle věc, takováhle řekněme dlouhodobější proces,
+který se skládá třeba z vícero eventů,
+který se skládá i třeba z vícero eventů do vícero streamů
+nebo do vícero těch aggregation růtů.
+Jak tohleto vlastně uchopit při tom návrhu té aplikace?
+To narážíš na nějaké procesy mezi těma aggregate.
+Protože normálně by jeden aggregate neměl ukládat do víc streamů,
+i když se to v některých, nechci říkat, v jakých případech dělá,
+ale dělá.
+Ale je to různý.
+Tam je potřeba, to není ani tak jako věc,
+toho event sourcingu, domain driven designu a CQRS,
+to je spíš jako věc už, co se týká nějaké integrace,
+nejmejme toho messagingu.
+K tomu je samozřejmě super literatura,
+Enterprise Integration Patterns od Gregora Okpeho,
+případně pokračování, který teďka píše a má to online jako na webu,
+možná to ani nikdy nedopíše, jak to zatím tak vypadá.
+Takže tam je pak jako dobrý se naučit to, co on tam píše.
+Takže na to se používají potom třeba různý proces,
+managery, používá se klasická choreografie,
+orchestrace a nejde říct úplně, který řešení je správný,
+protože ono může být správný jakýkoliv tohle řešení.
+Takže zase je to spíš o nějaké zkušenosti
+a o tom nalézt si nějaké benefity, plusy, mínusy,
+proč vlastně použiju zrovna tenhle způsob,
+proč nepoužiju jiný a tak.
+My když jsme dávali na Twitter, že ty dneska k nám přijdeš,
+tak můj bývalý kolega Michal Těhník, který o tímto zdravím,
+tak ten říkal, jestli se dozvíme, že teda ságy jsou špatně.
+Ty jsi na to odpověděl, že se možná dozvíme,
+že sága je ve skutečnosti proces manager.
+Já jsem vlastně už tím, že jsme se bavili o tom opouštění toho acidu
+a opouštění prostě té atomičnosti v tomhletom světě,
+tak jsem se právě snažil trošičku tam tu diskuzi zavát.
+Co jsou ságy, co je proces manager, vůbec tenhle svět,
+můžeš to nějak i pro ty nováčky, i pro mě to nějakým způsobem
+vysvětlit, rozlišit, aby jsme věděli teda, co to vůbec řeší a co to je?
+Určitě, ale já to ještě vemu trošku víc.
+Tam vlastně, pokud teď se bavíme o nějakých takovýchhle procesech,
+tak tam je potřeba si uvědomit, že ty procesy jsou dvojího typu,
+zejména mám nějakou svoji vlastní doménu, nějakou svoji službu,
+ve které třeba používám event sourcing,
+něco se tam takhle řeším pomocí těch událostí.
+A jeden ten typ je jako o tom, že vlastně potřebuji skoordinovat práci
+těch svých entit, agregatů, nebo jak tomu budeme říkat,
+a potřebuji třeba řídit kooperaci několika takovýchto agregatů.
+Pak mám druhej způsob, a to je, že vlastně potřebuju kooperovat
+a třeba řídit proces, který je napříč několika různýma subdoménama
+a napříč několika službama.
+Ono se jako vlastně používá v podstatě to samé na sebe, na tohle,
+ale já jenom chci upozornit na to, že vlastně takových těch koordinátorů
+procesů mezi víc...
+...kontextama, mezi víc subdoménama, tomu bych se já osobně jako vyhýbal
+a radši bych jako používal koordinaci v rámci jednoho,
+tady tohle třeba jedné subdomény jednoho kontextu.
+Protože tam potom, když jsou nějaký jako řídící, orchestrátoři a tak,
+tak ono je těžké potom rozhodnout, kam oni patří.
+Takže spoustu firm, jako hlavně v Enterprise, z toho dělá samostatní krabičky,
+který nepatří potom nikomu, jsou tak napomezi třeba jedné domény,
+druhé domény a teď jako komu to patří, jaký byznysový proces to tam bude dělat,
+kdo je vlastník, takže je lepší jako vlastně udržet ty procesy v rámci nějaké jedné subdomény.
+Tak to je jenom takhle jako na úvod, že jsou vlastně ty dva typy.
+Jeden prostě, který je u mě uvnitř a druhej, který je takhle mimo,
+který koordinuje víc jako třeba těch subdomén.
+Tam k tomu je ještě důležitý říct, že ono se to pak liší
+i dejme tomu těma událostma, které se tam posílají.
+Protože když jsem uvnitř jedné subdomény, tak tam si můžu dovolit třeba použít ty event sourcingové události.
+Tam to není problém, ale problém to může být, kdybych byl mezi víc třeba subdoménama a službama.
+Důvod je jednoduchý, ty události vlastně event sourcingové jsou pro mě perzistence.
+To je perzistentní mechanismus a je to vlastně nějaká moje interní implementace.
+Takže rozhodně nedoporučuji posílat někomu dalšímu nějaké jiné službě,
+kterou nemám pod kontrolou.
+Takže by nemělo líkovat vlastně?
+Nemělo by to líkovat, protože to vlastně, v podstatě jakmile to líkne ven, tak je to API.
+A samozřejmě API se musíte nějakým způsobem chovat.
+Takže když pak budete dělat nějaký váš refaktoring, budete měnit jádro svý služby
+a líkujou vám tady tyhle perzistentní detaily, tak to je problém potom.
+No a OK, takže takhle jenom jsem chtěl říct právě, jaký je v tomhle rozdíl a co vás tam může potkat.
+A teď teda k tomu, jak se to koordinuje.
+Ono se totiž řeší jako v diskuzích tady o těch systémech,
+jestli vůbec takovýhle koordinátoři a takovýhle procesmanagery mají existovat.
+Já zastávám názor, že mají.
+Je dobrý se jim vyhnout, protože samozřejmě pokud je tam nějaký koordinátor takovýhle,
+tak je to typicky nějaká orchestrace a typicky je tam někdo,
+kdo dává prostě příkazy všem ostatním, co mají dělat a čeká na odpovědi.
+A je to typicky nějaká centrální krabička, ať je to jako v rámci jedné nějaké mojí službičky,
+dejme tomu v nějaké subdoméně, anebo když budeme se bavit o těch víc subdoménách,
+které takhle se koordinují, tak tam je to ještě vlastně horší.
+Mám nějakou centrální krabičku, ve které se všechno potkává,
+single point of failure, prostě je to jako služitější.
+Lepší je to dělat choreografii, kde se reaguje, vyloží na ty události
+a reaguje na to ten, kdo potřebuje.
+No a ta Saga.
+Saga, tady jako v tom event sourcingu, domain driven designu CQRS,
+vznikla.
+Spíš asi jako z neznalosti.
+Lidi, kteří to takhle začali vymýšlet,
+tak z nějakého důvodu začali tady ten termín Saga používat.
+A on ten termín Saga už existuje docela dlouho,
+existuje v nějakém paperu od pana Moliny a ještě jednoho pána Salema,
+nebo doufám, že si to pamatuju dobře,
+a je to tuším někdy z 80. let.
+A to se týká vlastně dlouhotrvajících transakcí
+v rámci jako databázových systémů.
+Ten paper je docela zajímavý.
+A je vlastně o tom, že mám nějakou databázi,
+typicky oni tam počítají s tím, že ta databáza je jako jedna,
+že to je jeden stroj, protože jsou to opravdu 80. leta.
+A v té databázi já potřebuju vlastně udělat nějakou sadu transakcí,
+který kdybych obalil do jedné velké transakce,
+tak protože jsou dlouhotrvající,
+tak by mi to vlastně mohlo jako hodně zalokovat ten systém.
+Vznikl by tam nějaký zámek a vlastně ostatní,
+kteří potřebují pracovat tady s těmi tahle tabulkama,
+zamykali, tak by nemohli.
+Takže oni vymysleli koncept ságy,
+kde vlastně v normální databázi simulujou několik transakcí,
+které by měly být, ale všechny obalené jako v jedné,
+měly by být udělané atomicky.
+A oni to rozdělují, aby to atomicky být nemuselo.
+A zmiňují teda v tom paperu i jako,
+že se to samozřejmě hodí na distribuovaný systém,
+že to je taky jasný,
+ale už tam jako nenastínují moc tu implementaci,
+kdo by to a jak by to dělal.
+Nicméně, co je důležité u té ságy,
+je, že ta sága je typicky proces sekvenční.
+To znamená, já tam mám několik kroků,
+budu tam mít třeba pět kroků,
+a já vlastně jdu jeden krok po druhým,
+když se mi jeden krok podaří, jdu na druhej,
+když se mi podaří druhej, jdu na třetí.
+A takhle až do konce, to je jako a ta happy pass.
+Jakmile dojdu do konce, tak vlastně si označím tu ságu,
+že je kompletně hotová a mám hotovo.
+A co unhappy pass?
+Unhappy pass je potom o tom,
+že zase procházím tou sekvencí
+a když některý ten krok jsem nepodaří udělat,
+tak vlastně každý ten krok musí mít podle definice té ságy,
+musí mít nějakou kompenzační akci,
+kdy vlastně teda nepodaří se mít třetí krok.
+No dobře, no tak já musím začít odvolávat
+všechny kroky, které se staly předtím.
+Takže jdu prostě pospátku
+a odvolávám všechno, co se stalo.
+To odvolání nemusí znamenat to,
+že se ten systém dostane do stavu,
+jakým byl, než jsem tu ságu nastartoval,
+ale může se ten stav měnit trošku jinak,
+ale v důsledku toho by to mělo být
+vlastně ten systém ve stejným stavu.
+Co tímhle myslím jako příklad,
+zase finanční transakce nějaká,
+já když někde odepíšu peníze,
+pošlu od někud někam peníze,
+já je nemůžu potom vymazat,
+já nemůžu udělat delete do té databáze.
+Čili tam ta kompenzační akce by byla taková,
+že by se v podstatě další transakcí
+vrátili ty peníze z toho cílovýho účtu
+na ten původní.
+Takže takhle.
+Jinak ten paper, ten ještě zmiňuje
+i možnost potom paralelního běhu těch sák,
+a to je zase strašně omezené.
+Je to o tom, že tam je nějaký hlavní vláknutý sáky,
+který jde postupně po sobě,
+po těch krocích,
+a v nějakým kroku je možný to paralelizovat,
+takže najednou jsou v podstatě ty sáky dvě,
+jsou takové dvě subsáky,
+a ty zase jdou jako dál,
+zase po jednotlivých krocích,
+který obsahuje každej ten subproces,
+každá ta subsáka,
+a je tam pak trošku samozřejmě složitější
+ten rollback, respektive ty kompenzační akce,
+a je vlastně to dokončení,
+protože typicky pak bývá potřeba
+nějakého joinu,
+když se zase ty procesy asynchroní někde spojí.
+Nicméně důležitá informace je opravdu to,
+že to jde jako sekvenčně.
+Druhá důležitá věc je,
+že vlastně dopředu znáte tu posloupnost těch kroků.
+Vy víte, že se stane tohle,
+pak se musí stát tohle, pak tohle, pak tohle.
+A něco z toho se může stát asynchronně.
+Ale víte dopředu ty kroky
+a víte, jak to budete odvolávat.
+Takováhle sága typicky nemá moc
+jako stav vnitřní.
+Samozřejmě, když to navrhovali ten paper,
+tak vlastně ta databáze držela
+nějaký log té ságy,
+kde bylo zaznamenané,
+které kroky se spustily a jak dopadly.
+Ale kdybyste si implementovali
+takovouhle ságu třeba v tom distribuovaném systému,
+tak samozřejmě taky ten stav
+někde musíte ukládat.
+Nicméně neukládá se tam potom stav typu
+tady mi třeba přišla platba
+z nějakého systému
+a já si uložím, že teda přišla
+a že částka, která se připsala,
+byla tolik, to ne.
+Tohle se tam už jako neukládá.
+Prostě nejsou tam žádný takovýhle data
+a není tam žádná rozhodovací logika.
+Je to vyloženě o tom,
+buď jdu na další krok,
+anebo ten krok odvolávám.
+Zatímco potom teda je ten process manager
+a ten process manager to je právě to,
+co si myslím, že dělá většina lidí
+a na něj se takovýhle pravidla vůbec nevztahují.
+Ten process manager typické
+je právě o koordinaci
+všech třeba ostatních agregatů
+nebo ostatních služeb.
+Tam už jako od začátku
+nemusí být dopředu známý,
+z jakých kroků se to bude skládat
+a ani to pořadit těch kroků tam není.
+Není tam, dejme tomu, ta sekvence.
+Může být, ale nemusí.
+Čili kdybych to takhle jako možná definoval,
+tak vy vlastně,
+když uděláte,
+když budete dělat ságu,
+tak sága v podstatě může být ten process manager.
+Když uděláte process manager,
+trošku složitější, tak sága třeba
+ten process manager naopak víc nemůže.
+Čili je to spíš ta sága taková podnožina
+těch process managerů.
+Já k tomu doporučuji rozhodně si přečíst ten originální paper,
+protože lidi právě z komunity
+do main-driven designu a tak,
+jako dřív přišli s tímhle termínem sága
+a teď se spíš jako omlouvají za to,
+že vlastně jako tady ten termín vytáhli,
+že měli prostě používat process manager,
+ale je to zadrátovaný už v různých frameworkách,
+v různých nástrojích, najdete to tam pod pojmem
+sága a dochází potom jako k nederozumění.
+Tak naming is hard,
+tak platí to vždycky.
+Což mimochodem ten název process manager
+taky není úplně ideální, protože tím si zase
+můžete představit cokoliv.
+Tam zase odkážu na tu literaturu, tam process manager
+se řeší právě v té knize
+Enterprise Integration Patents Gregora Okpeo
+a on tam zmiňuje
+takovou větičku. On tam zmiňuje to,
+že vlastně tady popsal strašně jednoduše
+v nějaké kapitole vlastně ten process manager,
+ale o tom process manageru by se dala
+napsat celá kniha, možná deset knih.
+Prostě je to strašně
+složitý.
+Má tam teďka na webu, co už jsem zmiňoval,
+tu knížku další, která je takový
+pokračování volný a ta se týká
+v podstatě jenom těchto process managerů.
+On tomu potom říká takzvané konverzace,
+conversations. Takže se tam nenajdete
+tu knížku pod názvem Process Managers,
+ale prostě jmenuje se to Conversations.
+A tam se, tam vlastně,
+když si to přečtete, tak zjistíte,
+co všechno může, může být
+jako implementovaný pomocí
+toho process manageru. Jaký třeba složitý
+messagingový komunikace
+se tam můžou odehrávat. Jsou tam různě
+rezervační vzory návrhový,
+co se dá třeba předvízt
+na příkladu, když si někde
+ve firmě se domluváte
+nějakou zkusku, tak
+pošlete nějaký propouzlo, že jo, jako když se
+dáte, jaká bude agenda, teď lidi vám začnou
+vracet, jako no, hele, já nemůžu, jo.
+Navrhuji tenhle čas, jo.
+A teď jako může to domluvení
+takovéhle zkusky, když ta firma třeba
+je trošku jako větší, nebo to oddělení větší,
+tak může to chvilku trvat
+a vyměníte si tam jako relativně hodně
+zpráv, s kterými vám třeba ty outlooky
+a podobné nástroje jako pomáhají.
+No, tak tohle třeba je příklad jako konverzace,
+které kdybyste jako modelovali
+právě pro moci nějakého procesmanageru,
+tak už to může být relativně hodně složitý.
+Takže tady v téhle,
+v tomhle zárodku té knihy se vlastně můžete
+dočíst o tom, jaké záludnosti vás
+můžou čekat u procesmanageru.
+A ty jsi mluvil o tom, že
+ty máš radši,
+když je to takovým tím, řekněme, reaktivnějším
+stylem, že na základě
+jedné události se třeba vykoná další,
+čili ta pravda,
+ta koordinace,
+nebo řekněme nějaký ten overview,
+nějaký ten managing, se tomu snažím
+vyhnout tomu slovu, toho celého teda
+je v podstatě o tom, že každý ví,
+co má dělat, ale nikdo nikomu neříká,
+co má dělat. Je to tak? V rámci
+toho systému, nebo?
+V podstatě je to tak, no. V podstatě
+přijdeme nějaká událost, můžeme
+přijít na příklad nějaký objednávkový systém, tak
+přijde mi objednávka, ta objednávka se pak
+musí zaplatit, takže
+objednávkový systém vypálí
+událost, přijal jsem objednávku,
+v ní jsou data ty objednávky a teďka
+samozřejmě někde v tom procesu asi
+je to zaplacení, tak nějaká platevní služba
+může poslouchat na tady těch
+událostech, typu
+přijal jsem objednávku,
+z ní získá informace o té objednávce, ví
+třeba, kdo je ten klient,
+komu má ty peníze naučtovat, co má dělat,
+takže to udělá, když se to tomu
+platevnímu systému podaří, tak zase
+vykopne událost,
+jo, tady ta objednávka je zaplacená,
+samozřejmě tam jsou koreleční identifikáty,
+podle kterých se pak dá najít,
+která objednávka to byla. No, objednávkový
+systém třeba zase reaguje, nebo to nemusí
+být objednávkový systém něco, co třeba řeší
+už pak expedici toho zboží, tak reaguje
+tady na tuhle událost, jmé tomu,
+že ta objednávka byla zaplacená
+a třeba zařídí právě tu expedici
+někomu tam, dá prostě
+položku v nějakým task manageru, hele,
+zabal tady tohle zboží, prostě zkompletují
+objednávku, pošli to na tu adresu, co tam je.
+No, takže takhle se to dá dělat,
+takhle je to takový jako trošku škálovatelnější
+a samozřejmě to má svoji
+nevýhodu, nevýhoda je v tom, že pak se
+těžko zjišťuje, v jakým stavu ten proces je
+a taky se těžko hledá, kde všude
+ten proces je implementovaný.
+Jedna z takových věcí, která se
+týká eventů, event sourcingu,
+je ta její samotná podstata
+a to je to, že event je imutabilní,
+čili vlastně stal se,
+nelze odestát, neměl bys ho
+asi nikdy smazat, vlastně pokud vím,
+tak spousta těch storagí jsou
+skutečně imutabilní, čili ty už ho asi nesmažeš.
+Jak se teda řeší
+ta situace, kdy musím
+udělat nějaký invazivní
+zásah dodat, nebo došlo třeba
+k tomu nějaký breaking change typu,
+že už tenhle event
+vlastně se změnil, znamená něco trošku
+jinýho třeba, nevím,
+biznesově možná. Jak
+tohle řešit?
+To je parádní otázka, no, akorát bohužel
+teda na to není jednoduchá
+odpověď, je to hodně komplexní,
+ale ty jsi mluvil o tom, že by se ty události neměly
+mazat. Já naopak tvrdím, že by se mazat měly.
+Jo, tak to je zajímavé.
+Ne, ta pointa je, že
+vlastně vy byste asi nepotřebali
+ani neměli ukládat věci, které pro vás
+nejsou už pak jako úplně důležitý a cený.
+Teďka typicky, když se
+začínalo stavit těma těma event sourcingovýma
+systémama, tak jako veliká
+výhoda byla, že máte historii těch událostí
+a že vlastně dokážete
+pak někdy v budoucnu zřejmě
+biznesu odpovědět na nějaké otázky,
+které si o ní vymyslí ad hoc. Kdybyste
+ukládali aktuální stav, tak ty odpovědi nemáte.
+Tady třeba, pokud jste navrhli
+nějak slušně ty události, tak ty odpovědi mít budete.
+Ale
+teď jako s nástupem různých data lakeů,
+do kterých všichni chtějí odlívat
+všechno a chtějí to mít taky historizovaný
+a tak, tak už se tyhle analitiky
+zase tolik vlastně nad těma event storema nedělají
+a dělají se spíš nad tím data lakem.
+Takže já bych
+spíš jako tady teď zastával názor,
+jako neukládajte tam, co nemusíte
+a mažte, když můžete.
+Co nejdřív, co můžete.
+Protože samozřejmě ten systém bude trošku
+reperformovat, nebude vám zabírat
+tolik místa, budete to mít trošku lacinější
+a bude se vám s tím
+líp pracovat. Člověk, když tam mluvíš
+teďka nebo mluvil jsi o těch breaking changes
+a takhle, no tak
+tam pak strašně záleží to řešení, jestli si můžete
+dovolit mazat a co můžete si dovolit s tím systémem
+dělat. Protože
+typicky, pokud nastane
+nějaká breaking changes a opravdu se třeba má
+změnit payload
+té události a jako opravdu radikálně, že to
+není kompatibilní, tak
+tohle vám přinese potom na straně
+vlastně toho kódu vašeho,
+kde řešíte třeba ten aggregate
+a kde pak řešíte ty projekce,
+to vám přinese spoustu problémů.
+Vy tam totiž budete mít potom, jestli třeba
+vymyslíte novou verzi té události, budete mít
+událost verze 2, v ní bude teda
+ta nekompatibilní změna, ale
+co uděláte s tou historií, s tím streamem,
+který už máte a ve kterým máte uložený
+vlastně události, které
+už nejsou relevantní, protože ten aktuální
+systém vlastně už je nedokáže pořádně
+zpracovat, protože potřebuje ty data, co jsou v tom
+v těch nových událostech. No to je právě ono,
+co jsem se i chtěl zeptat, jestli tím pádem
+by se pak nějakým způsobem neměly verzovat
+i ty projekce, protože
+že u zákonů taky vykládáš
+ty události, které se staly v rámci
+nějakého zákonu, tehdy, kdy se
+staly, nevykládáš to podle toho novýho,
+tak vlastně ty by si i ty projekce možná
+měl pouštět
+nad tím
+tak, jak byly v té době předtím,
+ne? Čili vlastně ta historie de facto se ti
+úplně jako rozlejvá přes celý systém, takže
+proto i třeba ty tvrdíš, že bys to radši mazal,
+ať je to čistší, nebo? No,
+jasně, rozlejvá se to přes celý systém, myslím,
+že k tomu hnedka dojdeme. No, mazal.
+Mazal bych to v některých případech, ale jinak
+samozřejmě existuje víc metod, jak to udělat, zase
+na to existuje knížka, kterou možná pak můžeme dát někam
+do odkazu, o verzování
+právě ventursingových systémů,
+ale
+tam typicky se jako
+těch událostí, potom když mám ve streamu nějaké staré
+události, tak se typicky ty události
+konvertují do těch novejch. Pokud to
+nedokážu do nich skonvertovat, tak mám jako
+velký problém. Typicky to ale dokážu,
+protože třeba pokud mi tam přibědou v nové
+události nějaké atributy, které já v těch
+starých událostech nemám,
+tak já jim musím nastavit nějakou defaultní hodnotu,
+nebo prostě si nějak musím dopočítat, nějak
+vymyslet. Toto typicky jako
+se dělá.
+Takže buď jako tam mám konverze
+těch událostí, to je jedna
+věc. Vlastně třeba
+si řeknu, že aktuální verze je verze 5
+ve jmé tomu a já vlastně musím,
+když narazím na verzi 1, tak já musím
+dojít konverzí od verze 1 až k té
+verze 5. To je takhle jako jedna možnost.
+To pak vede k tomu, že samozřejmě mám
+poměrně složitý to zpracování událostí, kde
+tohle musím dělat
+a některé frameworky to implementují,
+říkají tomu upcasting.
+Že se jako upcastují
+vlastně ty staré události na ty
+novější. Pak je třeba
+další zajímavá možnost a to je o tom, že vy
+můžete, když se jako říká,
+že ten stream těch událostí, vy se neměli
+přepisovat, má to být immutable,
+tak vy se vlastně můžete rozhodnout, že
+si ho přepíšete a buď si vytvoříte
+úplně novej stream, který projdete od začátku
+a vlastně provedete tu konverzi
+těch starých událostí už na ty nový typy
+a uložíte už jenom ten novej typ
+událostí. Jakoby to přeimportuješ vedle.
+Přesně tak, přeimportuju tu vedle, odstraním
+vlastně ty už zastaralý události
+a nechám tam pouze jako
+ty nový.
+Tohle se taky dá udělat, dokonce
+se to dá udělat i ne v rámci třeba
+dvou streamů, že vlastně z toho původního streamu
+čtu a generuju tady tohle z toho
+novýho streamu a pak někde musím říct,
+že tenhle aggregate se teď jako
+jeho stav načítá z jinýho streamu, přepnout to.
+To takhle dělat nemusím, když
+dejme tomu ten event store má
+funkci truncate before, tak vy si
+vlastně můžete odřezat všechny události
+z toho streamu, dejme tomu
+od aktuálního okamžiku, kdy to děláte
+a vlastně ten stream si samozřejmě přečíst
+ještě před tím, než to odřežete, dávat
+nový události už jako překonvertovaný
+a pak teprve odřezat ten starý stream.
+Takže ty když odřežeš ten starý stream, tak se
+vytvoříš na jeho základě teda nějaký
+checkpoint, od kterého pak zase aplikuješ
+ty eventy a pokračuješ dále.
+No jasně, musím tam mít checkpoint, protože
+ono samozřejmě tady u toho je složitý, že vy když
+máte navázaný potom právě
+třeba nějaký
+funkce, který staví třeba ty read modely a tak,
+tak vy vlastně, kdybyste
+do jednoho streamu
+začali importovat vlastně úplně to samé
+stejné události od začátku,
+no tak ten systém by vám ty události začal
+zpracovávat, začal by na ně reagovat, takže
+v podstatě by dělal jako duplicitu.
+Co se samozřejmě dá pořešit nějakou
+idempotencí a tak, to se vyřešit dá,
+ale můžete tam mít nějaký
+side efekty, který přehlídnete,
+takže takhle to jako cpat do jednoho streamu
+je relativně složitý, musí na to ten systém být
+jako nachystaný.
+No takže zatím dvě možnosti, buď
+můžete jako online konvertovat
+vlastně kontrakt těch událostí na novější
+události a tím pádem tam máte
+ty starší v tom streamu pořád,
+nebo můžete vlastně ten stream vybudovat
+znovu a překonvertovat a odstranit
+vlastně ty původní události
+z ty starší verze a nahradit je novýma,
+anebo to můžete
+udělat do toho stejného streamu s tím,
+že teda pak musíte samozřejmě odřezat,
+abyste neměli všechno duplicitně,
+tak musíte odřezat události, které tam
+vznikly před tím přegenerováním.
+A dělá se to, jako se to třeba dělá,
+že u učetnictví vždycky se to spočítá,
+udělá se uzávěrka a novej rok
+se jede na novo a pak se to vlastně aplikuje
+od toho schváleného učetnictví,
+od toho stavu. Děje se to
+u toho event sourcingu taky, že jednou
+za čas já si to nějak spočítám
+a třeba zaperzistu ty starý eventy
+pro jistotu, kdyby přišel nějaký audit, ale
+jedu dál od nějakého novějšího
+bodu, nebo vždycky prostě jedu
+krleš úplně od začátku, totální
+replay? Tohle je
+taková
+zbráněná, jakože je to
+optimalizace pro někoho
+a spíš jako
+pro mě to není optimalizace,
+pro mě je to spíš jako biznisový požádání,
+protože ono opravdu existuje hodně
+domen, kde to je přesně tak, jak popisuješ.
+A v podstatě tohle je i ten důvod,
+proč říkám, že je v pohodě ty
+události mazat. Dejme tomu,
+když si vemu zase nějakou banku
+nebo jiný biznis, tak ono to, tak spousta
+těch biznisů funguje v nějakých periodách,
+v nějakých obdobích.
+Dejme tomu, v bance vám posílají měsíční
+výpis, takže můžu takhle úplně zcela
+jednoduše říct, že se třeba v bance
+může fungovat po měsících.
+A teď neříkám, že to tak je, jenom jako pro představu
+může to takhle být.
+Takže mě samozřejmě nic nebrání
+v tom, aby
+si každý měsíc zavřel nějaký stream
+těch událostí, do kterého teď třeba ukládám
+změny, třeba dejme tomu nějakého mého účtu.
+A zase na konci
+toho měsíce se dělá hromada operací
+v té bance, kde se právě
+třeba generuje ten výpis, ale různě se přepočítávají
+různé úroky, generují se tam různé poplatky,
+všechno možné. Takže
+tam se v podstatě dělá něco
+jako uzávěrka měsíční a já vlastně během
+té měsíční uzávěrky můžu udělat právě to,
+že vlastně zazálohuju
+nebo smažu ten stream,
+který teďka právě doběhal,
+ten měsíc, a vlastně vytvořím
+si novej. A jediné, co je tam
+pak důležité, je, že vy vlastně musíte
+vygenerovat nějakou prvotní událost do toho
+nového streamu, která vám
+nastaví, dejme tomu, ten můj účet do toho
+stavu, jakým je, dejme tomu, mám tam nějaký
+zůstatky, tak abych tam ty zůstatky měl.
+A s tímhle pak jde dělat
+jako lecos. Tyhle streamy
+starý, z těch starších období,
+můžou zůstávat v tom systému pořád
+a to je na vás. A nebo je můžete
+vlastně začít mazat. Zase
+typicky ty biznesy fungují potom tak, že
+máte nějaký období,
+na jak dlouho byste měli tyhle data
+jako udržovat. Jo, třeba v bance, samozřejmě je to daný
+nějakou legislativou.
+Je to několik let, dejme tomu.
+Takže vy byste měli buď ty streamy
+někam zazálohovat, to už nemusí být třeba
+ani v tom event storu, ale může to být
+klidně na filesystému, prostě
+soubor vygenerovaný v něm
+payloady, takhle prostě pro každej účet
+jeden soubor za to období. To jako
+není problém.
+A pak záleží samozřejmě ještě
+kolik si jich budete držet, takhle v tom
+nějakém hot storage,
+ze kterého potřebujete tahat
+vlastně ten stav aktuální,
+což bude, dejme tomu, z toho
+aktuálního období, ale vám se může hodit,
+dejme tomu, tahat třeba ještě měsíc zpátky
+nebo dva měsíce zpátky, půl roku zpátky
+i stav jako těch starších
+jako období, těch period.
+Takže takhle vlastně
+proto jako říkám, že je dobrý
+i s toho mazat, protože opravdu
+některý data tam máte pak i legislativně úplně
+zbytečně, jenom vám to zabírá místo
+a samozřejmě ten systém popná a zpomaluje se
+a vy vlastně díky tomu
+získáváte i tu druhou věc, co jsem říkal,
+i optimalizaci, protože když si představíte,
+že budu mít svůj účet, který mám třeba
+10 let u nějaký banky, budu na něm
+provádět hromadu operací, což
+třeba já zase asi tolik neprovádím,
+vyšněj smrtelník, ale nějaká firma
+už tam může mít třeba za měsíc desítky tisíc
+operací, tak
+v podstatě potom, když byste přehrávali
+všechny ty události od začátku do konce,
+no tak by vám to trvalo asi relativně
+dlouho, za historii desetiletou
+toho účtu, takže vlastně tím, že
+fungujete pak po těchto obdobích,
+tak ty data tam nemáte takhle
+velký a nepřehráváte všechno.
+To je úplně boží, že tady
+máme člověka z praxe, protože kdyby
+jsi narazil na ulici na někoho,
+kdo si to čerstvě přečet a je takovej fanoušek,
+tak ti podle mě v životě neřekne,
+že by si měl mazat eventy,
+protože si přečeš, že to nikde neděláš,
+že to je imutabilní, eventy si skládají na sebe.
+Já jsem teda opravdu znovu
+říkám rád, děkuji, že jsi k nám přišel, protože
+tohle jsou všechno insighty od člověka,
+který už má hodně
+umazaný prsty od tohohle, z toho, a je to
+fakt zajímavý. Já možná k tomu jenom
+řeknu, že ono to není nějaký specifický
+know-how, to se dozvíte prostě, když budete
+pracovat v těch firmách, které mají právě
+business, který je vhodný na event sourcing.
+Tak typicky ty doménové experti, oni přijdou
+s tím, že my tady děláme prostě
+období, my potřebujeme to období taky nějak
+vymodelovat, to období se zavírá
+nebo se otvírá.
+Byl třeba teďka právě, jak je takový
+nejznámější event store,
+event store DB. Já jsem rád chtěl říct, že
+už několikrát jsme na něj narazili, možná by
+posluchači věděli, o čem se bavíme, že to je ten
+geteventstore.com, to je to, to je to.
+No, oni už mají doménu eventstore.com.
+Jo, už koupili, jo. Dřív to přesně byl geteventstore,
+tak to asi za drahé peníze koupili někoho.
+Jmenuje se to teď eventstore DB.
+Tak oni vlastně na blogu,
+tam taky, tam taky jeden z těch
+jejich jako developer advokátů teď o tom psal,
+právě tady o těch periodách, jak to řešit,
+tak tam psal poměrně hezkou ukázku
+a ta ukázka byla, tuším, ze supermarketu,
+kde vlastně se mění pokladní
+a oni si samozřejmě vytáhnou
+tu kasu a udělá se uzávěrka ty kasy,
+registruje do toho systému, vloží si tam tu svoji kasu,
+tak vlastně tam se taky takhle funguje v těch obdobích.
+Čili ono, když budete vlastně
+pak někde programovat takovýhle systém v nějaký firmě,
+ono je důležitý se těch doménových
+expertů na tohle i ptát.
+Je důležitá otázka vždycky,
+jo, ale fungujete tady s nějakýma periodama,
+s nějakým obdobím, protože oni vám to
+třeba nemusí říct prostě hned,
+protože je to pro ně prostě jasná záležitost
+a oni si neuvědomí, že vy jako
+vývojář třeba v té doméně pracujete poprvé
+a neznáte to. Takže já bych si vždycky
+jako ptal na to, právě tady na tyhle věci,
+ať je to, dejme tomu,
+když jsme se bavili o té eventuální konzistenci,
+tak jak dlouho mi může trvat
+vlastně ta synchronizace těch systémů, jo.
+Pak bych se ptal přesně tady
+na tohle, jo, kdy mám odmazávat
+ty události, kdy je nepotřebuji, jak daleko
+zpátky je potřebuji umít.
+A pracuje se tam s obdobíma,
+s nějakýma periodama.
+Tohle by byly určitě otázky, kdybych přišel do nějaký neznámý
+problémový domény.
+Takže ty cíleně přinášíš ty otázky, kterými kolikrát
+ani to nechceme slyšet, že tam bude ještě
+časový hledisko, časová dimenze,
+která to samozřejmě
+tu komplexitu jako zvyšuje.
+No ano, ale tím právě
+vy jako si dokážete i poměrně
+ušetřit hodně práce a hodně komplexity,
+protože zase, když se budeme bavit o nějakým
+obrovským streamu událostí, ve kterém budou
+desítky, stovky milionů událostí,
+třeba u toho jednou účtu nějaké jedné velké firmy,
+tak asi vás napadne,
+že fakt není dobrý nápad přečíst všechny ty události
+a nějak na ně reagovat.
+Takže o ní existují další optimalizace,
+říká se tomu snapshoting. Je to o tom,
+že vy vlastně si jednou za čas nebo po nějakým
+počtu událostí si vemete
+aktuální stav toho vašeho
+aggregatu nebo entity
+a někam si to uložíte.
+A v podstatě, když pak rekonstruujete ten stav,
+tak se podíváte tady do toho úložiště,
+kde máte uloženy ty snapshoty,
+najdete si tam ten poslední snapshot, nebo možná jedinej,
+protože to třeba updateujete jako
+in place rovnou, ten si natáhnete
+a potom jenom vlastně najdete
+události v tom streamu, těch událostí
+a přehrájete si je jenom od chvíle
+vlastně do budoucna, kdy
+vznikl tady tenhle snapshot.
+Takže takhle se pak dělají dělat optimalizace.
+Ale to samozřejmě taky něco stojí,
+protože to musíte náimplementovat,
+pokud to neumí nějaký framework,
+nebo něco, co používáte.
+Takže tam vlastně pak tady tyhle periody
+vám to můžou přiníst sami o sobě.
+Biznis bude rád, že mu tam modelujete
+ten koncept vlastně tý periody
+a že nepracujete pořád nad jednou jako kontinuálním
+obrovským streamu a pak řešíte
+věci, který byste řešit nemuseli, kdybyste
+vyvíjeli tak, jak máte
+vlastně podle těch doménových expertů
+nebo se jich správně zeptali.
+Asi poslední věc, kterou jsme neprobrali
+a která se kolem toho celého točí,
+je ta možnost
+províst replay. To znamená přehrát si to
+od nějakého bodu do nějakého bodu
+a dostat se do stavu systému,
+abych to mohl nějakým způsobem
+prohlídnout. Nebo vlastně proč se to dělá?
+Protože hodně se o tom mluví,
+ale proč bych to chtěl vlastně replayovat
+ve skutečnosti?
+Ale těch důvodů k tomu je několik.
+Tak jeden z těch důvodů může být
+právě třeba
+jednoduchý debak toho systému.
+Vy narazíte nějaký problém.
+Já zase, jak jsem se nejvíc pohyboval v těch bankovních doménách,
+tak možná dám příklad.
+V podstatě klient si může stěžovat,
+že dejme tomu na výpisu bylo něco prostě špatně,
+že s něčím nesouhlasí
+a vy vlastně se, vy potřebujete
+zjistit, co se stalo. Všechno vypadá,
+že se stalo jako dobře, co se mělo stát,
+ale pořád
+prostě je tam nějaká chyba.
+No tak vy vlastně můžete dostat ten
+systém dostavu těsně předtím,
+než třeba klient zaplatil nějakou
+transakci, poslal nějakou sepa platbu nebo něco takového.
+Dostanete ten systém
+do toho stavu předtím a vlastně potom
+v podstatě se koukáte,
+co tam šlo za události a zjišťujete, co se teda
+předtím, nebo co se mohlo stát a jaký
+operace se tam volaly, jaký výpočty
+se tam prováděly, víte, jaký
+hodnoty třeba různych parametrů tam vstupujou
+prostě do různejch funkcí, do různejch
+kalkulací a dokážete takhle
+jako relativně jednoduše oddebagovat.
+Jenomže říkám jednoduše, ale ono to samozřejmě
+takhle jednoduchý není. Ono to je o tom, že ten váš
+systém na tohle musí být nachystaný.
+Já jsem vlastně už tady říkal to, že
+ten event sourcing já bych nedělal moc mezi
+několika různýma službama, mezi
+nějakýma subdoménama, ale držel bych to
+co nejvíc to jde vlastně v rámci, nebo
+ideálně prostě jenom v rámci nějaké malé
+jedné služby nebo jedné subdomény.
+Ten důvod je, že vlastně takováhle
+subdoména si pak drží třeba svůj kompletní
+stav a typicky by neměla
+moc potřebovat se někoho externě na něco
+ptát nebo externě někoho volat.
+Protože vy sice klidně budete mít naimplementovaný
+to přehrávání těch událostí, dostání
+toho systému do nějakého stavu,
+ale tím, že budete závislí vlastně na nějakých
+third party službách,
+tak tohle bude pak hrozně těžký
+vlastně nějak skoordinovat, získat data
+od nich. Oni třeba vůbec takovýmhle systémem
+nepracují. Takže
+tohle dává smysl
+hodně jenom, pokud vlastně ten event sourcing
+držíte nějak omezeně
+a udržujete
+ho v nějakých mezích vlastně, dejme tomu
+jedné vaši subdomény, kterou máte pod kontrolou.
+Jinak je to mocná zbroj.
+Já jsem jeden takovýhle systém implementoval
+a vlastně díky tomu jsme dokázali
+opravdu odhalit
+hromadu problémů, které se normálně
+potom jednoduše odhalit nedají.
+To je takhle jako
+jedna věc, proč držet tak tu historii
+a proč jsou jako důležitý
+ty přehrávání. Jinak samozřejmě
+přehrávání je kruciální věc
+proto získat ten aktuální stav. Bez toho
+by to jako nešlo. A pak další
+kruciální věc je, že vy vlastně pak
+budujete pohledy
+ten read modely a různý reportingy
+a tam to potřebujete taky.
+No a já vlastně
+doporučuji to
+že vy byste měli přehrávat ty události
+co nejčastěji to jde.
+Je to teda těžký, protože pokud se rozhodnete
+použít nějaký framework, tak frameworky
+typicky implementují hlouposti.
+Ony typicky implementují
+aggregate, prostě aggregate root,
+entity, value object, to co se
+používá v těch doménách, události,
+prostě zapsání do toho storu. Ale tohle
+přehrávání už potom moc ne.
+Jsou frameworky,
+které jako tohle už jako umožňují
+a je to teda nesmírně těžké potom
+je používat, protože vlastně když potom
+přehráváte něco, tak si musíte hlídat
+ty side efekty třeba v těch read modelech, nebo
+nedej bože se rozhodnete.
+Ano, přesně tak, rozhodnete se poslat mail
+na základě nějaký události, když si tam
+nebudete hlídat IDM potenci, nebo nebudete
+si nějak řídit, že takovýhle handler,
+který vlastně poslouchá takovouhle událost
+a posílá ten mail, tak zrovna v tu chvíli
+přehrávání nebude funkční, nebude
+tam zaregistrovaný, tak dopadnete
+hrozně špatně. Takže vy jako
+tohle moc v frameworkách nenajdete
+a když tak jako velmi složitě,
+takže já bych jako od začátku, kdybych tohle začal
+vyvíjet, tak asi první věc
+by byla, že bych řešil právě tohle
+přehrávání a to přehrávání bych klidně dělal
+jako součást nějaké
+pipeliny, třeba jsou firmy, který to dělají
+v rámci continuous delivery. Oni vlastně
+když nasazujou novou verzi systému,
+tak dejme tomu si třeba úplně
+nechci říct, že smažou nějakou
+pohledovou databázi, to nedělají, ale
+postaví si prostě ty pohledy na úplně
+třeba jiným klastru, na jiných strojích
+a pak vlastně, až to mají všechno
+ověřený, že to je v pořádku, správně si to vygenerovalo,
+pustí nad tím nějaký sanity checky,
+že to je jako OK, tak vlastně
+potom switchnou jenom ten traffic
+a ty dotazy tady na tuhle
+novou read infrastrukturu.
+Takže tohle je docela
+dobrý to dělat a je to důležitý.
+Důležitý je to z toho důvodu, že potom, kdy vám
+došlo třeba úplně k pádu toho
+systému celého, spadlo vám to,
+zmizely by vám data, odešlo by vám to úplně kompletně,
+tak vy musíte vědět,
+za jak dlouho se vám takový systém regeneruje,
+abyste pak ty pohledy neregenerovali týden.
+A vy hlavně musíte vědět, že jste
+vůbec schopní to regenerovat, protože
+bavili jsme se o tom verzování těch událostí.
+Lidi jsou zvyklí
+dělat třeba nějaký
+opravy chyb prostě nejjednodušším možným způsobem,
+takže zažil jsem ošklivou chybu,
+kde vlastně člověk dělal takový
+jako rychlou opravu
+a updateoval ručně prostě
+nějakým updateem do databáze, updateoval
+ten read model, dal tam správní hodnoty
+no a potom jako zjistil, že když
+se to potřebovalo prostě napanit znova
+a přehrát historii událostí a regenerovat ty pohledy
+znova, tak on neměl šanci to udělat,
+protože jemu tam ty data pak chyběly.
+To, co tam upravil ručně, protože už to nezanest do kódu
+nebo to udělal špatně. A on vlastně potom
+zase ve stresu musel zjišťovat,
+co jsem tam tehdy před tím půl rokem
+sakra dělal. Já už nevím.
+A teď jako samozřejmě služití to zjišťoval
+a mělo to jako za následek dlouhej výpadek
+a stalo to hodně peněz, takže...
+To jsme jak u kódový změny v GITu
+anebo ručně se připojíš přes terminál
+a měníš to za chodu, že jo, někde.
+To je ten samý princip, jo, de facto.
+Čili já jako beru tady tenhle replay
+opravdu jako strašně důležitá věc
+tam event sourcingu, bohužel podceňovaná.
+Ten replay se ještě jak takž teda samozřejmě
+řeší u toho
+generování toho aktuálního stavu
+těch aggregatů, entyt,
+ale už se moc neřeší potom pro generování
+těch pohledů a přitom
+samozřejmě se jako říká, že tohle je jedna
+z takových těch killer feature toho event sourcingu.
+Všechno si můžu vygenerovat znova
+až na to, že to skoro nikdo nedělá
+a nebo jako to pak
+nedokáže udělat, i když ty data má
+a nebo na to nemá připravenou tu infrastrukturu.
+Úplně na závěr, Zdenku,
+ty seš úplně narvaný informacema,
+ale to jsi musel někde získat, kromě teda toho,
+že jsi ošlehaný zbytev
+z bank. Už jsme nějakou
+literaturu nakousli, co bys ještě doporučil
+posluchačům, co by si měli nakoupit, přečíst,
+projet?
+Já jsem se k tomu dostal přes Domain Driven Design
+a bylo to v době, kdy ještě
+taková Domain Driven Designová skupina
+fungovala na Yahoo, což už teď dávno nefunguje.
+To přesunete někam na Google
+a už nemáte tu historii a
+už tam ani nejsou ty lidi, kteří
+v ozovkách ten trend toho Domain Driven Designu,
+CQRS a event sourcingu dělali.
+Takže já jsem k tomu přičík relativně
+rychle a učil jsem se tady od těchto lidí
+a pak jsem měl štěstí
+hlavně na ty domény, ve kterých
+nechci říkat, že to používali, ale dalo se
+to tam jednoduše použít. Používali tam třeba
+něco podobného a
+přičík jsem k tomu
+právě třeba k těm řešením těch period,
+různých
+třeba kompenzací, různým
+rekonciliacím, který se dělají třeba hodně
+v bance, takže díky tomu jsem se mohl
+ušahat to, jak se to v reálných
+systémech řeší.
+A teď je jako relativně
+už dost knížek, já se přiznám, že jsem
+jich už tolik nečetl, protože oni se hodně opakujou
+a určitě
+ještě dobrý zdroj od Grega Younga,
+který je vlastně takový jako v ozovkách
+zakladatel dost nebo zakladatel
+CQRS a event sourcingu
+aktuálně, tak od něj je vlastně takový jako
+videokurs, který postavil
+na základě nějakých svých upravdu jako reálných
+kurzů a někdy prezentací veřejných.
+Dá se to koupit, můžu
+kdyžtak na to pak dát odkaz, tak on tam
+probírá ještě mnohem víc jako věcí,
+kterých jsme se ani jako nedotkli.
+A co je na tom jako dobrýho, že když
+si tohle koupíte a poslechnete si to,
+tak ani třeba jako budete
+vědět hodně o event sourcingu, navrhování
+domen driven designových aplikací,
+ale dozvíte se právě i hromadu takovýchhle
+věcí, jak se to řeší v různých jako
+biznisech, protože tenhle člověk pracoval
+pro třeba různý online
+jako kanceláře, kasína
+a teď jako finanční sektor,
+pojišťovní sektor, takže on má poměrně
+jako hodně velký přehled o tom, co se
+kde děje, jak se kde co dělá.
+Takže takový člověk, který
+v podstatě přijde bez znalostí
+nějakých komplexních problémových domen,
+tak od něj dokáže načerpat hromadu věcí.
+Pak třeba opravdu ví,
+na co se zeptat.
+A ty neplánuješ něco napsat?
+Protože z tebe by toho padalo hodně, jak to kouká.
+No napsat, no já teďka jako poslední dobou
+dělám konzultace, budu dělat i nějaký placený
+konzultace, protože už
+teď poslední dobou se to jako
+v podstatě roztral pitel
+s firmama, s jednotlivcema, který by
+chtěli jako s něčím pomoct.
+Máš webovky kliniců děrek?
+Ale mám jednoduchý webovky z deněk Merta.com,
+ale tam nic nenajdete. Tam právě
+budu dělat někdy v dohledný době, asi do konce
+února bych chtěl právě nabídnout
+už nějaký konzultace a i nějaký
+školení, ale já u toho školení
+spíš cestou namíru, protože
+ono těch školení je relativně hodně,
+právě třeba ty Event Store DB dělají
+školení, tak to já jsem
+ho teda neprošel, neabsolvoval, ale
+slušel jsem na něj jako chválu
+od lidí, kteří vím, že tomu rozumí,
+tak to bych určitě doporučil
+taky absolvovat. A jinak
+já chci spíš dělat potom namíru něco,
+protože moje
+zkušenost je, že tím, jak konzultuju,
+hodně jsem konzultoval po různých firmách
+zadarmo, protože právě jsem se v tom chtěl trošku
+udržovat a seznamovat se s problémovýma
+doménama, dělal jsem to jako koníček,
+tak tam pak
+zjišťuju, že typicky ty firmy zajímá
+samozřejmě hodně stejných věcí,
+ale pak strašně moc věcí, které
+jsou poplatné tomu jejich biznesu a
+vlastně tomu, co dělají. Takže spíš
+bych ty školení dělal
+tak, že se domluvím
+s lidma, co by je zajímalo, pokud samozřejmě
+chtějí něco basic,
+tak asi doporučím tu EventStoreDB
+a jejich kurzy, případně pár dalších
+a jinak
+spíš jako něco
+už komplexnějšího zaměřený úzce na to, co je zajímá
+i třeba na konkrétně tu jejich problémovou
+doménu. Ale je často prostě podojit.
+To je jasný.
+Tohle se musí nějak zpeněžit.
+Tohle je zlato, co jsme... A to jsme teďka
+vlastně dostali úplně zadarmo.
+Tady mnoho desítek
+tisíc korun tady od Zdenka. My ti moc děkujeme.
+Hele, fakt moc děkujeme. To není zač, kluci.
+Bylo to skvělý, bylo to narvaný.
+Možná to bude úplně nejdelší díl.
+Já jsem to ještě nesestříhal, ale
+podle mě to bude asi nejdelší díl ever.
+Ještě, jestli nám nechceš, Zdenku, říct
+tvůj Twitter, kdyby si tě chtěli poslouchat
+či najít. Jednoduchý, z Merta.
+Z Merta.
+Hele, fakt moc děkuju.
+Já bych tady ještě seděl,
+ale mě teďka zrovna stepuje
+dítě před základní uměleckou školou.
+Mě stepuje kamarád před
+domem a čekáš pojím na pivo.
+A babička mi přiveze
+Péťu domů, takže myslím si, že je čas
+to uzavřít. Určitě.
+Hele, super. Fakt ještě jednou moc díky. Byla to
+pecka a snad zase
+někdy, protože z tebe se dá
+podle mě vyžvejknout ještě mnoho desítek
+hodin. Hele, máme tady spousta neodkliknutých
+dotazů, takže tady jako volum
+do vás se úplně nabízí. Díky moc.
+Ať se daří. Hele, díky za pozvání. Mějte se, kluci.
+Mějte se, ahoj. Čau.
+To byl Zdeněk. My nestíháme.
+Peťa volá o pomoc. Moje dítě
+stepuje. My utíkáme.
+Mějte se krásně. Dráme, dráme. Bylo to skvělý.
+Uslyšíme se za 14 dní.
+Snad ten závěr nebude takhle rychlej.
+Mějte se krásně. Čau.

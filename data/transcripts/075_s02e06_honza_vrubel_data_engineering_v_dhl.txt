@@ -1,0 +1,1791 @@
+Pod vocasem.
+Pod vocasem.
+Pod vocasem.
+Pod vocasem.
+Je právě tolik kolik je.
+A vaši oblíbení moderátoři Roman Žoukr-Provazník
+a Petr Polipolák vám přináší
+epizodu z českého podcastu
+Pod vocasem.
+Ahoj Románku. Čau, je právě tolik kolik je.
+Já jsem si říkal, tyjo, to je nějakej
+Beverly Hills 920 nebo něco takový.
+Skoro se to trefil.
+Skoro se to trefil. Já jsem právě, to byl vlastně test.
+A je to Melrose Place.
+Melrose Place. Ano, ano, ano, ano.
+No ale to taky na sebe koukáme
+už asi jenom dva žijící
+upamětníci takovýhleho seriálu, tyjo.
+Tak samozřejmě, že dneska se to hodí,
+protože ten první můstek
+máme k tvému věku, Románku.
+A já bych ti tady
+oficiálně chtěl popřát všechno
+nejlepší k tvému životnímu jubileu.
+40 let, přátelé.
+Včera měl Roman Žoukr-Provazník
+40 let. Je to tak, děkuji moc.
+Musím říct jednu věc, která mě včera
+strašně moc potěšila.
+Tady naproti mě sedící Petr Polipolák
+si dal strašnou práci, obešel
+no, když ne půlku firmy, tak
+minimálně čtvrtinu.
+A každej mi natočil
+takový hezký
+pozdrav, hezký video. Jednou to bylo
+ze sprchy, jednou to bylo z dálnice.
+Tam to vypadalo, že naše šéfka se jel snabourat.
+Bylo to úžasný.
+Bylo to fakt skvělý. A ještě
+to by připomnělo jednu věc, já jsem ti to dneska ještě neřek.
+Mně se o tobě, možná to bylo
+jako právě v návaznosti na ten včerejšek,
+mně se, kámo, o tobě dneska zdálo.
+To je poprvé v životě, ale
+kdyby jsi říkal, já to ani nemůžu říct,
+co se zdálo, ale
+nebyl to úplně tak jako Broumen
+sen, ale
+v tom snu jsem zjistil, že už jsme docela blízko
+za ty dvě série. Ty kráso, to je úplně
+teďka srdce zaplesalo, Románku.
+Takže jako já jsem ráno
+stával a říkám, tak dobrý,
+tak už je to za náma, čtyřicítka pryč,
+Poláka už taky necháme bejt,
+prostě už toho bylo moc.
+To dále hra, a já teda ještě dodam, že
+musím poděkovat úplně všem,
+protože v podstatě jenom
+dva lidi se na to úplně necítili, že na to úplně
+nejsou zbytek, takže jak okamžitě ano,
+jdu to natočit. Všichni to natočili.
+Úplně jako včetně našeho CEO,
+prostě všichni to natočili
+a bez nich by to nevzniklo, takže
+jako dík patří celý firmě.
+Bylo to krásný, já ještě jenom děkuju, byl jsem
+skoro, až musím říct, lehce dojat, bylo to
+skvělý. Já ještě dodam,
+že byl hodně dojat.
+No, jdeme na dnešní díl
+a dnešní díl je
+zajímavý a specifický ze dvou důvodů.
+První je ten, že končíme druhou sérii
+a vzhledem k ohlasům,
+který sbíráme, si myslím, že by byla trošku
+kravinka v tom nepokračovat,
+takže musíme vymyslet, kdy vykopneme
+třetí sérii. A druhá
+věc je ta, že já jsem dneska zvolil
+takzvaný polákův přístup.
+To je to, kdy
+nejen, že si nepřečtu ani to téma,
+na čem se budeme bavit, ale nepřidám
+ani žádnou otázku. Vlastně dneska jsem
+totálně jako v sidecar.
+Je to tak, já se na to těším
+a já se nebojím Románku,
+že by si neměl co říct nebo na co se zeptat.
+Ono to určitě přijde,
+o to to bude takový intuitivnější.
+Dneska nás čeká Honza Vrubel,
+což je můj bývalý šef z DHLK,
+vlastně datovej
+inženýr, datovej specialista.
+Myslím si, že si budeme povídat o těchto věcech
+a že se máme na co těšit.
+Takže dneska budou data a tyhle dobroty kolem.
+Přesně tak. Super. No tak jo, tak jdeme na ně.
+Jdeme na to.
+Ve studiu už s námi sedí náš dnešní host, Honza Vrubel.
+Čau. Ahoj kluci, díky za pozvání.
+No my děkujeme, že si dorazil Honzo
+a těšíme se na dnešní díl. Já teda moc,
+ale i Románek, on říká, že tomu nerozumí,
+ale on tomu rozumí. Tak já se snad chytnu,
+ale mě spíš zajímá hned na začátek,
+aby jsme to vykopli zhruba.
+Vy se znáte už nějakou dobu,
+tak pojďte kluci, history, šup.
+Já jsem, musel jsem vlízt na svůj LinkedIn,
+abych se podíval, jak dlouho to je,
+co jsem DHLK upouštěl. Je to fakt asi 8 let,
+co jsme s Honzou pracovali.
+Honza byl můj šéf.
+Tenkrát se to jmenoval Business Intelligence Team,
+7 let, protože já si to pamatuju,
+že jsem se vlastně vracel do DHLK
+v tu dobu, po krátkém intermezu
+v Barclays home creditu,
+takže myslím, že to bylo 7 let.
+Ale ty jsi chvíli potom odešel, tak já nevím,
+jestli to má nějaká souvislost.
+Kdyby to bylo rozhodnutí,
+které by stálo jenom na tom,
+že bych zůstal kvůli tobě,
+tak tam jsem pořád.
+To je důvod, proč jsi tady.
+Takže my se známe s Honzou z DHLK,
+konkrétně se ta firma jmenuje DHL IT Services.
+Je to tak?
+Tak.
+Sídlíme na chodově.
+Sídlíte na chodově a čemu se věnujete?
+Všichni známe DHLK,
+když si objednám balík a přivezou mi něco domů.
+Co vlastně vy v rámci IT Services
+podporujete datově?
+Vlastně nad čem to všem stojí?
+Jo.
+Ale možná trošku ze široka,
+na začátek, co vlastně tady to IT Services dělá.
+Super.
+V Praze, není to teda jediný datový centrum.
+Máme i v Malajzi,
+v Indii a dneska v Americe.
+A je to vlastně jedno luvorské IT oddělení.
+Je to vlastně, DHLK má půl milionu zaměstnanců,
+takže potřebuje ekvivalentně velký IT oddělení,
+které má pět tisíc zaměstnanců.
+Oni se představí, že vlastně tady je nějakých
+patnáct, teda dva tisíce lidí,
+kteří se staví kompletně infrastruktura,
+telekoms, vývoj softwaru,
+datový řešení.
+Prostě všechno, prostě IT firma.
+IT firma pro velkou logistickou firmu.
+Taky.
+A konkrétně je to tvoje oddělení,
+to oddělení, ve kterém ty seš.
+Možná nám trošku popiš tu strukturu,
+kdo tam je, co tam máš ty na starosti,
+aby jsme se do toho trošku dostali.
+Jasně. Hele moje oddělení teď,
+jak je takhle, protože taky to mělo nějaký vývoj,
+co si odešel před těmi sedmi rokama,
+tak to procházelo nějakýma
+cyklami taky,
+kdy vlastně k tomu původního BI
+týmu přebylý tým, který dělal
+chatboty,
+postupem času i data scienceový řešení.
+Takže dneska, ale už je to
+zpátky v té datové rovině,
+takže jakoby end-to-end
+datový řešení. Mám tam
+datový inženýry, data scientistů,
+dneska jednoho data scientistů,
+konzultanty, architekty,
+no, a já tomu
+nějak šéfuju. A cíl je
+teda zajistit všechno tohleto
+dovnitř pro sebe. Není to tak, že byste ještě něco dělali
+pro nějaký venkovní firmy, nebo? Je to tak.
+Je to celý dovnitř. Vlastně náš zákazník
+je vlastně interní
+lidi.
+Kolik vás je?
+Hele, teď je to nějakých
+většinou.
+Tak patnáct lidí
+s takovým prdum plus nějaký
+anturáž externistů.
+Nějakých pěti třeba, kteří se tak
+točí. Nějaká taková kapacita k tomu.
+Jo, jo. Hele, a
+ty jsi zmínil data science.
+To se jako oddělilo, nebo to jste úplně jako firma
+přestali se tomu tolik věnovat?
+Nebo jakou to mělo genezi?
+Hele, data science byl takový,
+měl takový zajímavý cyklus, takový trošku
+hype.
+V jednu chvíli
+jsme tam měli třeba 4-5
+studentů.
+Jsme tu data scientistů.
+Vím, že i v korporátu, v centru, což je
+headquarterize Bonu,
+DHL, tak se tam
+najelo nějaká armáda data scientistů.
+Hele, teď je podle mě jakoby, nevím,
+jak je to jako jinde na trhu.
+Možná byl velmi zajímavý třeba
+váš příběh, ale u nás je to takový, že to trošku
+jakoby spadá do takového
+spodní části toho cyklu,
+kdy najednou z toho, jako wow,
+všechno můžeme řešit data sciencem,
+tak vlastně hledáme ty use cases, které opravdu
+dávají smysl. A jako nejsou,
+není jich stovky, ani desítky.
+Takže došlo k nějakému
+vystřízlivění z toho nadšení, že
+můžeme sbírat data z čehokoliv,
+odkuďkoliv a teď se spíš
+hledá, na co se ty data hodějí.
+Přesně tak. Máme hodně dat,
+ale vlastně neúplně přesně víme,
+co s nima dělat. No jasně, já to
+můžu jenom potvrdit. Mám pocit, že
+ten trend takovej je,
+ale my teda máme štěstí,
+že jsme chytli nějaký zajímavý case,
+ale přesně jak říkáš, ta představa
+dva roky zpátky podle mě byla, že těch
+case je prostě, já nevím, tisícovky.
+A reálně to tak není, ale ty
+case, který zůstávají, tak jsou pořád zajímavý,
+ale samozřejmě pak se samozřejmě
+ty týmy redukujou, to souhlasím.
+Takže stejná zkušenost.
+No a takže, když vezmu, že
+zůstaneme u těch case, takže tvoje práce
+teda s těma datama primárně
+je dělat co, nebo jaký case
+jsi se třeba za ty roky osvědčil, že
+to je dobrá cesta?
+Takový ty nejklasičnější
+use case, který řešíme v týmu,
+tak je to vlastně poskytování dat.
+Je to jedna z těch služeb,
+řekněme, někdo přijde, nějaký jiný
+reportingový tým, protože těch
+reporting BI, data týmu,
+jakkoliv to nazveš, je v té
+hálce mraky.
+Protože nejsme, máme samozřejmě
+ITS-ko jako IT divizi, ale i samotný
+business divize mají vlastní IT.
+A i oni mají třeba vlastní
+reporting týmy. Takže
+oni chtějí třeba jenom data. Takže chtějí
+data v třetí normální formě, což je
+vlastně data,
+které jsou opravdu čisté z toho primáru.
+Pak jsou tam jiný typ
+audience, která chce nad těmi datama dělat
+nějakou analytiku. To jsou takové
+lepší Excel záři,
+který ve Excelu do pivotků
+si nalámou
+a pak to otáčejí v ozovkách
+zleva do prava. A nebo je to
+takový ten opravdu
+prezentační vrstva v Power BI nebo
+Tableau.
+Kde už více méně manažer jenom si chce
+kliknout, jak jeho tým performuje a v čem je
+dobrý. Takže my děláme vlastně všechno.
+K tomu ještě navíc taková ta data science
+vrstva, kde se snažíme tomu,
+že tam tým je plnej data
+inženýrů a vlastně nejenom inženýrů, ale
+konzultantů, že tomu rozumí ty datový doméně
+architektů, tak vlastně k tomu připlásnou
+ten data science. Takže my vlastně rozumíme,
+když by byl data science
+projekt úspěšnej,
+tak tam potřebuješ mít k tomu
+data scientistový člověkovi, který rozumí
+tím datům. Jak technicky,
+tak i doménově.
+Když někdo řekne, najdi nějakou souvislost mezi
+jak hodně létají
+letadla a kolik balíčků se
+ztratí, tak prostě, když tam přijde jenom
+majitě, který nerozumí vůbec, jak funguje,
+prostě letíště, tak je ztracený. Takže tam potřebuješ
+nějakého člověka, který mu to...
+Takže to je spolupráce a na tom jsme to vlastně postavili,
+že tam ty ostatní role máme,
+takže na základě toho jsme tam
+vymysleli nějaký zajímavý právě
+use case třeba v té data science
+advanced analytics. To si možná můžeme
+popovídat za chvilku. No, to souhlasím.
+Úplně stejný zkušenosti mám, že
+ten data engineer, když ty data pomáhá
+připravit třeba tomu data scientistově,
+tak je to opravdu jako ku prospěchu věci.
+Jsou to trošku jiný typy lidí
+a společně ten tým
+potom je jako mnohem zářivější,
+řekl bych, takže to souhlasím.
+Je to tak?
+Super. V podstatě
+máš tam něco, co bys vypíchnul
+třeba, co za tu dobu, v jahalku už si
+dlouho, co opravdu, z čeho máš radost,
+co se třeba posunulo, nějaká
+challenge, kterou si zvládnul
+s týmem? Jo, no,
+vidíš, já už dneska jako, za těch posledních
+sedm let více nemluvím o týmu, protože
+nakonec vlastně je to
+týmový sport.
+A asi vypíchnu jakoby dvě věci
+v té datové problematice, protože samozřejmě
+se kolem toho dělalo, to by bylo vlastně jako nejpořád
+botů, ale
+co se týče autorita science,
+tak tam jsme udělali
+autoroutování tiketů pro
+servicedesk, neboli call centrum,
+kde vlastně, že jo,
+obrovská firma má asi
+tisíc aplikací a
+zákazník biznisu
+přijde za servicedeskem
+a má problém a servicedesk to musí
+dobře rozstřídit, říct, že jo, jo, tady ten problém,
+to půjde tam, je to řečitelská skupina,
+tady ty problémy tady. A byla na to
+relativně jako armáda lidí, kteří to,
+že jo,
+jako, neříkám tupě, ale měli nějaký
+guide a tam jeli, jo, tak jako říká to
+Outlook, no email, tak jo, tak to pošli
+asi sem, jo. Samozřejmě
+jako s nějakou úspěšností, protože
+to není úplně tak
+jednoduché a těch aplikací opravdu jsou
+stovky až tisíc. No a my jsme vlastně na základě
+minulých dat, jsme naučili
+naučili machine learning model
+a vlastně dneska je to
+predominantně vlastně
+řešení automatizovaných
+znamená přijde tiket,
+spustí se tam nějakej
+model, který vypočítáme jako pravděpodobně
+na kterou řečitelskou skupinu by to minulý, ale vlastně se to vám rovnou
+pošle. Takže to je takový jako jeden z mála
+use caseů, kdy prakticky opravdu
+jsme mohli
+uvolnit kapacitu tím serviskovým, nebo
+call centrom agentům, kteří se můžou
+jmenovat vlastně, řekněme, jako víc value adding
+aktivitám, no. Takže to bylo
+jakoby hodně zajímavý a vlastně to, jak je dobrý,
+že to žije, už je to asi pět let starý
+a furt to žije, takže jakoby
+trošku prův toho nějakého
+IT řešení, že
+prostě víme, že jako ty IT projekty
+vznikají a pak třeba zaniknou,
+tak to je takové jako trošku,
+že to dávalo smysl.
+A ten druhá věc asi to je, když jsem možná
+zažil, jak si odcházel ještě, možná
+s SR1 se vyze portr jedna,
+když jsme jako byli u třetí generace,
+a třetí generace, jako na to jsem samozřejmě
+taky pišnej, protože to bylo prostě rok a půl práce
+zase na nějakou možná jenou
+diskuzi, jako jestli dneska prostě ty
+ta warehouseové řešení musí trvat takovou dlouhou
+dobu, ale tohle prostě taková dlouhá doba
+byla potřeba a
+posunulo to ten tým,
+já jsem vždycky tvrdil,
+že jsem chtěl, aby ten náš
+tým datovej nebo BI-COI byl nejlepší
+prostě ve střední Evropě,
+ne východní, ve střední. A manželka
+z Čivlecky říká, jo, východní Evropě,
+říká, ne, ne, ne, my jsme ve střední Evropě, jo.
+Že by to byl nejlepší prostě BI-team
+ve střední Evropě,
+která s náma spoluprce, se nám smály kluci.
+Takže nevím, jestli tam jsme, možná
+asi ne, ale dost jsme se tímto
+SA3 tomu přiblížili, takže
+metadata framework,
+vlastně generuje se kód,
+automatizovaně jsme daleko blíž
+nějaký integraci,
+vlastně deployment,
+automatic deployment, jakoby
+continuous deploymentu,
+používáme Azure DevOps, jo,
+takže máme storky automaticky
+s GitHubem, jo, máš tam
+vlastně peer code reviews, to taky
+prostě nebyvalo, že jo, kdo tvůj kód
+někdy zkoukával, jo,
+nebo akceptoval, teď tam máme vlastně jakoby
+rule of six eyes, takže jako
+ty vyvinéš a dva další lidi to musí
+prostě zkontrolovat, jo. Takže v tomhle tomu
+se to hrozně posunulo a to jsem pišnej, já byl
+ten tým, protože samozřejmě byli oni, co to
+odmakali. No super a ty si
+zmínil, že to potřebovalo takovouhle dobu,
+co to bylo takováhle doba, jak dlouho trvalo
+postavit ten datovej sklad do té podoby,
+kterou si popsal.
+Ale vlastně, no, ten asi roka půl, no.
+Ono jako, my jsme si říkali, hej, uděláme
+to, klasika na čistý louce,
+zase dneska už tam je jako životní
+zkušenost, co se týče aspoň dat,
+nevím, jako jak je to u jiných aplikací, že
+občas říkám, že kdyby člověk nesnažil
+se po každý dělat věci from the scratch,
+ale jako spíš se snažil evolučně vylepšovat
+ty řešení, tak zabere vlastně
+daleko méně času, že ono takový ten pocit,
+hele, když něco nefunguje, tak to uděláme úplně znovu
+na čistý louce, no. Takže jako my jsme
+se takhle rozhodli, že to uděláme
+radši na čistý louce a klasicky
+jsme si řekli, jako všichni asi bajitý, uděláme si to light.
+Jo, jasně.
+A light to nakonec trvalo roka půl,
+no, takže asi tak, no.
+A to je takový ajťácký řešení, že jo.
+Vlastně vždycky, když se zeptáš po nějaký době,
+jak by člověk řešil ten projekt, tak vždycky
+ať říká, no, to je potřeba přepsat úplně
+from scratch. A ono vlastně málo kdy je to opravdu
+jako success story u toho přepisu,
+protože už je tam za tu dobu
+spousta znalostí, spousta věcí, které už
+nejsou nikde v dokumentaci, nejsou ani lidem v lavách,
+je prostě v tom kódu, v tom řešení.
+A když to prostě zmažeš a začneš znova,
+no, tak tuhle znalost
+budeš muset zase nikde najít, což vy jste
+asi i k tomuhle takovým
+no, těmhle věcem došli, předpokládám.
+Přesně tak, přesně tak.
+A máte takový pocit, i když přebíráte
+od někoho úplně jiného, kdo už v tom týmu není,
+jako šli byste taky tou cestou
+tohodle zlepšování, nebo tam je lepší začít
+od začátku? Jaký je váš pohled, kucí?
+Romane?
+No, záleží, no, záleží.
+Asi je dobrý, když
+ta znalost je od začátku sdílená
+a i když ten člověk vypadne, tak aby ten tým
+prostě měl překryt třeba aspoň částečně
+do té domény, který se to týká. Protože jedna věc je,
+my se furt bavíme v IT, že o kódu,
+o programování, ale ve skutečnosti
+to je to minimum. Tam jde o tu doménovou
+znalost, vědět, jak se říkal, třeba přesně,
+jak funguje letiště, jak fungují letadla, nebo
+my, když jsme dělali ten projekt prostě pro
+oceláře, tak jak fungují nějaký
+jakosti oceli
+a tyhle ty věci. A programování
+ve finále bylo 30-25, možná
+procent toho všeho, jo. Takže
+já si spíš myslím, že právě problém těch
+rewriteů není ten technický, ale ta stráta
+tý doménový znalosti,
+která je buď v tom kódu, anebo že prostě odejdou
+ty lidi, no. Takže já bych to asi řešil tím, že
+od začátku, a tak se to i snažíme tady,
+že ty lidi, který na tom dělají,
+tak jsou prostě namočený jakoby pře sebe,
+že se překrývají tou expertízou, no.
+No a to podepíšu, no, prosto.
+Jo, jo.
+Popišme si ten stack, který máte,
+který používáte, a pak si to
+pojďme trošku rozebrat. Jo, jasně, jasně.
+Ale tak jako, abych to trošku jako uvedl,
+v DHL se říká
+minimálně o IT oddělení, že to je takový muzeum, jo.
+Ale ne jako ve špatným, jo.
+Jako dělení štítky už tam nejsou, ale
+kromě toho asi všechno, jo. Teď teda
+si myslím, že se vypínaly nějaké A400-ky,
+ale víceméně tam jako historicky dá se říct
+všechno, protože samozřejmě obrovská firma ty řešení
+teď, že ony se těch tisíc
+aplikací třeba postupně přepíšou,
+tak to je jako dlouhej moloch.
+Takže i my jsme si šáhli jako trošku
+do sbírky, co tam všechno máme.
+A i jakož tam máme všechno, co týče třeba
+jako datových technologií, tak jsme se
+rozhodli, že to tak hezky namixujeme, jo.
+Já to tady trošku jako by schazu, no to mělo je praktický
+důvod. Takže, abych to řekl,
+takže co tam máme? Máme tam
+takže používáme Oracle Data Integrator.
+On teda Oracle Data Integrator,
+co vím, se tváří, nebo si říká, že to není
+ETL, ale ELT.
+Jediný rozdíl je v tom, že vlastně
+nejdřív tam nalouduješ a pak tady uděláš si transformace,
+protože je to prostě performančně
+výhodnější, ale to už prostě
+umělo starý SSIS-ko před
+deseti lety, SSIS Integration Service
+od Microsoftu. V občas mám pocit, že
+ty hlavní
+propagátoři těch technologií se snaží
+jako vymyslet nový názvy jenom proto, aby to
+zase chytlo nový šájn. Jo, jo, jo, přesně tak.
+Samozřejmě, takže to bude IT postavený.
+Přesně tak a přesně tak,
+ale opak to můžeme prodat i v managementu.
+Takže to máme,
+to máme tady tu čas,
+to je ODI, ono vlastně my ho používáme
+trošku jako, spíš jako scheduler, jo, než
+jako, že by tam byla nějaká extra jako kodování.
+On to sypé
+do teradaty, v teradatě
+máme stage vrstvu
+a core vrstvu, L0 a L1.
+A pak
+zase, my si řekli,
+by chtělo to trošku namixovat,
+takže dej tam, té dvojkové vrstvu máme
+Microsoft SQL
+a nad tím SQL máme
+analytické služby od Microsoftu,
+SSAS, tabulární model
+a nad tím máme teď
+Power BI, ale
+vidět, že tablo vstupuje
+pomalu zadními dveřmi
+i do DHL IT services, takže
+si myslím, že, nebo je to,
+už je to prostě vidět, že tam to tablo bude taky dost
+jako zapouzřený a bude
+ten zákazník si bude moc v úzovkách
+vybrat, nebo my budeme navrhovat
+ty řešení podle toho, jestli berávac, myslím, že
+Power BI nebo tablo, takže to budou ty asi
+ty dvě hlavní prezenteční vrstvy.
+Ale strašných dat, jak to tak
+zní, kolik máte ten jak spočítaný,
+kolik toho denně
+přibývá těch dat, nebo vůbec, když se
+bavíme o těch datech, tak vlastně
+kolika terabajtech, já nevím, v čem
+už vy to vlastně měříte.
+Relativně malý, ale jsou to spíš
+furt terabajty.
+Takže mluvíme o nějakých, já nevím,
+pět terabajtů, třeba pět až deset.
+Takže jako relativně nic
+extrémně obrovského.
+Nejsou to ještě ty
+petabajty a tohle, to tam jsme se
+k tomu ještě nedostali.
+Ale u nás v tom
+DHL-ku je taková právě ta business
+část a nejkomplikovanější, že relativně malý data,
+ale velký problémy.
+Přesně, že se tam
+dohladujeme, jaká definice, nějaké
+metriky a to skoro zabírá víc času, než
+zpracovat 10 petabajtů dat
+na Hadoopu, takže
+je to trošku jako to.
+Obecně to je spíš stack postavený
+na on-premise, nebo máte tam
+nějaký cloud do toho zakomponovaný?
+Cloud je vlastně dneska v tomto verbiáji služba.
+Takže máme teda jako hybridní
+verbiáji on-prem i do cloudu,
+ale musím říct, že poslední
+18 měsící vlastně na on-prem už
+nikdo nechce jít, protože samozřejmě
+Microsoft to dělá chytře, že ty nejlepší
+featurey se nechává do cloudu
+a
+tak tím pádem
+už tyto nový řešení sypeme tam, protože
+když se třeba book má, tak je to znamená, nastaví si ty,
+že si chceš nechat report nastavený
+v něk určitých filtrech, tak
+to v tom cloudu jde, on-premu to nejde.
+Samozřejmě lidi, když přijdou na report
+znovu, tak nechtějí znovu si naklikávat
+20 filtrů, takže to tam chtějí mít předpřipravený.
+A to jsou takové malé věci, které
+rozhodují.
+To je pasivně agresivní styl.
+Přesně, je to tak, taková motivační
+charakter.
+Jinak ale, jinak ne,
+jinak se o tom přemýšlíme
+a se k tomu dostaneme, jaké otázce.
+Tak se pojďme podívat
+postupně na ty jednotlivý tooly.
+První si zmiňoval Oracle
+Data Integrator.
+Popiš nám to, ty jsi říkal, že se tomu věnujete
+spíš jako schedulerů.
+Používáte to takhle, to znamená
+spouští tam nějaký joby, je to jako batchový
+systém, nebo je tam i nějaký real-time
+z toho taháte, nebo jak to funguje celý?
+Jo, hele,
+ono se o to stará, vedlejší tým,
+abych řekl pravdu. My jsme to tak
+organizačně rozdělili, že to dávalo smysl, byli tam nějaký
+kluci šikovní, měli Oracle Data
+Integrator, řekli, hele, kluci, tady to umíme dělat,
+budeme to pro vás dělat.
+OK, já jsem vždycky byl zvyklý, že jsme si dělali
+end-to-end všechno, ale varu mných,
+prostě když věci fungují a nemusí
+být takhle nebo takhle,
+že to dělají kluci vedle
+z infrastrukturního týmu
+a je to ale
+batchový. Je to furt takový ten klasický
+batchový, i když jsme se dostali třeba k patnácti minutám,
+takže už to není takový to jednou za den.
+Velká ITLka, po patnácti
+minutách se tam sypou data pro některý
+datový zdroje. Ale pro vás je to
+de facto jako black box, vy teprve
+na základě té práce, u vás to
+de facto začíná, pro vás. Jo, jo, jo,
+přesně tak. Ono se nalé do té teradata a pak teprve
+se to vlastně dostává k nám.
+Jo, takže vy začínáte na teradata.
+Na teradata, na ty L1 věci, na ty
+stage-y, ne, to ještě jako to se středají kluci,
+co tam sypou z těch CTLek.
+Jasně, jasně. No tak pojďme se podívat
+rovnou na tu teradatu, co tam
+s tím děláte a zajímá
+mě i, anebo to si myslím za chvilku,
+popiš nám, co tam děláte.
+Jo, jo, jo. Hele, my
+teď tu teradatu jako používáme
+trošku kacířky na,
+že teradata není úplně nejlevnější
+jako pro posluchači neznalé,
+teradata není úplně nejlevnější databázový
+systém, jo. Není to žádný
+MySQL, jo. Takže, ale ne,
+to nechci nějak schazovat, ale takže
+my to používáme trošku kacířky na takový ten jako
+více méně jako prutokář, skoro
+jako datovej hub,
+kdy tam vlastně nalejeme všechny ty data
+tak ty z té stage-y, co je několik
+dnů jenom, ale pak v tom kóru vlastně držíš tu historii,
+kterou si nějakým způsobem
+už trošku obohatíš,
+dáš tam nějaký
+časový zámky,
+tu historizaci přes nějaký
+SCDčka, Slow Changing Dimensions,
+vlastně, aby si věděl, co v kterým okamžiku
+byl daný
+nějaký rekord v té tabuluce,
+jaký měl hodnoty,
+no, ale pak vlastně jako by to gro
+svým způsobem
+pak děláme jako by tu vlastně dál
+v tom Microsoft SQLu, což je
+vlastně business logika
+překonvertování
+z té třetí normální formy do
+Kimballovského metrologie, to znamená
+hvězda
+faktovky dimenze,
+ale je to nějaký
+postupný krok, takže my tam chceme
+vlastně i ten data martu vrstvu právě takovou tu,
+kdy už máš tu business logiku a je to tam
+jako hezky připravený právě pro tu analytiku,
+tak to posunout vlastně o jeden
+layer jako by blíž, to znamená na tu
+teradatu, jo, ale jelikož
+my jsme původem SQLovský tým,
+Microsoft SQLovský tým,
+takže teradatu nemáme úplně šena,
+je to, že se do toho dostáváme, je to nějaký postupnej
+evoluce postupná. Jasně, no mě první,
+co napadlo, jestli tam děláte
+a pracujete jako nějak s těma
+jako big data toolama, jestli s tím nějak
+pracujete, protože jako říkáš
+pět terabajtů si říkal.
+A ne každý den, jako celkově.
+Celkově, OK. A
+pracujete tam s nějakýma
+jako advanced toolama,
+který vám pomáhají trošku rozumět líp těm datům,
+protože jako přece jenom těch dat už je docela dost?
+No,
+už jítě v reálku někde, jo.
+Ale já teď přemýšlím, hele,
+asi
+asi
+, takhle, vím, že máme Hadoop,
+jo, jak říkáme, prostě v reálku máme všechno, takže
+jenom si prostě vybrat.
+Vím, že tam je jediný oddělník, který se stará o Hadoop,
+jo, a tam možná jako používají
+ty různý nástroje, který
+ani úplně jako jsem nikdy
+k ním nečuchnul, ale
+u nás je to zatím, se to dá prostě řešit klasickým
+prostě
+vyčítáním, indexováním,
+partitioningem vlastně
+pro jednoduché ingestování dat,
+no, takže nemuseli jsme ještě používat žádný
+jako nějaký
+kanóny, no, a tady to.
+Takže za chvilku se dostaneme teda
+k tomu Microsoft tímu SQLu,
+takže hádám správně, že
+pracujete v podstatě jenom se strukturovanýma datama,
+není potřeba pracovat s žádnýma dalšíma
+jinýma, nějaký data lakey,
+podobné věci, je něco, co zatím nepotřebujete
+pro ty vaše data.
+Hele, je to dobrá otázka, protože vlastně teď
+jakoby
+ta firma se dostala přes nějakou
+nedávnou reorganizaci do nějakého stavu,
+kde opravdu si jakoby uvědomila,
+že to delování dat opravdu
+by mělo být někde výš na té agendě, než úplně
+jakoby v záru, že o nějakých vozovkách
+reporting. Takže
+vlastně i my dostávám pomalu
+jakoby zadání, hele, zkusme se
+dívat třeba na machine generated
+data a zkoumat tam něco, jo,
+protože si vezme, že velká firma, máme tam třeba
+jako logi z telefonních systémů,
+jo, telekom, sítě.
+Takže jakoby zatím
+ne, ale už vlastně mi klepe na dveře
+jakoby můj leadership a říkám,
+říká, hele Honzo, měli bychom se na to
+začít dívat, protože třeba by nebylo špatný
+jako vědět, já nevím, kde se bylo
+předtím, než server zbuchne, že zbuchne.
+Jasně. A to jsou přesně tady ty věci,
+může říkat nějaký patent v datech, že vlastně
+než tam máme ten tehrá, ten server spadnul,
+tak byly tady, tady ty věci se staly.
+Aha. Takže to je takové,
+kam se teď jakoby začneme ubírat, takže si myslím,
+že když mě pozveš, pokud mě teda pozve, tak Luci,
+někdy zase do budoucna, tak třeba
+za rok už to může být jiný, no, ale v tohletu chvíli
+říkám, ještě ne. Jasně,
+jasně. To znamená, že
+to Grow je pořád Microsoft
+cíklu, tam s těma
+datama si nejvíc hrajete, ten tvůj tým
+vlastně má tu expertízu hlavně tady, rozumím
+tomu zprávě. Jo, je to tak, je to tak.
+Tak nám to popiš, jak to tam je postavený,
+trošku tu architekturu,
+jak tam ty data vypadají, já si
+zapřemýšlím, jak se to změnilo od
+těch dob, kde já jsem tam byl,
+tak většina byla taky v cíklu
+tenkrát, jo, Microsoft tím. Jo, jo.
+Myslíš, jako, tehdy, jak jsi tam byl, jak tam byla
+ta jedna kaválka tabulka Master DB Service Call,
+ne, kde byly, jo, jo, jo, jo,
+kde bylo 250 sloupců a
+více méně, no, tak jo,
+tak trošku se to zmínilo,
+ale, no, hele,
+děláme tam vlastně L2 cover, takže
+datamarty,
+který vlastně sekáme po nějaký
+doméně, co dává prostě smysl,
+tam už máme tu Kimballovskou
+metodologii, což je taková, jakoby,
+používaná relativně často,
+to znamená starské mata, fakt
+ta dimenze, by se nám to prostě
+krásně propojovalo, aby to bylo připravené pro tu
+budoucí analytiku a
+no, a to je vlastně
+takové, jakoby, všechno, no, jako máme to metadata
+driven, takže
+nemusí se všechno vykodovávat, takže
+máme nějaké, jakoby,
+vstupní tabulku na zdroji
+a vlastně, jakoby, výstup a
+generuje se nám tam, jakoby, na pozadí kód,
+takže už to není takový dodatlování,
+no, ale pak tam máme ještě, jako takovou, jako
+vrstvu
+datových view,
+do kterých se trošku cpá, jakoby,
+nějaká, jakoby, excesivní datová logika,
+kterou nedokážeme popsat v těch metadatach, jo,
+protože v těch metadatach si představíš, že máš prostě
+nějaký databázový
+buňce, já nevím, něco,
+je třeba větší než něco jinýho, tak to je jednoduchý tam
+popsat, no, ale když je to, jakoby, komplikovaný, tak to tam
+ještě musíme, jakoby, extra,
+takže to, jakoby, není to úplně, jako,
+dokonalý, asi, metadatavý, jakoby, řešení,
+ale je to asi as good as it gets, no.
+Hele, a je tam, teda, někde prostor
+pro nějaký větší programování,
+protože, jak vás teďka poslouchám, jak byste se úplně
+do toho zapojili, to je nádhera vás jenom
+sledovat a poslouchat, tak vlastně
+od těch nejhrubších dat, je to takovým
+svědomým představou ten trichtýř, jak to
+je víc a víc v nějaký, jako,
+materializovatelnější podobě, až to je
+v těch datech, který potřebujete pro nějaký reporty,
+ale furt mě to zní, že se mezi
+sebou propojují už existující řešení,
+je tam něco, kde jste třeba museli nahnat
+spoustu programátorů a něco
+si tam doprogramovávat, nebo už je to
+opravdu jenom o integraci
+existujících řešení mezi sebou?
+Jo, hele, dobrá otázka,
+ono to možná zní, jako, líp,
+než jsem to popsal, jako, kodování
+je tam furt dost, to zase jo, jo.
+No, my vlastně těma metadatama
+spíš zajistíme, že ten,
+ta syntaxe je podobná, takže když
+k tomu přijde jinej developer, tak k tomu vlastně rozumí,
+protože ty jsi dotnetovej
+vývojář, takže já si,
+a je to podobný předpokladám dotnetu, že každý má trošku
+jako vlastní styl, a že vlastně ty chceš
+třeba jako šef, když prostě ti tam přijde
+někdo jinej, nebo ti někdo odpadne,
+tak aby někdo k tomu přišel a jako řekl, jo, jo,
+vlastně jo, hned to, jakoby, si to
+ten kódr jako začal čít s těchhle.
+A vlastně tak, takže to spíš je to
+jako by pro tady to, než vyloženě jako, že by neměli
+co kodovat, protože tam je furt nějaký, že jo, jako
+co týče její performance, jak to napíšeš
+správně, ten join,
+tak jako by furt tam potřebuješ prostě toho člověka.
+A když se bojíme o kodování,
+takže se bojíme o SQL queries,
+nebo, jo, jo. Jo, jo, přesně tak.
+Jo, ok, ok. Takže nějaký, jako řekněme,
+programování typu
+dotnet, java, to tam vlastně
+nemáte, protože jste furt na úrovni
+toho query language nad těma datama.
+Chápu to správně.
+Přesně to, přesně tak.
+Je to tak. Je pravda, že na ty analitické
+vrsty pak, nás se k tomu dostaneme,
+u těch kostek se používá ještě trošku
+jakoby jinej dotazovací jazyk,
+DAX, Data Analysis
+Expressions, což je
+podobný trošku jakoby Excelu,
+jakoby dotazy, ale není to opravdu jako java.
+Máme tam nějaké komponenty, je pravda, třeba v těch
+tomí, které jsme se zbavili, že přesuváš data
+z A do B, tak tam je občas nějaký
+extra C-sharp komponenta nebo javovská,
+ale jsou to spíš výjimky, opravdu ty lidi jsou
+SQL kódeři, no.
+To je strašně, pro mě to je strašně zajímavý
+přístup, protože většinou u nás,
+když my naprogramujeme software, tak vlastně výsledkem
+jsou ty data, ale
+vlastně to řešíme, se snažíme řešit
+prezistenci až naposledy, třeba kvůli
+tomu, aby tě záměrně ty data netáhly
+do té implementace tam, kam by si neměl.
+A tady vlastně vy to máte úplně obráceně,
+což je pro mě strašně zajímavé, jako
+kleš toho vnímání, že
+pro vás ty data jsou úplně
+to gro, ten základ toho všeho, to je
+fakt zajímavý poslouchat. Jo, jo, to je pravda, no.
+A podle mě, jako co jsem třeba viděl,
+hodně jsem to viděl v Home Kreditu,
+kdy prostě kluci třeba
+měli ty Continuous Integration vlastně
+už zpátky vlastně mrakyle, že jo,
+asi určitě taky, že jo, prostě už při deseti,
+patnácti možná rokama se někde
+zaverzoval kus kódů a jako
+za chvilku to bylo na UATčku a pak třeba produkci, jo.
+Zatímco jako, nevím,
+jak jako u vás, jo, u tebe, Petře,
+jako v týmu, nebo co jsem viděl jinde,
+tak prostě díky tomu, že tam je ta datová ta část,
+tak vlastně ty to nedokážeš úplně oddělit,
+jo, a vlastně
+ta Continuous Integration se dost komplikuje,
+protože třeba občas potřebuješ v rámci toho,
+aby si něco zaverzoval, vlastně tam i někde nahrát
+jako by data, nebo fyzické něco takového,
+takže vlastně je to
+i to jinej svět, je to fakt jinej svět,
+jako jinej typ přemýšlení,
+ovlivňuje to tvůj, jakoby, eaglitů.
+Je to tak, protože i třeba
+u nějakýho nasazování, když to budeš
+brát v tom našem vnímání, programování,
+tak ve chvíli, kdy dojde na nějaký migrace,
+na data, nebo najdej buď, že bys chtěl rollbackovat
+něco, co pracuje už s jinýma
+schématama, než který jsi tam měl a takovéhle věci,
+tak není to úplně, jakmile tam přijdou
+data, tak to přestane být jednoduchý.
+Jinak samozřejmě Continuous Integration
+slash Delivery nebo Deployment, podle toho,
+jak daleko chceš v té pipeline zajít, tak je relativně
+pro nás jednoduchý.
+Ale u těch dat to musí být, to věřím,
+že je to daleko větší challenge.
+Takže vy to řešíte
+teda jak? Vy to řešíte,
+že třeba zastavujete
+tu pipeu prostě dřív
+a je tam nějaký manuální step.
+Je tam manuální step, no. Máme tam furt člověka,
+který to tam trošku hlídá, organizuje,
+čistí, takže
+furt tam mám prostě člověka, hele, máme
+jednou ze dva týdny release, jednou ze dva týdny
+na produkce, jednou ze dva týdny do UAT
+a víc se mi člověka zazabije jednoho
+seniora na celý den.
+A jako furt se snažíme to nějak zlepšit
+a nevím, no, jako chtěl bych
+to fakt vidět v nějaký firmě, to by bylo
+super, kdyby někdo se z posluchačů
+ozval a řekl, hele Honzo, přijď
+se k nám podívat, to by bych
+jako fakt ocenil, nebo možná u tebe, Petře.
+A potom, co dáme, vaše
+kafe dobrý? No jasně. Tak jestli bys mi
+ještě ukázal, jak děláte
+Continuous Integration. No jasně, máme tady
+pár šikovných kluků. Jo, dobře.
+Ale nevím, jestli vyřeší DHL-kovský problém,
+ty brďo. Jo, hele, určitě, určitě jste
+šikovný, že jo, já tomu věřím, hele.
+Když se podíváme na tu
+analitickou část, to je teďka
+hrozný hype, že jo, vlastně všichni ty,
+ty jsi zmínil Tableau, Power BI, že jo,
+my jsme taky trošku to dělali z ClickSense
+a těch kluků je spousta, že jo.
+Teďka Looker hrozně jde nahoru
+díky Google, který je
+akvíroval, vlastně další BI tool.
+Tak
+jak přesně to využíváte? Protože já
+dneska ještě možná k tomu úvod,
+co tady děláme s klukama třeba,
+tak je tam ta modelovací vrstva,
+kde si jako spousta věcí můžeš dát
+už na úroveň toho Power BIka
+a dost věcí a třeba jednodušší
+projekty to mají tak, že tam postavěj
+takovou jako kopii
+datovýho skladu, to jako možná úplně
+jako přeháním, ale jako dá se tam udělat
+hodně už v tom toolu nahoře
+a nemusíš to dělat v tom toolu pod tím.
+Jak vy nad tímhle přemýšlíte? Já vím, že to
+bude trošku jiný, protože samozřejmě historicky
+tam máte to SQL-ko dlouho,
+tak jak dneska to Power BI u vás vypadá?
+Jo, jako ty myslíš, že prostě
+si jakoby nasypeš celý ten datovej model
+jakoby do toho
+celého file, jako ala ClickSense, že jo,
+to takhle bývalo. Přesně tak. Nebo ClickView,
+jak se to předtím jmenovalo. No, no, no, no, přesně, přesně.
+Že tam máš data, máš přímo jakoby v tom. Jo, jo, jo, jo, jo.
+Hele, to dává smysl
+určitě u nějakého třeba jakoby menšího řešení,
+menší firmy, kde se nemusí úplně
+jakoby extra sdílet ty data,
+kde je jako takový to, jakože
+one way, žen off truth, není úplně obrovský
+risk, tak tam
+to jakoby jde.
+Jo, pak je to super vlastně, když si to do toho
+nahráš, teď to máš v té paměti a teď se to strašně
+rychle otáčí a teď je to dynamický, jo, není to
+žádný, že klikneš na nějaký SSRS-kový
+starý reporting servis a teď načekáš
+tři minuty než se něco o to.
+Takže to je dobrý, ale v tom našem
+řešení vlastně, když si vezme, že
+co máme, to použil pět tisíc lidí aspoň, nebo
+ještě teoreticky víc, sto různých
+jako manažerů z různých částí
+organizace, takže každý na to dívá trošku
+jinak a chceme se vynout takovým
+tomu risku, že přesně řeknou, hele, Honzo,
+proč jste tady tady na tom reportu A jiný než
+na reportu B a teď my trávíme jako
+50% času jenom vysvětlováním, protože
+je něco jinak, tak to, říkáš, představíš,
+že není úplně největší motivace pro
+vývojáře, no, takže
+takže jakoby furt tam si právě držíme
+takovou tu jakoby vrstvu a máme
+takový pravidlo, hele, v reportu nemíš žádnou
+logiku, jo, takže
+vlastně tu vrstvu víš a ta vrstva
+vlastně níž je vlastně, je tam
+jenom jakoby jedno centrální, nebo
+tím datovým modelům je víc, ale řekněme pro každý
+to řešení jakoby jeden, takže
+když někdo řekne, hele, já to tady mám špatně,
+tak nemusíme jít do 15 různých reportů
+opravovat, ale opravíme to v tom jednom datovým
+modelu na té vrstvě níž a vlastně
+rovnou se to ukáže
+jakoby všude, no, takže my si držíme takovouhle
+architekturu.
+To dává smysl, to dává smysl, aby právě jste se vyhnuli
+tady tý, potom jako
+detailní práci toho hledat, kde
+ta chyba je. Hele, a jak to funguje
+s takovým tím principem power userů?
+Používáte to, jsou jako u vás lidi
+napříč firmou schopný si ty reporty
+stavět sami, nebo pořád? Za mě, když jsem tam byl,
+tak jsem ty reporty stavil já
+pro ty naše interní zákazníky. Dneska už jsou
+schopný ty lidi si to stavět sami, po nějakým
+zaškolení, nebo jak to dneska funguje?
+Jo, ale trošku se to posunulo, asi právě díky
+těm toolům a la Power BI.
+Power BI je takový trošku jako hype, aspoň jako
+v DHL-ku, který už umožnil
+takový tenhle low-code, nebo spíš no-code,
+skoro bych řekl na technickým lidem,
+že aby si dělali ten vlastní report, takže trošku se to
+demokratizovalo ty data, díky tomu.
+Takže, jakoby dost se to
+rozrostlo, jo.
+Samozřejmě skombinovaný tím, že ten
+tool je relativně jednoduchý, je hezký
+a zároveň klasika, centrální tým
+nikdy nemá dostatečnou kapacitu.
+Vždycky říkám, jako i kdybych měl prostě 100 lidí,
+tak jako v průběh potřeba dalších jako 100,
+jo. Prostě to je jako nekonečný
+cyklus, že prostě najednou máš lidi a teď
+ještě je víc požadavků. Takže vlastně
+jako by to tam, vždycky se to tam jako by směřuje
+a
+takže jo, no, takže tohle to musíte
+jako by zlepšit, jo, že lidi se tomu Power BI
+trošku naučili a
+už to demokratizuje, no. Takže teď už možná spíš
+jako by ten data science pomalu začít demokratizovat,
+aby vlastně netechnický lidi
+si mohli začít sami jako hrát paternity
+svých biznisových datech. To bude podle mě ta
+ten další budoucnost
+datový analytice. No, to jo, no, to jo.
+Hele a teď teda dotkli jsme se
+Power BI, s tím já zkušenost mám,
+pak vy ještě používáte teda SSAS
+s tím tabulárem. Máte to nějak
+rozdělený, co používáte na co, nebo
+proč tam vlastně jsou ty dva tůly? Je to hysterický daný
+nebo čím to je? Jo, ale ten SSAS
+tabulár je vlastně analytická vrstva
+jako OLAPovská, jestli pamatujete, že když jsi byli ty kostky
+jako MDXka, takže
+je to vlastně jakoby další vrstva,
+jo, která tam jakoby, která to
+za prvý, ten
+za prvý je tam jakoby centrální datový model,
+jo, to je jedna věc, za druhý
+to vlastně dost zrychluje ten report, protože
+vlastně je to in-memory, takže je to vlastně server
+dedikovaný in-memory
+datová kostka,
+takže pak jako ty reporty vlastně
+v záleční, zase nějaký jiný server,
+že jo, nebo je v Azure,
+tak vlastně rychle přistupuje, protože ty data už jsou
+předagregovaný, předprocesovaný
+v té paměti, no, takže proto to jakoby
+máme zvlášť a budeme to držet zvlášť,
+protože prostě jsou to jakoby dvě různý
+komponenty, které se doplňujou,
+jo, nesoutěží spolu, no.
+Jo, jo. A to tablo tam
+chytá nějakej hype prostě díky
+tomu, že to tam
+se
+osazuje nějakýma jako biznis
+skupinama, nebo má nějaký technický
+důvod? No, je to tak, víceméně, no,
+jako víš, jak to je prostě, jak se říká, silnější
+pes. Známe.
+Se má ruky. Se má líp,
+přesně tak, takže
+my máme takovou jako jednu divizi,
+jednu divizi s DHL, která se jmenuje
+Express, která jako dělá úplně šilný
+jako profit
+a jako,
+ale jako, myslím si, že sloužení mají tam jakoby
+super šéfa, jako biznisový,
+o který to vítáme strašně hodně, jako samotná
+jako zajímavá story o tom, jako jak
+Ken Allen vytáhl bankrotující
+jako DHL-ko zpátky na
+trajektory prostě dneska k čtyřmiliardovýmu
+eurovu jakoby profitu
+a on prostě tam vybudoval
+jako nějakou jako layer lídrů
+a ty lídři prostě postupně, jak bylo
+jako se říkalo Express, prostě
+nejlepší divize, tak pojďte to naučit ty ostatní.
+Takže my samozřejmě teď máme taky
+z Expressu vlastně máme
+CIO a vlastně i jakoby
+ten šéf, co má na starosti data, taky
+přišel a v Expressu
+tý nejlepší divizi podle profitu
+minimálně, tak tam používali
+používal tam tablo.
+Takže on říkal, jo hele, zkusme se
+jako alternativu
+nemusíme to cpát,
+ale můžeme to dávat jako na výběr.
+Takže
+ale jako slyšel jsem na trhu několikrát
+třeba od kolegů z Adastry, co s náma spolupracují,
+že jako doporučovali tablo, říkali,
+nechci vyzkoušet tablo a říkám, hele, já bych ho vyzkoušel rád,
+ale ne vždycky to ve velkém korporátu
+takhle jednoduše, ne, no, to není jak u vás, chlapit.
+No, jasný. Říkáte, hele, zítra
+chci programovat v Notepadu a už
+jedete, jo.
+To, v korporátu je to těžší.
+Chápu, chápu. Ne, tak tablo
+určitě stojí za to, stoprocentně, jo.
+Vím, že třeba rohlík na tom jede kompletně, že jo,
+vlastně ty jsou data driven úplně
+bláznivě. A já mám
+teda super zkušenost i z ClickSense právě.
+Vlastně
+kolega můj, se kterým jsme podnikali
+v minulosti, tak si na tom
+postavil vlastně jako svůj biznis a
+byl geniální, jako fakt, jako ten tool
+na analytiku mně přijde úplně nejlepší, jako na
+používání, jo, na filtrování a tyhle věci.
+Tam mám pocit, že Power BI ještě trošku
+jako občas
+lobí, což teda ještě mi připomíná,
+máš tam nějaký takový
+bolístky, který by si zmínil u Power BI,
+který prostě se snažíte nějak obcházet,
+nebo mám tam vaději? Jo, ale
+hm, určitě jedna
+je komentovací funkce. To je takový
+evergreen už, co si pamatuju, co jsem
+v BI biznisu, že prostě lidi,
+kdo dostanou report,
+tak řeknou, no ale já bych to chtěl jako komentovat přímo
+v tom ideálně reportu, pak to poslat
+biznisu i s tím komentářem, no. Takže my jsme
+to jako za ty roky řešili různýma hackama
+a jako říkal jsem si
+v roce 2000 OK, jo, ale v roce
+2022 už bych to tam trošku čekal, jo.
+Ale zase nevím, jestli... A furt není vyřešený tohle, jo.
+A furt není vyřešený, no. Takže
+to je taková jako základní věc, já nevím, jak je
+jako Tableau a ClickSense,
+to nevím. Taky nevím, taky nevím, jako
+s komentama. Takže to je
+jako jedna věc a druhá věc, taková ta, na co
+si zvyklíme, na ty jakoby starý
+on-prem Power BI, nebo ještě na tý
+starší technologii, tak bylo,
+že si prostě to můžu vyexportovat třeba
+do PowerPointu, ten report. Reporting services
+myslíš? Reporting services. Ty už nejedete?
+Ty už skoro nejedeme. Jo.
+Už jako fazujeme out, vlastně dokončujeme migraci
+z SR1 na SR2, ty nás si vznáš
+prostě ze starých evolucí toho
+našeho jako datového řešení
+na to nejnovější, service report 3
+a vlastně fazujeme out jako
+i SSRS, takže to jim
+jakoby chybí, hele, já jsem si to vždycky
+mohla, mohl vyexportovat a pak tu biznesu
+ukázat PowerPointu, oni nejsou
+ještě zvyklí na ty online verze,
+tak to víš, takže člověk jako trošku
+jako se snaží měnit ten mindset,
+čím větší firma, tím ten mindset
+nebo ta loď se otáčí pomalejš, no, takže.
+Ale my jsme se ještě dotkli vlastně
+historických dat, mě to trošku připomnělo,
+jak jsme tady měli z Denka Mertu
+a bavili jsme se o event sourcing, o tom
+sbírání těch starých dat a pak na vlastně
+pohlížení novým úhlem pohledu
+na starý data. Jak vy to máte
+u těch starých dat, furt se to nějak vyvíjí,
+furt máte nový tooly, máte vlastně, že
+nový queries, nově to
+zpracováváte, je
+existence starých dat problém, nebo to nějak
+přemapováváte, nebo co vlastně vůbec
+s těma datama se třeba stane, já nevím,
+za tři roky. Koukáte do toho ještě,
+nebo to už je zabekapovaný a nazdar?
+Jo, hele, koukáme. Zrovna jako by tři roky, to je takový
+ten jako threshold, který nějak máme
+jako nastavený dohromady
+s chlapci jako DPO, Data Protection Office,
+GDPR,
+takže jako by technicky to máme tady to,
+a je to zároveň jako nějaká
+doba, která je tak akurát pro
+management, sledovat trendy,
+aby trošku z toho vypozorovali, protože zase se to mění
+relativně tak, že dneska se dívat deset let zpátky,
+už je víc méně, hele, tolik se toho změnilo,
+tak to je moc, takže tři roky je takový ten jako
+akorát ten threshold, kdy to jakoby
+držíme a používáme to právě
+jako pro nějaký simulace, analýzy, jak se
+určitá metrika vyvíjela v čase, ale to už je takový
+jako, ten první dva roky, jo,
+ten třetí rok už je takový spíš jako backup,
+hele, když je tam opravdu nějaký jako geek,
+který se nadhrabe jako cifr špion
+v datech, tak aby se tam mohlo ještě nějak co pohrabat,
+ale, no.
+Ale po těch třech letech teda s tím děláte co?
+Po těch třech letech jako vymažeme, no, musíme to mazat a
+v líku vlastně GDPR.
+To je zajímavá věc, toho se zdotknul, to mě právě
+taky zazvonilo v uších, protože
+v těchto jako systémech, kde
+data se nemění, ale se
+jako sbírají a pokládají
+na sebe a pak se dělají nějaké agregace
+a pohledy, tak samozřejmě to, že někdo přijde
+a řekne, hele, já chci, abyste si to všechno smazali
+o mě, nebo spoustu jiných
+těch implikací, který z toho je GDPR
+jako takovýho. Jaký to je problém
+pro vás, jako vůbec
+existence týhle, z tý
+tohohle nařízení? Protože já jsem o tom
+jako hodně se snažil
+načíst a to je podle mě nařízení,
+který vymysleli právníci pro to, aby IT-ákům
+udělali ze života peklo, takže
+jak to máte vy?
+Naprosto souhlasím, jo, jako
+samozřejmě není tady úplně jako, nemůžu říct, úplně
+oficiální verzi,
+teda neoficiální verzi,
+ale že člověk jako, že ho musí
+jako v tom množství, kolik toho, čeho musí
+řešit, tak musí si najít jakoby
+cestu. Asi takhle bych to jakoby
+u tom bych skončil, ale jo, je to jako
+hele, za první, první věc je taková,
+že vlastně nikdo ti přesně neví, co jsou
+personální nebo osobní data, jo.
+Takže to už začíná, takže se zabavíš
+s tím člověkem, který ti řekne tady to, tady to, vlastně
+nejsou úplně extra guidelines, jo, takže nakonec řeknu,
+hele, vy ITáci, tak to tam nějak
+zaříjte, jo. Něco tam
+jako udělejte, jo. Tak my tam něco
+uděláme jako v tom klasickém vtipu,
+že jo, prostě, jak to letí
+v tom letadle a pilot říká, hele,
+nechal tam jako vzkaz tím mechanikům,
+hele, tam to něco v té kabině, tam
+něco jako křupe.
+A pak se vrátí druhej den a má tam jako
+vzkaz od mechanikům, tak něco jsme opravili,
+něco podobného, takže my se tam snažíme
+jako by nějak jako tu cestu
+jako by klestit, samozřejmě
+těch range, těch možností, jak se s tím
+pořád je obrovský, jo, až je úplně
+superkomplikovaný, že budeš enkryptovat
+data vlastně pod celý tý
+datovým flow, to vlastně schováš,
+že to nikdo neuvídí, ale zase je to hrozná
+administrativa, jako by, hrozně
+to, že RCP už je, jo. No, právě, že na performance
+to musí být peklo, že jo. Strašně, jako by peklo na performance,
+jo.
+Takže my se snažíme
+takový schováváme, někde to prostě
+ukazujeme,
+kde to třeba ukazujeme, tak to úplně neříkáme, že to
+ukazujeme, no, takže takový jako, ale jo,
+určitě se, jakoby, je to jako velmi důležitý
+aspekt, no, člověk jako už to nemůže nechat jen tak
+jako o samotě, ale spíš
+mě jako na tom trápí, jako asi jako každý
+vajťáka, že prostě tam není ta, jakoby, jasná
+definice, jo. Ta nejednoznačnost. Jak říkáš,
+jsou to právníci, jo, takže oni tak jako plujou,
+jako, že to není prostě jedna plus jedna je dva,
+ale jako takový, hm, je to mezi jedničkou
+desítkou, tak si vyber, jo, a teď tam
+tápeš a hledáš to správný číslo, no.
+Honzo, my jsme tady probírali spoustu
+zajímavých věcí, u kterých tak
+tři čtvrtě jsem vůbec nerozuměl, protože
+jste tady házali termíny, který jako
+chápete jenom vy dva, což mě
+zákonitě vede k otázce, kde na tohle
+nabíráš lidi a jak je vlastně těžký
+v dnešní době, kdy lidi vůbec
+nejsou na nic, sehnat člověka,
+který těmhle termínům rozumí
+a ještě třeba schopný jako v tom něco
+vymyslet a být v tom dobrý a
+posunout tu firmu dál, jak je to těžký.
+Ale jednoduchý to není
+a když si to ještě
+znásobíš jakoby těma lokalitama,
+že nemáme jeden jakoby tým jenom
+v Praze, ale třeba ještě
+v Chennai, což je
+Indie a v Malejzi,
+v Kuala Lumpur, tak si to ještě jako
+trošku vynásobí, protože samozřejmě díky tomu
+covidu
+minimálně třeba v Ázii
+lidi mají strach měnit,
+protože teď tam chtějí mít jistotu,
+takže si to nechtějí úplně lajzovat.
+No a v Praze ten trh je prostě už jako
+dlouhodobě vybraný,
+takže samozřejmě pokud máš hlubokou peněženku,
+tak jako vždycky ty lidi najdeš,
+ale třeba jako DHLK
+nemá úplně strategii, což
+asi je v pohodě, jakoby přeplácet
+na tom trhu, takže
+samozřejmě
+inflace roste,
+ceny rostou
+a my to trošku
+držíme jako relativně na úzdě,
+takže je to komplikovaný.
+Asi já neřeknu nic novýho,
+že prostě nejlepší je přes známý,
+že někdo řekne, hele já teď mám jednoho
+známýho, pracuje v nějaký
+v nějaký firmě nespokojený, třeba v CN Group
+a je nespokojený, ne, to ne,
+takový casey nejsou.
+My tady dáváme lidem normálně ještě i naftu v barelech.
+K penězům.
+Jo, jo, jo.
+Malou větrnou elektrárnu, takže jo.
+No, takže jakoby
+je to těžký, no.
+Je to těžký a vlastně
+často firma si vypomáhá externistama,
+jako externýma firmama, kde
+jako s tím způsobem má tu jistotu, že tam
+tu technickou capability má jenom.
+A vychováváte si nějaký svý třeba, protože my máme
+v rámci CNka máme CN University,
+kde vezmeme lidi, který jsou úplně čistý
+a vlastně si je třeba vychováváme
+na React, na .NET, na Java, v podstatě, co by je
+zajímalo a co nám by se hodilo.
+Tak jestli třeba máte nějaký takovýhle program,
+protože třeba by mohly
+být v finále vlastně životé win-win,
+protože člověk dostane
+první nějakou zkušenost s reálným
+IT projektem nebo vůbec s životem
+v IT a s věcma okolem
+a ta firma zase má možnost s tím,
+že nemá ty constrainty z té předchodzí práce,
+tak si ho může uhňácat
+podle sebe a všichni jsou happy.
+Něco takového nejedete.
+Ale teď ne. Jako jeli jsme, bylo nějaký
+období, kdy vlastně
+jsme se účastnili
+takových těch VŠN, nebo těch vysokoškolosej
+různých, jako Fair Trade,
+nebo se to říká. Job Fair.
+Tam jsme se vlastně potkali, že jo,
+já jsem tam měl nějakou, před pár lety
+jsem tam měl nějaký robota, nějakou prezentaci.
+No, ale teď jsme jako v jednu okamžik
+jsme měli třeba patnáct studentů,
+který dělali v reálku, který jsme se snažili
+nějak to, ale
+vlastně neměli jsme to úplně tak koncepční,
+možná jak to máte tady vy, no, že vlastně po nějaké
+době, že jo, buď
+na ně úplně nebyl ten prostor, že vždycky potřebuješ nějakého
+seniora, nebo někoho, kdo by si jim věnoval, tak třeba
+taková pacita úplně nebyla.
+A pak vlastně se stalo, hele, na jednou, já nevím, pět studentů,
+řeklo, hele, my tady chceme mít vlastně jako byť, jo,
+a já jsem řekl, hele, já mám jenom jako jeden headcount, jo,
+takže vlastně postupně vlastně oni věděli,
+hele, já tam půjdu, ale vlastně stejně tu práci třeba
+mít nebudu, jo. Jo, nebo takhle,
+nebo možná i obráceně, to třeba asi nevadí tím
+studentům, kteří řeknou, tak já se
+naučím a pak půjdu
+jako za dvojnásobě k jinám, jo,
+to je asi v pohodě, to je jako dneska.
+To flukto je jako, nebo ta flexibilita
+toho trhu je velká, ale spíš obráceně daleká,
+řekl, hele, my teď do nich naroveme, já nevím,
+čtyři roky
+i seniorský, jakoby mentoringu všeho
+a nakonec ten, jo, stávalo se nám
+prostě studentům, řekl, no,
+je tamhle prostě jako firma, nabídla,
+já nevím, takže jo,
+když máš jako malej plát relativně, tak ti nabídnou
+někde o deset tisíc víc a ty prostě jdeš, jo.
+Jasně, jasně. Takže,
+takže to bylo to, takže, ale jako
+možná, jestli budeme mít, jakoby, čas na to dobrý kafé,
+tak pokecat
+jako a trošku o té univerzitě,
+to bych docela viděl, jakoby mi zajímalo, jak to tady řešíte,
+protože to je podle mě jako dobrý směr, jako.
+No, já si myslím,
+že to je vlastně už jenom jedinej směr,
+pokud nechceš jít opravdu na sílu
+a přeplácat lidi, což
+ne vždycky funguje, protože jsou vlastně srdcaři,
+který nepřetáhneš, který mají
+rádi i jiný hodnoty, bych, tak jsme se bavili
+na obydě, že jako je fajn, kdy můžeš
+pracovat, kdy chceš a že ti asi korporát
+přetáhne na prachy, ale když řekneš,
+hele, já bych rádi veště těch odpoledne měl volno,
+tak oni padnou smíchy na prdel.
+Takže jako,
+to je těžký, takže podle mě asi jedině
+ty junioři nebo ty lidi, který
+budou rádi za tu šanci, tak to asi jako
+nejvíc. Určitě, já si myslím, že
+to je hlavní a jedna z
+mála cest, ten problém bude
+naučit ten sales a
+respektive to i zákazníky, v našem případě
+jsou to zákazníci, že jo, ne interní,
+aby pochopili, že ten tým
+nemůže být sestavený jenom ze seniorů.
+Reálně to může být nějakej tým, který je
+skombinovaný z juniorů,
+který třeba nedají takovou
+přidanou hodnotu, jakou oni by počekávali hned,
+ale máš tam tu přidanou hodnotu
+a je to lepší, než když
+budeš čekat na seniora rok.
+Reálně tyhle časy tady dneska jsou.
+Takže to si myslím, že
+jedna velká cesta a konkrétně
+co se dat týče, tak těch lidí bude pořád
+potřeba víc a ty seniori
+nedostou na stromech, prostě tak to není.
+No ale ono záleží, jako řekneš,
+že by to bylo horší,
+kdyby tam, nebo zákazník si řekne,
+že by to bylo horší, kdyby tam byly jenom
+zvětšiny juniori, ale pak známe
+spoustu našich kolegů, který byli
+za rok tam, kde některý seniori
+se dostávají deset let, jo,
+je už jenom jiným mindsetem a prostě pro ně nebyl nic problém
+a neměli žádný zase takový ty,
+jako takhle jsem byl zvyklý to deset let dělat.
+Jo, jo, jo, to je vrda.
+A oni to můžou jako úrvat prostě tou
+přemotivoností,
+že jo.
+Ale my jsme ti rozuměli
+pokaždý, takže dobrý.
+Takže vlastně reálně ten drive tam je jiný
+a může to být většinále ještě lepší.
+No takže v DHL-ku teda tak, že
+pomůžeme založit nějakou
+DHL-y univerzity. Jasně, jasně,
+odkonzultujeme to a debilujeme to.
+Něco, něco vymyslíme pak.
+Ale je to dobrá věc,
+vlastně jedna, není to úplně se to
+jako, trošku se to
+týká, my jsme se o tom bavili
+trošku na obědě, ale vlastně jako jedna z věcí,
+co bych chtěl
+v rámci DHL-ka,
+vzhledem k té hrozný situaci,
+co se stala geopolitický
+na Ukrajině, tak
+vlastně mám
+pár známej nebo lidí, s kterými
+jsme spolupracovali na Ukrajině, IT firmy,
+tak vlastně jakým způsobem jim pomoct,
+jak třeba dočasně
+v DHL-ku vymyslet trošku jakoby jednodušší
+jako fast lane approach,
+kdyby jako kontraktorský,
+dostali nějakou práci, protože tam jsou
+prostě výborný vývojáři, jako jsme
+taková moje zkušenost, anglický umí taky
+dobře, takže vlastně
+jakoby, nechci říct,
+aby to věznělo blbě, ale vlastně můžeme
+tady tu jako hroznou událost
+možná přetvořit a vidím, že i
+prostě Česká republika, spousta lidí,
+jste tady měli vlastně i Jablotron,
+Troň, jak se to vyslovalo? Jablotron.
+Jablotron, já myslím, že ten vlastně
+ten majitel nebo šéf, ten
+ten dědek. Ale škultina, myslíš, jak to bylo?
+Nejo, takhle. Myslím, že ten
+jmenuje se dědek, ten co to vlastně? Jo, Zalibor dědek
+je majitel. Tak on teď vlastně dokonce i dělal
+nějaké jako výmast a knál, takže ale
+obecně Česká republika, jak se jako by snaží pomáhat,
+tak je to jako inspirativní
+a že vlastně s tím působem
+dlouhodobě asi ty univerzity
+návoditě smysl a teď možná je to řešení, jakoby
+zároveň třeba i pomoc,
+ale vlastně i ta firma
+si pomůže, protože najednou zjistí, jak skvělá je tam
+pracovní síla, tak
+to zní skvěle. Jako představ si, že
+by ty jsi utekl na západ a oni řekli,
+hele, my tady pro tebe máme místo, my ti chceme
+pomoct a místo ne,
+že půjdeš čistit někam záchody,
+ale místo, že jsi programátor, tak budeš dělat
+to je podle mě super.
+Úplně geniální, jako přesně, jak přetvořit
+něco hroznýho v něco, co dává smysl
+pro všechny strany, je úplně super
+nápad. A to se konec konců dostáváme
+trošku takovým oslým ústkem
+k tomu, co plánuješ, Honzo.
+Co teda teďka v podstatě
+máš v hlavě, co se v DHL-ku třeba
+bude někam posolovat a ty
+budeš toho přítomen.
+Jaký jsou tvé plány?
+Hele,
+vlastně,
+trošku zmíněnou dřív tu reorganizací,
+tak vlastně došlo k tomu,
+že to bude takový malý shake-up ve smyslu toho,
+že převedíme ty datový děti
+k sobě.
+Vlastně poprvý se tam vytvořila
+datová strategie. To prostě
+nikdy neexistovalo.
+A ta datová strategie
+to bylo tu chvíli, jakoby
+říká, hele, přiveďme ty odborníky
+k sobě. Udělejme
+dobrý kód, to znamená tu platformu,
+kterou my vlastně dneska máme,
+tak možná ještě nějak
+dolepšíme.
+I když je teda pravda, že si teď
+naděláme assessment,
+vybíráme vlastně nějakého partnera externího,
+který by nám udělal externího,
+externí assessment,
+jestli ODI je to nejlepší pro
+ETL, jestli Trdata je nejlepší pro
+Taito a blá, blá, blá, blá.
+Takže to nás budou určitě tady ten rok
+hodně bavit.
+A to je jenom, že ti přerušuju,
+to vybíráte, aby vás
+challengeovali ty vaše nápady, nebo...
+Jo, jo, takový
+většinou používám jakoby
+outside in view přesně.
+Aby člověk nebyl takový zabřehlý.
+Jak jste říkali, já jsem celý život dělal
+SQL nebo Trdatu, tak SQL a Trdata
+jsou nejlepší. Na našem těm
+začne kveštěnovat a vlastně ty si to
+musíš obhájit v ozovkách.
+Takže jakoby
+bůh ví, co z toho vzejde.
+Vidím tam i jakoby posun do těch
+cloudových technologií,
+že si myslím, že jakoby ta,
+že už ta firma poslouchá víc.
+Že jako před pár lety
+opravdu tam byl jako obrovský strach, navíc
+vstupujeme ještě v německý firmy, takže jakože data
+někde v cloudu, ty brdo, zapomeň na to, to není
+nějaká Americe prostě, hele.
+Prostě vezmi si moje data,
+dělej si s ním, co chceš, mně to vlastně jedno,
+tak tady to bylo vlastně jiný.
+Tak si myslím, že se budeme posouvat
+jakoby i tím směrem, ale uvidíme
+jako co všechno z toho assessmentu, no ale
+ten jakoby game changer je
+vlastně nějaká
+tatová analytika, jo.
+Že jako supršení, ty jako krásný reporty,
+jako metriky a blá blá blá blá, červený,
+žlutý, zelený,
+ale jakože
+ti to bude dávat nějaké insighty,
+že ve smyslu toho, že ti tam prostě jednou
+vyskočí a řekne
+hele Petře, já nevím,
+tvůj tým
+dělá o 30% míň, protože
+ABCD, jo, že už to není takový, že tam
+vidíš jenom nějaké číslo 20%, ale vlastně
+ale to je jako ještě
+možná delší cesta, no, jako zase to možná
+projde nějakým hype cyklem a
+Takže z takového toho reaktivního stylu,
+jak jsme se bavili, spadla nám produkce
+do toho prediktivního typu,
+do deseti minut ti asi zřejmě spadne produkce.
+Přesně tak.
+Tak to stejné na úrovni těch reportů.
+Tohle to bych, kde bych chtěl posunout,
+to si to našel toho analytiku v DHL-ku, no, takže.
+Takže.
+To je super, tahle Advanced Analytics,
+to je něco, čemu se tady taky věnujeme,
+samozřejmě ten trh na to ještě
+není úplně připravený,
+ten náš, ale je to něco, kam se chceme
+taky posunout. Takový to, už to neříká jenom
+co, ale už to říká i proč.
+Takže to je fakt jako
+extrémní posun, tak uvidíme, kdy se
+tam sejdem.
+Přesně.
+Super, Honzo. No, hele,
+bylo to hrozně fajn.
+Já si myslím, že
+když budeš chtít,
+a budeme mít příležitost, že se zase rádi uvidíme.
+Děkuji za pozvání.
+Ať ti to běhá. Já jsem chtěl vlastně už na začátku
+zmínit, že se tady sešli tři lidi,
+který mají všichni nainstalovanou stravu.
+Neříkám, že všichni běhají, ale Románek si
+nainstaloval, vybejte jeden stravu.
+A teď už můžu tvrdit,
+že jsem na to moc starý.
+Jo, jasně.
+Je to tak. Nechla, chlapi, díky za pozvání.
+Jsem rád, že zvedete do podcastu
+takový jako vy starší ročníky,
+jako jsem já. To ocením, že to snažíte jako
+age equal, nebo jak se to říká,
+trošku to balancovat. Ne, no my se snažíme
+ať si Románek má s kým pokecení.
+A to je levák.
+Hele, každopádně
+moc díky, že jsi dorazil. Ať se daří.
+Díky, Románek. Díky, Petře. Mějte se.
+Čau. Čau.
+Sliboval jsem díl speciálně pro
+Poliho a tady byl, to já
+jsem tady nemusel být, člověče. To bylo úplně
+geniální vás dva jenom pozorovat. To bylo skvělý.
+No hele, o to těžší je
+pro mě hodnotit ten díl, protože
+já jsem do toho byl tak ponořenej, že vlastně
+nevím, jak zajímavý to bylo pro zbytek. Pro mě to bylo
+zajímavý ohromně. Hele, já budu si asi
+hledat nějaký zkratky, které tady ještě padaly,
+abych úplně zpětně si to
+zařadil správně do té pajpy
+té datové transformace, tak jak
+jí popisoval, ale mega,
+mega zajímavý a pro mě úplně jako z jiného
+vesmíru, musím říct. Jo, jo, no tak super.
+Já doufám a myslím si, že to je jako
+pěkný, taková jako skládačka
+do té pucle toho našeho klasického
+programovacího světa, protože
+si myslím, že tyhle ty datový lidi se s těma
+programátorama budou setkávat
+na těch projektech čím dál častěji. Určitě,
+určitě, protože tohle už nemůžeš
+z pozice ani možná jednoho týmu
+všechno vlastně pokrejt, když
+si vezmeš celý ten softwarovej produkt.
+Tak někde to musí končit
+a někde musí právě naskočit takovýhle
+Honzové a vytáhat ty data,
+který dávají smysl a třeba ti je zpátky
+poslat nějak rozumně, ale
+jako super, hale, mně se to hrozně líbilo.
+Tak fantastický. A navíc je to
+hrozný sympatiák, rád jsem ho zase viděl, Honzo.
+To já taky. No tak jo.
+Románku,
+no, nám vždycky vyčíte,
+že tady mluvíme o tom NHL-ku, ale půjdem si
+pinknout, ne? Hale, no dlouho jsme o tom nemluvili,
+dlouho jsme si nezahráli.
+Mohli bychom to zkusit a mohli bychom se vlastně
+rozloučit na konci druhé série.
+To je pravda.
+Takže, milí posluchači, mějte se krásně.
+My vám moc
+děkujeme za přízeň
+a myslím si, že je velmi reálné,
+že se třeba zase za nějakou dobu
+ozveme se sérií tři.
+Pokud vás to baví tak jako nás, tak je to zcela jisté.
+Tak jo, mějte se,
+čau, čau.

@@ -1,0 +1,2167 @@
+Krasný den, milí posluchači, vítejte
+u dalšího dílu vašeho oblíbeného
+IT podcastu Pod vocasem.
+Jsme už v pátém díle šesté série.
+Toto letí. Což je 35,
+počítám to správně, 35. díl.
+Krásný. Teďka fakt nedám.
+Teď je to test a proč je to pro
+mého milovaného Petra Polipoláka
+test, to vám vysvětlí záhy,
+protože dneska je obzvláštně vyspalej.
+A postele. Takže jsem si dal čtyřku.
+Takže jsem si po dlouhé době koupil tady
+Red Bulla. To jsem neviděl
+roky. Tak uvidíme, jestli to funguje ještě
+nebo jestli to nefunguje. Dřív jsem to míchal
+ještě s jinýma látkama, tak to už dneska
+dělat nebudeme. Ne, ne, ne. To nedopadlo
+dobře. Naposledy. Takže
+necháme to takhle. Uvidíme, jestli to bude stačit.
+Takže jsi spal jenom pár hodin. No a jak bylo v Londýně?
+Hele, v Londýně super. Tak když
+pomenu město, kde já jsem rok žil, takže prostě
+pro mě to je vlastně druhej domov, tak
+jsem tam byl na workshopu
+s klientem, který má
+síť škol.
+A prosím tě, chtějí začít
+dělat generativ AI, ale ne,
+to nebyl workshop, povězte nám o tom,
+jaký je state of the possible
+nebo něco takového. Ne, ne, ne.
+Prostě pojďme to dělat okamžitě a jaký
+jsou akční kroky. Takže jako úplně geniální
+je vědět, že UK trh to
+jako rozjelo pořádně, protože to není rozhodně
+výjimka a začneme tyhlens ty
+workshopy mít častěji. Jsem
+zvědavej, jak se rozhejbe, tak pro nás
+další zajímavý trhy, samozřejmě německý a švédský
+nebo skandinávský. A
+jak bude českej trh pozadu, nebo
+nebude pozadu, protože samozřejmě ČGPT
+známe všichni, ale jako, že
+to takovejhle drive, co měl ten CIO,
+za kterým jsem tam včera seděl, tak to jako vypadalo,
+že zejtra začneme, no. Tak jsem na to zvědavej.
+No tak super. Jako úplná pecka.
+Když si představíš, jak to v tom AI jako je
+v education, jako že ty prostě, ty jako
+Románek rád koukáš prostě, já nevím,
+na videa a blbě se ti čtou knížky.
+To snížka rozblbě. Jo, jako na YouTube videa.
+Jasně. Tak
+prostě ti předložím jako jiný
+content o té samé věci, než
+třeba, nevím, tady jinému kolegovi, který rád čte.
+A prostě, jako to je jako
+neuvěřitelný potenciál v tom edu, takže jsem zvědavej,
+kam se to posuna. Já jsem nedávno
+viděl docela hezký použití ČGPT
+nebo tyhle tituly,
+že někdo tomu předhodil normálně link
+na YouTube a řekl
+a teď mi vysvětli, co tam je.
+Jak mi to sesimilují ve zkratce.
+Což je teda podle mě úplně boží, protože kolikrát
+člověk kouká na desetiminutový
+video, aby se dozvěděl něco, co
+jako TLDR za třicet vteřin by
+dokázal si přečíst. Na druhou stranu
+teda Rest in Peace,
+YouTubeoví tvůrci, který mají z těch reklam
+nějaký brachy, protože
+pokud mi jejich desetiminutovej
+výtvor, který teda musel trvat
+třeba deset hodin vyrobit,
+mám za třicet vteřin sesumírovaný,
+tak teda sorry no.
+Kam se to celý suné, jako neuvěřitelný.
+Jakože to bysme, to někdy si zase řekneme
+nebo pozveme si na to někoho
+chytřejšího než jsem já, jako na takový ty věci
+auto GPT, jako který mu řekneš
+prostě já nevím, vytvoř mi
+webovky, které jsou zaměřené na
+skladový zásoby a ono to vytvoří
+samo, jakože to začne přemýšlet
+co to k tomu potřebuje, jaký je k tomu nejlepší
+programovací jazyk a samo to začne dělat nějaký
+koncepty, jako to je neuvěřitelný
+kam se to posouvá. Já teďka sleduju na Twitteru
+hrozně rád takový ty nepovedený
+vygenerovaný AI obrázky
+typu jako Darth Vader
+na demonstraci Black Lives Matter,
+ale což už
+vyleží, tam ten Darth Vader stojí
+s nápisem prostě I'm Black
+jo prostě úplně jako geniální, takže
+jo jo, bude srd na to sledovat.
+Jo, bude, ale jako je neuvěřitelný
+jak se to jako vyvíjí, vlastně tam byl
+takový grafík, že o porovnání, jak dlouho
+trvalo Instagramu získat 100 milionů uživatelů.
+No, no tak open AI, to se úplně
+někde jinde.
+No, dneska nebudeme mít
+AI, i když samozřejmě mám tam pár otázek,
+který se to, no, jako lízneme
+ho, jako vždycky, ale už jsme
+se toho tématu trošičku na úvod
+dotkli a to je streaming, protože
+dneska máme kamaráde Michala
+Hošnu ze CDN 77,
+což je firma, o který já slyším
+zleva zprava, která
+se zaměřuje na spoustu různých věcí
+a Michal Hošna byl tak hodnej,
+že k nám dorazil a řekne nám
+něco o streamingu, jak to funguje,
+jaký mají textek, ale i
+o tom třeba to, co právě mě
+jako několikrát zaujalo, že ta firma vypadá
+ještě jako dost punkově na to,
+jak, co vím, v jakých už jsou číslech.
+Takže to bude pecká.
+Takže neusínej,
+byť po tom letu to pro tebe bude těžký.
+To myslím, že zvládnu.
+To musím, že zvládnu. Dej si ještě jeden enerďák
+a já jdu
+pro Michala. Jdeme pro ně. Super.
+Ve studiu s námi sedí náš dnešní host
+Michal Hošna. Ahoj Michale.
+Ahoj kluci. Čau Michale. Tak vítej,
+my jsme rádi, že se dorazili. Jaká byla cesta ráno?
+No já nejsem úplně tak
+ranní ptáče normálně jako vy, takže
+musel jsem si dost přivstat, abych se z těch
+probral, ale dobrá.
+Jo, to bylo vtipný. Já jsem čekal
+tady před KFCčkem na Michala,
+ale nevěděl jsem, jak vlastně vypadá.
+Takže jsem rychle hledal LinkedIn profil,
+abych podle té fotky zjistil,
+na koho vlastně čekám. Protože
+víš, jak to vypadá na Václaváku v sedm ráno.
+To jsou samý divnolidi, co tady chodí.
+Takže prostě procházel někdo. Říkám, sakra,
+ať to není Michal, ať to není Michal. A pak šel
+takový jako sympatický padající člověk,
+který se mi namečoval jednak jedný k fotce
+z LinkedIn a byl to on. Takže pro příště
+si vytiskní Michal Hošná, jako na letiští.
+Jak na letiští, přesně tak, přesně tak.
+Tak prosím tě, Michale, jak jsem říkal
+v úvodu, ty jsi tady ještě nebyl,
+ty jsi z firmy C1 77,
+ale ještě než se vrhneme
+vůbec na tuhle firmu, která je strašně zajímavá
+z mýho pohledu, tak mi řekni něco
+o sobě, představ se nám, co vlastně děláš,
+jaká byla tvoje cesta do IT, takovej ten
+výkop.
+Tak já možná začnu
+tu cestou do IT. Já jsem takovej
+ten kluk, kterýho prostě odmala bavili
+počítače. Jsem teda z vesnice
+a naši jako počítače rádi
+neměli, nebo neměli rádi techniku, takže
+k tomu byl
+trochu složitější přístup, ale svůj
+první počítač z Windows 98
+v době, kdy už byly XPčka teda.
+A jsem si tvrdě vybojoval.
+A tak nějak jsem se tomu jako
+vždycky věnoval té technologii,
+pak jsem šel na střední
+a průmyslovku do písku na programování
+a pak jsem se dostal do Prahy
+na FIT, který jsem asi tradičně
+nedostudoval.
+Čili success story jako vše.
+Ale už jsem zůstal v Praze a začal jsem
+tady dělat
+vlastně v MangoWebu weby a pak jsem
+přišel do CDNky.
+A ty jsi říkal, že jsi z vesnice, mám taková zajímavost, z jaký
+prosím tě, jak se to jmenuje?
+Jsem z Borovany na Písecku.
+Dobrý, tak to neznám.
+Znám Písecko, neznám Borovany.
+Tak ty jsi čekal, že bys to mohl znát.
+No jasně no.
+Já tam znám asi tři vesnice, tak to není ani jedna.
+No mám asi přes
+věstí obyvat, ale je to jako fakt...
+Není to zas tak malá vesnička, ale pro ty to vesnička
+jako těch tam slusty.
+Paráda, to jsi mi trošku připomněl moje starý rány
+vždycky v době, kdy kluci měli pentia.
+Já jsem prosil rodiče o počítač
+a dostal jsem 3.8.6. v době pentia
+a prostě na tom nic nešlo.
+To bylo peklo.
+Měl jsi to teda takhle podobně, musel jsi s to vybojovat, jo?
+Ano, a zároveň na vesnici nebyl žádný internet,
+protože tam ani diala
+pořádně nešel, tam je ústředna strašně daleko.
+Takže když pak přišli první
+vyfinkáři do vesnice, tak to bylo
+jako skvělý, protože
+i to tam dlouho nebylo.
+Paráda, paráda. Prosím tě, tak
+ty jsi, jestli to chápu správně,
+head of streaming
+v CDN 77.
+Co to přesně znamená, co tam přesně děláš?
+Tak měl bych asi
+vect tým, což u nás je takový složitý,
+protože si zas tak nehrajem na nějakou
+strukturu, ale snažím se za
+live streaming teda konkrétně držet nějakej
+big picture, nějaký přehled toho, co děláme.
+Co je potřeba udělat, co chtějí
+klienti udělat a v jaké je to fázi.
+A tak povídám si s developerama a klientama
+o tom, jak to jde
+a když zbývá čas, tak i programuju.
+Ještě pořád programuješ teda? Už ne moc,
+ale chtěl bych víc, ale
+furt se k tomu ještě někdy dostanu. Takže si držíš ten
+muscle programátorský přátel.
+Ano, i když jako často dneska dělám to, že třeba
+šahám do ANSI Blue nebo jakoby
+píšu query do Grafany
+nebo tak. Jo, jo, jo. A když říkáš,
+že to je jako,
+že na tu strukturu si tolik nehrajete, kolik vás
+tady je, kolik vás tu sedí pro představu?
+Dneska už asi 150.
+Už není malý.
+Z toho asi říkáme,
+tři čtvrtě lidí jsou technici.
+Jo. A tak nějak
+spolu soužijeme, soužijeme
+z nějakého většího dělení.
+Jo, jo. Nebo jako, čím dál se to
+víc vyvíjí to dělení, ale
+ale zas tak furt si jako na nějakou strukturu
+nehráme, no. Já jsem se chtěl
+jenom dozeptat na to programování, v čem píšeš.
+Teda když píšeš. Já mám teď strašně rád
+Rust a celý vlastně
+streaming. Ten náš tým teď
+píše většinu věcí v Rustu, těch věcí, co si píše
+nových, takže snažím těmhle směrem, to mě aspoň baví.
+Nice. A pak
+samozřejmě máme projekty, který jsme přebrali
+nebo jsou to nějaké open source projekty, který
+upravujeme, což je velmi
+často C,
+něco málo Pythonu, něco Golangu.
+Super.
+Super. Chci se zeptat,
+pojďme na CDN 77. Já jsem teďka,
+ještě než začneme, tak potřebuji trošku vysvětlit
+tu 77. v názvu. Já jsem udělal to,
+co udělá normální, moderní člověk
+v dnešní době, to znamená, zeptal jsem se
+chat GPT, co znamená ta 77.
+v názvu CDN 77.
+A cituju, odpověď byla.
+Číslo 77 v názvu je
+odovozeno od roku 1977,
+kdy byla založena společnost,
+která se později vyvinula v CDN
+77. Bylo to v roce
+1977, kdy zakladatelé
+společnosti začaly pracovat s
+technologiemi spojenými s internetem
+a IT infrastrukturou.
+Což, nejsem největší,
+jako nejsem nejchytřejší koťátko
+v košíčku, ale mám pocit, že tohle není úplně
+správná odpověď. Není to úplně
+správná odpověď, ale jako tímhle,
+chat GPT je v tomhle dobrý, že opravdu jde směrem, kterým jde
+většina lidí. Většina lidí si začne myslet, že to znamená
+rok, když ne založení firmy, tak
+rok narození někoho,
+ale není to, pokud já bym měl z toho
+a jen to prostě znělo dobře, žádný větší vysvětlení
+zatím nejde.
+Fakt je to jenom, že to znělo dobře, jo.
+Nebo jako to je ta věc, která se dneska říká,
+nebo je okolo toho jako třeba
+20 různých story, třeba, že
+chceme zrychovat weby o 77%
+nebo různý takovýhle věci,
+ale myslím si, že
+jestli to bylo něco konkrétnější, tak už to zůstane
+tajemství. Tak to je dobrý, takže na to navazujete
+libovolný KPIčka, prostě podobný věci,
+chceme být prostě na 77%
+market share nebo tak, prostě vymýšlíte si
+cokoliv prostě, ale neznáte pravdu.
+Přesně tak. Tak to je dobrý.
+No a co teda vlastně CRN 77
+dělá? Protože já vím z těch
+informací, které ke mně různě jako plynou
+z Twitteru, obecně prostě
+z internetu, že vy toho děláte už
+docela vlastně dost, jako ta firma, ne?
+Ano. Já možná
+teda začnu jako obecně ccdnka. No jasně.
+Jakože cdnka
+obecně se snaží zrychlovat doručování
+obsahu na internetu a dělat ho pro
+zákazníky levnější.
+Což pro nás
+znamená a historicky hlavně znamená to, že
+máme spousta servirů po světě, který fungují
+jako cacheovací proxy, přes který se
+připojuješ a pod tím je nějaký
+náš network. Ale dneska je obecně
+jako trend, že cdnky jsou víc a víc
+nějaký cloud a víc a víc
+procesingu se dělá u nich. Což je třeba ten
+live streaming, který dělám konkrétně já,
+protože prostě trafik je drahej
+a mít cloud a předtím
+nějakou cdnku je vlastně složitý, takže čím
+dál víc cdnky dělají nějaký procesing
+nad těma datama, nebo storage
+nabízíme a
+přemýšlíme třeba o edge computingu a nějakých
+takových věcech. Takže už to není jenom o tom
+content delivery, ale je to i o těch dalších
+věcích, které jsou kolem toho. Teda z hlediska
+vaší firmy, chápu to správně. Přesně tak.
+Mělo by to být
+vždycky navázený na ten content delivery, ale
+jsou to různý podpůrný věci okolo.
+Nejčastěji ten storage,
+máme docela velký storage klastry, ale právě
+dneska jako live streaming, processing.
+Ono, než se dostaneme na tu
+tvoji šťávičku, na ten live streaming, tak
+stejně by mě zajímalo, máš nějaký čísla
+třeba, kolik to pro vás přeteče, kolik
+máte serverů, v kolika
+lokalitách jste jako firma, nějaký takový
+cool čísla, nějaký flex trošku.
+Jo, musel jsem si to teda včera
+přečíst, abych měl aktuální. Aktuálně
+máme přes to lokalit
+s tím, že 70 z toho jsou něco, čemu
+říkáme plnohodnotný popy, což jsou nějaký
+jako datacentra, který jsou propěný do víc sítí
+a pak ten zbytek jsou
+lokální cache, což je, že přímo u
+ASPQ máme nějaký servery.
+Tak víte, když vám Google pošle server
+do KSPQ, že
+tam cacheuje a šetří mu
+trafik, tak tohle už děláme nějakou dobu taky.
+A
+protože přes nás v PQ něco přes
+40 terabitů za sekundu.
+S tím, že kapacita je jako
+trojnásobná nebo čtyřnásobná, máme těch rezerv hodně,
+ale pravidelný daily peak je přes
+40 tera.
+A tohle všechno pořád řešíte z Prahy,
+tedy jako česká firma, chápu to správně.
+Je to tak. Nějaké rozšíření,
+aby jsme si dopokryli, když tak support,
+protože 24-7 support se tady samozřejmě
+řeší, je to trochu
+pitomý to, že ty lidi musí být v noci,
+takže přemýšlíme o tom, že se bude možná
+dělat nějaký support office
+někde v zahraničí, ale rozhodně veškerý
+engineering a veškerý ten vývoj
+a provoz toho se dělá z Prahy tady, tady z Vinohrad.
+Tyjo, tak to je paráda. A kdo je
+vlastně typický klient váš jako firmy?
+Je to
+B2B produkt, takže nějaká firma
+a typicky firma,
+která prostě má nějaký data
+relativně velký, který potřebuje doručovat.
+Typicky dneska video nebo obrázky.
+A pod tímhle už jako
+vlastně úplně cokoliv. Jo, takže já třeba,
+když teďka budu nová videoplatforma,
+řeknu, hele, potřebuji, aby i v Singapuru,
+i v Evropě
+dostávali ten můj content co nejrychleji,
+tak půjdu za váma
+a zeptám se teda, jak mi pomůžete tohle vyřešit.
+Přesně tak. A kromě toho, že to bude levný,
+kromě toho, že to bude rychlý, to bude i levný.
+Jo. To je jako důležitý argument toho,
+což možná dneska už se to povědomí
+o tom dost zvýšilo, že trfik je drahej
+a my ho teda jako šetříme tím,
+že ty data dostaneme blíž.
+A působíte teda na celém,
+jako globálně, protože já jsem četl někde
+CDN obalilo celý svět,
+nebo něco takového, psali na Čekranči,
+tak jako je to úplně
+kompletně globální. A nejsme úplně
+globální v tom smyslu, že nemáme
+Čínu, protože to je velmi
+specifický trh, ne úplně
+demokracie, takže...
+Ne úplně demokracie, to si řekl.
+Ale jinak
+většinu světa se snažíme pokrojit.
+Máte plán se tam
+dostat, nebo jste si řekli, že
+za tím jako Čínu budete ignorovat?
+Protože ten trh je dost velkej.
+Pokud mě vědomo, tak ho chceme ignorovat. On je taky dost
+specifický. Asi nejsme v pohodě
+s tím tam dávat klíčky čínský
+vládě od těch serverů, což se musí.
+Fakt? Jo. Tyjo, tak to je ústý.
+No tak to chápu, na druhou stranu.
+Hele a jedou přes vás i nějaký,
+řekněme jako temnější weby, typu
+Pornhub, nebo máte vůbec možnost
+poznat, co přes vás takhle
+přesně jde? Teda samozřejmě, když přijde
+za tebou Pornhub a řekne, já chci, aby
+teďka o teďka jste mi to jako streamovali, tak víte
+odkud to jde, ale
+obecně asi ten přehled
+zase tak hluboko není, ne? Nebo jak to funguje?
+No takhle, neteče přes nás žádný věřený internet,
+jsou to všechno naši zákazníci. Takže jakoby
+jsme schopní z tohohle pohledu vlastně
+docela kontrolovat, co tam teče.
+Nějak do těch dat zákazníkům nešaháme,
+ani je jako hluboce neanalizujeme,
+spíš na té úrovni prostě, když přijde
+zákazník, který, kde bude typicky
+legal problém, nebo nějaký morální problém,
+což u nás typicky není adult,
+tak ho jako odmítneme,
+ale je to typicky
+nejčastěji prostě legal problém, jakože
+prostě jakýkoliv
+nelegální věci.
+Adultu třeba se nebráníme,
+zároveň,
+to je dneska třeba do 10% revenňů.
+Naprostá většina toho, co přes nás teče,
+nejsou asi takovýhle temnější věci.
+Ok, ok.
+Takže vlastně, když něco odmítáte, tak je to
+řekněme z důvodu jako spíš morálních,
+nějakých, jakože tohle už ta firma
+jako nechce, nechce
+mít s tím neníc společný. Dneska
+naprostý většině jsou to jako legal důvody.
+Jakože prostě legal oddělení řekne,
+stejně jako nám pak zavolá soud,
+ať to vypneme, takže
+to nemá ani smysl
+řešit a nechcem,
+nechcem, aby se u nás asi
+prodávali zbraně nelegálně nebo tak.
+Ale a kdo je vaše konkurence?
+Abych si to líp orámoval.
+Jsou to ty velký technologický firmy
+nebo tam to nevidíš?
+Naše přímá konkurence jsou ty ostatní
+velký CDNky, což je Cloudflare,
+Akamai, Fastly
+a tenhle ten typ.
+A pak samozřejmě jako velký klaudy
+Azure, AWS.
+Takže i ty se snaží brousit na ten B2B segment?
+Ano.
+Já si budu tvrdit, že celý klaud je víc
+B2B a oni mají všichni svoje
+CDNky. Jakože AWS
+je normálně v rámci, AWS nabízí
+CDNku. My říkáme, že jsme lepší
+a jsme výrazně levnější
+v těch veřejných cenách, ale
+ale
+AWS to normálně nabízí.
+Pojďme na tvoji doménu, což je
+Livestreaming. Ty jsi říkal, že jsi teda head of
+Livestreaming Engineering, že teda
+seš někde, řekněme, spojovatel mezi
+jako biznisem a mezi tou
+technologickou stránkou a mezi tím týmem.
+Kolik máš vlastně lidí v týmu, když si řeknu
+jako tvůj Livestreaming tým?
+No...
+Teď je nás asi deset.
+Z toho pět fulltimistů a
+pět lidí,
+kteří ještě studujou.
+Už je to trochu moc,
+se přiznám. Jakože ta
+optimální velikost týmu si myslím, že končí někde
+na sedmi lidech, že už to pak začíná být trochu problém.
+Pořád to pravidlo dvě pici, aby se
+z nich najedl. Myslím si, že to platí.
+Už na sobě
+pocitím, že nezvládám
+vždycky všechny úplně udržet, jak se
+mají.
+Ale je nás zhruba takhle deset.
+Aha. A můžeš posluchačům
+vlastně vysvětlit, co to
+live streaming je? Jako úplně
+řekněme... Jako možná třeba
+běží do nějakého techničtějšího detailu
+pro ty, kteří to ocení, což nevím,
+jestli jsme úplně my spolim, ale
+co je live streaming a jaká je třeba jeho
+podstata? Ať vlastně víme, o čem se vůbec
+budeme dneska bavit.
+Live streaming úplně v tom nejzjednodušeném
+je prostě, chcete živou televizi,
+ale chcete ji přes internet.
+A teď technologičtěj...
+Konkrétně my teda vlastně řešíme dneska
+jak dělat low-latentní
+live streaming, což znamená pod
+pět sekund nebo okolo pěti sekund
+end-to-end nebo glass-to-glass
+se říká. Zna od chvíli, kdy se něco
+stane před kamerou do chvíli, než se na to někdo může koukat
+a reagovat. A snažíme se
+taky dělat jakoby na masivním
+scale v tomhletom oboru
+pro spíš user-generated content.
+Takže to, co my... My si
+vyvíjíme vlastní stack pro ten
+processing, aby k nám opravdu jenom jako přiteklo
+video, my jsme ho přetranskodili do více kvalit,
+do více způsob, jak ho doručit zákazníkům
+a jim ho
+doručili, prostě celý hotovej balíček.
+Ale to, co vyvíjíme, není
+zaměřený na to, že je
+velká televize, která potřebuje, prostě
+musí to být nekonečně stabilní. My teda
+jsme stabilní, ale nejede to prostě televize
+uměj běžet v několikanáctumný redundanci,
+protože prostě to nesmí za žádnou cenu vypadnout,
+což je drahý. A my spíš
+optimizujeme to, ať toho zvládne fakt uprocesit hodně,
+jakože tisíce paralelních streamů
+a zvládneme to uprocesit levně.
+A zvládneme to levně dodat.
+Takže tohle je to, co my tam děláme.
+Přemýšlím, do čeho se pouštět
+technologicky. Za nás
+ty složitý věci je, jak udržet
+nízkou latenci,
+protože normálně ta nízká latence
+není proto, že si člověk různě
+bafruje věci a dělá si rezervy.
+Když někde trošičku zahapruje network,
+je tam nějaký malej paket loss,
+tak je prostě často vyřešit.
+Když mám pětisekundovej, desetisekundovej
+bafr na playeru a teď na dvě sekundy
+ztratím spojení, tak si toho
+uživatel nevšimne, ty data se dostáhnou.
+Když máme nízkou latenci a bafr na klientu
+je třeba 300 milisekund,
+tak ta sítě hned se projeví.
+Takže vlastně
+celý důvod,
+proč to děláme my přímo jako CDNka
+a nejde to ani moc dělat bez té sítě,
+je to strašně náročné na tu sítě.
+Je to mnohem cítlivější
+než vlastně cokoliv jinýho,
+protože ta sítě
+musí být spolehlivá i jakýkoliv přeroutování
+bolí.
+Z toho uživatelského hlediska mě napadá,
+dokázala by ta sítě v podstatě
+být tak rychlá jako
+ta klasická antena?
+Takový ten uživatelský problém, co já mám doma, koukám na hokej
+a soused nahoře se raduje o pět vteřin zít,
+protože na to kouká přes antenu
+a já mám internetovou televizi.
+Jako klasická analogová televize
+spíš ne, protože ta prakticky
+žádný spoždění nemá, ale jako digitální televize,
+jak možná víte, i prostě satelit
+nebo DVB, to je dneska, tak vlastně spoždění
+stejně má. Protože my používáme
+dneska velmi podobný technologie. Ta digitální
+televize je v tomhle velmi podobná, že prostě je tam
+digitální kamera, která jde do encoderu,
+máme taky encoder, dokonce umíme
+dělat ty stejný, co má prostě televize.
+Oni to pak teda pošlou
+po signálu, my vezmeme
+velmi podobný data a pošlem je po internetu
+a ten internet není v tomhle ohledu
+o tolik pomalejší, ale ano, tohle
+je ta část, kde my jsme v něco pomalejší, ale ono to vlastně
+není ta důležitá část, protože celý ten jako přenos
+u nás jako typicky
+do 50 milisekund je jako
+end-to-end latence z těch našich edgeových lokací.
+Samozřejmě je to složitější, když prostě se člověk
+tady chce dívat na nějakýho streamera
+ze státu nebo z Hawaii
+na druhé straně světa, tak prostě rychlost světla
+je daná, ten internet to musí nějak
+optect, tam bude i klasická televize nějak
+pomalá, ale v rámci toho, že prostě člověk
+třeba streamuje tady z Prahy a kouká se někdo
+z Prahy, tak to je třeba 10 sekund udělat
+ten samotný přenos, kde jsme jakoby pomalejší
+technologicky než televize.
+A potom je to potřeba dekodovat na tom zařízení, což
+má zase televize stejná,
+v tom my zase máme tu výhodu, že velmi často
+televize, jakožto ty fyzické zařízení
+mívají relativně slabý
+dekodéry, bývá na nich jako na tom softwareu
+a na tom hardwareu šetřeno. Má jako dobrý
+panely, ale ten dekodovací hardware má je levnej.
+S tím, co mobily, což je dneska ten vlastně
+primární target, jak se na nás
+koukají lidi, tak tohle mají zase
+velmi dobrý. Takže my vlastně jako
+většinu tý latence strávíme
+na enkodování a dekodování
+a ten přenos není tak silný. Takže
+vlastně televize dneska konkurovat
+docela dobře můžeme v tý latenci.
+A chodí za váma i televize, abyste jí pomohli
+něco vyřešit? Třeba teďka, že jo, klasický
+mistrovství světa, politouž
+naťuk, jste schopný obsloužit
+i takovouhle, řekněme, jako
+high peak, high demand záležitost?
+Jestli to vůbec je high peak, high demand,
+když na tím tak jako přemýšlím, jestli...
+Ono tohle je zase
+z toho pohledu live streamingu, pro nás je to vlastně
+jednodušší, protože je to
+jako jeden stream. Musíme třeba pustit
+paralelně s velkou redundancí
+a přesně mět mezi tím přepínat,
+ale je to vlastně jednodušší, než mít tisíce
+streamu, který člověk musí rozbalancovat,
+protože tam teda ještě ta složitost je v tom, že
+live streaming má složitej hardware.
+Buď to můžeme dělat na v obyčejném
+komodity hardwareu procesorech
+a je to strašně drahý, protože je to prostě náročná
+činnost, anebo to děláme,
+my se to snažíme dělat na grafických kartách,
+na různých akcelerátorech, ale
+nejedno to zaznamená, že ten hardware není všude.
+Nemáme prostě ve 100 lokacích encodery
+a to složitý je naplánovat, jakože když
+přijde stream, tak ho dostat do té nejbližší lokace,
+kde je ještě volno a
+ideálně vytěžovat ty kapacity a rozkládat si
+rizika. A ta televize je v tomhle
+vlastně jednodušší, protože je to věc, která je
+dopředu naplánovaná, ví se, kolik toho bude.
+Ví se, kdy to končí, kdy to začíná.
+Ví se, přesně. Je na tom jakoby
+jasný, je saláčko daný a
+pak je to složitý z pohledu trafiku.
+Ale ano, pro nás vlastně dneska
+hokej už není takovej pík.
+U nás, jako už jsme dorostli
+do velikosti, že tím, že jsme globální
+a máme jako velký rezervy, že vlastně
+nás tyhle píky dneska už jako, je to zajímavý,
+ale nějak nás jako nevzrušují.
+To jsou jako jiný společenský, celospolečenský
+věci, které jsou vidět. A to jsou třeba který?
+Jsou třeba vidět Vánoce, jako že prostě
+na štědrej den lidi nestreamujou.
+Jo, jo, že je klid. Jo, je klid a pak jako
+skončí pelíšky a všichni v Čechách
+jdou na sociální sítě.
+A nebo to mladá generace
+ještě předtím. Je hodně vidět
+třeba Ramadán na východě,
+že prostě najednou se ten trafik z celého dne
+přesune jenom do večera.
+A co u nás je jako
+bylo zač vidět nejvíc,
+nechci kecat, Loni někdy měl
+docela větší výpadek Google a YouTube, že vlastně
+půl dne tak jako různě blbnul.
+A to se zvýšila produktivita.
+A no právě, že vůbec.
+A člověk by právě si jako řekl
+tenhle trf tím, že lidi nebo si šli číst knížky.
+Oni šli na jiný sociální sítě, nebo prostě
+obecně šli jinam na internet.
+A takže to všechno, ten trafik, co ubyl Google, se objevil
+Jo jinde, že to přeteklo prostě jinak.
+Ano a to bylo, to byl jako
+jedinej trafik, jedinej pík za poslední dobu,
+kterýho jsme si jako výrazněji všimli, protože to bylo
+to bylo jako několik tera
+přibylo v píku.
+Což když máme 40 normálně
+a já nevím, jestli jsme přibyli 4 tera
+nebo 5, tak už to jako není zanedbatelný pík.
+Takže mnohem víc tyhle věci, které jako
+ovlivňují fakt hodně všechny.
+Ten hokej, i když je jako u nás
+velmi celonárodní, tak není
+vlastně tak velký.
+To mě úplně napadla otázka, když vidím,
+jak už máte statistický vzorek
+z těch dát.
+Pojevil třeba někdo zájem, že by chtěl ty data?
+Jakože vyloženě byste prodávali ty data?
+A můžete to vůbec dělat?
+– Tak tam se přiznám, že bohužel
+asi ani jedno z toho neodpovím.
+Jako jsem si docela jistý, že nikomu
+teď nedáváme a nevím,
+jestli o to někdo projevil zájem.
+– To napadlo samozřejmě, tak samozřejmě data.
+To zase baví mě, ale když říkáš
+Ramadán, vlastně Vánoce, to úplně vidím
+ten dashboard, který vlastně někoho zajímá.
+Teď nenapadne mě
+jako zákazník, ale určitě by se někdo našel.
+– Tak minimálně jeden Polák by se to koupil.
+– Tak data sexuálové,
+to nejsou ty správný zákazníce, ale i tak by to šlo.
+– Pojďme ještě zpátky k tomu, co jsi říkal
+ohledně hardwareu. Já jsem si vlastně říkal,
+když jsem si připravoval otázky na dnešní podcast,
+že u vás asi
+hardware hraje dost zásadní roli.
+Jste vlastně tím pádem
+víc hardwareová firma,
+nebo softwarová firma, nebo jak vlastně se dá
+teďka na C177 koukat,
+máte vlastní železo, předpokládám,
+že tam hraje jako brutální roli, ne?
+– Ano, železo hraje velkou roli.
+Asi bych neříkal, že jsme hardwareová firma,
+protože to, co si vyvíjíme, je software.
+Hardware si nevyvíjíme, hardware kupujeme,
+prostě commodity of the shelf hardware.
+To děláme teda hlavně protože
+tím, že běží po celém světě
+a běží v různých datacentrech, které nejsou naše
+a pro ně máme si prostě jenom
+pár deků,
+tak nemůžeme si vymyšlet vlastní věci.
+Musíte, protože standardizovaný hardware,
+který jako projde,
+se do té země dá dostat, velmi často
+jako custom věci jsou problém, nemůžeme to jako
+chladit vodou nebo volejem nebo dělat tyhle
+věci, které jsou zajímavé, ale to jako moc dělat nemůžeme.
+Ale ano, hardware všechny vlastníme,
+v současných chvíli máme
+něco přes 2000 serverů
+světově. Ono se to furt dost mění,
+my jsme jako v tomhle velmi akční
+a plus máme docela dost na skladě,
+ale hardware u nás rozhodně hraje velkou roli.
+Zároveň ta síť pod tím,
+ten vlastně jako core toho, proč můžeme nad tím stavit ten software,
+je to, že máme tu síť a máme
+ty koncový servery.
+Jako i ty kabely povšude po světě
+jste si dělali sami?
+Pokud vím, tak ne.
+Pronajímáme si.
+Stejně jako ty datacentra, tak prostě jako tu fyzickou infrastrukturu
+v tom světě nevlastníme, tu si pronajímáme.
+Jakože exkluzivně pro nás, ale
+pronajímáme.
+Předpokládám, že s tímhle ruku v ruce
+jde i ten textek, který bude
+asi víc low level.
+Ty jsi mluvil, že si hraješ s Rustem,
+Gočko, C, co vlastně,
+na čem, když řeknu
+Livestreamy v CRN 77,
+na čem to běží? Co je to
+gro, který to drží teda pohromadě
+softwarově?
+Tak ty vlastní věci vokolo, který si víme,
+jak už jsem říkal, tak jsou typicky v Rustu.
+S tím, že pod tím používáme nějaký
+už funkční technologie, jako jednak to všechno
+běží na Linuxu.
+Často tam používáme
+na různý věci FFMP, které je v C,
+do kterého potřebujeme někdy kouknout nebo šáhnout.
+A pro tu delivery část na konci
+celá CRN stojí na core
+Nginxu, nebo teď si trošičku
+hráme s Envoyem, což jsou zase Cčko
+nebo AC++ projekt, takže ano, tam je to
+vlastně všechno takhle jako low level.
+Nám jde hodně o performance. V těch číslech,
+který jako děláme, tak ušetřit prostě jako
+i procento dvě CPUčka.
+Je strašně moc. Jsou pro nás prostě jako
+peníze, je to znát, musíme to řešit.
+Takže si tam jako nemůžeme dovolit jít úplně
+moc vejš.
+Zároveň v tom Rustu my dneska píšeme i
+spousta jako apiček,
+který jako vůbec výkonný
+být nemusí, je to spíš o tom teď už v tom
+týmu, že držíme jeden jazyk.
+Že se nám jako osvědčil, že ten Rust je dobrý v tom, že je
+expresivní. Já jsem vždycky pak smutný,
+když v nějakém tom Cčkovém programu musím
+řešit se k faulty. To vždycky by
+jsem jako, tak jsme si vybrali Rust, aby jsme
+tady celý jako týdny řešili se k faulty
+na nějakých apkách.
+Protože tam zase u všeho máme problém s tím scalem.
+Ono, když se něco stane jako v jednom
+milionu, v jednom
+rekvestu z milionu, tak nám se to stane prostě několikrát
+za den.
+Takže to jako nejde ignorovat, je potřeba
+všechny různý edge casey ošetřit
+a není to vždycky úplně jednoduchý.
+Je to důvod, proč
+třeba neděláte v C++?
+Protože jste začali
+v Cčku a předělali to celý
+tak, jak to máte naškálovaný.
+My jsme v Cčku nic moc nezačali, to jsou
+většinu ty projekty, který jsme převzali odinut.
+Nebo jsou to jako open source projekty, který jsme
+měli. Věci, co si píšeme sami,
+tak se typicky psali v Golangu
+historicky a my se teď snažíme
+i jako do zvěcí psát v Rastu,
+protože jde kombinovat s tím celým stackem.
+Tam je jako dobrý si říct, že my zase jako nejdem
+tak low level u transcodingu,
+aby jsme si psali vlastní transcoder.
+Tam používáme prostě to, co je
+veřejně dostupný, což je buď
+x264 veřejný
+transcoder pro 264
+kodek a nebo typicky
+hardware. Takže typicky používáme
+dneska Nvidia.
+Takže my už píšeme to, co nad ní volá ty
+Nvidia apy, takže jako komunikujeme přímo s hardwarem,
+ale neimplementujeme si ten jako úplný
+gro, že bychom si vyvíjeli vlastní kodeky.
+Tam aspoň zatím nejsme
+takhle velký, aby jsme to mohli dělat.
+Zajímavý trošku jinej svět.
+Když teďka přijdeš do kanclu, tak
+co tě tam čeká? Co tam bude za výzvu?
+Co budete s týmem dneska řešit?
+Prostě nějaký příklad.
+A dneska budeme řešit asi sbírání logů,
+protože jako velká část,
+a my na to máme celý další tým,
+jak sbírat logi z těch věcí.
+Klienti vlastně chtějí access logi,
+což to jako jim nevyčítám, to je správně.
+A zase v téhle škále
+už je to trochu problém sbírat.
+Když prostě každý rekvest má vygenerovat logolainu,
+která se má jako spolehlivě někam dostat,
+má být v čase seřazená,
+klasický problémy distribuovaných systémů,
+tak to je to, co teď jako řešíme,
+jak tohle dělat pro live streaming,
+protože na to nefungují klasický access logi
+vždycky úplně dobře.
+K tomu se možná dostanu v tom,
+že live streaming, tak spousta technologií dneska,
+nebo historicky fungovala prostě tak,
+že ten HTTP live streaming je,
+mám prostě malinký,
+vlastně video rozsěkám na krátký soubory,
+a vždycky ten soubor prostě vystavím na servru
+a někdo si ho stáhne.
+V low latency my to nemůžeme dělat takhle jako úplně jednoduše hloupě,
+protože když ten soubor reprezentuje třeba 5 sekund videa,
+tak kdybychom čekali, vytvářeli 5 sekund soubor,
+ten tam nahráli a až pak si ho člověk stáhnul,
+tak jsme si přidali 5 sekund latence.
+Což my si jako nemůžeme dovolit.
+A taková jako jednoduchý fix je zkrátit ty soubory,
+ale furt tam člověk nějakou latenci
+vlastně trochu zbytečně přidává.
+Takže to, co se dneska dělá,
+je, že ten soubor se stahuje dřív, než je hotovej.
+Ještě dřív, než se to video stalo,
+tak už si člověk stahuje ten soubor.
+A zároveň...
+Kráso.
+A je potřeba to nějak doprogerovat,
+tu informaci. Tam se jako řeší reálně i synchronizace času.
+Jak jako dostat to, aby klient věděl,
+kdy si ten soubor má stáhnout,
+protože dostat mu tu informaci znamená další roundtrip.
+Jakoby říct mu, už si ten soubor můžeš stáhnout
+a on si ho teprve jde stahovat, už je roundtrip navíc.
+Takže je ideálně,
+že ten klient jako to uživatelské zařízení
+pozná, že už si ten soubor může jít stahovat.
+Nebo my ho nějak pozdržíme.
+A tohle celý ještě trochu větší problém logovat,
+protože ne vždycky funguje.
+Když bychom si řekli, a tyhle casey mi zapotříme,
+že ty soubory nebudou pětisekundový,
+ale patnáctisekundový, nebo že
+to jsou technologie spíš starý
+a taky se furt používají, že více méně
+jeden soubor, který se furt stahuje,
+jakože se člověk průběžně stahuje a tím se kouká
+naživo, ta klasický access logi,
+který typicky fungují tak, že
+po dokončení requestu se zaloguje,
+u nás nefungují, protože ten request může být dlouhej.
+A my vlastně ty logi chceme častějc.
+Takže to je věc, kterou teď půjdu
+jako řešit, nebo furt řešíme.
+Takže to budete i upravovat kvůli tomu,
+aby se to dalo líp logovat, třeba některý
+principy. Přesně tak. My už to, teď jsme
+ve fázi, že jsme to dost upravili a řešíme
+jak to naškálovat, aby
+ty centrální servery,
+který to budou celý sbírat, aby to ustály.
+No ano, povedej,
+ale tohle celý, jakože
+bohužel tady už pak jako do detailu
+nezabřednu, to řeší logging tým.
+Prostě jako tým, který opravdu řeší, jak
+tohle celý ustává.
+Super příklad, super příklad, jako co dneska budeš řešit.
+Koukám, jak je Michal načený.
+Já se chci zeptat, co tě na tom osobně
+přitahuje, jestli to je
+ta business čas, kdy máš
+radost z toho, že teda pomůžeš odstreamovat
+nějakou zásadní událost,
+nevím, prostě lidem publikovat
+odkudkoliv, kamkoliv, nebo tě baví
+taková ta technická šťávička zatím, že
+právě logovací tým řekne,
+potřebujeme logovat všechno a teď vy vymýšlíte,
+jak to udělat, aby to bylo prostě škálovatelný.
+Tam jako doplním,
+že logovací tým jsou taky technici,
+takže oni na nás spíš požadavky nevzná.
+Oni to dělají škálovatelný a my je takhle
+jako by zasypáváme datama.
+To jsou všechno u nás tohle technický týmy.
+My jediný jako netechnický, abych to doplnil,
+je asi jako sales a marketing, nemáme
+ani HR. Všechno ostatní
+jsou prostě technický týmy, takže to je jako by
+není tak, že jako by oni zadávají, potřebujeme
+to naškálovat. To je jako, tak si to naškálujte.
+A jako zadají si,
+že potřebují hardware.
+Dají Gira ticket sami sobě a začnou.
+Takže to, co tě v tom
+nejvíc jako baví teda, to je?
+Asi víc ta technická strana.
+Já jsem jako by asi
+v duši technik.
+Tak ta biznisová stránka, ta mě asi jako
+víc baví právě to, že ty věci jsou
+reálně zajímavý. Že to není jako, tady si šmadlám
+nějakej projekt do šuplíku, už jsou to
+reálně velký data, reálně velký
+zajímavý problémy za mě. Že to jsou
+prostě jako opravdu věci, které jsou složitý,
+nejde prostě vyřet, není to jako
+po padesátý dělám to stejný kududový
+apy a řeším
+s klientama admin. A tím se
+vás nechci rozkrovit, no, ale jako
+tak to mě jako
+na tom vlastně hodně baví. Takže jo,
+ta práce mě dnes v současných chvílech
+hodně baví. Ty jsi říkal
+na začátku, že jedna
+z věcí, kterou vy řešíte je i pricing.
+Že vlastně ten livestreaming děláte
+levnější.
+Jak to vlastně děláte? Protože mě to zní,
+že mě to musí stáhnout z kalhot v tom
+množství dat, který je potřeba teda přenýstat,
+teď to prostě přesamplovat a prostě
+udělat to v různých kvalitách a tak. Jak to,
+že to děláte teda tak levněji?
+A jste nejlevnější vůbec?
+Jestli jsme nejlevnější, já si úplně neřeknu.
+Většina těch pricingů není veřejná.
+Ale snažíme se to
+prostě dělat co nejlevněji.
+Ono takhle
+jako nakonec je to biznis, vyhrává ten,
+kdo má nejlepší poměrce na výkon.
+A my tam šetříme
+peníze tím, že jsme schopni, tím jak už jsme
+i velký, tak jsme schopni prostě mít docela
+rezervy v hardwareu a rozložit je mezi
+klienty, takže klient nemusí platit nějakou
+jako alokaci toho hardwareu.
+Platí typicky reálně využitej hardware
+do nějaký míry. Když člověk přijde,
+že chce jakoby 50 tisíc streamů, tak asi
+neřekneme. No tak jasně, tak
+žádný, bude to strašně levný.
+Tak tam se asi budeme bavit.
+Ale je to spíš o tom, že tím,
+že kontrolujeme celý stack, tak jsme schopni
+tam dělat optimalizace hodně do hloubky.
+Že to prostě není jako kupujeme si,
+jdu do AVSka, kliknu si
+prostě nějaký server, na kterým pustím
+tak já jsem schopný ten software velmi přesně
+spádovat s tím konkrétním hardwarem
+a přesně si udělat topologii sítě
+a těch věcí, abych byl proto vyoptimalizovaný.
+A tím jsem schopný srazit cenu dolů.
+Aha, tak možná, jestli to jsme
+nahrál na další otázku, která mě zajímá
+celá ta flow, vlastně od toho, že přijde
+zákazník, popíše vám nějaký problém,
+až poté jako finální, řekněme
+deploy, jestli se tomu vlastně
+dá říkat, jak to probíhá.
+Přijdu, řeknu, jsem velká firma,
+chci streamovat, vy s ním děláte nějakou
+analýzu toho, co přesně bude potřebovat,
+nebo jak to probíhá a jak vlastně třeba i
+ve finále to uvedete
+v život, jak funguje nějaká pipeline a tak dále.
+Tak nejdřív se pokusíme
+nabídnout, co už máme hotový.
+Pochopitelně. Máte nějaký krabicovky
+jakoby, jo? Vnitřní, takový ty
+předkonfigurovaný řešení. Úplně
+u livestreamingu dneska ne. Máme to
+u toho Delivery, livestreaming je u nás
+dalatelně novej, ono celý ten projekt
+tam jako vlastně běží dva roky, takže ještě
+nejsme úplně ve stavu, že máme prostě jako
+hotový nabídky, ale máme
+věci
+a máme věci, které víme, že jsou
+prostě u nás konfigurace, které jako umíme nabídnout
+a věci, které je potřeba doprogramovat.
+Takže se zákazníkem začne bavit
+typicky sales team,
+co je potřeba dělat, hned
+do toho bude zapojený někdo z techniky, v tomhle
+případě je buď já, nebo Tomáš Kvasnička,
+což je vlastně head of development
+a začne se jako interně ve firmě vymýšlet,
+co to pro nás zajímá. Což znamená to,
+že ten člověk, který to takhle z té technické stránky
+řeší, se půjde sejít prostě s těma jako
+ondrama za ty myšlenky, půjde za
+někým, kdo řeší hardware a síť,
+jestli tam jsou problémy z tohohle pohledu,
+půjde se domluvit s vývojářem a kolik je tam
+vlastně volného času a jak
+složitý je to vlastně napsat.
+A z tohohle zkusí jako sestavit
+to, jak je to složitý, jestli
+jak moc si můžeme dovolit
+mi to jako vyvíjet bez rizika
+nebo jako, že my většinu věcí vyvíjeme prostě na naše
+riziko a tím, že
+zase jako nemáme investory, tak
+můžeme dělat, má to jednoho majitele ta firma,
+tak můžeme dělat rozhodnutí docela jako
+relativně rizky, pokud si na ně věříme
+a
+jdem to když tak prostě jako vyvíjet.
+Žádná, není tam úplně jako speciálně daný flow,
+je to prostě člověk se začne scházet s lidma,
+tak sedíme na vile, napíšeme si na sleku
+můžeš prosím za
+10 minut být v pergole, potřebovali bychom tohle probrat
+a začne se řešit, jaký jsou ty prostě
+stepy, kde jde vzít čas,
+kdo má zrovna volno, kde jsou věci,
+které můžou počkat a umíme
+přeprioritizovat věci, umíme spousta věcí
+dodat jakoby v týdnech
+od myšlenky do chvíle, je to nasazený
+celosvětově. Takže to máte takové jako samořízení,
+když to tak vezmu ohledně toho projektu.
+Ano, nemáme žádný velký
+project management, nemáme na to žádný
+složitý procesy, není to nějak daný, prostě
+je to jako, zejména hysterické, to je prostě
+jako parta nerdů, sedí ve vilách a řeší spolu
+problémy a už to
+jako trochu vyrostlo do toho, že jsou tam
+lidi, který víc mají prostě na starosti
+určitou věc a určitý tým lidí,
+že držejí tu myšlenku
+toho, co se dělá, ale je to hodně samořízený
+a je jako vlastně i cílem, aby
+vývojáře bavilo, co dělají, takže to ani
+jako není tolik ve stavu, jakoby neřízuje se
+vývojářům, tohle přesně je potřeba udělat
+a protože se budeme sejít a řekneme si, je tohle,
+bude vás to hodně štvát, když to budeme dělat,
+myslíme, že to zvládneme prostě za takovouhle
+dobu udělat
+a
+prostě se sejídem a pokecáme.
+To je hustý. Jako hodně netradiční je to,
+že jsi říkal, že vás je už 150,
+ale zároveň hrozně sympatický,
+že se to ještě dá při takhle velký firmě
+udržet. Jsi říkal, že nemáte HR?
+Nemám HR. Ty týmy si to hajrujou
+sami. Takže jako když člověk půjde
+k nám chtít dělat video
+do rastu, tak si bude psát se mnou.
+Nebo nejdřív si bude psát typicky s Tomášem,
+jakož to head of development,
+nebo on řídí
+celý ten engineering vývoj,
+ten core zatím a pokud
+člověk se naprotitipuje
+k nám, tak si ho přeberu vlastně já
+a začnu si s ním povídat a pak se se mnou potká
+na pohovoru.
+Má to spousta, ale tohle
+z toho řízení, jako tím, jak rosteme, tak to je ve spoustě
+úhlech bolestivý. My zároveň jako se
+asi nechcem zamknout do nějakého
+rigidního procesu, kde věci dlouho
+trvají. Tohle má trošičku
+náš asi největší aktuální problém, že se
+ztrácejí někdy informace, že prostě
+to neví všichni, kdo by potřebovali a s tím se
+snažíme něco dělat.
+Ale jinak to vlastně docela funguje.
+Můžete sundat produkci, myslím, že se bojíme.
+Lidi si toho doufám, jako reálně trochu bojej.
+Ale chyby se jako dějou
+každej. Prostě jako i když budeme
+mít všechno nastavný nejlíp, tak se někdy něco
+podělá.
+A ano, jako ve chvíli, když se to
+podělá, tak nedává smysl, nebo
+snažíme se jít tenhle ten blame frame, že jako
+nejdem někoho jakoby uříznout mu hlavu.
+Ale jako jdeme řešit, proč se to
+stalo a jak tomu jde procesní,
+když říkám, že se nechcem zamykat do procesu, tak
+u těchto věcí se snažíme nastavit,
+jak to udělat, aby ten člověk to nemohl
+udělat, kde se lhal jaký ček.
+Protože jako furt držíme zároveň
+to, že prostě všechno, které jde do produkce,
+by měl mít review aspoň jednoho dalšího
+člověka. Snažíme se držet testy.
+Tím, že jako jsme, ten software je
+core věc, tak se snažíme
+tyhle věci tlačit, ale ano, je to
+dost na zodpovědnosti lidí. To zároveň znamená,
+že my takový lidi hledáme, který jako
+jsou zodpovědný, jsou schopní sami posoudit,
+jak moc tam to riziko je, nebo se
+jako jsou schopní posoudit do míry,
+jdu se někoho zeptat.
+A nebudou tohle, nebudou úplně
+jako střílet se všechny do nohy. Ale jako když
+už to shodíme, tak proč to jako nepřiznat?
+Rozhodně nám...
+Moc si toho stejně někdo všimne.
+Moc si toho stejně někdo všimne a jako stav toho, kde ty firmy mají status stránky,
+který updateujou po půl dní, že možná něco nejde,
+tak tomu jako hodně nefandíme.
+Snažíme se prostě, když už se to stalo,
+tak se to stalo, pojďme vyřešit, jak se to stalo.
+I klientům prostě říct, stalo se tenhle
+ten problém, tady se to, tady to
+prošlo prostě. Těhlech pět čeků zároveň
+selhalo, už jsme jako ve stavu, že málo
+kdy to je, vlastně nikdy už to jako
+není selhání jedné věci. Protože se opravdu musí
+sejít víc věcí, mít jako, být fakt jako
+hodně blbej den, aby jsme sundali celou CDN-ku
+a vždycky z toho je jako velký
+ponaučení a pak se to prostě jako řeší,
+jak tomu zabránit a jak vůbec
+se jako vyhnout tyhle ty věci, že
+jako nejvíce dneska zaměřujeme na to,
+jak nedělat věci, které se týkají celý CDN-ky,
+ale jak vždycky umět
+jako to aspoň izolovat na nějakou lokaci.
+To je úplně, tam slyším Valerii Zavadskou
+z těch leteckých katastrof, kde vždycky
+je pět věcí za sebou, který se po,
+než to letadlo spadne, takže u vás je to dost podobné,
+jak tak poslouchám. Je to dost podobné, ta firma už má
+nějaký věk a nějaký zkušenosti,
+takže tohle se jako vlastně časem vytvořilo.
+Jako to tam lidi, to prostě řešíme.
+Jak to, že jsme třeba to nezjistili dřív,
+jak to, že prostě jsme to nevěděli po deseti sekundách,
+že to neběží, ale až po třiceti
+a jak to, že prostě ten člověk
+to tam do té produkce poslal,
+kdo mu na to dal e-proof, proč mu na to dal e-proof
+a takovýhle.
+Jako to půjdeme projít, proč to těma dle věcma prošlo.
+Aha. A jak vám do tohle vstupuje
+nějaká automatizace, aby se tyhle
+ty věci děli v co nejmenší míře?
+To jsou asi
+automatizovaný testy nejvíc.
+Máme prostě interní GitLab, na kterým je
+cejčko, to jako řešíme,
+projekty mají testy.
+Není to vždycky všude ideální,
+my spousta věcí se u nás vyvíjí, takže když přijde
+zákazník, tak vystředíme prototyp a pak
+bojujeme s tím úplně klasickým problémem,
+už je to navždy prototyp.
+Já budu tvrdit, že my jsme v tom docela dobrý, že jako některý věci,
+prostě jako třeba live streamingový stack, máme
+třeba pátou generaci a vždycky se začalo skoro od nuly.
+Že se prostě jako řeklo, OK, tak jsme si vyzkoušeli
+prototyp, že to funguje, teď to jako zahodíme a jdeme
+psát od nuly, aby jsme se z toho poučili.
+Ale tohle ne vždycky jde dost rychle,
+ať prostě technický dluhy vznikají,
+i když se je snažíme řešit, ten balans
+mezi tím potřebujeme rychle dodat featureu
+a je úplně dokonale pokrytá
+testama, je vždycky potřeba hledat,
+prostě nejde strávit jakoby roky nad tím
+psát testy.
+Ale tam jdeme do tohohle kroku,
+nejsme dneska, ten
+core tcdnky se nedeployuje automaticky,
+deployuje ho nějakej člověk tím, že pustí
+pustí ručně Ansible, nejde jako na jednotlivý
+servery, čím
+vlastně naopak tím, že tamto automatizace není
+nějaká kontrola nad tím, že to někdo kontroluje.
+Máme trochu problém s tím,
+že prostě 40 terasí člověk nenasimuluje
+u sebe,
+jako prostě v laboratoři a spoustu těch
+jsou kaskádový chyby, že prostě jako
+jeden server se zavařil a ten
+druhej server v lokaci se pak zavařil taky a na jednu
+celá lokace spadla a je to kaskáda dolů.
+To se jako, když už se nám to sundá,
+tak buď je to konfigurační chyba,
+anebo je to takováhle kaskáda.
+A v oboji se prostě
+blbě simuluje, konfigurační chyba
+typicky bývá to, že
+s testovacími datama to prošlo, ale v reálných
+datech je nějaký kvrk, který jsme nepodchytili.
+A to je všude stejný?
+Tohle prostě bývá a ty kaskády,
+v oboji se jako blbě automatizuje, testuje.
+Takže jako vlastně tady automatizace naopak
+není. My bychom to jako chtěli zlepšit
+do automatizaci, ale tohle vlastně jako
+jsou admini, kteří to deployujou. A měli jste
+nějaký issue typu, že jediné
+řešení bylo prostě někam letět a narvat
+do reku prostě další jako tunu železa,
+že jinak to nešlo?
+Nebo jste to vždycky řešíte jako software věty?
+Tohle nejde většinou
+jako řešit na... Když se něco
+jako fakt podělá, tak to potřebujeme řešit jako rychlejce, než se za někam
+doletět. Jakože
+já doufám, že jsme neměli v posledních
+několik letech jako výpadek.
+Myslím, že do půl hodiny bylo
+vždycky vyřešené všechno a toto přehání. Myslím, že jsme
+v řádu minut. Ono i ty minuty, kdy to neběží
+nás bolej, když něco vypadne zásadního
+a to, že v těch
+lokacích máme servery, navíc řešíme spíš
+dlouhodobýho hlediska. Jakože si děláte prostor
+do budoucna. Děláme si prostor, máme servery
+skladem, takže jsme schopni přidávat relativně
+rychle. Jakože prostě, když nám začne lokace hoře,
+tak do týdny ji rozhodně
+zvládneme zvětšit. Pokud to není
+vyloženě jako nějaký problematický trh,
+kam je problém dojet.
+To mi přijde, že jste takový
+možná jako pečlivější než ten zbytek světa.
+Protože ty jsi mluvil o těch status pages,
+typu prostě spadne GitHub,
+spadne Azure, spadne
+DevOps, prostě whatever.
+Kouknu na tu status stránku a teď, jak říkal
+Michal, teď tam půl dne čteš jenom, že nějakej
+strýda teda to řeší, že teda
+stále ještě nevíme, pak teda zase nevíme,
+za tři dny vyjde po smortem, ale to reální
+zdržení je přinejmenším,
+když spadne cloud nebo spadne nějaký větší čas,
+je v hodinách, jako minimálně
+na těch status pages. Málo kdy to tak,
+že to tam problikne, když si to už všimneš.
+A ty říkáš, že
+proč jsme to nevěděli po 30 vteřinách.
+Nemáte trošičku jako
+hardcorevější přístup mi přijde k tomu.
+Po 30 vteřinách, že jsme to nevěděli interně.
+A veřejně se to lidem dává
+taky v řádu minut. Většinou se prostě snažíme
+jakože
+je přesně takový to, všimli jsme si toho,
+teď máme jako rychlej, jako váme pocit,
+že to bylo tohle, jak to jako lidem řekneme.
+A pak se, ano, to se dělá v řádu dnů, se zepisuje ten postmortem.
+Jasně, to je opravdu.
+A opravdu se diguje, co se děje.
+Ale doufal bych, že když bude mít někdo velký výpad,
+že to bude řešit rychleji.
+Já tady myslím, že máme jako dvě výhody.
+A to jednak v tom,
+že v Americe,
+nebo to je asi můj hodně pocit,
+ale už jsem ho i několikrát čet,
+je víc kultura toho, že přiznat se je problém,
+protože to je zažalovatelný.
+A v Evropě si na to ta kultura tolik nehraje,
+že prostě přiznat chybu.
+Nebo minimálně my, ale
+dost se lidi tváří, že to je vyložený
+kulturní rozdíl.
+To, že přiznáme chybu,
+neznamená, že jsme najednou
+ty nejhorší na světě.
+Prostě to je rozdíl kultur.
+A navíc máme ten,
+tam já zas budu, velkou výhodu máme to,
+že to prostě vlastní jeden člověk, zde někde centra.
+A nejsme tlačený
+prostě investorama, aby jsme neustále produkovali
+stopračení zisk. Můžeme vzít tyhle,
+můžeme prostě brát nějaké jiné rizky i v tom pohledu,
+že prostě dáme lidem
+prostě slevu, když to neběželo.
+To je zajímavý kulturní poznatek, to bych to čekal
+v obrácení, člověče.
+Já doufám, že je správnej, teda ten poznak.
+Ale už jsem, jak říkám několikrát, čet,
+vždycky ty taky jako dělej chyby, protože to se nejvíc
+naučíš, že jo? Tak jako tohle mi přijde,
+že pluje tam odsud.
+Tak tady to je kvůli tomu, že ty víš, že když někdo zažalují,
+že stejně se to vyřeší za 12 let.
+Takže řekneš, tak už to už nežalujte,
+to už tady možná nebudu.
+Je možný, že tam je ten pragmatický pohled.
+Že tady ten strach z té soudní
+mašinérie není takový, protože je pomalá, že jo?
+Jasně, jasně.
+Doufám, že nás teď za to někdo nezažaluje,
+nebo že legal neřekne,
+že jsem řekl nějakou plnou blbost, ale
+jo, no, jsme v tom trochu, snažíme se
+výjít v tomhle ostri. Jakoby my v tomhle řešíme
+i aby jako support byl rychlej. Prostě,
+když nám napíše zákazník, že má problém,
+tak support by to měl jako do minuty
+aspoň vidět a dát na to. Jakoby typicky
+máme lidi na sleku a support tam dá jako
+očíčka, že to vidí a řeší, jako reakci
+na sleku a to by mělo být
+typicky, podle mě, se snažíme do minuty.
+Jako, aby si to aspoň přečet, zareagoval
+a aspoň řek,
+vidíme to, řešíme to, víme o tom,
+něco takovýho. Když to není úplně konkrétní,
+tak aspoň je to reakce, není, že člověk posílá maily
+a čeká dny na odpovědi.
+S takovouhle vaší pečlivostí a důrazem
+teda na to, že to všechno funguje tak, jak má,
+funguje to rychle, tam musí být
+nějaký kleč s takovou, řekněme, jako
+naší developerskou kulturou, že
+hlavně, aby to bylo teda dobře
+a aby to bylo čistý a nebát se
+smazat kód a takovýhle.
+My už jsme to spolu, když jsme se tady
+před natáčením bavili, trošku naťukli.
+Jak vy to tam máte s tou kulturou, jako mazání
+kódů a vůbec nějaký jako zpětný
+kompatibility, zpětný změny?
+Protože na jednu stranu, vy si nemůžete
+při vaší velikosti, ten
+byť jste punk, zas moc toho punku
+vlastně dovolit, když pro vás jako 30 vteřin
+výpadek je v podstatě
+zjeřený vlasy.
+Je to tak, my takhle, my s tou pečlivostí
+asi kompenzujeme ten punk a
+s tímhle pak bojujeme hlavně tím, že
+odpověď asi dobrý lidi,
+což já chápu, že je taková jako pitomá odpověď,
+je to jako hodně
+o pocitech. Protože myslím si, že nějakýma
+pravidlama nastavovat, jak balancovat jako kvalitu
+kódů punk a tyhle
+věci nějakým ostrým pravidlam a pak znamená
+ty procesy, které jsou pomalý. A když se do toho nechcem
+zamknout, tak ty jako lidi musí být
+zodpovědný a samostatný. Taky my
+hodně hrajeme na to, že mají dost informací. Prostě
+jako ví prakticky kdokoliv ve firmě se může
+na cokoliv zeptat a je jako málo
+věcí, který opravdu asi jako hned
+nedostane jako rychle odpověď.
+Je to takhle. Takže ty lidi vědí
+za co se platí peníze, jak to
+jako funguje, kde jsou biznis, rizika, jak funguje
+síť. Většina lidí to tam jako má přehled,
+takže je schopná samostatně dělat jako
+doma išlet ty rozhodnutí víc.
+A pak je to prostě o zodpovědnosti těch lidí.
+Co si myslím, že hodně pomáhá třeba
+s tím, aby jsme neměli dlouhodobě
+prostě díry v kódu, tak je,
+když potřebujeme rychle vyměnout feature, tak když
+tam pak uděláme takový to, tak jakoby
+manažersky slibujeme, že
+potom, co se tohle nasadí, tak bude čas na to
+opravdu ten tech depth, tak se snaží tohle
+fakt jako dodržovat. Nebýt v takovém tom jako,
+tak to už jsme řekli desetkrát a nikdy na to čas nenašel.
+Takže jako opravdu bejt v tom, že
+ta kvalita kódu je důležitá
+a řešíme jí a i z toho řešíme,
+aby to prostě jako nepadalo.
+A to u vás ale musí přeci jít, protože pokud jsem
+tech-based firma plná,
+jak říkáš, nerdů, který společně řešejí
+i trošku toho biznisu a kód,
+tak to tam musí být jako
+podprahová linka, že to je přeci normální fixovat
+luch, ne? Tak to nevysvětlujete moc, ne?
+No právě to jako musíme mít
+dobrý lidi, to znamená, jako tohle si jako není
+u nás, ta práce u nás není pro každýho.
+Musí být člověk, který je ochotný být samostatnej,
+ale ano, tím, že jako v celém, jako i s tebou
+si bude nad tebou povídat někdo, kdo je technik,
+tak tohle pochopení si myslím,
+že tam je v pohodě.
+Zajímavý pohled, jak to
+necháváte na té samostatnosti, teď čtu
+zrovna knížku od Netflixu, kde prostě
+šli jako podobnou cestou, že vlastně říkají,
+hele, když jedeš prostě, nevím, za zákazníkem,
+letadlem, tak ty se rozhodni, jakou letenku
+si koupíš, ty se rozhodni,
+jestli mu tam koupíš večeři nebo ne, prostě
+dělej to všechno pro blaho firmy a rozhodni
+se sám, co je a není pro blaho firmy.
+Zajímavý, si tě pozvem, až vás
+bude 300, jestli to pořád poběží
+tímhle způsobem.
+Já upřímně doufám, že jo.
+Ty porodní, nebo ono už to nejsou
+porodní, ale ty rostoucí problémy rozhodně máme,
+ale tohle si myslím, že bude jako důležitý důraz,
+aby jsme to dělali a
+zvládali furt jako růst,
+bez velkýho managementu.
+Ona celá, tahle ta vaše kultura je tak trošku
+i filtr na ty lidi, který tam lezou,
+ne? Protože to už chce z mýho
+pohledu nejenom
+skillset, který mě teda taky bude zajímat,
+jaký je profil vývojáře, který by se k vám měl hlásit,
+ale hlavně jako lidskej,
+řekněme, nějaký nastavení, ne?
+Přesně tak. Trochu s tím bojujeme,
+jak ty lidi jako filtrovat,
+ale to je přesně to, co jako řešíme, jak ten člověk,
+aby byl samostatnej, aby tam byl dobrý
+team fit i jako lidsky,
+protože my prostě máme takový jako,
+je to jako parta nerdu, což je prostě
+specifický, takže máme pak
+takový ty věci, jakoby máme na sleku,
+chceme, jako důležitý je, že si člověk musí
+být ochotnej obhájit svoje věci.
+Z obou stran, prostě jako já
+bývám normálně
+override-nutých na rozhodnutích
+lidma okolo sebe, protože jsem je špatně
+odargumentoval, nebo byli špatný, ale je potřeba
+se nebát se o nich pohádat.
+Takže nesmí se člověk bát, že mu bude kritizovaný kód,
+ani rozhodnutí a musí si je nebát být
+obhájit. Jakože jsme jako do míry
+spíšem si na sleku
+s kolegou, jak něco budeme dělat,
+nejsme schopni se dohodnout, tak řekneme tak a jdeme se ven
+jakoby dát do huby, což
+jako neděláme, ale to je prostě jako před
+vilu do pergoli, jakoby tak.
+A teď si jdeme dát do držky a prostě to rozhodneme, ten problém.
+No, takže jako jdeme se prostě
+pohádat o těch věcech. Takže tohle člověko nesmí
+úplně vadit, nemůže u nás být asi
+moc tichý, my hodně jsme
+na tom, že prostě opravdu všichni sedíme
+v jedné kanceláři nebo jako poblíž sebe
+a prostě si jdeme stopnout k whiteboardu
+a jdeme se o tom pobavit.
+Takže ano, potřebujeme lidi, kteří se jako jsou ochotní
+učit, jsou ochotní přesahovat věci,
+nepodporujeme úplně moc, že je prostě
+člověk, který je jako velmi úzce zaměřenej
+do šířky a není ochotný
+se ho jako doučit.
+Takže extrovertní nerd, u vás
+lehce extrovertní, říkal jsi, že nesmívají
+úplně tichý, jakože to, tak to je
+takovej jako profil, který u vás
+asi by se upích. Co musí umět?
+Co je ten hlavní skill?
+My od těch lidí hodně
+chceme, aby měli nějaký obecný přehled
+i do těch jakoby techničtí
+nebo akademičtějších věcí. Takže i když nemá jako
+vystudovaný fit nebo matfist
+nebo něco v zahraničí, tak chceme, aby
+tyhle věci dušil, aby jsme se o nich zvládli
+bavit, prostě o datových typech a
+různých věcech zatím.
+A pak ten skill set musí umět
+do nějaký měry programovat.
+My to programování nehrodím
+až tak moc do toho, pokud věřím, jestli ten člověk
+umí naučit. Je pro nás hrozně důležitější, aby se
+byl schopnej učit, než aby
+byl prostě jako nejvíc naskylenej
+programátor. Zároveň, když je někdo
+nejvíc naskylenej programátor, tak zároveň
+super. Ale hodně bereme
+studenty věřeně, říkáme, že prostě u nás se dá
+dělat part-time při studiu,
+dost se na to snažíme jako interně být postavený,
+takže v principu prostě juniory.
+A věříme, že
+ty programátorský věci se dají líp doučit, než
+to, že si s náma jako neumíš povídat.
+A jak řešíte práci s juniorem? Má každej
+svýho buddyho, který si ho vezme pod křídla,
+nebo on to tak jako pobíhá
+po té vaší vile a teďka kouká lidem přes
+ramenu a pokládá blbé dotazy, fůzovka,
+tak blbé dotazy. Asi v oboje.
+Kdykoliv kdy nastoupí novej člověk,
+tak se snažíme to, že je někdo, kdo je
+jako jeho primární kontakt, kdo s ním jako
+sedí ve stejné místnosti a
+může mu odpovídat prostě na ty jakoby
+day-to-day otázky, ať už kde je
+záchod, já to zapomněl, do prostě
+jak funguje tato konkrétní věc
+v tom systému, co děláme.
+A pak podle toho, jak moc ten člověk
+jako pohlednej vyvíjí se,
+tak přestane součástí toho týmu.
+Ale netváříme se na juniory nějak
+speciálně.
+A dají se tyhle lidi sehnat na trhu, nebo máte třeba nějaký
+akademie, jak si ty lidi vychováváte,
+nebo máte tam nějakou takovou
+strategii? Máme support.
+Už se nám jako několikrát stalo, že
+někdo, koho nepřijmeme
+na technologickou pozici, tak ho vezmeme,
+pokud to je ochotné samozřejmě dělat,
+tak jde jako na support. Náš support je furt
+jako technický. My tím, že jsme B2B, tak support
+není prostě, zkusíte si to zapnout a vypnout,
+nebo neměl by bejt, ale jsou to jako lidi,
+kteří rozumějí těm věcem a ví, komu napsat
+a komunikují s networkem a tak.
+A tím jakoby
+vlastně si teda doplní ty znalosti
+od fungování firmy.
+My jako tady trpíme tím, že celý bootstrapping
+u nás není tak dobrý,
+jak ta firma hodně roste, každý měsíc je něco
+jinak a spousta věcí jsou tam jako
+legacy systémy, které se jako přepisují, ale
+jsou prostě legacy, to fungování firmy je
+specifický, tak potřebujeme toho
+člověka naučit aspoň tohle. Tak to se naučí třeba
+na supportu, když je jako ochotnej
+a pak jsme schopní jakoby to programování
+ho víc doučit, pokud na to je.
+Tak to je docela dobrý jako nástupní můstek.
+Ten support je dobrý nástupní můstek,
+jinak jako žádnou akademii vyloženě
+nemáme. Snažíme se hledat na trhu,
+ale jakoby jsme ochotný prostě
+brát studenty.
+Měli jste tam někoho, kdo právě
+šel na ten support a pak jste si řekli
+tyjo, tak ten je tak dobrý, že my si ho
+vezmeme jako ze supportu do nějakého
+core týmu? Jo, tyhle přestupy
+jsou běžný.
+Je otázka, jestli běžný. Děje se to.
+Oni ty lidi samozřejmě jako většinou
+chtějí. Jako není to tak, že když bude
+někdo fakt dobrý na supportu, tak si ho asi
+všimnem, ale ty lidi většinou chtějí.
+A my jim jako dáváme tu možnost, tak
+chtějí se naučit programovat,
+tak tady si můžeš s někým jako ve svojich volných chvílí
+jít jako povídat, nebo prostě jako
+jdem si půl hodiny denně,
+nebo jako prostě tady máš někoho, s kým si prostě
+můžeš jako diskutovat, a když si
+tomu prostě dobrý, tak ten člověk pak jako řekne, no tak
+jako pojď s náma dělat na supportu, je tě vlastně
+škoda, a pak máme problém, že nemáme
+lidi na supportu. Jo, jo, jasně.
+Takhle se kolikrát vývojáři
+vycucávají dobrý automatizace
+z jako by QA oddělení. Jo, jo.
+To je takový ten typický případ, že máme
+šikovný programátory automatizace
+a pak najednou už nechtějí dělat
+jenom QA a chtějí programovat.
+Takže to je u vás asi podobný. To je u nás podobný.
+Jo. Ještě jedna věc, ty si
+říkal, že vlastně některé věci máte postavené
+na open source, máte nějakou,
+řekněme zase, těžko říct, vnitřní
+politiku, ale nějakou bankovou
+kulturu toho, že teda do open source
+zpátky nějak plánovaně
+přispíváte?
+Do těch věcí, kde to jsou peče a bugfixy,
+tak jo. My ty
+open sourceový věci nerozvíjíme většinou
+až tak moc. Jsou to velmi často jako naše
+specifické věci, který
+buď nedávají smysl zveřejňovat, protože
+jsou prostě jako velmi, tenhle jeden klient tam má
+prostě i fík.
+Starej, dobrý i fík.
+I fík je, bude prostě vyřešit
+spousta věcí.
+Když jsou to bugy, tak je prostě
+jakoby exportujeme zpátky
+a teď se vede nějaká diskuzi o tom, jestli ty
+jako věci, které jsou napsané na zelený louce,
+tak jestli jako nějaké věci z toho zveřejňovat.
+To jsem se chtěl zeptat, jestli i obráceně
+třeba něco
+plánovaně jako expouzujete
+jako open source. Mám za to, že PHP týmy
+typicky něco dělají a
+že jsme normálně nahlédali na GitHubu, ale přiznam si,
+že z hlavy nevím, co tam všechno máme,
+ale jinak ty diskuze vedou o tom, jak to dělat líp.
+Ale jako my trošičku
+vlastně v tomhle asi budeme trpit tím, že děláme
+ještě řeknu docela velký věci v docela
+málo lidech. Konkurence má typicky ořád
+víc lidí. Tak na strašně věcí
+okolohezkých, který bychom chtěli dělat, nám nezbývá čas.
+A udržovat
+open source je ve výsledku jako hodně náročný.
+Takže my bychom jako, vlastně asi všichni
+jsou tam nalezený stylem, chtěli bychom do toho
+open source zpátky přispívat,
+ale myslíme si, že do toho asi musíme ještě dorůst.
+Abychom měli ten volný čas
+věnovat tomu, že prostě k tomu
+se píšeme dokumentaci, nebudou
+tam nikde klientský komentáře,
+e-fíky a bude to dává smysl
+zveřejnit. Ale jako rozhodně o tom
+přemýšlíme tím, že jako přesně
+v té engineering části jsou nerdi,
+tak Bolesk gruby to chtěl
+zveřejňovat, takže řešíme to.
+Teď jsi to trošku čuknul, když jsi řekl dokumentace,
+tak to je vždycky taková temná strana
+softwarovývoje, taková popelka,
+která málo kdy vlastně odpovídá
+tomu, tak jak je zbytek světa, nebo jaká
+je skutečnost. Jak řešíte obecně
+dokumentaci vy?
+Pro přímo programování toho,
+co píšeme nový, tak tím, že zrovna my jsme
+si vybrali rast, tak tam jeden
+z důvodů, proč jsme si vybrali rast, je, že má dobře vyřešeno
+dokumentaci. Tam se dokumentace generuje
+z toho kódu, ale ne je taková ta jako klasická
+API dokumentace, ale prostě vyloženě tam
+jako depsat markdown přímo do kódu, on se z toho
+vyrenduje, prostě hezká tomulostránka
+s jako textem, popisem, prolinkováním,
+vysvětlením.
+takže tam si myslím, že nám to
+jakž takž funguje a zároveň tam
+je takový to klasický, čím čitelnější
+kód, tím méně potřeba dokumentaci pro ten
+samotný kód, což v tom nám rozhodně pomáhá
+rast, že je velmi expresivní ten jazyk.
+Pro ty věci okolo,
+jak dělat, to je
+trochu horší, ale zároveň
+si myslím, že to není tak tragické, že by
+tam vůbec nic nebylo.
+Když přijde někdo úplně novej, tak je asi složitější
+do toho naskočit, pokud jeho zkušenost
+jsou open source projekty se svojí dokumentací.
+To samozřejmě nemáme a máme ji
+asi do té míry, aby když člověk po sobě
+do půl roku, po půl roce přijde, aby se
+zorientoval v tom svém kódu se svojí
+dokumentací. Takže to je někde jako na půl cesty.
+Je to zase věc, kterou aktivně o ní
+mluvíme a je otázka, jestli
+o ní teď aktivně mluvíme, ale řešíme ji,
+není to věc, která je úplně zignorovaná,
+ale nijak extrémně ji netlačíme. Spíš řešíme
+třeba, aby byl čistý git,
+aby byly dobrý komity, aby byly
+komentáře v kódu, když se tam dělá něco,
+co není na první pohled zjevný.
+Otázka do placu, tohle přece
+první sebere AI, ne?
+Jaký vy na to máte pohled?
+Když dneska je AI schopný
+vygenerovat kód, tak
+obráceně by to asi taky mělo jít.
+Takže předpokládám, že tohle by se mohlo nějak pěkně...
+Že bys ho krmil nějakým kontextem
+ohledně funkcionality
+a on pak by ses ho zeptal vyloženě,
+když by chtěl něco vidět z dokumentace.
+No, no, no, no, no, no, aby to vygeneroval sám.
+Já si myslím, že jo. Jakože já
+jsem si s ChatGPT a těmhle
+věcmi trochu hrál a vlastně jako to, co všichni
+na tom chválí, tak mě až tak kolikrát zajímavý nepřišlo,
+protože pro nás to
+ve firmě není velmi často tak užitečný,
+protože mně přijde, že ty věci jsou
+super v tom, když člověk neví, co neví
+a jsou to takový jakoby do novýho jazyka,
+do novýho projektu, takže na dokumentaci
+je to skvělý. A i to na to, že používám
+u těch open source věcí, on do toho člověk
+zase nechce asi feedovat úplně jako tajný
+soukromý kód, jako ty velký firmy,
+že ho teď řešejí, nebo jakoby Facebook
+a Spol.
+Takže jako na tohle si myslím,
+že to je super. Nemyslím si,
+že je to zase tak super na to psaní kódu,
+třeba jako u nás, protože když už tu odpověď
+jako vlastně nevymyslím, tak on mi odpoví jako úplnou
+nesmyslenou blbost, protože jsme typicky moc jako
+hluboko. Že je to super na tyhle povrchní
+věci typu přijdu k projektu, neznám ho,
+vysvětli mi, co se ta funkce jako má dělat.
+Nebo obecně já to docela používám
+na demimifikaci, nebo když je nějakej
+kód jako záměrně mimifikovaný, nebo
+záměrně nějak skremblenej, tak
+s tím si to jako poradí hodně dobře. Takže tam si myslím,
+že ta budoucnost bude. A že teda jako pokud chce
+někdo jako schovávat kód tím, že ho
+mimifikuje a skremblí, tak to začne být
+mnohem větší problém.
+Tohle je možná další směr, kdybychom ještě mohli
+to propojit, ten náš svět s tím AI.
+Spíš asi ne.
+Jakože lidi si tam hraje uprostřed GPT
+tak jako každej, asi dneska nadšenec,
+ale nic úplně
+firmního jsme tam zastavili,
+jako nevymysleli.
+A koukáte na to nějakým
+způsobem jako pokoutně, že prostě AI
+bude mít nějakou větší
+pozici na tom IT trhu,
+že asi se vás to dotkne, nebo takhle
+zatím nepřemýšlíte?
+– Zatím nad tím asi nepřemýšlíme.
+My tím, že jsme
+i hardwareová firma, tak tohle je věc,
+která asi nás jen tak nenahradí
+a pak děláme software, který ovládá
+ten hardware, takže otázka, do jaký míry
+to bude v pohodě. Zatím se toho
+mám pocit, nebojíme, ale přiznam si, že jsme to vlastně
+asi jako nikdy na
+plénu nebo s ostatníma tolik neřešili.
+Já se zatím nebojím
+o svojí práci. – Tak jako tak,
+když slyším, co děláte, tak toho bych se taky nebál,
+ale spíš jako podpůrnej mechanismus,
+víš, že někde něco zautomatizovat, zoptimalizovat,
+tam věřím, že by se nějaký cesty
+určitě našly.
+– Asi se potom budeme rozhodně časem
+dívat, ono nás asi i konkurence donutí,
+ale nemám za to, že by se tam dneska byly.
+Zatím jsme jako hodně tradiční v tomhle smyslu.
+– Hele, a co data? Románek tedy má připravenou
+takovou část v odatech. Jak hodně
+jste datadriven? Používáte těch dat
+tam je, už si to naťuknul před chvilkou,
+těch dat tam je docela dost.
+Pracujete s nima nějak dál
+a rozhodujete se na základě
+těch dat, nebo to takhle tam úplně
+nestojí? – Rozhodně se rozhodujeme
+na základě dat. Nejsme jako asi datadriven
+v tom, že bychom měli nějaký jako datový analytiky,
+který to opravdu jako drilají,
+ale tak samozřejmě prostě máme network, máme servery,
+z těch se sbírá jako hromada metrik
+a rozhodnutí děláme
+na základě nich. Kolik je pod, kolik
+kde je kapacity, jak moc nám servery hořejí,
+jak moc tady ta sítě kvalitní,
+tak na tom
+celá ta firma stojí
+asi vždycky stále. – Vlastně bez toho to tady
+v tom případě by ani nešlo a
+psá to i někam dál, jako na úrovni
+třeba strategický, víš, třeba, že nevím,
+majitel firmy kouká na nějaký určitý typy dat,
+na základě kterých třeba
+dělá různý rozhodnutí.
+– Tam si myslím, že kouká spíš do těch
+biznisových věcí, že tam je jako nějaká
+business intelligence zatím. Já si představuji,
+že tohle až tolik jako
+asi nechci vidět, nebo jako, že prostě
+mě to jako nikdy až tolik netrápilo,
+ale rozhodně tam jsme taky jako založený
+na číslech. Jako do jedné věci je to jako na
+pocitech, ale ty pocity jsou založený na tom,
+že víme, kolik tam jakoby
+jsou vůle a co si jako
+lze dovolit. Není to jakoby, mám
+pocit, že máme dost peněz. To jako určitě
+se neděje. – Jinak to, co jsi naťuknul,
+že nemáte datový analytiky,
+v podstatě za mě data
+driven je přesně ten opak, že nemáš datový
+analytiky a všichni se rozhodujete na základě dat,
+že je nepotřebovat, že každý je tak trochu datový analytik.
+– Když se každý vysosá to, co je v jeho kontextu
+relevantní. – Přesně tak, přesně tak.
+To je za mě data driven. – Tak to asi
+jsme, snažíme se sbírat hodně data, snažíme se
+být jako, děláš architektonické
+rozhodnutí v nějakém softwaru, tak
+vždycky je nejhorší. Tak tohle ještě nezbíráme.
+– A teď bychom jako potřebovali do základě toho udělat
+rozhodnutí, takže jako vlastně tato mentalita tam je.
+– Jo, jo. No a pak je tam někdo,
+nebo to si děláte sami, že teďka máte tady
+nějaký datovej set, který potřebujete propojit právě s novým,
+který teďka začnete generovat a nějak to
+propolujete někde na úrovni SQLka,
+to si děláte sami, nebo to tam,
+takýhle case tam nejsou?
+– Mám za to, že něco z toho dělá
+logging team, a nebo tím, že jsou
+všichni vývojáři, tak ty malý věci si prostě
+jako skripci vystřelí každej.
+– Jasně, jasně, jasně.
+– Takže jako spousta lidí tam prostě jako
+potřebujeme změřit něco, co není v žádných datech,
+nebo to nejde jednoduše sbírat a je to potřeba nasampleovat,
+tak si prostě lidi vystřelí, v čem jsou
+nejpohlednější, třeba v Pythonu
+a jako mají z toho na jednou
+dvacet grafů a říkají, tak vlastně tady vidím
+ten problém. – Jo, jo, jo.
+– Ještě než se vrhneme na úplný závěr,
+mě by zajímalo, ty už jsi tam
+vlastně, jak dlouho, dva roky jsi říkal, že funguje
+ten tým? – Přes dva roky. – Přes dva roky.
+Je něco, kdy se podíváš zpátky
+ty dva roky do minulosti,
+co ti jako zahřeje
+prostě z toho nerdovýho
+hlediska, řekneš, jo, tohle jsme udělali dobře,
+tohle skvěle funguje, tady jsme to očkálo,
+ale nějaké jako success story, který
+vždycky, když je prostě blbej čas,
+tak se podíváš a řekneš, jo, to bylo dobrý.
+– Tam asi jako žádnou jednu věc
+nevypíchnu, myslím, že jsme všechno udělali dobře.
+– Ne, tak jako samozřejmě
+chyby se dějou, ale myslím, že spousta těch věcí
+by byla dobrý, že když jsme si
+obhajili ty rozhodnutí,
+takže jsme je nakonec udělali dobře, jedním z nich
+je třeba, že jsme si začali používat
+ETCD jako databázi pro nějaký globální
+věci, tak ta si myslím, že se hodně
+osvědčila.
+Začali jsme si hrát s Envoyem jako další
+proxy, tak tam doufám, že toho zatím nelitujeme.
+Takže asi
+zpíšme z toho, že jsou věci, kterých zatím nelitujeme.
+– Jo, jo, takhle. A nějaký fuck-upík
+za ty dva roky, o kterém víš, že
+to bylo zlý? – Za mě a náš tím
+naštěstí ne, takže
+tam jako nic zásadního
+nezazdílim.
+My jsme zatím, protože to každej někdy
+udělá žádný zásadní fuck-up, jako
+neudělali nic, jsme neschodili. – A čeká vás
+tam nějaká teďka velká výzva, která
+vlastně opravdu má, je na pipeline-ě
+a víš, že teďka budete na ní vyšívat
+nějak víc?
+– My teď vlastně dokončujeme nějakou
+velkou, velký dodělání
+toho livestreamingovýho stacku,
+tý transcodící, tý procesící části
+a čeká nás to, že to bude muset
+naškálovat víc po světě.
+Že bude muset jako víc vytipovat, kam všude
+pošlem grafiky a ve kterých
+datacentrech je na to místo a jak
+to celý ubalancovat netvorkově. Tak to je
+další velký, co nás asi čeká.
+– Jo, jo. A vlastně vy se rozhodujete
+na základě toho, kde už ty datový centra
+používáte, než kde by
+asi mohl být novej klient. Takhle na to ty data
+asi, to je složitý, předpokládám.
+– Ano, kde je novej klient, je složitý.
+Ono zároveň jako v Tomulincu je to docela jednoduchý
+v tom, že je prostě jako po světě těch
+opravdu velkých datacenter, kde každých je
+relativně málo. V Evropě je to
+typicky Frankfurt, prostě všechno je ve
+Frankfurtu. Takže se snažíme
+stavit vokolo těchto míst a taky koukáme,
+kde máme dobrou interkonektivitu. Že nechceme
+si nějaký hardware, který je relativně cený,
+zamknout si někam, kde prostě je
+jednodobrý spojení do zbytku
+světa, který když nám vypadne, tak
+hardware musíme odstavit. Takže spíš to dáváme
+do těch hubů.
+Tam jsme to, že tam se dneska snažíme stavit
+ty procesící věci a storage,
+tak se to buď huby, nebo místo, kde je
+levnej workspace. A optimizujeme
+mezi tím.
+Ty se hrozně dobře posloucháš. Já přemýšlím, jestli
+někde přednášíš, nebo
+dáš se někde vidět mimo?
+Nepřednáším.
+Párkrát jsem o tom přemýšlel,
+ale já vždycky stroskotám na tom, že
+na to nemám čas. Udělat dobrou přednášku
+za mě stojí spousta času.
+Nechci se nechat okopat do takového toho,
+že ji napíšu večer předtím.
+Takže jsem se k ničemu takovému
+aspoň zatím nedostal.
+Tak večer předtím, to je ještě hrozně brzo.
+To jsi určitě udělal ráno předtím.
+Já to nechci kritizovat, ale mě nejvíc baví
+ty přednášky, kde to člověk
+tomu fakt rozumí. Evidentně se ho
+na to dá doptat.
+Není to, přečet jsem si článek na internetu
+o tom přednáším, což
+rozhodně není na nikoho jmenový. Ani nikoho v hlavě nemám,
+kdo by to tak dělal. Ale velmi často
+přijedu na konferenci a
+půlka těch přednášek je takových,
+to jsem si ten článek mohl přečíst.
+A toho nejsem fanoušek
+a nechci být další, kdo to dělá.
+Takže tohle byl za mě hlavní důvod,
+protože aktuálně do toho
+asi nemám čas investovat
+svůj čas.
+A jsou nějaké konference, které jsou vyložené pro lidi tvýho typu?
+Asi nějaké jako streaming con nebo něco?
+Takového nebude, ne?
+Tak myslím si, že Demax. Já jsem se tam ještě neměl
+šanci podívat.
+Ta by měla být takhle vyložená jako Geeková
+nejrodovská konference.
+Pak jsou různý jako content delivery
+samity, které jsou dosplnená, jsou různý
+streaming samity, ale
+streaming samity a tyhle věci
+jsou velmi často jako hodně salesový.
+Je to hodně, jakoby snažíme se vám prodat náš produkt
+a je to hodně míření na klasický
+streamingový služby, což v tomhle smyslu znamená
+Netflix, Hulu.
+Tyhle věci, ne live streaming a ne content
+generated, kde my jsme jako trochu zvláštní.
+Trošičku mi vlastně
+jako s tímhle, jak jsou ty jako televize,
+tak na různý broadcastový konference šaháme,
+ale to jsou jako
+spíš veletrhy. Takže jako myslím si, že ten
+DMAX, ale ještě jsem tam nebyl.
+Jsou tady v Praze?
+Ne, ten si myslím, že je pravidelně
+někde v USA. Ono pořádá
+mux.com,
+což je jako vlastně asi konkurence,
+jakože dělají live streamingový processing
+a dělají DMAX
+jako dmux.com
+a to by měla být
+taková jako nerdovská videokonference, tak na to doufám,
+že se teď podívám. Jako firma vysílá lidi
+na konference a na tohle
+to prostě se tím jenom jako časově nikdy nevyšlo.
+Jasný. No tak my ti budeme přát,
+aby jsi našel čas
+nejenom na tyhle ty nerdovský záležitosti
+a na tu luskelou práci, kterou
+odvádíš, CRN 77, ale aby
+jsi právě mohl i vycestovat a podívat
+se takhle mezi nerdy. Hele,
+Michale, moc díky, že jsi dorazil. Bylo to super.
+Já děkuji, že jsem tady mohl bejt.
+A měj se hezké, če daří.
+Ať se daří, měj se fajn. Díky, vy taky.
+Čau, čau.
+To byl
+nerdovský pohled do CRN 77
+v podání Michala Hošny.
+Mně se to strašně líbilo.
+Mě zaujala jedna věc a to je to,
+jakým způsobem oni k tomu přistupují
+jako firemně. K tomu, že mají
+bandu velmi
+talentovaných, specifických
+lidí, prostě taková ta jako
+základná, ta taková haldí hen těch
+nerdů a že se to vlastně točí
+jako
+kolem nich, kolem tý developer
+culture a hrozně se mi to líbí.
+Jakože občas, když vidím takový ty struktury
+v korporátech, tak si říkám, myslí jako, kdybych tady
+říznul jeden level, co by se stalo.
+Vůbec nic. Těžko říct,
+tak to jako, nevím,
+ale tenhle
+naprostej opak vlastně mi říká,
+že to je fakt jako zajímavý, jsem zvědavý,
+jak dlouho jim to vydrží.
+Jestli jich je 150 a furt to funguje, tak to už je za mě
+teda napováženou a fakt fajn.
+A ještě teda bych
+podotknul, že Michal má hlas jak zvon.
+Jo, ten. Rado zvučit.
+No to jo, to si užiješ.
+Jestli streamuje tak, jako mluví, tak je to
+paráda.
+Asi jo, firmě se daří a my musíme,
+aby se mu dařilo i dál.
+A děkujeme, že k nám dorazil.
+Já věřím, že jste si to posluchači užili taky.
+No a co my, Románku?
+No tak ty půjdeš evidentně spát.
+Vypadáš fakt unaveně.
+Jo, ale už to na mě, jako ke konci,
+poslední čtvrt hodiny, už jsem byl takovej,
+že říkám, no, teď jsem koukal na ten kalendár svůj,
+tak dneska to ještě nějak budu muset zvládnout
+a spát budu večer.
+Takže neprospíš pár meetingů?
+Ne, nepůjde to.
+Nemůžeš to udělat, jak na Pavláska,
+že bys tady za tebe dal bikinu.
+Dole kabely zase ty ajťáci.
+Přesně, no a si tady schrubneš pod stolem
+a když uslyšíš třikrát svoje jméno,
+tak se unmuteš a řekneš,
+please can you repeat it, I had problem with my connection.
+Dáš si 40 kafí,
+že se nás ty kafé nepíte, nebo jak to tam říkal.
+No jo, ne, nějak to zvládnu,
+nějak to zvládnu, ježišmarja.
+Tak já ti budu držet palce a natýzuju tě
+na další díl,
+kdy budeme mít jednu, řekl bych,
+ikonickou postavu
+české java scény
+a zároveň člověka, který má na starosti
+nebo stojí v pozadí
+nový databáze
+pro e-commerce,
+ale víc už ti neřeknu.
+A navíc ještě organizuje J-Open Space nekonferenci
+a o tom nám bude taky mluvit.
+Už to mám dohodlý, na Twitteru jsme si
+vyměnili pár zpráv,
+už to máš vlastně v kalendáři,
+takže v červnu to dotočíme
+a pecka.
+Jsem natěšenej, já tím uzavřem šestku, ty brďo.
+No, tak jo, tak dobrou noc.
+Dobrou noc, mějte se fajn. Čau.

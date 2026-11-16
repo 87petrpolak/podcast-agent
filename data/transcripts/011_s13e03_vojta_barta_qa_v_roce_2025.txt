@@ -1,0 +1,2142 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Krásný den milí posluchači, vítejte u třetího dílu třinácté série vašeho nejoblíbenějšího IT podcastu Pod vocasem.
+No a samozřejmě naproti mě nesmí chybět můj oblíbený kolega Petr Polipolák.
+Naproti mě Roman Čouker, provazník, který si dneska otestoval hře krásně u té třinácté a třetího dílu.
+Třetí díl třinácté série, 3333 stříbených stříkaček tu nemáme, ale budeme mít dneska velmi zvláštního hosta.
+Pro mě to je setkání po více než deseti letech, ale k tomu se možná dostaneme.
+Nejdřív musíme samozřejmě připomenout věc, která předtím rezonuje teďka v podcastové scéně a to je náš samozřejmě živák,
+který už za dva dny, to je z 22. října od 18 hodin v Bystro B vypukne.
+Polity si natočil moc hezké video.
+Aha, děkuju.
+Jak se tam dostat. Nebylo to úplně složitý. Čekal jsem tak jako větší rebus popravdě.
+Upřímně řečeno, já jsem to vlastně z metra nikdy nešel, takže když jsem tam vyrážel, tak říkám, je potřeba to natočit, abyste přátelé trefili.
+A pak jsem zjistil, že vlastně, kdybychom to třeba jen popsali, tak by to asi taky jste zvládli, ale tak je to takový aspoň přímo čarý.
+Je to tak. Každopádně to video společně s dalšíma informacema je k dispozici na podvocasem.cz live, kde se ještě stále můžete přihlásit.
+Zbývá posledních pár volných míst, který pak samozřejmě obsadíme lidma z Český spořitelny, který to budou mít v KPIčkách, takže kdo nepřijde, ten bude součástí příští layoff vlny.
+Přesně tak.
+Ale vy máte ještě šanci je předskočit, předběhnout, přijít v čas, zaregistrovat se a užít si to společně s námi.
+Máme tři perky.
+Perfektní hosty, připomínám, budeme se vinovat. Javičce, platform engineeringu, Pythonu, Robloxu, IT, no bude toho strašně moc a myslím si, že to bude docela příjemný večer.
+Navíc to vstupný je i díky našemu skvělýmu partnerovi této série České spořitelně alias spořici zdarma, takže kromě dobré nálady si nemusíte prakticky brát nic jinýho.
+My jsme úplně natěšení a věřím, že to je z nás slyšet.
+Já se těším.
+Začínáme jít nervózní trošku.
+No já taky.
+Vlastně až tam přijdeme a budeme tam sami, to bude první průser, pak zjistíme, že dva ze tří hostů nám onemocněli a nebo že kačka už začala rodit.
+To se může stát, přátelé, to se může stát.
+Ale pojďme si slíbit, ať to dopadne jakkoliv, tak uděláme pak nějaký special deal, kterým to jako, uděláme tak jako sumář a podíváme se na to, jak to vlastně dopadlo, kolik nás to stálo,
+protože samozřejmě, byť máme silného, silnějšího partnera, hashtag, jaksi vzádech, tak samozřejmě spoustující, platíme ze svého, teda platí to tady hlavně Poli, a jestli to vlastně stálo za to, to celý vlastně pojďme si to pak nějak jako...
+Takovou retrospektivičku, jestli jako to uděláme znova, co bychom měli přestat dělat, co začít dělat a tak dále.
+Tak to záleží taky, přátelé, na vás, jak se budete bavit, takže vy rozhodnete o tom, jestli to je první a zároveň poslední podvod, co jsem live.
+A nebo uděláme každý rok jednu, příště na Strahově, nebo v O2 aréně, jo, je to pak na vás.
+Takže přátelé, poslední dva dny, teď je pondělí, kolik je, 20. počítám správně, pondělí 20., za dva dny je středa 22., jak vidíte v matematice jsme taky perfektní, a nezapomeňte, budeme od 18. hodin na metru Budějovická, což je červený pro ty náplavy.
+Vylezete z metra, půjdete rovně, dáte se doleva a jste prakticky v Bystrobe a tam na vás budeme čekat příště.
+Přijďte před 18. hodinou, protože v 18. sharp startujeme, to je 17.30, to už bude otevřeno, dáte si chlebíček, pokecáte, připravíte se a vlíteme společně na to.
+Doražte, těšíme se na vás.
+Tak jo, tak jdeme na dnešního hosta. My jsme samozřejmě po nějaké době opět si říkali ty, ale měli bychom se zase podívat trošku na tu kvalitu, protože měli jsme data, měli jsme gaming a je potřeba zase zpátky to vrátit do toho, do té kvality.
+Je to tak, je to tak, já si myslím, že to je naprosto nedílná součást, přátelé, toho vývojového cyklu, jaksi, a už jsme tady zase dlouho QA neměli.
+Takže pojďme na našeho dnešního hosta, kterým je Vojtěch Barta.
+Ve studiu s námi sedí náš dnešní host, Vojta Barta. Ahoj Vojto.
+Ahoj, čau Vojto.
+Já jsem to říkal samozřejmě tak zkráceně, není to Barta, je to Barta, protože Vojta je z Ostravy a samozřejmě tam jako pičo není čas, rozumíš, tam se všechno zkracuje.
+A já jsem v úvodu týzoval, že vlastně Vojtu jsem neviděl přes deset let, my jsme spolu s Vojtou dělali ve Vendavíčku, kdy Vojta dělal kvalitu a já vlastně jeden čas taky.
+Takže jsme se tak jako potkávali, plus jsme zazpomínali dneska na to, jak jsme spolu několikrát cestovali do USA a jak jsme tam způsobovali spoustu kulturních šoků a jiných vylomenin.
+Tak Vojto, jak se máš, co nového za deset let?
+Tak pořád kvalita, to by se stýská potom, že jo?
+Ježíšmarja.
+Takže to je to nejlepší, co člověk Vojty může dělat.
+Je to tak.
+A jo, máme se dobře, ve Vendavu už nejsem.
+K tomu se taky dostaneme, ale ještě předtím, prosím tě řekni posluchačům vlastně, kdo jsi, víme, že jsi teda z Ostravy, samozřejmě fandíš Baníku, nikdo není dokonalej, každopádně pověz takový ten úvod, jak jsi dostal ke kvalitě a tak dále.
+Tak já jsem začal jako vývojář a tímto bych se chtěl všem, co kdyby měli něco.
+Co společnou s mým korem omluvit, protože to bylo strašné, ale já jsem nastoupil do Tieta, když brali úplně všechny, no to bylo asi na dotace nebo něco takového a vlastně mě brali na pozici, která ještě nebylo řečeno, co to bude a pak řekli, no tak budeš dělat vývojáře, tak jo, tak budu dělat vývojáře, pak mě vás poslali do Švédska a tam jsme začali vyvíjet a to jsem vydržel asi tak tři čtvrtě roku a bylo to hrozné, ale tam jsem přičichal chybám ve stylu, že já jsem jí dělal teda hodně,
+ale ono všichni ti vývojáři jich dělali strašně hodně a zároveň jsme vyvíjeli něco, co jsme vlastně nevěděli, jestli ten zákazník bude potřebovat a pak nám to tak jako slušně řečeno vrátil zpátky, že to není to, co by to dělat mělo a já jsem si říkal, tyjo, ale to přece jako musí nějak vyřešit, že jo, jako krom toho, že děláme chyby, které po nás tehrá nikdo nenašel, protože jsme testy neměli, tak ještě by to chtělo jako to třeba udělat na poprvé dobře, no a tak jsem postupně si �
+říkal, že je to tam dobré, tak vývojář ze mě nebude, to víme, tak já zkusím ten testing, tak jsem zkusil ten testing a v tom už jsem zůstal vlastně.
+A je pravda, že ty to máš vlastně v rodině, protože brácha taky dělá testing, ne?
+No, my jsme to měli s bráchou tak, že vždycky tam, kde jsem začal já, tak rok potom tam přišel on, takže on pak přišel po roce do Tieta, tak jako tester, pak jsem šel do Vendava, on přišel a pak už jsme se vlastně nepotkali, ale on v testingu nezůstal, on přišel na management, že je to lepší než testing.
+To já s tím nesouhlasím samozřejmě.
+Já myslím, že dokud ho nenajdeš doma, když se prateš ze služebky, tak je to dobrý, že tě nemusí úplně následovat ve všem, každopádně Honzu zdravíme, taky jsem ho strašně dlouho neviděl, takže on je teďka v managementu, jo?
+Jo, jo, nějaký management.
+Takže takhle ty jsi se dostal vlastně do QA, že jsi psal špatný kód a řekl jsi, že to by bylo dobrý, kdyby to po mně někdo byl býval, byl opravil a zjistil jsi, že existuje něco jako quality assurance a začal jsi to dělat. Co byla vlastně tvoje první práce, pamatuj si to?
+No ono to byl takový úkrok, já bych řekl, že existuje nějaká quality assurance, jsem zjistil tak v polovině té kariéry, protože všichni víme, jak vypadalo software testing před, já už jsem teda plnoletý v IT, já jsem to googlil, ale 18 let teda.
+Vždycky pěkně.
+A před 18 lety ten software testing vypadal tak, jak dneska už by vypadat, jako neměl asi v žádné firmě ve stylu, tady na konci to otestuj a řekni, jestli to funguje. Takže tak jsme do toho nějak nabutovali, ale naštěstí ty je to mělo jednu obrovskou výhodu v té době, že tam byly super lidi na mentoring, takže člověka fakt jako zaškolili a narazil se na pár lidí, co mě tím provedli, spojilo se to s analýzou, takže s přípravou requirementu, protože nutně asi po půl roce přišlo,
+no dobré, tak už víme, jak to být.
+Tak to testovat na konci, že jo. No ale my furt nedoručujeme to, co ten zákazník chce, tak to přišlo, no tak hele, kromě software testingu, tak ještě business analýza a to je sepsat ty requirementy správně. Takže tak se to spojilo a postupně, jak vlastně v té době svět i agilněl, jestli to je to správné slovo, tak přišlo takové, tyjo, my to nemusíme hledat na konci, my bychom těm bankům jako mohli začít předcházet a to se tak postupně překlopilo, řekněme, na tu quality assurance, tak někde v polovině,
+kariéry, bych řekl.
+Já jsem koukal, že ty máš motto quality as the satisfaction of all stakeholders, což zní tak jako vzletně, vznesně. Co to vlastně je a jak to aplikuješ v té práci?
+No, ono vlastně je třeba si uvědomit, že my neděláme software kvůli tomu, aby jsme udělali software. My vždycky dáme software kvůli tomu, že řešíme nějaký problém někoho. A to je asi ten nejdůležitější stakeholder.
+Na tom projektu, zákazník. Ale těch stakeholderů, řekněme, ono se to blbě někdy překládá, ale jsou to vlastně zúčastněné strany, je víc, jsme to i my jako dodavateli, je to vždycky nějaký sponsor a tak. A vlastně my musíme vybalancovat to, aby všichni nakonec na tom projektu byli spokojeni a aby i v průběhu, co nejlíp jsme byli spokojeni.
+Takže kvalita potom, krom toho, že teda doručíme fungující software, což je otázka, co to je fungující software, protože když děláme,
+letadla versus, já nevím, nějaké osobní weby, tak fungující znamená něco úplně jiného, ten level kvality, tak zároveň musíme vyřešit ten problém, co ten zákazník má,
+protože když ten software bude fungovat a bude mu k ničemu, tak se jako asi nepoplácáme po zádech, možná nám zaplatí, ale rozhodně to není kvalitní software.
+Takže vlastně ta spokojenost těch zúčastněných stran je to nejlepší měřítko kvality.
+A protože vlastně dokazuje to, jestli řešíme ten problém, jak se nám ten problém řeší, jak se nám to vyvíjí, protože když já budu jako tester stakeholder, jakože jsem stakeholder, tak když ten software je netestovatelný, neautomatizovatelný, tak já určitě jako spokojený nejsem.
+Jasně.
+Takže je to vždycky o tom nejdřív si identifikovat ty zúčastněné strany, porozumět jim, nastavit si nějaké kritéria, ke kterých se chceme dostat a potom víme, co to je kvalitní software.
+Ty jsi prošel různýma rolema, ty jsi říkal, že je kváčko, jako lead QA, business analyst, scrum master, v podstatě jsi dělal i nějakou dobu v ryzí mentoring.
+Tohle to všechno jsi tam vlastně zkoušel v těch různých rolích aplikovat úplně stejně?
+To znamená, že všichni musí být, že tam musí být ta spokojenost s tím, co děláme, že všichni, který jsou v tom procesu, ví, co dělají, k jakýmu cíli jdou, že to je všechno v udržovatelném stavu.
+Tohle jsi to všechno se tam snažil na těch různých rolích nějak jako otisknout, nebo třeba jsi narazil na to, že v určitý roli je tohle vlastně jako neřešitelný?
+Ono, když si vememe ty role, které nejsou, jak bych řekl, ten specifier nebo scrum master, ale prostě role, které se podílí na vývojí software, takže řekněme vývojář, developer, tak tam je to asi stejné.
+Protože dneska jako kvalitu nikdo nezaručí sám za sebe, jako by tester, že já to všechno...
+Udělám, ono to tam musí být od začátku, developer si musí obrovsky testovat, tak v těchto rolích jo, ale já jsem přišel na to, že ty role nelze míchat ve stylu...
+Jako nejhorší kombinace podle mě je scrum master a tester třeba, protože v momentě my testři, jestli se něčím lišíme od ostatních lidí, tak je to, že my jsme profesionální skeptici.
+Nás baví hledat chyby, nás baví být na té vůvozovkách zlé straně a...
+Čiže ty jsi ten typ, co ťukáš?
+Na Integer Max, na těch samou obslužených pokladnách.
+Jo, jo, hele, k tomu je jedna super story. Já jsem byl v Praze nedávno s kolegou a kolega strašně rád leze na stěnách, jo, to není úplně sport pro mě, diváci mě nevidí, ale jako není to sport pro mě.
+A my jsme byli tady někde na Smíchově a paní říkala, no, tak se musíte zaregistrovat. Říkám, jo, tak jsem přišel k tomu kiosku nebo co to bylo a teď jsem to tam tak viděl a kolega se na mě pojel a říkal, Vojto, prosím tě, jdem lozit, netestuj to.
+Tak jsem teda jako slušně vyplnil, na podruhé se mi to povedlo a šli jsme lozit. A jo, já jsem ten typ, co do všeho rýpe a kterého vlastně nebaví, když věci fungujou. To je takové jako, že už tam jsme zbytečně.
+Což je teda vlastně, jak jsi začal tu větu nebo tu myšlenku, to je vlastně opak toho Scrum Mastera, který by měl být asi spíš jako přirozeně pozitivní.
+Ano, on se má snažit o to, aby to fungovalo. To stejné, ten analytik vlastně by měl mít nějaké kritické myšlení.
+Snažit se, ale my jsme ta protistrana, která mu to rozebere, která mu nastaví to zrcadlo, poptá se a zjistí, co všechno tam nefunguje.
+Už v těch requirementech, nebo i u toho zákazníka, že prostě neví, co chce vlastně a hledáme ty problémy. A to by mělo být, ať už je člověk, klasický tester, ať se zaměřuje na exploratorii, ať dělá usability, security, jakýkoliv testing, i automation, tak musí mít tu touhu hledat problémy.
+Protože jestli člověk nechce hledat problémy, tak já nevím, jestli může být vývojář, tak jako takový průměrný vývojář, ok, ale i ti by měli být, ale pozitivní lidi to by měli být ty analytici, scrammastři a podobně, ale v testingu, ne, ne, ne.
+Takže jsi zvyklý pracovat jako ve spolupráci s tím analytikem a vlastně mu to tak jako trošku rozbíjet, když píše ty requirementy?
+Ono je takové strašně moderní slovíčko shifting left a shifting right.
+Jo, jo, jo.
+A já myslím, že v testingu to platí výborně, protože v dnešní době být uprostřed toho vývojového cyklu je vlastně trošku blbě, protože my bychom spoustu bugům měli předejít.
+Když je tam necháme udělat, tak ona je taková ta známá křivka, kolik stojí bug ve vývoji software, jasně, ok, o tom se dá taky diskutovat, jestli je ta křivka správně nebo ne, ale přibližně to funguje.
+A hlavně takové lehkosti.
+Já jsem vždycky si říkal, na začátku té kariéry to bylo, já chci najít chybu, za každou chybu byl člověk rád.
+Dneska už je to někdy ještě těch chyb moc, taky u toho testera skeptika, to je zase chyba, a to znamená zareportovat to, jít za tím vývojářem, přetestovat to a všechno tohleto to.
+A krom toho, že to teda stojí strašně peněz, tak to nikoho nebaví.
+Takže já jsem zastáncem toho, že co nejvíc aktivit musíme udělat vlevo, aby tam ty chyby nezůstaly.
+Zároveň najít tak kritické chyby, aby jsme si mohli dovolit to, že když to jde do produkce, tak tam prostě nebude průser velký.
+A takže ta spolupráce za mě je si vždycky v tom konkrétním projektu.
+Nastavit nějakou strategii, jak přistupujeme k testování a kvalitě v průběhu a cokoliv můžeme udělat dřív, za rozumné náklady, tak udělejme dřív.
+Takže prostě kváčko tam musí být od začátku, teď začíná nějaký ten...
+requirement guttering a kváčko, říkám, že po produkt ownerovi je ten, který tomu rozumí z biznisu nejlíp.
+A teďka ho challengeuje, snaží se všechno zjednodušovat, protože my v IT máme, zvláště biznis analitici mají strašně jako v povaze,
+že to uděláme složité a vymyslíme všechno, co by ten zákazník mohl chtít, jenomže on stejně ve výsledku potřebuje těch 20%
+a jakákoliv komplikace, jakákoliv složitost, která tam nevypadá.
+To musí být, zvyšuje riziko chyby, zvyšuje to, jak to bude supportovatelné, jaké s tím budeme mít problémy.
+Takže to je na začátku mu to zjednodušit, pomoct mu to vyspecifikovat správně a zároveň už v ten moment do toho zapojit vývojáře,
+aby on se na to podíval, aby dal on feedback, jestli je to realizovatelné, jestli víme, jak to vyjádřit, jestli proto máme technologii.
+No a když se těchto lidí shodnou, respektive to projdou,
+tak se musí shodnout.
+A už, když se představíme backlog, tak někde dole věci, které jsou fakt jako high level,
+tak bychom si měli odhlasovat, někdo hraje poker, na to, jak je to velké, nějakou komplexitu,
+ale shodnout se, jestli je to jednoduché, jestli je to nějaké střední nebo složité.
+Tady máme tu diskuzi, prodiskutujeme to a necháme to někde v tom backlogu.
+No a potom to stoupá nahoru a nahoru a v momentě, kdy už se blíží, že to budeme vyvíjet,
+tak se musíme dohodnout, kdo bude testovat co.
+A tady já jsem jako, pro spoustu developerů je to změna, že hodně testingu musí udělat oni.
+Jenomže já na všech projektech, kde jsem byl, tak to ratio bylo,
+jako když se dařilo, tak to bylo jedna ku třem.
+Na tři developery jedno kváčko.
+Už jsem zažil třeba jedna ku pěti, jedna ku šesti, což je za mě hrana,
+když to přestává fungovat.
+A v momentě, když máme to jedna ku třem, tak to ale není poměr mezi testingem a developmentem.
+To furt...
+I v dnešní době je, řekněme, jedna ku jedne.
+Což nutně znamená, že obrovskou část testingu musí udělat developeri.
+A za mě je to tak dobře, protože oni jsou v tom lepší.
+Jako udělat si takové to, že prostě základní věc mi funguje,
+udělám si tam základní unitesty, proklikám si to a td.
+On to udělá dřív, udělá to ještě, než to merge neněkde,
+nespůsobí žádné problémy, učí se o tom systému
+a každé další věc, kterou udělám, bude efektivnější v lepší kvalitě.
+Mě to potvrzuje to, co jsem zažil několikrát
+a pořád si to myslím v tomhle svojitom, naprosto souhlasím,
+že ty QAčka jsou většinou ti, kteří si opravdu jako jediný pamatují
+i třeba historicky, když ještě nějaký legacy projektů,
+jak to vlastně má fungovat, proč to tak funguje,
+nějaké historické rozhodnutí a tak dále.
+Tady je jedna věc, která, a bavil jsem se s mnoho lidma,
+s mnoha firem, která je pro QA jako specifická,
+a to je to, že ty dobří testeři utíkají do vývoje.
+Jak to vlastně vidíš, Vojto, ty, protože to, co ty tady říkáš,
+z tebe krásně úplně čiší, teda jednak ta, já jsem vždycky myslel,
+že to je jako ostravský srdíčko, že oni jsou takový furt jako skeptičtí,
+ale ne, to jsou jenom dobří QA, ale vlastně z tebe je znát ta zkušenost.
+Ale spousta lidí, kteří tu zkušenost naberou, tak nebo řeknou,
+ty, já jdu jako do vývoje radši, než abych rozvíjel tuto testerskou
+slash analitickou kapacitu. Jak to vidíš ty, tenhle problém v QAčku?
+Já myslím, že to souvisí s tím nastavením mozku,
+že být na té špatné straně nebo na té negativistické straně
+je pro spoustu lidí po nějaké době problém.
+Jako ve stylu, a já zase jdu hledat chyby,
+zase vlastně půjdu proti někomu nebo proti nějakým rekvářům,
+parlamentům a tak. A nejhorší podle mě v té kariéře musí být,
+když narazí na firmu, kde to je jako nevítaný přístup.
+Ve stylu, zase prostě, co do toho kecáš, co tam děláš.
+A když se tohle člověku stane dvakrát, třikrát,
+tak ho to otráví.
+A druhá věc, která s tím souvisí je,
+že vlastně dneska už je docela raritní mít člověka,
+který dělá testing a neautomatizuje.
+A možná se k tomu dostaneme jako, já nesnáším pojem,
+manuální testování. To jako rukama tam asi neděláme nikdo v IT, že jo?
+Ale ta automatizace je techničtější a techničtější,
+takže nutně, a ještě je to strašně cool, že jo?
+Prostě kdo neautomatizuje, což jako automatizace musí samozřejmě.
+Takže často ti lidi v dnešní době první k čemu přičichnou je
+test automation, což vyžaduje hodně dobře programovat,
+když to chce člověk dělat dobře. No a přejdou do toho,
+protože najednou to bude takové, hej, pojď nám pomoct tady.
+A vlastně oni si ještě nezažili tu jako dlouhodobou zkušenost testingu
+a přejdou na ten vývoj. Naštěstí dneska už to není tak časté,
+aspoň ve většině firm, že by ta motivace byly prachy.
+Ale jako věřím, že ta křivka jako ve stylu, než se to srovná,
+ten plat, tak to může být další point.
+Protože jako medior tester určitě bere méně než medior vývojář.
+Pak si to po nějaké době srovná.
+V rozumných společnostech.
+Ale to může být jako další věc, která k tomuhle motivuje.
+Ty jsi zmiňoval, že ty vývojáře by měly zrovna tak testovat,
+nebo mít stejný důraz na kvalitu jako ty testři.
+Jak je vlastně donutit ty vývojáře, aby testovali?
+Samozřejmě jedna věc, máme unit testy, dokážu si prostě udělat
+nějaký automatizace kolem, ale z toho, co ty si popisoval,
+tak to skoro zní jako kulturní shift, než vyloženě jako věc,
+která by se dala nějakým způsobem.
+Vyložení způsobem technicky zabezpečit.
+Protože technicky to oni umějí, vývojář umí automatizovat konec konců,
+to je podstata jeho práce.
+To slovíčko donutit je takové jako strašně...
+Přesvědčit.
+Já mám rád to slovo donutit v tom, že to je poslední krok,
+protože za mě u většiny vývojářů to jde jako pozitivní cestou.
+A to hlavně tím, že v těch společnostech, kde to není,
+tak oni jsou přesvědčení, že to nemůžou udělat.
+Jo, na vývojáře je dneska strašný tlak, musíš naprogramovat to a to a to.
+A teď, když si sedneme a vysvětlíme si, co já po nich chci,
+tak to odpověď je, no dobré, ale já budu tak jako třetinu času vyvíjet,
+třetinu času testovat, zbytek po mně chceš ještě, aby chápal ty requirementy.
+To je strašně jako málo času strávené tím developmentem.
+A teď se k tomu přidá nějaký manažer a ještě řekne,
+ne, ne, ne, ty vyvíjíš.
+Takže třeba si jako by vizualizovat a naplánovat
+nějaké jasné KPIčka, k čemu to povede, což je kvalita,
+což je nepředělávání věcí, což je méně bugů.
+A získat toho developera na svoji stranu a potom nejlíp si udělat
+nějaké POSičko ve stylu. Tak to přepnem do tohohle způsobu
+na tři měsíce, kratší nemá cenu, protože to se neprojeví
+a uvidíme, co všechno se zlepšilo.
+A ten vývojář v momentě, kdy na to dostane čas,
+tak najednou zjistí, že mu to velmi hodně pomůže
+v tého práci být efektivnější, fakt to jako napsat na poprvé správně
+a i ten vztah s tím testerem bude mít lepší.
+Ale ještě to souvisí s věcí, že vlastně on tomu testerovi
+ho musí respektovat a to mi někdy, jak jsou ještě takový starší
+typy testrů nebo juniorní testři, tak oni si u toho developera
+strašně blbě ten respekt získají. Ve stylu jako ty mi tady
+budeš něco říkat, co já tu mám dělat.
+Takže člověk i ten tester na sobě musí pracovat.
+Aby vlastně přinesl nějakou hodnotu tomu vývojáři.
+Protože v momentě, kdy ten vývojář začne testovat
+ty základní věci, tak ten tester má najednou dost času
+na to dělat nějaký hlubší testing, začít dělat pořádně
+exploratory, začít pracovat na těch requirementech
+a to musí začít dělat. Protože jenom když hodí čas věcí
+na vývojáře, tak se to posune jenom o trošičku.
+No a jak jsem říkal, že to donutit je druhý způsob,
+tak někdy to jde přes takové to...
+Po Ostravsku, ne?
+No tak jako zaměříš se trošku na toho vývojáře.
+Začneš mu fakt nacházet mnohem víc chyb, než tomu druhému.
+Jak ho vysírat začneš.
+Jo, ale musí fixovat. A to časem nasírá všechny lidi.
+Ale jako většinou tohle je tou dobrou cestou a dneska už je to
+tak třeba jeden z desítí developerů, který tohle
+prostě neskousne. Který řekne, já to prostě dělat nebudu,
+já dělám vývoj. Ale to je taky typicky jaký ten developer,
+který ani unit testy nepíše, protože to přece není třeba.
+Ale většinou to jako funguje dobře. A ten větší problém je na managementu.
+Ten větší problém je na těch, kdo řeší nějaký proces
+a který jako absolutně nerozumí testingu, co to je.
+No jak tě slyším, tak tam je jako velká dávka softskillu,
+který ten tester musí umět. Bavili jsme se o tom,
+že jsou firmy, který třeba jako nemají rádi tady ty hnídopichy
+v úvozovkách, co říkají prostě, co je blbě, že jo.
+Tak ale přece i ta jako chyba nebo špatná věc se dá říct jako
+mnoha způsoby. Tak jak to je vlastně se softskillama?
+Jako je tam potřeba jako víc, větší důraz než třeba, nevím,
+pětdeset let zpátky?
+Hele za mě je to třeba moje úplně největší slabina
+jsou softskilly, protože mi vždycky moji testři potom říkají
+Vojto, prosím tě, kdyby jsi to řekl jenom trochu jinak,
+tak jsi ty lidi nenasral.
+A tak tam je to ostrovské srdéčko.
+Tak trošičku jo, ale je to strašně důležité ke všem těm
+stakeholderům. A přece jenom ti vývojáři jsou jako
+specifická skupina, ale to se člověk naučí rychle, jenomže
+ten tester musí často se zákazníkem, často s tím
+product ownerem a je to, já si myslím, že stejně důležité
+jako ty technické znalosti jsou ty softskills a proto třeba
+si myslím, že jako výborné testerky jsou holky,
+protože oni to prostě mají vrozené, proto jsem vlastně
+dlouho ji učil v Čekyta.
+Do týmu jsem vzali dvě, tři juniorky, naučili se to
+a je to úplně perfektní.
+A jo, komunikační,
+a jako softskills v způsobě organizace práce,
+protože někdy testři jako se zaměří na jednu věc,
+strávím dvě hodiny testováním nějaké úplné blbosti,
+kterou jsem měl dávno pustit a utíkají mi důležitější
+chyby, takže jsou strašně důležité.
+A ještě s tím, jak my jsme ti negativistí,
+tak jako krotit ty emoce a zase to blbě a tak,
+tak je to hrozně důležité.
+A liší se to nějak v tom přijetí podle tý seniory?
+Ty jsi to trochu zmiňoval na tý straně těch testerů,
+ale na straně třeba těch vývojářů.
+Dokážu si představit, junior žijete netakový,
+teprve ještě jako se rozjíždí, takže co mu řekneš,
+co vlastně udělá. Pak je ten nejnebezpečnější tvor v IT
+a to je jako přebubřelej mediork, který ideálně by,
+aby psal jenom kód a nepsal nic jinýho.
+A pak je ten senior, který ví, že když bude dělat cokoliv jinýho,
+než psát kód, tak je to ideální.
+Takže předpokladám, že asi nějak to přijetí se může lišit,
+ale jaká je tvoje zkušenost tímhle s tím?
+Já si myslím, že to je spíš o tom, z jaké firmy
+a z jaké kultury ten člověk pochází.
+A jestli už se s tím nějak setká,
+ale ono dneska, když se člověk podívá,
+jak se učí na vysokých školách o IT,
+tak někde už je to lepší, někde je to horší.
+Takže já myslím, že to je spíš kulturní problém
+a hlavně o tom, na co je tlak v té firmě
+a v jaké je fázi.
+A dneska člověk vidí, že jak se nestíhá,
+tak se bude tlačit na to, pojďme bastlit co nejvíc kódu,
+nějak to tam doděláme, to pak doženem,
+nedoženem a to je ten větší problém,
+než ta seniorita.
+Ale obecně jako junioři to mají dneska strašně těžké.
+Protože když si to měli, paradoxně si myslím,
+že junioři testři těžší,
+ale dneska i ten junior developer dostat se do toho,
+aby vůbec měl nějaký pořádný přínos.
+Testři způsobem to možná mají dneska trochu jednodušší,
+protože když pro spoustu lidí byl strašák automatizace,
+tak dneska, když ten framework je nějak nastavený,
+tak člověk druhý den ten test napíše,
+zase je to o tom mindsetu, co budu testovat a tak.
+Takže v tom je jako nezajímavé,
+že závidím junioru developerem teďka.
+Já si myslím, že ke spoustu věcem, který jsme teď nakousli,
+se ještě různě dostaneme, až budeme procházet
+tý různý, řekněme, profesní období.
+Já se samozřejmě musím zastavit u toho Vendavíčka,
+protože tam jsme my spolu dělali.
+Ty jsi vlastně ve Vendavu strávil s přestávkama dohromady
+přes jedenáct let, což už je signifikantní doba
+pro nějakou jednu firmu, byť tam byla krátká přestávka.
+Jak na tu dobu vzpomínáš?
+Já si myslím, že jsem byl zaměstnanec číslo sedm,
+jestli se nepletu, v českém Vendavu,
+ale když to ještě bylo Jetmind.
+Ještě v Jetmindce.
+Ještě v Jetmindce.
+A myslím si, že druhé kváčko,
+a to byla vlastně doba, já jsem tam šel z těta,
+kde jsem se toho spoustu naučil,
+a šel jsem do firmy, kde to vlastně vůbec nebylo zavedené.
+Nějaký kvá proces, nějaký test management,
+prostě se nějak testovalo.
+A já jsem šel do té části
+services, se tomu říkalo,
+kde se vlastně korovi produkt
+kustomizuje pro zákazníka.
+A tehdy to byly takový ti strašně obroští zákazníci,
+kterým se to dělalo na míru.
+A to bylo úplně perfektní v tom,
+že tam se to kváčko vyžilo
+stylem, že muselo toho zákazníka
+pochopit od A do Z.
+Takže to byla ještě ta doba, kdy se lítalo
+a tak, takže člověk strávil dva měsíce
+u zákazníka, pochopil ho,
+ten projekt měl třeba dva roky
+a vyšperkovalo se mu to.
+A postupně se to
+měnilo na to,
+že
+ty projekty byly kratší,
+ti zákazníci byly menší a těch
+kustomizací tam bylo míň. A ta firma
+rostla a rostla.
+A s tím se měnila, že předtím to bylo
+vlastně takový startup, potom to Vendabo
+koupilo, pak tam byl strašně rychlý
+nárůst lidí, zavedly se
+nějaké QA procesy.
+Řekněme, i když se na to
+podívám zpětně, tak to bylo více
+méně správně. Jasně některé věci
+nebyly
+kterým se kdysi věřilo, že jsou správně,
+už se dneska nad tím člověk usněje, ale furt
+tam bylo to gro, že se doručovala ta hodnota
+tomu zákazníkovi. Jasně.
+A pak jsem vlastně vystřídal
+x těch projektů
+a
+přešel jsem na školení,
+takže jsem školil zákazníky, jak to používat.
+Pak přišly dětská, bylo hodně cestování,
+tak jsem si dal tu pauzu do toho startupu.
+A
+tam to mělo zase úplně
+jiný pohled na to, že vlastně
+utracíš peníze někoho, koho znáš,
+musíš si uvědomit,
+jak to udělat a hlavně tam přišel ten kles
+s tím skramástrostvím.
+A to byla jako perfektní pro mě lekce
+životní na to, že nelze kombinovat tyhle
+ty dva přístupy, že jako být
+pozitivní a negativní zároveň nefunguje.
+A až jsme
+k tomu obě dvě strany dospěli, že to
+fakt nefunguje a to už jako nejde zpětně
+vzít.
+A jsi se mohl vrátit zpátky jako na QA?
+Já už mi přišlo, že ten mozek to jako nedá
+se přepnout zpátky na tohle.
+A vlastně vrátil jsem se do engineeringu.
+Ta firma byla více méně
+jako pořád stejná a pořád
+trochu narostla. A to bylo v době
+mimochodem, kdy jsme tady měli ještě raděma
+Čebiše, je to tak? Mělo starosti engineering.
+Já jsem šel pod Čebišáka na
+projekt a to bylo vlastně
+z úplně druhé strany, to bylo vytvářet ten
+core toho produktu.
+Ale zajímavé na tom bylo, že jsem šel
+na nový projekt ve Vendavu,
+takže věci se stravili na nové
+platformě, na zelené
+kouce, všechno se dalo
+nastavit tak, jak člověk chtěl
+a tam se bylo asi rok a půl a začalo
+to být nuda z pohledu QA.
+Protože to byl ten první projekt, kde jsme
+jako naučili vývojáře, jak se testuje,
+co se dělá. A teď už to začalo být
+strašně repetitivní ve stylu, přišel nový
+požadavek, jo, uděláme grooming,
+proberem to s tím
+analytikem, rozumíme tomu,
+rozbili jsme to, jedem to,
+tady si to developerov testuje, předá
+a bla bla a začala to být strašná nuda.
+A Vendavo koupilo
+makedonský projekt,
+nebo ne projekt, produkt
+a zhaněli
+testmanažera na to.
+A já říkám, tak já to vemu
+toho testmanažera. To zní jako
+dobrá výzva na to,
+jako tam bude spousta věcí
+zlepšovat. Nakonec se ukázalo, že tam
+se musí zlepšovat mnohem víc věcí,
+ale vlastně na tom projektu jsme
+vybrnovali úplně skvělý tým.
+Vlastně jsme to výborně stabilizovali,
+přepsali
+a to byl
+vlastně asi nejlepší tým, v kterém jsem
+kdy dělal. Zároveň to byla
+taková vlastně jedna velká rodinka.
+Takže to, že se to potom
+rozpustilo a převádí se to do Indie,
+tak s tím bylo spoustu jako
+spojených emocí a podobně.
+A vlastně tamto QA se dělalo
+hodně dobře.
+Asi zpětně si uvědomuji, že to moc nešlo jako
+vidět, že ve stylu jako, proč bychom měli dělat
+nějaké metriky a ukazovat, co to automatizujeme.
+Nám to funguje,
+takže možná to spousta lidí
+jako nevidělo, že si to dělá
+správně.
+A ta firma se celkově
+extrémně transformovala i za tu
+dobu.
+No a teďka, kdo ví,
+jak to skončí, to bych asi opustil.
+Pohodě, já jenom musím
+jednu věc, to mě opravdu zaujalo.
+Ty jsi říkal, že vlastně ve chvíli, kdy to všechno
+začalo fungovat, tak jak
+bylo v tvých vlhkých snech, tak to začalo
+být nuda. Což je vlastně
+jako rozkol. Tak co teda?
+Správný QA hledá. Furt nějaký
+zrušení.
+A když je to rozbitý, to přesně.
+Přeci když je můj cíl, aby to nebylo
+rozbitý, aby ta
+cesta od toho rozbitýho do fixnutýho
+byla ideálně co nejkračší a zjistila se
+na té časové ose
+nebo v tom procesu co nejvíc vlevo,
+tak když toho dosáhnu,
+tak teda žádný bugy nejsou,
+tak teda zákon tě jako je nuda,
+ale ty jako, jak s tímhle s tím pracovat?
+Přeci to chceš, ne?
+No hele, bugy jsou a tak, furt tam něco najdeš.
+To je jasný, ty budou vždycky, to je jasný.
+Ale ono to spíš asi souvisí s tím, když už člověk v tom
+testingu je dlouho
+a baví ho vlastně ty věci
+zavánět, ty věci měnit
+a pořád si
+zatestovat, to je pro mě třeba
+strašně důležité, abych asi nikdy nemohl dělat
+jako čistě testmanežera, že netestuješ.
+Jestli počkám jako ty
+minimálně půlku času musí člověk
+strávit testingem, fakt, že jako
+testuje,
+tak v tom už to
+jako pro mě byla nuda ve stylu
+jako ten testing
+tam byl furt zajímavý, ale vlastně už se nic
+nemění a to je asi moje jako druhá
+osobní charakteristika, že já
+jako nesnaším status quo, když věci
+jako není co měnit,
+tak to pro mě
+ztrácí motivaci na to
+jako, no tak jo,
+tak zase stejný den.
+Tak to jsme úplně ze stejného těsta.
+Já miluji ty věci měnit, zavádět,
+rozjíždět, jakmile to je
+funguje, tak je to nudá.
+Myslím, že jsme ve shodě všichni.
+Podle mě to má hodně lidí, co
+rádi prostě dělají
+věci, jakože nevím vlastně,
+jestli v IT je hodně lidí, který mají rádi
+tu stabilitu, která jako v podstatě
+znamená, že děláš pořád to samý repetitivně
+a vlastně jako v občasce
+tam jako něco malinkýho vynoří,
+to podle mě je nuda pro každýho, nebo ne?
+Já nevím, pro nás možná už, proto jsme se tady
+sešli. Je to možný. Já myslím, že v tom
+třeba konkrétně testingu, tam musí být nějaká
+změna. Buď to musí být obrovský projekt,
+kde člověk dělá nějakou část, takže
+si může vzít nějakou druhou část,
+nebo tam musí být nějaká prostě
+velká fičura, která se bude
+přidělávat, ale
+i ti testři podle mě
+nutně na projektu třeba jako
+být na jednom projektu pět let,
+tak už zase trošku otupí v tom hledání
+toho, jo? A to je jako nebezpečí
+pro testra otupět a myslet si,
+že už to všechno jede, já už to všecko
+znám, takže i to vede
+k tomu,
+že testři by měli střídat projekty podle mě
+častěji. Neříkám firmu,
+třeba i v tom Vendavu šlo přejít zase na
+servisíc, nebo na jiný projekt,
+ale
+pro testra podle mě už to smrdí, když pět let
+testuje stejnou věc. Jako zase výhoda je,
+že zná perfektně ten biznis
+a přitom
+jako přidává obrovskou value
+té firmě,
+ale nutně se testr otupí
+po nějaké době.
+– Z těch dob Vendava, když se podíváš
+zpátky na těch jedenáct let, co tam
+počítáš za ten svůj, jako za svůj
+největší úspěch? Je to třeba právě tohleto, že jsi to
+zdokonalil tu
+flow do takový míry, že to
+vlastně začala být nuda? Nebo je tam
+nějaký ještě jiný achievement? – Hele, za mě asi ten
+poslední projekt, protože vlastně
+my jsme to přebírali v dost strašném
+stavu.
+To drželo
+jako hodně slepené
+a
+člověk musel udělat ze začátku spoustu
+kompromisů a bylo to takové to, jak my
+se věděli, že nám to bude trvat a říkali jsme to
+tři až pět let. A říkali jsme, ne, to bude dva
+roky. Říkali jsme, tři až pět let.
+Jako po dvou letech to bylo v lepším stavu, než jsme si
+mysleli, ale vlastně
+přednout to z toho
+ideálně fungujícího projektu do toho
+tohohle vůbec teďka nemůžeme
+dělat a rozfázovat to, že prostě za půl
+roku chceme být tady, chceme mít
+zavedené základní prostě show me,
+že ten developer to ukáže. Chceme, aby
+developeri začali testovat základní
+věci, vůbec postavit ten tým.
+Nám tam po půl roce odešly
+všechny kváčka, rozhodli
+jsme se třeba najmout juniory právě z
+Čekytas a postavit
+celý ten tým a dostat se na ten
+proces postupně, že
+potom už vlastně Definition of Done
+vypadala, jak měla být. Automatizace vypadala,
+jak měla být. Zavedli
+jsme si to, čemu já strašně věřím,
+že prostě máme Automation team a máme
+Exploratory team.
+Ti Automation umí velmi dobře
+programovat a furt jsou trošku v políbení
+testingem, ony ten testing baví
+a ti lidi, kteří dělají Exploratory testing,
+tak jsou prostě experti tady v téhleté
+disciplíně a zadávají vlastně
+těm Automation. Tak dobré,
+tak já jsem to otestoval, našel jsem ty bugy.
+Tohle jsou věci, které mají do regrese,
+zautomatizujte je.
+Tak třeba, že se tohle podařilo
+zavést, tak to je asi
+ten největší úspěch,
+protože ta dlouhodobost
+a to rozfázování.
+Tak Románek tady má,
+připravil si otázku a
+nakonec jí nevyřknul, na koho kromě
+Romana Provazníka nejraději z Vendava
+vzpomínáte? Ježiš, kdo to tam napsal?
+Já nevím vůbec. Ježiš, Maria, Ježiš.
+Vy uličníci.
+Na koho nejraději vzpomínám ve Vendavu?
+No tak jako za prvé
+je to určitě ten poslední tým
+a z toho
+začínáme
+na začátku
+určitě Filemon.
+Ono ty, to bylo
+člověk, který mě nakoplil ke spoustu věcem.
+Úplně první věc bylo, když
+jsem nastupoval, tak on říkal,
+jako já jsem tě vzal, jsem měl zajímavý
+pohovor. Člověk byl v tietu na služebce
+a pohovor jsme měli
+online. To ještě v té době nebylo
+moderní, jako úplně, že jo, nějaké online.
+Je pravda, já taky vlastně jsem měl s Filemonem
+online. No a on říkal, jo dobré,
+to zní zajímavé, já tě beru, ale jenom
+jako na základě referenci od toho
+a toho člověka, už ani nevím, kdo to byl.
+Protože jinak já o tobě vůbec nic nevím.
+Říkal, no však se neznáme, ne. No ale
+to je jedno, tak já jsem tě googlil.
+Nenašel jsem žádný blog tvůj,
+žádný podcast, nic.
+A to jako nestačí být dobrý, to musí
+o tobě jako lidi vědět, že jsi dobrý, ne.
+A potom ta jeho
+jako dynamičnost byla někdy až jako
+děsivá.
+Takže člověk
+ho muselo jako dost jako, jak se má
+kvát dělat, že vlastně bychom měli
+jako trošku se sklidnit a
+odstát to pořádně a tak.
+Tak ty začátky s Philem a ty všechny
+párty a tam ta původní, tak to je asi
+ta druhá. Takže ten konec Vendava
+a začátek Vendava.
+Já teda na Philemona vzpomínám,
+na jeho hiring jako strategii.
+Pořád to mám v hlavě.
+On vlastně, já nevím, jestli už věděl, že
+vlastně to bude ekvírovaný Vendavem,
+že to JetMines bude prodávat Vendavu.
+Ale on nabral hrozný množství lidí,
+ale neměl pro ně práci.
+Ale brali tím stylem, o tobě jsem
+od Luďka slyšel, že jsi dobrý, což takhle
+nahyroval mě, tak pojď k nám.
+O tobě jsem, Vojto, slyšel, že jsi
+dobrý, pojď k nám. A takhle ho nahyroval.
+Ale ve skutečnosti jako spoustu brutálně
+dobrých lidí, tím nemyslím samozřejmě sebe, ale tam byly
+jako daleko, daleko šílenější
+borci, kteří tam prostě jako dělali
+úplně nesmyslně dobrý věci.
+Ale hrozně jako
+přirozeně, já to pořád
+do jistý míry doteďka obdivuju,
+že to bylo jenom, že buď člověk,
+který mu věřil, mu dal doporučení, on se s ním
+zavolal na patnáct minut. My jsme spolu neměli
+žádný technický pohovor, nic, jenom
+co děláš, no tohle, no tohle mě baví,
+jo dobrý, tohle potřebuju, kolik chceš, jo, no
+to by šlo, čau a jako
+done prostě, jo. To bylo úplně neuvěřitelný.
+Takže možná to s Vojtou máme
+společně, že jako rozhodně na Filomona
+zdravíme ho, pokud poslouchá, rádi
+vzpomínáme.
+Pojďme možná teďka, Vojto,
+já tady mám celou sekci otázek, který se týká
+jako agile, metodologie
+a tak dále, což já si myslím i vzhledem k té tvý
+zkušenosti jako Scrum Master.
+Spousta bezvodných. Určitě spousta bezvodných, ježišmarja,
+no tak to máme rádi. Nepotřeba.
+Je tam vůbec z pohledu QAčka rozdíl
+v přístupu, když třeba tým
+jede ve Scrumu nebo v Kanbanu,
+nebo vlastně je to úplně jedno
+a důležitý je mít ten jako
+prokvalitářský, to je hezký slovo,
+prokvalitářský jako mindset.
+Já myslím, že
+mezi těma jednotlivýma agilníma
+metodikama jsou
+už rozdíly spíš jako jak to budeme
+provádět, tu práci, takové jako
+organizační. Jako operativa už jenom. Operativa,
+řekněme. Ten obrovský rozdíl je samozřejmě
+mezi Jarl a Waterfallem nebo nějakým hybridem,
+protože ten největší rozdíl
+pro kváčko je,
+za prvé, jestli tam vůbec je na začátku
+a kdy na začátku tam je
+a druhé, jestli jsou ty requirementy zmražené
+nebo ne.
+Takže jako asi nejhorší kombinace je
+zmražené requirementy, ale pojedeme to
+Jarl, že jo, to je takové to, pičke, jak se to říká,
+Water Scrum Fail?
+No někdy se to říká Water Scrum Fall, já myslím, že to je
+Water Scrum Fail,
+protože tam vlastně
+to je jako strašná iluze
+ve stylu, že my to zmrazíme
+a pak se to
+nadevelopí, takže to potom vede k tomu,
+ty kváčko tam nemusíš být přece
+v průběhu, to je všechno jasné. A už jsem dokonce
+ji jako slyšel
+a mentoroval na jednom projektu, to byl rychlý
+mentoring, protože to nechtěli měnit,
+ale to bylo jako
+na začátku tam budeš jako kváčko.
+A pak už tam nebudeš. Pak tam nebudeš.
+Pak tam budeš na konci.
+Takže ta utopie, jako,
+že se to všechno povede, tak
+to mě jako fascinuje, že tomu někdo může věřit.
+A vlastně, my se dostáváme k tomu ještě,
+jak jsi říkal, co je definice kvality,
+tak já myslím, že s tím strašně souvisí, že
+my jako
+testři rozbíjíme iluze lidí.
+A to strašně lidi nemají rádi, když jim šaháš
+na jednu. Rozbíjíte, já jsem ti rozuměl, rozbíjíte.
+Ne, rozbíjíme iluze. Rozbíjte.
+Protože, znaš to, jak se někdy říká,
+že testři rozbíjí software.
+No, slyšel jsem to, no. No, jenom, že on už je dávno rozbitý,
+že jo. Jasně, oni to jenom našli.
+My jako, ano, my jenom ukážeme
+a rozbíjem tu iluzi, co si někdo myslí,
+že ten software funguje, ale to je,
+by the way, to je jedna z věcí, co může lidi demotivovat
+v testingu, jak jsme se o tom bavili,
+že my jako testři ten software nezměníme.
+My s ním vůbec nic nemůžeme
+udělat. Ten testing je jenom
+metrika na to, v jakém je to stavu.
+A tím se dostáváme k tomu, co je kvality assurance,
+protože testing je malá součást
+kvality assurance a
+jestli je to waterfall, nebo jestli je to
+ani za mě moc velký rozdíl, není.
+Dobře, tak veď, že já mám možnost to testovat po kouskách.
+Ale v té kvality assurance tam právě
+můžu být na začátku,
+tak to je ten obrovský rozdíl.
+A že můžu kecat do toho, jak to ten vývojář
+bude testovat, jak jsme na začátku
+to říkali. No a když si mluvíš ty
+metodiky
+Scrum vs Kanban, za mě ten největší
+rozdíl je, jestli je tam ta iterace, nebo ne.
+Já mám osobně radši
+Scrum, nebo jakýkoliv iterativní
+vývoj, protože je tam nějaký
+ten, jak to říct, tlak tam, jo.
+Prostě, jestliže máme 14-tídenní
+sprint, tak my se zhodneme, že tohle
+v tom sprintu bude. To tam na konci má být
+a to znamená, že to je hotové, otestované
+a všechno nedej. V momentě, kdy to
+přepneme do Kanbanu, tak tam
+sice jo, když by se to dělalo správně, tak jsou tam
+prostě kapejčka ve stylu
+lead timeu a tak, ale
+moje osobní zkušenost se Scrumem je, že to vždycky
+sklouzlo k tomu,
+že to byl takový krátký
+waterfall, třeba třiměsíční,
+jo, release na třiměsíce, jenom ho.
+A ty věci začaly být najednou větší,
+to bude 14 dní vývoj, 14 dní
+testování, věckrát 14 dní trvá
+na vývoj, jde rozbít na menší věci.
+Takže tyhle ty operativy v tom
+Kanbanu jsou za mě mnohem těžší
+na vlastní vývoj udržet,
+zase je to super na maintenance,
+jo, tam, kde prostě, tam
+nějaká iterace nedává význam.
+Takže QAčku se obecně
+a testrovi dělá podle mě líp v iteracích,
+protože si tam udělá ten
+planning, ví, co tam bude,
+ví, kdo co bude vyvíjet, dá si ten
+syn s tím developerem a za 14 dní
+má hotovou otestovanou verzi,
+kterou může doručit zákazníkovi
+a to je ten další největší rozdíl je,
+že v tom
+iterativním vývoji ten zákazník
+očekává, že se mu něco dodá. A ještě líp,
+že se mu to doručí. Ještě v tom Kanbanu, jo,
+můžeme ti to doručit kdykoliv, to pak sklozne k tomu.
+Dobré, tak jednou za čtvrt roku.
+A velká část toho
+tez odpovědností QAčka na tom
+projektu je, že krom toho, že já jsem to otestoval,
+tak to pak předám tomu produktu
+Unrovi, ukážu mu to, on dá feedback a pak
+to dáme zákazníkovi a já mu pomůžu nějak
+testovat.
+A jak zapojit zákazníka do testování,
+zase lidi si myslí, no však oni si to otestujou,
+to je jejich zodpovědnost, ne? Tak ten developer si to
+veme, to je teda developer, ten zákazník
+si to veme a otestuje. Stíže my ho nepovedem
+za ručičku a nějak mu nepomůžem,
+tak my z něho nedostaneme smysluplný feedback.
+To je jako demo, jo?
+Typický feedback na demo. Já to vypadá
+dobře, jo? A nebo ne, ne, ne.
+Ale že by se nad tím ten člověk nějak zamyslel
+a když mám tu iteraci, tak jednou
+za čtrnáct dní se domluvím hra zákazníku, my ti to
+ukážem, provedem
+těm ti, třeba ti pomůžem připravit data
+tak, aby ty jsi nám dal ten business feedback,
+tak že řešíme ten tvůj problém.
+A to je benefit iterace.
+Já tam tady ještě vidím jeden takový psychologický
+a to je to, že vždycky přijde ten dopamin
+rush za čtrnáct dní, že si vlastně
+něco doručil, že jsi to posunul
+aspoň o ten centimetr dál, že se jako,
+že jsem něco dokončil. Protože samozřejmě u těch
+nekonečných věcí je problém, když se otočí
+zpátky, řekneš tak, dělal jsem něco,
+nedělal, vedlo to někam, nevedlo, je to asi
+v tomhle tomu jako příjemnější
+mít tam vždycky ten malej checkpoint po těch čtrnácti dnech.
+No mě ještě se líbí vždycky, že
+my jsme to zažívali v Cienku
+často, že ten
+proakumor přišel a prostě změnil to zadání,
+protože se změnila realita třeba.
+A tím, že jsme ho měli každý den k dispozici,
+tak těch čtrnáct dní vlastně bylo tak akorát na to,
+aby jsme si řekli OK, tak to jdeme jako přehandlovat.
+Nebylo to tak drahý, je pravda, když si to rozmyslel
+po čtrnácti dnech. Samozřejmě pokud teda neřek,
+že jako místo kulek
+léme písmenka, tak to bylo samozřejmě složitější,
+ale jinak jako... A nedovedu si představit,
+že v dnešní době ty vyvím něco, já nevím,
+čtvrt roku bez nějaký zpětní vazby
+nebo vlastně v celku, tyjo.
+A to musí být hrozný nesmysl.
+Ano. Ale proč se to děje?
+Proč se to děje, no. Proč se to děje? A vlastně,
+jak jsi mluvil o tom, že to kojáčko je na začátku,
+pak někam asi odejde na dovolenou,
+nebo co, a pak se vrátí nakonec,
+tak to doufám, že to už je taky v nějaký menšině, ne?
+Protože já mám pocit, že ty dobrý softwary,
+ještě pro mě, ty dobrý softwary přece
+ví, že tam toho testera tu prči
+spotřebují. No pořád, ten tam musí být pořád.
+Já prostě, já si nedovedu představit,
+že by jako osvícená firma, která dělá fakt superprodukt,
+tam to kojáčko neměla, no.
+Ale jako řekni ty, jak to vidíš, jo?
+Jako z toho svýho pohledu, no možná.
+Já si myslím, že už je většině firm
+jasné, že je třeba testing.
+Ale absolutně jim není jasné, co to je quality assurance.
+A že prostě,
+pokud nebudeme bagům předcházet,
+tak jako nám nutně projdou,
+i kdyby jsme tam nahalnali tisíc
+testů, tak prostě projdou,
+anebo to bude strašně drahé.
+Ale ono ten, typicky v těch firmách,
+ten člověk jako nejde na dovolenou.
+On dotestovává to z těch předchozích,
+předchozího čtvrtletí,
+bo tam to nestí, že?
+Takže je vždycky tak jako minus kvartal
+dozadu, teď najde bag,
+vyvář už vůbec neví, že?
+Takže tak to spíš jako...
+No takže podle toho, co říkáš, tak to QAčko
+ve chvíli, kdy najde bag,
+jakože v rámci toho testingu,
+tak už je to vlastně pozdě,
+protože se lhala ta quality assurance
+na té ose jako vlevo.
+Ano. Asi jedna ze zásadních
+metrik, která, když už má člověk
+rozumně nastavený proces,
+je, že k každému bagu, kterého najdeme,
+děláme růtko z analýzu,
+jestli jsme mu mohli předejít nebo ne, řekněme,
+že to je první otázka. Je úplně
+OK si říct ne, jo?
+A furt budou bagy, které prostě si řeknu,
+dobré, tak automatizace to nemohla najít,
+requirementy
+byly správně,
+porozuměli jsme jim správně,
+tak tomu jsme předejít nemohli
+a prostě je OK, že jsme
+tohleto to našli teďka. A nebo jsou to přesně
+bagy, kde jsme si řekli, tady uděláme
+exploratory testing a když tam
+najdem tenhleten typ bagů, tak jo.
+Ale řekněme, že v 80%
+je to tomuhle, jsme mohli předejít.
+A teď za mě jsou dva
+nejčastější důvody. První je špatné
+zadání, což
+potom musíme pracovat s tím,
+jak to, že se nám to děje,
+což není jenom chyba toho
+product ownera nebo toho specifiera, nebo jak budem říct.
+My jsme mu to nechallengeovali dostatečně, že jo?
+A to je chyba jak kváčka,
+tak developera, protože někdy to bylo
+technické, že byznysové je to furt stejné,
+někdy to je i byznysové. Takže
+prostě nám chybí nějaká byznysová znalost,
+aby jsme to příště udělali správně.
+A nebo je ten bag technický
+a pak je to buď nedostatečná automatizace,
+a nebo
+na to ten
+vyváž prostě sere s tím jeho dostáváním.
+Ale když si člověk ten proces
+nastaví, no to je jako konkrétně třeba,
+když jsem odcházel z toho fungujícího
+projektu a i na konci toho makadonského
+projektu, co jsme přebrali, tak vlastně
+tam jsou dva nejzásadnější pointy
+mezi developerem a
+kváčkem. První je, když to jde do
+sprintu, takže už jsme se shodli, jak je to velké
+a tak, tak si fakt sedneme
+a teď máme poslední záchrannou brzdu na to,
+že dáme si desetiminutový
+meeting, kde si zopakujeme, co to je
+a teď developer vysvětlí, jak to
+bude vyvíjet, protože ten už musí mi teďka v hlavě
+už hodně konkrétně, jestliže to
+plánujeme na příštích 14 dní,
+tak má v hlavě, co tam fakt bude dělat.
+A tester mu dá notičky,
+co tam on bude testovat přibližně
+a co chce, aby ho testoval on. Takže
+fakt dostane jako to do list věcí, to jsou
+testy, které máš udělat ty
+a až mi to budeš ukazovat,
+tak co jsi zautomatizoval z toho.
+Já mu rozhodně nebudu říkat, jak je má
+psat unit testy, ale jako většina
+z toho má být zautomatizovaná, když to neautomatizoval
+z nějakého důvodu, tak to testoval.
+A to jsou věci,
+které já už nebudu testovat znova,
+a druhý ten point je show me,
+což znamená, po nějaké době,
+rozumná doba je týden, že jo,
+má to ten developer na developené, jako velká věc,
+tak mi to ukáže.
+Tam
+po nějaké době už neprocházíme ty věci,
+co testoval. Pokud nemám
+problém s nějakým tím developerem, tak já věřím,
+že on to fakt jako prošel, že jo, tak jsme dospěli lidi.
+Ale
+on mi vyspělil, udělal jsem tam takovou změnu,
+tohle jsem vylepšil, a proto
+i netechnické kváčko,
+což často ty kváčka v dnešní době ještě pořád
+netechnické jsou, je to možnost se jít podělat do kódu.
+A prostě ukáž mi, jak jsi tady by řešil tohle,
+proved mě tím,
+a perfektně si to připraví ten testing.
+A to je ten bod, když tady
+ještě najdem problém, tak jsme mu předešli.
+Já tady třeba nereportuju žádnou chybu,
+prostě mu to vrátím, tomu developerovi.
+On ještě nezačal nic dalšího,
+on si to opraví,
+pak mi to dá znova na show me a pak si to přebenu.
+Takže já mám tu perfektní znalost
+po tom, co musím otestovat, co už otestoval
+vývojář. A to jsou ty dvě
+první věci, co zavést jako za mě na každém
+projektu z testování, jsou tady tyhle
+ty dva pointy a potom se to může
+dál rozvíjet od toho.
+Ty jsi zmiňoval
+předtím v tom projektu,
+kde už všechno fungovalo, že stejně bys tam nějaký bug našel.
+Jak funguje dneska,
+jak pracujete s metrikou toho, že
+jako v jednu chvíli si řeknete a dost,
+prostě jako už je to projekt,
+který má dostatečnou kvalitu
+a už tam ty bugy
+nehledáme, protože pak ten náklad
+na další bug může být zásadnější.
+Pracujete s tímhle nějakým
+rejšiem tím, že teď
+už je to dostatečně kvalitní produkt,
+takže přestáváme ty bugy
+hledat, nebo takhle, jak bych to
+nazval.
+Jakože je otestovaný dan.
+No, no, jakože vlastně
+narazil jsem na to v myšlenkách,
+jak jsi mluvil o tom, že vlastně i ten
+pohodovej projekt, který tě přestal
+bavit, protože už vlastně všechno fungovalo,
+tak stejně, kdyby jsi chtěl, tak tam nějaký bug najdeš.
+Tak vlastně přemýšlím,
+jestli jsem to už nechtěl.
+No, když se ten
+test zamyslí nad tím, teď už je
+vlastně ten produkt natolik kvalitní,
+že vlastně ano, vždycky bych tam něco našel,
+ale už to vlastně pro ten software může být špatně,
+třeba jako v nějakém třeba, nevím,
+jako business case, jako bylo by to drahý
+tam hledat něco dalšího a pomalinko
+zase zlepšit ten produkt, ale už to třeba nemusí
+být zásadní pro ten business, jo.
+Nevím, jestli jsem srozumit. Jo, chápu.
+Ale to je asi základní princip, že veškerého
+věc, kterou v testingu děláme, je
+risk-based. Takže já musím
+chápat na to,
+chápat to, jak mám pokryté rizika
+na tom projektu a
+ty rizika jsou
+u nové feature, když ji budu vyvíjet,
+tak si už to vím dopředu, prostě.
+Co potenciálně se stane, když tady bude
+chyba, tady bude chyba, už si člověk může
+namenovat, jaký typ chyby, prostě.
+Tak to rozhled, to a pičko nepojede.
+No dobré, tak to se nám nemůže stát, že jo.
+Ale to, že tam nebudou, nebudou
+chodit validace,
+tak si můžeme někdy i dopředu
+říct, prostě jsme třeba ve fázi projektu,
+typicky na začátku, nebo u nějakých
+předělávek, prostě teď to neřešíme,
+že když tam dám input, tak ten systém
+nespadne, ale že mi neřekne,
+že jsi tam dal číslo
+a čekám písmeno, nebo něco naopak.
+Takže je to prostě dopředu vědomé
+rozhodnutí o tom, co znamená
+jako dostatečné testování,
+což by si člověk měl udělat na začátku
+a co už potom v průběhu toho projektu
+si vysvětlí prostě takové, nebo
+vyvinese k rozhodovací proces,
+co u tohohle budeme testovat, co u toho budeme
+automatizovat a ta automatizace
+do tohohle vstupuje naprosto zásadně na tom projektu.
+Protože druhá největší část
+rizik jsou regresní bugy
+a pokud na tom projektu automatizace
+není, tak vlastně nikdy nemůže říct dost,
+protože furt jako pičko
+bude opakovat ty testy, ale pokud má
+rozumné pokrytí,
+a já vždycky říkám, a to manažer strašně
+nesnáší, jakože spousta metriky
+je subjektivních,
+všechno, přece každé kapičko mám
+objektivní a říkám, no dobré, tak jako
+objektivní, poslední příklad
+bylo test coverage, to pořád
+jako každý manažer chce test coverage.
+A to pořád ještě jede, jo?
+Uvazné?
+Jo, nebo jako
+code coverage, nebo jako test coverage.
+Ano, code coverage, jako test coverage, jak máme pokryté
+to a
+to jde strašně fejknout, že jo, prostě.
+No právě, proto já se divím, že ta metrika
+je velmi pofidelní. No, ale ona je jako
+dobrá, když ji používáš
+jako doplňkovou, ale za mě
+trust coverage je mnohem zajímavější metrika.
+Prostě QAčko má rozbitý
+rozbitý software
+do nějakých oblastí, a jestli používáte
+Azure DevOps nebo Jiru, tak Azure DevOps
+má array, že jo, a teďka
+pro ty
+array si vemu, jak tomu
+věřím. Tady tomuhle normálně prostě
+jako QAčko se zhodneme,
+tady tomuhle věříme na 90%.
+Vypíšeme si proč, jasně
+automatizace je jeden do těch vstupů,
+potom jak je nějaká historie, jak často se to
+rozbíjelo,
+jak stabilní to je, jestli tam je třeba
+nějaký performance, nevím, v momentě, kdy se dostaneme
+na 90% subjektivně, tak si říkám, dobře,
+tohle je už ta oblast, kterou
+prostě v regresii jenom polechtám,
+možná si tam zkusím nějaký základní end-to-end,
+projdou mi testy, já nemusím se na to dímat.
+Ale potom je třeba oblast, kde si prostě
+pocitově řekneme 70%, no takové oblasti
+často code coverage vyjde
+95%. A teď ti říkám, proč to chceš?
+No, protože sice tohle je pokryté,
+ale teď to jako padá, teď ti
+zákazníci tam reportujou ty chyby.
+Teď se nám to jako sem tam někdy sekne
+ten test, jo, takže tyhle ty subjektivní,
+a člověk se ten systém naučí
+chápat.
+A
+potom je ta další
+k tomu tvému pointu, kde je dost. Člověk
+se dostane do pointu,
+kdy vlastně už otestoval
+všechny rozumné věci, co ho napadly,
+a ty věci, kterému někdo
+řekl, ať netestuje, chápeme ty
+rizika, proč tohle to netestovat,
+což je by the way super věc, když děláme
+nějaký základní rozbití,
+co budu na té věci testovat,
+tak si vypsat, co nebudu testovat,
+a to někomu dát
+na zkválení, protože to, že to nebudu
+testovat, já předpokládám, že automatické, ale
+někdo třeba může říct,
+ale tohle je jako business critical.
+No tak jsme vlastně v tom pointu,
+tohle všechno jsem udělal,
+našel jsem tam chyby, při tom dalším
+retestu už tam žádné jako zásadní chyby
+nebyly, a zase máme ten pocit,
+že už to stačí.
+A tomu pocitu člověk ten intuici docela věří,
+když má nějaké pochybnosti, tak to odprezentovat
+druhému kváčku, nebo produkt ownerovi,
+ale ještě něco bys tam zkusil.
+No, takže je to strašně subjektivní
+a toho se fakt jako nebát.
+Mně ještě jde hlavou ty, jak jsi říkal,
+že je druh chyby,
+kterou vlastně nelze
+nemít, nejde se jí vyhnout.
+Dokázal bys dát příklad, kterou
+chybu jste našli, nebo který bug, a zjistili jste,
+že i s fungujícíma
+procesama, i s kváčkem
+zainteresovaným od prvního dne,
+i prostě s osvíceným analytikem,
+stejně se tam taková chyba objevila.
+Nějaký příklad.
+Je to třeba něco spojeného, já nevím, s třetí stranou,
+nebo s legislativou, nebo něco,
+nevím, nedokáže se to právě představit.
+Tak jsem si říkal, jestli bys měl aspoň nějaký příklad takovýhle chyby.
+Hele, takové jako,
+které nešlo předejít,
+a byl to problém toho requirementu,
+tak to jsme tak jako
+v jedné nejmenované firmě.
+Dobře.
+To byla ještě doba, kdy se dělalo UAT prezenční,
+což byl strašně zajímavý koncept.
+To, jak se procestoval, to bylo super,
+takový jako jeden na dva týdny všichni někde.
+Když to bylo zajímavé,
+tak to bylo zajímavé. Tentokrát to byl nějaký Frankfurt
+nebo něco, tak jako nic moc.
+Ale teďka tam nahodili spoustu těch
+zákazníků do té místnosti.
+A teďka tak jako jsme jim dali ty testkejzy
+připravené. Všichni začali
+testovat, super, funguje.
+A pak tam seděl jeden pán,
+a ten byl takový zmatený.
+Ale nepřihlásil se, tak jsme dali druhý testkejs.
+A se to všichni projeli
+a banočka, ale to je jako,
+u nás to tak nefunguje.
+A říká, jak to u vás nefunguje?
+Tak tam jsou prostě francouzi, tím to jede,
+tady tohle, tady, už si nepamatuji, co to byl
+druhý národ, tady to jede. A říká, no jo?
+Ale my to v Brazílii
+děláme jinak.
+Vždyť se všichni, kromě nás,
+včetně nás, ale i tí zákazníci.
+Jaká Brazílie?
+A říká, my,
+ale v requirementu žádná Brazílie nebyla,
+tak máme tady, jako jsou rozdíly
+mezi Jižní Evropou a tak,
+ale Brazílie, tam prostě ta pobočka není.
+A teďka jsem viděl toho hlavního
+analytika, jak tam máš.
+Jsi zapomněný na Brazílii.
+A my jsme se jich třikrát ptali.
+Fakt ty regiony, takže jste jenom severní,
+Amerika tady, nejdete, bo jsme věděli, že tam jsou jiné zákony,
+že jo, na to. Ne, ne, tam se tam,
+to se tam nebude používat.
+Tak to potom, jako tomuhle
+nepředejdeš. Jo, no tak to je takovej
+bug typu, jako zapomněli jsme kevěna doma,
+že jo.
+Ale pak jsou takové ty věci, které si prostě necháváš
+typicky nějaké end-to-end flow,
+které prostě nezautomatizuješ
+a jsou to věci, až když jsi prostě
+schopný celou tu komponentu,
+tak prostě tohle, toto najdeš později.
+S tím si OK. Ale je to fakt málo.
+Mě s tím úplně napadá,
+taky jsem přemešen nad příkladama
+a hned mě napadlo samozřejmě i jájko,
+že jo, když by nám byl výstupem
+něco, co vymyslí prostě jako LLM-ko,
+tak to může být dost zbordel.
+Jakoby to máš nějaký takovýhle příklad,
+protože tam jako samozřejmě vždycky
+to dokážeš nějak zvohnout,
+ale tam to protesting může být docela peklo, ne?
+Jsem pořád hrozný skeptik z AI.
+Jak jsem ještě jezdíl na konference,
+tak AI je jako furt topic
+a furt je to strašně jako high level.
+A když jsi byl v tím,
+víš, jak poznáš rozdíl mezi AI a machine learningem?
+Když je to v Pythonu,
+tak je to machine learning.
+Když je to v PowerPointu, tak je to AI.
+A jako,
+mě by to i lákalo si to jako vyskoušet,
+ale teďka,
+tam, kde teďka jsem v tietu,
+takže jako AI vyskoušíme
+a že to bude super.
+Říkám, tak jo, tak první věc, co by to mohlo
+jako dělat je,
+že by jsme vzali jako requirementy,
+které jsou ve spoustě Wordu,
+Excelu a tak, které si protiřečí.
+To by jsme tam nahráli, natrénovali ten model
+a že by nám odpovídal.
+A pak se vlastně ukázalo, že to není úplně tak jednoduché
+tohle to tak udělat.
+A potom jako na těch konferenci
+vždycky, no a jak teda testujete výstup
+toho jako AI? No my máme model,
+který jako na základě dát nám odpovídá,
+takhle to testujeme, no a tak ono se to má učit,
+že jo? A stejně to nakonec stoupí k tomu, že pak někdo
+řekne tu větu, no to uděláme druhé
+AI, které bude testovat to první.
+A já fakt jako stínám zkušenosti
+a asi je to jako největší slabina,
+co by se člověk jako měl dneska naučit.
+Ale když člověk skončí na tom
+projektu, který vlastně to teďka
+ještě úplně nějak extrémně nepotřebuje,
+a jak někdy vidí ty výsledky, jak si prostě to vymýšlí,
+jak tomu dáš prostě jednoduchou věc
+a ono ti to tam vymyslí, že bude testovat
+něco úplně jiného.
+A pak s tím boje, že ti to ani CSVčku pořádně neumí
+vygenerovat a dělá to tam chyby.
+Já jsem tomhle jako skeptik.
+Ale možná se mi to někdy jako vrátí
+jako facka, jako a teď ti to ujelo,
+a už tě AI nahradí,
+ale nevím,
+to se nesmím.
+Ale Vítek Hubený, náš host tady,
+tak jsme se o tom trošku bavili a on vlastně říkal
+takovou tezi, že vlastně tím, jak si právě
+AI vymýšlí, tak testing je vlastně
+super nástroj na to,
+jak jako umravnit AI,
+že těma testama začneš trošku
+fajntunovat ty výsledky tak,
+aby to vlastně
+nedělalo kraveny.
+Dneska tomu říkáme trošku jako semantická
+vrstva někde, kde píšeš ty pravidla hry,
+aby to méně halucinovalo.
+A tam mám pocit, že prostě ne, že by jsme
+jako AIkem automatizovali testování,
+ale naopak testingem
+umravňovali to AI. To mně přijde, že dává
+smysl, protože tím
+vlastně omezíš to, že si vymýšlí kraveny.
+Samozřejmě všichni to žijeme.
+A vypadí se to?
+To je otázka, jak ten produkt vypadá.
+Ale já si dovedu představit,
+že vlastně, když máš
+dobře popis, třeba u nás,
+teďka ve Sporce, že tím hodně žijeme,
+že uděláme vrstvu někde v Jamlu,
+jako vlastně naddopána.
+Vytáhnete pravítka a jdete v Jamlu.
+Přesně, přesně.
+A tam napíšeme ty pravidla,
+co znamená aktivní klient.
+Protože samozřejmě v bance takhle velký
+řešíš to, že aktivní klient,
+definici aktivního klienta máš na pěti místech.
+Tak prostě dáš jednu a hotovo
+a bys tomu měl pomoct.
+Ale tak je to možná spíš taková
+otázka k pivu.
+Tak my už jsme se toho samozřejmě dotkli,
+tohle diskuzí o AI a různých pomocných
+nástrojích, ale pojďme možná
+Vojto zpátky úplně k tomu
+gro toho kvalitáře.
+To je hezký slovo, to mám hrozně rád,
+kvalitář, to je přesně takový old school.
+To už předtím, jak řekl Vojta to jiný slovo,
+tak jsem měl úplně v hlavě proletáře.
+Proletář. Kvalitáři všech zemí.
+Zkýte se.
+Ano, testujte.
+Jaký jsou teda ty core nástroje
+teďka, když v dnešní době, to znamená
+na konci roku 2025,
+přijde někdo do QA
+a rozlídne se, říká tak teda
+kucí, co máte tady za nástroji?
+Přijde vždycky, když mi někdo se ptá
+na nástroje, tak si vzpomíná takový ten obrázek,
+jak je tam ten šroubek
+na té desce a nad tím to kladivo.
+A teď jako člověk uvažuje,
+jako co je na tom blbé, že jo, protože ty verze
+jsou dvě, že jo. Tak buď má
+mít šroubovák, anebo je
+kladivo OK a má tam být hřebík.
+A já vždycky říkám, že když jsou nástroje,
+tak si máme uvědomit, co je ten cíl, co s tím chceme
+dělat.
+A lidi se
+dneska strašně fokusují na ty nástroje.
+Jako, že já umím dělat
+takové amakové technologii,
+ale vlastně nevím, jak ji
+na tom projektu použít, nebo ji používám
+špatně. A já bych
+to spíš vzal, co jsou ty
+základní zodpovědnosti toho kváčka
+a co musí dělat. A první je teda
+ta analýza, to být to schopný rozbít.
+A tam je to o vizualizaci.
+A teď je otázka, co komu funguje.
+Já jsem byl strašně dlouho při zničce Mindmap,
+protože nic lepšího
+nebylo. A pak přišel COVID a přišel
+Miro.
+A
+vlastně
+být schopný si
+třeba komplexní requirement rozkreslit,
+rozbít na kousky, zanalizovat,
+doptat se. Takže nástroje
+vizualizační. Ať už je to,
+teda Mindmapa je dost omezená.
+V dnešní době je takže nějaká Miro,
+Figma, Gem a podobně.
+Tak to jsou ty první nástroje. Pak samozřejmě
+jako Excel, že jo?
+A bez toho se člověk
+úplně neobejde. No a potom je to,
+co potřebuju k tomu vlastnímu
+testování. Tam bych to rozdělal na
+exploratory. Někdo by řekl
+manuál, ale já to neříkám. Takže
+tam, kde to dělá člověk
+a je nějakým benefitem. A tam, kde to
+má dělat stroj. A tam, kde
+člověk, tak potřebuje něco na přípravu
+dát. Takže dneska se prostě
+ani juniorní testr bez rozumné
+znalosti databáze neubejde.
+Takže to by byl
+první nástroj. Potom potřebuji nějak
+testovat API. Takže nástroj
+jako postman, nicomě a podobně
+nějaký si vybrat. A umět
+ho rozumně používat
+při té exploraci a vědět hlavně
+proč, k čemu. Já jsem se setkal
+s názorem, že jako, ale k tomu
+není UI. Mně řekl jeden testr
+a říkám, no není, no a co?
+No ale nějaké API, to
+jako pomalu ani neví,
+co to je. Takže tohle
+je prostě nutnost.
+A
+a pak už to
+souvisí s těma technologiema, co potřebuji.
+Prostě v dnešní době,
+třeba teďka na tom posledním projektu, všechno jede
+v Azure a všechno je tam
+k dispozici. A to tak ulehčuje
+jako třeba App Insights
+se naučit používat pro káčka. Všechno to tam
+vidím, pak se developera doptám a prostě
+dneska je to o tolik jednodušší,
+že prostě tu konkrétní architekturu pochopit,
+doptat se, nechat si to od vyvářu, vysmětlit
+a naučit se tituly používat.
+No a pak je automatizace
+a tam v dnešní době
+jako
+každá ta firma buď už nějaký
+framework má, nebo do něho musí
+investovat. A já jsem
+zastáncem toho, že mají by ty role rozdělené,
+takže mám člověka, který je
+zaměřený na automation a tady
+umí výborně programovat. A to fakt jako
+dobře. A ten si ten
+nástroj přizpůsobí a používá
+prostě techniku, která už buď v té firmě je,
+takže my třeba
+ve Vendavu se používalo selenium,
+tady u nás
+teďka v tietu se k tomu přidal robot framework,
+ať už to má svoje výhody i nevýhody
+a podobně. A
+musí ten test napsat
+prostě efektivně a naučit se tady v tomhle.
+A zase to záleží,
+kde je. Ale zrovna
+nějaké nástroje typu low-code
+a tak. Jako já jsem
+ještě nikdy neviděl, že by to fungovalo
+v tom, že by to pro technického
+člověka bylo výhoda.
+Takový přínos. Jasně pro netechnického
+to může být obrovská výhoda, ale ti většinou
+vůbec na ten testing nemají čas.
+A když to jsou testři, kteří
+si s tím nějak pomáhají, tak to z toho vznikne
+nějaký strašný myšmaš, který
+v nějakém momentě jede a od 14 dní
+později nejede. A upravovat
+nějaký low-code.
+Já si myslím, že to je celkově
+utopie BDD. Jako, že
+nějací biznis lidí budou psát
+v nějakém abstraktním jazyku
+nějaký test, já jsem to nikdy neviděl.
+A jestli, že to nedělají tíhle lidi
+a může to dělat někdo, kdo umí programovat,
+tak to nepotřebuje.
+A jak vidíš tu dobu, kdy jsme my vlastně
+spolupracovali, kde jenom pro kontext,
+pro posluchače, já jsem vlastně v té době, kdy tady
+Vojta mluvil o Seleniu, tak já jsem ve Vendavu
+udělal vlastně automation framework postavený
+na Seleniu. Bylo to v C-Sharpu,
+bylo to v dotnetu samozřejmě.
+A celý to bylo o tom, že vlastně tam byla
+řekněme domain-specific language
+na úrovni
+toho jazyka.
+V podstatě to byla knihovna, která měla vlastně
+nějakou specifický metody,
+které byly poplatné tomu, co jsi testoval.
+Takže pokud tam bylo, nevím, generoval jsi pricelisty,
+tak jsi měl na pricelistu generate
+a takový věci. Takže testeři pak už
+používali jazyk, který byl řekněme
+doménový. Nebylo o tom,
+že by si měl get element by ID
+a na něm udělat prostě double click,
+ale už si měl go to order detail
+a ono to šlo na order detail.
+Je něco takovýho,
+vlastně dělali jsme to dobře,
+nebo je to třeba věc,
+která už se teďka nepoužívá,
+nebo myslíš si třeba, že by měly mít
+u nějakých větších produktů,
+jako platformu,
+ty testři, která už je víc
+utažená na to,
+co testují, na tu doménovou
+specifičnost toho problému.
+Já si myslím, že to bylo poplatné té době trochu.
+Kdy vlastně většina
+testů byly klikači,
+kteří, ne, to jsem řekl blbě,
+to je hrozné slovo klikač,
+ale že se zaměřovali na ten business,
+ale neměli dostatečné technické znalosti.
+A pak ta možnost napsat ten test
+v tom abstraktním jazyce rychle,
+podle ještě ten benefit,
+že to byl produkt, který se potom
+mírně kastomizoval
+pro zákazníky, takže ta template
+byla docela rychle použitelná,
+byla docela výhoda
+pro tohle to tok.
+Takže pokud jsi v té situaci, kde tu
+abstrakci dokážeš
+napsat, dává ti smysl
+a ti lidi, kteří znají ten
+business, budou psát ty testy, nebo
+máš třeba výborné
+exploratory testry, kteří
+ale je neprogramují.
+Možná jo, ale já si myslím, že
+mnohem lepší cesta je to rozdělit a potom
+jasně, tu abstrakci tam musíš mít. Já myslím, že
+dneska napsat automatický test, kde bys
+tuhle abstrakci v kodu neměla, akorát jsou to
+metody, akorát je poskládáš
+a nemusí tam být tehran, my jsme to měli v Excelu,
+že jo, tu abstrakci,
+ale i to prostě, ten dnešní
+give and win den, jako
+možná to pro někoho je výhoda, já jsem
+to jako nikdy neviděl fungovat
+a když máš technické lidi, tak si to poskládají v tom
+kodu. Takže ta Gorkin
+jako syntax, to pro tebe. Já nejsem fandou
+tohohle, ne jako technologie,
+ale že nevidím to uplatnění v té
+praxi a ten technický člověk
+to prostě nepotřebuje.
+Když se takhle
+bavíme o tom dosahu těch QAček,
+jsou tady další, vlastně my celou dobu
+prostě máme...
+Já mám pocit, že jsme pořád jenom na tom písečku
+těch jako functional requirements
+a pořád testovat, jestli je to business logika,
+že když se stane tohle, že se
+na dalším screenu má objevit tohle, ale pak jsou další
+dimenze toho,
+co vlastně hlídám v kvalitě, to znamená
+třeba performance, můžu tam mít
+věci, které jsou legal based,
+to znamená různý jako lokální prostě legislativy,
+v podstatě cokoliv,
+co s tím může souviset, je tam
+security. Jak je to
+u fullstackovosti, řekněme
+u QAček, protože
+dokážu si představit, že mám velmi
+výbornýho testera, který je
+zná to, umí automatizovat, ale
+i přeci stejně jako u vývojáře končí
+někde ta znalost, tak u testera
+taky musí končit znalost a třeba
+pro security si šahám na někoho
+specifickýho, nějakého oborce, ne?
+No já si myslím, že právě to je jako
+úplně extrém,
+že žádný fullstack není.
+Že to končí,
+řekněme, základním
+testováním v každé z těch oblastí.
+Třeba jakoby na performance,
+na security a tak, tak musíme
+mít nějakou observabilitu ve stylu, že
+když to testuji explorativně
+a je to pomalé, tak to
+prostě objektivně vidím.
+Testuju na větších datech, jasné,
+a prostě vidíš to. Máš na to nějaké metriky
+nastavené,
+vyskočí ti to a tak,
+ale potom stejně udělat pořádný performance
+testing, tak na to potřebuješ performance
+testera, což může být někdy,
+někdo v automation se v tom vyzná, ale ty tooly,
+které používá, jsou podobné, ale jsou jiné.
+Ano.
+Ano, hlavně se na to dívá úplně
+jinak, hledá
+prostě chyby a hlavně v tom expert,
+v tomhletom. A security testing
+budíš úplně příkladem a tam hlavně
+mi přijde, že její benefit je, že to nechceš mít
+jako ve firmě, ty to chceš outsourcovat
+někomu, jasně, tak základní
+security si uděláš, používáš nějakou
+prostě analýzu kodu, nějaký snake, nebo jak se
+to jmenuje a podobně, ale potom to dáš
+nějakému expertu, který nejdřív se
+do toho beznalostní, takže
+aniž by s tebou spolupracoval, pokusí
+dostat. A potom je
+s tebou ve firmě, ty mu řekneš cokoliv, co
+chce a on ti prostě dělá analýzu
+nějakého, řekněme, interního útoku
+nebo seznalosti a hledá.
+A ten v tom musí být jo expert, protože
+v dnešní době
+jako je to asi největší riziko,
+že
+prostě tam bude nějaký security leak
+a ti lidi se specializují
+a testují jenom tenhle ten aspekt na
+stovkách firm, takže mají
+perfektní znalost a i
+jako finančně tomu by nebylo efektivní.
+Uděláš to hůř, zahrnou mnohem
+větší prachy, než externě.
+Pak je otázka
+takového jako
+řekněme usability testing,
+user experience testing,
+tam zase základy by si směl udělat
+ty, a když máš třeba
+ve firmě nějakého UXáka,
+tak s ním už se spolupracuješ jako
+kojáčko, ve stylu prostě podívej se na to
+zadání, pohlídej,
+dám udělení na tam nějaký user flows,
+které ty potom používáš.
+Super je se třeba přidat na testovací
+sešnu se zákazníkem, kdy
+by se měly testovat requirementy, třeba to bylo
+ve Vendavu úplně perfektní se naučit,
+prostě přicházela větší feature,
+tak se to fakt ve firmě nakreslilo, ve stylu
+klikající o prototypu,
+a šlo se k zákazníkovi.
+A teď zákazník prostě testoval
+ten prototyp, dával na to feedback, a pak se šlo
+k zákazníkovi na konci, a teď jsi tam seděl
+jako ten tester, za tím průhledným zrcadlem
+a ten zákazník
+klikal, a teď klikl blbě, a udělal něco
+a říkal, ne, to musíš...
+A nemohl jsem mu nic říct.
+Takže tyhle ty metody,
+některé části si můžeš udělat sám,
+ale řekněme, že ty expertní, jako je
+performance, security testing,
+je dobré outsourcovat.
+Ty jsi říkal, že už jsi vlastně v QA plnoletej,
+to znamená 18 let už se tomu věnuješ.
+Jak se
+za tu dobu ta role změnila?
+My jsme třeba došli k tomu,
+že to, co jsme dělali spolu, bylo do jistý míry po platný době.
+Vidíš nějaký jiný paterny,
+který se za tu dobu změnili?
+Myslím si,
+že se to, tam, kde to funguje,
+tak se to hodně posunulo doleva právě.
+Že to je to, když jsme nastupovali,
+tak bylo hodně projektů,
+kde se k tomu ten tester dostal pozdě,
+a zároveň bylo špatné
+pochopení testingu ve stylu, jediné, co máš
+dělat, je hledat chyby na konci.
+A i když to bylo třeba agile,
+že se to tvářilo agile, a třeba se jelo
+v těch iteracích, tak fakt ten tester
+třeba nebyl na groomingu.
+Ten tester fakt jako testoval na konci
+toho sprintu třeba, takže to byly takové malé
+waterfoly. A to je asi ta největší
+změna, jako
+myšlenková, která vede ke kvalitnějšímu
+software, a druhá je, že to je mnohem
+techničtější. A to se po těch
+kváčkách dneska chce mnohem víc.
+A upřímně,
+jako i my tam někdy chybí znalosti,
+protože já třeba se zaměřuju,
+dělám častečně test management
+a k tomu testuju, ale když to máš jenom
+na půlvazku, tak je to hodně business testování.
+Ale to, co se dneska chce
+po kváčkách, jak jsem říkal, prostě
+automaticky API, databáze,
+prostě procházení logů, různý monitoring,
+připravit si sám data, tak to kdyžsi
+vůbec nebylo.
+Takže teďka, když highroješ, tak se zaměřuješ už na jiný skillset,
+než třeba před 15 lety, řekněme.
+Já zase říkám,
+že se vracíme na začátek,
+ty soft skills a tak,
+že ty technické věci se dneska
+dají strašně rychle naučit.
+A pořád je to jednodušší a jednodušší se to naučit.
+Budíš AI v tomhle,
+jako dokáže perfektně pomoct,
+jako vysvětli mi technologii, jak bys udělal tohle
+perfektní.
+Takže já se spíš zaměřuju na ten testerský mindset
+a na to, jak ten člověk
+uvažuje,
+jestli dokáže věc rozebrat,
+zanalizovat, pouvažovat,
+co tam by mohlo jít blbě
+a takhle.
+Protože ty technické se dají naučit,
+ten mindset se,
+že se přeučit nedá.
+A vlastně to mi potvrdilo i Čekita,
+zde jsme vdělali třiměsíční kurz
+intenzivní. Prostě ženy,
+které vůbec v IT nebyly,
+se to byly schopny naučit.
+Dobře, dvě třetiny
+se to byly rozumně schopny naučit,
+ale ten rozdíl v tom,
+mezi ty, které si myslím, že se v té praxi uplatní,
+byl právě ten mindset,
+který je jako třeba účetní úplně
+výborné. Protože
+přece jenom tam to furt bylo o kontrole,
+a hledání, že to je správně.
+Jako bývalé účetní.
+Takže je to ten mindset a zaměřit se
+na tohle, na schopnost se učit,
+schopnost analýzy. A já říkám,
+že je na to výborná zkuševka. V dnešní době
+to se prostě ukáže. A nebát se
+té zkuševně, že spousta firm to vůbec nepoužívá.
+A zaměřit se
+na to, aby za ty tři měsíce,
+dneska se to dá predloužit nějak,
+aby se dokázala rozhodnout,
+poznáš u testera tím přístupem
+v práci.
+Když vystupeš jako mentor,
+trainer, tak
+co vlastně teda předáváš? Předáváš tohle?
+Poznejte sami sebe, abyste si řekli,
+že nebo nebudete dobrý testři,
+nebo budete mít minimálně potenciál.
+Já buď jsem dělal
+lektora ve stylu, že jsme měli fakt dlouhodobý
+kurz a učilo nás to víc.
+A fakt jsme si to dobře rozdělili ve stylu,
+tak první je jako úvod do softwaru.
+Co to vůbec je? Právě vyspětlit, že řešíme
+nějaký problém. Pak tam bylo
+agile, pak do toho se zapojil ten testing,
+jaké jsou technologie, pak tam byly i nějaké ty
+hard skills, databázy jsme učili a tak.
+Takže takovouhle celistvost.
+A nebo jsem dělával mentoring,
+že
+jsem si nechal vysvětlit,
+jak ten proces funguje,
+co jsou ty největší bolístky a co by byly
+návrhy na změny, což jsme se bavili
+právě o tom show me, o root cause
+analýze a tak. Protože ty principy
+jsou hodně high level. K jakým
+akcím to povede? Už je firma
+od firmy. Docela často.
+Ale zavedení těchto praktik
+ukáže problémy a potom je o tom, jestli
+ty problémy chce ta firma řešit.
+Součástí tvý, řekněme,
+mentoring práce je i vystupování na
+konferencích. Ty jsi byl, a to už je nějaká
+doba, ne? Na Eurostar konferenc. To bylo ještě
+před covidem? To bylo ještě před covidem.
+Před covidem. O čem ty jsi tam mluvil?
+Nebo o čem obecně mluvíš na konferencích?
+Je to právě o tomhle, co jsme se bavili?
+O tom mindsetu? Nebo je to
+hodně technický, operativá?
+Jestli asi ta černá ovce, která
+nemluví o AI a nemluví o
+automatizaci. Tak to nemá šanci už, ale
+to už někam nepozorují.
+Tak to je, proč jsi dlouho nebyl na žádné konferenci.
+Ano, proto jsi byl na poslední před covidem.
+Ale jo, jako hodně
+o právě předcházení
+bugům, o procesu.
+Na Eurostar jsem mluvil, myslím, o metrikách zrovna.
+Jaké metriky dávají smysl, jaké
+smysl nedávají. A hlavně
+proč věci měřit. Takže
+takovéhle ty procesní a softskillové
+věci.
+Ale na konferenci už se dlouho nebylo, protože
+na to moc není čas.
+A připravit přednášku 45
+minutovou je za mě tři až pět dní práce.
+No jasně.
+Takže to moc už
+teďka nedělám.
+Ale teďka jsem vlastně mě překecal,
+minulý rok mě překecali
+si vzít na starostí QA stage
+na Tech Meetup konferenci v Ostravě.
+A to bylo takové ve stylu,
+my si myslíme, že by na
+dev konferenci měla být testing
+stage.
+A říkám, to je dobrý nápad.
+No nechtěl bys si to vzít na starost,
+že bys to zorganizoval. A já jsem myslel,
+že to máme speakery a tak, a jenom to uvedeš.
+Tak jsem přišel
+a nebyl tam žádný speaker.
+Takže to bylo o tom se hrát speakery.
+Což byla strašná sranda.
+Nakonec se to fakt povedlo.
+Ta stage měla ohlas a letos bude větší.
+A letos jsem si říkal,
+tak jak já jsem hodně jezdil po těch konferencich jako speaker,
+tak jsem si udělal
+jako spoustu přátel
+v zajímavých personách.
+Tak se mi podařilo do Ostravy dostat
+dost zajímavé speakery,
+jako Paul Gerarda
+a Michaela a podobně.
+Takže ta konference je teďka někdy.
+Vlastně a data myslím 4.11.
+Hezky pěkně.
+Takže to je z toho druhovou pohledu postavit ten program.
+A bude to asi zajímavé.
+Takže to na naší,
+odpověď na naši otázku, kterou konference
+by si doporučil, to je jasný.
+To znamená na začátku listopadu v Ostravě.
+V Ostravě Tech Meetup konference.
+Výborně, která bude mít svoji
+speciální
+special QA stage.
+Což je ale dobrý, čověče. To jsem zase
+na tolika technických konferencích vlastně
+neviděl, že by byla vyloženě special
+QA stage. To mě přijde docela jako osvícený.
+Oni tam ti jde velopřímo, co nechodí.
+Ono díky tomu se prodá
+spoustu lístků pro testry.
+Ale víš, co bylo moje nejhorší noční můra
+na konferenci? To mě tady někdo
+z Bendava tehda, nebo ještě z Jetminds
+překvěcal, ať přijedu
+na konferenci Jirka Penzeš, nebo tak nějak
+jsem říkal. No, ať přijedu na jejich konferenci
+a udělám přednášku o testingu.
+A my neřešíš, že to je development konference.
+Ať jsem přišel do toho roomu, tam bylo
+dvěstě lidí a všechno byly developři.
+A já jsem si připravil téma, jak donutit
+developry na testání.
+To je super.
+Jsem docela stráhal, ale zase to docela
+mohlo být dobrý a konec.
+Tak to je to získvělé. Hele, prosím tě, ještě doporučíš
+nějaký zajímavý blogy, podcasty,
+něco, kde posluchači, který třeba nás poslouchají,
+říkají si, jo, tohle je zajímavý,
+vlastně kariérní cesta,
+zajímavá možnost,
+jak se vzdělávat, je tam
+nějaký blog, podcast. Já mám hrozně
+špatnou paměť, ale pro mě asi největší
+persona v testingu je James Buck,
+takže jeho blog. James Buck?
+Buck. To je...
+Píše se to Buck.
+Jo, Bacha. To by bylo dobré,
+kdyby se psal Buck. Kdyby to byl Buck, tak je to
+geniální. A to je umělecký jméno,
+co jsem myslel. To je právě cesta
+exploratory testingu a takové to, jako
+že nic manuál není a podobně.
+A zároveň jít hodně dohlouký kritické myšlení,
+takže to je určitě ten směr, který doporučuju
+a mají celou jako školu rapid testingu
+a podobně. A to je asi ten směr,
+co mě ovlivnil nejvíc
+a jako nasměroval
+mě v té kariére tím směrem
+k Rymdu. No a teďka
+vytáhneme na závěr křišťálovou kouli
+Vojty Barty a podíváme se,
+kam bude
+QA
+jakým směrem se bude
+ubírat. Kde to
+vidíš ty za těch třeba deset
+dalších let?
+No to je...
+AI nebude, to už víme.
+Ne, AI to je martvý.
+Já si myslím, že to bude techničtější a techničtější.
+To je
+první aspekt.
+A zároveň ti lidi, kteří budou experti
+v té business doméně
+a v tom jako hlubokém
+exploratory testování, budou vzácnější
+a vzácnější a budou mít výhodu, protože je
+furt bude na komplexních projektech
+potřeba. A zároveň
+já teda pevně doufám,
+že development a testing splinou jako v jedno.
+A že se to nebude rozdělovat
+na developer a tester.
+Ale že prostě to bude nutně součást
+toho vývoje. A furt tam budou lidi, kteří mají
+více testerský mindset,
+více developerský mindset.
+A takhle nějak se to sloučí.
+A
+já si myslím, já jako doufám, že AI
+tady bude, protože v testingu je strašně
+nudných věcí. Jako moje noční muda,
+jsou třeba test case, jo.
+Jako psát test case, ještě jako zpětně,
+dobré, tak mám to otestované, prošel jsem to
+exploratorovně, tak teď napíšu test case
+na regresní testování, které se mají
+zautomatizovat, nějaké high level. Protože stejně
+budou, ten kód je detail, tak to jo.
+Ale jako napsat detailní test case
+dopředu, tak to je moje noční muda. A furt to
+spoustu lidí chce, tak tam ta AI přece
+musí pomoct. Na přípravu dát,
+na všechny ty věci, kde vlastně ten
+lidský mozek není benefit.
+Lidský mozek, jako benefit
+uvažování, v analýze,
+v biznisu, ale furt je tam
+spousta jako věcí, kde ten
+stroj nám může
+hodně pomoct. A to bude ta změna, jako
+kde jsem já výhodou a jaké
+tooli k tomu použít. A kdo
+takovéhle tooli vymyslí, tak ten bude jako
+dobře zavodovou, si myslím.
+A začínají se ty první vlaštovky
+objevovat, bych řekl, ještě jsem to
+jako nikdy neskoušel.
+Ale to bude ta podle mě změna.
+No a ty osobně,
+jak to vidíš, zůstaneš u
+testingu nebo půjdeš cestou bratra do
+managementu a přelejvat Exceli zleva
+do prava? Tak uvažuji, kolik mám do důchodu, tyjo.
+Já to vždycky říkám, že to je to
+období, jako, jak se to říká,
+mládí někde do důchodu
+daleko. No. A
+já si myslím,
+že já osobně půjdu cestou test
+managementu a toho jako human
+testingu, který si myslím, že
+jako nikdy neumře.
+Bude důležitější a důležitější, ale bude
+ho míň a míň. Že to
+bude takovéhle specifické.
+Test automation mě to jako nikdy neláka.
+Ono to asi vychází z těch mých začátků.
+Jako vývojář, já si pamatuju, jak hrozně to bylo.
+A asi to ve mně způsobilo nějaký
+blok. Jako třeba strašně rád kód čtu.
+Jako pro mě každé testování
+začíná, že se podívám do půl requestu a říkám
+a proč měnil tohle a proč měnil tohle a co
+tu dělala a tak. Ale jako, že bych to
+měl psát, tak to ne. Takže tady
+touhle cestou
+managementu
+a hlubšího testování
+a tak.
+Super. Tak jo. Ale tak my ti strašně moc
+děkujeme, že jsi dorazil. Šťastnou
+cestu zpátky do Ostravy. No a
+zase za deset let plus
+se uvidíme, ať se daří.
+Si uvěříme tu tvoji predikci za deset let.
+Uvidíme. Taky díky. Mějte se.
+Čau.
+Vojta Barta
+řekl bych celoživotní
+kvalitář.
+Ano, ano.
+Prospechářský kvalitář. Já už to nebudu
+používat, jestli mě to tak rozbíjí, ale prostě
+já to slovo mám rád. Každopádně
+Vojta byl skvělej, což jsem samozřejmě věděl,
+protože prostě, když s tím člověkem
+strávíte tolik let a notabene
+několik velmi zajímavých služebek,
+tak prostě
+víte, že bude dobrý a že má co říct
+a rozhodně se v něm to
+ta láska ke kvalitě
+a k hlídání kvality nezapře.
+No rozhodně je brutálně vidět,
+jak to má Vojtžitý.
+Když se ptáš se ho na tu věc a prostě jde úplně
+jasně na komoru, prostě ví přesně,
+jaký na to má pohled, protože už to viděl
+mnohokrát. Já jsem měl dneska
+tu zkušenost, že jsem s ním po
+té dlouhé době seděl celý den
+v místnosti, jak se nás tady ubytoval.
+On měl ty kóly, pak jsem měl kóly já.
+Já jsem ho chvilku poslouchal, protože jsem
+předstíral, že mám zapnutý noise cancelling
+a furt jako stejnej
+styl, ta jeho mluva, jak jim tam
+promluvá do duše. Na tohle se podívejte,
+nezapomeňte. Jakože tu kvalitu opravdu
+teď jedna je věc to říct
+v podcastu a druhá věc to dělat
+doopravdy a on to doopravdy dělá.
+Takže jako opravdu nemaže met
+kolem huby, prostě jde přímo, jak si říká,
+na komoru a bylo to velmi zajímavé
+ho slyšet a vidět ho zase
+jako z první řady přímo v fakci.
+Skvělý, skvělý. Musím říct, že
+to QA vlastně vždycky
+mě jako oživí a pomáhá
+mi uvědomit si, jak důležitá
+část toho procesu to je. A jak
+sám říkal, měly by bejt
+de facto úplně u všeho.
+Od začátku do konce mít k sobě
+někoho, kdo bude neustále ti okopávat
+kutníky v dobrým slova smyslu,
+tím jestli to, co děláme dává smysl
+a jestli jsme pochytali všechny
+kejzy, no rozhodně super.
+Já myslím, že teda kvalitě se
+budeme věnovat i za dva dny, protože
+budeme mít v našem živáku, to bylo
+super dultální kvalitě, kamaráde, ty jedeš
+hrozný bomby. Za dva dny
+na našem podvodce jsem
+live, určitě na kvalitu
+dojde, protože tam budeme mít
+za prvé kvalitní hosty. Já jsem
+chtěl říct, ne v našem podání. Ne, ne, to rozhodně ne,
+to jako to víte, že to stojí za prd. Ale
+zbytek, kvalitní hosty, kvalitní
+prostory, kvalitní catering,
+kvalitní organizace, kvalitní všechno.
+Přesně tak. Takže nezapomeňte, máte
+poslední dva dny se registrovat, ještě teď
+jak na to koukám a to točíme
+nějakou dobu předtím, tak nám
+furt naskakujou nový a nový registrace,
+takže opravdu zkuste
+to se ještě zaregistrovat,
+doražte, budeme se na vás moc těšit,
+samozřejmě společně s naším
+silným partnerem v zádech
+Českou Spořicí. Přesně tak.
+Která nám pomáhá, která nám to tam
+bude i koorganizovat, máme i dvě velmi
+šikovný holčiny k ruce, který tam
+budou pobíhat i s mikrofonem, takže i vy,
+pokud se chcete vyjádřit
+a zeptat se na něco
+těch hostů, kteří tam budou na nějakou specifickou
+věc, budete mít tu možnost poprvé
+v životě, budete moct ovlivnit
+ten podcast, my vás nahrajeme
+a pak to někdy možná, řekl bych,
+na konci třináctý série, jako
+takovej bonus, bychom to mohli vydat.
+Dokonce z toho bude i video,
+se kterým nevím, co budem dělat.
+Já bych to opravdu neradával
+někdy. Do trezoru. Ano, to bude trezorovka,
+ale každopádně nezapomeňte za dva dny
+od osmnácti hodin
+Bystro B na Budějovické.
+Budeme tam, bude to super,
+bude to live a bude to za darmo.
+Jo, co víc. Těšíme se na to,
+my tam budeme přátelé a
+bude to velký. Jo, tak jo.
+Tak se mějte krásně, uvidíme se
+pozítří, no a my se
+s vámi s ostatními, kteří
+snad nedejbože byste nedorazili,
+tak se samozřejmě uslíšíme za čtrnáct dní
+u dalšího dílu vašeho nejoblíbenějšího
+IT podcastu.
+Podvoca sem. Mějte se krásně, čau.
+Čau.

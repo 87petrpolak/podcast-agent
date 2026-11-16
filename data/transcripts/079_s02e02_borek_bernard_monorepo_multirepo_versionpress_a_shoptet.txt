@@ -1,0 +1,1210 @@
+Pod vocasem, pod vocasem, pod vocasem, pod vocasem, pod vocasem.
+Krásný den, milí posluchači, vítejte u dalšího dílu IT podcastu Pod vocasem.
+I v druhém díle druhé série naproti mě sedí, uspívá se a je natěšen Petr Polipolák.
+Ahoj Románku, a samozřejmě naproti mě sedí Roman Žukr, provazník.
+Taky se usmívám, čau.
+Je to tak.
+Čau, čau, čau. Tak co, jak ses měl od včerejška?
+Od včerejška, hele, měl jsem se dobře, měli jsme takovou teambuildingovou akci,
+jako z těch teambuildingových akcí se v těchto dobách nedá dělat tolik,
+ale my jsme měli hokej venku na otevřeném prostranství, takže to se dalo a bylo to super.
+Dokonce přišel i CEO.
+Dokonce nejvyšší si zahrál.
+Michal Širica, že bylo to fakt jako super, měli jsme tento kráv občerstvení,
+no chyběl s nám akorát Románku, ty jako golman.
+Já jsem nebyl, já jsem se rozhodl odejít na vrcholu, to je taková modní věc.
+A tím, že když jsem byl naposledy, tak jsem vychytal všechny nájezdy,
+měl jsem pár úžasných zákroků ala Martin Brodor v devadesátém pátém,
+tak jsem říkal, hele, tak to už nemůžu překonat.
+To už se nedá překonat, to je pravda.
+Ale jako znáš to taková ta obhajuba, dokázat to, že to dokážeš znova.
+Zamyslej se nad tím, ještě mám dva mačele.
+Dobře, budu nad tím přemejšlet.
+No, mimochodem, sleduju zajímavou věc, zajímavou kauzu,
+nevím, kolik jsi toho slyšel o firmě Terranos a Elizabeth Holmesový,
+ale neznáš.
+Tak prosím tě, hrozně rychle.
+To je startupistka, která vyšplhala úplně na vrchol
+s poměrně geniálním a jednoduchým nápadem,
+že místo toho, aby ti píchali do těla jehly a tahali ti velký množství krve,
+aby mohly udělat odběry, tak spouhý kapky krve,
+oni ti udělají odběr až na dvěstě nějakých různých nemocí,
+mělo to všechno zařídit se v rámci jedný hezky vypadající mašinky,
+který říkali Edison a mělo to být celkově velmi levný,
+protože v Americe samozřejmě přístup těm testům pro všechny není úplně jednoduchý,
+takže ty jsi měl přijít tak v restauraci, zaškrtat si meníčko,
+na co chceš vyšetřit a z jedný kapky krve to mělo být hotové.
+No, přišlo se na to, že to je celý jeden velkej fake,
+protože to jednak nefunguje, což už se jí snažilo na Stanfordu,
+se jí to snažila vysvětlit její šéfová té katedry,
+že to je krásný nápad, že se jí to líbí, ale že to nefunguje fyzikálně,
+protože potřebuje na takový chemický procesy potřetí krve víc,
+takže to nejde, ale ona řekla nezájem.
+No, klasický startupový příběh, ale řekl bych z té temný strany,
+spoustu investorů natahaných, valuace 9 miliard dolarů,
+nejmladší miliardářka na světě podle Forbesu,
+všechno tak, jak to tak bývá na těch dobrých cestách,
+no a pak se zjistili, že to je celý fejk, že když přišli na kontrolu,
+tak zjistili, že se to všechno dělá na tradičních strojích typu Siemens,
+že vzali krev a běželi na ty velký stroje tam to udělat
+a pak to strčili zpátky do té malinkatý mašinky,
+která nefungovala, totální potěmky Nova Vecnice.
+No tak táhleta ženská nakonec úplně spadla, řekl bych, na dno.
+Teďka jí porota řekla, že je vina ve čtyřech bodech té obžaloby.
+Oni celkově vyčíslili ten podvod na investorech na 145 milionů dolarů.
+Takže holka teďka čeká, aktuálně v tuhle dobu, kdy to točíme,
+tak čeká na to, kolik jí napařejí, protože v Americe to je oddělené,
+neřivtě odsoudějí a pak ti řeknou, kolik za to dostaneš.
+Takže to se ještě neví.
+Pokud posluchači, a to doporučuji i tobě, pokud vás to zaujalo,
+je o tom nádherný dokument, který je na HBO,
+jmenuje se Vynálezkyně z kapky krve.
+Myslím si, že to je podle nějaký knížky, která kolem toho vyšla.
+A očekávám, že ještě knížky nový vzniknou kolem tohohle,
+protože teď je zase kolem toho velkej hype,
+protože jinak ten příběh je relativně starý.
+A tam je právě vidět, jak ona tím charizmatem,
+zase smutnou startupu, máš charizma a ona měla obrovský charizma,
+ona byla hezky vypadající, zároveň měla takový temnej hlas,
+milovala jobse, že nosila roláky a to.
+Všechno to vytunila, tu prezentaci toho,
+že ona je vizionářka, která změní svět odběrů testů,
+což v Americe, jak jsem říkal, prostě rezonuje stále,
+to je healthcare.
+A úplně jí všichni zobaly z ruky.
+Takže doporučuji, doporučuji, fakt dobrý.
+Masakra, měli už, byli náboře?
+Chtěl bych být vlastníkem akcí.
+Ne, ne, ne, myslím si, že ekipu nedošlo.
+Ale i tak je to zajímavý příběh, který je vlastně částečně z IT,
+částečně z biznisu, částečně z medicíny.
+Takže říkám, doporučuji, na HBO je o tom krásný dokument.
+No, ale my tady dneska nebudeme probírat healthcare,
+i když doufám, že někdy se i k tomuhle dostaneme,
+ale zabrousíme zase do temných, bažinatých
+od webu, javascript, runtimeu,
+ale máme v plánu si probrat i monorepo, multirepo,
+git, verzování, branching, spoustu těch, jak já říkám, dobrot.
+S kým pak?
+Borek Bernard, člověče.
+Když už takhle řeknu, a posluchač ví, a posluchač ví,
+posluchač není blbej, tak ví, o koho se jedná,
+je to velká osoba, je to člověk strašně aktivní,
+s našláplým, ale k tomu se dostaneme, našláplým Twitter accountem,
+informací, takže myslím si, že dneska to bude zase obzvlášť dobrý.
+Tak paráda, přátelé, Borek Bernard.
+Ve studiu už máme našeho dnešního hosta, Borka Bernarda.
+Ahoj, Borku.
+Ahoj.
+Ahoj, Borku.
+Ahoj.
+Vy jsme si tě sem pozvali, protože ty jsi persona,
+řekl bych, v developerské komunitě velmi dobře známá.
+Já miluji tvůj Twitter, k tomu se ještě dostaneme,
+ale pokud, Poli, třeba nesleduješ Borka na Twitteru,
+tak doporučuji, to je zdroj spousty informací,
+ale říkám, k tomu se ještě dostaneme, každopádně.
+Rovnou můžeš říct název svýho profilu.
+Jo, alebo jo.
+Borek B.
+Borek B.
+Borek B, to je ten Twitter handle, se tomu říká.
+Twitter handle, OK.
+Twitter handle.
+Takže Borek B.
+No dobře, tak když už jsme to nakopli z téhle strany,
+tak Borku, prosím tě, kde bereš všechny ty informace,
+jak je to možný, že tam toho máš vždycky tolik?
+Ty musíš mít nějaký tajný zdroj.
+Ten zdroj je Twitter z velké části.
+Asi na tom trávím příliš mnoho času,
+asi víc, než bych měl, takže to je celý.
+Takže nezdravé návyky na Twitteru pomáhají nám ostatním,
+co nemáme tolik followerů a ani nesledujeme tolik.
+No, jako normální lidi mají nějaké koničky, já mám Twitter.
+To je hezký koniček.
+Ne, ale tam jsou třeba fakt zajímavé věci.
+Jednou je to novej framework, podruhě je to nějaká knihovna.
+Já musím říct, že jeden z projektů, který jsem teďka udělal,
+tak jsou založený na tom, že mi o tom řekl díky retweetu
+nebo o tom, že to okomentoval Borek.
+Říkám, tak to je dobrý, na to bych si mohl napsat F-sharpovej wrapr
+a už jsem to přes víkem předělal.
+Takže opravdu mě ovlivňuje ta jeho znalost technologická den o deně.
+No prosím tě, kdo tě nezná, což si myslím, že za stolik posluchačů nebude,
+řekni nám něco o sobě, na čem teďka pracuješ, co děláš
+a pak se dostaneme i k těm starším věcem,
+protože víme i o nějakých tvých dřívějších startupech a tak dále.
+No, já jsem asi primárně vývojář, mám spíš tíhnu k frontendu,
+ale ne pouze, jako baví mě vlastně celá ta škála, to je na tom super.
+Poslední dobou dělám pro ShopTed asi tři roky,
+kde se vlastně snažíme vzít původní PHP frontend
+a předělat ho do moderní doby reaktový pomocí Nextu a GraphQL
+a podobných technologií, takže to mě zaměstnává poslední zhruba tři roky
+a velmi mě to baví.
+Jak jsem říkal, že si ještě pamatuju, protože my jsme se viděli
+před mnoho, mnoho, mnoho lety v době, kdy docela rezonoval tvůj startup
+nebo věc, projekt, nevím, jak to správně nazvat,
+která jako rezonovala internetem a to byl VersionPress.
+Ještě než teda skočíme k tomu ShopTetu, tak můžeme,
+chcete zastavit, co je nebo byl VersionPress, co to řešilo?
+Říct posluchačům.
+Určitě, no. Já vlastně hrozně rád dělám produkty,
+oproti třeba projektům, které jsou dvouměsíční a skončují.
+Mám jako vždycky velmi touhá vytvořit nějaký produkt vyloženě
+a ten VersionPress je vlastně jeden z těch mnoha pokusů,
+který došel asi nejdál. Pořád se jako v zásadě neuspěl,
+ale to je asi takový maximum, co se mi podařilo.
+A vlastně ta pointa byla verzovat WordPress weby.
+Protože s tím se potýká skoro každej, kdo má web na WordPressu,
+že když se mu tam něco změní a teď není jasný, jestli si to rozbil klient
+nebo jestli se to rozbilo updateem nebo co se vlastně stalo,
+tak tam ve WordPressu chybí jakákoliv možnost jít zpět,
+kromě nějakých záloh. Takže VersionPress byla snaha
+verzovat WordPress weby v GITu a to, jak říkáš, docela slušně zarezeno.
+Neznamená to nutně biznisúspěch, ale minimálně o tom projektu
+ví hodně lidí a i mě překvapuje, když třeba přijede do Evropy
+někdo z Ameriky a já se s ním mám šanci bavit na nějaký konferenci,
+tak docela často se stane, že ten člověk o tom aspoň slyšel,
+takže to je fajn.
+Ale jak to tím pádem? Na jednu stranu to rezonuje, všichni to znají,
+je to dobrý nápad a říkal jsem ti už před těma pěti lety v té hospodě,
+že mi to přijde jako geniální nápad, protože WordPress je věc,
+která pohání web, ať chceme nebo ne, nebo aspoň tu sféru těch blogů
+a různých e-shopů a těchto věcí, protože samozřejmě těch pluginů
+je strašně moc a zároveň říká, že to neuspělo. Tak jak je to možný?
+Vlastně ještě na začátku řeknu, že na tom WordPressu je pro mě fascinující.
+My když jsme to dělali, tak měl nějakých třeba 25-30% trhu
+a myslel jsem si, že druhej největší byl tehdy, drupal asi 2%
+nebo něco takového, byl jako ohromnej tehdy ten WordPress
+a myslel jsem si, že musí akorát upadat, protože to technologicky
+není nic extra, má to řadu problémů a myslel jsem si, že půjde do háje,
+ale naopak dneska je na nějakých, úplně přesně to nesleduju,
+ale je to 40% nebo možná 45%, takže ten WordPress roste
+i při těch ohromných absolutních číslech je čím dál větší
+a vlastně ta druhá největší platforma je pořád někde
+v nízkých jednotkách procent, takže je docela neuvěřitelný,
+jak ten WordPress roste a možná proto vlastně bylo i pro nás,
+aspoň to mělo šanci na nějaký úspech tím, že ty lidi potom,
+jako ten trh je velkej, lidi to opravdu chtějí,
+takže dávalo smysl se do toho pustit, jsme do toho s nějakou malou investicí
+od Creda tady v Praze šli, nicméně jedna věc je mít nápad
+a třeba i chytrý lidi vokolo a druhá věc je jako obchodně uspět
+a k tomu je potřeba hodně věcí, aby se sešlo dobře.
+Tam vlastně versionpress byl open source, musel být open source,
+v tom ekosystému nejde jinak existovat a dneska už jsou příklady
+jako úspěšných firm okolo open source projektů,
+ale taky jsou to spíš výjimky, řekl bych, že ten defaultní stav je,
+že open source maintaineři obecně strádají, když to tak řeknu,
+nebo prostě to není silný biznis až na pár výjimek.
+No a jak z tohohle, protože tohle není věc, kterou řeší jenom WordPress,
+tohle řeší každá komunita, do které aspoň trošku člověk nakoukne,
+ať je to jakákoliv zásadní knihovna, tak je většinou open source
+a většinou ten maintainer buď trpí aktivně, anebo už je v tom stavu,
+že úplně vyhoří a řekne, já toho nebudu dělat, proč bych to vlastně dělal,
+mám tady rodinu, mám nějaký životní čas. Jak teda z toho?
+Protože zároveň open source, a včera jsme se o tom zalešili,
+no minule, z pohledu posluchačů, jsme se o tom bavili,
+open source pohání dneska kde co, celý ten svět,
+i ten celý ten core business svět, a přitom ty maintaineři
+jako dřou vírusnou zít.
+Jako vlastně jedinej úspěšnej model, nebo takový hlavní úspěšnej model,
+který jsem viděl, je, že kolem toho open source vznikne hosting,
+když to hodně zjednoduším. Například ve světě WordPressu
+největší nejúspěšnější firma je Automatik, která provozuje WordPress weby.
+Stejně tak Vercel, dřív Zite, vlastně tak Next.js je zadarmo,
+je to open source framework, dělá na tom pět až deset lidí na full time,
+což je dost drahá sranda, tady určitě víte, co to stojí peněz.
+A to, že si to můžou dovolit, je jenom proto, že Vercel je prostě hosting
+v zásadě platforma běhová, takže na tom se dá vydělávat slušně.
+A byla to i naša idea, my jsme vlastně ten version press potřeboval git
+na tom servru, kde běží WordPress, což není úplně vždycky splněný,
+nebo spíš málo, kdy to je splněný. Takže my jsme měli v zásadě
+tu správnou ideu vybudovat vedle toho hosting, ale to je vlastně
+další problém, který řešíš. Už se nevěnuješ pouze, řekněme,
+PHP programování nebo git programování, ale věnuješ se i tomu
+stavění nějakého hostingu nad Kubernetes a řešíš, proč ti to zrovna
+nefunguje, scháníš další lidi s jinou kvalifikací. Takže ta složitost
+vybudování ty firmy se neuvěřitelně zkomplikuje a tam právě,
+já si myslím, že ty myšlenky byly v zásadě správný, ale chtělo by to
+třeba tak desetkrát tolik lidí investice času a tak dále,
+a my jsme to prostě neměli.
+A vy jste si to fundovali celý sami?
+Nějakou chvíli sami a potom v roce 2015 vlastně do nás investovalo
+Credo plus další čtyři.
+Čtyři angel investoři.
+A ten plugin frčel na jakých technologiích?
+V WordPress je PHP v zásadě čistě plus MySQL, teda tam leží data
+plus PHP, kod okolo dělá všechno ostatní, od frontendu až po třeba
+restový API. No a VersionPress k tomu přidal Git. My jsme nechtěli
+vlastně třeba řešení konfliktů nebo mergeování větví nějak vyrábět sami.
+My jsme chtěli se spolehnout na Git. Takže tam vlastně VersionPress byl
+v zásadě jenom lepidlo mezi pojítko, mezi...
+WordPressem a Gitem.
+Tam vlastně to hlavní, co se dělo, že my jsme překlápěli MySQL tabulky
+do textového formátu, který byl přátelský k dyfování, k mergeování
+a to bylo v podstatě celý. Když to jako zjednoduším frontend byl v Reactu
+už tehdy, což nás vlastně později zdostalo k té práci pro Shopted,
+protože i když neuspěl ten projekt samotný, tak my jsme se jako tým
+velmi dobře naučili s různýma klíčovýma technologiema, které nám
+později vzpomohly. Takže všechno zlý je pro něco dobrý, ale ten samotný
+versionpress, ten by potřeboval fakt takovou hodně víc ještě práce
+a my jsme neměli už prostě čas na to.
+Takže dneska říkáš my, tak kolik to čítá lidí, co to vlastně je za subjekt?
+Versionpress tehdy byl maličkatá firma, jakože možná v nějakým píku,
+kdy na tom dělali i externí kontraktoři, tak to bylo třeba kolem 15 lidí,
+ale to i jádro versionpressu bylo 3 až 5 lidí, jakož vždycky maličkatá firma.
+Ta investice byla jako opravdu sít a není to tak, že dneska, když vidí člověk
+zahraniční sít a jsou to miliony dolarů, tak tehdy ta doba rozhodně nebyla taková
+a rozhodně není v České republice, takže u nás to byly, já nevím,
+třeba 200 tisíce dolarů to byly.
+A vznikla za tu dobu nějaká konkurence versionpressu, nebo to je pořád,
+že řešíte tak specificky unikátní problém, že nikdo jiný do toho nešel?
+Existovaly podobné jako Git pluginy, které na to často šly o hodně jednodušejc,
+například neřešily databazy, řešily pouze ty šablony, což jsou PHP soubory
+a to je triviální problém, ten vlastně tam skoro není co řešit.
+Takže ty nějak uspěly, ale tím, že vlastně moc nepomáhají lidem,
+tak ani nejsou extrasvětaborný, takže mohly zůstat jako free, open source
+a nějak si prospodujou, mají pár stovek hvězdíček na GitHubu,
+ale to je tak celý, jako firma se kolem toho určitě udělat nedá.
+Tady kolem versionpressu, který by to pojal poctivě, plus dodal třeba
+kontejnerizovaný hosting těch WordPress webů, kde na jedno kliknutí máš
+staging prostředí a umí se to merčnout ty data zpátky do produkce.
+To je jako složitý problém, který do dneška vlastně není vyřešený
+nejenom na WordPressu, ale celkem všude, kde existuje nějaká databáze.
+Merge dvou databází je těžký problém, který čeká na vyřešení.
+Pojďme trošku těm technologiím, ty si to trošku nakous.
+Jakým technologiím se teď hlavně věnuješ?
+Poslední roky to je v podstatě všechno kolem JavaScriptu.
+Já říkám JavaScript, ale píšeme to v TypeScriptu od začátku.
+Už vlastně i v WordPress, kdy jsi měl to rozhraní v administraci WordPressu,
+byl vložený jako reaktová apka. To tehdy nebylo úplně běžný.
+Dneska už to naopak začíná být běžný, protože za mě je ta filozofie reaktů
+nebo ten vůbec světonázor, že něco jako React požere z frontendovej světy
+jako správna. Nemyslím si, že by serverový PHP šablony měly renderovat
+uživatelský rozhraní. Je tam daleko přirozenější, když to dělá JavaScript.
+Takže my jsme na tohle to měli vsazíno už velmi dávno, konkrétně na React
+a TypeScript a to se nám přineslo teďka do práce pro Shoptet,
+kde vlastně vyvíjíme novou generaci frontendu.
+A jak jste daleko? Před třema rokama jsi naskočil do Shoptetu
+s tímhle misí, s tímhle cílem. Jak jste na tom?
+Tam od začátku je ta idea, že to je plán na pět až deset let.
+Podobně jako WordPress mění taky tu svou administraci z PHP stránek
+do Reactu.
+A tak jim to už trvá pět let a jsou jim v půlce odhadem.
+Řada věcí tam nefunguje dobře. Tak i Shoptet je vlastně platforma
+založená na PHP plus MySQL databázy. Je to docela analogický.
+A tak je vlastně snaha tady přirodit ty frontendy do něčeho modernějšího,
+což se ale i hostuje. Jinak není to pouze ten frontend, jak se píše
+to uživatelský rozhraní, ale je to otázka, jak se to odhostuje.
+Jestli třeba ty stránky jsou staticky předrendrovaný, je hozený někam na CDN.
+Je to jako ten skoup toho.
+Projekt je širokej, takže my jsme tři roky v tom a řekl bych, že máme další
+pět let určitě před sebou a bude to postupný přechod.
+Hezky jsme do toho skočili. Můžeš ještě trošku vysvětlit, o čem Shoptet je?
+Co vlastně dělá?
+Shoptet je takový český Shopify, když to zjednoduším.
+Je to vlastně SaaS platforma, ale zaměřená hodně tady na středoevropský trh.
+Nejvíc jako Česko, Slovensko, Maďarsko v tuhle chvíli, kdy vlastně
+idea je, že někdo, kdo chce začít, typu maminka na materský, chce začít něco
+prodávat online, nezná technologie, tak přijde na Shoptet, klikne si, vyplní
+jednoduchý formulář a má vlastně funkční e-shop velmi rychle.
+A ten background historicky, jak jsi říkal, technický je PHP, MySQL a teď se teda
+bude modernizovat. Já jsem koukal, vy máte skoro třicet tisíc e-shopů už
+vyrýsovaných. Jak je to s hostingem?
+Máte to všechno u sebe nebo je to nějaký, že můžu si dát i něco on premises?
+Ne, v tuhle chvíli vlastně Shoptet je vyloženě krabicový řešení, nebo cloudový,
+nebo SaaSový, nebo jak to říct. Cloud je takový trošku znostný, je to nějaký datacentrum
+tady někde v Praze, takže není to na nějakým AWSku nebo něco takového, ale idea je
+skutečně, že Shoptet provozuje všechno a má vlastně ty, garantuje uptime, má tam
+operations lidi, kteří na to dohlížejí, takže tam skoro jako není idea, že by si to člověk
+provozoval sám. U těch novějších frontendů, a jako když ten e-shop se hodně
+rozroste, tak často má potřeby se nějak víc customizovat, odlišit od toho standardu,
+a to je vlastně, to už je velmi blízko tomu písečku, co děláme my. I vlastně ten
+nový frontend začínal spíš s tou ambicí podporovat tyhle ty custom frontendy těch
+větších e-shopů a teprve později přejít vlastně k té mase těch 30 tisíc běžných
+e-shopů, když to tak řeknu. Protože je to jako praktičtější přístup, když se nám
+něco nepovede, řekněme, v těch ranných fázích, tak je jakoby lepší spíš se věnovat
+konkrétním jednotlivým shopům, než prostě nasadit něco půlce českýho e-commerce světa.
+A kdyby to nahoru nebylo dobrý, tak prostě to by byl velký risk pro všechny, takže to nechceme.
+A to je to, čemu se věnujete dneska pořád s tou tvojí firmou, že děláte tyhle
+customizovaný věci pro shoptet?
+Ne, my v této chvíli vlastně vyvíjíme spíš tu technologii na straně shoptetu.
+My nejsme firma, co by vyvíjela konkrétní e-shopy, my spíš připravujeme tu technologii
+pomocí, který jdou dělat ty custom shoptety, shopy nad shoptetyádrem a časem se dostaneme
+k tomu, že vlastně i ty reaktový šablony nahradějí ty současné PHP šablony dlouhodobě.
+Řada těch velkých e-shopů si hraje s AI-kem, nějaké důležité doporučení a tak dále,
+musím se zeptat.
+Pracujete s tím v rámci shoptetu tak?
+Nebo je to, mám chápat, shoptet jako spíš, ty jsi říkal, ty maminky na tý mateřský,
+jako menší e-shopy, který se nepotřebují nějak zásadně odlišovat, ale potřebují to hlavně rozjet
+a tím pádem to tam to AI-ko ještě smysl nedává, nebo jak tohle vidíš?
+Já jenom vysvětlím, proč jsem se zasmál, protože AI je interně zkrátka,
+ale znamená to automatické importy.
+Chcíš nastavit správně ten jazyk.
+To jsem nemyslel.
+Jinak je to spíš, jak říkáš.
+Do posud nebyly příliš velké možnosti, jak se odlišit.
+Máš cice na výběr z mnoha šablon a z mnoha doplňků,
+ale já když takhle brouzdám hevrekou, hledám něco, kde to koupím za nejlevnější
+a pak se tam prokliknu, tak velmi dobře poznám, že to je shop na shoptetu.
+Jasný, jasný.
+Jak vůbec pracujete? Vyvíjíte agilně, nebo máte nějaké zadávací dokumenty od shoptetu?
+Jak to funguje?
+No, poslední dobou většinou ty týmy mají tendenci mít, řekněme,
+odhadem pět až deset lidí. Každý by měl mít technologickýho lída
+a měl by mít svých produkták a to je vlastně idea posledních let.
+A ten můj tým, který se věnuje tomu novému frontendu,
+tak tam je to zatím takový, to je trošku bokem od hlavních release,
+takže my tam máme řadu věcí. Máme trošku jinak, než historicky zvykem shoptetu.
+Například jsme na GitHubu jako jeden z mála týmů
+a vlastně i ten release u nás neznamená, že by se něco pouštělo těm 30,
+tisíc e-shopům, ale je to spíš vydání nějaký nový verze,
+řekněme, knihovny kolem GraphQL nebo něco takového.
+Ty jsi mluvil o tom zmodernizování, jak ti jde ruku v ruce ten trend,
+že ten frontend je takový rychlej. Docela často se tady k tomu vracíme,
+docela často o tom mluvíme i mimo Ether, tady v Cienku,
+že ta rychlost, dobře v hardwareu je nějaká, v backendu je větší
+a na frontendu to víš sám, zjítají každou chvilku nový věci.
+Jak se to...
+Jak se to...
+Jak se to ti daří uchopit, aby ta mise, kterou máš teda
+na pět až deset let, aby se neprotáhla na deset až padesát,
+protože vlastně furt mám ten frontend utíkat?
+Jo, to je jako hodně zajímavá otázka.
+Ono se jako často říká, že v tom frontendovém světě,
+nebo konkrétně javascriptovém, že je každej týden nová
+jako knihovna a úplně novej přístup. Já vlastně nevím,
+jestli s tím tak úplně souhlasím, protože my třeba...
+My jsme od začátku na Reactu a vlastně to považuju
+za velmi konzervativní rozhodnutí. Vybrat si dneska React
+je za mě jako... Za to tě nevyhodí.
+Řeknu, jo. A možná to bylo štěstí, kdybychom byli bývali
+vsadili, řekněme, na AngularJS, jo, tak bychom přepisovali,
+ale my jsme zrovna, nevím, možná to byla schoda okolností,
+ale historicky se nám podařilo vsadit na React, který vydržel
+a je pořád lepší a lepší vsadit na TypeScript,
+který spíš než by umřel, tak je prostě sežral ten svět, jo.
+To GraphQL už je trošku kontroverznější, volba tam i já jako
+otevřeně řeknu, že si nejsem jistý, jak to s tím dopadne,
+jsou tam jako dobrý náznaky, ale ještě to podle mě rozhodně
+není ve stavu typu TypeScript, že není o čem uvažovat
+a jasně se na to dá vsadit, to samý React to GraphQL je trošku
+kontroverzní, ale nějak se nám historicky možná klikou,
+možná tím, že sledujeme řadu věcí, tak se nám podařilo vsadit
+na pár klíčových věcí, které se nám za posledních pět let
+tolik nezměnili a čím díl s nima jsme, tím víc jako věřím,
+že tady s náma budou i za pět, deset let.
+A čím to, že React vyhrál de facto?
+Nevím, to můžu si zkusit jako zafilosofovat, ale za mě to je možná
+jako ta jeho ohromná jednoduchost, on se toho nesnaží řešit moc,
+ale to, co se snaží řešit, tak se snaží řešit až jako
+maniakálně, až do takového detailu, že to řada lidí by nad tím
+mávla rukou, ale jim jde opravdu, třeba teďka řešit HTML streaming,
+jako dřív se dělal server-side render, takže se někde v Node.js
+procesu na serveru vyrendruje celý HTML a čeká se na to třeba sekundu
+a až pak se to posílá do browseru. A teďka řešit, jak jako posílat
+toho HTML streamováně, což zase pro někoho, kdo dělá s PHP-kem
+od roku 2000, tak jako si říká, co to sakra jako je,
+prostě tohle bylo vždycky, ale pak tam máš různý zajímavý detaily,
+typu, že chceš prioritizovat rendering něčeho, třeba obsah článků
+na nějakým obsahu je důležitější, než jako vyrendrovat komentáře
+nebo možná i hlavičku. A teďka, jak spojit tyhle ty věci dohromady,
+tak to prostě nejchytřejší lidi na světě, nebo aspoň ty, kterým máme
+jako ohromnou úctu, co jako jsou schopní vymyslet, tak ty řešejí
+tyhle ty problémy a trvá jim to rok, dva, tři, ale my jenom čekáme
+a já vím, že prostě za rok zase přijde něco jako dobrýho do toho reaktu.
+A moc se nezmění způsob, jakým píšem kód, ale ten uživatelský prožitek
+na straně toho konzumenta, to ty aplikace bude lepší jako za rok nebo za dva.
+A ještě, když trošičku naťukneme ten TypeScript, to je věc, kterou taky sledují
+u nás spoustu klubků, začínalo ve Vanilla JavaScriptu a teď bych řekl,
+že možná celý webový oddělení až na výjimky, jako opravdu jednotky lidí maximálně,
+tak skočili všichni na TypeScript a jsou o něm strašně spokojení.
+Já se pamatuju TypeScript, když vyšel, byl kolem toho taky, jako potřebujeme vůbec
+nějaký superset nad JavaScriptem a tak. Teď už to nikdo nespochybňuje.
+Čím to, že je to tak dobrý? Je to tou typovostí, která zase na druhou stranu
+do JavaScriptu úplně nepatří, že jo? Čím to je?
+Taky výborná otázka. Vlastně mě skoro připadá, že dneska, jestli napíšeš soubor
+a dáš .js nebo .ts, tak ten rozdíl je hrozně malý. Třeba pět, sedm let,
+zpátky si to musel celý prohánět nějakým .tsc kompilerem, to už dneska není nutný.
+Jako často se obejdeš bez vlastně .tsc, jo? Ten TypeScript nám konkrétně plní roli
+spíš jako linteru. Něco jako, že nám hlídá, jestli máme středníky nebo nemáme
+na konci řádku, jo? Tak TypeScript nám podobně hlídá, jestli prostě náhodou
+do čísla nepřiřazujeme string nebo něco takového. Ale my nepoužíváme
+tuto .tsc binárku na to, aby nám buildila tu aplikaci nebo nějak transpilovala něco.
+To už dneska sbuild to umí, bubble to umí, svc to umí, next to má vestavený,
+gatsby to má vestavený. Dneska už jako nemusíš moc, není to velký rozhodnutí, jo?
+A dokonce můžeš, já nevím, devět souborů z deseti mít .tsc, ten desátej mít .tsc,
+postupně to migrovat. Jako je to dneska hrozně snadný. Proto už ty týmy nemají
+podle mě moc složitý rozhodování, jestli TypeScript jo nebo ne. Prostě když se jim to líbí,
+tak to mají okamžitě k dispozici.
+Takže to je jedna z těch dalších battle testy věcí, která ze začátku se na ní koukalo,
+potřebujeme, nepotřebujeme a nakonec je to věc, bez který už se na frontendu neobejde.
+Mě to tak více méně.
+Já nevím, já si jako dokážu představit, že bych psal .tsc a měl tam třeba pár
+jako komentářů, jako jakých anotací. To ti taky hodně pomůže a vlastně ti odpadne
+vůbec potřeba to nějak transpilovat, ale my na všech projektech, co máme,
+když jsi ve světě Nextu nebo celkem čehokoliv dalšího, tak tam máš něco jako
+Asubild nebo Bubble nebo řadu dalších věcí, které vznikají a vlastně já bych si jako zvolil
+ten TypeScript, ale dokážu si i představit projekt bez něj úplně klidně.
+Hele a Flow ještě žije?
+Nevím, já jsem to nikdy příliš nesledoval. Ty projekty Facebooku jsou reaktivní,
+spíš taková výjimka, že se jim hodně povedlo dělat to komunitně a otevřeně,
+ale řada dalších Facebook projektů je hodně evidentně pro jich interní výuky,
+výužití v první řadě a až když jim zbyde odpoledne nějaký čas jako poslat nějakou
+aktualizaci na GitHub, tak to udělají. Je to jakové open source licence,
+ale neprobíhá to úplně otevřeně ten vývoj a oni prioritizují interní potřeby.
+Mně vždycky připadalo, že to je případ Flow, je to například případ i Relay,
+pod dlouhou dobu, teď se teda snaží to zvrátit, React Native, docela podobná záležitost.
+Jsou určitý projekty od Facebooku nebo od Meta dneska, které vypadají spíš jako
+zaměřený dovnitř primárně a je spíš málo projektů od Facebooku,
+které vypadají jako ven.
+My když jsme se tě sem původně zvali, když jsme se bavili o tom, že přijdeš,
+tak jedno z nosných témat bylo, opět narážím na ten tvůj Twitter, kde jsi to hodně řešil,
+bylo monorepo versus multirepo, jak vůbec správně verzovat,
+jak vůbec zpravovat nějakou centrální pravdu napříč různých projektů.
+Tak jestli můžeš úplně od začátku naším podporu,
+posluchačům říct, co je to vlastně za problém, monorepo versus multirepo,
+co to vlastně znamená a proč se to vůbec řeší?
+Jo, no mě osobně tohle téma hodně zajímá, protože mě vůbec zajímá,
+jako jak uspořádat práci v týmu, to je možná takový to high level idea,
+co se člověk snaží, když pracuješ v nějakém setupu, kde něco dře,
+tak jak to časem začneš cejtit a vlastně snažíš se pro to hledat řešení.
+Takže to není tak, že bych někde zaslechl monorepo a snažil se to nutně použít,
+ale historicky tak nějak člověk, že má jednu malou věc, tak si udělá jedno GitHub repo,
+řekněme, máš druhou malou věc, uděláš si druhý GitHub repo, pak to musíš napsat
+třeba dokumentaci nějakou, tak uděláš třetí a tak dále, takhle jsme nějak historicky začali
+a pak začneš cejtit ty třenice, že prostě potřebuješ dostat ven nějakou feature,
+která ale sestává se jako z komitu do knihovny, komitu do hlavní aplikace
+a komitu do dokumentace a teďka, abys to byl vůbec schopen vydat,
+tak začneš řešit synchronizaci těchto a třeba přeslek si nějak píše,
+že prosím tě, mrčnějte tamhle to, abych já mohl tohle a vlastně časem zjistíš,
+že to je jako voprus, který bys ideálně mít nechtěl a tak začneš jako koukat,
+co by se s tím dalo dělat a právě monorepo je řešení na tohle.
+A já teda jsem si vědomý toho, že monorepo má i řadu nevýhod,
+nejsme jako žádný čistý, já jsem spíš proto používat monorepa,
+ale jsem si vědomý toho, že tam je celá řada nevýhod,
+takže rozumím, proč ty týmy, i když jsou si vědomí,
+že monorepo existuje, tak ho třeba nechtějí, ale já mám spíš tendenci,
+jako mně připadá, že to má víc výhod než nevýhod.
+Takže monorepo znamená, že mám v rámci jedné firmy
+nebo nějaký entity nebo nějakého týmu projekty naházaný
+de facto v jednom GitHub repozitáři, řekněme.
+To je vlastně dobrá upřesňující otázka, možná jsem to měl jako rovnou rozvízt,
+protože já bych řekl, že výdám několik druhů monorep,
+když to tak řeknu. Třeba v JavaScript světě se za monorepo označí
+celkem ledacos, co má třeba 3-4 malý JavaScript knihovny
+v rámci jednoho repa a už to je monorepo, protože třeba takový
+Sindres Orhus, to je velmi proslulej člověk JavaScript komunitě,
+který má jako stovky, možná tisíce malých balíčků
+a všechno to jsou maličkatý single repa.
+Máš tam v podstatě jenom GitHub repo,
+v tom je index.js a package.json a to je celý.
+On, kdyby sloučil všech svejch, vymyslím si číslo, třeba tisíc projektů
+do jednoho repa, tak to je monorepo.
+Ale je to monorepo specificky tím, že řeší v podstatě
+úzce souvisící věci nebo jsou ve stejný technologii,
+takže to je za mě v fuzovkách jednoduchý monorepo.
+Pak máš jako větší monorepo, kdy už kombinuješ třeba
+JavaScriptovej frontend a, já nevím, PHP backend například
+a to už je jako komplikovanější monorepo.
+A potom máš něco, co bych nazval kompeny monorepo
+a to dělá třeba Facebook nebo Google nebo části Microsoftu,
+že vlastně máš celou firmu nebo organizaci v jednom repu.
+A to už je gigantický.
+A já vlastně mám poměrně zkušenost s těma prvníma dvěma kategoriema,
+ale nikdy jsem nebyl jako v tak ohromný firmě,
+abych jako viděl, co to znamená, když prostě ti tisíce a tisíce lidí
+komituje jako do jednoho repa s tím zkušenostem.
+A nemá to nějaký implikace třeba, co se týče security?
+Přijde ti nováček do firmy, ty mu dáš přístup do toho jednoho repa
+a má vlastně celou knowledge base nebo code base tý kompeny k dispozici.
+Není v tomhle nějaký problém?
+Je to výhoda za mě velká, ale je to samozřejmě i jako vlastně přístup
+k částem podmnoženám toho monorepa je za mě jedna z největších
+objektivních nevýhod.
+Ještě víc se to projeví, když máš externího kontraktora například
+nebo chceš nějakou velkou část nebo malou část toho monorepa
+dát ven jako open source projekt.
+To nemůžeš dát.
+Dát celý to monorepo nebo nemůžeš malýmu kontraktorovi
+nebo nechceš dát přístup ke všemu.
+Takže to je za mě opravdu jedna z těch největších nevýhod.
+Proto i co tak jako vidím v praxi, že teď jsem se nedávno ptal na Twitteru,
+jestli má vůbec někdo zkušenost tady z těch lidí, co mě sleduje
+a co je sledujou, jestli mají zkušenost s tím třetím stupně monorepa,
+že fakt celá firma je v jednom a vlastně nikdo to tady moc nezná.
+Spíš máme v Čechách pár lidí, kteří pracují pro tyhle zahraniční velké firmy,
+ale tam bych i věřil, že ten tooling kolem toho interně bývá ohromný.
+Takže je dost možný, že i interně mají nějak pořešený,
+že třeba nejde vyčekoutovat celý to repo.
+A Microsoft nedávno přešel z nějakého interního systému na Git
+s Windows Codebase i s Office Codebase,
+což mělo velmi zajímavý a dobrý přínos pro Git samotný,
+protože pro ně začalo být moc pomalý vůbec zjistit status toho.
+Když máš Git status, tak u nich to dokáže trvat hodinu nebo něco takového,
+když tam máš prostě miliony souborů.
+Takže je vlastně dobrý, že když tyhle ty větší a větší firmy začínají sázet na Git,
+tak nutně do toho dělají nějaký virtuální file systémy
+a schopnost checkoutnout pouze podnožinu toho monorepa.
+A ten tooling kolem toho je nutný, vlastně se ho nezbavíš.
+Při mnoho samostatných repozitářích jsi musel mít nějaké procesy okolo,
+dát si vědět na Slacku nebo nějaké jako Wikina,
+která ti popisuje, v jakém pořadí to udělat.
+V tom monorepu se ti to sestěhuje jako do jedný codebase,
+což je za mě výhoda, ale neznamená to,
+že ti odpadnou všechny tyhle ty procesní starosti okolo a tooling.
+Když jsi říkal, že jsi se ptal na to největší monorepo na Twitteru,
+je kolem toho nějaká zajímavá literatura, která by se dala dočíst?
+No, literatura, nevím, jestli si představeš knížky nebo tak.
+No, jakoukoliv nějaká studie nebo něco,
+že...
+Očividně je to pořád nový téma, moc lidí to tady o tom pořád neví.
+No, za mě jako pěkně se poslouchají různý přednášky právě třeba
+z nějakých infrastructure týmů, řekněme z Microsoftu,
+který mají na starost pouze to, aby Git status netrval hodinu.
+To je v podstatě celý úkol toho týmu v takhle velkých firmách je,
+aby vůbec šlo s tím Gitem pracovat.
+Konec, proto se o tom bavíme.
+Přesně tak, takže jakoby sledovat jejich přednášky
+a i vysledovat, jaký strategie mergeování fungují v těch větších týmech,
+to je hrozně zajímavé, ale nevím o žádný vyloženě
+jako o jednom ultimátním zdroji, spíš je to zbírání různých střípků
+po Twitteru, po různých tolkách.
+A jsou nějaké zajímavé příklady toho multirepa,
+použitýho v nějaké známé firmě?
+Protože bavíme se tady Google, Microsoft, všichni,
+že použijí monorepa. Je tam nějaký příklad na té druhé straně?
+No, myslím si, že jako...
+Nemám data tvrdý, ale typnul bych si,
+že drtivá většina firm nepoužívá jedno kompeny monorepo.
+Že spíš to je prostě... I já nevím, dělám prototyp,
+tak si na to prostě založím separátní repo.
+Myslím si, že málo která firma má tu disciplínu,
+že úplně veškerý kód jde vždycky do toho jediného repozitáře.
+My taky máme všechny interní projekty tady.
+Ne v jednom repu, ale vždycky si založíš projekt na lokálních devopsa
+a máš de facto git pro sebe nebo pro ty lidi, který ji přiřadíš.
+U nás to děláme de facto stejně.
+Co se ještě vidí, slyší, že firmy to dělají po takových větších celcích.
+Třeba bývá frontendový monorepo, aby aspoň ty věci v něm
+se týkaly JavaScriptu, řekněme.
+A potom backendový tým má zase svý monorepo s jiným toolingem okolo.
+No a ten problém, který, aby jsme to správně uchopili,
+ten problém, který to teda řeší, je, řekněme,
+verzování mezi jednotlivýma závislostma,
+nebo je to věc vyloženě, řekněme, organizační,
+nebo mi to řeší release, nebo co je ten core důvod,
+proč teda já bych měl uvažovat nad tím,
+že spoustu oddělených repozitáří prdnu do jednoho.
+Já mám další výborná otázka.
+Ještě bych řekl, že vlastně to monorepo je spíš takový slovo,
+který to zastřešuje ten problém, ale je v tom to repo, jako repozitář.
+Ale za mě třeba to složitější na tom je, řekněme,
+že máš to jeden git repozitář, ale pořád musí řešit
+ten task management vokolo, nebo issue tracker.
+A jak to budeš dělat, kdyby jsi měl třeba na GitHubu jedno repo,
+ohromný, a měli jedny issues vokolo.
+A teď různý týmy si to chtějí různě labelovat
+a mít jiné periody, různých vývojových periody.
+Tak tam je složitý to uspořádat, aby ses v tom nějak vyznal.
+A nejspíš dojte k tomu, že máš nějaký custom queries na tom GitHubu,
+nebo skripty vokolo.
+Které se ti zase znovu zpětně snaží zaměřit ten tvůj fokus
+pouze na to, co tě zajímá.
+To si myslím, že je největší výzva toho monorepa.
+Ale i když máš vlastně těch mnoho menších repozitářů,
+tak většinou, nebo aspoň co já jsem měl tu zkušenost,
+tak existuje, řekněme, wikistránka, kde máš postup.
+Za prvé vyčekautujte si všechny repa do této složky.
+A musí to být všechno v jedné složce.
+Nemůžeš mít různý projekty různě.
+Aby ti fungovaly třeba nějaké skripty, které jsou napříč těma repozitářema,
+tak na to je třeba nějaký další malý repo, který se jmenuje třeba skript.
+A teď ty wiky máš, že to reposcript musí být sousední k těm složkám,
+těm ostatním.
+A vlastně mně připadá, že se vždycky tohle,
+jenom kdyby si zabalil do jednoho repa, tak máš v podstatě monorepo.
+Stejně se tomu nějakému setupu nevyhneš.
+Takže za mě, když už se tomu nevyhneš, tak je za mě lepší mít to prostě v tom jednom repu,
+kdy není žádná otázka, jaký repo si kam čeká tu.
+Je to prostě jedno repo a to root readme má prostě jednoznačný instrukce.
+Ten skript, který tam někde je, tak se může spolehnout na to,
+že ty složky jsou tam, kde je ten skript potřebuje,
+protože to tak je komitnutý v tom repu.
+Odpadá volnost výkladů, nebo jak to říct.
+To je za mě velká výhoda.
+Takže to, co je, řekněme, esenciální závislost toho projektu,
+aby se vůbec nad ním dalo pracovat a nějak ho vyvíjet,
+tak by asi mělo být pospolu tím pádem.
+Jo. A no, to je tak vlastně další dobrá otázka.
+Protože já hodně nevím.
+Ne, ne, já už mám vyčerpáno.
+Protože třeba my jsme začali s mnoha malejma
+a nejřífe je ta tendence spojit třeba knihovnu,
+která implementuje nějaké funkce a aplikace,
+která to používá jako dohromady, abys mohl mít jeden pull request.
+No, ale třeba tu dokumentaci ještě necháš bokem,
+protože to chceš, aby ti tam mohl poslat pull request někdo
+přes GitHub veřejně, jo.
+Takže už kvůli...
+Neposlouchají dokumentace, to vůbec nevedeme.
+Už kvůli, jak se zkontrolují, to chceš mít takový dělný repo.
+Ale pak tě začíná jako prudit, že jsi vlastně release-nul třeba tu feature-u
+a máš ještě teprve otevřený pull request tou dokumentací.
+A zase musíš ty jako člověk dávat pozor na to,
+aby jsi to jako usynchronizoval.
+Kdyby to bylo monorepo, tak ty víš, že ten merge-nutí toho jednoho pull requestu
+u sobě má jak knihovníko, tak aplikační, tak dokumentaci, tak release-nul.
+Úplně všechno, co vlastně potřebuješ a co ti ten projekt zaručuje,
+že ten stav je konzistentní napříč všim, co potřebuješ.
+Takže nám vlastně to monorepo jako by boptnalo
+a vcucávalo do sebe trošku jako černá díra ty okolní hvězdy, jo.
+Prostě nejdřív to, že je samostatně, ale má to tendenci to prostě nasát do sebe,
+protože když už jednou to monorepo máš, tak dává smysl tam jít těch věcí víc a víc.
+Je nějaký způsob, jak tohle uchopit, aby to ještě škálovalo v tom smyslu,
+že se to dá dělat jako rychle a ve více lidech?
+Nebo je to tak strašně individuální?
+Možná nahrávám zase na obligátní it depends, ale...
+No, já spíš jako...
+Poče bych měl jít, kdybych to chtěl nějakým způsobem uchopit?
+Kdybych tohle chtěl dělat, tak mám jít po týd...
+Mám jako po různých kontext boundaries, nebo mám to různě grupovat.
+Jo, jako by... Nebo jestli mě zajímá, aby to bylo na správných verzích.
+Co je to gro toho, když teda...
+Jako ta otázka je, kde to monorepo jako zarazit a...
+Jo, ano, ano, přesně, přesně. To je, kde udělat ten zářez.
+Protože ty si sám si řek, že pak je to černá díra,
+která vcucává další a další a další,
+že to roste, až vlastně skončíš u toho, že máš všude všechno,
+což zase nemusí škálovat z mnoha jiných důvodů.
+A to je za mě třeba vysvětlení, proč to tak Google a Facebook mají,
+protože prostě oni dospěli do toho stavu, kdy jim dává smysl...
+Vždycky má nějakou souvislost s něčím, jo, až prostě jim dávalo smysl
+mít to všechno v jednom monorepu, než mít třeba pětých.
+Protože stejně by nějakej tým musel se starat o všech těch pět, jo,
+a to už nemáš o moc jiný problémy, bych řekl, jo.
+Stejně už musíš i v těch, třeba Office má svý monorepo
+a Windows má svý jiný repo, jo, takže je to oddělený.
+Ale Office je ohromný projekt, tam máš ty starý nativní aplikace pro Windows,
+máš tam webovou verzi, máš tam možná nějaký Teams věci, vymyšlím si, jo,
+ale i tohleto v vozovkách malý repo v rámci Microsoftu bude ohromný,
+takže i tam musí řešit ty procesy okolo, ten tooling,
+že Git status bude pomalej, no a když už to jako máš vyřešený,
+tenhle ten problém, což je těžký, to jako neříkám, jo,
+tak pak je otázka, proč mít jako ještě nějaký druhý monorepo,
+který má úplně stejnou sadu problémů a věnuješ se mu jako v nějakým druhým čase,
+to nevím. Já myslím si, že právě jakmile jednou rozjedeš cestu monorepa
+a vyřešíš si tyhle ty problémy už na případu třeba vlastnou 20, 30,
+co by jinak byly samostatní repozitáře, tak už je ti celkem jedno,
+jestli jich je 20, nebo 30, nebo 200, nebo 300, jo.
+Možná škálování těch Git operací, možná, jo, ale na tom,
+to stejně tady jako v rámci České republiky nemáme šanci řešit,
+to musíme počkat na to, až to začne pálit Microsoft a dá na to 3C inženýry
+a prostě udělají nějaký změny v jádře Gitu, jo, to prostě není realistický řešit
+tady v České republice.
+A v rámci Shoptetu teda tlačíš monorepo?
+Tam to není úplně na mě, pořád to jako by ten core engineering je,
+to má svůj, jako by managementa lidí vokolo, v monorepu se tam mluví,
+je to jako plán a já bych byl jedině rád, jo, protože už dneska je to synchronizace
+a hledání po různých repozitářích, takže já jakož to fandamonorepa určitě se těším na to,
+až to přijde do Shoptetu, jestli to vůbec přijde, ale řekl bych,
+že ty šance jsou spíš jako nad 50%, že se to stane.
+A teď to teda řešíte, pokud dojde ke změně, která vyžaduje synchronizaci
+vícero týmů přes vícero repozitáří, tak máte to, že máte nějakej, nevím,
+jdete semver, máte někde nějaký knihovny a pak teda dodržujete to správné verzování,
+nebo neřeší třeba vůbec semver část těchto problémů, který se snažíš vyřešit monorepem?
+Je to otázka do Etheru, jo?
+Jo, jo, jo. On zrovna, Shoptet je monolit, a já to myslím v dobrým, jo,
+stejně jako jsem tu černou díru myslel v dobrým, že vlastně to,
+že se zvětšuje ta věc, která je za mě v zásadě dobrá, tak i tak ten monolit ti,
+jako tam tě odpadá hromada problémů, jo, třeba ty mikroservisy,
+já vlastně nevím, co si o tom pořádně myslet, jo, myslím si,
+že to má řadu svejch nevýhod, podobně možná jako monorepo, jo,
+že asi to něco přinese, ale taky tě to dokáže potrápit, takže tím,
+že má v zásadě monolit, takže hodně těch věcí je v tom jednom největším repozitáři,
+jo, spíš tohle by se mělo stát tou jako gravitací, která do sebe nasaje ty okolní menší repa,
+který třeba historicky dávalo smysl začít bokem, ale dneska už by mi spíš dávalo smysl
+je mít jako by součástí. Takže není tam ta situace, že by to bylo hromada knihové
+na 20 různých aplikací, který to konzumuje, je to spíš jako monolitická PHP aplikace
+a za mě to je dobře, protože to zjednoduše řadu věcí.
+Což mimochodem i v té knížce, snad na prvním stránce je napsáno druhá věta,
+jako nezačínejte nikdy s microservices, byť když jsme tady měli Ardu Holaně,
+tak ten říkal, že rovnou začal s microservices, ale Sam Newman říká,
+nejříj si, udějte monolit a když teprve to budete z hlediska performance
+nebo škálování týmů nebo různých technologií potřeba řezat,
+tak hodně štěstí, protože kolikrát je problém ten monolit nařezat,
+tak aby se ty věci nemoc překrývaly.
+Jako otázka, jakou to má výhodu ve výsledku, protože máš víc věcí,
+o kterých se staráte, pokud tě vyloženě nepálí z nějakého důvodu ten monolit,
+jako dokonce v Rubion Rios komunitě je ten etos toho Majesting Monolit,
+tomu myslím, že říkají, že prostě oni se snaží provozovat třeba ten Basecamp
+v podstatě monoliticky, nevěří moc těm microservisám,
+ale je to jenom anekdota samozřejmě z řady dalších firm,
+který preferují to z řady dalších důvodů.
+Možná ještě mě napadlo, ty jsi zmínil důležitou věc,
+kterou je taky potřeba zmínit a to je to releaseování těch věcí.
+A to vlastně vůbec není nějak konfliktu s tím,
+že třeba veškerý zdroj, jaký máš jedno monorepu,
+ale to, kdy co releaseuješ, vůbec jako nesouví si s tím,
+jestli to je jedno repo nebo mnoho.
+My taky na tom frontendu, když už jako my tam jedeme to monorepo,
+ale co se kdy release, nevyloženě naše rozhodnutí,
+je to nějaký skript, který žije někde v tom monorepu,
+ale deployne to, co je potřeba v zásadě podle volby.
+Takže není to tak, že monorepo nutně znamená,
+že ti to nějak diktuje, jak máš releaseovat to.
+Ne, to zůstává to pořád jako flexibilní.
+A když už si teda nakousnul i to releaseování,
+jedete tam, třeba používáte feature flagy,
+nebo jakým způsobem...
+Teď vlastně ne, ale bylo by to hrozně fajn.
+To je vlastně jedna z těch důvodů určitý komplexity toho releaseu,
+že tam moc nejsou ty feature flagy,
+proto se používá spíš jako různý git techniky,
+typu držím to někde v nějaký branči bokem
+a pak to přenesu se prvé do té branče, co odpovídá releaseu.
+A za mě vždycky, když se používá git,
+pro git by podle mě,
+neměl být ten nástroj, který ti něco zařizuje.
+Git ukládá zdroják, ale ve chvíli, kdy na něj spolíháš,
+aby ti vůbec fungoval release,
+že musí být nějaká branč někde nebo něco,
+to je za mě smel.
+Mělo by to být nějaký jinak zařizený.
+Prostě i kdyby neexistoval git vůbec na tomhle světě,
+tak by mělo jít nějak rozumě releaseovat software.
+Takže ve chvíli, kdy máš vsazíno na nějaký git workflows,
+aby ti vůbec fungovalo něco, je za mě trošku náznak,
+takže to není v pořádku.
+To jsem se právě chtěl zeptat, protože vím,
+že ty seš jednak, že se tomu věnuješ roky
+a jsi velký znalec gitu.
+Jedete teda git flow, co se týče vývoje,
+nebo naopak jedete prostě všechno do trunku
+nebo do masteru nebo do mainu?
+Jo, já se nejdu, že zase musím zasmát,
+že vlastně s tím gitem dělám hrozně dlouho,
+ale já jsem pořád takový začátečník.
+Hele, o tom mi nemluv.
+Já jsem si myslel, že používám čtyři věci.
+Používám pull, push, commit
+a občas udělám nějaký rebase.
+To je všechno, co já jsem možná kdy použil z gitu.
+Takže to si vůbec nic nedělejí.
+To je to mazet.
+O těch různých branšovacích a mergeovacích strategií
+může mít člověk načteno hrozně moc
+a stejně tě pak nedomyslí všechny důsledky,
+co to má a fakt se v tom cítím pořád jako začátečník.
+Nicméně, za mě je to nejjednodušší workflow.
+Já bych skoro řekl, že lidi mají tendenci se vyhnout
+tomu, co ten GitHub má jako default.
+Že máš prostě master, z toho uděláš feature branch,
+pak v tom iteruješ nějakým pull requestu
+a pak to jako merge než normálním merge commitem.
+Prostě za mě mě tohle nějak neuráží.
+Naopak z mnoha důvodů tohle považuju
+za výhodný workflow.
+A myslím si, že je správně,
+že i teďka v roce 2022 je to ten default na GitHubu.
+Lidi pak začnou řešit jako rebaseování
+a squash mergeování a řadu dalších technik,
+který mají určitě něco jako pro sebe,
+ale i ten úplný základ s těma blbýma merge commitema
+je za mě naprosto přijatelný
+a navíc preferovatelný z řady důvodů.
+Možná nebudu asi zabíhat do detailů.
+Klidně zabíhneme, máme času.
+Ještě hodinu.
+Takže my vlastně v mým týmu preferujeme,
+normálně máme pouze jednu dlouho žijící branč
+a to je master main.
+Děláme feature branče, iterujeme v pull requestu,
+merge neme hotové.
+A není s tím žádný problém?
+Ne.
+Tak to je dobrý.
+My jsme si zkusili různý Gitflow
+a že jsme měli i developer branč
+a hrozně nám to...
+Vlastně jsme zjistili,
+že když máš hodně seniorní tým,
+tak tě to brzdí.
+Ale na druhou stranu,
+když máš mixovaný tým
+a chceš tam víc mít důraz na ty pull requesty
+a na nějaký reviews a komunikace kolem toho,
+tak to není špatný.
+Takže my jsme zjistili,
+že pro každý projekt to děláme trošku jinak
+podle toho, kdo na něm je
+a jak moc potřebujeme
+mezi sebou kooperovat
+nebo jestli jsme tři seniori,
+kteří se tam bušejí hlava nehlava
+a pak se jenom doufají,
+že se to zmerčuje stejně.
+Takže je zajímavý,
+že ty strategie jsou různý
+a možná i v závislosti na různých týmech
+dávají smysl.
+Jak vy to tam máte,
+co se týče seniority v tom twin týmu?
+Vy jste asi všichni střelci, ne?
+No, řekněme,
+jako za časů veržimpresu,
+když to byl maličkatej týmek,
+tak tam vlastně si pohlídáš,
+nebo je to i nutné,
+aby ve startupu by ty lidi byli hodně seniorní.
+Tam to jinak nejde.
+Ve větší firmě už se tohle nedá.
+Je to nepraktický přístup.
+Musíš mít ty lidi namýchaný různě.
+Takže i za mě je to takový
+možná jako můj osobní trošku vývoj,
+že je potřeba nad některýma věcma
+trochu přivřít oči.
+Nelze mít všechno ideálně
+a v zhradu věcí se člověk musí směřit,
+protože to tak je nejlepší možný praktický řešení.
+Já tady mám teda ještě jednu otázku,
+která se trošičku vrací k tomu
+Mono vs. Multirepo, GIT.
+Co jsou, prosím tě, vysvětli,
+co jsou GIT submodules
+a jestli vůbec je to k ničemu...
+To je věc, co se nepoužívá.
+Já jsem si to myslel,
+protože já jsem si myslel,
+že ji nikdy nepoužil.
+A ptal jsem se Kuby říčeře našeho skillera,
+který vždycky ještě něco v GITu,
+tak se ho zeptám.
+A říkám, Kuby, co můžu říkat,
+to nikdo nepoužívá.
+To neřeš, to nech bejt.
+Možná, pokud to zmíníš v kontextu debativu Monorepu,
+tak dřív to byl jakýsi způsob,
+jak se z nějakého synchronizačního repa,
+kde máš pouze ty submoduly,
+tak tam se můžeš odkázat třeba
+na konkrétní verzi nějakých dalších repozitářů.
+Ale za mě tohle řeší Monorepo,
+kde to není nějaký odkaz do jiného repozitáře,
+ale vyloženě ta složka ti tam leží na disku.
+Kromě toho, že jsi velký znalec GITu,
+tak, jak jsme říkali už z toho Twitteru,
+sleduješ ten frontend.
+Co je, co tě z toho frontendu teďka hodně zaujalo
+nebo nějaký novej trend,
+něco opravdu fresh, co se ti líbí?
+Já si myslím, že děje se toho hodně kolem.
+Bavili jsme se mimo Ether,
+že autor Wepeku přišel do jiného,
+do Werslu.
+Teďka vidím od...
+Aleš je roubíčka, kterýho mimochodem tady budeme mít
+taky v druhé sérii jako hosta,
+tak ten zase hodně propaguje
+Deno.js, což by měl být snad nějaký
+novej runtime pro JavaScript.
+Tak co jsou teďka takový ty cool věci?
+Jo, máš pravdu, že děje se toho strašně moc.
+Konkrétně Wersle jako ta firma,
+která stojí za Nextem a za tím hostingem,
+tak vlastně za poslední dva měsíce
+nahajrovala neuvěřitelně mnoho lidí
+z té frontendové komunity.
+Mají tam třeba autora Reactu
+nebo hlavního, ten, co má ty dobrý nápady.
+Pak tam je řada vývojářů,
+ale tohle je vlastně ta hlava za Reactu.
+Ten vizionář.
+Ten vizionář, přesně tak.
+Takže ten je teďka ve Werslu.
+Mají tam autora Svelte,
+Svelte Frameworku.
+Nahajrovali vlastně, jak už jsi říkal,
+autora Wepeku.
+Mají tam autora S2TVC,
+což je takový novej, rychlej transpiler.
+No, spíše jako těžký najít někoho,
+kterého nenahajrovali poslední dobou.
+A to dostali nějakej?
+Nebo přisypáno od nějakých investorů?
+Ano, ty jsou teda neuvěřitelně úspěšný.
+Ty jsou teďka u nějakého kola C nebo D financování
+a to bylo snad 200 milionů dolarů,
+jako ta investice samotná.
+Takže oni už jsou rozhodně unicorn.
+A těm se daří nesmírně.
+Další velká věc, jak jsi zmiňoval,
+Denno,
+to je tak jako hrozně zajímavý
+vlastně alternativa k Node.js.
+Je to od stejného člověka,
+který kdysi udělal Node.js.
+Pak už se teda moc aktivně
+neúčastnil vývoje, tak ten si po pár letech řekl,
+co by mohl udělat jinak.
+A Denno je hodně zajímavý tím, že jde po těch základech
+webu, web fundamentals.
+Node z toho má poměrně hodně
+naimplementovanýho sám
+a je to nějaký Node.js api.
+Denno daleko víc sází na ty dneska už pokročilejší
+věci přímo z té webové platformy.
+A výhodou třeba je,
+že jde daleko rychlej zpustit.
+Node.js proces, i když lokálně si spuštíš
+nějakou utilitku napsanou nad tím,
+tak ti to trvá 100-200 milisekund, než to
+naběhne vůbec ten runtime.
+Tady je všechno takový okamžitý.
+A vlastně tyhle, třeba Cloudflare Workers,
+to je další edge platforma,
+vůbec ten edge computing je další
+hrozně zajímavá věc, že
+už nemáš centrální Node.js server, kde ti běží
+JavaScript, ale je po světě
+150 nějakých edge lokací,
+kde vůbec jde nějaký malinkatý
+kousek JavaScriptu spustit.
+Takže tohle jsou hrozně zajímavý
+trendy, pro ten frontend jsou vysoce
+relevantní a mně by se třeba hodně líbilo,
+kdyby časem i ty šoptetí frontendy
+dokázali využívat tuhletu
+edge platformu, aby se ten
+kód vykonával hodně blízko tomu, kde se ještě
+s tím daným zařízením, aby to neputovalo přes
+půl světa. A to je teda třeba, jak
+na Cloudflare nabízejí ty workers, tak to je
+ono? Ano, tam není to přímo
+deno, to je další vlastně platforma sama
+o sobě, další, co stojí jako za to
+sledovat. Oni ty zase
+třeba hajrujou historicky vývojáře
+z Node.js, tak přetahují určitý lidi
+k sobě, takže děje se toho nesmírně
+moc. Ještě bych změnil možná React Server
+Components, to je další velká
+věc, co přijde do Reactu, že ten
+React byl historicky pouze jako client site.
+Pomocí Nextu se dal,
+ano, dal se spustit ta jeho
+metoda vyrendrování do stringu někde na serveru,
+ale teďka ten React jako takový
+daleko víc sází na to, že
+nějaká část by dávala smysl, aby
+běžela na serveru, takže třeba z React Component přímo
+můžeš fetchnout data z databáze.
+To dřív nebylo možný, protože
+mezi mým browserem a tou databází
+je mnoho neprostupných firewallů,
+ale najednou, když běžíš jako na serveru,
+tak to můžeš udělat a je to bezpečný.
+Takže těch
+jako trendů je skoro až moc,
+bych řekl, a je těžký to usledovat
+a do žádného nejdu moc hluboko, ale
+třeba to Deno už v našem repu aktivně používáme
+pro skriptování. Tam je třeba skvělý, že
+nemusíš udělat napomně instal předtím.
+Prostě máš skript, rovnou ho spustíš
+a ty jeho dependenci se nějak
+živě stáhnou, nakešujou podle toho,
+jak je potřeba. Nemáš package manager,
+nemusíš mít lokální složku non-modules.
+Takže no NPM,
+no yarn, jako...
+Máš jenom skript napsaný,
+máš skript.ts, může to být TypeScript,
+zase Deno je další runtime, který nativně
+podporuje TypeScript,
+takže napíšeš skript.ts,
+dáš Deno run tenhle
+skript s nějakýma flagama, který ti třeba
+povolí přístup k lokálnímu disku,
+povolí přístup k síti, všechno je by default
+jakoby zakázaný, jako v brouseru.
+Je to hodně sandboxovaný prostředí,
+takže na skripty to je vynikající.
+Omlouvám se, že to je taková jako smrš
+všeho možnýho.
+Ne, ne, ne, to naopak, dávej, dávej, já úplně na tebe koukám,
+že mám oči a úplně hltám.
+Děje se toho až moc zajímavého, že člověk má
+samozřejmě tendenci všechno použít, ale zase do toho
+projektu nebo do toho týmu si nechci zatáhnout
+20 různých technologií, kterých kdo ví, jestli tady
+vůbec za rok, za dva budou, takže člověk musí trošku
+opatrně, ale je to nesmírně zároveň.
+Ale umí s tím bojovat, s tím nutkáním.
+Já se s tím pořád ještě pracuju, objeví se
+nová věc a říkám kolegovi, říkám, hej, Landy,
+pojďáme, nasadíme to tam. A říkají, že to v betě,
+ty už říkám.
+Takže to zvládáš, tohle, jo.
+Jako člověk musí připravený tu věc
+agresivně odstranit. Pokud ta věc se neosvědčí,
+tak prostě přijď s tím, jo. A pokud člověk
+má tuhle mentalitu, tak za mě je oká to zkoušet.
+Kde sbíráš tyhle informace?
+Používáš Twitter k tomu taky, nebo
+kde? Jo, jo. Když sleduješ
+ty správné okruhy na Twitteru, tak tam se
+to na tebe valí trochu až moc, jako jo.
+Já bych na Twitteru máš buď to možnost
+si to nechat valit, nebo to vyložit
+mjutnout, nebo zablokovat. Já bych spíš potřebal
+nějakej slajder, jakože něčeho bych potřebal o trošku
+míň, než to jako do mě zrovnavali.
+A něčeho jiného o trošku víc.
+Třeba teďka Remix je hrozně populární
+framework ve setě Reactu a já toho mám plnou
+timelineu až jako. Remix, jo.
+Nepříjemný trošku, no.
+Já se přemýšlím, na co si
+zas udělám nějaký F-sharpý vraper.
+Ne, to je super.
+To je skvělý.
+Ještě než se rozloučíme,
+tak je to jedna věc,
+kterou nesmíme opomenout.
+A to je, my už jsme sem Borka tahali strašně
+dlouho a on ne, že bychom ho tahali,
+a on sem nechtěl. On jednoznačně od začátku
+řekl, ano, kluci, rád přijdu.
+Ale trošku nám do toho vstoupil
+takový kaskadérský kousek
+ala Dalibor Janda žít
+jako kaskadér, kdy kola se točí
+dál a...
+Vstoupila do toho srna. Vstoupila do toho srna.
+Tak prosím tě, můžeš aspoň posluchačům
+malinko říct tu tvoji historku,
+jak dopadla, jak jsi skončil, co se stalo vlastně?
+No, jsem zrostlý. Jsi zrostlý.
+Tak řekni, co se zlomilo.
+Zlomila se nějaká kost pánvy
+a vlastně s eťáckým světem to má
+společný to, že jsem byl na konferenci
+J-Open Space, která byla vynikající,
+byla v Telči, moc jsem si to užil.
+Zpátky jsem se nechal kousek popovíst
+autem, abych to jako, nejsem takový magor,
+abych chodil do někde.
+A teda musím
+říct, že to je elektrokolo.
+A ty jsi měl nový kolo, to jsem věděl s výtruhu, ne?
+To bylo nějaký relativně nový,
+ale takový ve vůni pěkný kolo.
+A to byla první fotka.
+A já jsem viděl, že Borek jede na
+J-Open Space. A pak druhá byla
+úplně rozsekaný kolo.
+Rozsekaný notebook, snad
+prostě, nevím, helma
+na půl. Jo, no, byl to výborný nápad
+na kole.
+Snadťa jsem vás veškerým vybavením, ale jako dopadlo to
+vlastně celkem dobře. To jsi musel mastit.
+No, já už jsem se hodně
+těšil domů, to je pravda.
+Velmi jsem si naplánoval čas.
+Kolem sedmi už se začalo jako smrákat, tak jsem
+spěchal celkem. Už teda jsem i musel šetřit
+baterku, takže tohle byl můj pohon, ale
+zrovna to bylo v místě, kde se jede pěkně z kopečka,
+takže asi nějakých lehce
+přes 30 km v hodině, ale stačilo to.
+Srnka vyběhla z boku a
+jenom mám zpomalený záběr, jak
+ona kouká na mě pomalu, já
+koukám na ní a pak už jenom taková
+tupá rána, oba letíme a ona se
+nějak sebrala po nějaký chvíli a odběhla.
+Rozhodila tě nebo se na ní napálel?
+Přímo, přímej zásah.
+Z boku to dostala.
+Ale utekla, takže nebyl guláš. No, zbírala se,
+ale někam odběhla.
+Ty jsi dopadl hůř.
+Já jsem pak zkoušel, jestli to kolo vůbec je
+provozu schopný a bylo
+a moc mě to nemyslelo v tu chvíli,
+tak jsem přemýšlel, jak volám manželce a nějak
+řešíme dávání kola dout a to se mi fakt
+nechtělo řešit v tu chvíli, tak jsem to radši dojel
+a pak jsem zjistil druhý den,
+že to nedopadlo úplně dobře
+pro mě.
+Tak jsme rádi, že vypadáš srostlej
+v pořádku, že to nakonec dobře dopadlo.
+No a samozřejmě obligátní otázka
+na závěr, co tě čeká,
+jaký máš teďka výzvy před sebou,
+co se biznesu týče?
+No, nás čeká vlastně
+přerodit frontendy
+shoptetů na novou technologii, což je
+jako dlouhodobý úkol a velmi mě to baví
+ta práce na tom. Je i řada
+v tom ekosystemu e-commerce, nebo i dalších
+řada nových technologií, které by tohle měly
+usnadnit, takže je to krásný
+pomezí toho hrát si, zkoumat,
+dělat něco užitečného
+a vlastně ve výsledku by ty
+e-shopy český měly být
+rychlejší, lépe použitelný,
+kustomizovatelnější.
+Super, super. Tak budeme ti
+přát, aby se ti to podařilo
+a budu sledovat
+tvůj Twitter a musím si tě najít.
+Hele, rozhodně to udělej, stojí to za to.
+Tak jo, měj se moc hezky,
+moc díky, že jsi dorazil a zase nikdy.
+Děkuji, měj se krásně. Ahoj. Čau.
+Tak to byl Borek Bernard,
+další skvělej host,
+plnej informací. Já jsem viděl, že když
+si ho pozvem, že to množství
+těch frontendových zajímavostí,
+který ze sebe vysype, bude velký, ale i tak
+to bylo
+nad očekávání skvělý. No, já se
+nerad opakuju, ale opravdu mně přišlo,
+že kdybychom se ho zeptali na, já nevím,
+biochemii, tak nám něco řekne.
+No ale... Přišlo mi to fakt zajímavý v tomhle
+směru, jak je otevřený všem možným tématům.
+Ale zároveň, jako kolik o tom víš.
+Jo, jo, jo. To je zajímavý.
+Mezičase jsem si ho už
+přidal na Twitteru a
+pár tweetů jsem si přečet a je to
+fakt zajímavý, takže budu určitě sledovat.
+Teďka, kámo, už je z tebe odborník na frontend.
+No, takhle jednoduchý to je.
+Takhle vznikají odborníci,
+jak se to snad nefunguje jinak, ne?
+Tak si to hned nechám udělat
+na vizitku. Přesně tak.
+Tak jo, tak my frčíme dál.
+Milí posluchači, my moc děkujeme
+za to, že jste nás i nadále poslouchali,
+že nám zachováváte přízeň a nezapomeňte,
+že máme webovky www.podvocasem.cz,
+kde stále můžete zanechávat
+audiovzkazy, které si tady pak
+společně s Polim pustíme, my se tomu vysmějeme
+a bude to určitě strašně zábavný.
+Těšíme se na to. Těšíme se na to, mějte se
+krásně, díky a
+zase za 14 dní. Ať se daří, mějte se krásně.
+Čau.
