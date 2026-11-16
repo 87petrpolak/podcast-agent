@@ -121,11 +121,17 @@ def ask_claude(question: str, context: str) -> str:
         return "❌ ANTHROPIC_API_KEY není nastaven."
 
     client = anthropic.Anthropic(api_key=api_key)
-    system = """Jsi AI asistent specializovaný na český IT podcast PodVocasem.
+    # Načti system prompt ze souboru, fallback na inline
+    system_prompt_path = Path("gpt/system_prompt.md")
+    if system_prompt_path.exists():
+        system = system_prompt_path.read_text(encoding="utf-8")
+    else:
+        system = """Jsi AI asistent specializovaný na český IT podcast PodVocasem.
 Moderují ho Petr "Poli" Polák a Roman "Džoukr" Provazník.
-Máš k dispozici transkripce epizod. Odpovídej v češtině, stručně a konkrétně.
+Máš k dispozici transkripce epizod a data o poslechovosti.
+Odpovídej v češtině, stručně a konkrétně.
 Pokud se ptají na konkrétní informace (knihy, nástroje, firmy), vypiš je jako seznam s uvedením epizody.
-Pokud informaci v transkriptech nemáš, řekni to upřímně."""
+Pokud informaci nemáš, řekni to upřímně."""
 
     message = client.messages.create(
         model="claude-haiku-4-5",
